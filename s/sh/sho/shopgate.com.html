@@ -1,708 +1,491 @@
-<!--The following is the downloaded HTML source of the shopgate.com privacy policy that was archived on 2013-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203004158id_/http%3A//www.shopgate.com/us/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopgate.com privacy policy that was archived on 2014-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140819161250id_/http%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xml:lang="en" lang="en"><head>
-	<title>Shopgate | Privacy Policy</title>
-	<meta name="page-topic" content="mCommerce, Shopping, iPhone">
-	<meta name="keywords" content="Mobile Commerce, mCommerce, Shopgate, iPhone Shopping, shopping mobile, mobile payment, Einkaufen Handy, Handy-Shopping, Shopping unterwegs">
-	<meta name="description" content="">
-	<meta name="revisit-after" content="14 days">
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<!-- the default values -->
+	<meta property="fb:app_id" content="194116038387">
+	<meta property="fb:admins" content="673983975">
 
-			<meta name="robots" content="noindex, nofollow">
-		
-		
-	<meta name="author" content="Shopgate GmbH, Schloßstraße 10, 35510 Butzbach">
-	<meta name="copyright" content="(c) by Shopgate GmbH, Schloßstraße 10, 35510 Butzbach">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">	<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/elements.min.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/www-form.min.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/www-table.min.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/tabmenu.min.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/cms/main.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/cms/icons.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/cms/fancybox/jquery.fancybox.min.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.shopgate.com/cdn/deliver/58d7543ae4952d2943742457ff1178dc8a77275a/css/cms/shopgate_cms_carousel_2.css">
-		<!--[if lte IE 8]>
-	
-	<link rel="stylesheet" type="text/css" href="/css/cms/lte_ie8.css" />
-	<![ENDIF]-->
-	<!--[if IE]>
-	
-	<link rel="stylesheet" type="text/css" href="/css/cms/ie_all.css" />
-	<![ENDIF]-->
-	
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/prototype.js"></script>
-	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
-	<script type="text/javascript" src="/js/civem.js"></script>
-	<script type="text/javascript" src="/js/cms/jquery.fancybox.min.js"></script>
-	<script type="text/javascript" src="/js/cms/jquery.fancybox-media.min.js"></script>
-	<script type="text/javascript" src="/js/cms/jquery.carouFredSel-5.5.5.min.js"></script>
-	<script type="text/javascript" src="/js/cms/jquery.shopgate_cms_carousel-2.0.js"></script>
-	<script type="text/javascript" src="/js/cms/cms_scripts_2013.js"></script>
-	<script type="text/javascript" src="/js/cms/jquery.shopgate-merchant-registration.js"></script>
-	
-	<link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
-	<script type="text/javascript">
-	jQuery.noConflict();
-
-    jQuery(document).ready(function(){
-	
-		var prefilled = jQuery.cookie("shopgateregfilled");
-		if(prefilled) {
-			jQuery('.fancymerchantregistration').each(function(){
-					var contractType = jQuery(this).attr('contracttype');
-	
-					// ersetze den Aktionscode, wenn im Cookie bereits einer vorhanden ist:
-					if(prefilled == 'null') {
-						var shopgateCode = (jQuery(this).attr('shopgatecode') == null) ? '' : jQuery(this).attr('shopgatecode');
-					} else {
-						var shopgateCode = prefilled;
-					}
-					var baseUrl = 'http://www.shopgate.com/US/merchant/shop_register_new';
-					var marketId = 'US';
-					jQuery(this).attr('href', baseUrl + '/' + contractType + '/' + shopgateCode);
-			});
-		} else {
-			jQuery('.fancymerchantregistration').each(function(index){
-				jQuery(this).click(function() {
-					jQuery('#contractType').val(jQuery(this).attr('contractType'));
-					jQuery('#shopgateCode').val(jQuery(this).attr('shopgateCode'));
-				});
-	
-				jQuery(this).fancybox({
-					scrolling: 'false',
-					autoSize : 'true',
-				});
-			});
-		}
-
-		jQuery('.sg-callback-popup').shopgateCallbackPopup();
-		
-    });
-
-	
-	var webroot = window.webroot = '/',
-		lang = {},
-		currentUrl = "/us/privacy_policy",
-		activeTopMenu = "",
-		dictionary = {
-			CALLBACK_POPUP_BUTTON_TEXT: "Submit request"		},
-		carouselPageOptions = [];
-		
-	</script>
-	<script type="text/javascript">
-		jQuery(document).ready(function() {
-			jQuery("#downloadform a").fancybox({
-				'type': 'iframe',
-				"width": 520,
-				"padding": 0,
-				"closeBtn": false,
-				"scrolling": "no",
-				"autoCenter":true
-			});
-		});
-	</script>
-		
-	<script type="text/javascript" src="/js/common.min.js"></script>
-	
-			<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-24107071-1']);
-		_gaq.push (['_gat._anonymizeIp']);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-		</script>
-	
-			<script type="text/javascript" src="//s3-eu-west-1.amazonaws.com/userlike-cdn-widgets/88fa0b408ed2052f2637b0e45d94289740a5276c36cd5db43211f35d5817692a.js"></script>
+	<!-- if page is content page -->
+		<meta property="og:site_name" content="Shopgate">
+	<meta property="og:description" content="Mobile Commerce">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/shopgate-logo.png">
 	
 
-</head>
-<body class="market-us">
-<div id="parent_container" class="cms-layout-container">
-	<div id="header_markets_container" class="no-touch" style="display: none;">
-	<div id="header_markets_content" class="cms-layout-column cms-layout-content clearfix">
-		<div class="market-list">
-					
-			<ul>
-							<li>
-					<a href="/us">
-						<span class="flag"><img src="/img/flags/us.png" alt=""></span>
-						<span class="market">United States</span>
-					</a>
-				</li>
-							<li>
-					<a href="/de">
-						<span class="flag"><img src="/img/flags/de.png" alt=""></span>
-						<span class="market">Deutschland</span>
-					</a>
-				</li>
-							<li>
-					<a href="/pl">
-						<span class="flag"><img src="/img/flags/pl.png" alt=""></span>
-						<span class="market">Polska</span>
-					</a>
-				</li>
-							<li>
-					<a href="/uk">
-						<span class="flag"><img src="/img/flags/uk.png" alt=""></span>
-						<span class="market">United Kingdom</span>
-					</a>
-				</li>
-							<li>
-					<a href="/at">
-						<span class="flag"><img src="/img/flags/at.png" alt=""></span>
-						<span class="market">Österreich</span>
-					</a>
-				</li>
-							<li>
-					<a href="/ch">
-						<span class="flag"><img src="/img/flags/ch.png" alt=""></span>
-						<span class="market">Schweiz</span>
-					</a>
-				</li>
-							<li>
-					<a href="/fr">
-						<span class="flag"><img src="/img/flags/fr.png" alt=""></span>
-						<span class="market">France</span>
-					</a>
-				</li>
-						</ul>
-		</div>
-		<div class="market-map">
-			<img src="/img/layout/www2/header_map.png" alt="">		</div>
-		<a class="close" href="">close <span class="sg-icon sg-icon-close-white"></span></a>
-	</div>
-</div>
-
-
-<div id="header_container" class="cms-layout-container no-touch">
-
-	<div id="header_content" class="cms-layout-content">
-		
-		<h1>
-			<a href="/us">
-				<img src="/img/cms/shopgate_header_logo.png" id="header-logo" alt="Shopgate Mobile Commerce">			</a>
-
-			<span id="select-market">
-				<img src="//shopgatedev-public.s3.amazonaws.com/cms/ar/layout/world.png">
-				United States				<span class="slide-indicator sg-state-default"></span>
-			</span>
-		</h1>
-		
-				<a id="link-login" href="/us/users/login/0/2">
-			<span class="sg-icon sg-icon-login"></span>Merchant Login		</a>
-
-		<a href="/us/signup" id="link-register" class="button button-small button-arrow">Sign up</a>		
-		<div id="header-tel">1-800-490-2467</div>
-	</div>
-</div>
-
-
-<div id="navigation" style="height: 126px; top: 75px;">
-	
-	
-		
-							<!-- TOPMENU -->
-			<div id="top_menu_container" class="cms-layout-container menu">
-				<div id="top_menu_content" class="top-menu cms-layout-content cms-layout-column">
-					<div class="top-menu-wrapper shadow">
-						<ul>
-							<li class="topmenu_logo">
-								<a href="/us"><img src="/img/layout/www2/logo_small@2x.png" alt=""></a>
-							</li>
-																						<li class="top-menu-tab tab-1">
-									<a href="/us/products">
-										<span class="sg-icon sg-icon-topmenu products"></span>
-										Products &amp; Features									</a>
-																	</li>
-									
-															<li class="top-menu-tab tab-2">
-									<a href="/us/references">
-										<span class="sg-icon sg-icon-topmenu references"></span>
-										References									</a>
-																	</li>
-									
-															<li class="top-menu-tab tab-3">
-									<a href="/us/signup">
-										<span class="sg-icon sg-icon-topmenu signup"></span>
-										Pricing									</a>
-																	</li>
-									
-															<li class="top-menu-tab tab-4">
-									<a href="/us/company">
-										<span class="sg-icon sg-icon-topmenu company"></span>
-										About Shopgate									</a>
-																	</li>
-									
-															<li class="top-menu-tab tab-5">
-									<a href="/us/jobs">
-										<span class="sg-icon sg-icon-topmenu jobs"></span>
-										Jobs									</a>
-																	</li>
-									
-															<li class="top-menu-tab tab-6">
-									<a href="/us/contact">
-										<span class="sg-icon sg-icon-topmenu contact"></span>
-										Contact									</a>
-																	</li>
-									
-													</ul>
-					</div>
-				
-				</div>
-				
-			</div>
-			
-		
-						
-			
-			
-				
-		
-</div>	<div id="main_container" class="cms-layout-container" style="">
-		<div id="main_content" class="cms-layout-content">
-			<!-- CONTENT -->	
-			<div id="content" class="content">
-				<div class="content_div">
-										<div class="big-headline pagetitle">
-	<h1>Shopgate Privacy Policy</h1>
-</div>
-
-<div class="cms-layout-column sg-cms-container-group">
-	<div class="sg-cms-container">
-		<div class="content full">
-			<p>
-				(1) Shopgate Inc., based in 2225 E. Bayshore Road, Suite 200, Palo Alto, CA 94303 (subsequently "Shopgate" or "Provider"), uses the personal data of Buyers or Merchants (e.g. title, name, address, e-mail address, phone number, fax number, bank details) according to the regulations of the American data protection law.
-			</p>
-			<p>
-				(2) The personal data of a Buyer or Merchant are used exclusively for the handling of the concluded contracts between the parties, for instance for billing purposes. Sole exception are newsletters or emails, regarding offers of Shopgate or Merchants of Shopgate, which can be unsubscribed at any time.
-			</p>
-			<p>
-				(3) All personal data of Buyers or Merchants that have been transmitted to Shopgate will not be accessible to third parties without a written consent from the Buyer or the Merchant. This may not apply in case of a legal or official investigation.
-			</p>
-			<p>
-				(4) Shopgate uses Cookies on several pages to make the visit on our website or on our applications appealing and to enable the use of certain functions. The Cookies are small text files, which will be stored on your computer. Most of the Cookies that we use will be deleted from your hard drive when the browser session finishes (so-called Session-Cookies). Other Cookies stay on the computer and allow us to recognize your computer the next time you visit us (so-called long-term-Cookies). These Cookies serve to welcome you with your user name. They also save time to the Buyer and the Merchant in case of subsequent orders. The generated Cookies will last a few months. It is not allowed to the Merchants connected to Shopgate to collect, process or use the personal data via Cookies through our website.
-			</p>
-			<p>
-				(5) A free support service is available under the e-mail address service@shopgate.com, if other information is sought after or if the deletion of the the Buyer's or Merchant's data is desired.
-			</p>
-			<p>
-				(6) Data for marketing and improvement purposes shall be collected and saved on this website and on the mobile trading platforms of Shopgate. From this data user profiles with a pseudonym will be created. Cookies may be used for this as well. The collected data shall not be used to identify the visitor of this website personally and shall not be united with personal data through the carrier of the pseudonym without a consent given specifically by the person concerned.
-			</p>
-			<p>
-				<em>Last Update: July 22, 2013</em>
-			</p>
-		</div>
-	</div>
-</div>
-
-                </div>
-			</div>
-			<div class="clear"></div>
-		</div>
-		<div style="display:none">
-			<div id="merchant-registration-inline">
-				<script type="text/javascript">
-jQuery.shopgateMerchantAddressRegistration({
-			selectorInputs : 'txt',
-			validationMsgGeneral : 'Please enter at least 5 characters',
-			validationMsgPhone : 'Please enter a valid phone number (digits only).',
-			validationMsgEmail : 'validation.',
-			validationMsgUrl : 'Please enter a valid internet address (URL)',
-			minimalInputLength : 5,
-			submitButtonId : 'send',
-			validateEmailIDs: new Array('inputEmail'),
-			validateNumberIDs: new Array('inputNumber'),
-			validateUrlIDs: new Array('inputWebsite'),
-			validateOtherIDs: new Array('inputName'),
-			validationClass: 'validationHint',
-			ajaxParams : {
-				formId : 'contact', 
-				buttonId : 'send',
-				url : 'http://www.shopgate.com/merchant/merchant_register_new/US',
-				responseElementId : 'merchant-registration-formular'}
-		});
-	
-</script>
-<style type="text/css">
-	.registration-steps {
-		border-bottom: 1px;
-		border-bottom: solid;
-	}
+	<!-- Google Authorship and Publisher Markup -->
+	<link rel="publisher" href="https://plus.google.com/110782506214120891278/">
 
 	
-	.registration-input-table {
-		width: 750px;
-	}
-	
-	.registration-input-table .input-label {
-		font-family: PT Sans,Verdana,sans-serif; 
-		color: #646464; 
-		font-size: 1.2em;
-	}
-	
-	.registration-input-table .txt {
-		color: #676767;
-		font-family: Arial, Tahoma, sans-serif; 
-		margin-bottom: 10px;
-		margin-right: 15px;
-		border: 1px dotted #ccc; 
-		padding: 5px 9px;
-		font-size: 1.2em;
-		line-height: 1.4em;
-		width: 95%;
-	} 
-	
-	.registration-input-table .txt:focus, .txtarea:focus { 
-		border-style: solid; 
-		border-color: #bababa; 
-		color: #444; 
-	}
-	
-	.registration-input-table .col-label {
-		width: 150px;
-	}
-	
-	.registration-input-table .col-short {
-		width: 400px;
-	}
-	
-	.registration-input-table .error-message {
-		width: 180px;
-		margin-left: 12px;
-		color: red;
-	}
-	.asterisk {
-		color: red;
-	}
+	<!-- Twitter Card data-->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@shopgate_com">
+	<meta name="twitter:title" content="Privacy Policy">
+	<meta name="twitter:description" content="Privacy Policy 1) Shopgate Inc., based in 2225 E. Bayshore Road, Suite 200, Palo Alto, CA 94303 (subsequently “Shopgate” or “Provider”), uses the personal data of Buyers or Merchants (e.g. title, name, address, e-mail address, phone number, fax number, bank details) according to the regulations of the American data protection law. (2) The personal data... Read more">
+	<meta name="twitter:creator" content="@110782506214120891278">
+	<meta name="twitter:image:src" content="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/shopgate-logo.png ">
+
+
+
+
+	<link rel="dns-prefetch" href="http://fonts.googleapis.com">
+	<link rel="dns-prefetch" href="http://netdna.bootstrapcdn.com">
+
+	<link href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/style.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/font/css/shopgate.css" rel="stylesheet">
+	<!--[if IE 7]><link rel="stylesheet" href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/font/css/shopgate-ie7.css"><![endif]-->
+	<link href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/css/shopgate.css" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,300,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+
+	<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+	<link rel="alternate" type="application/rss+xml" title="Shopgate RSS Feed" href="https://www.shopgate.com/en/feed/">
+	<link rel="pingback" href="https://www.shopgate.com/xmlrpc.php">
+
 	
 	
-</style>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.25 - http://yoast.com/wordpress/seo/ -->
+<title>Shopgate, privacy policy</title>
 
-<div id="merchant-registration-formular" style="display: hidden">
-	<div class="registration-steps">
-		
-<style type="text/css">
-	h1 {margin: 10px 0}
+<link rel="stylesheet" href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.6" type="text/css" media="all">
+<meta name="description" content="Privacy policy for Shopgate.">
+<link rel="canonical" href="https://www.shopgate.com/en/privacy-policy/">
+<!-- / Yoast WordPress SEO plugin. -->
 
-	.step-container {
-	}
-
-	.step-container table {
-		width: 100%
-	}
-				
-	.step-container td {
-		width: 33%;
-	}
-		
-	.step-container .text {
-		padding: 9px 0;
-		font-size: 16px;
-		color: silver;
-		display: inline-block;
-		vertical-align: top;
-	}
-	
-	.step-container a.text {
-		text-decoration: underline
-	}
-		
-	.step-container .active .text {
-		font-weight: bold;
-		color: #333;
-	}
-		
-	.step-container .step-sprite {
-		height: 40px;
-		width: 40px;
-		display: inline-block;
-		background-image: url(/img/cms/registration_steps.png);
-	}
-		
-	.step-container .step-sprite.one {background-position: 0 -40px}
-	.step-container .step-sprite.two {background-position: -40px -40px}
-	.step-container .step-sprite.three {background-position: -80px -40px}
-	.step-container .active .step-sprite.one {background-position: 0 0}
-	.step-container .active .step-sprite.two {background-position: -40px 0}
-	.step-container .active .step-sprite.three {background-position: -80px 0}
-</style>
-
-<div class="step-container">
-	<table>
-		<tbody><tr>
-			<td>
-				<div class="registration-step">
-					<div class="step-sprite one"></div>
-						<div class="text">select package</div>
-				</div>
-			</td>
-			<td>
-				<div class="registration-step  active">
-					<div class="step-sprite two"></div>
-					<div class="text">contact details</div>
-				</div>
-			</td>
-			<td>
-				<div class="registration-step">
-					<div class="step-sprite three"></div>
-					<div class="text">payment &amp; confirmation</div>
-				</div>
-			</td>
-		</tr>
-	</tbody></table>
-</div>	</div>
-	<br>
-					<h2>Step 2 of 3: Please enter your contact information</h2>
-			<br>
-
-		<form action="#" id="contact" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>		<input name="data[CrmMerchantRegistrationData][email]" type="text" style="display:none;" id="CrmMerchantRegistrationDataEmail">		<input name="data[CrmMerchantRegistrationData][url]" type="text" style="display:none;" id="CrmMerchantRegistrationDataUrl">	<div>
-		<table class="registration-input-table">
-				<tbody><tr>
-					<td class="col-label">
-						<label for="CrmMerchantRegistrationDataName" class="input-label">your name: <span class="asterisk">*</span></label>					</td>
-					<td>
-						<input name="data[CrmMerchantRegistrationData][name]" type="text" class="txt" id="inputName" placeholder="Name">					</td>
-									</tr>
-				<tr>
-					<td class="col-label">
-						<label for="CrmMerchantRegistrationDataPhone" class="input-label">phone number: <span class="asterisk">*</span></label>					</td>
-					<td>
-						<input name="data[CrmMerchantRegistrationData][phone]" type="text" class="txt" id="inputNumber" placeholder="Phone">					</td>
-									</tr>
-				<tr>
-					<td class="col-label">
-						<label for="CrmMerchantRegistrationDataEmail" class="input-label">email address: <span class="asterisk">*</span></label>					</td>
-					<td>
-						<input name="data[CrmMerchantRegistrationData][mail]" type="text" class="txt" id="inputEmail" placeholder="Email">					</td>
-									</tr>
-				<tr>
-					<td class="col-label">
-						<label for="CrmMerchantRegistrationDataWebsite" class="input-label">shop website: <span class="asterisk">*</span></label>					</td>
-					<td>
-						<input name="data[CrmMerchantRegistrationData][website]" type="text" class="txt" id="inputWebsite" placeholder="Shop website">					</td>
-									</tr>
-				<tr>
-					<td>
-					</td><td>
-						<span class="asterisk" style="float: right">* mandatory fields</span>
-					</td>
-					<td>
-				</td></tr>
-				<tr>
-					<td class="col-label">
-					</td><td>
-						<input type="hidden" name="data[CrmMerchantRegistrationData][contractType]" id="contractType" value="">						<input type="hidden" name="data[CrmMerchantRegistrationData][referer]" value="http://www.shopgate.com/us/privacy_policy" id="CrmMerchantRegistrationDataReferer">						<input type="hidden" name="data[CrmMerchantRegistrationData][shopgateCode]" id="shopgateCode" value="">						<input type="hidden" name="data[CrmMerchantRegistrationData][action]" value="shop_register" id="CrmMerchantRegistrationDataAction">						<div class="submit"><input id="send" class="cms-button-big button button-arrow" type="submit" value="Continue to last step"></div>					</td>
-									</tr>
-			</tbody></table>
-		<br>
-	</div>
-	</form></div>
-
-			</div>
-		</div>
-		
-		<!-- FOOTER -->
-		<div id="footer_container" class="cms-layout-container">
-			<div id="footer_content" class="footer cms-layout-content">
-				
-				<ul id="footer_1">
-	<li><h5>OVERVIEW</h5></li>
-	<li><a href="/us/products">Products &amp; Features</a></li>
-	<li><a href="/us/references">References</a></li>
-	<li><a href="/us/pricing">Pricing</a></li>
-	<li><a href="/us/recommendations">Recommendations</a></li>
-	<li><a href="http://www.shopgate.com/us/blog">Blog</a></li>
-	<li><a href="/us/contact">Contact</a></li>
-</ul>
-
-<ul id="footer_2">
-	<li><h5>SHOPGATE</h5></li>
-	<li><a href="/us/company">About</a></li>
-	<li><a href="/us/jobs">Jobs</a></li>
-	<li><a href="/us/partner">Partner</a></li>
-	<li><a href="/us/press">Press</a></li>
-	<li><a href="/us/privacy_policy">Privacy Policy</a></li>
-	<li><a href="/us/terms">Terms</a></li> 
-	<li><a href="/us/support">Support</a></li>
-</ul>
-
-<ul id="footer_3">
-	<li><h5>SOCIAL MEDIA</h5></li>
-	<li><a href="http://www.facebook.com/shopgate" target="_blank"><span class="sg-icon sg-icon-yellow-footer sg-icon-yellow-facebook"></span>Facebook</a></li>
-	<li><a href="https://twitter.com/shopgate_com" target="_blank"><span class="sg-icon sg-icon-yellow-footer sg-icon-yellow-twitter"></span>Twitter</a></li>
-	<li><a href="http://www.linkedin.com/company/shopgate-gmbh" target="_blank"><span class="sg-icon sg-icon-yellow-footer sg-icon-yellow-linkedin"></span>LinkedIn</a></li>
-	<li><a href="http://www.gplus.to/shopgateinc" target="_blank"><span class="sg-icon sg-icon-yellow-footer sg-icon-yellow-googleplus"></span>Google+</a></li>
-	<li><a href="http://www.youtube.com/shopgate" target="_blank"><span class="sg-icon sg-icon-yellow-footer sg-icon-yellow-youtube"></span>YouTube</a></li>
-</ul>
-
-<ul id="footer_4">
-	<li><h5>CONTACT US</h5></li>
-	<li><strong>1-800-490-2467</strong></li>
-	<li>Mon - Fri 7 am - 6 pm PST</li>
-	<li class="mail"><a href="mailto:support-us@shopgate.com">support-us@shopgate.com</a></li>
-</ul>
-
-<div class="copyright">
-	© 2013. All rights reserved Shopgate Inc.
-</div>
-
-<style>
-	#form_callback_menu_content div.field_lastname,
-	.callback-content-form div.field_lastname {
-		display: none;
-	}
-</style>
-
-<!-- Copyright (c) 2000-2013 etracker GmbH. All rights reserved. -->
-<!-- This material may not be reproduced, displayed, modified or distributed -->
-<!-- without the express prior written permission of the copyright holder. -->
-
-<!-- BEGIN etracker Tracklet 3.0 -->
-<script type="text/javascript">document.write(String.fromCharCode(60)+'script type="text/javascript" src="http'+("https:"==document.location.protocol?"s":"")+'://code.etracker.com/t.js?et=Il38sb">'+String.fromCharCode(60)+'/script>');</script><script type="text/javascript" src="https://code.etracker.com/t.js?et=Il38sb"></script>
-
-<!-- etracker PARAMETER 3.0 -->
+<link rel="stylesheet" id="sg-slider-style-css" href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/sgfeeslider/css/sg-slider.css?ver=3.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.css?ver=1.5.6" type="text/css" media="screen">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/sgfeeslider/js/sg-slider.js?ver=0.2"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=3.1.6"></script>
 <script type="text/javascript">
-/* Beginn des konfigurierbaren Parameterbereichs.
-Um folgende Parameter zu verwenden, entfernen Sie bitte die führenden zwei Schrägstriche (//) und ergänzen den Parameter um den gewünschten Wert. */
-//var et_pagename     = "";
-//var et_areas        = "";
-//var et_url          = "";
-//var et_target       = "";
-//var et_ilevel       = 0;
-//var et_tval         = "";
-//var et_cust         = 0;
-//var et_tonr         = "";
-//var et_tsale        = 0;
-//var et_basket       = "";
-//var et_lpage        = "";
-//var et_trig         = "";
-//var et_sub          = "";
-//var et_se           = "";
-//var et_tag          = "";
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":"https:\/\/www.shopgate.com\/en\/privacy-policy\/","en":"https:\/\/www.shopgate.com\/en\/privacy-policy\/","US":"https:\/\/www.shopgate.com\/en\/privacy-policy\/","de_DE":"https:\/\/www.shopgate.com\/de\/datenschutz\/","de":"https:\/\/www.shopgate.com\/de\/datenschutz\/","DE":"https:\/\/www.shopgate.com\/de\/datenschutz\/","fr_FR":"https:\/\/www.shopgate.com\/fr\/protection-des-donnees\/","fr":"https:\/\/www.shopgate.com\/fr\/protection-des-donnees\/","FR":"https:\/\/www.shopgate.com\/fr\/protection-des-donnees\/","pl_PL":"https:\/\/www.shopgate.com\/pl\/polityka-prywatnosci\/","pl":"https:\/\/www.shopgate.com\/pl\/polityka-prywatnosci\/","PL":"https:\/\/www.shopgate.com\/pl\/polityka-prywatnosci\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.shopgate.com","path":"\/","expiration":24}};
+/* ]]> */
 </script>
-<!-- etracker PARAMETER END -->
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/sitepress-multilingual-cms/res/js/browser-redirect.js?ver=3.1.6"></script>
+<link rel="shortlink" href="https://www.shopgate.com/?p=3518">
+<meta name="generator" content="WPML ver:3.1.6 stt:1,4,3,42;0">
+<link rel="alternate" hreflang="en-US" href="https://www.shopgate.com/en/privacy-policy/">
+<link rel="alternate" hreflang="de-DE" href="https://www.shopgate.com/de/datenschutz/">
+<link rel="alternate" hreflang="fr-FR" href="https://www.shopgate.com/fr/protection-des-donnees/">
+<link rel="alternate" hreflang="pl-PL" href="https://www.shopgate.com/pl/polityka-prywatnosci/">
 
-<script type="text/javascript">_etc();</script>
-<noscript><p><a href="http://www.etracker.com"><img style="border:0px;" alt="" src="https://www.etracker.com/nscnt.php?et=Il38sb" /></a></p></noscript>
-<!-- etracker CODE NOSCRIPT 3.0 -->
-<noscript>
-<p><a href='http://www.etracker.de/app?et=Il38sb'>
-<img style='border:0px;' alt='' src='https://www.etracker.de/cnt.php?
-et=Il38sb&amp;v=3.0&amp;java=n&amp;et_easy=0
-&amp;et_pagename=
-&amp;et_areas=&amp;et_ilevel=0&amp;et_target=,0,0,0
-&amp;et_lpage=0&amp;et_trig=0&amp;et_se=0&amp;et_cust=0
-&amp;et_basket=&amp;et_url=&amp;et_tag=&amp;et_sub=
-&amp;et_organisation=&amp;et_demographic=' /></a></p>
-</noscript>
-<!-- etracker CODE NOSCRIPT END-->
+<style type="text/css">#lang_sel a, #lang_sel a.lang_sel_sel{color:#444444;}#lang_sel a:hover, #lang_sel a.lang_sel_sel:hover{color:#000000;}#lang_sel a.lang_sel_sel, #lang_sel a.lang_sel_sel:visited{background-color:#ffffff;}#lang_sel a.lang_sel_sel:hover{background-color:#eeeeee;}#lang_sel li ul a, #lang_sel li ul a:visited{color:#444444;}#lang_sel li ul a:hover{color:#000000;}#lang_sel li ul a, #lang_sel li ul a:link, #lang_sel li ul a:visited{background-color:#ffffff;}#lang_sel li ul a:hover{background-color:#eeeeee;}#lang_sel a, #lang_sel a:visited{border-color:#EEEEEE;} #lang_sel ul ul{border-top:1px solid #EEEEEE;}</style>
 
-<!-- etracker CODE END -->
-									<!-- Copyright (c) 2000-2013 etracker GmbH. All rights reserved. -->
-<!-- This material may not be reproduced, displayed, modified or distributed -->
-<!-- without the express prior written permission of the copyright holder. -->
-
-<!-- BEGIN etracker Tracklet 3.0 -->
-<script type="text/javascript">document.write(String.fromCharCode(60)+'script type="text/javascript" src="http'+("https:"==document.location.protocol?"s":"")+'://code.etracker.com/t.js?et=Il38sb">'+String.fromCharCode(60)+'/script>');</script><script type="text/javascript" src="https://code.etracker.com/t.js?et=Il38sb"></script>
-
-<!-- etracker PARAMETER 3.0 -->
-<script type="text/javascript">
-/* Beginn des konfigurierbaren Parameterbereichs.
-Um folgende Parameter zu verwenden, entfernen Sie bitte die führenden zwei Schrägstriche (//) und ergänzen den Parameter um den gewünschten Wert. */
-//var et_pagename     = "";
-//var et_areas        = "";
-//var et_url          = "";
-//var et_target       = "";
-//var et_ilevel       = 0;
-//var et_tval         = "";
-//var et_cust         = 0;
-//var et_tonr         = "";
-//var et_tsale        = 0;
-//var et_basket       = "";
-//var et_lpage        = "";
-//var et_trig         = "";
-//var et_sub          = "";
-//var et_se           = "";
-//var et_tag          = "";
-</script>
-<!-- etracker PARAMETER END -->
-
-<script type="text/javascript">_etc();</script>
-<noscript><p><a href="http://www.etracker.com"><img style="border:0px;" alt="" src="https://www.etracker.com/nscnt.php?et=Il38sb" /></a></p></noscript>
-<!-- etracker CODE NOSCRIPT 3.0 -->
-<noscript>
-<p><a href='http://www.etracker.de/app?et=Il38sb'>
-<img style='border:0px;' alt='' src='https://www.etracker.de/cnt.php?
-et=Il38sb&amp;v=3.0&amp;java=n&amp;et_easy=0
-&amp;et_pagename=
-&amp;et_areas=&amp;et_ilevel=0&amp;et_target=,0,0,0
-&amp;et_lpage=0&amp;et_trig=0&amp;et_se=0&amp;et_cust=0
-&amp;et_basket=&amp;et_url=&amp;et_tag=&amp;et_sub=
-&amp;et_organisation=&amp;et_demographic=' /></a></p>
-</noscript>
-<!-- etracker CODE NOSCRIPT END-->
-
-<!-- etracker CODE END -->												<div class="edge"></div>
-
-			</div>
-		</div>
-	</div>
-</div>
-
-	<style>
-		#userlike .chatWindow.showLogo h1.logoUserlike {
-			width: 166px !important;
-			height: 20px !important;
-			background: url(//shopgate-public.s3.amazonaws.com/cms/layout/logo-userlike.png) !important;
-		}
-		#userlike .showLogo #userlikeChatView h2 {
-			visibility: hidden;
-		}
-
-		#userlike #userlikePointer.bottomRight {
-			left: 49.5% !important;
-		}
-		#userlike .chatWindow {
-			margin-left: 135px !important;
-		}
-
-		#userlike .chatWindow #userlikeOfflineMessage h2,
-		#userlike .chatWindow #userlikeOfflineMessage p {
-			margin-left: 12px !important;
-			margin-right: 12px !important;
-		}
-
-		#userlike .chatWindow #userlikeOfflineMessage p {
-			max-height: 60px !important;
-			padding-top: 5px;
-		}
-
-		#userlike * {
-			font-size: 14px !important;
-			font-family: 'Open Sans', Verdana, sans-serif !important;
-		}
-
-		a#userlikeTab,
-		a#userlikeTab.bottomRight {
-			background: url(https://shopgate-public.s3.amazonaws.com/cms/us/common/callback_popup.png) no-repeat !important;
-			width: 312px !important;
-			height: 38px !important;
-			right: 5% !important;
-			left: auto !important;
-		}
+<style type="text/css">											
+</style>
+	<!-- Easy FancyBox 1.5.6 using FancyBox 1.3.6 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var fb_timeout = null;
+	var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+	var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nofancybox), area[href*=".jpg"]:not(.nofancybox), a[href*=".jpeg"]:not(.nofancybox), area[href*=".jpeg"]:not(.nofancybox), a[href*=".png"]:not(.nofancybox), area[href*=".png"]:not(.nofancybox)';
+	jQuery(fb_IMG_select).addClass('fancybox');
+	var fb_IMG_sections = jQuery('div.gallery');
+	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+	jQuery('a.fancybox, area.fancybox, li.fancybox a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );
+	/* YouTube */
+	jQuery('a[href*="youtube.com/watch"]:not(.nofancybox), area[href*="youtube.com/watch"]:not(.nofancybox)').addClass('fancybox-youtube');
+	jQuery('a[href*="youtu.be/"]:not(.nofancybox), area[href*="youtu.be/"]:not(.nofancybox)').addClass('fancybox-youtube');
+	jQuery('a.fancybox-youtube, area.fancybox-youtube, li.fancybox-youtube a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 640, 'height' : 360, 'padding' : 0, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('youtu.be', 'i'), 'www.youtube.com/embed').replace(new RegExp('watch\\?(.*)v=([a-z0-9\_\-]+)(&|\\?)?(.*)', 'i'), 'embed/$2?$1$4') } }) );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+	}
+	/* ]]> */
+	</script>
+	<style type="text/css">
+.fancybox-hidden{display:none}.rtl #fancybox-left{left:auto;right:0px}.rtl #fancybox-right{left:0px;right:auto}.rtl #fancybox-right-ico{background-position:-40px -30px}.rtl #fancybox-left-ico{background-position:-40px -60px}.rtl .fancybox-title-over{text-align:right}.rtl #fancybox-left-ico,.rtl #fancybox-right-ico{right:-9999px}.rtl #fancybox-right:hover span{right:auto;left:20px}.rtl #fancybox-left:hover span{right:20px}#fancybox-img{max-width:none;max-height:none}
+#fancybox-outer{background-color:#fff}
+#fancybox-content{border-color:#fff}
+#fancybox-content{color:inherit}
 	</style>
+	<!--[if lt IE 8]>            
+		<style type="text/css">
+.fancybox-ie6 #fancybox-close{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_close.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-left-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_nav_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-right-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_nav_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-over{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_title_over.png",sizingMethod="scale");zoom:1}
+.fancybox-ie6 #fancybox-title-float-left{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_title_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-main{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_title_main.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-right{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_title_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-bg-w,.fancybox-ie6 #fancybox-bg-e,.fancybox-ie6 #fancybox-left,.fancybox-ie6 #fancybox-right,#fancybox-hide-sel-frame{height:expression(this.parentNode.clientHeight+"px")}
+#fancybox-loading.fancybox-ie6{position:absolute;margin-top:0;top:expression((-20+(document.documentElement.clientHeight ? document.documentElement.clientHeight/2 : document.body.clientHeight/2)+(ignoreMe=document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+"px")}
+#fancybox-loading.fancybox-ie6 div{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_loading.png", sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-n{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-ne{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-e{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-se{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-s{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")}
+		</style>
+	<![endif]-->
+	<!--[if IE 8]>            
+		<style type="text/css">
+.fancybox-ie #fancybox-bg-n{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-ne{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-e{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-se{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-s{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-sw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-w{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-nw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")'}
+		</style>
+	<![endif]-->
+<script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/ec0d6a24-d99b-4c80-8682-b7665bf4d2ed.js"></script></head>
+<body class="page page-id-3518 page-template-default">
 
+<div class="header-top">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-xs-12">
+				<span><i class="icon-phone-1"></i> +1-800-490-2467</span>
+								<span class="dropdown dropdown-language">
+				<button class="btn btn-default dropdown-toggle" type="button" id="dropdownLanguage" data-toggle="dropdown">English<i class="icon-angle-down"></i></button>				<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownLanguage">
+								<li><a href="https://www.shopgate.com/en/privacy-policy/" title="English">English</a></li>
+								<li><a href="https://www.shopgate.com/de/datenschutz/" title="Deutsch">Deutsch</a></li>
+								<li><a href="https://www.shopgate.com/fr/protection-des-donnees/" title="Français">Français</a></li>
+								<li><a href="https://www.shopgate.com/pl/polityka-prywatnosci/" title="Polski">Polski</a></li>
+								</ul>
+				</span>
+			</div>
+			<div class="col-md-6 col-xs-12 text-right">
+					<a class="sg-signup-embed-link" href="#">Start your free trial</a>
+	
 
+	<div class="sg-signup-blackout !sign-up-box" id="sg-signup">
+		<span class="sg-signup-close">Close <strong>X</strong></span>
+			<div class="sg-signup-form-wrap ">
+				<h2>Create your free account</h2><p class="sg-signup-subline">Simply complete the form to have your free account automatically created</p>					<form class="sg-signup-form" id="sg-signup-form" method="post">
+						<div class="sg-signup-form-inner">
+			
+								<div class="form-group input-url">
+								<input type="text" name="url" placeholder="Enter your website URL" class="form-control " value="">
+			</div>
+					<div class="form-group input-name">
+								<input type="text" name="name" placeholder="Enter your name" class="form-control " value="">
+			</div>
+					<div class="form-group input-email">
+								<input type="text" name="email" placeholder="Enter your email address" class="form-control " value="">
+			</div>
+					<div class="form-group input-phone">
+								<input type="text" name="phone" placeholder="Enter your telephone number" class="form-control " value="">
+			</div>
+					<div class="form-group select-box ">
+								<select class="customselect " name="market_id">
+					<option value="">Where are you based</option>
+					<option value="US">United States</option><option value="DE">Germany</option><option value="PL">Poland</option><option value="UK">United Kingdom</option><option value="AT">Austria</option><option value="CH">Switzerland</option><option value="FR">France</option>				</select>
+			</div>
+							<input type="hidden" name="lang" value="en">
+					<input type="hidden" name="ref" value="">
+					<div style="display:block; visibility:hidden;">Your street:<input name="street" type="text" size="50" maxlength="75"></div>
+					<p class="sg-signup-terms">By submitting this form, you confirm that you have read and agreed to our terms and privacy statement. </p>
+					<div class="sg-signup-form-below">
+						<input class="btn btn-lg btn-primary sg-signup-button sg-signup-form-submit" id="sg-signup-form-submit" type="submit" name="register" value="Start your free trial">
+						<div id="circleG" style="display: none;">
+							<div id="circleG_1" class="circleG">
+							</div>
+							<div id="circleG_2" class="circleG">
+							</div>
+							<div id="circleG_3" class="circleG">
+							</div>
+						</div>
+					</div>
+							</div>
+				</form>
+			</div>
+	</div>
+	
+<!--script src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/assets/js/jquery-1.10.1.min.js"></script>
+<script src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/assets/js/responsiveTabs.js"></script>
+<script src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/assets/js/functions.js"></script-->
+
+<link rel="stylesheet" href="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/wp-shopgate/frontend/signup.css" type="text/css" media="all">
+<script src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/js/customSelect.jquery.js"></script>
 
 <script type="text/javascript">
-	jQuery.sgHelpers.i18n.setDictionary(dictionary);
-</script>
+jQuery(document).ready(function($){
 
-</body></html>
+	function refreshForm(data) {
+		// Refresh the form with the API response
+		$('.sg-signup-form-inner').html(data);
+		$('.sg-signup-form-inner').css("opacity", "1");
+
+		jQuery('.customselect').customSelect();
+
+		$("#circleG").hide();
+		$("#signup-submit").show();
+
+	}
+
+	/* function showPopup() {
+		jQuery('.sg-signup-form input[name=url]').val($(".sg-signup-embed-form #weburl").val());
+		jQuery('.sg-signup-blackout').show();
+		jQuery('body, html').toggleClass('sg-signup-noscroll', true);
+	} */
+
+	function closePopup() {
+		jQuery('.sg-signup-blackout').hide();
+		jQuery('body, html').toggleClass('sg-signup-noscroll', false);
+	}
+
+	$('#sg-signup-form').submit(function(e) {
+		$("#circleG").show();
+		$(".sg-signup-form-submit").hide();
+		$('.sg-signup-form-inner').css("opacity", "0.5");
+		$.post( "https://www.shopgate.com/wp-content/plugins/wp-shopgate/ajax.php", {
+								"register": "register", "url": $(".sg-signup-form input[name=url], .sg-signup-form select[name=url] option:selected").val(), "name": $(".sg-signup-form input[name=name], .sg-signup-form select[name=name] option:selected").val(), "email": $(".sg-signup-form input[name=email], .sg-signup-form select[name=email] option:selected").val(), "phone": $(".sg-signup-form input[name=phone], .sg-signup-form select[name=phone] option:selected").val(), "market_id": $(".sg-signup-form input[name=market_id], .sg-signup-form select[name=market_id] option:selected").val(), "lang": $(".sg-signup-form input[name=lang], .sg-signup-form select[name=lang] option:selected").val(), "ref": $(".sg-signup-form input[name=ref], .sg-signup-form select[name=ref] option:selected").val(), "street": $(".sg-signup-form input[name=street], .sg-signup-form select[name=street] option:selected").val(), 							},
+				function( data ) {
+					refreshForm(data);
+		}, "html");
+
+		e.preventDefault();
+		return false;
+	});
+
+	$(".sg-signup-embed-form").submit(function(e) {
+		jQuery('.sg-signup-form input[name=url]').val($(this).find('input[name=weburl]').val());
+		jQuery('.sg-signup-blackout').show();
+		jQuery('body, html').toggleClass('sg-signup-noscroll', true);
+		//showPopup();
+		e.preventDefault();
+	});
+
+	$(".sg-signup-embed-link, .sg-signup-embed-button").click(function(e) {
+		jQuery('.sg-signup-form input[name=url]').val(null);
+		jQuery('.sg-signup-blackout').show();
+		jQuery('body, html').toggleClass('sg-signup-noscroll', true);
+		//showPopup();
+		e.preventDefault();
+	});
+
+	$(".sg-signup-close").click(function(e) {
+		closePopup();
+		e.preventDefault();
+	});
+
+
+
+
+	jQuery('.customselect').customSelect();
+
+
+});
+</script>
+				<a class="login" href="https://admin.shopgate.com/" title="Login"><i class="icon-lock"></i>Login</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<nav class="navbar" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hero-nav">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="https://www.shopgate.com/en/"><img src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/shopgate-logo.png" alt="Shopgate Logo" width="201" height="52"></a>
+		</div>
+
+		<div class="collapse navbar-collapse" id="hero-nav">
+			<ul class="nav navbar-nav navbar-main navbar-right">
+				<li id="menu-item-10903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10903"><a href="https://www.shopgate.com/en/">Home</a></li>
+<li id="menu-item-10955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10955"><a href="https://www.shopgate.com/en/features/">Features</a></li>
+<li id="menu-item-12980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12980"><a href="https://www.shopgate.com/en/plans/">Pricing</a></li>
+<li id="menu-item-10958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10958"><a href="https://www.shopgate.com/en/showcase/">Showcase</a></li>
+<li id="menu-item-10959" class="blog-top-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-10959"><a href="https://www.shopgate.com/en/resources/">Resources</a></li>
+<li id="menu-item-15671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15671"><a href="https://www.shopgate.com/en/about-us/">About Us</a></li>
+			</ul>
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container -->
+</nav>
+
+
+<div class="page-header page-default">
+	<div class="container">
+									<h2>Privacy Policy</h2>
+<p>The Shopgate privacy policy</p>
+						</div>
+</div>
+
+
+
+
+    
+				<div class="container"><h2>Privacy Policy</h2>
+<p>1) Shopgate Inc., based in 2225 E. Bayshore Road, Suite 200, Palo Alto, CA 94303 (subsequently “Shopgate” or “Provider”), uses the personal data of Buyers or Merchants (e.g. title, name, address, e-mail address, phone number, fax number, bank details) according to the regulations of the American data protection law.</p>
+<p>(2) The personal data of a Buyer or Merchant are used exclusively for the handling of the concluded contracts between the parties, for instance for billing purposes. Sole exception are newsletters or emails, regarding offers of Shopgate or Merchants of Shopgate, which can be unsubscribed at any time.</p>
+<p>(3) All personal data of Buyers or Merchants that have been transmitted to Shopgate will not be accessible to third parties without a written consent from the Buyer or the Merchant. This may not apply in case of a legal or official investigation.</p>
+<p>(4) Shopgate uses Cookies on several pages to make the visit on our website or on our applications appealing and to enable the use of certain functions. The Cookies are small text files, which will be stored on your computer. Most of the Cookies that we use will be deleted from your hard drive when the browser session finishes (so-called Session-Cookies). Other Cookies stay on the computer and allow us to recognize your computer the next time you visit us (so-called long-term-Cookies). These Cookies serve to welcome you with your user name. They also save time to the Buyer and the Merchant in case of subsequent orders. The generated Cookies will last a few months. It is not allowed to the Merchants connected to Shopgate to collect, process or use the personal data via Cookies through our website.</p>
+<p>(5) A free support service is available under the e-mail address service@shopgate.com, if other information is sought after or if the deletion of the the Buyer’s or Merchant’s data is desired.</p>
+<p>(6) Data for marketing and improvement purposes shall be collected and saved on this website and on the mobile trading platforms of Shopgate. From this data user profiles with a pseudonym will be created. Cookies may be used for this as well. The collected data shall not be used to identify the visitor of this website personally and shall not be united with personal data through the carrier of the pseudonym without a consent given specifically by the person concerned.<br>
+When you visit our website some information (commonly known as a “cookie”) may be stored on your computer. Cookies are text files which a website transfers to your hard drive to store and sometimes track information about you. Cookies are specific to the server that created them and cannot be accessed by other servers, which means that they cannot be used to track your movements around the web. Passwords and credit card numbers are not stored in cookies.<br>
+A cookie helps you get the best out of the website and helps us to provide you with a more customised service. We use cookies for the following purposes:</p>
+<p>So that you will not have to re-enter your details each time you visit the website; and to track how our site is used and to improve and update the content of the website.</p>
+<p>You can accept or refuse cookies. Most web browsers automatically accept cookies, but you can usually change your browser’s settings to refuse them if you wish. Certain parts of the website are reliant on the use of cookies to operate correctly and may not work correctly if you set your browser not to accept cookies.</p>
+</div>
+
+	
+			<div class="footer-register">
+		<div class="container">
+			<p>Sign up free <i class="icon-credit-card"></i> No credit card required</p>
+				<button class="btn btn-primary button1 sg-signup-embed-button" title="Start your free trial">Start your free trial</button>
+
+	
+
+		</div>
+	</div>
+	
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="newsletter">
+						<p class="h2">Sign up to our newsletter</p>
+						<p>Sign up to our monthly newsletter for thoughts and musings on the mobile commerce industry.</p>
+
+						<form action="http://shopgate.us3.list-manage.com/subscribe/post?u=5e612c3c033bd5affcf1296d4&amp;id=a1ed31717b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" role="form" target="_blank" novalidate="">
+
+							<div class="input-group">
+								<label class="sr-only" for="mce-EMAIL">E-Mail</label>
+								<input class="form-control required email mce-EMAIL" type="text" placeholder="Your email address" name="EMAIL" id="mce-EMAIL">
+								<span class="input-group-btn"><button name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" type="submit">Sign up</button></span>
+							</div>
+
+							<div id="mce-responses" class="clear">
+								<div class="response" id="mce-error-response" style="display:none"></div>
+								<div class="response" id="mce-success-response" style="display:none"></div>
+							</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5e612c3c033bd5affcf1296d4_a1ed31717b" tabindex="-1" value=""></div>
+						</form>
+					</div>
+				</div>
+				<div class="col-md-8">
+					<ul id="menu-footer" class="nav navbar-nav">
+						<li id="menu-item-15873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15873"><a href="https://www.shopgate.com/en/about-us/">RESOURCES</a>
+<ul class="sub-menu">
+	<li id="menu-item-15285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15285"><a href="https://www.shopgate.com/en/addons/">Addons</a></li>
+	<li id="menu-item-15817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15817"><a href="https://www.shopgate.com/en/become-partner/">Partner</a></li>
+	<li id="menu-item-17043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17043"><a href="http://developer.shopgate.com">Developers</a></li>
+	<li id="menu-item-17044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17044"><a href="http://support.shopgate.com">Support</a></li>
+</ul>
+</li>
+<li id="menu-item-15870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15870"><a href="#">Press</a>
+<ul class="sub-menu">
+	<li id="menu-item-15669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15669"><a href="https://www.shopgate.com/en/press-kit/">Press Kit</a></li>
+	<li id="menu-item-15868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15868"><a href="https://www.shopgate.com/en/press-releases/">Press Releases</a></li>
+	<li id="menu-item-16001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16001"><a href="https://www.shopgate.com/en/publications-reviews/">Publications</a></li>
+	<li id="menu-item-15281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15281"><a href="https://www.shopgate.com/en/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-15670" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-15670"><a href="https://www.shopgate.com/en/contact/">ABOUT US</a>
+<ul class="sub-menu">
+	<li id="menu-item-16011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16011"><a href="https://www.shopgate.com/en/contact/">Contact us</a></li>
+	<li id="menu-item-11186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11186"><a href="https://www.shopgate.com/en/terms-conditions/">Terms &amp; Conditions</a></li>
+	<li id="menu-item-11187" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3518 current_page_item menu-item-11187"><a href="https://www.shopgate.com/en/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-11236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11236"><a target="_blank" href="http://www.shopgate.jobs">Jobs</a></li>
+</ul>
+</li>
+
+						<li>
+							</li><li><a href="#">Contact Sales</a>
+							<ul class="sub-menu">
+								<li><img src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/flags/us.png" alt="de" width="" height=""> +1-800-490-2467</li>
+								<li><img src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/flags/de.png" alt="de" width="" height=""> +49-6033-7470-100</li>
+								<li><img src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/flags/fr.png" alt="de" width="" height=""> +33 9 70 46 74 70</li>
+								<li><img src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/themes/shopgate/data/img/flags/pl.png" alt="de" width="" height=""> +48 (22) 6356205</li>
+							</ul>
+							</li>
+						
+					</ul>
+
+				</div>
+			</div>
+
+			<div class="social-icons">
+				<ul class="list-inline list-center">
+					<li class="twitter"><a class="btn btn-lg" href="https://twitter.com/shopgate_com" title="Twitter" target="_blank"><i class="icon-twitter"></i></a></li>
+					<li class="facebook"><a class="btn btn-lg" href="https://www.facebook.com/shopgate" title="Facebook" target="_blank"><i class="icon-facebook-1"></i></a></li>
+					<li class="you-tube"><a class="btn btn-lg" href="https://www.youtube.com/user/shopgate" title="You Tube" target="_blank"><i class="icon-youtube-play"></i></a></li>
+					<li class="google"><a class="btn btn-lg" href="https://plus.google.com/110782506214120891278" title="Pinterest" target="_blank"><i class="icon-gplus"></i></a></li>
+					<li class="pinterest"><a class="btn btn-lg" href="http://www.pinterest.com/shopgatecom" title="Google +" target="_blank"><i class="icon-pinterest"></i></a></li>
+					<li class="linkedin"><a class="btn btn-lg" href="https://www.linkedin.com/company/shopgate-gmbh" title="LinkedIn" target="_blank"><i class="icon-linkedin"></i></a></li>
+					<li class="xing"><a class="btn btn-lg" href="https://www.xing.com/communities/groups/shopgate-mobile-shopping-6e29-1061432" title="xing" target="_blank"><i class="icon-xing"></i></a></li>
+				</ul>
+			</div>
+
+			<p class="text-center copyright">© 2014 Shopgate</p>
+		</div>
+	</footer>
+	
+	<!-- JavaScript -->
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"https:\/\/www.shopgate.com\/en\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.js?ver=1.5.6"></script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3"></script>
+<script type="text/javascript" src="https://d3abkalrw7pwz3.cloudfront.net/wp-content/plugins/easy-fancybox/jquery.mousewheel.pack.js?ver=3.1.3"></script>
+
+<script type="text/javascript">
+jQuery(document).on('ready post-load', easy_fancybox_handler );
+</script>
+	<script type="text/javascript">
+	var _mfq = _mfq || [];
+	(function()
+	{ var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true; mf.src = "//cdn.mouseflow.com/projects/ec0d6a24-d99b-4c80-8682-b7665bf4d2ed.js"; document.getElementsByTagName("head")[0].appendChild(mf); }
+	)();
+	</script>
+
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1013288508;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1013288508/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-53235477-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using apc
+Database Caching 345/353 queries in 0.039 seconds using apc
+Object Caching 3168/3444 objects using apc
+Content Delivery Network via Amazon Web Services: CloudFront: d3abkalrw7pwz3.cloudfront.net
+
+ Served from: www.shopgate.com @ 2014-08-19 17:12:53 by W3 Total Cache --></body></html>
