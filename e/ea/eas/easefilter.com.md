@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easefilter.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108055932id_/http%3A//www.easefilter.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easefilter.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819152847id_/http%3A//www.easefilter.com/Privacy.htm) for the most accurate reproduction.*
 
 # EASEFILTER - Privacy Policy
 
