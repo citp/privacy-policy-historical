@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alrwaq.net privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519020909id_/http%3A//www.alrwaq.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alrwaq.net privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819201352id_/http%3A//www.alrwaq.net/privacy.php) for the most accurate reproduction.*
 
 # Alrwaq trd. - Privacy Statement
 
