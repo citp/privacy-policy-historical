@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the aecom.com privacy policy that was archived on 2013-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130813102731id_/http%3A//www.aecom.com/Privacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aecom.com privacy policy that was archived on 2014-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140820011213id_/http%3A//www.aecom.com/Privacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- Begin templateAToD.jsp --><head>
 	<!-- 20100729/alediaa: Fix titling issue -->
 	<!-- added channelPageTitle.jsp; pulled out of aecomTheme.jsp and added to individual template pages as page:itemRegion -->
 	<!-- -->
+
 <!-- Begin channelPageTitle.jsp -->
-<title>
-				AECOM - Privacy
+<title>Privacy - AECOM - A global provider of architecture, design, engineering, and construction services
 </title>
 <!-- End channelPageTitle.jsp -->
 
@@ -142,14 +142,21 @@ alert("TEST: "+browser_Lang.split(',',1));
 -->
 <script language="JavaScript">
 	function submitform(locale, urlValue){
-	//alert("urlValue-->"+urlValue);
-	//alert("localeValue-->"+locale);
-	document.language.localeHidden.value=locale;  
-	document.language.action= urlValue ;
-	document.language.submit();
-}
+		//alert("urlValue-->"+urlValue);
+		//alert("localeValue-->"+locale.indexOf("http://"));
+		if(locale.indexOf("http://") == 0) 
+		{
+			document.language.action=locale;
+			window.location = locale;
+		} else {
+			document.language.localeHidden.value=locale;  
+			document.language.action= urlValue ;
+			document.language.submit();
+
+		}
+	}
 </script>
-<li class="search"><form id="language" name="language" method="GET" action="/Privacy+Policy" onsubmit="createCookie()"><select id="languagehoice" name="languagehoice" onchange="javascript:submitform(this.value,'/Privacy+Policy');"><option value="en_US" selected="">English</option><option value="es_ES">Spanish - Español</option><option value="ru_RU">Russian - Русский</option><option value="zh_TW">Chinese (Traditional) - 繁體中文</option><option value="zh_CN">Chinese (Simplified) - 简体中文</option><option value="fr_CA">French - Français</option></select><input type="hidden" name="Go" value="Go"><input type="hidden" name="localeHidden"><input type="hidden" name="localeFlash" id="localeFlash" value="en_US"></form></li>
+<li class="search"><form id="language" name="language" method="GET" action="/Privacy+Policy" onsubmit="createCookie()"><select id="languagehoice" name="languagehoice" onchange="javascript:submitform(this.value,'/Privacy+Policy');"><option value="en_US" selected="">English</option><option value="es_ES">Spanish - Español</option><option value="ru_RU">Russian - Русский</option><option value="zh_TW">Chinese (Traditional) - 繁體中文</option><option value="zh_CN">Chinese (Simplified) - 简体中文</option><option value="http://www.aecom.ca/">Canada - English</option><option value="http://www.aecom.ca/fr/">Canada - Français</option></select><input type="hidden" name="Go" value="Go"><input type="hidden" name="localeHidden"><input type="hidden" name="localeFlash" id="localeFlash" value="en_US"></form></li>
 <!-- end aecomLocaleList.jsp -->
       
       
@@ -174,7 +181,7 @@ alert("TEST: "+browser_Lang.split(',',1));
   <div id="corpId" class="clearfix">
     
     
-    <a href="/"> <img id="img1" src="/internet1/images/AECOM_logo.gif" alt="AECOM Internet" name="intranetLogo" width="143" height="32" border="0"> </a> </div>
+    <a href="http://www.aecom.com/"> <img id="img1" src="/internet1/images/AECOM_logo.gif" alt="AECOM" name="intranetLogo" width="143" height="32" border="0"> </a> </div>
   <!--<div id="sectionName">
   		
 
@@ -226,19 +233,25 @@ alert("TEST: "+browser_Lang.split(',',1));
     <div class="subNav" id="sub1">
       <ul>
         
+        <li> <a href="/About/AECOM+Capital">AECOM Capital</a> </li>
+			
+        <li> <a href="/About/Ethics">Ethics</a> </li>
+			
         <li> <a href="/About/Excellence+and+Awards">Excellence and Awards</a> </li>
 			
         <li> <a href="/About/History">History</a> </li>
 			
-        <li> <a href="/About/Industrial+Solutions">Industrial Solutions</a> </li>
-			
         <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-govManage">Leadership</a> </li>
+			
+        <li> <a href="/About/Industrial+Solutions">Industrial Solutions</a> </li>
 			
         <li> <a href="/About/Our+Brands">Our Brands</a> </li>
 			
         <li> <a href="/About/P3">P3 Advisory</a> </li>
 			
         <li> <a href="/About/Purpose+and+Core+Values">Purpose and Core Values</a> </li>
+			
+        <li> <a href="/About/Safety">Safety</a> </li>
 			
 	  </ul>
     </div>
@@ -318,13 +331,13 @@ alert("TEST: "+browser_Lang.split(',',1));
         
         <li> <a href="/News/Fact+Sheet">Fact Sheet</a> </li>
 			
+        <li> <a href="/News/Feature+Stories">Feature Stories</a> </li>
+			
         <li> <a href="/News/Global-Cities-Institute">Global Cities Institute</a> </li>
 			
         <li> <a href="/News/Innovation">Innovation</a> </li>
 			
-        <li> <a href="/News/Inside+AECOM+News">Inside AECOM News</a> </li>
-			
-        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-news&amp;nyo=0">News Releases</a> </li>
+        <li> <a href="/News/Press+Releases">Press Releases</a> </li>
 			
         <li> <a href="/News/Publications">Publications</a> </li>
 			
@@ -354,9 +367,7 @@ alert("TEST: "+browser_Lang.split(',',1));
 			
         <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-stockquote">Stock Information</a> </li>
 			
-        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-news&amp;nyo=0">News Releases</a> </li>
-			
-        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=proxy">Proxy Materials</a> </li>
+        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-news&amp;nyo=0">Corporate News</a> </li>
 			
         <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-sec">SEC Filings</a> </li>
 			
@@ -368,7 +379,9 @@ alert("TEST: "+browser_Lang.split(',',1));
 			
         <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-faq">FAQs</a> </li>
 			
-        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-inforeq">Information Requests</a> </li>
+        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-inforeq">Information Request</a> </li>
+			
+        <li> <a href="http://investors.aecom.com/phoenix.zhtml?c=131318&amp;p=irol-contact">Contacts</a> </li>
 			
 	  </ul>
     </div>
@@ -436,20 +449,11 @@ document.getElementById('social').innerHTML = displaySocial("<li><a href='http:/
 </script>
 
 <ul class="sidebarUtility floatRight">
-  <li id="emailListItem"><script>document.write('<a id="emailAnchor" href="/www/aecomdsm/templates/templateEmailFriend.jsp?title='+document.title.replace(/ /g,"%20")+'&url='+location.href+'&locale=en_US" onClick = "fancyBox_new(); return false" class="leftNavUtilityForm" title="Email to a Friend"><img src="/internet1/images/icons/icn_email.gif"></a>');</script><a id="emailAnchor" href="/www/aecomdsm/templates/templateEmailFriend.jsp?title=AECOM%20-%20Privacy&amp;url=https://web.archive.org/web/20130813102731id_/http%3A//www.aecom.com/Privacy%2BPolicy&amp;locale=en_US" onclick="fancyBox_new(); return false" class="leftNavUtilityForm" title="Email to a Friend"><img src="/internet1/images/icons/icn_email.gif"></a></li>
+  <li id="emailListItem"><script>document.write('<a id="emailAnchor" href="/www/aecomdsm/templates/templateEmailFriend.jsp?title='+document.title.replace(/ /g,"%20")+'&url='+location.href+'&locale=en_US" onClick = "fancyBox_new(); return false" class="leftNavUtilityForm" title="Email to a Friend"><img src="/internet1/images/icons/icn_email.gif"></a>');</script><a id="emailAnchor" href="/www/aecomdsm/templates/templateEmailFriend.jsp?title=Privacy%20-%20AECOM%20-%20A%20global%20provider%20of%20architecture,%20design,%20engineering,%20and%20construction%20services&amp;url=https://web.archive.org/web/20140820011213id_/http%3A//www.aecom.com/Privacy%2BPolicy&amp;locale=en_US" onclick="fancyBox_new(); return false" class="leftNavUtilityForm" title="Email to a Friend"><img src="/internet1/images/icons/icn_email.gif"></a></li>
   <li id="printListItem"><a onclick="javascript:getPrintFriendly();" title="Print This Page" style="cursor: pointer;"><img src="/internet1/images/icons/icn_print.gif"></a></li>
 </ul>
 <script type="text/javascript">
 	
-	$("a.leftNavUtilityForm").fancybox({
-		'autoDimensions'	: false,
-		'width'         	: 550,
-		'height'		: 500,
-		'scrolling'		: 'no',
-		'titlePosition'	: 'no',
-		'showCloseButton'	: false  
-	});	
-
 	function tb_remove() {
 		$.fancybox.close();
 	}
@@ -503,9 +507,8 @@ document.getElementById('social').innerHTML = displaySocial("<li><a href='http:/
 
 
 
+
   
-
-
 
 
 
@@ -629,6 +632,7 @@ document.getElementById('social').innerHTML = displaySocial("<li><a href='http:/
 
 
 
+
 </div>
 </div>			               
       </div>
@@ -710,6 +714,8 @@ document.getElementById('social').innerHTML = displaySocial("<li><a href='http:/
 
 
 
+
+
 </div>
 </div>          
           <!--  END thumbnail link list ========================== -->
@@ -719,6 +725,12 @@ document.getElementById('social').innerHTML = displaySocial("<li><a href='http:/
   </div>
 </div>
 <!-- siabcontainer -->
+
+
+
+
+
+
 
 
 
@@ -885,20 +897,10 @@ document.write(year);
     	
         
         
-	    <li><a href="http://one.aecom.com/">Subscribe to ONE</a></li>
-        
-        
-	
-    	
-        
-        
 	    <li><a href="http://www.youtube.com/aecomtechnologycorp">Watch us on YouTube</a></li>
         
-        	
-   			 </ul></td>
         
-        
-    		
+    		</ul></td>
         
 	
 
@@ -959,14 +961,14 @@ document.write(year);
         
 			<td><ul class="linkList">
     	
-	    <li><a href="/Privacy+Policy">Privacy</a></li>
+	    <li><a href="/Terms+of+Use">Terms of Use</a></li>
         
         
 	
     	
         
         
-	    <li><a href="/Terms+of+Use">Terms of Use</a></li>
+	    <li><a href="/Privacy+Policy">Privacy</a></li>
         
         
 	
@@ -995,29 +997,17 @@ document.write(year);
     </tbody></table>
   </div>
   
-  <span style="font-size:6pt;color:#fff;line-height:10px;margin:0;padding:0;">usden3-vig-web-2.aecomnet.com</span>
-  
-  <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-  <script type="text/javascript">
-	try {
-		var pageTracker = _gat._getTracker("UA-5026735-4");
-		pageTracker._trackPageview();
-	} catch(err) {}
-  </script>
-  <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-19069601-1']);
-	_gaq.push(['_trackPageview']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-  </script>
-
+  <span style="font-size:6pt;color:#fff;line-height:10px;margin:0;padding:0;">usden3-vig-web-1.aecomnet.com</span>
+  	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		 _gaq.push(['_setAccount', 'UA-5026735-4']);
+		 _gaq.push(['_trackPageview']);
+		 (function() {
+			   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		 })();
+	</script>
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
