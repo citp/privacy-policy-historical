@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogame.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410175210id_/http%3A//www.sogame.com/news/60) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogame.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820232743id_/http%3A//sogame.com/news/60) for the most accurate reproduction.*
 
 # Sogame:A flow of fun
 
