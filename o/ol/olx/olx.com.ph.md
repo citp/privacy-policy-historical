@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olx.com.ph privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423174113id_/http%3A//www.olx.ph/index.php/faq%2Bview/category/11/OLX.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olx.com.ph privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821002507id_/http%3A//www.olx.ph/index.php/faq%2Bview/category/11/OLX.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
 # FAQ - OLX.ph Rules and Policies - Philippines
 
