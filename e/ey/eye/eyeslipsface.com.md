@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120012id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820061400id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.*
 
-# Makeup and Cosmetics | elf Cosmetics | EyesLipsFace.com | Privacy Policy
+# Makeup and Cosmetics | Shop Eyes Lips Face
 
 www.EyesLipsFace.com (the "Site") is brought to you by JA Cosmetics Corp. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.  
    
