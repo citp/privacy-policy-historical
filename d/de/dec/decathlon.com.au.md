@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.com.au privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609012305id_/http%3A//www.decathlon.com.au/content/2_legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.com.au privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820215402id_/http%3A//www.decathlon.com.au/content/2_legal-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Decathlon Australia
 
