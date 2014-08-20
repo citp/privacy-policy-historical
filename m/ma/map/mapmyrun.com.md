@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapmyrun.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005628id_/http%3A//about.mapmyfitness.com/about/user-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmyrun.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821002010id_/http%3A//about.mapmyfitness.com/about/user-privacy-policy) for the most accurate reproduction.*
 
 # User Privacy Policy | MapMyFitness
 
