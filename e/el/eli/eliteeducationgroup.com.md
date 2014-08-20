@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliteeducationgroup.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306045854id_/http%3A//www.eliteeducationgroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliteeducationgroup.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820112724id_/http%3A//eliteeducationgroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Elite Education Group - Privacy Policy
 
