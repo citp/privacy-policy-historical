@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619221603id_/http%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821093914id_/http%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pete's Place Privacy Policy
 
@@ -45,4 +45,4 @@ If pppst ever requests personally identifiable information, we will also place p
 
 **Pppst does not:**  
   
-Collect personally identifiable information. If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified.   If information will be divulged to third parties, users will be notified prior to collecting the information. 
+Collect personally identifiable information. If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified.   If information will be divulged to third parties, users will be notified prior to collecting the information.
