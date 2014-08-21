@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betpractice.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517214630id_/http%3A//www.betpractice.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betpractice.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821164526id_/http%3A//betpractice.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Betpractice's privacy policy
 
