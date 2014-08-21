@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213042257id_/https%3A//rsbuddy.com/orion/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821180729id_/https%3A//rsbuddy.com/osbuddy/docs/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Orion - RSBuddy
+# Privacy Policy - RSBuddy
 
 ## Introduction
 
@@ -10,8 +10,9 @@ This privacy statement sets out our policy with respect to the privacy of visito
 
 This policy applies to the following websites ("the Site"): 
 
-www.automatonsoftware.com   
-www.rsbuddy.com 
+rsbuddy.com   
+osbuddy.com   
+automaton.uk 
 
 This policy does not apply to information obtained other than through the Site.
 
