@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukdissertation.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807080245id_/http%3A//www.ukdissertation.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukdissertation.co.uk privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822001626id_/http%3A//www.ukdissertation.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # UKDissertation.co.uk - Our Privacy Policy
 
@@ -28,7 +28,7 @@ Personal information in particular includes customer’s full name, email addres
 1.2) Billing and Credit Card Information and their Use
 
   
-Billing and credit card information are used to process custom order request and receive payment. We are registered with **2checkout.com** for receiving payments and **2checkout.com** employs Secure Socket Layer (SSL) in order to assure absolute safe and sound payment transaction; hence, your billing and credit card information is 100% secure.
+Billing and credit card information are used to process custom order request and receive payment. We are registered with **SWreg Inc** for receiving payments and **SWreg Inc** employs Secure Socket Layer (SSL) in order to assure absolute safe and sound payment transaction; hence, your billing and credit card information is 100% secure.
 
 2\. Academic Information and its Use
 
