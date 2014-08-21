@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209170833id_/https%3A//www.wedj.com/dj-photo-video.nsf/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821114920id_/https%3A//www.wedj.com/dj-photo-video.nsf/privacy.html) for the most accurate reproduction.*
 
 # WeDJ.com Privacy Policy
 
@@ -70,7 +70,7 @@ Island Estates Plaza
 140 Island Way Suite 257  
 Clearwater, FL 33767  
 email: support@wedj.com  
-phone: 309.740.1808  
+phone: (727) 216-2997  
 
 
-[](http://www.bbb.org/west-florida/business-reviews/web-hosting-companies/wedjcom-in-clearwater-beach-fl-90129972#sealclick "Click for the Business Review of WeDJ.com, Find djs, photographers, and videographers for weddings and more!")
+[](https://web.archive.org/web/20140821114920id_/https%3A//www.wedj.com/dj-photo-video.nsf/http//www.bbb.org/west-florida/business-reviews/web-hosting-companies/wedjcom-in-clearwater-beach-fl-90129972#sealclick "Click for the Business Review of WeDJ.com, Find djs, photographers, and videographers for weddings and more!")
