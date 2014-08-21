@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the wpshoppingpages.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084257id_/http%3A//wpshoppingpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpshoppingpages.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821200553id_/http%3A//wprobot.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « WP Shopping Pages Plugin
+# WP Robot Privacy Policy | WP Robot
 
-## Privacy Policy
-
-## WP Shopping Pages Privacy Policy
-
-WP Shopping Pages takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+WP Robot takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -14,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, WP Shopping Pages uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, WP Robot uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
@@ -24,4 +20,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-If you have concerns or questions about this privacy policy please use this [contact form](http://wpshoppingpages.com/contact/) for further clarification.
+If you have concerns or questions about this privacy policy please use this [contact form](https://web.archive.org/contact) for further clarification.
