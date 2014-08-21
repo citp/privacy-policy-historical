@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.ie privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620090152id_/http%3A//www.harveynorman.ie/corporate-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.ie privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822002418id_/http%3A//www.harveynorman.ie/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies and Privacy PolicyCookies and Privacy Policy | Harvey Norman Ireland
 
