@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regionup.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231620id_/https%3A//www.regionup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionup.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821175231id_/https%3A//www.regionup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Singapore Jobs-Hong Kong Jobs | Find US100K+ Jobs in Asia. RegionUP
 
