@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409104602id_/http%3A//www.westnet.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823011055id_/http%3A//www.westnet.com.au/legal/privacy.html) for the most accurate reproduction.*
 
 # Westnet Legal Stuff - Privacy statement
 
@@ -85,14 +85,14 @@ We may also collect information about visits to our websites for marketing and s
 
 ### How to access & correct your personal information
 
-Your personal information can be accessed via your secure [MyAccount](https://myaccount2.westnet.com.au/) or by [contacting us](https://web.archive.org/web/20140409104602id_/http%3A//contact/).
+Your personal information can be accessed via your secure [MyAccount](https://myaccount2.westnet.com.au/) or by [contacting us](https://web.archive.org/web/20140823011055id_/http%3A//contact/).
 
 We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request opt-out of certain communications and make changes to their personal information directly through their Toolbox or by contacting us at [support@westnet.com.au](mailto:support@westnet.com.au) or by calling 1300 786 068.
 
-Please [contact us](https://web.archive.org/web/20140409104602id_/http%3A//contact/) if you wish to access or correct personal information that we hold about you.
+Please [contact us](https://web.archive.org/web/20140823011055id_/http%3A//contact/) if you wish to access or correct personal information that we hold about you.
 
 ### Contact us about our privacy statement
 
-If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20140409104602id_/http%3A//contact/) by calling support on 1300 786 068 or email [ support@westnet.com.au](mailto:support@westnet.com.au). Any privacy complaints will be handled in accordance with our [complaint process](http://myhelp.westnet.com.au/Complaint_Resolution_Process).
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20140823011055id_/http%3A//contact/) by calling support on 1300 786 068 or email [ support@westnet.com.au](mailto:support@westnet.com.au). Any privacy complaints will be handled in accordance with our [complaint process](http://myhelp.westnet.com.au/Complaint_Resolution_Process).
 
 Date: 11 March 2014
