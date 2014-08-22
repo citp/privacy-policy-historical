@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porndaddy.us privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209022242id_/http%3A//porndaddy.us/Custom1027-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porndaddy.us privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822155845id_/http%3A//porndaddy.us/Custom1027-privacy-policy.html) for the most accurate reproduction.*
 
 # Daddy Porn | Fucking teen girls free young porn site
 
