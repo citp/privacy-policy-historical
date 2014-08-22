@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331065557id_/https%3A//www.md.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822033235id_/https%3A//www.md.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: MD.com
 
-This Privacy Statement describes how MD.com collects information from you, when you visit our website or use our mobile applications, respond to emails, sign up for notifications, or visit any page that displays our content or advertisements. 
+This Privacy Policy describes how MD.com collects information from you, when you visit our website or use our mobile applications, respond to emails, sign up for notifications, or visit any page that displays our content or advertisements. 
 
-Powered by Doctors, Inc. ("MD.com," "We," "Us" or "Our") is committed to respecting the privacy rights of our customers, visitors, and users of its website ("You," "Your" and "Yourself") at www.md.com (the "Site"). This privacy statement ("Privacy Statement”) explains how we collect information about You and how such information may be used. We also would like to explain what choices You have in managing Your privacy. 
+Powered by Doctors, Inc. ("MD.com," "We," "Us" or "Our") is committed to respecting the privacy rights of our customers, visitors, and users of its website ("You," "Your" and "Yourself") at www.md.com (the "Site"). This Privacy Policy ("Privacy Policy”) explains how we collect information about You and how such information may be used. We also would like to explain what choices You have in managing Your privacy. 
 
-As with any site that You visit on the Internet, when You visit MD.com, we have the ability to collect information about You. Please read this Privacy Statement to understand how we collect information and what we do with the information we collect. Your use of this Site will be deemed conclusively to constitute Your acceptance of and agreement to the terms contained in this Privacy Statement. 
+As with any site that You visit on the Internet, when You visit MD.com, we have the ability to collect information about You. Please read this Privacy Policy to understand how we collect information and what we do with the information we collect. Your use of this Site will be deemed conclusively to constitute Your acceptance of and agreement to the terms contained in this Privacy Policy. 
 
   * How MD.com Collects Information?
   * Personal Information MD.com Collects?
@@ -47,7 +47,7 @@ On occasion, MD.com may act as a "Business Associate" of one or more Covered Ent
 
 ## Your Account Registration
 
-You must provide a valid email address in order to sign up for an account through the Services. In addition, you may provide us with your (1) full name, (2) phone number, (3) address, and (4) insurance data (such as insurance carrier and insurance plan). When you sign up for an MD.com account, we opt you in to receive emails from MD.com by default. You can manage your email preferences and modify some of the information associated with your account. Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by sending email to [privacy@md.com](https://www.md.com/contact/privacy-questions). 
+You must provide a valid email address in order to sign up for an account through the Services. In addition, you may provide us with your (1) full name, (2) phone number, (3) address, and (4) insurance data (such as insurance carrier and insurance plan). When you sign up for an MD.com account, we opt you in to receive emails from MD.com by default. You can manage your email preferences and modify some of the information associated with your account. Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by sending email to [privacy@md.com](mailto:privacy@md.com). 
 
 ## Collection of Cookies and Use of Web Beacons
 
@@ -79,11 +79,11 @@ COPPA severely restricts what information can be collected from children under t
 
 ## Keeping Information Confidential and Secure
 
-Except as otherwise provided in this Privacy Statement, we will keep your Personal Information private and will not share it with third parties, unless we believe in good faith that disclosure of your Personal Information or any other information we collect about you is necessary to: (1) comply with a court order or other legal process; (2) protect the rights, property or safety of Powered by Doctors, Inc. or another party; (3) enforce our Terms of Use; or (4) respond to claims that any posting or other content violates the rights of third-parties. 
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless we believe in good faith that disclosure of your Personal Information or any other information we collect about you is necessary to: (1) comply with a court order or other legal process; (2) protect the rights, property or safety of Powered by Doctors, Inc. or another party; (3) enforce our Terms of Use; or (4) respond to claims that any posting or other content violates the rights of third-parties. 
 
 The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information on our Site, we encrypt that information using secure socket layer technology (“SSL”). 
 
-Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Statement, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law. 
+Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Policy, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law. 
 
 ## You May Change or Delete Your Information
 
@@ -93,6 +93,6 @@ When you delete your account, you understand that removed certain content may pe
 
 ## We Welcome Your Questions or Comments
 
-MD.com welcomes Your questions and comments about our Privacy Statement or the use of Your Personal Information. Please send any questions or comments to MD.com to [privacy@md.com](https://www.md.com/contact/privacy-questions). 
+MD.com welcomes Your questions and comments about our Privacy Policy or the use of Your Personal Information. Please send any questions or comments to MD.com to [privacy@md.com](mailto:privacy@md.com). 
 
-Effective Date: February 6, 2013 
+Effective Date: February 6, 2013
