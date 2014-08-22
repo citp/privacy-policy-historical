@@ -1,43 +1,88 @@
-> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116230221id_/http%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822072442id_/http%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy statement
 
-BestEssays
+Our Privacy Policy explains the types of information we collect when you become a member at our website and use our Services, how we disclose specific information, and the occasions in which we share your information.
 
-Providing Students with original Papers since 1997
+## KEY PRINCIPLES
 
-[](https://web.archive.org/)
+We thought it would be helpful to briefly divulge the significant ways in which we use your information and how we value your and place great importance on your privacy. Understandably, it would behoove each of our users to read the terms of our full Privacy Policy.
 
-Please read the following privacy statement to know the main principles of privacy policy at bestessays.com.
+We typically collect two categories of information about you:
 
-**How do we use your credit card data?**
+(a) information that you contribute which personally identifies you (e.g., full name or phone number);
 
-We respect your privacy and we never share any of your personal information, including credit card data, with anyone. Our company is committed to protecting your privacy. All the online transactions are processed through the secure and reliable online payment systems provided by Authorize.net. It saves you from risk of having your credit card data disclosed to any third party.
+(b) information that does not personally identify you (e.g., your IP address or type of browser).
 
-[ORDER NOW](https://web.archive.org/order)
+This information is transferred to, held and processed by us in the United States of America;
 
- **How do we use your personal information?**
+We commonly use this information to provide you with our website and related services, and to produce reports, data, and other pertinent information about online shopping;
 
-Certain pages on our web site may require you to provide your name, e-mail address, home address or phone number ( for example, when filling in the order-form). Our company does not use this information for any other purposes than contacting you with regard to your order. We never resell or share your personal information with any third party.  
-When you contact us by e-mail to ask for additional information, report some problem or leave us feedback on our services we will use the information you provide only to reply to your inquiry.
+We may occasionally share this information to authorized third parties including our merchants, advertising and promotional partners and third party service providers for these intended purposes;
 
-**What information do we collect as you are browsing the site?**
+Through the use of "cookies,", because of our mutual working relationship, we permit advertising networks to collect anonymous information about you to send you their ads and use the same information to send you our ads (see section III below);
 
-Our web server automatically registers the following information: your IP address, browser type, operating system and time of your visit.
+You have the option to opt-out of certain activities as stated below (see section VI);
 
-**Regarding Cookies.**
+To safeguard your information, we use Secure Sockets Layer (SSL) software, ensuring your privacy is of the utmost importance at our company;
 
-You may set your computer to accept the cookies or not to get any cookies at all. The latter choice will surely limit your access to some personalized services.
+If you register with us, you have the ability to update or revise any of the information you previously provided via the account section;
 
-**Links Disclaimer.**
+If you have any questions or concerns about privacy issues at Bestessays.com please contact us by [clicking here](https://web.archive.org/customersupport.php);
 
-Bestessays.com provides links to the resources that may be of use to you. However, our company is not responsible for the content of these sites. Please read the privacy statement and disclaimer on these web sites to evaluate the information on them.
+Our websites and our services are not developed nor are they intended for use by children 13 and under;
 
-**Changes to the present privacy statement.**
+This Privacy Policy may be revised as we deem necessary from time to time, so it is in the user's best interest to check this policy regularly. Any material changes will be notified to you by email as appropriate.
 
-In case some changes occur to the present privacy statement we will definitely post them on this page. If you want to be informed about changes in our privacy policy, please regularly visit this page
+## WHAT INFORMATION DO WE COLLECT?
 
-[](https://www.securitymetrics.com/site_certificate.adp?s=184.73.153.186&i=133266)
+We collect two kinds of information related to you: (a) Personally Identifiable Information ("PII"); and (b) Non-Personally Identifiable Information ("Non-PII").
 
-[](https://web.archive.org/make_money.php?utm_source=redbutton&utm_medium=banner&utm_campaign=make-money-button)  
+Personally Identifiable Information: PII includes any information that identifies you as person. We gather your PII when you make the choice to register with us or when you select to participate in an interactive feature of our Sites such as a review, survey or promotion. You may:
 
+  * provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Sites or in connection with a contest entry;
+  * provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or
+  * post a general comment and/or recommendation on our Sites.
+
+
+
+Non-Personally Identifiable Information: We accumulate certain non-PII from you when you visit our Site including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and your utilization of our Sites specific to the web pages you visit, and the extent of your visits.
+
+## HOW WE USE & SHARE THE INFORMATION
+
+In our effort to constantly improve our services, your PII and Non-PII are a critical part in our fulfilling your requests, responding to your inquiries, serving you better in general, and understanding your needs. We also use this data in other ways naturally associated with the circumstances in which you provided the information.
+
+We may disclose PII and Non-PII to:
+
+  * our third party service vendors who host and manage data, process credit card orders, deliver our merchandise, etc;
+  * our parent company, subsidiaries or other affiliated companies (" affiliated companies") for operational, marketing and promotional purposes;
+  * co-promotional partnering companies and others with whom we have marketing or other relationships ;
+  * our other users where you make the choice to publicly post reviews, comments or other information in relation to products or services, communicate with other users via public forums (e.g., forums, message boards, bulletin boards, etc.).
+
+
+
+Subsequently, we use non-PII to assist in analyzing site traffic, understanding customer requests and trends, initiating targeted promotional activities (see "Preference Based Advertising" below).
+
+## SECURITY OF INFORMATION
+
+At Bestessays.com we diligently work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you provide. Additionally, we also use a secure and dependable server hosting location in the US, firewall protection, controlled access and encryption technology to protect your data. Please be advised that although we strive to protect your PII, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and take no responsibility for the theft, destruction, or inadvertent disclosure of your PII. In the regrettable event that your personal information which identifies you is in any way compromised, we will notify you directly via e-mail at the last known e-mail address you have provided us with as soon as feasibly possible under the circumstances (delays in notification may occur while we take necessary steps to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.)
+
+## YOUR OPTIONS & OPT-OUTS
+
+If you register as a Bestessays.com member, you will continually have access to an account section which includes the registration information you previously provided and you may update that information or correct it at any time. If there is any inaccurate information that you have difficulty correcting, please contact us immediately. Also, if you wish, you may remove your membership account entirely although, please take note, we may save certain information in limited circumstances - e.g., to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/disclaimer.php) . Additionally, some of the information you impart is never completely deleted from our databases due to technical (e.g., information that is stored in our "back-up" systems) and certain legal constraints.
+
+You have many choices regarding how we use information about you, including: sign out our email distributions, contact us by clicking [here](https://web.archive.org/customersupport.php) ; choose not to get any marketing information from us. You have an opportunity to change your information from your personal account .
+
+If you have any questions, concerns, or issues regarding our privacy policies at Bestessays.com, please contact us by [clicking here](https://web.archive.org/customersupport.php).
+
+## CHILDREN
+
+Neither our Sites nor our Services are appropriate for the use of a minor child under the age of 13 and they are prohibited at any time to submit PII to us. Also, if you are under 18, you should use bestessays.com only with involvement and consent of a parent or guardian.
+
+## REVISIONS
+
+In the event we deem it necessary to alter our privacy policy to reflect our changing business practices, we will provide you with notification of any such changes by posting the new policy on our Sites or via email if the changes are material.
+
+## SOLE STATEMENT
+
+This Privacy Policy and our [Terms of Use](https://web.archive.org/disclaimer.php) , both as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
