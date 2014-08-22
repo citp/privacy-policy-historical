@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032004id_/http%3A//deal.com.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822121648id_/http%3A//deal.com.sg/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | DEAL.com.sg - Best Deals in Singapore
 
