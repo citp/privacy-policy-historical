@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoffio.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610003659id_/http%3A//www.zoffio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoffio.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822063705id_/http%3A//www.zoffio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Zoffio.com
 
