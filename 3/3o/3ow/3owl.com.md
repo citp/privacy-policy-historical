@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3owl.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430114839id_/http%3A//3owl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3owl.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822230043id_/http%3A//3owl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Web Hosting Help Desk
 
