@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228053439id_/http%3A//www.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822181753id_/http%3A//www.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Active You - Play.Win.Save
 
@@ -16,7 +16,15 @@ Chysler
 
 Citroen
 
+Confused.com
+
 Fiat
+
+Ford Motors
+
+Infiniti
+
+Jaguar
 
 Jeep
 
@@ -24,15 +32,35 @@ Lexus
 
 Mini
 
+Nissan
+
 Volvo
 
 **Broadband**
 
 National Broadband Service
 
+Primus Broadband
+
+Simplify Digital
+
+Virgin Media
+
 **Charity**
 
+Alzhemiers
+
+Cancer Research UK
+
+Dogs Trust
+
 Great Ormond Street
+
+Greenpeace
+
+Guide Dogs
+
+Macmillan
 
 Marie Curie
 
@@ -40,11 +68,19 @@ NSPCC
 
 PDSA
 
+RNLI
+
+RSPB
+
+Word Wildlife Federation
+
 **Competition Sites**
 
 Get Me A Ticket
 
 Offerx
+
+Survey Central
 
 UKPrize
 
@@ -56,13 +92,53 @@ Go Groopie
 
 Here For A Day
 
+Mighty Deals
+
+MyVoucherCodes
+
+**Debt & Finance**
+
+Barclaycard
+
+Card One Banking
+
+Clark Richards
+
+Debt Advisory Line
+
+Debt Free Direct
+
+Natwest RBS
+
+Scottish Friendly
+
+**Education**
+
+E-Careers
+
+Learn To Trade
+
+Open University
+
 **Fashion**
 
 Barbour
 
+Farfetch
+
+Feelunique
+
+Joy the Store
+
 Next
 
+Ralph Lauren
+
 Shop Direct
+
+Uniqlo
+
+Wolford
 
 **Freebie Sites**
 
@@ -70,9 +146,25 @@ FreebiesWorld.co.uk
 
 Freestuff.eu
 
+MagicFreebies
+
 **Gambling**
 
+888 Holdings
+
+Bet Fair
+
+Big Fat Lotto
+
+Geo lotto
+
+Labrokes
+
+Paddy Power
+
 Play2WinCasino
+
+William Hill
 
 Winner.com
 
@@ -86,23 +178,51 @@ Clickbooth
 
 DMLS
 
+Lead Performance
+
 The Trading Floor
+
+Visio Digital
 
 XL Marketing
 
-**Health**
+**Health & Beauty**
+
+Acuvue
+
+All Bran
+
+Blooms Hearing
+
+Clarins
+
+Clear Smoke
+
+Fitness First
 
 Optical Express
 
+Special K
+
 Ultralase
+
+Virgin Active
 
 **Home & Lifestyle**
 
-Hillarys
+Blinkbox
 
 Huggies
 
+LoveFilm
+
+Money Dashboard
+
 My Survey
+
+Newspaper Readership – Dennis Publishing
+
+PS Group
 
 Sky
 
@@ -114,11 +234,21 @@ Toluna
 
 **Home Improvement**
 
+B&Q Kitchens
+
+Habitat
+
+Hillarys
+
+Tesco Kitchens & Bathrooms
+
 Thomas Sanderson
 
 **Life Insurance**
 
 BestLifeCover
+
+ESMI
 
 Media Tactics
 
@@ -130,9 +260,15 @@ Protected
 
 European Lottery Guild
 
+Free-Lotto
+
 LottoBytext
 
+Postcode Lottery
+
 **Pension**
+
+Grove Pensions
 
 Media Bowl
 
@@ -146,7 +282,13 @@ Accidents Direct
 
 Choose Leads
 
+Injury Law 4 U
+
+Injury Support Network
+
 Media Tactics
+
+Veritas
 
 **PPI**
 
@@ -158,11 +300,29 @@ Lion Claim Line
 
 Media Tactics
 
+**Premium Rate**
+
+Lotto by Text
+
+Prize Pin
+
+SB7 Mobile
+
+**Sport**
+
+ESPN
+
 **Telecommunications**
 
 Carphone Warehouse
 
+EE
+
+Liquid 11
+
 O2
+
+Quality Comms
 
 Vodaphone
 
@@ -170,15 +330,29 @@ Vodaphone
 
 Bono Tours
 
+British Airways
+
+Butlins
+
+Celebrity Cruises
+
 CheapFlights
+
+Club La Costa
 
 Cruise Club
 
 Deal Checker
 
+Disney
+
 Easy Voyage
 
+Lastminute.com
+
 Lifestyle Media
+
+Love Holidays
 
 P&O
 
@@ -186,7 +360,11 @@ Paul Raybould Marketing
 
 Qatar Airlines
 
+Royal Caribbean
+
 SAGA
+
+Secret Escapes
 
 Skyscanner
 
@@ -200,17 +378,27 @@ Warner Leisure
 
 Web-Clubs
 
+Zurich
+
 **Utilities**
 
+B&Q Boilers
+
 British Gas
+
+EDF Energy
+
+Helplink
+
+MediaBowl
 
 Npower
 
 PDV
 
-Purify
-
 Scottish Power
+
+SSE
 
 Uswitch
 
