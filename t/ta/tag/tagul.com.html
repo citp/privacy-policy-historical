@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the tagul.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625050227id_/http%3A//tagul.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tagul.com privacy policy that was archived on 2014-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140822103413id_/https%3A//tagul.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Tagul   » Privacy Policy - Gorgeous tag clouds </title>
+<title>Tagul   » Privacy Policy - Gorgeous word clouds </title>
 <link href="/favicon.ico" rel="SHORTCUT ICON">
 <link rel="alternate" type="application/rss+xml" title="Tagul RSS Feed" href="http://tagul.com/feed">
 <link rel="pingback" href="http://tagul.com/xmlrpc.php">
@@ -40,6 +40,7 @@
 <link rel="stylesheet" type="text/css" href="http://tagul.com/wp-content/themes/simplex/ie.css" />
 <![endif]-->
 <script src="http://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+<!--<script src="/static/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>-->
 <script type="text/javascript" charset="utf-8">
 	$(function(){
 		var tabContainers = $('div#maintabdiv > div');
@@ -57,6 +58,24 @@
 	});
 </script>
 
+<!--sticky footer-->
+<script type="text/javascript">
+function positionFooter() {
+	var docHeight = $(window).height();
+	var footerHeight = $('#footer').height();
+	var footerTop = $('#footer').position().top + footerHeight;
+
+	if (footerTop < docHeight) {
+		$('#footer').css('margin-top', (docHeight - footerTop) + 'px');
+	}
+}
+$(document).ready(positionFooter);
+//$(window).scroll(positionFooter);
+$(window).resize(positionFooter);
+
+</script>
+
+
 <style>
    body {
 	  text-align: left;
@@ -67,8 +86,10 @@
    }
    
    #headerimg {
-	  height: 115px;
+		height: 115px;
    }
+   
+	   
    
    
    #homeimg img{
@@ -77,18 +98,19 @@
 	  margin: -25px -20px -20px -30px;
    }
    
-   #googleadsdiv {
+      #googleadsdiv {
 	  margin: 10px auto;
 	  width: 738px;
-   }
-</style>
+	     }
+   </style>
 
 </head>
 <body>
 <div id="page">
 <div id="header">
 	<div id="headerimg">
-		
+
+
 <div id="googleadsdiv">
 		
 <script type="text/javascript"><!--
@@ -104,6 +126,7 @@ google_ad_height = 90;
 </script>
 </div>
 
+
 <!--<span class="description">Gorgeous tag clouds</span>		
 		<div id="searchdiv"><form method="get" id="searchform" action="http://tagul.com/">
 <label class="hidden" for="s">Search for:</label>
@@ -116,7 +139,7 @@ google_ad_height = 90;
 	
 </div>
 
-<!--<span class="description">Gorgeous tag clouds</span>		
+<!--<span class="description">Gorgeous word clouds</span>		
 		<div id="searchdiv"><form method="get" id="searchform" action="http://tagul.com/">
 <label class="hidden" for="s">Search for:</label>
 <div><input type="text" value="" name="s" id="s" />
@@ -130,7 +153,7 @@ google_ad_height = 90;
 
 <div id="pagemenu">
 	<ul id="page-list" class="clearfix">
-		<li id="homeimg" class="page_item" style="background:none">
+		<li id="homeimg" class="page_item" style="background:none;">
 			<a href="/" style="background:none">
 				<img alt="Home" src="/wp-content/uploads/2013/10/Tagul-site-header51.png">
 			</a>
@@ -138,14 +161,14 @@ google_ad_height = 90;
 		<!--<li class="page_item"><a href="http://www.zazzle.com/tagulstore*" style="color: red" target="_blank">Store</a></li>-->
 		<li class="page_item page-item-315"><a href="http://tagul.com/gallery" title="Gallery">Gallery</a></li>
 <li class="page_item page-item-67"><a href="http://tagul.com/faq" title="FAQ">FAQ</a></li>
-		<li class="page_item "><a href="/blog">Blog</a></li>
 		<li class="page_item "><a href="/forums/">Forums</a></li>
-		<li class="page_item "><a href="/api" style="color: red">API</a></li>
-		<!--<li class="page_item page-item-2"><a href="http://tagul.com/about" title="About">About</a></li>
+		<li class="page_item "><a href="/blog">Blog</a></li>
+		<li class="page_item "><a href="/about">About</a></li>
+		<!--<li class="page_item "><a href="/api" style="color: red">API</a></li>-->
+		<!--<li class="page_item "><a href="/premium">Premium</a></li>-->
+				<!--<li class="page_item page-item-2"><a href="http://tagul.com/about" title="About">About</a></li>
 -->
-				<li class="page_item  float_right first_item"><a href="/login">Log in</a></li>
-		<li class="page_item  float_right"><a class="highlighted" href="/login?action=register">Sign up</a></li>
-			</ul>
+	</ul>
 </div>
 
 <!--<div class="breadcrumb">
@@ -185,13 +208,15 @@ eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%6
 	<div id="sidebar">
 		<ul>
 			<!--<li id="rssfeeds"><a href="http://tagul.com/feed">Subscribe to the blog</a> | <a href="http://tagul.com/comments/feed">Comments</a></li>-->
-					<li id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Latest news</h2>
+			<li id="tagul-navigation" class="widget TagulNav_widget"><h2 class="widgettitle">Registration</h2>
+<ul class="xoxo blogroll"><li><a href="/login?action=register">Sign up</a></li><li><a href="/login">Log in</a></li></ul></li>
+		<li id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Latest news</h2>
 		<ul>
+				<li><a href="http://tagul.com/blog/2014/08/premium-update" title="Premium update">Premium update </a></li>
+				<li><a href="http://tagul.com/blog/2014/08/premium-subscription" title="Premium subscription">Premium subscription </a></li>
 				<li><a href="http://tagul.com/blog/2014/05/embedding-is-back" title="Embedding is back">Embedding is back </a></li>
 				<li><a href="http://tagul.com/blog/2014/05/moving-from-flash-to-html5" title="Moving from Flash to HTML5">Moving from Flash to HTML5 </a></li>
 				<li><a href="http://tagul.com/blog/2014/01/custom-shape-tutorial" title="Custom shape tutorial">Custom shape tutorial </a></li>
-				<li><a href="http://tagul.com/blog/2013/11/sign-up-process-changed" title="Sign up process changed">Sign up process changed </a></li>
-				<li><a href="http://tagul.com/blog/2013/10/colored-shapes" title="Colored shapes">Colored shapes </a></li>
 				</ul>
 		</li>
 		</ul>
@@ -208,7 +233,8 @@ eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%6
 // --> </script><a href="mailto:support@tagul.com?subject=">Contact support by e-mail</a></span>
 		<span><a href="/terms-of-service">Terms of service</a></span>
 		<span><a href="/privacy-policy">Privacy policy</a></span>
-		<span><a href="/commercial-license">Commercial license</a></span>
+		<span><a href="/license">Artwork license</a></span>
+		<span><a href="/premium">Premium</a></span>
 	</span>
 <!--    <span id="footerright"> 
     	 Please help promote WordPress and simpleX. Do not remove 
