@@ -1,0 +1,241 @@
+<!--The following is the downloaded HTML source of the linkshrink.net privacy policy that was archived on 2014-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140823002623id_/http%3A//www.linkshrink.net/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <title>LinkShrink.net - Earn money sharing shrinked links!</title>
+    <link rel="shortcut icon" href="./favicon.ico">
+    <link rel="stylesheet" type="text/css" href="content/css/style.css">
+</head>
+<body><div class="header2"></div>
+<link href="http://fonts.googleapis.com/css?family=Raleway:400" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Lato:100,400,700,900" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="content/css/menux.css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
+<script type="text/javascript" src="./content/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="./content/js/jquery.iconmenu.js"></script>
+
+
+
+<div id="fixeddiv" style="position: fixed; width: 100%; z-index: 100;">
+    <header>
+        <div class="header">
+            <div class="container">
+                <ul id="sti-menu" class="sti-menu">
+                    <li style="border-right:1px solid #575350;border-left:1px solid #575350;">
+                        <a href="http://linkshrink.net/"><h2 data-type="mText" class="sti-item">Home</h2></a><div class="brd1" id="dvl1"></div>                    </li>
+                    <li class="long" style="border-right:1px solid #575350;">
+                        <a href="http://linkshrink.net/earn"><h2 data-type="mText" class="sti-item">Earn Money With Us</h2></a><div class="brd2" id="dvl1"></div>                    </li>
+                    <li style="border-right:1px solid #575350;">
+                        <a href="http://linkshrink.net/contact"><h2 data-type="mText" class="sti-item">Contact Us</h2></a><div class="brd1" id="dvl1"></div>                    </li>
+                    <li style="border-right:1px solid #575350;">
+                        <a href="http://linkshrink.net/join"><h2 data-type="mText" class="sti-item">Join</h2></a><div class="brd1" id="dvl1"></div>                    </li>
+
+                    
+                    <li style="border-right:1px solid #575350;">
+                        <a href="http://linkshrink.net/login"><h2 data-type="mText" class="sti-item">Log In</h2></a><div class="brd1" id="dvl1"></div>                    </li>
+                    <li class="long" style="border-right:1px solid #575350;">
+                        <a href="http://linkshrink.net/rates.php"><h2 data-type="mText" class="sti-item">Payout Rates</h2></a><div class="brd2" id="dvl1"></div>                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+</div>
+
+<script>
+    $(function() {
+        $('#sti-menu').iconmenu({
+            animMouseenter	: {
+                'mText' : {speed : 400, easing : 'easeOutExpo', dir : -1}
+            },
+            animMouseleave	: {
+                'mText' : {speed : 0, easing : 'easeInCubic', dir : 0}
+            },
+            defaultTextColor	: '#E2E281',
+            defaultBgColor		: '#292D2F',
+            animationBgColor	: '#3F7377',
+            animationTextColor  : '#ffffff'
+        });
+    });
+</script>
+
+<script type="text/javascript" src="./content/js/menu.js"></script><div style="height: 53px;"></div>
+<div class="mnCont" style="width:100%;">
+    <div class="stcont">
+        <a href="http://linkshrink.net"><img src="./content/img/logo.png" style="margin-left:20px;" alt="logo"></a>
+        <div class="stcontainer" id="stcontainer">
+            <div class="urldiv"><input type="text" class="link" id="dynamic" maxlength="500" placeholder="Shrink URL and earn money" onclick="reset();this.select()"></div>
+            <a href="#" id="bt1d" class="butdiv" onclick="shrink(document.getElementById('dynamic').value);">Shrink</a>
+            <a href="#copy" id="copy-dynamic" class="butdiv" onclick="shrink(document.getElementById('dynamic').value);">Copy</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<style>
+    input.link::-webkit-input-placeholder{color: #172c2d;}
+    input.link:-moz-placeholder{color: #172c2d;}
+    input.link::-moz-placeholder{color: #172c2d;}
+    input.link:-ms-input-placeholder{color: #172c2d;}
+
+    input.blue-placeholder::-webkit-input-placeholder{color:#ff5e4e;}
+    input.blue-placeholder:-moz-placeholder{color:#ff5e4e;}
+    input.blue-placeholder::-moz-placeholder{color:#ff5e4e;}
+    input.blue-placeholder:-ms-input-placeholder{color:#ff5e4e;}
+</style>
+
+
+
+<script src="./content/php/jquery.zclip.js"></script>
+<script>
+    $.ajaxSetup ({cache: false});
+    var shorten=0;
+    var error = 0;
+    function shrink(sl)
+    {
+        var tl = 0;
+        if(shorten == 0)
+        {
+            url="http://linkshrink.net/content/php/sr.php?l="+sl;
+            $.get(url,function( data)
+            {
+                if(data != 0 && data != 1 && data != 2  && data != 3)
+                {
+                    document.getElementById('bt1d').style.display = 'none';
+                    document.getElementById('copy-dynamic').style.display = 'block';
+                    $("a#copy-dynamic").zclip({
+                        path:"./content/php/ZeroClipboard.swf",
+                        copy:function(){return $("input#dynamic").val();},
+                        afterCopy:function(){}
+                    });
+                    document.getElementById('dynamic').value = data;
+                    shorten=1;tl=1;
+                }
+                else
+                {
+                    if(error == 0){
+                        var e;
+                        if(data == 0)   e = 'Invalid URL Entered';if(data == 1)   e = 'Cannot shorten shortened URL';if(data == 2)   e = 'Please insert URL to shrink';
+
+                        $('#dynamic').animate({'background-color':"#FFEDEC"}, 50);
+                        document.getElementById('dynamic').style.textShadow = '0 1px 0 #FFEDEC';
+                        document.getElementById('dynamic').style.cursor = 'pointer';
+                        document.getElementById('dynamic').placeholder = e;
+                        document.getElementById('dynamic').value = '';
+                        document.getElementById("dynamic").className += " link";
+                        $("#dynamic").toggleClass("blue-placeholder");
+                        error = 1;}
+                }
+            });
+        }
+        if(shorten == 1 && tl == 0)
+        {
+            shorten=0;
+            document.getElementById('bt1d').style.display = 'block';
+            document.getElementById('copy-dynamic').style.display = 'none';
+            document.getElementById('dynamic').value = '';
+            document.getElementById("textButton").innerHTML = "Shrink";
+        }
+    }
+    function reset()
+    {
+        if(error == 1)
+        {
+            $('#dynamic').animate({'background-color':"#DBEACD"}, 50);
+            document.getElementById('dynamic').style.textShadow = '0 1px 0 #F4FFED';
+            document.getElementById('dynamic').style.cursor = 'auto';
+            document.getElementById('dynamic').placeholder = 'Shrink URL and earn money';
+            document.getElementById("dynamic").className += " link";
+            $("#dynamic").toggleClass("blue-placeholder");
+            error = 0;
+        }
+    }
+    document.getElementById('copy-dynamic').style.display = 'none';
+</script><div class="body">
+    <div class="mlnk" id="mlnk">
+        <div class="logcont">
+            <div class="logTitle"><h1>PRIVACY</h1><h2>POLICY</h2></div>
+            <p class="pmlnkw">
+                This section offers an explanation regarding your personal data provided to or collected from Linkshrink.net from you. This Privacy Policy may be updated therefore it should be reviewed occasionally.
+            <br><br></p>
+
+            <p class="pmlnkwww"><b>Collected information</b></p>
+            <p class="pmlnkww">
+                Data is collected regarding the frequency and times of your visits to the Site. Forms filled by you also give us the ability to store the input data although this does not necessarily mean that the input data is stored. When contacting our team, your message is also stored.
+            <br><br></p>
+            <p class="pmlnkwww"><b>Cookie usage</b></p>
+            <p class="pmlnkww">
+                Cookies are used to keep a user logged in. We do not store any personal data or relevant data which can identify the user in these cookies.
+            <br><br></p>
+            <p class="pmlnkwww"><b>How we use your information</b></p>
+            <p class="pmlnkww">
+                None of the information collected from or about you will offer identifiable characteristics. No information is shared to any third parties. We will never reveal who you are. Your data is required for statistical information and to ensure that publishers do not engage in illegal activities and to protect our users from any type of fraud. Your data is stored securely on our servers and any sensitive data is encrypted.
+            <br><br></p>
+            <p class="pmlnkwww"><b>Third party links</b></p>
+            <p class="pmlnkww">
+                 Links on our site which may lead to other sites have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept any responsibility for these third party links.
+            <br><br></p>
+            <p class="pmlnkwww"><b>Information accessibility</b></p>
+            <p class="pmlnkww">
+                As per The Data Protection Act 1998, we cannot withhold your own data from you, thus we offer any information we have stored on your account. If you wish to have access to our data collection on you and your account, a fee of $10 is required for our costs for processing your request and extracting the data for you. Please <a class="d" href="./contact">Contact Us</a> to process your data access request. You may also contact us if you have any queries, requests, or comments using the same contact form. We will get back to you within a few hours with a reply.
+                <br><br></p>
+        </div>
+    </div>
+</div>
+
+<div class="footerContainer">
+    <div class="footr">
+        <br><br><table class="ftrTbl" border="0"><tbody><tr>
+            <td>
+                <ul>
+                    <li class="ftrHeader">LinkShrink</li>
+                    <li class="skipHeader"><a href="http://linkshrink.net/">Home</a></li>
+                    <li><a href="./earn">Earn With Us</a></li>
+                    <li><a href="./rates.php">Payout Rates</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li class="ftrHeader">About</li>
+                    <li class="skipHeader"><a href="./TOS">Terms of Service</a></li>
+                    <li><a href="./PrivacyPolicy">Privacy Policy</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li class="ftrHeader">Contact</li>
+                    <li class="skipHeader"><a href="http://linkshrink.net/contact">Contact Us</a></li>
+                    <li><a href="http://linkshrink.net/report">Abuse/DMCA</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li class="ftrHeader">Share</li>
+                    <li class="skipHeader"><a href="#"><img src="./content/img/fbw.png" alt="fb" height="35" width="35" border="0" onmouseover="this.src='./content/img/fb.png';" onmouseout="this.src='./content/img/fbw.png';" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=http://linkshrink.net', 'facebook_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');"></a>
+                        <a href="#"><img src="./content/img/tww.png" alt="gp" height="35" width="35" border="0" style="margin-left:5px;" onmouseover="this.src='./content/img/tw.png';" onmouseout="this.src='./content/img/tww.png';" onclick="window.open('http://twitter.com/share?url=http://linkshrink.net', 'twitter_share', 'height=440, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');"></a>
+                        <a href="#"><img src="./content/img/gpw.png" alt="tw" style="margin-bottom:1px;margin-left:5px;" height="34" width="34" border="0" onmouseover="this.src='./content/img/gp.png';" onmouseout="this.src='./content/img/gpw.png';" onclick="window.open('https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http://linkshrink.net', 'googleplus_share', 'height=500, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');"></a>
+            </li>
+                </ul>
+            </td>
+        </tr></tbody></table>
+    </div>
+
+    <div id="footer">
+        <div class="footer">
+            <a href="http://paypal.com" target="blank"><img src="./content/img/paypalb.png" alt="paypal&quot;" border="0" style="margin-top:34px;" onmouseover="this.src='./content/img/paypala.png';" onmouseout="this.src='./content/img/paypalb.png';"></a>
+            <a href="http://payza.com" target="blank"><img src="./content/img/payzab.png" alt="paypal&quot;" border="0" style="margin-top:34px;" onmouseover="this.src='./content/img/payzaa.png';" onmouseout="this.src='./content/img/payzab.png';"></a>
+            <div class="ft" style="display:inline; float:right; margin-right:25px;">© 2014 LinkShrink - 02:26AM 23-08-2014</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-51257080-1', 'linkshrink.net');
+    ga('send', 'pageview');
+</script><div id="testingPositionFixed" style="position: fixed; top: 0px; right: 0px;"></div></body></html>
