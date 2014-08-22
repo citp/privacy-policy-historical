@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unicode.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504030807id_/http%3A//spherewms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicode.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822040105id_/http%3A//www.spherewms.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sphere WMS
 
 SphereWMS respects your concern for privacy. We recognize that we have an important responsibility to protect the privacy and security of the non-public personal information that we collect from you.
 
