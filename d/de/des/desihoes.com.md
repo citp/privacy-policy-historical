@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628034316id_/http%3A//desihoes.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822170120id_/http%3A//www.desihoes.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Porn Videos
 
