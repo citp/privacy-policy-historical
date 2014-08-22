@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035936id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823004322id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hollywood Street King
 
