@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044557id_/http%3A//www.visualcv.com/www/site_information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823192532id_/https%3A//www.visualcv.com/www/privacy-policy) for the most accurate reproduction.*
 
-# VisualCV • Privacy Policy
+# VisualCV Privacy Policy - VisualCV
 
-Privacy Policy last updated January 5, 2012
+## VisualCV is a business of Workstory Inc.
 
-VisualCV(" **VisualCV** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our web site located at [http://www.visualcv.com](http://www.visualcv.com/) (the " **Site** "). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site or by third parties.
+VisualCV(“ **VisualCV** ,” “ **we** ,” “ **us** “) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the “ **Policy** “) describes our practices in connection with Personally Identifiable Information that we collect through our web site located at[http://www.visualcv.com](http://www.visualcv.com/) (the “ **Site** “). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site or by third parties.
 
-By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the " _Last Updated_ " legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
+By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the “ _LAST UPDATED_ ” legend at the bottom of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
 The Site is controlled and operated by VisualCV from the United States, and is not intended to subject VisualCV to the laws or jurisdiction of any state, country or territory other than that of the United States.
 
 **1\. What Types of Information Does VisualCV Collect From Me?**
 
-VisualCV gathers two basic types of information through the Site: **Personally Identifiable Information** " (or " **PII** ") and " **Non-Personally Identifiable Information** " (or " **Non-PII** "). Personally Identifiable Information is information that identifies you as an individual. Non-Personally Identifiable Information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
+VisualCV gathers two basic types of information through the Site:  **Personally Identifiable Information** ” (or “ **PII** “) and “ **Non-Personally Identifiable Information** ” (or “ **Non-PII** “). Personally Identifiable Information is information that identifies you as an individual. Non-Personally Identifiable Information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
 **a. Personally Identifiable Information.**
 
@@ -26,7 +26,7 @@ When you visit and interact with the Site, VisualCV and third parties with whom 
 
 i. Server Log Files.
 
-Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.
+Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site’s servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.
 
 ii. Environmental Variables.
 
@@ -34,11 +34,11 @@ We and our service providers may also collect certain environmental variables, s
 
 iii. Cookies.
 
-We and our service providers may use “cookies” on the Site. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites and can facilitate users' ongoing access to and use of a particular web site; cookies do not cause damage to your computer systems or files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.
+We and our service providers may use “cookies” on the Site. Cookies are data that a web server transfers to an individual’s computer for recordkeeping purposes. Cookies are an industry standard used by most web sites and can facilitate users’ ongoing access to and use of a particular web site; cookies do not cause damage to your computer systems or files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.
 
 iv. Pixel Tags.
 
-We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, " **Pixel Tags** ") in connection with some Site pages and HTML-formatted email messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with Cookies on the visitors’ hard drives. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened.
+We and our service providers may also use so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “ **Pixel Tags** “) in connection with some Site pages and HTML-formatted email messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1×1), that is ordinarily not visible to Site visitors and may be associated with Cookies on the visitors’ hard drives. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened.
 
 v. Information That You Voluntarily Provide.
 
@@ -68,7 +68,7 @@ If you choose to do so, you may receive messages from other Site users relating 
 
 **v. Promotions.**
 
-We may operate sweepstakes, contests and similar promotions (collectively, " **Promotions** ") through the Site. We typically ask you for certain PII when you enter and, if applicable, win a Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about VisualCV's use of your PII. To the extent that the terms and conditions of such rules concerning the treatment of your PII conflict with this Policy, the terms and conditions of such rules shall control.
+We may operate sweepstakes, contests and similar promotions (collectively, “ **Promotions** “) through the Site. We typically ask you for certain PII when you enter and, if applicable, win a Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about VisualCV’s use of your PII. To the extent that the terms and conditions of such rules concerning the treatment of your PII conflict with this Policy, the terms and conditions of such rules shall control.
 
 **vi. Internal Business Purposes.**
 
@@ -88,11 +88,11 @@ We work with third parties who provide services including but not limited to dat
 
 **b. Promotions.**
 
-We reserve the right to share the PII you provide in connection with Promotions with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties’ use of your PII. To the extent that the terms and conditions of such rules concerning the treatment of your PII conflict with this Policy, the terms and conditions of such rules shall control.
+We reserve the right to share the PII you provide in connection with Promotions with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor’s or other third parties’ use of your PII. To the extent that the terms and conditions of such rules concerning the treatment of your PII conflict with this Policy, the terms and conditions of such rules shall control.
 
 **c. VisualCV.**
 
-We provide functionality on the Site that allows you to create an electronic profile, which includes enhanced features determined by VisualCV (each such electronic profile, a “ **VisualCV"** ) and post certain information and materials on your VisualCV. Please note that your VisualCV, including the PII available in your VisualCV, may be accessible to other users when you allow such other users to view your VisualCV, or parts thereof (for example, if you wish to make your VisualCV available for view by particular companies). We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, in your VisualCV. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF ANY PII YOU DISCLOSE IN YOUR VISUALCV. Additionally, please be aware that if you review a VisualCV that an individual has submitted to you, the individual will be able to see that you have reviewed his or her VisualCV.
+We provide functionality on the Site that allows you to create an electronic profile, which includes enhanced features determined by VisualCV (each such electronic profile, a “ **VisualCV”** ) and post certain information and materials on your VisualCV. Please note that your VisualCV, including the PII available in your VisualCV, may be accessible to other users when you allow such other users to view your VisualCV, or parts thereof (for example, if you wish to make your VisualCV available for view by particular companies). We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, in your VisualCV. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF ANY PII YOU DISCLOSE IN YOUR VISUALCV. Additionally, please be aware that if you review a VisualCV that an individual has submitted to you, the individual will be able to see that you have reviewed his or her VisualCV.
 
 **d. Forums.**
 
@@ -104,7 +104,7 @@ If you affirmatively opt-in, we may share your PII with third parties to allow t
 
 **f. Assignment.**
 
-We reserve the right to transfer any and all information that we collect from Site users to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of VisualCV's business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+We reserve the right to transfer any and all information that we collect from Site users to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of VisualCV’s business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
 
 **g. Law enforcement; emergencies; compliance.**
 
@@ -118,7 +118,7 @@ The Site is not directed to individuals under the age of thirteen (13), and we r
 
 **b. Third-Party Sites.**
 
-The Site may contain links to third-party web sites. These linked sites are not under VisualCV's control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by VisualCV. If you provide any PII through any such third-party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+The Site may contain links to third-party web sites. These linked sites are not under VisualCV’s control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by VisualCV. If you provide any PII through any such third-party web site, your transaction will occur on such third party’s web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
 
 **c. Third-Party Advertisers.**
 
@@ -126,11 +126,11 @@ We may use third-party advertisement-serving companies (“ **Advertisers** ”)
 
 **d. Security.**
 
-We have security measures and tools, such as firewalls, in place to help protect against the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. As a result, although we strive to protect your PII, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that is stored by us. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with Section 4.h (" _Contacting Us,_ ") below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
+We have security measures and tools, such as firewalls, in place to help protect against the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. As a result, although we strive to protect your PII, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that is stored by us. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with Section 4.h (“ _Contacting Us,_ “) below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
 
 **e. Opt-Out.**
 
-As noted above, if you expressly opt-in, we may send you **** marketing-related email messages. Additionally, as noted above, if you expressly opt-in, we may share your PII with third parties for their marketing purposes. If, after you have opted in, you change your mind and you no longer wish to receive marketing-related emails from us and/or you do not want us to share your email address with third parties for such third parties' marketing purposes, you may opt-out of receiving such marketing-related emails and/or from such sharing by selecting the appropriate opt-out check box located on your ‘My Profile’ page.
+As noted above, if you expressly opt-in, we may send you ** ** marketing-related email messages. Additionally, as noted above, if you expressly opt-in, we may share your PII with third parties for their marketing purposes. If, after you have opted in, you change your mind and you no longer wish to receive marketing-related emails from us and/or you do not want us to share your email address with third parties for such third parties’ marketing purposes, you may opt-out of receiving such marketing-related emails and/or from such sharing by selecting the appropriate opt-out check box located on your ‘My Profile’ page.
 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your PII from the databases of third parties with which we have already shared your PII (i.e., to which we have already provided your PII as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related emails from such third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.
 
@@ -142,8 +142,10 @@ Please note that we may need to retain certain information for recordkeeping pur
 
 **g. Jurisdictional Issues.**
 
-VisualCV does not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and at our sole discretion.
+VisualCV does not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site’s availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and at our sole discretion.
 
 **h. Contacting Us.**
 
-If you have any questions regarding this Policy, please contact us by email at [info@visualcv.com](mailto:info@visualcv.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
+If you have any questions regarding this Policy, please contact us by email at [info@visualcv.com](mailto:info@visualcv.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
+
+Privacy Policy last updated January 5, 2012
