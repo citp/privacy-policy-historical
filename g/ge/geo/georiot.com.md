@@ -1,107 +1,143 @@
-> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326154854id_/http%3A//www.georiot.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823155852id_/http%3A//www.georiot.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GeoRiot
 
-This Privacy Policy will govern your use of the GeoRiot website as well as any of its related Services ("GeoRiot", "Glob.ly", "GeoRiot.co", "Site", "Services", "us", "we") which is provided by GeoRiot, LLC. GeoRiot provides online tools and services that implement specialized links into your website or mobile application ("property") that direct users of that link through specialized links connected with advertisers and affiliate networks. 
+## Overview
 
-### What This Privacy Policy Covers
+GeoRiot provides a set of services ("Services") to commercial customers ("Clients") for purposes of online marketing and sales of digital and physical products and services ("Products") to individuals ("Consumers"). The Services are provided to Clients worldwide, including in the United States ("U.S."), the member states of the European Union ("E.U."), and Switzerland.
 
-As a provider of online tools, we understand how you may be concerned with how we operate. This is why we provide this transparent, plain English, easy-to-read Privacy Policy. This Privacy Policy only applies to our Site and the related GeoRiot Services. Some of the third parties utilized by our Service may also use, collect, and share information for many purposes on their sites and we are not responsible for any of the information that may be collected or used by them. 
+The Services include the following:
 
-Your use of GeoRiot, such as access to data and use of the Services, is governed by this Privacy Policy. This Privacy Policy may be amended from time to time by us, and your continued use of the Site and Services is consideration for having read and agreed to this. If you do not agree with any of the terms of this agreement you must immediately terminate your participation and notify us of your intentions so that we can take appropriate action to delete any data. By using, visiting, registering, or interacting, or continuing to use this Site you consent to the collection and use of your personal information as outlined in this Privacy Policy. 
+  * _Link Localization._ Link Localization redirects Consumers to a page on a nationally- or regionally-specific international online marketplace, such as the iTunes and/or Amazon online international storefronts ("Storefronts"), that GeoRiot believes is most relevant for that Consumer based on a specialized link clicked on by that Consumer. Localization helps ensure that the Consumer sees fewer error messages, and helps improve a Consumer's buying experience by placing them in a storefront where shipping and tax rates are minimized, and currency and language are appropriate. Localization also helps ensure the proper use of nationally or regionally-specific affiliate programs.
+  * _Data Analytics._ Our Data Analytics service provides Clients with marketing content based on data identifying the geographical location ("Location Data") and type of computer, tablet, smartphone or other device ("Device Data") used by a Consumer, as well as the Device's operating system and browser ("Software Data"), other applications on the Device, and previous transactions using the Device ("Transactions Data"). Our Data Analytics service helps Clients ensure that advertising content is relevant to the Consumer and appropriate to the country or region where the Consumer is located. 
 
-You must be at least 18 years of age or older to use the GeoRiot Site and Service, although the third parties who use our Service ultimately may be under 18. If you are under the age of 18, please do not attempt to register for the Site or provide any personal information to us. 
 
-## Summary of Key Principles
 
-This is a brief summary of what you will be reading in this Privacy Policy:
+GeoRiot does not provide any products or services to Consumers or engage in transactions with them. GeoRiot also does not collect or use information such as names, addresses or other contact information, governmental or corporate identification numbers, account numbers or images, or other information which specifically identifies individuals ("Personal Data"). 
 
-There are two classes of information that we collect: (a) information about those who use our Site; and (b) the information collected through the GeoRiot Service and the people who interact with any links associated with the GeoRiot service. 
+GeoRiot does collect and use information about Devices, such as Internet protocol ("IP") address numbers and operating system and browser information. GeoRiot also uses cookies to obtain information about Transactions using a Device. Because it may be possible to use some of this Location, Device, Software or Transaction information ("Potential Personal Information") in combination with other information to identify individual Consumers, as a matter of due diligence and prudence GeoRiot has taken appropriate measures to ensure the security, integrity and ethical use of such information. GeoRiot does not combine Potential Personal Information with other data to identify individuals for purposes of the Services. 
 
-This information is transmitted to, held and processed by our servers which may not be in the same state or country that you are in, so you consent to this transfer. 
+Though not required, as a matter of prudence and due diligence, GeoRiot has elected to attest to its adherence to the U.S.-E.U. Safe Harbor Framework, the U.S.-Swiss Safe Harbor Framework, and the Privacy Principles established by the E.U. Commission. 
 
-We typically use this information to provide you with information about us, to deliver our Services, and to produce reports and data related to our Service.
+## Adherence to Privacy Principles
 
-### Information That We Collect and How it is Used.
+GeoRiot complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from E.U. member nations and Switzerland, with respect to Potential Personal Information, whether or not such information is in fact Personal Data for purposes of the Safe Harbor. GeoRiot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GeoRiot's certification, please visit <http://www.export.gov/safeharbor/>.
 
-> ### Personal Information
-> 
-> By registering for the GeoRiot Site and Service you may be providing personal information to us. This information may, but is not limited to, your name, email, address, website, and telephone number. Some of your information we may also store in Salesforce and use it to contact you about our Site and Service. Your use may also allow you to provide us with information as you interact with the Site. 
+## GeoRiot as Data Processor on Behalf of Clients
 
-In addition to the above, our Service collects three specific kinds of data in association with our Service:
+GeoRiot may under some arrangements act as a data processor of Personal Data on behalf of a Client. In such event GeoRiot shall only use or process such information as instructed by the Client, which is the data controller, and shall not control or share such Personal Data without direction from the Client. This relationship shall be specified by appropriate agreements between GeoRiot and any such Client, in compliance with the applicable E.U. requirements. For example, this might occur if the Client requested special analytical services involving Potential Personal Information which might permit some individual identification. This Privacy Policy will not apply to Personal Information subject to such agreements. 
 
-> ### Account Data
-> 
-> Account data is a GeoRiot user’s affiliate tracking information that is supplied to us. We use this information to contact you about our Site and Service, operate our Site and Service, and enhance your experience. 
-> 
-> ### Analytical Click Data
-> 
-> This information is collected whenever someone clicks on your links and is used to provide you with the activity that occurred by the person who clicked your link. The type of information that is collected may include, but is not limited to, http request info, information from the link, as well as sales and commission data provided by affiliate networks. 
-> 
-> ### Click Data Metrics
-> 
-> We may compile and collect metrics about the information that we collect, however it is in an anonymous form. This information is aggregated and helps us to enhance user experiences, and create benchmarks. 
+## GeoRiot as Data Controller
 
-The GeoRiot Site and Service also provides a consolidated reporting platform for monitoring traffic, clicks, sales, and commissions. As such, our users will have access to certain information on our dashboard. 
+In arrangements with Clients where GeoRiot is not a data processor for the Client, GeoRiot shall act as the data controller and comply with all applicable E.U. and Safe Harbor requirements. 
 
-### Cookies
+## Scope of Notice
 
-We use Google Adsense on our Site, which may utilize DoubleClick dART cookies. These cookies are maintained by Google and are governed by their own Privacy Policy. These cookies may collect information about you, but on a limited basis, and may be used to serve relevant ads to you. We are not connected with any of the advertisements that you may be shown from Adsense and you can choose to disable these types of cookies in your browser.
+This Privacy Policy is published to provide notice of GeoRiot's data collection and privacy practices to Consumers. However, GeoRiot does not typically interact directly with Consumers, since its presence on consumer-oriented websites, applications and other digital properties ("Client's Digital Properties") is limited to the GeoRiot Link in/on the Client's Digital Properties. GeoRiot therefore contractually requires its Clients to ensure their compliance with any legal requirements for notification to and consent by individuals with respect to their data collection and use practices involved in the Link Localization and Data Analytics services, as required in their applicable jurisdictions. 
 
-### Information Collected by our ISP
+In addition, GeoRiot contractually requires its clients to comply with the Network Advertising Initiative Code of Conduct where it is applicable to their business. In particular, if a Client attempts to combine Personal Data with Potential Personal Information, it is required to notify the affected individuals and obtain their opt-in consent in accordance with the NAI Code of Conduct. If a Client collects data for interest-based advertising, it is required to clearly and conspicuously post a notice consistent with the NAI Code that contains:
 
-We may employ third party companies and individuals to help us manage our servers, databases, and analytics. These third parties may have access to your information only to perform those tasks, and are obligated not to disclose or use it for any other purpose. The hosting provider for this Site has the ability to record various pieces of information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information. This information is stored in our server log and may be accessible to us from time to time. 
+  * a statement that data may be collected for interest-based advertising;
+  * a description of types of data that are collected for interest-based advertising purposes;
+  * an explanation of how, and for what purpose, the data collected will be used or transferred to third parties; and
+  * a conspicuous link to an opt-out mechanism.
 
-### Release of Information for Legal Reasons
 
-We may release information when we believe it is necessary or appropriate to comply with the law (for example, pursuant to a statutory demand, subpoena, warrant or court order), to protect against fraudulent, abusive or unlawful use of the Site or Service, to protect our rights or property, enforce any contract between you and us, or if we reasonably believe that a situation involving danger of death or injury to any person requires disclosure. 
 
-### Transfer of Information
+If GeoRiot should intentionally collect Personal Data directly from individuals for any other reason, GeoRiot will conform to the same standards.
 
-We reserve the right to transfer your information in the event of a change in entity structure, or acquisition of substantial portion of the assets of our company or its parent company. In such event, we will notify you when the information is transferred and the privacy policy changes. 
+## Information Collected by GeoRiot
 
-## How You Can Change or Remove Information
+GeoRiot principally collects information through transactions that occur as part of "Link Localization." In this process a link, which promotes or sells a Product ("GeoRiot Link"), is posted on a Client's Digital Property, and points to an international retailer's digital storefront, as directed by the Client. When a Consumer clicks the GeoRiot Link, information is collected and transmitted to GeoRiot's servers. This information is automatically analyzed to identify the location and type of Device being used to access the link. Based on this information, the GeoRiot Link redirects the Device to a web page in regional or country-specific storefront of the international retailer ("Localized Page") which promotes or sells the Product. 
 
-Users may be able to review and edit some of the personal information they have provided to us by logging into their account on the Site and editing the account. Although most changes may occur immediately, information may still be stored in a web browser's cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database. 
+GeoRiot uses cookies to store information about Transactions the Device has been used for ("GeoRiot Cookie"). The GeoRiot Cookie is set in the Device when the GeoRiot Link is clicked, and is used to store data about Transactions. The GeoRiot Cookie may be updated whenever the Device is used for a new Transaction.
 
-If a user wishes to have their information updated or removed from our CRM (Salesforce) please contact contact@georiot.com with the request. 
+GeoRiot does not create or administer either the Client's Digital Properties or the International Retailer's Storefront pages, does not provide content for either, and does not sell or promote Products on either. The only information GeoRiot collects from either Digital Property is that provided in response to the click on the GeoRiot Link.
 
-## Other Terms
+GeoRiot may collect the following information from the Device used to click on the GeoRiot Link:
 
-> ### Spam
-> 
-> By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us and anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications via the website or by notifying the Site that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
-> 
-> ### Limited Use
-> 
-> Although we do not intend to sell, share, or rent information obtained on the Site other than as discussed in this privacy policy we reserve the right to do so in the future. If we do, we will update this Privacy Policy to reflect those definitive changes. 
-> 
-> ### Data Security and Risks Inherent with Information Sharing
-> 
-> GeoRiot takes reasonable measures to protect the security of your personal information, your usage of the Service, and your usage of the Site. We take reasonable precautions to protect your data from loss, misuse, unauthorized access, disclosure, alteration or destruction. However, you understand and agree that the purpose of the Site is to facilitate the exchange of information with us and other third parties, and, as a consideration for viewing, communicating with, or using the Site in any manner, including placing GeoRiot links on your site, you waive all claims of any nature against us and our owners, directors, officers, employees, agents and representatives concerning the loss, alteration, or misuse of information. 
-> 
-> In essence, what we're trying to say is that no security measures are perfect. There is no guarantee that any information may not be accessed, disclosed, altered, or destroyed by any breach of any physical, technical, or other safeguards. Nor can we guarantee that any information that you share on the Site or with other users will not become publicly available. You assume all responsibility and liability for, and agree to hold us and our owners, directors, officers, employees, agents and representatives harmless for the use or misuse your personal data, including the use of such data by others that use such information in an inappropriate way or that may cause you harm. 
-> 
-> ### Changes in This Privacy Policy
-> 
-> If we decide to change our privacy policy, we may post those changes on the Site so you can remain aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Your continued use of this Site and the Program is consideration for your acceptance of any changes to the Privacy Policy. 
-> 
-> ### Minors - COPPA
-> 
-> Individuals under 13 years of age are not allowed to use our Site or Service. If you are under the legal age of 13 years old do not apply for or submit any personal information to this Site or our Service. Do not use our Service to collect information about people under the age of 13 unless you have proper permission and disclosures in place. If you are under the age of 13 years old, cease use of this website immediately. 
-> 
-> ### Advertiser and Third Party Websites
-> 
-> Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties or require disclosure of any personal information relating to members of the Service or Site. GeoRiot, LLC bears no responsibility for the information collected or used by any advertiser or third party website. Please review the privacy policy and terms of service for each site you visit through third party links. 
-> 
-> ### International Transfer
-> 
-> Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, GeoRiot transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+  * Device identification data, including any unique identifier assigned by the operating system of the Device which is intended to support advertising with mobile devices and tablets, such as Apple's Identifier for Advertising ("IDFA") or similar identifiers used on Android, Kindle or Windows Mobile Devices and tablets. The GeoRiot Cookie may also serve as a Device identifier. Device identification data is treated as Potential Personal Information. 
+  * The IP address of the Device in use. The IP address provides network information, which can often be used to determine the country, state and sometimes city and postal code where the Device is in use. The IP address is Location Information, which is treated as Potential Personal Information.
+  * The URL of the referrer, which is the Digital Property on which the originating GeoRiot Link is sited. The referrer URL is not treated as Potential Personal Information.
+  * User agent information which identifies the operating system and browser used by the Device in use. User agent information is treated as Potential Personal Information.
+  * Product identification information, such as metadata for an iPad app that was used or open on the Device, or Products the Device was used to view. Product identification information is not treated as Potential Personal Information.
+  * Information about previous Transactions, if a GeoRiot Cookie or certain other device-related information is present. Transaction Information is treated as Potential Personal Information. 
 
-## Note to California Residents (Online Privacy Protection Act of 2003 - OPPA)
 
-It is the intent of the GeoRiot to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. You may contact us at contact@georiot.com with any questions. 
 
-### Note
+In addition, GeoRiot may collect the following information from third party sources:
 
-This Privacy Policy was lasted updated on April 21, 2012. This privacy policy applies to the Site, Service and any subdomains of the Site. This privacy policy does not apply to any third party website as their content is not controlled by us. Please contact the administrator of any other site for information about their own privacy policies and the information they collect about their site visitors. 
+  * Product information including Product price, genre, name, developer, publisher, and other general information published by the International Retailer, developer or other third party. Product Information is not treated as Potential Personal Information.
+  * Limited purchase information obtained by the International Retailer in a Transaction, such as the number of Products purchased, a list of items (or categories of items), purchase prices, and timestamp of the Transaction. Purchase information is considered Transaction information and is treated as Potential Personal Information. Purchase information is collected and provided to GeoRiot by Clients, who are responsible for ensuring that any individual consent or authorization required for its use by GeoRiot has been obtained. 
+
+
+
+GeoRiot does not collect any other information that might be considered, or might be used to derive, an individual's Personal Data, sensitive or otherwise. 
+
+GeoRiot's services are only offered to individuals who are 18 years of age or older. GeoRiot does not knowingly collect or maintain any Personal Data from individuals who are under 13 years of age, and no aspect of the Services is designed to attract people under the age of 13. If GeoRiot obtains knowledge that a Consumer is under the age of 13, GeoRiot will remove Potential Personal Information with respect to that individual from its databases.
+
+## Use of Information by GeoRiot
+
+GeoRiot may use Potential Personal Information it obtains as follows:
+
+  * For purposes of Link Localization, to redirect Consumers from digital properties to appropriate Storefronts. 
+  * For purposes of Data Analytics, to create reports of Client marketing activities using GeoRiot Links. Reports include aggregated information about matters including click trends, geographic information, sales and commissions data, separately or in combination, based on Data collected by GeoRiot. Reports may be filtered based on specified parameters (e.g. number of clicks per day per specific location; clicks from specific referrers or from Devices using specific Software; etc.). 
+  * For purposes of Data Analytics, in aggregated data sets to support specific marketing strategies and Product and advertising content offerings, based on correlations of various types of Data with different Transactions. For example, a specific Device might have a high correlation with purchases of specific types of games, and low correlation for business software. When Device information indicates that the Device is being used and the available Data indicates it probably does not have a certain game already installed, a Client may elect to show an ad for the game instead of an ad for a business app. 
+  * For purposes of GeoRiot's internal management and administration, and fulfillment of its legal responsibilities or protection of its legal interests. 
+
+
+
+## Disclosure or Onward Transfer of Information
+
+GeoRiot may disclose or provide Potential Personal Information to third parties as follows:
+
+  * To a Client for purposes of Data Analytics, as part of aggregated data in a report or data set.
+  * To a subsidiary or affiliated company of GeoRiot, subject to their compliance with this Privacy Policy. 
+  * To a third party services provider, such as a hosting or analysis service or a security consulting firm, for purposes of GeoRiot's internal management and administration or fulfillment of its legal responsibilities or protection of its legal interests, subject to contractual requirements for protection of the information consistent with this policy and E.U. and Safe Harbor requirements. 
+  * To governmental authorities or their legal designees, if required by applicable law. 
+
+
+
+## Data Integrity
+
+GeoRiot will take reasonable steps to ensure that Potential Personal Information is accurate, complete, current, and reliable for its intended use. 
+
+## Choice
+
+GeoRiot will provide Consumers the opportunity to opt-out if their Potential Personal Information is to be disclosed to a third party other than one disclosed in this Privacy Policy, or used for a purpose incompatible with the purpose for which it was originally collected or as otherwise permitted or authorized by the individual.
+
+A Consumer may opt-out of any previously authorized or permitted disclosure of Device information by GeoRiot to Clients, by emailing us [here](mailto:contact@georiot.com?subject=Opt-out).
+
+In order to opt-out the Consumer may be required to provide the unique identifier for the Device. In order to make such an opt-out effective, GeoRiot may place an opt-out cookie on the Device. This opt-out cookie notifies GeoRiot not to use the applicable Device information to support delivery of advertising or other content, or as part of aggregated information. Because the opt-out is specific to a Device and not an individual Consumer, it will not be effective with respect to the Consumer as an individual, or to any other Device. GeoRiot may record and retain Device identification information in order to administer the opt-out. 
+
+GeoRiot may retain Device information that is subject to a Consumer's disclosure opt-out in accordance with GeoRiot's Data Retention Policy. The purpose of retaining such information is for GeoRiot's internal management and administration or fulfillment of its legal responsibilities or protection of its legal interests. Residual Device information may also remain within databases, access logs, and other records. GeoRiot is not responsible for updating or removing Device Information disclosed to third parties before the Consumer's opt-out. 
+
+GeoRiot does not collect, use or disclose sensitive information. In the event GeoRiot should do so, GeoRiot will give Consumers an explicit opt-in choice if their sensitive information is to be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or as authorized by the individual.
+
+## Access
+
+GeoRiot provides Consumers with a tool to allow them to review and request that GeoRiot update or delete Potential Personal Information to the extent the information can be identified to the individual Consumer or is identifiable to a specific Device. To access this, email us [here](mailto:contact@georiot.com?subject=Review%20Profile%20Info).
+
+## Security
+
+GeoRiot maintains physical, electronic and procedural safeguards to protect Potential Personal Information, and continually monitors access to its systems to detect unauthorized attempts to gain access to such information. However, GeoRiot cannot guarantee that these safeguards will not be penetrated or compromised or that all information will remain secure under all circumstances.
+
+## Enforcement
+
+The Federal Trade Commission may investigate violations of this Policy, and enforce compliance with the Safe Harbor and applicable law.
+
+GeoRiot provides assurance of its compliance with this Privacy Policy by conducting internal assessments of its relevant practices internally. In the event such an assessment finds non-compliant privacy, corrective action plans will be developed to resolve the identified gaps in compliance, as well as preventive action plans to maintain compliance.
+
+Any employee GeoRiot finds has violated this Policy will be subject to disciplinary action up to and including termination of employment.
+
+## Dispute resolution
+
+Any questions or concerns about the use or disclosures of Potential Personal Information by GeoRiot or other matters subject to this Policy should be directed to the address given below. GeoRiot will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. Disputes that cannot be resolved will be subject to arbitration by an arbitrator from the American Arbitration Association, under the rules of that Association.
+
+## Amendment of Policy
+
+GeoRiot reserves the right to modify this Privacy Policy at any time without notice. If GeoRiot amends this Privacy Policy, notice of the amendment and the amended policy will be posted on the GeoRiot website and such other sites as GeoRiot may deem appropriate. Any amendment will be consistent with the requirements of the Safe Harbor and applicable E.U. law. 
+
+## Contact Information
+
+Please contact us at [contact@georiot.com](mailto:contact@georiot.com?) with any questions, comments, or concerns. 
