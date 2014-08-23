@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the datematch.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908053936id_/http%3A//www.datematch.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datematch.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823062143id_/http%3A//www.datematch.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # DateMatch - Find a date, online dating and relationships
 
 **PRIVACY POLICY**  
 for DateMatch   
-Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus  
+6 Mead Business Centre Mead Lane Hertford Herts SG13 7BJ United Kingdom  
 +1.8886499178  
 **Effective Date: January 1st 2005**  
 **Last Updated: July 19th 2013**  
@@ -16,8 +16,8 @@ Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus
 **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITES.**
 
   1. General 
-    1. The operative parties referred to in this policy are DateMatch, d/b/a the above listed website(s) (hereinafter "Company") and You, the User of this Site. 
-      1. Company is the operator of the above listed website(s). Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to DateMatch d/b/a the above Site(s), or as any other Site that We may choose to publish in the future. Additionally, when the terms "the Site(s)" or "Site(s)" are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.
+    1. The operative parties referred to in this policy are Piranha New Media Ltd., d/b/a the above listed website(s) (hereinafter "Company") and You, the User of this Site. 
+      1. Company is the operator of the above listed website(s). Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Piranha New Media Ltd. d/b/a the above Site(s), or as any other Site that We may choose to publish in the future. Additionally, when the terms "the Site(s)" or "Site(s)" are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.
       2. You, the User - As the User of this Site, this Policy will refer to the User as "You" or through any second-person pronouns, such as "Yours," etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
     2. This Privacy Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
   2. Revisions to This Policy 
@@ -54,7 +54,7 @@ However, We may disclose personal information about Visitors or Members, or info
     8. Anyone who violates Our Anti-Spam Policy, may be subject to having their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our websites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop. 
   7. Privacy Policies of Third Parties 
 
-This Privacy Policy only addresses the Sites offered by Us. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services or websites that may be accessible to you through the Sites, have their own privacy policies regarding data collection, use and disclosure practices. If You visit any such website, We encourage You to review that website or serviceâ€™s privacy policy. We are not responsible for the policies or practices of third parties.
+This Privacy Policy only addresses the Sites offered by Us. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services or websites that may be accessible to you through the Sites, have their own privacy policies regarding data collection, use and disclosure practices. If You visit any such website, We encourage You to review that website or service’s privacy policy. We are not responsible for the policies or practices of third parties.
 
   8. Minors and Privacy Issues 
 
