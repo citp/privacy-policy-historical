@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the updatepalace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061549id_/http%3A//updatepalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatepalace.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824015621id_/http%3A//updatepalace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | update palace
+# Privacy Policy | Update Palace
 
 We collect information from you when you subscribe to our newsletter or News Information.
 
