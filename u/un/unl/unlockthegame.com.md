@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811190242id_/http%3A//www.unlockthegame.com/UTG/ServicePages/PrivacyStatement/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockthegame.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823222550id_/http%3A//www.unlockthegame.com/UTG/ServicePages/PrivacyStatement/index.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Unlock The Game
 
