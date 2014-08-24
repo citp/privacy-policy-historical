@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622131119id_/http%3A//www.arthritis.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824203425id_/http%3A//www.arthritis.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
