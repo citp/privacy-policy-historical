@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the railyatri.in privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113537id_/http%3A//railyatri.in/railyatri/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the railyatri.in privacy policy that was archived on 2014-08-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140824052225id_/http%3A//railyatri.in/railyatri/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1" runat="server">
     <meta charset="utf-8">
@@ -117,8 +117,19 @@
                     </div>
                 </div>
                 <!-- end: page header -->
-                <ul id="tab-nav">
+               
+ <ul id="tab-nav">
                     <!-- nav tabs -->
+    <div id="line_nav" class="shortcut_menu"><div onclick="navigation_show()">
+        <img src="/assets/blue-pin.png" height="20px;" width="20px;">
+        </div>
+    </div>
+                    
+    <div id="cross_nav" style="cursor:pointer; display:none; padding-top:8px; float:left; margin-left:6px; width:25px; height:40px;"><div onclick="navigation_cross()">
+        <img src="/assets/bluewithoutpin.png" height="18px;" width="18px;"></div>
+    </div>
+
+                     <div style="float:left;">
                     <li class="home-tab active"><a href="/railyatri/home">
                         <div class="home-icon">
                         </div>
@@ -130,6 +141,7 @@
                     <li id="lirailwisdom"><a href="/railyatri/get_wisdom">RailWisdom<span style="font-size: 8px; position: absolute; top: -3px;">
                             TM</span></a></li>
                              <li><a href="http://blogs.railyatri.in" target="_blank">RY Blog</a></li>
+                     </div>
                     
                 </ul>
                 <div class="clearfix">
@@ -365,6 +377,82 @@ bottom: 16px;
                     </div>
                 </div>
 
+    <div id="shortcut_croller" class="shortcut_popup">
+        <ul class="mobile_ul" id="mobile_nav">
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/sound25x25.PNG" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/traintravel/alert" target="_blank">Alert System</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/sms_alert.png" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/configure/journey" target="_blank">SMS Alert</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/task.PNG" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/runningstatus" target="_blank">Live Train Status</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/Station Arr Dep1.png" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/arrival-departure" target="_blank">Live Station Status</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/ticket_30x30.PNG" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/pnrstatus/enquiry" target="_blank">PNR</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/pin.PNG" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/station/trains/traveltips/search" target="_blank">Rail Wisdom</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/list.PNG" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/train/search" target="_blank">Time Table</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/to-fromicon1.png" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/trains-between-stations" target="_blank">Train b/w Stations</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/Platform.png" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/train/platform" target="_blank">Platform Locator</a></div>
+            </div>
+
+            <div class="mobile_shortcut">
+                <div class="mobile_shortcut_img"><img src="/assets/Seat Availability.png" height="15px;" width="15px;"></div>
+
+                <div class="mobile_shortcut_text" style="float:left;"><a href="/train/seat/availibility" target="_blank">Seat Availablity</a></div>
+            </div>
+        </ul>
+    </div>
+<script type="text/javascript">
+    function navigation_show(){
+       document.getElementById("shortcut_croller").style.display = "none";
+       document.getElementById("cross_nav").style.display = "block";
+       document.getElementById("line_nav").style.display = "none";
+    }
+    function navigation_cross(){
+       document.getElementById("shortcut_croller").style.display = "block";
+       document.getElementById("cross_nav").style.display = "none";
+       document.getElementById("line_nav").style.display = "block";
+    }
+
+</script>
                 <div id="page-content">
                     <div id="content-left" style="width: 100% !important;">
                         <div>
