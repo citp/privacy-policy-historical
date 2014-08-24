@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuxpi.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216041140id_/http%3A//www.tuxpi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuxpi.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824102605id_/http%3A//www.tuxpi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ All files you upload to tuxpi.com are deleted from our server after a short time
 
 ## Sharing Photos
 
-This website doesn't provide any hosting of photos by itself but the editing interface allows to send images to third party sites for storage. Image hosting is currently provided by imageshack.us. You can find their TOS and privacy policy [here](http://imageshack.us/content.php?page=rules). 
+This website does not provide any hosting of photos itself but allows you to send images to third party sites for storage. Image hosting is currently provided by imgur.com. You can find their TOS and privacy policy [here](http://imgur.com/tos). 
 
 ## Log Files
 
