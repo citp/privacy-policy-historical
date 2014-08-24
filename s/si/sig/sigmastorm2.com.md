@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmastorm2.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209170655id_/https%3A//www.huntedcow.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmastorm2.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824092122id_/https%3A//www.huntedcow.com/home/privacy) for the most accurate reproduction.*
 
 # Hunted Cow - Privacy and Cookie Policy
 
@@ -74,6 +74,8 @@ In the event that we sell or buy any business or assets, in which case we may di
 If Hunted Cow Studios Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/home/terms) and other agreements; or to protect the rights, property, or safety of Hunted Cow Studios Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+If you have given us express permission to do so.
 
 ### Your Rights
 
