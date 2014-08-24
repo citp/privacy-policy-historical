@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkadeal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125018id_/http%3A//www.milkadeal.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkadeal.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824092200id_/http%3A//www.milkadeal.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MilkADeal
 
@@ -80,8 +80,8 @@ Damansara Perdana
 47820 Petaling Jaya  
 Selangor, Malaysia.
 
-Tel: +603 7725 2180  
-Fax: +603 7725 2160
+Tel: +603-7725 2180 / +603-5021 8398  
+Fax: +603-7725 2160
 
 Customer Service Inquiries | support@MilkADeal.com
 
