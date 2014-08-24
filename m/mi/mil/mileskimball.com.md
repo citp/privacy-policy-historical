@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileskimball.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions - Miles Kimball
 
@@ -43,7 +43,7 @@ Attn: Product Ideas
 Oshkosh, WI 54906  
 [newideas@mileskimball.com](mailto:newideas@mileskimball.com)
 
-Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/contactus.aspx). 
+Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/customerservice/contactus.aspx). 
 
 How do I get to the Miles Kimball locations?
 
@@ -75,19 +75,19 @@ Miles Kimball is on the left before the stop sign.
 
 What are the Miles Kimball Affiliate Programs?
 
-We recently partnered with Linkshare to manage our affiliate program. Join our affiliate program today and earn cash by promoting our brand and products on your website. When one of your customers visits our site and makes a purchase, we pay you a commission. For more information and to join, please visit the [ Linkshare affiliate website](http://www.linkshare.com/advertisers/publishers/). 
+We recently partnered with Impact Radius to manage our affiliate program. Join our affiliate program today and earn cash by promoting our brand and products on your website. When one of your customers visits our site and makes a purchase, we pay you a commission. For more information and to join, please visit the [ Impact Radius affiliate website](http://member.impactradius.com/campaign-campaign-info/Miles-Kimball.brand?io=UUnt1AgzayU0jLCUkRW2n9nsKAQ0WkDpvOHFvobEMMruZmvXpMJ56094SpUPlNTR). 
 
 What is the Miles Kimball Environmental Policy?
 
 Did you know?
 
-* Miles Kimball Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
+* Miles Kimball Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
 * Miles Kimball Company uses corrugate shipping containers made from over 60% post consumer content.  
 * Miles Kimball Company is committed to recycling. Annually, our distribution center recycles 600 tons of cardboard and 60 tons of office paper.  
-* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Paper%20Reduction%202005-2007.pdf).  
+* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Paper%20Reduction%202005-2007.pdf).  
 * The Miles Kimball Foundation donates more than $100,000 each year to support charitable, scientific, literary and educational institutions
 
-[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Environmental_Policy.aspx). 
+[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/CustomerService/Environmental_Policy.aspx). 
 
   
 
@@ -98,7 +98,8 @@ You cannot cancel your submitted order through our website at this time; please 
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM   
-Saturday and Sunday 8:00AM - 5:00PM (Central)
+Saturday 8:00AM - 5:00PM  
+Sunday 8:00AM – 5:00PM (Central)
 
  **Email:[ csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -109,14 +110,15 @@ Yes! Please contact our Sales Department.
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 6:00AM - 1:00AM  
-Saturday and Sunday 6:00AM - 9:00PM (Central)
+Saturday 6:00AM - 9:00PM  
+Sunday 6:00AM – 9:00PM (Central)
 
  **Email:[ csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
 
 Can I place an order online and send you a check?
 
-We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Miles%20Kimball%20Order%20Form.pdf) from the website and mail it in with a check. 
+We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/images/docs/Miles%20Kimball%20Order%20Form.pdf) from the website and mail it in with a check. 
 
 Do I have to pay sales tax?
 
@@ -136,7 +138,7 @@ Some customers have asked why these new requirements exist. We are required to p
 
 Do I have to register to place an order?
 
-No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
+No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
 
 How do I check the status of my web order?
 
@@ -244,7 +246,7 @@ Yes, we will let you know about availability before you add a product to your ca
 
 I can't find an item on your website that I know I saw in your catalog. Can I still order it?
 
-Yes! Please call our customer service department at 1-855-202-7394 Monday-Friday 8:00AM - 10:00PM, Saturday and Sunday 8:00AM - 5:00PM (Central) to check the availability of the product you wish to order. 
+Yes! Please call our customer service department at 1-855-202-7394 Monday-Friday 8:00AM - 10:00PM, Saturday 8:00AM - 5:00PM and Sunday 8:00AM – 5:00PM (Central) to check the availability of the product you wish to order. 
 
 I can't find the product I am looking for. How do I search for it?
 
@@ -286,7 +288,7 @@ Please note that you may upload photos to accompany your order by following the 
 
 After I've typed in the personalization for a product, how do I review it to make sure it is correct?
 
-You can review personalization when you are on the [ Shopping Cart page](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/checkout/checkoutstep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
+You can review personalization when you are on the [ Shopping Cart page](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/checkout/checkoutstep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
 
 If I order a personalized product and non-personalized product, will I receive all merchandise in the same order or in multiple shipments?
 
@@ -360,7 +362,8 @@ If you receive a damaged or incorrectly personalized item, or if you are missing
 
  **Phone: 1-855-202-7394**  
 Monday- Friday 8:00AM – 10:00PM  
-Saturday and Sunday 8:00AM - 5:00PM (Central) 
+Saturday 8:00AM - 5:00PM  
+Sunday 8:00AM – 5:00PM (Central) 
 
 **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -378,7 +381,7 @@ Return Goods
 2155 S. Oakwood Rd.  
 Oshkosh, WI 54906
 
- **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/webonlyreturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit=1&loc=en_US&appid=XOLT&country=US&Postal=54901&trans_mode=001). 
+ **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/customerservice/webonlyreturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit). 
 
   
 
@@ -407,7 +410,8 @@ Miles Kimball fulfills online international orders through our partner, Borderfr
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM  
-Saturday and Sunday 8:00AM - 5:00PM (Central)
+Saturday 8:00AM - 5:00PM  
+Sunday 8:00AM – 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response. All responses to customer service questions will be in English 
@@ -465,7 +469,7 @@ Within 24 hours of placing your order, you will receive an order confirmation em
 
 What is the returns policy for international orders?
 
-All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20140415094537id_/http%3A//www.mileskimball.com/mileskimball/customerservice/ContactUs.aspx). Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
+All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20140825013234id_/http%3A//www.mileskimball.com/mileskimball/customerservice/ContactUs.aspx). Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
 
   
 
@@ -501,7 +505,8 @@ In order to make any changes such as the quantity of your delivery, the delivery
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM – 10:00PM  
-Saturday and Sunday: 8:00AM – 5:00PM (Central)
+Saturday 8:00AM – 5:00PM  
+Sunday 8:00AM – 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours turn-around time for an email response. 
@@ -512,7 +517,8 @@ If you wish to cancel your program for any reason, please contact our Customer S
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM – 10:00PM  
-Saturday and Sunday: 8:00AM – 5:00PM (Central)
+Saturday 8:00AM – 5:00PM  
+Sunday 8:00AM – 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours turn-around time for an email response. 
@@ -543,7 +549,8 @@ Your shipping and billing address may be used to send you our print catalog or c
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM  
-Saturday and Sunday 8:00AM - 5:00PM (Central)
+Saturday 8:00AM - 5:00PM  
+Sunday 8:00AM – 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -612,7 +619,7 @@ Miles Kimball is a subsidiary of Blyth, Inc. and as such we may share the inform
 
 Service providers: To provide you the best possible service and products, we provide information to outside companies that help us deliver the products and services offered. For example, we may work with an outside company to manage a database of customer information or to distribute our emails.
 
-At times we may partner with outside vendors to provide additional services or products outside those offered by MilesKimball.com. Should you choose to accept or subscribe to offers from third parties, we may pass your relevant personal information, including name and credit card number, to the third party whose offer you have accepted. Your information will be transferred securely, and as a convenience, you will not need to re-enter your personal information. Your acceptance of a third party offer gives MilesKimball.com implied permission to share your personal information. Your personal information will not be released with out your permission, as evidenced by your acceptance or subscription to an outside third party offer.
+At times we may partner with outside vendors to provide additional services or products outside those offered by MilesKimball.com. Should you choose to accept or subscribe to offers from third parties, we may pass your relevant personal information, including name and credit card number, to the third party whose offer you have accepted. Your information will be transferred securely, and as a convenience, you will not need to re-enter your personal information. Your acceptance of a third party offer gives MilesKimball.com implied permission to share your personal information. Your personal information will not be released without your permission, as evidenced by your acceptance or subscription to an outside third party offer.
 
 Other companies: We do not rent or sell your e-mail address to anyone.
 
@@ -624,7 +631,7 @@ Oshkosh, WI 54906
 
  **How do we use Cookies?**
 
-A "cookie" is a small file stored on your computer by a web site that gathers certain information about your computer’s activity on the site (but not specifically who is using it). We use cookies to track activity and enable the interaction of our website with visitors for such things as adding items to your shopping cart and allow us to associate the cookie with other customer information you have provided us. That customer information is stored on our secured database. Our cookies do not store any personal or financial information about you. Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Miles Kimball web site, such as the shopping basket and "My Account" will not function properly.
+A "cookie" is a small file stored on your computer by a web site that gathers certain information about your computer’s activity on the site (but not specifically who is using it). We use cookies to track activity and enable the interaction of our website with visitors for such things as adding items to your shopping cart and allow us to associate the cookie with other customer information you have provided us. That customer information is stored on our secured database. Our cookies do not store any personal or financial information about you. Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Miles Kimball web site, such as the shopping basket and "My Account" will not function properly. You may also opt-out of our use of our cookies to provide you with personalized online display advertising by [clicking here.](http://dtmc.mileskimball.com/adinfo/adchoices_fpc.html?cid)
 
  **Pixel Tags or Web Beacons**
 
@@ -640,7 +647,8 @@ From time to time, Miles Kimball will send out an email announcing special sales
 
  **Phone: 1-855-202-7394**  
 Monday-Friday 8:00AM - 10:00PM  
-Saturday and Sunday8:00AM - 5:00PM (Central)
+Saturday 8:00AM - 5:00PM  
+Sunday 8:00AM – 5:00PM (Central)
 
  **Email:[csr@mileskimball.com](mailto:csr@mileskimball.com)**  
 Please allow 24 hours in turn-around time for an email response.
@@ -661,7 +669,7 @@ We do ask that you please review the acknowledgment of your request that you wil
 
 We may change our Privacy Policy at any time. Please return to this page every so often and let us know if you would like us to make changes in the way our Privacy Policy applies to you.
 
-Enjoy your visit to MilesKimball.com. We hope you find what you are looking for. 
+Enjoy your visit to MilesKimball.com. We hope you find what you are looking for.
 
   
 
