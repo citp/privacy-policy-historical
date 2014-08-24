@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybytez.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209015946id_/http%3A//www.easybytez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybytez.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825005317id_/http%3A//www.easybytez.com/privacy.html) for the most accurate reproduction.*
 
 # EasyBytez.com - Easy way to share your files
 
