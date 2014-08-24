@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040915id_/http%3A//www.dressupgames77.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupgames77.net privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825013212id_/http%3A//www.dressupgames77.net/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - DressupGames77 - Trendy Barbie, Dora & Fashion Dress Up Games Daily
 
