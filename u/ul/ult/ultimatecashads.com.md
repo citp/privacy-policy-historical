@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatecashads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052744id_/http%3A//www.ultimatecashads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecashads.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824225738id_/http%3A//www.ultimatecashads.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Cash Ads | Ultimate Advertising Solutions That Pay!
 
@@ -7,6 +7,14 @@
 |   |  |   
 ---  
   
+Unlimited signups  
+Team Website  
+System of recruiting  
+Business telling others   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=6109)
+
+\------------------- 
+
 New facebook  
 Get free shares  
 Each share now 29$  
@@ -15,27 +23,19 @@ Make, Invite friends
 
 \------------------- 
 
-A Million+ Visitors  
-Get A Million+ of   
-Guaranteed Visitors -   
-Free Now!   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=2457)
+JUST LAUNCHED  
+1 Buck Ad Share  
+100% PROFIT  
+Massive Income   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=4512)
 
 \------------------- 
 
-Share The Wealth  
-Register for free  
-Upgrade account with $4  
-Get free advertisement   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=3376)
-
-\------------------- 
-
-Ad Share Profits  
-Unique 3 X 10  
-$4 Referral Bonuses  
-EASY TO EARN   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=4618)
+Earn Free $12 Daily  
+Start from $0!   
+No Recruiting !  
+No Sponsoring!   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=6111)
 
 \-------------------   
   
@@ -75,11 +75,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions:  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by [Clicking Here](https://web.archive.org/web/20140625052744id_/http%3A//www.ultimatecashads.com/terms.php).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by [Clicking Here](https://web.archive.org/web/20140824225738id_/http%3A//www.ultimatecashads.com/terms.php).
 
 Your Consent:  
 By using our site, you consent to our privacy policy.Contacting Us:  
-If there are any questions regarding this privacy policy you may contact us by clicking the [Contact Us](https://web.archive.org/web/20140625052744id_/http%3A//www.ultimatecashads.com/contactus.php) button below.
+If there are any questions regarding this privacy policy you may contact us by clicking the [Contact Us](https://web.archive.org/web/20140824225738id_/http%3A//www.ultimatecashads.com/contactus.php) button below.
 
 |  |   
 ---  
