@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.co.uk privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227091816id_/http%3A//www.zazzle.co.uk/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.co.uk privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824052032id_/http%3A//www.zazzle.co.uk/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -134,7 +134,7 @@ Zazzle Inc.
 Attn: Privacy  
 1800 Seaport Blvd  
 Redwood City, CA 94063  
-[coppa@zazzle.co.uk](mailto:coppa@zazzle.co.uk)  
+[coppa@zazzle.com](mailto:coppa@zazzle.com)  
 1 (800) 980-9890 
 
 ####  Access to information 
@@ -143,6 +143,6 @@ The Act gives you the right to access information held about you. Your right of 
 
 ####  How can I change, delete, or update my information? 
 
-Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.co.uk](mailto:privacy@zazzle.co.uk) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
+Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
 
 The current version of the Zazzle Privacy Policy was adopted effective as of 1 January 2012. 
