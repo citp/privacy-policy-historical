@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the card.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331051502id_/https%3A//www.card.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the card.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824122757id_/https%3A//www.card.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CARD.com
 
@@ -34,7 +34,7 @@ How does The Bancorp collect my personal information?  |  We collect your person
   * pay your bills or make a wire transfer 
   * provide account information 
 
-We also collect your personal information from others, such as credit bureaus.   
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
 Why can’t I limit all sharing?  |  Federal law gives you the right to limit only: 
 
   * sharing for affiliates’ everyday business purposes – information about your creditworthiness 
