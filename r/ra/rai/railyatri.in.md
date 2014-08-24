@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railyatri.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113537id_/http%3A//railyatri.in/railyatri/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railyatri.in privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824052225id_/http%3A//railyatri.in/railyatri/privacypolicy) for the most accurate reproduction.*
 
 # RailYatri.in - Get more out of your train travel ! News, tips, trip status and more.
 
