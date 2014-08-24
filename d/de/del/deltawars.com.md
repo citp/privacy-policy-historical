@@ -1,42 +1,45 @@
-> *The following text is extracted and transformed from the deltawars.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327030621id_/http%3A//www.deltawars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltawars.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824110855id_/http%3A//uk.alpha-wars.com/privacy) for the most accurate reproduction.*
 
-# Privacy - DeltaWars
+# 
 
-Here at Deltawars we are committed to keeping your personal data safe. However to do this we need to collect some data from you. This page will explain what data we will gather on you and how it is used. 
+**Privacy Statement** This privacy statement provides information regarding the personal data Studio Hoppe GmbH (hereinafter referred to as "Studio Hoppe") - Wilenstrasse 135, 8832 Wilen SZ Switzerland, acquires through your use of the browser game Alpha Wars (hereinafter referred to as "browser game"). 
 
-**The following information is asked to be given by you on account sign-up:**
+**1\. Website, Registration, and Games**  
+If you are interested in the online game and go to its website, Studio Hoppe will only receive your IP address in order to display the page. To use the browser game, you must register in advance. Studio Hoppe collects and uses your user name, password and an email address (in order to confirm the login information, allow the user to use the forget password link or for requests that will occur later) in order to fulfill the User Agreement, but in particular, to enable you to access to your account. This includes the monitoring of compliance with the conditions of use and rules of the game. Registration and use of the free services of the browser game can use pseudonyms (as long as your name is not included in your e-mail address). In short, you can choose your username freely. Please note that this username in the browser game may be used and displayed for different purposes (for example, for labeling your game pieces on the playing field or in alliances, the identification of your comments in chat rooms or message as well as the charting of scores that you obtain ). If you do not want your real name to be recognized here, you should choose a different username.   
+When using the browser game, data about your activities as a player (for example, moves, game histories, Scores, records of the use of game resources) and individual data, such as IP address, browser type, device type, operating system and access times transmitted through your computer or mobile device are automatically sent to Studio Hoppe and stored on the server and used for the following purposes:  
+\- This data is used to record your progress and to enable you to continue playing after you logout.   
+\- Except for checking compliance with the Terms of Use and Rules or for the prosecution of illegal use of the internet publication, this data only used by Studio Hoppe for statistical and performance analysis (as far as possible, the information is anonymized).   
+\- In addition, statements which you write in the communication platforms (chats, some of which are publicly available, only partially closed groups (such as alliances) are accessible) in the browser game are saved and used for that.   
+\- If the browser game allows the sending of messages to other individual players, the traffic data and the content of your communications will be stored for this purpose: the content of your communications are basically only you and the recipient accessible; However, Studio Shoppe reserves the right to take access to the communication in case of complaints concerning compliance with the conditions of use and rules of the game, the resolution of such allegations.   
+\- The browser game score charts are managed in the form of a high-score list, users are listed under their user name with the points they have earned: If you do not want to use your real name for it, you should select the user name to match; However, Studio Hoppe allows you to hide the user name in the charts.   
+If you make a request from Studio Hoppe, the information contained therein to answer the request can be stored and used. Studio Shoppe reserves the right to use your personal data to customize the service to meet requirements and to continually improve the service. The thereby resulting profiles are created under a pseudonym with which you can be identified. You can object to the use of such user profiles.
 
-  * Email address 
-  * Account password 
-  * Security question & answer 
+**2\. The Use of Free Add-ons and Payment Data**  
+If you want to purchase paid add-ons, Studio Hoppe or payment providers commissioned by Studio Hoppe need at least your user name and optionally additionally your name, address, telephone number (for payment via sms or phone) and - different depending on method of payment - payment data (eg account information) on them to perform the payment.  
+Studio Hoppe works with payment providers (credit card companies, banks, PayPal, mobile services, etc.) that you can select during the checkout process. These service providers only have access to your personal data as is necessary to fulfill their tasks, they do not have access to any of the aforementioned data that is given at registration for your use of the game. These service providers are obliged to treat your personal data in accordance with this privacy policy and the relevant data protection laws. For payment transactions your information is encrypted using the SSL method and your payment data is regularly transmitted and stored only on the payment provider you have selected. Studio Hoppe does not have access to this data only receives information regarding the implementation of the payment (for example, transaction number) to allocate your payment to. 
 
-  
-You will need to remember the above information, to log into your account and for doing a password recovery. This data will not be passed on to any third parties and is strictly confidential. 
+**3\. Newsletter**  
+Studio Hoppe will inform you about news or, where appropriate, changes to the browser game as well as its own similar services by e-mail. In every newsletter there will be an option to discontinue receiving them, see the information note 'To receive future no mail for this game account, click here'. After clicking on 'here', you will be sent no further information for this game account. 
 
-**The following information is retrieved automatically by Deltawars on sign-up:**
+**4\. cookies**  
+**4.1 About cookies**  
+Cookies are small text files that are stored on your hard drive when you visit a website. These text files are used by the Web server that you are making a connection with your web browser (eg Internet Explorer). Servers that communicate with your device can read these text files. The same is true for other technologies such as local Flash data below for simplicity are also indicated as cookies. .
 
-  * IP Address 
-  * Registration date 
+**4.2 Cookies to Facilitate the Use**  
+Studio Hoppe uses cookies solely to enable the use of the browser game or to facilitate and implement the terms of service which allows for a simple progress of the game across several pages without the user needing to login each time or to the to prevent use of multi-accounts. For this purpose, we use so-called "session cookies" that operate only during the duration of your visit to the site and only as long as your browser is open. Once you close the corresponding web session or the browser, the cookie is automatically deleted. 
 
-  
-The above information is needed for anti-spam and anti-hacking purposes, again this data will not be passed on to any third parties and is only available to Deltawars administrators. 
+**4.3 Browser Settings**  
+Most browsers are set to automatically accept cookies. However, you can deactivate the storing of cookies or adjust your browser so that it notifies you when cookies are being sent. You can also delete cookies at any time from your computer (for example, in Windows Explorer). If you want to do this, please use the help function of your web browser or your operating system. However, Studio Hoppe would like to point out that you can thus reduce the functionality of this website which may make it unusable.
 
-**The following information is retrieved automatically by Deltawars every time you login or use the Deltawars website:**
+**4.4 Online Advertising for the Game**  
+Studio Hoppe allows for the circulation of online advertising for the browser game and allows third parties to place pixels on their website used to invite users to register for the game. Studio Hoppe is not responsible for cookies that are used by these websites, which falls under the responsibility of the advertising agencies that place advertisements on these websites.
 
-  * IP Address 
-  * Email address 
-  * Account password 
-  * Last site action & date/time 
+**5\. Disclosure of Data / Storage**  
+Your data will be stored and used in Germany and Switzerland. Although Switzerland is not a member country of the European Union, the European Commission has recognized that Switzerland has a comparable level of data protection.   
+Of course, your personal data will not be sold to third parties.   
+Apart from the above payment providers (see paragraph 2) Studio Hoppe works (eg data centers (server) host providers) with IT service providers. These service providers only have access to your personal data as is necessary to fulfill their tasks. These service providers are obliged to treat your personal data in accordance with this privacy policy and the relevant data protection laws.   
+Finally, on an individual basis, Studio Hoppe may give your data to investigating authorities as is legally required to do so without your consent.
 
-  
-The above information is needed for anti-spam and anti-hacking purposes. It is also needed for game functionality and login.   
-
-
-  * By visiting this site, you are automatically agreeing to the rules/terms of this website. Failure to adhere to the rules/terms will result in Deltawars taking action against your account. 
-  * For help/support/more information ask a team member at the [Forum](https://web.archive.org/discussion/index.php)
-  * For information on the game rules visit the [Rules](https://web.archive.org/web/20090327030621id_/http%3A//www.deltawars.com/rules.php) page. 
-  * Deltawars can not be held responsible for any disruption of service, loss of data, game play malfunction, or other events or conditions that are undesirable to the user, under any circumstances. 
-  * Deltawars makes no guarantees as to the quality or consistency of service and is under no obligation to deliver such service. 
-  * Deltawars reserves the right to ban, suspend, delete, or modify accounts at any time for any reason without notice. 
-
-
+**6\. Your Rights to Revoke, Access, Rectification, and the Deletion of Data**  
+You can object to the use of user profiles (see point 1). You can also request information about the stored data concerning yourself as well as the correction or deletion of inaccurate data. If you wish to exercise these rights or have any questions about your privacy please contact us at or email address listed above or post-mail, care of Studio Shoppe. Please enter the browser you play the game on as well as your player name and e-mail address.   
+We will delete your personal data, insofar as they are no longer necessary or you have made a right of cancellation claims. We will delete your account even if you have not completed the necessary information regarding your browser information or if you have not completed the tutorial within 10 days or have not logged in for a period of one year (unless you have been charged for game resources, your account will not be deleted) . Please note that billing data cannot be deleted, as far as retention obligations consist of or are still required by us for the billing of services. 
