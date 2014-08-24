@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabletics.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514070109id_/http%3A//www.fabletics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabletics.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824124644id_/http%3A//www.fabletics.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Fabletics
+# Women's Sportswear, Activewear & Workout Clothes | Fabletics
 
 This privacy policy addresses how we collect, use, disclose, transfer, and store your information. By visiting Fabletics.com (this "Site"), or providing your information to us, you agree to accept the practices described in this privacy policy.
 
