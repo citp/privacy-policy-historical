@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriaplumb.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607080752id_/http%3A//www.victoriaplumb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriaplumb.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824043746id_/http%3A//www.victoriaplumb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,7 +103,7 @@ Amsterdam Road
 Sutton Fields Industrial Estate  
 Hull  
 HU7 0XF  
-0844 804 45 45
+0344 804 48 48
 
 [info@victoriaplumb.com](mailto:info@victoriaplumb.com)
 
