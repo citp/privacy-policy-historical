@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216012717id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824075935id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
 
 # Read and Understand the Hatchbuck Privacy Policy
 
