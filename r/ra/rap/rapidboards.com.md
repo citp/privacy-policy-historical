@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidboards.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630202209id_/http%3A//www.rapidboards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidboards.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825215438id_/http%3A//www.rapidboards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - RapidBoards
 
