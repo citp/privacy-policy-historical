@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentblvd.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003750id_/https%3A//www.contentblvd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentblvd.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825143726id_/https%3A//www.contentblvd.com/privacy-policy) for the most accurate reproduction.*
 
 # Content Blvd Privacy Policy | Content Blvd
 
