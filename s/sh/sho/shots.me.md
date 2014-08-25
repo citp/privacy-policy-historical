@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the shots.me privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522004759id_/http%3A//shots.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.me privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825173721id_/http%3A//privacy.shots.com) for the most accurate reproduction.*
 
 # Shots — Privacy Policy
+
+[](http://shots.com/)
 
 ## Effective Date: March 26, 2013
 
 ## Last Updated: March 4, 2014
 
-SHOTS (“SHOTS MOBILE, INC.,” “us” or “we”) values the privacy of our users, members, and others (collectively or individually “Users”) who visit and use www.shots.me and its associated websites and services (collectively, the “Shots Site”). This statement governs information you provide to us or that we learn from your use of the Shots Site and tells you how we may collect, use, and in some instances share, this information.
+SHOTS (“SHOTS MOBILE, INC.,” “us” or “we”) values the privacy of our users, members, and others (collectively or individually “Users”) who visit and use www.shots.com and its associated websites and services (collectively, the “Shots Site”). This statement governs information you provide to us or that we learn from your use of the Shots Site and tells you how we may collect, use, and in some instances share, this information.
 
 ## The Information Shots Collects
 
@@ -60,12 +62,12 @@ PLEASE NOTE THAT WITH THE EXCEPTION OF CERTAIN CATEGORIES OF INFORMATION AS IDEN
 
 Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we do not intend to collect personally identifiable information from anyone under the age of thirteen (13). Any person who provides their personal information to Shots through the Shots Site represents that they are 13 years of age or older.
 
-We do not knowingly collect, maintain, or use personally identifiable information from children under 13 years of age, and no part of the Shots Site is directed to children under the age of 13. If you learn that your child has provided us with personally identifiable information without your consent, you may alert us at [privacy@shots.me](mailto:privacy@shots.me). If we learn that we have collected any personally identifiable information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
+We do not knowingly collect, maintain, or use personally identifiable information from children under 13 years of age, and no part of the Shots Site is directed to children under the age of 13. If you learn that your child has provided us with personally identifiable information without your consent, you may alert us at [privacy@shots.com](mailto:privacy@shots.com). If we learn that we have collected any personally identifiable information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
 
 ## Choice/Opt-Out
 
 Shots Site provides you with the opportunity to affirmatively opt-out of receiving communications from us and our partners at the point where we request information about you. Shots Site gives you the option to end our use of your information, and to cease receiving or otherwise having access to future communications or services.   
-[opt-out@shots.me](mailto:opt-out@shots.me)
+[opt-out@shots.com](mailto:opt-out@shots.com)
 
 ## Third-party Advertisers, Links to Other Sites
 
@@ -79,7 +81,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be illegally or improperly accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.
 
-If Shots learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Shots Site or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Shots Site. Shots may post a notice on the Shots Site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Shots Site. Shots may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at [privacy@shots.me](mailto:privacy@shots.me).
+If Shots learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Shots Site or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Shots Site. Shots may post a notice on the Shots Site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Shots Site. Shots may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at [privacy@shots.com](mailto:privacy@shots.com).
 
 ## Special Note to International Users
 
@@ -104,8 +106,8 @@ Shots reserves the right, at our discretion, to change, modify, add, or remove p
 
 ## Contacting Shots
 
-If you have any questions, comments, or concerns about this Privacy Policy, please email us at [privacy@shots.me](mailto:privacy@shots.me) or write to us at:
+If you have any questions, comments, or concerns about this Privacy Policy, please email us at [privacy@shots.com](mailto:privacy@shots.com) or write to us at:
 
 Shots Mobile, Inc.  
-560 Mission St., Suite 1306  
+560 Mission St., Suite 1307  
 San Francisco, CA 94105 
