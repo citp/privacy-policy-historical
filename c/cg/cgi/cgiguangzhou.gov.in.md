@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051642id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825031607id_/http%3A//cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
   * #### Consulate News
 
-Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday July 05, 2014 from 1000-1730 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
+Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday August 30, 2014 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
 
 [More News](https://web.archive.org/news/index/2)
 
