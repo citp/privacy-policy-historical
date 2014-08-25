@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christscollege.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324042413id_/http%3A//christscollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christscollege.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825211306id_/http%3A//christscollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Christ's College
 
