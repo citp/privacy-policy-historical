@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626193129id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825050710id_/https%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
 
 # Hotel Tonight - Privacy Policy
 
-### Last Revised: April 15, 2012
+### Last Revised: July 24, 2014
 
-This privacy policy (“ **Policy** ”) explains how personally identifiable information is collected, used and disclosed by HotelTonight (“ **HotelTonight** ”, “ **we** ” or “ **us** ”) with respect to your access and use of HotelTonight’s iOS application, Android application, mobile web application and the website located at www.hoteltonight.com (collectively, the “ **Application** ”) and the booking and other services available through the Application (collectively, the “ **Service** ”) so you can make an informed decision about using the Service. 
+This policy (" **Policy** ") describes the way HotelTonight handles personally identifiable information and data. This Policy applies to our mobile applications, websites, emails, text messages and social media accounts (the " **Application** ") and the booking and other services (" **Services** ") available through our Application. When you use the Application or our Services, you agree to the terms of this Policy. 
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
 
