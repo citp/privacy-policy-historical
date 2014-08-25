@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryfood.com privacy policy that was archived on 2012-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120226043922id_/http%3A//www.directoryfood.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryfood.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825133109id_/http%3A//www.directoryfood.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Food Directory
 
@@ -22,5 +22,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: |   
----|---
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 
