@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embedtubes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054252id_/http%3A//www.embedtubes.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedtubes.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826003449id_/http%3A//www.embedtubes.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,29 +48,29 @@ We also use Your information for the obvious purpose of providing Your User prof
 
 ### Celebs Videos From Our Friends
 
-  * [ ](http://www.celebsnudeworld.com/2068/cybill-shepherd/ "cybill shepherd ndue")
+  * [ ](http://www.celebsnudeworld.com/2193/emmanuelle-1974-sylvia-kristel/ "emmanuelle 1974 sylvia kristel")
 
-##### cybill shepherd ndue
+##### emmanuelle 1974 sylvia kristel
 
-  * [ ](http://www.celebsnudeworld.com/2588/alessia-fabiani/ "alessia fabiani")
+  * [ ](http://www.celebsnudeworld.com/1183/emilia-clarke-game-of-thrones/ "emilia clarke game of thrones nude")
 
-##### alessia fabiani
+##### emilia clarke game of thrones nude
 
-  * [ ](http://www.celebsnudeworld.com/2051/akira-lane-exotic-dancer/ "akira lane exotic dancer")
+  * [ ](http://www.celebsnudeworld.com/2638/zoe-saldana-topless-hot-scene/ "zoe saldana topless hot scene")
 
-##### akira lane exotic dancer
+##### zoe saldana topless hot scene
 
-  * [ ](http://www.celebsnudeworld.com/2820/sextape-joanie-laurer-chyna-1-night-in-china-american-wwe-wrestler/ "sextape joanie laurer chyna 1 night in china american wwe wrestler")
+  * [ ](http://www.celebsnudeworld.com/2543/teanna-kai/ "teanna kai")
 
-##### sextape joanie laurer chyna 1 night in china ameri ...
+##### teanna kai
 
-  * [ ](http://www.celebsnudeworld.com/2647/gal-gadot/ "gal gadot")
+  * [ ](http://www.celebsnudeworld.com/2636/celeb-brigitte-nielsen-masturbating/ "celeb brigitte nielsen masturbating")
 
-##### gal gadot
+##### celeb brigitte nielsen masturbating
 
-  * [ ](http://www.celebsnudeworld.com/2050/akira-lane-hardcore-date-nigth/ "akira lane hardcore date nigth")
+  * [ ](http://www.celebsnudeworld.com/2430/nicole-eggert-02/ "nicole eggert")
 
-##### akira lane hardcore date nigth
+##### nicole eggert
 
 
 
