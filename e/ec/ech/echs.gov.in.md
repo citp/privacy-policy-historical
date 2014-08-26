@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echs.gov.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124107id_/http%3A//www.echs.gov.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echs.gov.in privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827000734id_/http%3A//echs.gov.in/privacy.html) for the most accurate reproduction.*
 
 # ECHS
 
