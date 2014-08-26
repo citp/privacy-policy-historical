@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081215id_/http%3A//www.cuelinks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827012442id_/http%3A//cuelinks.com/privacy_policy) for the most accurate reproduction.*
 
 # Cuelinks - A 2-minute Content Monetization Solution for your website.
 
