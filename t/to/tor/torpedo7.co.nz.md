@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514062408id_/http%3A//www.torpedo7.co.nz/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826114058id_/http%3A//www.torpedo7.co.nz/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Torpedo7 NZ - Terms & Conditions
 
@@ -66,11 +66,11 @@ If you wish to have your registration removed from our directory for any reason,
 
 ### Access and removal of Information 
 
-You have the right to access, change and delete personal data that you provide Torpedo7 as part of your subscription. You can exercise this right at any time by following the links in Torpedo7 emails to our preference centre or please [contact us](https://web.archive.org/content/contactus.html).  
+You have the right to access, change and delete personal data that you provide Torpedo7 as part of your subscription. You can exercise this right at any time by following the links in Torpedo7 emails to our preference centre or please [contact us](https://web.archive.org/contactUs.do).  
 When you request changes to your Torpedo7 subscription, it can take up to five days for changes to take effect.
 
 ### Updates to our information practices
 
 From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at Torpedo7.
 
-If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/content/contactus.html).
+If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/contactUs.do).
