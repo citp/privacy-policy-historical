@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentomania.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829110334id_/http%3A//contentomania.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentomania.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826165605id_/http%3A//www.contentomania.com/privacy.html) for the most accurate reproduction.*
 
 # Contentomania
 
@@ -8,10 +8,6 @@
 #### Your Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-#### Relestar DSP Cookie
-
-Relestar places a cookie on any machine accessing this site. For full details and privacy policy check [here](https://relestar.com/adnetwork/privacy-policy/). To opt out of this cookie tracking click [here.](https://relestar.com/accounts/optout/)
 
 #### Google Adsense and the DoubleClick DART Cookie
 
