@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054623id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826061243id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer of cbtopsites.com
 
