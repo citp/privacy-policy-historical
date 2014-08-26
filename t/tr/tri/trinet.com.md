@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trinet.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421174225id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinet.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826023737id_/http%3A//www.trinet.com/company/terms.htm) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | TriNet
 
 ## **Introduction** \- www.trinet.com
 
-This privacy policy applies to the website [www.trinet.com](http://www.trinet.com/) and to TriNet services websites at: [www.hrpassport.com](http://www.hrpassport.com/), [https://soiportal.soi.com](https://soiportal.soi.com/); [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/>. These websites are owned and operated by TriNet Group, Inc. and its subsidiaries (“TriNet”). This privacy policy describes how TriNet collects and uses the personal information you provide on our websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to the website [www.trinet.com](http://www.trinet.com/) and to TriNet services websites at: [https://sso.trinet.com](http://sso.trinet.com/), [www.hrpassport.com](http://www.hrpassport.com/), [https://soiportal.soi.com](https://soiportal.soi.com/); [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/>. These websites are owned and operated by TriNet Group, Inc. and its subsidiaries (“TriNet”). This privacy policy describes how TriNet collects and uses the personal information you provide on our websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 TriNet delivers HR outsourcing services that allow companies to do what they do best. Thousands of employers have turned to TriNet for human resources, benefits, payroll, workers' compensation and strategic human capital services. As their trusted HR advisor, TriNet helps these employers contain HR costs, minimize employer-related risk and relieve the administrative burden of HR. In order for TriNet to provide this vast array of services to its customers and their worksite employees, TriNet must collect certain personal information regarding the employees of its customers.
 
@@ -14,7 +14,7 @@ This policy does not apply to any information that you may provide directly to t
 
 [](https://privacy.truste.com/privacy-seal/TriNet-Human-Resources/validation?rid=4954cdcf-8567-482b-9df0-864a3684213e "Validate TRUSTe privacy certification")
 
-TriNet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and the related practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the websites listed above and mobile apps connected to these websites. 
+TriNet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and the related practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the websites [www.trinet.com](http://www.trinet.com/), [https://sso.trinet.com](https://sso.trinet.com/), [www.hrpassport.com](https://www.hrpassport.com/), [https://soiportal.soi.com](https://soiportal.soi.com/), [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/> and mobile apps connected to these websites. 
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at  [employees@trinet.com](mailto:employees@trinet.com "Contact us to find out more info on payroll services & other human resources services we offer").  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -26,11 +26,13 @@ When you download and/or use our services, we automatically collect information 
 
 ##  **Usage Tracking and Cookies**
 
-We track user traffic patterns throughout all of our sites, but this tracking is never associated with non-registered individual users. We compile aggregate data mainly by tallying page views throughout our sites. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), and what browser and computing platform you are using.
+Technologies such as cookies, beacons, tags and scripts are used by TriNet and our affiliates, analytics service providers, and third party providers of HR services we have engaged. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an aggregated basis and, in the case of registered users, on an individual basis, as well.
+
+For example we track user traffic patterns throughout all of our sites, but this tracking is never associated with non-registered individual users. We compile aggregate data mainly by tallying page views throughout our sites. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), and what browser and computing platform you are using.
 
 In addition, we use cookies on certain pages of our sites. We may also offer certain features that are only available through the use of a cookie. Cookies enable you to enter your password less frequently during a session. Cookies can also help us provide you information that is targeted to your interests. Cookies are stored on your hard drive, not on our sites. Most cookies are "session cookies," meaning they are automatically deleted at the end of a session. We also use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time and remembers your preferences. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our sites, and you may be required to reenter your password more frequently during a session.
 
-The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers use session ID cookies to make it easier for you to navigate our site.
+The use of cookies by our affiliates, tracking utility company, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our affiliates, tracking utility company, and service providers use session ID cookies to make it easier for you to navigate our site.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
@@ -46,9 +48,13 @@ We may use the email address, mailing address, and phone number we collect from 
 
 We use information in the file we maintain specific to you, and other information we obtain from your current and past activities on our sites, to resolve disputes and troubleshoot problems. At times, we may look across multiple users to identify problems or resolve disputes and we may evaluate information about you to look for users using multiple User IDs or aliases.
 
+## **Children’s Privacy**
+
+TriNet’s websites are intended for adults. We do not knowingly collect personal information from children under the age of 13. If we obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files. However, we will retain information from adult registered users about their dependents for purposes of administering benefits for their dependents, including dependents under the age of 13.
+
 ##  **Customers and Worksite Employees of TriNet**
 
-If you are a customer (also referred to as a worksite employer) or worksite employee serviced by TriNet, we may collect and maintain personally identifiable information including, but not limited to, name, address, phone number, social security number, taxpayer identification number, age, marital status, occupation, salary, benefits, dependent information, etc. through TriNet service websites or other means disclosed to you. This information will be used to provide our professional employer and other HR-related services, which may include sharing such information with your worksite employer to the extent permitted by applicable law.
+If you are a customer (also referred to as a worksite employer) or worksite employee serviced by TriNet, you are a registered user and we may collect and maintain personally identifiable information including, but not limited to, name, address, phone number, social security number, taxpayer identification number, age, marital status, occupation, salary, benefits, dependent information, etc. through TriNet service websites or other means disclosed to you. This information will be used to provide our professional employer and other HR-related services, which may include sharing such information with your worksite employer to the extent permitted by applicable law.
 
 Once you receive a username and password, you can review and change the information you submitted during registration. If your registration information changes, you must promptly update, change or delete your registration information by logging into your information page or by emailing us at [employees@trinet.com](mailto:employees@trinet.com "Contact us to find out more info on payroll services & other human resources services we offer"). We will respond to your inquiries about your personal information within 30 days. We will retain in our files information you have requested be removed in some circumstances, such as to resolve disputes, troubleshoot problems and enforce any applicable agreements. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
@@ -74,11 +80,11 @@ We may use third-party suppliers and service providers to facilitate provision o
 
 ##  **Retention of Information**
 
-We retain personally identifiable information that we collect only so long as reasonably necessary to fulfill the purposes for which it was collected and to meet legal requirements. In certain cases, information is required to be retained indefinitely. We have a Business Record Retention Policy and an E-mail Retention Policy which provide for the destruction of personally identifiable information after it is no longer needed for the purposes for which it was collected and legal requirements have been met.
+We retain personally identifiable information that we collect only so long as reasonably necessary to fulfill the purposes for which it was collected and to meet legal requirements. We have a Business Record Retention Policy and an E-mail Retention Policy which provide for the destruction of personally identifiable information after it is no longer needed for the purposes for which it was collected and legal requirements have been met.
 
 ##  **Security**
 
-We use industry standard methods, such as firewalls and Secure Socket Layers (SSL), to safeguard the confidentiality of personally identifiable information about you. Using SSL means that data such as names and passwords cannot be easily deciphered by outside users. However, "perfect security" does not exist on the Internet.
+We use industry standard methods, such as firewalls and Secure Socket Layers (SSL), to safeguard the confidentiality of personally identifiable information about you. For registered users, personally identifiable information will include name, address, contact information, social security number, date of birth and payroll and benefits information related to the services we provide to registered users. Using SSL means that data such as names and passwords cannot be easily deciphered by outside users. However, "perfect security" does not exist on the Internet.
 
 ##  **Referrals**
 
@@ -90,7 +96,7 @@ Our website includes social media features, such as the Facebook button, and wid
 
 ##  Changes in this Privacy Policy
 
-We reserve the right to change this policy at any time without prior notice to users of this site. This Privacy Policy was last updated on March 31, 2014. Please check here regularly to learn of any changes to this policy. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We reserve the right to change this policy at any time without prior notice to users of this site. This Privacy Policy was last updated on July 22, 2014. Please check here regularly to learn of any changes to this policy. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## Copyright Notification
 
@@ -149,7 +155,7 @@ Personal Information includes, but is not limited to: name, employer, title, pos
 
 ##  **Amendments**
 
-This Privacy Policy was last updated on March 31, 2014, and may be amended from time to time by the posting of a revised policy on this website. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+This Privacy Policy was last updated on July 22, 2014, and may be amended from time to time by the posting of a revised policy on this website. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ##  **Privacy Complaints by Residents Outside of the United States**
 
@@ -165,6 +171,8 @@ Attention: General Counsel
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 If you are a Canadian resident and are not able to resolve your concern by contacting us, you may contact your provincial Privacy Commissioner or the Privacy Commissioner of Canada via  [www.priv.gc.ca/cu-cn/index_e.asp](http://www.priv.gc.ca/cu-cn/index_e.asp).
+
+See more at: <http://www.trinet.com/company/terms.htm#sthash.onprBGcA.dpuf>
 
 In addition to the applicable privacy policy, the following terms of use apply to your use of [www.trinet.com](http://www.trinet.com/) and to TriNet’s service websites: [www.hrpassport.com](http://www.hrpassport.com/); [https://soiportal.soi.com](https://soiportal.soi.com/); [www.hrdatasystems.com](http://www.hrdatasystems.com/) and <https://access.accordhr.com/login/>. These websites are owned and operated by TriNet Group, Inc., and it subsidiaries (“TriNet”). The content of the websites is protected by U.S. and international copyright laws, federal and states trademark laws and other intellectual property laws and conventions. Nothing contained in these websites will be construed as granting any license or right to use the protected materials, without the express written consent of TriNet. By accessing or otherwise using the websites, you are indicating your acceptance of, and agreement to abide by, these terms of use, the applicable privacy policies and all applicable international federal, state and local laws and regulations. 
 
