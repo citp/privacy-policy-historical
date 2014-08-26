@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219133823id_/http%3A//www.newbalance.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826232727id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Last Updated August 2, 2013
+### Last Updated August 2, 2013
 
 Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to " **www.newbalance.com** " (the "Service") operated by New Balance Athletic Shoe, Inc. and its affiliates ( "New Balance", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
 
 ## WHAT INFORMATION DOES NEW BALANCE COLLECT ABOUT ME?
 
-## Non-Individually Identifiable Data:
+### Non-Individually Identifiable Data:
 
 Like most websites, every time you visit our Service, we automatically collect certain data and information from you and/or your computer that is not personally identifiable. Examples of this type of information include:
 
@@ -22,7 +22,7 @@ Like most websites, every time you visit our Service, we automatically collect c
 
 When you visit the Service, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us.
 
-## Personal Information:
+### Personal Information:
 
 In general, you can visit many of our Web pages without providing us with any personally identifiable information, such as name, email address, postal address, phone number, gender, and, when necessary, credit card information or other information necessary to process your order or send you special announcements (all such personally identifiable information, collectively, "Personal Information"). However, in order to place an order or use certain services and features made available through our Web pages you will be required to provide certain Personal Information.
 
@@ -114,7 +114,7 @@ Please note that if you decide to opt-out of all third-party transmissions of yo
 
 ## HOW CAN I ACCESS, UPDATE OR DELETE "MY ACCOUNT" INFORMATION?
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.com/Terms-Conditions-of-Sale/terms,default,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
+Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.com/terms.html), you will be responsible for all activity occurring through the use of your user name and password.
 
 ## What if I have more questions about the New Balance Privacy Policy?
 
