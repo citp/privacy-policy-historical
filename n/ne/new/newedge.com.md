@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newedge.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072149id_/http%3A//www.newedge.com/content/newedgecom/en/footer/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newedge.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826204049id_/http%3A//www.newedge.com/content/newedgecom/en/footer/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
