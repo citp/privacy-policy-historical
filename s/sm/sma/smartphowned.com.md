@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartphowned.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623095431id_/http%3A//www.smartphowned.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphowned.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826155018id_/http%3A//www.smartphowned.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Autocorrect Fails and Funny Text Messages - SmartphOWNED
 
