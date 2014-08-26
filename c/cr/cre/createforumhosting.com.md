@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createforumhosting.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061620id_/http%3A//www.createforumhosting.com/create-forum-hosting-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createforumhosting.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826164840id_/http%3A//www.createforumhosting.com/create-forum-hosting-privacy-policy.html) for the most accurate reproduction.*
 
 # portfolio
 
