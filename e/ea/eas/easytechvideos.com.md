@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytechvideos.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208024939id_/http%3A//easytechvideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytechvideos.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827021016id_/http%3A//www.easytechvideos.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for EasyTechVideos.com
 
