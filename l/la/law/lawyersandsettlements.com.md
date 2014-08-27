@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyersandsettlements.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114204id_/http%3A//www.lawyersandsettlements.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersandsettlements.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827205825id_/http%3A//www.lawyersandsettlements.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,5 +43,3 @@ Any dispute over privacy is subject to our [Terms of Service](http://www.lawyers
 If you have any questions or comments about the practices of this site, or your dealings with us, you may [Contact Us](http://www.lawyersandsettlements.com/contact.html). 
 
 Last modified 2009-11-09
-
-| 
