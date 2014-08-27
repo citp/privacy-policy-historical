@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facultyplus.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325024947id_/http%3A//www.facultyplus.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyplus.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827162321id_/http%3A//www.facultyplus.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FacultyPlus
 
