@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209104112id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827114104id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | The Ultimate Bass Fishing Resource Guide® LLC
-
-http://www.bassresource.com/fish/Privacy.html
 
 The Ultimate Bass Fishing Resource Guide®; has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
@@ -33,5 +31,3 @@ This site has security measures in place to protect the loss, misuse and alterat
 This site gives users the following contact for removing their information from our database or to change and modify information previously provided. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact us](mailto:bass@bassresource.com)
 
 In addition to this notice, you encouraged to read the [Terms and Conditions](http://www.bassresource.com/fish/copyright.html) of this site. You are bound by such provisions and should therefore periodically visit this page.
-
-[Read More Articles on ](//)
