@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330093700id_/http%3A//www.infrascale.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827174051id_/http%3A//www.infrascale.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cloud Data Protection | SaaS Solutions from Infrascale
-
-**[](http://www.infrascale.com/)**
-
-You are here: [Home](http://www.infrascale.com/ "Infrascale") / Privacy Policy
 
 This privacy policy describes the privacy practices of the websites of  **Infrascale, Inc.**  (including its subsidiaries and affiliates) as well as our software products, online services and apps which include a link to this policy (collectively referred to as the “Sites”).  The Sites are owned and operated by Infrascale, Inc., a Delaware corporation (“Company”).  For the purposes hereof, the users of the Sites (including anyone that accesses, browses or uses the Sites) are referred to as “you,” “your,” or “User,” and Company is referred to as the “Company,” “we,” “us,” or “our”.  The Site can be accessed, browsed or used through a variety of online, mobile or other platforms as Company decides to make available (in its sole and absolute discretion) from time to time.
 
@@ -12,13 +8,9 @@ The privacy of users that access our Site is very important to us, and according
 
 All Users will be subject to and bound by this Policy.  By accessing, browsing and/or using the Sites, you are accepting the Privacy Policy and you expressly acknowledge that you have read and understood the Privacy Policy and that you agree and consent to the use of your Personal Information pursuant to the Privacy Policy.  If you do not agree with the terms and conditions set forth in the Privacy Policy then please do not provide us with any information and do not access, browse or use the Sites.
 
-## 
-
 ## General
 
 You agree and warrant that any and all of your personal information provided to us is true and correct, including, but not limited to, your name, physical or electronic mailing address, phone number, fax number and other information requested (and you agree to update the same for the duration of this Policy).  You understand that all personal information provided by you to us will be subject to the terms and conditions of our Privacy Policy.  You acknowledge and agree that we may disclose information you provide if required to do so by any applicable law, or if we, in our sole and absolute discretion, believe that disclosure is reasonable or necessary to (1) comply with any applicable law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is affirmatively required by applicable law); or (2) protect or defend the rights or property of the Company or any third party.
-
-## 
 
 ## Personal Information
 
@@ -36,8 +28,6 @@ The Company generally uses Personal Information for the following purposes: (a) 
 
 We may keep any and all of your Personal Information on hand for as long as permitted by law for any and all of the purposes described herein.
 
-## 
-
 ## Disclosure of Personal Information
 
 Personal Information may be disclosed to: (a) our employees, agents, representatives, advisors, affiliates and independent contractors, in connection with their performance of services for or on behalf of the Company; and (b) service providers who help us with our business operations, sales and marketing, information technology or professional services.  We will take reasonable measures to ensure that your Personal Information collected, used, disclosed or otherwise processed by any of the aforementioned parties for us or on our behalf is protected and not used or disclosed for purposes other than as directed by the Company, subject to requirements in foreign jurisdictions applicable to those organizations.  Please note that foreign jurisdictions differ in their privacy laws and some have Personal Information protection laws equivalent to or greater than those in the United States whereas others do not.
@@ -48,8 +38,6 @@ Personal Information may be used by the Company and disclosed to parties in conn
 
 Notwithstanding the foregoing, we may disclose your personal information: (a) as required under law or to meet legal, regulatory, insurance, audit, and security requirements, with your consent, or as permitted or required by law; (b) pursuant to a subpoena or other legal action; (c) where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities or suspected situations involving potential threats to the property rights or physical safety of any person; or (d) in the event of a violation of our Privacy Policy, terms and conditions or terms of use or service.  The Company may also freely disclose your personal information to third party service providers under conditions of confidentiality in order to administer our Sites or improve their functionality. These third-party service providers may include (without limitation) auditors, hosting providers, Internet Service Providers, software providers, information technology service providers, server and data providers, and e-mail validation services.
 
-## 
-
 ## The Sites
 
 In general, you can visit the online version of the Sites through traditional Internet access directly to the Sites and view basic content while remaining anonymous by not providing any Personal Information; provided, however, we do collect your IP address and cookie information.
@@ -58,15 +46,11 @@ Our Sites may collect non-personally identifiable information that becomes avail
 
 Notwithstanding the foregoing, if you access the Sites through means other than traditional Internet access directly to the Sites (i.e. you access the Sites through mobile, offline, co-branded, social media or networks, or any other means) the above collection of information is subject to modifications and changes based upon your access platform.
 
-## 
-
 ## Cookies
 
 We do use cookies on the Sites.  Cookies are small text files that your web browser leaves on your hard drive to recognize you as a repeat user of the Sites, track your use of the Sites and target marketing and advertising.  This allows for personalization of certain aspects of your visit to our Sites.  Information gathered from cookies in this way is only used on an aggregate basis.  Unless a visitor specifically provides their identity to us, e.g., by registering at our Sites, providing information through an online form or sending us correspondence from the Sites, we will not know who the individual visitors are.  We may use cookies to store preferences; record session information; develop information about Site visitors’ preferences and interests; record past activity on the Sites in order to provide better information when you return to our Sites; or customize web page content based on information you voluntarily provide.
 
 You can disable cookies using your Internet browser settings.  Please consult your web browser’s help function for information on how to disable cookies.  Note that if you disable cookies, certain features of our Sites may not function properly.
-
-## 
 
 ## Security
 
