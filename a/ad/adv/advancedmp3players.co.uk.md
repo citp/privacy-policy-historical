@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621082851id_/http%3A//www.advancedmp3players.co.uk/shop/info/Privacy_Policy___Cookie_Policy.13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmp3players.co.uk privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827160053id_/http%3A//www.advancedmp3players.co.uk/shop/info/Privacy_Policy___Cookie_Policy.13.html) for the most accurate reproduction.*
 
 # Security & Privacy – The Privacy Policy of Advanced Headphones
 
