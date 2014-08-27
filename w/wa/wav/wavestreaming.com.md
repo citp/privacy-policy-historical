@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053145id_/http%3A//www.wavestreaming.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827094901id_/http%3A//www.wavestreaming.com/about-us/privacy) for the most accurate reproduction.*
 
 # Wavestreaming / Privacy Policy /
 
@@ -10,7 +10,7 @@ All information collected by us is stored on computer systems, we do also utiliz
 
 Information you provide to Wavestreaming may be used for internal marketing and sales purposes. This may include, but is not limited to; mailings of company news, offers and other promotional material. The ability to 'opt out' of our mailing list will be provided to all individuals listed within our mailing list database. 
 
-Cookies are used by this website to track various things such as if you elect to 'remember a password' or for the cart/order process. We do not use cookies for advertising or to monitor activity outside of this site.
+Cookies are used by this website for advertising and also to track various things such as if you elect to 'remember a password' or for the cart/order process.
 
 ## Legal
 
@@ -20,4 +20,4 @@ Wavestreaming reserves the right to make alterations to this document whenever w
 
 You may also review our [Terms and Conditions](https://web.archive.org/about-us/terms) and our [Cookie Policy](https://web.archive.org/about-us/cookies).
 
-Last updated on: **20th September 2011**
+Last updated on: **14th July 2014**
