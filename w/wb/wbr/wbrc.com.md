@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbrc.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311023325id_/http%3A//www.myfoxal.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbrc.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827160416id_/http%3A//www.myfoxal.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy
 
