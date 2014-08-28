@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103719id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828094213id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Wantickets - Wantickets Events
+# Wantickets United States - United States Wantickets Events
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE WANTICKETS RDM, INC. WEBSITE (the "Site"). 
 
