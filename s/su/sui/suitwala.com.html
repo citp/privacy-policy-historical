@@ -1,0 +1,717 @@
+<!--The following is the downloaded HTML source of the suitwala.com privacy policy that was archived on 2014-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140828124946id_/http%3A//suitwala.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <title>Suitwala.com | Privacy policy</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="Online Suits ">
+    <meta name="generator" content="nopCommerce">
+    
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="/Themes/SuitwalaThemeResponse/Content/styles.css" rel="stylesheet" type="text/css">
+<link href="/Themes/SuitwalaThemeResponse/Content/responsive.css" rel="stylesheet" type="text/css">
+<link href="/Themes/SuitwalaThemeResponse/Content/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css">
+<link href="/Themes/SuitwalaThemeResponse/Content/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css">
+<link href="/Content/jquery-ui-themes/smoothness/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css">
+<link href="/Plugins/SevenSpikes.Nop.Plugins.AjaxCart/Styles/common.css" rel="stylesheet" type="text/css">
+<link href="/Plugins/SevenSpikes.Nop.Plugins.AjaxCart/Themes/DefaultClean/Content/ajaxCart.css" rel="stylesheet" type="text/css">
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundles/scripts/hdc7rfo8nuum-o3n-dkechrblpy6egolbbczxmhal981?v=z9aJJ8rC1v4V3QX6Jn6ujqzkWbwHJBCuSMIzoczngUQ1"></script>
+
+
+    
+    
+    
+    
+    
+<link rel="shortcut icon" href="http://www.suitwala.com/favicon.ico">
+    <!--Powered by nopCommerce - http://www.nopCommerce.com-->
+    <!--Copyright (c) 2008-2014-->
+</head>
+<body>
+    
+
+
+<div class="header">
+    
+    <div class="header-logo">
+        <a href="/">
+            <img title="" alt="Suitwala.com" src="/Themes/SuitwalaThemeResponse/Content/images/SuitwalaFinal-2.png">
+        </a>
+    </div>
+    <div class="header-links-wrapper">
+        <div class="header-links">
+    <ul>
+        
+            <li><a href="/register" class="ico-register sliding-u-l-r-l">Register</a></li>
+            <li><a href="/login" class="ico-login sliding-u-l-r-l">Log in</a></li>
+                            <li id="topcartlink">
+                <a href="/cart" class="ico-cart sliding-u-l-r-l">
+                    <span class="cart-label">Shopping cart</span>
+                    <span class="cart-qty">(0)</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/wishlist" class="ico-wishlist sliding-u-l-r-l">
+                    <span class="cart-label">Wishlist</span>
+                    <span class="wishlist-qty">(0)</span>
+                </a>
+            </li>
+        
+    </ul>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.header').on('mouseenter', '#topcartlink', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#topcartlink', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+                $('.header').on('mouseenter', '#flyout-cart', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#flyout-cart', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+            });
+        </script>
+</div>
+
+        <div id="flyout-cart" class="flyout-cart">
+    <div class="mini-shopping-cart">
+        <div class="count">
+You have no items in your shopping cart.        </div>
+    </div>
+</div>
+
+    </div>
+    <div class="search-box">
+        
+<form action="/search" method="get" onsubmit="return check_small_search_form()">    <input type="text" class="search-box-text" id="small-searchterms" autocomplete="off" value="Search Products" name="q">
+    <input type="submit" class="button-1 search-box-button" value="Search">
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#small-searchterms").focus(function() {
+                if (this.value == 'Search Products') {
+                    this.value = '';
+                }
+            });
+
+            $("#small-searchterms").blur(function() {
+                if (this.value == '') {
+                    this.value = 'Search Products';
+                }
+            });
+        });
+
+        function check_small_search_form() {
+            var search_terms = $("#small-searchterms");
+            if (search_terms.val() == "" || search_terms.val() == "Search Products") {
+                alert('Please enter some search keyword');
+                search_terms.focus();
+                return false;
+            }
+            return true;
+        }
+    </script>
+        
+            <script type="text/javascript">
+                $(function() {
+                    $('#small-searchterms').autocomplete({
+                            delay: 500,
+                            minLength: 3,
+                            source: '/catalog/searchtermautocomplete',
+                            select: function(event, ui) {
+                                $("#small-searchterms").val(ui.item.label);
+                                setLocation(ui.item.producturl);
+                                return false;
+                            }
+                        })
+                        .data("ui-autocomplete")._renderItem = function(ul, item) {
+                            var t = item.label;
+                            //html encode
+                            t = htmlEncode(t);
+                            return $("<li></li>")
+                                .data("item.autocomplete", item)
+                                .append("<a>" + t + "</a>")
+                            .appendTo(ul);
+                    };
+                });
+            </script>
+        
+</form>
+    </div>
+
+    <div class="header-selectors-wrapper">
+        <div class="tax-display-type-selector">
+            
+        </div>
+        
+        <div class="language-selector">
+            
+        </div>
+        
+    </div> 
+</div>
+<script type="text/javascript">
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 50) {
+            $('.myMarquee').addClass('fix');
+        } else {
+            $('.myMarquee').removeClass('fix');
+        }
+    });
+</script>
+<style>
+.fix{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    margin:0;
+    z-index:1250;
+}
+
+
+
+</style>
+
+        
+
+    
+
+
+<div id="dialog-notifications-success" title="Notification" style="display:none;">
+</div>
+<div id="dialog-notifications-error" title="Error" style="display:none;">
+</div>
+<div id="bar-notification" class="bar-notification">
+    <span class="close" title="Close">&nbsp;</span>
+</div>
+
+
+
+<div class="master-wrapper-page">
+    
+    <div class="master-wrapper-content">
+        <script type="text/javascript">
+            AjaxCart.init(false, '.header-links .cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+        </script>
+       <div class="header-menu">
+            
+
+<ul class="top-menu">
+    
+    <li>
+        <a href="/apparels">Apparels
+        </a>
+                <div class="top-menu-triangle"></div>
+                <ul class="sublist firstLevel">
+    <li>
+        <a href="/suits">Suits
+        </a>
+
+    </li>
+    <li>
+        <a href="/kurtis">Kurtis
+        </a>
+
+    </li>
+                </ul>
+
+    </li>
+    <li>
+        <a href="/jewellery-2">Jewellery
+        </a>
+                <div class="top-menu-triangle"></div>
+                <ul class="sublist firstLevel">
+    <li>
+        <a href="/necklace-pendants">Necklace &amp; Pendants
+        </a>
+
+    </li>
+    <li>
+        <a href="/rings">Rings
+        </a>
+
+    </li>
+    <li>
+        <a href="/earrings">Earrings
+        </a>
+
+    </li>
+    <li>
+        <a href="/hair-jewellery">Hair Jewellery
+        </a>
+
+    </li>
+    <li>
+        <a href="/bengals">Bangals
+        </a>
+
+    </li>
+    <li>
+        <a href="/pendant-set">Pendant Set
+        </a>
+
+    </li>
+    <li>
+        <a href="/brooches">Brooches
+        </a>
+
+    </li>
+    <li>
+        <a href="/body-jewellery">Body Jewellery
+        </a>
+
+    </li>
+                </ul>
+
+    </li>
+    <li>
+        <a href="/nightwears">Nightwears (Coming Soon!)
+        </a>
+                <div class="top-menu-triangle"></div>
+
+    </li>
+    <li>
+        <a href="/footwear">Footwear (Coming Soon!)
+        </a>
+                <div class="top-menu-triangle"></div>
+                <ul class="sublist firstLevel">
+    <li>
+        <a href="/bellies">Bellies
+        </a>
+
+    </li>
+    <li>
+        <a href="/flats-ballets">Flats &amp; Ballets
+        </a>
+
+    </li>
+    <li>
+        <a href="/heels">Heels
+        </a>
+
+    </li>
+    <li>
+        <a href="/slippers">Slippers
+        </a>
+
+    </li>
+    <li>
+        <a href="/casual-shoes">Casual Shoes
+        </a>
+
+    </li>
+    <li>
+        <a href="/sports-shoes">Sports Shoes
+        </a>
+
+    </li>
+    <li>
+        <a href="/stilettoes">Stilettoes
+        </a>
+
+    </li>
+    <li>
+        <a href="/wedges">Wedges
+        </a>
+
+    </li>
+    <li>
+        <a href="/peep-toes">Peep Toes
+        </a>
+
+    </li>
+    <li>
+        <a href="/flip-flops">Flip Flops
+        </a>
+
+    </li>
+    <li>
+        <a href="/sneakers">Sneakers
+        </a>
+
+    </li>
+    <li>
+        <a href="/loafers">Loafers
+        </a>
+
+    </li>
+                </ul>
+
+    </li>
+    
+</ul>
+
+<script type="text/javascript">
+    $('li', '.top-menu').on('mouseenter', function () {
+        $('a', $(this)).first().addClass('hover');
+        if (!$(this).parent().hasClass('top-menu')) {
+            var width = $(this).innerWidth();
+            $('.sublist', $(this)).first().css('left', width + 15);
+        }
+        $('.sublist', $(this)).first().addClass('active');
+        $('.top-menu-triangle', $(this)).addClass('active');
+    });
+
+    $('li', '.top-menu').on('mouseleave', function () {
+        $('a', $(this)).first().removeClass('hover');
+        $('.sublist', $(this)).first().removeClass('active');
+        $('.top-menu-triangle', $(this)).removeClass('active');
+    });
+
+</script>
+
+    <div id="mob-menu-button">
+        <a href="">
+            <span class="icon"><span class="line"></span><span class="line"></span><span class="line"></span></span>
+
+            <span>Categories</span>
+        </a>
+    </div>
+    <ul class="mob-top-menu">
+        
+    <li>
+        <a href="/apparels">Apparels
+        </a>
+                <div class="top-menu-triangle"></div>
+                    <span class="expand">&nbsp;</span>
+                <ul class="sublist firstLevel">
+    <li>
+        <a href="/suits">Suits
+        </a>
+
+    </li>
+    <li>
+        <a href="/kurtis">Kurtis
+        </a>
+
+    </li>
+                </ul>
+
+    </li>
+    <li>
+        <a href="/jewellery-2">Jewellery
+        </a>
+                <div class="top-menu-triangle"></div>
+                    <span class="expand">&nbsp;</span>
+                <ul class="sublist firstLevel">
+    <li>
+        <a href="/necklace-pendants">Necklace &amp; Pendants
+        </a>
+
+    </li>
+    <li>
+        <a href="/rings">Rings
+        </a>
+
+    </li>
+    <li>
+        <a href="/earrings">Earrings
+        </a>
+
+    </li>
+    <li>
+        <a href="/hair-jewellery">Hair Jewellery
+        </a>
+
+    </li>
+    <li>
+        <a href="/bengals">Bangals
+        </a>
+
+    </li>
+    <li>
+        <a href="/pendant-set">Pendant Set
+        </a>
+
+    </li>
+    <li>
+        <a href="/brooches">Brooches
+        </a>
+
+    </li>
+    <li>
+        <a href="/body-jewellery">Body Jewellery
+        </a>
+
+    </li>
+                </ul>
+
+    </li>
+    <li>
+        <a href="/nightwears">Nightwears (Coming Soon!)
+        </a>
+                <div class="top-menu-triangle"></div>
+
+    </li>
+    <li>
+        <a href="/footwear">Footwear (Coming Soon!)
+        </a>
+                <div class="top-menu-triangle"></div>
+                    <span class="expand">&nbsp;</span>
+                <ul class="sublist firstLevel">
+    <li>
+        <a href="/bellies">Bellies
+        </a>
+
+    </li>
+    <li>
+        <a href="/flats-ballets">Flats &amp; Ballets
+        </a>
+
+    </li>
+    <li>
+        <a href="/heels">Heels
+        </a>
+
+    </li>
+    <li>
+        <a href="/slippers">Slippers
+        </a>
+
+    </li>
+    <li>
+        <a href="/casual-shoes">Casual Shoes
+        </a>
+
+    </li>
+    <li>
+        <a href="/sports-shoes">Sports Shoes
+        </a>
+
+    </li>
+    <li>
+        <a href="/stilettoes">Stilettoes
+        </a>
+
+    </li>
+    <li>
+        <a href="/wedges">Wedges
+        </a>
+
+    </li>
+    <li>
+        <a href="/peep-toes">Peep Toes
+        </a>
+
+    </li>
+    <li>
+        <a href="/flip-flops">Flip Flops
+        </a>
+
+    </li>
+    <li>
+        <a href="/sneakers">Sneakers
+        </a>
+
+    </li>
+    <li>
+        <a href="/loafers">Loafers
+        </a>
+
+    </li>
+                </ul>
+
+    </li>
+        
+    </ul>
+    <script type="text/javascript">
+        $('a', $('#mob-menu-button')).toggle(function() {
+                $('.mob-top-menu').addClass('show');
+            },
+            function() {
+                $('.mob-top-menu').removeClass('show');
+            }
+        );
+
+        $(function($) {
+            $('.mob-top-menu .expand').click(function() {
+                var parent = $(this).parent();
+                if (parent.hasClass('active')) {
+                    $(".sublist:first", parent).hide(300);
+                    parent.removeClass('active');
+                } else {
+                    $(".sublist:first", parent).show(300);
+                    parent.addClass('active');
+                }
+            });
+        });
+    </script>
+
+        </div>
+
+        
+
+
+
+
+<div class="ajaxCartInfo" data-getajaxcartbuttonurl="/NopAjaxCart/GetAjaxCartButtonsAjax" data-productpageaddtocartbuttonselector="input.add-to-cart-button" data-productboxaddtocartbuttonselector="input.product-box-add-to-cart-button" data-productboxproductitemelementselector=".product-item">
+</div>
+
+<input id="addProductVariantToCartUrl" name="addProductVariantToCartUrl" type="hidden" value="/NopAjaxCartShoppingCart/AddProductFromProductDetailsPageToCartAjax">
+<input id="addProductToCartUrl" name="addProductToCartUrl" type="hidden" value="/NopAjaxCartShoppingCart/AddProductToCartAjax">
+<input id="miniShoppingCartUrl" name="miniShoppingCartUrl" type="hidden" value="/NopAjaxCartShoppingCart/MiniShoppingCart">
+<input id="flyoutShoppingCartUrl" name="flyoutShoppingCartUrl" type="hidden" value="/NopAjaxCartShoppingCart/NopAjaxCartFlyoutShoppingCart">
+<input id="checkProductAttributesUrl" name="checkProductAttributesUrl" type="hidden" value="/NopAjaxCartCatalog/CheckIfProductOrItsAssociatedProductsHasAttributes">
+<input id="getMiniProductDetailsViewUrl" name="getMiniProductDetailsViewUrl" type="hidden" value="/NopAjaxCartCatalog/GetMiniProductDetailsView">
+<input id="flyoutShoppingCartPanelSelector" name="flyoutShoppingCartPanelSelector" type="hidden" value="#flyout-cart">
+<input id="shoppingCartMenuLinkSelector" name="shoppingCartMenuLinkSelector" type="hidden" value="span.cart-qty">
+
+
+        
+        <div class="ajax-loading-block-window" style="display: none">
+            <div class="loading-image">
+            </div>
+        </div>
+        <div class="master-wrapper-main">
+
+            
+<div class="center-1">
+    
+    
+<div class="page topic-page" id="ph-topic">
+    <div id="ph-title">
+        <div class="page-title">
+            <h1>
+                Privacy policy</h1>
+        </div>
+    </div>
+    <div class="page-body">
+        <p><span style="font-size: 10pt; line-height: 1.5;"><span class="grw_">This Privacy Policy governs the manner in which <span class="gr_ gr_97ec1bd7-57d3-d3b6-ca72-8e39eb0b43d2 gr_spell">Softsale</span> solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the </span><a href="http://www.generateprivacypolicy.com/account/policies/edit/Suitwala">Suitwala</a><span class="grw_"> website ("Site"). This privacy policy applies to the Site and all products and services offered by <span class="gr_ gr_2b7e7bc0-2fe0-6661-bf1a-bb65398d1dad gr_spell">Softsale</span> solutions .</span></span></p>
+<p><br><span style="font-size: 10pt;">♥&nbsp;<strong>Personal identification information</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</span></p>
+<p style="line-height: 1.6; line-break: loose;"><span style="font-size: 10pt; line-height: 1.6;">♥&nbsp;<strong>Non-personal identification information ?</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</span><br> <br><span style="font-size: 10pt; line-height: 1.6;">♥&nbsp;<strong>Web browser cookies ?</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</span><br> <br><span style="font-size: 10pt; line-height: 1.6;"><strong>♥&nbsp;How we use collected information?</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6px;"> <span class="gr_ gr_68c6d0e2-f0d8-6415-021c-ac84fa9ada73 gr_spell">Softsale</span> solutions may collect and use Users personal information for the following purposes:</span></p>
+<ul>
+<ul>
+<li><span style="font-size: 10pt; line-height: 1.6;"><em>To improve customer service</em></span></li>
+<li><span style="font-size: 10pt; line-height: 1.6;"> Information you provide helps us respond to your customer service requests and support needs more efficiently.</span></li>
+</ul>
+</ul>
+<ul>
+<li><span style="font-size: 10pt; line-height: 1.6;"><em>To personalize user experience</em></span></li>
+<li><span style="font-size: 10pt;"> We may useinformation in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</span></li>
+<li><span style="font-size: 10pt; line-height: 1.6;"><em>To improve our Site</em></span><br><span style="font-size: 10pt; line-height: 1.6;"> We may use feedback you provide to improve our products and services.</span></li>
+<li><span style="font-size: 10pt; line-height: 1.6;"><em>To process payments</em></span><br><span style="font-size: 10pt; line-height: 1.6;"> We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</span></li>
+<li><span style="font-size: 10pt; line-height: 1.6;"><em>To send periodic emails</em></span><br><span style="font-size: 10pt; line-height: 1.6;"> We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, <span class="gr_ gr_fff24586-c923-fea5-7799-06f9d4b2f763 gr_spell">and/or</span> other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-size: 10pt; line-height: 1.6;"><strong>♥&nbsp;How we protect your information?</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</span><br> <br><span style="font-size: 10pt;"><span class="grw_"> Sensitive and private data exchange between the Site and its Users happens over <span class="gr_ gr_30418318-618c-ee99-f22b-f1d1dab69c62 gr_spell gr_tiny">a</span> SSL secured communication channel and is encrypted and protected with digital signatures.</span></span><br> <br><span style="font-size: 10pt; line-height: 1.6;"><strong>&nbsp;Sharing your personal information</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</span></p>
+<p><span style="font-size: 10pt;"><strong>♥&nbsp;Google Adsense</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></span></p>
+<p><span style="font-size: 10pt; line-height: 1.6;"><strong>♥&nbsp;Compliance with children's online privacy protection act</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</span></p>
+<p><span style="font-size: 10pt;">♥&nbsp;<strong>Changes to this privacy policy</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;"><span class="gr_ gr_b66c2d4f-46cc-73ee-02eb-685e9e6ea6c7 gr_spell">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Softsale</span><span class="grw_"> solutions <span class="gr_ gr_26a3e160-1025-9fdc-9adc-ddee445b615c gr_spell">has</span> the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</span></span><br> <br><span style="font-size: 10pt; line-height: 1.6;"><strong>♥&nbsp;Your acceptance of these terms</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</span><br> <br><span style="font-size: 10pt; line-height: 1.6;"> ♥&nbsp;<strong>Contact us:</strong></span><br> <br><span style="font-size: 10pt; line-height: 1.6;"> If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</span><br><span style="font-size: 10pt; line-height: 1.6;"> <span class="gr_ gr_54c79243-1806-ed0e-bb00-1d18e23c64d8 gr_spell">Softsale</span>&nbsp;Solutions </span><br><span style="font-size: 10pt; line-height: 1.6;">52-A,</span><br><span style="font-size: 10pt; line-height: 1.6;">First Floor,&nbsp;Laxmi Nagar,</span><br><span style="font-size: 10pt; line-height: 1.6;">Nagpur., (Maharashtra) - 440022&nbsp;</span><br><span style="font-size: 10pt; line-height: 1.6;">India.</span><br><span style="font-size: 10pt; line-height: 1.6;"> info@softsalesolutions.com</span><br><span style="font-size: 10pt; line-height: 1.6;"> This document was last updated on April 11, 2014</span></p>
+    </div>
+</div>
+
+    
+</div>
+
+        </div>
+        
+    </div>
+    
+<div class="footer">
+    <div class="footer-menu-wrapper">
+        <div class="column information">
+            <h3>company</h3>
+
+            <ul>
+
+                <li><a href="/about-us">about us</a></li>
+                <li><a href="/careers">careers</a></li>
+                <li><a href="/privacy-policy">privacy policy</a></li>
+                <li><a href="/shipping-returns">shipping</a></li>
+                <li><a href="/return-cancellations">return and cancellations</a></li>
+
+                    <li><a href="/sitemap">Sitemap</a></li>
+
+            </ul>
+        </div>
+        <div class="column my-account">
+            <h3>My account</h3>
+            <ul>
+                <li><a href="/customer/info">account login</a></li>
+                    <li><a href="/customer/orders">track order</a></li>
+                                    <li><a href="/cart">Shopping cart</a></li>
+                                    <li><a href="/wishlist">Wishlist</a></li>
+                                    <li><a href="/customer/myCoupons">coupons</a></li>
+            </ul>
+        </div>
+        <div class="column customer-service">
+            <h3>may i help you</h3>
+            <ul>
+
+                    <li><a href="/blog">Blog</a></li>
+                
+                <li><a href="/contactus">Contact us</a></li>
+                <li><a href="http://sellers.suitwala.com" target="_blank">want to sell with us !</a></li>
+
+
+            </ul>
+        </div>
+
+        <div class="column .follow-us">
+            <h3>Follow us</h3>
+            
+
+            <ul>
+                    <li><a href="https://www.facebook.com/pages/Suitwalacom/405012186269028" target="_blank"><div class="facebook roll_over"></div></a></li>
+                                    <li><a href="https://twitter.com/Suitwala" target="_blank"><div class="twitter roll_over"></div></a></li>
+                                    <li><a href="https://plus.google.com/117854324720540552323/posts/fLbpii89J2o" target="_blank"><div class="google_plus roll_over"></div></a></li>
+
+                    <li><a href="https://plus.google.com/117854324720540552323/posts/fLbpii89J2o" target="_blank"><div class="youtube roll_over"></div></a></li>
+               
+                <li><a href="http://www.pinterest.com/suitwala/" target="_blank"><div class="pinterest roll_over"></div></a></li>
+                
+
+
+            </ul>
+        </div>
+    </div>
+    <div class="footer-poweredby">
+        Powered by <a href="http://www.softsalesolutions.com/" class="company">SoftSale Solutions</a>
+    </div>
+    <div class="footer-disclaimer">
+        Copyright © 2014 Suitwala.com. All rights reserved.
+    </div>
+    <div class="footer-store-theme">
+        
+    </div>
+    
+</div>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43238468-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="/Plugins/NopServices.Widget.LazyLoad/Scripts/jquery.lazyload.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function ($) {
+        $(".item-box .product-item .picture img").lazyload(
+            {
+                placeholder: "/Plugins/NopServices.Widget.LazyLoad/images/grey.gif",
+                effect: "fadeIn",
+                effectspeed: 800
+            });
+    });
+
+</script>
+
+    
+    
+
+
+</body></html>
