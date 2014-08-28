@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsavings.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090703id_/http%3A//www.coolsavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsavings.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828192338id_/http%3A//coolsavings.com/privacy-policy) for the most accurate reproduction.*
 
 # Grocery coupons, Printable Coupons, Online Coupon Codes, Daily Deals | CoolSavings
 
@@ -48,7 +48,7 @@ We share aggregated demographic, performance and behavioral information about ou
 
 _Personally identifiable information:_
 
-  * We may share your personal information with our marketing partner All Inbox, LLC so that they can empower their services, market their products or services to you and supply you with special offers by email. We will only share information that we feel is the minimum required to fulfill All Inbox, LLC requirements. If you do not want to receive such communications, please refer to the Choice/Opt-out section.
+  * We may share your personal information with our marketing partner All Inbox, LLC so that they can supply you with special offers by email. We will only share information that we feel is the minimum required to fulfill All Inbox, LLC requirements. If you do not want to receive such communications, please refer to the Choice/Opt-out section.
   * We may provide your personal information to companies that provide services to help us with our business activities such as a hosting provider or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us 
   * We may provide your personal information to specific companies who have their products and services advertised on the CoolSavings website. For example, we may provide your personal information to an advertiser if you have taken an action to register for or request more information from an advertiser on CoolSavings.
   * We may also disclose your personal information 
