@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the money-rates.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214071711id_/http%3A//www.money-rates.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-rates.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828091435id_/http%3A//www.money-rates.com/privacy.htm) for the most accurate reproduction.*
 
 # Money-Rates.com Privacy Policy
 
-**LAST UPDATED:   **February 14, 2013
+**QUINSTREET, INC.**
+
+**PRIVACY POLICY**
+
+**LAST UPDATED:   **December 10, 2013
 
 **QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
@@ -17,6 +21,7 @@
   * Telephone number
   * Email address
   * Credit or debit card number
+  * Social Security number
 
 
 
@@ -34,9 +39,10 @@ We may use Personal Information:
   * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
   * to send you surveys and marketing communications that we believe may be of interest to you. 
   * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
+  * to present you with advertisements tailored to you on certain third party websites, including on Facebook.
   * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
   * to allow you to send messages to a friend through the Site.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends, and determining and improving the effectiveness of our promotional campaigns. 
   * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
 
 
@@ -106,9 +112,11 @@ We use IP Addresses for purposes such as calculating Site usage levels, helping 
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
 
+The Site's mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time.  
+
 **Third Party VENDORS**
 
-We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/managing/faqs.asp#question_11>.
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting).  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://google.com/settings/ads>,<http://networkadvertising.org/optout_nonppii.asp>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/managing/faqs.asp#question_11>.
 
 Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
@@ -153,7 +161,7 @@ Your Personal Information may be stored and processed in any country where we ha
 
 **SENSITIVE INFORMATION**
 
-we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number (unless otherwise requested), driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
 
 **Your California Privacy Rights**
 
