@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917120953id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828055342id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy - TEFL.com
 
@@ -8,7 +8,7 @@
 
 **TEFL PROFESSIONAL NETWORK LTD**
 
-For the purpose of the Data Protection Act 1998, the Data Controller is TEFL Professional Network Ltd **,** a company incorporated in England & Wales (Company Registration 03354749) **** and having its address at 72 Pentyla Baglan Road, Port Talbot, SA12 8AD, UK. 
+For the purpose of the Data Protection Act 1998, the Data Controller is TEFL Professional Network Ltd **,** a company incorporated in England & Wales (Company Registration 03354749) **** and having its address at 48 Arwenack Street, Falmouth, Cornwall TR11 3JH, United Kingdom.. 
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
@@ -109,13 +109,14 @@ All questions, comments and requests regarding this Privacy Policy should be add
   
 [ **How much in...** ](https://web.archive.org/home/col_survey.html)  
 Check your daily living costs Worldwide!  
-**189 cities in 70 countries**  
+**191 cities in 71 countries**  
   
-**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?edc4577b675ceedb147a3f8ad9e0f751 "RSS 1.0")feed **  
+**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?8e1e8236732781ab0521342969e94df4 "RSS 1.0")feed **  
 [What's this?](https://web.archive.org/home/rss.html)
 
 **Get all the latest jobs...  
 [Follow us on Twitter ](http://twitter.com/tefldotcom)  
-[Follow us on Facebook](http://www.facebook.com/#!/pages/Tefl/110451825679385?ref=sgm)**[ ](http://www.facebook.com/#!/pages/Tefl/110451825679385?ref=sgm)
+[Follow us on Facebook ](http://www.facebook.com/#!/pages/Tefl/110451825679385?ref=sgm)  
+[Follow us on Google+](http://plus.google.com/115621156614077950708)**[ ](http://plus.google.com/115621156614077950708)
 
 [](http://www.tefl.com/jobprompt/)
