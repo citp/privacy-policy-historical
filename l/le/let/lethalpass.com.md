@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lethalpass.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021021id_/http%3A//www.lethalpass.com/cimages/legal/privacy.html%3Fsite%3Dlethalpass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lethalpass.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828110400id_/http%3A//www.lethalpass.com/cimages/legal/privacy.html%3Fsite%3Dlethalpass) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by: 
+This website (the "Site") is operated by: COMPANY 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
 
