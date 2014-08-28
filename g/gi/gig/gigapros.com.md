@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the gigapros.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323113533id_/http%3A//www.gigapros.com/portal/about-us/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapros.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828183513id_/https%3A//www.gigapros.com/portal/about-us/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GigaPros Web Hosting Services – The Best Hosting Provider
 
-| 
-
-|   
----  
-   
-  
 ## GigaPros Respects Your Privacy
 
 At GigaPros we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use GigaPros' services, as well as some of the steps we take to safeguard your information. We hope this will help you make an informed decision about sharing personal information with us.
@@ -18,17 +12,10 @@ At GigaPros, the customers' information including personal contact information a
 
 Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, GigaPros gives them the opportunity to opt-out from receiving these types of communications. 
 
-If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@gigapros.com](mailto:support@gigapros.com) or you may contact us at 1-877-PRO-GIGA or via written mail by sending a letter to our **[postal address](http://www.gigapros.com/portal/about-us/contact-us)** , to opt-out. 
+If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@gigapros.com](mailto:support@gigapros.com) or you may contact us at 1-877-PRO-GIGA or via written mail by sending a letter to our **[postal address](https://web.archive.org/portal/about-us/contact-us)** , to opt-out. 
 
-On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [cancel@gigapros.com](mailto:cancel@gigapros.com) or by contacting us at 1-877-PRO-GIGA or via written mail by sending a letter to our **[postal address](http://www.gigapros.com/portal/about-us/contact-us)** , to opt-out.
+On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [cancel@gigapros.com](mailto:cancel@gigapros.com) or by contacting us at 1-877-PRO-GIGA or via written mail by sending a letter to our **[postal address](https://web.archive.org/portal/about-us/contact-us)** , to opt-out.
 
 ## Contact Us
 
-If you have additional questions, please [**contact us**](http://www.gigapros.com/portal/support-center/support-overview) at any time. You can also drop us a postal mail addressing to "Customer Privacy Department". **[Click here](http://www.gigapros.com/portal/about-us/contact-us)** to see our postal address. 
-
-| [](http://www.gigapros.com/portal/index.php/web-hosting.html) | Starts at $3.95/mo !  
-Free Site Transfer !  
-**_[LEARN MORE](http://www.gigapros.com/portal/index.php/web-hosting.html)_**  
----|---  
-  
-Copyright © 2013 GigaPros.com. All rights reserved.  |[  Links  ](http://www.gigapros.com/portal/links.htm)|[  Privacy  ](http://www.gigapros.com/portal/about-us/terms-and-conditions/privacy-policy)|[  Legal  |  ](http://www.gigapros.com/portal/about-us/terms-and-conditions/terms-of-service)
+If you have additional questions, please [**contact us**](https://web.archive.org/portal/support-center/support-overview) at any time. You can also drop us a postal mail addressing to "Customer Privacy Department". **[Click here](https://web.archive.org/portal/about-us/contact-us)** to see our postal address.
