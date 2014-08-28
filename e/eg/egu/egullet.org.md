@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111001id_/http%3A//forums.egullet.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828060132id_/http%3A//forums.egullet.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - eGullet Forums
 
