@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906024141id_/http%3A//www.drivermend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828210502id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 **Effective Date: 05/21/2012**
 
 LJP MEDIA ("LJP MEDIA") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase a LJP MEDIA products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how LJP MEDIA uses the information, and how we safeguard your Personal Information when you submit it to us at www.drivermend.com. At LJP MEDIA, protecting your privacy is important to us. After all, online privacy and security is what we're all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by LJP MEDIA in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
-
-Driver Mender is certifed as a Trusted Download Program by TRUSTe signifying that the Driver Mender application has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Driver Mender application, please contact us at Ljp media 1st Floor Offices 30 Grove Street, Mansfield, Nottinghamshire, UK or by email at drivermender@driversupport.com or by phone at +1 512.373.3518. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=202&sealid=112). 
 
 **Why LJP MEDIA Collects Personal Information**
 
