@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirkscrazyweek.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829104507id_/http%3A//www.dirkscrazyweek.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirkscrazyweek.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829153304id_/http%3A//www.dirkscrazyweek.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,13 +58,13 @@ We may use autoresponders to communicate with you by e-mail. To protect your pri
 
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to wagnerdirk[at]imopartners.com and providing us with information relating to your concern.
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to wagnerdirk [at] imopartners.com and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:
 
 Dirk Wagner  
-Mathildenstrasse 89  
-Moenchengladbach, NRW 41239  
+Konradstrasse 10  
+Moenchengladbach, NRW 41069  
 Germany 
 
 **CALIFORNIA PRIVACY RIGHTS**
@@ -72,8 +72,8 @@ Germany
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to wagnerdirk[at]imopartners.com or write us at the following address:
 
 Dirk Wagner  
-Mathildenstrasse 89  
-Moenchengladbach, NRW 41239  
+Konradstrasse 10  
+Moenchengladbach, NRW 41069  
 Germany 
 
 This privacy policy was last updated on 10-03-2010.
