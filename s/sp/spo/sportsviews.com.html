@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sportsviews.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625141513id_/http%3A//www.sportsviews.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsviews.com privacy policy that was archived on 2014-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140829231839id_/http%3A//www.sportsviews.com/policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
@@ -18,7 +18,7 @@
 
 
 
-<script language="javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script language="javascript">
     var baseurl = 'http://www.sportsviews.com/';
 	var username = '';
 </script>
@@ -137,9 +137,6 @@
 
 
 
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-
-
 
 
 
@@ -148,8 +145,6 @@
 <!-- BEGIN CSS to remove later -->
 
 <style type="text/css">
-<!--
-
 * {
 	font-family: Arial, Helvetica, sans-serif;
 }
@@ -1053,7 +1048,6 @@ a.icn-mobile {
 	text-decoration: underline;
 	color: #303D4E;
 }
--->
 </style>
 
 <!-- END CSS to remove later -->
@@ -1091,6 +1085,54 @@ a.icn-mobile {
 <link rel="alternate" type="application/rss+xml" title="RSS - Top Rated Challenges" href="http://www.sportsviews.com/rss/bets/top-rated.php">
 </head>
 <body>
+
+<div id="fb-root"></div>
+<script>
+function statusChangeCallback(response) {
+	if (response.status === 'connected') {
+		// Logged into your app and Facebook.// reload...
+		window.parent.location.reload();
+		} else if (response.status === 'not_authorized') {
+		// The person is logged into Facebook, but not your app.
+	} else {
+		// The person is not logged into Facebook, so we're not sure if
+		// they are logged into this app or not.
+	}
+}
+
+// This function is called when someone finishes with the Login
+// Button.  See the onlogin handler attached to it in the sample
+// code below.
+function checkLoginState() {
+	FB.getLoginStatus(function(response) {
+		statusChangeCallback(response);
+	});
+}
+
+window.fbAsyncInit = function() {
+	FB.init({
+		appId      : '80224137849',
+		cookie     : true,  // enable cookies to allow the server to access the session
+		status     : true, // check login status
+		xfbml      : true,  // parse social plugins on this page
+		version    : 'v2.0' // use version 2.0
+	});
+	
+	
+	FB.getLoginStatus(function(response) {
+		statusChangeCallback(response);
+	});
+};
+
+// Load the SDK asynchronously
+(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/sdk.js";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 <!-- BEGIN NAVMENU TABLE -->
 
 <div id="headerWrapper">
@@ -1120,13 +1162,10 @@ a.icn-mobile {
   <div id="header">
     <!-- BEGIN LOGO TABLE -->
 <div id="logo"><a href="http://www.sportsviews.com"><img src="http://www.sportsviews.com/theme/graphics/theme/spacer.gif" alt="" width="260" height="35" border="0"></a></div>
-<!-- END LOGO TABLE -->    <div id="scoreboard_div">
-    
+<!-- END LOGO TABLE -->    <div style="float: left; padding-top: 14px; padding-left: 14px; padding-bottom: 5px;">
+    <iframe src="http://www.referincome.com/odds/football_nfl.php?gotoURL=http://www.oddsmaker.ag/refer.php?ID=sv100" width="468" height="60" scrolling="no" frameborder="0"></iframe>
     </div>
-    <script type="text/javascript">
-    sb_startup();
-	</script>
-   <!-- BEGIN HEADER SEARCH TABLE -->
+	<!-- BEGIN HEADER SEARCH TABLE -->
 
 <div id="search">
   <div class="hidden">
@@ -1206,25 +1245,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/NFL">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/NFL">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/NFL">Groups</a>
-            			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/nfl/matchups/">Matchups</a>
-            <a href="http://www.sportsviews.com/stats/nfl/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/nfl/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/nfl/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/nfl/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/nfl/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/nfl/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/nfl/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/nfl/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/nfl/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/nfl/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/nfl/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/nfl/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/nfl/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/nfl/news_and_weather/">News &amp; Weather</a>
-                                                                                                                                    
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_70"><a href="http://www.sportsviews.com/categories/bet/CFL">CFL</a>
             
@@ -1235,25 +1257,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/CFL">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/CFL">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/CFL">Groups</a>
-                                                                                                                        			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/cfl/matchups/">Matchups</a> 
-            <a href="http://www.sportsviews.com/stats/cfl/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/cfl/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/cfl/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/cfl/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/cfl/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/cfl/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/cfl/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/cfl/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/cfl/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/cfl/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/cfl/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/cfl/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/cfl/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/cfl/news_and_weather/">News &amp; Weather</a>
-                        
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_11"><a href="http://www.sportsviews.com/categories/bet/NCAA_Football">NCAA Football</a>
             
@@ -1264,25 +1269,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/NCAA_Football">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/NCAA_Football">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/NCAA_Football">Groups</a>
-                                    			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/ncaaf/matchups/">Matchups</a> 
-            <a href="http://www.sportsviews.com/stats/ncaaf/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/ncaaf/news_and_weather/">News &amp; Weather</a>
-                                                                                                            
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_13"><a href="http://www.sportsviews.com/categories/bet/MLB">MLB</a>
             
@@ -1293,27 +1281,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/MLB">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/MLB">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/MLB">Groups</a>
-                                                                                                			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/mlb/matchups/">Matchups</a>
-            <a href="http://www.sportsviews.com/stats/mlb/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/mlb/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/mlb/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/mlb/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/mlb/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/mlb/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/mlb/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/mlb/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/mlb/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/mlb/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/mlb/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/mlb/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/mlb/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/mlb/umpires/">Umps</a>
-            <a href="http://www.sportsviews.com/stats/mlb/pitcher_logs/">Pitcher Logs</a>
-            <a href="http://www.sportsviews.com/stats/mlb/news_and_weather/">News &amp; Weather</a>
-                                                
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_17"><a href="http://www.sportsviews.com/categories/bet/NBA">NBA</a>
             
@@ -1324,26 +1293,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/NBA">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/NBA">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/NBA">Groups</a>
-                        			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/nba/matchups/">Matchups</a>
-            <a href="http://www.sportsviews.com/stats/nba/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/nba/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/nba/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/nba/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/nba/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/nba/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/nba/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/nba/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/nba/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/nba/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/nba/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/nba/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/nba/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/nba/referees/">Refs</a>
-            <a href="http://www.sportsviews.com/stats/nba/news_and_weather/">Team News</a>
-                                                                                                                        
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_18"><a href="http://www.sportsviews.com/categories/bet/NCAA_M_BasketB">NCAA M BasketB</a>
             
@@ -1354,25 +1305,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/NCAA_M_BasketB">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/NCAA_M_BasketB">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/NCAA_M_BasketB">Groups</a>
-                                                			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/ncaab/matchups/">Matchups</a> 
-            <a href="http://www.sportsviews.com/stats/ncaab/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/ncaab/news_and_weather/">Team News</a>
-                                                                                                
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_22"><a href="http://www.sportsviews.com/categories/bet/NHL">NHL</a>
             
@@ -1383,25 +1317,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/NHL">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/NHL">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/NHL">Groups</a>
-                                                            			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/nhl/matchups/">Matchups</a> 
-            <a href="http://www.sportsviews.com/stats/nhl/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/nhl/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/nhl/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/nhl/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/nhl/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/nhl/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/nhl/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/nhl/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/nhl/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/nhl/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/nhl/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/nhl/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/nhl/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/nhl/news_and_weather/">Team News</a>
-                                                                                    
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_51"><a href="http://www.sportsviews.com/categories/bet/NASCAR">NASCAR</a>
             
@@ -1412,16 +1329,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/NASCAR">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/NASCAR">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/NASCAR">Groups</a>
-                                                                        			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/nascar/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/nascar/tracks/">Tracks</a>
-            <a href="http://www.sportsviews.com/stats/nascar/drivers/">Drivers</a>
-            <a href="http://www.sportsviews.com/stats/nascar/previews/">Preview</a>
-            <a href="http://www.sportsviews.com/stats/nascar/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/nascar/standings/">Driver Standings</a>
-                                                                        
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                         <li id="navcat_66"><a href="http://www.sportsviews.com/categories/bet/MMA-UFC">MMA-UFC</a>
             
@@ -1433,8 +1342,7 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/image/MMA-UFC">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/MMA-UFC">Groups</a>
                                                                                                                                     
-            
-        </div>
+                    </div>
             </li>
                         <li id="navcat_68"><a href="http://www.sportsviews.com/categories/bet/Golf">Golf</a>
             
@@ -1446,8 +1354,7 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/image/Golf">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/Golf">Groups</a>
                                                                                                                                     
-            
-        </div>
+                    </div>
             </li>
                         <li id="navcat_61"><a href="http://www.sportsviews.com/categories/bet/Tennis">Tennis</a>
             
@@ -1459,8 +1366,7 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/image/Tennis">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/Tennis">Groups</a>
                                                                                                                                     
-            
-        </div>
+                    </div>
             </li>
                         <li id="navcat_76"><a href="http://www.sportsviews.com/categories/bet/Arena_Football">Arena Football</a>
             
@@ -1471,25 +1377,8 @@ a.icn-mobile {
             <a href="http://www.sportsviews.com/categories/video/Arena_Football">Videos</a>
             <a href="http://www.sportsviews.com/categories/image/Arena_Football">Pictures</a>
             <a href="http://www.sportsviews.com/categories/group/Arena_Football">Groups</a>
-                                                                                                                                    			<div class="sepline"></div>
-            <a href="http://www.sportsviews.com/stats/afl/matchups/">Matchups</a> 
-            <a href="http://www.sportsviews.com/stats/afl/previews/">Previews</a>
-            <a href="http://www.sportsviews.com/stats/afl/scores/">Scores</a>
-            <a href="http://www.sportsviews.com/stats/afl/injuries/">Injuries</a>
-            <a href="http://www.sportsviews.com/stats/afl/recaps/">Recaps</a>
-            <a href="http://www.sportsviews.com/stats/afl/offensive_grid/">Off Grid</a>
-            <a href="http://www.sportsviews.com/stats/afl/defensive_grid/">Def Grid</a>
-            <a href="http://www.sportsviews.com/stats/afl/hot_and_not/">Hot &amp; Not</a>
-            <a href="http://www.sportsviews.com/stats/afl/standings/">ATS Standings</a>
-            <a href="http://www.sportsviews.com/stats/afl/schedule/">Schedule</a>
-            <a href="http://www.sportsviews.com/stats/afl/trends/">Trend Sheet</a>
-            <a href="http://www.sportsviews.com/stats/afl/game_logs/">Game Logs</a>
-            <a href="http://www.sportsviews.com/stats/afl/teams/">Team Reports</a>
-            <a href="http://www.sportsviews.com/stats/afl/transactions/">Transactions</a>
-            <a href="http://www.sportsviews.com/stats/afl/news_and_weather/">Team News</a>
-            
-            
-        </div>
+                                                                                                                                                
+                    </div>
             </li>
                       </ul>
         </div>
@@ -1629,9 +1518,9 @@ a.icn-mobile {
 <!-- END ERROR MESSAGE TABLE -->
 <div class="separator10"></div>
 
-<div class="ad_728 auto-centered">
+<div class="auto-centered borders" style="width: 693px;">
 
-<p><a target="_blank" href="http://my.oddsmaker.com/aff/sv100/gfx25"> <img src="http://www.sportsviews.com//banners/sponsors/OM_Free25_728x90_NFL_GB_v2.gif" width="728" height="90" border="0"></a></p>
+<p><a target="_blank" href="http://www.oddsmaker.ag/refer.php?ID=sv100"> <img src="http://www.referincome.com/graphics/banners/om/om_promotions_693x89_736.gif" width="693" height="89" border="0"></a></p>
 
 </div>
 <!-- BEGIN Privacy Policy TABLE -->
@@ -1773,8 +1662,8 @@ a.icn-mobile {
 <!-- END Privacy Policy TABLE -->
 <!-- BEGIN FOOTER -->
 <div class="separator40"></div>
-<div class="ad_728 auto-centered">
-<p><a target="_blank" href="http://my.oddsmaker.com/aff/sv100/gfx25"> <img src="http://www.sportsviews.com//banners/sponsors/OM_Free25_728x90_NFL_GB_v2.gif" width="728" height="90" border="0"></a></p>
+<div class="auto-centered borders" style="width: 693px;">
+<p><a target="_blank" href="http://www.oddsmaker.ag/refer.php?ID=sv100"> <img src="http://www.referincome.com/graphics/banners/om/om_promotions_693x89_736.gif" border="0"></a></p>
 
 </div>
 
@@ -1875,27 +1764,26 @@ a.icn-mobile {
       </dl>
     </div>
     <div class="cols">
-      <dl>
+      <!--<dl>
         <dt>Discussions</dt>
         <dd><a href="http://www.sportsviews.com/discussions.php">Latest Discussions</a></dd>
         <dd><a href="http://www.sportsviews.com/my_discussions/add_discussion.php" rel="nofollow">Start a Discussion</a></dd>
       </dl>
-      <div class="separator5"></div>
+      <div class="separator5"></div>-->
       <dl>
         <dt>SV Friends</dt>
         <dd><a href="http://www.askmen.com" target="_blank">AskMen.com</a></dd>
         <dd><a href="http://www.blogtopsites.com" target="_blank">best blogs</a></dd> 
         
-        <dd>Hot <a href="http://www.couponcodes4u.com/discounts/cabelas.com" target="_blank">Cabelas Coupon Codes</a></dd> 
         <dd><a href="http://news.oddsmaker.ag" target="_blank">Sports News</a></dd>
-        <dd><a href="http://www.oddsmaker.ag/sportsbook/online-sportsbook/" target="_blank">Online Sportsbook</a></dd>
+        <dd><a href="http://www.oddsmaker.ag/sportsbook/online-sportsbook/" target="_blank">Online Betting</a></dd>
       </dl>
     </div>
     <span class="clear-both"></span>
     <div class="separator10"></div>
   </div>
   <div class="footer-sub">
-    <div class="footer-sub-contents">© Copyright 2008-2012 SV Network. All rights reserved.</div>
+    <div class="footer-sub-contents">© Copyright 2008-2014 SV Network. All rights reserved.</div>
   </div>
 </div>
 <!-- END FOOTER -->
