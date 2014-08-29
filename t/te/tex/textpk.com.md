@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textpk.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413070851id_/http%3A//www.textpk.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textpk.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829035255id_/http%3A//www.textpk.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TextPK.com - Send free sms to any network in pakistan
 
@@ -25,7 +25,7 @@ We collect & store every instance of your activities that are involved with Text
 Any of the information we collect from you may be in the following ways;   
 • To personalize your experience.   
 • To improve app/website features based upon your interactions.   
-• To contact you for promotions and/or updates.   
+• To send you (and/or your contacts) periodic promotions, updates and advertisements.   
 • To administer a contest, promotion, survey or other feature. 
 
 **How do we protect your information**   
@@ -37,8 +37,10 @@ You consent to the Privacy Policy.
   
    
   
-Upon registration with us you blindly agree with Privacy Policy  
+Upon registration with us you blindly agree with Privacy Policy
+
   
+Privacy policy may change without prior notice.  
    
    
   
