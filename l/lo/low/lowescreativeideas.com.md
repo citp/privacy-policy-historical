@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowescreativeideas.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109074625id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowescreativeideas.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829210556id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -157,6 +157,10 @@ To stop the collection of information via Store Wi-Fi, disconnect from the Store
 **Mobile Applications**
 
 To stop collection of information by the Mobile Applications, delete the applications from your device. To stop only the collection of information from the geolocation services available on your device (such as your device's GPS functionality), use your device's settings to deactivate the Mobile Applications' access to those services. Please note that deactivating this access will not prevent you from taking advantage of our Store Wi-Fi's collection of your location. To deactivate that collection of information, follow the instructions in the Store Wi-Fi section above.
+
+**Do Not Track**
+
+We do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
 
   
 
