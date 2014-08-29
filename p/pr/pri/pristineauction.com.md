@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214215156id_/https%3A//pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829110021id_/https%3A//pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
 
-# Pristine Auction
+# at Pristine Auction
 
 **What information do we collect?**
 
