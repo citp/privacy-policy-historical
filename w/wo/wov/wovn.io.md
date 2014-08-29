@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wovn.io privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630031827id_/http%3A//wovn.io/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wovn.io privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829103026id_/http%3A//wovn.io/policy) for the most accurate reproduction.*
 
 # Wovn.io | Translate your website.
 
