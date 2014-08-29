@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visa-platinum.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729143728id_/http%3A//www.visa-platinum.com/gateway/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visa-platinum.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829101756id_/http%3A//www.visa-platinum.com/privacy.aspx) for the most accurate reproduction.*
 
 # Visa Privacy Policy | Visa Platinum
 
@@ -6,15 +6,11 @@ Visa wants you to feel secure when visiting Visalatam.com. Committed to protecti
 
 Visa respects the privacy of visitors of Visa.com and its related sites (collectively "Visa site") by disclosing and explaining in this Privacy Policy ("Policy") how Visa collects, uses and shares information about you from Visa.com and the choices that you can make about the way your information is collected, used and shared. Visa encourages you to read this Policy and those of all web sites you visit.
 
-The following sections address the Visa sites privacy issues in more detail:
-
-_In this page:_
-
-#### Sites covered by this Privacy Policy **»**
+##### Sites covered by this Privacy Policy »
 
 This Policy applies to all services and sub-sites available under the domain www.visa.com (excluding usa.visa.com). Although this is a global privacy policy, each regional or country site may have rules and regulations that are not covered by this Policy. We encourage you to read your regional or countrys privacy policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Policy. If you do not wish to agree to these terms, you should leave this web site.
 
-#### Types of information collected on Visa.com **»**
+##### Types of information collected on Visa.com »
 
 There are two types of information collected on the Visa site: Personally Identifiable Information and Non-Personally Identifiable Information.
 
@@ -29,11 +25,11 @@ Once you choose to provide us with personal information, you can be assured it w
 
 Non-Personally Identifiable Information ("non-personal information") is information that does not identify you as an individual, such as your browser type, IP Address, the URL of the previous web site you visited, etc. Visa may automatically collect certain types of non-personal information from you when using the Visa site. We may also collect non-personal information that you voluntarily provide, such as information included in response to a questionnaire or survey.
 
-#### Why we collect your information **»**
+##### Why we collect your information »
 
 Visas primary purpose in collecting personal information on the Visa site is to provide you with a safe and efficient experience and to provide you with services and features that better meet your needs or requests. We only collect information that we consider necessary for achieving this purpose.
 
-#### How we collect information **»**
+##### How we collect information »
 
 **Information Collected Through You** If you choose to use certain services on the Visa site, we may require you to provide contact and identity information. Where possible, we indicate which fields are required and which fields are optional. If you choose not to use a particular service or feature, you do not have to provide the contact or identity information it calls for.
 
@@ -54,7 +50,7 @@ Web beacons, also called clear GIFs (a common format for image files), are invis
 IP Address:  
 The Visa site may collect IP addresses for the purposes of systems administration, server problem diagnosis and compiling aggregate information (such as how many visitors logged on to the Visa site). When you visit a particular web page on the Visa site, our servers log your IP address. An IP address is a number that is assigned to your computer automatically when you use the Internet.
 
-#### Who we share information with **»**
+##### Who we share information with »
 
 We take seriously the trust you place in us and will not sell, rent or lease your information to others.
 
@@ -64,7 +60,7 @@ Remember, if you go to other web sites, including those of our partners, adverti
 
 Disclosure of personal information for legal purposes and protection of Visa and others: Visa reserves the right to share your personal information with third parties if we believe such action is necessary in order to: (a) conform with the requirements of the law or to comply with legal process served upon us; (b) protect or defend our legal rights or property, the Visa site or our users; or (c) investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of the terms and conditions of using the Visa site.
 
-#### Your choices and opting out **»**
+##### Your choices and opting out »
 
 The Visa site will contact you only if you elect to be contacted.
 
@@ -74,17 +70,17 @@ If you do not explicitly choose to receive informational emails, the only email 
 
 At ny time, you can "opt-out" of receiving direct mail and marketing material from the Visa site, such as product and service updates, by following the instructions included in your email or by sending a reply stating your request, and we will make the requested change
 
-#### Childrens privacy **»**
+##### Childrens privacy »
 
 The Visa site is not intended for use by children. We do not knowingly collect information from children under the age of 13. If we learn that personal information on a child under the age of 13 is collected, we will delete that information from our systems. We encourage parents and guardians to be familiar with the web sites that their children visit.
 
-#### Keeping your information secure **»**
+##### Keeping your information secure »
 
 The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that Visa has collected from you at our web site.
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal informatio, Visa cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
 
-#### Acceptance of policy **»**
+##### Acceptance of policy »
 
 By visiting the Visa site, you are accepting the terms and conditions of this Policy, and we have the right to use your information as described in this Policy. We reserve the right to modify this Policy at any time. Your continued use of the Visa site after we either personally notify you or generally post such changes on the Visa site will constitute your acceptance of those changes.
 
@@ -92,11 +88,11 @@ This Policy applies only with respect to the information that we collect on the 
 
 If for some reason you believe that the Visa site has not adhered to this Policy, please notify us at one of the addresses below.
 
-#### Changes to statement **»**
+##### Changes to statement »
 
 Visa may modify or amend this Policy from time to time. In an effort to keep you informed of changes to this Policy, please note that the latest revision occurred in September 2004. Changes to this Policy will not affect our use of previously provided personal information.
 
-#### Contacting us **»**
+##### Contacting us »
 
 Please note that whenever you submit any information to us in connection with any of the Visa site -related services, you consent to Visas processing of this information in the United States as necessary to provide the services in which you are participating.
 
