@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630120651id_/http%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831003253id_/http%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
 
 # Questex Privacy Policy | Questex Media
 
-The following Privacy Statement summarizes the various ways that **Questex Media Group LLC**. (“Questex Media Group”) treats the information you provide while using **www.questex.com** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
+he following Privacy Statement summarizes the various ways that **Questex Media Group LLC**. (“Questex Media Group”) treats the information you provide while using **www.questex.com** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
 
-Please read this Privacy Statement carefully. **Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement**. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@questex.com](mailto:privacy@questex.com).
+Please read this Privacy Statement carefully. **Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement.** If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@questex.com](mailto:privacy@questex.com).
 
 In addition to reviewing this Privacy Policy, please read our Terms of Use. Your use of the our sites constitutes agreement to its terms and conditions as well.
 
 This Privacy Statement may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Any change, update or modification we make will be effective immediately upon posting on our site(s). If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail. Continued access of our sites by you will constitute your acceptance of any changes or revisions to the Privacy Statement.
 
-###  Collection of Personal Information
+###  Information Collected by Questex Media Group
 
 In general, you may visit our sites without identifying yourself or revealing any personal information.
 
@@ -20,13 +20,23 @@ Portions of our sites may require you to give us personally identifiable informa
 
   * (i) registration for attendance at certain Questex Media Group trade shows, conferences and events;
   * (ii) subscriptions to our publications, including e-newsletters; and
-  * (iii) certain features or functions of our websites.
+  * (iii) to access certain features or functions of our websites.
 
 
 
 If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys or contest entries, any information provided in such communications may be collected as personal information. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit most of our sites, but you may be unable to access certain options and services.
 
-If you elect to provide us personal information, we use it primarily to deliver the service you requested.
+###  How We Use Your Information
+
+If you elect to provide us personal information, we may use it to:
+
+  * (i) deliver the service you requested;
+  * (ii) in connection with your registration for a trade show, conference or event;
+  * (iii) in connection with your subscription to our publications;
+  * (iv) to respond to your inquiries and contact you about our Site and/or Services;
+  * (v)for any other purpose disclosed at the time the information is collected or to which you conset.
+
+
 
 If you submit financial information, we use that information primarily to verify your credit and collect payments for your purchases, orders, registrations, etc.
 
@@ -36,7 +46,7 @@ We may share your personal information with our affiliates and with our partners
 
 If you do not wish to have your personally identifying information shared, or if you do not wish to receive future commercial communications from us by e-mail, you may unsubscribe or opt-out, as described below – see “Opt-Out Option.”
 
-We may also allow access to your information  by third parties that provide us with services, such as development services, but only for the purpose of and to the extent necessary to provide those services.
+We may also allow access to your information by third parties that provide us with services, such as development services, but only for the purpose of and to the extent necessary to provide those services and only if those third parties take appropriate precautions to safeguard your information.
 
 In addition, we reserve the right to use the information we collect about you and/or your computer, which may at times be able to identify you, for any lawful business purpose, including to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our sites, or if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on Questex Media Group or to protect and defend the rights or property of Questex Media Group, or to enforce our terms of service.
 
@@ -46,9 +56,9 @@ In addition, as our business changes, we may buy or sell various assets. In the 
 
 If you reside in California and you have provided us with personal information, you may request information about our disclosures of certain categories of your personal information (if any) to third parties for their direct marketing purposes. Such requests must be submitted to us at [privacy@questex.com](mailto:privacy@questex.com). Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties (if any) for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the email address specified in this paragraph.
 
-###  Aggregated Information
+###  Aggregated Anonymous Information
 
-While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends, improving our products and/or services, and seeking compatible advertisers and partners.
+We reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends, improving our products and/or services, and seeking compatible advertisers and partners.We reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends, improving our products and/or services, and seeking compatible advertisers and partners.
 
 ###  Information on Children
 
@@ -60,6 +70,16 @@ Many of our Site functions (but not all) provide you with the option of correcti
 
 If you would like to update, remove or correct your information and are unable to do so through your user profile, please contact [privacy@questex.com](mailto:privacy@questex.com).
 
+###  Opt-Out Option
+
+Visitors to our sites and users of our services can decide if they want to receive targeted promotional information from Questex Media Group or targeted promotional information sponsored by our marketing partners. On the visitor registration pages, you can state preferences regarding advertising and promotional communications from Questex Media Group or our partners. Should visitors accept promotional email from Questex Media Group, any email they receive will include instructions on how to be removed from our promotional email list.
+
+If you do not wish to have your personally identifying information shared, or if you do not wish to receive future commercial communications from us by e-mail, you may change your preferences at any time simply by: (i) writing to us (and please include your e-mail address), or (ii) by following the unsubscribe instructions contained within the e-mail you receive from us. We will update your preferences as soon as is reasonably practicable. If you have registered on any part of our sites, please use the mechanism on our sites that allows you to change or update your profile, preferences or information, if available, to keep all such data accurate and up-to-date. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference.
+
+Please note that if you opt-out as described above, we will not be able to remove your personal information from the databases of third parties with which we have already shared your personal information (i.e., to which we have provided your personal information prior to our receipt of your opt-out request).
+
+To opt out of communications from these third parties, please contact the third party sender. Questex Media Group does not bear any responsibility for ensuring that any third party complies with your opt-out or unsubscribe request vis-à-vis its own lists.
+
 ###  Third Party and Affiliated Links
 
 Our sites may from time to time contain external links to other websites, including suppliers, advertisers and affiliates. We have no control over, and are not responsible for, the content of, or information gathered by, these other websites. We do not endorse any of these websites or the products or services associated with such websites merely because they are linked to any of our sites. In addition, users of our sites should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
@@ -68,24 +88,32 @@ Our sites may from time to time contain external links to other websites, includ
 
 A “cookie” is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables our sites to return the results the browser expects. We may use temporary, session-specific cookies to ensure visits to our sites is smooth and customized for the visitor – for example, to control the display of ads, to track usage patterns on our sites, to deliver editorial content, and to record registration and personalization information. Such cookies allow us to provide a visitor’s browser with information tailored to the visitor’s preferences and needs. We also may use permanent or persistent cookies that remain on a visitor’s computer after the visitor leaves our sites. We use this data on an anonymous basis and we do not correlate this information with personal data of any user.
 
-Most website browsers automatically accept cookies, but you may be able to turn off the cookie acceptance option in your browser’s settings. However, disabling the cookie support function of the browser may prevent some portions of our sites from functioning properly, and you may not be able to utilize fully all of our sites’ features and information.  
-We may from time to time use advertising companies to develop banner ads for our sites. These ads may contain cookies that may be sent to your browser through the banner ads. We do not have control over cookies placed by our advertisers, nor do we have access to any information their cookies may collect.
+Most website browsers automatically accept cookies, but you may be able to turn off the cookie acceptance option in your browser’s settings. However, disabling the cookie support function of the browser may prevent some portions of our sites from functioning properly, and you may not be able to utilize fully all of our sites’ features and information. We may from time to time use advertising companies to develop banner ads for our sites. These ads may contain cookies that may be sent to your browser through the banner ads. We do not have control over cookies placed by our advertisers, nor do we have access to any information their cookies may collect.
 
-We might also receive information about you from third parties that track your activities on the web or from partners or third party service providers with whom you’ve transacted business.  These third parties generally would be other providers that you have authorized to obtain and share information about you and/.or information about your activities on the internet, such as sites you visit using your computer or mobile device.  We may combine this information with other information we have collected from you by other means and we may use and/or disclose that combined information consistent with this Policy.
+We might also receive information about you from third parties that track your activities on the web or from partners or third party service providers with whom you’ve transacted business. These third parties generally would be other providers that you have authorized to obtain and share information about you and/or information about your activities on the internet, such as sites you visit using your computer or mobile device. We may combine this information with other information we have collected from you by other means and we may use and/or disclose that combined information consistent with this Policy.
 
-###  Opt-Out Option
+###  Use of Google Analytics Tools for Display Advertising
 
-Visitors to our sites can decide if they want to receive targeted promotional information from Questex Media Group or targeted promotional information sponsored by our marketing partners. On the visitor registration pages, you can state preferences regarding advertising and promotional communications from Questex Media Group or our partners. Should visitors accept promotional email from Questex Media Group, any email they receive will include instructions on how to be removed from our promotional email list.
+We may employ tools provided by Google Analytics to support Display Advertising, including Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting.
 
-If you do not wish to have your personally identifying information shared, or if you do not wish to receive future commercial communications from us by e-mail, you may change your preferences at any time simply by: (i) writing to us (and please include your e-mail address), or (ii) by following the unsubscribe instructions contained within the e-mail you receive from us. We will update your preferences as soon as is reasonably practicable. If you have registered on any part of our sites, please use the mechanism on our sites that allows you to change or update your profile, preferences or information, if available, to keep all such data accurate and up-to-date. The only item of information you cannot change is your username ID selected at registration for a trade show, event or conference.
+In general, this means that:
 
-Please note that if you opt-out as described above, we will not be able to remove your personal information from the databases of third parties with which we have already shared your personal information (i.e., to which we have provided your personal information prior to our receipt of your opt-out request).
+  * (i) Third-party vendors, including Google, may show our ads on sites across the Internet (including non-Questex sites) based upon your visits to this site.
+  * (ii) You may receive interest-based advertising on our site based on the types of sites visited from your device or other anonymous data Google has collected.
+  * (iii) To implement these tools, we and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third- party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to our website and to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+  * (iv) We use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) to better serve you, including to improve our site, products, and services and to provide you with access to content that we believe will be of interest to you.
 
-To opt out of communications from these third parties, please contact the third party sender.  Questex Media Group does not bear any responsibility for ensuring that any third party complies with your opt-out or unsubscribe request vis-à-vis its own lists.
+
+
+To opt-out of Google Analytics for Display Advertising, please use the opt-out feature in Google’s Ad Settings at [www.google.com/settings/ads/](http://www.google.com/settings/ads/ "www.google.com/settings/ads/"). Visitors may also use the Google Analytics opt-out Browser add on (available for download here <https://tools.google.com/dlpage/gaoptout/>) to opt out of these advertisements online.
+
+We may also use one or more of the following features of Google AdWords Interest-Based Advertising features: remarketing; interest categories; similar audiences; demographic and location targeting. We follow Google’s policy for advertising based on interest and location, which you can view here: <https://support.google.com/adwordspolicy/answer/143465>.
+
+We will not combine any analytic data collected through these services with your personally indefinable information without first receiving your explicit consent.
 
 ###  Security and Encryption
 
-We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, “firewalls” and Secure Socket Layers. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, “perfect security” does not exist on the Internet.
+We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, “firewalls” and Secure Socket Layers. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
 
 ###  Non-US Users
 
@@ -95,7 +123,7 @@ This Web site is operated in the United States. If you are located in the Europe
 
 If you have any questions regarding our privacy statement, please feel free to contact us by letter at the address below, or by e-mail at [privacy@questex.com](mailto:privacy@questex.com).
 
-We read every message submitted and try to reply promptly to every one.
+We read every message submitted and try to reply promptly to everyone.
 
 **Questex Media Group LLC**  
 275 Grove Street  
@@ -103,4 +131,4 @@ Suite 2-130
 Newton, MA 02466
 
 [privacy@questex.com](mailto:privacy@questex.com)  
-© 2013 Questex Media Group LLC Privacy Statement
+© 2014 Questex Media Group LLC Privacy Statement
