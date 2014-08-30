@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixplanet.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192224id_/http%3A//clixplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixplanet.com privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830231235id_/http%3A//www.clixplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # ClixPlanet - Make money easy as clix!
 
