@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blgm.hk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603135435id_/http%3A//blgm.hk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blgm.hk privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830162511id_/http%3A//blgm.hk/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
