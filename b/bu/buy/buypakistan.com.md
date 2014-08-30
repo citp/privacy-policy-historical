@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the buypakistan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051546id_/http%3A//www.buypakistan.com/cms-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buypakistan.com privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830233058id_/http%3A//www.buypakistan.com/cms-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Page - privacy_policy
+
+[](http://vitaminhive.com/)
 
 ## Information Collection and Use
 
