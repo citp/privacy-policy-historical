@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easymums.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102918id_/http%3A//dating.easymums.co.uk/help/privacy.cfm%3Fwldsite%3D24356) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easymums.co.uk privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831003256id_/http%3A//dating.easymums.co.uk/help/privacy.cfm%3Fwldsite%3D24356) for the most accurate reproduction.*
 
 # EasyMums :: EasyMums Member Privacy Policy
 
-_Last updated on Wednesday 16th January, 2013_
+_Last updated on Thursday 7th August, 2014_
 
 ### Proprietor
 
@@ -26,6 +26,7 @@ Global Personals may also record which services you are interested in and which 
   * process your communications, your membership of and subscription to the Website and to enable your use of the Website and the services;
   * provide you with an up to date, efficient and reliable service;
   * help fraud prevention i.e. Global Personals checks card details with credit agencies and reserves the right to refuse to make available the Website services on that basis (your credit rating can be checked for a nominal fee with the main UK agencies Equifax and Experian);
+  * provide customer care services. For the avoidance of doubt, we will only store limited Credit Card or Debit Card information for the purpose of assisting with customer care enquiries;
   * open and run your account;
   * administer prize draws;
   * provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; and
