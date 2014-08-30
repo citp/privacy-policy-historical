@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comuk.net privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524234024id_/http%3A//www.comuk.net/index.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comuk.net privacy policy that was archived on 2014-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140830111205id_/http%3A//comuk.net/index.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # ComUK.net - Your Premium Domain Name
 
