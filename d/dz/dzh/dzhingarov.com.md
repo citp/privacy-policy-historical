@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dzhingarov.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618155459id_/http%3A//dzhingarov.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzhingarov.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831233410id_/http%3A//dzhingarov.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Dzhingarov
 
