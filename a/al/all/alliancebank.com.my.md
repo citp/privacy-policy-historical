@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414022445id_/http%3A//www.alliancebank.com.my/About-Us/About-the-Website/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901003509id_/http%3A//www.alliancebank.com.my/WebsitePrivacyPolicy) for the most accurate reproduction.*
 
 # About the Website - Privacy Policy | Alliance Bank Malaysia Berhad
 
@@ -8,7 +8,7 @@ At Alliance Bank Malaysia Berhad ("ABMB"), we understand that you may be concern
 
 Please be informed that ABMB respects your privacy and ABMB is committed to safeguarding all your confidential information. To assist in this regard, ABMB has instituted a variety of security measures which keeps safe ABMB's computer system, data and information base.
 
-Also please be informed that even ABMB employees with authority to access customer confidential information are obliged to keep and maintain such information confidential. Pursuant to the Banking & Financial Institutions Act 1989, each Alliance Bank employee is bound by written declarations to maintain such confidentiality in accordance with the law.
+Also please be informed that even ABMB employees with authority to access customer confidential information are obliged to keep and maintain such information confidential. Pursuant to the Financial Services Act 2013, each Alliance Bank employee is bound by written declarations to maintain such confidentiality in accordance with the law.
 
 **COLLECTION AND USE OF INFORMATION**
 
