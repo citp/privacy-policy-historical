@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123313id_/http%3A//www.innotas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831052640id_/http%3A//www.innotas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Innotas
 
