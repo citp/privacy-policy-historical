@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619143326id_/http%3A//www.tictacti.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictacti.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901014106id_/http%3A//www.tictacti.com/Privacy-Policy) for the most accurate reproduction.*
 
 # TicTacTi- Complete Monetization Solution: in Game Advertising, In Video Advertising
 
