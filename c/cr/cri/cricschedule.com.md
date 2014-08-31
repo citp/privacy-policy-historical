@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627100751id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831143323id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricSchedule.com
 
@@ -7,8 +7,10 @@ Show navigation Hide navigation
   * [HOME](https://web.archive.org/ "Home")
   * [LIVE SCORE](https://web.archive.org/livescore.php "Live Score")
   * [SERIES](https://web.archive.org/series.php "Series Schedule")
+    * [India vs West Indies Schedule](https://web.archive.org/series/204-west-indies-tour-of-india-2014-schedule-fixtures.html "West Indies tour of India 2014")
+    * [Champions League T20 Schedule](https://web.archive.org/tournament/3/champions-league-t20.html "Champions League T20 Schedule 2014")
+    * [India vs Australia Schedule](https://web.archive.org/series/210-india-tour-of-australia-2014-15-schedule-fixtures.html "India tour of Australia Schedule")
     * [Cricket World Cup 2015 Schedule](https://web.archive.org/tournament/6/cricket-world-cup.html "Cricket World Cup 2015 Schedule")
-    * [India vs England Schedule](https://web.archive.org/series/198-india-tour-of-england-2014-schedule-fixtures.html "India tour of England 2014 Schedule")
   * [CRICKET 2014](https://web.archive.org/year/2014.php "Cricket Schedule 2014")
   * [TEAMS](https://web.archive.org/teams.php "Team Schedule")
     * [Australia Fixtures](https://web.archive.org/team/australia.php "Australia Team Schedule")
@@ -35,3 +37,5 @@ Show navigation Hide navigation
   7. If you have a feeling that we are not acting in accordance to any of the policies mentioned above, feel free to contact us.
 
 
+
+Copyright 2014 CricSchedule.com. All rights reserved. 
