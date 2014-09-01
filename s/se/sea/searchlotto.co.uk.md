@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchlotto.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627082409id_/https%3A//www.searchlotto.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchlotto.co.uk privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901070240id_/http%3A//www.searchlotto.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Search Lotto :: Play the National Lottery for free by searching the web
 
