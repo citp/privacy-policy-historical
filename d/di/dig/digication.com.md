@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digication.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310062644id_/http%3A//www.digication.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digication.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901145107id_/https%3A//www.digication.com/about/privacy) for the most accurate reproduction.*
 
 # Digication e-Portfolios: About - Privacy
 
