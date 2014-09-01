@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connerpro.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220075415id_/http%3A//www.connerpro.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connerpro.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902003744id_/http%3A//www.connerpro.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | Conner Productions
 
