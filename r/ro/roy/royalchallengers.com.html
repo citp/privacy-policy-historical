@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royalchallengers.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628141504id_/http%3A//www.royalchallengers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalchallengers.com privacy policy that was archived on 2014-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140901063209id_/http%3A//www.royalchallengers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>RCB Fan Club - Royal Challengers Bangalore Official Website </title>
@@ -33,7 +33,7 @@ $(window).resize(function(){changeMenu();});function loadSocial(loadSpecial){if(
 if(loadSpecial.f==1){if(typeof(FB)!='undefined'){FB.init({status:true,cookie:true,xfbml:true});}else{$.getScript("http://connect.facebook.net/en_US/all.js#xfbml=1",function(){FB.init({status:true,cookie:true,xfbml:true});});}}
 if(loadSpecial.lin==1){if(typeof(IN)!='undefined'){IN.parse();}else{$.getScript("http://platform.linkedin.com/in.js");}}
 if(loadSpecial.g==1){if(typeof(gapi)!='undefined'){gapi.plusone.go();}else{$.getScript('https://apis.google.com/js/plusone.js');}}}
-function setShareEventListner(){$(".shareThis").off();$(".shareThis").on("click",function(){$(this).hide();var flike=$.parseJSON($(this).data().flike);var tweet=$.parseJSON($(this).data().tweet);var gplus=$.parseJSON($(this).data().gplus);if(flike){$(this).parent().append("<div class='social'>"+flike+"</div>");}
+function setShareEventListner(){$(".shareThis").off();$(".shareThis").live("click",function(){$(this).hide();var flike=$.parseJSON($(this).data().flike);var tweet=$.parseJSON($(this).data().tweet);var gplus=$.parseJSON($(this).data().gplus);if(flike){$(this).parent().append("<div class='social'>"+flike+"</div>");}
 if(tweet){$(this).parent().append("<div class='social'>"+tweet+"</div>");}
 if(gplus){$(this).parent().append("<div class='social'>"+gplus+"</div>");}
 loadSocial({f:1,t:1,g:1});});}</script>
@@ -46,7 +46,7 @@ loadSocial({f:1,t:1,g:1});});}</script>
 
 <section class="pageWrapper">
 <!-- Header Starts -->
-<!-- Google Tag Manager -->
+-<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPQWFC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MPQWFC');</script>
 <!-- End Google Tag Manager -->
@@ -414,7 +414,7 @@ function show_nav(){$('.subNavMenu').toggle();}</script>
 </div>
 </nav>
 <div class="googleSearchBox noMobile">
-<form id="cse-search-box" action="http://www.royalchallengers.com/search-result/">
+<form id="cse-search-box" action="http://www.royalchallengers.com/ee/index.php/events/searchresult/">
 <div>
 <input type="hidden" value="007931568704167337805:vdmbzewhys4" name="cx">
 <input type="hidden" value="FORID:10" name="cof">
@@ -619,7 +619,7 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 <div class="associateSponsors sponsor">
 <div class="header">Associate Partners</div>
 <div class="logos">
-<div class="footerlogo rbk"><a rel="nofollow" href="http://www.shop4reebok.com/" target="_blank"><img src="http://cdn.royalchallengers.com/images/images-2012/logo-reebok.jpg"></a></div>
+<div class="footerlogo rbk"><a rel="nofollow" href="javascript:;" target="_blank"><img src="http://cdn.royalchallengers.com/images/images-2012/logo-reebok.jpg"></a></div>
 <div class="footerlogo"><a rel="nofollow" href="http://www.britannia.co.in/" target="_blank"><img src="http://js.royalchallengers.com/images/images-2012/logo-britannia.jpg"></a></div>
 <div class="footerlogo"><a rel="nofollow" href="javascript:;"><img src="http://js.royalchallengers.com/images/images-2012/logo-fortuna.jpg"></a></div>
 <div class="footerlogo"><a rel="nofollow" href="http://tatamotorsbolt.com/" target="_blank"><img src="http://js.royalchallengers.com/images/images-2012/logo-bolt.jpg"></a></div>
@@ -673,7 +673,7 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 <script src="http://js.royalchallengers.com/js/jquery.tools.min.js"></script>
 <script src="http://js.royalchallengers.com/js/ga_social_tracking.js"></script>
 <script>_ga.trackSocial();</script>
-<script>_ga.trackSocial();FB.Event.subscribe('edge.create',function(response){_gaq.push(['_trackPageview','/goals/engagement']);});</script>
+<script>_ga.trackSocial();FB.Event.subscribe('edge.create',function(response){ga('send','pageview','/goals/engagement');});</script>
 <!-- common files ENDS -->
 
 
