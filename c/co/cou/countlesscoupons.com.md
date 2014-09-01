@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countlesscoupons.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902104600id_/http%3A//countlesscoupons.com/Shrd/Docs/Privacy.aspx%3FType%3DCoupons) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countlesscoupons.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901084753id_/http%3A//countlesscoupons.com/Shrd/Docs/Privacy.aspx%3FType%3DCoupons) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
