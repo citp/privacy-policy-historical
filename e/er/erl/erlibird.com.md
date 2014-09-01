@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erlibird.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062629id_/https%3A//erlibird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erlibird.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901082635id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Erli Bird
 
@@ -14,15 +14,13 @@ We allow you to get on our email list by providing your email address or using o
 
 If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work or you would rather contact us directly, please email us at team@erlibird.com and we will promptly remove you from our list.
 
-By default, we will send you approximately one or two emails a week related to new startups and products that we feature.
-
-Users that have requested access to Erli Bird but have not yet been granted access will not be sent recurring weekly emails.
+On average, will send you approximately one to three emails a week related to the products that we feature.
 
 We may send you service announcements or notifications.
 
 ### When Your Information is Shared
 
-As important function of Erli Bird is to allow users to locate startups and communicate with founders. As such, an integral part of the service is facilitating communication by sharing the information that you make available through your profile (either directly, or by logging in through a social networking service). If you sign up and "Claim Your Spot" for a Startup incentive, you grant us the right to share your personal information with the Startup. This helps facilitate delivery of the incentive and communication between you and the startup founders. Startups must agree not to abuse your personal information prior to being listed on Erli Bird.
+For products that are coming soon, we often allow you to provide an email address to get on a product's waiting list. In this scenario your email address is shared with that product's owners so that they may add you to their waiting list.
 
 We use a third-party login system from Janrain called Engage in order to allow you to login using your credentials from various popular third party websites. As the provider of these systems, your login and social profile data is first accessed and processed by Janrain and then sent to Erli Bird.
 
@@ -59,4 +57,4 @@ However, no amount of physical or virtual security is impenetrable. We try hard 
 
 ### Contacting Us
 
-Please contact Erli Bird with any questions, comments, or to report a violation of the Privacy Policy: Michael Siegler, mike@erlibird.com, 1960 N. Lincoln Park West, 2412, Chicago, IL 60614. 
+Please contact Erli Bird with any questions, comments, or to report a violation of the Privacy Policy: Michael Siegler, 414 Bradley Circle, St. Charles, IL 60174, Phone: 630-803-1628, Email: mike@erlibird.com. 
