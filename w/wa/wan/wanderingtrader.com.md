@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111740id_/http%3A//wanderingtrader.com/terms-of-use/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901073315id_/http%3A//wanderingtrader.com/terms-of-use/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WanderingTrader: Travel Blog. Living Overseas. Day Trading.
 
