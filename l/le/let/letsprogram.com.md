@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsprogram.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603111017id_/http%3A//www.letsprogram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsprogram.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901112145id_/http%3A//www.letsprogram.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Let's program
 
