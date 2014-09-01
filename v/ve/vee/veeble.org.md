@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeble.org privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220062708id_/http%3A//veeble.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeble.org privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901115422id_/http%3A//www.veeble.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Veeble
 
@@ -28,6 +28,6 @@ Voice Calls
 Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding account verification or other account related information, billing or promotions that we believe may be of interest. Please provide us with your correct phone number.
 
 Questions or Comments  
-For additional questions, please contact our team using our [contact form](https://web.archive.org/web/20140220062708id_/http%3A//support/). 
+For additional questions, please contact our team using our [contact form](https://web.archive.org/web/20140901115422id_/http://www.veeble.org/support/). 
 
 * * *
