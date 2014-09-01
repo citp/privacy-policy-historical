@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the web4africa.net privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430225900id_/http%3A//www.web4africa.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web4africa.net privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901220456id_/https%3A//www.web4africa.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting, Domain Name Registration, Reseller Hosting.
 
-Effective **Â  1st January 2007**
+Effective **  1st January 2007**
 
 **Privacy Notice Table Of Contents:**
 
@@ -61,4 +61,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us or send us an email by using ourÂ [contact form](http://www.web4africa.net/about-us/contact.php).
+Should you have other questions or concerns about these privacy policies, please call us or send us an email by using our [contact form](http://www.web4africa.net/about-us/contact.php).
