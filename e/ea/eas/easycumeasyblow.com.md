@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycumeasyblow.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629103649id_/http%3A//www.easycumeasyblow.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycumeasyblow.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901181010id_/http%3A//www.easycumeasyblow.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EasyCumEasyBlow.com
 
@@ -46,4 +46,4 @@ If you have comments or questions regarding our privacy policy, please contact u
 Add 3 movies and  
 GET 3 FREE!
 
-[ ](http://www.fleshlight.com/fleshlight-girls/?link=737211)
+[ ](http://www.fleshlight.com/sex-in-a-can/?link=737212)
