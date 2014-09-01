@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitelooper.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081836id_/http%3A//www.infinitelooper.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitelooper.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901181124id_/http%3A//www.infinitelooper.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - InfiniteLooper
 
