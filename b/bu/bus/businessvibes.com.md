@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607112139id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901054734id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Private Policy | BusinessVibes | BusinessVibes
 
@@ -16,10 +16,10 @@ Email: [help@businessvibes.com](mailto:help@businessvibes.com)
 By post at:  
 BusinessVibes – Customer Service Department
 
-Businessvibes Network International Inc.
+BusinessVibes Network International Inc.
 
-221 Loch Lomond Road,
+2 Bloor Street West,
 
-Saint John, New Brunswick,
+Toronto, Ontario
 
-E2J 1Y5
+M4W 3R1
