@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechivery.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605035732id_/http%3A//www.thechivery.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechivery.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902185005id_/http%3A//www.thechivery.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Chivery
 
