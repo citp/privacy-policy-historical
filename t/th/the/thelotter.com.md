@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140049id_/http%3A//www.thelotter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903010818id_/http%3A//www.thelotter.com/privacy-policy) for the most accurate reproduction.*
 
 # Lottery Rules | Online Lottery Policy | theLotter
 
@@ -159,10 +159,16 @@ California Civil Code Section 1798.83 permits customers of theLotter who are Cal
 
 We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Site to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at [support@theLotter.com](mailto:service@theLotter.com). 
 
+  15. Facebook Connect. 
+
+15.1. 
+
+You may engage with our content, such as video, lottery games, applications, and other offerings, through third-party social networking sites, such as Facebook. When you engage with our content on or through third party social networking sites, plug-ins or applications, you may allow us to have access to certain information from your public social media profile to deliver the content or as part of the operation of the application. 
 
 
 
-Last update: February 2012 
+
+Last update: August 2014 
 
 |  |   
   |   |  
