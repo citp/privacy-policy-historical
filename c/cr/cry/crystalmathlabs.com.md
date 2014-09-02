@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crystalmathlabs.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502205443id_/http%3A//crystalmathlabs.com/tracker/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalmathlabs.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903002508id_/http%3A//www.crystalmathlabs.com/tracker/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - XP Tracker for Old School RuneScape - Crystal Math Labs
-
-## Privacy Policy - Crystal Math Labs
+# Privacy Policy - Crystal Math Labs
 
 This Privacy Policy governs the manner in which Crystal Math Labs collects, uses, maintains and discloses information collected from users (each, a "User") of the crystalmathlabs.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Crystal Math Labs. 
 
@@ -13,6 +11,10 @@ We may collect personal identification information from Users in a variety of wa
 ### Non-personal identification information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+
+### Web browser cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
 ### How we use collected information
 
@@ -36,7 +38,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20140502205443id_/http%3A//crystalmathlabs.com/tracker/contact.php).   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](https://web.archive.org/web/20140903002508id_/http%3A//www.crystalmathlabs.com/tracker/contact.php).   
 Crystal Math Labs   
 crystalmathlabs.com 
 
