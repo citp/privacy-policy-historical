@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytazew.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615041546id_/http%3A//mytazew.com/legal/%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytazew.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902044928id_/http%3A//mytazew.com/legal/%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
