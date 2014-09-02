@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100546id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902224724id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Covestor
 
-### Last updated 23 July 2013
+### Last updated 08 August 2014
 
 Covestor Limited has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and portfolio managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
@@ -23,7 +23,7 @@ This policy outlines the types of information we collect about you and how we us
 
 #### 2\. Information Collected From All Visitors
 
-We collect two types of information from our users. The first is information that users provide through optional, voluntary submissions such as opening an account or requests to receive information from Covestor. The second is information that we gather through aggregated tracking information derived while you are browsing the [covestor.com](http://covestor.com/) website. Anonymous information will be gathered in our computer system log files to allow us to better tailor our content to readers´ needs, help us better understand the demographics of our audience and improve our products. Under no circumstances do we divulge any information about an individual user to a third party. 
+We collect two types of information from our users. The first is information that users provide through optional, voluntary submissions such as opening an account or requests to receive information from Covestor. The second is information that we gather through aggregated tracking information derived while you are browsing the covestor.com website. Anonymous information will be gathered in our computer system log files to allow us to better tailor our content to readers´ needs, help us better understand the demographics of our audience and improve our products. Under no circumstances do we divulge any information about an individual user to a third party. 
 
   
 
