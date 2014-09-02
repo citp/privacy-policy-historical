@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3xvsl.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208040155id_/https%3A//www.3xmarketingformula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3xvsl.com privacy policy that was archived on 2014-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140902192606id_/https%3A//www.3xmarketingformula.com/privacy.html) for the most accurate reproduction.*
 
 # 3X Marketing Formula - About
 
