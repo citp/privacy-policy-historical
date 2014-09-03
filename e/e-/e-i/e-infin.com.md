@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-infin.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221084738id_/http%3A//www.e-infin.com/privacy.php%3FosCsid%3D0ea52da441f1b00992434fedca411f6d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-infin.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903223815id_/http%3A//www.e-infin.com/privacy.php%3FosCsid%3D2dd31c60db9ea2151d118ed672b0ee29) for the most accurate reproduction.*
 
 # Contact Us - E-infinity Camera Store
 
