@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hometone.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515155219id_/http%3A//www.hometone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometone.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903230223id_/http%3A//community.drprem.com/privacy-policy-network) for the most accurate reproduction.*
 
-# Privacy Policy : Hometone : A complete guide to home improvement, home technology and home decor.
+# All Articles - Privacy Policy (Network) - Global Community of Social Leaders & Writers
 
-Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").
+Instamedia (Also known as Dr Prem Web Network, Global Community Network) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our various websites (the "Site" or "Sites"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").
 
-The Site is controlled and operated by Instamedia from the India, and is not intended to subject Instamedia to the laws or jurisdiction of any state, country or territory other than that of the India. Instamedia does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.
+The site actively managed by Global Community  (http://community.drprem.com) and is further controlled, operated and monitored by Instamedia (Dr Prem Web Network Team) from the India, and is not intended to subject Instamedia to the laws or jurisdiction of any state, country or territory other than that of the India. Instamedia does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.
 
 By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
@@ -12,37 +12,37 @@ This Policy represents the sole, authorized statement of Instamedia's practices 
 
 Note Regarding the Use of This Site by Children: The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide personally identifiable information through the Site. Further, we discourage individuals between ages 13 and 18 from using this site absent parental supervision.
 
-1\. What Types of Information Does Instamedia Collect Via the Site?
+**1\. What Types of Information Does Instamedia Collect Via the Site?**
 
 Instamedia gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). Personally Identifiable Information is information that identifies you as a specific individual; that is, your name, postal address, telephone number, e?mail address, or your credit card number. PII does not include information about any company or organization with which you work, or any newspaper, magazine or other publication with which you may be associated (for example, the name of your employer or publication). In contrast, Non-Personally Identifiable Information includes aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
-a. Personally Identifiable Information.
+**              a. Personally Identifiable Information.**
 
 You do not have to provide PII to us to access the Site. However, in order for you to take advantage of particular opportunities provided through the Site (for example, to apply for membership or participate in surveys, contests, sweepstakes, raffles or other similar promotions), you may require that you furnish PII. We collect PII from you only when you voluntarily provide it to us. Please note, however, that any personally identifiable information contained in any Offered Content (as defined in our Member Terms) - for example, the names of reporters and people featured or quoted in any Offered Content - is considered to be public information, and does not constitute PII under this Privacy Policy.
 
-b. Non-Personally Identifiable Information.
+**            b. Non-Personally Identifiable Information.**
 
 When you visit and interact with the Site, Instamedia and third parties with whom Instamedia has contracted to provide services to Instamedia may collect Non-PII (for example, a catalog of the Site pages that you visit). Non-PII is generally collected from four different sources: server log files, cookies, clear GIFs and information that you voluntarily provide.
 
-i. Server Log Files.
+**      i. Server Log Files.**
 
 Your Internet Protocol (IP) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.
 
-ii. Cookies.
+**     ii. Cookies.**
 
 Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites, and can facilitate users' ongoing access to and use of a particular web site. Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.
 
-iii. Clear GIFs.
+**     iii. Clear GIFs.**
 
 Additionally, we or our service providers may use so-called "clear GIFs", "pixel tags", "web beacons" or similar means (collectively, "Clear GIFs") in some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates and help manage our web site reports. A Clear GIF is an electronic image, often a single-pixel (1x1), that is ordinarily not visible to Site users and may be associated with cookies on our users' hard drives. These Clear GIFs provide us and our service providers with the ability to recognize a browser's cookie when a browser visits this site. Clear GIFs also allow us and our service providers to count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, Clear GIFs can tell the sender whether and when the e-mail has been opened.
 
-iv. Information That You Voluntarily Provide.
+**      iv. Information That You Voluntarily Provide.**
 
 Instamedia also collects Non-PII (e.g., your interests, your geographic location and so forth) when you voluntarily provide such information to us.
 
-2\. How Does Instamedia Use Information Collected on the Site?
+**2\. How Does Instamedia Use Information Collected on the Site?**
 
-a. Personally Identifiable Information.
+**       a. Personally Identifiable Information.**
 
 Instamedia may use your PII to provide you with Site related services. Subject to your right to opt-out (see "Opt-Out" section below), we may also use your PII to inform you of content we believe which may be of interest to you.
 
@@ -56,17 +56,17 @@ From time to time, in our sole discretion, we may use your PII to e-mail to you 
 
 Further, notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose your PII if we believe that we are required to do so (a) by law; (b) to comply with legal process or governmental requests; (c) to enforce our Terms of Service; (d) to fulfill our contractual obligations, including fulfilling our users' audit rights, if any; (e) to protect our operations or those of any Affiliated Entities; (f) to protect the rights, privacy, safety or property of Instamedia, the Affiliated Entities, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. Moreover, we may, to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
 
-b. Non-Personally Identifiable Information.
+**       b. Non-Personally Identifiable Information.**
 
 Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non?PII, which does not personally identify you, with Affiliated Entities and other third parties, for any purpose.
 
-3\. Other Important Notes Regarding Our Privacy Practices.
+**3\. Other Important Notes Regarding Our Privacy Practices.**
 
-a. Third Party Service Providers.
+**           a. Third Party Service Providers.**
 
 We work with third parties who provide services including but not limited to web site hosting, data analysis and other services of an administrative nature. We reserve the right to share your PII with such third parties solely for the purpose of enabling such third parties to provide such services.
 
-b. Third Party Advertisers.
+**          b. Third Party Advertisers.**
 
 We may use third-party contextual and interest-based advertising companies to serve ads when users visit our website, among other services. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Network websites in order to provide advertisements about goods and services of interest to you.
 
@@ -80,32 +80,32 @@ You also may choose to opt out of the DoubleClick cookie at any time to stop the
 
 Instamedia does not provide any personal information to third-party ad servers or ad networks without your consent.
 
-c. Third Party Sites.
+**        c. Third Party Sites.**
 
 The Site may contain links to third party web sites. These linked sites (including without limitation the web sites of Affiliated Entities) are not under Instamedia' control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Instamedia or any Affiliated Entities. If you provide any PII through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
 
-d. Security.
+**        d. Security.**
 
 We seek to maintain reasonable security measures in order to attempt to protect against the loss, misuse or alteration of the PII under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect your PII, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that we store on our or our service providers' systems.
 
-e. Opting-Out.
+**        e. Opting-Out.**
 
-We may, from time to time, send you messages about products and services that we believe would be of interest to you. If you would prefer not to receive such promotional messages, you may unsubscribe from such messages by clicking on the "unsubscribe" link at the bottom of such messages, or by contacting us by e-mail at contact@Instamedia.com.
+We may, from time to time, send you messages about products and services that we believe would be of interest to you. If you would prefer not to receive such promotional messages, you may unsubscribe from such messages by clicking on the "unsubscribe" link at the bottom of such messages, or by contacting us by e-mail at webmaster@Instamedia.com.
 
-f. Changing or Removing Your PII.
+**        f. Changing or Removing Your PII.**
 
 We provide you with several options for reviewing, correcting, updating or otherwise modifying PII that you have previously provided through the Site:
 
-1\. You may contact us by e-mail at conatct[at]Instamedia.com.
+1\. You may contact us by e-mail at info[at]Instamedia.com.
 
 2\. You may edit your profile by logging into the Instamedia and editing your personal profile.
 
 In each event, you must clearly indicate the information that you wish to have changed, or clearly indicate that you wish to have your PII removed from our database. We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed therefrom. We also reserve the right, from time to time, to re-contact former users of the Site. Finally, we are not responsible for removing information from the databases of third parties with whom we have already shared your PII.
 
-g. Assignment.
+**        g. Assignment.**
 
 We reserve the right to transfer any and all PII that we collect from users of the Site to a third party in the event of any sale, transfer or other disposition of all or any portion of Instamedia's business.
 
-h. Contacting Us.
+**        h. Contacting Us.**
 
-If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Limited, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+If you have any questions regarding this Policy, please contact us either by e-mail at it [@] drprem.com 
