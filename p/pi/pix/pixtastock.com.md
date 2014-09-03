@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610150641id_/http%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904014659id_/http%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stock Photos PIXTA
 
@@ -19,12 +19,12 @@ We will use the Personal Information that has been registered by the User in acc
   1. Provision of the Service;
   2. Provision of customer services including but not limited to handling inquiries or claims;
   3. Maintenance of the system and fixing problems;
-  4. User’s identity confirmation; 
+  4. Confirmation of the User’s identification;
   5. Charging for the purchase price and payment of the compensation;
-  6. Displaying on Pixta’s website accessed by the User or on the User’s other mobile devices, or sending by e-mail or by mail etc. of any information regarding Pixta’s other available services or our affiliated companies’ goods or services, which is considered to be beneficial to each User; provided, however, that User is able to cease or resume such use of the Personal Information by notifying thereof to us; 
+  6. Displaying on Pixta’s website accessed by the User or on the User’s other mobile devices, or sending by e-mail or by mail etc. of any information regarding Pixta’s other available services or our affiliated companies’ goods or services, which is considered to be beneficial to each User; provided, however, that the User is able to cease or resume such use of the Personal Information by notifying thereof to us; 
   7. Sending e-mails to obtain the User’s consent for the use of his or her Personal Information;
   8. Creation of statistical material that has been processed to make the User’s identification unidentifiable or unrecognizable (hereinafter referred to as the “Statistical Material”) by aggregating and analyzing attributes of the User’s Personal Information, and use of the Statistical Material for our business operation including but not limited to development for the new services;
-  9. Handling of such relevant matters as stipulated in constitution of the Service;
+  9. Handling of such relevant matters as stipulated in terms or rules of the Service;
   10. Other purposes related to the above purposes.   
 
 
@@ -75,6 +75,10 @@ Any and all the Personal Information that has been registered with us will be co
 
 We will use the User’s registered e-mail address and password in order to confirm the User’s identity. Each User shall be responsible for safekeeping of such password and we shall not be liable for any trouble arising out of or caused by registered e-mail address or password leaked due to the User’s negligence. We will take the utmost efforts for protection of the User’s Personal Information. However, we shall not be liable to any trouble caused by the User’s negligence or to any problem caused by trouble occurring in the course of the User’s using internet.
 
+### Joint Use of Personal Information 
+
+Your Personal Information may be jointly used with our group companies. Please read the [“Joint Use of Personal Information in our Group”](https://web.archive.org/privacy_policy#joint_use_of_personal_information) for the details of such joint use. 
+
 ### Other Important Points
 
 We shall have the right to revise or change provisions of this Privacy Policy, at any time, at our sole discretion. In the case of any material change in this Privacy Policy or usage of the Personal Information by Pixta, we will either post a notice on the Service or send an e-mail to the User in order to notify of such change. The provisions of this Privacy Policy shall take effect between the User and Pixta, and will not apply to any third party including but not limited to the parties being linked from the Service. We shall not be liable to the User’s Personal Information that is registered or handled in any outside website linked from the Service because it is not covered by or subject to this Privacy Policy under Pixta’s control.  
@@ -84,5 +88,27 @@ The number of companies constituting our group or the name(s) thereof may be cha
 
 Please click [here](https://web.archive.org/contacts) if you have any question regarding this Privacy Policy.
 
-As of June 9, 2014  
+As of September 1, 2014  
 2020 (c) PIXTA Inc. All Rights ReservedPIXTA Inc.
+
+#### Joint Use of Personal Information in our Group
+
+  1. Items that may be used jointly:   
+Name, Postal Address, Telephone Number, E-mail Address, Date of Birth, Gender and Other Personal Information collected. 
+  2. Scope of joint users:   
+[Our Group Companies](http://pixta.co.jp/en/company#group)
+  3. Scope of use: 
+    1. Provision of the Service; 
+    2. Provision of customer services including but not limited to handling inquiries or claims; 
+    3. Maintenance of the system and fixing problems; 
+    4. Confirmation of the User’s identification; 
+    5. Charging for the purchase price and payment of the compensation; 
+    6. Displaying on Pixta’s website accessed by the User or on the User’s other mobile devices, or sending by e-mail or by mail etc. of any information regarding Pixta’s other available services or our affiliated companies’ goods or services, which is considered to be beneficial to each User; provided, however, that the User is able to cease or resume such use of the Personal Information by notifying thereof to us; 
+    7. Sending e-mails to obtain the User’s consent for the use of his or her Personal Information; 
+    8. Creation of statistical material that has been processed to make the User’s identification unidentifiable or unrecognizable (hereinafter referred to as the “Statistical Material”) by aggregating and analyzing attributes of the User’s Personal Information, and use of the Statistical Material for our business operation including but not limited to development for the new services; 
+    9. Handling of such relevant matters as stipulated in terms or rules of the Service; 
+    10. Other purposes related to the above purposes. 
+  4. Entity responsible for management of joint use:   
+PIXTA Inc. 
+
+
