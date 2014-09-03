@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125153519id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushmail.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903104230id_/https%3A//www.hushmail.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Hushmail – Free Email with Privacy
+# Privacy Policy - Hushmail – Private Email
 
 ## Who we are
 
