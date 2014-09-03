@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easytithe.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209081022id_/http%3A//easytithe.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytithe.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903092907id_/http%3A//www.easytithe.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Giving For The Church - Accept Online Donations with Easy Tithe
 
@@ -30,8 +30,6 @@ Free Online Store!
 
 Free Virtual Terminal
 
-[](https://www.scanalert.com/RatingVerify?ref=www.easytithe.com)
-
 **_Document Last Modified_ :  June 5, 2013**
 
 This Privacy Policy governs the manner in which Easy Tithe collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").
@@ -52,7 +50,7 @@ Easy Tithe may disclose information collected from Users to trusted affiliates, 
 Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
 
 **Questions**  
-Users may direct questions concerning this Privacy Policy by [contacting Easy Tithe](https://web.archive.org/web/20140209081022id_/http%3A//easytithe.com/contact.htm). 
+Users may direct questions concerning this Privacy Policy by [contacting Easy Tithe](https://web.archive.org/web/20140903092907id_/http%3A//www.easytithe.com/contact.htm). 
 
 Easy tithe has been a great resource and has help drive people to our new website. As a result they are telling there friends about it and our traffic has increased immensely. Just in online giving we have gone from 700.00 the first month to over 5,000.00 in the 3rd month. Thanks Easy Tithe!
 
