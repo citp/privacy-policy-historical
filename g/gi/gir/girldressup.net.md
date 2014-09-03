@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girldressup.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618035454id_/http%3A//www.girldressup.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girldressup.net privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903073725id_/http%3A//www.girldressup.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
