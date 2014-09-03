@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114001id_/http%3A//www.acamarglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903140405id_/http%3A//www.acamarglobal.com/privacy) for the most accurate reproduction.*
 
-# Privacy | ACAMAR GLOBAL INVESTMENTS
+# Privacy | Investing Insights
 
 ### Our Commitment to Privacy
 
-Acamar Global Investments is committed to maintaining the confidentiality, integrity, and security of personal information about our current and prospective customers. Please note that certain details of this policy may depend on whether you deal with us through an investment professional, directly as an individual investor, or whether Acamar Global provides services to your employer or plan sponsor. The privacy policies of Acamar Global Investments is reviewed annually. Our printed and online notices are then updated to reflect any changes.
+Acamar Global Capital is committed to maintaining the confidentiality, integrity, and security of personal information about our current and prospective customers. Please note that certain details of this policy may depend on whether you deal with us through an investment professional, directly as an individual investor, or whether Acamar Global provides services to your employer or plan sponsor. The privacy policies of Acamar Global Capital is reviewed annually. Our printed and online notices are then updated to reflect any changes.
 
-**Acamar Global Investments Privacy Policy**
+**Acamar Global Capital Privacy Policy**
 
 **How and why we obtain personal information**  
 Acamar Global takes great care to protect personal information about you and when we use it, we do so with respect for your privacy. We may use personal information about you to service and maintain your account; process transactions in your account; respond to inquiries from you or your representative; develop, offer, and deliver products and services; or to fulfill legal and regulatory requirements. Acamar Global may collect public and non-public personal information about you from any of the following sources:
@@ -42,7 +42,7 @@ Based on the nature of your relationship with Acamar Global, we may exchange inf
 **Privacy online**
 
 Privacy, security, and service in Acamar Global's online operations are just as critical as in the rest of our business. We use firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Acamar Global accounts and systems from unauthorized access.  
-When you interact with us through online channels (for example, websites and mobile applications) owned and controlled by Acamar Global Investments ("Acamar Global websites"), Acamar Global manages personal information in accordance with all of the practices and safeguards described previously. When you visit Acamar Global websites, we may collect technical and navigational information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on Acamar Global websites. We use this information for a variety of purposes, such as maintaining the security of your online session, facilitating site navigation, improving Acamar Global website design and functionality, and personalizing your experience on Acamar Global websites. Additionally, the following policies and practices apply when you are online.
+When you interact with us through online channels (for example, websites and mobile applications) owned and controlled by Acamar Global Capital ("Acamar Global websites"), Acamar Global manages personal information in accordance with all of the practices and safeguards described previously. When you visit Acamar Global websites, we may collect technical and navigational information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on Acamar Global websites. We use this information for a variety of purposes, such as maintaining the security of your online session, facilitating site navigation, improving Acamar Global website design and functionality, and personalizing your experience on Acamar Global websites. Additionally, the following policies and practices apply when you are online.
 
 **Cookies and similar technologies**
 
