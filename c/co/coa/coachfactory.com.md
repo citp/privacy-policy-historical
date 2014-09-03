@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coachfactory.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229001806id_/http%3A//www.coachfactory.com/store/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfactory.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903063042id_/http%3A//www.coachfactory.com/store/default/privacy%3FLOC%3DBN) for the most accurate reproduction.*
 
 # Security & Privacy
-
-### Security & Privacy
 
 Coach, Inc. (the "Company") and our brands value your trust. We collect certain information when you visit our U.S. site www.coach.com (the “Site”), in order to improve your shopping experience and allow us to better communicate with you regarding our products and services. This privacy policy is intended to assist you in understanding what information we gather when you visit the Site, how we use that information, and the safeguards we have in place to protect the information. This privacy policy only applies to information we collect at www.coach.com.
 
@@ -18,7 +16,7 @@ For purposes of this privacy policy, "personal information" means any informatio
 
 When you visit the Site, our web servers may automatically recognize certain non-personally identifiable information about you, such as your domain name, access provider, IP address, and browser language. The Site also uses a browser feature known as a cookie, which assigns a unique identification to your computer. The information collected from cookies allows us to provide better customer service to you and improve features of our Site in a variety of ways, including by determining whether you have visited the Site in the past and which pages of our Site you have visited. We also may use cookies and/or a technology known as clear gifs to help us confirm your receipt of and response to our emails and to provide you a more personalized experience. Please note that certain pages of the Site may not function properly if cookies are turned off. Please consult your web browser’s Help documentation for more information about how to turn cookies on and off your browser.
 
-We may use third party advertising companies to serve Company advertisements on our Site or other sites you may visit. To accomplish this, these companies may employ anonymous cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and understand your visits to our Site and other web sites. These selected companies also provide this information to us which we use for marketing purposes. If you would like more information about this practice click here. The Company also has chosen a company, Omniture, to assist us in understanding your use of the Site. Omniture may place cookies on your computer to receive information about your browsing and buying activity on the Site, and help us to provide you with a more personalized shopping experience. If you would like to opt out of these particular services, please click here.
+We may use third party advertising companies to serve Company advertisements on our Site or other sites you may visit. To accomplish this, these companies may employ anonymous cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and understand your visits to our Site and other web sites. These selected companies also provide this information to us which we use for marketing purposes. If you would like more information about this practice click [here](http://www.networkadvertising.org/managing/opt_out.asp). The Company also has chosen a company, Omniture, to assist us in understanding your use of the Site. Omniture may place cookies on your computer to receive information about your browsing and buying activity on the Site, and help us to provide you with a more personalized shopping experience. If you would like to opt out of these particular services, please click [here](http://www.omniture.com/en/privacy/policy).
 
 ### How We Use Your Information
 
@@ -64,7 +62,7 @@ To allow us to serve you better we encourage you to regularly review and update 
 
 You may obtain upon request a summary of the personal information on record with us. You also may request that we correct any such personal information about you, remove such information from its marketing databases, or dispose of any or all personal information about you.
 
-To make any request described above, or if you have any questions about this privacy policy, send an email to comments@coach.com or contact:
+To make any request described above, or if you have any questions about this privacy policy, send an email to [comments@coach.com](mailto:comments@coach.com) or contact:
 
 Coach Consumer Service   
 One Coach Way   
@@ -78,7 +76,7 @@ When contacting us, please be sure to provide us with your exact email address, 
 
 Following any of these requests, some of your personal information may be retained for a period of time; for example, to process a pending transaction you have made through the Site, to follow-up on a request, resolve a dispute, or for similar reasons. Some personal information also may continue to be stored on “back up” files for financial, legal or technical reasons.
 
-If you do not wish to receive email from Coach in the future, you can unsubscribe by clicking on the unsubscribe link at the bottom of any Coach email that you receive, emailing us at comments@coach.com with your request to be removed from our email list, by calling consumer services at (800) 444-3611 or by clicking here.
+If you do not wish to receive email from Coach in the future, you can unsubscribe by clicking on the unsubscribe link at the bottom of any Coach email that you receive, emailing us at [comments@coach.com](mailto:comments@coach.com) with your request to be removed from our email list, by calling consumer services at (800) 444-3611 or by clicking [here](https://e.coach.com/servlet/website/ResponseForm?JhHJoE3LI1glNI_.40hkt).
 
 ### Updating This Policy; Notices
 
