@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrnudecelebs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105108id_/http%3A//mrnudecelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrnudecelebs.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903135016id_/http%3A//mrnudecelebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mr Nude Celebs
 
