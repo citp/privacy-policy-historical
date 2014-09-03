@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064949id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903230634id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -121,7 +121,7 @@ We use reasonable measures to maintain the security of your Personal Information
 
 ## Contact Us
 
-Should you have any questions or concerns regarding this Privacy Policy, please contact us at [privacy@chumby.com.](mailto:support@chumby.com)
+Should you have any questions or concerns regarding this Privacy Policy, please contact us at [support@chumby.com.](mailto:support@chumby.com)
 
 ## Privacy Policy Updates
 
