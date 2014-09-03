@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628005437id_/http%3A//www.inetu.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904003959id_/http%3A//www.inetu.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | INetU
 
