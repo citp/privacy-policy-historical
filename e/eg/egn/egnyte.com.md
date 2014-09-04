@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065732id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904170042id_/http%3A//egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte - Privacy Policy
 
 Thank you for visiting Egnyte Inc.'s website located at [www.egnyte.com](http://www.egnyte.com/). Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information.
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=egnyte.com&sealid=102) Egnyte has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements ([Click HERE](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Kris Lahiri, Chief Security Officer by email at  [inquiry@egnyte.com](mailto:inquiry@egnyte.com) with a subject line "Privacy Policy" or by postal mail at Egnyte, Inc., Attn: Kris Lahiri, Chief Security Officer, 1890 N. Shoreline Blvd., 1st Floor, Mountain View, CA 94043. If you are not satisfied with our response, you can contact TRUSTe [HERE](http://watchdog.truste.com/pvr.php?page=complaint). 
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=egnyte.com&sealid=102) Egnyte has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements ([Click HERE](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Kris Lahiri, Chief Security Officer by email at  [inquiry@egnyte.com](mailto:inquiry@egnyte.com) with a subject line "Privacy Policy" or by postal mail at Egnyte, Inc., Attn: Kris Lahiri, Chief Security Officer, 1350 W. Middlefield Road Mountain View, CA 94043. If you are not satisfied with our response, you can contact TRUSTe [HERE](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=egnyte.com&sealid=102) Egnyte complies with the U.S. — E.U. Safe Harbor framework and the U.S. — Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Egnyte has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Egnyte's certification, please visit <http://www.export.gov/safeharbor>. 
 
@@ -96,7 +96,7 @@ If you have any questions related to this Privacy Policy please contact us at:
 
 Egnyte, Inc.  
 Attn: Kris Lahiri  
-1890 N. Shoreline Blvd., 1st Floor  
+1350 W. Middlefield Road  
 Mountain View, CA 94043
 
 [inquiry@egnyte.com](mailto:inquiry@egnyte.com)
