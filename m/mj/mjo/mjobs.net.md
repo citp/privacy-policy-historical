@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mjobs.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209084112id_/http%3A//mjobs.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjobs.net privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904033052id_/http%3A//mjobsethio.net/page/privacy) for the most accurate reproduction.*
 
 # Ethio Mobile Job - Privacy Terms
 
