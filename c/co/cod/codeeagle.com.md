@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeeagle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083943id_/http%3A//codeeagle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeeagle.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904053103id_/http%3A//codeeagle.com/privacy.htm) for the most accurate reproduction.*
 
 # CodeEagle
 
