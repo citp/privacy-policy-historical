@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financial-market-news.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619173112id_/http%3A//www.financial-market-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financial-market-news.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904113555id_/http%3A//www.financial-market-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
