@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizbilla.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601022944id_/http%3A//www.bizbilla.com/helpdesk/help.php%3Faction%3Dpolicies_terms%26action1%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbilla.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904032810id_/http%3A//www.bizbilla.com/helpdesk/help.php%3Faction%3Dpolicies_terms%26action1%3Dprivacy_policy) for the most accurate reproduction.*
 
-# BizBilla.com help desk
+# BizBilla.com Help desk
 
 (Last Updated on 11th April, 2013)
 
