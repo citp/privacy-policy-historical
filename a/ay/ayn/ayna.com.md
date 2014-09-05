@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayna.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327230458id_/http%3A//www.ayna.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayna.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905103348id_/http%3A//ayna.com/s/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Omni-Channel Marketing Software
 
