@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schiit.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604084054id_/http%3A//schiit.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiit.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905042351id_/http%3A//schiit.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Terms | Schiit Audio
 
