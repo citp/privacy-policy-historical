@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508175054id_/http%3A//www.teachershealth.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905152916id_/https%3A//www.teachershealth.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Teachers Health Fund
+# Privacy policy | Teachers Health Fund
 
 ## **1\. Policy Statement**
 
