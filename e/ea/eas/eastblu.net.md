@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastblu.net privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928020509id_/http%3A//eastblu.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastblu.net privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906014957id_/http%3A//eastblu.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
