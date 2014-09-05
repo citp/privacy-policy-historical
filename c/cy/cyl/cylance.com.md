@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508113133id_/http%3A//www.cylance.com/company/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905092804id_/http%3A//www.cylance.com/company/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cylance
 
@@ -64,7 +64,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Additional Terms and Conditions for Software Products**
 
-This Policy applies only to information collected through our Site or by the Software and not to information collected offline. Your download and use of our Software product is subject to additional terms and conditions that define your and our rights with respect to the Software and its use. Those additional terms and conditions are contained in the End User License Agreement that you are required to accept prior to downloading the Software. You can see the End User License Agreements for Cylance Software by clicking here [http://info.cylance.com/eula.](http://info.cylance.com/eula)
+This Policy applies only to information collected through our Site or by the Software and not to information collected offline. Your download and use of our Software product is subject to additional terms and conditions that define your and our rights with respect to the Software and its use. Those additional terms and conditions are contained in the End User License Agreement that you are required to accept prior to downloading the Software. You can see the End User License Agreements for Cylance Software by clicking here [http://info.cylance.com/eula.](http://info.cylance.com/eula?__hstc=41610621.839db83731cfd6899f1653c1071051f7.1404328305884.1407037433683.1407095516744.58&__hssc=41610621.74.1407095516744&__hsfp=2337622602)
 
 **Your Consent**
 
