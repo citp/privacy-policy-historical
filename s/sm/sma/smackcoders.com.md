@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smackcoders.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504201553id_/http%3A//www.smackcoders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackcoders.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905192858id_/http%3A//www.smackcoders.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for smackcoders
+# Privacy Policy | Smackcoders
 
-This Privacy Policy governs the manner in which Smackcoders collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.smackcoders.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Smackcoders.
+This Privacy Policy governs the manner in which Smackcoders collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.smackcoders.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Smackcoders.
 
 **Personal identification information**
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -47,15 +47,13 @@ Smackcoders has the discretion to update this privacy policy at any time. When w
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.smackcoders.com/privacy-policy.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.smackcoders.com/privacy-policy.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Smackcoders](http://www.smackcoders.com/)  
-[ http://www.smackcoders.com/](http://www.smackcoders.com/)  
-Smackcoders #110e/1b, Barani Nagar, Vannarapettai. Tirunelveli India - 627003  
+<http://www.smackcoders.com/>  
+Smackcoders #110e/1b, Barani Nagar, Vannarapettai. Tirunelveli India – 627003  
 +914624000004  
 privacy@smackcoders.com
-
-This document was last updated on July 19, 2012
