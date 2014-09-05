@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chihealth.in privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625093429id_/http%3A//chihealth.in/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chihealth.in privacy policy that was archived on 2014-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140905184615id_/http%3A//www.chihealth.in/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>ChiHealth - Weight loss, Diet, Fitness, Health and Wellness at an arm's Length !</title>
@@ -646,6 +646,14 @@ hdfhdhddh
 
 
 
+<link rel="stylesheet" href="/stylesheet/web_3.0/uhgwelcomepopupstyle.css" type="text/css">
+
+<script type="text/javascript" src="/scripts/web_3.0/jquery-1.8.2.min.js"></script>
+
+
+
+
+
 
 
  
@@ -772,6 +780,8 @@ hdfhdhddh
             <div style="margin-top:-20px;background-color:#333333" class="wf1" align="center">
             <img src="https://img1.chihealth.in/images/version_2.0/main_bottom.jpg" width="982" height="48" class="bot_margin_left">	
 			
+			
+			
 	            
                <br><span style="margin-right:40px;color:#FFFFFF">Website was last modified and reviewed on <span id="dateToday">31/1/2020</span>. Our Website does not host any form of advertisement.</span><br><br>
 		
@@ -790,6 +800,17 @@ hdfhdhddh
 			
 		       
          	</div>       
+         	<div id="login-box" class="login-popup">
+  		 <fieldset class="textbox">
+            	<label class="username" style="color: #fff; font-family: Arial,Verdana,Helvetica,sans-serif;font-size: 11px;">
+               			Spotlight requires you to be logged in. Please login with existing account. 
+                </label>
+                 <div align="center">
+					<button class="submit button" type="button" onclick="javascript:closess();" style="margin-top: 20px; font-weight: bold;">Close</button>
+				</div>
+           </fieldset>
+           </div>
+           
  		<script>
 				 var d = new Date();
 				 var month = d.getMonth()+1;
@@ -823,6 +844,9 @@ hdfhdhddh
 		
 		
 		<script>
+
+		
+
 		var divComWin;
 		function openComDivWindow(msgDivID,title, width_px, height_px,canClose,modal_win){
 			if(modal_win==null)modal_win = true;
@@ -833,9 +857,39 @@ hdfhdhddh
 			divComWin.setOpacity(0.9);
 			divComWin.showCenter(modal_win);
 		}
-		
-	 
-		</script>
+		 var $j = jQuery.noConflict();
+		 
+		 function showpanel()
+		{
+
+					var loginBox = '#login-box';
+					$j(loginBox).fadeIn(300);
+					var popMargTop = ($j(loginBox).height() + 24) / 2; 
+					var popMargLeft = ($j(loginBox).width() + 24) / 2; 	
+					$j(loginBox).css({ 
+						'margin-top' : -popMargTop,
+						'margin-left' : -popMargLeft
+					});
+					
+					
+					$j('body').append('<div id="mask"></div>');
+					$j('#mask').fadeIn(300);
+					
+					return false;
+			
+				}
+				function closess()
+				{
+					var loginBox = '#login-box';
+					$j(loginBox).css("display", "none");
+					$j("#mask").css("display", "none");
+				 	$j('#username').css('background-color', '#E67848');
+				 	$j('#username').focus() 
+
+				}
+		 	
+	
+				</script>
 
 						<style>
 							.others_leftmargin{
