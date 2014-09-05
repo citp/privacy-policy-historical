@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badgirlsbible.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626142423id_/http%3A//www.badgirlsbible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgirlsbible.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905082813id_/http%3A//badgirlsbible.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bad Girl's Bible
+# Privacy Policy
 
 Thank you for visiting this web site (BadGirlsBible.com). We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
