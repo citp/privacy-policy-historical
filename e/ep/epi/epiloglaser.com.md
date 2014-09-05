@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507095036id_/http%3A//www.epiloglaser.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905224339id_/https%3A//www.epiloglaser.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Epilog Laser Privacy Policy
 
@@ -6,7 +6,6 @@
   * The Information We Collect 
   * How We Use Information 
   * Our Commitment To Data Security 
-  * Our Commitment To Children's Privacy 
   * How To Access Or Correct Your Information 
   * How To Contact Us
 
@@ -35,6 +34,8 @@ You can register with our website if you would like to receive our catalog as we
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
+We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the[ _Network Advertising Initiative opt-out page_](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
@@ -50,4 +51,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please call us at 888-437-4564 or send us an email at [sales@epiloglaser.com](mailto:sales@epiloglaser.com). 
 
-## Popular Pages
+### Popular Pages
