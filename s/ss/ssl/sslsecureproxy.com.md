@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sslsecureproxy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062950id_/http%3A//sslsecureproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sslsecureproxy.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906173351id_/http%3A//sslsecureproxy.com/privacy.php) for the most accurate reproduction.*
 
-# sslsecureproxy.com - Unblock YouTube, Facebook, Twitter, Adult Unblocker - Secure
+# www.sslsecureproxy.com - Unblock YouTube, Facebook, Twitter, Adult Unblocker - Secure
 
 ## Privacy Policy
 
