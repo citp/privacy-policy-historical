@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627233735id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906023002id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# Casual Dating at WildCupid.com
+# Casual Dating at SaucySingles.com
 
 ### Privacy Policy
 
