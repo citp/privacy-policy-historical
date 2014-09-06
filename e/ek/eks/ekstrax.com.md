@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ekstrax.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630041631id_/http%3A//fashion.ekstrax.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekstrax.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906044626id_/http%3A//fashion.ekstrax.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion
+# Privacy Policy - Fashion
 
 [Ekstrax.com](http://www.ekstrax.com/) uses features of latest web technology, to secure the data supplied by you, the visitor to our site.
 
