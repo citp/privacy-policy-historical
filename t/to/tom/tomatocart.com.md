@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095716id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906095455id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy - TomatoCart
 
@@ -63,7 +63,7 @@ You can access your personally identifiable information that TomatoCart collects
 
 #### How to Contact Us
 
-If you have any questions or concerns about our privacy policy, please feel free to contact us [here](http://tomatocart.com/index.php/about-us/contact-us).
+If you have any questions or concerns about our privacy policy, please feel free to contact us [here](http://www.tomatocart.com/index.php/about-us/contact-us).
 
 ### Latest Blog Post
 
