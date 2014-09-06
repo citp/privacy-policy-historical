@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickinc.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627154638id_/http%3A//clickinc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickinc.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907012416id_/http%3A//www.clickinc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Affiliate Marketing Software – Privacy Policy
 
