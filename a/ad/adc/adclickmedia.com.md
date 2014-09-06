@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adclickmedia.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220071702id_/http%3A//adclickmedia.com/m/privacypolicy.cgi/adclickmedia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adclickmedia.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906080205id_/http%3A//adclickmedia.com/m/privacypolicy.cgi/adclickmedia) for the most accurate reproduction.*
 
 # PRIVACY PPC NETWORK - AdClickMedia Advertising Network - Pay Per Click Advertising, online text advertising, banner advertising, and Interstitial advertising.
 
