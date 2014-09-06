@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117205203id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907003450id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
 
-# Avon - Anew A-F33, cosmetics, beauty, make-up, skincare, fragrance, work from home
+# Avon - Anew A-F33, Mega Effects Mascara, cosmetics, beauty, make-up, skincare, fragrance, work from home
 
-| 
+_Last Updated: February 18th 2013_
+
+Cookie Policy \- for full details [click here](https://web.archive.org/PRSuite/cookie-policy.page) for details
+
+Personal Online Brochure Terms of Use \- for full details [click here](http://www.avon.uk.com/PRSuite/static/pdf/2013/mbrochure-terms-of-use.pdf) for details
 
 Avon Privacy Statement
 
-| 
-
-Updated: 8th December 2011  
-  
----|---  
-  
 TABLE OF CONTENTS
 
 INTRODUCTION; SCOPE
@@ -79,6 +77,8 @@ We and our third-party service providers may collect Non-Personal Information in
  **Use and Sharing of Non-Personal Information.** Because Non-Personal Information does not personally identify you, we may collect, use and disclose Non-Personal Information for any purpose.
 
 COOKIES AND OTHER TECHNOLOGIES
+
+For the full Avon Cookie Policy [click here](https://web.archive.org/PRSuite/cookie-policy.page)
 
  **Cookies:** We and our third-party service providers may use "cookies" on the Site. Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Site. We also allow vendors to use cookies on our website. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit the following site, which is not affiliated with Avon: <http://www.allaboutcookies.org/>. 
 
