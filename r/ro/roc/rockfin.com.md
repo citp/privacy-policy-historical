@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockfin.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606075635id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockfin.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906075414id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
 
 # Security and Privacy Statement | Quicken Loans
 
