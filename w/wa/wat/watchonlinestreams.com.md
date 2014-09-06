@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchonlinestreams.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519214706id_/http%3A//www.watchonlinestreams.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchonlinestreams.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906134924id_/http%3A//www.watchonlinestreams.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Online Streams
 
