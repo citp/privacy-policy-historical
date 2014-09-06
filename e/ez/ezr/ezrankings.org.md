@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ezrankings.org privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604041635id_/http%3A//www.ezrankings.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezrankings.org privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906091945id_/http%3A//www.ezrankings.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy, Ezrankings Policies
+# Privacy Policy | Privacy Policy, Ezrankings Policies
 
-At EZ Ranking IT Services Pvt. Ltd., we are committed to safeguarding and preserving the privacy of our visitors.
+ At **EZ Ranking IT Services Pvt. Ltd**., we are committed to safeguarding and preserving the privacy of our visitors.
 
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
 
@@ -12,25 +12,29 @@ We do update this Policy from time to time so please do review this Policy regul
 
 In running and maintaining our website we may collect and process the following data about you:
 
-  * Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
-  * Information provided voluntarily by you. For example, when you register for information or purchase a service.
-  * Information that you provide when you communicate with us by any means.
+   .   Information about your use of our site including details of your visits such as pages viewed and the resources that you         access. Such information includes traffic data, location data  and other communication data.
 
+   .   Information provided voluntarily by you. For example, when you register for information or purchase a service.
 
+   .   Information that you provide when you communicate with us by any means.
 
 **Use of Your Information**
 
 We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
 
-  * To provide information to you that you request from us relating to our services.
-  * To provide information to you relating to other services that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
-  * To inform you of any changes to our website and services.
-  * To improve our website and customer service to enable us to personalize your experience while visiting our website.
-  * To process transactions.
-  * If you have previously purchased any service(s) from us we may provide to you details of similar service(s), or other services, that you may be interested in.
-  * To administer a contest, promotion, survey or other site features.
+    .   To provide information to you that you request from us relating to our services.
 
+    .   To provide information to you relating to other services that may be of interest to you. Such additional information              will only be provided where you have consented to receive such information.
 
+    .   To inform you of any changes to our website and services.
+
+    .   To improve our website and customer service to enable us to personalize your experience while visiting our website.
+
+    .   To process transactions.
+
+    .   If you have previously purchased any service(s) from us we may provide to you details of similar service(s), or other             services, that you may be interested in.
+
+    .   To administer a contest, promotion, survey or other site features.
 
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other person for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased service(s).
 
@@ -48,15 +52,15 @@ You can adjust the settings on your computer to decline any cookies if you wish.
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-**Disclosing Your Information**
+Disclosing Your Information
 
 We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-  * In the event that we sell any or all of our business to the buyer.
-  * Where we are legally required by law to disclose your personal information.
-  * To further fraud protection and reduce the risk of fraud.
+   .    In the event that we sell any or all of our business to the buyer.
 
+   .    Where we are legally required by law to disclose your personal information.
 
+   .   To further fraud protection and reduce the risk of fraud.
 
 **Third Party Links**
 
@@ -74,13 +78,20 @@ By using our website, you consent to our privacy policy
 
 Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at:
 
-_[www.ezrankings.org](http://www.ezrankings.org/)_
+**www.ezrankings.org**
 
-EZ Ranking IT Services Pvt. Ltd.  
-C – 4/19, 1st Floor,  
-Acharya Niketan,  
-Mayur Vihar – 1,  
-New Delhi – 110091  
-India  
-+91 – 11 – 40507919   
-[contactus@ezrankings.org](mailto:contactus@ezrankings.org)
+EZ Ranking IT Services Pvt. Ltd.
+
+C – 4/19, 1st Floor,
+
+Acharya Niketan,
+
+Mayur Vihar – 1,
+
+New Delhi – 110091
+
+India
+
++91 – 11 – 40507919
+
+contactus@ezrankings.org
