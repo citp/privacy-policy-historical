@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015114id_/http%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906044218id_/http%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of SMS Gateway Center - Sms Gateway Center
 
