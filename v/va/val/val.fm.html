@@ -1,0 +1,487 @@
+<!--The following is the downloaded HTML source of the val.fm privacy policy that was archived on 2014-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140906141544id_/http%3A//val.fm/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=0">
+    <link rel="stylesheet" type="text/css" href="/assets/df4c7342/compressed/minifiedCSS.css?1409925842">
+<link rel="stylesheet" type="text/css" href="/assets/47483264/css/auth.css">
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/df4c7342/compressed/minifiedHeadJS.js?1409925843"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+                   $.ajaxSetup({ cache: true });
+
+                   var
+                       _IS_SUBMIT = '',
+                       PLAYLIST_ID = null,
+                       isPaused = false,
+                       isPlaying = false,
+                       app = {
+                           lang: 'en',
+					url: null,
+					productionMode: '1',
+					domain : 'val.fm',
+					assets : '/assets/df4c7342',
+					theme : 'web',
+					user : {
+						id: '',
+						isAuthorized : 0,
+						selectPlaylist : null,
+						toAddTrack : null,
+						deleteTrack : 0,
+						repeatTrack : 0,
+					},
+					translatedLabels : {
+						embed: 'Embed',
+						artist: 'Artist',
+						track: 'Track',
+						download: 'Download',
+						play: 'Play',
+						pause: 'Pause',
+						loadingAudioLabel: 'Loading, please wait...',
+						exitDialog: 'Are you sure?',
+						nothingFound: 'No results',
+						lyricsShowMore: 'Full text',
+						lyricsShowLess: 'Show less',
+						showMoreBtn: 'Show more',
+						lyricsSourceLabel: 'Lyrics',
+						noneAuthLabel: 'Please, login for adding comments',
+						addToPlaylist: 'Add to playlist',
+						noResultsLabel: 'No results',
+						emptyQuery: 'Request can not be empty',
+						playlist: {
+							editLabel: 'Edit',
+							saveLabel: 'Save',
+							pasteCodeLabel: 'Code for paste',
+							shareLabel: 'Share',
+							deleteLabel: 'Delete',
+							notPlaylists: 'You have no playlists',
+							nowPlaying: 'Now playing…',
+						},
+						messages: {
+							authorized: 'You are not authorized',
+							playlistExist: 'Playlist exists',
+							trackExists: 'Track exists in this playlist',
+							addTrack: 'Track {title} added',
+							addPlaylist: 'Create new playlist {playlist}',
+							removePlaylist: 'Are you sure to delete this playlist?',
+							removeTrack: 'Are you sure to delete this tracks?',
+						}
+					},
+				};
+/*]]>*/
+</script>
+<title>Privacy</title>
+    <!--[if lt IE 9]>
+    <script src="/assets/df4c7342/js/html5shiv.js"></script>
+    <![endif]-->
+
+    
+    <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="16x16" href="/images/apple-touch-icon-16x16.png">
+    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+
+    
+    <noscript>
+        <style>
+            #jp_container_1,
+            #printLyricsLink,
+            .sourcesBox,
+            .row-fluid.video,
+            #songLyrics .full { display: none; }
+
+            .es-carousel-wrapper { height: 140px; overflow: hidden; }
+        </style>
+    </noscript>
+
+    <script type="text/javascript">
+	    var _gaq = _gaq || [];
+	    _gaq.push(['_setAccount', 'UA-41202489-2']);
+	    _gaq.push(['_setDomainName', 'val.fm']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter22208671 = new Ya.Metrika({id:22208671,
+					webvisor:true,
+					clickmap:true,
+					accurateTrackBounce:true});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/22208671" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></head>
+<body>
+<div class="pl-btn">
+    <a href="javascript:;" class="plr-btn plr-list" tabindex="1" title="Toggle playlist" no-ajax="no-ajax"></a>
+</div>
+
+<div class="head-container">
+    <div class="row-fluid header">
+        <a class="span2 logo" href="/" title="Home page">
+            <!--				<img src="/images/logo/50.png" title="-->
+            <!--" width="38" height="38">-->
+            Val.fm        </a>
+
+        <form id="header-search" class="span4 search" autocomplete="off" action="/" method="GET">
+            <div class="form-inner">
+                <input type="text" id="search" name="q" value="" placeholder="Search" autocomplete="off">
+                <button type="submit" class="search-to"></button>
+            </div>
+            <div id="autocomplete-results" class="autocomplete-results">
+                <div class="wrapper">
+                    <div class="media">
+                        <div class="pull-left autocomplete-group-heading">
+                            <h3></h3>
+                        </div>
+                        <ul class="media-body autocomplete-group">
+                            <li tag="1" class="autocomplete-result">
+                                <a href="javascript:;">
+                                    <div class="pull-left">
+                                        <img class="icon_find" width="24" height="24" src="/assets/df4c7342/img/autocomplete-image.png">
+                                    </div>
+                                    <div class="media-body">
+                                        <span class="title">Show all</span><br>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="span4 to-right account">
+            <div class="to-right exit" id="login-click-button" style="display:none;">
+	<a href="/site/login/" no-ajax="no-ajax" class="user-data loginButton">Login</a>
+</div>
+
+<div id="ajax-user-info">
+			<div class="to-left exit">
+			<a href="/site/login/" no-ajax="no-ajax" class="user-data loginButton" title="Login page">
+				Login			</a>
+		</div>
+
+	</div>
+
+<div id="_selectSosial" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true" data-is-download="false">
+	<div class="row_fluid modalHeader">
+		<button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
+		<h3>Please,login :</h3>
+	</div>
+	<div class="modal-body">
+		<div class="services">
+	<ul class="auth-services">
+
+		<li class="auth-service google"><a class="auth-link google" no-ajax="no-ajax" title="Google" href="/site/login/google"><span class="auth-icon google"><i></i></span><span class="auth-title">Google</span></a></li><li class="auth-service twitter"><a class="auth-link twitter" no-ajax="no-ajax" title="Twitter" href="/site/login/twitter"><span class="auth-icon twitter"><i></i></span><span class="auth-title">Twitter</span></a></li><li class="auth-service facebook"><a class="auth-link facebook" no-ajax="no-ajax" title="Facebook" href="/site/login/facebook"><span class="auth-icon facebook"><i></i></span><span class="auth-title">Facebook</span></a></li><li class="auth-service vkontakte"><a class="auth-link vkontakte" no-ajax="no-ajax" title="VK.com" href="/site/login/vkontakte"><span class="auth-icon vkontakte"><i></i></span><span class="auth-title">VK.com</span></a></li><li class="auth-service mailru"><a class="auth-link mailru" no-ajax="no-ajax" title="Mail.ru" href="/site/login/mailru"><span class="auth-icon mailru"><i></i></span><span class="auth-title">Mail.ru</span></a></li>	</ul>
+</div>	</div>
+	<div class="row_fluid modalFooter">
+	</div>
+</div>        </div>
+    </div>
+</div>
+<!-- site head -->
+
+<!-- site content -->
+<div id="page-content" class="clearfix">
+    
+<div class="row-fluid">
+	<br><br><br><br><br>
+	Personal Information<br><br>
+	<p>
+	Val.fm is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our web site. In order to enhance your experience at our sites we gather certain personal information about you that helps us customize our content to your tastes and preferences. We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance and customize your experience on our sites.<br>
+	By using our web site, you consent to the collection and use of your personal information by Val.fm as outlined in this privacy policy. Val.fm does not sell, rent, or trade your personal information with others unless specified.
+	</p><br>
+
+	<p>
+	IP address and logging<br>
+	Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
+	</p><br>
+
+	<p>
+	Third Party Advertising<br>
+	We use Google Ads to serve ads when you visit Val.fm. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.<br>
+	If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.<br>
+	</p><br>
+
+	<p>
+	Cookies<br>
+	Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers.
+	</p><br>
+
+	<p>
+	Third Party Cookies<br>
+	In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.<br>
+	Google, as a third party vendor, uses cookies to serve ads on your site.<br>
+	Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.<br>
+	Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy by clicking the link mentioned earlier.<br>
+	</p>
+	<br><br><br><br>
+</div></div>
+<!-- site content end-->
+
+<div class="separator"></div>
+
+<!--FB iframe begin -->
+<div class="row-fluid">
+    <div class="facebookLikebox">
+        <iframe src="https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/val.fm&amp;width=990&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=629318010443210" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:990px; height:258px;" allowtransparency="true">
+        </iframe>
+    </div>
+</div>
+<!--FB iframe end -->
+
+<div class="separator"></div>
+
+<div class="separator"></div>
+
+<!-- footer -->
+<div id="footer">
+    <div class="row-fluid">
+        <div class="block none-padding">
+            <img alt="Val" src="/assets/df4c7342/img/logofooter.png">
+        </div>
+        <div class="block versions">
+            <span class="foot-menu-caption">Themes</span>
+            <ul class="list-none" id="themes-block">
+                                    <li>
+                        <a data-theme="touch" no-ajax="no-ajax" href="/changetheme/touch/">
+                            Tablet version                        </a>
+                    </li>
+                            </ul>
+        </div>
+        <div class="block versions">
+            <span class="foot-menu-caption">Languages</span>
+            <!-- Language Switcher -->
+            <ul class="list-none">
+					
+		<li data-lang-switcher="http://mp3poisk.fm">
+			<a no-ajax="no-ajax" title="Русский" href="http://mp3poisk.fm/privacy/">
+				Русский			</a>
+		</li>
+			
+		<li data-lang-switcher="http://val.az">
+			<a no-ajax="no-ajax" title="Azərbaycan" href="http://val.az/privacy/">
+				Azərbaycan			</a>
+		</li>
+			
+		<li data-lang-switcher="http://mp3indir.fm">
+			<a no-ajax="no-ajax" title="Turkish" href="http://mp3indir.fm/privacy/">
+				Turkish			</a>
+		</li>
+	</ul>        </div>
+        <div class="block menu">
+            <span class="foot-menu-caption">Menu</span>
+            <ul class="list-none">
+                <li><a href="/artists/" title="Artists">Artists</a></li>
+                <li><a href="/genres/" title="Genres">Genres</a></li>
+                                    <li><a href="/tos/" title="Terms of service">Terms of service</a></li>
+                                    <li><a href="/copyright/" title="Copyright">Copyright</a></li>
+                                    <li><a href="/privacy/" title="Privacy">Privacy</a></li>
+                
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<!-- footer -->
+
+<!-- player -->
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jp_container_1" class="jp-audio droppable vis-hid">
+    <div class="jp-type-single">
+        <div class="playlist-sidebar">
+            <ul class="playlist-tabs">
+                <li class="playlist-tab icon-nowplaying active">
+                    <a href="#now-playing" no-ajax="no-ajax">Now Playing</a>
+                </li>
+                <li class="playlist-tab icon-muslists">
+                    <a href="#tab-playlists" no-ajax="no-ajax">Playlists</a>
+                </li>
+            </ul>
+            <div id="now-playing" class="jp-playlist moveBg droppable playlist-tab-content">
+                <input type="text" class="playlist-filter" placeholder="Search…">
+                <span class="head-caption">Now playing…</span>
+
+                <div>
+                    <ul class="boxscroll" id="sortable">
+                        <li></li>
+                    </ul>
+                </div>
+                <button class="remove-default-all" type="button">remove all</button>
+            </div>
+            <div id="tab-playlists" class="playlist-tab-content">
+                <input type="text" class="playlist-filter" placeholder="Search…">
+                <button type="button" class="add-playlist">+ add playlist</button>
+                <form class="new-playlist">
+                    <input type="text" class="new-playlist-name" maxlength="45" placeholder="Create playlist">
+                    <button type="reset">Clear</button>
+                    <button type="submit">Add</button>
+                </form>
+                <span class="head-caption">Playlists</span>
+                <ul class="playlists-list">
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="jp-gui jp-interface">
+            <ul class="jp-controls">
+                <li>
+                    <a href="javascript:;" class="plr-btn plr-prev" tabindex="1" no-ajax="no-ajax" title="Previous">previous</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="plr-btn plr-play jp-play" tabindex="1" no-ajax="no-ajax" title="Play">play</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="plr-btn plr-pause jp-pause" tabindex="1" style="display: none;" title="Pause" no-ajax="no-ajax">pause</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="plr-btn plr-next" tabindex="1" no-ajax="no-ajax" title="Next">next</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="plr-btn plr-vol jp-mute" tabindex="1" title="Mute" no-ajax="no-ajax">mute</a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="plr-btn plr-vol jp-unmute" tabindex="1" title="Unmute" no-ajax="no-ajax">unmute</a>
+                </li>
+            </ul>
+
+            <div class="slider slider-progress">
+                <div class="stripe"></div>
+                <div class="load"></div>
+            </div>
+            <div class="slider slider-volume">
+                <div class="stripe"></div>
+            </div>
+
+            <ul class="jp-toggles">
+                <li><a href="javascript:;" class="plr-btn plr-add" tabindex="1" title="Add to playlist" no-ajax="no-ajax"></a></li>
+                <li><a href="javascript:;" class="plr-btn plr-loop jp-repeat" tabindex="1" title="repeat" no-ajax="no-ajax">repeat</a></li>
+                <li><a href="javascript:;" class="plr-btn plr-loop jp-repeat-off" tabindex="1" title="repeat off" style="display: none;" no-ajax="no-ajax">repeat off</a></li>
+                <li><a href="javascript:;" class="plr-btn plr-shuffle shuffle" tabindex="1" title="shuffle" no-ajax="no-ajax">shuffle</a></li>
+                <li><a href="javascript:;" class="plr-btn plr-shuffle shuffle-off" tabindex="1" title="shuffle off" style="display: none;" no-ajax="no-ajax">shuffle off</a></li>
+            </ul>
+            <div class="jp-current-time"></div>
+            <div class="jp-duration"></div>
+        </div>
+
+        <div class="jp-title">
+            <div class="track-loading">Loading, please wait…</div>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
+
+        <div class="jp-no-solution">
+            <span>Update Required</span>
+            To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+        </div>
+    </div>
+</div>
+<!-- player -->
+
+<!-- playlistsModal -->
+<div id="playlistsModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="row_fluid modalHeader">
+        <button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
+        <h3>Your playlists</h3>
+    </div>
+    <div class="modalBody">
+        <button class="add-playlist" type="button">+ add playlist</button>
+        <form class="new-playlist">
+            <input type="text" placeholder="Create playlist" maxlength="45" class="new-playlist-name">
+            <button type="reset">Clear</button>
+            <button type="submit">Add</button>
+        </form>
+        <ul class="boxscroll">
+            <li></li>
+        </ul>
+        <button class="btn add-track-to-playlists" type="button">Add</button>
+    </div>
+    <div class="row_fluid modalFooter">
+    </div>
+</div>
+<!-- playlistsModal -->
+
+<!-- trackEmbedModal -->
+<div id="trackEmbedModal" class="modal hide" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="row_fluid modalHeader">
+        <button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
+        <h3>Share</h3>
+    </div>
+    <div class="modalBody">
+        <div class="social">
+            <div class="social-wrapper">
+                <a class="social-link twitter" href="javascript:;" no-ajax="no-ajax" data-social="twitter" title="Share to Twitter" onclick="socialShare.open('https://twitter.com/share?url=' + encodeURIComponent(location.href));"></a>
+
+                <div class="soc-tul twitter">0</div>
+            </div>
+            <div class="social-wrapper">
+                <a no-ajax="no-ajax" class="social-link facebook" href="javascript:;" data-social="facebook" title="Share to Facebook" onclick="socialShare.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(location.href));"></a>
+
+                <div class="soc-tul facebook">0</div>
+            </div>
+            <div class="social-wrapper">
+                <a class="social-link google" href="javascript:;" no-ajax="no-ajax" data-social="googleplus" title="Share to G+" onclick="socialShare.open('https://plus.google.com/share?url=' + encodeURIComponent(location.href));"></a>
+
+                <div class="soc-tul google">0</div>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="track-embed">
+            <div>
+                <textarea></textarea>
+            </div>
+        </div>
+    </div>
+    <div class="row_fluid modalFooter">
+    </div>
+</div>
+<!-- trackEmbedModal -->
+
+<!-- message -->
+<div id="message"></div>
+<!-- message -->
+
+<script>
+			function renderDump(data) { for(i in data) console.log("%c" + data[i].method + " Time: " + data[i].time + " Memory: " + data[i].memory, "; font-weight:bold;");}
+			renderDump([])
+			</script><script type="text/javascript" src="/assets/df4c7342/compressed/minifiedBottomJS.js?1409925843"></script>
+<script type="text/javascript" src="/assets/47483264/js/auth.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {$(".auth-service.google a").eauth({"popup":{"width":500,"height":450},"id":"google"});
+$(".auth-service.twitter a").eauth({"popup":{"width":900,"height":550},"0":"","id":"twitter"});
+$(".auth-service.facebook a").eauth({"popup":{"width":585,"height":290},"id":"facebook"});
+$(".auth-service.vkontakte a").eauth({"popup":{"width":585,"height":350},"id":"vkontakte"});
+$(".auth-service.mailru a").eauth({"popup":{"width":580,"height":400},"id":"mailru"});
+});
+/*]]>*/
+</script>
+
+</body></html>
