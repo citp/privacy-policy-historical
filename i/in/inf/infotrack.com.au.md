@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531013738id_/http%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906131058id_/http%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - InfoTrack
 
-**Privacy Statement**
+## Privacy Statement
 
 InfoTrack’s Privacy Statement has been issued to make you aware of the organisation's procedures regarding the handling of personal and sensitive information, including collection, use, disclosure and storage of information, as well as the right of individuals to access and correct that information.
 
@@ -13,7 +13,7 @@ In summary, 'personal information' is information or an opinion relating to an i
 
 InfoTrack may collect personal information in order to conduct our business, to provide and market our services and to meet our legal obligations.
 
-The type of information we may collect and hold includes (but is not limited to) personal information about: 
+The type of information we may collect and hold includes (but is not limited to) personal information about:
 
   * clients, business associates and potential clients and their employees;
   * suppliers and their employees; and
@@ -43,19 +43,19 @@ InfoTrack will take all reasonable precautions to ensure the personal informatio
 
 InfoTrack takes reasonable steps to protect personal information held from misuse and loss and from unauthorised access, modification or disclosure.
 
-**Questions about Privacy**
+## Questions about Privacy
 
 If you have any complaints or queries about the privacy of, or access to, your personal information, or require a copy of our privacy policies, please contact our National Helpdesk whose details can be found on our website.
 
 If your complaint or query is not resolved by us to your satisfaction, you may write to the Privacy Commissioner at GPO Box 5218, Sydney NSW 2000.
 
-**Website**
+## Website
 
 Information that may identify you as a user may be gathered during your access with our website and this privacy statement details how such information is collected, stored and used.
 
-**Collection and use of Information by InfoTrack**
+## Collection and use of Information by InfoTrack
 
-InfoTrack does not directly collect information from users of the website. Your email address will not be recorded unless you send us a message or fill out a form. 
+InfoTrack does not directly collect information from users of the website. Your email address will not be recorded unless you send us a message or fill out a form.
 
 InfoTrack does not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
@@ -63,14 +63,14 @@ Where you contact us we may store information such as your name, company, postal
 
 We will not provide your information to any organisation outside InfoTrack.
 
-**Cookies**
+## Cookies
 
 A 'cookie' is a piece of information that allows the server to identify and interact more effectively with your computer. The cookie assists us in identifying what our users find interesting on our website.
 
 When you use our website we allocate you a unique identification number (cookie). A cookie will be allocated each time you use our website. The cookie does not identify you as a user in our data collection process. It does identify your Internet Server Provider.
 
-You can configure your web browser to receipt cookies but you then may not be able to use all or part of our website.
+You can configure your web browser to refuse cookies but you then may not be able to use all or part of our website.
 
-**Updating Our Privacy Statement**
+## Updating Our Privacy Statement
 
 This Privacy Statement may be updated from time to time so we recommend you review the information on our website on a regular basis.
