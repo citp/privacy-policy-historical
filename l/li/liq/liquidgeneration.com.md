@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307215308id_/http%3A//www.liquidgeneration.com/ppol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidgeneration.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906051012id_/http%3A//www.liquidgeneration.com/ppol.html) for the most accurate reproduction.*
 
 # Animation, Celebrity News, Cartoons, Games, Personality Quiz | Liquid Generation
 
