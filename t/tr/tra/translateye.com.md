@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translateye.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127090819id_/http%3A//translateye.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translateye.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907055808id_/http%3A//translateye.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
