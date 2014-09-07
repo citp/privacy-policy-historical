@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excellentguide.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234010id_/http%3A//www.excellentguide.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excellentguide.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907152040id_/http%3A//www.excellentguide.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Excellentguide Privacy Policy
 
