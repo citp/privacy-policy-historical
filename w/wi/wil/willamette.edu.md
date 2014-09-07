@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willamette.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074546id_/http%3A//willamette.edu/dept/policies/tech/web_privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willamette.edu privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907032637id_/http%3A//willamette.edu/dept/policies/tech/web_privacy_policy/index.html) for the most accurate reproduction.*
 
 # Willamette University Technology Policies: Web Policy | Willamette University
 
@@ -39,7 +39,7 @@ In addition, when a visitor uses Willamette University's search engine, Universi
 
 **Use Of Internet Cookies By Willamette University**
 
-Willamette University may place Internet "cookies" on a visitor's computer. Cookies are small files inserted automatically on the hard drive of a Website visitor by the Website visited. Cookies placed by the University generally do not contain PII. However, the University reserves the right to associate PII with cookies at any time .
+Willamette University may place Internet "cookies" on a visitor's computer. Cookies are small files inserted automatically on the hard drive of a Website visitor by the Website visited. Cookies placed by the University generally do not contain PII. However, the University reserves the right to associate PII with cookies at any time.
 
 Most browser software allows users to make choices on how cookies are set by Websites. Browser software includes the ability to disable cookies. User preferences also allow the user to be notified when the Website/page attempts to set a cookie. Setting a browser to disable cookies, however, may restrict a visitor's ability to interact with some or all information available on University Websites.
 
