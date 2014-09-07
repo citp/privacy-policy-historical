@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072740id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907215652id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Delicious Brains
+# Privacy Policy - Delicious Brains
 
 This Privacy Policy (" **Privacy Policy** ") applies to Delicious Brains (the " **Website** "), with the main URL being <http://deliciousbrains.com/>, which is maintained by Delicious Brains Inc. (the " **Website Owner** "), and sets out how the Website Owner collects, uses, and discloses personal and other information. The Website Owner has an address at 2049 Highway 2 Milford Station, NS Canada B0N 1Y0.
 
