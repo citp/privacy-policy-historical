@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migration.wa.gov.au privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507111642id_/http%3A//www.migration.wa.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migration.wa.gov.au privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907083854id_/http%3A//www.migration.wa.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Migration WA - Privacy
 
 The Western Australian Department of Training and Workforce Development does not attempt to collect Personal Information* about you when you visit this website. You can generally visit this website without revealing Personal Information*, unless you choose to provide it. The information collected by the Western Australian Department of Training and Workforce Development is dependant upon the actions undertaken when visiting the website.
 
@@ -34,4 +34,4 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 If you are asked for any other Personal Information* you will be informed how it will be used if you choose to give it.
 
-_* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained._
+ _* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained._
