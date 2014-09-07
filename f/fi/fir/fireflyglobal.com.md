@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireflyglobal.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320164216id_/http%3A//fireflyglobal.com/%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyglobal.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907134648id_/http%3A//fireflyglobal.com/%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy | Firefly Global
 
