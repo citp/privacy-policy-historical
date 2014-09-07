@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the kwiziq.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121205833id_/http%3A//www.kwiziq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwiziq.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907062757id_/https%3A//www.kwiziq.com/privacy) for the most accurate reproduction.*
 
-# Kwiziq privacy policy
+# Privacy Policy
 
-At Kwiziq we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Kwiziq (Bitesized Languages Ltd) . If you have any questions about this Privacy Policy, please feel free to contact us through our website.
+We recognize that privacy is important. 
+
+This Privacy Policy applies to all of the products, services and websites offered by Kwiziq (Kwiziq Ltd) **including French-test.com**. If you have any questions about this Privacy Policy, please feel free to contact us through our website.
 
 Information we collect and how we use it:  
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as our Historical Word of the Day, games like Match Mania (whilst not logged in to our site) and our Twitter Language Bites service. In order to provide our full range of services, we may collect the following types of information:
 
-  * Information you provide - When you sign up for a Kwiziq Aaccount or other Kwiziq service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password; we store your password in an encypted form so that even we do not know it.)
+  * Information you provide - When you sign up for a Kwiziq Account or other Kwiziq service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password; we store your password in an encrypted form so that even we do not know it.)
   * Financial information - If we need to take credit card, financial or payment details from you, we will either use a regulated third party (such as PayPal, Google Checkout, or a service provided by a regulated bank) in which case they may store your financial details, or we will store data in an encrypted form. We will never store financial information you supply to us in a form which is not secure.
-  * Your public profile - We provide the ability for you to create a public profile, including personal details and one more photos of yourself. Your profile may also be linked to your Facebook account in which case some data may be shared with Facebook. You may need to adjust your Facebook privacy settings. Anything you write about yourself in the details section of your profile is publicly available and may be available for other users to see and you should not post anything you wish to keep private here. Do not write contact details such as your email address on your profile except in the contact details fields which are private and remain unpublished unless you explicity give permission to certain users to see them.
+  * Your public profile - We may provide the ability for you to create a public profile, including personal details and one more photos of yourself. Your profile may also be linked to your Facebook account in which case some data may be shared with Facebook. You may need to adjust your Facebook privacy settings. Anything you write about yourself in the details section of your profile is publicly available and may be available for other users to see and you should not post anything you wish to keep private here. Do not write contact details such as your email address on your profile except in the contact details fields which are private and remain unpublished unless you explicitly give permission to certain users to see them.
   * Cookies - When you visit our website we send one or more cookies - a small file containing a string of characters - to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences. We do not currently, but Kwiziq may in the future use cookies to help advertisers and publishers serve and manage ads on our site to ensure their relevance to you.
   * Log information - When you access Kwiziq services, our servers automatically record information that your browser sends whenever you visit sections of our website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * Other Data We may store about you  
@@ -33,7 +35,7 @@ Developing new services.
 
 Kwiziq utilises "cookies". A cookie is a piece of data stored on the user's hard drive containing information about the user. Kwiziq uses cookies to keep track of how often you visit our site, previous purchases and to deliver content specific to your interests. Most browsers are automatically set to accept cookies but you can alter the settings of your browser to prevent automatic acceptance - a good guide for all browsers is [here](http://www.lavasoft.com/mylavasoft/securitycenter/blog/configure-your-browser-to-deal-with-cookies). If you choose not to receive cookies, you may still use most of the features of our website, including the ability to purchase items. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-###  Use of cookies by Kwiziq
+###  Use of cookies
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
@@ -41,20 +43,20 @@ The table below explains the cookies we use and why.
 
 **Cookie** |  **Name** |  **Purpose** |  **More information**  
 ---|---|---|---  
-**Google Analytics** |  _utma |  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. |  [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
+**Google Analytics** |  _utma |  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. |  [Google Privacy](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
 _utmb  
 _utmc  
 _utmz  
-**Kwiziq CMS cookie** |  PHPSESSID |  This is a cookie set by our content management system to manage  |     
-**Kwiziq Facebook link** |  fbsr_158322574190167 |  A cookie set by our Facebook plugin which allows users who have chosen to log in with facebook to do so.  This has no effect without your explicit permission to act in this way. |     
+**CMS cookie** |  PHPSESSID |  This is a cookie set by our content management system to manage  |     
+**Facebook link** |  fbsr_158322574190167 |  A cookie set by our Facebook plugin which allows users who have chosen to log in with facebook to do so.  This has no effect without your explicit permission to act in this way. |     
   
-In addition to those above some of our "share" functions such as Facebook Like or Tweet set cookies for thier own purposes.  These can vary and are not set explicitly by kwiziq.com - these too can be blocked by configuring your browser settings. 
+In addition to those above some of our "share" functions such as Facebook Like or Tweet set cookies for their own purposes.  These can vary and are not set explicitly by kwiziq.com - these too can be blocked by configuring your browser settings. 
 
 Kwiziq processes personal information on our servers in the United States of America, United Kingdom, and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
 ####  Choices for personal information
 
-When you sign up for a particular service that requires registration, we may ask you to provide additiona personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+When you sign up for a particular service that requires registration, we may ask you to provide additional personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
 If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
@@ -70,7 +72,7 @@ Kwiziq only shares personal information with other companies or individuals outs
 
 The data we store about your language skills may be made available to 3rd party language services that use our API in order that they can provide services to help you improve your language skills but they may not store this data about you. For example, a 3rd party may have written a game that helps improve vocabulary skills that, using our API, can work out what vocabulary you need to practice next in order to improve and then serve the content most suited to your needs.
 
-We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+We require opt-in consent for the sharing of any sensitive personal information.
 
 We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Kwiziq, its users or the public as required or permitted by law.  
