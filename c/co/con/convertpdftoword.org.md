@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertpdftoword.org privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212004432id_/http%3A//www.convertpdftoword.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertpdftoword.org privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907074354id_/http%3A//www.convertpdftoword.org/privacy-policy) for the most accurate reproduction.*
 
 # Convert PDF to Word Free Online - Privacy Policy
 
