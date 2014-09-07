@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628194005id_/http%3A//www.afterellen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907065724id_/http%3A//www.afterellen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AfterEllen.com
 
-Last Updated: December 23, 2013
+Click here to learn about the most recent significant updates.
+
+Last Updated: August 15, 2014
 
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -59,7 +61,7 @@ We use Tracking Technologies to help tailor our content, allow users to move bet
 
 By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.
 
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Advertising Service Providers”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“Targeting Services”). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
+This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “Third Party Advertising Service Providers”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“Targeting Services”). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.See Section 4(b)(i) for more information on this Site’s use of Nielsen’s proprietary measurement software to collect and use video viewing metrics and other information.
 
 These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
@@ -115,7 +117,7 @@ To the extent the applicable Site offers newsletters or other editorial-based em
 
 **iii.         In Connection with Wireless Marketing Services.**  See “ **Termination of Wireless Services by Users** ” under the “Wireless Marketing Services and Associated Promotional Opportunities” Section for more information on how you may unsubscribe from receiving text messages.
 
-**iv.         Certain Continuing Rights Regardless of Opt-Outs**.  However, even if you exercise your opt-out rights above, ** ** we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the “ **[Use of Information](http://www.thebacklot.com/privacy-policy/#USEINFO)** ” Section above, such as for maintenance and administrative purposes. ****
+**iv.         Certain Continuing Rights Regardless of Opt-Outs**.  However, even if you exercise your opt-out rights above, ** ** we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the “ **[Use of Information](http://www.thebacklot.com/privacy-policy/#USEINFO)** ” Section above, such as for maintenance and administrative purposes.
 
 **b.    Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.**
 
@@ -124,6 +126,7 @@ To the extent the applicable Site offers newsletters or other editorial-based em
   * Third Party Advertising Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.
   * You can opt-out of the use of Other Information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe AudienceManager (formerly known as Demdex) and DoubleClick/Google, by using those Third Party Advertising Service Providers’ opt-out tools.  You can access Adobe Audience Manager/Demdex’s tool at <http://www.donottarget.com/> and DoubleClick’s tool at<http://www.google.com/intl/en/privacy/ads/> or as described in the next bullet point.
   * We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Other Information on the Site.  Some of these Third Party Advertising Service Providers and Advertisers may participate in the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/). Please click on the links to these tools to learn more about your choices.
+  * Nielsen Measurement: The player on this website may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy. For more information about Nielsen’s measurement software, see <http://www.nielsen.com/digitalprivacy> and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options.
 
 
 
@@ -240,7 +243,7 @@ If you are a resident of the State of California, we provide you with informatio
 If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at  **[privacy-admin@logostaff.com](mailto:privacy-admin@logostaff.com), **or by postal mail to:
 
 **AfterEllen.com / LOGOonline.com**  
-1540 Broadway, 31st Floor  
+1515 Broadway, 29th Floor  
 New York, NY 10036  
 Attn: Your California Privacy Rights  
 c/o Privacy Administrator
@@ -263,7 +266,7 @@ Further, if you use any of the Communities features and functions made available
 
 **Privacy Administrator**  
 AfterEllen.com / LOGOonline.com  
-1540 Broadway, 31st Floor  
+1515 Broadway, 29th Floor  
 New York, NY 10036
 
 **c.    Sole Statement:** This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
@@ -272,6 +275,6 @@ New York, NY 10036
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2013 Viacom Media Networks, a division of Viacom International Inc. – All Rights Reserved.
+Copyright © 2014 Viacom Media Networks, a division of Viacom International Inc. – All Rights Reserved.
 
 Tags: [Privacy Policy](http://www.afterellen.com/tag/privacy_policy/)
