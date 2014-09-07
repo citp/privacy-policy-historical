@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxiaids.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325155601id_/http%3A//www.maxiaids.com/store/m_privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxiaids.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907053408id_/http%3A//www.maxiaids.com/store/m_privacysecurity.asp) for the most accurate reproduction.*
 
-# Products for Independent Living, Blind, Low Vision, Deaf, Physically Challenged - MaxiAids.com
+# Products for Independent Living - Blind, Low Vision, Deaf, Physically Challenged
 
 FREE domestic shipping on web orders of $74.95 or more (details)
 
