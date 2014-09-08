@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsexpression.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023164444id_/http%3A//carsexpression.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D223%26Itemid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsexpression.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908040146id_/http%3A//carsexpression.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D223%26Itemid%3D89) for the most accurate reproduction.*
 
 # Privacy Policy
 
