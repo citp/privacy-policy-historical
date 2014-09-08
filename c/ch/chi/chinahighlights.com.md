@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042610id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908231733id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security, TRUSTe Certificated - China Highlights
 
