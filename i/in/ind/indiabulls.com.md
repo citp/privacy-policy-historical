@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiabulls.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630102730id_/http%3A//www.indiabulls.com%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabulls.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908042250id_/http%3A//indiabulls.com%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Indiabulls Group is one of India´s top Business houses with businesses spread over Real Estate, Infrastructure, Financial Services, Securities and Power sectors.
+# Indiabulls Group is one of India´s top Business houses with businesses spread over Real Estate, Infrastructure, Financial Services and Securities sectors.
 
 This privacy statement is applicable to Indiabulls.com. Indiabulls.com does not collect personal information about individuals except when such individuals specifically provide such information on a voluntary basis. The privacy and protection of your data and information provided to us is of vital importance. At Indiabulls we are strongly committed to protecting the personal and financial information that you submit to us. Personal information of individual users will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
 
