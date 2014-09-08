@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dadabu.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418113013id_/http%3A//dadabu.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dadabu.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908022205id_/http%3A//dadabu.com/privacy-policy-2) for the most accurate reproduction.*
 
 # DaDaBu APP – Privacy policy
 
