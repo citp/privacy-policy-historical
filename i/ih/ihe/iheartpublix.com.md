@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628124720id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909014342id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : I Heart Publix
 
