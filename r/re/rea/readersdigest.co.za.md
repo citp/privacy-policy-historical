@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411061601id_/http%3A//www.readersdigest.co.za/privacy_policy%3Futm_source%3Drdsa%26utm_medium%3Dfooter%26utm_campaign%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908220536id_/https%3A//www.sweepstakes.com.au/anz/2014/za/011146311/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Reader's Digest South Africa
+# Privacy Policy - READER'S DIGEST SOUTH AFRICA
 
 **General statement**  
 Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the web. We respect and protect the privacy of our users. Reader’s Digest (RD) wishes the users of its online presence to know that it seeks to comply with all elements of the relevant privacy legislation.
@@ -28,15 +28,3 @@ We are happy to provide you with details of information held about you on our cu
 
 You and your privacy  
 If you have any questions regarding any matters related to your privacy, or if you believe there has been a breach of your privacy, please contact us on:
-
-  * **Mailing Address:**  
-The Privacy Office,  
-Readers Digest  
-PO Box 145  
-Durbanville 8003
-  * **Email:**  
-[customercare_sa@readersdigest.com](mailto:customercare_sa@readersdigest.com)
-  * **Our privacy Hotline:**  
-0860 111 463
-
-
