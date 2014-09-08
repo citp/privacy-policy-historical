@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourjewishnews.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613211955id_/http%3A//www.yourjewishnews.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourjewishnews.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908074239id_/http%3A//www.yourjewishnews.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
