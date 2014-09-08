@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoarticlewritingpros.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127062859id_/https%3A//seoarticlewritingpros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoarticlewritingpros.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908042438id_/http%3A//seoarticlewritingpros.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Content Writing Service – Custom Copywriting For Your Web Marketing Projects
 
