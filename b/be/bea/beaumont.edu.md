@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215094912id_/https%3A//www.beaumont.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908141339id_/https%3A//www.beaumont.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies
 
 ## HIPAA Notice of Privacy Policy
 
-The Health Insurance Portability and Accountability Act (HIPAA) requires all health care providers to provide [**Notice of Privacy Practices**](https://web.archive.org/files/imce/pdfs/Beaumont_Privacy_Policy_040213.pdf "Beaumont Notice of Privacy Policy"). The notice will inform you of the ways we may use your information and the occasions on which we may disclose this information to others.
+The Health Insurance Portability and Accountability Act (HIPAA) requires all health care providers to provide [**Notice of Privacy Practices**](https://web.archive.org/Global/Beaumont_Privacy_Policy_090113.pdf). The notice will inform you of the ways we may use your information and the occasions on which we may disclose this information to others.
 
 The notice will also explain your rights regarding your health information:
 
@@ -30,7 +30,7 @@ Phone: 248-551-5006
 
 Beaumont has established website policies designed to protect the privacy of website visitors. Information gathered by Beaumont is used only with the visitor's permission to provide credible and personally relevant health information, and to improve Beaumont's site.
 
-Beaumont's website has been developed by Beaumont Health System, 3601 W. Thirteen Mile Road, Royal Oak, Michigan 48073. Contact us by email at [webmaster@beaumont.edu](mailto:webmaster@beaumont.edu) or by telephone at 800-633-7377 between 8 a.m. and 5 p.m. (EST), Monday through Friday, except on holidays.
+Beaumont's website has been developed by Beaumont Health System, 3601 W. Thirteen Mile Road, Royal Oak, Michigan 48073. Contact us by email at **[webmaster@beaumont.edu](mailto:webmaster@beaumont.edu)** or by telephone at 800-633-7377 between 8 a.m. and 5 p.m. (EST), Monday through Friday, except on holidays.
 
 **What information do we collect?**
 
@@ -53,7 +53,7 @@ Visitors who complete a survey, and indicate a willingness to participate in fut
 
 **How can I get my name removed from your files?**
 
-If you no longer wish to receive emails from Beaumont, please let us know by sending an email message to [webmaster@beaumont.edu](mailto:webmaster@beaumont.edu). Please be certain to provide the following, so we can honor your request:
+If you no longer wish to receive emails from Beaumont, please let us know by sending an email message to **[webmaster@beaumont.edu](mailto:webmaster@beaumont.edu)**. Please be certain to provide the following, so we can honor your request:
 
   * Your full name
   * Your email address (If you use more than one email address, send a message from each of your email accounts.)
@@ -71,4 +71,4 @@ By using our website, you consent to the collection and use of the information d
 
 **Tell us what you think**
 
-Beaumont welcomes your questions and comments, about privacy or about any other subject. Please send your email to [webmaster@beaumont.edu](mailto:webmaster@beaumont.edu).
+Beaumont welcomes your questions and comments, about privacy or about any other subject. Please send your email to **[webmaster@beaumont.edu](mailto:webmaster@beaumont.edu)**.
