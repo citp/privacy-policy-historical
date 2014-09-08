@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygym.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130929id_/http%3A//www.mygym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygym.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908162833id_/http%3A//www.mygym.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | My Gym
 
