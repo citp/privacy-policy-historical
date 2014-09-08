@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jizzroulette.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401025946id_/http%3A//www.gayfreefun.net/privacy.html%3FAFNO%3D1-1-.220.US.299.typein_Mar2014%26langchoice%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzroulette.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908021504id_/http%3A//www.gayfreefun.net/privacy.html%3FAFNO%3D1-1-.220.US.299.typein_Sep2014%26langchoice%3Den) for the most accurate reproduction.*
 
 # GayFreeFun.net - Privacy Policy
 
-[Home](http://www.gayfreefun.net/?AFNO=1-1-.220.US.299.typein_Mar2014) / Privacy Policy
+[Home](http://www.gayfreefun.net/?AFNO=1-1-.220.US.299.typein_Sep2014) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
@@ -22,14 +22,14 @@ There are a limited number of situations where we may disclose your personal inf
 
 Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-We may use cookies to:
+Cookies used on the website by category:
 
-  * Deliver content specific to your interests.
-  * Save your password so you don’t have to re-enter it each time you visit our sites.
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
-
-We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
@@ -37,13 +37,13 @@ This site makes chat rooms available to its users. Please remember that any info
 
 Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. GayFreeFun.net does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-Members areas of GayFreeFun.net may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@gayfreefun.net](https://web.archive.org/contactsupport.php?AFNO=1-1-.220.US.299.typein_Mar2014).
+Members areas of GayFreeFun.net may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@gayfreefun.net](https://web.archive.org/contactsupport.php?AFNO=1-1-.220.US.299.typein_Sep2014).
 
-GayFreeFun.net does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from GayFreeFun.net, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?AFNO=1-1-.220.US.299.typein_Mar2014).
+GayFreeFun.net does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from GayFreeFun.net, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?AFNO=1-1-.220.US.299.typein_Sep2014).
 
 GayFreeFun.net also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if GayFreeFun.net becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, GayFreeFun.net reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the GayFreeFun.net program, termination of GayFreeFun.net services, and forfeiture of all commissions.
 
-If you have any questions about this Privacy Policy, please contact our customer service department at [support@gayfreefun.net](https://web.archive.org/contactsupport.php?AFNO=1-1-.220.US.299.typein_Mar2014) and provide us with your name, your GayFreeFun.net login name, and any information you feel is important.
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@gayfreefun.net](https://web.archive.org/contactsupport.php?AFNO=1-1-.220.US.299.typein_Sep2014) and provide us with your name, your GayFreeFun.net login name, and any information you feel is important.
 
 The address for correspondence by post is
 
