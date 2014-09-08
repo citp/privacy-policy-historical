@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumblog.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627055543id_/http%3A//www.weforum.org/privacy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumblog.org privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908121517id_/http%3A//www.weforum.org/privacy-terms-use) for the most accurate reproduction.*
 
 # Privacy & Terms of Use | World Economic Forum - Privacy & Terms of Use
 
