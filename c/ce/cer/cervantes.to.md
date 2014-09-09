@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the cervantes.to privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cervantes.to privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
 **CERVANTES EI Privacy Policy**
 
-  * [What Information Does Cervantes.to Collect?](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#2)
-  * [ Is My Personal Information Secure? ](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#3)
-  * [How Does Cervantes.to Use My Personal Information? ](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#4)
-  * [Can I Access or Change My Personal Information?](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#5)
-  * [About Changes To This Policy](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#6)
-  * [ Contact Us](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#7)
+  * [What Information Does Cervantes.to Collect?](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#2)
+  * [ Is My Personal Information Secure? ](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#3)
+  * [How Does Cervantes.to Use My Personal Information? ](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#4)
+  * [Can I Access or Change My Personal Information?](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#5)
+  * [About Changes To This Policy](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#6)
+  * [ Contact Us](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#7)
 
 
 
@@ -17,7 +17,7 @@ Cervantes.to understands your care and concern regarding the protection of your 
 
 We advise you to read this policy carefully. By visiting or using the Cervantes EI website you consent to your data being processed according to this Privacy Policy. 
 
-**[**[ **Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**[**[ **Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
 
 **What Information Does Cervantes.to Collect?**
 
@@ -37,7 +37,7 @@ The information we collect information from you is to help us personalize and im
 
 
 
-**[**[ **Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**[**[ **Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
 
 **Is My Personal Information Secure?**
 
@@ -47,7 +47,7 @@ The information we collect information from you is to help us personalize and im
 
 
 
-**  [ **[**Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**  [ **[**Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
 
 **How Will Cervantes.to Use My Information?**
 
@@ -59,15 +59,15 @@ The information we collect information from you is to help us personalize and im
 
 
 
-**  [ **[**Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**  [ **[**Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
 
 **How Can I Access Or Change My Personal Information?**
 
-  * You have the right to request a copy at any time of the information Cervantes EI has about you, to make any changes and/or to request the deletion of any personal information Cervantes holds about you. Please direct these types of requests to the addresses listed below, in [How to Contact Us](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#7)
+  * You have the right to request a copy at any time of the information Cervantes EI has about you, to make any changes and/or to request the deletion of any personal information Cervantes holds about you. Please direct these types of requests to the addresses listed below, in [How to Contact Us](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#7)
 
 
 
-**[**[ **Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**[**[ **Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
 
 **About Changes To This Privacy Policy**
 
@@ -75,7 +75,7 @@ Cervantes EI may update or amend this policy from time to time. If any significa
 
 The processing and use of personal data and the sending of communications by electronic means comply with the regulations established in the Ley Orgánica 15/1999 (Organic Law 15/1999) of 13th December, of Protección de Datos de Carácter Personal (Personal Data Protection) of the B.O.E 14/12/1999 (Spanish Government Official Bulletin of 14/12/1999) and in the Ley 34/2002 (Law 34/2002), of 11th July, of Servicios de la Sociedad de la Información y de Comercio Electrónico of the B.O.E. 12/07/2002 (Services of the Information Society and Electronic Commerce).
 
-**[**[ **Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**[**[ **Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
 
 **How To Contact us**
 
@@ -86,4 +86,4 @@ Tel: (+34) 952 295 378 - Fax: (+34) 952 299 047
 
 
 
-**[**[ **Top**](https://web.archive.org/web/20140409025036id_/http%3A//cervantes.to/privacy-policy.html#top) **]**
+**[**[ **Top**](https://web.archive.org/web/20140910012150id_/http%3A//www.cervantes.to/privacy-policy.html#top) **]**
