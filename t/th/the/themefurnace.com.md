@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themefurnace.com privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225175248id_/http%3A//themefurnace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themefurnace.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909064039id_/http%3A//themefurnace.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Theme Furnace
+# Privacy Policy | ThemeFurnace
 
 ## What information do we collect?
 
@@ -14,11 +14,11 @@ Any of the information we collect from you may be used in one of the following w
 
 To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -75,7 +75,7 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 ThemeFurnace  
-70 The Crescent  
-Manchester, Manchester M446EG  
+23 Leyland Avenue,  
+Manchester, Manchester M446HG  
 UK  
 hello@themefurnace.com
