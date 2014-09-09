@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verses4cards.co.uk privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517002027id_/http%3A//www.verses4cards.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verses4cards.co.uk privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909092956id_/http%3A//www.verses4cards.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
