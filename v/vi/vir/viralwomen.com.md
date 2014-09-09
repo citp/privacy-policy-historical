@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralwomen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093756id_/http%3A//viralwomen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralwomen.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909194350id_/http%3A//viralwomen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -105,13 +105,13 @@ Correcting or Updating your Information
 
 The Website allows you to view the information you provided during registration and to alter any data, inaccuracies or errors. To request such access, or correct, update, or amend your personal information please contact us at the following e-mail address: 
 
-E-mail address: markbmedia@gmail.com 
+E-mail address: [viralwomen.com@gmail.com](mailto:viralwomen.com@gmail.com?subject=Viralwomen%20-%20Contact%20us)
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at the e-mail address, postal address, or telephone number listed above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Communications 
 
-We may send you email messages about us or our products and services as well as email messages about products and services of selected third parties. By accepting the Terms and Conditions for the Website (including the terms of this Privacy Policy which are incorporated therein) or using the Site or the Services, you affirmatively consent to receive such commercial messages. As a registered member, you can remove your personal information from our mailing list and to stop receiving future communication from us by following the unsubscribe link located at the bottom of each communication or by emailing us at markbmedia@gmail.com. You will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you service related communications, including service announcements and administrative messages, relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them unless you cancel your account. 
+We may send you email messages about us or our products and services as well as email messages about products and services of selected third parties. By accepting the Terms and Conditions for the Website (including the terms of this Privacy Policy which are incorporated therein) or using the Site or the Services, you affirmatively consent to receive such commercial messages. As a registered member, you can remove your personal information from our mailing list and to stop receiving future communication from us by following the unsubscribe link located at the bottom of each communication or by emailing us at [viralwomen.com@gmail.com](mailto:viralwomen.com@gmail.com?subject=Viralwomen%20-%20Contact%20us). You will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you service related communications, including service announcements and administrative messages, relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them unless you cancel your account. 
 
 Use of the Website by Children 
 
