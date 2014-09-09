@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515135357id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0%26lang%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909223141id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0%26lang%3Duk) for the most accurate reproduction.*
 
 # Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**Red White Blue Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=redwhiteblue)  
+**[**Deal of Fortune Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=dealoffortune)  
 ** **    |   
 ---|---  
    |   
@@ -34,10 +34,10 @@ This site has security measures to protect against the loss, misuse and alterati
 
 |  |  |    |   
 ---|---  
-**[Quintris Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=quintris)**  
+**[Mummy Treasures Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=mummytreasures)**  
 
 
-[](http://games.eurocazino.com/games/play.php?id=0&game=quintris)
+[](http://games.eurocazino.com/games/play.php?id=0&game=mummytreasures)
 
    |   
 ---|---  
