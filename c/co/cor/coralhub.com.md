@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coralhub.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622064625id_/http%3A//www.coralhub.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coralhub.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910005208id_/http%3A//www.coralhub.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ~ CheryMoya - PrivacyPolicy ~
 
