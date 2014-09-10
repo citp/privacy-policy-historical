@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindthemunchies.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214100id_/http%3A//www.mindthemunchies.com/%3Fpage_id%3D154) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindthemunchies.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910181914id_/http%3A//www.mindthemunchies.com/%3Fpage_id%3D154) for the most accurate reproduction.*
 
 # Privacy Policy | Mind The Munchies
 
