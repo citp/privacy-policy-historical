@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdde.info privacy policy that was archived on 2014-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140129021505id_/http%3A//www.wdde.org/privacy-policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdde.info privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910142137id_/http%3A//www.wdde.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | WDDE 91.1 FM | Delaware's NPR News station
 
