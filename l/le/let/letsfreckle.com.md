@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064002id_/http%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910020232id_/http%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freckle Time Tracking
 
