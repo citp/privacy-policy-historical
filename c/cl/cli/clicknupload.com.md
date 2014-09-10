@@ -1,0 +1,55 @@
+> *The following text is extracted and transformed from the clicknupload.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910090033id_/http%3A//clicknupload.com/policy.html) for the most accurate reproduction.*
+
+# ClicknUpload - Easy way to share your files
+
+### Privacy Policy
+
+At ClicknUpload.com we know your number one concern is privacy. Therefore, we believe that we maintain the security and privacy standards you expect. This policy covers every single Services coming from the ClicknUpload as specified by the Terms. Lastly, where more detailed facts that had the need to further explain our privacy policies, we ask that you of course tend not to hesitate to contact us.
+
+**Information Collected**
+
+All of the information obtained by ClicknUpload.com for the purposes of file sharing is kept strictly confidential. We will never sell, rent or lease any of the personal information obtained through this website for any reason. ClicknUpload.com will take every precaution to make sure that all the personal information that we receive is maintained and/or disposed of when necessary in a safe and secure manner.
+
+In order to attempt to obtain access to the Services and/or become a Member, end-users may be required to provide personally identifiable information ("PII") on the applicable registration form that may include, but not be limited to, all or some of the following: (a) your e-mail address; (b) your Facebook® account ID; (c) your credit card information or PayPal® information (depending on your preferred means of payment); and/or (d) any other information requested on the applicable registration form. For purposes of this Privacy Policy, items (b) and (c) in the preceding sentence shall be referred to as "Sensitive Information."
+
+To the extent that ClicknUpload gathers your specific credit card information, if ever, we will use the information to process and complete any transaction that you request. Through submitting your credit card information with us, you authorize ClicknUpload to occasionally check that your credit card account is still valid and active one by charging, after that immediately crediting, a small sum to the card. This verification can be done through a third party and, if so, ClicknUpload will share your information specific credit card information with the third party for verification purposes. Apart from those uses, we will not share your credit card information with third parties without your prior consent. In spite of the foregoing, ClicknUpload reserves the right to share with third-parties the fact that we have the credit card information on file for specific users, but we will not share your credit card information with third parties without your specific consent.
+
+For purposes of this Privacy Policy, "Facebook" shall mean Facebook Inc. Please be advised that ClicknUpload is not in any way affiliated with Facebook, and the Website and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.
+
+For purposes of Privacy Policy, "PayPal" shall mean PayPal, Inc. Please be advised that ClicknUpload is not in any way affiliated with PayPal, and the Website and Services are neither endorsed, nor sponsored, by PayPal. PayPal ® is a registered trademark of PayPal, Inc.
+
+**Use of PII (Personally Identifiable Information)**
+
+The PII that you submit via the Website remains your property, but by submitting such information to us you grant us the right, subject to applicable state and federal law, to use the PII (other than Sensitive Information) for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all PII (other than Sensitive Information), on an aggregate and non-aggregate basis, with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law. These third parties may include, but shall not be limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where and to the extent permitted by applicable law); (d) SMS text-based marketers (where and to the extent permitted by applicable law); and (e) direct marketers.
+
+We may also use your PII for any Services-related purpose, and/or marketing and survey purpose, on our own behalf and on behalf of our affiliates and subsidiaries. We may disclose PII to third-party agents and independent contractors that help us create and/or operate promotions and surveys. You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website. We also use contact information from your PII to send you information about the Services, our other offerings and to keep you informed of our other products and services that may be of interest to you and to contact you about your billing account status. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers. If you wish to stop receiving future communications from us and/or third party advertisers, or if you wish to prevent the transfer and/or sale of your PII to third parties (subject to restrictions contained in applicable state and federal law), please see the Removal of Your Information/Opting Out section below.
+
+By submitting your Facebook® account ID at the Website, you agree to grant us access to your Facebook® profile for the sole and exclusive purpose of delivering Member Content URLs (as defined in the Terms and Conditions) to your Facebook® profile. By submitting your PII at the Website, you agree to receive e-mail marketing from us and our third-party advertisers. In addition, where you submit a telephone number at the Website, if ever, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission´s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the terms of the ATSR.
+
+In addition, where you present a cell phone number on the website, if ever, you agree to receive mobile marketing, including but not limited to SMS text-message based marketing from us and our third-party advertisers and sellers (where and to the extent that, such marketing is permitted by law). As such, despite your mobile phone number can be included in Do-Not-Call state and / or federal records, we reserve the right to contact you via SMS text message based marketing in accordance with applicable state and federal regulations. Further, you acknowledge that we reserve the right to share, sell, rent and lease and / or else distribute your mobile number and other mobile data with / to any third party, for every non-marketing uses permitted by this Policy Privacy and applicable law. 
+
+Despite the foregoing, ClicknUpload reserves the right to release current or past personal information: (i) if we believe that the website and / or services is / are or has / have been used in violation of the Terms and Conditions or to commit unlawful acts, (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, a notice will be provided by e-mail, and the opportunity to challenge the subpoena, prior to disclosure of any personal information under a subpoena, or (iii) if ClicknUpload is sold, merged or acquired, provided, however, that if ClicknUpload is involved in a merger, acquisition or sale of all or part of its assets, you are notified by email and / or notice on the Website of any change of ownership or use of your Personally Identifiable Information and options you may have regarding your PII.
+
+**Security**
+
+We take appropriate security measures to shield against unauthorized usage of or unauthorized alteration, disclosure or destruction of data. This would include internal reviews of our data collection, storage and processing practices and security measures, plus physical security measures to defend against unauthorized entry to systems where we store personal data. We restrict usage of personal information to ClicknUpload employees, contractors and agents who need to be aware that information as a way to operate, develop or improve our services. These individuals are bound by confidentiality obligations and might be going to take discipline, including termination and criminal prosecution, in case they fail to meet these obligations.
+
+**Third Party Websites**
+
+This website may enclose links to third party websites owned and / or managed. ClicknUpload is not liable for the privacy practices or content of such websites. In some cases, you may be required to purchase through one of these third party websites. In these cases, you may be asked to provide certain information such as credit card number to register or complete a transaction on this website. These third party websites have privacy practices and data collection and ClicknUpload has no responsibility in connection therewith.
+
+**Minors**
+
+No information should be presented to, submitted or posted on the website by visitors under eighteen (18) years of age. Persons under eighteen (18) years of age cannot access the Website and does not intentionally collect PII from such individuals. We encourage the parents and guardians to spend time guarding their children to monitor the interactive activities of their children.
+
+**Cookies**
+
+As soon as you visit ClicknUpload, we might at any point send one of these cookies ­ small text file placed on computers by a website ­ on your computer that uniquely identifies your browser. We use cookies to create buzz around the complete quality of our service by storing user preferences and tracking user trends, similar to how people search. We might locate a cookie within your browser in the event if you visit an online site and consider or click on an advert backed by ClicknUpload´s advertising services.
+
+**Changes to this Privacy Policy**
+
+Please note that Privacy Policy may differ from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent; therefore we expect most such changes shall be minor. Regardless, we can post any Privacy Policy changes in this particular page and, if the changes are significant, now we will get a more prominent notice (including, for certain services, email notification of Privacy Policy changes). If you have all other questions or concerns regarding all kinds with this privacy policy, please do not hesitate for to email us using this website.
+
+[Contact Us](https://web.archive.org/web/20140910090033id_/http%3A//clicknupload.com/contact.html)
+
+© 2014 ClicknUpload, All Rights Reserved. 
