@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessnews24hr.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906033701id_/http%3A//www.businessnews24hr.com/Termsofuseandprivacynotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessnews24hr.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910150638id_/http%3A//businessnews24hr.com/Termsofuseandprivacynotice.aspx) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Notice
 
