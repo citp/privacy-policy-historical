@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartelthemes.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209025601id_/http%3A//cartelthemes.com/doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartelthemes.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910033015id_/http%3A//cartelthemes.com/doc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - www.domain.com
 
