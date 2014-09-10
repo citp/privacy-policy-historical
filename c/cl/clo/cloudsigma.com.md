@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudsigma.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331033644id_/http%3A//www.cloudsigma.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudsigma.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911004150id_/https%3A//www.cloudsigma.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # CloudSigma - Privacy Policy
 
@@ -100,7 +100,7 @@ Information which you provide to us or we gather from the Website or in the cour
 
 Registered in Canton Zürich, Switzerland : CH-020.3.034.422-0
 
-Registered office: Sägereistrasse 29, 8152, Glattbrugg, Switzerland
+Registered office: Badenerstrasse 549, 8048 Zürich, Switzerland
 
 _Last Updated: 02 May 2012  
 Copyright CLOUDSIGMA AG, 2012. All rights reserved._
@@ -303,4 +303,4 @@ Registered in Delaware, USA
 
 Operational office: 2225 E.BayShore Rd. Suite 200 Palo Alto, CA 94303-3220 United States
 
-This post is also available in: [Bulgarian](http://www.cloudsigma.com/bg/1912-2/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%bf%d0%be%d0%b2%d0%b5%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%be%d1%81%d1%82/), [German](http://www.cloudsigma.com/de/datenschutzrichtlinie/)
+This post is also available in: [Bulgarian](https://www.cloudsigma.com/bg/1912-2/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%bf%d0%be%d0%b2%d0%b5%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%be%d1%81%d1%82/), [German](https://www.cloudsigma.com/de/datenschutzrichtlinie/)
