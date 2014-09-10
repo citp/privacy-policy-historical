@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050947id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910080950id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Home - eZ Publish Platform, CXM & CMS
 
