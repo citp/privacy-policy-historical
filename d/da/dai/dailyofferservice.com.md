@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyofferservice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112819id_/http%3A//dailyofferservice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyofferservice.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910050814id_/http%3A//dailyofferservice.com/privacy) for the most accurate reproduction.*
 
 # DailyOfferService - Privacy Policy
 
