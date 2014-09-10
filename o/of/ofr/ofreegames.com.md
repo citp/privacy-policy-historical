@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofreegames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063106id_/http%3A//www.ofreegames.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofreegames.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910221008id_/http%3A//www.ofreegames.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - oFreeGames.Com
 
