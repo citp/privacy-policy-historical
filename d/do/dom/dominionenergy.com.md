@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominionenergy.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630183727id_/https%3A//www.dom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominionenergy.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910132113id_/https%3A//www.dom.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy
 
