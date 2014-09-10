@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628055941id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911010252id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - How To Create A Website
 
@@ -24,8 +24,9 @@ We have included links on this site for your use and reference. We are not respo
 
 If you contact us from our email address we will never sell or give your email address away.
 
+[](http://www.easysite.com/sign-up/?ls=2cw)   
 Please Share
 
 Get the best web hosting deal on the web save $30.00 and get a free domain name, we use the same hosting company. This fantastic deal is for our visitors only click below.
 
-[Build a web site in a few easy steps](http://www.2createawebsites.com/how-to-create-a-website.php)
+[Create a website](http://www.2createawebsites.com/how-to-create-a-website.php)
