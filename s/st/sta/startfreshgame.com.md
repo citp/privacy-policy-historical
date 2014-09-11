@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startfreshgame.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114452id_/http%3A//www.startfreshgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startfreshgame.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911023649id_/http%3A//www.startfreshgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Games – Free Online Games at startfreshgame.com
 
