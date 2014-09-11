@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the socialmediaadgenius.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609055852id_/http%3A//socialmediaadgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediaadgenius.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911155428id_/http%3A//socialmediaadgenius.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Social Media Ad Genius | Advertising On Facebook, YouTube, LinkdeIn
+# Privacy Policy | Social Media Ad Genius | Wicked Smart Advertising On Facebook
 
-This privacy policy sets out how Black Box Digital Products, LLC ****uses and protects any information that you give Black Box Digital Products, LLC ** ** when you use this website.
+This privacy policy sets out how Black Box Digital Products, LLC uses and protects any information that you give Black Box Digital Products, LLC ** ** when you use this website.
 
 Black Box Digital Products, LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Black Box Digital Products, LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 5/1/2013.
+Black Box Digital Products, LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 8/15/2014.
+
+**No  information that you provide us will be shared with any other person, … We won’t sell, rent, or give your email address to anyone, anywhere, at any time. Ever.**
 
 **What we collect**
 
@@ -14,7 +16,7 @@ We may collect the following information:
 
   * name and job title
   * contact information including email address
-  * demographic information such as postcode, preferences and interests
+  * demographic information such as postal code, preferences and interests
   * other information relevant to customer surveys and/or offers
 
 
@@ -25,18 +27,18 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
 **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
