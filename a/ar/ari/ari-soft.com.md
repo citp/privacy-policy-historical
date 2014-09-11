@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623014505id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911173640id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 25/04/2014 Meet "ARI Smart Book" extension
+  * 05/09/2014 "Back to school" promotion
 
-[ARI Smart Book](http://www.ari-soft.com/Joomla-Components/ARI-Smart-Book/Detailed-product-flyer.html "ARI Smart Book page") is a new Joomla! flipping book extension which helps to create digital magazines, books, portfolios, brochures and many more easily. 
+Don't miss the change to get the popular Joomla! educational extension [ARI Quiz](http://www.ari-soft.com/Joomla-Components/ARI-Quiz/Detailed-product-flyer.html) at lower price than ever before. Use **BACKTOSCHOOL** coupon code to get 33% discount for the extension.
 
-The extension provides a ton of options to configure it. It is possible to zoom-in/zoom-out, show it fullscreen, share on popular social networks, divide publications by categories and a lot of other things. You can see it in action on our [demo site](http://www.demo2.ari-soft.com/ari-smart-book.html "ARI Smart Book demo").
+  * 29/08/2014 "ARI Smart Content" v. 2.0.0
 
-  * 05/01/2014 "ARI Quiz" v. 3.6.0
-
-New version provides ability to select an access level in quiz category settings. Access levels are also used instead of user groups in quiz settings. The extension can also be integrated with 3rd party subscriptions extensions to create [paid subscriptions](http://www.ari-soft.com/docs/ariquiz/html/ARI_Quiz_UserGuide.html?Otherreferences5.html "ARI Quiz paid subscriptions") for quizzes.
-
-**Note** : If you use Joomla! 1.6+, it requires to set access levels manually after upgrade of the extension.
+Popular Joomla! extension [ARI Smart Content](http://www.ari-soft.com/Joomla-Components/ARI-Smart-Content/Detailed-product-flyer.html) has been upgraded to version 2.0. It was totally re-worked and has become more powerful and user-friendly.
 
 
   
