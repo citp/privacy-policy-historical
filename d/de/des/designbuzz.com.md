@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the designbuzz.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325062046id_/http%3A//www.ecofriend.com/privacypolicy%2522) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbuzz.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911051243id_/http%3A//www.ecofriend.com/privacypolicy%2522) for the most accurate reproduction.*
 
 # Privacy Policy - Promoting Eco Friendly Lifestyle to Save Enviornment - Ecofriend
-
-## Privacy Policy
 
 This is a privacy policy for ESHI INTERNATIONAL PTE LTD. ESHI INTERNATIONAL respects your privacy. Below is an outline of the information that ESHI INTERNATIONA gathers, how it’s used, and how you can “opt-out”
 
@@ -83,8 +81,6 @@ If you request sample chapters of one of ESHI INTERNATIONAL’s information prod
 Any data collected will be used by ourselves and our agents. ESHI INTERNATIONAL hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
 If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact privacy@eshi.asia
-
-## Privacy Policy
 
   
 Posted by admin - October 2, 2012 at 8:54 am 
