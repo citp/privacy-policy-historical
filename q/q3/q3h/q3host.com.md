@@ -1,47 +1,66 @@
-> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603011053id_/http%3A//www.q3host.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911170633id_/http%3A//q3host.com/support/privacy.php) for the most accurate reproduction.*
 
-# Q3HOST.COM: Game Server Hosting
+# Privacy Policy
 
-Privacy Statement
+At Q3Host.Com we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
-Q3HOST.COM d.b.a TNL Total Solutions has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TNLTotalSolutions.com.
+#### Collection of Information
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-Our site's contact form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to reply to the question or comment submitted. The customer's contact information is also used to contact the visitor when necessary regarding a recent purchase. We offer an opt-in list for product announcements. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-This site contains links to other sites. Q3HOST.COM/TNL Total Solutions is not responsible for the privacy practices or the content of such Web sites.
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-Any online surveys ask visitors for general information, this information is used for improvements to the site. 
+#### Use of Information
 
-We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send notificications in the event they are a winner. The customer's contact information is also used to contact the visitor when necessary. 
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-
-Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-You can send email to support@q3host.com
-
-Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided.
-
-email support@q3host.com  
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the Q3Host.Com Customer Master Agreement
 
 
-  
-Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+#### No-Spam Policy
 
-TNL Total Solutions  
-Q3HOST.COM  
-P.O. Box 22441  
-Eugene, OR 97402  
-privacy@q3host.com
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
+
+#### Choices for Personal Information
+
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
+
+#### Information Sharing
+
+We only share personal information with other companies or individuals in the following limited circumstances:
+
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the Q3Host.Com Customer Master Agreement
+
+
+
+#### Information Security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+#### Accessing and Updating Personal Information
+
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
+
+#### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time.
