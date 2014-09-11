@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mind360.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511190149id_/http%3A//mind360.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind360.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911022704id_/http%3A//www.mind360.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mind360 Games
 
@@ -24,7 +24,7 @@ MIND360 does not share personal information with unrelated third parties. We may
 
 ####  Terms of Service
 
-The Terms of Service found here [(Terms of Service)](http://www.mind360.com/index.php/terms-of-service) are the rules that govern this website. Additional information may be found within the Terms of Service.
+The Terms of Service found here [(Terms of Service)](http://mind360.com/index.php/terms-of-service) are the rules that govern this website. Additional information may be found within the Terms of Service.
 
 #### Changes in the privacy policy
 
