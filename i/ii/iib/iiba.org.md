@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iiba.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325235910id_/http%3A//www.iiba.org/About-IIBA/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiba.org privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911031125id_/http%3A//www.iiba.org/About-IIBA/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IIBA | International Institute of Business Analysis
-
-| 
 
 The goal of the International Institute of Business Analysis (IIBA) is to develop and maintain standards of business analysis for the certification of practitioners around the world. To achieve this vision, membership in IIBA® is open to international professionals, who may also participate in local country and city chapters.  
  
@@ -59,6 +57,4 @@ The IIBA website contains links to other sites, such as Message Boards, Sponsors
 By becoming a member of IIBA, and /or by using our website, you consent to the collection and use of the information you provide to us as described above. If we make any material changes in our privacy practices or in how we use your personal data, we will post a prominent notice in the IIBA email newsletter and on our website prior to implementation of the change.  
  
 
-If you prefer not to receive communications from IIBA or have an inquiry about our privacy policy and practice, please contact the IIBA at 1-866-789-IIBA (4422) (toll-free in Canada and the USA) or email us at [info@iiba.org](mailto:info@iiba.org).  
-  
----|---
+If you prefer not to receive communications from IIBA or have an inquiry about our privacy policy and practice, please contact the IIBA at 1-866-789-IIBA (4422) (toll-free in Canada and the USA) or email us at [info@iiba.org](mailto:info@iiba.org).
