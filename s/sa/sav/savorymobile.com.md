@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savorymobile.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627142030id_/http%3A//www.savorymobile.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savorymobile.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911041407id_/http%3A//savorymobile.com/home/privacy) for the most accurate reproduction.*
 
 # Savory Mobile - Powerful Technology for Restaurants
 
