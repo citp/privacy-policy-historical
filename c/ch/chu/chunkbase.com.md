@@ -1,42 +1,45 @@
-> *The following text is extracted and transformed from the chunkbase.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824125203id_/http%3A//chunkbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chunkbase.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911062420id_/http%3A//chunkbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at . 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
 
-At chunkbase.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by chunkbase.com and how it is used. 
+At chunkbase.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by chunkbase.com and how it is used.
 
 ### Log Files
 
-Like many other Web sites, chunkbase.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, chunkbase.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 ### Cookies and Local Storage
 
-chunkbase.com may use local storage or store cookies on your device to provide additional functionality, such as remembering user-specific settings. Moreover, several third-party services are used, which may also use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+chunkbase.com may use local storage or store cookies on your device to provide additional functionality, such as remembering user-specific settings. Moreover, several third-party services are used, which may also use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 ### Third-Party Services
 
-**Google Analytics**  
-We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/intl/en/analytics/privacyoverview.html>
+**Google Analytics**
 
-**Disqus**  
-This is a tool we use on the website to enable users to add comments to articles. Find out more about the cookies used by Disqus and their privacy policy here: <http://docs.disqus.com/help/30/> and <http://docs.disqus.com/help/26/>
+We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at [](http://www.google.com/intl/en/analytics/privacyoverview.html)<http://www.google.com/intl/en/analytics/privacyoverview.html>
 
-**Social buttons**  
+**Disqus**
+
+This is a tool we use on the website to enable users to add comments to articles. Find out more about the cookies used by Disqus and their privacy policy here: [](http://docs.disqus.com/help/30/)<http://docs.disqus.com/help/30/> and [](http://docs.disqus.com/help/26/)<http://docs.disqus.com/help/26/>
+
+**Social buttons**
+
 On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, and Facebook ‘Like’. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our own website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on our website. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting our website, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
 
-**DoubleClick DART Cookie**  
+**DoubleClick DART Cookie**
+
 .:: Google, as a third party vendor, uses cookies to serve ads on chunkbase.com.  
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to chunkbase.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/ads/preferences/>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [](http://www.google.com/ads/preferences/)<http://www.google.com/ads/preferences/>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on chunkbase.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on chunkbase.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-chunkbase.com has no access to or control over these cookies that are used by third-party advertisers. 
+chunkbase.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. chunkbase.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. chunkbase.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
