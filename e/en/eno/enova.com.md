@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103029id_/http%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911233705id_/https%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enova
 
@@ -75,7 +75,7 @@ The Enova Provider is delivering this notice to you on behalf of itself and all 
 
 To limit the Enova Provider’s sharing of Your Information with Affiliated Companies and Non- Affiliated Third Parties, as described above, contact us:
 
-  * On the web: [www.enova.com](https://web.archive.org/web/20140625103029id_/https://www.enova.com/additional-info/privacy-policy/www.enova.com), or
+  * On the web: [www.enova.com](https://web.archive.org/web/20140911233705id_/https://www.enova.com/additional-info/privacy-policy/www.enova.com), or
   * By email: [optout@enova.com](mailto:optout@enova.com).
 
 
