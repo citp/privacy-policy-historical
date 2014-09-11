@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnakaran.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209124735id_/http%3A//www.donnakaran.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnakaran.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911025605id_/http%3A//www.donnakaran.com/pages/legal) for the most accurate reproduction.*
 
 # Legal - Donna Karan - Donna Karan
 
