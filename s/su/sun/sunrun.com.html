@@ -1,0 +1,516 @@
+<!--The following is the downloaded HTML source of the sunrun.com privacy policy that was archived on 2014-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140912011911id_/http%3A//www.sunrun.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><script id="www-widgetapi-script" src="http://web.archive.org/web/20141022213943/http://s.ytimg.com/yts/jsbin/www-widgetapi-vflHCEcaj/www-widgetapi.js" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
+
+<script src="//web.archive.org/web/20141022213412/https://www.youtube.com/iframe_api"></script><script src="//web.archive.org/web/20141022213412/https://a.vimeocdn.com/js/froogaloop2.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDCZBD"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  var FACEBOOK_API_KEY = '128016757381326';
+</script>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIEU1NSGwECVlBRAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Sunrun Home Solar :: Privacy Policy</title>
+<meta name="description" content="">
+<meta name="generator" content="concrete5 - 5.6.1.2">
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';
+var CCM_CID = 304;
+var CCM_EDIT_MODE = false;
+var CCM_ARRANGE_MODE = false;
+var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://www.sunrun.com";
+var CCM_REL = "";
+
+</script>
+
+	<link rel="shortcut icon" href="/files/2213/7576/5428/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/files/2213/7576/5428/favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" type="text/css" href="/concrete/css/ccm.base.css?v=19adfc972754e866c64e941f689b1a04">
+<script type="text/javascript" src="/concrete/js/jquery.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/concrete/js/ccm.base.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<link rel="stylesheet" type="text/css" href="/css/build/bootstrap_custom.css?v=19adfc972754e866c64e941f689b1a04">
+<link rel="stylesheet" type="text/css" href="/css/build/styles.css?v=19adfc972754e866c64e941f689b1a04">
+<link rel="stylesheet" type="text/css" href="/concrete/css/jquery.ui.css?v=19adfc972754e866c64e941f689b1a04">
+
+<link rel="stylesheet" media="screen" type="text/css" href="">
+<link rel="stylesheet" media="screen" type="text/css" href="">
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+
+<link rel="canonical" href="http://www.sunrun.com/privacy-policy/">
+
+<!-- Begin Google Analytics tracking -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4657551-1']);
+    _gaq.push(['_setDomainName', 'sunrun.com']);
+     _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google Analytics tracking -->
+
+<!-- Optimizely A/B testing snippet -->
+<script src="//cdn.optimizely.com/js/1052701896.js"></script>
+
+
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body>
+
+
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KDCZBD"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KDCZBD');</script>
+	<!-- End Google Tag Manager -->
+
+  <div id="fb-root"></div>
+
+
+  <div id="page">
+    
+<div id="header-wrap">
+	<div id="header">
+		<div id="header-tabs">
+						<span id="header-phone" class="hidden-phone">1-855-478-6786</span> <a href="/free-solar-quote" title="">Request a Quote</a> <a href="https://customer.sunrun.com/" title="">Login</a>
+		</div>
+		<!-- #header-tabs -->
+
+		<div class="header-nav-row">
+			<div id="sunrun-logo-wrapper">
+				<a href="/"> <img id="sunrun-logo" src="/themes/golden_gate/images/logo.png" alt="Sunrun logo" height="" width="">
+				</a>
+			</div>
+			<!-- #sunrun-logo -->
+
+			<div id="sr-navbar" class="navbar">
+				<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+				</a>
+
+				<!-- Everything you want hidden at 940px or less, place within here -->
+				<div class="nav-collapse collapse">
+					<a class="close"></a>
+					<div id="main_nav">
+						<ul class="horizontal"><li class=""><a href="/lock-in-savings/" target="_self" class="">Lock in Savings</a></li><li class=""><a href="/no-hassle/" target="_self" class="">No Hassle</a></li><li class=""><a href="/lifetime-support/" target="_self" class="">Lifetime Support</a></li><li class=""><a href="/why-sunrun/" target="_self" class="">Why Sunrun</a></li><li class=""><a href="/solar-by-state/" target="_self" class="">Where We Are</a></li></ul>					</div>
+					<!-- #main_nav -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- #header -->
+</div>
+
+
+<div id="central" class="full-width">
+	<div id="middle-col" class="sr-area">
+		<div class="sr-container">
+      
+<div class="sr-rich-text">
+	<div class="sr-rich-text-wrapper">
+		<div class="sr-rich-text-content">
+			<div class="sr-rich-text-content-inner">
+				<h2>Sunrun Privacy Policy</h2>
+<p>Sunrun Inc. respects your privacy and is committed to protecting it through compliance with this policy.</p>
+<p>This policy describes the types of information we may collect from you or that you may provide when you visit the website <a title="Home" href="/">www.sunrun.com</a> (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information. This policy applies to information we collect on the Website. It does not apply to information collected by us offline or by any website operated by a third party that is accessible via a link from the Website.</p>
+<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not use our Website. By accessing or using this Website, you become subject to our privacy policy. This policy may change from time to time. Your continued use of this Website after we change the privacy policy means you accept those changes, so please check the policy periodically for updates.</p>
+<h3 class="MemoTitle"><span>Information We Collect About You and How We Collect It</span></h3>
+<p>We collect information by which you may be personally identified, such as name, postal address, e-mail address and telephone number ("personal information"). We collect this information directly from you when you provide it to us on the Website. Additionally, as you navigate through and interact with our Website, we automatically collect certain information about your equipment, browsing actions and patterns, including:</p>
+<ul>
+<li>Details of your visits to our Website, including the resources that you access and use on the Website.</li>
+<li>Information about your internet connection, including your browser type and IP address.</li>
+</ul>
+<p>The information we collect automatically can identify you individually but unless you provide us your email address, we will have no way to contact you. This data collection also helps us to improve our Website and to deliver a better and more personalized service by enabling us to:</p>
+<ul>
+<li>Estimate our audience size and usage patterns.</li>
+<li>Provide you with special offers.</li>
+</ul>
+<p>We use cookies and other tracking technologies for this automatic data collection. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, your computer will receive cookies when you direct your browser to our Website.</p>
+<h3>Third-party Links on the Website</h3>
+<p>The Website contains links to third parties who partner with us. If you use those links, these third parties may collect information about you. We do not control third party links or how they collect and use your personal information. If you have any questions about how they may protect your personal information, you should contact those third parties directly.</p>
+<h3>How We Use Your Information</h3>
+<p>We use information that we collect about you or that you provide to us, including any personal information:</p>
+<ul>
+<li>To present our Website and its contents to you.</li>
+<li>To provide you with information, products or services that you request from us.</li>
+<li>To assess the suitability of your home for a solar system.</li>
+<li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
+<li>To notify you about changes to our Website or any products or services we offer or provide though it.</li>
+<li>To determine the effectiveness of our marketing programs</li>
+<li>In any other way we may describe when you provide the information.</li>
+</ul>
+<p>Google cookies exist on key pages of our Website. Google and other publishers may use information regarding your visit to our Website to display interest-based (behavioral) advertisements to you. We do not disclose your personal information for those purposes. We do not sponsor or endorse such advertising by third parties. These third parties may provide you with ways to choose not to have your information collected or used in this way.</p>
+<h3>Disclosure of Your Information</h3>
+<p>We may disclose aggregated information about our users and information that does not identify any individual, without restriction. We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
+<ul>
+<li>To our affiliated companies.</li>
+<li>To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them./li&gt;</li>
+<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company's assets, in which personal information held by the Company about our Website users is among the assets transferred.</li>
+</ul>
+<p>We may also disclose your personal information:</p>
+<ul>
+<li>To comply with any court order, law or legal process, including responding to any government or regulatory request.</li>
+<li>To enforce or apply our terms of use (see <a title="Terms of Service" href="/terms-of-service/">www.sunrun.com/terms-of-service</a> ) and other agreements, including for billing and collection purposes.</li>
+<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li>
+</ul>
+<h3>Choices About How We Use and Disclose Your Information</h3>
+<p>We strive to provide you with choices regarding the personal information you provide to us. &nbsp;If you do not wish to have your e-mail address/contact information used by the Company to promote our products or services, you can use the unsubscribe link in our emails or send us an e-mail stating your request to <a href="mailto:info@sunrun.com" target="_blank">info@sunrun.com</a>. &nbsp;</p>
+<h3>Accessing and Correcting Your Information</h3>
+<p>If you become a Sunrun customer, you can create an account with us via our Website.&nbsp; If you discover any incorrect or outdated personal information in our records, you can contact your sales representative for assistance in correcting your information.</p>
+<p>You may also communicate directly with a Sunrun Customer Care representative to correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+<h3>Your California Privacy Rights</h3>
+<p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, write us at: Sunrun, Inc., Attn – Marketing, 595 Market Street, 29<sup>th</sup> Floor, San Francisco, CA 94105.</p>
+<h3>Data Security</h3>
+<p>We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls by our third party cloud computing services providers. Any payment transactions are also conducted via secure third party web-based payment portals.</p>
+<p>The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website.</p>
+<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for the efforts of others to circumvent any privacy settings or security measures contained on the Website.</p>
+<h3>Changes to Our Privacy Policy</h3>
+<p>It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes that allow us to use your personal information in a less restricted way, we will make reasonable efforts to notify you and obtain your consent before implementing such changes. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for updates.</p>
+<h3>Contact Information</h3>
+<p>To ask questions or comment about this privacy policy and our privacy practices, contact us at:</p>
+<ol>
+<li>Mail: Attn – Marketing, Sunrun, Inc., 595 Market Street, 29th Floor, San Francisco, CA 94105</li>
+<li>Or via email to: <a href="mailto:info@sunrun.com" target="_blank">info@sunrun.com</a></li>
+<li>Or via our toll-free number: 855-478-6786</li>
+</ol>	
+			</div>
+		</div>
+	</div>
+</div>    </div>
+	</div>
+</div>
+
+
+  	<div id="footer-top">
+		<div class="sr-container">
+			<div class="sr-row">
+				<div class="left-col">
+          <h3>Call our awesome support staff for more information</h3>
+          <h3 id="call-us" class="hidden-phone telephone">1-855-478-6786</h3>
+          <h3 id="call-us" class="visible-phone"><a class="telephone" href="tel:18554786786">1-855-478-6786</a></h3>
+
+          <div id="atool-btn-wrapper">
+                      <form action="/free-solar-rating" method="POST">
+              <input class="clearfield blurredinput" id="zip" name="zip" type="text" data-toggle="tooltip" placeholder="Enter Zip Code" value="Enter Zip Code" rel="Enter Zip Code">
+              <input name="cta" type="hidden" value="cta">
+              <input id="zip-submit" type="submit" class="sr-cta-btn" value="Get started online >">
+            </form>
+          </div>
+
+          <div class="sr-credibility-logos">
+            <div class="sr-row">
+              <div class="sr-credibility-inner">
+                <p>Sunrun has been featured in</p>
+                <ul class="horizontal">
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_npr.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_usatoday.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_s_american.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_nytimes.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_wsjournal.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_forbes.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_gma.png" alt="" width="120px" height="40px"></li>
+                                    <li style="max-width: 12.5%"><img src="/themes/golden_gate/images/f_cnn.png" alt="" width="120px" height="40px"></li>
+                                    <span></span>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+				<div class="right-col">
+					<div id="footer-seo-slideshow">
+					
+<div class="sr-slideshow-seo">
+	<div class="sr-slideshow-seo-container">
+		<div id="sr-slideshow-seo-3099" class="carousel slide">
+			<div class="carousel-inner">
+            		<div class="item active">
+					<h3>Cost of solar </h3>
+    			<p>How much does <a title="Cost of Solar" href="/solar-lease/cost-of-solar/">solar cost</a>? &nbsp;Depending on the location and design of your system, the typical home installation of 3 to 7 kilowatts costs between $18,000 to $40,000 to purchase. &nbsp;</p>    		</div>
+    		    		<div class="item">
+					<h3>Introducing solar leasing</h3>
+    			<p>With a <a title="Solar Lease" href="/solar-lease/">solar lease</a> or power purchase agreement, you don't have to pay the high upfront cost of panels, equipment, and installation. &nbsp;You only pay for the electricity you produce.&nbsp;</p>    		</div>
+    		    		<div class="item">
+					<h3>Lease vs buying </h3>
+    			<p><a title="lease vs buy" href="/solar-lease/ppa-lease-v-buy/">Solar lease vs. buying solar</a>: &nbsp;When you buy solar, you'll own the responsibility of keeping your system up and running. When you choose to lease solar, the company that owns the system is responsible for any repairs and maintenance. &nbsp;Sunrun also offers a performance guarantee, so that if your panels don't produce what we say they will on your customer agreement, you'll get regular rebate checks from us&nbsp;</p>    		</div>
+    		      </div>
+			<ol class="carousel-indicators">
+                  <li data-target="#sr-slideshow-seo-3099" data-slide-to="0" class="active" <="" li="">
+                  </li><li data-target="#sr-slideshow-seo-3099" data-slide-to="1" <="" li="">
+                  </li><li data-target="#sr-slideshow-seo-3099" data-slide-to="2" <="" li="">
+              </li></ol>
+		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+		</div><!-- #footer-top -->
+	</div>
+  	<div id="footer-bottom">
+		<div class="sr-container">
+			<div id="footer-nav-container" class="sr-row">
+				<div id="footer-nav">
+					          <div class="footer-group-container">
+  					<ul>
+  						<li class="heading">About Sunrun</li>
+  						
+  						<li>
+                <a href="/why-sunrun/our-vision/" title="Our Philosophy">Our Philosophy</a>
+              </li>
+  						
+  						<li>
+                <a href="/why-sunrun/about/our-team/" title="Leadership Team">Leadership Team</a>
+              </li>
+  						
+  						<li>
+                <a href="/why-sunrun/about/" title="Contact">Contact</a>
+              </li>
+  						
+  						<li>
+                <a href="/why-sunrun/about/news/" title="In the News">In the News</a>
+              </li>
+  						
+  						<li>
+                <a href="http://blog.sunrun.com/" title="Blog">Blog</a>
+              </li>
+  						  					</ul>
+          </div>
+                    <div class="footer-group-container">
+  					<ul>
+  						<li class="heading">Partners</li>
+  						
+  						<li>
+                <a href="https://proposal.sunrun.com/login/" title="Partner Login">Partner Login</a>
+              </li>
+  						
+  						<li>
+                <a href="/no-hassle/easy-installation/partner-directory/" title="Partner Directory">Partner Directory</a>
+              </li>
+  						  					</ul>
+          </div>
+                    <div class="footer-group-container">
+  					<ul>
+  						<li class="heading">Customers</li>
+  						
+  						<li>
+                <a href="https://customer.sunrun.com/" title="Customer Login">Customer Login</a>
+              </li>
+  						  					</ul>
+          </div>
+                    <div class="footer-group-container">
+  					<ul>
+  						<li class="heading">Where We Are</li>
+  						
+  						<li>
+                <a href="/solar-by-state/az/" title="Arizona">Arizona</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/ca/" title="California">California</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/nv" title="Nevada">Nevada</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/co/" title="Colorado">Colorado</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/ct/" title="Connecticut">Connecticut</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/hi/" title="Hawaii">Hawaii</a>
+              </li>
+  						  					</ul>
+          </div>
+                    <div class="footer-group-container">
+  					<ul>
+  						<li class="heading">&nbsp;</li>
+  						
+  						<li>
+                <a href="/solar-by-state/ma/" title="Massachusetts">Massachusetts</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/md/" title="Maryland">Maryland</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/nj/" title="New Jersey">New Jersey</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/ny/" title="New York">New York</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/or/" title="Oregon">Oregon</a>
+              </li>
+  						
+  						<li>
+                <a href="/solar-by-state/pa/" title="Pennsylvania">Pennsylvania</a>
+              </li>
+  						  					</ul>
+          </div>
+                    <div class="footer-group-container">
+  					<ul>
+  						<li class="heading">Careers</li>
+  						
+  						<li>
+                <a href="/why-sunrun/about/careers/" title="Join Our Team">Join Our Team</a>
+              </li>
+  						
+  						<li>
+                <a href="/why-sunrun/about/careers/job-openings/" title="Job Openings">Job Openings</a>
+              </li>
+  						  					</ul>
+          </div>
+                  </div>
+      </div>
+      <div class="footer-social-wrapper">
+          <div class="footer-social">
+            <ul>
+              <li id="footer-social-facebook"><a href="https://www.facebook.com/sunrun/" target="_blank">Facebook</a></li>
+              <li id="footer-social-google"><a href="https://plus.google.com/+sunrun" target="_blank">Google+</a></li>
+              <li id="footer-social-twitter"><a href="https://twitter.com/Sunrun/" target="_blank">Twitter</a></li>
+              <li id="footer-social-youtube"><a href="http://www.youtube.com/user/SunRunHomeSolar/" target="_blank">YouTube</a></li>
+            </ul>
+          </div>
+          <div id="sunrun-graphic" class="footer-logo-container">
+            <ul>
+                            <!-- <li class="heading">&nbsp;</li> -->
+              <li><img src="/themes/golden_gate/images/footer-graphic.png"></li>
+            </ul>
+          </div>
+          </div>
+      <div class="footer-utility-nav">
+        <ul id="legal" class="horizontal">
+          <li>© 2014 Sunrun Inc.</li>
+          <li>CSLB #969975</li>
+          <li><a href="/terms-of-service" title="Terms of Service">Terms</a></li>
+          <li><a href="/privacy-policy" title="Privacy Policy">Privacy</a></li>
+          <li><a href="/site-map" title="Sitemap">Sitemap</a></li>
+          <!--  +1 button will render here.
+          <li>
+            <div class="g-plusone"></div>
+          </li>
+          -->
+        </ul>
+      </div>
+    </div><!-- #footer-bottom -->
+  </div>
+  <!-- Place this tag after the last +1 button tag.
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/platform.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
+-->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".clearfield").clearField({blurClass:'blurredinput'});
+  });
+</script>
+</div><!-- #page (header.php) -->
+<!-- BEGIN Google Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1054805176;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1054805176/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+<!-- END Google Remarketing Tag -->
+
+<!-- BEGIN AdRoll Tag -->
+<script type="text/javascript">
+adroll_adv_id = "QZF62TK4QZDGFBDV47DR5V";
+adroll_pix_id = "A3E4R7F62JBZ5BRYSOQBIE";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- END AdRoll Tag --><script type="text/javascript" src="/js/jquery.touchSwipe.min.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/libraries/3rdparty/bootstrap/bootstrap.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/js/sunrun_custom.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/js/jquery.clearfield.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/concrete/js/jquery.ui.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/js/vertical-center.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/js/social-share.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/blocks/sr_slideshow_promotion/carousel-init.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/blocks/sr_slideshow_content/carousel-init.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/blocks/sr_slideshow_seo/carousel-init.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/blocks/sr_slideshow_video/carousel-init.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/blocks/sr_testimonial_slideshow/carousel-init.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<script type="text/javascript" src="/blocks/sr_local_production/carousel-init.js?v=19adfc972754e866c64e941f689b1a04"></script>
+<!-- Marketo Munchkin Code -->
+<script type="text/javascript">
+$.ajax({
+  url: '//munchkin.marketo.net/munchkin.js',
+  dataType: 'script',
+  cache: true,
+  success: function() {
+    Munchkin.init('935-SWT-917', {"wsInfo":"j1RQ"});
+    Munchkin.createTrackingCookie();
+    console.log("im running the munchkin code");
+  }
+});
+</script>
+<!-- FB Share -->
+<script type="text/javascript">
+$(function(){
+  /* FB Share Script */
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = '//connect.facebook.net/en_US/all.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+});
+
+window.twttr = (function (d,s,id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+  js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"79cb84c43e","applicationID":"2221344","transactionName":"NQFQYkoDXBFYWxVdWQxLZ0RRTVsMXV0ZGkYKFA==","queueTime":0,"applicationTime":748,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-412.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
