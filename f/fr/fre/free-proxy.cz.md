@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-proxy.cz privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602144802id_/http%3A//free-proxy.cz/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-proxy.cz privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911025445id_/http%3A//free-proxy.cz/en/privacy-policy) for the most accurate reproduction.*
 
 # None
 
