@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doopster.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430094816id_/http%3A//www.doopster.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doopster.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912054924id_/http%3A//www.doopster.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Doopster.com
 
@@ -59,4 +59,4 @@ By using our site, you signify that you accept this privacy policy and the terms
 
 **Contact us**
 
-If you have issues or questions about our privacy policy, practices of our website, or your dealings with our site, then please contact us at: [**http://www.doopster.com/support**](http://www.doopster.com/support)
+If you have issues or questions about our privacy policy, practices of our website, or your dealings with our site, then please contact us at: [**http://www.doopster.com/support**](https://web.archive.org/'http://www.doopster.com/support/')
