@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t3trafficblueprint.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514144815id_/http%3A//t3trafficblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t3trafficblueprint.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912150733id_/http%3A//t3trafficblueprint.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
