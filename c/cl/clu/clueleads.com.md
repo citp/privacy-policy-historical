@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070824id_/http%3A//www.clueleads.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
-|  |  |  |  |    
+|  |   
+---  
+[](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/get10000.aspx)  
+  
+[](http://www.apextelecom.net/)  
+  
+|  |  |    
 ---|---  
 | This privacy policy describes how we handle your personal information. [clueleads.com](http://www.clueleads.com/) is committed to protecting your privacy in accordance with the terms of this Privacy Policy.   
 ---  
@@ -24,10 +30,16 @@ Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to mod
 |   
 ---  
   
-[](https://web.archive.org/web/20140625070824id_/http%3A//www.clueleads.com/get10000.aspx)  
+[](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/get10000.aspx)  
   
-[](http://www.silverbiz.in/)  
+[](http://www.mygreenstar.com/)  
   
-[](https://web.archive.org/web/20140625070824id_/http%3A//www.clueleads.com/get10000.aspx)  
+[](http://www.website.ws/sonabiz)  
   
+[](https://web.archive.org/web/20140912140524id_/http%3A//clueleads.com/get10000.aspx)  
+  
+   
+   
+   
+   
  
