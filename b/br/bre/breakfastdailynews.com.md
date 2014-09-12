@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakfastdailynews.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208012239id_/http%3A//breakfastdailynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakfastdailynews.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913010915id_/http%3A//breakfastdailynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breakfast Daily News
 
@@ -8,16 +8,18 @@ Your privacy is important to us. To better protect your privacy we provide this 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-Adometry Inc. is a third party advertising technology vendor. The publisher of Breakfast Daily News uses pixels and Adometry blocklists to determine user quality and to protect advertisers and web users from malicious users and low quality traffic. These pixels are only used to determine the quality of user for advertising purposes and any data that is captured is anonymous and proprietary to both the publisher and Adometry Inc.
-
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Breakfast Daily News has no access or control over these cookies that may be used by third party advertisers.
 
+**Third Party Advertising**
+
+We use third party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 **Collection of Personal Information**  
 When visiting Breakfast Daily News, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Links to third party Websites**  
+**Links to Third Party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 **Changes to this Privacy Statement**  
