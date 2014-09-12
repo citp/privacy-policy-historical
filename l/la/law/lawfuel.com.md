@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lawfuel.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123123406id_/http%3A//www.lawfuel.com/329-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawfuel.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912045443id_/http%3A//www.lawfuel.com/329-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - LawFuel
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lawfuel.com%2F329-2&media=&description=Privacy%20Policy)
 
 **Privacy Policy**
 
@@ -37,4 +39,6 @@ We reserve the right to change this Policy at any time. Please refer to the date
 
 **Contacting LawFuel**
 
-If you have any questions about this privacy statement, the practices of this site, your dealings with this site, or if you would like to change any of the information you have provided to us, please contact us at: lawfuel@gmail.com
+If you have any questions about this privacy statement, the practices of this site, your dealings with this site, or if you would like to change any of the information you have provided to us, please contact us at: **lawfuel@gmail.com**
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lawfuel.com%2F329-2&media=&description=Privacy%20Policy)
