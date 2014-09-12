@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224000515id_/http%3A//www.pssl.com/help%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912075432id_/http%3A//www.pssl.com/lp/help.rsp%23Privacy) for the most accurate reproduction.*
 
 # PSSL.com - Company Information | ProSound And Stage Lighting
 
@@ -35,16 +35,17 @@ Outside the USA: |   | 1-714-891-6375
   
 |    
   
-|   
-| **Visit Our Will Call center:**  
+|    
+|  **Visit Our Will Call center:**  
 ---|---  
 | 
 
 1-714-793-1585  
-Monday to Friday: 10AM to 6PM
+Monday to Friday: 10AM to 6.30PM
 
 10743 Walker St  
 Cypress, CA 90630  
+(Entrance is on Vessels Cir.)  
 ***note our new address as of Nov, 2010**  
 [Click for MAP](http://maps.google.com/maps/place?cid=1114006170312389549&q=PSSL&hl=en&sll=33.803034,-118.033317&sspn=0.008612,0.010223&ie=UTF8&ll=33.808731,-118.041658&spn=0,0&z=16)  
   
@@ -133,24 +134,36 @@ International Orders Terms and Conditions
 
 **International Shipping Terms and Conditions** Please read the following terms and conditions carefully to avoid additional charges or delayed delivery of your order.
 
-**Prices:** All prices are in U.S. dollars.
+**Prices and Exchange Rate:** Prices shown in currencies other than US Dollars are estimates based on current exchange rates. We will charge your credit card in US Dollars on the day your order is shipped, and the conversion to your local currency will be done at the prevailing rate by your credit card issuer.
 
 **Payment:** All payments must be received in U.S. dollars. We accept money orders, wire transfers, Western Union and preprinted checks. **We do not accept international credit cards**.
 
-**International Shipping Fees, Import Duties and Taxes:** All International shipments will be charged postage costs calculated by weight and destination. **PSSL.com's prices do not include customs fees, taxes and tariffs.** Customers outside of the United States may be subject to customs fees and/or import duties and taxes, which are levied once a shipment reaches your country. You, the customer, are solely responsible for any additional customs clearance fees; we have no control over these charges and cannot predict what they may be.
+**U.S. Power / Voltage:** Products are U.S. models and may have power/voltage requirements different from that of the destination country..
+
+**International Shipping Fees, Import Duties and Taxes:** All International shipments will be charged postage costs calculated by weight and destination. **PSSL.com's prices do not include customs fees, taxes and tariffs for shipments outside the United Sates and Canada.** Customers outside of the United States and Canada may be subject to customs fees and/or import duties and taxes, which are levied once a shipment reaches your country. You, the customer, are solely responsible for any additional customs clearance fees; we have no control over these charges and cannot predict what they may be.
 
 **International Returns or Packages Refused:** If the package(s) is returned to us because of an address error made by the customer, the customer refuses the package or the items ordered are not allowed into the country by customs, **the customer will be responsible for all the shipping costs relating to the shipment**. If the package is stopped by customs because items ordered are not allowed in the country and the package is abandoned, there will be no credit to the customer for the order.
 
-**Your Country's Custom and Import Policies:** Please note: It is important for you to become familiar with the Customs policies for your specific country before ordering. Customs regulations vary greatly by country and lack of knowledge regarding the customs rules governing the country you're importing to can result in your order incurring high import duties, delivery being delayed, or the order being returned to us. It is your responsibility to check with your Customs office to see if your country permits the shipment of our products. Additionally, when ordering from PSSL.com, you are considered the importer of record and must comply with all laws and regulations of the country in which you reside and are receiving the goods. Any fees charged to PSSL.com due to non-compliance with your country's laws and regulations will be charged to you, the importer. If an item or items are returned to us due to non-compliance issues with your country's laws and regulations, a refund will be issued for the merchandise only.
+**Your Country's Custom and Import Policies:** Please note: It is important for you to become familiar with the Customs policies for your specific country before ordering. Customs regulations vary greatly by country and lack of knowledge regarding the customs rules governing the country you're importing to can result in your order incurring high import duties, delivery being delayed, or the order being returned to us. It is your responsibility to check with your Customs office to see if your country permits the shipment of our products. Additionally, when ordering from PSSL.com, you are considered the importer of record and must comply with all laws and regulations of the country in which you reside and are receiving the goods. Any fees charged to PSSL.com due to non-compliance with your country's laws and regulations will be charged to you, the importer. If an item or items are returned to us due to non-compliance issues with your country's laws and regulations, a refund will be issued for the merchandise only. ProSound And Stage Lighting will not mark your parcel as a "gift", declare a value lower than the actual price paid, or otherwise prepare false customs information.
 
 **Current countries we ship to:
 
 USA (including all military bases abroad)  
+Australia  
+Brazil  
 Canada  
-Virgin Islands  
-Puerto Rico  
-Guam  
+Chile  
+Germany  
 Japan  
+Mexico  
+New Zealand  
+Peru  
+Russia  
+South Korea   
+Spain  
+Taiwan  
+United Kingdom  
+Vietnam  
 All other US Territories
 
 **
@@ -161,7 +174,7 @@ For other payment options, shipping questions or other assistance placing an ord
 
 PSSL.com guarantees low prices on everything we carry*. If you should see a lower price from another authorized U.S. dealer on an identical item, even if it's an "advertised special," we'll not only meet that price, we'll beat it by 10% of the difference to thank you for bringing it to our attention.
 
-If you've already purchased from us and find a lower advertised price within 30 days of your purchase, contact us via [e-mail](http://www.pssl.com/email) or phone and we'll refund 110% of the difference after verification. Limit of one refund per item. Our price match guarantee doesn't apply to closeout items or pricing from PSSL.com.
+If you've already purchased from us and find a lower advertised price within 30 days of your purchase, contact us via [e-mail](http://www.pssl.com/email) or phone and we'll refund 110% of the difference after verification. Limit of one refund per item. Our price match guarantee doesn't apply to closeout items, out of stock items, or pricing from PSSL.com.
 
 * This guarantee does not apply to discontinued items or special order items. Offer not valid for auction or member-only web sites, used or refurbished items and does not include shipping charges. Guarantee does not apply to Apple products. Guarantee not available to dealers, distributors or their family members or their employees. 
 
@@ -205,7 +218,7 @@ Need to ship to other International destinations? Call us at 1-800-268-5520, 1-7
 
 **Shipments to Alaska and Hawaii:** Shipments to Alaska and Hawaii are shipped via Next Day Air or Second Day Air service. Please allow an additional 24 hours for delivery. Please call 800-268-5520 for shipping quotes on oversized items.
 
-See International Orders for information on shipping.
+See [International Orders](http://www.pssl.com/lp/help.rsp#InternationalOrders) for information on shipping.
 
 Have other shipping questions? Call us at 1-800-268-5520, 1-714-891-5914 outside the USA or [email us](http://www.pssl.com/email).
 
@@ -355,7 +368,7 @@ General Terms & Conditions
   1. **Huge Selection - 1000's of products In Stock!** In addition to most orders shipping the same day they're placed (by 2pm PST), PSSL.com has one of the largest selections of professional equipment available anywhere. In addition to having the top sellers, our buyers work diligently to search out and discover unique hard to find items. In addition, if there's a product you are looking for, we'll search for that item, or a comparable product and will try to make it available to you at significant savings! Just [email](http://www.pssl.com/email) us or give us a call 800-268-5520.
   2. **Hassle Free Returns** Nearly all of your purchases at PSSL.com are covered by our 30-day return program (some exclusions apply, see our return and exchange program details). We also pledge a 24-hour response time (Monday through Friday) on your e-mail requests. Our specially-trained staff of Sales Advisors and Customer Service Representatives are available via our toll-free number 800-268-5520 or by email.
   3. **Free Tech Support from Factory Trained Sales Advisors** Our sales representatives have hands-on experience with our gear and can help you with your questions before and after your purchase. You'll get great advice on how to select the gear that meets your needs, then PSSL.com's Sales Advisors are available to help you set up and use anything you've purchased from us.
-  4. **110% Price Guarantee** PSSL.com guarantees low prices on everything we carry. If you should see a lower price from another authorized U.S. dealer on an identical item, even if it's an "advertised special," we'll not only meet that price, we'll beat it by 10% of the difference to thank you for bringing it to our attention (both before and after the sale). Click here for details
+  4. **110% Price Guarantee** PSSL.com guarantees low prices on everything we carry. If you should see a lower price from another authorized U.S. dealer on an identical item, even if it's an "advertised special," we'll not only meet that price, we'll beat it by 10% of the difference to thank you for bringing it to our attention (both before and after the sale). Click [here](http://www.pssl.com/lp/help.rsp#LowPrice) for details
   5. **Authorized Dealer** As a professional, you rely on your equipment to help you do your job. Don't get caught without your valuable factory warranty. PSSL.com is an Authorized Retailer for every brand we offer. That means you can count on the warranty for your equipment being honored. Plus, it means our experts receive thorough, ongoing training direct from the manufacturers. So, you can count on PSSL.com for expert advice and support before and after you make your purchase. You may find a great deal that's too good to be true, but chances are it's not from an authorized dealer and your warranty could be void. With PSSL.com, your valuable manufactures warranty is guaranteed.
 
 
