@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209025309id_/http%3A//privacy-policy.truste.com/verified-policy/www.efactor.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912031216id_/http%3A//privacy-policy.truste.com/verified-policy/www.efactor.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.efactor.com
 
@@ -10,7 +10,7 @@ This privacy statement describes how E.Factor Corp. collects and uses the person
 
 E.Factor Corp. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [marion@efactor.com ](mailto:marion@efactor.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -45,7 +45,7 @@ We use this information to
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [marion@efactor.com ](mailto:marion@efactor.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com).
 
 **Information Obtained from Third Parties**
 
@@ -94,9 +94,11 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [marion@efactor.com ](mailto:marion@efactor.com)
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com)
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [membersupport@efactor.com](mailto:membersupport@efactor.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Additional Policy Information
 
@@ -106,7 +108,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [marion@efactor.com ](mailto:marion@efactor.com).
+To review and update your personal information to ensure it is accurate, contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com).
 
 **Notification of Privacy Statement Changes**
 
