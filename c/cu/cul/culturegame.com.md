@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturegame.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528144556id_/http%3A//www.culturegame.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D58%26Itemid%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturegame.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912182602id_/http%3A//culturegame.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D58%26Itemid%3D83) for the most accurate reproduction.*
 
 # Privacy Policy
 
