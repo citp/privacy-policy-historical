@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchleaders.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110103id_/http%3A//www.churchleaders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchleaders.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912151100id_/http%3A//www.churchleaders.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ChurchLeaders.com - Christian Leadership Blogs, Articles, Videos, How To's, and Free Resources
 
@@ -14,4 +14,4 @@ Cookies & Tracking Pixels: We collect non-personally identifiable information th
 
 Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
 
-Questions or concerns regarding ChurchLeaders.com’s privacy policy may be directed to our Managing Editor, ChurchLeaders.com, 2230 Oak Ridge Way, Vista, CA 92081, (800) 991-6011, privacy@churchleaders.com.
+Questions or concerns regarding ChurchLeaders.com’s privacy policy may be directed to our Managing Editor, ChurchLeaders.com, 5550 Tech Center Dr, Colorado Springs, CO 80919, (800) 991-6011, privacy@churchleaders.com.
