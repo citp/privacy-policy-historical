@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061024id_/http%3A//societeperrier.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912074551id_/http%3A//societeperrier.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Global Global
+# Privacy Policy - Global Global
 
 Mirrorball Group LLC (“Company”) has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.societeperrier.com (the “Service”). By using or accessing or using the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
 
