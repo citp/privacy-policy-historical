@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4hds.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625103436id_/http%3A//4hds.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4hds.com privacy policy that was archived on 2014-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140913234005id_/http%3A//4hds.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>4HDS.com - Webcam Stream Ranking System</title>
@@ -24,9 +24,10 @@
 <script type="text/javascript" src="http://media.dreamhost.com/mp4/swfobject.js"></script>
 
 
+
 <script language="JavaScript" type="text/javascript">
 var chatroomid = 1;
-var setChatName = 'Guest86251';
+var setChatName = 'Guest36065';
 var setChatUserId = 0;
 var userLoggedIn = 0;
 function setChatUserName (value) {
@@ -86,7 +87,20 @@ function generateThumbPlayer2013(space,remoteSite,remoteId,remoteName,iFrame,pSi
 		//theBox5.innerHTML = '<iframe src="'+ iFrame + '" height="850" width="850"></iframe>';
 		//theBox5.scrollTop=470;
 		//theBox5.scrollLeft=120;
-		theBox5.innerHTML = 'Currently No Preview Available';
+		/*
+		var s1b = new SWFObject("https://media.dreamhost.com/mp4/player.swf","ply",320,240,"9","#FFFFFF");
+		s1b.addParam("allowfullscreen","true");
+		s1b.addParam("allowscriptaccess","always");
+		s1b.addParam("wmode","transparent");
+		s1b.addParam("flashvars","streamer=" + decodeURIComponent('rtmp://v1.asteroid.pl:1935/fotka.pl') + "&file=" + decodeURIComponent(iFrame) + "&autostart=true");
+		s1b.write(theBox5);
+		*/
+		
+		theBox5.innerHTML = '<iframe src="http://4hds.com/fotkaPlayer.php?file='+ iFrame + '&streamer=' + encodeURIComponent('rtmp://v1.asteroid.pl:1935/fotka.pl') + '" height="350" width="430" style="scroll: none;"></iframe>';
+		theBox5.scrollTop=14;
+		theBox5.scrollLeft=10;
+		theBox5.innerHTML += '<div style="position: absolute; top: 13px; left: 30px; border: thin solid red; color: red; width: 60px; background-color: black; font-weight: bold;" onClick="generateThumbPlayer(\'' + space + '\',\'blank\',\'0\');">Close Video Preview</div>';
+		//theBox5.innerHTML = '<h1 style="color: red;">Currently No Preview Available</h1>';
 	} else if (remoteSite == '10') { //Twitch.tv
 		var theBox5 = document.getElementById(space);
 		var theBox5EHeight = 240;
