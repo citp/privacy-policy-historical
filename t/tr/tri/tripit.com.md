@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091929id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914010153id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt Privacy Policy
 
-(last revised May 13, 2014) 
+(last revised September 2, 2014) 
 
 [ ](https://privacy.truste.com/privacy-seal/Concur-Technologies/validation?rid=4fcfda29-644c-4fb3-ae00-fb94131a4122 "TRUSTe European Safe Harbor certification")
 
@@ -14,11 +14,11 @@ This Policy applies solely to information collected by us through the Services a
 
 The Site has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe certification covers only information collected through [www.tripit.com](https://web.archive.org/) and does not cover information that may be collected through other Concur websites or our mobile applications. 
 
-If you have questions or concerns regarding this statement, you should first contact us at [support@tripit.com](mailto:support@tripit.com). If you are not satisfied with our response, you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). 
+If you have questions or concerns regarding this statement, you should first contact us at [support@tripit.com](mailto:support@tripit.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe [online](http://watchdog.truste.com/pvr.php?page=complaint), or by fax at 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept. ([see mailing address](http://www.truste.com/about_TRUSTe/contact_us.html)). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see the [dispute resolution page](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
 
 ## 1\. What Information We Collect from You
 
-When you register with Concur or use our Services, we ask for your email address and password, name, home location, billing or mailing address, phone numbers, and other email addresses as well as other information including your travel information, history, preferences, and other demographic information. If you wish to purchase additional services we may collect your financial information (for example your credit card number, expiration date). If you also select to have Concur track your travel rewards points, Concur will store account details for each of your travel rewards points accounts, including each account's log-in username and password. 
+When you register with Concur or use our Services, we ask for your email address and password, name, home location, billing or mailing address, phone numbers, and other email addresses as well as other information including your travel information, history, preferences, and other demographic information. If you wish to purchase additional services we may collect your financial information (for example your credit card number, expiration date). If you also select to have Concur track your travel rewards points, Concur will store account details for each of your travel rewards points accounts including each account's login username and password. If you wish, you can also store in your Traveler Profile information about your emergency contact details and government issued identification numbers needed for travel, for example, your passport identification number, driver’s license number, and/or known traveler number. 
 
 ### Information We Automatically Collect About Visits and Usage
 
@@ -42,7 +42,7 @@ We may collect precise geolocation data through our Services. We may use this in
 
 Other third parties may collect information about you through our Services, including personally identifiable information about your online activities over time and across different websites when you use our Services. We describe some of those activities below, but understand that our Policy does not cover these or any other third parties, their products, actions, or their services. We cannot control how third parties collect, use, or secure your data. For information about third-party privacy practices, please consult their privacy policies. 
 
-### Third-Party Sign-In and Features
+### Third-Party Sign-In and Social-Media Features
 
 You can log in to our Services using sign-in services provided by third parties, including certain third-party social networking platforms. Certain third-party services we may feature through our Services give you social media options to interact with buttons or widgets that let you like information or post information about your activities from our Site to third party sites and platforms publicly or within your network. These services will share certain personal information with us as described in the sign-in notices or in their privacy policies. 
 
@@ -70,7 +70,7 @@ We maintain data handling and storage practices and procedures that are designed
 
 When you use the Service, your personal information and your travel information will be shared with the third parties you designate for access to such information, including other companies, websites, mobile applications, your friends, relatives, and business associates. Depending upon the type of access you grant to such third parties, they may also be permitted to edit the information you have provided to us and to designate others to access and edit such information. You may change who has access to your information by going to your account settings and then changing your publishing options. 
 
-You may choose to display certain information you give us in your public profile. Our Site also offers publicly accessible blogs or community forums. You should be aware that any information you choose to share in these areas may be read, collected, and used by others. 
+You may choose to display certain information you give us in your public profile. Our Site also offers publicly accessible blogs or community forums. You should be aware that any information you choose to share in these areas may be read, collected, and used by others. To request removal of your content or information from our blog or community forum, contact us at [support@tripit.com](mailto:support@tripit.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 In general, most of your travel-related information, such as upcoming destinations and travel statistics, is displayed only to other users of the Service to whom you have specifically connected as part of your TripIt network. You can change your privacy settings to designate which types of information are shared and with whom by visiting [Profile and Privacy](https://web.archive.org/account/edit/section/your_profile) page. You may also post information about your travel plans or current travel status through your TripIt connections or other social-networking connections or otherwise instruct the Service to automatically provide such information to other users of the Service and with your social-networking connections. 
 
