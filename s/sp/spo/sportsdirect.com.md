@@ -1,63 +1,74 @@
-> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211155357id_/http%3A//www.sportsdirect.com/Privacy.pasp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsdirect.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913161359id_/http%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# Sports Direct International - the official Online Store
+# SportsDirect.com > CustomerServices > Other Information > Security and Privacy
 
-## Privacy Policy
+We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
- **Our commitment**  
-Etail Services Limited ("Etail Services") is fully committed to respecting your privacy and to protecting any information you provide to us. Etail Services treats both privacy and security as a priority and makes every effort to ensure that all the information provided by you is protected.   
-This policy respects and protects the privacy of all visitors to this web site and the parents of all children visiting this web site. This policy explains how Etail Services collects information from you and how this information is then used.   
-Etail Services hopes that this will remove any concerns you may have about supplying information to us and make visiting the sportsdirect.com web site an exciting, fun and safe experience. 
+We take appropriate technical and organisational measures to protect against unauthorised or unlawful processing of your personal information, including encrypting your information to applicable industry standards.
 
-**Changes to this Privacy Policy**  
-We reserve the right to change our security and privacy policies at any time. Accordingly we recommend that you check this page periodically in order to review our current policies. 
+During your visit to our site we may gather certain personal information that is necessary to set up your account, for the purposes of billing, delivery of your goods and queries. We only keep your information for as long as is necessary to process your order, process any applicable refunds, respond to any complaints/feedback or to provide you with promotional information you have subscribed to.
 
-**What information is collected**  
-When you register and order products through this web site you will need to provide your name, email address, mailing address, telephone numbers, date of birth and credit card information (when ordering products only) as well as creating a password. When ordering products and registering on sportsdirect.com, you will also have the option of submitting additional information to us. This allows Etail Services to have a better understanding of visitors to the web site and tailor any specific promotions or features to individual requirements.   
-If you enter a competition or other promotional feature Etail Services may once again ask for your name, address, email address, date of birth and password so that we are able to administer and control the competition and of course notify the winners. 
+Ordinarily we do not have access to your financial information which is securely transferred directly to our card processing agents and who process it on our instructions.
 
-**How your information is used**  
-Your information will be used mainly to process your order as well as for administration and marketing purposes. If you become a customer of ours by purchasing goods from us we may send you further information by post or e-mail that is related to your purchase. Sports Direct International Ltd, its group companies and its selected business partners and Etail Services and its selected business partners would like to send you marketing information by post, email or SMS. This will only happen if you have indicated that you are happy to receive such information when you submit your details. We will not make your information available to third parties (other than those identified at 'Sharing your information' below). You can review and change your agreement preferences at any time by clicking on 'My Profile'. We may use your information for statistical purposes. 
+We supply your information electronically to our couriers who need your details to deliver your orders
 
-**Sharing your information**  
-This is an official website of Sports Direct International Ltd and we may share your information with them. Etail Services will not make your information available to any other third party. 
+When you register your details with us, you have the option to subscribe to future promotions and special offers. You may unsubscribe from this at any time by emailing our [**customer services**](https://web.archive.org/CustomerServices/contactus/contactform)
 
-**Data Protection**  
-Etail Services Limited trading as "Etail Services" and "sportsdirect.com" is registered in accordance with United Kingdom Data Protection Legislation, registration number Z9163739 and will hold and use your personal data strictly in accordance with UK data protection legislation. 
+We do not transfer your information outside the European Economic Area (“EEA”) unless you are a user located outside the EEA in which case we may need to transfer your information to deliver your goods, process payment/refunds, or to send you promotional information you have subscribed to.
 
-**How does Etail Services protect visitor information?**  
-Etail Services has a committed Security Policy. Etail Services will retain copies of the information provided when you register on the website, order any products from the site and enter into any competitions. Etail Services implements a number of sophisticated security measures to ensure the safety of any personal information provided. The information is contained on a secure server, which is accessible only by a limited number of employees who have authorised access rights to such information. When you are asked to enter any personal details or credit card information the web site will be secure. This is easily identifiable by an icon in the bottom of the browser window resembling an unbroken key or a closed lock. We use SSL technology to ensure that the information being sent is secure. Your card number will be encrypted and replaced by a unique transaction reference number. Etail Services uses online bank secure servers provided by DataCash and does not hold any customer card details on any Etail Services server at any time. 
+Our website can recognise past users by using cookies. Cookies personalise your visits to our website to meet your individual preferences. You can disable cookies by adjusting your internet settings. 
 
-**Etail Services Policy for Children**  
-Etail Services realises and understands that many children will visit sportsdirect.com but encourages all persons under 13 to consult with their parents or legal guardian before submitting any information to this web site and indeed any other web site. However, Etail Services believes that ultimately it is the responsibility of parents or legal guardian to supervise children when online and recommend that parental control tools be put in place. No information collected from anyone under the age of 18 will be used for any marketing or promotional purposes whatever as is stated when you register for competitions or promotions. Although anyone under the age of 13 is able to participate in competitions and promotions, notification of a win or prize will be sent directly to the parent or legal guardian identified in the initial registration process. Any publication of a competition winner's personal details for visitors under 18 will require parental or legal guardian consent during registration. 
+This Website contains links to other websites with their own privacy policies, we are not responsible for the privacy policies of these websites.
 
-**Cookies**  
-In common with many other website operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. Our cookies also enable us to enhance your visitor experience by storing information about the products and services that you select between visits so that we can provide you with focussed information each time you visit our website. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored, however if you do turn cookies off this will limit the service that we are able to provide to you. 
+When you supply your information to us you accept the risks associated with the Internet and will not hold us responsible for any loss of your information unless we have breached our duty of care to you.
 
-**Consent**  
-By disclosing any personal information to Etail Services through this web site or via the telephone visitors consent to the collection and storage of all personal information provided to Etail Services as set out in this Privacy Policy. If Etail Services make any changes to this Privacy Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. 
+If you have any queries regarding our use of your personal information or this privacy policy, you should contact our Data Protection Compliance Officer by writing to Sportsdirect.com, Unit A, Brook Park, Meadow Lane, Shirebrook, Mansfield, Nottinghamshire, NG20 8RY.
 
-**Your rights to access your personal information**  
-You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is £25.00. 
+Alternatively you can contact us on 0845 129 9230
 
-**Updating your information**  
-In the event that there is a change to your personal information, for example your contact details, please update your information through the My Profile section of the website or let us know by contacting us at the address set out below so that we can keep your information up to date and accurate. 
+  
 
-**How to contact us**  
-If you would like any further information or have any comments about our privacy policy, please contact our Data Protection Officer by any of the methods shown below. 
 
-**By telephone:**  
-(+44) (0) 870 042 3879 
+## Cookie Policy
 
-**By email:**  
-[privacy@etail-services.com](mailto:privacy@etail-services.com "Email privacy@etail-services.com")
+This policy explains what cookies are, how we use them and how you can switch them off.
 
- **By mail:**  
-Data Protection Officer  
-Etail Services Limited Trading As sportsdirect.com  
-Brook Park  
-Meadow Lane  
-Shirebrook  
-Mansfield  
-Nottinghamshire  
-NG20 8RY
+## **1\. How we use Cookies**
+
+We use a combination of our own cookies and third party cookies to enhance your browsing experience and to enable our site to function efficiently. In particular, we use cookies to:
+
+  * enable you to set up an account, place orders and make payments;
+  * remember items you place into your shopping basket;
+  * remember items you have been looking at so that you can quickly and easily go back to an item you looked at previously;
+  * enhance your shopping experience.
+
+  
+
+
+## **2\. What are Cookies?**
+
+Cookies are small files which are stored on your internet browsing device (e.g computer, tablet or phone). Cookies don't store your personal details such as your credit card details, your name or your date of birth.
+
+  
+
+
+## **3\. What types of Cookies do we use?**
+
+Our site uses session cookies and persistent cookies. Session cookies operate from the moment you log on to the site until the moment you log off. Once you log off session cookies are deleted. Persistent cookies will not be deleted after each session.
+
+**Strictly Necessary Cookies** are essential to our site, if these are disabled, your experience on our site may be interrupted and you may not be able to use a shopping basket or make payment.
+
+**Performance Cookies** collect anonymous data about visitors. We use the data to improve your future experience and identify issues that our users may be experiencing.
+
+**Functionality Cookies** customise the look and appearance of our site. For example, a functionality cookie will remember your username and language preferences next time you visit.
+
+**Targetingor Advertising Cookies** deliver advertisements which are tailored to your web activity. A targeting cookie tracks what you click on whilst on our site, and may share details of what you click on with other organisations such as advertisers. These cookies can also help us to measure the effectiveness of an advertising campaign.
+
+Third party cookies may be used on our website by approved organisations to provide services on our website.
+
+  
+
+
+## **4\. What happens if I turn off Cookies?**
+
+If you disable or delete cookiesyou may not be able to shop or access important parts of our site. Further information on cookies, including instructions on how to amend your browser settings to turn off cookies, is available widely online.
