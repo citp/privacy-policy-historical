@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamininc.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202173532id_/http%3A//www.tamininc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamininc.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914000402id_/http%3A//www.tamininc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Tamin Inc
 
 TaminInc.com Privacy Policy
 
