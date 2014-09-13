@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoviesportsandtv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053054id_/http%3A//onlinemoviesportsandtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoviesportsandtv.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913224616id_/http%3A//onlinemoviesportsandtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlineMovieSportsAndTV
 
