@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101800id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yohyoh.com privacy policy that was archived on 2014-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140913185205id_/http%3A//www.yohyoh.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -216,7 +216,7 @@ $(document).ready(function() {
 			success : function (data) {
 				//alert(data);
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="like" class="ajaxlike" style="height:18px; margin-top: -2px; width: 16px;"/>');
+					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="like" width="16" class="ajaxlike" style="height:18px; margin-top: -2px; width: 16px;"/>');
 					//like.html(data+' Liked');
 				} // on success callback
 			});
@@ -235,7 +235,7 @@ $(document).ready(function() {
 			success : function (data) {
 				//alert(imageid);
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" style="height:18px; margin-top: -2px; width: 16px;" />');
+					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" width="16" style="height:18px; margin-top: -2px; width: 16px;" />');
 					//like.html(data+' Liked');
 				} // on success callback
 			});
@@ -252,16 +252,16 @@ $(document).ready(function() {
 	$(".smileclick").unbind('click');
 	$(".smileclick").click(function(){
 		imageid=$(this).attr('data'); 
-		$('#'+imageid+'_smileclick_close').fadeIn();
-		$('#'+imageid+'_smileclick').fadeOut();
+		$('#'+imageid+'_smileclick_close').show();
+		$('#'+imageid+'_smileclick').hide();
 		$('#'+imageid+'_smileys_images').slideToggle(); 
 	 });
 
 	$(".smileclick_close").unbind('click');
 	 $(".smileclick_close").click(function(){
 		imageid=$(this).attr('data');
-		$('#'+imageid+'_smileclick').fadeIn();
-		$('#'+imageid+'_smileclick_close').fadeOut();
+		$('#'+imageid+'_smileclick').show();
+		$('#'+imageid+'_smileclick_close').hide();
 		$('#'+imageid+'_smileys_images').slideToggle(); 
 	 });
 
@@ -282,6 +282,32 @@ $(document).ready(function() {
 						columnWidth: 0
 					});
 		});
+	
+  $(".smileclick_categ").unbind('click');
+  $(".smileclick_categ").click(function(){
+	imageid=$(this).attr('data'); 	
+	$('#'+imageid+'_smileclick_close').show();
+	$('#'+imageid+'_smileclick').hide();
+	$('#'+imageid+'_smileys_images').show();
+				var top  =$(this).offset().top+20;
+				$container.masonry({
+					itemSelector: '.col',
+						columnWidth: 0
+					});
+	});
+
+ $(".smileclick_closecateg").unbind('click');
+ $(".smileclick_closecateg").click(function(){
+	imageid=$(this).attr('data');
+	$('#'+imageid+'_smileclick').show();
+	$('#'+imageid+'_smileclick_close').hide();
+	$('#'+imageid+'_smileys_images').hide(); 
+	var top  =$(this).offset().top-20;
+				$container.masonry({
+					itemSelector: '.col',
+						columnWidth: 0
+					});
+ });
 	
     $('.postcommenthomeimgs').unbind('click');
 
@@ -622,7 +648,7 @@ function clearText(field){
 
 </script>
 <link rel="stylesheet" type="text/css" href="/includes/yohyoh/styles/css/elastislide.css">
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5045e91200e60adf"></script>
 <link rel="stylesheet" href="/includes/yohyoh/styles/styles/styleslide.css">
 
@@ -758,7 +784,7 @@ $(document).on("click", function () {
       
         		<li class="upload"><a class="login"><span class="loginadd">Upload</span><img src="/includes/yohyoh/styles/images/upload.png" alt="yohyoh"></a></li>
 		<li><div id="weshowcasebutton"><span class="weshowcasenew">New</span></div></li>
-		<li class="contesthome"><a href="http://www.yohyoh.com/contest-home" target="_blank"><img src="/includes/yohyoh/styles/images/rupee_icon.png"></a></li>
+		<li class="contesthome"><a href="http://www.yohyoh.com/bigcontest" target="_blank"><img src="/includes/yohyoh/styles/images/rupee_icon.png"></a></li>
 		<li class="explore_img"><a href="#" class="exlist"><span class="yoh_aboutyoh">Explore</span><img src="/includes/yohyoh/styles/images/explore.png" alt="yohyoh"></a>		
 		  <div class="lcats_explore">
 		    <ul>
@@ -862,7 +888,7 @@ $(document).on("click", function () {
         <span class="or">OR</span>
         <div class="login_social"><span class="login_with">Login With </span> 
 
-		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=f48d4f02c2168de4052afd4adef8f09b&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
+		 <a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=993e13cdf9071c87875298788da0cbd3&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a> 
 		 
 		 
 		  OR <a href=".//index.php?auth=google"><img src="/includes/yohyoh/styles/images/login_gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a> OR <a href=".//index.php?auth=yahoo"><img src="/includes/yohyoh/styles/images/yahoo_icon.jpg" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a>	
@@ -893,7 +919,7 @@ $(document).on("click", function () {
         <span class="or">OR</span>
         <div class="login_social"> 
 		<span class="login_with">Login With </span>
-		<a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=f48d4f02c2168de4052afd4adef8f09b&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
+		<a href="https://www.facebook.com/dialog/oauth?client_id=312480175443567&amp;redirect_uri=http%3A%2F%2Fwww.yohyoh.com&amp;state=993e13cdf9071c87875298788da0cbd3&amp;scope=email%2Cpublish_stream%2Cpublish_actions"><img src="/includes/yohyoh/styles/images/login_fb.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="32" height="32"></a>  
 		
 		  OR <a href=".//index.php?auth=google"><img src="/includes/yohyoh/styles/images/login_gmail.png" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a> OR <a href=".//index.php?auth=yahoo"><img src="/includes/yohyoh/styles/images/yahoo_icon.jpg" alt="YohYoh-Showcase your talent, products, services, events &amp; share it to millions of people." width="28" height="28"></a>
 
@@ -1789,7 +1815,7 @@ $('.postcommenthomeimgs').click(function(event){
 
 
 <script type="text/javascript">
-	$('.like_home').click(function(){
+	$('.like_home').click(function(){	
 		imageid	=$(this).attr('data');
 		//userid	=$(this).attr('sender');
 		userid	=$('#'+imageid+'_user').val();
@@ -1802,13 +1828,13 @@ $('.postcommenthomeimgs').click(function(event){
 			success : function (data) {
 				//alert(imageid);
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" style="height:18px; margin-top: -2px; width: 16px;" />');
+					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" width="16px" alt="yoh" style="height:18px; margin-top: -2px; width: 16px;" />');
 					//like.html(data+' Liked');
 				} // on success callback
 			});
 	});
 	
-	$('.like').click(function(){		
+	$('.like').click(function(){
 		imageid	=$(this).attr('data');
 		//userid	=$(this).attr('sender');
 		userid	=$('#'+imageid+'_user').val();
@@ -1821,7 +1847,7 @@ $('.postcommenthomeimgs').click(function(event){
 			success : function (data) {
 				//alert(imageid);
 					$('#'+imageid+'_likespanel').html(data);
-					like.html('<img src="/includes/yohyoh/styles/images/likes.png" alt="yoh" style="float:left; margin-right:5px; margin-top:3px;" /><span style="color:#646464;">Liked</span>');
+					like.html('<img src="/includes/yohyoh/styles/images/likedimg.png" alt="yoh" width="16px" style="float:left; margin-right:5px; margin-top:3px;" />');
 					//like.html(data+' Liked');
 				} // on success callback
 			});
@@ -2135,44 +2161,6 @@ $(document).ready(function(){
         </div>
     </footer>
 	</div>
-
-<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="/includes/yohyoh/scripts/js/jquery.elastislide.js"></script>
-<script type="text/javascript">
-	
-	$('#carousel').elastislide({
-		imageW 		: 198,
-		margin		: 8,
-		border		: 4,
-		easing		: 'easeInBack',
-		speed : 5000,
-		minItems : 5,
-		start : 0
-	});
-	$(window).load(function()
-	{
-	$('.caroufredsel_wrapper').removeAttr('style');
-	$('#guitars-gallery').removeAttr('style');
-	clearTimeout(resizeTimer);
-	resizeTimer = setTimeout(sliderReInit, 100);
-	});
-
-	
-</script>
-
-
-<!-- Piwik -->
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://agent.yohyoh.com/" : "http://agent.yohyoh.com/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://agent.yohyoh.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://agent.yohyoh.com/piwik.php?idsite=1" style="border:0" alt="YohYoh-Showcase your talent, products, services, events & share it to millions of people." /></p></noscript>
-<!-- End Piwik Tracking Code -->
 
 
 
