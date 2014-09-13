@@ -1,108 +1,74 @@
-> *The following text is extracted and transformed from the sportsdirectnews.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209180706id_/http%3A//www.sportsdirectnews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsdirectnews.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913161359id_/http%3A//www.sportsdirect.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# SportsDirect News - Privacy Policy
+# SportsDirect.com > CustomerServices > Other Information > Security and Privacy
 
-**Sports Direct News Privacy Policy**
+We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
-Please read this Privacy Policy (as of September 2012) before using this service. By continuing to use **www.sportsdirectnews.com** , you acknowledge that you have read and agree to the terms of this policy.
+We take appropriate technical and organisational measures to protect against unauthorised or unlawful processing of your personal information, including encrypting your information to applicable industry standards.
 
-**My London News Limited ("We") are committed to protecting and respecting your privacy.**
+During your visit to our site we may gather certain personal information that is necessary to set up your account, for the purposes of billing, delivery of your goods and queries. We only keep your information for as long as is necessary to process your order, process any applicable refunds, respond to any complaints/feedback or to provide you with promotional information you have subscribed to.
 
-This policy (together with our terms of use **www.sportsdirectnews.com** and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Ordinarily we do not have access to your financial information which is securely transferred directly to our card processing agents and who process it on our instructions.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is My London News Ltd. of Guru House, 54 South Molton Street, London, W1K 5SG.
+We supply your information electronically to our couriers who need your details to deliver your orders
 
-**INFORMATION WE MAY COLLECT FROM YOU**
+When you register your details with us, you have the option to subscribe to future promotions and special offers. You may unsubscribe from this at any time by emailing our [**customer services**](https://web.archive.org/CustomerServices/contactus/contactform)
 
-**We may collect and process the following data about you:**
+We do not transfer your information outside the European Economic Area (“EEA”) unless you are a user located outside the EEA in which case we may need to transfer your information to deliver your goods, process payment/refunds, or to send you promotional information you have subscribed to.
 
-Information that you provide by filling in forms on our site **www.sportsdirectnews.com** (the " **Site** "). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+Our website can recognise past users by using cookies. Cookies personalise your visits to our website to meet your individual preferences. You can disable cookies by adjusting your internet settings. 
 
-If you contact us, we may keep a record of that correspondence.
+This Website contains links to other websites with their own privacy policies, we are not responsible for the privacy policies of these websites.
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+When you supply your information to us you accept the risks associated with the Internet and will not hold us responsible for any loss of your information unless we have breached our duty of care to you.
 
-Details of transactions you carry out through our site and of the fulfilment of your orders.
+If you have any queries regarding our use of your personal information or this privacy policy, you should contact our Data Protection Compliance Officer by writing to Sportsdirect.com, Unit A, Brook Park, Meadow Lane, Shirebrook, Mansfield, Nottinghamshire, NG20 8RY.
 
-Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+Alternatively you can contact us on 0845 129 9230
 
-We use your personally identifiable information to communicate with you regarding your account or the Site. These communications may include, without limitation, notices regarding material changes to the Site's policies, service updates, and service enhancements. Since these account-related communications are necessary to ensure we provide our users with the highest quality of services, our users are not permitted to opt out from receipt of these communications.
-
-We and Sports Direct International plc (the owners of the Site) (" **Sports Direct** ") may also use personally identifiable information to e-mail you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by emailing us here or by using the unsubscribe link on any e-mail message you receive.
-
-**IP ADDRESSES AND COOKIES**
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
-
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our site.
+  
 
 
+## Cookie Policy
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+This policy explains what cookies are, how we use them and how you can switch them off.
 
-Please note that our advertisers may also use cookies, over which we have no control.
+## **1\. How we use Cookies**
 
-**WHERE WE STORE YOUR PERSONAL DATA**
+We use a combination of our own cookies and third party cookies to enhance your browsing experience and to enable our site to function efficiently. In particular, we use cookies to:
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. Both we and Sports Direct will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  * enable you to set up an account, place orders and make payments;
+  * remember items you place into your shopping basket;
+  * remember items you have been looking at so that you can quickly and easily go back to an item you looked at previously;
+  * enhance your shopping experience.
 
-All information you provide to us is stored on our secure servers.  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**USES MADE OF THE INFORMATION**
-
-We together with Sports Direct will use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to     be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+  
 
 
+## **2\. What are Cookies?**
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
+Cookies are small files which are stored on your internet browsing device (e.g computer, tablet or phone). Cookies don't store your personal details such as your credit card details, your name or your date of birth.
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
-
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
-
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-
-**DISCLOSURE OF YOUR INFORMATION**
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.  We may also disclose your personal information to Sports Direct as the owner of the Site
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of     such business or assets.
-  * If Mym-e Ltd. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one     of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our     terms of useand other agreements; or to protect the rights, property, or safety of Mym-e  Ltd., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.]
+  
 
 
+## **3\. What types of Cookies do we use?**
 
-**YOUR RIGHTS**
+Our site uses session cookies and persistent cookies. Session cookies operate from the moment you log on to the site until the moment you log off. Once you log off session cookies are deleted. Persistent cookies will not be deleted after each session.
 
-You have the right to ask us not to process your personal data for marketing purposes and to request that Sports Direct does not process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [**info@sportsdirectnews.com.**](mailto:info@sportsdirectnews.com)
+**Strictly Necessary Cookies** are essential to our site, if these are disabled, your experience on our site may be interrupted and you may not be able to use a shopping basket or make payment.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+**Performance Cookies** collect anonymous data about visitors. We use the data to improve your future experience and identify issues that our users may be experiencing.
 
-**ACCESS TO INFORMATION**
+**Functionality Cookies** customise the look and appearance of our site. For example, a functionality cookie will remember your username and language preferences next time you visit.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+**Targetingor Advertising Cookies** deliver advertisements which are tailored to your web activity. A targeting cookie tracks what you click on whilst on our site, and may share details of what you click on with other organisations such as advertisers. These cookies can also help us to measure the effectiveness of an advertising campaign.
 
-**CHANGES TO OUR PRIVACY POLICY**
+Third party cookies may be used on our website by approved organisations to provide services on our website.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+  
 
-**CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [**info@sportsdirectnews.com.**](mailto:info@sportsdirectnews.com)
+## **4\. What happens if I turn off Cookies?**
+
+If you disable or delete cookiesyou may not be able to shop or access important parts of our site. Further information on cookies, including instructions on how to amend your browser settings to turn off cookies, is available widely online.
