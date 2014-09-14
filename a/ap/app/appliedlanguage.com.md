@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213010754id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914091450id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « « Capita Translation and InterpretingCapita Translation and Interpreting
+# Privacy Policy « Capita Translation and InterpretingCapita Translation and Interpreting
 
 At Capita Translation and Interpreting we are committed to protecting your data and privacy. So, we have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
 
