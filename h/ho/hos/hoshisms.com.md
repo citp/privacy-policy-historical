@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoshisms.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513213159id_/http%3A//www.hoshisms.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoshisms.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914053838id_/http%3A//www.hoshisms.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Hoshisms
 
@@ -10,7 +10,7 @@ hoshisms is concerned about protecting User Information and therefore we work to
 
 Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy or Conditions of Use at any time without prior notice. Please periodically review our Privacy Policy. YOU ARE RESPONSIBLE FOR REGULARLY REVIEWING THE hoshisms WEBSITE TO OBTAIN TIMELY NOTICE OF SUCH MODIFICATIONS. YOU SHALL BE DEEMED TO HAVE ACCEPTED SUCH MODIFICATIONS BY CONTINUING TO USE THE SERVICES AFTER SUCH MODIFICATIONS HAVE BEEN POSTED OR INFORMATION REGARDING SUCH MODIFICATIONS HAS BEEN SENT TO YOU. If at any time you are uncomfortable with any change, amendment or modification to the Privacy Policy or Conditions of Use and wish to cancel your membership, please notify hoshisms.
 
-[ ](https://web.archive.org/web/20140513213159id_/http%3A//www.hoshisms.com/Documents/HoshiSMS.pdf "Hoshisms Brochure")
+[ ](https://web.archive.org/web/20140914053838id_/http%3A//www.hoshisms.com/Documents/HoshiSMS.pdf "Hoshisms Brochure")
 
 **Request Information**
 
