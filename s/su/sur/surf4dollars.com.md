@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf4dollars.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302084558id_/http%3A//www.surf4dollars.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf4dollars.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915003323id_/http%3A//www.surf4dollars.com/pp.php) for the most accurate reproduction.*
 
 # Surf4Dollars - Earn, Share, Get Traffic BETA
 
