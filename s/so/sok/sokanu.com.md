@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sokanu.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630155235id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokanu.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914124657id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# privacy
+
+## Introduction
 
 The Privacy Policy describes Sokanu's policies and procedures regarding the personal information and other data collected through the Sokanu Site. By using the Sokanu Site, you consent to the terms of this Privacy Policy.
 
