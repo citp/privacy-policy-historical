@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritywireservice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115227id_/http%3A//celebritywireservice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritywireservice.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914204239id_/http%3A//celebritywireservice.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Celebrity Wire Service
 
