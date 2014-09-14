@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sexpiration.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102613id_/http%3A//www.sexpiration.com/info/sex-toys-sexpiration-privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpiration.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914052940id_/http%3A//www.sexpiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Sexy Toys Shopping
 
 We respect your privacy. When you shop with us, we will ask for personal information such as your name, email address, billing address, product selections, credit card or other payment information.
+
+To protect other peopls privacy for Cash on Delivery orders a Customer must us their own name and address for cash on delivery orders. For protecting other peoples privacy we will not srvice cash on delivery orders placed by 1 person for another person until we can verify the recipient. Sexpiration holds rights to cancel such orders directly. This specific rule is for cash on delivery only since a person is less likely to pay for items to embarass someone and more likely to do so with a cash on delivery option.
 
 We may also collect information about your browser type, the pages of our site that were viewed during your visit, and any search terms that you used.
 
