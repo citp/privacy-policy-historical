@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedais.org privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519234532id_/http%3A//www.tedais.org/news/privacy-policy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedais.org privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914225330id_/http%3A//www.tedais.org/news/privacy-policy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D700) for the most accurate reproduction.*
 
 # TEDA International School - Privacy Policy
 
