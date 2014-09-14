@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528103239id_/http%3A//www.broadcastbeat.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914065046id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Broadcast Beat Magazine: 2014 IBC and NAB Show News - Broadcast Engineering News and TV / Radio Technology Resource for the Broadcast Engineering, Motion Picture and Post Production communities.
+# Privacy Policy | Broadcast Beat Magazine: 2014 IBC Show, CCW+SATCON Expo and NAB Show News
 
 ### Privacy Policy
 
@@ -67,6 +67,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.broadcastbeat.com
 
 Fort Lauderdale, FL 33309  
 USA  
