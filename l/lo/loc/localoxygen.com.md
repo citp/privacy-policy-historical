@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localoxygen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073039id_/http%3A//localoxygen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localoxygen.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914224218id_/http%3A//localoxygen.com/privacy-policy) for the most accurate reproduction.*
 
 # Local Oxygen Privacy Policy » Local Oxygen
 
