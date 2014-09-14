@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clocklink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055907id_/http%3A//www.pspinc.com/eng/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clocklink.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914182937id_/http%3A//www.pspinc.com/eng/page/privacy) for the most accurate reproduction.*
 
 # Seattle Domain, Web & Email Hosting : Privacy Policy
-
-## PSPINC takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 ### What This Privacy Policy Covers
 
