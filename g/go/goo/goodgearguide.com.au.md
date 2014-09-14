@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204022424id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914221828id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Gear Guide by PC World Australia
 
@@ -61,11 +61,15 @@ Because IDG Australia is part of the IDG Publishing Network, you may receive off
 
 You may update the information stored in your profile at any time while online by visiting <http://www.idg.com.au/user>. You will be prompted for your username and password in order to access your profile. If you have questions, you may also contact IDG Australia customer service by sending an email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
 
+It is our policy to always keep our information as up-to-date as possible, in order to ensure that we provide the best possible information services.
+
 **How do I control my personal information?**
 
 You may review and update all of your information at any time while online by logging in to your personal profile. You control what information IDG Australia has access to and the types of information that IDG Australia can send to you. For example, you have the opportunity to receive special offers/updates on behalf of selected third party companies OR from IDG OR you can choose to opt out of these mailings at any time. See section below on Opt Out.
 
 **Who else may receive my personal information?**
+
+IDG may share your registration data for our events and for some premium information services with our program partners. In those instances it is our policy not to give away our information or services to anonymous readers or attendees. Where this is a requirement you are alerted as part of the registration process in order that you can decide to opt-in, or to decline the information service or event registration.
 
 Except as otherwise set forth in this policy, IDG does not share any of your personal data with any third party person or entity. Except for the provision of free resources as described above, all third party messages that are sent to you will be sent by IDG. You can unsubscribe from this service at anytime.
 
@@ -130,4 +134,62 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**LAST UPDATED** : August 15, 2013
+**LAST UPDATED** : March 3, 2014
+
+  * 1 [Microsoft Surface Pro 3 Windows 8.1 tablet](https://web.archive.org/review/microsoft/surface_pro_3/546872/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
+  * 2 [Samsung Galaxy Tab S (10.5) 4G review](https://web.archive.org/review/samsung/galaxy_tab_s_10_5/549256/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
+  * 3 [TomTom Runner Cardio GPS watch](https://web.archive.org/review/tomtom/runner_cardio_gps_watch/551889/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
+  * 4 [LG G3 review](https://web.archive.org/review/lg/g3/550826/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
+  * 5 [Nokia Lumia 930 review](https://web.archive.org/review/nokia/lumia_930/550020/?utm_source=www.goodgearguide.com.au&utm_medium=rhs_most_popular_reviews)
+
+
+
+[ ](http://www.shopping.com/)
+
+### [Business Centre](https://web.archive.org/section/pc_world_business/)
+
+The latest business news, reviews, features and whitepapers
+
+### [Online Shop](https://web.archive.org/shop/)
+
+Visit our shop for the best deals on hot products
+
+### [Videos](https://web.archive.org/video/)
+
+Watch our video news and reviews from around the world
+
+### [Guides](https://web.archive.org/tax/guides/)
+
+Comprehensive buying guides, features, and step-by-step articles
+
+### [Kathy Cassidy](https://web.archive.org/gggtester/9/)
+
+STYLISTIC Q702
+
+First impression on unpacking the Q702 test unit was the solid feel and clean, minimalist styling. 
+
+### [Anthony Grifoni](https://web.archive.org/gggtester/8/)
+
+STYLISTIC Q572
+
+For work use, Microsoft Word and Excel programs pre-installed on the device are adequate for preparing short documents. 
+
+### [Steph Mundell](https://web.archive.org/gggtester/7/)
+
+LIFEBOOK UH574
+
+The Fujitsu LifeBook UH574 allowed for great mobility without being obnoxiously heavy or clunky. Its twelve hours of battery life did not disappoint. 
+
+### [Andrew Mitsi](https://web.archive.org/gggtester/5/)
+
+STYLISTIC Q702
+
+The screen was particularly good. It is bright and visible from most angles, however heat is an issue, particularly around the Windows button on the front, and on the back where the battery housing is located. 
+
+### [Simon Harriott](https://web.archive.org/gggtester/4/)
+
+STYLISTIC Q702
+
+My first impression after unboxing the Q702 is that it is a nice looking unit. Styling is somewhat minimalist but very effective. The tablet part, once detached, has a nice weight, and no buttons or switches are located in awkward or intrusive positions. 
+
+[Good Gear Guide Evaluation Team](https://web.archive.org/gggtester/)
