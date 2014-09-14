@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629130658id_/http%3A//www.insync.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insync.co.in privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914025659id_/http%3A//www.insync.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - InSync Tech-Fin Solutions Ltd.
+# Privacy Policy -
 
 OUR COMMITMENT TO PRIVACY
 
