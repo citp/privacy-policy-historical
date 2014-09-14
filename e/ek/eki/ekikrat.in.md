@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekikrat.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112746id_/http%3A//ekikrat.in/info/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekikrat.in privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914144955id_/http%3A//ekikrat.in/info/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
