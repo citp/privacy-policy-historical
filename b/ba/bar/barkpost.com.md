@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the barkpost.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331235610id_/http%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkpost.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914175610id_/http%3A//barkbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Toys, Gifts, and Gadgets for Dog Lovers | BarkBox
 
 Barkbox knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy for the Barkbox.com web site (the “Site”).
 
-If you have questions or concerns regarding this statement, you should contact us at [support@barkbox.com](mailto:support@barkbox.com).
+If you have questions or concerns regarding this statement, you should contact us at [happy@barkbox.com](mailto:happy@barkbox.com).
 
 This privacy policy covers only information that is collected through the Site and does not cover websites to which we link.
 
@@ -65,7 +65,7 @@ We use this information to notify contest winners and award prizes, to monitor s
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Barkbox does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [support@barkbox.com](mailto:support@barkbox.com) to request that we remove this information from our database.
+Your friend may contact us at [happy@barkbox.com](mailto:happy@barkbox.com) to request that we remove this information from our database.
 
 ## Communication from Us or the Site
 
@@ -89,7 +89,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 ### Customer Service
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may contact customer service at [support@barkbox.com](mailto:support@barkbox.com)[support@barkbox.com](mailto:support@barkbox.com).
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may contact customer service at [happy@barkbox.com](mailto:happy@barkbox.com)[happy@barkbox.com](mailto:happy@barkbox.com).
 
 ### ID and Address Verification
 
@@ -119,7 +119,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@barkbox.com](mailto:support@barkbox.com).
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [happy@barkbox.com](mailto:happy@barkbox.com).
 
 ## Links to Other Sites
 
@@ -131,7 +131,7 @@ This privacy policy applies only to information collected by the Site.
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate] it by making the change on our member information page [or by emailing our Customer Support at [support@barkbox.com](mailto:support@barkbox.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate] it by making the change on our member information page [or by emailing our Customer Support at [happy@barkbox.com](mailto:happy@barkbox.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 ## Security
 
@@ -139,7 +139,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [support@barkbox.com](mailto:support@barkbox.com)
+If you have any questions about security on our Web site, you can email us at [happy@barkbox.com](mailto:happy@barkbox.com)
 
 ## Changes in this Privacy Policy
 
@@ -149,6 +149,6 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [support@barkbox.com](mailto:support@barkbox.com)
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [happy@barkbox.com](mailto:happy@barkbox.com)
 
 Effective Date: November 17th, 2011
