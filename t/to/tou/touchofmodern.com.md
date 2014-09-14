@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210061125id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914134529id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
 
 # TouchOfModern
 
