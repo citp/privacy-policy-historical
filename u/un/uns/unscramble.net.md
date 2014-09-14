@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035304id_/http%3A//unscramble.net/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915010102id_/http%3A//www.unscramble.net/legal-privacy.html) for the most accurate reproduction.*
 
 # Word Unscrambler - Anagram Solver
 
