@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squidoo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630075536id_/http%3A//www.squidoo.com/squidoo/163794143-Squidoo-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squidoo.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915013636id_/http%3A//www.squidoo.com/squidoo/163794143-Squidoo-Privacy-Policy) for the most accurate reproduction.*
 
 # Getting Started With Squidoo (The official overview, FAQ and TOS): Squidoo Privacy Policy
 
