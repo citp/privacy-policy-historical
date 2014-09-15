@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gps-coordinates.net privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517001141id_/http%3A//www.gps-coordinates.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gps-coordinates.net privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915142100id_/http%3A//www.gps-coordinates.net/privacy) for the most accurate reproduction.*
 
 # GPS coordinates, latitude and longitude | Privacy Policy
 
