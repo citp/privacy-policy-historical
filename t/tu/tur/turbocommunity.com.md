@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbocommunity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091456id_/http%3A//delavo.com/choose/%3Fpage_id%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbocommunity.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915154804id_/http%3A//delavo.com/choose/%3Fpage_id%3D101) for the most accurate reproduction.*
 
 # PRIVACY POLICY | DELAVO
 
