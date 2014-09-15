@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053117id_/http%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916010046id_/http%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
 
-# Privacy | FutureDerm - Skin Care - Retinol - Beauty Blog
+# Privacy - FutureDerm
 
 ### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -91,3 +91,10 @@ FutureDerm, Inc.
 Attn.: Privacy Compliance Officer  
 2325 E. Carson St., Ground Floor  
 Pittsburgh, PA 15203 USA
+
+## Related Posts
+
+  * OVERVIEW This website is operated by FutureDerm. Throughout the site, the terms “we”, “us” and “our” refer to FutureDerm. FutureDerm offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here. By visiting our site and/…
+
+
+
