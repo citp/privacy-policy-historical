@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rayawebdesign.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805204056id_/http%3A//www.rayawebdesign.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayawebdesign.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915225854id_/http%3A//rayawebdesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  [ Privacy Policy](http://rayawebdesign.com/privacy-policy.html)
+# Privacy Policy | RayaWebDesign
 
 RayaWebDesign appreciate the privacy and security of information that you share with us through RayaWebDesign.com through action and sign up using our site. By registering and using our site, you automatically grant permission to use and disclose the information necessary. If you do not agree with the terms set out below, you should not use the products or services offered by RayaWebDesign
 
@@ -18,7 +16,7 @@ We do not allow persons who are ages thirteen or younger to become members of th
 
 ### Other Web Sites Links
 
-When you click on a link on this web site that takes you to a web site operated by another company, you will be subjected to that company's web site privacy policies.
+When you click on a link on this web site that takes you to a web site operated by another company, you will be subjected to that company’s web site privacy policies.
 
 ### Contact Information
 
