@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprayable.co privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021610id_/http%3A//sprayable.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprayable.co privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915141334id_/http%3A//sprayable.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sprayable Energy
 
