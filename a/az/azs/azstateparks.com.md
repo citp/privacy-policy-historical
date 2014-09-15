@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153630id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916001643id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
 
 # Arizona State Parks: Privacy Policy
 
