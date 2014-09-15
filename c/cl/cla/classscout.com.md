@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031824id_/http%3A//classscout.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915061721id_/http%3A//classscout.com/privacy.asp) for the most accurate reproduction.*
 
 # ClassScout
 
-### YOUR PRIVACY IS OUR MAJOR CONCERN. 
+#### YOUR PRIVACY IS OUR MAJOR CONCERN. 
 
 The following policy details how we gather information, how that information is shared, and what practices ClassScout.com implements to ensure your information is safe and protected. 
 
 Use of the site indicates agreement with the Privacy Policy. 
 
-### What information does ClassScout.com gather? 
+#### What information does ClassScout.com gather? 
 
 ClassScout.com gathers information in order to bring business-to-business services to consumers, free of charge. ClassScout.com considers business-specific information to include contact names, addresses, phone/fax numbers, e-mail/website addresses, and credit card numbers. Additionally, we create vendor profiles that may contain proprietary information. 
 
-### Use of Information:
+#### Use of Information:
 
 ClassScout.com gathers information in an attempt to introduce business-to-business vendors to consumers in order to satisfy their professional needs. 
 
@@ -84,7 +84,7 @@ Information sharing policy- Aggregate Information (non-personally identifiable):
 
 We share aggregated demographic information about our user base with our customers. This information does not identify individual users. ClassScout.com will refer business related information in leads to interested parties. ClassScout.com never sells or releases company information to other parties unless it is directly related to a sales lead. 
 
-### Agents: 
+#### Agents: 
 
 We use an outside credit card processing company to bill you for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes. 
 
