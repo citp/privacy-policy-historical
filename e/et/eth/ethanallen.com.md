@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044342id_/http%3A//www.ethanallen.com/en_US/footer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915191234id_/http%3A//ethanallen.com/en_US/footer-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
