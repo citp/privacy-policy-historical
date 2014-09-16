@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426125238id_/http%3A//tua.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916024953id_/http%3A//www.tua.edu.au/privacy) for the most accurate reproduction.*
 
 # Torrens University Australia - Privacy
 
