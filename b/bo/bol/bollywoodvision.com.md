@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodvision.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328181118id_/http%3A//www.bollywoodvision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodvision.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916104350id_/http%3A//www.bollywoodvision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Height ,Weight, Diet, Workout of Bollywood Stars
 
