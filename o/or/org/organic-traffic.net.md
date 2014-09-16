@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organic-traffic.net privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223062858id_/http%3A//organic-traffic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organic-traffic.net privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916073510id_/http%3A//organic-traffic.net/privacy.php%3FosCsid%3Db2c360cc88617f1bac6887df629a49cd) for the most accurate reproduction.*
 
 # Privacy Notice - Organic Search Traffic Network
 
