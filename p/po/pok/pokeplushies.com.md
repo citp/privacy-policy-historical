@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the pokeplushies.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527013111id_/http%3A//clickcritters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeplushies.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916115115id_/http%3A//www.pokeplushies.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - [Click Critters]
+# PokePlushies - Privacy Policy
 
-  
 | 
 
-This Privacy Policy governs the manner in which Internoodles Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.clickcritters.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Internoodles Limited.
+This Privacy Policy governs the manner in which Internoodles Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.pokeplushies.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Internoodles Limited.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate information such as their email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -22,8 +21,6 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 **How we use collected information**
 
 Internoodles Limited collects and uses Users personal information for the following purposes:  
-\- To process transactions  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
 \- To administer a content, promotion, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
 \- To send periodic emails  
@@ -60,8 +57,6 @@ New Zealand
 
 feedback@clickcritters.com
 
-This document was last updated on July 23, 2011
-
-_Privacy policy created by Generate Privacy Policy_
+This document was last updated on February 15, 2014
 
 | 
