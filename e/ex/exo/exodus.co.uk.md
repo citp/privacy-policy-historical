@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326001726id_/http%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916055639id_/http%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy & statement of cookies | Exodus
+# Privacy policy & statement of cookies | Exodus: US
 
 DON'T PANIC! Exodus uses cookies to help us recognise and remember you... from auto-loading the booking form to providing a page cache that is relevant to you. Please read our Statement on Cookies
 
