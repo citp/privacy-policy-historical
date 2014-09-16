@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendwithus.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209205049id_/https%3A//www.sendwithus.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendwithus.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916122325id_/https%3A//www.sendwithus.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy · sendwithus
 
@@ -102,7 +102,7 @@ To facilitate Techdrop Labs global operations, the Company may transfer and acce
 
   9. #### Communications Preferences
 
-Techdrop Labs offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [ support@sendwithus.com](https://web.archive.org/web/20140209205049id_/https%3A//www.sendwithus.com/legal/support@sendwithus.com). Customers cannot opt out of receiving transactional emails related to their account with Techdrop Labs or the Services. 
+Techdrop Labs offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [ support@sendwithus.com](https://web.archive.org/web/20140916122325id_/https%3A//www.sendwithus.com/legal/support@sendwithus.com). Customers cannot opt out of receiving transactional emails related to their account with Techdrop Labs or the Services. 
 
   10. #### Correcting and Updating Your Information
 
