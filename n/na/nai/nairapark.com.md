@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065332id_/http%3A//nairapark.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916111134id_/http%3A//www.nairapark.com/privacy.php) for the most accurate reproduction.*
 
-# Terms and Conditions :: NairaPark.com
+# Privacy Policy :: NairaPark.com
 
 The website www.nairapark.com and its sub-sites which are mobile.nairapark.com, forum.nairapark.com and r.nairapark.com shall henceforth be called "Nairapark.com". By accessing or using Nairapark.com, you agree to have read and understood the Privacy Policy as stipulated below: 
 
