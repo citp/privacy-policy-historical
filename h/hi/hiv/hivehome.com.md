@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214075910id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916153325id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
 
 # Hive Active Heating | HIVE
 
