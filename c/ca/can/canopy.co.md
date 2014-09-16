@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canopy.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071758id_/http%3A//canopy.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canopy.co privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916150433id_/http%3A//canopy.co/privacy) for the most accurate reproduction.*
 
 # Privacy - Canopy
 
@@ -43,7 +43,7 @@ Our Site contains links to Amazon. If you choose to purchase a product by "click
 
 #### Membership
 
-When you register as a member of Canopy, you are agreeing to receive emails and in-system notices for announcements, newsletters, recommendations and policy updates. If you would like to opt out of our emails, please contact the privacy officer at [privacy@canopy.co](https://web.archive.org/web/20140625071758id_/http%3A//canopy.co/privacy@canopy.co), or follow up unsubscribe link on those emails. 
+When you register as a member of Canopy, you are agreeing to receive emails and in-system notices for announcements, newsletters, recommendations and policy updates. If you would like to opt out of our emails, please contact the privacy officer at [privacy@canopy.co](https://web.archive.org/web/20140916150433id_/http%3A//canopy.co/privacy@canopy.co), or follow up unsubscribe link on those emails. 
 
 Canopy reserves the right to delete your account without notice, for legitimate business reasons. In the unlikely even that this occurs, we will provide an email notification with further details. 
 
@@ -53,7 +53,7 @@ If you would like your public profile and membership with Canopy terminated, log
 
 #### The Public and the Community
 
-Non members (the “Public”) and members of Canopy will be able to view your public profile, including: your first name, surname, Canopy username, personal website, users you follow, followers, recommended items, and number of items recommended. 
+Non members (the “Public”) and members of Canopy will be able to view your public profile, including: your first name, surname, Canopy username, personal website, users you follow, followers, liked items, and number of items liked. 
 
 If you have any questions about this Policy or any of the context described, please contact us at: 
 
