@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the similar5.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623214020id_/http%3A//www.similar5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similar5.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917235406id_/http%3A//www.similar5.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,3 +39,7 @@ Occasionally, at our discretion, we may include or offer third party products/se
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 1/05/2014
+
+### Link To Similar5.com
+
+Copy & paste code to your website:
