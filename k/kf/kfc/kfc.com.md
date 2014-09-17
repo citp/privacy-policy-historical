@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529135042id_/http%3A//www.kfc.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917104422id_/http%3A//www.kfc.com/about/privacy.asp) for the most accurate reproduction.*
 
 # KFC.com Privacy information | KFC.com
 
-Effective Date: November 17, 2012
+Effective Date: June 9, 2014
 
 * * *
 
@@ -27,8 +27,8 @@ This Policy describes how we treat personal information both online and offline.
 ## We collect information in different ways.
 
   * **We collect information directly from you.** For example, if you register for a promotion or apply for a job. We also collect information if you post a comment or make a request.
-  * **We collect information from you passively.** We use tracking tools like browser cookies, flash cookies and web beacons. To control these tools, click here.
-  * **We get information about you from third parties.** For example, if you use one of the integrated Facebook features on our websites, Facebook will give us certain information about you.
+  * **We collect information from you passively.** We use tracking tools like browser cookies, and web beacons. To learn more about these tools and how you can control them, [click here](http://www.aboutads.info/choices/).
+  * **We get information about you from third parties.** For example, if you use one of the integrated Facebook features on our websites, Facebook will give us certain information about you. Our business partners may give us information about you.
 
 
 
@@ -37,7 +37,7 @@ This Policy describes how we treat personal information both online and offline.
 ## We use information as disclosed and described here.
 
   * **We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for a program or contest, or fulfill prizes or premiums in a promotion. We may use your friend’s email address if you send them features on our site.
-  * **We use information to improve our products and services.** We might use your information to customize your experience with us.
+  * **We use information to improve our products and services.** We might use your information to customize your experience with us. We may use your information to make our website and products better.
   * **We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
   * **We use information for security purposes.** We may use information to protect our company, our customers, or our websites. For example, in the event of a breach, we may use your contact information to contact you about that incident.
   * **We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. To learn about your choices for these communications, read the choices section below.
@@ -64,7 +64,8 @@ This Policy describes how we treat personal information both online and offline.
 ## You have certain choices about how we use your information.
 
   * **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, send a request to [webmaster@kfc.com](mailto:webmaster@kfc.com?subject=KFC%20Site%20Contact) or follow the instructions in any promotional message you get from us. It may take about ten (10) days to process your request. Don’t worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
-  * **You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click here.
+  * **You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](http://www.aboutads.info/choices/).
+  * **You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, [click here](https://web.archive.org/web/20140917104422id_/http%3A//www.kfc.com/about/tracking.asp). 
 
 
 
@@ -75,6 +76,24 @@ This Policy describes how we treat personal information both online and offline.
 Our sites are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email us here](mailto:webmaster@kfc.com?subject=KFC%20Site%20Contact). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
 
 Parents, you can also learn more about how to [protect children's privacy online here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+
+* * *
+
+## Your California privacy rights.
+
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+
+* * *
+
+## We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+* * *
+
+## We store information both in and outside of the United States.
+
+Information we maintain may be stored both within and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States.
 
 * * *
 
@@ -96,39 +115,3 @@ Attention: Webmaster
 ## What we will do if there is an update to this policy.
 
 From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
-
-[Ad Choices](http://www.aboutads.info/choices/)
-
-* * *
-
-## We use common tracking technologies.
-
-We and our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
-
-  * To track new and recognize past customers.
-  * To store your password if you are registered on our sites.
-  * To improve our website.
-  * To provide you with advertising content in which we think you will be interested. To do so, we may observe your behaviors on this website and other websites. We may also collect information about your browsing history.
-  * To better understand the interests of our customers and our website visitors.
-
-
-
-* * *
-
-## You can control tracking tools.
-
-Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go here. Why? Because flash cookies cannot be controlled through your browser settings.
-
-If you block cookies on your browser, certain features on our sites may not work.
-
-* * *
-
-## Some ads may be served based on tracking.
-
-We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites. This may also include our ads served on other companies’ sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "online behavioral advertising."
-
-* * *
-
-## You can opt-out of online behavioral advertising.
-
-To opt out of online behavioral advertising, [click here](http://www.aboutads.info/choices).
