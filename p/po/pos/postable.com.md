@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100514id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917163119id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
 
-# Snail Mail Made Easy | Postable
+# Really nice cards, mailed for you. | Postable
 
 Postable is committed to protecting your privacy. This Privacy Policy describes the information we collect through our Site, how we use it, and how you can make choices about use of that information. By using our Site you agree to this Privacy Policy. 
 
