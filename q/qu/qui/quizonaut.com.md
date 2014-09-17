@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the quizonaut.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415185549id_/http%3A//uk.quizonaut.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizonaut.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917233701id_/http%3A//uk.quizonaut.com/terms.asp) for the most accurate reproduction.*
 
-# Was it Ian Fleming who wrote the books about James Bond? - Quizonaut
+# Does the law of Archimedes apply to squares? - Quizonaut
 
 ## Competition Terms
 
-All UK residents can participate in Quizonaut. However, it is not legal for employees at Random ApS or associated companies to participate.
+All UK residents can participate in Quizonaut. However, it is not legal for employees at Pulz Solutions JLT Ltd.or associated companies to participate.
 
-There are daily prizes worth a total of £320 up for grabs, every day 100 winners are drawn. Winners will be drawn automatically and they will be contacted directly by Random ApS. Winners will receive an email in which they must enter their delivery information, enabling us to send the prize.
+There are daily prizes worth a total of £320 up for grabs, every day 100 winners are drawn. Winners will be drawn automatically and they will be contacted directly by Quizonaut. Winners will receive an email in which they must enter their delivery information, enabling us to send the prize.
 
 We also offer a Premium Membership - for more information on this [click here](https://web.archive.org/campaigns/premium.asp).
 
