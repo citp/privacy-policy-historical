@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espow.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409080256id_/http%3A//www.espow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espow.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917225431id_/http%3A//www.espow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
