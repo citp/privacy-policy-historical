@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mrsfields.com privacy policy that was archived on 2014-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140518231123id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrsfields.com privacy policy that was archived on 2014-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140917092318id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Mrs. Fields Privacy Policy</title>
@@ -10,13 +10,15 @@
 	<meta name="robots" content="noodp">
 
 		
-	<link href="/css/global.css?d=1393458647" media="all" rel="stylesheet" type="text/css">
+	<link href="/css/global.css?d=1403654835" media="all" rel="stylesheet" type="text/css">
 	<link href="/scripts/jquery-plugins/superfish/superfish.css" media="all" rel="stylesheet" type="text/css">
 	<link href="/css/pages/privacy.css?d=1352949408" media="all" rel="stylesheet" type="text/css">
+	<link href="/scripts/fancybox/2.1.0/jquery.fancybox.css" media="all" rel="stylesheet" type="text/css">
 	
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script type="text/javascript" src="/scripts/global.js"></script>
 	<script type="text/javascript" src="/scripts/jquery-plugins/superfish/superfish.js"></script>
+	<script type="text/javascript" src="/scripts/fancybox/2.1.0/jquery.fancybox.js"></script>
 	<script type="text/javascript">
 	    //<!--
 		var disable_form_auto_complete = true;
@@ -29,7 +31,7 @@
 
 	<meta name="verify-v1" content="bA1xSZqRO13hOyHNad5dTlB3nQuXHg0Iq7dwL3bsBAc=">
 	<meta name="y_key" content="d3b1a59af3dc14f4">
-	<!-- Order ID: 1400454672.229327 -->
+	<!-- Order ID: 1410945779.143086 -->
 
 	<meta name="google-site-verification" content="OXtCbb4IX3cMOs_1Le23961cWinUeEjOJvb8FMrzM60">
 	<meta name="google-site-verification" content="Fhwe9l9QC_K3V9X0a6rstSZNAVx10ts_XGLmJonrWWQ">
@@ -46,13 +48,15 @@
 		_gaq.push(['_setDomainName', 'mrsfields.com']);
 
 		
+		
+		
+		
+		_gaq.push(['_setCustomVar', 1, 'AB Test', 'a', 3 ]);
+		
+
+		_gaq.push(['_setCustomVar', 5, 'Testing', '2', 3 ]);
 
 		_gaq.push(['_trackPageview']);
-		
-		
-		
-		_gaq.push(['_setCustomVar', 1, 'AB Test', 'b', 2 ]);
-		
 
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -151,7 +155,7 @@
 								<ul>
 									
 									<li>
-										<a href="/categories/Spring_Collection?p=occasion">Spring Collection </a>
+										<a href="/categories/Summer_Collection?p=occasion">Summer Collection</a>
 
 																			</li>
 									
@@ -245,17 +249,22 @@
 																			</li>
 									
 									<li>
+										<a href="/categories/Sunshine_Collection?p=product">Sunshine Collection</a>
+
+																			</li>
+									
+									<li>
 										<a href="/categories/brownies?p=product">Brownies</a>
 
 																			</li>
 									
 									<li>
-										<a href="/categories/Mrs-Fields-Bakeware?p=product">Mrs. Fields® Bakeware</a>
+										<a href="/categories/mrsfields-chocolates?p=product">Mrs. Fields® Chocolates </a>
 
 																			</li>
 									
 									<li>
-										<a href="/categories/mrsfields-chocolates?p=product">Mrs. Fields® Chocolates </a>
+										<a href="/categories/Mrs-Fields-Bakeware?p=product">Mrs. Fields® Bakeware</a>
 
 																			</li>
 									
@@ -380,11 +389,19 @@
 			<script type="text/javascript">
 				function receiveOffers() {
 
-					if( $('#cookieclub_quick_signup_add_field').val() == '' ) { return; }
-					document.location = '/receive-offers/?e=' + encodeURIComponent( $('#cookieclub_quick_signup_add_field').val() );
+					var url = $('#cookieclub-captcha').attr( 'base-href' );
+					url += "?email=" + encodeURIComponent( $('#cookieclub_quick_signup_add_field').val() );
+					$('#cookieclub-captcha').attr( 'href', url );
+
+					$('#cookieclub-captcha').click();
 					return false;
 				}
+				
 			</script>
+
+			<div class="modal-windows">
+				<a base-href="/receive-offers/signup-captcha/" href="/receive-offers/signup-captcha/" class="modal-iframe" rel="400x200" id="cookieclub-captcha"></a>
+			</div>
 
             <!-- No email mention in form to keep from highlighting as email address -->
             <div id="signup-stuff">
@@ -404,7 +421,7 @@
 		 
 			<li class="home-left-nav">
 				<div class="b">
-					<a href="/categories/Spring_Collection">Spring Collection</a><br>
+					<a href="/categories/Summer_Collection">Summer Collection</a><br>
 				</div>
 			</li>
 		 
@@ -440,7 +457,7 @@
 		 
 			<li class="home-left-nav">
 				<div class="b">
-					<a href="/categories/Gifts_Mrs_Fields_Brownie_Gifts_Cookies">Any Occasion</a><br>
+					<a href="/categories/Gifts_Mrs_Fields_Brownie_Cookies">Any Occasion</a><br>
 				</div>
 			</li>
 		 
@@ -460,29 +477,41 @@
                 <a class="twitter" href="https://twitter.com/mrsfields" title="Follow us on Twitter" style="width: 25px;"></a>
             </li>
             <li>
-                <a class="blogger" href="http://www.mrsfieldssecrets.com/blogs/" title="Follow us on Blogger" style="width: 25px;"></a>
+                <a class="blogger" href="http://www.mrsfields.com/blogs/" target="blank" title="Follow our Blog" style="width: 25px;"></a>
             </li>
             <li>
                 <a class="pinterest" href="http://pinterest.com/source/mrsfields.com/" title="Follow us on Pinterest" style="width: 25px;"></a>
             </li>
-	    
         </ul>
 		<div class="clear"></div>
     </div>
 	<div class="clear"></div>
-	<div id="mcafee-secure">
-	<!-- START SCANALERT CODE -->
-	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.mrsfields.com"><img id="hackersafe_logo_img" width="65" height="37" border="0" src="//images.scanalert.com/meter/www.mrsfields.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
-	<!-- END SCANALERT CODE --> 
-</div>
-<script language="javascript" type="text/javascript">
-	$(document).ready(function() {
-		var img = document.getElementById( 'hackersafe_logo_img' );
-		if( img.width == 1 && img.height == 1 ) {
-			document.getElementById( 'hackersafe_logo_cnt' ).style.display = "none";
-		}
-	});
+	
+<script type="text/javascript">
+	(function() {
+
+	/*
+	//  This code is not needed.
+	//  This will put a floating trust mark on the site.
+	var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+	sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
+
+	var PDOPTS = PDOPTS || [];
+	PDOPTS['disablefloat'] = 1;
+	PDOPTS['disablefloathover'] = 1;
+	*/
+
+	})();
 </script>
+
+<div id="mcafee-secure">
+
+	<!-- McAfee Secure Trustmark for www.mrsfields.com -->
+	<a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.mrsfields.com"><img class="mfes-trustmark" border="0" src="//cdn.ywxi.net/meter/www.mrsfields.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+	<!-- End McAfee Secure Trustmark -->
+
+</div>
 </div>
 						<div class="clear"></div>
 					</div>
@@ -606,7 +635,7 @@
 	
 	
 		
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?shver=3.4.0&amp;shaid=9217&amp;shpn=&amp;shpc=&amp;shpb=Mrs. Fields&amp;shpp=&amp;shpcur=USD&amp;shpi=&amp;shps=&amp;shpic=&amp;shpau=&amp;shcv=0.00&amp;shcq=0&amp;shcp=&amp;shcpq=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140518231123id_%2Fhttp%3A%2F%2Fwww.mrsfields.com%2Fprivacy%2F&amp;cb=51742285233799690"></script><script type="text/javascript">
+<script type="text/javascript" src="https://px.steelhousemedia.com/st?shver=3.4.0&amp;shaid=9217&amp;shpn=&amp;shpc=&amp;shpb=Mrs. Fields&amp;shpp=&amp;shpcur=USD&amp;shpi=&amp;shps=&amp;shpic=&amp;shpau=&amp;shcv=0.00&amp;shcq=0&amp;shcp=&amp;shcpq=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140917092318id_%2Fhttp%3A%2F%2Fwww.mrsfields.com%2Fprivacy%2F&amp;cb=60961330821873870"></script><script type="text/javascript">
 	function shaddslashes(e){"use strict";if(e!=undefined){e=e.replace(/%/g,"%25%32%35");e=e.replace(/\\/g,"%5C");e=e.replace(/\'/g,"%27");e=e.replace(/\"/g,"%22");e=e.replace(/\?/g,"%25%33%46");e=e.replace(/&/g,"%25%32%36");e=e.replace(/\+/g,"%25%32%42")}return e}(function(){"use strict";var e=null,t="3.4.0",
 	n="9217",
 	r=shaddslashes(""),// product title
@@ -627,7 +656,26 @@
 </script>
 				
 <img src="//ads.bluelithium.com/pixel?id=2443249&amp;t=2" width="1" height="1">
-	
+		
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+</script>
+
+
+
+
+
+
 
 
 </body></html>
