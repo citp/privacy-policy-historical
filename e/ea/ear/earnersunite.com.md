@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101349id_/http%3A//earnerslist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnersunite.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917110326id_/http%3A//earnerslist.com/privacy.php) for the most accurate reproduction.*
 
 # Earners List
 
-[](http://earnerslist.com/banclick.php?code=4d0b954f0bef437c29dfa73fafdf3fa5)  
+[](http://earnerslist.com/banclick.php?code=f5c135d79452867c4316ae8010004ee5)  
 
 
 Earners List Privacy Policy
