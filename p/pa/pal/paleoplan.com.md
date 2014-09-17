@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paleoplan.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209071357id_/http%3A//www.paleoplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleoplan.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917091859id_/http%3A//www.paleoplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Paleo Plan
+# Privacy Policy - Paleo Plan
 
 ## Privacy Policy
 
