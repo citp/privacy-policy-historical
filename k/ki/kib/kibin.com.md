@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the kibin.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102123328id_/https%3A//kibin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kibin.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917194022id_/https%3A//www.kibin.com/privacy) for the most accurate reproduction.*
 
-# Proofreading Services & Editing Services by Professionals | Kibin - Privacy Policy
+# Privacy Policy | Kibin
 
 Kibin (the "Company") wants you to understand how we collect, protect, and use your personally identifiable information ("your information") and the choices you have about how your information is used. This policy covers the information handling practices of the Company; however, certain departments and/or products within the Company may have more restrictive information handling practices.
+
+  
+
 
 ### Online information
 
@@ -19,6 +22,12 @@ If you supply us with your e-mail address, we may let you know by e-mail about o
 Company Sites don't knowingly collect, maintain, or use information from children under age 13 unless first complying with the Children's Online Privacy Protection Act. If we find out we have unknowingly collected such information we will take all reasonable measures to delete that information from our system as soon as possible. We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose Web sites may contain links to ours, including vendors where you may shop.
 
 Please note that when you shop with a vendor who is linked to a Company Site, even though you may have started your visit with us, and even though our pages may still appear, your transactions are completed with a separate organization, not with us. We don't share your information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from us, but we cannot guarantee your satisfaction with these organizations.
+
+### Content Sharing
+
+You are always able to opt-out of Kibin’s content sharing policy. Kibin reserves the right to utilize content uploaded to the Company Site for promotional, educational, or other business needs. Content will never be shared in these manners prior to 90 days after being uploaded.
+
+Kibin will never use or share the following types of content: business documents or materials, press releases, personally identifiable content, copyrighted content or books, novels, short stories, and poems.
 
 ### Information we collect and why
 
@@ -54,6 +63,7 @@ To the extent required or permitted by law, we may share your information with s
   3. To comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, or in the course of a legal proceeding.
   4. To respond to your opt-in request or other disclosure request.
 
+  
 
 
 ### Joint accounts
@@ -62,10 +72,7 @@ Joint account holders may make privacy choices for each other.
 
 ### Information about this policy
 
-  
-
-
-  1. This policy is effective February 22, 2011.
+  1. This policy is effective May 26, 2014.
   2. This policy applies to current and former customers.
   3. This policy is available at our Web site.
   4. This policy does not apply if we are providing services for another entity. In such circumstances, that entity's privacy policy will apply to the use of your information.
@@ -84,10 +91,10 @@ You are encouraged to take steps to protect your privacy by keeping passwords an
   4. Contact the major national credit reporting agencies:
 
 
-  1. Experian 888.397.3742
-  2. Equifax 800.525.6285
-  3. Trans Union 800.680.7289
-  4. Innovis 800.540.2505
+  * Experian 888.397.3742
+  * Equifax 800.525.6285
+  * Trans Union 800.680.7289
+  * Innovis 800.540.2505
 
   
 
