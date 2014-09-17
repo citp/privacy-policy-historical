@@ -1,140 +1,20 @@
-<!--The following is the downloaded HTML source of the traegergrills.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331001100id_/http%3A//www.traegergrills.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traegergrills.com privacy policy that was archived on 2014-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140917225834id_/http%3A//www.traegergrills.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html xmlns:ng="http://angularjs.org" id="ng-app" ng-app="app" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+    <!--[if gte IE 8]><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><![endif]-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Privacy Policy</title>
     <meta name="description" content="Traeger Pellet Grills Privacy Policy.">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://tr-1.agilone.com/tr-as.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>    
-    <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
-    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
-    <script src="/Scripts/watermark.jquery.js"></script>
-    <script src="/scripts/site.jquery.js"></script>
+    <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="/Content/css/site.base.min.css" rel="stylesheet">
+    <link href="/Content/css/static.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="/Content/LESS/css/site.base.min.css">
-    <link rel="stylesheet" href="/Content/LESS/css/static.min.css">
-
-    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-    <script>
-        $(function () {
-            MegaNav();
-            GlobalSettings();
-
-            $('.quick-remove-item .btn-quick-remove').off('click').on('click', function (selectedSku, currentUrl) {
-                selectedSku = $(this).parent().find('.hidden-sku').val();
-                currentUrl = window.location.pathname;
-                var rowId = '#' + $(this).parent().parent().parent().attr('id');
-                $(rowId).fadeOut(250);
-
-                $.ajax({
-                    url: '/Cart/QuickCartRemoveItem',
-                    type: 'POST',
-                    data: {
-                        sku: selectedSku,
-                        url: currentUrl
-                    },
-                    cache: false,
-                    success: function (html) {
-                    },
-                    error: function () {
-                    },
-                    complete: function (html) {
-                        var rawHtml = html.responseText;
-                        var $response = $(rawHtml);
-
-                        $('#quick-cart-form').html($response.find('#quick-cart-form').html());
-                    }
-                });
-
-                return false;
-            });
-
-            var QuickCart = function () {
-                $('#quick-cart-form').off('mouseenter mouseleave').on('mouseenter', function () {
-                    $('#quick-cart').fadeIn(250);
-
-                    $('#quick-cart-body table tr').off('mouseenter mouseleave').on('mouseenter', function () {
-                        $('.quick-remove-item .btn-quick-remove', this).show();
-                    }).on('mouseleave', function () {
-                        $('.quick-remove-item .btn-quick-remove', this).hide();
-                    });
-
-                }).on('mouseleave', function () {
-                    $('#quick-cart').stop().fadeOut(250);
-                });
-            };
-            QuickCart();
-
-            $('#redirectUrl').val(window.location.href);
-
-
-            $('.newsletter-signup-form .newsletter-email-button').off('click').on('click', function (newsletterEmail, redirectUrl) {
-                $('label.error').remove();
-                $('.error').removeClass('error');
-
-                $('.newsletter-signup-modal').validate({
-                    rules: {
-                        Email: {
-                            required: true,
-                            email: true
-                        }
-                    },
-                    messages: {
-                        Email: {
-                            required: 'Please enter your email',
-                            email: 'Please enter a valid email, name@domain.com'
-                        }
-                    }
-                });
-
-                if ($('.newsletter-signup-form').valid()) {
-                    newsletterEmail = $('.newsletter-signup-form .newsletter-email').val();
-                    redirectUrl = $('#redirectUrl').val();
-
-                    $.ajax({
-                        url: '/Shared/NewsletterForm',
-                        type: 'POST',
-                        data: {
-                            Email: newsletterEmail,
-                            redirectUrl: redirectUrl
-                        },
-                        cache: false,
-                        success: function (html) {
-                            //NewsletterSuccess();
-                        },
-                        error: function (html) {
-                            //NewsletterError()
-                        },
-                        complete: function () {
-                            //setTimeout(NewsletterClose(), 4000);
-                        }
-                    });
-                } else {
-                    $('.error').each(function () {
-                        $('.error').parent().addClass('error');
-                    });
-                }
-
-                return false;
-            });
-        });
-
-        //(function () {
-        //    var cx = '006084002330175501657:uuw9zvwubsi';
-        //    var gcse = document.createElement('script');
-        //    gcse.type = 'text/javascript';
-        //    gcse.async = true;
-        //    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        //        '//www.google.com/cse/cse.js?cx=' + cx;
-        //    var s = document.getElementsByTagName('script')[0];
-        //    s.parentNode.insertBefore(gcse, s);
-        //})();
-    </script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://tr-1.agilone.com/tr-as.js"></script><script src="/Scripts/jquery-1.11.1.min.js"></script>
 
     <meta name="google-site-verification" content="VlW-T4EM2n8Y0H9BvB64wr6Fd7A4_xDb07GzRpJYMjg">
     <meta name="google-site-verification" content="szPg3G0Gdkh_iaKtRlJI8tTf2cg_4UoSr7gWrc_CKKs">
@@ -143,7 +23,7 @@
     <script type="text/javascript">
         var _a1as = _a1as || [];
         _a1as.push(["init", "72515"]);
-        
+
         
 
         _a1as.push(["track"]);
@@ -168,11 +48,35 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+
     
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-49854380-1', 'traegergrills.com');
+        ga('send', 'pageview');
+    </script>
+
     <script src="/Scripts/testandtarget/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=39602827"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="Mozilla Mozilla 0.0">
-    <div id="site-body" class="span16 center overflow relative">
+    
+
+<div class="alert global" style="display: none;">
+
+    <div class="flash"></div>
+    <p class="message fl widht80">&nbsp;</p>
+
+    <button class="close fr">
+        <i class="icon-remove"></i>
+    </button>
+</div>
+    <div id="site-body" class="span16 center relative">
         <header id="site-header" class="mr20 ml20">
             <h1 class="fl">
                 <a href="/">
@@ -215,7 +119,7 @@
 
             <div id="site-nav-container">
                 <nav id="site-nav">
-                    <ul class="inline-list span10 center overflow">
+                    <ul class="inline-list span11 center overflow">
                         <li class="mega"><a href="/shop" class="shop-traeger-link">Shop Traeger</a><i class="icon-sort-down" style="display: none;"></i></li>
                         <li class="mega"><a href="/why" class="why-traeger-link">Why Traeger</a><i class="icon-sort-down" style="display: none;"></i></li>
                         <li class="mega"><a href="/recipes" class="recipes-link">Recipes</a><i class="icon-sort-down" style="display: none;"></i></li>
@@ -236,7 +140,7 @@
                 <span>$0.00</span>
             </span>
         </a>
-        <div id="quick-cart" style="display: none;">
+        <div id="quick-cart" class="quick-cart" style="display: none;">
             <h2 id="quick-cart-header">Quick cart</h2>
 
                 <div id="quick-cart-body">
@@ -263,7 +167,7 @@
                         
 
 <script src="/Scripts/truncate.jquery.js"></script>
-<script>
+<script type="text/javascript">
     $(function () {
         $('#mega-nav-content-container .truncate').truncate({
             readMoreText: ' ...Read More',
@@ -281,16 +185,14 @@
             <p class="truncate">
                 Traeger Grills are built to give you the ultimate all-in-one outdoor cooking experience. 
                 Use it as a grill, BBQ, smoker, or a wood-fired convection oven. Steak, brisket, prime rib,
-                hamburgers, pork loin, veggie kabobs, pizza, even cookies and biscuits are so simple! With
-                Traeger, your imagination is your only limitation.
-            </p>
+                hamburgers, pork loin, veggie kabobs, pizza, even cookies and biscuit ...Read More</p>
             <a href="/shop/grills" class="btn btn-action btn-small">Shop Grills</a>
         </div>
     </div>
     <div class="mega-nav-categories span8 fr">
         
 
-<form id="shop-categories-partial-form" action="/SharedController/_ShopCategoriesPartial" method="get">    <ul class="inline-list">
+<form id="shop-categories-partial-form" action="/SharedController/_ShopCategoriesPartial" method="get" class="ng-pristine ng-valid">    <ul class="inline-list">
         <li>
             <a href="/shop/grills">
                 <i class="traeger-icon-grills"></i>
@@ -370,7 +272,7 @@
                         
 
 <script src="/Scripts/truncate.jquery.js"></script>
-<script>
+<script type="text/javascript">
     $(function () {
         $('#mega-nav-content-container .truncate').truncate({
             readMoreText: ' ...Read More',
@@ -423,6 +325,12 @@
                     How It Works
                 </a>
             </li>
+            <li>
+                <a href="/refer-a-friend">
+                    <i class="icon-group"></i>
+                    Refer a friend
+                </a>
+            </li>
         </ul>
     </div>
 </div>
@@ -430,7 +338,7 @@
                         
 
 <script src="/Scripts/truncate.jquery.js"></script>
-<script>
+<script type="text/javascript">
     $(function () {
         $('#mega-nav-content-container .truncate').truncate({
             readMoreText: ' ...Read More',
@@ -445,19 +353,21 @@
     <div class="mega-nav-details span7 fl mr10 overflow">
 
         
-            <a href="/recipes/detail/291">
-                <img src="/Content/images/recipes/small/sausage-cheese-stuffed-pork-chops.jpg" width="140" class="mr20 fl">
+            <a href="/recipes/detail/327">
+                <img src="/Content/images/recipes/small/sooner.jpg" width="140" class="mr20 fl">
             </a>
             <div class="fl width70">
                 <h3>Recipe of the week</h3>
                 <h4>
-                    <a href="/recipes/detail/291">
-                        Sausage and Cheese Stuffed Pork Chops
+                    <a href="/recipes/detail/327">
+                        Spicy Sausage Fatty
                     </a>
                 </h4>
                 <p class="truncate">
-                    A savory stuffing of Italian sausage, breadcrumbs, and Parmesan cheese turns thick pork loin chops into special occasion fare. Your butcher may be willing to cut the pockets into the sides of the pork chops for you, eliminating one step. Serve with a green vegetable.
-                </p>
+                    If you have never made a "Fatty" on your Traeger, your life is not really complete. Imagine two different kinds of sausage, jalapeno cream cheese, and roasted red peppers all rolled up and topped with a bacon weave. 
+&lt;br/&gt;
+&lt;br/&gt;
+This my friends is the stuff dreams are made of, a ...Read More</p>
                 <a href="#NewsletterModal" class="btn-rotw" data-toggle="modal">Sign up for our recipe of the week <i class="icon-angle-right icon-box"></i></a>
             </div>
 
@@ -466,7 +376,7 @@
         <ul class="inline-list">
         
 
-<form id="recipe-categories-partial-form" action="/SharedController/_RecipeCategoriesPartial" method="get">    <ul class="inline-list">
+<form id="recipe-categories-partial-form" action="/SharedController/_RecipeCategoriesPartial" method="get" class="ng-pristine ng-valid">    <ul class="inline-list">
         <li class="list-item-beef">
             <a href="/recipes/beef">
                 <i class="traeger-icon-beef"></i>
@@ -523,7 +433,7 @@
                         
 
 <script src="/Scripts/truncate.jquery.js"></script>
-<script>
+<script type="text/javascript">
     $(function () {
         $('#mega-nav-content-container .truncate').truncate({
             readMoreText: ' ...Read More',
@@ -581,7 +491,17 @@
                     Track Order
                 </a>
             </li>
+                    <li>
+                        <a href="http://www.traegerrewards.com/" target="_blank">
+                            <i class="traeger-icon-deals"></i>
+                            Rebates
+                        </a>
+                    </li>
+
         </ul>
+
+
+
     </div>
 </div>
 
@@ -591,26 +511,13 @@
 
             
 
-<script>
+<script type="text/javascript">
     $(function () {
         $('.newsletter-signup-modal .newsletter-email-button').off('click').on('click', function (newsletterEmail) {
             $('label.error').remove();
-            $('.error').removeClass('error');
+            $('input.error, select.error, textarea.error').removeClass('error');
 
-            $('.newsletter-signup-modal').validate({
-                rules: {
-                    Email: {
-                        required: true,
-                        email: true
-                    }
-                },
-                messages: {
-                    Email: {
-                        required: 'Please enter your email',
-                        email: 'Please enter a valid email, name@domain.com'
-                    }
-                }
-            });
+            $('.newsletter-signup-modal').validate();
 
             if ($('.newsletter-signup-modal').valid()) {
                 newsletterEmail = $('.newsletter-signup-modal .newsletter-email').val();
@@ -656,7 +563,7 @@
     });
 </script>
 
-<form action="/Shared/_NewsletterPartial" class="newsletter-signup-modal validate" method="post">    <section id="NewsletterModal" class="modal fade hide newsletter" tabindex="-1" aria-labelledby="NewsletterModalLabel">
+<form action="/Shared/_NewsletterPartial" class="newsletter-signup-modal validate ng-pristine ng-valid" method="post">    <section id="NewsletterModal" class="modal fade hide newsletter" tabindex="-1" aria-labelledby="NewsletterModalLabel">
         <div class="modal-body">
             <button type="button" class="close btn btn-close" data-dismiss="modal" aria-hidden="true">
                 <i class="icon-remove"></i>
@@ -670,7 +577,7 @@
             </p>
             <div class="newsletter-fields">
                 <div class="newsletter-signup">
-                    <input type="email" class="newsletter-email required" placeholder="email address" name="Email">
+                    <input type="email" class="newsletter-email" placeholder="email address" name="Email" required="">
                     <button type="submit" class="btn btn-action newsletter-email-button">
                         sign up
                         <span class="arrow-right fr"></span>
@@ -690,8 +597,8 @@
 
         <div id="content-body" class="mr20 ml20">
             
-<div id="page-content" class="details-page">
-<h1>Privacy Policy</h1>
+<div id="page-content" class="details-page clearfix">
+    <h1>Privacy Policy</h1>
     <h4>What information do we collect?</h4>
     <p>
         We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
@@ -706,20 +613,22 @@
     <ul>
         <li>To personalize your experience<br>
             (your information helps us to better respond to your individual needs)</li>
-    
+
         <li>To improve our website<br>
-        (we continually strive to improve our website offerings based on the information and feedback we receive from you)</li>
-   
+            (we continually strive to improve our website offerings based on the information and feedback we receive from you)</li>
+
         <li>To improve customer service<br>
-        (your information helps us to more effectively respond to your customer service requests and support needs)</li>
-  
+            (your information helps us to more effectively respond to your customer service requests and support needs)</li>
+
         <li>To process transactions<br>
-        <blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</blockquote></li>
-    
-    <li>To administer a contest, promotion, survey or other site feature</li>
-   
+            <blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</blockquote>
+        </li>
+
+        <li>To administer a contest, promotion, survey or other site feature</li>
+
         <li>To send periodic emails<br>
-        <blockquote>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</blockquote></li>
+            <blockquote>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</blockquote>
+        </li>
     </ul>
     <br>
     <h4>How do we protect your information?</h4>
@@ -787,17 +696,12 @@
 
         
 
-<script src="/Scripts/opensource/jquery.maskedinput.min.js"></script>
-
-<script>
+<script type="text/javascript">
     $(function () {
-        var isValid = '';
-
-        $('#Phone').mask('(999) 999-9999');
+        $('#contest-modal #Phone').mask('(999) 999-9999');
 
         $('#contest-banner').click(function () {
             $('#contest-modal').modal();
-            $('.alert').hide();
         });
 
         $('.read-contest-rules').off('click').on('click', function () {
@@ -806,70 +710,38 @@
 
         $('#contest-rules-confirmation').change(function () {
             if ($(this).is(':checked')) {
-                $('#ezpay-btn').removeClass('disabled');
+                $('#contest-btn').removeClass('disabled');
             } else {
-                $('#ezpay-btn').addClass('disabled');
+                $('#contest-btn').addClass('disabled');
             }
         });
 
         $('#contest-rules-confirmation').change(function () {
             if ($(this).is(':checked')) {
-                $('#ezpay-btn').removeClass('disabled');
+                $('#contest-btn').removeClass('disabled');
             } else {
-                $('#ezpay-btn').addClass('disabled');
+                $('#contest-btn').addClass('disabled');
             }
         });
 
-        $('#ezpay-btn').off('click').on('click', function () {
+        $('#contest-btn').off('click').on('click', function () {
             $('label.error').remove();
-            $('.error').removeClass('error');
+            $('input.error, select.error, textarea.error').removeClass('error');
 
             if ($('#contest-rules-confirmation').is(':checked')) {
-                $('.500Contest').validate({
-                    rules: {
-                        FullName: {
-                            required: true
-                        },
-                        Phone: {
-                            required: true
-                        },
-                        Email: {
-                            required: true,
-                            email: true
-                        },
-                        TraegerOwner: {
-                            required: true
-                        }
-                    },
-                    messages: {
-                        FullName: {
-                            required: ''
-                        },
-                        Phone: {
-                            required: ''
-                        },
-                        Email: {
-                            required: 'Please enter your email',
-                            email: 'Please enter a valid email, name@domain.com'
-                        },
-                        TraegerOwner: {
-                            required: ''
-                        }
-                    }
-                });
+                var validator = $('.500Contest').validate();
 
                 if ($('.500Contest').valid()) {
-                    var name = $('input[name="FullName"]').val(),
-                        email = $('input#contestEmail').val(),
-                        phone = $('input[name="Phone"]').val(),
-                        own;
+                    var name = $('#contest-modal input[name="FullName"]').val(),
+                        email = $('#contest-modal input#contestEmail').val(),
+                        phone = $('#contest-modal input[name="Phone"]').val(),
+                        own = 'error',
+                        isValid = 'false';
 
                     if ($('#own-a-traeger-yes').is(':checked')) {
                         own = 'yes';
                     } else if ($('#own-a-traeger-no').is(':checked')) {
                         own = 'no';
-                    } else {
-                        own = 'error';
                     }
 
                     if (own !== 'error') {
@@ -882,38 +754,36 @@
                                 Email: email,
                                 TraegerOwner: own
                             },
+                            dataType: 'text',
                             cache: false,
-                            success: function (html) {
-                                isValid = html;
+                            success: function (response) {
+                                if (response === 'true') {
+                                    $('input, textarea, select').val('');
+                                }
+                                isValid = response;
                             },
                             error: function () {
                                 isValid = 'error';
                             },
                             complete: function () {
-                                switch (isValid) {
-                                    case 'true':
-                                        $('.alert').removeClass('attention').removeClass('error').addClass('success').show();
-                                        $('.alert p').html('<i class=\"icon-check\"></i> Congratulations! You are now entered to win!');
-                                        $('input, textarea, select').val('');
-                                        break;
-                                    case 'false':
-                                        $('.alert').removeClass('error').removeClass('success').addClass('attention').show();
-                                        $('.alert p').html('<i class=\"icon-warning-sign\"></i> The email entered has already been used.');
-                                        break;
-                                    case 'error':
-                                        $('.alert').removeClass('attention').removeClass('success').addClass('error').show();
-                                        $('.alert p').html('<i class=\"icon-warning-sign\"></i> There was an error seinding your request. Please call us at (800) 872-3437 or try again later.');
-                                        break;
-                                }
+                                $('.alert.global').notify({
+                                    response: isValid,
+                                    success: 'Congratulations! You are now entered to win!',
+                                    attention: 'The email entered has already been used.',
+                                    error: 'There was an error sending your request. Please call us at (800) 872-3437, <a href="/support" target="_blank">contact our support team</a>, or try again later.'
+                                });
                             }
                         });
                     } else {
-                        $('.alert').removeClass('attention').removeClass('success').addClass('error').show();
-                        $('.alert p').html('<i class=\"icon-warning-sign\"></i> All fields are required');
+                        $('.alert.global').notify({
+                            response: 'validation',
+                            validation: 'Your form contains ' + validator.numberOfInvalids() + ' errors, see details below.'
+                        });
                     }
                 } else {
-                    $('.error').each(function () {
-                        $('.error').parent().addClass('error');
+                    $('.alert.global').notify({
+                        response: 'validation',
+                        validation: 'Your form contains ' + validator.numberOfInvalids() + ' errors, see details below.'
                     });
                 }
             }
@@ -934,22 +804,18 @@
             <i class="icon-remove"></i>
         </button>
     </div>
-<form action="/shared/_500GiftCardContestPartial" class="500Contest validate" method="post">        <div class="form modal-body overflow span8 center">
-            <div class="alert" style="display: none;">
-                <p></p>
-            </div>
-
+<form action="/shared/_500GiftCardContestPartial" class="500Contest validate ng-pristine ng-valid" method="post">        <div class="form modal-body overflow span8 center">
             <div class="span2 fl">
                 <img src="/Content/images/products/giftcards/gift-card-500.jpg" class="span4" style="margin: 10px 0px 0px -85px;">
             </div>
             <div class="span6 fr">
                 <div class="span6">
                     <label>Full name*</label>
-                    <input type="text" class="span6 required" name="FullName">
+                    <input type="text" class="span6" name="FullName" required="">
                 </div>
                 <div class="span6">
                     <label>Email*</label>
-                    <input type="email" id="contestEmail" class="span6 required" name="Email">
+                    <input type="email" id="contestEmail" class="span6" name="Email" required="">
                 </div>
                 <div class="span6">
                     <label>Phone*</label>
@@ -963,13 +829,13 @@
                             <label class="inline" for="own-a-traeger-yes">Yes</label>
                         </li>
                         <li>
-                            <input type="radio" id="own-a-traeger-no" name="TraegerOwner" value="No">
+                            <input type="radio" id="own-a-traeger-no" name="TraegerOwner" value="No" checked="">
                             <label class="inline" for="own-a-traeger-no">No</label>
                         </li>
                     </ul>
                 </div>
                 <div class="span6">
-                    <input id="contest-rules-confirmation" type="checkbox" name="ReadRules">
+                    <input id="contest-rules-confirmation" type="checkbox" name="ReadRules" required="">
                     <label class="inline" style="position: relative; top: -2px" for="contest-rules-confirmation">I have read and understand the <a href="javascript:void(0)" class="read-contest-rules">contest rules</a></label>
 
                     <div class="contest-rules mt20" style="display: none;">
@@ -989,12 +855,12 @@
             </div>
         </div>
         <div class="modal-footer">
-            <button type="submit" id="ezpay-btn" class="btn btn-action btn-right-arrow disabled fr" onclick="return false;">
+            <button type="submit" id="contest-btn" class="btn btn-action btn-right-arrow disabled fr">
                 Enter to win!
                 &nbsp;<i class="icon-caret-right"></i>
                 <span class="arrow-right"></span>
             </button> 
-            <button id="no-ezpay-btn" type="button" class="close btn btn-default btn-right-arrow fr mr20" data-dismiss="modal" aria-hidden="true">
+            <button id="no-contest-btn" type="button" class="close btn btn-default btn-right-arrow fr mr20" data-dismiss="modal" aria-hidden="true">
                 Cancel
             </button>
         </div>
@@ -1004,7 +870,7 @@
         <footer id="site-footer">
             <div class="divider h lrg-orangebrown-flame"></div>
 
-<form action="/Shared/NewsletterForm" class="newsletter-signup-form" method="post">                <input type="hidden" id="redirectUrl" name="redirectUrl">
+<form action="/Shared/NewsletterForm" class="newsletter-signup-form ng-pristine ng-valid" method="post">                <input type="hidden" id="redirectUrl" name="redirectUrl" value="https://web.archive.org/web/20140917225834id_/http%3A//www.traegergrills.com/privacy">
                 <section class="newsletter fl span7">
                     <hgroup>
                         <h1>Recipes, deals, and giveaways</h1>
@@ -1070,6 +936,7 @@
                 </nav>
             </div>
         </footer>
+
     </div>
 
     <section id="ThankYouModal" class="modal fade hide" tabindex="-1" aria-labelledby="ThankYouModalLabel">
@@ -1086,6 +953,34 @@
             </p>
         </div>
     </section>
+
+    <script src="/Scripts/jquery-ui.min-1.11.1.js"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/bootstrap.js"></script>
+    <script src="/Scripts/watermark.jquery.js"></script>
+    <script src="/Scripts/notify.jquery.js"></script>
+    <script src="/Scripts/opensource/jquery.maskedinput.min.js"></script>
+    <script src="/scripts/site.jquery.js"></script>
+    <script src="/Scripts/angularjs/library/angular.min.js"></script>
+
+    <!-- begin:Libraries -->
+    <script src="/Scripts/angularjs/library/angular-resource.min.js"></script>
+    <script src="/Scripts/angularjs/library/angular-sanitize.min.js"></script>
+    <!-- end:Libraries -->
+    <!-- begin:App -->
+    <script src="/Scripts/angularjs/app/app.js"></script>
+    <!-- end:App -->
+    <!-- begin:Services -->
+    <script src="/Scripts/angularjs/app/services/service.js"></script>
+    <!-- end:Services -->
+    <!-- begin:Controllers -->
+    <script src="/Scripts/angularjs/app/controllers/register_grill.js"></script>
+    <!-- end:Controllers -->
+    <!-- begin:Filters -->
+    <!-- end:Filters -->
+    <!-- begin:Directives -->
+    <!-- end:Directives -->
 
     <!-- Modal section -->
     
@@ -1117,6 +1012,124 @@
 
     <!-- Scripts section -->
     
+
+    <script>
+        $(function () {
+            MegaNav();
+            GlobalSettings();
+
+            var QuickCart = function () {
+                $('#quick-cart-form').off('mouseenter mouseleave').on('mouseenter', function () {
+                    $('#quick-cart').fadeIn(250);
+
+                    $('#quick-cart-body table tr').off('mouseenter mouseleave').on('mouseenter', function () {
+                        $('.quick-remove-item .btn-quick-remove', this).show().on('click', function (selectedSku, currentUrl) {
+                            selectedSku = $(this).parent().find('.hidden-sku').val();
+                            currentUrl = window.location.pathname;
+                            var cacheBuster = new Date().getTime();
+                            var rowId = '#' + $(this).parent().parent().parent().attr('id');
+                            $(rowId).fadeOut(250);
+
+                            $.ajax({
+                                url: '/Cart/QuickCartRemoveItem',
+                                type: 'POST',
+                                data: {
+                                    sku: selectedSku,
+                                    url: currentUrl
+                                },
+                                cache: false,
+                                success: function (html) {
+                                },
+                                error: function () {
+                                },
+                                complete: function (html) {
+                                        
+                                        var rawHtml = html.responseText;
+                                        var $response = $(rawHtml);
+
+                                        $('#site-nav #quick-cart-form').html($response.find('#quick-cart-form').html());
+                                        
+                                }
+                            });
+
+                            return false;
+                        });
+                    }).on('mouseleave', function () {
+                        $('.quick-remove-item .btn-quick-remove', this).hide();
+                    });
+
+                }).on('mouseleave', function () {
+                    $('#quick-cart').stop().fadeOut(250);
+                });
+            };
+            QuickCart();
+
+            $('#redirectUrl').val(window.location.href);
+
+
+            $('.newsletter-signup-form .newsletter-email-button').off('click').on('click', function (newsletterEmail, redirectUrl) {
+                $('label.error').remove();
+                $('input.error, select.error, textarea.error').removeClass('error');
+
+                $('.newsletter-signup-modal').validate({
+                    rules: {
+                        Email: {
+                            required: true,
+                            email: true
+                        }
+                    },
+                    messages: {
+                        Email: {
+                            required: 'Please enter your email',
+                            email: 'Please enter a valid email, name@domain.com'
+                        }
+                    }
+                });
+
+                if ($('.newsletter-signup-form').valid()) {
+                    newsletterEmail = $('.newsletter-signup-form .newsletter-email').val();
+                    redirectUrl = $('#redirectUrl').val();
+
+                    $.ajax({
+                        url: '/Shared/NewsletterForm',
+                        type: 'POST',
+                        data: {
+                            Email: newsletterEmail,
+                            redirectUrl: redirectUrl
+                        },
+                        cache: false,
+                        success: function (html) {
+                            //NewsletterSuccess();
+                        },
+                        error: function (html) {
+                            //NewsletterError()
+                        },
+                        complete: function () {
+                            //setTimeout(NewsletterClose(), 4000);
+                        }
+                    });
+                } else {
+                    $('.error').each(function () {
+                        $('.error').parent().addClass('error');
+                    });
+                }
+
+                return false;
+            });
+
+        });
+
+        //(function () {
+        //    var cx = '006084002330175501657:uuw9zvwubsi';
+        //    var gcse = document.createElement('script');
+        //    gcse.type = 'text/javascript';
+        //    gcse.async = true;
+        //    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        //        '//www.google.com/cse/cse.js?cx=' + cx;
+        //    var s = document.getElementsByTagName('script')[0];
+        //    s.parentNode.insertBefore(gcse, s);
+        //})();
+    </script>
 
 
 </body></html>
