@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleyourproductivityforlife.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616012441id_/http%3A//doubleyourproductivityforlife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleyourproductivityforlife.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917191924id_/http%3A//doubleyourproductivityforlife.com/privacy.php) for the most accurate reproduction.*
 
 # doubleyourproductivityforlife.com Privacy Policy
 
