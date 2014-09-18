@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripigator.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511013655id_/http%3A//www.tripigator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripigator.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918210031id_/http%3A//www.tripigator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Worth Your Holidays. Travel a lot.
+# Privacy Policy
 
 ## Tripigator is fanatical about protecting your privacy
 
@@ -18,4 +18,4 @@ We want you to feel confident about using www.tripigator.com to plan your travel
 
 Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-We respect your privacy and all the data provided by your shall be governed under the above Privacy Policy and the [Terms of Use](https://web.archive.org/web/20140511013655id_/http%3A//www.tripigator.com/info?page=terms) of Tripigator, which may be amended from time to time
+We respect your privacy and all the data provided by your shall be governed under the above Privacy Policy and the [Terms of Use](https://web.archive.org/web/20140918210031id_/http%3A//www.tripigator.com/info?page=terms) of Tripigator, which may be amended from time to time
