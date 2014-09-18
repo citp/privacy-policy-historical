@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cyfe.com privacy policy that was archived on 2014-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140214064638id_/http%3A//www.cyfe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cyfe.com privacy policy that was archived on 2014-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140918181314id_/http%3A//www.cyfe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Privacy Policy | Cyfe</title>
@@ -29,8 +29,30 @@
 <script type="text/javascript" src="js/jquery.colorbox.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
-		$(".colorbox").colorbox();
+		$(".colorbox").colorbox({maxWidth:'100%'});
+		
+		var demo = getURLParameter('demo');
+		
+		if(demo == '1')
+			var opencb = true;
+		else
+			var opencb = false;
+		
+		$(".colorbox-video").colorbox({iframe:true, innerWidth:768, innerHeight:432, open: opencb});
 	});
+	function getURLParameter(sParam)
+	{
+		var sPageURL = window.location.search.substring(1);
+		var sURLVariables = sPageURL.split('&');
+		for (var i = 0; i < sURLVariables.length; i++) 
+		{
+			var sParameterName = sURLVariables[i].split('=');
+			if (sParameterName[0] == sParam) 
+			{
+				return sParameterName[1];
+			}
+		}
+	}
 </script>
 <script type="text/javascript">
 
@@ -251,4 +273,4 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1014629720/?value=0&amp;label=7KN3CJiT9QMQ2Iro4wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button type="button" id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+</body></html>
