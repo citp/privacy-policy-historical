@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the w3bits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133505id_/http%3A//w3bits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3bits.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918123231id_/http%3A//w3bits.com/privacy) for the most accurate reproduction.*
 
-# Privacy » W3Bits
+# Privacy - W3Bits
 
 At W3Bits, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the type of personal information which is received and collected by the website and how it is used.
 
