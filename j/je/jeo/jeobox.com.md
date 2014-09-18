@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeobox.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515003940id_/http%3A//www.jeobox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeobox.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918081821id_/http%3A//www.jeobox.com/privacy-policy) for the most accurate reproduction.*
 
 # Jeobox – Privacy Policy
 
