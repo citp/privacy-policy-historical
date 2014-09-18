@@ -1,73 +1,134 @@
-> *The following text is extracted and transformed from the upcounsel.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606221703id_/https%3A//www.upcounsel.com/Free-Legal/Document/29/UpCounsel-Inc.-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcounsel.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918132535id_/https%3A//www.upcounsel.com/privacypolicy) for the most accurate reproduction.*
 
 # UpCounsel, Inc. Privacy Policy on UpCounsel
 
-**UpCounsel, Inc Privacy Policy**
+**UpCounsel Full Privacy Statement**
 
-UpCounsel, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.  
+**Effective February 1, 2014**
 
-For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website atwww.upcounsel.com which is further described in our Terms of Use. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and [Terms of Use](https://www.upcounsel.com/Home/TermsOfUse), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+UpCounsel is committed to protecting the privacy of individuals who visit our Website (“Visitors”) or individuals who register to use the Service (“Users” or “You”). This Privacy Statement describes UpCounsel’s privacy practices in relation to the use of our Website and Service.
 
-**I.               INFORMATION WE COLLECT**
+Unless specifically defined, terms used throughout this statement have the same definitions as those given in the UpCounsel Terms of Use, available at http://www.UpCounsel.com/home/TermsOfUse.
 
-We collect “Non-Personal Information” and “Personal Information.”   Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks.  "Personal Information" is information which can be used it identify you as an individual on its own when used for its intended purpose by UpCounsel; at present, this includes only your email, which you submit to us through the registration process at the Site.
+For your convenience, UpCounsel offers a quick outline of our full Privacy Statement.
 
-1.       _Information collected via Technology_
+**_UpCounsel Privacy Statement Outline_**
 
-To activate the Service you do not need to submit any Personal Information other than your name, general geographic location, profession or industry that your operate in and email address.  You may also submit more details about your business like the name of your company.  If you are an attorney you may be required to also supply your state BAR number if you wish to activate the Service.  To use the Service thereafter, you do not need to submit further Personal Information.  However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you.  We track this information using cookies, or small text files which include an anonymous unique identifier.  Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive.  Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis.  For example, the Company may use cookies to store the following information: session data, email address, username, and preferences.  The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.  
+**_What information does UpCounsel collect?_**
 
-2.       _Information you provide us by registering for an account_
+For more information about UpCounsel’s information collection practices, please click here.
 
-In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile and provide us with Personal information we use to popuate that profile.  You can create a profile by registering with the Service and entering your email address, and creating a user name and a password.  By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.
+**_How does UpCounsel use or share personal information?_**
 
-If you use a social networking site ("SNS") account information to sign in to the Service, we will collect and store your SNS user ID.  The privacy practices of the entity which generated such an SNS User ID are set forth in such entities Prvacy Policy, and Upcounsel has no control over the uses of your ID by such parties.
+For more information about UpCounsel’s use of information collected, please click here.
 
-3.       _Information your provide by contributing to the Service_
+**_What kinds of cookies does UpCounsel use or set?_**
 
-You may also provide us information in User Content you post to the Service. Your questions, answers, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name (unless the Service permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our Terms of Service.  By using the Service, you consent to such public usage.
+For more information about UpCounsel’s policies on handling cookies, please click here.
 
-4.       _Information you provide by completing our Job Form or communicated to Company representatives to request consulting services._
+**_How does UpCounsel deal with government or law enforcement requests?_**
 
-In order to request consulting services you may need to provide us with certain information via online forms (a “Job Form”) or by speaking with a Company representative. This information may include, among other things, a description and the nature of your request for consulting services.
+For more information about UpCounsel’s policies on compelled disclosure, please click here.
 
-Some of the information submitted to the Company through a Job Form or communicated to Company representatives for the purposes of obtaining consulting services may be visible or communicated to additional Company representation. We do this to ensure quality control of the job requests for consulting services. Therefore, this information is not considered confidential and the user should not assume that such information is confidential. We will not, however, sell or distribute the information obtained in any Job Form or communicated to a Company representative. We advise that you not share sensitive or confidential information via our Job Forms or with a Company representative. The Company is under no obligation to keep any information communicated to the Company confidential.
+**_How does UpCounsel communicate with me, and how can I change my user information?_**
 
-**II.             HOW WE USE AND SHARE INFORMATION**
+For more information about managing communications you receive from UpCounsel and instructions for updating information provided when registering for the UpCounsel’s services, please click here.
 
-_Personal Information:_
+**_How can I contact UpCounsel?_**
 
-Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us.  We may share Personal Information such as your name, billing address, and credit card number with vendors who assist us with payment processing. Our vendors are contractually obligated to use your Personal Information only at our direction and in accordance with our Privacy Policy.
+Questions regarding UpCounsel’s Privacy Statement or information practices should be directed to info@upcounsel.com.
 
-In general, the Personal Information you provide to us is used to help us communicate with you.  For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+**_1\. Information we collect_**
 
-_Non-Personal Information_
+**Information collected about Visitors:** Like most website operators, UpCounsel collects information of the sort that web browsers and servers typically make available through the use of commonly-used information-gathering tools such as cookies (please see Section 4, “Our use of cookies,” for details). This non-personally identifying information includes the visitor’s browser type, language preference, referring site, additional websites requested and the date and time of each Visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. UpCounsel’s purpose in collecting non-personally identifying information is to better understand how our Visitors use our website.
 
-In general, the Personal Information you provide to us is used to help us faciliate your use of the Site and communicate with you.  For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+**Becoming a User:** You may visit our Website without creating an account, but you will not have full access to our Service. Visitors who wish to use the Service must create an account, thus becoming a User. To create an account, Users must either provide UpCounsel with personal contact information, such as name and email address; sign in to UpCounsel via LinkedIn’s authentication service (please see Section 5, “Gathering and protecting the information we collect,” for details about this form of authentication).
 
-UpCounsel may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Service. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. The Service does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks UpCounsel to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The UpCounsel Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+**Information collected about Users:** Either form of account creation may create “User Personal Information,” which is any information about a User which could, alone or together with other personally-identifying information, personally identify him or her. UpCounsel collects User Personal Information only with your consent. User Personal Information may include information you provide us directly, such as your email address, or information we collect through your use of our Services, such as your preferences or your search terms. User Personal Information may include, without limitation, your name, your email address, your billing address, your credit card or banking information, your State Bar number (for attorney Consultant Users), your profession, your business or industry, your photograph, and other personal information you wish to provide.
 
-We also use a third party service provider to help us process payments through the Service.  Such third parties may have access to your Personal information, including credit card number, name, and physical address, as a result of providing these services to UpCounsel.
+We only gather the information you give us access to, and we only use it as described below. We only collect the minimum amount of personal information necessary or appropriate to fulfill the purpose of your interaction with us.
 
-In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred or examined during the due diligence process.  You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy.  If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices.  We suggest that you check the Site periodically if you are concerned about how your information is used.
+User Personal Information does not include aggregated, non-personally identifying information. You may refuse to supply personally-identifying information, however, that refusal may prevent you from using UpCounsel’s Service.
 
-**III.           HOW WE PROTECT INFORMATION**
+**No information about children:** UpCounsel does not knowingly collect information from, or direct any of our content specifically to, children or teenagers under the age of 18. If you are under 18, you may not create an account and you may not send us any personal information without parental consent. If we learn or have reason to suspect that a User of our Service is under the age of 18, we will promptly delete any personal information in that User's account.
 
-We implement security measures designed to protect your information from unauthorized access.  Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use.  We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology.  However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.  In addition, while we take reasonable measure to ensure that other entities who provide us with payment processing services keep your information confidential and secure, such entities' practices are ultimately beyond our control.  By using our Service, you acknowledge that you understand and agree to assume these risks.
+**Location-based data:** UpCounsel also makes use of location-based data for our Website. If you allow these services, we will ask you to enter your general location. We use this information to provide services to you, not to identify you. If you choose not to allow UpCounsel to access your location, some functionality may not be available to you.
 
-**IV.           YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION**
+**Confidentiality and Job Postings:** In order to access the Service, Job Posters may post certain information via an online Job Form or by speaking with an UpCounsel employee. This information may include, among other things, a description of the Job Poster’s business and legal question. This posted Job will be viewed by those Consultant Users who have access to view posted Jobs and may be viewed by UpCounsel employees to ensure quality control and provide technical support. Jobs posted privately will only be visible to one Consultant User and one Job Poster, but will also be visible to UpCounsel employees. Therefore, no Job is confidential. Please do not share sensitive information via the Service.
 
-You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail.  You can also indicate that you do not wish to receive marketing communications from us in the “Settings” section of the Site.  Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
+**_2\. How we use the information we collect_**
 
-**V.             LINKS TO OTHER WEBSITES**
+**To provide the services you request:** UpCounsel uses User Personal Information to perform and provide the Services you request. For instance, we use User Personal Information to allow Job Posters to select the best Consultant User for their needs; facilitate communication between Consultant Users and Job Posters; and simplify invoicing and billing for Jobs. We use location-based data to allow Consultant Users to bid on Jobs in their local area and jurisdiction. We also use User Personal Information to populate online profiles.
 
-As part of the Service, we may provide links to or compatibility with other websites or applications.  However, we are not responsible for the privacy practices employed by those websites or the information or content they contain.  This Privacy Policy applies solely to information collected by us through the Site and the Service.  Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service.  To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application.  We encourage our users to read the privacy statements of other websites before proceeding to use them.
+**To communicate with Users:** UpCounsel may also use User Personal Information to communicate with Users. For instance, UpCounsel may use information you provide to send you information regarding our Services, such as promotions or events; to provide you with technical support; to solicit feedback about our Service; or to notify you if our policies change.
 
-**VI.           CHANGES TO OUR PRIVACY POLICY**
+**To improve our Service:** UpCounsel may use aggregated, non-personally identifying information gathered from our web server to operate, improve, and optimize our Website and Service.
 
-The Company reserves the right to change this policy and our Terms of Service at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.  Significant changes will go into effect 30 days following such notification.  Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+**_3\. How we share the information we collect_**
 
-**VII.         CONTACT US**
+**In general:** We do not disclose User Personal Information outside UpCounsel, except as described below or in Section 6, “Compelled Disclosure.”
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [info@upcounsel.com](mailto:info@upcounsel.com)
+**With your consent:** UpCounsel may share User Personal Information with your consent, to perform services you have requested, including displaying the information you have chosen to share in order to post or bid on a Job.
 
-**Last Updated:  **This Privacy Policy was last updated on September 15, 2012
+**To our employees and providers:** UpCounsel discloses User Personal Information only to those of our employees, contractors, and affiliated organizations that (a) need to know that information in order to process it on our behalf or to provide or improve our Service, and (b) that have agreed not to disclose it to others, in accordance with this Privacy Statement. These organizations may include our email service providers or our payment processors. Some of those employees, contractors, and affiliated organizations may be located outside of your home country; by using UpCounsel’s Service, you consent to the transfer of such information to them. Please see Section 5,  “Gathering and protecting the information we collect,” for more details.
+
+**In a merger:** UpCounsel may share User Personal Information if we are involved in a merger, sale, or acquisition. If any such change of ownership happens, we will continue to ensure the confidentiality of User Personal Information, and we will notify you before any transfer of User Personal Information on our Website. The purchaser will have to honor any promises we have made in this Privacy Statement or in our Terms of Use.
+
+**No advertising:** UpCounsel does not share, sell, rent, or trade User Personal Information with third parties for their promotional purposes.
+
+**No third-party tracking:** UpCounsel does not permit third-party tracking across our Website or Service.
+
+**Do Not Track:** Do Not Track (DNT) is a privacy preference you can set in your browser if you do not want web services to collect information about your online activity. There is currently no universal standard for sending and receiving DNT signals. While UpCounsel has not implemented a DNT method and does not respond to your browser’s DNT setting or other similar mechanisms, we do not track your online activity on other web services and we do not permit third-party services to track your activity on our site. If a universal DNT standard is adopted, we may revisit this policy.
+
+**General information about Users:** UpCounsel may disclose aggregated, non-personally identifying information about how our Users, collectively, use our Service, so that we may share general information about our Service, such as stats about the average cost of legal services.
+
+**_4\. Our use of cookies_**
+
+**Cookies, generally:** UpCounsel uses cookies to make interactions with our Website easy and meaningful. A cookie is a small piece of text that our web server stores on your computer or mobile device, which we can then retrieve as needed. Cookies do not necessarily identify you if you are merely visiting the UpCounsel Website; however, a cookie may store a unique identifier for each logged in User.
+
+**Temporary cookies:** UpCounsel uses temporary, or “session-based,” cookies, which are removed when you close your web browser or reboot your computer or device. We use session-based cookies to provide services to you while you navigate our website; remember that you are logged in during your visit; keep track of your progress as you post or bid on a Job; and increase website security.
+
+**Persistent cookies:** UpCounsel uses permanent, or “persistent,” cookies, which remain stored on your computer or device until deleted, or until they reach a specified date of expiration. We use persistent cookies to enable our website to remember you each time you visit our website; keep track of your preferences in relation to your use of our website; and allow you to log in without re-entering your password every time you visit.
+
+The cookies UpCounsel sets are essential for the operation of the Website, or are used for performance or functionality. By using our Website, you agree that we can place these types of cookies on your computer.
+
+**Google Analytics:** UpCounsel uses Google Analytics to help improve our Users’ experience. Google Analytics uses both session-based and permanent cookies to collect information about how our Website performs and how our Users use the Website and Service. The Google Analytics tool helps us evaluate and monitor Users’ use of our Website, compile statistical reports on activity on the Service, and improve our content. It may collect more information than UpCounsel collects. Google stores the information these cookies generate.
+
+UpCounsel will not, nor will we allow any third party to, use the Google Analytics tool to track our Users; collect any User Personal Information other than IP address; or correlate your IP address with the identity of any User. Google provides further information about its own privacy practices and allows the ability to opt out of Google Analytics tracking here.
+
+You may disable your browser or device’s ability to accept cookies, but if you do, you will not be able to use UpCounsel’s Services.
+
+**_5\. Gathering and protecting the information we collect_**
+
+**Industry standards in data security:** UpCounsel takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+**No responsibility for providers’ security:** In addition, while we take all measures reasonably necessary to ensure that our affiliated organizations, such as our payment processing services, keep your information confidential and secure, these organizations' practices are ultimately beyond our control. By using our Service, you acknowledge that you understand and agree to assume these risks.
+
+**OAuth, in general:** UpCounsel makes use of the industry standard OAuth authentication protocol. OAuth is a simple, secure process that allows you to grant UpCounsel access to your accounts on third party networks without sharing the passwords to those accounts. Using OAuth, the data you choose to share is securely transferred without revealing your login information. OAuth also allows you to verify that an application acting on your behalf is doing so only with the permissions you have granted it. Most social networks, such as LinkedIn, Twitter, Facebook, and Google, allow applications to access user accounts via the OAuth process. OAuth functions using authentication tokens, which will expire after a period of time and may be revoked.
+
+**International data transfer:** Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+  
+**_6\. Compelled Disclosure_**
+
+UpCounsel discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of UpCounsel, third parties, or the public at large.
+
+In complying with court orders and similar legal processes, UpCounsel strives for transparency. When permitted, we will make a reasonable effort to notify Users of such disclosure.
+
+**_7\. Your access to and control of the information we collect_**       
+
+**Access to User Information:** As an UpCounsel User, you may access, update, alter, or delete your basic User profile information by editing your user profile or contacting info@upcounsel.com.
+
+**Data retention:** UpCounsel will retain User Personal Information for as long as your account is active or as needed to provide you services.
+
+**Deletion of User Information:** If you wish to cancel your account, delete your User Personal Information, or request that we no longer use your information to provide you services, please contact info@upcounsel.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile within 30 days.
+
+**Control of communications from us:** UpCounsel may occasionally send Users an email to tell you about new features, solicit feedback, notify you of important changes, or just keep you up to date with what’s going on with UpCounsel and our products. You may manage your receipt of these communications by clicking on the “unsubscribe” link located on the bottom of UpCounsel’s emails or manage your notifications options in the “Settings” panel of your User Profile. Additionally, you may send a request specifying your communications preferences to info@upcounsel.com. Please note that if you do opt out of promotional mailings, we may send you important administrative emails, such as notices that affect your rights.
+
+**_8\. Changes to this Privacy Statement_**
+
+Although most changes are likely to be minor, UpCounsel may change its Privacy Statement from time to time, and in UpCounsel’s sole discretion. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending a notice to the primary email address specified in your account. Non-material changes will take effect immediately. We encourage visitors to frequently check this page for any changes to our Privacy Statement.
+
+**_9\. Contacting UpCounsel_**
+
+Questions regarding UpCounsel’s Privacy Statement or information practices should be directed to info@upcounsel.com.
