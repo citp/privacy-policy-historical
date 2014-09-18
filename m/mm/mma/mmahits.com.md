@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmahits.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610062625id_/http%3A//mmahits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmahits.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918085737id_/http%3A//mmahits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MMA Hits - Mixed Martial Arts Videos And News, From UFC, Strikeforce, Dream, and More
 
