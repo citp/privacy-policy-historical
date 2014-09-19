@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpapertoon.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072114id_/http%3A//wallpapertoon.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapertoon.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919201443id_/http%3A//wallpapertoon.com/sample-page) for the most accurate reproduction.*
 
-# Privacy Policy | HD Wallpapers Desktop - WallpaperToon
+# Privacy Policy | HD Wallpapers Desktop - WallpaperToonHD Wallpapers Desktop – WallpaperToon
 
 http://wallpapertoon.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
