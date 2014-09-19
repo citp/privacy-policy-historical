@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expensify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150404id_/https%3A//www.expensify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expensify.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919174958id_/https%3A//www.expensify.com/privacy) for the most accurate reproduction.*
 
 # Expensify - Privacy Policy
 
