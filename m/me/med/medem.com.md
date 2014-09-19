@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208012238id_/http%3A//healthcare.intuit.com/portal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919160220id_/http%3A//healthcare.intuit.com/portal/privacy.html) for the most accurate reproduction.*
 
 # Medfusion® Privacy Statement for Providers
 
