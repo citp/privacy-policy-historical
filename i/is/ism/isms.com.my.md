@@ -1,94 +1,132 @@
-> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621133638id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919071831id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
 
 # Bulk SMS Malaysia Policy | SMS Marketing | Online SMS Solution | Send SMS
 
-MobiWeb respects your privacy. Across our business, we will only collect, store or use your personal information for specific purposes. We use your information to support and enhance our relationship with you, for example to process your purchase, provide service and support, and share product, service and company news and offerings with you, or for other legitimate reasons described by law. We do not sell your personal information. We only share your personal data outside MobiWeb with your consent, as required by law, or with companies that help MobiWeb fulfill its obligations with you, and then, only with partners who share MobiWeb's commitment to protecting your privacy and data. At any time you may contact MobiWeb with any questions or concerns you may have with respect to this privacy policy. You may also ask at any time to be informed about the personal data that MobiWeb holds about you and request, as appropriate, correction or deletion. Our goal is to ensure the highest levels of security and confidentiality. 
+_**Mobiweb Sdn. Bhd**_
 
-**The Information MobiWeb Collects About You**  
-MobiWeb only asks for specific types of personal information. We ask you to provide information that will enable us to process your order or provide services to you, enhance your site visit, respond to requests for information, support our customer relationship, assist you with technical support issues or to follow up with you after your visit. MobiWeb may collect information when you:
+Mobiweb's has evolved since established 2007. Deploying the latest telecommunications technology and internet technology, our goal is to provide a one stop, total business solution for your company's business. Our service ranges from telecommunications, for e.g VoIP, bulk sms, sms marketing, discounted calls and IDD cards; to business management solutions, for e.g online inventory system, online CRM system,online POS system, online membership system and bulk emails.
 
-Register on any domain name(s) and/or website(s) that are registered to or on behalf of the company from time to time.
+_ISMS_
 
-Request a proposal for products and/or services
+iSMS is developed by Mobiweb. Our sms marketing tool offers international sms service covering more than 700 mobile operator worldwide from peer to peer sms, streaming content services such as factory alerts, news alerts and stock updates; bulk sms communications are based on high quality as well as reliable connectivity.
 
-Place an order for products and/or services
+_CLIENT PRIVACY AND DATA SECURITY WITH iSMS_
 
-Fill out a support request or request telephone technical support services
+Client's rights to both privacy and security is a major concern issue. Below are the guidelines that we use to protect your personal information. Please read the following statements carefully before proceeding.
 
-Provide feedback in an online survey
+_iSMS RESPECTS YOUR PRIVACY_
 
-Participate in promotional offers; or
+In able to provide the services to our clients, we, iSMS will _only_ collect, store and use your personal information for specific purposes. We _only_ use your personal information to support and enhance our relationship with you, and for other legitimate reasons described by the law. Your personal information is ensured by us, for we do not _disclose, or sell_ your information; we _only_ share your personal information outside iSMS with your consent, as required by the law or with companies that help iSMS to fulfill it's obligations with you, and _only_ with partners who share iSMS's commitment in protecting your privacy and personal information or data. Clients are welcome to give us, iSMS's call center with any questions or concerns regarding your privacy and data security or request, as appropriate in making a correction or deletion. Our goal is to ensure the highest level of security and confidentiality for our client's personal information.
 
-Subscribe to a newsletter or a mailing list
+_THE INFORMATION iSMS COLLECTS ABOUT YOU_
 
-In each of the instances above, we may ask for your name, address, e-mail address, phone number, occupation, industry, transactional information such as your preferences, customer number, credit card information and other bank details, referrals, and other information that is needed to process your purchase, provide requested services or register you for or subscribe you to services or offers.
+iSMS _only_ collect personal information which are necessary from our clients. By providing efficient and complete information about you enable us to process your request and provide services needed to you. This will also help us to enhance your site visit, respond to requests for information, support our client relationship, and enable to assist you with technical support issues and to follow up with you after your visit. 
 
-MobiWeb only uses your personal information for specific purposes
+When iSMS is able to collect your personal information from you:
 
-The information you provide will be kept confidential and is collected and processed for the following general purposes or for any other legitimate purpose described by the applicable law.
+  * When you _register_ on any domain name(s) and/ or website(s) that are registered to or on behalf of the company from time to time.
+  * When you request a proposal for products and/ or services
+  * Whenever you place an order for products and/ or services
+  * When filling out a support request or requesting telephone technical support services
+  * Provide feedback in an online survey
+  * Participating in promotional offers
+  * When subscribing to a newsletter or a mailing services
 
-To process your purchase or provide requested services
 
-To fulfill requests for products and services
 
-To improve our products and services; and
+In each of the instances above, we may ask for your full name, current address, contact number, occupation, industry, transactional information and such as your preferences, customer number, credit card information and other bank details, referrals, and other information that is needed to process your purchase, requested services or to register you or to subscribe you to services and offers.
 
-To contact you
+_iSMS ONLY **USES** YOUR PERSONAL INFORMATION IN THESE CONDITIONS:_
 
-Newsletters, Mailing lists, Requests For Information
+  * To process your purchase or providing requested services from you
+  * To fulfill requests for products and services
+  * To improve our products and services via feedback: and to contact you 
+  * Newsletters, mailing lists, requests for more information
 
-If you request, we (or any other MobiWeb entity or any agent working on behalf of MobiWeb entities) will send you information about our various services, or other products and services that may be of interest to you. Such information may encompass alerts to upgrades, special offers, updated information and other new products and services from MobiWeb. Only MobiWeb (or agents working on behalf of MobiWeb) will send you these mailings. If you do not want to receive such mailings any longer, simply notify us by contacting us
 
-**By phone**  
-Malaysia, Penang +604-6420621  
-Malaysia, Kuala Lumpur +603-79801388
 
-**By fax**  
-Malaysia, Penang +604-6468367  
-Malaysia, Kuala Lumpur +603-79802388
+The information that you provide to us will be kept confidentially and is collected and processed for the general purposes and legitimate purposes described by the applicable law.
 
-**By email**  
-Email: [sales@mobiweb.com.my](mailto:sales@mobiweb.com.my)
+If you make a request from us, or any other iSMS entity or any other agent working on behalf of iSMS entities, we will send you information about our various services, product information and services that may be of interest to you. Such information may encompass alerts to upgrades, special offers, updated information and new products and services from iSMS. _Only_ iSMS or agents working on behalf of iSMS are eligible to send you these mailings and information. But if you _do not_ want to receive such mailings or information any longer, please kindly notify us by contacting us. 
 
-Malaysia, Penang  
-No.40-1, Persiaran Bayan Indah  
-Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia.  
-Helpline: 1300 88 7389
+_IN WHAT CIRCUMSTANCES iSMS WILL **SHARE** YOUR PERSONAL INFOMATION_
 
-Malaysia, Kuala Lumpur  
-No.B-2-7, Block B,Kuchai Exchange, Jalan Kuchai Maju 13,  
-Kuchai Lama 58200, Kuala Lumpur, Malaysia  
-Tel: +603-79801388, Fax: +603-79802388
+Your personal information may _only_ shared with other iSMS entities, agents or contractors who perform services for iSMS, such as **Mobiweb Sdn. Bhd**. If so, iSMS will seek to ensure that the information is _only_ used in connection with the functions that these parties will be performing for iSMS and that all such information is treated in a confidential and discreet manner.
 
-When MobiWeb Will Share Your Personal Information
+iSMS will _only_ **disclose** your personal information to the extent required or authorized by applicable law, or if ordered and required to do so by court or governmental authorities as appropriate in each jurisdiction, or to ensure that we are in compliance with our legal obligations.
 
-Your information may be shared with other MobiWeb entities, agents or contractors performing services for MobiWeb, such as Web ASP sdn bhd. If so, MobiWeb will seek to ensure that the information is only used in connection with the functions these parties will be performing for MobiWeb and that all such information is treated in a confidential manner.
+iSMS will _**not**_ **disclose** your personal information to any outsiders or other organizations for it's use in marketing. Personal information regarding about our clients (such as full name, current address and contact number), your order and products that you have purchased from us will not be given or sold to any other organizations for it's use in marketing or solicitation.
 
-MobiWeb will disclose your personal information to the extent required or authorized by applicable law, if ordered or required to do so by a court or governmental authority as appropriate in each jurisdiction, or to ensure that we are in compliance with our legal obligations.
+_CLIENT'S RIGHTS_
 
-MobiWeb will not disclose your personal information to any outside organization for its use in marketing. Personal information regarding you (such as name, address and phone number) or your order and the products you purchase will not be given or sold to any outside organization for its use in marketing or solicitation.
+Upon the request and within 30 days we will inform you about the type of personal information that we hold about you, the purposes and reasons for which we hold it and the possible recipients or types of recipients. Upon written request and within a reasonable period of time we will also correct, delete and/ or block personal information from further processing if that information proves to be factually inaccurate, incomplete, or irrelevant to the purpose(s) of the process.
 
-Your rights
+_THIRD- PARTY SITES_
 
-Upon your request and within 30 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients. Upon written request and within a reasonable period of time we will also correct, delete and/or block personal information from further processing if that information proves to be factually inaccurate, incomplete, or irrelevant to the purpose(s) of the processing.
+Please be aware that other websites including sites that may be accessed through our site, e.g., via a hyperlink, may collect personally identifiable information about you. This PRIVACY POLICY statement **does not** cover the information practices of those third- party websites linked to any of our websites or any other sites.
 
-Third-Party Sites
+_ONLINE THREATS_
 
-Please be aware that other Web sites including sites that may be accessed through our site, e.g., via a hyperlink, may collect personally identifiable information about you. This Privacy Policy does not cover the information practices of those third-party web sites linked to any of our websites or any other site.
+  * The information are used for some online applications, but every request to access and/ or change those copies is both logged and reviewed by our iSMS staffs. 
+  * Our software applications are written to not be vulnerable to standard hacks like SQL injection.
+  * Access to personal information (e.g information about individuals) requires at least a user ID and a password.
+  * It is not technologically possible to absolutely guarantee the security of data stored in a computer.
 
-Contact MobiWeb
 
-If you would like to contact us, or have questions or suggestions regarding our Privacy Policies, please write, or e-mail us at the following address
 
-**Headquarter(HQ)  
-MobiWeb Sdn Bhd(760405-K) Web ASP Sdn Bhd(832475-W) **  
-No.B-2-7, Block B,Kuchai Exchange, Jalan Kuchai Maju 13,  
-Kuchai Lama 58200, Kuala Lumpur, Malaysia  
-Tel: +603-79801388, Fax: +603-7980 2388
+Our goal is to make unauthorized or malicious access both difficult and detectable.
 
-**Research & Development Office(R&D)  
-MobiWeb Sdn Bhd(760405-K) Web ASP Sdn Bhd(832475-W) **  
-No. 40-1, Persiaran Bayan Indah,   
-Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia.   
-Tel: +604 642 0621  Fax: +604-6468367  
-Website: [ http://www.isms.com.my ](http://www.isms.mobiweb.com.my/)
+_**IF YOU HAVE MORE QUESTION REGARDING THE PRIVACY POLICY STATEMENTS PLEASE CALL US AT:**_
+
+  
+|   | 
+
+Penang, Malaysia
+
+| 
+
+Kuala Lumpur, Malaysia  
+  
+---|---|---  
+  
+Call us 
+
+| 
+
++604-6420621
+
+| 
+
++603-79801388  
+  
+Fax us
+
+| 
+
++604-6468367
+
+| 
+
++603-79802388  
+  
+Email us
+
+| 
+
+sales@mobiweb.com.my
+
+| 
+
+sales@mobiweb.com.my  
+  
+Write to us
+
+| 
+
+No. 40-1, Persiaran Bayan Indah Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia
+
+| 
+
+No.B-2-7, Block B,Kuchai Exchange,  
+Jalan Kuchai Maju 13, Kuchai Lama 58200,   
+Kuala Lumpur, Malaysia
