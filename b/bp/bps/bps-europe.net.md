@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps-europe.net privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515034649id_/http%3A//www.bps-europe.net/bps/bps_portal.nsf/%28%24Web%29/PrivPolicy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps-europe.net privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919085028id_/http%3A//bps-europe.net/bps/bps_portal.nsf/%28%24Web%29/PrivPolicy%3FOpenDocument) for the most accurate reproduction.*
 
 # BPS Europe
 
