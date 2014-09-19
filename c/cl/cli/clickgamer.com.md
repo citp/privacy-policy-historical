@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickgamer.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826004501id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/UK/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickgamer.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919201500id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
 
 # 
 
-ELECTRONIC ARTS PRIVACY POLICY
+ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
 Effective Date: June 28, 2013
 
@@ -28,7 +28,7 @@ X. A Special Note About Children
 XI. Public Information Including User Generated Content, Online Forums, Blogs And Profiles  
 XII. Third Party Sites  
 XIII. Products Offered In Partnership With Third Party(s)  
-XIV. Contact Information  
+XIV. Contact Information & Complaints Process  
 XV. California Residents: Your California Privacy Rights  
 XVI. Dispute Resolution By Binding Arbitration
 
@@ -232,7 +232,7 @@ XIII.    Products Offered In Partnership With Third Party(s)
 
 Members may register for other services from our site(s). Certain products and/or services available on our site are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services. 
 
-XIV.    Contact Information
+XIV.    Contact Information & Complaints Process
 
 If you have questions or concerns regarding this statement, you should first contact the EA Privacy Policy Administrator for the country in which you reside at the email address or postal address specified at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If your country is not listed, please contact the United States' Privacy Policy Administrator or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Pkwy, Redwood City, CA 94065. If your inquiry is not satisfactorily addressed, you should contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or at https://feedback.truste.com as instructed above. TRUSTe will then serve as a liaison with us to resolve your concerns. Please note that the TRUSTe program only covers information that is collected through this Website, and does not cover information that may be collected through any software downloaded from this Website.
 
