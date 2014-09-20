@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516125455id_/http%3A//www.onlinehomeincome.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920222757id_/http%3A//www.onlinehomeincome.in/privacypolicy.php) for the most accurate reproduction.*
 
 # ONLINE HOME INCOME | PRIVACYPOLICY
 
@@ -58,7 +58,7 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
 **Children's Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.onlinehomeincome.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.onlinehomeincome.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.onlinehomeincome.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.onlinehomeincome.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
 **Online Privacy Policy Only**  
 This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
