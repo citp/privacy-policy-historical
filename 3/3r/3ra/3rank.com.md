@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3rank.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611004124id_/http%3A//www.3rank.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3rank.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920210656id_/http%3A//www.3rank.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Policy - 3Rank
 
@@ -23,7 +23,7 @@ We may use this information to understand how our visitor uses the service and r
 
 ## Advertising
 
-The ads shown on our site falls under privacy and policy of Google Adsense program. All ads (Text, image, link, interactive media) are automatically generated according to the keywords present in content/page.
+The ads shown on our site falls under privacy and policy of Google Adsense program. All ads (Text, image, link, interactive media) are automatically generated according to the keywords present in content or browser history.
 
 ## Any Complaints
 
