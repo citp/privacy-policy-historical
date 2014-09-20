@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628233210id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycroburst.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920203655id_/http%3A//www.mycroburst.com/privacy_policy) for the most accurate reproduction.*
 
 # MycroBurst » Leader in Graphic, Web and Logo Design Contests
 
