@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025241id_/http%3A//www.funkykit.com/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920220524id_/http%3A//www.funkykit.com/en/articles/privacy) for the most accurate reproduction.*
 
 # Privacy - Funky Kit
+
+##  [ Privacy](http://www.funkykit.com/articles/privacy)
+
+Details
+     Category: [Articles](http://www.funkykit.com/articles)
+     Published: Monday, 30 August 2010 20:53 
+     Written by Funky Kit Staff 
 
 Funky Kit recognizes the importance of protecting the privacy of our readers. Funky Kit does not collect personal information about our readers except for information that may be voluntarily provided. We do set cookies occasionally in order to better understand our readers' Funky Kit experiences. No personal information is gathered via these cookies.
 
