@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013182531id_/http%3A//www.tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920213608id_/http%3A//www.tatasky.com/wps/portal/tatasky/tataskyplus/footerpages/privacypolicy) for the most accurate reproduction.*
 
 # HD DVR | Tata Sky+ HD | Record TV
 
@@ -12,8 +12,8 @@ This Site is not intended for persons under 13 years of age. We do not knowingly
 
 “You” shall mean You, the User of the Site and “Yourself” interpreted accordingly. “We” / “Us” means Tata Sky Ltd and “Our” interpreted accordingly . “Users” means the Users of the Site collectively and/or individually as the context allows.
 
-  
-When using the Site You may be asked to enter User Information. Such User Information will only be Used for the purposes for which it was collected, for any other purposes specified at the collection point and in accordance with this Privacy Policy. 
+When using the Site You may be asked to enter User Information. Such User Information will only be Used for the purposes for which it was collected, for any other purposes specified at the collection point and in accordance with this Privacy Policy.  
+ 
 
 By entering Your User Information, You accept that We may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.
 
@@ -37,3 +37,5 @@ We will comply with all relevant Data Protection legislation in relation to the 
 We may change this privacy policy from time to time and You should check these regularly. Your use of the Tata Sky+ HD Site will be deemed an acceptance of the privacy policy existing at that time.
 
 Any site that You may connect to from here is not covered by this Privacy Policy.
+
+[](http://www.tatasky.com/wps/portal/tatasky/tataskyplus/footerpages/privacypolicy/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJ9_A0MjLwsDLz8Db3cDDz9Av1Nnb3djd39jfULsh0VAVTGTOk!/#)
