@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwinnersadvantage.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404153107id_/http%3A//www.iwinnersadvantage.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwinnersadvantage.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920143341id_/http%3A//www.iwinnersadvantage.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - I Winners Advantage (IWA)
 
