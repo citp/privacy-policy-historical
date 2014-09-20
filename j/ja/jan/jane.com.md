@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070843id_/http%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920210226id_/https%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
