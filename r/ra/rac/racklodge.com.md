@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2014-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140117003353id_/http%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921005335id_/http%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
 
 # Your privacy is our number one priority | Rack Lodge DataCenter
 
