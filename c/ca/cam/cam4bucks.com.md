@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cam4bucks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074445id_/http%3A//www.cam4bucks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4bucks.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920215939id_/http%3A//www.cam4bucks.com/privacy-policy) for the most accurate reproduction.*
 
-# Webcam Modeling Online - How To Become A Cam Model
+# Cam4bucks - Become a webcam model for Cam4 and earn money!
 
 This Web site located at www.Cam4.com is owned by Surecom Corporation, NV, Curacao
 
@@ -32,7 +32,7 @@ Cam4 contacts you by email when we need to discuss your Cam4 account and any act
 
 **Changing or Deleting Personal Information; Business Transfers.**
 
-If you would like to have your personally identifiable information that Surecom Corporation, NV collects via Cam4.com removed from Surecom Corporation, NV's database, please contact us at http://www.cam4.com/contact/ and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information collected via Cam4.com that will remain within Surecom Corporation, NV databases, access logs, backup files and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, Surecom Corporation, NV reserves the right, from time to time, to recontact former customers or users of Cam4.com.
+If you would like to have your personally identifiable information that Surecom Corporation, NV collects via Cam4.com removed from Surecom Corporation, NV's database, please contact us at http://www.cam4.com/contact-us and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information collected via Cam4.com that will remain within Surecom Corporation, NV databases, access logs, backup files and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, Surecom Corporation, NV reserves the right, from time to time, to recontact former customers or users of Cam4.com.
 
 In addition, we may sell or transfer assets or portions of our business as we continue to improve our product and service offerings. In such transactions, visitor information (whether non-personally identifiable or personally identifiable) may constitute one of the transferred business assets.
 
