@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051020id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920211426id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice - TK Maxx
 
-**Last updated: 18th March 2014**
+**Last updated: 21st July 2014**
 
 Whenever you shop or make an enquiry with us, you may share personal information with us. This Privacy and Cookie Policy (referred to in this document as the “Policy”) sets out how we collect this information and what we do to make sure it is safe in our hands. TK Maxx and HomeSense are trading names of TJX UK, a company incorporated and registered in England and Wales with company registration number 03094828 and registered address at 50 Clarendon Road, Watford WD17 1TX. For the purposes of the Data Protection Act 1998, TJX UK is the data controller of any personal information you provide to us.
 
@@ -217,6 +217,14 @@ Note
   
 ---|---|---  
   
+a1ashgd
+
+OAGEO
+
+OAID
+
+| AgilOne |    
+  
 Guest_id  
 _utma  
 _utmz  
@@ -275,14 +283,14 @@ ecustomeropinions.com
   
 ### How can you refuse cookies?
 
-Your browser can be adjusted to refuse cookies being set on your device or to be notified prior to such cookies being set. How this is done depends on what type of browser you use. Details of how to manage cookies are available (depending on your type of browser) at [www.allaboutcookies.org](https://web.archive.org/web/20140628051020id_/http%3A//www.tkmaxx.com/page/www.allaboutcookies.org) or [www.aboutcookies.org](https://web.archive.org/web/20140628051020id_/http%3A//www.tkmaxx.com/page/www.aboutcookies.org). According to your browser, there are instructions regarding how to delete cookies or manage them being set on your device. If the browser you use is not listed, click on the Help bar on your browser and search for information on cookies. You will find an explanation on how to delete or manage cookies. Follow the relevant instructions.   
+Your browser can be adjusted to refuse cookies being set on your device or to be notified prior to such cookies being set. How this is done depends on what type of browser you use. Details of how to manage cookies are available (depending on your type of browser) at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.aboutcookies.org](http://www.aboutcookies.org/). According to your browser, there are instructions regarding how to delete cookies or manage them being set on your device. If the browser you use is not listed, click on the Help bar on your browser and search for information on cookies. You will find an explanation on how to delete or manage cookies. Follow the relevant instructions.   
 Please note that if you refuse to consent to cookies being placed on your account, certain parts of this website may not be available to you. 
 
 ### Where can I find out more information about cookies?
 
-Information about cookies can be found at [www.allaboutcookies.org](https://web.archive.org/web/20140628051020id_/http%3A//www.tkmaxx.com/page/www.allaboutcookies.org).  
-The Internet Advertising Bureau provides a guide to behavioural advertising and online privacy which can be accessed at [www.youronlinechoices.eu](https://web.archive.org/web/20140628051020id_/http%3A//www.tkmaxx.com/page/www.youronlinechoices.eu).  
-The International Chamber of Commerce UK cookie guide can be found on their website at [www.international-chamber.co.uk/our-expertise/digitaleconomy](https://web.archive.org/web/20140628051020id_/http%3A//www.tkmaxx.com/page/www.international-chamber.co.uk/our-expertise/digitaleconomy)
+Information about cookies can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+The Internet Advertising Bureau provides a guide to behavioural advertising and online privacy which can be accessed at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).  
+The International Chamber of Commerce UK cookie guide can be found on their website at [www.international-chamber.co.uk/our-expertise/digitaleconomy](http://www.international-chamber.co.uk/our-expertise/digitaleconomy)
 
 ## How do we protect your information when you apply for a job?
 
