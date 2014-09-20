@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jquerybyexample.blogspot.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213043808id_/http%3A//jquerybyexample.blogspot.com/p/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jquerybyexample.blogspot.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920200952id_/http%3A//jquerybyexample.blogspot.com/p/our-privacy-policy.html) for the most accurate reproduction.*
 
 # jQuery By Example: Privacy Policy
 
