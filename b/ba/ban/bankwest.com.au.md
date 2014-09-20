@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612005804id_/http%3A//www.bankwest.com.au/about-us/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920213542id_/http%3A//www.bankwest.com.au/about-us/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
 
 # Bankwest Privacy Policy
 
