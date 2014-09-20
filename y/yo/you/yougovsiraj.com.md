@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougovsiraj.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507030930id_/http%3A//mena.yougov.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougovsiraj.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921012122id_/http%3A//mena.yougov.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,3 +43,12 @@ Besides payment or prize fulfilment, communications will typically take place vi
   14. We may update this privacy policy from time to time.
 
 
+
+For our YYG panel members the following additional clauses apply:
+
+  15. YouGov is hosting and managing the YYG online panel on behalf of Yahoo under the terms of a service agreement. YouGov owns and controls the personal information that you voluntarily provide to us either during the registration process or by participating in YYG activities. Under the UK Data Protection Act 1998 YouGov is considered as the sole Data Controller and shall undertake its responsibilities as defined by the Act. YouGov may share data with Yahoo but data will only be shared in an aggregated, anonymised and non-attributable form.
+  16. All personal data supplied by you will be securely held at YouGov’s data centre in the United Kingdom.
+
+
+
+Not withstanding these clauses 15 & 16, all other clauses set out in this privacy policy remain in force.
