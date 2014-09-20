@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakgames.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625154754id_/http%3A//www.peakgames.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakgames.net privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920224923id_/http%3A//peakgames.net/privacy.html) for the most accurate reproduction.*
 
 # Peak Games | Living Through Games
 
