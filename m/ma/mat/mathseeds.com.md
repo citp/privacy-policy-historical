@@ -1,77 +1,116 @@
-> *The following text is extracted and transformed from the mathseeds.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084123id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathseeds.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920152420id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Reading Eggs
 
-### What information do we collect?
+This Privacy Policy describes how Blake eLearning ABN: 64 140 998 821, including its related companies which handle personal information collected in the United Sates holds, uses and discloses personal information consistent with the **United States Children Online Privacy Protection Act 1998 and Rule as administered by the Federal Trade Commission**.
 
-  * We collect information from you when you register on the site, place an order and enter a contest, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use ‘cookies’?" section below for information about cookies and how we use them.
+Blake eLearning is committed to protecting the privacy of your personal information.
 
+An individual who provides personal information to the Company, either directly or through a business partner or service provider, is given access to this Policy.
 
+By providing personal information to the Company and having access to this Policy, either directly or through a business partner or service provider, an individual consents to the Company collecting, holding, using and disclosing personal information in accordance with this Policy.
 
-### How do we use your information?
+## What information do we collect and how do we use it?
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+### Free trial registration
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and ‘members-only’ content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+When you sign up for a free trial of Reading Eggs, Reading Eggspress and Mathseeds we collect your first and last name, email address, phone number, your country and postcode. Once you log in to your free trial account, we also collect your child’s first and last name and their date of birth. Collection of these details is necessary for us to tailor our communications to you, manage your child’s progress through the programs, and ensure we can better respond to your customer service requests. You are entitled to provide us with a pseudonym if you wish to sign up anonymously. If you choose to sign up anonymously you will still have full access to the trial and all its features.
 
+### Subscription and product purchases
 
+When you subscribe to Reading Eggs, Reading Eggspress or Mathseeds or purchase any of our products, we collect your first and last name and your credit card details. If you are purchasing one of our products, we also collect your address for delivery. When you subscribe or purchase a product we do not allow the option for you to use a pseudonym as we require this information for payment and or delivery.
 
-### How do we protect visitor information?
+### Surveys
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of people who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+Our surveys are designed to collect your feedback so that we can improve our programs and the way we market to you. When you complete one of our surveys we may collect your first and last name, your email address, your home address if the survey entitles you to a free gift, your child’s age, your income, as well as your opinion or other personal information relating to our survey questions. You are not obliged to complete any of our surveys, either as part of our free trial or subscription programs or otherwise. You are entitled to provide us with a pseudonym if you wish to complete our surveys anonymously, although if completion of our survey entitles you to a free gift, we will require your correct name and address details to deliver it to you. 
 
-### Do we use "cookies"?
+### Social Media
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We periodically run competitions on our [Reading Eggs,](http://www.facebook.com/pages/ReadingEggs/110937408936060) [Reading Eggspress](http://www.facebook.com/pages/ReadingEggs/110937408936060) and [Mathseeds](https://www.facebook.com/mathseeds) Facebook pages. To enter these competitions, you may be required to provide your correct name, email address and/or delivery address if these are required for you to receive the competition prize. 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+### Cookies
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+Like many websites, we use cookies to enhance your experience and gather information about visitors and visits to our websites. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognise your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-### Do we disclose the information we collect to outside parties?
+We may contract third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Blake Education. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+You can choose to have your web browser (like Google Chrome or Internet Explorer) warn you each time a cookie is being sent, or you can choose to turn off all cookies. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our [Customer Service team](https://web.archive.org/contact-us/). 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Interaction With Children Online
 
-### How can you opt-out, remove or modify information you have provided to us?
+We do not knowingly collect information from minors in accordance with the Children’s Online Privacy Protection Act (COPPA) of 1998. Blake eLearning is committed to the protection of children’s online privacy.
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. If Blake eLearning website intends to collect information about children under 13 years old, COPPA-required information and instructions will be provided by the specific web page that collects information about the child. The web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+If we learn that a minor has submitted information about himself/herself to us, it will be deleted as soon as possible. If you believe that we have collected Personal Information from a minor, please contact our [Customer Service team](https://web.archive.org/contact-us/). 
 
-#### Third party links
+### Customer Service
+
+Based on the personally identifiable information you provide to us, Blake eLearning will communicate with you in response to any inquiries, to provide the products and services you request, and to manage your account. We will communicate with you by email, Live Chat and telephone.
+
+### Email communications
+
+All Blake eLearning email communications are in accordance with the **United States Children Online Privacy Protection Act and Rule as administered by the Federal Trade Commission**. When you sign up for a free trial, you will automatically receive promotional and student report emails from Reading Eggs, Reading Eggspress and Mathseeds. To opt-out of these email communications, you can click on the unsubscribe link at the bottom of the email, or you can simply log in to your account and click on the ‘My Account’ option, where you can choose to opt-in or out of emails. 
+
+Please note that due to email production schedules, upon cancellation you may receive any emails already in production.
+
+### How do we protect personal information?
+
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is stored on secure networks and is only accessible by a limited number of people who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+
+### Disclosure of information to Third Parties
+
+Blake eLearning does not rent, sell, trade, or otherwise transfer your personal information to third party sources. The term ‘third party sources’ does not include Blake eLearning’s related companies. 
+
+It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Overseas Disclosure
+
+Some of the organisations to which the Company will disclose personal information are located outside of the United States By accessing the website or opening an email on which this Policy is located or linked, the individual is directed to read it and as a result, giving consent to the collection, handling, use and disclosure of personal information by the Company in accordance with this Policy.
+
+### Third Party Links
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-#### Changes to our policy
+### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on June 6, 2011.
+Blake eLearning will endeavour to keep this privacy policy up to date to reflect any changes needed in accordance with the **United States Children Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.**
 
-#### Questions and feedback
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on 22 April, 2014.
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+### Terms of Use
 
-### Online Policy Only
+Please also visit our [Terms of Use](https://web.archive.org/terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+### Access to and correction of personal information
 
-### Terms and Conditions
+Blake eLearning will take reasonable steps to ensure that all your personal information it holds is accurate, up-to-date and relevant. You can request access to or corrections of your personal information held by Blake eLearning by contacting our [Customer Service team](https://web.archive.org/contact-us/).
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+In addition to the above, you can also delete or change your personal information online. To do so simply log in to your Reading Eggs account and click on the ‘My Account’ tab, where you can remove or change your address, or change your name, email and or phone number. If you wish to delete all your information, please contact our [Customer Service team](https://web.archive.org/contact-us/).
+
+### If Information or consent is not provided
+
+Without all of the required personal information being provided or consent being given, the Company will not be able to provide the product or service an individual is seeking, and may not be able to handle enquiries or claims in connection with those products or services.
+
+You may withdraw your consent at any time by emailing us at [support@readingeggs.com](mailto:support@readingeggs.com). We will return or destroy your personal information within five days of receipt of your withdrawal of consent.
+
+### How can I make a complaint?
+
+If you wish to lodge a complaint with Blake eLearning about your privacy, please contact our Privacy Officer with the details below. Blake eLearning regards any complaints very seriously and will take all necessary steps to address your complaint in a timely manner by phone and or email.
+
+Blake eLearning Privacy Officer  
+Ph: + 61 2 8585 4067  
+Email: kate.mclennan@pascalpress.com.au  
+Address: 655 Parramatta Rd Leichhardt NSW 2040 Australia
 
 ### Your consent
 
-By using our site, you consent to our privacy policy.
+When an individual accesses the website or opens an email on which this Privacy Policy and Notification is located or linked, the individual is directed to read it. As a result, the individual is notified of the matters that the Company must notify in accordance with the **United States Children Online Privacy Protection Act 1998 and Rule as administered by the Federal Trade Commission** and consents to the collection, handling, use and disclosure of personal information by the Company in accordance with this Policy. 
 
-This website is published by Blake Publishing, with support from 3P Learning.  
+This website is published by Blake Publishing, with support from 3P Learning.
 
+This Privacy Statement has been developed in accordance with the **United States Children Online Privacy Protection Act and Rule as administered by the Federal Trade Commission**.
 
-This Privacy Statement has been developed in accordance with the Australian Privacy Act 1988 (Cth), the United Kingdom Privacy Protection Act 1998 and the United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.
+**Policy last updated:** April 2014 
+
+Canadian customers please view our [Privacy Policy here](https://web.archive.org/privacy-canada)
