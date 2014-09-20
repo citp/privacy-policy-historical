@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sparkflow.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112959id_/http%3A//sparkflow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkflow.net privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920235812id_/http%3A//www.sparkflow.net/privacy) for the most accurate reproduction.*
 
 # Spark Flow - Privacy Policy
 
-  * [Home](https://web.archive.org/web/20140625112959id_/http://sparkflow.net/index.html)
-  * [Login](http://admin.ads.sparkflow.net/)
+  * [Home](https://web.archive.org/web/20140920235812id_/http://sparkflow.net/index.html)
+  * [Login](http://admin.sparkflow.net/)
 
 
 
