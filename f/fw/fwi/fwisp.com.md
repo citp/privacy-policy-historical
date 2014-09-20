@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwisp.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000807id_/http%3A//fwisp.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwisp.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920221402id_/http%3A//fwisp.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | fwisp
 
