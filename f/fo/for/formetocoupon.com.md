@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523201337id_/http%3A//www.formetocoupon.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920204310id_/http%3A//www.formetocoupon.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - For Me To Coupon
+# Privacy Policy - FMTC Affiliate Datafeed and Tools
 
 ### Overview
 
-For Me To Coupon (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at ForMeToCoupon.com (the “Web site”).
+FMTC (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at FMTC.com (the “Web site”).
 
 ### Collection of Personal Information
 
