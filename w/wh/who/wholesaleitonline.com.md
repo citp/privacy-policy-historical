@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213030851id_/http%3A//www.wholesaleitonline.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleitonline.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920210522id_/http%3A//www.wholesaleitonline.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
-# Privacy Policy | wholesaleitonline.com-Page Cached
+# Privacy Policy | wholesaleitonline.com
 
 **Wholesaleitonline.com** respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. 
 
@@ -54,9 +54,12 @@ What kind of email do you send to the customer?
 We send email content to our customers that may include following:  
 Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,  
   
- Email  
-[service@wholesaleitonline.com](mailto:service@wholesaleitonline.com)   
-  
   
 How do I unsubscribe?  
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
+
+Should you need any help please don't hestiate to contact us.  
+Our phone number:001-718-3959508 
+
+email address:service@wholesaleitonline.com  
+Address:#17 Apartment,1248 Lane,Jingang Road,PuDong District,ShangHai,China
