@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crn.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331184658id_/http%3A//thechannelcompany.com/channel-company-privacy-policy-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921015800id_/http%3A//thechannelcompany.com/channel-company-privacy-policy-highlights) for the most accurate reproduction.*
 
 # The Channel Company Privacy Policy Highlights | The Channel Company
 
@@ -6,7 +6,7 @@ _Effective January 4th, 2009_
 
 ## SCOPE
 
-This Privacy Policy Highlights and the full [**The Channel Company Privacy Policy**](http://thechannelcompany.com/privacy-policy.htm) (together, simply the Policy) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.
+This Privacy Policy Highlights and the full [**The Channel Company Privacy Policy**](http://www.thechannelcompany.com/privacy-policy.htm) (together, simply the Policy) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.
 
 ## PERSONAL INFORMATION
 
@@ -28,8 +28,8 @@ We use information about you
 
 ## YOUR CHOICES
 
-  * To find out how to control whether or not to connect with other companies, opt out of our email marketing programs, or keep your account or subscription information up to date, please visit [Your Choices](http://thechannelcompany.com/privacy-policy.htm#Choices) in the full Policy.
-  * To find out how to control the display of advertising or content based on your interests, please review [More Information About Cookies](http://thechannelcompany.com/channel-company-privacy-policy#More_info) in the full Policy.
+  * To find out how to control whether or not to connect with other companies, opt out of our email marketing programs, or keep your account or subscription information up to date, please visit [Your Choices](https://web.archive.org/web/20140921015800id_/http%3A//thechannelcompany.com/privacy-policy.htm#Choices) in the full Policy.
+  * To find out how to control the display of advertising or content based on your interests, please review [More Information About Cookies](https://web.archive.org/web/20140921015800id_/http%3A//thechannelcompany.com/channel-company-privacy-policy#More_info) in the full Policy.
 
 
 
@@ -45,7 +45,7 @@ We use information about you
 
 ## HOW TO CONTACT US
 
-For more information about our privacy practices and how to contact us, please review the full [**The Channel Company Privacy Policy**](http://thechannelcompany.com/privacy-policy.htm).
+For more information about our privacy practices and how to contact us, please review the full [**The Channel Company Privacy Policy**](https://web.archive.org/web/20140921015800id_/http%3A//thechannelcompany.com/privacy-policy.htm).
 
  **The Channel Company**   
 550 Cochituate Road  
