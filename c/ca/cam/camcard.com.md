@@ -1,165 +1,151 @@
-> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607202043id_/https%3A//static.intsig.net/r/terms/PP_CamCard_en-us.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920214008id_/https%3A//s.intsig.net/r/terms/PP_CamCard_en-us.html) for the most accurate reproduction.*
 
-# CamCard Privacy Policy
+# CAMCARD PRIVACY POLICY
 
 **CAMCARD PRIVACY POLICY**
 
-**Introduction**
+**1.       ****Statement**
 
-      Thank you for choosing CamCard. There are many different ways you can use our services: to manage backup cards . Please read this policy carefully before you use our services as it explains different kinds of personal information we collect about you and how it is handled. By your continued use of our services, you acknowledge and consent to the collection and use of your personal information for the purposes of improving our services as set out in this Privacy Policy.
+We are improving CamCard Privacy Policy continually. As the service of CamCard develops, we may update CamCard Privacy Policy at any time. Please check it regularly and acknowledge the latest CamCard Privacy Policy.
+
+**2.       ****Introduction**
+
+Thank you for choosing CamCard. There are many different ways you can use our services，such as by recognizing, managing and backing up business card and so on. We wish to explain to you how we collect and use information though CamCard Privacy Policy, and how you can protect your privacy. When you use CamCard, it is considered you have consented to accept this Privacy Policy to be effect to you.
 
 This Privacy Policy describes: 
 
-(1)   what kind of information we collect and why;
+(1)   What kind of information we collect and why;
 
-(2)   how we use such information;
+(2)   How we use such information;
 
-(3)   options we offer, including how to access, update and control information;
+(3)   Options we offer, including how to access, update and control information;
 
-(4)  your obligations to protect the privacy;
+(4)  Your obligations to protect the privacy;
 
-(5)  information security.
+(5)  Information security.
 
-**Personal information we collect** ****
+**3.       ****Personal information we collect**
 
-**Why we collect information**
+3.1 Why we collect information
 
-INTSIG Information Inc. (hereinafter referred to as "INTSIG Information" or "We" or "Us") aims to provide the professional with genuine and valid business online application platform through CamCard services.   If you do not allow CamCard to collect, display or use your information, or you disagree with CamCard’s user agreement or privacy policy, you can not make use of CamCard. If you have already begun using CamCard, you should cease use of the services immediately; otherwise your using shall mean or imply that you have accepted our agreements, rules and policies.
+INTSIG Information Inc. (hereinafter referred to as "INTSIG" or "We" or "Us") aims to provide the professional with safe and efficient business card recognition, management, backup and synchronization service, etc. We afford our service though our website, software or other APPs. If you do not allow CamCard to collect, display or use your information, or you disagree with CamCard’s user agreement or this privacy policy, you cannot make use of CamCard. If you have already begun using CamCard, please cease use of the services immediately; otherwise your using shall mean or imply that you have accepted our agreements, rules and policies.
 
-**Classification of information** ****
+3.2 Classification of information 
 
-We will classify information collected into the following two major types according to whether personal identity can be recognized or not.
+We classify user information into the following two major types according to whether personal identity can be recognized or not.
 
-(1) Identifiable Personal Information that can be used to directly identify, track, and confirm personal identity information, such as your name, e-mail address, telephone number, and so on. 
+(1) Identifiable Personal Information. It can be used to directly identify, track, and confirm personal identity information, such as your name, e-mail address, and phone number and so on. 
 
-(2) Unidentifiable Personal Information, we may record and store your usage of CamCard to provide you a more personalized experience, such information relate to you but cannot be used to directly identify, track, or confirm your personal identity information.
+(2) Unidentifiable Personal Information. It can be the information which is related to you but cannot be used for directly identifying, tracking, and confirming personal identity information such as your use record of CamCard. We collect the kind of information to improve your experience when using CamCard.
 
-**What kind of information we collect and how**
+**4.       ****What kind of information we collect and how**
 
-**      Information you submit**
+4.1 Information you submit
 
-**      Personal information you submit**
+4.1.1 Personal information you submit
 
-When you register as a member of CamCard, you should provide contact information including your e-mail address, name, password and so on. 
+When you register with CamCard, you should provide contact information including your e-mail address, phone number, name, and password and so on, in order that we can send you notification when necessary. If any of your information has changed, please sign in your account to update it immediately. You acknowledge and agree that we can identify you according to your registering information when necessary.
 
-     When you add new friends who are not from CamCard, your invitation message will be sent via email; when you add friends by card albums you upload, the invitation message will be sent to email address corresponding to card albums. You can also manually fill in email address to send invitation message. INTSIG Information would like to draw your attention to the fact that your email address will be displayed in the invitation message you have sent.
+4.1.2 Card information you upload
 
-  **Card information you upload**
+Other people’s business card information that you upload to CamCard attributes to their personal information and their privacy may be involved therein, so you should promise that you are authorized to do this. You should also make appropriate settings to prevent leaking information from infringing rights and interests of the owner. You shall not disclose such business card information without authorization. INTSIG will not disclose information you upload if not authorized.
 
-Other peoples’ information that you upload to card albums may involve their privacy, so you should make sure that you are authorized to do this. You should make appropriate settings to prevent leaking information from infringing rights and interests of the owner. You shall not disclose such information without authorization. INTSIG Information will not disclose information you upload if not authorized.
+4.2 Information we get from your use of CamCard service
 
-**Information we get from your use of CamCard service**
+In order to provide you with better service, we may record and analyze your use of CamCard service, the way you use it and other relevant information, including: device information such as hardware model, operating system version, device event information and so on; log file such as IP address, login or logout of account, clicking advertisement and so on; and information of Web Beacon or Cookie, etc.
 
-In order to provide you with better service, we may record and analyze your use of CamCard service, the way you use it and other relevant information, including:
+If you use the location service of third-party, we may collect your location information from the third-party. Because the location information might leak your track, which may be used by undesirable, we suggest you disposing it carefully, especially not disclosing your home address so as to avoid unlawful attack/injury or harm from abuse of such information.
 
-**Device information**
+**5.       ****Accessing, consulting and updating your personal information**
 
-We may collect detailed device information (for example, your hardware model, operating system version, unique device identifiers, and mobile network information including phone number, etc) and device event information (for example, crashes, system activity, hardware settings, browser type and browser language, etc).
+CamCard services enable you to check or update your personal information. To ensure safety, you have to access your account to carry out the above operation. 
 
-** Log file **
+**6.       ****Deleting your personal account**
 
-When you use our services, our system may automatically collect and store certain information in server logs (for example, your IP address, the date and time of your login or logout, pages you viewed, information you uploaded or shared, applications you installed or used, advertisements you clicked, etc). 
+You can contact INTSIG via e-mail you submitted when you register to apply for the cancellation of your account. We will delete your personally identifiable information from the open database according to our rules after canceling your account, and we have no obligation to retain or provide your account information.
 
-**  Location information**
+**7.       ****Option of personal information**
 
-Our third-party applications may contain service with locating function. When you use such service, we may collect and process information about your actual location (such as GPS signals sent by a mobile device). Location information may reveal your track and such flaw may be used by the wrong hands. Therefore we advise you to deal with it prudently. In particular, you should not randomly disclose your home address so as to avoid unlawful attack/injury or harm from abuse of such information.
+If you only set to use CamCard in locate mobile terminal device, we are not able to collect any of your information.
 
-**Local storage**
+You acknowledge and consent that information you disclose is likely to be browsed, forwarded and commented by other CamCard users. You can personally make publicity restriction or adjustment on relevant information in privacy settings. 
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+You are kindly suggested to complete your privacy settings on publicity restriction for the sake of risk aversion. Otherwise, it will be deemed as you have accepted our default settings.  And we remind you especially, when using mobile terminal device, to set if the location information is published or not by yourself. If you are not clear about it, please check the user manual. If you choose to disclose your location information, please take notice of the risk of leaking your track. We strongly advise you not to disclose your home address so as to avoid unlawful attack/injury or harm from abuse of such information.
 
-**Use of Web Beacons and Cookies**
+**8.       ****Use of personal information**
 
-We use various technologies to collect and store information to supply you with better and faster services, and this may include sending Web Beacons and cookies to your device to help you spend less time on accessing and using CamCard services. Cookies we sent can only be read by INTSIG Information server and they are unable to execute any code or virus. You can set your browser to reject all cookies. However, many normal services of CamCard might not work due to the rejection thereof. 
+It is regarded that you have authorized INTSIG to collect and process the information you submit once you register for a CamCard account. Otherwise, please instantly sign out from your account to terminate CamCard service. INTSIG will no longer collect and process your relevant information immediately after you canceled your account.
 
-The above information is called Unidentifiable Personal Information.
+INTSIG collects and uses your information to operate or improve CamCard service, such as providing customer service, offering convenience by avoiding repeated inputs, and providing you with personalized information.
 
-**Accessing, consulting and updating your personal information**
+We are likely to contact you by your personal information, such as sending emails or messages concerning your service or other promotional information to your registered mailbox or phone number. You have the right to reject these messages. However, we will still send you e-mail concerning some necessary CamCard-related service such as notification of service terms changes.
 
-CamCard services enable you to consult or update your personal information. To ensure safety, you have to access your account to carry out the above operation. 
+The collected information will be stored and processed in servers of INTSIG and its affiliated companies or other service providers. All these servers can be located in either China or any other country or district in accordance with our service demands.
 
-**Deleting your personal account**
+We will ask for your consent before using your information for a purpose other than those that are set out herein or in our user agreements. 
 
-You can contact INTSIG Information via e-mail you submitted when you register to apply for the cancellation of your account. We will delete your personally identifiable information from the open database according to our rules after canceling your account, and we have no obligation to retain or provide your account information.
+**9.       ****Unsolicited correspondence or junk mail**
 
-**Option of personal information**
+You might receive unsolicited emails from other users if you choose to make relevant information (such as your contact information) disclosed.
 
-You acknowledge and consent that the public information is likely to be browsed, forwarded and commented by other CamCard users. You can personally make publicity restriction or adjustment on relevant information in privacy settings. 
+**10.   ****Sharing of Personal Information**
 
-You are kindly suggested to complete your privacy settings on publicity restriction if you need for the sake of risk aversion. Otherwise, it will be deemed as you have accepted our default settings. If you choose to publicize your location-based information, please be advised of the likely risk in connection with leakage of tracks. 
+Unless otherwise specified, we will not share your personal information with anyone other than INTSIG and its affiliated companies, business partners and solution vendors without your consent. We are hereby allowed to disclose your relevant information to the aforesaid companies. The companies above may sometimes offer certain service such as data storage service, etc. in representative of INTSIG. Accordingly, these companies can only get access to information related to the service they offer. INTSIG will assure the security of information use through signing confidentiality agreement or add confidentiality clauses in it, etc. with the companies above. 
 
-**Use of personal information**
+**11.   ****Disclosure and publicity of personal identification information**
 
-It is regarded as you have granted authorization to INTSIG to collect and process the information you submit, once you register with CamCard. Otherwise, you should instantly log off your account to terminate CamCard service. INTSIG will no longer collect and process your relevant information immediately after your log-off.
+With our respect and protection to your privacy, we guarantee not to disclose user personal identity information to any third party or individual, unless one of the following circumstances applies
 
-INTSIG collects and uses your information to operate or improve CamCard service, including rendering customer service, offering convenience by avoiding repeated inputs, and providing you with personalized or promotional information.
+(1)   With your consent; 
 
-We are likely to send emails concerning your service or other promotional information to your registered mailbox. You have the right to reject the service; however, we will still send you emails concerning some particular CamCard-related service such as notification of service terms changes.
+(2)   For legal reasons or government requests; 
 
- The collected information will be stored and processed in servers of INTSIG and its affiliated companies or other service providers. All these servers can be located in either China or any other country or district in accordance with our service demands.
+(3)   For the purpose of enforcing CamCard user agreement, or under other circumstances INTSIG deems necessary;
 
-We will ask for your consent before using your information for a purpose other than those that are set out herein or in our user agreement. 
+(4)   For protection of legal rights of INTSIG and other users, or public security and public interest under emergencies.
 
-**Unsolicited correspondence or junk mail**
+**12.   ****Privacy protection after bankruptcy or M &A**
 
-As your public information could be browsed and used by other users, you might receive unsolicited emails or in-station correspondence from them if you choose to make relevant information public, such as your position information.
+In the event that INTSIG undergoes a business transition, such as a merge, acquisition by another company, sale of all or a portion of its assets, or bankruptcy, we may transfer all of your information, including personal information, which we collect in our service, to the successor organization in such transition as our property. The new company will continue to dispose the information according to the law, this policy and the agreement as before.
 
-**Sharing of Personal Information**
+**13.   ****Information security**
 
-Unless otherwise specified, we will not share your personal information with anyone other than INTSIG and its affiliated companies, business partners and solution vendors without your consent. We are hereby allowed to disclose your relevant information to the aforesaid companies. The companies above may sometimes offer certain service in representative of INTSIG CamCard . Accordingly, these companies can only get access to information related to the service they offer. INTSIG will assure the security of information use through signing confidentiality agreement with the companies above. 
+We’re using mainstream technology to protect our users’ data, not only those stored on our servers but also those transferred between our app and servers. No one can access, use or publish them without authority. For example, our CamCard uses SSL (Secure Sockets Layer) with 2048 bit RSA and 256 bit AES encryption to transfer data between our app and servers. The files stored on our servers are using 256 bit AES encryption, which is on bank information security level. The implementation may vary depending on the technology development and our business development.
 
-**Disclosure and publicity of personal identification information**
+We’ll try our best to ensure the safety of our users’ data. But due to the complexity of the Internet environment, we could not make any commitment for that. You can visit Data Security to understand our data security policy in detail.
 
-With our respect and protection to your privacy, we guarantee not to rent or sell user information to any third party or individual, unless one of the following circumstances applies:
-
-1\. with your consent; 
-
-2\. for legal reasons or government requests; 
-
-3\. for the purpose of enforcing CamCard user agreement, or under other circumstances INTSIG deems necessary;
-
-4\. for protection of legal rights of INTSIG and other users, or public security and public interest under emergencies. 
-
-**Privacy protection after bankruptcy or M &A**
-
-    In the event that INTSIG Information undergoes a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, we may transfer all of your information, including personal information, to the successor organization in such transition. 
-
-**Information security**
-
-We protect information and data stored in the system from unauthorized access, use and disclosure through different security technologies and methods. We will try our best to protect your information security; however, we are unable to make any commitment considering the complexity of online security environment. You can visit [security protection](http://static.intsig.net/r/terms/SO_CamCard_en-us.html) for further knowledge of our information security policy. 
-
-**Remedies of information leakage**
+**14.   ****Remedies of information leakage**
 
 Please inform us promptly once your personal information is likely to be or has already been leaked. We will make every effort to render assistance by taking reasonable actions. We may contact you through registered mailbox or make a warning announcement on our website, if we find any potential security risk such as system vulnerabilities. 
 
-**Privacy terms for children**
+**15.   ****Privacy terms for children**
 
-Our services are not intended for children under the age of 18 and we do not knowingly collect any personal information from such children. Children under the age of 18 should NOT use our service at any time. In the event that we learn that we have inadvertently gathered personal information from children under the age of 18, we reserve the right to take reasonable measures to promptly erase such information from our records.
+We attach great importance to the security and protection of minor’s privacy and data. According to our business, we don’t permit a minor to register or use our service. However, we are not able to identify if the user is a minor or if the relevant information is come from a minor, unless the minor’s guardian notices INTSIG in written. Without the prior consent of the guardian, we will not use the minor’s information, or leak the Identifiable Personal Information to any third party, unless we need to provide them necessary service or assist the government and judicial institutions. 
 
-**For users from different countries**
+In the event that we learn that we have inadvertently gathered personal information from a minor by accident, we will reserve the right to take reasonable measures to promptly erase such information from our records.
 
-INTSIG protects privacy and personal information in compliance with laws and regulations of Mainland PR China (excluding laws of conflict), and such polices also apply to CamCard users from other countries and districts. 
+**16.   ****For users from different countries**
 
-This Privacy Policy is written and used in Chinese. The English translation version is intended for reference only. In the event of any contradiction, the Chinese version shall prevail.
+INTSIG protects privacy and personal information in compliance with our Privacy Policy which is set down according to laws and regulations. For the user from China Mainland, the terms of this policy applies the law of People’s Republic of China. For the user from other area of China or other countries and districts, the terms of this policy applies the law of Hong Kong.
 
-**Risk and disclaimer**
+**17.   ****Risk and disclaimer**
 
-You agree that we do not bear any responsibility if your personal information and privacy leaks out of any reasons below: 
+If your personal information and privacy leak out for any reasons below, we will try our best to remedy it or afford assistant to you. However, you agree that we do not bear any responsibility:
 
-1\. attack from virus, Trojan or hackers; 
+(1)   Attacked from virus, Trojan or hackers; 
 
-2\. for legal reasons or government requests; 
+(2)   For legal reasons or government requests; 
 
-3\. your sharing activity of your own account information;
+(3)   Your sharing activity of your own account information;
 
-4\. any other reason not relevant to INTSIG. 
+(4)   Any other reason not relevant to INTSIG. 
 
-**Changes of privacy terms**
+**18.   ****Changes of privacy terms**
 
 CamCard is entitled to make proper adjustments on the range of information collection, the way of information display, and the platform settings in accordance with the development of business and the change in law and policies. 
 
-Any Privacy Policy change will be posted on our website or be informed to you directly. You have the right to decide whether to continue using CamCard service or not. If you disagree with the updated Privacy Policy, you should instantly log off your account to terminate CamCard service. 
+Any Privacy Policy change will be posted on our website or be informed to you directly. You have the right to decide whether to continue using CamCard service or not. If you disagree with the updated Privacy Policy, please instantly sign out from your account to terminate CamCard service. 
 
-**Contact us**
+**19.   ****Contact us**
 
-We will regularly or irregularly follow up and review the enforcement of our Privacy Policy. If you have any questions regarding our Privacy Policy, please send an e-mail to: [service@INTSIG.com](mailto:service@intsig.com), mail subject: Privacy Policy Issue.
+We will regularly follow up and review the enforcement of our Privacy Policy. If you have any questions regarding our Privacy Policy, please send an e-mail to: [support@intsig.com](mailto:support@intsig.com), mail subject: Privacy Policy Issue.
