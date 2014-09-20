@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522165251id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920235324id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bill4Time
 
-_Last updated on May 12, 2011._
+_Last updated on September 17, 2014._
 
 ### What information do we collect?
 
@@ -28,6 +28,10 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+### Safe Harbor Statement
+
+Bill4Time complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bill4Time has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit: [ www.export.gov/safeharbor ](http://www.export.gov/safeharbor/)
+
 ### California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'Settings' page.
@@ -50,4 +54,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20140522165251id_/http://www.bill4time.com/time-management-software-support/).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20140920235324id_/http://www.bill4time.com/time-management-software-support/).
