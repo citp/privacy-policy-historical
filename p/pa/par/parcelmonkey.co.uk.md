@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcelmonkey.co.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325062640id_/http%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelmonkey.co.uk privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920211940id_/http%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel Monkey
 
@@ -6,7 +6,7 @@ Parcel Monkey are committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998, the Data Controller is Parcel Monkey Limited of International House, George Curl Way, Southampton, Hampshire SO18 2RZ.
+For the purpose of the Data Protection Act 1998, the Data Controller is Parcel Monkey Limited of Unit 21 Tollgate, Tollgate Business Village, Chandlers Ford, Hampshire SO53 3TG.
 
 Data Protection Registration No. Z2767021
 
@@ -72,7 +72,7 @@ If any data or information we hold about you is inaccurate or out of date then p
 
 You can change your mind or remove or add your consent at any time and you can be removed from our database. Please note that this will not delete information held about you on other third party databases or information which we are required to hold for legal or regulatory purposes.
 
-To revise your consent, access, amend or delete your records you should contact the Data Protection Officer, Parcel Monkey Limited, International House, George Curl Way, Southampton SO18 2RZ. 
+To revise your consent, access, amend or delete your records you should contact the Data Protection Officer, Parcel Monkey Limited, Unit 21 Tollgate, Tollgate Business Village, Chandlers Ford SO53 3TG. 
 
 ## Cookies
 
