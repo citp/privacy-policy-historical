@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yougovsiraj.com privacy policy that was archived on 2014-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140507030930id_/http%3A//mena.yougov.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yougovsiraj.com privacy policy that was archived on 2014-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921012122id_/http%3A//mena.yougov.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-yjs" lang="en"><!--<![endif]--><head profile="http://gmpg.org/xfn/11">
         <meta charset="utf-8">
@@ -14,7 +14,7 @@
 
         <link rel="shortcut icon" type="image/x-icon" href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/img/favicon.e2f529823c55.ico">
         <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/cumulus-core.9ba2974eb325.css" rel="stylesheet" type="text/css">
-        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/main.8c6b7baf1c72.css" rel="stylesheet" type="text/css">
+        <link href="//d1rq7cuzerol8r.cloudfront.net/cu/labs/css/main.a02fd7bd49d0.css" rel="stylesheet" type="text/css">
         <link href="/en/news/feeds/latest/" rel="alternate" type="application/atom+xml">
         
         
@@ -70,6 +70,7 @@ $(document).ready(function() {
         if($('.countryLinks').length > 0){
             // Get JSON of links from translatable template //
             var countryJSON =  
+ 
  {
     "countries": [
         {
@@ -261,9 +262,20 @@ $(document).ready(function() {
                 "B2B": "",
                 "Polling": ""
             }
+        },
+        {
+            "name": "Asia-Pacific",
+            "slug": "asia-pacific",
+            "coords": "",
+            "sites": {
+                "Panelist": "http://ap.yougov.com/",
+                "B2B": "",
+                "Polling": ""
+            }
         }
     ]
-}
+ }
+ 
 ;
 
             // init the loadCountryLinks from cumulus-core.js
@@ -361,7 +373,7 @@ $(document).ready(function() {
             <div id="headerDropdowns">
             
                 <form id="languageForm" name="languageForm" method="post">
-                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="ZW4bF3ZJm6vljuUOSiaX5dmSCOZFlChX"></div>
+                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="WPBgcpv5LfA3l3V41pbA8zbJZmquNtNh"></div>
                     <select name="language" class="languageLinks">
                     
                     
@@ -393,7 +405,7 @@ $(document).ready(function() {
 <script id="notLoggedInBlock" type="text/html">
 <div class="loginBox">
         <div class="loginButtons">
-            <a href="/en/account/login" class="header-login">Login</a>
+            <a href="/en/account/login/" class="header-login">Login</a>
             <a href="/en/panel/join-our-panel/" class="header-join">Join YouGov</a>
         </div>
 </div>
@@ -907,7 +919,14 @@ if(getCookie('yguser')){
 <li>The Website contains links to other sites and vice versa. This privacy policy applies solely to information protected by YouGov on this Website.</li>
 <li>We may update this privacy policy from time to time.</li>
 </ol>
-<p>&nbsp;</p>
+<div>
+<p>For our YYG panel members the following additional clauses apply:</p>
+<ol start="15">
+<li>YouGov is hosting and managing the YYG online panel on behalf of Yahoo under the terms of a service agreement. YouGov owns and controls the personal information that you voluntarily provide to us either during the registration process or by participating in YYG activities. Under the UK Data Protection Act 1998 YouGov is considered as the sole Data Controller and shall undertake its responsibilities as defined by the Act. YouGov may share data with Yahoo but data will only be shared in an aggregated, anonymised and non-attributable form.</li>
+<li>All personal data supplied by you will be securely held at YouGov’s data centre in the United Kingdom.</li>
+</ol>
+<p>Not withstanding these clauses 15 &amp; 16, all other clauses set out in this privacy policy remain in force.</p>
+</div>
 </div>
 <div class="grid_4 block_2_2">
 	
@@ -1103,7 +1122,9 @@ if(getCookie('yguser')){
          | 
         
         
-            <a target="_top" href="/en/privacy-policy">Privacy Policy</a>
+            <a target="_top" href="/en/privacy-policy">Privacy Policy</a>  |  
+        
+            <a target="_top" href="/en/panel/terms-and-conditions">Terms &amp; Conditions</a>
         
     </div>
 </div>
@@ -1164,6 +1185,7 @@ if(getCookie('yguser')){
         <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script>
         <script type="text/javascript">
             
+                        
             if (typeof(Zenbox) !== "undefined") {
                 Zenbox.init({
                     dropboxID: '20090733',
