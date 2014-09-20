@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitevaluefox.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227091730id_/http%3A//www.sitevaluefox.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevaluefox.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920213358id_/http%3A//www.sitevaluefox.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SiteValueFox - FREE WebSite Value Link Generator - What is Your Website Worth?
 
