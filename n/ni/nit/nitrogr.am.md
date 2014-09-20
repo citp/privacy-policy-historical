@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the nitrogr.am privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515015612id_/http%3A//nitrogr.am/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrogr.am privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920163801id_/http%3A//totems.co/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | Nitrogram
+# Privacy and Cookie Policy | TOTEMS
 
-The Nitrogram Team and their parent company Teleportd Limited. take privacy seriously, manipulating-unstable-explosives-level seriously.
+We are committed to ensuring the privacy of our users while also making their life online easier by providing a useful and personalised service. This Policy explains how we process data that is sent to us when you use our website. It will be available for you to access through a link in the footer of all of our website pages. If at any point you have questions concerning your personal information or any other aspect of our privacy practices, please get in touch by email at [hello@totems.co](mailto:hello@totems.co "contact totems").
 
-We are committed to ensuring the privacy of our users while also making their life online easier by providing a useful and personalised service. This Policy explains how we process data that is sent to us when you use our website. It will be available for you to access through a link in the footer of all of our website pages. If at any point you have questions concerning your personal information or any other aspect of our privacy practices, please get in touch by email at [boom@nitrogr.am](mailto:boom@nitrogr.am "contact nitrogram").
-
-We will refer to any webpage on [http://nitrogr.am](http://nitrogr.am/ "nitrogram") or any of its subdomains as “the Service”. Teleportd Ltd. which builds Nitrogram will be referred to as “Teleportd”, “we” or “the Company”. “You” means an individual who accesses or uses the Service. The document below which covers matters related to privacy and cookies will be referred to as “the Policy”.
+We will refer to any webpage on [http://totems.co](http://totems.co/ "totems") or any of its subdomains as “the Service”. Teleportd Ltd. which builds TOTEMS Analytics will be referred to as “Teleportd”, “we” or “the Company”. “You” means an individual who accesses or uses the Service. The document below which covers matters related to privacy and cookies will be referred to as “the Policy”.
 
 As mentioned in section 8. below, our sites contain links to third party sites (especially in the blog section) which are not subject to this Policy. We recommend that you read the privacy policy of any such sites that you may come to visit, if not for the literary thrill then at least for informational purposes.
 
@@ -117,4 +115,4 @@ This Policy is effective from January 15 2013. From time to time we may make cha
 
 #### 13\. Getting in touch with us
 
-If you have any questions, comments, or concerns about this Policy or about our privacy practices, please get in touch at boom@nitrogr.am.
+If you have any questions, comments, or concerns about this Policy or about our privacy practices, please get in touch at hello@totems.co.
