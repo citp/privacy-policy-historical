@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogswomen.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520121036id_/http%3A//www.blogswomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogswomen.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920065627id_/http%3A//www.blogswomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
