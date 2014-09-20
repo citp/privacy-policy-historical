@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the menhdv.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625064032id_/http%3A//menhdv.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the menhdv.com privacy policy that was archived on 2014-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140920220046id_/http%3A//menhdv.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:og="http://ogp.me/ns#"><head>
     <!--[if IE]>
@@ -20,7 +20,7 @@
         <meta name="format-detection" content="telephone=no">
     <link rel="dns-prefetch" href="//img.menhdv.com">
     <link rel="dns-prefetch" href="//cdn.menhdv.com">
-        <meta name="twitter:site" content="@menhdv">    <link rel="stylesheet" href="http://menhdv.com/css/main.min.css?upgrade=24062014-1">
+        <meta name="twitter:site" content="@menhdv">    <link rel="stylesheet" href="http://menhdv.com/css/main.min.css?update=0508201401">
     <link rel="stylesheet" href="http://menhdv.com/css/menhdv-utils.min.css">
     <!--[if lt IE 9]>
     <script src="http://menhdv.com/js/html5shiv.min.js"></script>
@@ -46,9 +46,7 @@
 </head>
 <body>
 <div id="main"><header>
-    <div class="header-wrapper clearfix">
-        <h1><a href="http://menhdv.com/" title="Only HD Gay Porn Videos"><img src="/images/header-logo.png" class="header-logo" width="212" height="65" alt="Top HD Gay Porn Videos. Daily Hot Updates. Only Exclusive Gay Porn."></a></h1>
-                <div class="header-nav">
+    <div class="header-wrapper clearfix"><a href="http://menhdv.com/" title="Only HD Gay Porn Videos"><img src="/images/header-logo.png" class="header-logo" width="212" height="65" alt="Top HD Gay Porn Videos. Daily Hot Updates. Only Exclusive Gay Porn."></a>                <div class="header-nav">
             <ul>
                 <li class=""><a href="http://menhdv.com/" title="MenHDV.com" class="button button-gray"><span class="header-home"></span></a>
                 </li>
@@ -61,7 +59,7 @@
         <div class="header-search">
             <form action="http://menhdv.com/search/">
                 <input type="text" name="q" value="" class="default-textbox" placeholder="">
-                <span class="button button button-gray"><input type="submit" value="" class="submit"></span>
+                <span class="button button button-gray"><input type="submit" value=" " class="submit"></span>
             </form>
         </div>
         <div class="header-position">
@@ -217,11 +215,15 @@ Unfortunately, the transmission of information via the Internet is not completel
     $(function () {
         App.tpl = App.tpl || 'none';
         if (App.spon) {
-            ga('send', 'event', 'Template', App.tpl, App.spon);
+           // ga('send', 'event', 'Template', App.tpl, App.spon);
             App.$body.on('click', '.sct', function (e) {
                 ga('send', 'event', 'SponsorClick', App.tpl, App.spon);
             });
         }
+        App.$body.on('click', '.ge', function (e) {
+            var $t = $(this);
+            ga('send', 'event', ($t.data('ek') || 'unknown' ), ($t.data('ev') || 'unknownv' ), ($t.data('ec') || null));
+        });
     });
     (function (recursiveTicker) {
         window.setInterval(function () {
@@ -233,7 +235,7 @@ Unfortunately, the transmission of information via the Internet is not completel
                 }
             })(recursiveTicker.split(':').reverse());
             ga('send', 'event', 'Time', 'Log', recursiveTicker);
-        }, 10000);
+        }, 15000);
     })('00');
 
 </script>
