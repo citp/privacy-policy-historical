@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickfor.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124658id_/http%3A//clickfor.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickfor.net privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920194747id_/http%3A//clickfor.net/privacy) for the most accurate reproduction.*
 
 # clickfor.net | Click For Hotel Network
 
