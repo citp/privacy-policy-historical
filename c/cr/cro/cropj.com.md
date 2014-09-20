@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cropj.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901123605id_/http%3A//www.cropj.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cropj.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920201059id_/http%3A//www.cropj.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
