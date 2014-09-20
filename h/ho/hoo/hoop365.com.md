@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoop365.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521053255id_/http%3A//www.hoop365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop365.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921013450id_/http%3A//www.hoop365.com/privacy-policy) for the most accurate reproduction.*
 
-# HOOP365 Privacy Policy | HOOP365
+# www.HOOP365.com Privacy Policy - www.HOOP365.com
 
 City Pro Media Ltd., which operates the Web site Hoop365.com (“Hoop365.com”), is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to families’ concerns about their children’s personal information and safety. We want you to know about and understand the measures we have taken to keep Hoop365.com a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information.
 
