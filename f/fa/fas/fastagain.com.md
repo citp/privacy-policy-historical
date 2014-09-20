@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastagain.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615225839id_/http%3A//www.fastagain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastagain.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920204835id_/http%3A//fastagain.com/privacy) for the most accurate reproduction.*
 
 # FastAgain PC Booster | Boost PC Speed & Fix Windows Errors
 
