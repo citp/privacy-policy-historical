@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbizcrm.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604122851id_/http%3A//www.smallbizcrm.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbizcrm.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920184147id_/http%3A//www.smallbizcrm.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SmallBizCRM Privacy policy
 
@@ -64,7 +64,3 @@ Your use of this site indicates acceptance of this privacy policy.
 [](https://twitter.com/SmallBizCRM "Follow us on Twitter")
 
 [](https://plus.google.com/u/0/106977010846902187739/ "Add us to your Google Plus")
-
-  
-[](https://www.facebook.com/pages/SmallBizCRMcom/204289630712) |  |  |  | [](http://www.smallbizcrm.com/small-business-crm.xml) |  |  | [](http://www.printfriendly.com/ "Printer Friendly and PDF")  
----|---|---|---|---|---|---|---
