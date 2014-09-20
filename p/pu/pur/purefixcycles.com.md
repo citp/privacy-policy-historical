@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063821id_/http%3A//purefixcycles.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920221826id_/http%3A//www.purefixcycles.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pure Fix Cycles
 
@@ -75,8 +75,7 @@ We use a variety of information security measures to protect your online transac
 
 As we continue to improve the services, products and the features we provide, this policy is subject to change. We will post significant changes to this Policy here and/or other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
 
-As you browse Pure Fix Cycles, advertising cookies will be placed on your computer so that we can understand what you are interested in.   Our display ad partner then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can [visit this page](http://www.adroll.com/about/privacy) to opt out of targeted advertising.  
-
+As you browse Pure Fix Cycles, advertising cookies will be placed on your computer so that we can understand what you are interested in.   Our display ad partner then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can [visit this page](http://www.adroll.com/about/privacy) to opt out of targeted advertising.
 
 **How To Contact Us**
 
@@ -91,5 +90,3 @@ Pure Fix Cycles, LLC
 Burbank, CA 91506 
 
 e-mail: legal@purefixcycles.com 
-
- 
