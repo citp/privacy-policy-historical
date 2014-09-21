@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the icelolly.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626025218id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icelolly.com privacy policy that was archived on 2014-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921042338id_/http%3A//www.icelolly.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://static-ssl.responsetap.com/static/scripts/rTapTrack.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMBVVdWGwIIXFRSBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://s0tatic-ssl.responsetap.com/static/scripts/rTapTrack.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/8951.js?438997" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMBVVdWGwIIXFRSBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="icelolly.com - the low cost holiday price comparison site. Compare over 20 million cheap holidays from some of the UK's top travel companies.">
     <meta name="keywords" content="cheap holidays, cheap holiday offers">
@@ -15,14 +15,15 @@
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta name="google-site-verification" content="cGdfTO2b528B77pTIfvbkcxsqPg2f3Q2Yo1pvGirwwA">
 
-        <link rel="shortcut icon" href="/Resources/public/images/favicon.png">
-    
     <title>Cheap Holidays | Cheap Holiday Deals | Low Cost Holidays | icelolly</title>
 
             <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css">
-                        <link rel="stylesheet" type="text/css" media="screen" href="/Resources/public/css/default.css">
-            
+        <link href="http://fonts.googleapis.com/css?family=Cabin:400,700,400italic" rel="stylesheet" type="text/css">
+
+                    <link rel="stylesheet" type="text/css" media="screen" href="/Resources/public/css/jquery-ui-1.10.4.min.css">
+                                    <link rel="stylesheet" type="text/css" media="screen" href="/Resources/public/css/default-styles.css">
+             
+
     <!-- only load google ads if it's not an ie browser as google doesn't support <=ie9 -->
     <!--[if gte IE 9]><!-->
     <script src="http://www.google.com/jsapi"></script>
@@ -51,406 +52,156 @@
         use_existing_jquery=false,
         // DO NOT EDIT BELOW THIS LINE
         f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=75003&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140626025218id_%2Fhttp%253A%2F%2Fwww.icelolly.com%2Fprivacy-policy&amp;r=0.4940130682882897" type="text/javascript"></script>
+        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=75003&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140921042338id_%2Fhttp%253A%2F%2Fwww.icelolly.com%2Fprivacy-policy&amp;r=0.5641718526992678" type="text/javascript"></script>
         <!-- End Visual Website Optimizer Asynchronous Code -->
-    </head>
+        <script type="text/javascript">
+        setTimeout(function(){var a=document.createElement("script");
+        var b=document.getElementsByTagName("script")[0];
+        a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/8951.js?"+Math.floor(new Date().getTime()/3600000);
+        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+    
+        <!-- Google Code for Homepage 14 Days - Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 969311852;
+var google_conversion_label = "Op2ICJejiVYQ7IyazgM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969311852/?value=1.00&amp;currency_code=GBP&amp;label=Op2ICJejiVYQ7IyazgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- Google Code for Homepage 3 Days - Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 969311852;
+var google_conversion_label = "L3mNCMijiVYQ7IyazgM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969311852/?value=1.00&amp;currency_code=GBP&amp;label=L3mNCMijiVYQ7IyazgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<!-- Google Code for Homepage 7 Days - Tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 969311852;
+var google_conversion_label = "PsOZCIeciVYQ7IyazgM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969311852/?value=1.00&amp;currency_code=GBP&amp;label=PsOZCIeciVYQ7IyazgM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</head>
 <body>
-<header class="header">
-    <div class="container">
-        <div class="row relative">
-            <div class="col-sm-3">
-                <a href="/" id="logo">
-                                        <img src="/Resources/public/images/ice-lolly-logo.png" alt="ice lolly logo">
-                    <h1 id="tagline">The holiday price comparison site</h1>
-                                    </a>
-            </div>
+    
 
-            <div class="col-sm-8 col-sm-offset-1">
-                <div class="row">
-                                             
-<div class="mobile-menu-container">
+    <header class="header">
+        <div class="container">
+            <div class="row relative">
+                <div class="col-sm-3">
+                    <a href="/" id="logo">
+                                                <img src="/Resources/public/images/ice-lolly-logo.jpg" alt="ice lolly logo">                    
+                                            </a>
+                </div>
 
-  <div class="visible-xs mobile-menu clearfix">
-     <a href="#" class="pull-left" id="mobile-menu-toggle"><i class="fa fa-align-justify"></i> <span id="menu-toggle-text">Show Menu</span></a>
-    <a href="/" class="pull-right"><i class="fa fa-search"></i> Holiday Search</a>
-  </div>
-
-
-
-
- <div class="nav-links-container clearfix">
-    <nav id="main-menu" class="pull-left">
-        <ul class="list-inline">      
-
-          <li class="top-level-item visible-xs">
-            <a class="top-level-item-anchor shortlist" href="/shortlist">My Shortlist (<span class="shortlist-count">0</span>)</a>
-          </li>  
-            <li class="top-level-item visible-xs">
-              <a class="top-level-item-anchor" href="/">
-                Home
-              </a>
-          </li>   
-                             <li class="top-level-item  ">
-                    <a href="/destinations" class="dropdown-toggle top-level-item-anchor " data-hover="dropdown">Destinations 
-                                                <i class="fa fa-chevron-down"></i>
-                                          </a>
-                                                                <ul class="subnav arrow_box clearfix destinations">
-                                                   
-                                  <li id="top-beach-holidays" class="destinations-list clearfix">
-
-                                                                                     <span id="top-beach-holidays-heading" class="destinations-heading">Top Beach Holidays</span>    
-                                                                
-                                                                                                                                  <ul class="sub-subnav destinations-column child-column1">
-                                                                                 
-                                                  <li id="spain-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain">Spain</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="tenerife-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain/canary-islands/tenerife">Tenerife</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="turkey-title" class="subnav-item-title">
-                                                      <a href="/destinations/turkey">Turkey</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="majorca-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain/balearic-islands/majorca">Majorca</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="benidorm-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain/costa-blanca/benidorm">Benidorm</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                                                                  <ul class="sub-subnav destinations-column child-column2">
-                                                                                 
-                                                  <li id="greece-title" class="subnav-item-title">
-                                                      <a href="/destinations/greece">Greece</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="costa-brava-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain/costa-brava">Costa Brava</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="portugal-title" class="subnav-item-title">
-                                                      <a href="/destinations/portugal">Portugal</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="sharm-el-sheikh-title" class="subnav-item-title">
-                                                      <a href="/destinations/egypt/sharm-el-sheikh">Sharm El Sheikh</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="canary-islands-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain/canary-islands">Canary Islands</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                 
-                                  </li>                
-                                                    
-                                  <li id="top-city-breaks" class="destinations-list clearfix">
-
-                                                                                     <span id="top-city-breaks-heading" class="destinations-heading">Top City Breaks</span>    
-                                                                
-                                                                                                                                  <ul class="sub-subnav destinations-column child-column1">
-                                                                                 
-                                                  <li id="barcelona-title" class="subnav-item-title">
-                                                      <a href="/destinations/spain/barcelona">Barcelona</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="amsterdam-title" class="subnav-item-title">
-                                                      <a href="/destinations/netherlands/amsterdam">Amsterdam</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="new-york-title" class="subnav-item-title">
-                                                      <a href="/destinations/united-states/new-york">New York</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="paris-title" class="subnav-item-title">
-                                                      <a href="/destinations/france/paris">Paris</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="dublin-title" class="subnav-item-title">
-                                                      <a href="/destinations/ireland/dublin">Dublin</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                                                                  <ul class="sub-subnav destinations-column child-column2">
-                                                                                 
-                                                  <li id="rome-title" class="subnav-item-title">
-                                                      <a href="/destinations/italy/rome">Rome</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="prague-title" class="subnav-item-title">
-                                                      <a href="/destinations/czech-republic/prague">Prague</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="venice-title" class="subnav-item-title">
-                                                      <a href="/destinations/italy/venice">Venice</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                 
-                                  </li>                
-                                                    
-                                  <li id="top-worldwide-destinations" class="destinations-list clearfix">
-
-                                                                                     <span id="top-worldwide-destinations-heading" class="destinations-heading">Top Worldwide Destinations</span>    
-                                                                
-                                                                                                                                  <ul class="sub-subnav destinations-column child-column1">
-                                                                                 
-                                                  <li id="florida-title" class="subnav-item-title">
-                                                      <a href="/destinations/united-states/florida">Florida</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="dubai-title" class="subnav-item-title">
-                                                      <a href="/destinations/united-arab-emirates/dubai">Dubai</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="mexico-title" class="subnav-item-title">
-                                                      <a href="/destinations/mexico">Mexico</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="cuba-title" class="subnav-item-title">
-                                                      <a href="/destinations/cuba">Cuba</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="thailand-title" class="subnav-item-title">
-                                                      <a href="/destinations/thailand">Thailand</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                                                                  <ul class="sub-subnav destinations-column child-column2">
-                                                                                 
-                                                  <li id="maldives-title" class="subnav-item-title">
-                                                      <a href="/destinations/maldives">Maldives</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="cape-verde-title" class="subnav-item-title">
-                                                      <a href="/destinations/cape-verde">Cape Verde</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="dominican-republic-title" class="subnav-item-title">
-                                                      <a href="/destinations/dominican-republic">Dominican Republic</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                 
-                                  </li>                
-                                                      </ul>                 
-                               
-                </li>
-                            <li class="top-level-item  ">
-                    <a href="/holidays" class="dropdown-toggle top-level-item-anchor " data-hover="dropdown">Holidays 
-                                                <i class="fa fa-chevron-down"></i>
-                                          </a>
-                                                                <ul class="subnav arrow_box clearfix holidays">
-                                                   
-                                  <li id="" class="holidays-list clearfix">
-
-                                                                                     <span id="-heading" class="holidays-heading"></span>    
-                                                                
-                                                                                                                                  <ul class="sub-subnav holidays-column child-column1">
-                                                                                 
-                                                  <li id="beach-holidays-title" class="subnav-item-title">
-                                                      <a href="/beach-holidays">Beach Holidays</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="all-inclusive-holidays-title" class="subnav-item-title">
-                                                      <a href="/all-inclusive">All Inclusive holidays</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="last-minute-holidays-title" class="subnav-item-title">
-                                                      <a href="/last-minute">Last Minute holidays</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="self-catering-holidays-title" class="subnav-item-title">
-                                                      <a href="/self-catering">Self Catering holidays</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                                                                  <ul class="sub-subnav holidays-column child-column2">
-                                                                                 
-                                                  <li id="family-holidays-title" class="subnav-item-title">
-                                                      <a href="/family-holidays">Family Holidays</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="winter-sun-title" class="subnav-item-title">
-                                                      <a href="/winter-sun">Winter Sun</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="city-breaks-title" class="subnav-item-title">
-                                                      <a href="/city">City Breaks</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="cruise-title" class="subnav-item-title">
-                                                      <a href="/cruise">Cruise</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                                                                  <ul class="sub-subnav holidays-column child-column3">
-                                                                                 
-                                                  <li id="ski-holidays-title" class="subnav-item-title">
-                                                      <a href="/ski">Ski Holidays</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="disney-holidays-title" class="subnav-item-title">
-                                                      <a href="/disney">Disney Holidays</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="stag-weekends-title" class="subnav-item-title">
-                                                      <a href="/stag">Stag Weekends</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="hen-weekends-title" class="subnav-item-title">
-                                                      <a href="/hen">Hen Weekends</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                 
-                                  </li>                
-                                                      </ul>                 
-                               
-                </li>
-                            <li class="top-level-item  ">
-                    <a href="/articles" class="dropdown-toggle top-level-item-anchor " data-hover="dropdown">Features 
-                                                <i class="fa fa-chevron-down"></i>
-                                          </a>
-                                                                <ul class="subnav arrow_box clearfix features">
-                                                   
-                                  <li id="travel-inspiration" class="features-list clearfix">
-
-                                                                                    <a href="/articles/198/Travel_Inspiration">
-                                                                                     <span id="travel-inspiration-heading" class="features-heading">Travel Inspiration</span>    
-                                                                                    </a>
-                                                                
-                                                                                                                                  <ul class="sub-subnav features-column child-column1">
-                                                                                 
-                                                  <li id="where-is-hot-in-title" class="subnav-item-title">
-                                                      <a href="/articles/192/Where_is_hot">Where is hot in ...</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="top-reasons-to-visit-title" class="subnav-item-title">
-                                                      <a href="/articles/199/Top_reasons_to_visit">Top reasons to visit</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="sun-and-sand-title" class="subnav-item-title">
-                                                      <a href="/articles/200/Sun_and_Sand">Sun and sand</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="urban-adventures-title" class="subnav-item-title">
-                                                      <a href="/articles/201/Urban_Adventures">Urban Adventures</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                 
-                                  </li>                
-                                                    
-                                  <li id="tips-advice" class="features-list clearfix">
-
-                                                                                    <a href="/articles/202/Tips_and_Advice">
-                                                                                     <span id="tips-advice-heading" class="features-heading">Tips &amp; Advice</span>    
-                                                                                    </a>
-                                                                
-                                                                                                                                  <ul class="sub-subnav features-column child-column1">
-                                                                                 
-                                                  <li id="survival-guides-title" class="subnav-item-title">
-                                                      <a href="/articles/203/Survival_Guides">Survival Guides</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="making-the-most-of-your-money-title" class="subnav-item-title">
-                                                      <a href="/articles/204/Making_the_most_of_your_money">Making the most of your money</a>
-                                                  </li>                                   
-                                                                                 
-                                                  <li id="for-the-family-title" class="subnav-item-title">
-                                                      <a href="/articles/205/For_the_family">For the family</a>
-                                                  </li>                                   
-                                               
-                                            </ul>
-                                                                                 
-                                  </li>                
-                                                    
-                                  <li id="news" class="features-list clearfix">
-
-                                                                                    <a href="/articles/206/News">
-                                                                                     <span id="news-heading" class="features-heading">News</span>    
-                                                                                    </a>
-                                                                
-                                                                                 
-                                  </li>                
-                                                    
-                                  <li id="behind-the-scenes" class="features-list clearfix">
-
-                                                                                    <a href="/articles/207/Behind_the_scenes">
-                                                                                     <span id="behind-the-scenes-heading" class="features-heading">Behind the scenes</span>    
-                                                                                    </a>
-                                                                
-                                                                                 
-                                  </li>                
-                                                      </ul>                 
-                               
-                </li>
-                       
-          </ul>
-    </nav>
-</div> 
-  </div> 
-
-
-     <ul class="list-inline pull-left hidden-xs" id="top-nav-links">
-       <li><a href="//icelolly.com/clickthru?from=header&amp;target=https://www.cartrawler.com/icelolly/?#quote" target="_blank">Car Hire</a></li>
-       <li><a href="/shortlist">My Shortlist (<span class="shortlist-count">0</span>)</a></li>
-     </ul>
-
+                <div class="col-sm-9">
+                    
+                    
     <div class="social-icons clearfix hidden-xs">
+     <ul class="list-inline pull-left hidden-xs" id="top-nav-links">
+       <li class="car-hire"><a href="//icelolly.com/clickthru?from=header&amp;target=https://www.cartrawler.com/icelolly/?#quote" target="_blank">Car Hire</a></li>
+       <li class="shortlist"><a class="" href="/shortlist">My Shortlist (<span class="shortlist-count">0</span>)</a></li>
+     </ul>
        <ul id="social-header-icons" class="list-inline pull-right">
-
-           <li class="facebook"><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.facebook.com%2Fpages%2Ficelollycom%2F54167714116"></a></li>
-           <li class="twitter"><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.twitter.com%2Ficelollyholiday"></a></li>
-           <li class="youtube"><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ficelollyholidays"></a></li>
-           <li class="google"><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=https%3A%2F%2Fplus.google.com%2F109248259911797010588"></a></li>
-           <li class="instagram"><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Finstagram.com%2Ficelollyholiday"></a></li>
+           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.facebook.com%2Fpages%2Ficelollycom%2F54167714116"><i class="icon social facebook">Facebook</i></a></li>
+           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.twitter.com%2Ficelollyholiday"><i class="icon social twitter">Twitter</i></a></li>
+           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ficelollyholidays"><i class="icon social youtube">Youtube</i></a></li>
+           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=https%3A%2F%2Fplus.google.com%2F109248259911797010588"><i class="icon social google">Google</i></a></li>
+           <li><a target="_blank" href="http://www.icelolly.com/clickthru?from=share&amp;target=http%3A%2F%2Finstagram.com%2Ficelollyholiday"><i class="icon social instagram">Instagram</i></a></li>
+           <li class="facebooklike_container addthis_toolbox addthis_default_style">
+            <a class="addthis_button_facebook_like pull-right" fb:like:layout="button_count" expr:addthis:url="http://facebook.com/icelollyholidays"></a>
+          </li>
        </ul>
     </div>
 
- 
 
+   
+                    <div class="row">
 
-                                    </div>
-
-                <div class="row hidden-xs">
-                    <div class="facebooklike_container addthis_toolbox addthis_default_style">
-                        <a class="addthis_button_facebook_like pull-right" fb:like:layout="button_count"></a>
-                    </div>
+                        <div class="col-sm-12">
+                            <h1 id="tagline">
+                               The UK's leading holiday price comparison site
+                            </h1>
+                        </div>
+                        
+                    </div>                       
+                    
                 </div>
             </div>
+            <!-- end row-->
         </div>
-        <!-- end row-->
-    </div>
-    <!-- end container-->
+        <!-- end container-->
 
-</header>
-<!-- end header-->
+    </header>
+    <!-- end header-->
 
-<div class="container">
+<div class="container ">
     <div class="row">
-        <div class=" col-sm-4 col-md-3" id="sidebar-container">
-                            
+
+        <div class="col-sm-12 beige">            
+                <div class="row">
+                    <div class="col-sm-4 col-md-3" id="sidebar-container">
+                                                    
   
     <div id="search-form-container" class="hidden-xs">
+
+            <h1 class="pink temp hidden-xs">Search for holidays</h1>
         
             <div class="form-group">
-                <label>Select a holiday type</label>
                 <div class="sub-row">
 
                     
-                    <select id="holiday-type" class="form-control">
-                                                    <option value="sun" selected="selected">Sun Holidays</option>
-                                                    <option value="city">City Breaks</option>
-                                                    <option value="ski">Ski Holidays</option>
-                                                    <option value="cruise">Cruise Holidays</option>
-                                            </select>
+                    <nav class="search-form-holiday-icons" data-searchtype="sun">
+                        <ul class="clearfix">
+                                                             <li class="sun selected">
+                                    <a href="#" data-attr-search-type="sun">Sun Holidays</a>
+                                 </li>
+                                                             <li class="city ">
+                                    <a href="#" data-attr-search-type="city">City Breaks</a>
+                                 </li>
+                                                             <li class="ski ">
+                                    <a href="#" data-attr-search-type="ski">Ski Holidays</a>
+                                 </li>
+                                                             <li class="cruise ">
+                                    <a href="#" data-attr-search-type="cruise">Cruise Holidays</a>
+                                 </li>
+                                                    </ul>
+                    </nav>
 
                 </div>
             </div>
@@ -460,29 +211,479 @@
                         <img class="spinner" src="http://cdn.icelolly.com/english/loader_round.gif">
                     </div>
                             </div>
-        </div>
+    </div>
 
-                            <div class="container-fluid sidebar-member-logos text-center hidden-xs">
-                                <img src="/Resources/public/images/member-logos.jpg" alt="Ice Lolly Member Logos">
-                            </div>
-        </div>
+                                
+                        
+                        <div class="container-fluid sidebar-member-logos text-center hidden-xs">
 
-        <div class="col-sm-8 col-md-9" id="content-container">
-
-                                        
-
-
-
-
-
-
+                                                        <a href="/protection_information"><img src="/Resources/public/images/bonding-logos.png" alt="Ice Lolly Member Logos"></a>
+                            
+                            <p class="holiday-protected">Your holiday is protected
+                                <br>
+                                <a href="/protection_information" class="protection-link">What does this mean?</a>
+                            </p>
+                        </div>
+                        
 
 
-            
-            
+
+<div class="trending hidden-xs">
+
+    <h2 class="text-center">Trending on icelolly</h2>
+
+    
+
+               <img id="trending-image" class="" src="/Resources/public/images/trending.png" alt="trending on icelolly" usemap="#trending-map">                    
+    
+    <map name="trending-map">
+    <area alt="Spain" title="#Spain" href="/destinations/spain/" shape="rect" coords="87,0,249,67" style="outline:none;" target="_self">
+    <area alt="majorca" title="majorca" href="/destinations/spain/balearic-islands/majorca" shape="rect" coords="29,75,122,115" style="outline:none;" target="_self">
+    <area alt="Ski" title="#Ski" href="/ski" shape="rect" coords="119,96,240,147" style="outline:none;" target="_self">
+    <area alt="2015 Deals" title="2015 Deals" href="/holiday-search/results/sun?destination=Any+Destination&amp;date=01%2F08%2F2015&amp;flexibility=3&amp;userSearchAction=1&amp;page=1&amp;itemsPerPage=20&amp;highestPriceFirst=false" shape="rect" coords="41,148,151,187" style="outline:none;" target="_self">
+    <area alt="All Inclusive" title="All Inclusive" href="/all-inclusive" shape="rect" coords="71,188,250,244" style="outline:none;" target="_self">
+    <area shape="rect" coords="248,242,250,244" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0">
+    </map>
+    
+</div>
+                        
+                    </div>
+                    <div class="col-sm-8 col-md-9 relative" id="content-container">
+                                                     
+<div class="mobile-menu-container clearfix">
+
+  <div class="visible-xs mobile-menu clearfix">
+     <a href="#" class="pull-left" id="mobile-menu-toggle"><i class="fa fa-align-justify"></i> <span id="menu-toggle-text">Show Menu</span></a>
+
+    <a href="#" id="mobile-search-toggle" class="pull-right"><i class="fa fa-search"></i> Holiday Search</a>
+  </div>
+
+ <div id="mobile-menu-search-form-container" style="display:none;">
+      
+  </div>
+
+ <div class="nav-links-container clearfix">
+    <nav id="main-menu">
+        <ul class="clearfix">      
+
+          <li class="top-level-item visible-xs">
+            <a class="top-level-item-anchor shortlist" href="/shortlist">My Shortlist (<span class="shortlist-count">0</span>)</a>
+          </li>  
+            <li class="top-level-item visible-xs">
+              <a class="top-level-item-anchor" href="/">
+                Home
+                <i class="fa fa-caret-right"></i>
+
+              </a>
+          </li>   
+                             <li class="top-level-item  ">
+                    <a href="/destinations" class="top-level-item-anchor ">Destinations 
+                                                <i class="fa fa-sort-down "></i>
+                                          </a>
+                                                                <ul class="subnav arrow_box clearfix destinations">
+                                                   
+                                                                                                      
+                                  <li id="top-beach-holidays" class="destinations-list clearfix sub-subnav-container first-child">
+                                                                                                                            <span class="destinations-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="top-beach-holidays-heading" class="destinations-heading heading">
+                                                        Top Beach Holidays                                                
+                                                      </span>  
+                                                      <span id="top-beach-holidays-heading-icon" class="destinations-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                                 
+                                                                                                                                              <ul class="sub-subnav destinations-column child-column1">
+                                                                                     
+                                                      <li id="spain-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain"><i class="fa pink fa-caret-right"></i>Spain</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="tenerife-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain/canary-islands/tenerife"><i class="fa pink fa-caret-right"></i>Tenerife</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="turkey-title" class="subnav-item-title">
+                                                          <a href="/destinations/turkey"><i class="fa pink fa-caret-right"></i>Turkey</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="majorca-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain/balearic-islands/majorca"><i class="fa pink fa-caret-right"></i>Majorca</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="benidorm-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain/costa-blanca/benidorm"><i class="fa pink fa-caret-right"></i>Benidorm</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="greece-title" class="subnav-item-title">
+                                                          <a href="/destinations/greece"><i class="fa pink fa-caret-right"></i>Greece</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="costa-brava-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain/costa-brava"><i class="fa pink fa-caret-right"></i>Costa Brava</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="portugal-title" class="subnav-item-title">
+                                                          <a href="/destinations/portugal"><i class="fa pink fa-caret-right"></i>Portugal</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="sharm-el-sheikh-title" class="subnav-item-title">
+                                                          <a href="/destinations/egypt/sharm-el-sheikh"><i class="fa pink fa-caret-right"></i>Sharm El Sheikh</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="canary-islands-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain/canary-islands"><i class="fa pink fa-caret-right"></i>Canary Islands</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                    
+                                                                            
+                                  </li>                
+                                                    
+                                                                                                      
+                                  <li id="top-city-breaks" class="destinations-list clearfix sub-subnav-container child-2">
+                                                                                                                            <span class="destinations-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="top-city-breaks-heading" class="destinations-heading heading">
+                                                        Top City Breaks                                                
+                                                      </span>  
+                                                      <span id="top-city-breaks-heading-icon" class="destinations-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                                 
+                                                                                                                                              <ul class="sub-subnav destinations-column child-column1">
+                                                                                     
+                                                      <li id="barcelona-title" class="subnav-item-title">
+                                                          <a href="/destinations/spain/barcelona"><i class="fa pink fa-caret-right"></i>Barcelona</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="amsterdam-title" class="subnav-item-title">
+                                                          <a href="/destinations/netherlands/amsterdam"><i class="fa pink fa-caret-right"></i>Amsterdam</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="new-york-title" class="subnav-item-title">
+                                                          <a href="/destinations/united-states/new-york"><i class="fa pink fa-caret-right"></i>New York</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="paris-title" class="subnav-item-title">
+                                                          <a href="/destinations/france/paris"><i class="fa pink fa-caret-right"></i>Paris</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="dublin-title" class="subnav-item-title">
+                                                          <a href="/destinations/ireland/dublin"><i class="fa pink fa-caret-right"></i>Dublin</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="rome-title" class="subnav-item-title">
+                                                          <a href="/destinations/italy/rome"><i class="fa pink fa-caret-right"></i>Rome</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="prague-title" class="subnav-item-title">
+                                                          <a href="/destinations/czech-republic/prague"><i class="fa pink fa-caret-right"></i>Prague</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="venice-title" class="subnav-item-title">
+                                                          <a href="/destinations/italy/venice"><i class="fa pink fa-caret-right"></i>Venice</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                    
+                                                                            
+                                  </li>                
+                                                    
+                                                                                                     
+                                  <li id="top-worldwide-destinations" class="destinations-list clearfix sub-subnav-container last-child">
+                                                                                                                            <span class="destinations-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="top-worldwide-destinations-heading" class="destinations-heading heading">
+                                                        Top Worldwide Destinations                                                
+                                                      </span>  
+                                                      <span id="top-worldwide-destinations-heading-icon" class="destinations-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                                 
+                                                                                                                                              <ul class="sub-subnav destinations-column child-column1">
+                                                                                     
+                                                      <li id="florida-title" class="subnav-item-title">
+                                                          <a href="/destinations/united-states/florida"><i class="fa pink fa-caret-right"></i>Florida</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="dubai-title" class="subnav-item-title">
+                                                          <a href="/destinations/united-arab-emirates/dubai"><i class="fa pink fa-caret-right"></i>Dubai</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="mexico-title" class="subnav-item-title">
+                                                          <a href="/destinations/mexico"><i class="fa pink fa-caret-right"></i>Mexico</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="cuba-title" class="subnav-item-title">
+                                                          <a href="/destinations/cuba"><i class="fa pink fa-caret-right"></i>Cuba</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="thailand-title" class="subnav-item-title">
+                                                          <a href="/destinations/thailand"><i class="fa pink fa-caret-right"></i>Thailand</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="maldives-title" class="subnav-item-title">
+                                                          <a href="/destinations/maldives"><i class="fa pink fa-caret-right"></i>Maldives</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="cape-verde-title" class="subnav-item-title">
+                                                          <a href="/destinations/cape-verde"><i class="fa pink fa-caret-right"></i>Cape Verde</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="dominican-republic-title" class="subnav-item-title">
+                                                          <a href="/destinations/dominican-republic"><i class="fa pink fa-caret-right"></i>Dominican Republic</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                    
+                                                                            
+                                  </li>                
+                                                          <li class="view-all-link">  
+                                <a href="/destinations" class="btn btn-red btn-sm btn-cursor"> View All Destinations <i class="fa fa-caret-right"></i></a>           
+                            </li>
+                        </ul>    
+
+                               
+                </li>
+                            <li class="top-level-item  ">
+                    <a href="/holidays" class="top-level-item-anchor ">Holidays 
+                                                <i class="fa fa-sort-down "></i>
+                                          </a>
+                                                                <ul class="subnav arrow_box clearfix holidays">
+                                                   
+                                                                                                      
+                                  <li id="" class="holidays-list clearfix sub-subnav-container first-child">
+                                                                                                                                                                                     
+                                                                                                                                              <ul class="sub-subnav holidays-column child-column1">
+                                                                                     
+                                                      <li id="beach-holidays-title" class="subnav-item-title">
+                                                          <a href="/beach-holidays"><i class="fa pink fa-caret-right"></i>Beach Holidays</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="all-inclusive-holidays-title" class="subnav-item-title">
+                                                          <a href="/all-inclusive"><i class="fa pink fa-caret-right"></i>All Inclusive holidays</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="last-minute-holidays-title" class="subnav-item-title">
+                                                          <a href="/last-minute"><i class="fa pink fa-caret-right"></i>Last Minute holidays</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="self-catering-holidays-title" class="subnav-item-title">
+                                                          <a href="/self-catering"><i class="fa pink fa-caret-right"></i>Self Catering holidays</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                                                                                                              <ul class="sub-subnav holidays-column child-column2">
+                                                                                     
+                                                      <li id="family-holidays-title" class="subnav-item-title">
+                                                          <a href="/family-holidays"><i class="fa pink fa-caret-right"></i>Family Holidays</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="winter-sun-title" class="subnav-item-title">
+                                                          <a href="/winter-sun"><i class="fa pink fa-caret-right"></i>Winter Sun</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="city-breaks-title" class="subnav-item-title">
+                                                          <a href="/city"><i class="fa pink fa-caret-right"></i>City Breaks</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="cruise-title" class="subnav-item-title">
+                                                          <a href="/cruise"><i class="fa pink fa-caret-right"></i>Cruise</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                                                                                                              <ul class="sub-subnav holidays-column child-column3">
+                                                                                     
+                                                      <li id="ski-holidays-title" class="subnav-item-title">
+                                                          <a href="/ski"><i class="fa pink fa-caret-right"></i>Ski Holidays</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="disney-holidays-title" class="subnav-item-title">
+                                                          <a href="/disney"><i class="fa pink fa-caret-right"></i>Disney Holidays</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="stag-weekends-title" class="subnav-item-title">
+                                                          <a href="/stag"><i class="fa pink fa-caret-right"></i>Stag Weekends</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="hen-weekends-title" class="subnav-item-title">
+                                                          <a href="/hen"><i class="fa pink fa-caret-right"></i>Hen Weekends</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                    
+                                                                            
+                                  </li>                
+                                                          <li class="view-all-link">  
+                                <a href="/holidays" class="btn btn-red btn-sm btn-cursor"> View All Holiday Types <i class="fa fa-caret-right"></i></a>           
+                            </li>
+                        </ul>    
+
+                               
+                </li>
+                            <li class="top-level-item  ">
+                    <a href="/articles" class="top-level-item-anchor ">Features 
+                                                <i class="fa fa-sort-down "></i>
+                                          </a>
+                                                                <ul class="subnav arrow_box clearfix features">
+                                                   
+                                                                                                      
+                                  <li id="travel-inspiration" class="features-list clearfix sub-subnav-container first-child">
+                                                                                    <a class="sub-subnav-title-link" href="/articles/198/Travel_Inspiration">
+                                                                                                                            <span class="features-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="travel-inspiration-heading" class="features-heading heading">
+                                                        Travel Inspiration                                                
+                                                      </span>  
+                                                      <span id="travel-inspiration-heading-icon" class="features-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                </a>
+                                                                                                     
+                                                                                                                                              <ul class="sub-subnav features-column child-column1">
+                                                                                     
+                                                      <li id="where-is-hot-in-title" class="subnav-item-title">
+                                                          <a href="/articles/192/Where_is_hot"><i class="fa pink fa-caret-right"></i>Where is hot in ...</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="top-reasons-to-visit-title" class="subnav-item-title">
+                                                          <a href="/articles/199/Top_reasons_to_visit"><i class="fa pink fa-caret-right"></i>Top reasons to visit</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="sun-and-sand-title" class="subnav-item-title">
+                                                          <a href="/articles/200/Sun_and_Sand"><i class="fa pink fa-caret-right"></i>Sun and sand</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="urban-adventures-title" class="subnav-item-title">
+                                                          <a href="/articles/201/Urban_Adventures"><i class="fa pink fa-caret-right"></i>Urban Adventures</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                    
+                                                                            
+                                  </li>                
+                                                    
+                                                                                                      
+                                  <li id="tips-advice" class="features-list clearfix sub-subnav-container child-2">
+                                                                                    <a class="sub-subnav-title-link" href="/articles/202/Tips_and_Advice">
+                                                                                                                            <span class="features-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="tips-advice-heading" class="features-heading heading">
+                                                        Tips &amp; Advice                                                
+                                                      </span>  
+                                                      <span id="tips-advice-heading-icon" class="features-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                </a>
+                                                                                                     
+                                                                                                                                              <ul class="sub-subnav features-column child-column1">
+                                                                                     
+                                                      <li id="survival-guides-title" class="subnav-item-title">
+                                                          <a href="/articles/203/Survival_Guides"><i class="fa pink fa-caret-right"></i>Survival Guides</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="making-the-most-of-your-money-title" class="subnav-item-title">
+                                                          <a href="/articles/204/Making_the_most_of_your_money"><i class="fa pink fa-caret-right"></i>Making the most of your money</a>
+                                                      </li>                                   
+                                                                                     
+                                                      <li id="for-the-family-title" class="subnav-item-title">
+                                                          <a href="/articles/205/For_the_family"><i class="fa pink fa-caret-right"></i>For the family</a>
+                                                      </li>                                   
+                                                   
+                                                </ul>
+                                                    
+                                                                            
+                                  </li>                
+                                                    
+                                                                                                      
+                                  <li id="news" class="features-list clearfix sub-subnav-container child-3">
+                                                                                    <a class="sub-subnav-title-link" href="/articles/206/News">
+                                                                                                                            <span class="features-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="news-heading" class="features-heading heading">
+                                                        News                                                
+                                                      </span>  
+                                                      <span id="news-heading-icon" class="features-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                </a>
+                                                                                                                    
+                                  </li>                
+                                                    
+                                                                                                     
+                                  <li id="behind-the-scenes" class="features-list clearfix sub-subnav-container last-child">
+                                                                                    <a class="sub-subnav-title-link" href="/articles/207/Behind_the_scenes">
+                                                                                                                            <span class="features-heading-container heading-container">
+                                              
+                                                
+                                                     <span id="behind-the-scenes-heading" class="features-heading heading">
+                                                        Behind the scenes                                                
+                                                      </span>  
+                                                      <span id="behind-the-scenes-heading-icon" class="features-heading-icon heading-icon">
+                                                          
+                                                      </span>  
+                                                  
+                                             </span>
+                                                                                                                                </a>
+                                                                                                                    
+                                  </li>                
+                                                          <li class="view-all-link">  
+                                <a href="/articles" class="btn btn-red btn-sm btn-cursor"> View All Features <i class="fa fa-caret-right"></i></a>           
+                            </li>
+                        </ul>    
+
+                               
+                </li>
+                       
+          </ul>
+    </nav>
+</div> 
+  </div> 
+
+
+
+                        
+                                                                            
+
+
+
+
+
+
+
+
+                        
+                        
 
     <h1 class="page-title">Privacy Policy</h1>
-    <h2></h2>
+
+
+   <div class="page-with-pink-tab">
+
+           <h2></h2>
+    
+
+
+
     
 <div class="content">
 
@@ -573,45 +774,31 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 
 
-
-
-            <!-- only load google ads if it's not an ie browser as google doesn't support <=ie9 -->
-            <!--[if gte IE 9]><!-->
-                        <!--<![endif]-->
-            <div class="row">
-
-                <div class="container-fluid text-center member-logos ">
-                    <p class="advertiser-text">All advertisers on icelolly.com are members of one of the following</p>
-                                        <img src="/Resources/public/images/member-logos.jpg" alt="Ice Lolly Member Logos">
-                                        <p>Icelolly Marketing Limited, Park Row House, Park Row, Leeds. LS1 5JF</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- end row-->
 </div>
-<!-- /.container -->
 
 
-<footer class="site-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-9 col-sm-offset-3">
-                                     
+                        <!-- only load google ads if it's not an ie browser as google doesn't support <=ie9 -->
+                        <!--[if gte IE 9]><!-->
+                                                <!--<![endif]-->
+
+                         <footer class="site-footer">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                                                             
 
         <div class="col-sm-3 col-xs-6 ">
          <ul class="footer-section">
-         <li><strong>Holiday Information</strong></li>
+         <li class="pink"><strong>Holiday Information</strong></li>
                       <li><a href="/destinations">Destinations</a></li>
                         <li><a href="/holidays">Holiday Types</a></li>
-                        <li><a href="/flights">Flights Search</a></li>
                     </ul>
     </div>
 
         <div class="col-sm-3 col-xs-6 ">
          <ul class="footer-section">
-         <li><strong>About icelolly.com</strong></li>
-                      <li><a href="/standards">icelolly.com Standards</a></li>
+         <li class="pink"><strong>About icelolly.com</strong></li>
+                      <li><a href="/standards">Customer Standards</a></li>
+                        <li><a href="/customer-journey">Customer Journey</a></li>
                         <li><a href="/about-us">About Us</a></li>
                         <li><a href="/jobs">Jobs @ icelolly.com</a></li>
                         <li><a href="/advertise-with-us">Advertise With Us</a></li>
@@ -621,7 +808,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
         <div class="col-sm-3 col-xs-6 ">
          <ul class="footer-section">
-         <li><strong>icelolly.com Terms</strong></li>
+         <li class="pink"><strong>icelolly.com Terms</strong></li>
                       <li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
                         <li><a href="/privacy-policy">Privacy Policy</a></li>
                         <li><a href="/acceptable-use-policy">Acceptable Use Policy</a></li>
@@ -632,17 +819,33 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
         <div class="col-sm-3 col-xs-6 ">
          <ul class="footer-section">
-         <li><strong>Information</strong></li>
+         <li class="pink"><strong>Information</strong></li>
                       <li><a href="/faqs">FAQs</a></li>
+                        <li><a href="/newsletter/subscribe">Subscribe</a></li>
                         <li><a href="/unsubscribe">Unsubscribe</a></li>
                         <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="/press-office">Press Office</a></li>
                     </ul>
     </div>
  
+                                                                    </div>
                             </div>
+                        </footer>
+                    </div> <!-- end col-sm-8 col-md-9" id="content-container"-->
+                   
+            </div><!-- row-->
+
+
         </div>
     </div>
-</footer>
+    <!-- end row-->
+
+
+</div>
+<!-- /.container -->
+
+
+
 
 
     
@@ -652,7 +855,8 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
     <script type="text/javascript">
         var loadingGraphic = '<div class="img-container text-center"><img class="spinner" src="http://cdn.icelolly.com/english/loader_round.gif"/></div>';
 var searchType = 'sun';
-    </script>
+
+            </script>
 
         <script src="/Resources/public/js/script.js"></script>
     
@@ -660,26 +864,32 @@ var searchType = 'sun';
 var searchForms = {};
 var autoCompleteCache = {};
 var autoCompleteBaseUrl = '/holiday-search/autocomplete/';
+var previousType;
 var currentType;
-var anyDestinationTxt = 'Any Destination';
+var startingDestinationText, anyDestinationTxt = 'Any Destination';
 var loadingDestinationsTxt = 'Loading Destinations...';
 var formRequest = '';
 var forms = [
     '[name="offerFeedback"]'
 ];
 var loadingGraphic = '<div class="img-container text-center"><img class="spinner" src="http://cdn.icelolly.com/english/loader_round.gif"/></div>';
+var mobileFormMoved;
+var formVals = {};
 
 
 function retrieveAutoCompleteJson(currentType)
 {
     if ( ! autoCompleteCache[currentType] && currentType != 'cruise') {
 
-        var element = $('input#destination'),
-            prevLabel = (element.val() != '') ? element.val() : anyDestinationTxt;
+        var element = $('input#destination');
+        if (element.val() != '') {
+            startingDestinationText = element.val();
+        }
+
         element.attr('readonly', true).val(loadingDestinationsTxt);
 
         $.getJSON(autoCompleteBaseUrl+currentType, function(data) {
-            $('input#destination').attr('readonly', false).val(prevLabel);
+            $('input#destination').attr('readonly', false).val(startingDestinationText);
             autoCompleteCache[currentType] = data;
         });
     }
@@ -756,34 +966,7 @@ function selectAutoCompleteOption(e, ui)
     }
 }
 
-function changeHolidayTypeImage(type)
-{
-    $('.holiday-background-images div').each(function() {
-        $(this).addClass('hide');
-    });
-
-    $('.holiday-background-images div#'+type+'-holiday-img-container').removeClass('hide');
-}
-
-function changeHolidayType(callBack)
-{
-    // Get selected type
-    currentType = $(this).val();
-
-    changeHolidayTypeImage(currentType);
-
-    // Get relevant form
-    var form_container = $('#holiday-search-form-container');
-    if (form_container.hasClass('populated')) {
-        retrieveAutoCompleteJson(currentType);
-        applyFormPlugins();
-        form_container.removeClass('populated');
-    } else {
-        loadForm();
-    }
-}
-
-function loadForm()
+function loadForm(callback)
 {
     if (formRequest != '') {
         formRequest.abort();
@@ -794,9 +977,18 @@ function loadForm()
         formRequest = $.get('/holiday-search/render-form/'+currentType, function(html) {
             searchForms[currentType] = html;
             applyForm(html);
+
+            if (typeof callback == 'function') {
+                callback();
+            }
+
         });
     } else {
         applyForm(searchForms[currentType]);
+    }
+
+    if (typeof callback == 'function') {
+        callback();
     }
 }
 
@@ -815,13 +1007,15 @@ function applyFormPlugins()
 {
     // Destination autocomplete (simple implementation)
     $('#holiday-search-destination input').autocomplete({
+        autoFocus: true,
         minLength: 0,
         source: buildAutoCompleteResults,
         select: selectAutoCompleteOption,
         change: function (event, ui) {
             var element = $(this),
-                text = element.data('chosenLabel') || anyDestinationTxt;
+                text = element.data('chosenLabel') || startingDestinationText;
             element.val(text);
+            GATrackEvent('search-form', 'destination', 'change');
         }
     });
 
@@ -841,7 +1035,9 @@ function applyFormPlugins()
 
 function showAnotherAirport(e)
 {
-    e.preventDefault();
+    if (typeof e != 'undefined') {
+        e.preventDefault();
+    }
     var hiddenAirports = $('#holiday-search-form-container .optional-airport.hide');
     hiddenAirports.first().removeClass(function(){
         if (hiddenAirports.length == 1) {
@@ -890,17 +1086,58 @@ function validateEmail(emailAddress)
     return pattern.test(emailAddress);
 }
 
+function bindGAEvents() {
+    var form = $('#search-form-container');
+
+    form
+        .on('click', 'nav.search-form-holiday-icons li', function () {
+            if (!$(this).hasClass('selected')) {
+                GATrackEvent('search-form', 'holiday-type', 'change');
+            }
+        })
+        .on('change', '#date', function () {
+            GATrackEvent('search-form', 'date', 'change');
+        })
+        .on('change', '#flexibility', function () {
+            GATrackEvent('search-form', 'flexibility', 'change');
+        })
+        .on('change', '#duration', function () {
+            GATrackEvent('search-form', 'duration', 'change');
+        })
+        .on('change', '#board_basis', function () {
+            GATrackEvent('search-form', 'board-basis', 'change');
+        })
+        .on('change', '#star_rating', function () {
+            GATrackEvent('search-form', 'star-rating', 'change');
+        })
+        .on('click', 'a.add-airport', function () {
+            GATrackEvent('search-form', 'add-airport', 'click');
+        })
+        .on('change', '#departure_airport1', function () {
+            GATrackEvent('search-form', 'airport1', 'change');
+        })
+        .on('change', '#departure_airport2', function () {
+            GATrackEvent('search-form', 'airport2', 'change');
+        })
+        .on('change', '#departure_airport3', function () {
+            GATrackEvent('search-form', 'airport3', 'change');
+        })
+        .on('change', '#email', function () {
+            GATrackEvent('search-form', 'enter-email', 'change');
+        });
+}
+
 function sendGoogleAnalyticsEvent() {
     var email = $("#email").val();
     var is_valid = validateEmail(email);
     if(is_valid){
-        _gaq.push(['_trackEvent', 'search-form', 'user entered valid email address']);
+        GATrackEvent('search-form', 'user entered valid email address');
     }
 
-    var holidayType = $('#holiday-type option:selected').text();
+    var holidayType = $('.search-form-holiday-icons .selected').text();
     holidayType += ' Search';
 
-    _gaq.push(['_trackEvent', 'search-form', 'Search Form Submitted', holidayType]);
+    GATrackEvent('search-form', 'Search Form Submitted', holidayType);
 }
 
 function setUserSearchAction(e)
@@ -909,13 +1146,139 @@ function setUserSearchAction(e)
     return true;
 }
 
-// DOCUMENT READY
+function showHideMobileSearchForm(e)
+{
+    e.preventDefault();
+
+    if (! $('body').hasClass('homepage')) {
+        $('#main-menu').hide();
+        $('#mobile-menu-search-form-container').stop().slideToggle(100, function () {
+
+            $('#menu-toggle-text').text('Show Menu');
+
+            if ($(this).is(':hidden')) {
+
+                // Hiding the mobile search form
+                $('#search-form-container').addClass('hidden-xs').prependTo('#sidebar-container');
+                //$('.ui-autocomplete').removeStyle('zIndex', 1001);
+                mobileFormMoved = true;
+
+            } else {
+
+               // Showing the mobile search form
+                $('#search-form-container').removeClass('hidden-xs').appendTo('#mobile-menu-search-form-container');
+                mobileFormMoved = false;
+
+            }
+
+            return false;
+        });
+    } else {
+        $('html, body').animate({scrollTop: 0}, 1000);
+    }
+}
+
+
+function changeHolidayTypeImage(type)
+{
+    $('.holiday-type-image-container').each(function() {
+        $(this).addClass('hide');
+    });
+    $('.holiday-type-image-container#'+ type +'-holiday-img-container').removeClass('hide');
+
+    $('.homepage-flexslider').each(function() {
+        $(this).addClass('hide');
+    });
+    $('.homepage-flexslider#slider-'+ type).removeClass('hide');
+}
+
+
+function changeHolidayType(callBack)
+{
+    var form_container = $('#holiday-search-form-container');
+
+    if (form_container.hasClass('populated')) {
+        retrieveAutoCompleteJson(currentType);
+        applyFormPlugins();
+        form_container.removeClass('populated');
+    } else {
+        loadForm(applyFormVals);
+    }
+}
+
+function saveFormVals()
+{
+    if (typeof currentType == 'undefined') {
+
+        return;
+    }
+    formVals[currentType] = $('#holiday-search-form-container').find('form').serializeArray();
+
+
+}
+
+function applyFormVals()
+{
+    var form = $('#holiday-search-form-container').find('form');
+
+    if (typeof formVals[currentType] == 'undefined') {
+        return;
+    }
+
+    var vals = formVals[currentType];
+
+    _.filter(vals, function(val){
+        if (val.name) {
+            form.find('input[name="'+val.name+'"]').val(val.value);
+            form.find('select[name="'+val.name+'"]').val(val.value);
+            if ((val.name == 'departure_airport2' || val.name == 'departure_airport3') && val.value != '') {
+                showAnotherAirport();
+            }
+        }
+    });
+
+
+
+}
+
+function showSearchButtons(e)
+{
+    previousType = currentType;
+
+    saveFormVals();
+
+    currentType = $(this).attr('data-attr-search-type');
+
+    $('.search-form-holiday-icons li').removeClass('selected');
+
+    $('.search-form-holiday-icons li.' + currentType).addClass('selected');
+
+    $('#holiday-type').hide();
+
+     changeHolidayType(currentType);
+
+     //changeHolidayTypeImage(currentType);
+}
+
+function showSearchDropdown(){
+
+    $('.search-form-holiday-icons').hide();
+
+    currentType = $(this).val();
+
+    changeHolidayType(currentType);
+
+    changeHolidayTypeImage(currentType);
+}
+
 
 $(document).ready(function()
 {
-    // Changing holiday type
-    $('#holiday-type').change(changeHolidayType).trigger('change');
+    $(document).on('click','.search-form-holiday-icons a', showSearchButtons);
+    $('.search-form-holiday-icons .selected a').trigger('click');
 
+    //$('.homepage-flexslider').flexslider({ slideshowSpeed:4000, directionNav:false });
+ 
     // Show optional airports
     $(document).on('click', '#holiday-search-form-container .add-airport', showAnotherAirport);
 
@@ -979,29 +1342,40 @@ $(document).ready(function()
     $('#content-container').on("click", 'a.advertiser-modal-inline', function(e) {
         e.preventDefault();
         var modalContent = $('#modal-container .modal-content');
+        var offer_id = $(this).attr('data-offer-id');
         modalContent.empty();
         modalContent.addClass('advertiser-modal');
-        modalContent.html($(this).next(".advertiser-modal-inline-data").html());
+        modalContent.html($('#advertiser-' + offer_id).html());
         $('#modal-container').modal({show: true});
     });
 
     // Hotel information inline (XML search)
     $('#content-container').on("click", 'a.hotel-information-inline', function(e) {
         e.preventDefault();
+        var offer_id = $(this).attr('data-offer-id');
         var modalContent = $('#modal-container .modal-content');
         modalContent.empty();
         modalContent.addClass('hotel-modal');
-        var modalHtml;
-        if ($(this).hasClass('main-hotel-link')) {
-            modalHtml = $(this).parents('h1').siblings('ul.holiday-info').find(".hotel-information-modal-inline").html();
-        } else {
-            modalHtml = $(this).next(".hotel-information-modal-inline").html();
-        }
+        var modalHtml = $('#hotelInfo-' + offer_id).html();
         modalContent.html(modalHtml);
 
         $('#modal-container').modal({show: true});
     });
 
+    // Mobile Holiday Search Form
+    $('#mobile-search-toggle').click(showHideMobileSearchForm);
+
+    $(window).resize(function(){
+        // Hide the mobile search form, if visible
+        if ($('#mobile-search-toggle').is(':not(:visible)') && $('#mobile-menu-search-form-container').is(':visible')) {
+            if ((typeof mobileFormMoved !== 'undefined') && mobileFormMoved === false) {
+                $('#mobile-search-toggle').trigger('click');
+                mobileFormMoved = true;
+            }
+        }
+    });
+
+    bindGAEvents();
 });
 </script>
     <script type="text/javascript">
@@ -1022,27 +1396,35 @@ $(document).ready(function()
     <script type="text/javascript">var addthis_config = {"data_track_addressbar": false};</script>
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537c88280b0d929d"></script>
 
-
-    <script type="text/javascript" async="" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+     <script type="text/javascript" async="" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 
     <script>
-        //do something with everythign wrapped in a class of numberReplace
-        var adiInit = "12191", adiRVO = true;
-        var adiFunc = null;
-        var adiZeroConfig = {
-            classes: ['numberReplace']
-        };
+        //do something with everything wrapped in a class of numberReplace
+var adiInit = "12191", adiRVO = true;
+var adiFunc = null;
+var adiZeroConfig = {
+    classes: ['numberReplace']
+};
 
-        (function () {
-            var adiSrc = document.createElement("script");
-            adiSrc.type = "text/javascript";
-            adiSrc.async = true;
-            adiSrc.src = ("https:" == document.location.protocol ? "https://static-ssl" : "http://static-cdn")
-                    + ".responsetap.com/static/scripts/rTapTrack.min.js";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(adiSrc, s);
-        })();
+function rTapPostReplacement() {
+    if ('undefined' !== typeof _vis_opt_experiment_id && 'undefined' !== typeof _vwo_exp[_vis_opt_experiment_id] && 'undefined' !== typeof _vwo_exp[_vis_opt_experiment_id].combination_chosen) {
+        adiFunc.pushVariable(0, _vis_opt_experiment_id);
+        adiFunc.pushVariable(1, '202');
+        adiFunc.pushVariable(2, _vwo_exp[_vis_opt_experiment_id].combination_chosen);
+        adiFunc.flushVariables();
+    }
+}
+
+(function () {
+    var adiSrc = document.createElement("script");
+    adiSrc.type = "text/javascript";
+    adiSrc.async = true;
+    adiSrc.src = ("https:" == document.location.protocol ? "https://s0tatic-ssl" : "http://static-cdn")
+        + ".responsetap.com/static/scripts/rTapTrack.min.js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(adiSrc, s);
+})();
     </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"bfcafef50a","applicationID":"1885026","transactionName":"MVwBN0EHCBJUAkUKWQgWIBZAEgkMGghSBloJVQ8abAEDD1ATUA9pBVYNF1YIEj5GFVAXXwVJAgRW","queueTime":0,"applicationTime":57,"ttGuid":"","agentToken":"","atts":"HRsWQQkdRBJZFFZBDERJEQpFBwUYGBFeD18FQEEeH0QHQw8aTB4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"bfcafef50a","applicationID":"1885026","transactionName":"MVwBN0EHCBJUAkUKWQgWIBZAEgkMGghSBloJVQ8abAEDD1ATUA9pBVYNF1YIEj5GFVAXXwVJAgRW","queueTime":0,"applicationTime":65,"ttGuid":"","agentToken":"","atts":"HRsWQQkdRBJZFFZBDERJEQpFBwUYGBFeD18FQEEeH0QHQw8aTB4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-412.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
