@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the cloudprohosting.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223021050id_/http%3A//cloudprohosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudprohosting.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921121034id_/http%3A//www.cloudprohosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Based Web Hosting by Cloud Pro Hosting - 99.9% Uptime Web Hosting
 
 ## 1\. Introduction
 
-Protecting your privacy is a serious matter and doing so is very important to OptimalHosting.com (also hereinafter referred to as ?Optimal Hosting?, "we", "us" or "our"). No personal information will be shared with any third parties without the customer?s permission. Please read this Privacy Policy statement (the "Policy") to learn more about our Policy.
+Welcome to the Cloud Pro Hosting website, owned and controlled by Mudlark Investments Ltd, a company registered in and governed by the laws of Cyprus whose registered address is 11 Timis, 3rd Floor, Office 302, Latsia Nicosia P.C. 2220 Cyprus. 
 
-This Policy applies to information collected on the Optimal Hosting web site, applications and services (the "Service") and covers our treatment of personally identifiable information/data ("Personal Information") and other data that we gather when you are accessing our Service.
+Protecting your privacy is a serious matter and doing so is very important to cloudprohosting.com (also hereinafter referred to as ?Cloud Pro Hosting?, "we", "us" or "our"). No personal information will be shared with any third parties without the customer?s permission. Please read this Privacy Policy statement (the "Policy") to learn more about our Policy.
+
+This Policy applies to information collected on the Cloud Pro Hosting web site, applications and services (the "Service") and covers our treatment of personally identifiable information/data ("Personal Information") and other data that we gather when you are accessing our Service.
 
 We reserve the right to modify our Policy at any time and without prior notice, so be sure to check this Policy regularly to understand how we use your information. If you do not accept and agree with our Policy then you may not access or use the Service.
 
-## 2\. Personal Information You Provide to Optimal Hosting
+## 2\. Personal Information You Provide to Cloud Pro Hosting
 
 We receive and store any information you enter on our Service or provide to us in any other way. The types of Personal Information collected may include your name, address, email address, phone number, location, usage information regarding your use of our Service, and browser information.
 
 The Personal Information you provide is used for such purposes as allowing you to set up a user account and subscribe to the Service, improving the content of the Service, customizing the content you see, and communicating with you about updates, offers and new features. We may also draw upon this Personal Information in order to adapt the Service to your needs, to research the effectiveness of our Service, and to develop new tools.
 
-## 3\. Information Collected Automatically by Optimal Hosting
+## 3\. Information Collected Automatically by Cloud Pro Hosting
 
-When you use the Service, Optimal Hosting automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-personal information, except where we are required to do otherwise under applicable law. Optimal Hosting only uses this data in aggregate form.
+When you use the Service, Cloud Pro Hosting automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-personal information, except where we are required to do otherwise under applicable law. Cloud Pro Hosting only uses this data in aggregate form.
 
 ## Cookies
 
@@ -26,7 +28,7 @@ Please refer to our Cookie Policy.
 
 ## Log Files
 
-Like most standard websites, Optimal Hosting uses log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer our website, track user's movement in the aggregate and gather broad demographic information for aggregate use. However, none of the information stored in the Optimal Hosting log files, including but not limited to IP addresses, is linked to Personal Information.
+Like most standard websites, Cloud Pro Hosting uses log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer our website, track user's movement in the aggregate and gather broad demographic information for aggregate use. However, none of the information stored in the Cloud Pro Hosting log files, including but not limited to IP addresses, is linked to Personal Information.
 
 ## Clear Gifs
 
@@ -48,7 +50,7 @@ By providing us with your email address, you consent to our using the email addr
 
 ## Information shared with other Users and the Public
 
-Any Personal Information or content that you voluntarily disclose or upload to public areas (on our website) while using the Service becomes available to the public. Optimal Hosting shall not be responsible for the Personal Information that you choose to disclose publicly on the Service. Should you remove information that you posted to the Service copies may remain viewable (i) in cached and archived pages of the Service, or (ii) if others have copied or saved that information. Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think/consider carefully prior to posting any specific information you may deem private in content that you create in the Service. 
+Any Personal Information or content that you voluntarily disclose or upload to public areas (on our website) while using the Service becomes available to the public. Cloud Pro Hosting shall not be responsible for the Personal Information that you choose to disclose publicly on the Service. Should you remove information that you posted to the Service copies may remain viewable (i) in cached and archived pages of the Service, or (ii) if others have copied or saved that information. Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think/consider carefully prior to posting any specific information you may deem private in content that you create in the Service. 
 
 ## Information shared with Partners and Affiliates
 
@@ -60,11 +62,11 @@ We employ/hire other companies and/or individuals (?Agents?) to perform tasks on
 
 ## Required disclosures
 
-We may need to disclose your Personal Information when required by law or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) enforce this Policy and/or our Terms of Service, (c) respond to claims that your Personal Information violates the rights of third parties; or (d) protect the rights, property or personal safety of Optimal Hosting, its users/customers and the public. You hereby authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to any kind of liability. 
+We may need to disclose your Personal Information when required by law or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) enforce this Policy and/or our Terms of Service, (c) respond to claims that your Personal Information violates the rights of third parties; or (d) protect the rights, property or personal safety of Cloud Pro Hosting, its users/customers and the public. You hereby authorize us to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to any kind of liability. 
 
 ## Business Transfers
 
-If Optimal Hosting or substantially all of its assets are acquired by any third party, all of our customers/user's information (including any Personal Information) would be one of the assets that is transferred to or acquired by such a purchasing third party. 
+If Cloud Pro Hosting or substantially all of its assets are acquired by any third party, all of our customers/user's information (including any Personal Information) would be one of the assets that is transferred to or acquired by such a purchasing third party. 
 
 ## 7\. Reviewing, Updating, Deleting and Deactivating Personal Information
 
@@ -74,9 +76,9 @@ Nonetheless, we will retain in our files information you may have requested us t
 
 ## 8\. How We Protect Personal Information
 
-Optimal Hosting uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to Optimal Hosting and you do so at your own risk. Once we receive any such of information from you, Optimal Hosting makes commercially reasonable efforts to ensure the security of our systems. However, please note that we do not guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Cloud Pro Hosting uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to Cloud Pro Hosting and you do so at your own risk. Once we receive any such of information from you, Cloud Pro Hosting makes commercially reasonable efforts to ensure the security of our systems. However, please note that we do not guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-To protect the privacy and security of your information, we take reasonable steps to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique identification information, and for controlling access to your communications from Optimal Hosting, at all times. 
+To protect the privacy and security of your information, we take reasonable steps to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique identification information, and for controlling access to your communications from Cloud Pro Hosting, at all times. 
 
 ## 9\. Compromise of Personal Information
 
@@ -88,7 +90,7 @@ Any dispute, claim or controversy arising out of or in connection with this Poli
 
 ## 11\. Contact Information
 
-If you have any questions or suggestions regarding this Policy, please contact our Customer Support team by email at support@optimalhosting.com 
+If you have any questions or suggestions regarding this Policy, please contact our Customer Support team by email at support@cloudprohosting.com 
 
 ## 12\. Effective Date
 
