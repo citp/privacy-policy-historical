@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtbakervapor.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621151215id_/http%3A//www.mtbakervapor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtbakervapor.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921031024id_/http%3A//www.mtbakervapor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ Although we take appropriate measures to safeguard your personal information aga
 
 ### How To Contact Us
 
-If you have any questions, comments, suggestions, or wish to contact us for any reason, you may do so at:[james@MtBakerVapor.com](mailto:james@MtBakerVapor.com).
+If you have any questions, comments, suggestions, or wish to contact us for any reason, you may do so at: Support@mtbakervapor.com.
 
 ### Updates And Effective Dates
 
