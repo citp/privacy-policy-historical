@@ -1,84 +1,32 @@
-> *The following text is extracted and transformed from the youthparenting.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827214110id_/http%3A//www.youthparenting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthparenting.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921181747id_/http%3A//youthparenting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | YouthParenting
 
-**Privacy Policy**
+Our team here at Fashion Fixation is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
-  
-On Topic Media promotes an environment that respect individual privacy rights and personal information. On Topic Media is committed to care in handling personal information. 
+General  
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
 
-  
-**Purpose Of The Policy**
+1\. for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fullfill any deals or promotions that the user signed up for
 
-On Topic Media takes its obligations under the Privacy Act seriously and would like to take all reasonable steps in order to comply with the Act and protect the privacy of the personal information that we hold. This policy sets out how we intend to do so. 
+2\. to third party service providers we have partnered with so we may provide services our users requested
 
-The Policy applies to anyone who provides us with their personal information. 
+3\. following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
 
-  
-**Information Collection**
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-On Topic Media may collect personal information such as: 
+Cookies  
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
 
-Your name 
+Disclosure of User Information for Legal Purposes  
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
 
-Title 
+External Links  
+Our site’s pages will contain links to third party websites that be be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
 
-Address 
+Children  
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
 
-Phone number 
+Advertising
 
-Email address 
-
-This information will be used only in a fair and lawful manner and used only for the purposes for which it is collected and when you knowingly provide it. 
-
-  
-**Use Of Personal Information**
-
-On Topic Media will not disclose personal information without prior written approval, unless required by law. 
-
-  
-**Security**
-
-On Topic Media undertakes to take reasonable steps necessary to ensure that private information remains confidential, and is secure from any unauthorised access or disclosure. 
-
-On Topic Media's security measures include: 
-
-restricted access to computer systems and physical records 
-
-confidentiality agreements 
-
-secure filing, storage systems and offices for physical records 
-
-requiring employees to use unique passwords to gain access to our systems 
-
-employing firewalls and virus scanning tools to prevent unauthorised persons and viruses from entering our systems 
-
-secure access to building facilities 
-
-  
-**Gaining Access To Personal Information**
-
-An individual may view his or her personal information at any time (subject to the Act) and advise On Topic Media if they believe the information is incorrect. 
-
-On Topic Media has the right to deny access to personal information if: 
-
-access would have an unreasonable impact on the privacy of others 
-
-the request is frivolous or vexatious 
-
-proceedings for a legal dispute are in place 
-
-the information relates to a sensitive decision making process 
-
-  
-**Why We Collect Personal Information**
-
-We collect the information in order to provide a service to our readers and clients. 
-
-On Topic Media requests its employees to be vigilant in regard to the following issues: 
-
-don't give out others personal information without their prior consent eg home telephone numbers 
-
-written permission will be required before your personal information is given to others 
-
-Copyright © 2006 2007 2008 On Topic Media PTY LTD. All Rights Reserved. Design by Vimu.com. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
