@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nollywoodnice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121659id_/http%3A//nollywoodnice.com/%3Fpage_id%3D5740) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nollywoodnice.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921151828id_/http%3A//nollywoodnice.com/%3Fpage_id%3D5740) for the most accurate reproduction.*
 
 # Privacy Policy « Nollywood NICE
 
