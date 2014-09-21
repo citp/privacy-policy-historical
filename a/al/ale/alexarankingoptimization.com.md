@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091041id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921035044id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,12 +23,12 @@ It may be necessary, if required by law or judicial or governmental investigatio
 
 * * *
 
-**828**  
+**895**  
 Total Websites Optimized
 
 |              | 
 
- **2980413**  
+ **3874543**  
 Total Traffic Delivered through ARO Platform  
   
 ---|---|---  
