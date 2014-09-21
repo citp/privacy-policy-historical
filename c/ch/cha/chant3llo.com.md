@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chant3llo.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530143107id_/http%3A//chant3llo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chant3llo.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922004459id_/http%3A//chant3llo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chant3llo's Blog
 
@@ -26,6 +26,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ad Settings](http://www.google.com/ads/preferences/).
 
-_A huge thank you to[JenSense](https://web.archive.org/web/20140530143107id_/http://chant3llo.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D) for providing this wonderful AdSense Privacy Policy!!_
+_A huge thank you to[JenSense](https://web.archive.org/web/20140922004459id_/http://chant3llo.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D) for providing this wonderful AdSense Privacy Policy!!_
 
 Please also see my [Disclosure Policy](http://chant3llo.com/disclosure-policy/ "Disclosure Policy")
