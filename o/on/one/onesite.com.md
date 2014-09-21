@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesite.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509203748id_/http%3A//www.socialcore.com/legal/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesite.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921054943id_/http%3A//www.socialcore.com/legal/privacyPolicy) for the most accurate reproduction.*
 
 # SocialCore - Social Network Plugins and Community Software
 
