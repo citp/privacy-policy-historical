@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233938id_/http%3A//www.fool.co.uk/help/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921155852id_/http%3A//www.fool.co.uk/help/privacy-and-cookie-statement) for the most accurate reproduction.*
 
-# Privacy And Cookie Statement | The Motley Fool UK
+# The Motley Fool UK » Privacy And Cookie Statement
 
 The Motley Fool Limited is committed to protecting and respecting your privacy. This Privacy and Cookie Statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us at [UKPrivacy@fool.co.uk](mailto:UKPrivacy@fool.co.uk).
 
