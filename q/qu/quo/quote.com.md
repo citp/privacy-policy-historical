@@ -1,37 +1,89 @@
-> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154131id_/http%3A//www.quote.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921022331id_/http%3A//www.quote.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Quote.com ®
 
-##  Privacy Policy for www.quote.com 
+## Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@quote.com. 
+Quote, LLC. ("Quote," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected when you use Quote.com (the "site") and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-At www.quote.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.quote.com and how it is used. 
+## Information We Collect
 
-**Log Files**  
-Like many other Web sites, www.quote.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+User-Provided Information: You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. In addition, you may choose to add information about yourself to your profile that you can then share with friends. You can modify, delete, and set your privacy setting for this information any time in the My Account section of the site after you have signed in using your personal password.
 
-**Cookies and Web Beacons**  
-www.quote.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Cookies Information: When you visit Quote.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and let's Quote help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Quote uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-**DoubleClick DART Cookie**
+Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.quote.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.quote.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Clear Gifs Information: When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Quote account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Quote better for our users.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction 
+## How We Use Your Information
 
-Clickbank 
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. Quote never discloses your personal information to any third party unless you have instructed us to do so.
 
-Linkshare 
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public via the Service and our business partners. User Content includes, but is not limited to, reviews, comments, and trivia questions. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.quote.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Quote takes reasonable measures to keep messages that you send to other Members through the Service private between you and the recipient. However, even if you have deleted the message from your Quote inbox or outbox, copies of the message may remain viewable in cached and archived pages or if other users have copied or stored the message.
 
-www.quote.com has no access to or control over these cookies that are used by third-party advertisers. 
+By providing Quote your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by changing your settings on the My Account page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.quote.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Your name and, depending on privacy settings, email address, are used when you invite another person to join Quote, or when a you request to add another member to your friends list.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+Quote may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+
+Quote may develop special sites in cooperation with other companies. If you register at these "co-branded" sites, we may share your registration information (such as name and email address) with that company.
+
+Quote reserves the right, but has no obligation, to monitor the User Content you post on the site. Quote has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Quote also reserves the right to remove information upon the request of any third party.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+
+## How We Share Your Information
+
+Personally Identifiable Information: Quote will not rent or sell your personally identifiable information to others. Quote may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Quote (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+
+Except as otherwise described in this privacy statement, Quote will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Quote, our users or others.
+
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Quote services.
+
+Quote allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Quote.com site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Quote. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Quote does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Quote to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Quote privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+## How We Protect Your Information
+
+Quote uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Quote and you do so at your own risk. Once we receive your transmission of information, Quote makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Quote, at all times.
+
+## Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, Quote will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+## Your Choices About Your Information
+
+You may access or change your information and preferences at any time in your My Account area once you have signed in with your personal password. For example, you can control which actions, if any, will appear on your update feed, whether to display your email address, whether to display your last name, and what sort of email notifications you will receive from the Service. You may, of course, decline to submit personally identifiable information through Quote, in which case Quote may not be able to provide certain services to you.
+
+## Children's Privacy
+
+Protecting the privacy of young children is especially important. For that reason, Quote does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Quote. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+
+## Links to Other Web Sites
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+## Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Quote in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+## Changes to Our Privacy Policy
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us, or send mail to:
+
+Quote, LLC  
+3959 VAN DYKE RD, STE #286  
+LUTZ, FL 33558
