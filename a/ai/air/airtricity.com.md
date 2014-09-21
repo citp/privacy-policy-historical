@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521173152id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921135012id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Greener and Cheaper Energy from SSE Airtricity
+# Privacy Policy
 
 SSE Airtricity Limited, a company registered in Ireland with company number 317386 and having its registered office at Red Oak South, South County Business Park, Leopardstown, Dublin 18 and a member of the Scottish and Southern Energy Group (hereinafter referred to as “ **SSE Airtricity** ”, “ **Our** ”, “ **We** ” or “ **Us** ”) is committed to protecting and respecting your privacy.
 
@@ -56,6 +56,6 @@ If We change Our privacy policy, We will post the changes on this page, and may 
 
 We may disclose your personal data or information to any part of the Scottish and Southern Energy Group.
 
-We may also disclose your personal data or information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply Our website [Terms of Use](http://www.airtricity.com/ie/terms-of-use/), Our [Terms and Conditions of Supply](http://www.airtricity.com/ie/home/products/supply-of-electricity-and-or-gas/) or other agreements; or to protect the rights, property, or safety of any part of the SSE Group, our customers, or others.
+We may also disclose your personal data or information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply Our website [Terms of Use](http://www.airtricity.com/ie/terms-of-use/), Our [Terms and Conditions of Supply](http://www.airtricity.com/assets/Terms/ROI/DLROIDOMTC5GeneralTerms.pdf) or other agreements; or to protect the rights, property, or safety of any part of the SSE Group, our customers, or others.
 
 This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
