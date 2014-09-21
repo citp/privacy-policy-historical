@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621214811id_/http%3A//www.tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921033527id_/http%3A//www.tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
