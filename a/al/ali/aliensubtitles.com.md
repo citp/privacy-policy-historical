@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliensubtitles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124606id_/http%3A//aliensubtitles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliensubtitles.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922004637id_/http%3A//aliensubtitles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AlienSubtitles
 
