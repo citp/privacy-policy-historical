@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523161210id_/http%3A//www.nfluk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921125810id_/http%3A//prod.www.nfluk.clubs.nfl.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | NFL UK
+# NFLUK.com | Privacy Policy
 
 This privacy policy (the "Privacy Policy") applies to this website (the "Website"). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -8,7 +8,7 @@ The Website is operated by NFL International Ltd on behalf of the National Footb
 
 We own the information collected via the Website and we may use it for our own purposes, including marketing. Please note that this Privacy Policy applies only to information collected on the NFL.com website; it does not apply to any other information collected or obtained through other means or information collected by the thirty-two individual NFL member clubs (the "Member Clubs").
 
-NFL International Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [NLFPrivacy@nfl.com](mailto:NLFPrivacy@nfl.com). If you are not satisfied with our response you can contact TRUSTe here.
+NFL International Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [NFLPrivacy@nfl.com](mailto:NLFPrivacy@nfl.com). If you are not satisfied with our response you can contact TRUSTe here.
 
 This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information visit http://www.export.gov/safeharbor/.
 
@@ -140,19 +140,22 @@ If you have anyquestions about this Privacy Policy or our privacy practices, con
 
 **EU Cookie Policy**
 
-****Cookies, and how we use them on NFL UK
+What is a cookie?
 
-**What is a cookie?**
-
-[Cookies](http://en.wikipedia.org/wiki/Browser_cookie) are small, usually randomly encoded, text files that are designed to store basic information (such as visitor preferences).  A cookie file is created by the Web site you're browsing, and is transmitted and processed by your computer's Web browser software.  The resulting file is stored in your Web browser's installation directory or subfolder (cache). 
+[Cookies](http://en.wikipedia.org/wiki/Browser_cookie) are small, usually randomly encoded, text files that are designed to store basic information (such as visitor preferences).  A cookie file is created by the Web site you're browsing, and is transmitted and processed by your computer's Web browser software.  The resulting file is stored in your Web browser's installation directory or subfolder (cache).
 
 Your Web browser accesses this file when you visit the Web site that originally created the cookie.  The Web browser uses the information stored in this file to help ease your navigation of the Web site by letting you log in automatically or remembering settings you selected during your earlier visits to the Web site, among many other functions.  Cookies cannot be used to identify you personally.
 
-Like many Web sites, we use cookies to obtain certain types of information when your Web browser accesses some of our Web pages.  These pieces of information are used to improve services for you, for example:
+Like many Web sites, we use cookies to obtain certain types of information when your Web browser accesses some of our Web pages. 
+
+These pieces of information are used to improve services for you, for example:
 
   * Enabling a service to recognize your device so you don't have to give the same information several times during one task
+
   * Recognizing that you may already have given a username and password so you don't need to do it for every web page requested
+
   * Measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
+
 
 
 
@@ -160,11 +163,11 @@ Like many Web sites, we use cookies to obtain certain types of information when 
 
 The list below shows what cookies we use on our website, why, and how long they are programmed to stay on your computer or device.
 
-_1) Cookies for Improving Service using Analytics_
+1) Cookies for Improving Service using Analytics
 
-We use _Omniture Site Catalyst_ to help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements.
+We use Omniture Site Catalyst to help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements.
 
-**URL** : [http://www.nfluk.com](http://www.nfluk.com/), [http://forum.nfluk.com](http://forum.nfluk.com/), [http://games.nfluk.com](http://games.nfluk.com/)
+**URL:**[ http://www.nfluk.com](http://www.nfluk.com/)[ http://forum.nfluk.com](http://forum.nfluk.com/)[ http://games.nfluk.com](http://games.nfluk.com/)
 
 The cookies involved in this process are:
 
@@ -268,13 +271,13 @@ Help us measure how many people visit the site and what they are interested in. 
 
 This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
-_2) Cookies for User Accounts and Community Features_
+2) Cookies for User Accounts and Community Features
 
-We use cookies to maintain an active login session on the Web site, Community, and Forum. 
+We use cookies to maintain an active login session on the Web site, Community, and Forum.
 
-**URL** : [http://www.nfluk.com](http://www.nfluk.com/), [http://forum.nfluk.com](http://forum.nfluk.com/), [http://games.nfluk.com](http://games.nfluk.com/)
+**URL:** [ http://www.nfluk.com](http://www.nfluk.com/)[ http://forum.nfluk.com](http://forum.nfluk.com/)[ http://games.nfluk.com](http://games.nfluk.com/)
 
-The cookies involved in this process are:   
+The cookies involved in this process are: 
 
 **Cookie Name**
 
@@ -318,7 +321,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 gvo_browsing_lang
 
@@ -328,11 +331,11 @@ Contains the Web browser character encoding (en-US)
 
 | 
 
-To remember your selections that you've already made when looking at information or using a service on our website when the browser is closed
+To remember your selections that you've already made when looking at information or using a service on our website when the browser is closed
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72  hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72  hours of inactivity  
   
 SESS_<string>
 
@@ -346,7 +349,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 bbsessionhash
 
@@ -360,7 +363,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 bblastvisit
 
@@ -374,7 +377,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 bblastactivity
 
@@ -388,7 +391,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 bbuserid                         
 
@@ -402,7 +405,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 bbpassword
 
@@ -416,7 +419,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 External Links
 
@@ -430,7 +433,7 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
   
 symphony
 
@@ -444,4 +447,18 @@ This cookie is required for user login.
 
 | 
 
-This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+QUESTIONS ABOUT THIS PRIVACY POLICY
+
+If you have any questions about this privacy policy or the privacy practices of this Website, contact [enquiries@nfl.com](mailto:enquiries@nfl.com)
+
+Questions regarding this statement should be directed to:
+
+NFL International  
+4th Floor  
+1-9 Hills Place  
+London  
+W1F 7SA  
+Attn: Website Privacy Policy  
+Ph: +44 (0)20 7534 0030
