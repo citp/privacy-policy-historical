@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527070718id_/http%3A//wa.gov.au/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921220818id_/http%3A//wa.gov.au/content/privacy) for the most accurate reproduction.*
 
 # Privacy | wa.gov.au
 
@@ -27,4 +27,4 @@ A cookie is a piece of information that an Internet website sends to your browse
 
 wa.gov.au will only record your email address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. We will not use or disclose your email to any third party without your explicit consent.
 
-For further information please contact the [Webteam](mailto:webteam@wa.gov.au).
+For further information please contact [communications@psc.wa.gov.au](mailto:communications@psc.wa.gov.au).
