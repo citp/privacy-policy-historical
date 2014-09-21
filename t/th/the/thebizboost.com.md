@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebizboost.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514133031id_/http%3A//thebizboost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebizboost.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921041421id_/http%3A//thebizboost.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
