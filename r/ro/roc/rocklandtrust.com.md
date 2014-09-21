@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035305id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922013147id_/http%3A//www.rocklandtrust.com/Planning-Tools-And-Resources/Security-Center/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Rockland Trust
 
@@ -151,9 +151,7 @@ What is considered an Error?
 
 ### What is and isn't covered by the Regulation E Error Resolution Requirements
 
-### 
-
-**Electronic transactions that are covered include:**
+ **Electronic transactions that are covered include:**
 * Unauthorized debit card transactions that appear on a customer's personal account statement. 
 * Withdrawal transactions conducted against a customer's personal account at an ATM, when the machine dispenses an incorrect amount of cash. 
 
@@ -163,11 +161,7 @@ What is considered an Error?
 * Debit card purchases that are authorized but result in a customer's dissatisfaction with the quality of the merchandise that was purchased.   
 
 
-### 
-
-### Privacy
-
-: 
+### Privacy:
 
 ### Frequently Asked Questions   
 
