@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezine9.us privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305050612id_/http%3A//www.ezine9.us/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezine9.us privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921022352id_/http%3A//www.thefreearticles.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Articles Directory - Ezine9
 
