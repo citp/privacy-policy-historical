@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplysup.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208032625id_/http%3A//simplysup.com/tremover/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplysup.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921192832id_/http%3A//www.simplysup.com/tremover/privacy.html) for the most accurate reproduction.*
 
 # Trojan Remover - Support
 
@@ -20,7 +20,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 Simply Super Software will not sell, rent or trade your personal information to any other party. Your personal information will not be disclosed to any third party unless we are required to do so by law.
 
-Information on how to contact Simply Super Software is on the  [Contact Us](https://web.archive.org/web/20140208032625id_/http%3A//simplysup.com/tremover/contact.html "contact.html") page.
+Information on how to contact Simply Super Software is on the  [Contact Us](https://web.archive.org/web/20140921192832id_/http%3A//www.simplysup.com/tremover/contact.html "contact.html") page.
 
 * * *
 
