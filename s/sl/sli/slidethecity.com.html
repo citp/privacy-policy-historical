@@ -1,0 +1,1547 @@
+<!--The following is the downloaded HTML source of the slidethecity.com privacy policy that was archived on 2014-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921160114id_/http%3A//www.slidethecity.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
+<title>Slide the City - Privacy Policy</title>
+<meta http-equiv="keywords" content="">
+<meta http-equiv="description" content="">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta property="og:image" content="https://www.slidethecity.com/images/stc-fb-logo.jpg">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/styles/style.css">
+<link rel="stylesheet" type="text/css" href="/styles/fancybox.css">
+<link rel="stylesheet" type="text/css" href="/styles/tabs.css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/js/ui.core.js"></script>
+<script type="text/javascript" src="/js/ui.tabs.js"></script>
+<script type="text/javascript"> 
+/*
+$(document).ready(function()
+  {
+	$.ajax(
+	{
+		url : '/ajaxutils.i?cmd=racelist_footer',
+		success: function(data)
+		{
+			$('#race_columns').html(data);
+		}
+	});
+  });
+  */
+  $(document).ready(function() {
+  	
+  	var path = location.pathname;
+  	
+  	$('#main-nav li a').each(function() {
+  		var href = $(this).attr('href');
+  		if( path.search(href) > -1 ){
+  			$(this).addClass('current');
+  		}
+  	})
+  	
+  	
+    $(".fancybox").fancybox({ 
+        zoomSpeedIn: 400, 
+        zoomSpeedOut :400, 
+        overlayShow: true, 
+        titleShow: false,
+        overlayColor: '#000',
+        'type' : 'iframe',
+        'onComplete': function() {
+          $("#fancybox-frame").css({'overflow-x':'hidden'});
+        } 
+    });
+	
+    $(".fancybox-waiver").fancybox({ 
+        scrolling: 'auto',
+        width: 900,
+        height: 400,
+        autoDimensions: false,
+        zoomSpeedIn: 400, 
+        zoomSpeedOut: 400, 
+        overlayShow: true, 
+        titleShow: false,
+        overlayColor: '#000',
+        'type' : 'iframe',
+        'onComplete': function() {
+          $("#fancybox-frame").css({'overflow-x':'hidden'});
+        } 
+    });
+    
+    $(".fancybox-gallery").fancybox({
+        transitionIn: 'fade',
+		transitionOut: 'fade',
+		speedIn: 600, 
+		speedOut: 200,
+		overlayShow: true,
+        overlayColor: '#000',
+        overlayOpacity: 0.6,
+        titleShow: false
+	});
+    
+    $("#fancybox-onload").trigger('click');
+    $('#map-menu').tabs({ cache:true  });
+    $('#product-tabs > ul').tabs({ cache:true  });
+  });
+</script>
+
+<script type="text/javascript">
+
+/***********************************************
+* Different CSS depending on OS (mac/pc)- � Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var csstype="inline" //Specify type of CSS to use. "Inline" or "external"
+
+var mac_css='#map-menu ul { width: 667px; }' //if "inline", specify mac css here
+var pc_css='#map-menu ul { width: 619px; }' //if "inline", specify PC/default css here
+
+///////No need to edit beyond here////////////
+
+var mactest=navigator.userAgent.indexOf("Mac")!=-1
+if (csstype=="inline"){
+document.write('<style type="text/css">')
+if (mactest)
+document.write(mac_css)
+else
+document.write(pc_css)
+document.write('</style>')
+}
+else if (csstype=="external")
+document.write('<link rel="stylesheet" type="text/css" href="'+ (mactest? mac_externalcss : pc_externalcss) +'">')
+
+</script><style type="text/css">#map-menu ul { width: 619px; }</style>
+
+<script type="text/javascript"> 
+  $(document).ready(function() {
+    $('#tabs_container > ul').tabs({ cache:true  });
+    $('#tabs > ul').tabs({ cache:true  });
+  });
+</script>
+<script type="text/javascript"> 
+  function toggle(showHideDiv, switchTextDiv) {
+    var ele = document.getElementById(showHideDiv);
+    var text = document.getElementById(switchTextDiv);
+    if(ele.style.display == "block") {
+    ele.style.display = "none";
+  }
+    else {
+        ele.style.display = "block";
+    }
+  }
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51820413-1', 'slidethecity.com');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<div id="top-bar">
+	<div class="container">
+		<div class="fl-left">
+			<a href="/member/login.i">Sign In</a>
+			<span class="divider"></span>
+			<a href="/contact-us">Contact Us</a>
+		</div>
+		<div class="fl-right">
+			<a class="h-volunteer-btn" href="/volunteer.html">Volunteer</a>
+			<!--<a class="h-register-btn" href="/racemap.i">Register Now</a>-->
+			<a class="h-register-btn" href="http://www.slidethecity.com/racemap.i">Register Now</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div id="header" class="container">
+	<a href="/"><img id="logo" src="/images/stc-logo.jpg" width="105" height="118" alt="Slide the City"></a>
+		<div class="fl-right">
+			
+			<div id="social-bar" class="fl-right">
+				<a class="fl-left" target="blank" href="http://instagram.com/slidethecity"><img src="/images/i_instagram.jpg" width="24" height="24" alt="Instagram"></a>
+				<!--<a class="fl-left" target="blank" href="http://www.youtube.com/thelanternfest"><img src="/images/i_youtube.jpg" width="24" height="24" alt="Youtube"></a>
+				<a class="fl-left" target="blank" href="http://www.pinterest.com/thelanternfest"><img src="/images/i_pinterest.jpg" width="24" height="24" alt="Pinterest"></a>-->
+				<a class="fl-left" target="blank" href="https://www.facebook.com/pages/Slide-The-City/304911339667351&#10;"><img src="/images/i_facebook.jpg" width="24" height="24" alt="Facebook"></a>
+				<!--<a class="fl-left" target="blank" href="http://www.twitter.com/thelanternfest"><img src="/images/i_twitter.jpg" width="24" height="24" alt="Twitter"></a>-->
+				<a class="fl-left" href="/contact/contact.i"><img src="/images/join_mailing_list.jpg" width="154" height="24" alt="Join our mailing list" class="mailing-list"></a>
+			</div>
+			
+			<div class="clear"></div>
+			
+			<ul id="main-nav">
+				<li><a href="/racemap.i">Locations</a></li>
+				<li><a href="/about.html">About</a></li>
+				<li><a href="/faq/faq.i">FAQs</a></li>
+				<li><a href="/gallery/gallery_list.i?cmd=list&amp;galleryid=1">Photo</a></li>
+			</ul>
+			
+		</div>
+		<div class="clear"></div>
+</div>
+	
+	<div class="container">
+		
+
+<img src="/images/privacy-banner.jpg" width="980" height="315">
+
+<h3>Our Commitment to Privacy</h3>
+<p>
+	Your privacy is important to us.</p>
+<p>
+	To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.&nbsp;</p>
+
+
+<h3>What information do we collect?</h3>
+<p>
+	We collect information when you fill out your race registration, including your name, email, address, phone number, date of birth and payment details.</p>
+
+<h3>What do we use your information for?</h3>
+<p>
+	Any of the information collected may be used to improve our website, improve customer service, to process transactions, to send periodic emails with information about Slide The City race, to administer a contest, survey, promotion of other racing events or other site features. All credit card information will be used only to process the registration for the current registration purchased and will only be shared with those affiliated with processing the transaction and is not stored by The Slide The City.</p>
+<p>
+	We may also release information when we believe release is appropriate to comply with the law, enforce site policies, or protect ours or others rights, property, or safety. Non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Your email address will never be sold to outside affiliates.</p>
+
+<h3>How do we protect your information?</h3>
+
+<p>
+	We implement a variety of security measures to maintain the safety of your personal information and all measures will be taken to protect this information.</p>
+
+<h3>Online Privacy Policy Only</h3>
+
+<p>
+	The online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+
+	<h3>Consent</h3>
+	
+<p>
+	By using our site and submitting your registration you hereby consent to the online privacy policy, as stated.</p>
+<p>
+	By submitting, posting or displaying any content, pictures and other materials on our facebook page, you grant to us a worldwide, non-exclusive, royalty-ree license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, disply and distribute such content, pictures or other materials in any and all media, advertising, marketing or other distribution methods whether now known or later developed.</p>
+
+<h3>Changes to Privacy Policy</h3>
+
+<p>
+	Any changes made to this privacy policy will be noted on this page.</p>
+<p>
+	This policy was last modified on 6/11/2014</p>
+
+<h3>Contact</h3>
+<p>
+	If there are any questions regarding this privacy policy, you may contact us using the information listed below.</p>
+
+<p>
+	Slide The City<br>
+	info@slidethecity.com</p>
+	
+	<br><br>
+
+
+	</div>
+		
+	<div class="dark-grey-container">
+	<div id="racemap" class="container">
+		  <div id="map-menu" class="ui-tabs-nav">
+		  	<img src="/images/map-header.jpg" height="244" width="980" alt="map header" class"map-header"="">
+		  <ul class="ui-tabs-nav">
+			  <li class="ui-tabs-selected"><a href="#maptab">Map</a></li>
+			  <li><a href="#alpha">Alphabetical List</a></li>
+  			  <li><a href="#chrono">Chronological List</a></li>
+		  </ul>
+		  </div>
+	  </div>
+	</div>
+		  
+<script>
+	var oldreg = [ 'west','midwest','northeast','hawaii','southwest','southeast' ];
+	var newreg = [ 'northwest', 'northeast', 'east', 'southwest', 'middle', 'south' ];
+	var hileft = [ '96','468','575','33','363','315' ];
+	var hitop  = [ '3','39','214','222','256','402' ];
+$(document).ready(function(){
+  $('.mapzoom-trig').each(function(){
+    var region = ($(this).attr('id'));
+    region = region.replace(/^.*?-/,'');
+    $(this).click(function(){
+      $('.mapzoomshow').removeClass('mapzoomshow');
+      $('#map-'+region).addClass('mapzoomshow');
+    });
+    $(this).hover(function(){
+      $('#maphover').css('background-image','url(/images/'+newreg[$.inArray(region,oldreg)]+'-hover.png)').css('background-position',hileft[$.inArray(region,oldreg)]+'px '+hitop[$.inArray(region,oldreg)]+'px');
+    },function(){
+      $('#maphover').css('background-image','');
+    });
+  });
+  $('.closemap').click(function(){
+    $('.mapzoomshow').removeClass('mapzoomshow');
+  });
+});
+</script>
+
+<div id="maptab" class="ui-tabs-panel" style="display: block;">
+	<img width="980" height="737" id="hpmap-dev" alt="" src="/images/racemap.jpg">
+	<div id="maphover"></div>
+		<div class="map-container-dev">
+			
+<div class="map-race race115 map-race-blue map-race-left " style="left: 660px; right: auto; top: 335px">
+ <div class="name" onclick="location.href='/event/hamilton';"><a href="/event/hamilton">Hamilton</a>
+ <div class="date" onclick="location.href='/event/hamilton';">TBD</div></div>
+</div>
+
+<div class="map-race race99 map-race-fushia map-race-left " style="left: 260px; right: auto; top: 390px">
+ <div class="name" onclick="location.href='/event/salt-lake-city';"><a href="/event/salt-lake-city">Salt Lake City</a>
+ <div class="date" onclick="location.href='/event/salt-lake-city';">07/19/14</div></div>
+ <div class="soldout" onclick="location.href='/event/salt-lake-city';"><img src="/images/201208racemap-soldout.png" width="40" height="28" alt="SOLD OUT" class="locations-soldout"></div>
+</div>
+
+<div class="map-race race71 map-race-green map-race-left " style="left: 220px; right: auto; top: 320px">
+ <div class="name" onclick="location.href='/event/boise';"><a href="/event/boise">Boise</a>
+ <div class="date" onclick="location.href='/event/boise';">08/30/14</div></div>
+</div>
+
+<div class="map-race race146 map-race-orange map-race-left " style="left: 565px; right: auto; top: 353px">
+ <div class="name" onclick="location.href='/event/milwaukee';"><a href="/event/milwaukee">Milwaukee</a>
+ <div class="date" onclick="location.href='/event/milwaukee';">TBD</div></div>
+</div>
+
+<div class="map-race race92 map-race-fushia map-race-left " style="left: 155px; right: auto; top: 480px">
+ <div class="name" onclick="location.href='/event/los-angeles';"><a href="/event/los-angeles">Los Angeles</a>
+ <div class="date" onclick="location.href='/event/los-angeles';">09/28/14</div></div>
+ <div class="soldout" onclick="location.href='/event/los-angeles';"><img src="/images/201208racemap-soldout.png" width="40" height="28" alt="SOLD OUT" class="locations-soldout"></div>
+</div>
+
+<div class="map-race race40 map-race-orange map-race-left " style="left: 200px; right: auto; top: 450px">
+ <div class="name" onclick="location.href='/event/las-vegas';"><a href="/event/las-vegas">Las Vegas</a>
+ <div class="date" onclick="location.href='/event/las-vegas';">TBD</div></div>
+</div>
+
+<div class="map-race race97 map-race-blue map-race-left " style="left: 205px; right: auto; top: 255px">
+ <div class="name" onclick="location.href='/event/spokane';"><a href="/event/spokane">Spokane</a>
+ <div class="date" onclick="location.href='/event/spokane';">TBD</div></div>
+</div>
+
+<div class="map-race race117 map-race-orange map-race-left " style="left: 165px; right: auto; top: 500px">
+ <div class="name" onclick="location.href='/event/san-diego';"><a href="/event/san-diego">San Diego</a>
+ <div class="date" onclick="location.href='/event/san-diego';">TBD</div></div>
+</div>
+
+<div class="map-race race118 map-race-fushia map-race-left " style="left: 782px; right: auto; top: 290px">
+ <div class="name" onclick="location.href='/event/maine';"><a href="/event/maine">Maine</a>
+ <div class="date" onclick="location.href='/event/maine';">TBD</div></div>
+</div>
+
+<div class="map-race race122 map-race-yellow map-race-left " style="left: 350px; right: auto; top: 210px">
+ <div class="name" onclick="location.href='/event/saskatoon';"><a href="/event/saskatoon">Saskatoon</a>
+ <div class="date" onclick="location.href='/event/saskatoon';">TBD</div></div>
+</div>
+
+<div class="map-race race123 map-race-orange map-race-left " style="left: 595px; right: auto; top: 410px">
+ <div class="name" onclick="location.href='/event/indianapolis';"><a href="/event/indianapolis">Indianapolis</a>
+ <div class="date" onclick="location.href='/event/indianapolis';">TBD</div></div>
+</div>
+
+<div class="map-race race125 map-race-yellow map-race-left " style="left: 720px; right: auto; top: 400px">
+ <div class="name" onclick="location.href='/event/baltimore';"><a href="/event/baltimore">Baltimore</a>
+ <div class="date" onclick="location.href='/event/baltimore';">TBD</div></div>
+</div>
+
+<div class="map-race race126 map-race-green map-race-left " style="left: 725px; right: auto; top: 485px">
+ <div class="name" onclick="location.href='/event/wilmington-nc';"><a href="/event/wilmington-nc">Wilmington, NC</a>
+ <div class="date" onclick="location.href='/event/wilmington-nc';">TBD</div></div>
+</div>
+
+<div class="map-race race127 map-race-orange map-race-left " style="left: 673px; right: auto; top: 408px">
+ <div class="name" onclick="location.href='/event/morgantown-wv';"><a href="/event/morgantown-wv">Morgantown, WV</a>
+ <div class="date" onclick="location.href='/event/morgantown-wv';">TBD</div></div>
+</div>
+
+<div class="map-race race128 map-race-blue map-race-left " style="left: 535px; right: auto; top: 390px">
+ <div class="name" onclick="location.href='/event/quad-cities';"><a href="/event/quad-cities">Quad Cities</a>
+ <div class="date" onclick="location.href='/event/quad-cities';">TBD</div></div>
+</div>
+
+<div class="map-race race129 map-race-green map-race-left " style="left: 365px; right: auto; top: 230px">
+ <div class="name" onclick="location.href='/event/regina';"><a href="/event/regina">Regina</a>
+ <div class="date" onclick="location.href='/event/regina';">TBD</div></div>
+</div>
+
+<div class="map-race race130 map-race-yellow map-race-left " style="left: 610px; right: auto; top: 355px">
+ <div class="name" onclick="location.href='/event/lansing';"><a href="/event/lansing">Lansing</a>
+ <div class="date" onclick="location.href='/event/lansing';">TBD</div></div>
+</div>
+
+<div class="map-race race131 map-race-blue map-race-left " style="left: 320px; right: auto; top: 300px">
+ <div class="name" onclick="location.href='/event/billings';"><a href="/event/billings">Billings</a>
+ <div class="date" onclick="location.href='/event/billings';">TBD</div></div>
+</div>
+
+<div class="map-race race132 map-race-yellow map-race-left " style="left: 770px; right: auto; top: 345px">
+ <div class="name" onclick="location.href='/event/providence';"><a href="/event/providence">Providence</a>
+ <div class="date" onclick="location.href='/event/providence';">TBD</div></div>
+</div>
+
+<div class="map-race race133 map-race-blue map-race-left " style="left: 645px; right: auto; top: 570px">
+ <div class="name" onclick="location.href='/event/tallahassee';"><a href="/event/tallahassee">Tallahassee</a>
+ <div class="date" onclick="location.href='/event/tallahassee';">TBD</div></div>
+</div>
+
+<div class="map-race race134 map-race-fushia map-race-left " style="left: 160px; right: auto; top: 385px">
+ <div class="name" onclick="location.href='/event/reno';"><a href="/event/reno">Reno</a>
+ <div class="date" onclick="location.href='/event/reno';">TBD</div></div>
+</div>
+
+<div class="map-race race136 map-race-yellow map-race-left " style="left: 680px; right: auto; top: 583px">
+ <div class="name" onclick="location.href='/event/gainesville';"><a href="/event/gainesville">Gainesville</a>
+ <div class="date" onclick="location.href='/event/gainesville';">TBD</div></div>
+</div>
+
+<div class="map-race race137 map-race-green map-race-left " style="left: 680px; right: auto; top: 500px">
+ <div class="name" onclick="location.href='/event/columbia-sc';"><a href="/event/columbia-sc">Columbia, SC</a>
+ <div class="date" onclick="location.href='/event/columbia-sc';">TBD</div></div>
+</div>
+
+<div class="map-race race140 map-race-fushia map-race-left " style="left: 650px; right: auto; top: 465px">
+ <div class="name" onclick="location.href='/event/johnson-city-tn';"><a href="/event/johnson-city-tn">Johnson City, TN</a>
+ <div class="date" onclick="location.href='/event/johnson-city-tn';">TBD</div></div>
+</div>
+
+<div class="map-race race45 map-race-blue map-race-left " style="left: 650px; right: auto; top: 520px">
+ <div class="name" onclick="location.href='/event/atlanta';"><a href="/event/atlanta">Atlanta</a>
+ <div class="date" onclick="location.href='/event/atlanta';">TBD</div></div>
+</div>
+
+<div class="map-race race69 map-race-green map-race-left " style="left: 590px; right: auto; top: 570px">
+ <div class="name" onclick="location.href='/event/mobile';"><a href="/event/mobile">Mobile</a>
+ <div class="date" onclick="location.href='/event/mobile';">TBD</div></div>
+</div>
+
+<div class="map-race race72 map-race-blue map-race-left " style="left: 735px; right: auto; top: 380px">
+ <div class="name" onclick="location.href='/event/philadelphia';"><a href="/event/philadelphia">Philadelphia</a>
+ <div class="date" onclick="location.href='/event/philadelphia';">TBD</div></div>
+</div>
+
+<div class="map-race race75 map-race-fushia map-race-left " style="left: 448px; right: auto; top: 493px">
+ <div class="name" onclick="location.href='/event/oklahoma-city';"><a href="/event/oklahoma-city">Oklahoma City</a>
+ <div class="date" onclick="location.href='/event/oklahoma-city';">TBD</div></div>
+</div>
+
+<div class="map-race race77 map-race-blue map-race-left " style="left: 630px; right: auto; top: 355px">
+ <div class="name" onclick="location.href='/event/detroit';"><a href="/event/detroit">Detroit</a>
+ <div class="date" onclick="location.href='/event/detroit';">TBD</div></div>
+</div>
+
+<div class="map-race race82 map-race-green map-race-left " style="left: 755px; right: auto; top: 275px">
+ <div class="name" onclick="location.href='/event/montreal';"><a href="/event/montreal">Montreal</a>
+ <div class="date" onclick="location.href='/event/montreal';">TBD</div></div>
+</div>
+
+<div class="map-race race84 map-race-orange map-race-left " style="left: 480px; right: auto; top: 425px">
+ <div class="name" onclick="location.href='/event/kansas-city';"><a href="/event/kansas-city">Kansas City</a>
+ <div class="date" onclick="location.href='/event/kansas-city';">TBD</div></div>
+</div>
+
+<div class="map-race race87 map-race-fushia map-race-left " style="left: 780px; right: auto; top: 330px">
+ <div class="name" onclick="location.href='/event/boston';"><a href="/event/boston">Boston</a>
+ <div class="date" onclick="location.href='/event/boston';">TBD</div></div>
+</div>
+
+<div class="map-race race89 map-race-green map-race-left " style="left: 665px; right: auto; top: 330px">
+ <div class="name" onclick="location.href='/event/toronto';"><a href="/event/toronto">Toronto</a>
+ <div class="date" onclick="location.href='/event/toronto';">TBD</div></div>
+</div>
+
+<div class="map-race race91 map-race-orange map-race-left " style="left: 145px; right: auto; top: 285px">
+ <div class="name" onclick="location.href='/event/portland-or';"><a href="/event/portland-or">Portland, OR</a>
+ <div class="date" onclick="location.href='/event/portland-or';">TBD</div></div>
+</div>
+
+<div class="map-race race101 map-race-fushia map-race-left " style="left: 600px; right: auto; top: 474px">
+ <div class="name" onclick="location.href='/event/nashville';"><a href="/event/nashville">Nashville</a>
+ <div class="date" onclick="location.href='/event/nashville';">TBD</div></div>
+</div>
+
+<div class="map-race race102 map-race-blue map-race-left " style="left: 263px; right: auto; top: 215px">
+ <div class="name" onclick="location.href='/event/calgary';"><a href="/event/calgary">Calgary</a>
+ <div class="date" onclick="location.href='/event/calgary';">TBD</div></div>
+</div>
+
+<div class="map-race race105 map-race-orange map-race-left " style="left: 430px; right: auto; top: 585px">
+ <div class="name" onclick="location.href='/event/san-antonio';"><a href="/event/san-antonio">San Antonio</a>
+ <div class="date" onclick="location.href='/event/san-antonio';">TBD</div></div>
+</div>
+
+<div class="map-race race109 map-race-fushia map-race-left " style="left: 160px; right: auto; top: 245px">
+ <div class="name" onclick="location.href='/event/seattle';"><a href="/event/seattle">Seattle</a>
+ <div class="date" onclick="location.href='/event/seattle';">TBD</div></div>
+</div>
+
+<div class="map-race race112 map-race-yellow map-race-left " style="left: 745px; right: auto; top: 370px">
+ <div class="name" onclick="location.href='/event/new-york-city';"><a href="/event/new-york-city">New York City</a>
+ <div class="date" onclick="location.href='/event/new-york-city';">TBD</div></div>
+</div>
+
+<div class="map-race race113 map-race-orange map-race-left " style="left: 110px; right: auto; top: 409px">
+ <div class="name" onclick="location.href='/event/san-francisco';"><a href="/event/san-francisco">San Francisco</a>
+ <div class="date" onclick="location.href='/event/san-francisco';">TBD</div></div>
+</div>
+
+<div class="map-race race114 map-race-fushia map-race-left " style="left: 160px; right: auto; top: 215px">
+ <div class="name" onclick="location.href='/event/vancouver';"><a href="/event/vancouver">Vancouver</a>
+ <div class="date" onclick="location.href='/event/vancouver';">TBD</div></div>
+</div>
+
+<div class="map-race race116 map-race-orange map-race-left " style="left: 160px; right: auto; top: 480px">
+ <div class="name" onclick="location.href='/event/orange-county';"><a href="/event/orange-county">Orange County</a>
+ <div class="date" onclick="location.href='/event/orange-county';">TBD</div></div>
+</div>
+
+<div class="map-race race120 map-race-yellow map-race-left " style="left: 545px; right: auto; top: 353px">
+ <div class="name" onclick="location.href='/event/madison';"><a href="/event/madison">Madison</a>
+ <div class="date" onclick="location.href='/event/madison';">TBD</div></div>
+</div>
+
+<div class="map-race race124 map-race-green map-race-left " style="left: 348px; right: auto; top: 420px">
+ <div class="name" onclick="location.href='/event/denver';"><a href="/event/denver">Denver</a>
+ <div class="date" onclick="location.href='/event/denver';">TBD</div></div>
+</div>
+
+<div class="map-race race135 map-race-orange map-race-left " style="left: 565px; right: auto; top: 410px">
+ <div class="name" onclick="location.href='/event/chicago';"><a href="/event/chicago">Chicago</a>
+ <div class="date" onclick="location.href='/event/chicago';">TBD</div></div>
+</div>
+
+<div class="map-race race139 map-race-blue map-race-left " style="left: 738px; right: auto; top: 330px">
+ <div class="name" onclick="location.href='/event/albany';"><a href="/event/albany">Albany</a>
+ <div class="date" onclick="location.href='/event/albany';">TBD</div></div>
+</div>
+
+<div class="map-race race141 map-race-fushia map-race-left " style="left: 460px; right: auto; top: 540px">
+ <div class="name" onclick="location.href='/event/dallas';"><a href="/event/dallas">Dallas</a>
+ <div class="date" onclick="location.href='/event/dallas';">TBD</div></div>
+</div>
+
+<div class="map-race race144 map-race-orange map-race-left " style="left: 240px; right: auto; top: 505px">
+ <div class="name" onclick="location.href='/event/phoenix';"><a href="/event/phoenix">Phoenix</a>
+ <div class="date" onclick="location.href='/event/phoenix';">TBD</div></div>
+</div>
+
+<div class="map-race race39 map-race-yellow map-race-left " style="left: 710px; right: auto; top: 635px">
+ <div class="name" onclick="location.href='/event/miami';"><a href="/event/miami">Miami</a>
+ <div class="date" onclick="location.href='/event/miami';">TBD</div></div>
+</div>
+
+<div class="map-race race42 map-race-green map-race-left " style="left: 475px; right: auto; top: 595px">
+ <div class="name" onclick="location.href='/event/houston';"><a href="/event/houston">Houston</a>
+ <div class="date" onclick="location.href='/event/houston';">TBD</div></div>
+</div>
+
+<div class="map-race race52 map-race-yellow map-race-left " style="left: 120px; right: auto; top: 415px">
+ <div class="name" onclick="location.href='/event/san-jose';"><a href="/event/san-jose">San Jose</a>
+ <div class="date" onclick="location.href='/event/san-jose';">TBD</div></div>
+</div>
+
+<div class="map-race race60 map-race-fushia map-race-left " style="left: 635px; right: auto; top: 400px">
+ <div class="name" onclick="location.href='/event/columbus-oh';"><a href="/event/columbus-oh">Columbus, OH</a>
+ <div class="date" onclick="location.href='/event/columbus-oh';">TBD</div></div>
+</div>
+
+<div class="map-race race61 map-race-green map-race-left " style="left: 735px; right: auto; top: 435px">
+ <div class="name" onclick="location.href='/event/virginia-beach';"><a href="/event/virginia-beach">Virginia Beach</a>
+ <div class="date" onclick="location.href='/event/virginia-beach';">TBD</div></div>
+</div>
+
+<div class="map-race race66 map-race-fushia map-race-left " style="left: 460px; right: auto; top: 390px">
+ <div class="name" onclick="location.href='/event/omaha';"><a href="/event/omaha">Omaha</a>
+ <div class="date" onclick="location.href='/event/omaha';">TBD</div></div>
+</div>
+
+<div class="map-race race65 map-race-green map-race-left " style="left: 760px; right: auto; top: 340px">
+ <div class="name" onclick="location.href='/event/hartford';"><a href="/event/hartford">Hartford</a>
+ <div class="date" onclick="location.href='/event/hartford';">TBD</div></div>
+</div>
+
+<div class="map-race race119 map-race-orange map-race-left " style="left: 685px; right: auto; top: 310px">
+ <div class="name" onclick="location.href='/event/gatineau';"><a href="/event/gatineau">Gatineau</a>
+ <div class="date" onclick="location.href='/event/gatineau';">TBD</div></div>
+</div>
+
+<div class="map-race race121 map-race-yellow map-race-left " style="left: 625px; right: auto; top: 375px">
+ <div class="name" onclick="location.href='/event/toledo';"><a href="/event/toledo">Toledo</a>
+ <div class="date" onclick="location.href='/event/toledo';">TBD</div></div>
+</div>
+
+		</div>
+        <img id="trigs" src="/images/blank.gif" usemap="#regiontrigs" border="0" width="980" height="737" alt="">
+        <map id="regiontrigs" name="regiontrigs">
+        <area shape="poly" coords="115,2,282,79,467,98,526,142,469,210,471,262,305,253,159,223,153,233,132,221,92,141," href="javascript:;" alt="" title="" id="trig-west" class="mapzoom-trig">
+        <area shape="poly" coords="531,145,601,46,721,38,952,135,851,282,832,278,848,234,807,217,764,285,721,299,677,338,632,378,630,364,637,355,629,334,620,312,597,292,540,275,473,262,470,212," href="javascript:;" alt="" title="" id="trig-midwest" class="mapzoom-trig">
+        <area shape="poly" coords="575,449,578,382,592,321,602,307,620,313,629,335,637,356,627,375,682,348,680,339,710,315,722,299,764,289,777,241,787,240,783,233,805,219,822,215,847,239,784,303,800,339,740,432,725,418,711,404,691,423,679,442,661,448,642,426,619,424," href="javascript:;" alt="" title="" id="trig-northeast" class="mapzoom-trig">
+        <area shape="poly" coords="21,610,24,496,136,226,160,223,260,245,374,259,363,397,391,398,387,468,372,468,367,554,316,550," href="javascript:;" alt="" title="" id="trig-hawaii" class="mapzoom-trig">
+        <area shape="poly" coords="365,397,374,259,476,262,539,275,612,302,580,313,577,382,577,449,556,482,548,477,488,478,487,469,386,467,390,398," href="javascript:;" alt="" title="" id="trig-southwest" class="mapzoom-trig">
+        <area shape="poly" coords="315,550,367,554,373,467,487,469,489,479,562,474,563,462,576,449,620,422,648,430,663,449,704,406,742,445,743,478,683,547,718,622,717,655,699,655,652,588,437,661,342,605," href="javascript:;" alt="" title="" id="trig-southeast" class="mapzoom-trig">
+        </map>
+        
+        <div id="map-west" class="mapzoom"><div class="closemap"></div>
+<div class="map-race race122 map-race-yellow map-race-left " style="left: 430px; right: auto; top: 340px">
+ <div class="name" onclick="location.href='/event/saskatoon';"><a href="/event/saskatoon">Saskatoon</a>
+ <div class="date" onclick="location.href='/event/saskatoon';">TBD</div></div>
+</div>
+
+<div class="map-race race129 map-race-green map-race-left " style="left: 455px; right: auto; top: 385px">
+ <div class="name" onclick="location.href='/event/regina';"><a href="/event/regina">Regina</a>
+ <div class="date" onclick="location.href='/event/regina';">TBD</div></div>
+</div>
+
+<div class="map-race race102 map-race-blue map-race-left " style="left: 290px; right: auto; top: 345px">
+ <div class="name" onclick="location.href='/event/calgary';"><a href="/event/calgary">Calgary</a>
+ <div class="date" onclick="location.href='/event/calgary';">TBD</div></div>
+</div>
+
+<div class="map-race race114 map-race-fushia map-race-left " style="left: 130px; right: auto; top: 345px">
+ <div class="name" onclick="location.href='/event/vancouver';"><a href="/event/vancouver">Vancouver</a>
+ <div class="date" onclick="location.href='/event/vancouver';">TBD</div></div>
+</div>
+</div>
+        <div id="map-midwest" class="mapzoom"><div class="closemap"></div>
+<div class="map-race race115 map-race-blue map-race-left " style="left: 305px; right: auto; top: 452px">
+ <div class="name" onclick="location.href='/event/hamilton';"><a href="/event/hamilton">Hamilton</a>
+ <div class="date" onclick="location.href='/event/hamilton';">TBD</div></div>
+</div>
+
+<div class="map-race race82 map-race-green map-race-left " style="left: 435px; right: auto; top: 370px">
+ <div class="name" onclick="location.href='/event/montreal';"><a href="/event/montreal">Montreal</a>
+ <div class="date" onclick="location.href='/event/montreal';">TBD</div></div>
+</div>
+
+<div class="map-race race89 map-race-green map-race-left " style="left: 315px; right: auto; top: 445px">
+ <div class="name" onclick="location.href='/event/toronto';"><a href="/event/toronto">Toronto</a>
+ <div class="date" onclick="location.href='/event/toronto';">TBD</div></div>
+</div>
+
+<div class="map-race race119 map-race-orange map-race-left " style="left: 338px; right: auto; top: 410px">
+ <div class="name" onclick="location.href='/event/gatineau';"><a href="/event/gatineau">Gatineau</a>
+ <div class="date" onclick="location.href='/event/gatineau';">TBD</div></div>
+</div>
+</div>
+        <div id="map-northeast" class="mapzoom"><div class="closemap"></div>
+<div class="map-race race118 map-race-fushia map-race-left " style="left: 530px; right: auto; top: 190px">
+ <div class="name" onclick="location.href='/event/maine';"><a href="/event/maine">Maine</a>
+ <div class="date" onclick="location.href='/event/maine';">TBD</div></div>
+</div>
+
+<div class="map-race race123 map-race-orange map-race-left " style="left: 150px; right: auto; top: 425px">
+ <div class="name" onclick="location.href='/event/indianapolis';"><a href="/event/indianapolis">Indianapolis</a>
+ <div class="date" onclick="location.href='/event/indianapolis';">TBD</div></div>
+</div>
+
+<div class="map-race race125 map-race-yellow map-race-left " style="left: 405px; right: auto; top: 400px">
+ <div class="name" onclick="location.href='/event/baltimore';"><a href="/event/baltimore">Baltimore</a>
+ <div class="date" onclick="location.href='/event/baltimore';">TBD</div></div>
+</div>
+
+<div class="map-race race127 map-race-orange map-race-left " style="left: 300px; right: auto; top: 400px">
+ <div class="name" onclick="location.href='/event/morgantown-wv';"><a href="/event/morgantown-wv">Morgantown, WV</a>
+ <div class="date" onclick="location.href='/event/morgantown-wv';">TBD</div></div>
+</div>
+
+<div class="map-race race130 map-race-yellow map-race-left " style="left: 183px; right: auto; top: 310px">
+ <div class="name" onclick="location.href='/event/lansing';"><a href="/event/lansing">Lansing</a>
+ <div class="date" onclick="location.href='/event/lansing';">TBD</div></div>
+</div>
+
+<div class="map-race race132 map-race-yellow map-race-left " style="left: 512px; right: auto; top: 286px">
+ <div class="name" onclick="location.href='/event/providence';"><a href="/event/providence">Providence</a>
+ <div class="date" onclick="location.href='/event/providence';">TBD</div></div>
+</div>
+
+<div class="map-race race72 map-race-blue map-race-left " style="left: 435px; right: auto; top: 360px">
+ <div class="name" onclick="location.href='/event/philadelphia';"><a href="/event/philadelphia">Philadelphia</a>
+ <div class="date" onclick="location.href='/event/philadelphia';">TBD</div></div>
+</div>
+
+<div class="map-race race77 map-race-blue map-race-left " style="left: 215px; right: auto; top: 320px">
+ <div class="name" onclick="location.href='/event/detroit';"><a href="/event/detroit">Detroit</a>
+ <div class="date" onclick="location.href='/event/detroit';">TBD</div></div>
+</div>
+
+<div class="map-race race87 map-race-fushia map-race-left " style="left: 520px; right: auto; top: 258px">
+ <div class="name" onclick="location.href='/event/boston';"><a href="/event/boston">Boston</a>
+ <div class="date" onclick="location.href='/event/boston';">TBD</div></div>
+</div>
+
+<div class="map-race race112 map-race-yellow map-race-left " style="left: 458px; right: auto; top: 330px">
+ <div class="name" onclick="location.href='/event/new-york-city';"><a href="/event/new-york-city">New York City</a>
+ <div class="date" onclick="location.href='/event/new-york-city';">TBD</div></div>
+</div>
+
+<div class="map-race race139 map-race-blue map-race-left " style="left: 440px; right: auto; top: 260px">
+ <div class="name" onclick="location.href='/event/albany';"><a href="/event/albany">Albany</a>
+ <div class="date" onclick="location.href='/event/albany';">TBD</div></div>
+</div>
+
+<div class="map-race race60 map-race-fushia map-race-left " style="left: 233px; right: auto; top: 398px">
+ <div class="name" onclick="location.href='/event/columbus-oh';"><a href="/event/columbus-oh">Columbus, OH</a>
+ <div class="date" onclick="location.href='/event/columbus-oh';">TBD</div></div>
+</div>
+
+<div class="map-race race65 map-race-green map-race-left " style="left: 488px; right: auto; top: 285px">
+ <div class="name" onclick="location.href='/event/hartford';"><a href="/event/hartford">Hartford</a>
+ <div class="date" onclick="location.href='/event/hartford';">TBD</div></div>
+</div>
+
+<div class="map-race race121 map-race-yellow map-race-left " style="left: 215px; right: auto; top: 350px">
+ <div class="name" onclick="location.href='/event/toledo';"><a href="/event/toledo">Toledo</a>
+ <div class="date" onclick="location.href='/event/toledo';">TBD</div></div>
+</div>
+</div>
+        <div id="map-hawaii" class="mapzoom"><div class="closemap"></div>
+<div class="map-race race99 map-race-fushia map-race-left " style="left: 430px; right: auto; top: 250px">
+ <div class="name" onclick="location.href='/event/salt-lake-city';"><a href="/event/salt-lake-city">Salt Lake City</a>
+ <div class="date" onclick="location.href='/event/salt-lake-city';">07/19/14</div></div>
+ <div class="soldout" onclick="location.href='/event/salt-lake-city';"><img src="/images/201208racemap-soldout.png" width="40" height="28" alt="SOLD OUT" class="locations-soldout"></div>
+</div>
+
+<div class="map-race race71 map-race-green map-race-left " style="left: 380px; right: auto; top: 170px">
+ <div class="name" onclick="location.href='/event/boise';"><a href="/event/boise">Boise</a>
+ <div class="date" onclick="location.href='/event/boise';">08/30/14</div></div>
+</div>
+
+<div class="map-race race92 map-race-fushia map-race-left " style="left: 290px; right: auto; top: 370px">
+ <div class="name" onclick="location.href='/event/los-angeles';"><a href="/event/los-angeles">Los Angeles</a>
+ <div class="date" onclick="location.href='/event/los-angeles';">09/28/14</div></div>
+ <div class="soldout" onclick="location.href='/event/los-angeles';"><img src="/images/201208racemap-soldout.png" width="40" height="28" alt="SOLD OUT" class="locations-soldout"></div>
+</div>
+
+<div class="map-race race40 map-race-orange map-race-left " style="left: 345px; right: auto; top: 320px">
+ <div class="name" onclick="location.href='/event/las-vegas';"><a href="/event/las-vegas">Las Vegas</a>
+ <div class="date" onclick="location.href='/event/las-vegas';">TBD</div></div>
+</div>
+
+<div class="map-race race97 map-race-blue map-race-left " style="left: 368px; right: auto; top: 70px">
+ <div class="name" onclick="location.href='/event/spokane';"><a href="/event/spokane">Spokane</a>
+ <div class="date" onclick="location.href='/event/spokane';">TBD</div></div>
+</div>
+
+<div class="map-race race117 map-race-orange map-race-left " style="left: 310px; right: auto; top: 400px">
+ <div class="name" onclick="location.href='/event/san-diego';"><a href="/event/san-diego">San Diego</a>
+ <div class="date" onclick="location.href='/event/san-diego';">TBD</div></div>
+</div>
+
+<div class="map-race race131 map-race-blue map-race-left " style="left: 510px; right: auto; top: 125px">
+ <div class="name" onclick="location.href='/event/billings';"><a href="/event/billings">Billings</a>
+ <div class="date" onclick="location.href='/event/billings';">TBD</div></div>
+</div>
+
+<div class="map-race race134 map-race-fushia map-race-left " style="left: 300px; right: auto; top: 240px">
+ <div class="name" onclick="location.href='/event/reno';"><a href="/event/reno">Reno</a>
+ <div class="date" onclick="location.href='/event/reno';">TBD</div></div>
+</div>
+
+<div class="map-race race91 map-race-orange map-race-left " style="left: 280px; right: auto; top: 105px">
+ <div class="name" onclick="location.href='/event/portland-or';"><a href="/event/portland-or">Portland, OR</a>
+ <div class="date" onclick="location.href='/event/portland-or';">TBD</div></div>
+</div>
+
+<div class="map-race race109 map-race-fushia map-race-left " style="left: 300px; right: auto; top: 60px">
+ <div class="name" onclick="location.href='/event/seattle';"><a href="/event/seattle">Seattle</a>
+ <div class="date" onclick="location.href='/event/seattle';">TBD</div></div>
+</div>
+
+<div class="map-race race113 map-race-orange map-race-left " style="left: 238px; right: auto; top: 275px">
+ <div class="name" onclick="location.href='/event/san-francisco';"><a href="/event/san-francisco">San Francisco</a>
+ <div class="date" onclick="location.href='/event/san-francisco';">TBD</div></div>
+</div>
+
+<div class="map-race race116 map-race-orange map-race-left " style="left: 305px; right: auto; top: 370px">
+ <div class="name" onclick="location.href='/event/orange-county';"><a href="/event/orange-county">Orange County</a>
+ <div class="date" onclick="location.href='/event/orange-county';">TBD</div></div>
+</div>
+
+<div class="map-race race124 map-race-green map-race-left " style="left: 550px; right: auto; top: 290px">
+ <div class="name" onclick="location.href='/event/denver';"><a href="/event/denver">Denver</a>
+ <div class="date" onclick="location.href='/event/denver';">TBD</div></div>
+</div>
+
+<div class="map-race race144 map-race-orange map-race-left " style="left: 410px; right: auto; top: 403px">
+ <div class="name" onclick="location.href='/event/phoenix';"><a href="/event/phoenix">Phoenix</a>
+ <div class="date" onclick="location.href='/event/phoenix';">TBD</div></div>
+</div>
+
+<div class="map-race race52 map-race-yellow map-race-left " style="left: 250px; right: auto; top: 285px">
+ <div class="name" onclick="location.href='/event/san-jose';"><a href="/event/san-jose">San Jose</a>
+ <div class="date" onclick="location.href='/event/san-jose';">TBD</div></div>
+</div>
+</div>
+        <div id="map-southwest" class="mapzoom"><div class="closemap"></div>
+<div class="map-race race146 map-race-orange map-race-left " style="left: 520px; right: auto; top: 210px">
+ <div class="name" onclick="location.href='/event/milwaukee';"><a href="/event/milwaukee">Milwaukee</a>
+ <div class="date" onclick="location.href='/event/milwaukee';">TBD</div></div>
+</div>
+
+<div class="map-race race128 map-race-blue map-race-left " style="left: 460px; right: auto; top: 280px">
+ <div class="name" onclick="location.href='/event/quad-cities';"><a href="/event/quad-cities">Quad Cities</a>
+ <div class="date" onclick="location.href='/event/quad-cities';">TBD</div></div>
+</div>
+
+<div class="map-race race84 map-race-orange map-race-left " style="left: 355px; right: auto; top: 370px">
+ <div class="name" onclick="location.href='/event/kansas-city';"><a href="/event/kansas-city">Kansas City</a>
+ <div class="date" onclick="location.href='/event/kansas-city';">TBD</div></div>
+</div>
+
+<div class="map-race race120 map-race-yellow map-race-left " style="left: 480px; right: auto; top: 210px">
+ <div class="name" onclick="location.href='/event/madison';"><a href="/event/madison">Madison</a>
+ <div class="date" onclick="location.href='/event/madison';">TBD</div></div>
+</div>
+
+<div class="map-race race135 map-race-orange map-race-left " style="left: 520px; right: auto; top: 320px">
+ <div class="name" onclick="location.href='/event/chicago';"><a href="/event/chicago">Chicago</a>
+ <div class="date" onclick="location.href='/event/chicago';">TBD</div></div>
+</div>
+
+<div class="map-race race66 map-race-fushia map-race-left " style="left: 315px; right: auto; top: 290px">
+ <div class="name" onclick="location.href='/event/omaha';"><a href="/event/omaha">Omaha</a>
+ <div class="date" onclick="location.href='/event/omaha';">TBD</div></div>
+</div>
+</div>
+        <div id="map-southeast" class="mapzoom"><div class="closemap"></div>
+<div class="map-race race126 map-race-green map-race-left " style="left: 680px; right: auto; top: 215px">
+ <div class="name" onclick="location.href='/event/wilmington-nc';"><a href="/event/wilmington-nc">Wilmington, NC</a>
+ <div class="date" onclick="location.href='/event/wilmington-nc';">TBD</div></div>
+</div>
+
+<div class="map-race race133 map-race-blue map-race-left " style="left: 550px; right: auto; top: 350px">
+ <div class="name" onclick="location.href='/event/tallahassee';"><a href="/event/tallahassee">Tallahassee</a>
+ <div class="date" onclick="location.href='/event/tallahassee';">TBD</div></div>
+</div>
+
+<div class="map-race race136 map-race-yellow map-race-left " style="left: 600px; right: auto; top: 370px">
+ <div class="name" onclick="location.href='/event/gainesville';"><a href="/event/gainesville">Gainesville</a>
+ <div class="date" onclick="location.href='/event/gainesville';">TBD</div></div>
+</div>
+
+<div class="map-race race137 map-race-green map-race-left " style="left: 610px; right: auto; top: 245px">
+ <div class="name" onclick="location.href='/event/columbia-sc';"><a href="/event/columbia-sc">Columbia, SC</a>
+ <div class="date" onclick="location.href='/event/columbia-sc';">TBD</div></div>
+</div>
+
+<div class="map-race race140 map-race-fushia map-race-left " style="left: 565px; right: auto; top: 183px">
+ <div class="name" onclick="location.href='/event/johnson-city-tn';"><a href="/event/johnson-city-tn">Johnson City, TN</a>
+ <div class="date" onclick="location.href='/event/johnson-city-tn';">TBD</div></div>
+</div>
+
+<div class="map-race race45 map-race-blue map-race-left " style="left: 550px; right: auto; top: 270px">
+ <div class="name" onclick="location.href='/event/atlanta';"><a href="/event/atlanta">Atlanta</a>
+ <div class="date" onclick="location.href='/event/atlanta';">TBD</div></div>
+</div>
+
+<div class="map-race race69 map-race-green map-race-left " style="left: 460px; right: auto; top: 350px">
+ <div class="name" onclick="location.href='/event/mobile';"><a href="/event/mobile">Mobile</a>
+ <div class="date" onclick="location.href='/event/mobile';">TBD</div></div>
+</div>
+
+<div class="map-race race75 map-race-fushia map-race-left " style="left: 230px; right: auto; top: 230px">
+ <div class="name" onclick="location.href='/event/oklahoma-city';"><a href="/event/oklahoma-city">Oklahoma City</a>
+ <div class="date" onclick="location.href='/event/oklahoma-city';">TBD</div></div>
+</div>
+
+<div class="map-race race101 map-race-fushia map-race-left " style="left: 478px; right: auto; top: 204px">
+ <div class="name" onclick="location.href='/event/nashville';"><a href="/event/nashville">Nashville</a>
+ <div class="date" onclick="location.href='/event/nashville';">TBD</div></div>
+</div>
+
+<div class="map-race race105 map-race-orange map-race-left " style="left: 215px; right: auto; top: 395px">
+ <div class="name" onclick="location.href='/event/san-antonio';"><a href="/event/san-antonio">San Antonio</a>
+ <div class="date" onclick="location.href='/event/san-antonio';">TBD</div></div>
+</div>
+
+<div class="map-race race141 map-race-fushia map-race-left " style="left: 255px; right: auto; top: 309px">
+ <div class="name" onclick="location.href='/event/dallas';"><a href="/event/dallas">Dallas</a>
+ <div class="date" onclick="location.href='/event/dallas';">TBD</div></div>
+</div>
+
+<div class="map-race race39 map-race-yellow map-race-left " style="left: 660px; right: auto; top: 460px">
+ <div class="name" onclick="location.href='/event/miami';"><a href="/event/miami">Miami</a>
+ <div class="date" onclick="location.href='/event/miami';">TBD</div></div>
+</div>
+
+<div class="map-race race42 map-race-green map-race-left " style="left: 290px; right: auto; top: 390px">
+ <div class="name" onclick="location.href='/event/houston';"><a href="/event/houston">Houston</a>
+ <div class="date" onclick="location.href='/event/houston';">TBD</div></div>
+</div>
+
+<div class="map-race race61 map-race-green map-race-left " style="left: 695px; right: auto; top: 145px">
+ <div class="name" onclick="location.href='/event/virginia-beach';"><a href="/event/virginia-beach">Virginia Beach</a>
+ <div class="date" onclick="location.href='/event/virginia-beach';">TBD</div></div>
+</div>
+</div>
+      </div>
+    
+
+	<div class="clear"></div>
+
+
+<div id="chrono" class="ui-tabs-panel ui-tabs-hide"><table style="width:100%;">
+<tbody><tr>
+	<td colspan="3" style="width:100%" valign="top" class="bydate-year"><h1>2014</h1></td>
+</tr>
+<tr>
+	<td valign="top">
+	<div class="bydate-my">July 2014</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/hamilton">Hamilton</a>,&nbsp;
+		<a class="bydate-city" href="/event/hamilton">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/salt-lake-city">Salt Lake City</a>,&nbsp;
+		<a class="bydate-city" href="/event/salt-lake-city">07/19/14</a>
+		<img src="/images/short-locations-soldout.png" alt="SOLD OUT">
+	</div>
+	</td>
+	<td valign="top">
+	<div class="bydate-my">August 2014</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/boise">Boise</a>,&nbsp;
+		<a class="bydate-city" href="/event/boise">08/30/14</a>
+	</div>
+	<br>
+	<div class="bydate-my">September 2014</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/milwaukee">Milwaukee</a>,&nbsp;
+		<a class="bydate-city" href="/event/milwaukee">TBD</a>
+	</div>
+	</td>
+	<td valign="top">
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/los-angeles">Los Angeles</a>,&nbsp;
+		<a class="bydate-city" href="/event/los-angeles">09/28/14</a>
+		<img src="/images/short-locations-soldout.png" alt="SOLD OUT">
+	</div>
+	</td>
+</tr>
+<tr>
+	<td colspan="3" style="width:100%" valign="top" class="bydate-year"><h1>2015</h1></td>
+</tr>
+<tr>
+	<td valign="top">
+	<div class="bydate-my">May 2015</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/las-vegas">Las Vegas</a>,&nbsp;
+		<a class="bydate-city" href="/event/las-vegas">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/spokane">Spokane</a>,&nbsp;
+		<a class="bydate-city" href="/event/spokane">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/san-diego">San Diego</a>,&nbsp;
+		<a class="bydate-city" href="/event/san-diego">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/maine">Maine</a>,&nbsp;
+		<a class="bydate-city" href="/event/maine">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/saskatoon">Saskatoon</a>,&nbsp;
+		<a class="bydate-city" href="/event/saskatoon">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/indianapolis">Indianapolis</a>,&nbsp;
+		<a class="bydate-city" href="/event/indianapolis">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/baltimore">Baltimore</a>,&nbsp;
+		<a class="bydate-city" href="/event/baltimore">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/wilmington-nc">Wilmington, NC</a>,&nbsp;
+		<a class="bydate-city" href="/event/wilmington-nc">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/morgantown-wv">Morgantown, WV</a>,&nbsp;
+		<a class="bydate-city" href="/event/morgantown-wv">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/quad-cities">Quad Cities</a>,&nbsp;
+		<a class="bydate-city" href="/event/quad-cities">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/regina">Regina</a>,&nbsp;
+		<a class="bydate-city" href="/event/regina">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/lansing">Lansing</a>,&nbsp;
+		<a class="bydate-city" href="/event/lansing">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/billings">Billings</a>,&nbsp;
+		<a class="bydate-city" href="/event/billings">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/providence">Providence</a>,&nbsp;
+		<a class="bydate-city" href="/event/providence">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/tallahassee">Tallahassee</a>,&nbsp;
+		<a class="bydate-city" href="/event/tallahassee">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/reno">Reno</a>,&nbsp;
+		<a class="bydate-city" href="/event/reno">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/gainesville">Gainesville</a>,&nbsp;
+		<a class="bydate-city" href="/event/gainesville">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/columbia-sc">Columbia, SC</a>,&nbsp;
+		<a class="bydate-city" href="/event/columbia-sc">TBD</a>
+	</div>
+	</td>
+	<td valign="top">
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/johnson-city-tn">Johnson City, TN</a>,&nbsp;
+		<a class="bydate-city" href="/event/johnson-city-tn">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/atlanta">Atlanta</a>,&nbsp;
+		<a class="bydate-city" href="/event/atlanta">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/mobile">Mobile</a>,&nbsp;
+		<a class="bydate-city" href="/event/mobile">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/philadelphia">Philadelphia</a>,&nbsp;
+		<a class="bydate-city" href="/event/philadelphia">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/oklahoma-city">Oklahoma City</a>,&nbsp;
+		<a class="bydate-city" href="/event/oklahoma-city">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/detroit">Detroit</a>,&nbsp;
+		<a class="bydate-city" href="/event/detroit">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/montreal">Montreal</a>,&nbsp;
+		<a class="bydate-city" href="/event/montreal">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/kansas-city">Kansas City</a>,&nbsp;
+		<a class="bydate-city" href="/event/kansas-city">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/boston">Boston</a>,&nbsp;
+		<a class="bydate-city" href="/event/boston">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/toronto">Toronto</a>,&nbsp;
+		<a class="bydate-city" href="/event/toronto">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/portland-or">Portland, OR</a>,&nbsp;
+		<a class="bydate-city" href="/event/portland-or">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/nashville">Nashville</a>,&nbsp;
+		<a class="bydate-city" href="/event/nashville">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/calgary">Calgary</a>,&nbsp;
+		<a class="bydate-city" href="/event/calgary">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/san-antonio">San Antonio</a>,&nbsp;
+		<a class="bydate-city" href="/event/san-antonio">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/seattle">Seattle</a>,&nbsp;
+		<a class="bydate-city" href="/event/seattle">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/new-york-city">New York City</a>,&nbsp;
+		<a class="bydate-city" href="/event/new-york-city">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/san-francisco">San Francisco</a>,&nbsp;
+		<a class="bydate-city" href="/event/san-francisco">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/vancouver">Vancouver</a>,&nbsp;
+		<a class="bydate-city" href="/event/vancouver">TBD</a>
+	</div>
+	</td>
+	<td valign="top">
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/orange-county">Orange County</a>,&nbsp;
+		<a class="bydate-city" href="/event/orange-county">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/madison">Madison</a>,&nbsp;
+		<a class="bydate-city" href="/event/madison">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/denver">Denver</a>,&nbsp;
+		<a class="bydate-city" href="/event/denver">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/chicago">Chicago</a>,&nbsp;
+		<a class="bydate-city" href="/event/chicago">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/albany">Albany</a>,&nbsp;
+		<a class="bydate-city" href="/event/albany">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/dallas">Dallas</a>,&nbsp;
+		<a class="bydate-city" href="/event/dallas">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/phoenix">Phoenix</a>,&nbsp;
+		<a class="bydate-city" href="/event/phoenix">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/miami">Miami</a>,&nbsp;
+		<a class="bydate-city" href="/event/miami">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/houston">Houston</a>,&nbsp;
+		<a class="bydate-city" href="/event/houston">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/san-jose">San Jose</a>,&nbsp;
+		<a class="bydate-city" href="/event/san-jose">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/columbus-oh">Columbus, OH</a>,&nbsp;
+		<a class="bydate-city" href="/event/columbus-oh">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/virginia-beach">Virginia Beach</a>,&nbsp;
+		<a class="bydate-city" href="/event/virginia-beach">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/omaha">Omaha</a>,&nbsp;
+		<a class="bydate-city" href="/event/omaha">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/hartford">Hartford</a>,&nbsp;
+		<a class="bydate-city" href="/event/hartford">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/gatineau">Gatineau</a>,&nbsp;
+		<a class="bydate-city" href="/event/gatineau">TBD</a>
+	</div>
+	<div style="padding-right:10px;" class="locations-title bydate">
+		<a class="bydate-city" href="/event/toledo">Toledo</a>,&nbsp;
+		<a class="bydate-city" href="/event/toledo">TBD</a>
+	</div>
+	</td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+	</div>
+	
+	<div id="alpha" class="ui-tabs-panel ui-tabs-hide">
+<table style="width:100%;">
+<tbody><tr><td colspan="3" style="width:100%" class="three-tab-country"><h1>United States</h1></td></tr>
+<tr>
+<td style="width:280px !important;" valign="top">
+<div class="bystate-state">Alabama</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/mobile">Mobile</a>,&nbsp;
+<a class="bystate-city" href="/event/mobile">TBD</a>
+</div>
+<br><div class="bystate-state">Arizona</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/phoenix">Phoenix</a>,&nbsp;
+<a class="bystate-city" href="/event/phoenix">TBD</a>
+</div>
+<br><div class="bystate-state">California</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/las-vegas">Las Vegas</a>,&nbsp;
+<a class="bystate-city" href="/event/las-vegas">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/los-angeles">Los Angeles</a>,&nbsp;
+<a class="bystate-city" href="/event/los-angeles">09/28/14</a>
+<img src="/images/short-locations-soldout.png" alt="SOLD OUT">
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/orange-county">Orange County</a>,&nbsp;
+<a class="bystate-city" href="/event/orange-county">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/san-diego">San Diego</a>,&nbsp;
+<a class="bystate-city" href="/event/san-diego">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/san-francisco">San Francisco</a>,&nbsp;
+<a class="bystate-city" href="/event/san-francisco">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/san-jose">San Jose</a>,&nbsp;
+<a class="bystate-city" href="/event/san-jose">TBD</a>
+</div>
+<br><div class="bystate-state">Colorado</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/denver">Denver</a>,&nbsp;
+<a class="bystate-city" href="/event/denver">TBD</a>
+</div>
+<br><div class="bystate-state">Connecticut</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/hartford">Hartford</a>,&nbsp;
+<a class="bystate-city" href="/event/hartford">TBD</a>
+</div>
+<br><div class="bystate-state">Florida</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/gainesville">Gainesville</a>,&nbsp;
+<a class="bystate-city" href="/event/gainesville">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/miami">Miami</a>,&nbsp;
+<a class="bystate-city" href="/event/miami">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/tallahassee">Tallahassee</a>,&nbsp;
+<a class="bystate-city" href="/event/tallahassee">TBD</a>
+</div>
+<br><div class="bystate-state">Georgia</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/atlanta">Atlanta</a>,&nbsp;
+<a class="bystate-city" href="/event/atlanta">TBD</a>
+</div>
+<br><div class="bystate-state">Idaho</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/boise">Boise</a>,&nbsp;
+<a class="bystate-city" href="/event/boise">08/30/14</a>
+</div>
+<br><div class="bystate-state">Illinois</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/chicago">Chicago</a>,&nbsp;
+<a class="bystate-city" href="/event/chicago">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/quad-cities">Quad Cities</a>,&nbsp;
+<a class="bystate-city" href="/event/quad-cities">TBD</a>
+</div>
+<br></td>
+<td style="width:280px !important;" valign="top">
+<div class="bystate-state">Indiana</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/indianapolis">Indianapolis</a>,&nbsp;
+<a class="bystate-city" href="/event/indianapolis">TBD</a>
+</div>
+<br><div class="bystate-state">Kansas</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/kansas-city">Kansas City</a>,&nbsp;
+<a class="bystate-city" href="/event/kansas-city">TBD</a>
+</div>
+<br><div class="bystate-state">Maine</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/maine">Maine</a>,&nbsp;
+<a class="bystate-city" href="/event/maine">TBD</a>
+</div>
+<br><div class="bystate-state">Maryland</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/baltimore">Baltimore</a>,&nbsp;
+<a class="bystate-city" href="/event/baltimore">TBD</a>
+</div>
+<br><div class="bystate-state">Massachusetts</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/boston">Boston</a>,&nbsp;
+<a class="bystate-city" href="/event/boston">TBD</a>
+</div>
+<br><div class="bystate-state">Michigan</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/detroit">Detroit</a>,&nbsp;
+<a class="bystate-city" href="/event/detroit">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/lansing">Lansing</a>,&nbsp;
+<a class="bystate-city" href="/event/lansing">TBD</a>
+</div>
+<br><div class="bystate-state">Montana</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/billings">Billings</a>,&nbsp;
+<a class="bystate-city" href="/event/billings">TBD</a>
+</div>
+<br><div class="bystate-state">Nebraska</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/omaha">Omaha</a>,&nbsp;
+<a class="bystate-city" href="/event/omaha">TBD</a>
+</div>
+<br><div class="bystate-state">New York</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/albany">Albany</a>,&nbsp;
+<a class="bystate-city" href="/event/albany">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/new-york-city">New York City</a>,&nbsp;
+<a class="bystate-city" href="/event/new-york-city">TBD</a>
+</div>
+<br><div class="bystate-state">North Carolina</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/wilmington-nc">Wilmington, NC</a>,&nbsp;
+<a class="bystate-city" href="/event/wilmington-nc">TBD</a>
+</div>
+<br><div class="bystate-state">Ohio</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/columbus-oh">Columbus, OH</a>,&nbsp;
+<a class="bystate-city" href="/event/columbus-oh">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/toledo">Toledo</a>,&nbsp;
+<a class="bystate-city" href="/event/toledo">TBD</a>
+</div>
+<br><div class="bystate-state">Oklahoma</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/oklahoma-city">Oklahoma City</a>,&nbsp;
+<a class="bystate-city" href="/event/oklahoma-city">TBD</a>
+</div>
+<br><div class="bystate-state">Oregon</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/portland-or">Portland, OR</a>,&nbsp;
+<a class="bystate-city" href="/event/portland-or">TBD</a>
+</div>
+<br></td>
+<td style="width:280px !important;" valign="top">
+<div class="bystate-state">Pennsylvania</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/philadelphia">Philadelphia</a>,&nbsp;
+<a class="bystate-city" href="/event/philadelphia">TBD</a>
+</div>
+<br><div class="bystate-state">Rhode Island</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/providence">Providence</a>,&nbsp;
+<a class="bystate-city" href="/event/providence">TBD</a>
+</div>
+<br><div class="bystate-state">South Carolina</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/columbia-sc">Columbia, SC</a>,&nbsp;
+<a class="bystate-city" href="/event/columbia-sc">TBD</a>
+</div>
+<br><div class="bystate-state">Tennessee</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/johnson-city-tn">Johnson City, TN</a>,&nbsp;
+<a class="bystate-city" href="/event/johnson-city-tn">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/nashville">Nashville</a>,&nbsp;
+<a class="bystate-city" href="/event/nashville">TBD</a>
+</div>
+<br><div class="bystate-state">Texas</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/dallas">Dallas</a>,&nbsp;
+<a class="bystate-city" href="/event/dallas">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/houston">Houston</a>,&nbsp;
+<a class="bystate-city" href="/event/houston">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/san-antonio">San Antonio</a>,&nbsp;
+<a class="bystate-city" href="/event/san-antonio">TBD</a>
+</div>
+<br><div class="bystate-state">Utah</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/salt-lake-city">Salt Lake City</a>,&nbsp;
+<a class="bystate-city" href="/event/salt-lake-city">07/19/14</a>
+<img src="/images/short-locations-soldout.png" alt="SOLD OUT">
+</div>
+<br><div class="bystate-state">Virginia</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/virginia-beach">Virginia Beach</a>,&nbsp;
+<a class="bystate-city" href="/event/virginia-beach">TBD</a>
+</div>
+<br><div class="bystate-state">Washington</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/seattle">Seattle</a>,&nbsp;
+<a class="bystate-city" href="/event/seattle">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/spokane">Spokane</a>,&nbsp;
+<a class="bystate-city" href="/event/spokane">TBD</a>
+</div>
+<br><div class="bystate-state">West Virginia</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/morgantown-wv">Morgantown, WV</a>,&nbsp;
+<a class="bystate-city" href="/event/morgantown-wv">TBD</a>
+</div>
+<br><div class="bystate-state">Wisconsin</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/madison">Madison</a>,&nbsp;
+<a class="bystate-city" href="/event/madison">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/milwaukee">Milwaukee</a>,&nbsp;
+<a class="bystate-city" href="/event/milwaukee">TBD</a>
+</div>
+<br></td></tr><tr><td colspan="3" style="width:100%" class="three-tab-country"><h1>Canada</h1></td></tr>
+<tr>
+<td style="width:280px !important;" valign="top">
+<div class="bystate-state">Alberta</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/calgary">Calgary</a>,&nbsp;
+<a class="bystate-city" href="/event/calgary">TBD</a>
+</div>
+<br><div class="bystate-state">British Columbia</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/vancouver">Vancouver</a>,&nbsp;
+<a class="bystate-city" href="/event/vancouver">TBD</a>
+</div>
+<br><div class="bystate-state">Ontario</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/hamilton">Hamilton</a>,&nbsp;
+<a class="bystate-city" href="/event/hamilton">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/toronto">Toronto</a>,&nbsp;
+<a class="bystate-city" href="/event/toronto">TBD</a>
+</div>
+<br></td>
+<td style="width:280px !important;" valign="top">
+<div class="bystate-state">Quebec</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/gatineau">Gatineau</a>,&nbsp;
+<a class="bystate-city" href="/event/gatineau">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/montreal">Montreal</a>,&nbsp;
+<a class="bystate-city" href="/event/montreal">TBD</a>
+</div>
+<br><div class="bystate-state">Saskatchewan</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/regina">Regina</a>,&nbsp;
+<a class="bystate-city" href="/event/regina">TBD</a>
+</div>
+<div style="padding-right:10px;" class="bystate-city">
+<a class="bystate-city" href="/event/saskatoon">Saskatoon</a>,&nbsp;
+<a class="bystate-city" href="/event/saskatoon">TBD</a>
+</div>
+<br></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+			</div>	
+	<div id="intl">
+		
+		<div class="clear"></div>
+	</div>			
+		
+		 
+
+<div class="quote-container">
+	  <div class="container">
+		<div id="quote-rotate">
+			
+<script type="text/javascript">
+$(document).ready(function() 
+{
+//	console.log('here1');
+	var stack = [];
+	var ss = $("#slideshow");
+	var urls = [];
+	
+	var bannerid = parseInt("");
+	var transition = "";
+	var speed = parseInt("");
+	var timeout = parseInt("");
+	if (bannerid > 0)
+	{
+		// start slideshow
+		ss.cycle(
+		{
+			fx: transition,
+			speed: speed,
+			timeout: timeout,
+			before: onbefore
+			
+		});
+		
+	}
+	
+	// add images to slideshow
+	var j = 4;
+	var i = 0;
+	function onbefore(curr, next, opts) 
+	{
+		if (!opts.addslide)
+		{
+			return;
+		}
+		if(i < urls.length)
+		{
+			var url = urls[i];
+			opts.addslide('<div><img src="/images/user/'+url[0].photo+'" width="406" height="286" alt="'+url[0].url+'"></div>');
+			j++;
+			i++;
+		}
+	}
+});
+</script>
+
+<div class="slideshow slideshow" id="slideshow">
+	
+</div>
+
+
+		</div>
+	 </div>
+</div>
+
+	
+		<div id="footer">
+		<div class="container">
+		<div id="footer-nav">
+			<ul class="footer-menu">
+				<li><a href="/racemap.i">Locations</a></li>
+				<li><a href="/about.html">About</a></li>
+				<li><a href="/faq/faq.i">FAQs</a></li>
+				<li><a href="/gallery/gallery_list.i?cmd=list&amp;galleryid=1">Gallery</a></li>
+			</ul>
+			<ul class="footer-menu">
+				<li><a href="/contact-us">Contact Us</a></li>
+				<li><a href="/contact-us">Sponsorship</a></li>
+				<!--<li><a href="#">Press</a></li>-->
+				<li><a href="/privacy-policy.html">Privacy Policy</a></li>
+				<li><a href="/waiver.i?cmd=list">Waiver</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+		<div id="sponsors">
+			<a href="http://www.nexiaholdings.com" target="_blank" class="nexia">NEXIA<br>
+				<span class="nexia-sm">holdings inc.<br>
+				ticker symbol NXHD</span></a>
+		</div>
+		<div id="copyright">
+			© Copyright Slide The City <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>2020
+		</div>
+		<div class="clear"></div>
+		</div>
+	</div>
+	
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
