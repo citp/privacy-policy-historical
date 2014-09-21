@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyenglishmatters.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211045448id_/http%3A//www.ets.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyenglishmatters.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922000525id_/http%3A//www.ets.org/legal/privacy) for the most accurate reproduction.*
 
 # ETS Legal: Privacy and Security
 
@@ -52,6 +52,8 @@ When you visit and interact with our Website, ETS and third parties with whom ET
 Back to Top
 
 ### Cookies
+
+Generally, as an enterprise, our systems do not support "Do Not Track" capabilities.
 
 As with many other sites, our Website may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. We may collect the following types of information about your visit including: the domain from which you access the Internet; IP address; operating system and information about the device or browser used when visiting the site; date and time of your visit; content you visited or downloaded; and website (such as google.com or bing.com) and website referral source (email notice or social media site) that connected you to the website. ETS uses third party measurement software to collect the information listed above.
 
