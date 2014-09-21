@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zostel.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430152642id_/http%3A//zostel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zostel.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921124323id_/http%3A//zostel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zostel
+# Privacy Policy - Zostel
 
 Privacy policy is required by the law and this policy only applies to Zostel and not to the websites of other companies, individuals or organisations to whom we provide links to our websites.
 
