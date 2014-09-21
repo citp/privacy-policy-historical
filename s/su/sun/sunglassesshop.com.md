@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglassesshop.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209051910id_/http%3A//www.sunglassesshop.com/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglassesshop.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921023553id_/http%3A//www.sunglassesshop.com/help-and-about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Sunglasses Shop Privacy Information : Shop For Sunglasses
 
