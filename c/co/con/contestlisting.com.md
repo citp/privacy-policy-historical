@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contestlisting.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523205844id_/http%3A//www.contestlisting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestlisting.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921024704id_/http%3A//www.contestlisting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Contest Listing
 
