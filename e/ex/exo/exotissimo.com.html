@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exotissimo.com privacy policy that was archived on 2014-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140609232715id_/http%3A//www.exotissimo.com/exotravel/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exotissimo.com privacy policy that was archived on 2014-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140921145324id_/http%3A//www.exotissimo.com/exotravel/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
  
@@ -13,22 +13,10 @@
 <link href="/css/slider/default.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/slider/slider.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/product-gallery/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css"> 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/exo/exojs.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGVVR7"></script><script type="text/javascript" src="/js/exo/exojs.js"></script>
 <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery.slider.js"></script>
-<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script> 
-<script type="text/javascript"> 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-527005-1']);
-  _gaq.push(['_setDomainName', '.exotissimo.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })(); 
-  
+<script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script><script type="text/javascript"> 
  $(function() {
        var zIndexNumber = 1000;
        $("#destination-sub,#travel-style-sub").each(function() {
@@ -36,6 +24,7 @@
                zIndexNumber -= 10;
        });
 });  
+ 
 $(document).ready(function(){  
 	$("a[rel^='prettyPhoto']").prettyPhoto({
 			animation_speed: 'fast', /* fast/slow/normal */
@@ -147,6 +136,8 @@ $(function() {
 </script>
 <style>.questionBox{display:none;width:298px;background:#fff;overflow:hidden;}#slide-out-div{display:none;position:fixed;bottom:0;right:100px;z-index:9999;}.toggle{text-align:right;display:block;width:298px;height:37px;background:url(/images/feedback.png);cursor:pointer;}.feedback-textarea{border:1px solid #CCCCCC;height:50px;min-height:50px;resize:vertical;width:256px;}.questionBox .questionBox-form{background-color:#FFFFFF;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;padding:0 20px;}.questionBox-form p{margin-bottom:10px;margin-top:10px;}.num-secue1{float:left;margin:5px 0 0 0;}.num-secue2{float:left;padding:0 5px;margin:8px 4px 0;}.num-secue3{width:40px;float:left;margin:5px 0 0 0;border:1px solid #E4E6E8;height:18px;}.num-secue4{float:left;margin-bottom:20px;padding:0 0 0 10px;cursor:pointer;display:block;}.questionBox-thank{background-color:#FFFFFF;font-size:14px;line-height:20px;margin:10px 0 20px;padding:10px 20px;width:258px;}.questionBox h3{background:none repeat scroll 0 0 #F8F8F8;border-bottom:1px solid #CCCCCC;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;color:#2CA464;padding:16px 26px 16px 14px;}.questionBox div{border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;overflow:hidden;padding:15px 20px 0;}.num-secue3{border:1px solid #CCCCCC;float:left;height:18px;margin:5px 0 0;width:40px;}</style>
 <script>
+
+	
 $(document).ready(function () {
 
     var $questionBox = $(".questionBox");
@@ -167,10 +158,14 @@ $(document).ready(function () {
     } 
     });
 
-	
+
 	$("#feedbacksubmit").click(function() {  
 		var $validForm = '1';
-		if($('#numsecurity').val() != '6') { alert('Incorrect Number security !!!');  $validForm = '0'; }  
+		
+		var sEmail = $('#feedbackoption').val(); 
+		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/; 
+        if ($.trim(sEmail).length > 0 && !filter.test(sEmail)) { alert('Please enter a valid email address'); $validForm = '0';  } 
+        else if($('#numsecurity').val() != '6' ) { alert('Incorrect Number security !!!');  $validForm = '0'; }  
 		else if($('#feedbackservice').val().length == 0 && $('#feedbackwebsite').val().length == 0) { alert('Please put any comment !!!');  $validForm = '0'; } 
 		else { 
 			var values = $("#feedbackform").serialize(); 	
@@ -180,7 +175,11 @@ $(document).ready(function () {
 				data: values,
 				success: function(data){
 					$('.questionBox-form, .questionBox h3, .feedbackcommand').hide(); 
-					$('.questionBox-thank').show();  
+					$('.questionBox-thank').show();
+					dataLayer.push({
+					'event':'sendVirtualPageview',
+					'vpv':'/feedback-form-submitted'
+					});
 				},
 				error:function(){ 
 				}
@@ -191,7 +190,19 @@ $(document).ready(function () {
 });
 </script>
 </head>
-<body class="bg-clear-thailand"><script type="text/javascript">//<![CDATA[try{(function(a){var b="http://",c="www.exotissimo.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}//]]></script>
+<body class="bg-clear-indonesia"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.exotissimo.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGVVR7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGVVR7');</script>
+ 
 <div id="slide-out-div" style="display: block;"><a href="#feedback" class="toggle">
 <div class="nav-btn"></div>
 </a>
@@ -205,7 +216,8 @@ $(document).ready(function () {
 <br>
 <p>Tell us about our website:</p>
 <label for="feedbackwebsite"></label>
-<textarea name="feedbackwebsite" id="feedbackwebsite" cols="45" rows="5" class="feedback-textarea"></textarea>
+<textarea name="feedbackwebsite" id="feedbackwebsite" cols="45" rows="5" class="feedback-textarea"></textarea> <br>
+Email: <input type="text" name="feedbackoption" id="feedbackoption" value="" placeholder="(option)">
 </div>
 <div class="questionBox-thank" style="display:none">Thank you for your feedback. We appreciate you taking the time to send us your thoughts and will consider your feedback carefully.</div>
 <div class="feedbackcommand"> <img src="/images/img-num.jpg" width="68" height="23" alt="image" class="num-secue1"> <span class="num-secue2">=</span>
@@ -470,22 +482,26 @@ $(document).ready(function () {
 <h2>Vietnam</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/vietnam.jpg" title="Vietnam Hotel" alt="Vietnam"></p>
 <p>Vietnam Hotels and Resorts</p>
-</a></li>
+</a>
+<span><a href="/luxury/vietnam/hotels/">Luxury Selections</a></span></li>
 <li> <a href="/travel/thailand/hotels/">
 <h2>Thailand</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/thailand.jpg" title="Thailand Hotel" alt="Thailand"></p>
 <p>Thailand Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/thailand/hotels/">Luxury Selections</a></span></li>
 <li> <a href="/travel/cambodia/hotels/">
 <h2>Cambodia</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/cambodia.jpg" title="Cambodia Hotel" alt="Cambodia"></p>
 <p>Cambodia Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/cambodia/hotels/">Luxury Selections</a></span> </li>
 <li> <a href="/travel/laos/hotels/">
 <h2>Laos</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/laos.jpg" title="Laos Hotel" alt="Laos"></p>
 <p>Laos Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/laos/hotels/">Luxury Selections</a></span></li>
 </ul>
 <p class="line">&nbsp;</p>
 <ul>
@@ -493,22 +509,26 @@ $(document).ready(function () {
 <h2>Myanmar</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/myanmar.jpg" title="Myanmar Hotel" alt="Myanmar"></p>
 <p>Myanmar Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/myanmar/hotels/">Luxury Selections</a></span> </li>
 <li> <a href="/travel/indonesia/hotels/">
 <h2>Indonesia</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/indonesia.jpg" title="Indonesia Hotel" alt="Indonesia"></p>
 <p>Indonesia Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/indonesia/hotels/">Luxury Selections</a></span></li>
 <li> <a href="/travel/japan/hotels/">
 <h2>Japan</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/japan.jpg" title="Japan Hotel" alt="Japan"></p>
 <p>Japan Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/japan/hotels/">Luxury Selections</a></span></li>
 <li> <a href="/travel/china/hotels/">
 <h2>China</h2>
 <p class="effect-hover-img"><img width="201" height="99" src="/images/mega-menus/hotel/china.jpg" title="China Hotel" alt="China"></p>
 <p>China Hotels and Resorts</p>
-</a> </li>
+</a>
+<span><a href="/luxury/china/hotels/">Luxury Selections</a></span></li>
 </ul>
 </div>
 </li>
@@ -595,25 +615,26 @@ $(document).ready(function () {
 </section></section>
 <section class="exo-article"> <article class="tour-collection-bottom">
 <h2>Tour Collections</h2>
-<p><a href="/tourcollection/vietnam-cambodia-adventure-tours">Vietnam Cambodia adventure tours</a></p>
-<p><a href="/tourcollection/shanghai-royal-tours">Shanghai Royal Tours</a></p>
-<p><a href="/tourcollection/guangdong-historic-tours">Guangdong Historic Tours</a></p>
-<p><a href="/tourcollection/tailor-made-tours-laos">Tailor Made Tours Laos</a></p>
-<p><a href="/tourcollection/tours-to-laos-from-bangkok">Tours to Laos from Bangkok</a></p>
-<p><a href="/tourcollection/classic-laos-tours">Classic Laos Tours</a></p>
-<p><a href="/tariff/list/indonesia/tours/adventure">Indonesia Adventure Tours</a></p>
-<p><a href="/tourcollection/vietnam-cycling-tours">Vietnam cycling tours</a></p>
-<p><a href="/tourcollection/isaan-classic-tours">Isaan classic tours</a></p>
+<p><a href="/tourcollection/indonesia-orangutan-tours">Indonesia orangutan tours</a></p>
+<p><a href="/tourcollection/myanmar-classic-tour">Myanmar classic tour</a></p>
+<p><a href="/tourcollection/cambodia-angkor-tours">Cambodia Angkor tours</a></p>
+<p><a href="/tourcollection/japan-culinary-tours">Japan Culinary Tours</a></p>
+<p><a href="/tourcollection/myanmar-and-laos-tours">Myanmar and Laos tours</a></p>
+<p><a href="/tourcollection/laos-pakse-tours">Laos Pakse Tours</a></p>
+<p><a href="/tourcollection/indonesia-escorted-tours">Indonesia Escorted Tours</a></p>
+<p><a href="/tariff/list/thailand/tours/classic">Thailand Classic Tours</a></p>
+<p><a href="/tourcollection/vietnam-and-myanmar-tours">Vietnam and Myanmar tours</a></p>
+<p><a href="/tourcollection/japan-onsen-tour-package">Japan Onsen Tour Package</a></p>
 </article>
 <article class="exo-article-l blog">
 <h2>Exotissimo Blog</h2>
-<p><a href="http://www.exotissimo.com/blog/bangkok-the-current-situation-5-30pm-friday-23rd-may/">Thailand: The Current Situation – 5.30pm Friday 23rd May</a></p>
-<p><a href="http://www.exotissimo.com/blog/update-on-bangkok-coup/">Update on Bangkok Coup</a></p>
-<p><a href="http://www.exotissimo.com/blog/bangkok-update-martial-law-and-what-it-means-for-tourists/">Bangkok Update: Martial Law and What it means for Tourists</a></p>
+<p><a href="http://www.exotissimo.com/blog/culinary-capitals/">Culinary Capitals</a></p>
+<p><a href="http://www.exotissimo.com/blog/asias-top-eco-hotels/">Asia’s Top Eco-Hotels</a></p>
+<p><a href="http://www.exotissimo.com/blog/exo-indonesia-exploring-north-sumatra/">Exo Indonesia: Exploring North Sumatra</a></p>
 <article class="review">
 <h2>REVIEWS</h2>
-<img src="/images/icon-quote-l.png" width="19" height="18" title="icon-quote-l" alt="icon-quote-l"><span style=" font-size:12px; font-style:italic;">&nbsp;&nbsp;I really enjoyed the trip very much and would like to especially mention&nbsp;&nbsp;</span><img src="/images/icon-quote-r.png" width="19" height="18" title="icon-quote-r" alt="icon-quote-r">
-<p class="signature">Ines</p>
+<img src="/images/icon-quote-l.png" width="19" height="18" title="icon-quote-l" alt="icon-quote-l"><span style=" font-size:12px; font-style:italic;">&nbsp;&nbsp;I just wanted to let you know we had a great time visiting Vietnam. All the tour guides were great and the itinerary gave a chance to see a good variety of scenery and historic sites.&nbsp;&nbsp;</span><img src="/images/icon-quote-r.png" width="19" height="18" title="icon-quote-r" alt="icon-quote-r">
+<p class="signature">Dan</p>
 </article>
 </article>
 <article class="exo-article-r">
@@ -699,6 +720,7 @@ $(document).ready(function () {
 <li class="icon-office"><a href="/exotravel/worldwide-offices/">Worldwide offices</a></li>
 <li class="icon-phone"> + 66 (0) 2 633 9060 </li>
 <li class="icon-email"><a href="/contactus/inquiry">Contact us</a></li>
+<li><a href="/exotravel/travelagency/">Travel Agency</a></li>
 <li><a href="/exotravel/careers/">Careers</a></li>
 <li><a href="/exotravel/affiliates/">Affiliates</a></li>
 </ul>
@@ -707,7 +729,7 @@ $(document).ready(function () {
 </nav>
 <div class="wrap-footer-bottom">
 <ul class="exo-footer clear">
-<li class="copyright">© 2014 Exotissimo Travel All Rights Reserved</li>
+<li class="copyright">© 2000-14 Exotissimo Travel All Rights Reserved</li>
 <li>
 <ul class="footer-link">
 <li><a href="http://www.exotissimo.com/">HOME</a></li>
@@ -721,7 +743,7 @@ $(document).ready(function () {
 </footer>
 <script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"/cdn-cgi/l/email-protection"==a.substr(0 ,27)){s='';j=28;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
