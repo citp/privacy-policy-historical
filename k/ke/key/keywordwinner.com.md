@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordwinner.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603154211id_/http%3A//www.keywordwinner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordwinner.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921150426id_/http%3A//www.keywordwinner.com/privacy.php) for the most accurate reproduction.*
 
 # Keyword Winner - Privacy
 
