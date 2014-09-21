@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nortonpro.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624020602id_/http%3A//www.nortonpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonpro.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922011129id_/http%3A//www.nortonpro.com/privacy.php) for the most accurate reproduction.*
 
 # NortonPro.com
 
