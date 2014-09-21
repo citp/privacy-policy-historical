@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpolicerecords.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629200843id_/http%3A//localpolicerecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpolicerecords.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921145642id_/http%3A//localpolicerecords.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -39,8 +39,8 @@ LocalPoliceRecords.com does not knowingly collect personally identifiable inform
 
 **Opt-Out & Unsubscribe**  
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LocalPoliceRecords.com by contacting us here:  
-\- Web page: LocalPoliceRecords.com  
-\- Email: support@LocalPoliceRecords.com
+– Web page: LocalPoliceRecords.com  
+– Email: support@LocalPoliceRecords.com
 
 **Changes to this Statement**  
 LocalPoliceRecords.com will occasionally update this Statement of Privacy to reflect company and customer feedback. LocalPoliceRecords.com encourages you to periodically review this Statement to be informed of how LocalPoliceRecords.com is protecting your information.
