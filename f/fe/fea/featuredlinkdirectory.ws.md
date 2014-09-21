@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featuredlinkdirectory.ws privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614105857id_/http%3A//www.featuredlinkdirectory.ws//page/terms-and-conditions-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featuredlinkdirectory.ws privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921171008id_/http%3A//www.featuredlinkdirectory.ws//page/terms-and-conditions-1) for the most accurate reproduction.*
 
 # Terms and conditions
 
