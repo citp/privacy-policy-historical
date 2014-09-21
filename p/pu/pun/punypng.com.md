@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punypng.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105110id_/http%3A//www.punypng.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punypng.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921122549id_/http%3A//www.punypng.com/about/privacy) for the most accurate reproduction.*
 
 # PunyPNG - PNG Compression and Image Optimization
 
