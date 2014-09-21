@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nymphogirls.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102641id_/http%3A//www.ulust.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymphogirls.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921052946id_/http%3A//www.ulust.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds12) for the most accurate reproduction.*
 
-# Free XXX Dating, Local Sex Finder and Sex Personals - ULust.com
-
-**1,708,240** _Horny Single Members_
+# Free Adult Dating and Adult Personals - Ulust
 
 **OUR WEB SITE PRIVACY POLICY**
 
@@ -46,4 +44,12 @@ You can cancel your subscription online by visiting the Customer Service section
 Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email. 
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email.
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
+
+ULust.com is the best dating site online, providing discreet relationships with girls looking to get pleased and please their man! Hookup online for sex today! Find teens, housewives, MILF's, and ordinary women that just need to get their needs fulfilled. 
+
+ULust.com makes it easy to find and meet single girls in your area that want to hookup for no strings attached relationships. Get started right away and create your own personal free account and quickly search for the type of girls you are looking for. Within seconds you'll be matched up with local hotties ready for sex and dating. 
+
+ULust.com has thousands of horny babes in your local area that are ready for no strings attached relationships and sex. ULust.com is the #1 website online that lets you find a sex partner ready for sex and no string attached relationships. ULust.com has exactly the right type of girl you are looking for. 
+
+ULust.com has thousands of hot local girls that are horny and actively looking to get laid and find guys. Create your free profile in seconds and begin searching for the type of horny babe that turns you on. ULust.com the best free sex dating website on the Internet. 
