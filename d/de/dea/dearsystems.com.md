@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dearsystems.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331085539id_/http%3A//content.dearsystems.com/wordpress/%3Fpage_id%3D1837) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearsystems.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921031810id_/http%3A//content.dearsystems.com/wordpress/%3Fpage_id%3D1837) for the most accurate reproduction.*
 
-# Privacy Policy | DEAR Systems
+# Privacy Policy | DEAR Cloud Inventory Management
 
 We, at DEAR Systems treat the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel.  
 A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy.  
