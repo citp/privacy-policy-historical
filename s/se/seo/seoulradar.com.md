@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoulradar.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628085054id_/http%3A//www.seoulradar.com/bbs_detail.php%3Fbbs_num%3D2%26tb%3Dsrb_cus_provision_en%26id%3D%26pg%3D1%26links_number%3D%26PHPSESSID%3Dd72a1b41ebcb8f42edb48f5cb9b2f733) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoulradar.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921063912id_/http%3A//www.seoulradar.com/bbs_detail.php%3Fbbs_num%3D2%26tb%3Dsrb_cus_provision_en%26id%3D%26pg%3D1%26links_number%3D%26PHPSESSID%3D6a6b01ba3483eca3ac58a8f40a508ca6) for the most accurate reproduction.*
 
 # Privacy Policy | Trip to KoreaㅣSeoulRadar
 
