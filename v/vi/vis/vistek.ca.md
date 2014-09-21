@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091009id_/http%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921035957id_/https%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Statement - Vistek Camera Store - Toronto, Calgary Canada
 
@@ -28,7 +28,7 @@ This web site contains links to other sites. Please be aware that we Vistek Ltd.
 
 ### Newsletter
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+Vistek publishes a weekly newsletter on new products, reviews, industry news, sale pricing and more. We do not accept emails from anyone but our subscribers themselves. Our subscribers must opt in to our newsletter, they can update their profile or unsubscribe at anytime. We do not and will not share our subscribers information with any 3rd party. 
 
 ### Surveys & Contests
 
