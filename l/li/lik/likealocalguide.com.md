@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likealocalguide.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513052858id_/http%3A//www.likealocalguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likealocalguide.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921202348id_/http%3A//www.likealocalguide.com/privacy) for the most accurate reproduction.*
 
 # Explore Like a Local | Privacy Policy
 
