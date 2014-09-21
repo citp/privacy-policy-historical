@@ -1,44 +1,57 @@
-> *The following text is extracted and transformed from the allcelebpass.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805100955id_/http%3A//track.allcelebpass.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcelebpass.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922000230id_/http%3A//cheatinggfexposed.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy
 
-**All Celeb Pass**
-
-**PRIVACY POLICY STATEMENT**  
-  
-  
+Privacy Policy for TR Financial Resources Inc   
 
 
-* * *
+Adults Only Service   
 
-has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of allcelebpass.com. allcelebpass.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
-### Non-Personal Information and Cookies
+**THIS IS AN ADULTS _ONLY_ SERVICE**. We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.    
 
-Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behavior, date and time of visit, the pages visited; the time spent viewing the Site, the number of times the visitor returns to the Site, and click-stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site.
 
-### Use of Information
+Disclosures Made as Necessitated by Law or Safety   
 
-We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber.
 
-We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.   
 
-No credit card holder information is shared with third parties
 
-Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us.
+Information We Collect From You   
 
-There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers.
 
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
+During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information) along with Demographic Information. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.    
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to 
 
-### Security
+How is this Information Used?   
 
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control.As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.
 
-### Acceptance of these Terms
+Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
 
-By visiting or subscribing to this Site, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
+We may use cookies and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. 
 
-* * *
+We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.   
+
+
+You Are Responsible For Information You Provide to Third Parties   
+
+
+We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third partys terms and conditions and privacy policy.    
+
+
+Advertisements   
+
+
+We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or action tags to measure advertising effectiveness on an anonymous basis. Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertisers website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers website(s).    
+
+
+Changes to the Privacy Policy   
+
+
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.   
+
+
+Changes in the Ownership of the Sites   
+
+
+The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
