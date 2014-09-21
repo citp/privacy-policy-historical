@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the technoupdates.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207094019id_/http%3A//technoupdates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technoupdates.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921150625id_/http%3A//technoupdates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Here are Privacy Policy for www.technoupdates.org , if you require any more information or have any questions about our privacy policy, please feel free to contact us by email at -
+Here are Privacy Policy for www.technoupdates.org , if you require any more information or have any questions about our privacy policy, please feel free to contact us by email at –
 
 nsgoyat@gmail.com
 
