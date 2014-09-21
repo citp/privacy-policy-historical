@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbinsights.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627173419id_/http%3A//www.cbinsights.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbinsights.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921034214id_/http%3A//www.cbinsights.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CB Insights Privacy Policy
 
@@ -74,6 +74,6 @@ Please also feel free to contact us if you have any questions about this Privacy
 
 CB Information Services
 
-336 West 37th Street, Suite 650
+104 West 27th Street, Floor 3
 
-New York, NY 10018
+New York, NY 10001
