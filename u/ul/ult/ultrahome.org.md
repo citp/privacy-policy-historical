@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrahome.org privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305075615id_/http%3A//www.ultrahome.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrahome.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921190455id_/http%3A//www.ultrahome.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ultra Home
 
