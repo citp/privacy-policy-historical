@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510005812id_/http%3A//valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921143941id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
 
 # ValueCommerce: learn about the ValueCommerce.com Privacy Policy
 
@@ -29,7 +29,7 @@ Inquiry section for matters concerning the protection of personal information:
 Please contact the following for any complaints, consultations, inquiries about disclosure and other matters in person, regarding the handling of personal information and the personal information protection management system. A prompt response will be provided appropriately. 
 
 Personal Information Protection Administrator,  
-General Manager of Legal Department,  
+General Manager of Internal Audit Office,  
 Value Commerce Co., Ltd.  
 6th Floor, Nihon Seimei Akasaka Building,  
 1-19, Akasaka 8-chome, Minato-ku, Tokyo
@@ -40,7 +40,7 @@ Address:
 
   1. **Name of operator handling personal information**  
 Personal Information Protection Administrator,  
-General Manager of Legal Department, Value Commerce Co., Ltd. 
+General Manager of Internal Audit Office, Value Commerce Co., Ltd. 
   2. **Matters concerning the purpose of use of "personal Information held by the Company"**  
 The purpose of use of "personal information held by the Company" will be as follows:  No. | Type of Personal   
 Information Held | Disclosed /  
@@ -77,7 +77,7 @@ The personal information of retired employees will either be returned to the ind
 6) Telephone communication concerning requests for sales visits, etc.  
 7) E-mail magazine distribution  
 8) Various settings to carry advertisements  
-  
+9) Information about sales promotion   
 6 | Visitor log book completed as an entrance procedure by visitors to the Company (visitor history) | Disclosed | To be used to ensure the security of the Company (entry and exit control)  
 7 | Personal information of individuals who have made inquiries via the Company's website (inquiry history) | Disclosed | To be used to confirm and respond to the content of the inquiry  
 8 | App developer information (Applis) | Disclosed | To be used for the following services for app developers:  
@@ -120,6 +120,26 @@ The personal information of retired employees will either be returned to the ind
 9) Information about campaigns and questionnaires  
 10) Inquiries about the Company or its services  
 11) Payment of compensation   
+13 | APP developer information (Applis Market) | Disclosed | To be used for the following services:  
+1) Sending information materials by e-mail  
+2) Reporting and communicating review results, etc.  
+3) Reissuing passwords  
+4) Identifying individuals  
+5) E-mail magazine distribution  
+6) Control screen log-in authentication  
+7) Indicating company profile, services, results and seminar information to users  
+8) Disclosure of information for communication between the parties in the case of a breach of rules or contract   
+14 | Social Gift Service | Disclosed | To be used for the following services:  
+1) Reporting and communicating review results, etc.  
+2) Identifying individuals  
+3) Identifying bank account information  
+4) Disclosure of information for communication between the parties in the case of a breach of rules or contract  
+5) Reissuing passwords  
+6) Responses to inquiries  
+7) E-mail magazine distribution  
+8) Information about campaigns and questionnaires  
+9) Information about new services  
+10) Sending information materials by e-mail or through the post   
   3. **Matters concerning procedures responding to the requests for the notification or disclosure of the purpose of use of "personal information subject to the disclosure," correction, addition or deletion of content, the suspension of its use, erasure, and the suspension of its provision to third parties (hereinafter, "Disclosure, etc.")**  
 
     * Specifying the personal information held by the person subject to the request for Disclosure, etc.  
@@ -129,10 +149,10 @@ Please contact the inquiry section for matters concerning the protection of pers
 Please note in advance that we will confirm the identification of the individual.
   4. **Inquiry section**  
 Personal Information Protection Administrator,  
-General Manager of Legal Department, Value Commerce Co., Ltd.  
+General Manager of Internal Audit Office, Value Commerce Co., Ltd.  
 Address: 6th Floor, Nihon Seimei Akasaka Building,   
 1-19, Akasaka 8-chome, Minato-ku, Tokyo 
 
 
 
-Latest revision date: March 4, 2013
+Latest revision date: August 22, 2014
