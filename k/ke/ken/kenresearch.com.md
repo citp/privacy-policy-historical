@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenresearch.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419231320id_/http%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenresearch.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921075531id_/http%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Ken Research Pvt Ltd
 
