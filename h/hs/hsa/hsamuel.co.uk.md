@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419064110id_/http%3A//www.hsamuel.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921042109id_/http%3A//www.hsamuel.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
 # Security & Privacy - H.Samuel the Jeweller
 
