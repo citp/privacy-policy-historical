@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgingalactic.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606012224id_/http%3A//www.virgingalactic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingalactic.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921042005id_/http%3A//www.virgingalactic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Galactic
 
