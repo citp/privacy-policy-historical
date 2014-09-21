@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wprsscurator.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132609id_/http%3A//wprsscurator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wprsscurator.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921102042id_/http%3A//wprsscurator.com/privacy) for the most accurate reproduction.*
 
 # Privacy | WP RSS Curator
 
