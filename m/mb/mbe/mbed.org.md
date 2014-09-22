@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbed.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133423id_/https%3A//mbed.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbed.org privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922113507id_/http%3A//mbed.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | mbed
 
