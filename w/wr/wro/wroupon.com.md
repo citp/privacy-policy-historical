@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wroupon.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623200107id_/http%3A//wroupon.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wroupon.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922211617id_/http%3A//wroupon.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy| Groupon Clone Script |Group Buying Features | Wroupon.com
 
