@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tviexpress.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407032309id_/http%3A//www.tviexpress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tviexpress.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922032918id_/http%3A//www.tviexpress.com/privacy.php) for the most accurate reproduction.*
 
 # TVI EXPRESS - Privacy Policy
 
