@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calltrackingmetrics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062424id_/https%3A//calltrackingmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calltrackingmetrics.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922073047id_/https%3A//calltrackingmetrics.com/privacy) for the most accurate reproduction.*
 
 # CallTrackingMetrics Privacy Policy
 
