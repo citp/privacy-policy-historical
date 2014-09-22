@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044434id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922035938id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy | MortgageLoan.com
-
-[](https://privacy.truste.com/privacy-seal/Mortgage-Loan-Directory-and-Information,-Inc/validation?rid=0ebfccd0-81ef-452d-951f-112663f4b329 "TRUSTe online privacy certification")
+# Privacy | MortgageLoan.com | MortgageLoan
 
 ## Mortgage Loan Directory and Information LLC. Privacy Policy
 
@@ -10,19 +8,7 @@ Thank you for visiting Mortgage Loan Directory and Information LLC's ("Mortgagel
 
 ### Privacy Policy Updates
 
-Due to the Internet's rapidly evolving nature, Mortgageloan.com may need to update this Privacy Policy from time to time. If so, Mortgageloan.com will post its updated Privacy Policy on our Site located at [www.mortgageloan.com](http://www.mortgageloan.com/ "www.mortgageloan.com") and we may send registered users an email, so you are always aware of what personally identifiable information we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. 
-
-### TRUSTe
-
-Mortgage Loan Directory and Information LLC. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or complaints regarding our privacy policy or practices, you may contact us the following ways: 
-
-1\. On our website through the email form located here: [ http://www.mortgageloan.com/contact](http://www.mortgageloan.com/contact)  
-2\. By telephone: 646 727 4845  
-3\. By regular mail: MortgageLoan.com, The Corporation Trust Company, Corporation Trust Center, 1209 Orange Street, Wilmington, Delaware 19801
-
-If you are not satisfied with our response you can contact TRUSTe here. [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
+Due to the Internet's rapidly evolving nature, Mortgageloan.com may need to update this Privacy Policy from time to time. If so, Mortgageloan.com will post its updated Privacy Policy on our Site located at [www.mortgageloan.com](http://www.mortgageloan.com/) and we may send registered users an email, so you are always aware of what personally identifiable information we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. 
 
 ### Information Collection and Use
 
