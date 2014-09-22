@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optiontrade.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062523id_/https%3A//www.optiontrade.com/templates/optiontrade/documents/option_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optiontrade.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922091710id_/http%3A//www.optiontrade.com/templates/optiontrade/documents/option_privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
