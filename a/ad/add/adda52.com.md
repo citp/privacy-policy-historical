@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the adda52.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030007id_/http%3A//www.adda52.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adda52.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922103916id_/http%3A//www.adda52.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adda52.com
 
-[Home](https://web.archive.org/) » Privacy-policy
+### PRIVACY POLICY      
+
+&
 
 This privacy policy forms a part of the Terms of Use.  
 At Adda52.com, our attempt is to offer you a safe, protected and reliable environment to play. Adda52.com respects your privacy and thus assures you that any information provided by you to Adda52.com is protected and will be dealt with according to this Policy. Adda52.com shall not provide, distribute, trade, sell or rent your name, e-mail address or other personal information provided on this site to any third party or information related to your usage of the Website, except as provided in this Privacy Policy.
