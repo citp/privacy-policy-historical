@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingeveryday.net privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524193740id_/http%3A//www.savingeveryday.net/2009/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingeveryday.net privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922120140id_/http%3A//www.savingeveryday.net/2009/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy And Disclosure Policy
 
