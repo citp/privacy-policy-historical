@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeform.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606185707id_/http%3A//www.typeform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeform.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922193559id_/http%3A//www.typeform.com/privacy-policy) for the most accurate reproduction.*
 
 # Typeform | Privacy Policy
 
