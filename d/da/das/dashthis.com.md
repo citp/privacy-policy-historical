@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashthis.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100001id_/http%3A//dashthis.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashthis.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922233236id_/http%3A//www.dashthis.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,7 +32,7 @@ Most of the time, data from data source providers is read-only; therefore, there
 
 ## Data property
 
-It’s your data. You own the data. We do not use it for anything else other than display to display it in your dashboards. Any stored data will be deleted upon a client’s request.
+It’s your data. You own the data. We do not use it for anything else other to display it in your dashboards. Any stored data will be deleted upon a client’s request.
 
 ## Who will have access to my data?
 
