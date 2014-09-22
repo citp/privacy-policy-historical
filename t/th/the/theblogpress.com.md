@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theblogpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132031id_/http%3A//theblogpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogpress.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922193948id_/http%3A//theblogpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BlogPress
 
-Last Updated on 06/17/2012
+Last Updated on 06/17/2014
 
 BlogPress takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third parties in ways other than described in this Privacy Policy.
 
-This Privacy Policy governs all use of the BlogPress website (theBlogPress.com) and all content, services and products available at or through the website, including, but not limited to, the BlogPress hosting and domain name services (“BlogPress”), (taken together, the Website). The Website is owned and operated by Dan & Jennifer Media, Inc. Dan & Jennifer Media, Inc. is the sole owner of information collected on the Website.
+This Privacy Policy governs all use of the BlogPress website (blogpressdev.com) and all content, services and products available at or through the website, including, but not limited to, the BlogPress hosting and domain name services (“BlogPress”), (taken together, the Website). The Website is owned and operated by Dan & Jennifer Media, Inc. Dan & Jennifer Media, Inc. is the sole owner of information collected on the Website.
 
-The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, the [BlogPress Terms of Service](http://theblogpress.com/terms/ "BlogPress Terms of Service")) and procedures that may be published from time to time on the Website by BlogPress (collectively, the “Agreement”).
+The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, the [BlogPress Terms of Service](http://blogpressdev.com/terms/ "BlogPress Terms of Service")) and procedures that may be published from time to time on the Website by BlogPress (collectively, the “Agreement”).
 
 ## Information Collection And Use
 
@@ -110,4 +110,4 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://theblogpress.com/support/ "Contact Support – We Got This!").
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://blogpressdev.com/support/ "Contact Support – We Got This!").
