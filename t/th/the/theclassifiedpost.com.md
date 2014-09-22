@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassifiedpost.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629161410id_/http%3A//www.theclassifiedpost.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifiedpost.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922110548id_/http%3A//www.theclassifiedpost.com/privacy.aspx) for the most accurate reproduction.*
 
 # Home
 
@@ -12,7 +12,7 @@ Visitors to the TheClassifiedPost.com Web Site may voluntarily supply certain pe
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
-TheClassifiedPost.com may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to third parties). 
+TheClassifiedPost.com may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to third parties). If you no longer wish to receive promotional emails from the site: simply uncheck the box on your account page. 
 
 ## Acceptance of these TheClassifiedPost.com Web Site Privacy Policy Terms and Conditions
 
