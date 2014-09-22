@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collegemom.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208002731id_/http%3A//www.collegemom.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegemom.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922200259id_/http%3A//collegemom.com/privacy.asp) for the most accurate reproduction.*
 
 # College Mom
 
-This privacy policy was last updated on January 10th, 2008 CollegeMom is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
+This privacy policy was last updated on January 10th, 2014 CollegeMom is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
 
 **Information We Collect**
 
