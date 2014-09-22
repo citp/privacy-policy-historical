@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comantra.net privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302144915id_/http%3A//www.comantra.net/site/cms_pages/4/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comantra.net privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922120739id_/http%3A//www.comantra.net/site/cms_pages/4/Privacy) for the most accurate reproduction.*
 
 # comantra | comantra india | comantra esolutions | comantra.net
 
