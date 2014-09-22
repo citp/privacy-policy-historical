@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kii.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625053641id_/http%3A//en.kii.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kii.com privacy policy that was archived on 2014-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140922035233id_/http%3A//en.kii.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -22,8 +22,8 @@
 <link rel="stylesheet" id="layerslider_css-css" href="http://en.kii.com/wp-content/plugins/LayerSlider/css/layerslider.css?ver=4.6.0" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://en.kii.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="bootstrap-css" href="http://en.kii.com/wp-content/themes/Kii-AGranderTheme/bootstrap.min.css?ver=3.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="kii-agrandertheme-style-css" href="http://en.kii.com/wp-content/themes/Kii-AGranderTheme/style.css?ver=1403674602" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://en.kii.com/wp-content/themes/Kii-AGranderTheme/fancybox.css?ver=1403674602" type="text/css" media="all">
+<link rel="stylesheet" id="kii-agrandertheme-style-css" href="http://en.kii.com/wp-content/themes/Kii-AGranderTheme/style.css?ver=1411357952" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="http://en.kii.com/wp-content/themes/Kii-AGranderTheme/fancybox.css?ver=1411357952" type="text/css" media="all">
 <link rel="stylesheet" id="hubspot-css" href="http://en.kii.com/wp-content/plugins/hubspot/css/hubspot.css?ver=3.5.2" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1580504700000/241936.js"></script><script type="text/javascript" src="http://en.kii.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <script type="text/javascript" src="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/lib/js/prettyPhoto.js?ver=3.5.2"></script>
@@ -50,9 +50,71 @@
 		</script><link rel="stylesheet" href="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/lib/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/lib/css/wp-lightbox-special.css" type="text/css" media="screen"><link rel="stylesheet" href="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/lib/mediaelement/mediaelementplayer.min.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/lib/mediaelement/mediaelementplayer.min.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/lib/css/wp_lightbox_ultimate.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="http://en.kii.com/wp-content/plugins/wp-lightbox-ultimate/wp_lightbox_ultimate_custom.css" type="text/css" media="screen" charset="utf-8">	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
-}</style></head>
+}</style><script type="text/javascript">
+	jQuery(function() {
+		jQuery('a[rel=signup_modal]').click(function() {
+			jQuery('#globsignup').stop().animate({ bottom: '-18px' });
+			jQuery('#globsignup_back').css({ display: 'block', opacity: 0 }).stop().animate({ opacity: 1 });
+		});
+		jQuery('#globsignup').css({ bottom: jQuery(window).height()+'px' });
+		jQuery('#globsignup_back').css({ display: 'none' });
+		jQuery('#globsignup .close').click(function() {
+			jQuery('#globsignup').css({ bottom: (jQuery(window).height() - jQuery('#globsignup').height())+'px' }).stop().animate({ bottom: jQuery(window).height()+'px' });
+			jQuery('#globsignup_back').stop().animate({ opacity: 0 }, function(){ jQuery(this).css({ display: 'none' }); });
+		});
+		jQuery('#globsignup .input').focus(function(){
+			jQuery(this).val('');
+		});
+		jQuery('#globsignup .input').blur(function(){
+			if(jQuery(this).val() == '') {
+				jQuery(this).val(jQuery(this).attr('data'));
+			}
+		});
+	});
+</script>
 
-<body class="page page-id-478 page-template-default">
+</head><body class="page page-id-478 page-template-default">
+
+<div id="globsignup_back"></div>
+<div id="globsignup">
+	<div class="row standard">
+			<div class="container">
+				
+				<a href="javascript:;" class="close">Close</a>
+
+				<div class="col-md-5" style="margin: 0px auto; float: none;">
+					<form action="https://developer.kii.com/api/v1/signup" method="POST" enctype="application/x-www-form-urlencoded" name="signup">
+						
+						<h3>Sign up - it's free - and start creating apps on Kii.</h3>
+						
+						<input type="text" class="signup-name input" name="first_name" data="Name" value="Name"><br>
+						
+						<input type="text" class="signup-company input" name="xf_company" data="Company" value="Company"><br>
+						
+						<input type="text" class="signup-email input" name="email" data="Email" value="Email"><br>
+						
+						<input type="text" class="signup-password input" name="password" data="Password" value="Password"><br>
+						
+						<input type="text" class="signup-password input" name="password_confirmation" data="Password Confirm" value="Password Confirm"><br>
+
+						<input type="text" class="signup-phone input" name="xf_phone" data="Phone (optional)" value="Phone (optional)">
+						
+						<p>
+							By clicking Sign up, you agree to our <a href="https://developer.kii.com/en/terms" target="_blank">Terms</a>. <br>
+							No credit card required.
+						</p>
+						
+						<input type="hidden" name="callback" value="http://taro-m.github.io/homare/signup/callback.html">
+
+						<input type="submit" class="signup-submit submit" value="Sign Up">
+						
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
 <div id="page" class="hfeed site container-liquid">
 		
 	<div class="container">
@@ -85,9 +147,11 @@
 				<h1 class="menu-toggle"><span class="divot"></span><span class="divot"></span><span class="divot"></span></h1>
 				<div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
 	
-					<div class="lightbox_ultimate_anchor lightbox_ultimate_text_anchor">
-	<a title="" href="https://www.kii.com/signup/1.0.0/signupform.php?cp=en.kii.com-Common-Header&amp;locale=en?iframe=true&amp;width=640&amp;height=480" rel="wp_lightbox_prettyPhoto[iframes]">Sign Up</a>	
-	</div>				
+								<div class="lightbox_ultimate_anchor lightbox_ultimate_text_anchor">
+					<a title="" href="javascript:;" rel="signup_modal">Sign Up</a>	
+				</div>
+				<div style="font-size: 10px; position: absolute; top: 94px; right: 12px; font-family:&nbsp;'ProximaNovaSemibold';">No CC required</div>
+				
 				<div class="menu-main-menu-container"><ul id="menu-main-menu" class=""><li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://en.kii.com/develop/">Develop</a>
 <ul class="sub-menu">
 	<li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a href="http://en.kii.com/develop/mobile-backend/">Mobile Backend</a>
