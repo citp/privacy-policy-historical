@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4vps.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214063200id_/http%3A//www.time4vps.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4vps.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922022003id_/http%3A//www.time4vps.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy - Time4VPS
 
