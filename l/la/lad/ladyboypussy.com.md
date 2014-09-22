@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyboypussy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085300id_/http%3A//www.ladyboypussy.com/tour4/index.php%3Fsection%3D867%26nats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboypussy.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922112228id_/http%3A//www.ladyboypussy.com/tour4/index.php%3Fsection%3D867%26nats%3D) for the most accurate reproduction.*
 
 # Ladyboy Pussy v4 - Real Post-Op Ladyboys
 
