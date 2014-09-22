@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgage-calc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630131243id_/http%3A//www.mortgage-calc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage-calc.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922113859id_/http%3A//www.mortgage-calc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mortgage-Calc.com
 
@@ -17,7 +17,7 @@ This Privacy Policy applies to our Use of Your Information as a result of you us
 
 
 
-In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://web.archive.org/web/20140630131243id_/http://www.mortgage-calc.com/privacy/terms/) and any other documents referred to in this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20140630131243id_/http://www.mortgage-calc.com/privacy/terms/). These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20140630131243id_/http://www.mortgage-calc.com/privacy/terms/) carefully.
+In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](https://web.archive.org/web/20140922113859id_/http://www.mortgage-calc.com/privacy/terms/) and any other documents referred to in this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20140922113859id_/http://www.mortgage-calc.com/privacy/terms/). These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the [Terms of Use](https://web.archive.org/web/20140922113859id_/http://www.mortgage-calc.com/privacy/terms/) carefully.
 
 _**Information We Collect and Receive About You**_
 
@@ -84,7 +84,7 @@ We may make Use of Your Information for various lawful business purposes. Among 
 
   * _Analyze, improve and manage our Services and operations._ For example, we might obtain feedback regarding our Services, understand and anticipate your needs and preferences, better understand your use of our Services, customize and tailor Service content and advertising, improve our marketing and promotional efforts, engage in statistical analysis and provide feedback to our vendors, advertisers and other third parties. 
 
-  * _Resolve problems and disputes, and engage in other legal and security matters_. For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/web/20140630131243id_/http://www.mortgage-calc.com/privacy/terms/) and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services.
+  * _Resolve problems and disputes, and engage in other legal and security matters_. For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/web/20140922113859id_/http://www.mortgage-calc.com/privacy/terms/) and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services.
 
 
 
@@ -111,7 +111,7 @@ We may disclose Your Information:
 
   * If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
 
-  * To enforce our [Terms of Use](https://web.archive.org/web/20140630131243id_/http://www.mortgage-calc.com/privacy/terms/), this Privacy Policy, and any other applicable agreements and policies;
+  * To enforce our [Terms of Use](https://web.archive.org/web/20140922113859id_/http://www.mortgage-calc.com/privacy/terms/), this Privacy Policy, and any other applicable agreements and policies;
 
   * To enforce or protect our rights;
 
@@ -166,7 +166,7 @@ We offer publicly accessible blogs and other interactive media through our Servi
 
 Some comment areas are managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
-You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted”) on our Services, or that you transmit to other users of our Services (collectively, “User Generated Content”). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/web/20140630131243id_/http://www.mortgage-calc.com/privacy/terms/).
+You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted”) on our Services, or that you transmit to other users of our Services (collectively, “User Generated Content”). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/web/20140922113859id_/http://www.mortgage-calc.com/privacy/terms/).
 
 _**Social Media Widgets**_
 
