@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenoviaexchange.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627194231id_/http%3A//www.zenoviaexchange.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoviaexchange.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922030141id_/http%3A//zenoviaexchange.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Zenovia Digital Exchange – Website Privacy Policy
 
