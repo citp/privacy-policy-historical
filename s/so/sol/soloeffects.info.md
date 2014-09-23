@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soloeffects.info privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526134740id_/http%3A//soloeffects.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloeffects.info privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923111944id_/http%3A//soloeffects.info/privacy.php) for the most accurate reproduction.*
 
 # SoloEffects Privacy Policy
 
