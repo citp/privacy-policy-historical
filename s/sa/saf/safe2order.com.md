@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the safe2order.com privacy policy that was archived on 2013-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130102163456id_/http%3A//safe2order.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe2order.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923052318id_/http%3A//safe2order.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# - Privacy Policy
+# Safe2Order - Product Showcase, Ditgital Download And Customer Care Center - Privacy Policy - James Jackson's Safe2Order.Com ::: Internet Marketing, eCommerce, Affiliate Training And Support Center
 
 **PRIVACY POLICY**
 
 **1\. How We Protect Your Privacy.**
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
 **2\. Minors.** ****
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information. 
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
 **3\. Policy Is Part Of Our Terms And Conditions Of Use.** ****
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by [Terms](https://web.archive.org/web/20130102163456id_/http%3A//safe2order.com/Terms.html). __
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions by [Terms](http://safe2order.com/Terms.html). __
 
 **4\. The Type Of Information We Collect From You.** ****
 
@@ -34,7 +34,7 @@ As a general rule, we will not give your data to third parties without your perm
 
 We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes. 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
 
 From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
@@ -46,21 +46,21 @@ Your access to parts of our website may be protected by a user name and a passwo
 
 If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems.
 
 **8\. Your Voluntary Disclosure Of Information To Third Parties Who Are Not Our Suppliers**.
 
 You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-**9. Autoresponders.** ****
+**9.  Autoresponders.** ****
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us via  our online helpdesk at http://www.safe2order.com/help 
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in eachautoresponder message. If you have difficulties opting out, you may contact us via  our online helpdesk at http://www.safe2order.com/help
 
 **10\. Policy Changes.** ****
 
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to _Legal (at )_ ** _ safe2order.com (replacing _** the "(at)" with the "@" symbol and removing the spaces) and providing us with information relating to your concern. 
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to  _Legal (at )_ ** _safe2order.com (replacing  _** the "(at)" with the "@" symbol and removing the spaces) and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address: ****
 
@@ -69,8 +69,8 @@ You may also mail your concerns to us at the following address: ****
 St.Louis, MO  
 63146**
 
-This Privacy Policy was last updated on __ November 25, 2006 _._ __
+This Privacy Policy was last updated on _ _ November 25, 2006 _._ __
 
-**Copyright 2006 Gina Gaudio-Graves** ******and licensed for use by** **High Profit Publishing** ** _.  
-_****All Rights Reserved. No portion of this document may be copied or used by anyone  
-other than the licensee without the express written permission of Gina Gaudio-Graves, Esq. ******
+**Copyright 2006 Gina  Gaudio-Graves** ** ** **and licensed for use by  ** **High Profit Publishing** ** _.    
+_** **All Rights Reserved. No portion of this document may be copied or used by anyone    
+other than the licensee without the express written permission of Gina Gaudio-Graves, Esq.** ****
