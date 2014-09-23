@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatstat.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807111204id_/http%3A//www.neatstat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatstat.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923035918id_/http%3A//neatstat.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Website Worth Calculator, Website Value Calculator, Domain Worth
 
