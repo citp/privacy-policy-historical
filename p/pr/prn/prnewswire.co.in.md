@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the prnewswire.co.in privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125131813id_/http%3A//prnewswireeurope.mediaroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewswire.co.in privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923160152id_/http%3A//prnewswireeurope.mediaroom.com/privacy) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
 _Effective April 4, 2013_
 
-Welcome to our websites. 
+Welcome to our websites.
 
   PR Newswire Association LLC (“PR Newswire” or “we”) is the global leader in news and information distribution services for professional communicators. This privacy policy explains how we collect, use, and protect information about you, an individual person, as you visit certain of our websites: prnewswire.co.uk; www.prnewswire.se; www.prnewswire.co.in; www.prnewswire.co.il; [www.prnewswire.com.br](http://www.prnewswire.com.br/) (our “corporate” sites). 
 
-       Certain services and pages listed above may be available via mobile app. This privacy policy governs the collection and use of data about you and your use of any PR Newswire mobile website or app.  We may provide additional notice and choice options within the app itself. 
+Certain services and pages listed above may be available via mobile app. This privacy policy governs the collection and use of data about you and your use of any PR Newswire mobile website or app.  We may provide additional notice and choice options within the app itself. 
 
-If yiIIIf you choose to visit our corporate apps/websites or send us your contact data through them, you consent to the practices described in this Policy.
+If you choose to visit our corporate apps/websites or send us your contact data through them, you consent to the practices described in this Policy.
 
 For additional information about how we collect and use information on other sites and for our services, please see the PR Newswire Privacy Policy [http://prnewswire.mediaroom.com/index.php?s=29532]
 
@@ -30,10 +30,11 @@ _How do we use cookies on our corporate sites_? We allow a third party to set an
 
 _How you can control cookies.   _Most modern browsers offer you ways to control or block cookies.  These browser controls will usually be found in the “options” or “preferences” menu in your toolbar.  The “help” portion of the toolbar on most browsers will tell you how to stop or manage cookies.  More information is available here, [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-**How We Use Information About You**  
+**How We Use Information About You**
+
 How we use information about you depends upon the capacity in which you visit our sites. For example, if you simply visit our pages for news and do not register, we will not know who you are and will not collect information that identifies you.   If you share content on our sites with your social network, some public information from that network may be included in our reports to the client that created that content. 
 
-We may use the information that we collect about you from our corporate sites in any of the following ways:   
+We may use the information that we collect about you from our corporate sites in any of the following ways:
 
   * To provide information you request.
   * To evaluate and improve our websites and services.
@@ -44,11 +45,13 @@ We may use the information that we collect about you from our corporate sites in
 
 
   
-**Choice and Access**  
+**Choice and Access**
+
 You may choose not to receive marketing emails from us by following the directions at the bottom of the marketing emails we send you.    
 We value the accuracy of the information we have about you. You may update or correct the information you submitted to us at any time by
 
-**Disclosure to Third Parties**  
+**Disclosure to Third Parties**
+
 We reserve the right to disclose your name and information about you
 
   * to investigate potential unauthorized access or misuse of our services,
@@ -58,14 +61,16 @@ We reserve the right to disclose your name and information about you
 
 
 
-**Children**  
+**Children**
+
 Our services are directed to media and public relations professions. Our website and services are not intended for children 12 or under.
 
 **Security**
 
 PR Newswire uses reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, PR Newswire cannot ensure or warrant the security of any information you submit to us, and you do so at your own risk. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet. 
 
-  **Changes to This Policy**  
+  **Changes to This Policy**
+
 We may change the provisions of this policy from time to time and urge you to check back here periodically.  Your continued use of any of the websites or pages within the scope of this policy will be your acceptance of the version of the policy in place at the time of your visit. 
 
 **Other Important Information**
