@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the askpcexperts.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616085816id_/http%3A//www.askpcexperts.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askpcexperts.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923185113id_/http%3A//www.askpcexperts.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Ask Pc Experts - Privacy Policy
+# Computer Support, Online Computer Support, Computer Software Support
 
-  
-|   
----  
-[](http://www.addthis.com/feed.php?pub=lalveer&h1=http%3A%2F%2Fwww.askpcexperts.com%2Ffeeds%2Ffeeds.xml&t1= "Subscribe using any feed reader!")  
-  
+## Privacy Policy
 
-
-[](https://web.archive.org/web/20080616085816id_/http%3A//www.askpcexperts.com/live-demo.htm)
-
-  
-
-
-**Privacy Policy**
-
-Askpcexperts is committed to your privacy. The policy details how we utilize your personal identifying information. This privacy policy may be modified at any time without notice to you and covers the usage of your personal information by each and every business owned and operated by Askpcepxerts.com and its parent corporation, 
-
-Futuristic Internet Services Inc, Delaware, USA . Your personal identifying information may be stored or utilized by any and all businesses under the Futuristic Internet Services Inc, Delaware, USA penumbra but always within the terms and conditions of this privacy policy. 
+Askpcexperts is committed to your privacy. The policy details how we utilize your personal identifying information. This privacy policy may be modified at any time without notice to you and covers the usage of your personal information by each and every business owned and operated by Askpcepxerts.com and its parent corporation, Cyber Futuristics (India) Pvt. Ltd. . Your personal identifying information may be stored or utilized by any and all businesses under the Cyber Futuristics (India) Pvt. Ltd. Penumbra but always within the terms and conditions of this privacy policy. 
 
 Our privacy policy respects and recognizes your right to confidentiality and is committed to protecting the privacy of the visitors to its web site www.askpcexperts.com Askpcexperts is the sole owner of the information collected on www.askpcexperts.com. We will not provide, rent, loan, or sell any identifiable personal information to any other third party, unless legally required to do so. The information is collected from users at various different points on our website.
 
@@ -53,14 +39,18 @@ Our site uses all precautions to protect information of users. This Web site tak
 
 Other sites accessible through our web site have their own security and privacy policies and data collection practices. Please consult each site's privacy policy. In situations that are required by law and to safeguard ourselves in any legal action, we may disclose some information about our users to law-enforcing officers.
 
- **Auxilliary Information**   
-In order for this Web site to properly accomplish its obligation to our customers, it is necessary for us to supplement the information we receive with information from Third party sources. 
+**Auxiliary Information**   
+In order for this Web site to properly accomplish its obligation to our customers, it is necessary for us to supplement the information we receive with information from Third party sources.
 
   1. **Special Offers** \- We send all new members a welcoming e-mail to verify password and logon name. Older members will occasionally receive information on products, services, special deals, and newsletters.
   2. **Correction/Updating Personal Information** \- If User's personally identifiable information changes (such as user zip code), or if User no longer desire the Service, we will Endeavour to provide a way to correct, update or remove User personal data provided to us. This can be done at the Profile page.
-  3. **Notification of Changes** \- Askpcexperts reserves complete right to update this Privacy Policy at any time by posting changes online without any notice to you. The most current version of the Privacy Policy can be reviewed by clicking on the "Privacy Policy" hypertext link located on our website http://www.Askpcexperts.net. It is your responsibility to refer to this Privacy Policy before submitting any information on the website. Submitting your information after such changes to the Privacy Policy constitutes acceptance of those posted changes.
+  3. **Notification of Changes** \- Askpcexperts reserves complete right to update this Privacy Policy at any time by posting changes online without any notice to you. The most current version of the Privacy Policy can be reviewed by clicking on the "Privacy Policy" hypertext link located on our website http://www.Askpcexperts.com. It is your responsibility to refer to this Privacy Policy before submitting any information on the website. Submitting your information after such changes to the Privacy Policy constitutes acceptance of those posted changes.
   4. If at any point we choose to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify user via e-mail. We will use information in accordance with the privacy policy under which the information was collected.
 
 
 
 Please contact us if you should have any questions, comments or concerns about this privacy policy.
+
+## Disclaimer
+
+AskPCExperts is an independent service provider of remote tech support for third party products. Any use of third party trademarks mentioned on this site, brand names, products and services is only referential and AskPCExperts hereby disclaims any sponsorship, Affiliation or Endorsement of or by any such third party. 
