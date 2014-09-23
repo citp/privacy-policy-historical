@@ -1,107 +1,87 @@
-> *The following text is extracted and transformed from the blogbods.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209014211id_/http%3A//blogbods.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbods.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923232746id_/http%3A//www.blogbods.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blog Bods
+# Privacy Policy - Blogbods
 
-This policy (together with our [Terms of Service](http://blogbods.com/page.php?page=tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by our website, www.blogbods.com. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
+**PRIVACY POLICY for[www.blogbods.com](http://www.blogbods.com/)**
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Modern Bods Ltd of 156B Kilmorie Road, SE23 2SR (registration number 8334020). Modern Bods Ltd are committed to protecting and respecting your privacy. If you require any more information or have any questions about our privacy policy for www.blogbods.com, please feel free to contact us by email at admin@blogbods.com.
+This website is the property of Modern Bods LTD. We take the privacy of all visitors to blogbods.com very seriously and therefore set out in this privacy policy our position regarding certain privacy matters.
 
-This policy only applies to our site, www.blogbods.com. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
+This privacy policy covers all data that is shared by a visitor with us whether directly via [www.blogbods.com](http://www.blogbods.com/) directly or via email. This [website privacy policy](http://www.surgedigital.co.uk/tools/website-privacy-policy-template/) has been created by the Internet marketing experts at [Surge Digital](http://www.surgedigital.co.uk/) for us and is occasionally updated by us so please do re-review from time to time.
 
- **Information We May Collect From You**
+Our Privacy Policy provides an explanation as to what happens to any personal data that you share with us, or that we collect from you either directly via this Website or via email.
 
-We may collect and process the following data about you:
+For the purpose of the Data Protection Act 1998 our data controller is Jade Cunnningham and can be contacted by email at admin@blogbods.com
 
-• Information that you provide by filling in forms on www.blogbods.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+**1.          Information We Collect**
 
-• If you contact us, we may keep a record of that correspondence.
+In operating our website we may collect and process the following data about you:
 
-• We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+1.1       Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblog statistics and other communication data.
 
-• Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+1.2       Information that you provide by filling in forms on our website, such as when you register to recieve information, a newsletter etc or make a purchase.
 
- **IP Addresses, Cookies and Web Beacons**
+1.3       Information provided to us when you communicate with us for any reason.
 
-www.blogbods.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that our visitors send via their browser.
+**2.          Use of Cookies**
 
-Like many other Web sites, www.blogbods.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. This is statistical data about our users' browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
+On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
 
-We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever. It is used by use to analyse how visitors to blogbods.com interact with the website so that we can continue to develop this website and make it a better experience for our visitors.
 
-• To estimate our audience size and usage pattern.
+We may gather information about your general internet use by using a cookie file that is downloaded to your computer. Where used, these cookies are downloaded to your computer automatically.  This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you.
 
-• To store information about your preferences, and so allow us to customise our site according to your individual interests.
+All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
-• To speed up your searches.
+Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
-• To recognise you when you return to our site.
+###### **3.          Use of Your Information**
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
- **Third Party Advertising Partners**
+3.1       To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
 
-Google, as a third party vendor, uses cookies to serve ads on www.blogbods.com. Google's use of the DoubleClick DART cookie enables it to serve ads to users based on their visit to www.blogbods.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+3.2       To meet our contractual commitments to you.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+3.3       To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
 
-Google Adsense
+3.4       If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
 
-Clickbank
+3.5       Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
 
-Amazon
+3.6       If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.blogbods.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+3.7       If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
 
-www.blogbods.com has no access to or control over these cookies that are used by third-party advertisers.
+3.8       Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.blogbods.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+###### **4.          Storing Your Personal Data**
 
-**Where We Store Your Personal Data**
+4.1       We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting       your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+4.2       Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+4.3       The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-**Uses Made Of The Information**
+###### **5.          Disclosing Your Information**
 
-We use information held about you in the following ways:
+5.1       Where applicable, we may disclose your personal information to any member of our group.  This includes, where applicable, our subsidiaries, our holding company and its other  subsidiaries (if any).
 
-• To ensure that content from our site is presented in the most effective manner for you and for your computer.
+5.2       We may also disclose your personal information to third parties:
 
-• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+5.2.1    Where we sell any or all of our business and/or our assets to a third party.
 
-• To carry out our obligations arising from any contracts entered into between you and us.
+5.2.2    Where we are legally required to disclose your information.
 
-• To allow you to participate in interactive features of our service, when you choose to do so.
+5.2.3    To assist fraud protection and minimise credit risk.
 
-• To notify you about changes to our service.
+###### **6.          Third Party Links**
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by [post or telephone].
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+###### **7.          Access To Information**
 
- **Disclosure Of Your Information**
+The Data Protection Act 1998 gives you the right to access the information that we hold   about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-We may disclose your personal information to third parties:
+###### **8.          Contacting Us**
 
-• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
- **Your Rights**
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at [admin@blogbods.com](mailto:admin@blogbods.com).
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
- **Access To Information**
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**Changes To Our Privacy Policy**
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.
-
-**Contact**
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [admin@blogbods.com](mailto:admin@blogbods.com)
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [admin@blogbods.com](mailto:admin@blogbods.com)
