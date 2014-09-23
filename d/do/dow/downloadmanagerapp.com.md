@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadmanagerapp.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219175850id_/http%3A//www.downloadmanagerapp.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadmanagerapp.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923194932id_/http%3A//www.downloadmanagerapp.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # 
 
