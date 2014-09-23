@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613123545id_/http%3A//www.paulfredrick.com/custservice/pfprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924004538id_/http%3A//www.paulfredrick.com/custservice/pfprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy, Secure Technology - Paul Fredrick
 
@@ -16,7 +16,7 @@ If you have registered for a Paul Fredrick My Account, you have the ability to c
 
 We utilize cookie technology in order to enhance your shopping experience. Cookies are used to assign you a unique and encrypted id when you visit PaulFredrick.com. This id is used if you return to PaulFredrick.com in order to determine if you have items not yet purchased from a previous shopping session stored in your shopping bag. 
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [ClickTale's Privacy Policy ](http://www.clicktale.com/privacy_service.aspx)for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to continually improve our website, based on our customer use. You can choose to disable the Service by  [Clicking Here](http://www.clicktale.net/disable.html).
+This site uses Mouseflow web analytics service. The service may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website, except text in password fields and credit card information. Mouseflow does not collect personally identifiable information that you do not voluntarily enter in this website. Mouseflow does not track your browsing habits across other web sites or text inputted in password fields. For more information see Mouseflow's Privacy Policy at <http://mouseflow.com/privacy/>. You can choose to disable the Service by [Clicking Here](http://mouseflow.com/opt-out/).
 
 PaulFredrick.com may match user information with third party data for research purposes only. Also, we disclose aggregate user statistics in order to describe our services to prospective partners, advertisers, other third parties and for other lawful purposes.
 
