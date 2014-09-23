@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617214826id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923082543id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips' Privacy Policy
 
@@ -27,6 +27,8 @@ We may use cookies to help you personalize your online experience. Cookies are i
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites.They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic.They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+
+As you browse www.vegetarian-cooking-recipes-tips.com website, Google Analytics and advertising cookies will be placed on your computer to collect demographic and interest information, but we do not tie the cookie to any personal information that you provide to us. If you do not wish your data to be collected via Google Analytics, you may use their opt-out tool... <https://tools.google.com/dlpage/gaoptout/>.
 
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our website to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
