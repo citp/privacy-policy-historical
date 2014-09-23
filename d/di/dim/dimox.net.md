@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimox.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011214id_/http%3A//dimox.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimox.net privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923070237id_/http%3A//dimox.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Dimox.net
 
