@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pornorc.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510050802id_/http%3A//www.pornorc.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornorc.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923101923id_/http%3A//www.pornorc.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.pornorc.com](http://www.pornorc.com/)  
-Effective Date: May 10, 2014  
+Effective Date: September 23, 2014  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.pornorc.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
