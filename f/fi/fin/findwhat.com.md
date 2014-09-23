@@ -1,99 +1,60 @@
-> *The following text is extracted and transformed from the findwhat.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116140650id_/http%3A//www.adknowledge.com/privacy-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findwhat.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923090250id_/http%3A//www.findwhat.com/privacy) for the most accurate reproduction.*
 
-# Adknowledge Privacy Policy | Adknowledge.com
+# FindWhat.com|Comparison Shopping Made Easy!
 
-######## THE ADKNOWLEDGE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY FOR UPDATES.
+Effective January 1, 2014
 
-This privacy policy ("Policy") describes Adknowledge, Inc.'s ("Adknowledge") provision of a technology and advertising platform for marketers and content publishers such as web sites or email newsletters and operators (together, referred to as "Publishers" or "Publisher Properties") to attempt to deliver more relevant advertisements to consumers. Adknowledge does not collect, obtain or maintain personally identifiable information ("PII") from Publishers who use our CustomAd™ technology product. The data collected and maintained by Adknowledge from Publishers using CustomAd™ technology ("Anonymous Information") is not sufficient to permit someone to identify a particular consumer by name, email address, mailing address, telephone number or through social security number, driver's license or other government issued ID. This Policy does not apply to the practices of Publishers or other companies that Adknowledge does not own or control or to people that Adknowledge does not employ or manage. Adknowledge retains its rights to enter into new or different lines of business with consumers and if and to the extent it does so, it may display a different Privacy Policy to the consumer for such lines of business.
+**This Policy may change from time to time. Please check back frequently for updates.**
 
-#### Adknowledge Collection of Information.
+Adknowledge EN, Inc., a Delaware corporation, and Findwhat.com (“Findwhat”, “we”, or “us”) respect and protect the privacy of consumers. This Privacy Policy (“Policy”) describes what information we collect through Findwhat.com, how we use that information, and some of your privacy rights regarding that information.
 
-######## Information Collection
+  1. **Collection of Information and Your Privacy Rights**
 
-######## 1.1 User Information.
+_What information we collect and how we collect it._
 
-User Information. Adknowledge does not track or maintain PII about consumers. It maintains Anonymous Information including behavior data (i.e., visiting a particular website or clicking on a particular ad) and demographic or similar data (i.e., browser type or lifestyle data). Adknowledge may maintain PII information if it is in an encrypted format which cannot be decrypted; that is, the data as stored is Anonymous Information rather than PII. For example, a Publisher may encrypt the email address joe@smith.com into the term "123abc" with a one-way encryption routine and transfer the term "123abc" to Adknowledge to store on Adknowledge's computers, but it is not currently feasible for Adknowledge or others, due to the sophistication of the encryption routines utilized, to decode the term "123abc" back into the original email address,joe@smith.com.
+    1. _Subscription or Survey Information_. Findwhat collects information from you when you voluntarily provide it to Findwhat or one of its partners, through websites (owned and operated by Findwhat or a third party), social networking applications and other means (together, these sources are referenced hereafter as "Publishers") (for example, by signing up for an email newsletter or through a co-registration offer on a survey), or by others means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "User Form"). In a User Form, Findwhat or a third party may offer you incentives in exchange for providing information about yourself such as name, email address, street address, zip code, telephone numbers, birth date, gender, salary range, education and marital status, occupation, employment information, and personal and online interests (together, "User Information"). Completing the User Form is voluntary and you are under no obligation to provide User Information.
+    2. _Vendor List Information_. Findwhat may obtain information about you after you provide information to a third party and you permit that party (the "Seller") to share the information, which Findwhat subsequently purchases, licenses, or otherwise lawfully acquires. Such information may include, but is not limited to, your name, street address, zip code, telephone numbers, birth date, gender, salary range, education, marital status, occupation, industry of employment, personal and online interests, and other information which you provided to the Seller (together, "Vendor List Information"). When acquiring Vendor List Information, Findwhat requires assurances from the Seller that the Seller has a right to transfer the Vendor List Information to Findwhat and that Findwhat may lawfully use the Vendor List Information to transmit offers from advertisers.
+    3. _User Behaviors Collected with Cookies, Web Beacons, and Other Information_. Findwhat uses cookie and web beacon technology to associate certain Internet-related information about you, such as your Internet Protocol address and what Web browser you are using, with certain of your online behaviors, such as opening or clicking on a particular online advertisement. Additionally, Findwhat may use other new and evolving sources of information and information gathering in the future (together, "Technology Information"). 
+      1. Cookies. A cookie is a small amount of data stored on the hard drive of your computer that allows Findwhat and/or its partners to identify your IP address with corresponding information in Findwhat's database. Findwhat and/or its partners may use cookies to track individual responses or views of advertisements, and use this information to help predict what other advertisements may be of interest to you and enable you to receive customized advertisements or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, such as your email address, that we may share with any third party, solely in hashed, non-human readable form. To learn about how you can opt-out of the receipt of cookies, please visit http://www.aboutads.info/choices. To learn about how you can remove cookies placed on your computer or prevent the placement of cookies on your computer, please see Section 4 below. To learn more about cookies in general, please visit [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+      2. A web beacon is programming code used to display an image on a web page and can also transfer an individual's user identification to a database and associate the individual with previously acquired information about the individual. Web beacons enable Findwhat to track certain Web sites you visit or advertisements you view online. Web beacons help determine products or services in which you may be interested and help track online behaviors for marketing purposes. More information about web beacons is available at <http://www.webopedia.com/TERM/W/Web_beacon.html>.
+      3. Where Technology Information is Collected. Technology Information is collected directly from Findwhat advertisements or indirectly through Publishers that Findwhat contracts with to display advertisements. Such advertisements will usually be displayed within one of the following advertising vehicles: 
+        * _Websites_. Findwhat may set a cookie on your computer when you view advertisements delivered on Publisher websites. After a cookie is set, Findwhat may track how you interact with the advertisement and the Publisher website (for example, registering, purchasing, browsing, etc.).
+        * _Software Programs_. Similar to Websites, Findwhat displays banner advertisements in software programs that you may use.
+        * _Email Databases_. Findwhat and/or its partners may track your interaction with email advertisements sent to you (for example, by setting a cookie on your computer) on behalf of Publishers, advertisers or partner websites (for example, when you register, purchase, or browse in response to such email).
+    4. _Outside Information_. Findwhat may lawfully receive information about you from third parties, such as information located in public databases ("Outside Information").
+    5. _No Information Collected from Minors_. MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO Findwhat. If Findwhat is notified it has personal information about a minor under the age of 18, that information will be promptly deleted from our database.
+    6. _Individual Information_. As used herein, Individual Information means User Information, Vendor List Information, Technology Information, Outside Information, and any other information Findwhat lawfully obtains about you.
+  2. **Use of Information and User Data**
 
-######## 1.2 User Behaviors Collected with Cookies, Web beacons, and Other Information.
+_How we use and share the information we collect._
 
-Adknowledge may use cookies, web beacons and IP addresses to associate your Anonymous Information (as described in Section 1.1 above) with an anonymous profile containing data such as your online behaviors, which could include records on viewing, opening or clicking on a particular online advertisement or visiting a website operated by a Publisher. Additionally, Adknowledge may use other new and evolving sources of information and information gathering in the future (together, "Technology Information") to assist Publishers in delivering more relevant advertisements to you. Cookies. A cookie is a small amount of data stored on the hard drive of your computer that allows Adknowledge to identify your IP address with corresponding information in Adknowledge's database. Adknowledge may use cookies to track individual responses or views of advertisements when an advertisement has been viewed on Publisher Properties. You may read more about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/).
+    1. _Discretion to Use Information_. Information voluntarily provided to Findwhat or lawfully obtained by Findwhat is the property of Findwhat and may be used by Findwhat for any lawful purpose, including the sale, lease or transfer of the information to Publishers, advertisers and data aggregators, for marketing purposes. If you wish to end your email subscription with us or one of our Publishers, you may follow the instructions at the end of each email message to unsubscribe or follow the instructions detailed at Section 4 below.
+    2. _Targeted Advertising and Information_. Information voluntarily provided to Findwhat or lawfully obtained by Findwhat is the property of Findwhat and may be used by Findwhat for any lawful purpose, including the sale, lease or transfer of the information to Publishers, advertisers and data aggregators, for marketing purposes. If you wish to end your email subscription with us or one of our Publishers, you may follow the instructions at the end of each email message to unsubscribe or follow the instructions detailed at Section 4 below.
+    3. _Legal Process_. Findwhat may disclose Individual Information to respond to subpoenas, court orders and other legal process as required by law.
+    4. _Summary Data_. Findwhat may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
-#### Web Beacons
+_How we store and protect the information we receive._
 
-A web beacon is programming code used to display an image on a web page and can assist Adknowledge in associating an individual's Anonymous Information to a unique profile in our database. Web beacons enable Adknowledge to track certain Web sites you visit or advertisements you view online at Publisher Properties. Web beacons help determine products or services in which you may be interested and help track online behaviors for marketing purposes. More information about web beacons is available at [www.webopedia.com/TERM/W/Web_beacon.html](http://www.webopedia.com/TERM/W/Web_beacon.html.).
+    5. _Storage of Individual Information_. Findwhat stores Individual Information in a database on Findwhat computers; the information is maintained and stored in encrypted form. In addition, Findwhat's computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Findwhat's control. Findwhat also maintains physical and procedural safeguards to protect Individual Information. Notwithstanding such measures, Findwhat cannot guarantee that its security measures will prevent these computers from being illegally accessed and the Individual Information on them stolen or altered.
+  3. **Privacy Practices of Third Parties**
 
-#### IP Addresses
+    1. _Advertiser cookies and web beacons_. Publishers who place advertisements on the Internet may use their own cookies, web beacons and other technology to collect information about you. Findwhat does not control Publishers' use of such technology. Findwhat may place cookies of its Publishers or advertisers who are under contract with Findwhat, on your computer. These cookies may be placed at the time you open and/or click within email sent by Findwhat or a Publisher under contract with Findwhat. This Policy does not apply to the practices of Publishers or other companies that Findwhat does not own or control or to people that Findwhat does not employ or manage.
+    2. _Links_. The Publishers' Website and email messages transmitted by Findwhat on its own behalf or on behalf of Publishers may contain hypertext links to the Websites of third parties. Findwhat is not responsible for the privacy practices or the content of such other Websites.
+    3. _Affiliated Companies that are not Publishers_. Findwhat may disclose or transfer Individual Information to wholly owned or controlled Findwhat entities in Findwhat's discretion.
+  4. **How You May Exercise Your Rights**
 
-Adknowledge may use your IP address to better target an ad to you or people in your area. Unless you use a static IP address, an IP address relates to households or larger communities. For example, if you use a national Internet Service Provider (ISP) to access the Internet, such as America Online, it may not be possible to determine your geographic location based on your IP address. If you use a local ISP, it may be possible to narrow your community to a fewer number of people or businesses which your ISP services. Because an individual does not own a particular IP address, a consumer's IP address is not personally identifiable information and may change for any number of reasons over time, e.g., even if you rent a static IP address for a limited period.
+    1. _Websites_. To prevent the display of Publisher or Findwhat advertising on a Website, for example, banner advertisements, do not visit the Website. To only prevent Findwhat from tracking your behavior on a Website, turn off cookies from that Website and do not click on or interact with any advertisements. Please note that Findwhat does not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive, other than as described in this section.
+    2. _Email Databases_. To unsubscribe from Findwhat or Publisher email lists, click the link included in the footer of any message delivered by Findwhat or a Publisher and follow the instructions provided. You may also unsubscribe from emails you signed up for at this Website by visiting <http://www.findwhat.com/unsubscribe>.
+    3. _Software Programs_. To prevent software programs from displaying advertisements on your computer, uninstall the software program provided by a Findwhat Publisher by following the instructions included in the privacy policy at the time of installation. Software programs should include an option to uninstall in the "Add/Remove Programs" section of the Windows® operating system, or by visiting the file director of the installed program and running an uninstaller executable.
+    4. _Cookies_. Check instructions about your web browser to learn how to prevent placement of, or how to remove, cookies placed on your computer by Findwhat.
+  5. **More Information**
 
-#### Where Technology Information is Collected
+    1. For more information about protecting your privacy, you may wish to visit [http://www.netcoalition.com](http://www.netcoalition.com/) and [http://www.privacyalliance.org](http://www.privacyalliance.org/). If you wish to be notified of any updates to this Privacy Policy, please check back frequently as any updates will be posted to Findwhat with a new effective date. If you have questions about this Policy and your rights under this policy, would like access to personal information we may have about you in our files, to correct, update, or to have us delete it, or would like to notify us of your choice to opt out of the sharing of any of your personal information, please write to us at:
 
-Technology Information is collected directly from Adknowledge advertisements or indirectly through Publishers that Adknowledge contracts with to display advertisements. Such advertisements will usually be displayed within one of the following advertising vehicles: Websites. Adknowledge may set a cookie on your computer or associate behavior with your Internet service provider's IP address when you view advertisements delivered on Publisher websites. After a behavior is associated to a cookie or an IP address, Adknowledge may track how you interact with the advertisement and the Publisher website (for example, registering, purchasing, browsing, etc.).
-
-#### Email
-
-Adknowledge may track your interaction with emails sent to you on behalf of Publishers (for example, when you open or click on an email, register, purchase, or browse in response to such email), but does not maintain a list of email addresses or other PII in connection with this activity.
-
-######## 1.3 Outside Information. 
-
-Adknowledge may lawfully receive information about you, including demographic data, purchasing trends and similar information, from third parties, such as information located in public databases ("Outside Information"). Outside Information shall be Anonymous Information. 
-
-######## 1.4 No Information Collected from Minors
-
-MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO ADKNOWLEDGE. If Adknowledge is notified it has any information about a minor under the age of 18, that information will be promptly deleted from our active database. 
-
-#### Use of Information and User Data
-
-######## 2.1 Discretion to Use Information
-
-Adknowledge may share Anonymous Information about your behaviors with trusted Publishers under confidentiality agreements. These Publishers may use this information to better target advertisements to you. If you wish to end your email subscription with a Publisher, you may follow the instructions at the end of each email message to unsubscribe or follow the instructions detailed at Section 4 below. 
-
-######## 2.2 Targeted Advertising Delivered by Publishers
-
-Adknowledge uses Anonymous Information to assist its Publishes in targeting advertisements more effectively. When a consumer is online, Adknowledge uses Technology Information to associate an individual with their Anonymous Information and Adknowledge assists its Publishers in attempting to show information and advertising for products and services to which the consumer may respond. Adknowledge may use data collected from a response to one type of advertising or information for targeting advertisements or other information through a different venue. For example, Adknowledge may inform an email Publisher that a consumer responded to a baseball banner advertisement and that Publisher may try to deliver to the consumer a baseball-related advertisement and other information to the consumer via email.
-
-######## 2.3 Legal Process
-
-Adknowledge may disclose information in its possession and control to respond to subpoenas, court orders and other legal process as required by law. 
-
-######## 2.4 Summary Data
-
-Adknowledge may sell or transfer Anonymous Information, such as summary or aggregated non-PII about consumers or consumer sub-groups. 
-
-######## 2.5 Storage and Protection of Information
-
-Adknowledge stores Anonymous Information in a database on Adknowledge computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Adknowledge's control. Adknowledge also maintains physical and procedural safeguards to protect information. Furthermore, Adknowledge maintains the data in its database in encrypted form, so that even if the data is improperly accessed, it is less likely to be in a format intelligible or useable for purposes not authorized or intended by Adknowledge. Notwithstanding such measures, Adknowledge cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
-
-#### Privacy Practices of Third Parties
-
-######## 3.1 Advertiser cookies and web beacons
-
-Publishers who place advertisements on the Internet may use their own cookies, web beacons and other technology to collect information about you. Adknowledge does not control Publishers' use of such technology. 
-
-######## 3.2 Links
-
-The Publishers' Websites and email messages transmitted on behalf of Publishers may contain hypertext links to the Websites of third parties. Adknowledge is not responsible for the privacy practices or the content of such other Websites.
-
-######## 3.3 Publishers
-
-To learn about how a particular Publisher may use your PII or Anonymous Information, you should read the privacy policy of that Publisher.
-
-#### How You May Exercise Your Privacy Rights And Unsubscribe
-
-######## Websites
-
-To prevent the display of Publisher or Adknowledge advertising on a Website, for example, banner advertisements, do not visit the Website. To only prevent Adknowledge from tracking your behavior on a Website, turn off cookies, utilize a changing IP address, and do not click on or interact with any advertisements. 
-
-######## Email Databases
-
-To unsubscribe from Publisher email lists, click the link included in the footer of any message you receive from the Publisher. 
-
-Please read the privacy policy of particular Publishers to understand how your PII and Anonymous Information may be used after you unsubscribe. 
-
-More Information. For more information about protecting your privacy, you may wish to visit [www.netcoalition.com](http://www.netcoalition.com/), and [ www.privacyalliance.org](http://www.privacyalliance.org/). Adknowledge reserves the right to update this Policy at any time by re-publishing it to this Website with a new effective date. The current policy is effective as of March 16, 2006. If you have questions about this Policy, please contact us at [privacy@adknowledge.com](mailto:privacy@adknowledge.com?subject=Question%20Regarding%20Adknowledge%27s%20Privacy%20Policy) or write to us at: 
-
-Attn: General Counsel  
-Adknowledge, Inc.  
+FINDWHAT.COM  
+Attn: Privacy and Compliance Group  
 4600 Madison Ave., 10th Floor  
-Kansas City, MO 64112   
+Kansas City, MO 64112 
+
+
 
