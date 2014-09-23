@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlive.tv privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209120801id_/http%3A//yourlive.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlive.tv privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923080858id_/http%3A//yourlive.tv/privacy.php) for the most accurate reproduction.*
 
 # YourLive.tv - Broadcast everything
 
