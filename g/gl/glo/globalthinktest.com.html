@@ -1,0 +1,924 @@
+<!--The following is the downloaded HTML source of the globalthinktest.com privacy policy that was archived on 2014-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140923043231id_/http%3A//www.globalthinktest.com/Privacy-Policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="head"><title>
+	Global Think Test From Kaspersky Lab - Privacy Policy
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<link href="/CMSPages/GetResource.ashx?stylesheetname=ThinkTest-CSS_1" type="text/css" rel="stylesheet"> 
+<link href="/CMSPages/GetResource.ashx?stylesheetname=ThinkTest-Badges" type="text/css" rel="stylesheet">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<script src="/CMSScripts/Custom/GTT/jquery.plugin.js"></script>
+<script src="/CMSScripts/Custom/GTT/jquery.countdown.js"></script>
+<script src="/CMSScripts/Custom/jquery.bxslider.min.js"></script>
+<script src="/CMSScripts/Custom/GTT/enscroll-0.6.0.min.js"></script>
+<script>
+jQuery(function () {setTimeout(function(){
+	var austDay = new Date();
+	austDay = new Date(austDay.getFullYear(), 9 - 1, 1);
+	//jQuery('#defaultCountdown').countdown({until: austDay});
+	//jQuery('#year').text(austDay.getFullYear());
+  
+  
+  	var austDay2 = new Date();
+	austDay2 = new Date(austDay2.getFullYear(), 9 - 1, 1);
+	//jQuery('#defaultCountdown2').countdown({until: austDay});
+	//jQuery('#year').text(austDay2.getFullYear());
+  
+  }, 1000);
+});
+  
+  
+</script>
+<script>
+window.onclick = function(event) {
+	if(event != null){
+        event = event || window.event
+
+         console.log("click recorded");
+      
+         var linkname = "";
+      
+         var isOpera = !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+         // Opera 8.0+ (UA detection to detect Blink/v8-powered Opera)
+         var isFirefox = typeof InstallTrigger !== 'undefined';   // Firefox 1.0+
+         var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+         // At least Safari 3+: "[object HTMLElementConstructor]"
+         var isChrome = !!window.chrome && !isOpera;              // Chrome 1+
+         var isIE = /*@cc_on!@*/false || !!document.documentMode; // At least IE6
+      
+         var currentElement;
+         var tagName;
+      
+         //Chrome, IE
+         
+         if(typeof event.toElement !== "undefined")
+         {
+            if(event.toElement.tagName == "INPUT")
+              linkname = event.toElement.value;
+           
+            if(event.toElement.tagName == "A")
+              linkname = event.toElement.innerHTML;
+           
+            tagName = event.toElement.tagName;
+         }
+         else
+         {
+            if(event.originalTarget.tagName == "INPUT")
+              linkname = event.originalTarget.value;
+           
+            if(event.originalTarget.tagName == "A")
+              linkname = event.originalTarget.innerHTML;
+           
+            tagName = event.originalTarget.tagName;
+         }
+
+         if(tagName == "INPUT" || tagName == "A")
+         {
+           jQuery.ajax
+              ({
+                  type: 'POST',
+                  contentType: 'application/json',
+                  url: '/ClickListener.aspx',
+                  data: JSON.stringify({ "URL": event.href, "LinkName": linkname, "Target": event.Target, "ReferralURL": document.URL, "ReferralPageName": document.title }),
+                  success: function () {
+                      //alert("success!");
+                  },
+                  error: function (xhr, ajaxOptions, thrownError) {
+                    
+                  }
+              });
+          }
+         
+         try
+         {
+          //  window.location.href(e.href);
+         }
+         catch(err)
+         {
+           //alert(err);
+         }
+	}
+
+};
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+  ga('create', 'UA-53672792-1', 'auto', {'name': 'newTracker'});  // New tracker.
+  ga('create', 'UA-3079139-32', 'auto', {'name': 'newTrackerTO'});  // New tracker.
+  ga('create', 'UA-53754346-1', 'auto', {'name': 'newTrackerMT'});  // New tracker.
+  ga('newTrackerMT.send', 'pageview'); // Send page view for new tracker.
+  ga('newTrackerTO.send', 'pageview'); // Send page view for new tracker.
+  ga('newTracker.send', 'pageview'); // Send page view for new tracker.
+  
+
+</script>
+
+
+
+
+ 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+<link href="/favicon.ico" type="image/x-icon" rel="icon"> 
+<style>
+#BadgeContainer{
+  background:#eeeeee;
+ margin-bottom:10px;
+  padding:10px 5px;
+   color: #3b3b3b;
+  }
+
+#BadgeContainer img{
+  width:30%;
+  }
+
+.BadgeName{
+  width: 100%; 
+  display: inline-block; 
+  font-size:30px; !important;
+    color:#007461;
+  }
+</style>
+<script type="text/javascript">
+	//<![CDATA[
+  jQuery(window).load(function() {
+	//AboutGTT();
+});
+//]]>
+</script><style>
+  #menu_right{
+    display:none;
+    }
+  
+  </style><link href="/CMSPages/GetResource.ashx?_webparts=1131" type="text/css" rel="stylesheet"> 
+</head>
+<body class="LTR ENGB ContentBody">
+    <form method="post" action="/Privacy-Policy.aspx" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="4tYfKwy/57RDE6TGmeiGyZRsRrcgKKKlHzKBTV1ZwKWwFwS1joAMRZUtjD0T/nXQBRH2qhkEXLfugXziAuX5hPan6/YEfUpr07Y2Ue0cREhVRh8I6RWZei7EgaLbvH2jV3zngfl++mmPsIgTddADRcyOBrpgwemKAF58100ZNtjqUnLFZfDeBA3q7JE+3pP7JPsUUk/sfGYNEX4Qs8XgqFFGCfzVKSlSEZpCn1cbrdvzeswNNC6v5WvMcZRilQLYHFY+nIIt/mgnYErjhkzY9KeKxR8Bf8rZJFKA2g9KNMjkoaTSfrICw6trHLZ1SudMzQ1PAZ+ale3GTcrzG1lfnZBhLuR5D24udhkcIWwqyskaz03KSrNf76yeBpEMIO63FEn3/eKKrkD+cDXBRMuKeh6xhfWPJs593GOePbrLv6d6qBi+pDcf3GTfUvae2jS5q4G/nibyb4lnvuOoZm8qiWHI/lQH11kyeACxYpCqtGTqidXjJ2jrnP5HhNrbt+gWz6UxXVM/XG8kCdTI1sB9odxKGu6XL7Yq42OBqTWxAI0xiXCpokQBC56vZE89ZK9x6M/i2X5MRxSkuENQnt12ZE8kjeTywiFSlzzOHek5AAzsSbebA0+tENZfM2zs4lNnJeQVdGqpDSsgk2+YZur3IQPaZdR4HfPdb04XczFZ5DkMfqRwPtk0G19g3oVqNSHmNZ25VgnDPw4qdt/CFauLApJd2nkaLSgHUSzxCs/Es7th6pwQ07xP/+wBXdHFDAkpaPXRUhbqZtXbGtkaUnlvYTJehEt09HzCkYc6zAlPNAJC4Hwc96vEl0XfLfClngZD6ssCRFhbHyxUdZktjLN3l3rWXxYa9q3hez966SgAP3wkBUmHsrDpuJbeE6/oMXUMFbFuIBTWb/nMmnMg9v7Qi0lN7QSVqAGT2jQ5h+6+u/UWywaLb9bq6amYzviygMjPFCoRx1NAjo1RpKcrffyCXGX+dFUCLk7Cv2zc2AfFfNL9k5t4gLOX+icFXrITuAbeyx/aaREyV9Yw7GzsmOxQklTlPYwN5/4k44mvccK+oHlhtJMzqWlG5ma56yK/zM41ZpcvJKZrLIYkQWYDzNYXA8RcAxE=">
+</div>
+
+<input type="hidden" name="lng" id="lng" value="en-GB">
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }__doPostBack('m',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }WebForm_DoCallback('m',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+jQuery(window).load(function() {
+	var pageVidWatched = localStorage.getItem(document.URL);
+	if(pageVidWatched) {
+		try {
+			document.getElementById('banners').style.display = 'inline-block';
+			document.getElementById('braintrainvid').style.display = 'none';
+			document.getElementById('braintrainvid').pause()
+		} catch(e) {
+			// Do nothing!
+		}
+	} else if(document.getElementById('banners') != null) {
+		//document.getElementById('banners').style.display = 'none';
+	}
+	
+	if(document.getElementById('braintrainvid') != null) {
+		document.getElementById('braintrainvid').onended = function() {
+			localStorage.setItem(document.URL, true);
+		}
+	}
+});
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=0QImUagh26enBwDDwEtHbB8S_lKH7RoYzvWykO16NIcl2GvTZOGUnpFT7ANeVUg0kd1XYayDP6FZt4o76nzvKtDhD9wGtcr6oLDV7g4y1llJqcfi0&amp;t=3a1336b1" type="text/javascript"></script>
+    <div id="CMSHeaderDiv">
+	<!-- -->
+</div>
+    <div id="ctxM">
+
+</div>
+        
+
+        <div id="menu">
+            <nav>
+                <h2>Menu
+                    
+                      <a id="baseexpand2" class="side_menu_btn" role="button" href="#"><img src="/CMSPages/GetFile.aspx?nodeguid=21bce11d-b8a6-41fb-8f38-8090575dc44e"></a>
+                    
+              </h2>
+              
+               
+	<ul id="menuElem">
+		<li id="menuElem_LI_0_1_1565" style=""><a href="/FinalVersion/Braintraining.aspx" style="" title="Brain Training Zone">Brain Training Zone</a>
+		<ul id="menuElem_UL_1">
+			<li id="menuElem_LI_1_1_1635"><a href="/FinalVersion/Braintraining/Puzzles-Menu.aspx" title="Puzzles">Puzzles</a></li>
+			<li id="menuElem_LI_1_2_1635"><a href="/FinalVersion/Braintraining/Brainteasers-Menu.aspx" title="Brainteasers">Brainteasers</a></li>
+			<li id="menuElem_LI_1_3_1635"><a href="/FinalVersion/Braintraining/IQ-Style-Test-Menu.aspx" title="IQ Style Tests">IQ Style Tests</a></li>
+		</ul>
+		</li>
+		<li id="menuElem_LI_0_2_1565" style=""><a href="/FinalVersion/Video-Challenge.aspx" style="" title="Video Challenges">Video Challenges</a></li>
+		<li id="menuElem_LI_0_3_1565"><a href="/FinalVersion/Ferrari-Challenges.aspx" title="Scuderia Ferrari Challenges">Scuderia Ferrari Challenges</a></li>
+		<li id="menuElem_LI_0_4_1565"><a href="/FinalVersion/MENSA-Challenges.aspx" title="MENSA Challenges">MENSA Challenges</a></li>
+		<li id="menuElem_LI_0_5_1565"><a href="/FinalVersion/Sports-Challenges.aspx" title="Sports Challenges">Sports Challenges</a></li>
+		<li id="menuElem_LI_0_6_1565"><a href="/FinalVersion/About-Global-Think-Test.aspx" title="About Global Think Test">About Global Think Test</a></li>
+	</ul>
+
+
+            </nav>
+        </div>	
+
+
+
+           
+       
+
+
+
+		<section id="wrap">
+          <div id="pushobj">
+			<header>
+				<section id="logo" class="twenty">
+									<a href="/finalversion/brain-training-zone.aspx"><img src="/staticimages/kaspersky-mensa-icons_01.png"></a>
+									<img src="/staticimages/kaspersky-mensa-icons_02.png" class="mensaLogo">
+				</section>
+
+				<section class="sixty">
+                  <nav>
+					
+
+<a id="baseexpand" class="menu_button menu_link" href="#" role="button">Menu</a>
+<a class="menu_button" id="help_link" href="/help.aspx">Help</a>
+<a id="brain_link" href="/finalversion/brain-training-zone.aspx"><img src="/FinalVersion/Images/brain_training_zone.aspx">
+
+                  
+               
+             
+                    
+                 
+				</a></nav><a id="brain_link" href="/finalversion/brain-training-zone.aspx">
+              </a></section><a id="brain_link" href="/finalversion/brain-training-zone.aspx">
+
+				</a><section id="buttons" class="twenty"><a id="brain_link" href="/finalversion/brain-training-zone.aspx">
+                   
+                
+                  
+
+</a><a id="p_lt_ctl04_SignOutButton1_btnSignOutLink" class="signoutLink" href="javascript:__doPostBack('p$lt$ctl04$SignOutButton1$btnSignOutLink','')">Register or Login</a>
+<br class="clear">
+<div id="menu_right">
+	<!--<a href="/help.aspx" class="help_btn">Help</a>--><a id="baseexpand3" href="#" role="button" class="menu_btn">Menu</a></div>
+
+                 </section>
+			</header>
+              <section class="middle">
+			
+				
+
+
+<section class="sidebar twenty">
+					<!--<img alt="" class="banner" src="/staticimages/challenge-small_notime_in.JPG" />
+
+
+
+-->
+  
+                    <div id="leaderboard" style="margin-top:0px">
+                        <a href="/FinalVersion/Winner-s-Page.aspx"><img alt="" class="banner" src="/Images-(1)/GTT-DAY-NEW-WINNER.aspx"></a>
+
+
+
+
+                    </div>
+                    <ul class="socials">
+						<li class="facebook"><a href="https://www.facebook.com/GlobalThinkTest">Facebook</a></li>
+						<li class="twitter"><a href="https://twitter.com/GlobalThinkTest">Twitter</a></li>
+						<li class="youtube"><a href="http://www.youtube.com/user/GlobalThinkTest">Youtube</a></li>
+                        <li class="vine"><a href="https://vine.co/GlobalThinkTest">Vine</a></li>
+                        <li class="tag"></li>
+                        <li><!-- justify --></li>
+					</ul>
+				</section>
+
+				<section id="gamearea" class="sixty registration cookie">
+					<div class="brainbackground cookie">
+                      
+						<h1>
+	Privacy Policy</h1>
+<h2>
+	We&nbsp; strongly believe that safeguarding your online privacy is our responsibility. What does this mean to you?</h2>
+<ul>
+	<li>
+		We never share or sell your personal information (including email address).</li>
+	<li>
+		Information we collect is voluntary and you determine what information you share.</li>
+	<li>
+		Any personal information you provide to us is only used to help create a better online experience for you.</li>
+	<li>
+		We will only send email if you have elected to receive email.</li>
+	<li>
+		We offer options to subscribe to various emails. You decide if you want to subscribe, and if you change your mind later, you can easily unsubscribe.</li>
+</ul>
+<div>
+	Protecting your privacy is very important to us. &nbsp;We take the protection of your personal information very seriously. This policy is intended to help you understand how we collect , use &nbsp;and safeguard the information you provide to us.&nbsp;<br>
+	<br>
+	By using or accessing this Website you signify your acknowledgment and agreement to the Privacy Policy set forth below. If you do not agree to this policy, please do not use this Website. We can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms. Please check this policy periodically for changes.&nbsp;<br>
+	<br>
+	If you browse our Website, you may generally do so anonymously without providing any personal information.&nbsp;&nbsp; <strong>Please note the position with cookies.&nbsp; We can only collect cookies if you agree.&nbsp; By continuing to use our website, that counts as your agreement to our collection of cookies.</strong><br>
+	If you have given us your explicit consent, we will provide &nbsp;opportunities for you to share personal information should you elect to participate. Examples of this include entering contests and sweepstakes, providing input to a market research study and requesting or downloading information or software. Use of information collected in these ways will be restricted to those purposes unless we explicitly ask your permission to use the information in another way. &nbsp;&nbsp;<br>
+	We&nbsp; reserve the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other &nbsp;&nbsp;users of our website , or anyone else that could be harmed by such activities. We may disclose personal information without notice to you in response to a subpoena or when we believe in good faith that the law requires it or to respond to an emergency situation.&nbsp; We do not knowingly collect or use any personal information from users under 16 years of age. If we become aware that such information has been obtained, we will delete it immediately.&nbsp;<br>
+	<br>
+	<br>
+	Please note that our Website contains links to third-party Websites. The linked sites are not under our control of, and we are not responsible for the contents or privacy practices of any linked site or any link on a linked site.&nbsp;<br>
+	&nbsp;We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize our website content and advertising to deliver a better experience to our users.</div>
+
+
+
+
+
+
+					</div>
+				</section>
+
+				<section class="sidebar twenty right">
+                    <a href="/FinalVersion/Challenge-Game.aspx"><img alt="" src="/FinalVersion/Images/challenge_1to1.aspx"></a>
+<video id="braintrainvid" style="background-color:white;" preload="none">
+	<source src="/CMSPages/GetFile.aspx?nodeguid=86a7e047-9b47-4f7a-b69e-525832520e73" type="video/webm"> <source src="/CMSPages/GetFile.aspx?nodeguid=f7aa4ed3-55aa-48fd-9248-f73e39d2aba5" type="video/mp4"> </video>
+
+
+
+
+<div id="banners" class="bannerDiv"><a id="p_lt_ctl05_pageplaceholder_p_lt_ctl03_BannerRotator_lnkBanner" class="CMSBanner Banner" href="http://www.thinksecurityguide.com/Your-Money/Banking-Safety-Online.aspx" onclick="this.href='/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=29';" onmouseup="this.href='/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=29';" target="_blank"><img id="p_lt_ctl05_pageplaceholder_p_lt_ctl03_BannerRotator_imgBanner" src="/Images-(1)/Banner-Images/360x810-tsg-banner-3.aspx" style=""></a></div>
+
+<script>
+    
+
+	var videoArray = 	{
+		'30SecVideo': {
+			file: '/Trey/Scene_8_3_2',
+			onended: ''
+		},
+		'45SecVideo': {
+			file: '/Trey/Scene_8_7',
+			onended: ''
+		},
+		'60SecVideoVariant1': {
+		    file: '/Trey/Scene_17_33',
+		    onended: ''
+		},
+		'60SecVideoVariant2': {
+		    file: '/Trey/Scene_17_34',
+		    onended: ''
+		},
+		'beginningOfGames': {
+			file: '/Trey/Scene_8_9',
+			onended: ''
+		},
+		'QuestionSolvedVideoVariant1': {
+			file: '/Trey/Scene_17_37',
+			onended: ''
+		},
+		'QuestionSolvedVideoVariant2': {
+			file: '/Trey/Scene_17_38',
+			onended: ''
+		},
+		'LastChanceVideo': {
+			file: '/Trey/Scene_17_13',
+			onended: 'TreyWalkAway()'
+		},
+		'MasteredThatChallenge1Variant1': {
+			file: '/Trey/Scene_11_7',
+			onended: 'TreyWalkAway()'
+		},
+		'MasteredThatChallenge1Variant2': {
+			file: '/Trey/Scene_11_11',
+			onended: 'TreyWalkAway()'
+		},
+		'MasteredThatChallenge2Variant1': {
+			file: '/Trey/Scene_11_6',
+			onended: 'TreyWalkAway()'
+		},
+		'MasteredThatChallenge2Variant2': {
+			file: '/Trey/Scene_11_10',
+			onended: 'TreyWalkAway()'
+		},
+		'MasteredThatChallenge3Variant1': {
+			file: '/Trey/Scene_11_8',
+			onended: 'TreyWalkAway()'
+		},
+		'MasteredThatChallenge4Variant1': {
+			file: '/Trey/Scene_11_9',
+			onended: 'TreyWalkAway()'
+		},
+		'UnluckyAnotherGoVariant2': {
+			file: '/Trey/Scene_12_1',
+			onended: 'TreyWalkAway()'
+		},
+		'UnluckyAnotherGoVariant1': {
+			file: '/Trey/Scene_12_2',
+			onended: 'TreyWalkAway()'
+		},
+		'UnluckyAnotherGoVariant3': {
+		    file: '/Trey/Scene_12_3',
+		    onended: 'TreyWalkAway()'
+		},
+		'UnluckyChangeCategoryVariant1': {
+			file: '/Trey/Scene_12_4',
+			onended: 'TreyWalkAway()'
+		},
+		'PedalToTheMetalFerrariHatVariant1': {
+			file: '/Trey/Scene_8_12',
+			onended: ''
+		},
+		'PedalToTheMetalFerrariHatVariant2': {
+			file: '/Trey/Scene_8_11',
+			onended: ''
+		},
+		'AppleBiteGameTimeVariant': {
+			file: '/Trey/Scene_8_10',
+			onended: ''
+		},
+		'CricketTimeVariant': {
+			file: '/Trey/Scene_8_9',
+			onended: ''
+		},
+		'BrainTrainingZoneWaitingVariant1': {
+			file: '/Trey/Scene_8_6',
+			onended: 'ShowBanner()'
+		},
+		'StartingOfThePuzzleVariant1': {
+			file: '/Trey/Scene_8_5',
+			onended: ''
+		},
+		'StartingOfThePuzzleVariant2': {
+			file: '/Trey/Scene_8_4',
+			onended: ''
+		},
+		'NewspaperSelectCategoryLevelPageVariant1': {
+			file: '/Trey/Scene_8_2',
+			onended: ''
+		},
+		'SachinSignedBatVariant1': {
+			file: '/Trey/Scene_8_1',
+			onended: ''
+		},
+		'TreyWalkAwayVariant1': {
+			file: '/Trey/Scene_17_35',
+			onended: ''
+		},
+		'TreyWalkAwayVariant2': {
+			file: '/Trey/Scene_17_36',
+			onended: ''
+		},
+		'VinesAndVideosSection': {
+		    file: '/Trey/Scene_7_1',
+		    onended: 'TreyWalkAway()'
+		},
+        'Leaderboards': {
+	    	file: '/Trey/Scene_6_1',
+	   		onended: 'TreyWalkAway()'
+        },
+        'AboutGTT': {
+            file: '/Trey/Scene_14_1',
+            onended: 'TreyWalkAway()'
+        },
+        'BrainTrainingZone': {
+        	file: '/Trey/Scene_3_1',
+        	onended: ''
+        },
+        'Homepage2': {
+            file: '/Trey/MT0163_01',
+            onended: ''
+        },
+        'Homepage3': {
+            file: '/Trey/MT0163_01_B',
+            onended: ''
+        },
+        'Homepage4': {
+            file: '/Trey/MT0164_01',
+            onended: ''
+        },
+        'Homepage5': {
+            file: '/Trey/MT0164_01_B',
+            onended: ''
+        },
+        'Homepage6': {
+            file: '/Trey/MT0165_01',
+            onended: ''
+        },
+        'Homepage7': {
+            file: '/Trey/MT0165_01_B',
+            onended: ''
+        },
+        'Homepage8': {
+            file: '/Trey/MT0165_01_C',
+            onended: ''
+        },
+        'Homepage9': {
+            file: '/Trey/MT0166_01',
+            onended: ''
+        },
+        'Homepage10': {
+            file: '/Trey/MT0166_01_B',
+            onended: ''
+        }
+	};
+
+	function setVideo(idx, callback) {
+		var video = document.getElementById('gameplayVideo');
+		var mainVideoContainer = document.getElementById('mainGameplayVideoDiv');
+		mainVideoContainer.style.visibility = 'hidden';
+
+
+		var source = document.getElementById('source');
+
+		if(video.canPlayType('video/mp4')) {
+			source.src = videoArray[idx].file + '.mp4';
+			source.type = 'video/mp4';
+		} else {
+			source.src = videoArray[idx].file + '.webm';
+			source.type = 'video/webm';
+		}
+
+		if(videoArray[idx].onended == '') {
+			video.onended = function() {
+				ShowBanner();
+			};
+		} else {
+			video.onended = new Function('return ' + videoArray[idx].onended + ';');
+		}
+
+		if(callback) {
+			video.onended = new Function('return ' + callback + '();');
+		}
+
+		var isMobileCookie = readCookie("isMobileDevice");
+		if (isMobileCookie == null) {
+		    video.preload = true;
+		    video.load();
+		    video.play();
+		    video.oncanplay = function () {
+		        mainVideoContainer.style.visibility = 'visible';
+		        mainVideoContainer.style.display = 'block';
+		    }
+		}
+		
+	}
+
+	function HideBanner() {
+	    jQuery('.bannerDiv').each(function() {
+	        if (jQuery.isEmptyObject(jQuery(this)) != true) {
+	            jQuery(this).hide();
+	        }
+	    });
+	}
+
+	function ShowBanner() {
+	    jQuery('.bannerDiv').each(function() {
+	        jQuery(this).show();
+	    });
+	    CloseAllVideos();
+	}
+
+	function ShowVideo(videoIDX, callback) {
+		var video = document.getElementById('gameplayVideo');
+		video.pause();
+
+		CloseAllVideos();
+
+	
+
+		var isMobileCookie = readCookie("isMobileDevice");
+		if (isMobileCookie == null) {
+		    HideBanner();
+		    setVideo(videoIDX, callback);
+		}
+	}
+
+	function ShowVideoOnly(videoIDX) {
+		var video = document.getElementById('gameplayVideo');
+		video.pause();
+		CloseAllVideos();
+		HideBanner();
+		setVideo(videoIDX);
+	}
+
+	function CloseAllVideos() {
+	    jQuery('.gameplayvideoDiv').each(function () {
+	        if (jQuery.isEmptyObject(jQuery(this)) != true);
+	        {
+	            jQuery(this).hide();
+	        }
+	    });
+
+	    jQuery('.gameplayvideo').each(function (video) {
+	        if (jQuery(this).get(0).paused === false) {
+	            jQuery(this).get(0).pause();
+	        }
+	    });
+	}
+
+	function randomise(number) {
+		return (Math.floor(Math.random() * number) + 1);
+	}
+
+	function puzzleStart() {
+	    var isMobileCookie = readCookie("isMobileDevice");
+	    if (isMobileCookie == null) {
+	        startingOfTheGame();
+	        appleBite();
+	    }
+	}
+
+	function SachinStart() {
+	    var isMobileCookie = readCookie("isMobileDevice");
+	    if (isMobileCookie == null) {
+	        startingSachin();
+	        appleBite();
+	    }
+
+	}
+
+	function startIQ() {
+	    var isMobileCookie = readCookie("isMobileDevice");
+	    if (isMobileCookie == null) {
+	        ShowVideo("SachinSignedBatVariant1");
+	    }
+    }
+
+	function startingSachin() {
+	    var isMobileCookie = readCookie("isMobileDevice");
+	    if (isMobileCookie == null) {
+	        ShowVideo("SachinSignedBatVariant1");
+	    }
+    }
+
+    function startingOfTheGame() {
+        var variant = randomise(2);
+        if (variant == 1)
+        {
+            ShowVideo("StartingOfThePuzzleVariant1");
+        } else {
+            ShowVideo("StartingOfThePuzzleVariant2");
+        }
+    }
+
+    function TreyWalkAway() {
+        var variant = randomise(2);
+        if (variant == 1) {
+            ShowVideo("TreyWalkAwayVariant1", 'ShowBanner');
+        } else {
+            ShowVideo("TreyWalkAwayVariant2", 'ShowBanner');
+        }
+    }
+
+    function firstIQRight() {
+        var variant = randomise(2);
+        if (variant == 1) {
+            ShowVideo("MasteredThatChallenge1Variant1");
+        } else {
+            ShowVideo("MasteredThatChallenge1Variant2");
+        }
+    }
+
+    function firstBrainteaserRight() {
+        var variant = randomise(2);
+        if (variant == 1) {
+            ShowVideo("MasteredThatChallenge2Variant1");
+        } else {
+            ShowVideo("MasteredThatChallenge2Variant2");
+        }
+    }
+
+    function firstQuestionWrong() {
+        var variant = randomise(3);
+        if (variant == 1) {
+            ShowVideo("UnluckyAnotherGoVariant1");
+        } else if (variant == 2) {
+            ShowVideo("UnluckyAnotherGoVariant2");
+        } else {
+            ShowVideo("UnluckyAnotherGoVariant3");
+        }
+    }
+
+    function QuestionWrong() {
+        ShowVideo("UnluckyChangeCategoryVariant1");
+    }
+
+    function QuestionRight() {
+        var variant = randomise(2);
+        if (variant == 1) {
+            ShowVideo("QuestionSolvedVideoVariant1");
+        } else {
+            ShowVideo("QuestionSolvedVideoVariant2");
+        }
+    }
+
+    function ferrariGame() {
+        var variant = randomise(2);
+        if (variant == 1) {
+            ShowVideo("PedalToTheMetalFerrariHatVariant1");
+        } else {
+            ShowVideo("PedalToTheMetalFerrariHatVariant2");
+        }
+    }
+
+    function appleBite() {
+        setTimeout(function () {
+            ShowVideo("AppleBiteGameTimeVariant");
+        }, 20000);
+    }
+
+    function cricketBall() {
+        setTimeout(function () {
+            ShowVideo("CricketTimeVariant");
+        }, 10000);
+    }
+
+    function brainTrainingZone() {
+
+        var brainTrainingVideoCookie = readCookie("brainTrainingVideoCookie");
+
+        if (brainTrainingVideoCookie == null) {
+            createCookie("brainTrainingVideoCookie");
+            ShowVideo("BrainTrainingZone");
+        }
+    }
+
+    function brainTrainingWait() {
+
+        var brainTrainWaitCookie = readCookie("brainTrainWaitCookie");
+
+        if (brainTrainWaitCookie == null) {
+            setTimeout(function () {
+                ShowVideo("BrainTrainingZoneWaitingVariant1");
+                createCookie("brainTrainWaitCookie", "true", 28);
+            }, 45000);
+        }
+    }
+
+    function brainTrainingSelectorWait() {
+        setTimeout(function () {
+            ShowVideo("NewspaperSelectCategoryLevelPageVariant1");
+        }, 30000);
+    }
+
+    function QuestionWait30() {
+        setTimeout(function () {
+            ShowVideo("30SecVideo");
+        }, 30000);
+    }
+
+    function QuestionWait45() {
+        setTimeout(function () {
+            ShowVideo("45SecVideo");
+        }, 45000);
+    }
+
+    function QuestionWait60() {
+        var videoName = "";
+        var variant = randomise(2);
+        if (variant == 1) {
+            videoName = "60SecVideoVariant1";
+        } else {
+            videoName = "60SecVideoVariant2";
+        }
+
+        setTimeout(function () {
+            ShowVideo(videoName);
+        }, 60000);
+    }
+
+    function VinesAndVideosSection() {
+
+        var vinesAndVideosCookie = readCookie("vinesAndVideosCookie");
+        if (vinesAndVideosCookie == null)
+        {
+            createCookie("vinesAndVideosCookie", "true", 28);
+            ShowVideo("VinesAndVideosSection");
+        }
+        
+    }
+
+    function Leaderboards() {
+
+        var leaderboardsCookie = readCookie("leaderboardsCookie");
+        if (leaderboardsCookie == null) {
+
+            createCookie("leaderboardsCookie", "true", 28);
+            ShowVideo("Leaderboards");
+        }
+    }
+
+    function AboutGTT() {
+
+        var aboutGTTCookie = readCookie("aboutGTTCookie");
+        if (aboutGTTCookie == null)
+        {
+            createCookie("aboutGTTCookie", "true", 28);
+            ShowVideo("AboutGTT");
+        }
+        
+    }
+
+    // Cookies
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else var expires = "";
+
+        var fixedName = '';
+            name = fixedName + name;
+
+            document.cookie = name + "=" + value + expires + "; path=/";
+        }
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+        function eraseCookie(name) {
+            createCookie(name, "", -1);
+        }
+    
+</script>
+
+<div class="gameplayvideoDiv" id="mainGameplayVideoDiv">
+	<video id="gameplayVideo" style="background-color:white;width:100%;" preload="none" poster="/FinalVersion/Images/trey-poster.aspx">
+		<source id="source" type="video/webm">
+	</video>
+</div>
+                  <img class="thinkaboutit_logo" src="/Images/Site/thinkAboutLogo.aspx">
+				</section>
+
+<br class="clear">
+
+
+              </section>
+
+			<footer>
+              <section class="twenty">
+                    
+				</section>
+								<section class="sixty" id="copy">
+                    <p>
+	© &nbsp;<script type="text/javascript">var theDate=new Date();document.write(theDate.getFullYear())</script>2020&nbsp;Kaspersky Lab. All rights reserved. | <a href="/Privacy-Policy.aspx"> Privacy Policy</a> | <a href="/Terms-of-Use.aspx">Terms and Conditions</a> | <a href="/Cookie-Policy.aspx">Cookie Policy</a></p>
+
+
+
+
+
+              </section>
+
+				<section class="twenty">
+					
+				</section>
+			</footer>
+           </div>
+		</section>
+
+
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+        <script src="/CMSScripts/Custom/GTT/jquery.multilevelpushmenu.min.js"></script>
+        <script type="text/javascript" src="/CMSScripts/Custom/GTT/fullexpandcollapse.js"></script>
+        <script src="/CMSScripts/Custom/GTT/muteTrey.js"></script>
+<script language="javascript">
+  function shareViaEmail() {
+    var ele = document.getElementById("ShareViaEmail");
+    if(ele.style.display != "block") {
+      ele.style.display = "block";
+    }
+  }
+</script>
+
+
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+
+
+</body></html>
