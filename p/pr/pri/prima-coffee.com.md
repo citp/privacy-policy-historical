@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232649id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923104815id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
 
 # Prima Coffee Equipment's Privacy Policy | Prima Coffee
 
@@ -55,14 +55,18 @@ There you go, that’s it, but if you have any questions regarding this privacy 
 Phone: (888) 837-7892  
 Email: [sales@prima-coffee.com](mailto:sales@prima-coffee.com)
 
- **Prima Coffee**  
-4603 Poplar Level Rd   
-Louisville, KY 40213
+**Prima Coffee 4603 Poplar Level Rd  
+Louisville, KY 40213  
+**
+
+**
 
 ### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 **This policy was last modified on _June 12, 2012_**
+
+**
   *[Phone:]: phone
   *[Email:]: email
