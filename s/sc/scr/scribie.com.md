@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525203541id_/http%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923030116id_/https%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
