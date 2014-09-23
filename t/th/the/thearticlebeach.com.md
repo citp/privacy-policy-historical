@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearticlebeach.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511105216id_/http%3A//thearticlebeach.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticlebeach.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923130126id_/http%3A//thearticlebeach.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy TheArticleBeach.com you're number one place for free articles.
 
