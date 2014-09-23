@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rss2search.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106144538id_/http%3A//www.anchorfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rss2search.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923092415id_/http%3A//www.anchorfree.com/privacy) for the most accurate reproduction.*
 
 # AnchorFree Hotspot Shield Privacy & Security Policy - Get behind the Shield
 
