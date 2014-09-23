@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629131014id_/http%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923080146id_/http%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Creativebug - Craft Classes & Workshops - What will you make today?
 
-Creativebug, Inc.  
+Creativebug, LLC  
 www.creativebug.com  
 Website Privacy Policy  
-Revised as of October 8, 2013 
+Revised as of July 15, 2014 
 
 ## Introduction
 
-Welcome to the www.creativebug.com network of websites and Applications (the “Site”) of Creativebug, a Demand Media property (“Creativebug,” also referred to herein as “us,” “we” and “our”). Thank you for your interest in using our services (“Services”) and tangible products (separately, “Products,” and collectively “Offerings”).
+Welcome to the www.creativebug.com network of websites and Applications (the “Site”) of Creativebug (“Creativebug,” also referred to herein as “us,” “we” and “our”). Thank you for your interest in using our services (“Services”) and tangible products (separately, “Products,” and collectively “Offerings”).
 
 We have created this privacy policy (“Privacy Policy’) to demonstrate our commitment to the privacy of visitors to our Site and our registered users.
 
@@ -19,7 +19,7 @@ BY USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF
 
 ## A Special Notice About Children
 
-Children (under the age of 18) are not eligible to use the Site. In any event, children should not submit any PII to us. If you are under the age of 18, you may not use the Site or any of our Offerings. We abide by the United States Children’s Online Privacy Protection Act (“COPPA”) and do not knowingly solicit or collect personally identifiable information from children younger than age thirteen (13). If a parent or guardian becomes aware that his or her child has provided us with PII without their consent, he or she should contact us at [legal@demandmedia.com](mailto:legal@demandmedia.com).
+Children (under the age of 18) are not eligible to use the Site. In any event, children should not submit any PII to us. If you are under the age of 18, you may not use the Site or any of our Offerings. We abide by the United States Children’s Online Privacy Protection Act (“COPPA”) and do not knowingly solicit or collect personally identifiable information from children younger than age thirteen (13). If a parent or guardian becomes aware that his or her child has provided us with PII without their consent, he or she should contact us at [legal@creativebug.com](mailto:legal@creativebug.com).
 
 ## General
 
@@ -47,7 +47,7 @@ However, neither people nor security systems are foolproof, including encryption
 
 ## Sharing your information with third parties
 
-We respect the privacy interests of our registered users. Consequently, as of the Revision Date shown above, Creativebug does not rent, sell or exchange PII to others for marketing purposes without your express, affirmative consent (e.g., by “opting in”). If you do so consent, registered users of the Site who are California residents may request certain information regarding the Company’s disclosure of personal information to third parties for their direct marketing purposes by writing to [legal@demandmedia.com](mailto:legal@demandmedia.com)
+We respect the privacy interests of our registered users. Consequently, as of the Revision Date shown above, Creativebug does not rent, sell or exchange PII to others for marketing purposes without your express, affirmative consent (e.g., by “opting in”). If you do so consent, registered users of the Site who are California residents may request certain information regarding the Company’s disclosure of personal information to third parties for their direct marketing purposes by writing to [legal@creativebug.com](mailto:legal@creativebug.com)
 
 We may share your personal information with our affiliates, partners and with third-party independent contractors such as unaffiliated service providers, possibly including third parties that reside in jurisdictions with less restrictive data laws than your own jurisdiction, for purposes that include: (i) hosting the Site; (ii) approving and enabling your use of the Site and use or purchase of our Offerings, and performing other functions on our behalf; (iii) providing you with our own service or product offers; and (iv) tracking information generated through the Site. Our partners and third-party independent contractors are obligated contractually not to use or share your personal information for unauthorized purposes. This means we generally restrict access to PII to our qualified employees and agents with a need to know in order to perform their respective duties. (Our “agents” may include third-party service providers.) 
 
@@ -61,7 +61,7 @@ If you would like to modify your PII on our database, please log onto your accou
 
 Where you make use of the social networking and online features of the Site to share information with other individuals on the Site (such as but not limited to submitting comments or questions via feedback, posting photos or other materials on the Site, or submitting an entry to a contest or poll) it may not be possible or practical for us to remove such communications and materials or any associated PII, and such communications, materials, and information may persist, including on third-party computers and other media.
 
-Any questions you may have regarding this Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [legal@demandmedia.com](mailto:legal@demandmedia.com).
+Any questions you may have regarding this Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [legal@creativebug.com](mailto:legal@creativebug.com).
 
 ## Use of Technology
 
@@ -99,8 +99,8 @@ We may amend this Privacy Policy at any time. If we make any material changes in
 
 ## Contacting Creativebug
 
-If you have any questions about this Privacy Policy, or your dealings with this Site, please contact us by emailing [legal@demandmedia.com](mailto:legal@demandmedia.com)
+If you have any questions about this Privacy Policy, or your dealings with this Site, please contact us by emailing [legal@creativebug.com](mailto:legal@creativebug.com)
 
 ## Effective Date and Changes
 
-This Privacy Policy is updated as of October 8, 2013. We reserve the right to modify the terms of this Privacy Policy at any time and in our sole discretion, as described above. YOUR CONTINUED USE OF THE SITE AFTER WE CHANGE OUR PRIVACY POLICY WILL CONSTITUTE BINDING ACCEPTANCE OF THOSE CHANGES AS SET FORTH ABOVE.
+This Privacy Policy is updated as of July 15, 2014. We reserve the right to modify the terms of this Privacy Policy at any time and in our sole discretion, as described above. YOUR CONTINUED USE OF THE SITE AFTER WE CHANGE OUR PRIVACY POLICY WILL CONSTITUTE BINDING ACCEPTANCE OF THOSE CHANGES AS SET FORTH ABOVE.
