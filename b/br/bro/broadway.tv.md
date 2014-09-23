@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadway.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102806id_/http%3A//www.broadway.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.tv privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923095232id_/http%3A//broadway.tv/privacy) for the most accurate reproduction.*
 
-# Privacy | Broadway.TV
+# Privacy - Broadway.TV
 
 This privacy policy applies to your use of the Broadway.tv website and its applications for mobile devices (collectively, the “Site”), but does not apply to any third party sites that are linked to them, or any relationships you may maintain with the businesses on the Site.
 
