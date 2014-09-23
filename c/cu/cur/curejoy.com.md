@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the curejoy.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603221256id_/http%3A//www.curejoy.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curejoy.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923195458id_/http%3A//www.curejoy.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # CureJoy Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Policy governs the manner in which Blissk Inc collects, uses, maintains and discloses information collected from users (each, a "User") of [www.curejoy.com](http://www.curejoy.com/)� website ("Site"). The website www.curejoy.com is a property of Blissk Inc. This privacy policy applies to the Site and all products and services offered by Blissk Inc.
+This Privacy Policy governs the manner in which CureJoy Inc collects, uses, maintains and discloses information collected from users (each, a "User") of [www.curejoy.com](http://www.curejoy.com/)� website ("Site"). The website www.curejoy.com is a property of CureJoy Inc. This privacy policy applies to the Site and all products and services offered by CureJoy Inc.
 
 **Personal identification information**
 
@@ -76,15 +76,15 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**Blissk Inc**
+**CureJoy Inc**
 
 **1325 Howard Ave # 419**
 
 **Burlingame, California� 94010-4212**
 
-**+91 9945433100**
+**+1 (415) 230 0005**
 
-**Contact@blissk.com**
+**support@curejoy.com**
 
 **www.curejoy.com**
 
