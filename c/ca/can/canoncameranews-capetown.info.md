@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canoncameranews-capetown.info privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613094608id_/http%3A//www.canoncameranews-capetown.info/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canoncameranews-capetown.info privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923064743id_/http%3A//www.canoncameranews-capetown.info/p/privacy.html) for the most accurate reproduction.*
 
 # Canon Camera News Cape Town: Privacy
 
