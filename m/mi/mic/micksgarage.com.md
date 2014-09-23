@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174213id_/http%3A//www.micksgarage.com/about/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micksgarage.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923115755id_/http%3A//www.micksgarage.com/about/privacy-statement.aspx) for the most accurate reproduction.*
 
 # MicksGarage - Privacy and Security
 
