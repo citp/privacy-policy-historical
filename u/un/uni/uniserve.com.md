@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205223734id_/http%3A//www.uniserve.com%3Fpage%3Dabout/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923103749id_/http%3A//www.uniserve.com/about/index.php%3Fpage%3D9) for the most accurate reproduction.*
 
-# Uniserve - About Us - Privacy Policy
+# Uniserve Communications - Residential, Business Internet and digital home phone service | uniserve.com
 
-Personal Information Protection and Electronic Documents Act  
-(Statutes of Canada 2000, Chapter 5)   
+## Uniserve Privacy Policy
+
+### Personal Information Protection and Electronic Documents Act
+
+(Statutes of Canada 2000, Chapter 5)
+
 Includes: CSA Model Code for the Protection of Personal Information (CAN/CSA-Q830-96) 
 
-**The Uniserve Privacy Code has been published to reflect the changes associated with the implementation of the new legislation referred to above.**
+The Uniserve Privacy Code has been published to reflect the changes associated with the implementation of the new legislation referred to above. 
 
-Table of Contents  
+### Table of Contents
+
 Introduction  
 Summary of Principles  
 Scope and Application   
@@ -21,9 +26,10 @@ Principle 6 : Accuracy
 Principle 7 : Safeguards  
 Principle 8 : Openness  
 Principle 9 : Customer and Employee Access  
-Principle 10 : Challenging Compliance
+Principle 10 : Challenging Compliance 
 
-The Uniserve Privacy Code in Detail  
+### The Uniserve Privacy Code in Detail
+
 1\. Accountability  
 2\. Identifying Purposes  
 3\. Consent  
@@ -33,14 +39,15 @@ The Uniserve Privacy Code in Detail
 7\. Safeguards 8  
 8\. Openness 8  
 9\. Customer and Employee Access 9  
-10\. Challenging Compliance10
+10\. Challenging Compliance 10 
 
-Introduction  
-Uniserve is an Internet Service Provider providing a full range of Internet services primarily to British Columbia and other provinces in Canada. For Uniserve, customer and employee privacy is a high priority. We have a long-standing policy of protecting the privacy of customers in all of our business operations. Federal Government Statute dictates that private sector organizations must follow a standardized code for the protection of personal information. Businesses, consumers, academics and government under the auspices of the Canadian Standards Association developed the code - _the Personal Information Protection and Electronic Documents Act_ ("the Act"). It lists 10 principles of fair information practices, which form ground rules for the collection, use and disclosure of personal information. These principles give individuals control over how their personal information is handled in the private sector. Uniserve is a strong believer in the objectives and goals of the Code and this policy paper sets out how we will adhere to the principles set down in the Code.
+### Introduction
+
+Uniserve is an Internet Service Provider providing a full range of Internet services primarily to British Columbia and other provinces in Canada. For Uniserve, customer and employee privacy is a high priority. We have a long-standing policy of protecting the privacy of customers in all of our business operations. Federal Government Statute dictates that private sector organizations must follow a standardized code for the protection of personal information. Businesses, consumers, academics and government under the auspices of the Canadian Standards Association developed the code – the Personal Information Protection and Electronic Documents Act ("the Act"). It lists 10 principles of fair information practices, which form ground rules for the collection, use and disclosure of personal information. These principles give individuals control over how their personal information is handled in the private sector. Uniserve is a strong believer in the objectives and goals of the Code and this policy paper sets out how we will adhere to the principles set down in the Code. 
 
 We believe that an organization is responsible for the protection of personal information and the fair handling of it at all times, throughout the organization and in dealings with third parties. Care in collecting, using and disclosing personal information is essential to continued employee and consumer confidence and good will. 
 
-The **10 principles** that businesses must follow are: 
+The 10 principles that businesses must follow are: 
 
   1. Accountability 
   2. Identifying purposes 
@@ -51,46 +58,48 @@ The **10 principles** that businesses must follow are:
   7. Safeguards 
   8. Openness 
   9. Customer and employee access 
-  10. Challenging compliance
+  10. Challenging compliance 
 
 
 
-Scope and Application  
-The ten principles, which form the basis of the Uniserve Privacy Code, are interrelated and Uniserve adheres to the ten principles as a whole. Each principle must be read in conjunction with the accompanying commentary. As permitted by the Act, the commentary in the Uniserve Privacy Code has been tailored to reflect personal information issues specific to Uniserve. 
+### Scope and Application
 
-The scope and application of the Uniserve Privacy Code are as follows:  
+The ten principles, which form the basis of the Uniserve Privacy Code, are interrelated and Uniserve adheres to the ten principles as a whole. Each principle must be read in conjunction with the accompanying commentary. As permitted by the Act, the commentary in the Uniserve Privacy Code has been tailored to reflect personal information issues specific to Uniserve.
 
+The scope and application of the Uniserve Privacy Code are as follows: 
 
-  1. The Code applies to personal information about Uniserve's customers and employees that is collected, used, or disclosed by Uniserve. 
+  1. The Code applies to personal information about Uniserve’s customers and employees that is collected, used, or disclosed by Uniserve. 
   2. The Code applies to the management of personal information in any form whether oral, electronic or written. 
   3. The Code does not impose any limits on the collection, use or disclosure of the following information by Uniserve: 
 
-a. A customer's name, address, telephone number and e-mail address, when listed in a directory or available through directory assistance; 
+a. A customer’s name, address, telephone number and e-mail address, when listed in a directory or available through directory assistance; 
 
-b. An employee's name, title, business address (including e-mail address) or business telephone or fax number; or 
+b. An employee’s name, title, business address (including e-mail address) or business telephone or fax number; or 
 
 c. Other information about the customer or employee that is publicly available and is specified by regulation pursuant to the Personal Information Protection and Electronic Documents Act. 
 
-  4. The Code does not apply to information regarding Uniserve's corporate customers. However, such information is protected by other Uniserve policies and practices and through contractual arrangements.
+  4. The Code does not apply to information regarding Uniserve’s corporate customers. However, such information is protected by other Uniserve policies and practices and through contractual arrangements. 
   5. The application of the Uniserve Privacy Code is subject to the requirements and provisions of Part 1 of the Act, the regulations enacted thereunder, and any other applicable legislation or regulations, including any applicable regulations of the Canadian Radio-television and Telecommunications Commission. 
 
 
 
-The Uniserve Privacy Code in Detail **1\. Be accountable.**
+### The Uniserve Privacy Code in Detail
 
-Our responsibilities include:  
+1\. Be accountable. 
 
+Our responsibilities include:
 
-  1. Complying with all 10 of the above principles. 
-  2. Appointing an individual (or individuals) to be responsible for our organization's compliance with the Code. 
+  1. Complying with all 10 of the above principles.  
+ 
+  2. Appointing an individual (or individuals) to be responsible for our organization’s compliance with the Code. 
   3. Protecting all personal information in our possession or transferred to a third party for processing. 
   4. Developing and implementing personal information policies and practices. 
 
 
 
-We will fulfill these responsibilities by:
+We will fulfill these responsibilities by: 
 
-> A. Giving our designated privacy official senior management support and the authority to intervene on privacy issues relating to any of our organization's operations.
+> A. Giving our designated privacy official senior management support and the authority to intervene on privacy issues relating to any of our organization’s operations.
 > 
 > B. Communicating the name or title of this individual internally and externally (e.g. on our web sites and in our publications).
 > 
@@ -99,8 +108,9 @@ We will fulfill these responsibilities by:
 > (a) What personal information do we collect?  
 >  (b) Why do we collect it?   
 >  (c) How do we collect it?  
->  (d) What do we use it for?  
->  (e) Where do we keep it?  
+>  (d) What do we use it for?
+> 
+> (e) Where do we keep it?  
 >  (f) How is it secured?  
 >  (g) Who has access to or uses it?  
 >  (h) To whom is it disclosed?  
@@ -113,8 +123,9 @@ We will fulfill these responsibilities by:
 >  (c) Limiting its collection, use and disclosure,   
 >  (d) Ensuring information is correct, complete and current,  
 >  (e) Ensuring adequate security measures,  
->  (f) Developing and updating retention and destruction timetables,  
->  (g) Processing access requests, and  
+>  (f) Developing and updating retention and destruction timetables,
+> 
+> (g) Processing access requests, and  
 >  (h) Responding to inquiries and complaints.
 > 
 > E. Including a privacy protection clause in contracts to guarantee that the third party provides the same level of protection as your organization does.
@@ -123,15 +134,14 @@ We will fulfill these responsibilities by:
 > 
 > G. Making information explaining these policies and procedures available to clients and customers (e.g. in brochures and on web sites). 
 
-**2\. Identify the purpose.**
+2\. Identify the purpose.
 
-Our responsibilities include:  
+Our responsibilities include: 
 
-
-  1. Before or when any personal information is collected, identifying why it is needed and how it will be used.
+  1. Before or when any personal information is collected, identifying why it is needed and how it will be used. 
   2. Documenting why the information is collected. 
   3. Informing the individual from whom the information is collected why it is needed. 
-  4. Identifying any new purpose for the information and obtaining the individual's consent before using it. 
+  4. Identifying any new purpose for the information and obtaining the individual’s consent before using it. 
 
 
 
@@ -141,8 +151,9 @@ We will fulfil these responsibilities by:
 > 
 > B. Notifying the individual, either orally or in writing, of these purposes which could include: 
 >
->> (a) Opening an account   
->  (b) Verifying creditworthiness  
+>> (a) Opening an account 
+>> 
+>> (b) Verifying creditworthiness  
 >  (c) Providing benefits to employees  
 >  (d) Identifying customer preferences
 > 
@@ -152,17 +163,16 @@ We will fulfil these responsibilities by:
 > 
 > E. Ensuring that these purposes are limited to what a reasonable person would expect under the circumstances.
 
-**3\. Obtain consent.**
+3\. Obtain consent.
 
-Our responsibilities include:  
-
+Our responsibilities include: 
 
   1. 1\. Informing the individual in a meaningful way of the purposes for the collection, use or disclosure of personal data. 
-  2. Obtaining the individual's consent before or at the time of collection, as well as when a new use is identified. 
+  2. Obtaining the individual’s consent before or at the time of collection, as well as when a new use is identified. 
 
 
 
-We will fulfil these responsibilities by:
+We will fulfil these responsibilities by: 
 
 > A. Obtaining consent from the individual whose personal information is collected, used or disclosed. 
 > 
@@ -176,20 +186,18 @@ We will fulfil these responsibilities by:
 > 
 > F. Explaining to individuals the implications of withdrawing their consent. 
 > 
-> G. Ensuring that employees collecting personal information are able to answer an individual's questions about the purposes of the collection. 
+> G. Ensuring that employees collecting personal information are able to answer an individual’s questions about the purposes of the collection. 
 
-**4\. Limit collection.**
+4\. Limit collection.
 
-Our responsibilities include:  
-
+Our responsibilities include: 
 
   1. Not collecting personal information indiscriminately. 
   2. Not deceiving or misleading individuals about the reasons for collecting personal information. 
 
 
 
-We will fulfil these responsibilities by:   
-
+We will fulfil these responsibilities by: 
 
 > A. Limiting the amount and type of the information gathered to what is necessary for the identified purposes such as those set out in 2(B) above. Uniserve would ordinarily collect personal information only from its customers or employees, but it may also include other sources such as Credit Bureaus, employers, or personal references. 
 > 
@@ -197,10 +205,9 @@ We will fulfil these responsibilities by:
 > 
 > C. Ensuring that staff members can explain why the information is needed. 
 
-**5\. Limit use, disclosure and retention.**
+5\. Limit use, disclosure and retention.
 
-Our responsibilities include:  
-
+Our responsibilities include: 
 
   1. Using or disclosing personal information only for the purpose for which it was collected, unless the individual consents, or the use or disclosure is authorized by the Act. This would include disclosing personal information about employees in the context of providing references in response to requests from prospective employers. 
   2. Keeping personal information only as long as necessary to satisfy the purposes. 
@@ -222,10 +229,9 @@ We will fulfil these responsibilities by:
 > 
 > E. Establishing policies setting out the types of information that need to be updated such as addresses or telephone numbers. 
 
-**6\. Be accurate.**
+6\. Be accurate.
 
-Our responsibilities include:   
-
+Our responsibilities include: 
 
   1. Minimizing the possibility of using incorrect information when making a decision about the individual or when disclosing information to third parties.
 
@@ -239,10 +245,9 @@ We will fulfil these responsibilities by:
 > 
 > C. Keeping frequently used information accurate and up to date unless there are clearly set out limits to this requirement. 
 
-**7\. Use appropriate safeguards.**
+7\. Use appropriate safeguards.
 
-Our responsibilities include:  
-
+Our responsibilities include:
 
   1. Protecting personal information against loss or theft regardless of the format in which it is held. 
   2. Safeguarding the information from unauthorized access, disclosure, copying, use or modification. 
@@ -267,7 +272,7 @@ We will fulfil these responsibilities by:
 > 
 > E. Reviewing and updating security measures regularly. 
 
-**8\. Be open.**
+8\. Be open.
 
 Our responsibilities include:
 
@@ -276,14 +281,13 @@ Our responsibilities include:
 
 
 
-We will fulfil these responsibilities by:  
-
+We will fulfil these responsibilities by: 
 
 > A. Ensuring front-line staff is familiar with the procedures for responding to individual inquiries. 
 > 
 > B. Making the following available: 
 >
->> a. Name, title, and address of the person who is accountable for our organization's privacy policies and practices. 
+>> a. Name, title, and address of the person who is accountable for our organization’s privacy policies and practices. 
 >> 
 >> b. Name, title, and address of the person to who access requests should be sent. 
 >> 
@@ -291,14 +295,13 @@ We will fulfil these responsibilities by:
 >> 
 >> d. Information as to how an individual can complain to our organization. 
 >> 
->> e. Brochures or other information that explain our organization's policies, standards or codes. 
+>> e. Brochures or other information that explain our organization’s policies, standards or codes. 
 >> 
 >> f.  A description of what personal information is made available to other organizations (including subsidiaries) and why it is disclosed. 
 
-**9\. Give individuals access.**
+9\. Give individuals access.
 
-Our responsibilities include:  
-
+Our responsibilities include: 
 
   1. When requested, informing individuals if we have any personal information about them. 
   2. Explaining how it is or has been used and providing a list of the sort of organizations to which it might have been disclosed. 
@@ -321,13 +324,13 @@ f.  If the information was collected in relation to an investigation of a breac
 
 
 
-We will fulfil these responsibilities by:
+We will fulfil these responsibilities by: 
 
 > A. Providing any help the individual needs to prepare a request for access to personal information 
 > 
 > B. Asking the individual to supply enough information to enable us to account for the existence, use and disclosure of personal information. 
 > 
-> C. Responding to the request as quickly as possible and no later than 30 days after receipt of the request - 60 days under some circumstances including:- 
+> C. Responding to the request as quickly as possible and no later than 30 days after receipt of the request – 60 days under some circumstances including:- 
 >
 >> a. If responding to the request within the original 30 days would unreasonably interfere with activities of our organization. 
 >> 
@@ -345,21 +348,20 @@ We will fulfil these responsibilities by:
 > 
 > H. Informing the individual in writing when refusing to give access, setting out the reasons and any recourse available. 
 
-**10\. Challenging compliance.**
+10\. Challenging compliance.
 
-Our responsibilities include:  
-
+Our responsibilities include: 
 
   1. Developing simple and easily accessible complaint procedures. 
-  2. Informing complainants of avenues of recourse. These include our organization's own complaint procedures, those of industry associations, regulatory bodies, and the Privacy Commissioner of Canada. 
-  3. Investigating all complaints received. 
+  2. Informing complainants of avenues of recourse. These include our organization’s own complaint procedures, those of industry associations, regulatory bodies, and the Privacy Commissioner of Canada. 
+  3. Investigating all complaints received. 
   4. Taking appropriate measures to correct information handling practices and policies. 
 
 
 
-We will fulfil these responsibilities by:
+We will fulfil these responsibilities by: 
 
-> A. Recording the date a complaint is received and the nature of the complaint including such things as: - 
+> A. Recording the date a complaint is received and the nature of the complaint including such things as: – 
 >
 >> a. Delays in responding to a request. 
 >> 
