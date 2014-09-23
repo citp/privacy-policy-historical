@@ -1,21 +1,20 @@
-<!--The following is the downloaded HTML source of the caliente.com privacy policy that was archived on 2014-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140316053547id_/http%3A//www.caliente.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caliente.com privacy policy that was archived on 2014-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140923071226id_/http%3A//www.caliente.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Latin Dating Site - Meet Hispanic and Latin Singles on Caliente.com</title>
         <meta name="description" content="The best latino and latina dating site to meet men and women looking for amor y besos. Browse our members and hook up with other hispanic singles.">
-        <meta name="keywords" content="latina,latino,latin,dating,personals,meet,hookup,men,women,hispanic,amigos,single,flirt,date,sexy,amor,love">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="google-site-verification" content="KAPdH8KrFTjW4QTUWjG206nNvV1EwGSoW_cNsflc-es">
-                <link rel="icon" href="http://mediap.gpnfiles.com/caliente/images/favicon.ico" type="image/x-icon">
-        <link rel="shortcut icon" href="http://mediap.gpnfiles.com/caliente/images/favicon.ico" type="image/x-icon">
-		<link rel="stylesheet" type="text/css" href="/css/1393513202/global.css">
+                <link rel="icon" href="http://mediap.gpnfiles1.com/caliente/images/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="http://mediap.gpnfiles1.com/caliente/images/favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="/css/1400076062/global.css">
 <link rel="stylesheet" type="text/css" href="/css/1379516101/public.css">
         <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/1337121121/ie7styles.css">
 <![endif]-->
         <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/1323109021/ie6styles.css">
 <![endif]-->
-        <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/1385568721/framework.js"></script>
+        <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/1401996122/framework.js"></script>
 	<!--[if gt IE 8]><!--><script type="text/javascript" src="/js/1323881941/swfobject.js"></script>
 <!--<![endif]-->
         <script type="text/javascript" src="/js/1323881941/language.js"></script>
@@ -57,164 +56,111 @@
             
    
  
- <div id="header_wrap">
-  <div id="header">
-  
-	  
-    	<a id="logo" class="ml_logo" href="/"><img class="no_hover" src="http://mediap.gpnfiles.com/caliente/images/logo.png" border="0"></a>
-    
-    	<div id="header_links">
-		
-        	
-          <div id="home_login_panel" class="group">
-           <form action="/public/login" method="post" name="login_form">
-        		<input type="hidden" value="login" name="process">
-                
-                <input id="email" type="text" name="email" value="Email" class="txt">
-			    <input id="password-clear" type="text" value="Password" autocomplete="off" class="txt">
-    			<input id="password-password" type="password" name="password" value="" autocomplete="off" class="txt" style="display:none">
-                
-                <label for="remember_me" id="remember">
-               		<input class=" check" type="checkbox" name="remember_me">	remember me               </label>
-                       
-        	   <input type="submit" value="Login" name="login_form" class="btn_login">
-        	   <span class="forgot"><a href="/public/forgotpassword" class="h">forgot your password?</a></span>
-        </form>
-        <div class="cl"></div>
-      </div><!--home_login_panel end-->
-      
+         <div class="caliente">
+			        <section id="login-top" class="np clearfix">
+            <div class="container">
+                <div class="col-md-12">
+                    <form action="/public/login" method="post" name="login_form" class="form-inline home_form" role="form">
+                        <input type="hidden" value="login" name="process">
+                        <input type="hidden" value="" name="io_bb" id="io_bb">
+
+                                                    <div class="form-group">
+                                <label class="control-label sr-only" for="login">Email</label>
+                                <input class="form-control" type="email" id="email" name="email" placeholder="Email">
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label sr-only" for="password">Password</label>
+                                 <input id="password-password" class="form-control" type="password" name="password" value="" autocomplete="off" placeholder="Password">
+                            </div>
+                            <button type="submit" class="btn btn-default">Ok</button>
+                            <div class="form-group">
+                                <label class="control-label">
+                                    <input class=" check" type="checkbox" name="remember_me"> Remember                                </label>
+                            </div>
+                            <div class="form-group">
+                                <a href="/public/forgotpassword">forgot your password?</a>
+                            </div>
+                                            </form>
+                </div>
+            </div>
+        </section>
+
+        <script>
+            var emailDefaultValue = language['email_label'];
+
+            $('#email').focus(function() {
+                    if(this.value == emailDefaultValue) {
+                        this.value = '';
+                    }
+                }).blur(function() {
+                    if(this.value == '') {
+                        this.value = emailDefaultValue;
+                    }
+                });
+
+            if($('#email').val()=='') $('#email').val(emailDefaultValue);
+        </script>
+        <link href="/css/home.css" rel="stylesheet" type="text/css">
+        
+
+    <section id="menu-container">
+        <div class="container">
+
+          <nav class="navbar navbar-inverse" role="navigation">
+              <div class="container">
+
+                <div class="navbar-header">
+                  <a class="navbar-brand" href="/"><img class="no_hover" src="http://mediap.gpnfiles1.com/caliente/images/logo.png" border="0"></a>
+                </div>
+
+                <div class="navbar-collapse">
+                  <ul class="nav navbar-nav">
+
+                                          <li class="dropdown active">
+                                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home<b class="caret"></b></a>
+                             <ul class="dropdown-menu" role="menu">
+                              <li><a href="http://www.caliente.com/public/register">My Home</a></li>
+                              <li><a href="http://www.caliente.com/public/register">Edit Profile</a></li>
+                              <li><a href="http://www.caliente.com/public/register">Add Photos</a></li>
+                            </ul>
+                      </li>
+
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Search<b class="caret"></b></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="http://www.caliente.com/public/register">Search Members</a></li>
+                            <li><a href="http://www.caliente.com/public/register">Browse</a></li>
+                            <li><a href="http://www.caliente.com/public/register">New Locals</a></li>
+                            <li><a href="http://www.caliente.com/public/register">Online Now</a></li>
+                        </ul>
+                      </li>
+
+                      <li><a href="http://www.caliente.com/public/register">Online Now</a></li>
+                      <li><a href="http://www.caliente.com/public/register">New Locals</a></li>
+                                            <li><a href="http://www.caliente.com/public/register">Galleries</a></li>
+					  <li><a href="/public/safety">Safety</a></li>
+					  <li><a href="/public/tour">Tour</a></li>
+
+                  </ul>
+                </div><!-- /.navbar-collapse -->
+              </div><!-- /.container-fluid -->
+            </nav>
+
+
+
+        </div>
+    </section>
     </div>
-    
-      
-      <div class="cr"></div>
-      <div id="menu_wrap">
-        <ul id="menu">
-                        <li class="active"><a href="http://www.caliente.com/public/register">Home<img class="menu_arrow" src="http://mediap.gpnfiles.com/caliente/images/pixel.gif"></a>
-                    <div class="cl"></div>
-              <ul>
-                  <li class="corner"><img class="menu_tl" src="http://mediap.gpnfiles.com/caliente/images/menu_tl.png"><div class="menu_mid_top"></div><img class="menu_tr" src="http://mediap.gpnfiles.com/caliente/images/menu_tr.png"></li>
-                  <li class="top"><span><a href="http://www.caliente.com/public/register">My Home</a></span></li>
-                  <li><span><a href="http://www.caliente.com/public/register">Edit Profile</a></span></li>
-                  <li class="bot"><a href="http://www.caliente.com/public/register">Add Photos</a></li>
-                  <li class="corner"><img class="menu_bl" src="http://mediap.gpnfiles.com/caliente/images/menu_bl.png"><div class="menu_mid_bot"></div><img class="menu_br" src="http://mediap.gpnfiles.com/caliente/images/menu_br.png"></li>
-              </ul>
-          </li>
-      
-          <li><a href="http://www.caliente.com/public/register">Search<img class="menu_arrow" src="http://mediap.gpnfiles.com/caliente/images/pixel.gif"></a>
-          <div class="cl"></div>
-              <ul>
-                  <li class="corner"><img class="menu_tl" src="http://mediap.gpnfiles.com/caliente/images/menu_tl.png"><div class="menu_mid_top"></div><img class="menu_tr" src="http://mediap.gpnfiles.com/caliente/images/menu_tr.png"></li>
-                  <li class="top"><span><a href="http://www.caliente.com/public/register">Search Members</a></span></li>
-                  <li><span><a href="http://www.caliente.com/public/register">Browse</a></span></li>
-                  <li><span><a href="http://www.caliente.com/public/register">New Locals</a></span></li>
-                  <li class="bot"><a href="http://www.caliente.com/public/register">Online Now</a></li>
-                  <li class="corner"><img class="menu_bl" src="http://mediap.gpnfiles.com/caliente/images/menu_bl.png"><div class="menu_mid_bot"></div><img class="menu_br" src="http://mediap.gpnfiles.com/caliente/images/menu_br.png"></li>
-              </ul>
-          </li>
-          <li><a href="http://www.caliente.com/public/register">Online Now</a></li>
-          <li><a href="http://www.caliente.com/public/register">New Locals</a></li>
-                    <li><a href="http://www.caliente.com/public/register">Galleries</a></li>
-        
-                    
-          <li id="now_on_mobile">
-          	<a href="https://itunes.apple.com/us/app/caliente-latin-dating-spanish/id682018891?ls=1&amp;mt=8"><img src="http://mediap.gpnfiles.com/caliente/images/appstore_small.png"></a>
-          	<a href="https://play.google.com/store/apps/details?id=com.globalpersonalsmedia.caliente"><img src="http://mediap.gpnfiles.com/caliente/images/googleplay_small.png"></a>
-
-          </li>
-        
-          <!--<li><a href="http://www.caliente.com/public/register">Live Cams</a></li>-->
-       </ul>
-       
-       
-       </div><!--menu_wrap end-->
-
-   <ul id="languages">
-					<span class="group" style="cursor: pointer;"><img class="fl lang" src="http://media.gpnfiles.com/images/flag_us.gif" width="18" height="12">English</span><ul id="languages_chooser">        			<li><a href="" onclick="changeLanguage('es');return false;"><img src="http://media.gpnfiles.com/images/flag_es.gif" width="18" height="12">Español</a></li>                </ul>
-   </ul>
-        
-          
-    </div><!--header end-->
-</div><!--header_wrap end-->
 
 
-
-
-<script type="text/javascript">
-	
-		
-		// Languages drop down 
-		function createLanguageDD() {
-			var $prim_ul = $('#languages'), $sec_ul = $('#languages_chooser');
-			
-				$('span',$prim_ul).click(function(e) {
-					e.stopPropagation();
-					$sec_ul.show();
-			}).css('cursor','pointer');
-			
-		
-		}
-		
-		function checkAutoPwd() {
-			var emailDefaultValue = language['email_label'];
-			
-			
-		
-			$('#password-clear').focus(function() {
-				$('#password-clear').hide();
-				$('#password-password').show();
-				$('#password-password').focus();
-			});
-			$('#password-password').blur(function() {
-				if($('#password-password').val() == '') {
-					$('#password-clear').show();
-					$('#password-password').hide();
-				}
-			});
-		
-			$('#email').each(function() {
-				$(this).focus(function() {
-					if(this.value == emailDefaultValue) {
-						this.value = '';
-					}
-				});
-				$(this).blur(function() {
-					if(this.value == '') {
-						this.value = emailDefaultValue;
-					}
-				});
-			});
-
-			
-			if($('#email').val()=='') 	   $('#email').val(emailDefaultValue);
-			if($('#passwordph').val()=='') $('#passwordph').val(language['password_label']);
-			
-			
-			
-		}
-		
-	    $(function() {
-		   createLanguageDD();
-		   
-		   $('body').click(function(e) {
-				$('#languages_chooser').hide();
-			});
-			
-			
-			checkAutoPwd();
-	   });
-   
-    </script> 
-    
-    
-    
-    
+    <link href="/css/caliente_header.min.css" rel="stylesheet" type="text/css">
  
+
  
 <div id="content_holder"> 
-  <div id="main">
-    <div id="content">
+    	<div id="main">
+      <div id="content">
     
-  
 
         <!-- START MODULE BODY -->
         <div class="box_gray_wrap">
@@ -446,8 +392,8 @@
                   <p>If you have any questions or concerns
 				  about this privacy policy, the practices of the Service, or your dealings
                     with the Service, you can contact us at <a href="mailto:support@caliente.com">support@caliente.com</a> or by calling +1-305-712-6692.
-                      You can also send us mail to: Privacy Officer, <span style="color:#333333">Caliente
-                        Incorporated, 705 Washington Ave 2<sup>nd</sup> Floor Miami Beach, FL. 33139.</span></p>
+                      You can also send us mail to: Privacy Officer, Caliente
+                        Incorporated, 705 Washington Ave 2<sup>nd</sup> Floor Miami Beach, FL. 33139.</p>
                         
                         
         </div><!--box_content end--> 
@@ -461,27 +407,42 @@
         <!-- END MODULE BODY -->
 
      </div><!--content end-->
-  </div> <!-- main end -->
-</div> <!-- content_holder end -->
+    	</div>
+  </div> <!-- content_holder end -->
 
- <div id="footer_wrap">
-  <div id="footer">
+ <style type="text/css">
+body { 
+ 	background:#000
+}
 
-      <div style="float: left; width: 262px; padding: 0 20px 0 0; margin-top: -20px;">
-         
-             <div style="float:left;margin-top:20px">
-             	<strong style=" font-size: 13px; display:block; margin: 0 0 5px;">Now on mobile</strong>
-             	<a style="margin-right: 5px" href="https://itunes.apple.com/us/app/caliente-latin-dating-spanish/id682018891?ls=1&amp;mt=8"><img src="http://mediap.gpnfiles.com/caliente/images/app_store.png"></a>
-                <a href="https://play.google.com/store/apps/details?id=com.globalpersonalsmedia.caliente"><img src="http://mediap.gpnfiles.com/caliente/images/google_play.png"></a>
-             </div>
-            
-            
-      </div>
+#footer #ft_agents {
+	clear: both;
+	font-size: 12px;
+}
+#footer a {
+	font-size: 14px;
+	line-height: 21px;
+}
+#left #social_footer  {
+	float:none;	min-width: 0;   padding-bottom: 0;
+}
+</style>
 
-<div id="left">
+<div id="footer_wrap" style="background:#000; border:none">
+	<div class="container" style="padding:25px 30px 0">
+		
+	
+	 	<div id="footer" style="width:auto; margin:0; padding:16px 0">
+			
+			<div id="left" style="float:left; padding:0">
+				
+<style type="text/css">
+	#social_footer {
+		float: none;  min-width: 0;   padding-bottom: 0;
+	}
+</style>
+
 <div id="social_footer">
-
-    <div id="label">Follow Us</div>
 
     <div id="gplus">
         <!-- Place this tag where you want the +1 button to render -->
@@ -501,49 +462,69 @@
 
     <a href="https://plus.google.com/b/102597815034042008290/102597815034042008290/" target="_blank" style="text-decoration:none;" id="gplus_link"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:20px;height:20px;"></a>
 
-    <a href="http://www.twitter.com/CalienteDating" target="_blank" id="tw_link"><img src="http://mediap.gpnfiles.com/caliente/images/ico_twitter_sm.png" border="0"></a>
+    <a href="http://www.twitter.com/calienteapp" target="_blank" id="tw_link"><img src="http://mediap.gpnfiles1.com/caliente/images/ico_twitter_sm.png" border="0"></a>
 
-    <a href="https://www.youtube.com/channel/UCoEkrLNfK_f4n9_0HkvHIXw" target="_blank" id="yt_link"><img src="http://mediap.gpnfiles.com/caliente/images/ico_youtube.png" border="0"></a>
+    <a href="https://www.youtube.com/channel/UCoEkrLNfK_f4n9_0HkvHIXw" target="_blank" id="yt_link"><img src="http://mediap.gpnfiles1.com/caliente/images/ico_youtube.png" border="0"></a>
 
 </div>
-</div>
 
-           
-          <ul>
-            <li><a href="http://www.globalpersonalsmedia.com/careers.php">Jobs</a></li>
-            <li><a href="/public/info/?page=terms">Terms of Use</a></li>
-            <li><a href="/public/info/?page=privacy">Privacy Policy</a></li>
-            <li><a href="http://www.hugetraffic.com/">Webmasters</a></li>
-          </ul>
-           
-          <ul>
-            <li><a href="/public/info/?page=cs">Customer Service</a></li>
-                        <li><a href="/public/info/?page=faqs">FAQs</a></li>
-            <li><a href="/public/info/?page=abuse">Report Abuse</a></li>
-            <li><a href="/public/info/?page=copyright">Copyright Notice</a></li>
-          </ul>
-          
+			</div>
+			
+			
+	
+			       
+				  <ul>
+					<li><a href="http://www.globalpersonalsmedia.com/careers.php">Jobs</a></li>
+					<li><a href="/public/info/?page=terms">Terms of Use</a></li>
+					<li><a href="/public/info/?page=privacy">Privacy Policy</a></li>
+                                                                                    <li><a href="/public/safety">Safety</a></li>
+                                                                                                                            <li><a href="/public/tour">Tour</a></li>
+                                        				  </ul>
+				   
+				  <ul>
+					<li><a href="/public/info/?page=cs">Customer Service</a></li>
+										<li><a href="/public/info/?page=faqs">FAQs</a></li>
+					<li><a href="/public/info/?page=abuse">Report Abuse</a></li>
+					<li><a href="/public/info/?page=copyright">Copyright Notice</a></li>
+				  </ul>
+			      
+	
+							<div style="float: right; ">
+											<a href="https://itunes.apple.com/us/app/caliente-latin-dating-spanish/id682018891?ls=1&amp;mt=8" target="_blank"><img src="http://mediap.gpnfiles1.com/caliente/images/cal_app_store.png"></a>
+																<a href="https://play.google.com/store/apps/details?id=com.caliente.android" target="_blank"><img src="http://mediap.gpnfiles1.com/caliente/images/cal_google_play.png"></a>
+									</div>
+				
+		  
+		
+	<div class="cb"></div>
+	<div id="ft_agents">
+		Please visit		<a href="http://www.wtseticket.com/" target="_blank">WTS</a> |
+		<a href="https://epoch.com/billingsupport" target="_blank">Epoch</a>, our authorized sales agents.
+	</div>
+	
+	  <div class="cl"></div>
+	
+	
+		  <div>
+			  ©2014 Caliente.com All Rights Reserved		  </div>
+	
+	  </div><!--footer end-->
+	  </div>
+	</div><!--footer_wrap end-->
+    <script src="/js/bootstrap.min.js"></script>
 
-<a id="norton_secure" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=http://www.caliente.com" onclick="return !window.open(this.href,'Norton_verify','location=yes,status=yes,resizable=yes,scrollbars=yes,width=540,height=480');" target="_parent">
-    <img width="111" border="0" height="62" src="http://mediap.gpnfiles.com/caliente/images/norton_secured_seal_gray.png">
-</a>
-      
-
-<div class="cb"></div>
-<div id="ft_agents">
-    Please visit    <a href="http://www.achdebit.com/membership.php" target="_blank">WTS</a> |
-    <a href="https://epoch.com/billingsupport" target="_blank">Epoch</a>, our authorized sales agents.
-</div>
-
-  <div class="cl"></div>
-
-
-      <div>
-          ©2014 Caliente.com All Rights Reserved          <a href="/public/info/?page=records">18 U.S.C. 2257 Record-Keeping Requirements Compliance Notice</a><p></p>      </div>
-
-  </div><!--footer end-->
-</div><!--footer_wrap end-->
- 
+<script type="text/javascript">
+var io_operation = "ioBegin";
+var io_bbout_element_id = "io_bb";
+var fp_bbout_element_id = "fp_bb";
+var io_install_stm = false;
+var io_flash_needs_update_handler = "";
+var io_install_flash_error_handler = "";
+var io_max_wait = 5000;
+var io_submit_form_id = "register";
+var io_submit_element_id = "register_submit";
+</script>
+<script type="text/javascript" src="https://mpsnare.iesnare.com/snare.js"></script> 
 
 
 <script type="text/javascript">
@@ -557,15 +538,11 @@
 	  login_display();
 	  attachClickAway();
   });
+  
+	
 </script>
+	<script src="/js/bootstrap.min.js"></script>
 
-<p style="background:url(https://h.online-metrix.net/fp/clear.png?org_id=en3bwpkp&amp;session_id=ee102cc6d442c9e1a1b4a94548bfa285&amp;session2=3586a7f3bbe975a4711131b909c52031&amp;m=1)"></p>
-<img width="0" height="0" src="https://h.online-metrix.net/fp/clear.png?org_id=en3bwpkp&amp;session_id=ee102cc6d442c9e1a1b4a94548bfa285&amp;m=2">
-<script src="https://h.online-metrix.net/fp/check.js?org_id=en3bwpkp&amp;session_id=ee102cc6d442c9e1a1b4a94548bfa285" type="text/javascript"></script>
-
-<object type="application/x-shockwave-flash" data="https://h.online-metrix.net/fp/fp.swf?org_id=en3bwpkp&amp;session_id=ee102cc6d442c9e1a1b4a94548bfa285" width="0" height="0" id="thm_fp">
-  <param name="movie" value="https://h.online-metrix.net/fp/fp.swf?org_id=en3bwpkp&amp;session_id=ee102cc6d442c9e1a1b4a94548bfa285">
-</object>
 
 
 </body></html>
