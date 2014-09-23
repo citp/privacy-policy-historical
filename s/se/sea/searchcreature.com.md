@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcreature.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306062147id_/http%3A//www.searchcreature.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcreature.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923160645id_/http%3A//www.searchcreature.com/privacy.php) for the most accurate reproduction.*
 
 # Pay Per Click Search Engine
 
