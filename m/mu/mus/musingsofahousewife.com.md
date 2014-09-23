@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musingsofahousewife.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000611id_/http%3A//www.musingsofahousewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musingsofahousewife.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923023235id_/http%3A//www.musingsofahousewife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Musings of a Housewife
+# Privacy Policy | Musings of a Housewife
 
 Effective Date: February 8, 2011
 
