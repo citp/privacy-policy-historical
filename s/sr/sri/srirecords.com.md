@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530025143id_/http%3A//srirecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923172010id_/http%3A//www.srirecords.com/privacy-policy) for the most accurate reproduction.*
 
-# SRI Label Group, Inc | Privacy Policy
+# SRI Label Group | Privacy Policy
 
 **PRIVACY POLICY**
 
