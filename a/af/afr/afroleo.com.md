@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afroleo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153604id_/http%3A//www.afroleo.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroleo.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923100606id_/http%3A//www.2juane.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Afroleo- Daily Uniting Africans by Exchanging News, Ideas, Chats & Stories.
+# 
 
 _Muicbook privacy policy_
 
