@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiadda.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321205437id_/http%3A//www.mobiadda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiadda.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924021424id_/http%3A//www.mobiadda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
