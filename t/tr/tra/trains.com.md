@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114208id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trains.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924032910id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy updated 052014
 
@@ -103,8 +103,8 @@ Waukesha, WI 53187-1612
 
 [](http://www.kalmbachstore.com/)
 
-[](https://web.archive.org/Press%20Room.aspx)
+[](https://web.archive.org/en/Press%20Room.aspx)
 
-[](https://web.archive.org/About%20Kalmbach.aspx)  
+[](https://web.archive.org/en/About%20Kalmbach.aspx)  
   
 ---|---
