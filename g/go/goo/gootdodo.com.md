@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gootdodo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071128id_/http%3A//goodtodo.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gootdodo.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924101643id_/https%3A//goodtodo.com/main/privacy) for the most accurate reproduction.*
 
 # Good Todo | good to do list for web, iPhone, iPad, Android
 
