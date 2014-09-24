@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628040248id_/http%3A//www.joomagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924052732id_/http%3A//www.joomagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joomla Template - Joomagic
 
