@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150602id_/http%3A//www.pickaweb.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924053117id_/http%3A//www.pickaweb.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Pickaweb Privacy policy | Pickaweb.co.uk
+# Pickaweb Privacy policy
 
 ### Your privacy, our priority
 
