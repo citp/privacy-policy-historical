@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycesmoke.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020215240id_/http%3A//nycesmoke.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycesmoke.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924115053id_/http%3A//www.nycesmoke.com/privacy_policy.html) for the most accurate reproduction.*
 
 # NYCe Smoke terms
 
@@ -43,8 +43,8 @@ About this privacy statement
 Contact Managing Partner : P.Vincent Robinson  
 If you have any questions about this privacy policy or NYCeSmoke.com treatment of your personal information, please write:  
 by email to support@NYCeSmoke.com ; or  
-by post to 5700 Arlington Ave Suite 19MM  
-Riverdale, NY 10471
+by post to 757 Siesta Key Tr. Suite 1126  
+Deerfield Beach, FL 33441
 
 Why NYCe Smoke  
 electronic cigarette?
@@ -65,7 +65,7 @@ Easy to use, convenient (doesn’t require matches, lighters or ignition)
 
 Call or email with any questions toll free at :
 
-              1-866-966-8577  Ext.2
+     1-866-966-8577  Ext.2
 
 CUSTOMER SUPPORT :
 
@@ -78,4 +78,4 @@ Thank you for your interest.
 
 THE MOST ADVANCED ELECTRONIC CIGARETTES 
 
-© 2009 Robinson & Benders Capital Imports, LLC. All Rights Reserved. 5700 Arlington Ave, Riverdale , NY 10471 - E-mail sales@NYCeSmoke.com - Fax: (347) 427-2109
+© 2005 Robinson & Benders Capital Imports, LLC. All Rights Reserved. 757 Siesta Key TR. Deerbeach, FL 33441 E-mail support@NYCeSmoke.com - Fax: (914) 500-6703
