@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animeholics.org privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618014009id_/http%3A//animeholics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeholics.org privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924143709id_/http%3A//animeholics.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AHO Streaming
+# Privacy Policy
 
 Anime Holics Organization is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.
 
