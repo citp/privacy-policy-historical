@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenshield.ca privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208091216id_/http%3A//www.greenshield.ca/sites/corporate/en/footer/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenshield.ca privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924225041id_/http%3A//www.greenshield.ca/sites/corporate/en/footer/pages/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
@@ -125,17 +125,17 @@ If you have any questions or complaints about our Privacy Code, or about how we 
 
 Green Shield Canada is committed to treating you with the greatest respect and consideration, and providing the highest level of service.  If you have any concerns or questions about privacy and confidentiality – or any other concerns about the way a request for personal information was handled, you can take the following actions:
 
-Contact the Green Shield Canada Chief Administrative Officer
+Contact the Green Shield Canada Privacy Officer
 
-Write to:    Chief Administrative Officer  
+Write to:    Privacy Officer  
 Green Shield Canada  
 P.O. Box 1606  
 Windsor, Ontario  
 N9A 6W1
 
-FAX the Office of the Green Shield Canada Chief Administrative Officer at 1-519-739-2253
+FAX the Office of the Green Shield Canada Privacy Officer at 1-519-739-2253
 
-The Green Shield Canada Chief Administrative Officer’s office will acknowledge your complaint.  Within two weeks of receiving your enquiry, the Green Shield Canada Chief Administrative Officer will write or call to tell you the problem has been resolved, or, in more complex cases, advise you what further steps are being taken and when you may expect a resolution.
+The Green Shield Canada Privacy Officer’s office will acknowledge your complaint.  Within two weeks of receiving your enquiry, the Green Shield Canada Privacy Officer will write or call to tell you the problem has been resolved, or, in more complex cases, advise you what further steps are being taken and when you may expect a resolution.
 
   1. 14If Your Concern Remains Unresolved
 
