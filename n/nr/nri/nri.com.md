@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nri.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622190802id_/http%3A//www.nri.com/global/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nri.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924051134id_/http%3A//www.nri.com/global/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Nomura Research Institute (NRI)
 
@@ -23,6 +23,8 @@ Upon specifying the purposes for use to the maximum extent possible, the NRI Gro
 If the need arises to use personal data for purposes other than those specified above, consent of the relevant person shall be obtained for said purpose, except in cases in which the prior consent of the person was obtained or in which the handling of said personal data is permitted as an exceptional case by the Law Concerning the Protection of Personal Information and/or other applicable laws and ordinances.
 
 The NRI Group may use a contractor to implement part of a service and may disclose personal data within the necessary range to such contractor. In this case, the NRI Group shall implement appropriate management in accordance with law and the standards determined by the NRI Group.
+
+The NRI Group may record conversations with customers. 
 
 Disclosure to Third Parties  
 The NRI Group shall not provide or disclose personal data collected by the NRI Group to any third party, except in cases where any of the following applies:
