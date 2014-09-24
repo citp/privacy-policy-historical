@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedrop.fm privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107051151id_/http%3A//thedrop.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrop.fm privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924173551id_/http%3A//thedrop.fm/privacy) for the most accurate reproduction.*
 
 # TheDrop.fm
 
