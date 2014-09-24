@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the also.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628104749id_/http%3A//www.also.com/ec/cms2/en/4000/content_3/group/imprint_228/data_privacy_statement/data_privacy_statement_1.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the also.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924035327id_/http%3A//www.also.com/ec/cms2/en/4000/content_3/group/imprint_228/data_privacy_statement/data_privacy_statement_1.jsp) for the most accurate reproduction.*
 
 # ALSO Holding AG - Data privacy statement
 
