@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedpopular.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524011537id_/http%3A//www.feedpopular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedpopular.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924115745id_/http%3A//www.feedpopular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
