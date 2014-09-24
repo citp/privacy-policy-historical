@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naiku.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233220id_/http%3A//www.naiku.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naiku.net privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924185539id_/http%3A//www.naiku.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naiku
 
@@ -39,3 +39,6 @@ Naiku may disclose personally identifiable information in response to legal proc
 Laws and their related regulations in this area may be reviewed by visiting the U.S. Federal Trade Commission’s website at http://www.ftc.gov/privacy/privacyinitiatives/childrens.html. Naiku currently complies with all laws and regulations established under current law, such as The Child’s Online Privacy Protection Act (COPPA) legislation and similar measures. You may also be interested in reviewing the Children’s Internet Protection Act: http://www.ifea.net/cipa.html.  
 **Contact Us**  
 This Privacy Policy may change from time to time. If and when updates are made to the Privacy Policy, the most up-to-date version will be posted on this webpage. By using our services, you acknowledge that you are aware of this Privacy Policy and agree to be bound by this Privacy Policy in your dealings with us. If you have any questions or concerns regarding this privacy statement, please contact us at: Naiku, Suite 401-102, 400 South 4th Street, Minneapolis, MN 55415.
+
+  
+
