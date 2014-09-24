@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitejabber.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623213930id_/http%3A//www.sitejabber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitejabber.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924164757id_/http%3A//www.sitejabber.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SiteJabber
 
