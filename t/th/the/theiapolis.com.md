@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiapolis.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232735id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiapolis.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924120720id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Theiapolis
 
@@ -7,6 +7,8 @@ Theiapolis respects privacy of Internet Users and does not collect personally id
 However you should know that third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served.
 
 This policy applies to the web site <http://www.theiapolis.com/> ("Theiapolis") and all its sub-domains. The full text of our privacy is available on the Web at: <http://www.theiapolis.com/privacy.html>.
+
+This site is published by JBLAUGERE, all rights reserved - siret france 498-276-179 00021 - [contact](http://www.theiapolis.com/contact-us.html).
 
 We invite you to [contact us](https://web.archive.org/contact-us.html) if you have questions about this policy.
 
@@ -96,6 +98,8 @@ Each time you perform an action (posting a message, uploading an image, etc.) yo
 HTTP cookies, or more commonly referred to as Web cookies, tracking cookies or just cookies, are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system.
 
 Theiapolis makes use of cookies to store a given number of information such as session tracking for logged members.
+
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies from this website. If you would like to change your preferences you may do so by following the instructions [here](http://www.aboutcookies.org/Default.aspx?page=1)
 
   
 
