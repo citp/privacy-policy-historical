@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627041105id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924063426id_/http%3A//www.aegon.co.uk/Footer/Privacy) for the most accurate reproduction.*
 
 # Privacy | Aegon UK
 
