@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theiapolis.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330232735id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theiapolis.com privacy policy that was archived on 2014-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140924120720id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
 <title>Privacy Policy -Theiapolis</title>
@@ -435,13 +435,180 @@ p {
 <meta property="fb:admins" content="100001422637905">
 <meta property="og:url" content="http://www.theiapolis.com/privacy.html">
 <base target="_top">
-<script language="javascript" type="text/javascript" src="/sr/utilsjssfxjsuserjs_130505-1.js"></script>
 <script language="javascript" type="text/javascript">
 <!--
-theia_browser_id='';theia_browser_version=0;theia_browser_platform='';theia_media_server='http://media.theiapolis.com';theia_exit_server='http://exit.theiapolis.com';
+var theia_last_id=0;function dw(t){document.write(t);}
+function theia_breakoutFrame()
+{if(top.location!=location)
+{top.location.href=document.location.href;}}
+function theia_Refresh()
+{location.reload(true);}
+function theia_Popup(url,id,param)
+{var new_win=window.open(url,id,param);if(!new_win.opener)new_win.opener=self;new_win.focus();}
+function theia_fixCookieDate(date)
+{var base=new Date(0);var skew=base.getTime();if(skew>0)
+date.setTime(date.getTime()-skew);}
+function theia_setCookie(name,value,day,hour,min)
+{var expdate=new Date();theia_fixCookieDate(expdate);expdate.setTime(expdate.getTime()+(day*24*60*60*1000+hour*60*60*1000+min*60*1000));document.cookie=name+"="+escape(value)+"; expires="+expdate.toGMTString();}
+function theia_setCookieEx(name,value,day,hour,min,domain)
+{var expdate=new Date();theia_fixCookieDate(expdate);expdate.setTime(expdate.getTime()+(day*24*60*60*1000+hour*60*60*1000+min*60*1000));str=name+"="+escape(value)+"; expires="+expdate.toGMTString()+"; path=/ ; domain="+domain;document.cookie=str;}
+function theia_GetObj(inID)
+{return document.getElementById?document.getElementById(inID):document.all?document.all[inID]:document.layers[inID];}
+function theia_GetPageOffsetLeft(inElem)
+{var ol=inElem.offsetLeft;while((inElem=inElem.offsetParent)!=null)
+{ol+=inElem.offsetLeft;}
+return ol;}
+function theia_GetPageOffsetTop(inElem)
+{var ot=inElem.offsetTop;while((inElem=inElem.offsetParent)!=null)
+{ot+=inElem.offsetTop;}
+return ot;}
+function theia_GetPageOffsetRight(inElem)
+{var ol=inElem.offsetRight;while((inElem=inElem.offsetParent)!=null)
+{ol+=inElem.offsetRight;}
+return ol;}
+function theia_GetPageOffsetBottom(inElem)
+{var ot=inElem.offsetBottom;while((inElem=inElem.offsetParent)!=null)
+{ot+=el.offsetBottom;}
+return ot;}
+function theia_DocHeight()
+{if(typeof document.height!='undefined')
+{return document.height;}
+else if(document.compatMode&&document.compatMode!='BackCompat')
+{return document.documentElement.scrollHeight;}
+else if(document.body&&typeof document.body.scrollHeight!='undefined')
+{return document.body.scrollHeight;}
+return 0;}
+function theia_DocWidth()
+{if(typeof document.width!='undefined')
+{return document.height;}
+else if(document.compatMode&&document.compatMode!='BackCompat')
+{return document.documentElement.scrollWidth;}
+else if(document.body&&typeof document.body.scrollWidth!='undefined')
+{return document.body.scrollWidth;}
+return 0;}
+function theia_ClientWidth()
+{if(typeof(window.innerWidth)=='number')return window.innerWidth;else if(document.documentElement&&(document.documentElement.clientWidth||document.documentElement.clientHeight))return document.documentElement.clientWidth;else if(document.body&&(document.body.clientWidth||document.body.clientHeight))return document.body.clientWidth;}
+function theia_ClientHeight()
+{if(typeof(window.innerWidth)=='number')return window.innerHeight;else if(document.documentElement&&(document.documentElement.clientWidth||document.documentElement.clientHeight))return document.documentElement.clientHeight;else if(document.body&&(document.body.clientWidth||document.body.clientHeight))return document.body.clientHeight;}
+function theia_GetWidth(inObj)
+{return inObj.offsetWidth;}
+function theia_GetHeight(inObj)
+{return inObj.offsetHeight;}
+function theia_ChangeOpacity(inOpacity,inID)
+{var obj=theia_GetObj(inID).style;obj.opacity=(inOpacity/100);obj.MozOpacity=(inOpacity/100);obj.KhtmlOpacity=(inOpacity/100);obj.filter="alpha(opacity="+inOpacity+")";if(inOpacity==100)inOpacity.filter="";}
+function theia_Fade(inID,inOpacStart,inOpacEnd,inMillisec)
+{var speed=Math.round(inMillisec/100);var timer=0;if(inOpacStart>inOpacEnd)
+{for(i=inOpacStart;i>=inOpacEnd;i--)
+{setTimeout("theia_ChangeOpacity("+i+",'"+inID+"')",(timer*speed));timer++;}}else if(inOpacStart<inOpacEnd)
+{for(i=inOpacStart;i<=inOpacEnd;i++)
+{setTimeout("theia_ChangeOpacity("+i+",'"+inID+"')",(timer*speed));timer++;}}}
+function theia_ShowWait(inForm,inBShow,inMessage,inParentObj)
+{var obj=theia_GetObj("theia_wait");if(!obj)return;if(inForm)
+{inForm.submit.disabled=true;inForm.submit.value="--- "+inMessage+" ---";}
+if(inBShow)
+{if(inMessage!="")
+{var objMessage=theia_GetObj("theia_wait_message");objMessage.innerHTML=inMessage;}
+var fObj=theia_GetObj("theia_wait_frame");var html="";if(!fObj)return;html+="<html><head></head><body style=\"background-color:transparent\">";html+=obj.innerHTML;html+="</body></html>";fObj.style.left='0px';fObj.style.top='0px';fObj.style.width='100%';fObj.style.height='100%';fObj.contentWindow.document.write(html);document.body.style.overflow="hidden";fObj.style.visibility="visible";}
+else obj.style.visibility="hidden";}
+function theia_UniqueID(inPrefix)
+{theia_last_id++;return inPrefix+"_"+theia_last_id;}
+function theia_StrReplace(inSearch,inReplace,inSubject)
+{var result="";var oldi=0;var I=0;for(I=inSubject.indexOf(inSearch);I>-1;I=inSubject.indexOf(inSearch,I))
+{result+=inSubject.substring(oldi,I);result+=inReplace;I+=inSearch.length;oldi=I;}
+return result+inSubject.substring(oldi,inSubject.length);}
+function theia_HideObj(inObj)
+{inObj.style.position="absolute";inObj.style.left="-"+theia_GetWidth(inObj)+"px";inObj.style.visibility="hidden";}
+function theia_ShowObj(inObj)
+{inObj.style.position="relative";inObj.style.left="0px";inObj.style.visibility="visible";}
+function tu(text)
+{var Alpha="Az0By1Cx2Dw3Ev4Fu5Gt6Hs7Ir8Jq9KpLoMnNmOkPjQlRiShTgUfVeWdXcYbZa";var ALen=Alpha.length-1;var C="";var I=0;for(I=0;I<text.length;I++)
+{L=text.charAt(I);pos=Alpha.indexOf(L);if(pos==-1)C+=L;else C+=Alpha.charAt(ALen-pos);}
+return C;}
+function tue(text)
+{eval(tu(text));}
+function myMovie_DoFSCommand(command,args){if(command=="messagebox"){alert(args);}}
+function theia_image_viewer(url)
+{theia_Popup(url,"theia_viewer","location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,toolbar=no");return false;}
+function theia_show_help(url)
+{theia_Popup(url,"theia_help","location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,toolbar=no,width=400,height=600");return false;}
+function theia_str_replace(search,replace,subject)
+{var result="";var oldi=0;for(i=subject.indexOf(search);i>-1;i=subject.indexOf(search,i))
+{result+=subject.substring(oldi,i);result+=replace;i+=search.length;oldi=i;}
+return result+subject.substring(oldi,subject.length);}
+function theia_Toggle(inID,inTextID)
+{var obj=theia_GetObj(inID);var sign;if(obj.className=='div_show'){obj.className='div_hide';sign="+";}
+else{obj.className='div_show';sign="-";}
+obj=theia_GetObj(inTextID);obj.innerHTML="["+sign+"]";}
+function theia_ToggleEx(inID,inTextID,textHide,textShow)
+{var obj=theia_GetObj(inID);var sign;if(obj.className=='div_show'){obj.className='div_hide';sign=textShow;}
+else{obj.className='div_show';sign=textHide;}
+obj=theia_GetObj(inTextID);obj.innerHTML="["+sign+"]";}
+function theia_3Panes()
+{var top=theia_GetObj("theia_Top");var middle=theia_GetObj("theia_Middle");var bottom=theia_GetObj("theia_Bottom");top.style.position="absolute";top.style.left=0;top.style.top=0;top.style.width="100%";bottom.style.position="absolute";bottom.style.left=0;bottom.style.width="100%";bottom.style.bottom=0;middle.style.position="absolute";middle.style.left=0;middle.style.width="100%";middle.style.overflow="auto";middle.style.top=theia_GetPageOffsetTop(top)+theia_GetHeight(top);middle.style.height=theia_GetPageOffsetTop(bottom)-(theia_GetPageOffsetTop(top)+theia_GetHeight(top));}
+function theia_CreateXhrObject()
+{if(window.XMLHttpRequest)
+return new XMLHttpRequest();if(window.ActiveXObject)
+{var names=["Msxml2.XMLHTTP.6.0","Msxml2.XMLHTTP.3.0","Msxml2.XMLHTTP","Microsoft.XMLHTTP"];for(var i in names)
+{try{return new ActiveXObject(names[i]);}
+catch(e){}}}
+return null;}
+function theia_XhrPost(url,params,bDebug)
+{http=theia_CreateXhrObject();if(http)
+{http.open("POST",url,true);http.setRequestHeader("Content-type","application/x-www-form-urlencoded");http.setRequestHeader("Content-length",params.length);http.setRequestHeader("Connection","close");if(bDebug)
+{http.onreadystatechange=function(){if(http.readyState==4&&http.status==200){alert(http.responseText);}};}
+else
+{http.onreadystatechange=function(){};}
+http.send(params);}}
+function theia_Outline(id,color_inside,color_border,size)
+{var obj_div=theia_GetObj(id+"_div");if(!obj_div)return;var obj_src=theia_GetObj(id);if(!obj_src)return;var obj_new=document.createElement('div');if(!obj_new)return;var x=-size;var y=-size;var text=obj_src.innerHTML;var html="";var width=obj_div.offsetWidth;if(width==0)width=640;while(y<=size)
+{while(x<=size)
+{html+="<span style='width:"+width+"px;color:"+color_border+"; position:absolute; left:"+x+"; top:"+(-y)+";'>"+text+"</span>";html+="<span style='width:"+width+"px;color:"+color_border+"; position:absolute; left:"+x+"; top:"+y+";'>"+text+"</span>";x=x+1;}
+y=y+1;}
+html+="<span style='width:"+width+"px;color="+color_inside+";position:absolute; left:0; top:0;'>"+text+"</span>";obj_new.style.position="absolute";obj_new.innerHTML=html;obj_div.removeChild(obj_src);obj_div.appendChild(obj_new);}
+function tovf()
+{var o=theia_GetObj('tov');o.style.visibility='hidden';}
+function tov(html)
+{var o=theia_GetObj('tov');o.style.visibility='visible';o.onclick=tovf;o.innerHTML='<table cellspacing=0 cellpadding=0 border=0 class="tovt"><tr><td class="tovtc"><dic class="tovc"><table cellspacing=0 cellpadding=0 border=0 class="tovt2"><tr><td class="tovtc2">'+html+'</td><td class="tovx">x</td></tr></table></div></td></tr></table>';}function theia_sfx_fade(id,step,limit)
+{var obj=theia_GetObj(id);var cur=parseFloat(obj.style.opacity);var newv=cur+step;if(((newv<=limit)&&(step<0))||((newv>=limit)&&(step>0)))
+{obj.style.opacity=limit;obj.style.filter='alpha(opacity='+(limit*100)+')';if(obj.theia_sfx_timer)
+{clearTimeout(obj.theia_sfx_timer);obj.theia_sfx_timer=0;}}
+else
+{obj.style.opacity=newv;obj.style.filter='alpha(opacity='+(newv*100)+')';obj.theia_sfx_timer=setTimeout("theia_sfx_fade('"+id+"',"+step+","+limit+");",33);}}
+function theia_sfx_init(prefix,op)
+{if(typeof document.querySelectorAll=='function')
+{var list=document.querySelectorAll('[id^="'+prefix+'"]');var I;for(I=0;I<list.length;I++)
+{list[I].theia_sfx_timer=0;list[I].style.opacity=op;list[I].style.filter='alpha(opacity='+(op*100)+')';list[I].onmouseover=function(){if(this.theia_sfx_timer)clearTimeout(this.theia_sfx_timer);this.style.opacity='1.0';this.style.filter='alpha(opacity=100)';};list[I].onmouseout=function(){if(this.theia_sfx_timer)clearTimeout(this.theia_sfx_timer);theia_sfx_fade(this.id,-0.05,op);}}}}function theia_trex_edit(id,id_preview)
+{var url="/trex.html?target="+id+"&preview="+id_preview;var width=640;var height=480;var left=(screen.width-width)/2;var top=(screen.height-height)/2;window.open(url,"theia_trex","location=no,toolbar=no,menubar=no,statusbar=no,scrollbars=yes,width="+width+",height="+height+",top="+top+",left="+left);}
+function theia_trex_update(id,id_preview,value)
+{var objValue=theia_GetObj(id);var objPreview=theia_GetObj(id_preview);objValue.value=value;objPreview.innerHTML=value;}
+function theia_trex_get(id)
+{var objValue=theia_GetObj(id);return objValue.value;}
+function theia_MoveDiv(group,source,dest)
+{var sourceElem=theia_GetObj(group+source);if(!sourceElem){return;}
+var destElem=theia_GetObj(group+dest);if(!destElem){return;}
+var destHTML=destElem.innerHTML;var sourceHTML=sourceElem.innerHTML;sourceElem.innerHTML=destHTML;destElem.innerHTML=sourceHTML;}
+function theia_MoveDivEx(prefix,list,source,dest)
+{var I=0;var source_id;var dest_id;var source_elem;var dest_elem;var temp_value;for(I=0;I<list.length;I++)
+{source_id=prefix+"_"+source+"_"+list[I];dest_id=prefix+"_"+dest+"_"+list[I];source_elem=theia_GetObj(source_id);if(!source_elem){return;}
+dest_elem=theia_GetObj(dest_id);if(!dest_elem){return;}
+temp_value=dest_elem.value;dest_elem.value=source_elem.value;source_elem.value=temp_value;}}
+function theia_Form_HandleEnter()
+{var e=window.event;var keyCode=e.keyCode?e.keyCode:e.which?e.which:e.charCode;if(keyCode==13)
+{var targ=false;if(e.target)targ=e.target;else if(e.srcElement)targ=e.srcElement;if(targ.nodeType==3)
+targ=targ.parentNode;if(targ)
+{var I,J,Next;for(I=0;I<document.forms.length;I++)
+{for(J=0;J<document.forms[I].elements.length;J++)
+{if(targ==document.forms[I].elements[J])
+{Next=(J+1)%document.forms[I].elements.length;document.forms[I].elements[Next].focus();return false;}}}}
+return false;}
+return true;}
+function theia_FormEnter_Install(form_id)
+{for(I=0;I<document.forms[form_id].elements.length;I++)
+{switch(document.forms[form_id].elements[I].type)
+{case"text":document.forms[form_id].elements[I].onkeypress=theia_Form_HandleEnter;break;case"checkbox":document.forms[form_id].elements[I].onkeypress=theia_Form_HandleEnter;break;case"select":document.forms[form_id].elements[I].onkeypress=theia_Form_HandleEnter;break;case"file":document.forms[form_id].elements[I].onkeypress=theia_Form_HandleEnter;break;}}}theia_browser_id='';theia_browser_version=0;theia_browser_platform='';theia_media_server='http://media.theiapolis.com';theia_exit_server='http://exit.theiapolis.com';
 if(top.location!=self.location){top.location=self.location.href;}//-->
 </script>
-</head>
+<script language="javascript" type="text/javascript" src="http://tools.theiapolis.com/a/advertisement.js"></script></head>
 
 <body>
 <div class="bloc">
@@ -486,7 +653,7 @@ if(top.location!=self.location){top.location=self.location.href;}//-->
 <!--
 tue('CqyiI28Q.fNuQ2(\'<K yGAkk="K6">v4uk kuQ2 uk Ki0Guk42C 0c MY9a3lg5g, AGG NuE4Qk N2k2NT2C - kuN2Q wNA8y2 hLn-eOj-XOL bbbeX - <A 4N2w="4QQK://fff.Q42uAKqGuk.yqI/yq8QAyQ-ik.4QIG">yq8QAyQ</A>.</K>\');');
 //-->
-</script>
+</script><p class="pj">This site is published by JBLAUGERE, all rights reserved - siret france 498-276-179 00021 - <a href="http://www.theiapolis.com/contact-us.html">contact</a>.</p>
 
 	<p class="pj">We invite you to <a href="/contact-us.html">contact us</a> if you have questions 
 	about this policy.</p>
@@ -633,6 +800,11 @@ tue('CqyiI28Q.fNuQ2(\'<K yGAkk="K6">v4uk kuQ2 uk Ki0Guk42C 0c MY9a3lg5g, AGG NuE
 
 	<p class="pj">Theiapolis makes use of cookies to store a given number of information such as 
 	session tracking for logged members.</p>
+
+	<p>We use cookies to ensure that we give you the best experience on our website. If you continue 
+	without changing your settings, we'll assume that you are happy to receive all cookies from this 
+	website. If you would like to change your preferences you may do so by following the instructions 
+	<a href="http://www.aboutcookies.org/Default.aspx?page=1">here</a></p>
 
 	</div><br>
 
