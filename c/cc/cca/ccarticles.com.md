@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccarticles.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073516id_/http%3A//www.ccarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccarticles.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924035513id_/http%3A//www.ccarticles.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
