@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ultratechhost.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330062345id_/http%3A//www.ultratechhost.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ultratechhost.com privacy policy that was archived on 2014-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140924221300id_/http%3A//www.ultratechhost.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -83,8 +83,25 @@ $('.forumBox', this).stop().slideUp(100);
 	<a href="promocode.php"><img src="images/promotions.png" width="123" height="50" alt="UltratechHost Promo Codes"></a>
 </div>
 <div class="live-support">
-<script type="text/JavaScript" src="https://billing.ultratechhost.com/modules/livehelp/include/javascript.php"></script>
-<a href="#" onclick="openLiveHelp(); return false"><img src="images/live-support.png" width="190" height="35" alt="Live Help"></a>
+<script type="text/JavaScript" src="https://billing.ultratechhost.com/modules/livehelp/scripts/jquery-latest.js"></script>
+<script type="text/javascript">
+<!--
+	var LiveHelpSettings = {};
+	LiveHelpSettings.server = 'billing.ultratechhost.com/';
+	LiveHelpSettings.embedded = true;
+
+	(function(d, $, undefined) { 
+		$(window).ready(function() {
+			var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+			LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
+			var s = d.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(LiveHelp, s);
+		});
+	})(document, jQuery);
+-->
+</script>
+
+<a href="#" class="LiveHelpButton"><img src="images/live-support.png" width="190" height="35" alt="Live Help"></a>
 </div>
 <div class="topBar"></div>
 
