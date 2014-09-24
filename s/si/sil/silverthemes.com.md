@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverthemes.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408204314id_/http%3A//addonbakery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverthemes.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925013709id_/http%3A//addonbakery.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Magento themes and addons from AddonBakery.com
 
