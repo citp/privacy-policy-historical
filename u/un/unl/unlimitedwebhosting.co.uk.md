@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the unlimitedwebhosting.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100432id_/http%3A//www.unlimitedwebhosting.co.uk/privacy-and-cookies-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedwebhosting.co.uk privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924021608id_/https%3A//www.unlimitedwebhosting.co.uk/privacy-and-cookies-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Unlimited Web Hosting UK
+# Privacy Policy - Unlimited Web Hosting UK
 
 Unlimited Web Hosting UK Limited ("we", "us" or "our") is committed to protecting and respecting your privacy. We own and operate the Website.
 
 When you visit the Website, you may have done so having accessed one of the following domain names:
 
   * www.unlimitedwebhosting.co.uk
-  * www.unlimitedcpanelhosting.co.uk
-  * www.unlimitedpleskhosting.co.uk
+  * www.unlimitedwebhosting.uk
+  * www.unlimited.uk.net
   * www.dedicloud.co.uk
+  * www.dedicloud.uk
 
 
 
 By accessing any of the above domain names, you will be guided to the Website. This Privacy and Cookies Policy applies to all use of the Website, regardless of which of the above domain names you use to gain access to the Website.
 
-This Privacy and Cookies Policy (together with our [Terms of Use](http://www.unlimitedwebhosting.co.uk/terms-of-use.php) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy and Cookies Policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Privacy and Cookies Policy (together with our [Terms of Use](https://www.unlimitedwebhosting.co.uk/terms-of-use.php) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy and Cookies Policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 We will only use your personal data in the manner set out in this Privacy and Cookies Policy. We will only use your personal data in a way that is fair to you. We will only collect personal data where it is necessary for us to do so and where it is relevant to our dealings with you. We will only keep your personal data for as long as it is relevant to the purpose for which it was collected or for as long as we are required to keep it by law.
 
@@ -92,7 +93,7 @@ We use information held about you in the following ways:
 
 
 
-We also need to use your contact details and other information for any aspect of the Website (including, without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [Terms of Use](http://www.unlimitedwebhosting.co.uk/terms-of-use.php) and verifying information).
+We also need to use your contact details and other information for any aspect of the Website (including, without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [Terms of Use](https://www.unlimitedwebhosting.co.uk/terms-of-use.php) and verifying information).
 
 We may transfer our databases containing your personal information if we sell our business or part of it to an actual or potential purchaser.
 
@@ -106,7 +107,7 @@ The Website may, from time to time, contain links to and from the websites of ou
 
 ### Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of Â£10 to meet our costs in providing you with details of the information we hold about you.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ### Consent
 
@@ -122,4 +123,4 @@ Any changes we may make to this Privacy and Cookies Policy in the future will be
 
 Questions, comments and requests regarding this Privacy and Cookies Policy are welcomed and should be addressed to support@unlimitedwebhosting.co.uk.
 
-This Privacy Policy was most recently updated on 12th September 2013.
+This Privacy Policy was most recently updated on 5th September 2014.
