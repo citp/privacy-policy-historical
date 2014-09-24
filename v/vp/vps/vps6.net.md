@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vps6.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120556id_/http%3A//vps6.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps6.net privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924115932id_/http%3A//vps6.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy \\ VPS6.NET
 
 _Other than as described in this Policy, we will not give any information about you to others without your express permission._
 
-#### Information Collection and Use
+## Information Collection and Use
 
 Our website uses forms, the purpose of which is to collect contact information (including your name, address, telephone number, and email address) so you can place orders and request information or support. For certain services, we may also request a credit card number, government identification number, or other financial information.
 
@@ -18,7 +18,7 @@ Our website uses cookies to keep track of your shopping cart and receipts. We us
 
 This website also contains links to other websites. VPS6.NET is not responsible for the privacy practices or the content of such websites. 
 
-#### Updating Your Information
+## Updating Your Information
 
 You may alter your account information or opt out of receiving communications from us at any time. You may update your account and contact information from within the Client Area ([my.vps6.net](https://my.vps6.net/)).
 
@@ -26,17 +26,17 @@ We use emails to communicate with you, to confirm your placed orders, and to sen
 
 The information you send to us may be stored and used to improve this website and our products, or it may be reviewed and discarded. 
 
-#### What Happens to my Personal Information if I Terminate my client account?
+## What Happens to my Personal Information if I Terminate my client account?
 
 When your VPS6 account is canceled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status in our databases. However, deactivation of your account does not mean that your personally identifiable information has been permanently deleted from our database. We will retain and use your personally identifiable information, if necessary, in order to comply with our legal obligations, to resolve disputes, or to enforce our agreements. 
 
-#### Changes in Our Practices
+## Changes in Our Practices
 
 We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes. 
 
-#### Contacting Us
+## Contacting Us
 
 If you have any questions about our Privacy Policy, the practices of VPS6.NET, or your dealings with VPS6.NET, please [contact us](https://my.vps6.net/contact.php).  
 
