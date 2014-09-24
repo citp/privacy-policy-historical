@@ -1,124 +1,364 @@
-<!--The following is the downloaded HTML source of the khoobsurati.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101028id_/http%3A//khoobsurati.com/privacy-statements) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khoobsurati.com privacy policy that was archived on 2014-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140924032611id_/http%3A//khoobsurati.com/privacy-statements) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="robots" content="noindex,nofollow">
 <title>Online Shopping India - Cosmetics, Skincare, Shoes, Clothing &amp; Jewellery | KhoobSurati.com</title>
-<meta name="description" content="Buy Beauty Products Online - Khoobsurati.com selling products of all Top Brands at lowest prices. Covering wide range of Cosmetics, Beauty, Herbals and Perfumes....">
-<meta name="keywords" content="Buy Beauty Products Online - Khoobsurati.com selling products of all Top Brands at lowest prices. Covering wide range of Cosmetics, Beauty, Herbals and Perfumes....">
+<meta name="description" content="Beauty Products Online - Khoobsurati.com selling products of all Top Brands at lowest prices. Covering wide range of Cosmetics, Beauty, Herbals and Perfumes....">
+<meta name="keywords" content="">
 <meta name="google-site-verification" content="fL5zzTSr54JNbDFK2aWjy3MU_0O8WKJgr1m5agVl9Ic">
 <link rel="shortcut icon" href="http://images.khoobsurati.net/cat1/other/favicon.ico">
 <link rel="stylesheet" type="text/css" href="http://khoobsurati.com/frontend_assets/css/style.min.css" media="all">
-<!--<link rel="stylesheet" type="text/css" href="http://khoobsurati.com/frontend_assets/css/style.css" media="all">
+<!--<link rel="stylesheet" type="text/css" href="http://khoobsurati.com/frontend_assets/css/style.css" media="all" />
 <link href="http://khoobsurati.com/frontend_assets/css/bootstrap-theme.css" rel="stylesheet">
 <link href="http://khoobsurati.com/frontend_assets/css/custom.css" rel="stylesheet">-->
-<!--<script src="frontend_assets/js/jquery-1.8.2.min.js"></script>-->
-<!--<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>-->
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ae655b71e0a0c6101a67c7766f434301ac326337.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9096.js?439028" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://khoobsurati.com/frontend_assets/js/jquery-1.8.2.min.js"></script>
-<script src="http://khoobsurati.com/frontend_assets/js/custom.js"></script>
-</head>
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ae655b71e0a0c6101a67c7766f434301ac326337.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9096.js?439028" async="" type="text/javascript"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?UgW1rteBbYbk2hqjw3gmZenagAPkAY93" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://khoobsurati.com/frontend_assets/js/jquery-1.8.2.min.js"></script>
+
+
+
+<script type="text/javascript"> 
+jQuery(function($) {
+	var validation_holder;
+	
+	$("form#register_form input[name='submit']").click(function() {
+	
+	var validation_holder = 0;
+	
+		var fname 			= $("form#register_form input[name='firstname']").val();
+		var lname 			= $("form#register_form input[name='lastname']").val();
+		var email 			= $("form#register_form input[name='email']").val();
+                var check 			= $("form#register_form input[name='check']").val();
+		//alert(check);return false;
+		var email_regex 	= /^[\w%_\-.\d]+@[\w.\-]+.[A-Za-z]{2,6}$/; // reg ex email check	
+		var password 		= $("form#register_form input[name='password']").val();
+		var strongRegex     = new RegExp("^(?=.{7,})(((?=.*[A-Z])(?=.*[a-z]))|((?=.*[A-Z])(?=.*[0-9]))|((?=.*[a-z])(?=.*[0-9]))).*$", "g");
+		//var password_regex 	= /[a-zA-Z]/) && value.match(/[0-9]/;
+		
+		var repassword 		= $("form#register_form input[name='pass']").val();
+			
+		/* validation start */	
+		if(fname == "") {
+			$("span.val_fname").html("&uarr; This is a required field.").addClass('validate');
+			validation_holder = 1;
+		} 
+		else {
+			$("span.val_fname").html("");
+			}
+		if(lname == "") {
+			$("span.val_lname").html(" &uarr; This is a required field.").addClass('validate');
+			validation_holder = 1;
+		} else {
+			$("span.val_lname").html("");
+			}
+		if(email == "") {
+			
+			$("span.val_email").html("&uarr;  This is a required field.").addClass('validate');
+			validation_holder = 1;
+		}    
+
+		else {
+			if(!email_regex.test(email)){ // if invalid email
+				$("span.val_email").html("&uarr;Invalid Email!").addClass('validate');
+				validation_holder = 1;
+			} else {
+			     $.ajax({
+						type: "POST",
+						url: "http://khoobsurati.com//emailexists",
+						async:false,
+						data:{id:email},
+						success:function(data)
+						{
+                                              //alert(data);return false;
+							if(data==1)
+							{
+
+						$("span.val_email").html("&uarr;Email Allready exists!").addClass('validate');
+						 validation_holder = 1;
+							}else{
+								$("span.val_email").html("");
+								}
+						}
+							});
+
+						
+					}
+			
+		}
+		if(password == "") {
+			$("span.val_pass").html(" &uarr; This is a required field.").addClass('validate');
+			validation_holder = 1;
+		} else {
+			if(! strongRegex.test(password)){ // if invalid email
+				$("span.val_pass").html("&uarr;Must have either capitals and lowercase letters or lowercase and numbers!").addClass('validate');
+				validation_holder = 1;
+			} else {
+				$("span.val_pass").html("");
+			}
+		}
+		if(repassword == "") {
+			$("span.val_pass2").html("&uarr; This is a required field.").addClass('validate');
+			validation_holder = 1;
+		} else {
+			if(password != repassword) {
+				$("span.val_pass2").html("&uarr; Password does not match!").addClass('validate');
+				validation_holder = 1;
+			} else {
+				$("span.val_pass2").html("");
+			}
+		}
+                
+                   if(check=='') {
+				$("span.val_check").html("&uarr; This is a required field.").addClass('validate');
+				validation_holder = 1;
+			} else {
+				$("span.val_check").html("");
+			}
+		
+		
+		if(validation_holder == 1) { // if have a field is blank, return false
+			$("p.validate_msg").slideDown("fast");
+			return false;
+		}  validation_holder = 0; // else return true
+		/* validation end */	
+	}); // click end 
+
+}); // jQuery End
+
+</script>
+ <script type="text/javascript">
+     $( document ).ready(function(){ 
+    	
+    			$("#submitss").click(function(event) {
+    				//alert('hi');return false;
+         		   var validation_holder = 0;
+    				var email 			= $("form#login_form input[name='email']").val();
+    				//alert(email);return false;
+    				var email_regex 	= /^[\w%_\-.\d]+@[\w.\-]+.[A-Za-z]{2,6}$/; // reg ex email check
+    				var password 		= $("form#login_form input[name='password']").val();
+    				//alert(password);return; false;
+					/* validation start */
+
+    				if(email == "") {
+    					$("span.val_emailid").html("&uarr;  This is a required field.").addClass('validate');
+    					validation_holder = 1;
+    				} else {
+    					if(!email_regex.test(email)){ // if invalid email
+    						$("span.val_emailid").html("&uarr;Invalid Email Address!").addClass('validate');
+    						validation_holder = 1;
+    					} else {
+    						$("span.val_emailid").html("");
+    					}
+    				}
+    				if(password == "") {
+    					$("span.val_cpass").html(" &uarr; This is a required field.").addClass('validate');
+    					validation_holder = 1;
+    				} else {
+    					     $.ajax({
+    						type: "POST",
+    						url: "http://khoobsurati.com//userlogin",
+    						async:false,
+    						data:{email:email,password:password},
+    						success:function(data)
+    						{
+
+    							if(data==0)
+    							{
+
+    								validation_holder=2;
+    							}
+    						}
+    							});
+
+    						$("span.val_cpass").html("");
+    					}
+
+    				if(validation_holder == 1) { // if have a field is blank, return false
+    					$("p.validate_msg").slideDown("fast");
+    					return false;
+    				}
+    				else if(validation_holder==2)
+    				{
+    					//alert("password incorrect");return false;
+    					$("span.val_cpass").html("&uarr;Invalid Email and Password Combination!").addClass('validate'); return false;
+
+    				}
+    				else
+    				{
+    					location.reload();
+    				}
+    				validation_holder = 0; // else return true
+    				return false;
+    				/* validation end */
+    			}); // click end
+    		  
+    	 $('.btn_submit1').click(function(event){
+          //alert('hi');return false;
+   	       var email=$("#emails").val();
+              if(email==''){
+ 	           alert("Please enter your emailid");return false;
+              }
+    	   $.ajax({
+    		   type: "POST",
+    		   url: "http://khoobsurati.com//forgotpassword",
+    		   data:{id:email},
+    		   success:function(data){
+        		  //alert(data);return false;
+        		  if(data==1)
+        		  {  
+            		   //$("#forgot_form").submit();
+            		   
+            		 $('#email-error').html("Instructions to reset your password has been sent to the email address provided.");  
+        		  }
+        		  else
+        		  {
+        		  $('#email-error').html("No Matching Record Found");
+        		     return false;
+        		  }
+    		   }
+    		   });
+    	    });
+    	
+
+   	    
+     });
+    	 </script>
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29282163-1', 'auto');
+ga('require', 'ec');
+</script>
+<!-- End Google Analytics -->
+<script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/fd409c70-934e-403a-b70b-514482116374.js"></script></head>
 <body role="document">
 <!-- Header begining from here -->
  
-<script>
-  $(document).ready(function(){  
+<script type="text/javascript">
+ $(document).ready(function(){  
  $("#checkid").click(function(){
   var checkid =1;
   //alert(checkid);return false;
   $('#checkid').val('checkid');
-  });  
+	});
+$('#log_checking,#log_checking1').click(function(){
+$.ajax({
+                type:"post",
+		url: "http://khoobsurati.com/user/my_account/account_check",		
+		async:false,
+                cache:false,
+		success:function(data){
+                    if(data==1){
+                      $('#log_check').submit()  
+                    }else{
+                      $(".sign_up_outer.category, .sign_up_box").fadeIn();  
+                    }
+		}
+		});
+ });
  });
 </script>
-	<div class="sign_in_pop">
-        <div class="light-box">
-        <span class="boxer-close">&nbsp;</span>
-        	<div class="logo_pop"><img src="http://images.khoobsurati.net/uiv2/images/khoobsurati-logo2.png" width="276" height="38" alt=""></div>
-            <div class="box_content">
-                <div class="left_box">
-                    <div class="sign_up_box">
-                        <h2 class="sign_up_head"><span>&nbsp;</span>Please Login</h2>
-                        <form name="form" method="post" action="" id="login_form" onsubmit="myFunction()>
-                            <div class=" fl"="">
-                                <div class="row">
-                                    <input type="text" name="email" id="email" value="" placeholder="Enter Email Id" class="input1 user_ic">
-                                    <span class="val_emailid"></span>
-                                </div>
-                                <div class="row">
-                                    <input type="password" name="password" id="password" value="" placeholder="Enter Password" class="input1 pass_ic">
-                                    <span class="val_cpass"></span>
-                                </div>
-                                <div class="row">
-                                    <input type="submit" id="submitss" name="btn_submit" class="btn_submit" value="Login">
-                                    <a href="javascript:void(0)" id="f_password">Forgot Your Password ?</a>
-                                </div>
-                                
+
+<div class="header">
+    	
+        	<!---->
+            <div class="header_strip">
+            	<div class="container">
+                                <p class="fl">Welcome  you can <span class="sign_cat">login</span> or <span class="signup_cat">create an account</span></p>
+                    <ul class="cat_topMenu">
+                    	<li>Customer Helpline : 0120-3021392</li>
+                    	<li><a href="http://khoobsurati.com/brands" rel="nofollow">Brands List</a></li>
+                        <li><a href="#" id="log_checking1" rel="nofollow">Favourites(0)</a></li>                       
+                        <li><a href="#" id="log_checking" rel="nofollow">My Account</a></li>                  
+                        <li><a href="http://khoobsurati.com/prod/checkout" rel="nofollow">Checkout</a></li>
+                        <span style="color:red;font-weight:bold;"></span>
+                    </ul>
+        	</div>
+            </div>
+            <div>
+                <form id="log_check" action="http://khoobsurati.com/my_account" method="get">
+                    </form>
+            	<div class="container">
+        			<div class="logo"><span><a href="http://khoobsurati.com/"></a></span></div>
+                    <div class="search-section">
+                        <form id="search_form" method="" action="http://khoobsurati.com/search">
+                            <input type="text" autocomplete="on" class="input1" name="s" value="" placeholder="Enter your search query.....">
+                            <input type="submit" id="search" value="Search" class="search_btn">
                         </form>
                     </div>
-                </div>
-                    <div class="right_box">
-                        <div class="social1">
-                            <span><a href="javascript:void(0)" class="fb_icon">&nbsp;</a></span>
-                            <span><a href="javascript:void(0)" class="g_plus_icon">&nbsp;</a></span>
-                        </div>
+                    <div id="help_line">
+                        <p>SHOPPING BAG</p>
+                        <p class="f_size"><span id="qt">0</span>Item(s) - <span id="pr">0</span>.00</p>
+                        <span class="mycart" title="My Bag"><span id="count">0</span></span>
                     </div>
-                    <div class="clear fl">
-                    <p>Don't Have An Account? <strong id="register" style="cursor:pointer; text-decoration:underline; color:#09F;">Register</strong></p>
-                </div>
+        		</div>
             </div>
-            
-        </div>
-    </div> 
+    </div><!--Header-->
     
-    <div class="forgot_box">
-        <div class="light-box">
-        <span class="boxer-close">&nbsp;</span>
-        	<div class="logo_pop"><img src="http://images.khoobsurati.net/uiv2/images/khoobsurati-logo2.png" width="276" height="38" alt=""></div>
-            <div class="box_content">
-                <div class="left_box">
-                    <div class="sign_up_box">
-                        <h2 class="sign_up_head"><span>&nbsp;</span>Retrieve Password</h2>
-                        <form name="form" method="post" action="" id="forgot_form">
-                            <div class="fl">
-                                <div class="row">
-                                    <input type="text" name="email" id="emails" value="" placeholder="Enter Email Address" class="input1 user_ic">
-                                    <span class="val_email"></span>
-                                     <div id="email-error" style="color:red;"></div>
-                                </div>
-                                
-                                <div class="row">
-                                    <input type="button" name="btn_submit1" value="Submit" class="btn_submit1">
-                                    <a href="javascript:void(0)" id="log">Back to Login</a>
-                                </div>
+    <div class="header_fixed">
+    	<div class="container">
+        <div class="container_inner">
+        	<div class="logo"><span><a href="http://khoobsurati.com/"></a></span></div>
+            <div class="search-section" style="margin-left:-70px;">
+                <form id="search_form" action="http://khoobsurati.com/search">
+                    <input type="text" autocomplete="on" class="input1" name="s" value="" placeholder="Enter your search query.....">
+                    <input type="submit" value="Search" class="search_btn">
+                </form>
+            </div>
+             <div id="help_line" style="float:right; margin-top:-5px;">
+            	<p>SHOPPING BAG</p>
+                <p class="f_size"><span id="qtt">0</span> Item(s) - <span id="prr">0</span>.00</p>
+                <span class="mycart" title="My Bag"><span id="count1">0</span></span>
+            </div>
+             
+        </div>
+        </div>
+    </div><!--Header--><!-- Header ending here -->
+<div class="body-container">
+    <div class="container">
+    <div class="con_in">
+    
+    <!-- Cart Begining here -->
+    <div class="popup1">
+    	<div class="cart"></div>
+   	</div>
+    
+    <div class="sign_up_outer">
+        <div class="sign_up_box">
+                            <span class="fl signin_color">Sign In</span>
+                            <span class="fr" id="sgn_up">Sign Up</span>
+                            <span class="boxer-close" style="right:0 !important; ">&nbsp;</span>
+                            
+                            <form name="form" method="post" action="" id="login_form" onsubmit="myFunction()">
+                                <div class="fl">
+                                    <div class="row">
+                                        <input type="text" name="email" id="email" value="" placeholder="Enter Email Id" class="input1 user_ic">
+                                        <a href="javascript:void(0)" id="f_password">Forgot Your Password ?</a>
+                                        <span class="val_emailid"></span>
+                                    </div>
+                                    <div class="row">
+                                        <input type="password" name="password" id="password" value="" placeholder="Enter Password" class="input1 pass_ic">
+                                        <span class="val_cpass"></span>
+                                    </div>
+                                    <div class="row">
+                                        <input type="submit" id="submitss" name="btn_submit" class="btn_submit" value="Sign In">
+                                        
+                                    </div>
+                                 </div>   
+                            </form>
+                            
                             </div>
-                        </form>
-                    </div>
-                    
-                    
-                </div>
-                    <div class="right_box">
-                        <div class="social1">
-                            <span><a href="javascript:void(0)" class="fb_icon">&nbsp;</a></span>
-                            <span><a href="javascript:void(0)" class="g_plus_icon">&nbsp;</a></span>
-                        </div>
-                    </div>
-                    <div class="clear fl">
-                    <p>Don't Have An Account? <strong id="register" style="cursor:pointer; text-decoration:underline; color:#09F;">Register</strong></p>
-                </div>
-            </div>
-            
-        </div>
     </div>
-    
-    
-	<div class="sign_up_pop">
-        <div class="light-box">
-        <span class="boxer-close">&nbsp;</span>
-        	<div class="logo_pop"><img src="http://images.khoobsurati.net/uiv2/images/khoobsurati-logo2.png" width="276" height="38" alt=""></div>
-            <div class="box_content">
-                <div class="left_box">
-                    <div class="sign_up_box">
-                        <h2 class="sign_up_head"><span>&nbsp;</span>Please signup</h2>
+                    
+                 
+     <div class="sign_up_outer">               
+    	<div class="sign_up_box1">
+                    	 <span class="fl" id="sgn_in">Sign In</span>
+                         <span class="fr signup_color">Sign Up</span>
+                         <span class="boxer-close" style="right:0 !important;">&nbsp;</span>
+                        
                         <form name="form" method="post" action="http://khoobsurati.com//saveregister" id="register_form">
                         	<div class="row"><input type="text" name="email" id="emailsid" class="input1 user_ic" placeholder="Email Id"></div>
                             <span class="val_email"></span>
@@ -135,106 +375,256 @@
                             <span class="val_check"></span>
                            <div class="row"><input type="submit" id="subs" name="submit" class="btn_submit" value="Create Account"></div>
                         </form>
-                    </div>
-                </div>
-                    <div class="right_box">
-                        <div class="social1">
-                            <span><a href="javascript:void(0)" class="fb_icon">&nbsp;</a></span>
-                            <span><a href="javascript:void(0)" class="g_plus_icon">&nbsp;</a></span>
-                        </div>
-                    </div>
-                <div class="clear fl">
+                        
+                        <div class="clear fl">
                     <p>Already Have An Account? <strong id="login_here" style="cursor:pointer; color:#09F; text-decoration:underline;">Login Here</strong></p>
-                </div>
-            </div>
-            
+                	   </div>
+                       
+                    </div>
+     </div>            
+                 
+     <div class="sign_up_outer">
+    	<div class="forget_box2">
+                    	<span class="boxer-close" style="right:0;">&nbsp;</span>
+                        <form name="form" method="post" action="" id="forgot_form">
+                            <div class="fl">
+                                <div class="row">
+                                    <input type="text" name="email" id="emails" value="" placeholder="Enter Email Address" class="input1 user_ic">
+                                    <span class="val_email"></span>
+                                     <div id="email-error" style="color:red;"></div>
+                                </div>
+                                
+                                <div class="row">
+                                    <input type="button" name="btn_submit1" value="Submit" class="btn_submit1">
+                                    <a href="javascript:void(0)" id="log">Back to Login</a>
+                                </div>
+                                
+                            </div>
+                        </form>
+                        
+                        <div class="clear fl">
+                    		<p>Don't Have An Account? <strong id="register" style="cursor:pointer; text-decoration:underline; color:#09F;">Register</strong></p>
+                		</div>
+                        
+                    </div>
+     </div>            
+   
+   <!--<div class="sign_up_outer1">
+    	<div class="sign_out_box">
+                    <p><a href="<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Use of undefined constant php - assumed 'php'</p>
+<p>Filename: layouts/brand.php</p>
+<p>Line Number: 335</p>
+
+</div>">My Account</a></p>
+            <span class="sign_out_box_arw">&nbsp;</span>
+            <p><a href="">Sign Out</a></p>
+            <div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Use of undefined constant php - assumed 'php'</p>
+<p>Filename: layouts/brand.php</p>
+<p>Line Number: 338</p>
+
+</div>            <span class="sign_in_icn" title="Sign in">&nbsp;</span>
+        <span class="sign_in_icn_txt">SIGN IN</span>
+                    
         </div>
-    </div><!--Sign-up-->
-<div class="header">
-    	<div class="container">
-        <div class="container_inner">
-        	<div class="logo"><span><a href="http://khoobsurati.com/"></a></span></div>
-            <div class="free-shiping">
-            	<p>Free Shipping Above <!--<em class="WebRupee">Rs.</em>--> Rs. 450/-</p>
-                <span><strong>Customer Helpline: 011-33582655,62 </strong><em>[Timing : 9am - 6pm ( Mon - Sat )]</em></span>
-            </div><!--free-shipping-->
-            <div class="sign_up">
-            	<ul class="menu1">
-                	                    <li><a href="javascript:void(0)" id="sign" class="sign_in">Sign In</a></li>
-                                                            <li><a href="javascript:void(0)" id="sign_up_pop">Sign Up</a></li>
-                                        <li><a href="http://khoobsurati.com/contact-us">Contact Us</a></li>
-                </ul>
-                <span class="bag"><em class="shop_box"></em><a href="javascript:void(0)" class="mycart">MY BAG</a></span>
-            </div><!--sign_up-->
-            <div class="btm-box">
-            	<span><em class="brand_box"></em><a href="http://khoobsurati.com/brands">ALL BRANDS</a></span>
-                <span><em class="gift_box"></em><a href="http://khoobsurati.com/women/deals">HOT DEALS</a></span>
-            </div><!--btm-box-->
-             
-        </div>
-        </div>
-    </div><!--Header-->
+    </div>-->
     
-    <div class="header_fixed">
-    	<div class="container">
-        <div class="container_inner">
-        	<div class="logo"><span><a href="http://khoobsurati.com/"></a></span></div>
-            <div class="search-section">
-                <form id="search_form" action="http://khoobsurati.com/search">
-                    <input type="text" class="input1" name="s" value="" placeholder="Enter your search query.....">
-                    <input type="submit" value="Search" class="search_btn">
-                </form>
-            </div>
-            <div class="btm-box">
-                <span><em class="shop_box"></em><a href="javascript:void(0)" class="mycart">MY BAG</a></span>
-            </div><!--btm-box-->
-             
-        </div>
-        </div>
-    </div><!--Header-->
+    <!-- Side Icon Begining here -->
+  <!--  <div class="side_icn">
+
+    <div class="side-patti">
+
+        <span class="mycart" title="My Bag"><span id="count"></span></span>
+        <span class="bag_txt">MY BAG</span>
+        <span class="botm_ln">&nbsp;</span>
+                <span class="sign_out_icn_welcome">HELLO</span>
+        <span class="sign_out_icn" title="Sign Out">&nbsp;</span>
+        <span class="sign_out_icn_txt"></span>
+                <span class="sign_in_icn" title="Sign in">&nbsp;</span>
+        <span class="sign_in_icn_txt">SIGN IN</span>
+                <span class="botm_ln">&nbsp;</span>
+        
+        <span class="fav_icn"></span>
+        <span class="botm_ln">&nbsp;</span>
+        
+        <span class="wright_review_icn"></span>
+        <span class="botm_ln">&nbsp;</span>
+        
+        <span class="all_brand_icn"><a href="brands">&nbsp;</a></span>
+        <span class="botm_ln">&nbsp;</span>
+        
+        <span class="hot_deals_icn"><a href="women/deals">&nbsp;</a></span>
+        
+        <div class="scroll_top"></div>
+<a href="#scrool_footer"><div class="footer_details"></div></a>
+
+
+        
+    </div>
+	</div>-->
     
-    <div class="popup1">
-    	<div class="cart"></div>
-    </div>	
-<!-- Header ending here -->
-<div class="body-container">
-    <div class="container">
+    
 		        
-
-
-<div class="navigation">
-    <span class="category_show">All Category<em class="down"></em></span>
-    <ul class="nav display_nav ">
-        <li><span><a href="javascript:void(0)">Beauty &amp; Personal Care<em>&gt;&gt;</em></a>
+<div class="cat_navigation">
+    <ul class="cat_nav">
+        <li><span><a href="javascript:void(0)">Makeup</a>
             <div class="sub_nav">
-            <span class="gap"></span>
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/skincare">Women Skincare</a></h2>
+                		<strong><a href="http://khoobsurati.com/women/make-up/face">Face</a></strong>
                     <ul>
-                        <li><a href="http://khoobsurati.com/women/skincare/face">Face</a></li>
-                        <li><a href="http://khoobsurati.com/women/skincare/body">Body</a></li>
-                        <li><a href="http://khoobsurati.com/women/skincare/sun">Sun</a></li>
-                        <li><a href="http://khoobsurati.com/women/skincare/antiaging">Anti Aging</a></li>
-                        <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners">Skin Whiteners</a></li>
-                        <li><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools">Skincare Tools</a></li>
-                        <li><a href="http://khoobsurati.com/women/skincare/naturals">Naturals</a></li>
+                    	<li><a href="http://khoobsurati.com/women/make-up/face/primers">Primers &amp; Makeup Base</a></li>
+                      <li><a href="http://khoobsurati.com/women/make-up/face/foundation">Foundation &amp; Concealre</a></li>
+                      <li><a href="http://khoobsurati.com/women/make-up/face/blush">Blushes &amp; Hilighters</a></li>
+                      <li><a href="http://khoobsurati.com/women/make-up/face/face-powders">Compact / Face Powder</a></li>
+                      <li><a href="http://khoobsurati.com/women/make-up/face/others">Others</a></li>
                     </ul>
-                    <h2><a href="http://khoobsurati.com/women/make-up">Women's Makeup</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/women/make-up/face">Face</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/eyes">Eyes</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/body-style">Body &amp; Style</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/lips">Lips</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/nails">Nails</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/nail-art">Nail Art</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/makeup-kits-sets-tools">Makeup Kits &amp; Tools</a></li>
-                        <li><a href="http://khoobsurati.com/women/make-up/naturals">Naturals</a></li>
-                    </ul>
-                </div>
+                    <strong><a href="http://khoobsurati.com/women/make-up/makeup-kits-sets-tools">Makeup Kits &amp; Tools</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/make-up/makeup-kits-sets-tools/brushes">Makeup Brushes &amp; Tools</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/makeup-kits-sets-tools/makeup-ki">Makeup Kits</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/makeup-kits-sets-tools/others">Others</a></li>
+                      </ul>
+                  </div>
+                  <div>
+                  		<strong><a href="http://khoobsurati.com/women/make-up/eyes">Eyes</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/make-up/eyes/eye-shadows">Eye Shadow</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/eyes/eye-liners">Eye Liners &amp; Gels</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/eyes/mascaras">Mascara</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/eyes/lash-enhancers">Eyelash Enhancers</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/eyes/printers">Glitters (Eye)</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/eyes/kajal">Kajal &amp; Pencil</a></li>
+                      </ul>
+                  </div>
+                  <div>
+                  		<strong><a href="http://khoobsurati.com/women/make-up/body-style">Body &amp; Style</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/make-up/body-style/bronzers-highlighters">Body Shimmer / Bronzers</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/body-style/body-glitters">Glitter (Body)</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/body-style/artificial-tattoos">Artificial Tattos</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/body-style/others">Others</a></li>
+                      </ul>
+                  </div>
+                   <div>
+                  		<strong><a href="http://khoobsurati.com/women/make-up/lips">Lips</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/make-up/lips/lip-gloss">Lip Gloss</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/lips/lip-colour">Lipstick / Lip Colour</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/lips/lip-liners">Lip Liner</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/lips/lip-plumpers">Lip Plimper</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/lips/others">Others</a></li>
+                      </ul>
+                  </div>
+            </div><!--flex-->
+            </div><!--SUb-Nav-->
+        </span></li>
+         <li><span><a href="javascript:void(0)">Skincare</a>
+            <div class="sub_nav">
+            <div class="flex">
+            		 <div>
+                  		<strong><a href="http://khoobsurati.com/women/skincare/face">Face</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/face/acne-treatment">Acne Treatment</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/face-cleansers">Cleanser</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/face-wash">Face Wash</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/face-exofoliaters-scrubbers">Exfoliators &amp; Scrubbers</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/masks-packs">Face Masks &amp; Packs</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/oil-control-shine-control">Oil / Shine Control</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/toners-clarifiers">Toners &amp; Clarifiers</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/eye-products">Eye Care</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/lips-products">Lip Care</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/face-moisturizers">Moisturizers &amp; Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/naturals-set-kits">Facial Kits </a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/face/others">Others</a></li>
+                      </ul>
+                      <strong><a href="http://khoobsurati.com/women/skincare/sun">Sun</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/sun/after-sun">Sun Damage Care</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/sun/sun-protection">Suncreens</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/sun/antitan-products">Anti-Tan Products</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/sun/de-tan-products">De-Tan Products</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/sun/others">Others</a></li>
+                      </ul>
+                  </div>
+                  <div>
+                  		<strong><a href="http://khoobsurati.com/women/skincare/body">Body</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/body/bath-body">Shower Gels &amp; Body Washes</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/cleansers">Soaps &amp; Cleanser</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/moisturizers">Body Lotions</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/foot-care">Foot Care Products / Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/hand-care">Hand Care Products</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/stretch-marks-scars">Strech Marks</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/hair-removal-shaving">Hair Removal</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/firming-cellulite">Body Firming Products</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/scrubbers">Body Scrubbers</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/body/others">Others</a></li>
+                      </ul>
+                      <strong><a href="http://khoobsurati.com/women/skincare/skin-whiteners">Skin Whiteners</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/moisturizers">Moisturizer &amp; Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/washes-gels">Washes</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/scrubs-exofoliaters">Scrubbers &amp; Exofoliaters</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/bed-time-specials">Night Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/skin-bleaches">Bleaching Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/day-creams">Day Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/skin-whiteners/others">Others</a></li>
+                      </ul>
+                  </div>
+                   <div>
+                  		<strong><a href="http://khoobsurati.com/women/skincare/antiaging">Anti Aging</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/antiaging/moisturizers">Moisturizer &amp; Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/antiaging/washes-gels">Washes</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/antiaging/night-repair">Night Repair</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/antiaging/eye-care">Under Eye Care</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/antiaging/serum">Anti Aging Serums</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/antiaging/others">Others</a></li>
+                      </ul>
+                      <strong><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools">Skincare Tools</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools/manicure-tools">Manicure Tools</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools/pedicure-tools">Pedicure Tools</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools/facial-care-tools">Facial Care Tools</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools/body-care-tools">Body Care Tools</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/facial-kits-sets-tools/others">Others</a></li>
+                      </ul>
+                  </div>
+                   <div>
+                  		<strong><a href="http://khoobsurati.com/women/skincare/naturals">Naturals</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/skincare/naturals/mositurizers">Moisturizer</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/toners">Toners</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/face-washes">Face Washes</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/scrubs-exofoliaters">Scrubs &amp; Exofoliaters</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/anti-aging">Anti Aging</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/skin-whitening">Skin Whitening</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/night-creams">Night Creams</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/cleansers">Cleansers</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/treatment-products">Treatment Products</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/sun-care">Sun Care</a></li>
+                          <li><a href="http://khoobsurati.com/women/skincare/naturals/sun-care">Fashion Category</a></li>
+                      </ul>
+                  </div>
+            </div><!--flex-->
+            </div><!--SUb-Nav-->
+        </span></li>
+        <li><span><a href="javascript:void(0)">Hair Care</a>
+            <div class="sub_nav">
+            <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/haircare">Women's Hair Care</a></h2>
-                    <ul>
+                	<strong><a href="http://khoobsurati.com/women/haircare">Women's Hair Care</a></strong>
+                   <ul>
                         <li><a href="http://khoobsurati.com/women/haircare/shampoos">Shampoos</a></li>
                         <li><a href="http://khoobsurati.com/women/haircare/conditioners">Conditioners</a></li>
                         <li><a href="http://khoobsurati.com/women/haircare/hair-oils-serums">Hairoil &amp; Serums</a></li>
@@ -244,78 +634,54 @@
                         <li><a href="http://khoobsurati.com/women/haircare/naturals">Naturals</a></li>
                     </ul>
                 </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/skincare">Men's Skincare</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/skincare/body">Body</a></li>
-                        <li><a href="http://khoobsurati.com/men/skincare/face">Face</a></li>
-                        <li><a href="http://khoobsurati.com/men/skincare/sun">Sun</a></li>
-                        <li><a href="http://khoobsurati.com/men/skincare/anti-aging">Anti Aging</a></li>
-                        <li><a href="http://khoobsurati.com/men/skincare/skin-whiteners">Skin Whiteners</a></li>
-                        <li><a href="http://khoobsurati.com/men/skincare/men-s-grooming">Men's Grooming</a></li>
-                        <li><a href="http://khoobsurati.com/men/skincare/skincare-tools">Skincare Tools</a></li>	
-                    </ul>
-                
-                    <h2><a href="http://khoobsurati.com/men/haircare">Men's Haircare</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/haircare/conditioners">Conditioners</a></li>
-                        <li><a href="http://khoobsurati.com/men/haircare/shampoos">Shampoos</a></li>
-                        <li><a href="http://khoobsurati.com/men/haircare/hair-oils-serums">Hairoil &amp; Serums</a></li>
-                        <li><a href="http://khoobsurati.com/men/haircare/hair-styling-care">Hairstyling &amp; Care</a></li>
-                        <li><a href="http://khoobsurati.com/men/haircare/hair-colour">Hair Colour</a></li>
-                	</ul>
-                </div>
-                
-                <!--<div>
-                    <h2>Shop By Price</h2>
-                    <ul>
-                        <li><a href="#">Rs. 0-Rs.250 (22)</a></li>
-                        <li><a href="#">Rs. 251-Rs.500 (21)</a></li>
-                        <li><a href="#">Rs. 501-Rs.1000 (22)</a></li>
-                        <li><a href="#">Rs. 1001-Rs.1500 (8)</a></li>
-                        <li><a href="#">Rs. 1501-Rs.2000 (6)</a></li>
-                        <li><a href="#">Rs. 2501-Rs.5000 (2)</a></li>
-                    </ul>
-                    <h2>Shop By Brand</h2>
-                    <ul>
-                        <li><a href="#">Lakme</a></li>
-                        <li><a href="#">Natural Bath & Body</a></li>
-                        <li><a href="#">Garnier</a></li>
-                        <li><a href="#">Olay</a></li>
-                        <li><a href="#">Loreal</a></li>
-                        <li><a href="#">Oxy</a></li>
-                    </ul>
-                </div>-->
             </div><!--flex-->
             </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Perfumes &amp; Deos<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Fragrance</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/perfume">Women's Perfumes &amp; Deos</a></h2>
+                		 <strong><a href="http://khoobsurati.com/women/perfume">Fragrance</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/perfumes/air-freshener">Air Freshner</a></li>
-   						<li><a href="http://khoobsurati.com/women/perfumes/women">Body Fragrances</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/perfumes">Men's Perfumes &amp; Deos</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/perfumes/air-freshener">Air Freshner</a></li>
-           				<li><a href="http://khoobsurati.com/men/perfumes/body-fragrances">Body Fragrances</a></li>
+   											<li><a href="http://khoobsurati.com/women/perfumes/body-fragrances">Body Fragrances</a></li>
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Jewellery<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        <li><span><a href="javascript:void(0)">Nail Care</a>
+            <div class="sub_nav">
+            <div class="flex">
+            	<div>
+                 <strong><a href="http://khoobsurati.com/women/make-up/nail-art">Nail Art</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/make-up/nail-art/stamping-plates">Stamping Plates</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nail-art/stamping-plate-nail-paints">Stamping Plate Nail Paints</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nail-art/acrylic-nails">Acrylic Nails</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nail-art/nail-art-kits">Nail Art Kits</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nail-art/nail-art-stickers">Nail Art Stickers</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nail-art/nail-art-accessories">Nail Art Accessories</a></li>
+                      </ul>
+                   </div>
+                   <div>   
+                         <strong><a href="http://khoobsurati.com/women/make-up/nails">Nails</a></strong>
+                      <ul>
+                      		<li><a href="http://khoobsurati.com/women/make-up/nails/nail-colour">Nail Polish / Colour</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nails/nail-colour-remover">Nail Polish Remover</a></li>
+                          <li><a href="http://khoobsurati.com/women/make-up/nails/nail-protection-creams-treatments">Nail Care</a></li>
+                      </ul>
+                   </div>
+            </div><!--flex-->
+          
+            </div><!--SUb-Nav-->
+        </span></li>
+        <li><span><a href="javascript:void(0)">Jewellery</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/jewellery">Women's Jewellery</a></h2>
+                		<strong><a href="http://khoobsurati.com/women/jewellery">Jewellery</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/jewellery/neck-strings">Neckstrings</a></li>
                         <li><a href="http://khoobsurati.com/women/jewellery/necklaces">Necklaces</a></li>
@@ -329,23 +695,36 @@
                         <li><a href="http://khoobsurati.com/women/jewellery/accessories">Accessories</a></li>
                     </ul>
                 </div>
+            </div><!--flex-->
+            </div><!--SUb-Nav-->
+        </span></li>
+        
+        <li><span><a href="javascript:void(0)">Clothing</a>
+            <div class="sub_nav">
+            <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/men/jewellery">Men's Jewellery</a></h2>
+                		<strong><a href="http://khoobsurati.com/women/apparels">Apparel</a></strong>
                     <ul>
-                        <li><a href="http://khoobsurati.com/men/jewellery/rings">Rings</a></li>
-                        <li><a href="http://khoobsurati.com/men/jewellery/bracelets">Bracelets</a></li>
-                        <li><a href="http://khoobsurati.com/men/jewellery/pendants">Pendants</a></li>
+                        <li><a href="http://khoobsurati.com/women/apparels/sarees">Sarees</a></li>
+                        <li><a href="http://khoobsurati.com/women/apparels/suits">Suits</a></li>
+                        <!--<li><a href="http://khoobsurati.com/women/apparels/tops-tunics">Tops &amp; Tunics</a></li>-->
+                        <li><a href="http://khoobsurati.com/women/apparels/scarves-stoles">Scarves &amp; Stoles</a></li>
+                        <li><a href="http://khoobsurati.com/women/apparels/gown">Gowns</a></li>
+                        <li><a href="http://khoobsurati.com/women/apparels/lehenga">Lehengas</a></li>
+                        <!--<li><a href="http://khoobsurati.com/women/apparels/shawls">Shawls</a></li>
+                        <li><a href="http://khoobsurati.com/women/apparels/skirts">Skirts</a></li>
+                        <li><a href="http://khoobsurati.com/women/apparels/ethnic-wear">Ethnic Wear</a></li>-->
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Inner Wear<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Innerwear</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/innerwear">Women's Inner wear</a></h2>
+                		<strong><a href="http://khoobsurati.com/women/lingerie">Lingerie</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/lingerie/camisoles">Camisole</a></li>
                         <li><a href="http://khoobsurati.com/women/lingerie/bra">Bra</a></li>
@@ -359,226 +738,131 @@
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Bags / Wallets &amp; Belts<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Bags</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/bags">Women's Bags</a></h2>
+                		<strong><a href="http://khoobsurati.com/women/bags">Bags</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/bags/hand-bags">Hand Bags</a></li>
                         <li><a href="http://khoobsurati.com/women/bags/clutches">Clutches</a></li>
                         <li><a href="http://khoobsurati.com/women/bags/wallets-and-pouches">Wallets and Pouches</a></li>
                         <li><a href="http://khoobsurati.com/women/bags/side-bags">Sling Bags</a></li>
-                        <li><a href="http://khoobsurati.com/women/bags/backpacks">Bag Packs</a></li>
-                        <li><a href="http://khoobsurati.com/women/bags/sports-bags">Sport Bags</a></li>
+                        <li><a href="http://khoobsurati.com/women/bags/backpacks">Backpacks</a></li>
+                       <!-- <li><a href="http://khoobsurati.com/women/bags/sports-bags">Sport Bags</a></li>-->
                         <li><a href="http://khoobsurati.com/women/bags/travel-bags">Travel Bags</a></li>
                         <li><a href="http://khoobsurati.com/women/bags/ethnic-and-traditional-bags">Ethnic &amp; Traditional Bags</a></li>
                         <li><a href="http://khoobsurati.com/women/bags/tote-bags">Tote Bags</a></li>
                     </ul>
                 </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/bags">Men's Bags</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/bags/sling-bags-pool-bags">Sling Bags/Pool Bags</a></li>
-                        <li><a href="http://khoobsurati.com/men/bags/backpacks">Bagpacks</a></li>
-                        <li><a href="http://khoobsurati.com/men/bags/sports-bags">Sport Bags</a></li>
-            		</ul>
-            		<h2><a href="http://khoobsurati.com/men/accessories/belts">Men's Belts</a></h2>
-                    <ul>
-                    	<li><a href="http://khoobsurati.com/men/accessories/belts">Belts</a></li>
-                    </ul>
-            		<h2><a href="http://khoobsurati.com/men/accessories/wallets">Men's Wallets</a></h2>
-                    <ul>
-                    	<li><a href="http://khoobsurati.com/men/accessories/wallets">Wallets</a></li>
-                    </ul>
-                </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Watches<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Watches</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/accessories/watches">Women's Watches</a></h2>
+                		 <strong><a href="http://khoobsurati.com/women/accessories/watches">Watches</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/accessories/watches">Watches</a></li>
                     </ul>
                 </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/accessories/watches">Men's Watches</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/accessories/watches">Watches</a></li>
-                    </ul>
-                </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Accessories<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Accessories</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/accessories">Women's Accessories</a></h2>
-                    <ul>
+                			 <strong><a href="http://khoobsurati.com/women/accessories">Accessories</a></strong>
+                     <ul>
                         <li><a href="http://khoobsurati.com/women/accessories/sunglasses">Sunglasses</a></li>
                         <li><a href="http://khoobsurati.com/women/accessories/handicrafts">Handicrafts</a></li>
                         <li><a href="http://khoobsurati.com/women/accessories/umbrella">Umbrella</a></li>
                         <li><a href="http://khoobsurati.com/women/accessories/keychains">KeyChains</a></li>
                         <li><a href="http://khoobsurati.com/women/accessories/belts">Belts</a></li>
                         <li><a href="http://khoobsurati.com/women/accessories/mobile-cover">Mobile Cover</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/accessories">Men's Accessories</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/accessories/sunglasses">Sunglasses</a></li>
-                        <li><a href="http://khoobsurati.com/men/accessories/handicrafts">Handicrafts</a></li>
-                        <li><a href="http://khoobsurati.com/men/accessories/umbrella">Umbrella</a></li>
-                        <li><a href="http://khoobsurati.com/men/accessories/keychains">KeyChains</a></li>
-                        <li><a href="http://khoobsurati.com/men/accessories/mobile-cover">Mobile Cover</a></li>
+                        <li><a href="http://khoobsurati.com/women/accessories/hair-accessories">Hair Accessories</a></li>
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Kids<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Health</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/kids">Kid's</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/kids/kids-bags">Kid's Bags</a></li>
-                        <!--<li><a href=" javascript:void(0)">Kid's Apparels</a></li>-->
-                        <li><a href="http://khoobsurati.com/kids/kids-watches">Kid's Watches</a></li>
-                        <li><a href="http://khoobsurati.com/kids/hair-accessories">Hair Accessories</a></li>
+                			<strong><a href="http://khoobsurati.com/women/health">Health</a></strong>
+                     <ul>
+                   		 <li><a href="http://khoobsurati.com/women/health/slimming-and-firming">Slimming &amp; Firming</a></li>
+                 		   <li><a href="http://khoobsurati.com/women/health/personal-care-and-hygiene">Personal Care &amp; Hygiene</a></li>
+                 		   <li><a href="http://khoobsurati.com/women/health/general-health">General Health</a></li>
+                 		   <li><a href="http://khoobsurati.com/women/health/hair-and-skin-solutions">Hair &amp; Skin Solutions</a></li>
+                 		   <li><a href="http://khoobsurati.com/women/health/mental-well-being">Mental Well-Being</a></li>
+                 		   <li><a href="http://khoobsurati.com/women/health/pain-relievers">Pain Relievers</a></li>
+                  		  <li><a href="http://khoobsurati.com/women/health/sexual-wellness">Sexual Wellness</a></li>
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="javascript:void(0)">Health<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+        
+        <li><span><a href="javascript:void(0)">Footwear</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/health">Women's Health</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/women/health/slimming-and-firming">Slimming &amp; Firming</a></li>
-                    <li><a href="http://khoobsurati.com/women/health/personal-care-and-hygiene">Personal Care &amp; Hygiene</a></li>
-                    <li><a href="http://khoobsurati.com/women/health/general-health">General Health</a></li>
-                    <li><a href="http://khoobsurati.com/women/health/hair-and-skin-solutions">Hair &amp; Skin Solutions</a></li>
-                    <li><a href="http://khoobsurati.com/women/health/mental-well-being">Mental Well-Being</a></li>
-                    <li><a href="http://khoobsurati.com/women/health/pain-relievers">Pain Relievers</a></li>
-                    <li><a href="http://khoobsurati.com/women/health/sexual-wellness">Sexual Wellness</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/health">Men's Health</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/health/slimming-firming">Slimming &amp; Fitness</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/weight-gainers">Weight Gainers</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/personal-care-hygiene">Personal Care &amp; Hygiene</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/general-health">General Health</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/hair-skin-solutions">Hair &amp; Skin Solutions</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/mental-well-being">Mental Well-Being</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/pain-relievers">Pain Relievers</a></li>
-                        <li><a href="http://khoobsurati.com/men/health/sexual-wellness">Sexual Wellness</a></li>
-                    </ul>
-                </div>
-            </div><!--flex-->
-            </div>
-        </span></li>
-        <li><span><a href="javascript:void(0)">Footwear<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
-            <div class="flex">
-                <div>
-                    <h2><a href="http://khoobsurati.com/women/footwear">Women's Footwear</a></h2>
+                	<strong><a href="http://khoobsurati.com/women/footwear">Footwear</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/footwear/sports-wear">Sports Wear</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/footwear">Men's Footwear</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/footwear/sports-wear">Sports Wear</a></li>
+                        <li><a href="http://khoobsurati.com/women/footwear/formal-wear">Formal Wear</a></li>
+                        <li><a href="http://khoobsurati.com/women/footwear/flip-flops">Flip Flops</a></li>
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
-        </span></li>
-        <li><span><a href="javascript:void(0)">Clothing<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
+            </div><!--SUb-Nav-->
+        </span></li>      
+         <li><span><a href="http://khoobsurati.com/women/deals/gift">Deals &amp; Gifts</a>
+            <div class="sub_nav">
             <div class="flex">
                 <div>
-                    <h2><a href="http://khoobsurati.com/women/apparels">Women's Apparel</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/women/apparels/sarees">Sarees</a></li>
-                        <li><a href="http://khoobsurati.com/women/apparels/suits">Suits</a></li>
-                        <!--<li><a href="http://khoobsurati.com/women/apparels/tops-tunics">Tops &amp; Tunics</a></li>-->
-                        <li><a href="http://khoobsurati.com/women/apparels/scarves-stoles">Scarves &amp; Stoles</a></li>
-                        <li><a href="http://khoobsurati.com/women/apparels/gown">Gowns</a></li>
-                        <li><a href="http://khoobsurati.com/women/apparels/lehenga">Lehengas</a></li>
-                        <!--<li><a href="http://khoobsurati.com/women/apparels/shawls">Shawls</a></li>
-                        <li><a href="http://khoobsurati.com/women/apparels/skirts">Skirts</a></li>
-                        <li><a href="http://khoobsurati.com/women/apparels/ethnic-wear">Ethnic Wear</a></li>-->
-                    </ul>
-                </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/clothing/apparels">Men's Apparel</a></h2>
-                    <ul>
-                        <!--<li><a href="http://khoobsurati.com/men/apparels/ethnic-wear">Ethnic Wear</a></li>-->
-    					<li><a href="http://khoobsurati.com/men/apparels/t-shirts">T-Shirts</a></li>
-                    </ul>
-                </div>
-            </div><!--flex-->
-            </div>
-        </span></li>
-        <li><span><a href="javascript:void(0)">Deals &amp; Offers<em>&gt;&gt;</em></a>
-        <div class="sub_nav">
-            <span class="gap"></span>
-            <div class="flex">
-                <div>
-                    <h2><a href="http://khoobsurati.com/women/deals">Women's Deals &amp; Offeres</a></h2>
+                		<strong><a href="http://khoobsurati.com/women/deals">Deals &amp; Offers</a></strong>
                     <ul>
                         <li><a href="http://khoobsurati.com/women/deals/free-offers/">Free Offers</a></li>
                         <li><a href="http://khoobsurati.com/women/deals/special-deals">Special deals</a></li>
-                        <li><a href="http://khoobsurati.com/women/deals/occasion">Occassions</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h2><a href="http://khoobsurati.com/men/deals">Men's Deals &amp; Offers</a></h2>
-                    <ul>
-                        <li><a href="http://khoobsurati.com/men/deals/free-offers">Free Offers</a></li>
-    					<li><a href="http://khoobsurati.com/men/deals/special-deals">Special deals</a></li>
+                        <li><a href="http://khoobsurati.com/women/deals/occasion">Occasions</a></li>
                     </ul>
                 </div>
             </div><!--flex-->
-            </div>
+            </div><!--SUb-Nav-->
         </span></li>
-        <li><span><a href="http://khoobsurati.com/women/deals/gift">Gifts</a></span>
-    </li></ul>
-</div><!--Navigation-->        <!--Navigation-->
+    </ul>
+</div><!--Navigation-->
+
+
+
+
+        
+        
+        <!--Navigation-->
+        
+        
+        
         <div class="right-section">
-            <div class="search-section">
-                <form id="search_form" action="http://khoobsurati.com/search">
-                    <input type="text" class="input1" name="s" value="" placeholder="Enter your search query.....">
-                    <input type="submit" value="Search" class="search_btn">
-                </form>
-            </div>
+        
+   		             
         </div><!--Right-Section-->
-		<div class="std"><div class="page-title">                                                                        <p><span style="text-decoration: underline; font-size: large; font-family: georgia,palatino;"><strong style="font-size: 2em; color: rgb(0, 0, 255); text-decoration: underline;">Your Privacy</strong></span></p><p>&nbsp;</p><p><span style="font-size: medium; font-family: georgia,palatino;">Your privacy 
+		<div class="std"><div class="page-title">                                                                                                            <p><span style="text-decoration: underline; font-size: large; font-family: georgia,palatino;"><strong style="font-size: 2em; color: rgb(0, 0, 255); text-decoration: underline;">Your Privacy</strong></span></p><p>&nbsp;</p><p><span style="font-size: medium; font-family: georgia,palatino;">Your privacy 
 is important to us. To better protect your privacy we provide this 
 notice explaining our online information practices and the choices you 
 can make about the way your information is collected and used. To make 
 this notice easy to find, we make it available on our homepage and at 
-every point where personally identifiable information may be requested.</span></p><p><span style="font-size: medium; font-family: georgia,palatino;"><strong>&nbsp;</strong></span></p><p><span style="color: rgb(0, 0, 255); font-size: medium; font-family: georgia,palatino;"><strong>Google Adsense and the DoubleClick DART 
+every point where personally identifiable information may be requested.</span></p><p><span style="font-size: medium; font-family: georgia,palatino;"><strong>&nbsp;</strong></span></p><p><span style="color: rgb(0, 0, 255); font-size: medium; font-family: georgia,palatino;"><strong>Google Ad sense and the DoubleClick DART 
 Cookie</strong></span></p><p><span style="font-size: medium; font-family: georgia,palatino;">Google, as a third party advertisement 
 vendor, uses cookies to serve ads on this site. The use of DART cookies 
 by Google enables them to serve adverts to visitors that are based on 
@@ -603,10 +887,41 @@ policies on these websites. You should be aware that the privacy
 policies of these sites may differ from our own.</span></p><p><span style="font-size: medium; font-family: georgia,palatino;"><strong>&nbsp;</strong></span></p><p><span style="color: rgb(0, 0, 255); font-size: medium; font-family: georgia,palatino;"><strong>Changes to this Privacy Statement</strong></span></p><p><span style="font-size: medium; font-family: georgia,palatino;">The contents 
 of this statement may be altered at any time, at our discretion.</span></p><p><span style="font-size: medium; font-family: georgia,palatino;">If you have 
 any questions regarding the privacy policy of Khoobsurati.com then you 
-may contact us at <span style="color: rgb(0, 0, 255);"><strong>info@Khoobsurati.com</strong></span></span></p>                                                                </div> </div>
+may contact us at <span style="color: rgb(0, 0, 255);"><strong>info@Khoobsurati.com</strong></span></span></p>                                                                                                </div> </div>
+        <div class="popup3">
+            <div class="quick_view_content" id="quick_hover">
+            
+            </div><!--quick_view_content-->
+        </div>
+      </div>
     </div><!--Container-->
 </div> <!--Body-Container-->
-<div class="footer">
+<script type="text/javascript">
+    $(document).ready(function(){
+     $('.submit_btn').click(function(){
+      email=$('#emailll').val();
+      var filter = /^[\w\-\.\+]+\@[a-zA-Z0-9\.\-]+\.[a-zA-z0-9]{2,4}$/;
+        if (filter.test(email)) {
+        //$('#result').html('<div style="color:green;">success</div>');
+        $.ajax({
+                type:"post",
+                data:{email:email},
+                url:"http://khoobsurati.com/user/user/subscribe",
+                success:function(data){
+                     if(data!=8){
+                     $('#result').html('<div style="color:green;">Successfully subscribe newsletter</div>');   
+                     }else{
+                     $('#result').html('<div style="color:red">Your email allready exist!</div>');
+                }}
+         });
+        }
+        else {
+        $('#result').html('<div style="color:red;">Please enter valid email!</div>');
+      }
+     });   
+    });
+</script>
+<div class="footer" id="scrool_footer">
     <div class="footer_top">
         <div class="container">
         <div class="footer_inner">
@@ -621,13 +936,14 @@ under its warm glow.</p>
             </div>
             <div class="bottom">
                 <p>Contact Us :</p>
-                <span><em class="phone-ic"></em><strong>011-33582662</strong></span>
+                <span><em class="phone-ic"></em><strong>0120-3021392</strong></span>
                 <span><em class="email-ic"></em>wecare@khoobsurati.com</span>
                 <div class="fr">
                     <p class="fl">Subscribe to Newsletter <em>&amp; Get Coupon code:-</em></p>
                     <form action="#" method="get" class="subscribe">
-                        <input type="text" name="email" value="Enter Email" class="input1">
-                        <input name="submit" type="submit" value="Go" class="submit_btn">
+                        <span id="result"></span>
+                        <input type="text" name="email" id="emailll" placeholder="Enter your email" class="input1">
+                        <input name="submit" type="button" value="Go" class="submit_btn">
                     </form>
                 </div>
             </div>
@@ -638,51 +954,51 @@ under its warm glow.</p>
         <div class="container">
         <div class="footer_inner">
             <div class="box">
-                <h3>KHOOBSURATI INSIGHTS</h3>
+                <strong>KHOOBSURATI INSIGHTS</strong>
                 <ul>
-                	<li><a href="http://khoobsurati.com/about-us" target="_blank">About Us</a></li>
-                    <li><a href="http://khoobsurati.com/privacy-statements" target="_blank">Privacy Policy</a></li>
-                    <li><a href="http://khoobsurati.com/terms-n-conditions" target="_blank">Terms &amp; Conditions</a></li>
-                    <li><a href="javascript:void(0)">Payments</a></li>
-                    <li><a href="http://khoobsurati.com/shipping-modes" target="_blank">Shipping</a></li>
-                    <li><a href="http://khoobsurati.com/price-protection" target="_blank">100% Price Protection</a></li>
+                	<li><a href="http://khoobsurati.com/about-us" target="_blank" rel="noindex, nofollow">About Us</a></li>
+                    <li><a href="http://khoobsurati.com/privacy-statements" target="_blank" rel="noindex, nofollow">Privacy Policy</a></li>
+                    <li><a href="http://khoobsurati.com/terms-n-conditions" target="_blank" rel="noindex, nofollow">Terms &amp; Conditions</a></li>
+                    <li><a href="javascript:void(0)" rel="noindex, nofollow">Payments</a></li>
+                    <li><a href="http://khoobsurati.com/shipping-modes" target="_blank" rel="noindex, nofollow">Shipping</a></li>
+                    <li><a href="http://khoobsurati.com/price-protection" target="_blank" rel="noindex, nofollow">100% Price Protection</a></li>
                 </ul>
             </div><!--box-->
             <div class="box">
-                <h3>HAPPY TO HELP</h3>
+                <strong>HAPPY TO HELP</strong>
                 <ul>
-                	<li><a href="http://khoobsurati.com/faq" target="_blank">FAQ</a></li>
-                    <li><a href="http://khoobsurati.com/contact-us" target="_blank">Contact Us</a></li>
-                    <li><a href="#">Feedback</a></li>
-                    <li><a href="#">Returns &amp; Cancellation</a></li>
+                	<li><a href="http://khoobsurati.com/faq" target="_blank" rel="noindex, nofollow">FAQ</a></li>
+                    <li><a href="http://khoobsurati.com/contact-us" rel="noindex, nofollow" target="_blank">Contact Us</a></li>
+                    <!--<li><a href="#" rel="noindex, nofollow">Feedback</a></li>-->
+                    <li><a href="http://khoobsurati.com/hassle-free-return" target="_blank" rel="noindex, nofollow">Returns &amp; Cancellation</a></li>
                 </ul>
             </div><!--box-->
             <div class="box">
-                <h3>BE A PART</h3>
+                <strong>BE A PART</strong>
                 <ul>
-                	<li><a href="javascript:void(0)">Careers</a></li>
-                    <li><a href="javascript:void(0)">Affiliates</a></li>
+                    <li><a href="javascript:void(0)" rel="noindex, nofollow">Careers</a></li>
+                    <li><a href="javascript:void(0)" rel="noindex, nofollow">Affiliates</a></li>
                     <li><a href="http://blog.khoobsurati.com" target="_blank">Read Our Blog</a></li>
                     <li><a href="javascript:void(0)">Join Our Forum</a></li>
                 </ul>
             </div><!--box-->
             <div class="box">
-                <h3>BEAUTY - KNOW HOW</h3>
+                <strong>BEAUTY - KNOW HOW</strong>
                 <ul>
-                	<li><a href="https://www.youtube.com/user/HairStyleAtHome" target="_blank">Hair Styling Videos</a></li>
-                    <li><a href="https://www.youtube.com/user/MakeupByExperts" target="_blank">Makeup Videos</a></li>
-                    <li><a href="https://www.youtube.com/user/NailArtVideosHub" target="_blank">Nail Art Videos</a></li>
-                    <li><a href="https://www.youtube.com/user/EyeMakeupTutorial101" target="_blank">Eye Makeup Videos</a></li>
-                    <li><a href="https://www.youtube.com/user/HomeRemediesGuide" target="_blank">Home Remedies</a></li>
+                	<!--<li><a href="https://www.youtube.com/user/HairStyleAtHome" target="_blank" rel="noindex, nofollow">Hair Styling Videos</a></li>
+                    <li><a href="https://www.youtube.com/user/MakeupByExperts" target="_blank" rel="noindex, nofollow">Makeup Videos</a></li>
+                    <li><a href="https://www.youtube.com/user/NailArtVideosHub" target="_blank" rel="noindex, nofollow">Nail Art Videos</a></li>
+                    <li><a href="https://www.youtube.com/user/EyeMakeupTutorial101" target="_blank" rel="noindex, nofollow">Eye Makeup Videos</a></li>
+                    <li><a href="https://www.youtube.com/user/HomeRemediesGuide" target="_blank" rel="noindex, nofollow">Home Remedies</a></li>-->
                     <li><a href="https://www.youtube.com/channel/UCecmJUGjsmVU9G8bMnhMX0Q" target="_blank">Khoobsurati Studio</a></li>
                 </ul>
             </div><!--box-->
             <div class="box">
-                <h3>COUPON PARTNERS</h3>
+              <strong>COUPON PARTNERS</strong>
                 <ul class="partners">
-                    <li><a class="coupan-rani" target="_blank" href="http://www.couponrani.com/khoobsurati-coupons"></a></li>
+                    <!--<li><a class="coupan-rani" target="_blank" href="http://www.couponrani.com/khoobsurati-coupons" rel="noindex, nofollow"></a></li>-->
                     <li><a class="zovon" target="_blank" href="http://zovon.in"></a></li>
-                    <li><a class="coupan-raja" target="_blank" href="http://www.couponraja.com/khoobsurati.html"></a></li>
+                    <!--<li><a class="coupan-raja" target="_blank" rel="noindex, nofollow" href="http://www.couponraja.com/khoobsurati.html"></a></li>-->
                 </ul>
             </div><!--box-->
             <div class="payment-met">
@@ -710,11 +1026,68 @@ under its warm glow.</p>
 <script src="http://khoobsurati.com/frontend_assets/js/js-image-slider.js"></script>
 <script src="http://khoobsurati.com/frontend_assets/js/portamento-min.js"></script>
 <script type="text/javascript" src="http://khoobsurati.com/frontend_assets/js/cloudzoom.js"></script>
+<script src="http://khoobsurati.com/frontend_assets/js/custom.js"></script>
 
 <script type="text/javascript">
+
+
+$(document).ready(function(e) {
+    $(".sign_in_icn").click(function(){
+  $(".sign_up_box").fadeIn();		  
+	  });
+	  
+  $("#sgn_up").click(function(){
+  $(".sign_up_box").fadeOut();
+  $(".sign_up_box1").fadeIn();		  
+	  });
+	  
+	  
+  $("#sgn_in").click(function(){
+  $(".sign_up_box").fadeIn();
+  $(".sign_up_box1").fadeOut();		  
+	  });
+	  
+  $("#f_password").click(function(){
+  $(".sign_up_box").fadeOut();
+  $(".forget_box2").fadeIn();		  
+	  });
+	  
+  $("#log").click(function(){
+  $(".forget_box2").fadeOut();
+  $(".sign_up_box").fadeIn();		  
+	  });
+	  
+  $("#register").click(function(){
+  $(".forget_box2").fadeOut();
+  $(".sign_up_box1").fadeIn();		  
+	  });
+	  
+  $("#login_here").click(function(){
+  $(".sign_up_box1").fadeOut();
+  $(".sign_up_box").fadeIn();		  
+	  });
+	  
+	  /*$(".add_to_cart, .my_bag_icn").click(function(){
+  $(".cart").show();		  
+	  });*/
+	  
+	  
+  $(".sign_out_icn").mouseover(function(){
+  $(".sign_out_box").show();	  
+	  });
+  $(".sign_out_box").mouseleave(function(){
+  $(this).hide();	  
+	  });
+	  
+  $(".boxer-close").click(function(){
+  $(".sign_up_box, .sign_up_box1, .sign_out_box ").fadeOut();
+	  
+	  });
+	  
+});
+
+
 CloudZoom.quickStart();
-
-
 jQuery(document).ready(function($) {
 	//cart functions
 
@@ -854,13 +1227,13 @@ jQuery(document).ready(function($) {
 	  $('.sign_in_pop').fadeOut(500);
 	  });*/
   });
-  $('.boxer-close').click (function(){
+  /*$('.boxer-close').click (function(){
 	  $('.alert_mes').fadeOut(500);
         window.location.href = 'http://khoobsurati.com';
         
         //window.location();
 	  
-	  });
+	  });*/
   
 
 
@@ -911,7 +1284,7 @@ var vals="mrp="+mrp+"&sp="+sp+"&title="+title+"&purl="+purl+"&img="+img+"&pid="+
 		//alert(email);return false;
 		var email_regex 	= /^[\w%_\-.\d]+@[\w.\-]+.[A-Za-z]{2,6}$/; // reg ex email check
 		var password 		= $("form#login_form input[name='password']").val();
-		alert(password);return; false;
+		//alert(password);return; false;
 
 		/* validation start */
 
@@ -967,39 +1340,57 @@ var vals="mrp="+mrp+"&sp="+sp+"&title="+title+"&purl="+purl+"&img="+img+"&pid="+
 		return false;
 		/* validation end */
 	}); // click end
-
+$('.add_to_wishlist').live("click",function()
+{
+	//alert(1);return false;
+	var prid=$(this).attr('id');
+	$.ajax({
+		type: "POST",
+		url: "http://khoobsurati.com/add-to-wishlist",
+		data:{id:prid},
+		success:function(data){
+                    //alert(data);return false;
+                        if($.trim(data)=='not' ) {
+                            
+			    $(".sign_up_outer.category, .sign_up_box").fadeIn();
+			
+                        } else if(data==1){
+                                alert("Success");
+			} else if(data==2) {
+				alert("Allready Added");
+			} else {
+				alert("failure");
+			}
+		}
+		});
+});
 
 }); // jQuery End
 
 
 
 </script>
-<script async="async" type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-29282163-1']);
-_gaq.push(['_setDomainName', 'khoobsurati.com']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-29282163-1', 'khoobsurati.com');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
 </script>
-<script async="async" type="text/javascript">
+<script async="" type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9096.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 <!--<a title="Google Analytics Alternative" href="http://clicky.com/100667678"><img alt="Google Analytics Alternative" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>-->
-<script async="async" src="//static.getclicky.com/js" type="text/javascript"></script>
-<script async="async" type="text/javascript">try{ clicky.init(100667678); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100667678ns.gif" /></p></noscript>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100745287); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100745287ns.gif" /></p></noscript>
 <script type="text/javascript" src="http://a.pixeltrax.net/px/?c=1f1210f01b4dd64"></script>
-<script async="async" type="text/javascript">var _kmq = _kmq || [];
+<script async="" type="text/javascript">var _kmq = _kmq || [];
 var _kmk = _kmk || 'ae655b71e0a0c6101a67c7766f434301ac326337';
 function _kms(u){
 setTimeout(function(){
@@ -1012,6 +1403,25 @@ f.parentNode.insertBefore(s, f);
 _kms('//i.kissmetrics.com/i.js');
 _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 </script>
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?UgW1rteBbYbk2hqjw3gmZenagAPkAY93';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+<script type="text/javascript">
+var _mfq = _mfq || [];
+(function() {
+var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+mf.src = "//cdn.mouseflow.com/projects/fd409c70-934e-403a-b70b-514482116374.js";
+document.getElementsByTagName("head")[0].appendChild(mf);
+})();
+</script>
+<!--End of Mouse Flow Script-->
 
 
 
