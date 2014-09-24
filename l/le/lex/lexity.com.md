@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035932id_/http%3A//www.lexity.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexity.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924094555id_/https%3A//lexity.com/terms/privacy) for the most accurate reproduction.*
 
 # Terms | Privacy Policy
 
@@ -8,7 +8,7 @@ _On July 30, 2013, Lexity, Inc. was acquired by Yahoo. Currently, information co
 
 * * *
 
-Welcome to the Web site of Yahoo Commerce Central (formerly Lexity), a service of Lexity, Inc., a Delaware corporation and subsidiary of Yahoo! Inc. (collectively, “Lexity,” “Yahoo,” “we,” “our,” or “us"). This privacy policy describes our collection of information from users of our Web site at <http://lexity.com/> (the “Site”) and the various services we provide on the Site (the “Services”), as well as our use and disclosure of that information. By using our Site or our Services, you consent to the collection and use of information in accordance with this policy. 
+Welcome to the Web site of Yahoo Commerce Central (formerly Lexity), a service of Lexity, Inc., a Delaware corporation and subsidiary of Yahoo! Inc. (collectively, “Lexity,” “Yahoo,” “we,” “our,” or “us"). This privacy policy describes our collection of information from users of our Web site at <https://lexity.com/> (the “Site”) and the various services we provide on the Site (the “Services”), as well as our use and disclosure of that information. By using our Site or our Services, you consent to the collection and use of information in accordance with this policy. 
 
 ###  Personal Information 
 
