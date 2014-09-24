@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328110340id_/http%3A//ticketbud.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924023453id_/http%3A//ticketbud.com/info/privacy) for the most accurate reproduction.*
 
 # Ticketbud Privacy Policy 2013
 
@@ -71,5 +71,5 @@ QUESTIONS REGARDING PRIVACY
 If you have questions or concerns about this Privacy Policy or our privacy practices, please contact us by writing to us as follows:
 
 Ideabud LLC.  
-1214 W 6th. St. Suite 210  
-Austin, TX 78703
+1920 S Interstate 35  
+Austin, TX 78704
