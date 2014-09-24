@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092650id_/https%3A//www.drivetime.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924221953id_/https%3A//www.drivetime.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Used Car Search & Online Shopping | DriveTime
 
