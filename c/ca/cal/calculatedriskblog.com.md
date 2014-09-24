@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculatedriskblog.com privacy policy that was archived on 2014-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140129212552id_/http%3A//cr4re.com/Privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculatedriskblog.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924152421id_/http%3A//cr4re.com/Privacypolicy.html) for the most accurate reproduction.*
 
 # CR4RE
 
