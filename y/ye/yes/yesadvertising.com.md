@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605151724id_/http%3A//www.yesadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesadvertising.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925010248id_/http%3A//yesadvertising.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | YesAdvertising
+# YesAdvertising.com
 
 ## Personal Information
 
@@ -8,8 +8,6 @@ At YesUp, we are committed to protecting your privacy. Any information we collec
 
   * PayPal.com:  
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-  * 2checkout.com:  
-[http://www.2checkout.com](http://www.2checkout.com/)
 
 
 
@@ -31,8 +29,6 @@ While we use cookies in other parts of our Web site, cookies received with the p
 
   * PayPal.com:  
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-  * 2checkout.com:  
-[http://www.2checkout.com](http://www.2checkout.com/)
 
 
 
