@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickgame.co.uk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219061634id_/http%3A//www.kickgame.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickgame.co.uk privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924021204id_/http%3A//www.kickgame.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,6 +8,8 @@ We use your Personal Information only for providing and improving the Site. By u
 
 **Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").
+
+> **We do not store credit card details nor do we share customer details with any 3rd parties**
 
 **Log Data**  
 Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
@@ -30,3 +32,5 @@ Kick Game Ltd may update this Privacy Policy from time to time. We will notify y
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please contact us.
+
+[](https://www.positivessl.com/)
