@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsouq.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414032015id_/http%3A//www.kingsouq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsouq.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926005855id_/http%3A//www.kingsouq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
