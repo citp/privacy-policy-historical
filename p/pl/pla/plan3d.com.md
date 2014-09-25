@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409103839id_/http%3A//www.plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926003448id_/http%3A//www.plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Plan3D: Privacy Policy
 
