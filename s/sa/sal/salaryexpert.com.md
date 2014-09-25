@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093716id_/http%3A//www.erieri.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925051521id_/http%3A//www.erieri.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Last Updated:
 
