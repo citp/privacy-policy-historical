@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freebookmarkinglist.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307050557id_/http%3A//freebookmarkinglist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebookmarkinglist.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926014807id_/http%3A//freebookmarkinglist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Bookmarking List
+# Privacy Policy
 
-This Privacy Policy governs the way FreeBookmarkingList collects, uses, maintains and discloses information collected from user of the [http://FreeBookmarkingList.com](http://freebookmarkinglist.com/) site. This privacy policy applies to the Site and all products and services offered by FreeBookmarkingList.
+This Privacy Policy governs the way Free Bookmarking List collects, uses, maintains and discloses information collected from [user](http://freebookmarkinglist.com/tag/user/ "Posts tagged with user") of the Free Bookmarking List site. This privacy policy applies to the Site and all products and services offered by Free Bookmarking List.
 
 **Personal identification information**  
 
@@ -58,9 +58,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[FreeBookmarkingList](http://freebookmarkinglist.com/)
+FreeBookmarkingList
 
-[ http://FreeBookmarkingList.com](http://freebookmarkinglist.com/ "Free Bookmarking List")
+http://FreeBookmarkingList.com
 
 Free Bookmarking List  
 2333 Driftwood Stu 407  
