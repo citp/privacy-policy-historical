@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630130117id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petbarn.com.au privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925122657id_/http%3A//www.petbarn.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -158,4 +158,4 @@ Telephone: 02 8595 3333
 
 Fax: 02 8595 3399
 
-Email: [privacyofficer@petbarn.com.au](mailto:privacyofficer@petbarn.com.au)
+Email: [info@petbarn.com.au](mailto:privacyofficer@petbarn.com.au)
