@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techkgp.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214241id_/http%3A//www.techkgp.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techkgp.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925220932id_/http%3A//www.techkgp.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Technology Blog - Blogger Tips and Tricks - SEO Tutorials
 
