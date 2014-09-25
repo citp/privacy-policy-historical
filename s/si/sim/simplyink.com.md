@@ -1,96 +1,56 @@
-> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214215159id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925233233id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplyink
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.simplyink.com&sealid=101)
+Your privacy is important to us. This Privacy Policy (“Policy”) explains how Simplyink (referred to hereafter as “we,” “us,” “our,” “Simplyink.com” or “Simplyink”) handle your personal information when you use our website (http://www.Simplyink.com), applications and services (referred to hereafter collectively as “Website”). When you use the Website, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
 
-### Our Commitment To Privacy
+  1. **Collection of Personal Information.** We do not automatically collect personal information when you browse the Website. We only collect personally identifiable information, such as your name, address, telephone number, email address, credit card information and date of birth when you specifically and knowingly provide it to us by registering to create an account, placing an order, completing online forms, opting in to receive our newsletter and promotional offers or entering a sweepstakes, contest or drawing. When you use the website to apply for employment opportunities, we may collect additional personal information such as your resume. Information that you furnish to Simplyink is used to provide the services available through the Website. 
+  2. **Automatically-Collected Information.** We automatically collect non-personal information about the computer or devices (including mobile devices) you use to access the Website. For example, we may collect and store information such as your browser type, IP address, language, operating system, location of your wireless device (e.g. latitude and longitude), the state or country from which you accessed the Website, unique device identifier (e.g. a UDID or IDFA on Apple devices), the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting the Website, error logs and other hardware and software information. This automatically collected information does not identify and is not associated with any specific individuals. We may use third party analytics providers and technologies, including cookies and similar tools to assist in collecting this information. We may use this information to formulate statistical models about use of the Website, enhance the services available through the Website for other users, and to provide you with tailored content and advertising. 
+  3. **Use of Your Information.** We use your information for the purpose for which you provided it, and we may also use your information for other purposes such as to: 
+    * Create and maintain your account or registration;
+    * Enhance the user experience;
+    * Perform research and analytics
+    * Customize and personalize the content and advertising that you see on the Website;
+    * Respond to and fulfill your request for services (including processing orders);
+    * Determine your eligibility for certain promotions, contets and services; and
+    * Send you communications related to your account and to alert you of the latest developments and features of the Website.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+We use information your provide about someone else when placing an order only to ship the product to that person and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-Simplyink is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Website [ www.simplyink.com](http://www.simplyink.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+  4. **Disclosure of Your Information to Third Parties.** We use third parties to complete certain services that are provided through the Website, such as a shipping company to fulfill orders, a credit card processing company to bill you for your orders, and an email service provider to send you newsletters in the event you opt-in to receive them. We use Live Chat to assist you if you have questions while using our site or regarding your order and we use an applicant-management database to process employment submissions. We only share your information with these third parties to the extent that it is necessary to provide a particular service. These third parties are prohibited from using your information for other purposes. 
 
-If you have questions or concerns regarding this statement, you should first contact us at [ info@simplyink.com](mailto:info@simplyink.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url)
+We may also share your information in the following ways: 
 
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+    * We may make information collected through the Website available to affiliated brands that are under common ownership or control as the Website. 
+    * We may share, as allowed by law, information about you with other companies who we believe may have products and services of interest to you. If you would like to opt-out of our sharing of your information with these other companies, please follow the instructions in the “Opting out of Emails and Promotional Communications” section below. 
+    * We may share your information with any person or entity where we believe in good faith that such disclosure is necessary to: (a) comply with the law or in response to a subpoena, court order, government request or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) protect the interests, rights, safety or property of Simplyink or others; (d) enforce the Terms of Use on the Website; (e) provide users of the Website with the services they request; (f) provide you with special offers or promotions from us; and (g) If Simplyink is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+  5. **Use of Cookies and Other Technology.** The Website uses “cookie” technology and similar online tools, such as web beacons and web pixels. “Cookies” are small files that a website stores on a user’s computer or device. The Website uses Cookies to keep the information you enter on multiple pages together. The majority of the cookies that we use are “session cookies” that are automatically deleted from your hard drive after you close your browser at the end of your session. Session cookies are used to optimize performance of the Website and to limit the amount of redundant data that is downloaded during a single session. Simplyink also uses “persistent cookies” which remain on your computer or device unless deleted by you (or by your browser’s settings). We use persistent cookies for statistical analysis of the Website’s performance to ensure the ongoing quality of the services provided through the Website. We do not use cookies to obtain or retain any personal information about you apart from what you voluntarily provide us. Most web browsers automatically accept cookies, but web browsers can be set to block cookies (consult your browser’s instructions on how to block cookies). Please note that blocking cookies may interfere with your ability to perform certain transactions, use certain functionality, and access certain content on the Website. 
 
-### The Information We Collect
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We connect the information gathered to our Customers’ or Users’ personally identifiable information. 
 
-This notice applies to all information collected or submitted on the Simplyink website. 
+  6. **Tailored Advertising.** The Website may include third party tailored ad technology from our ad partners which enables customized ads to be displayed to you through the Website and that manages our advertising on other sites. We do not share personal information with these third parties; however, when you use the Website, we or our third party ad partners operating the ad serving technology may use non-personal information that is collected through cookies, anonymous identifiers, such as an IDA on iOS devices, web beacons, pixels or clear GIFs to ensure that appropriate ads are presented and/or to perform analytics concerning your use of the Website and other websites tracked by our ad partners. These technologies also may control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. To the extent any of this information is collected by third parties, you acknowledge and agree that such collection and use is governed by those third parties’ privacy policies and that Simplyink is not responsible for the privacy practices of such third parties. The Website is not designed to respond to “do not track” signals or mechanisms from your web browser. 
 
-**__Registration__** In order to use this Web site, we request certain personally identifiable information from you on the registration form. During registration you are required to give contact information (such as name, address and email address). We use this information to contact you about the services on our site in which you have expressed interest. Simplyink is the sole owner of the information collected on [www.simplyink.com](http://www.simplyink.com/). Simplyink collects personally identifiable information from our users at several different point on our Web site. 
+If you are interested in more information about tailored ads and your choices to prevent third parties from delivering tailored ads, you may visit the following third party websites: the Network Advertising Initiative Consumer Opt-Out Page by clicking [here](https://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s Consumer Opt-Out Page by clicking [here](http://www.aboutads.info/choices/). 
 
-**__Orders__**
+  7. **User-Initiated Communication.** From time to time, portions of the Website may enable you to send emails and other types of messages to us or third parties. All such emails, messages and written communications become our property once you submit them. Whenever you choose to initiate these kinds of communications with us, you may be contacted in return. 
+  8. **Customer Reviews.** We post customer reviews on the Website which may contain personally identifiable information as well as a photo of your product. We will obtain a customer’s consent by email prior to posting their review. 
+  9. **Opting In and Out of Emails and Promotional Communications.** To receive newsletters and other promotional communications by email, users may voluntarily sign up on the Website. From time to time, we may send you email notices or news updates alerting you to new features, products, promotions, services pertaining to our offerings, or other topics that may be of interest to you. If you no longer wish to receive promotional materials from us, you may opt out of receiving these communications by following the instructions included in each newsletter or communication or by emailing us at [email@simplyink.com](mailto:email@simplyink.com). Please note that these opt-out processes take some time to complete, consistent with applicable law. 
+  10. **Data Security.** We follow generally accepted industry standards to protect the personally identifiable information that we receive from you, while the information is being transmitted and once we receive it. When you provide us with sensitive information (such as credit card information) on our order forms, we encrypt the information using secure socket layer technology, which is commonly referred to as “SSL.” However, despite our best efforts, no method of transmission over the internet, or method of electronic storage is 100% secure. We encourage you to contact us immediately if you believe that any personally identifiable information that you have provided us is being used contrary to this Policy. 
+  11. **Privacy of Children.** Protecting the privacy of children is especially important to us. We do not knowingly market, collect or maintain any personal information from children under the age of 13. If a parent or guardian believes that we have personal information of a child under the age of 13 in our database, they should contact us immediately at [email@simplyink.com](mailto:email@simplyink.com) and we will promptly remove such information from our records. 
+  12. **Accessing or Correcting Your Information.** If your personally identifiable information changes, is inaccurate, or if you no longer wish to use the services offered through the Website, you may notify us by emailing our customer support at [email@simplyink.com](mailto:email@simplyink.com) or by contacting us by telephone or mail at the contact information listed below. You may request factual errors to be corrected in your personally identifiable information by sending us a request that credibly shows the errors. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. 
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email@simplyink.com](mailto:email@simplyink.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-### The Way We Use Information 
+  13. **Third Party Links and Services.** The Website may contain links to third-party websites including social networking websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services to which we link. We do not endorse or make any representations about third-party websites or services. The personal information you choose to provide to such third parties, or that is collected by them, is not covered by this Policy. We strongly encourage you to read such third parties’ privacy policies. 
+  14. **Social Media Features and Widgets.** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+  15. **Single Sign-On.** You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+  16. **Contacting Us.** If you have any questions about the Policy, contact us by sending an email to [email@simplyink.com](mailto:email@simplyink.com). You can also call us at (800) 871-9095 or write to us at:  Simplyink  
+3700 Cover St.  
+Long Beach, CA 90808 
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of Simplyink’ policies or procedures. 
 
-We use return email addresses to answer the email we receive. Such addresses are not not shared with outside parties. 
+  17. **Updates to Policy.** We may amend this Policy at any time by posting the changes on this page. Any changes to the Policy will become effective upon posting. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of the Website following any changes means you accept such revisions. You should check the effective date of the Policy below and review any changes since the last time you used the website. 
+  18. **Effective Date.** This Policy is effective as of March 3, 2014. 
 
-**__Newsletters__**
 
-You can subscribe to receive newsletter(s) and promotional offers from us, which may include promotional offers from our parent brand, LD Products. We will use your name and email address to send you the newsletter and promotional offers. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. 
-
-__**Agents/Service Provider** s__
-
-We use other third parties such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf [a third party marketing provider to provide broadcast email services for us]. We use Live Chat to assist you if you have questions while using our site or regarding your order. When you access our Live Chat feature, we will share your IP address as necessary for the third party to provide that service. 
-
-These third parties are prohibited from using your personally identifiable information for promotional purposes
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process service on our Web site. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we do not share, sell, rent or trade the personally identifiable information provided to us online with third parties other than as described within this privacy policy.
-
-__**Cookies**__
-
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you closer your browser. A persistent cookies remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
-
-_Third Party Cookies_
-
-The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These Third parties use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping card, etc.
-
-**Clear Gifs (Web Beacons/Web Bugs)**
-
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contract to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
-
-### Our Commitment To Data Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-### Choice / Opt-Out
-
-If you no longer wish to receive our newsletter and promotional offers, you may opt-out of receiving them by following the instructions included in each newsletter, promotional offer or by emailing us at [ info@simplyink.com](mailto:info@simplyink.com).
-
-### Our Commitment To Children’s Privacy
-
-Protecting the privacy of the very young is especially important. For that reason, we do not knowingly collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-### How You Can Access Or Correct Your Information
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change on within your account after logging in or by emailing our Customer Support at [ info@simplyink.com](mailto:info@simplyink.com) or by contacting us by telephone or postal mail at the contact information listed below. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**Customer Reviews**
-
-We post customer reviews on our web sites which may contain personally identifiable information as well as a photo of your product. We do obtain the customer's consent via email prior to posting the review to post their name and photo of the product along with their review.
-
-### Updates and Changes to Privacy Policy
-
-If we decide to change our privacy practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we change how we use your personally identifiable information, we will notify, by email, and/or by means of a notice on our Web site. 
-
-### How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please call us at [800.871.9095], send us an [email](mailto:info@simplyink.com). All mail inquiries can be sent to: 3700 Cover St. Long Beach, CA 90808 
-
-  
-Effective March 2, 2010
