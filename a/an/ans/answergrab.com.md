@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the answergrab.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815152607id_/http%3A//www.answergrab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answergrab.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925152554id_/http%3A//www.answergrab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnswerGrab.com
 
-AnswerGrab (MMP) is very committed to protecting the privacy of our users. The goal of this policy is to outline the information that we may gather and how we use it. This policy pertains to [www.monstermarketplace.com ](http://www.monstermarketplace.com/). For further information, please also view our [Malware Policy & Disclaimer](https://web.archive.org/malware-policy-and-disclaimer)
+MonsterMarketplace (MMP) is very committed to protecting the privacy of our users. The goal of this policy is to outline the information that we may gather and how we use it. This policy pertains to [www.monstermarketplace.com ](http://www.monstermarketplace.com/). For further information, please also view our [Malware Policy & Disclaimer](https://web.archive.org/malware-policy-and-disclaimer)
 
 ## Overview
 
@@ -12,7 +12,7 @@ AnswerGrab (MMP) is very committed to protecting the privacy of our users. The g
   * MMP does have physical, procedural, and electronic safeguards put in place to protect you.
   * MMP may collect aggregate date about you and your store so to better serve you.
   * If you contact MMP, we may keep a record of that correspondence and we may collect your email address.
-  * AnswerGrab may include content and ads from third parties that may perform user activity tracking other than that described herein.
+  * MonsterMarketplace may include content and ads from third parties that may perform user activity tracking other than that described herein.
   * MMP may need to disclose personal information when required by law.
   * MMP may use third party service providers to serve ads and emails on our behalf.
   * MMP is not intended for use by children under the age of 13.
