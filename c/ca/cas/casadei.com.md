@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casadei.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524024942id_/http%3A//www.casadei.com/Privacy-Policy/privacy-policy%2Cen%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casadei.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925150154id_/http%3A//www.casadei.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy | Casadei
 
@@ -6,13 +6,13 @@
 
 Welcome to our website www.casadei.com ("Website"). Please read our Privacy Policy carefully. This Privacy Policy applies when you visit or browse our web site without purchasing any product, when you register with www.casadei.com, and when you use our services for purchasing products. If you haven't already done so, please also read the General Terms and Condition of Use of www.casadei.com, which contain information on privacy as well as on the security systems used by the web site.
 
-The website www.casadei.com is managed by The Level Group S.r.l. ("TLG"), an Italian company with its registered office in Italy at Via Santa Sofia 27, 20122, Milan, business register number, tax code and VAT number 07234250962.
+The website www.casadei.com is managed by The Level Group S.r.l. ("TLG"), an Italian company with its registered office in Italy at Piazza Arcole 4, 20143, Milan, business register number, tax code and VAT number 07234250962.
 
 TLG controls the use of www.casadei.com users' personal data together with Calzaturificio Casadei S.p.A. ("Casadei" - ADDRESS: PO 52, Via XX Settembre 87, 47030 San Mauro Pascoli, Forlì-Cesena - tax code and VAT number 00918440405) - (jointly referred to as "TLG and Casadei").
 
 ### 1\. Our Policy
 
-Everyone has the right to protection of his/her personal data. TLG and Casadei respect its users' right to be informed regarding the collection of and other operations involving their personal data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we have designed www.casadei.com in such a way that the use of your personal data will be kept to a minimum and will not exceed the purposes for which your personal data was collected and/or processed; we do not process your personal data when we can provide you with services through the use of anonymous data (such as marketing research made for improving our services) or by other means which allow TLG and Casadei to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). TLG and Casadei determine the purposes and means for processing your personal data, including security measures, as TLG and Casadei control www.casadei.com users' personal data. This Privacy Policy provides you with all information needed to understand how we collect data which may identify www.casadei.com's users. For further information on our Privacy Policy, please contact us at [support@mail.casadei.com](mailto:support@mail.casadei.com), or at The Level Group, Via Santa Sofia, 27 - 20122, Milano, Italy.
+Everyone has the right to protection of his/her personal data. TLG and Casadei respect its users' right to be informed regarding the collection of and other operations involving their personal data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we have designed www.casadei.com in such a way that the use of your personal data will be kept to a minimum and will not exceed the purposes for which your personal data was collected and/or processed; we do not process your personal data when we can provide you with services through the use of anonymous data (such as marketing research made for improving our services) or by other means which allow TLG and Casadei to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). TLG and Casadei determine the purposes and means for processing your personal data, including security measures, as TLG and Casadei control www.casadei.com users' personal data. This Privacy Policy provides you with all information needed to understand how we collect data which may identify www.casadei.com's users. For further information on our Privacy Policy, please contact us at [support@mail.casadei.com](mailto:support@mail.casadei.com), or at The Level Group, Piazza Arcole, 4 - 20143, Milano, Italy.
 
   
 
@@ -25,7 +25,7 @@ The above mentioned processors have been chosen by TLG and Casadei because of th
 
 Aside from the companies appointed for personal data processing, your information will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by user (for example, for purchase transactions). For more information on the matter, see section 5 (To Whom Your Personal Data Will Be Disclosed).
 
-Please contact our [Customer Service](http://www.casadei.com/on/demandware.store/Sites-Casadei-EU-Site/en/CustomerService-Show) or send us an e-mail at [support@mail.casadei.com](mailto:support@mail.casadei.com), in order to receive a full list of data processors.
+Please contact our [Customer Service](http://www.casadei.com/on/demandware.store/Sites-Casadei-EU-Site/default/CustomerService-Show) or send us an e-mail at [support@mail.casadei.com](mailto:support@mail.casadei.com), in order to receive a full list of data processors.
 
   
 
