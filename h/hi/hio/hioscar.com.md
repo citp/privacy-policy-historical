@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hioscar.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209045114id_/https%3A//www.hioscar.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hioscar.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925181656id_/https%3A//www.hioscar.com/legal/privacy) for the most accurate reproduction.*
 
 # Oscar
-
-[Oscar](https://web.archive.org/)
 
 Thank you for registering at [www.HiOscar.com](https://web.archive.org/). At Oscar, it is our policy to protect your information. We know that we have a lot of information about you and want to be sure that we use it the right way. 
 
