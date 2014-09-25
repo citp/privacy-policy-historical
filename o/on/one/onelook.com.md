@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074111id_/http%3A//www.onelook.com/about.shtml%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelook.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925114635id_/http%3A//onelook.com/about.shtml%23privacy) for the most accurate reproduction.*
 
 # OneLook Dictionary Search
 
