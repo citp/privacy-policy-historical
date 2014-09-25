@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmarketingideas.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427000508id_/http%3A//www.goodmarketingideas.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmarketingideas.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175051id_/http%3A//www.goodmarketingideas.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
