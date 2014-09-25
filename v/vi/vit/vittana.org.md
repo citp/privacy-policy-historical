@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vittana.org privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314184026id_/http%3A//www.vittana.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vittana.org privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926001459id_/http%3A//www.vittana.org/about/privcy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vittana
+# Vittana - Privacy Policy
 
-Last Revised: December 14, 2010
+## Last Revised: December 14, 2010
 
 This Privacy Policy ("Policy") explains how personal information is collected, used, and disclosed by Vittana and its subsidiaries and affiliated companies ("Vittana"). Personal information covered by this Policy includes information collected when you use our websites, located at [www.vittana.org](http://www.vittana.org/) and [blog.vittana.org](http://blog.vittana.org/) ("Site" or collectively "Sites"), or otherwise interact with Vittana. We reserve the right to change this Policy at any time. If we change this Policy, we will update the "Last Revised" date above. We encourage you to review this Policy from time to time to make sure you understand how any personal information you provide will be used. 
 
@@ -63,4 +63,4 @@ Most Web browsers are set to accept cookies by default. If you prefer, you can u
 
 ### Questions?
 
-If you have any questions about this Policy, please [contact us](http://community.vittana.org/). 
+If you have any questions about this Policy, please [contact us](mailto:questions@vittana.org). 
