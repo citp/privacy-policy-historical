@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613193350id_/http%3A//www.wrike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925144855id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
 
 # Wrike Privacy Policy
 
@@ -31,6 +31,10 @@ We may use cookies in connection with our websites and services and some of the 
 Most or all browsers permit you to disable or reject cookies. You can do this by setting the preferences in the browser. Use the "help" feature of your browser to obtain more information about refusing cookies. However, if you set the browser you use to reject cookies or otherwise disable them, you may not be able to use any or all of the functionality at one or more of the sites or it may take additional time to utilize such functionality. If you wish to use any such functionality that requires the use of cookies at any of our sites, then you must accept the use of cookies for that site, and thereby, give us your permission to link your data as discussed above.
 
 One or more of the organizations working with us to develop or provide our services or products, or with which we otherwise do business, or to which we provide links from a site, may also use cookies of their own. We have no control over such organizations' uses of cookies and users should review the privacy policies of such organizations to determine the uses such organizations make of cookies.
+
+### Browser add-in for task tracking
+
+In order to help track tasks youcreate on websites and enable you to share those tasks with others as you choose, and to check whether anyone else has shared any tasks with you, we may analyze information about the sites you have visited to determine if any relevant tasks are associated with them. To do this, Wrike’s browser extension will check the sites you visit to see if any tasks are associated with them in Wrike accounts you are part of. If so, the browser extension then submits information about only those domain names which have tasks associated with them to Wrike’s servers, using an encrypted format, so that the servers can search for indexed tasks belonging to (or shared with) your existing account. If there are any such tasks associated with the domain and URL you have visited, the Wrike server will return names of tasks relevant for the visited domain and URL back to your browser extension. The browser extension performs the initial screening of the domains you have visited to identify those for which tasks have been created and only sends information about those domains and URLs on to the Wrike servers. **The information sent to the Wrike servers to perform this check is not stored on the Wrike servers.**
 
 ### Sharing of Information
 
@@ -70,23 +74,13 @@ For the purposes of any applicable law regarding notification of persons whose p
 
 If your personal information changes, or if you have reason to believe that your personal information as we maintain it is incorrect, you may contact us using the contact information below and we will accommodate all reasonable requests for such changes.
 
-### Choice/Opt-out
+### Information about Unsubscribing and Opting Out
 
-Users who no longer wish to receive promotional materials or have their information provided to third parties may opt to not receive such communications or have information shared by contacting us using the information below or as otherwise indicated on the applicable site(s) and/or promotions. If you opt not to receive such communications or allow us to share your information and then give your personal information to us again using a site or under other circumstances that permit us to use your information, we will regard your opt-out as rescinded. In most cases, it is impractical for use to stop any other third party to whom we have supplied your information pursuant to the terms of this Policy from continuing to use such information. In other words, opting out will usually not stop other third parties to whom we have provided your information from continuing to use it.
+Users who no longer wish to receive newsletters or other promotional materials will generally be provided with a link or other mechanism to use to unsubscribe from the receiving the respective materials. You may opt out of receiving such newsletters or other promotional materials by following the procedure provided there.
 
-Please be advised that for certain communications (such as related to your account information or system status) and/or the sharing of certain of your information, it may not be possible to permit you to opt out and your only option would be to terminate your service.
+If you have any questions about your privacy rights, or how to opt-out of having your information shared other than as described above, please contact the Privacy Officer at the address below. Please note, for certain communications (such as related to your account information or system status) and the sharing of certain of your information, it may not be possible for you to just opt out of having your information shared; your only option would be to terminate your service.
 
-If you (a) wish to begin or end receipt of newsletters or promotional information, (b) wish to update your user information, or (c) wish to opt in or out of any other service offered through the site, and do not wish to, or are unable to do so as provided for on the applicable site, please contact our technical personnel using the following information. Please be sure to include your name and your user name (if applicable), but do not include any information regarding your password(s), if any.
-
-Tech Support  
-Wrike, Inc.  
-200 W. Evelyn Avenue  
-Suite 110  
-Mountain View, CA 94041
-
-[support at team.wrike.com](mailto:support@team.wrike.com)
-
-To change your preference with regard to the way your information is treated, contact:
+In most cases, it is impractical for us to stop any other third party to whom we have supplied your information pursuant to the terms of this Policy from continuing to use such information after you have opted out. In other words, opting out will usually not stop other third parties to whom we have provided your information from continuing to use it.
 
 Privacy Officer  
 Wrike, Inc.  
