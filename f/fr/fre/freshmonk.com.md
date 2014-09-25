@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328161510id_/http%3A//www.freshmonk.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925193303id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreshMonk
 
@@ -33,7 +33,7 @@ As is true of most websites, we automatically gather information about your comp
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-If you participate in a white-labeled enterprise campaign (identified by the enterprise having their logo in the top left of the campaign, as opposed to the FreshMonk logo) we may share your name, email address and order breakdown of size and quantity with the enterprise customers for the purposes of continued contact. This information is encrypted on the FreshMonk database and is only decrypted to send to the enterprise client securely. After this has been complete, the plain-text data is purged from the FreshMonk server. To opt out of this marketing, please contact the white-labeled enterprise customer.
+If you participate in a white-labeled enterprise campaign (identified by the enterprise having their logo in the top left of the campaign, as opposed to the FreshMonk logo) we may share your name, email address and order breakdown of size and quantity with the enterprise customers for the purposes of continued contact. This information is encrypted on the FreshMonk database and is only decrypted to send to the enterprise client securely. After this has been completed, the plain-text data is purged from the FreshMonk server. To opt out of this marketing, please contact the white-labeled enterprise customer.
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also disclose your personal information:
 
