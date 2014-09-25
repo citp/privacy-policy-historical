@@ -1,52 +1,35 @@
-> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303114700id_/http%3A//www.clickpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpay.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925112257id_/http%3A//site.clickpay.com/privacy.html) for the most accurate reproduction.*
 
-# WorldPay About Us
+# ClickPay - Privacy Policy
 
-**Introduction**
+**Overview**  
+At ClickPay, A Division of NovelPay LLC, protecting our users’ privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.
 
-We (WorldPay Limited) are committed to protecting your privacy. We recognise our responsibility to keep confidential at all times any information about you which we acquire in connection with your application. WorldPay Limited is owned by The Royal Bank of Scotland Group plc. We protect your personal information to an equivalent high standard to that which you would experience through any other channels of the bank, such as bank branches, cash machines or on the telephone. Please note however that our responsibility is necessarily limited to protection by us of information which we obtain.
+**How we protect and store personal information:**  
+We store and process your personal information on our computers in the US where our facilities are located. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, access controls to our database, and information access authorization controls.
 
-**Collection of Information**
+**How we use the personal information we collect**  
+Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to: 
 
-To enable us to process your application we will typically acquire information which includes your name, your e-mail and business addresses, and other relevant business details.
-
-**Use and disclosure of Information**
-
-Your information includes information about your transactions.
-
-We may use and share your information with other members of the Group to help us and them:
-
-  * assess financial and insurance risks;
-  * recover debt;
-  * prevent and detect crime;
-  * understand our customers' requirements;
-  * develop and test products and services
+  * customize, measure, and improve our services and the content, layout, and operation of our websites and applications;
+  * provide ClickPay services and customer support;
+  * process transactions and send notices about your transactions;
+  * resolve disputes, collect fees, and troubleshoot problems;
+  * prevent potentially prohibited or illegal activities, and enforce our User Agreement;
+  * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences;
+  * contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging;
+  * compare information for accuracy and verify it with third parties.
 
 
 
-We do not disclose your information to anyone outside the Group except:
+**Marketing**  
+If you do not wish to receive marketing communications from us, simply select the unsubscribe option in our email communications. We may call or text message (SMS) you at a mobile phone number that you have provided to us. We respect your communication preferences. If you no longer wish to receive notifications, you can also email us at support@clickpay.com. 
 
-  * where we have your permission; or
-  * where we are required or permitted to do so by law; or
-  * to other companies who provide a service to us or you 
-  * where we may transfer rights and obligations under this agreement.
+**How you can access or change your personal information**  
+NovelPay, LLC dba ClickPay Operational and Compliance Risk Management You can review and edit your personal information at any time by logging in to your account and selecting “My Profile”. You can also close your account on the ClickPay website by contacting customer support at 800.533.7901. If you close your ClickPay account, we will mark your account in our database as "Closed," but may retain personal information from your account to collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud, enforce our User Agreement, or take other actions as required or permitted by law.
 
+**How you can contact us about privacy questions**  
+If you have questions or concerns regarding this policy, you should contact us by:  
+Email: support@clickpay.com  
+Phone: (800) 533.7901  
 
-
-We may transfer your information to other countries. If we do this we will ensure that anyone to whom we pass it provides an adequate level of protection.
-
-From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we shall write to you. If you do not object to the change within 60 days, you consent to that change.
-
-If you would like a copy of the information we hold about you, please write to: The Royal Bank of Scotland plc, 36 St Andrew Square, Edinburgh, EH2 2YB. A fee may be payable.
-
-**Security**
-
-WorldPay is committed to protecting the security of your data. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities.
-
-**Cookies**
-
-Cookies are text files, used by your computer's browser, that store visitor session data. Cookies, by themselves, do not identify the individual user. Cookies are commonly used on the Internet and do not harm your system.
-
-We currently use cookies to collate general management data which is used to plan enhancements to our services. WorldPay **never** stores any personal information in cookies (on any computer that you may use) that can be used to identify you, such as your name or account numbers.
-
-If you do not want us to use cookies you may be able to configure your browser not to accept them. Please refer to your browser's 'help' facility for further information. However, you should bear in mind that this may affect our ability to process the transactions you wish to have authorised.
