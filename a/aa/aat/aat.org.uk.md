@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215430id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175012id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
 
 # AAT privacy policy | AAT
 
@@ -63,6 +63,15 @@ In no circumstances do we collect any data that is not directly related to the u
 The log files or any information they contain about your use of the site will not be made available to any third parties other than as anonymous usage statistics.
 
 Browser information is also collected with your name, email address and, if appropriate, membership number if you complete a 'contact us' feedback form.
+
+Our site uses the following two Google Analytics advertising features:
+
+  * DoubleClick platform integration
+  * Demographics and interest reporting.
+
+
+
+Google Analytics collects data about our site’s traffic via the use of Google advertising cookies. We will never match any personally identifiable information with non-personally identifiable information through the use of these Google Advertising features. You can [opt out of the use of Google Analytics advertising features](https://tools.google.com/dlpage/gaoptout/) if you wish.
 
 ### Other websites
 
