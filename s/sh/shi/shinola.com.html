@@ -1,66 +1,61 @@
-<!--The following is the downloaded HTML source of the shinola.com privacy policy that was archived on 2014-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140514203534id_/http%3A//www.shinola.com/customer-service/general-resources/security-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shinola.com privacy policy that was archived on 2014-09-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140925080448id_/http%3A//www.shinola.com/customer-service/general-resources/security-privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" wf-loading"><head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-B5QC"></script><script src="//use.typekit.net/uxg4krw.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcAVlRRGwEIVVFTDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-B5QC"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcAVlRRGwEIVVFTDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:15,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:16,ee:"QJf3ax"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:16,2:15,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:16,2:15,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:16,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:9,2:12,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],12:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],15:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],16:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:15,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta property="og:url" content="http://www.shinola.com/customer-service/general-resources/security-privacy">
+<script src="//cdn.optimizely.com/js/293778310.js"></script><meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//edgecdn.shinola.com">
+<meta name="description" content="At Shinola, we provide our privacy policy and the details of our checkout security because we value our customers and believe in full transparency.">
 <link rel="canonical" href="http://www.shinola.com/customer-service/general-resources/security-privacy">
 <link rel="shortlink" href="http://www.shinola.com/node/376">
-<meta property="og:image" content="http://www.shinola.com/sites/all/themes/shinola/media/facebook-thumbnail.jpg">
 <meta property="og:type" content="article">
+<meta property="og:url" content="http://www.shinola.com/customer-service/general-resources/security-privacy">
 <meta property="og:title" content="Security &amp; Privacy">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//d12nii4cu09w6n.cloudfront.net">
-<script src="//cdn.optimizely.com/js/293778310.js"></script><meta name="description" content="At Shinola, we provide our privacy policy and the details of our checkout security because we value our customers and believe in full transparency.">
 <meta property="og:description" content="Security &amp; Privacy">
+<meta property="og:image" content="http://www.shinola.com/sites/all/themes/shinola/media/facebook-thumbnail.jpg">
 <title>Customer Information Protection | Shinola.com</title>
-<style>@import url("http://d12nii4cu09w6n.cloudfront.net/modules/system/system.base.css?n5j2pv");</style>
-<style>@import url("http://d12nii4cu09w6n.cloudfront.net/modules/search/search.css?n5j2pv");</style>
-<style>@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/normalize.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/forms.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/layout.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/jquery.qtip.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/navigation.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/qtip.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/typography.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/combine-for-production/social.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/tour.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/responsive-mobile.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/admin.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/partnerships.css?n5j2pv");
-@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/colorbox.css?n5j2pv");</style>
+<style>@import url("http://edgecdn.shinola.com/modules/system/system.base.css?ncd6xy");</style>
+<style>@import url("http://edgecdn.shinola.com/modules/search/search.css?ncd6xy");</style>
+<link rel="stylesheet" href="/shop/skin/frontend/base/default/css/shinola/flags/css/flag-icon.css">
+<style>@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/normalize.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/forms.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/font-awesome-4.1.0/css/font-awesome.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/layout.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/newsletter-modal.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/jquery.qtip.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/navigation.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/qtip.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/typography.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/combine-for-production/social.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/tour.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/responsive-mobile.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/admin.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/partnerships.css?ncd6xy");
+@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/colorbox.css?ncd6xy");</style>
 
 <!--[if lt IE 9]>
-<style>@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/ie8-and-below.css?n5j2pv");</style>
+<style>@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/ie8-and-below.css?ncd6xy");</style>
 <![endif]-->
 
 <!--[if IE 9]>
-<style>@import url("http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/css/ie9.css?n5j2pv");</style>
+<style>@import url("http://edgecdn.shinola.com/sites/all/themes/shinola/css/ie9.css?ncd6xy");</style>
 <![endif]-->
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/misc/jquery.once.js?v=1.2"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/misc/drupal.js?n5j2pv"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/modules/shinola/shinola_mods/js/froogaloop.js?n5j2pv"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/modules/shinola/shinola_mods/js/plugins.js?n5j2pv"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/modules/shinola/shinola_mods/js/shinola_mods.script.js?n5j2pv"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/modules/shinola/shinola_mods/js/shinola_mods.mobile.js?n5j2pv"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/js/viewport.js?n5j2pv"></script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/themes/shinola/js/jquery.hoverIntent.minified.js?n5j2pv"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"shinola","theme_token":"3SHl4GIo0YKmN1JYWn1WfXum_FsETYzMZglHJ8fsGV8","js":{"sites\/all\/modules\/shinola\/shinola_mods\/js\/modernizr-2.5.3.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/froogaloop.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/plugins.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/shinola_mods.script.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/shinola_mods.mobile.js":1,"sites\/all\/themes\/shinola\/js\/viewport.js":1,"sites\/all\/themes\/shinola\/js\/jquery.hoverIntent.minified.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/search\/search.css":1,"sites\/all\/themes\/shinola\/css\/normalize.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/forms.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/layout.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/jquery.qtip.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/navigation.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/qtip.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/typography.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/social.css":1,"sites\/all\/themes\/shinola\/css\/tour.css":1,"sites\/all\/themes\/shinola\/css\/responsive-mobile.css":1,"sites\/all\/themes\/shinola\/css\/admin.css":1,"sites\/all\/themes\/shinola\/css\/partnerships.css":1,"sites\/all\/themes\/shinola\/css\/colorbox.css":1,"sites\/all\/themes\/shinola\/css\/ie8-and-below.css":1,"sites\/all\/themes\/shinola\/css\/ie9.css":1}}});</script>
-<script>
-(function(window, document, undefined) {
-  var config = {
-    kitId: 'uxg4krw',
-    scriptTimeout: 3000
-  };
-  var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
-})(this, this.document);
-</script>
+<script src="http://edgecdn.shinola.com/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script src="http://edgecdn.shinola.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://edgecdn.shinola.com/misc/drupal.js?ncd6xy"></script>
+<script src="http://edgecdn.shinola.com/sites/all/modules/shinola/shinola_mods/js/froogaloop.js?ncd6xy"></script>
+<script src="http://edgecdn.shinola.com/sites/all/modules/shinola/shinola_mods/js/plugins.js?ncd6xy"></script>
+<script src="http://edgecdn.shinola.com/sites/all/modules/shinola/shinola_mods/js/shinola_mods.script.js?ncd6xy"></script>
+<script src="http://edgecdn.shinola.com/sites/all/modules/shinola/shinola_mods/js/shinola_mods.mobile.js?ncd6xy"></script>
+<script src="http://edgecdn.shinola.com/sites/all/themes/shinola/js/viewport.js?ncd6xy"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"shinola","theme_token":"A3WLYU6qQSyqxCuIVai6Rddpw1KYYrdlavSCOPC1s5o","js":{"sites\/all\/modules\/shinola\/shinola_mods\/js\/modernizr-2.5.3.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/froogaloop.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/plugins.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/shinola_mods.script.js":1,"sites\/all\/modules\/shinola\/shinola_mods\/js\/shinola_mods.mobile.js":1,"sites\/all\/themes\/shinola\/js\/viewport.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/search\/search.css":1,"\/shop\/skin\/frontend\/base\/default\/css\/shinola\/flags\/css\/flag-icon.css":1,"sites\/all\/themes\/shinola\/css\/normalize.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/forms.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/font-awesome-4.1.0\/css\/font-awesome.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/layout.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/newsletter-modal.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/jquery.qtip.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/navigation.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/qtip.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/typography.css":1,"sites\/all\/themes\/shinola\/css\/combine-for-production\/social.css":1,"sites\/all\/themes\/shinola\/css\/tour.css":1,"sites\/all\/themes\/shinola\/css\/responsive-mobile.css":1,"sites\/all\/themes\/shinola\/css\/admin.css":1,"sites\/all\/themes\/shinola\/css\/partnerships.css":1,"sites\/all\/themes\/shinola\/css\/colorbox.css":1,"sites\/all\/themes\/shinola\/css\/ie8-and-below.css":1,"sites\/all\/themes\/shinola\/css\/ie9.css":1}}});</script>
+<script type="text/javascript" src="//use.typekit.net/nsb7wrt.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="drupal html not-front not-logged-in no-sidebars page-node page-node- page-node-376 node-type-page-with-text with-sidebar customer-service">
+<body class="drupal html not-front not-logged-in no-sidebars page-node page-node- page-node-376 node-type-page-with-text website-base with-sidebar customer-service">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-B5QC"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -69,208 +64,436 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-B5QC');</script>
-<!-- End Google Tag Manager -->
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-X7qFfv0gyFWrK"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-X7qFfv0gyFWrK.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag --><div class="headers clearfix">
+<!-- End Google Tag Manager --><div class="headers clearfix">
 
   
-  <div id="standard-header-wrapper">
-	<header>
-	  <div id="standard-header">
-            <div id="standard-header-callout">
-              <a href="/customer-service/general-resources/shipping-information"><img src="http://d12nii4cu09w6n.cloudfront.net//sites/all/themes/shinola/media/header-free-shipping-free-returns.png"></a>
+  <div class="widget-header">
+
+    <div class="mobile-top">
+
+        <div class="mobile-only left close-action">
+            <a href="#" class="close-trigger icon-menu"></a>
+        </div>
+
+        <div class="wrapper">
+
+             <div class="topbar">
+                 <div class="align-with-page">
+
+                                            <div class="widget widget-banner"><ul><li><div><a href="/customer-service/general-resources/shipping-information" style="color:white;letter-spacing:1.8px">FREE SHIPPING + FREE RETURNS ON ORDERS OVER $100*</a></div></li></ul></div>                    
+                     
+                                             <p class="chat" id="widget-header-live-chat"></p>
+                     
+                                        <p class="subscribe"><a href="#" class="newsletter-signup-link" data-type="default" data-source="header" data-behavior="“default&quot;">Subscribe</a></p>
+
+                </div>
             </div>
-	    <nav>
-	      <ul class="menu"><li><a href="/">Home</a></li><li><a href="http://www.shinola.com/shop/watches.html">Watches</a><div class="menu"><div class="node ">
-    <h2>Men's</h2>    <div class="field field-name-field-see-all-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/mens-watches.html" class="menu-see-all-link">See All</a></div>
-      </div>
-</div><div class="field field-name-field-menu-items field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-runwell.html">THE RUNWELL</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-brakeman.html">THE BRAKEMAN</a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/series/the-runwell-chrono.html">THE CHRONO</a></div>
-      </div>
-</div><div class="field field-name-field-thumbnail field-type-image field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-runwell.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/watches_S_01_00010_F_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-brakeman.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/watches_S_01_00006_F_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/series/the-runwell-chrono.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/watches_S_01_00050_F_243x243%20%281%29.jpg" width="243" height="243" alt=""></a></div>
-      </div>
-</div></div>
-<div class="node ">
-    <h2>Women's</h2>    <div class="field field-name-field-see-all-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/womens-watches.html" class="menu-see-all-link">See All</a></div>
-      </div>
-</div><div class="field field-name-field-menu-items field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-runwell.html">THE RUNWELL</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-gomelsky.html">THE GOMELSKY</a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-birdy.html">THE BIRDY</a></div>
-      </div>
-</div><div class="field field-name-field-thumbnail field-type-image field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-runwell.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/watches_S_02_00015_F_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-gomelsky.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/watches_S_02_00024_F_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-birdy.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/watches_S_02_00003_F_243x243.jpg" width="243" height="243" alt=""></a></div>
-      </div>
-</div><div class="field field-name-field-nav-bottom-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/watch-straps.html" class="nav-bottom-link">For Shinola replacement straps, view our watchstraps page here.</a></div>
-      </div>
-</div></div>
-</div></li><li><a href="/shop/leather.html">Leather</a><div class="menu">    <ul class="list-nav-leather">          <li class="views-row views-row-1 views-row-odd views-row-first row-nav-leather"><div class="node ">
-    <h2>Men's</h2>    <div class="field field-name-field-see-all-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/mens-leather.html" class="menu-see-all-link">See All</a></div>
-      </div>
-</div><div class="field field-name-field-menu-items field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/wallets.html">WALLETS</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/tech-accessories.html">TECH ACC.</a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/accessories.html">ACCESSORIES</a></div>
-      </div>
-</div><div class="field field-name-field-thumbnail field-type-image field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/wallets.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0300005230_BifoldWallet_Natural_V1_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/tech-accessories.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0600069_LeatherWrappediPhoneCase_Natural_V2_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/accessories.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0300009210_ToothpickHolders_DarkCoffee_75_243x243%20%282%29.jpg" width="243" height="243" alt=""></a></div>
-      </div>
-</div></div>
-</li>
-          <li class="views-row views-row-2 views-row-even views-row-last row-nav-leather"><div class="node ">
-    <h2>Women's</h2>    <div class="field field-name-field-see-all-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/womens-leather.html" class="menu-see-all-link">See All</a></div>
-      </div>
-</div><div class="field field-name-field-menu-items field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/wallets.html">WALLETS</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/bags.html">BAGS</a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/tech-accessories.html">TECH ACC.</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/accessories.html">ACCESSORIES</a></div>
-      </div>
-</div><div class="field field-name-field-thumbnail field-type-image field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/wallets.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0300020680%20_WomensWallet_Large_Orchid_V1_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/bags.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0300028680_MiniBackPack_Orchid_V3_243x243%20%281%29.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/tech-accessories.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0300030230_iPhoneCrossbody_Natural_V1_243x243%20%282%29.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/accessories.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0300008230_JournalCover_Natural_Front_243x243%20%283%29.jpg" width="243" height="243" alt=""></a></div>
-      </div>
-</div><div class="field field-name-field-nav-bottom-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/leather/leather-care.html" class="nav-bottom-link">For Shinola shoe polish, view our shoe and leather care page here.</a></div>
-      </div>
-</div></div>
-</li>
-      </ul></div></li><li><a href="/shop/bicycles.html">Bicycles</a><div class="menu">    <ul class="list-nav-bicycle">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last row-nav-bicycle"><div class="node ">
-    <h2>Bicycles</h2>    <div class="field field-name-field-see-all-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/bicycles.html" class="menu-see-all-link">See All</a></div>
-      </div>
-</div><div class="field field-name-field-menu-items field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/bicycles/the-runwell-bicycle.html">THE RUNWELL</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/bicycles/the-bixby-3.html">THE BIXBY</a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/bicycles/the-women-s-bixby.html">THE WOMEN'S BIXBY</a></div>
-      </div>
-</div><div class="field field-name-field-thumbnail field-type-image field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/bicycles/the-runwell-bicycle.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0400001601_RedRunwell_Full_243x243_0.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/bicycles/the-bixby-3.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0400005410_MensNavyBixby_Full_243x243_0.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/bicycles/the-women-s-bixby.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0500001440_WomensTealBixby_Full_243x243_0.jpg" width="243" height="243" alt=""></a></div>
-      </div>
-</div><div class="field field-name-field-nav-bottom-link field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/bicycles/bicycle-accessories.html" class="nav-bottom-link">For Shinola bike accessories, view our bike accessories here.</a></div>
-      </div>
-</div></div>
-</li>
-      </ul></div></li><li><a href="/shop/journals.html">Journals</a><div class="menu">    <ul class="list-nav-journals">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last row-nav-journals"><div class="node ">
-    <h2>Journals</h2>    <div class="field field-name-field-menu-items field-type-link-field field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/journals/cover-type/hard-linen.html">HARD COVER</a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/journals/cover-type/soft-linen.html">SOFT COVER</a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/journals/cover-type/paper.html">PAPER COVER</a></div>
-      </div>
-</div><div class="field field-name-field-thumbnail field-type-image field-label-hidden">
-    <div class="field-items">
-          <div class="field-item even"><a href="http://www.shinola.com/shop/journals/cover-type/hard-linen.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0700007660_Journal_Hard_3x5_SalmonPink_Front_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item odd"><a href="http://www.shinola.com/shop/journals/cover-type/soft-linen.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0700010251_Journal_Soft_5x8_Praline_Front_243x243.jpg" width="243" height="243" alt=""></a></div>
-          <div class="field-item even"><a href="http://www.shinola.com/shop/journals/cover-type/paper.html"><img src="http://d12nii4cu09w6n.cloudfront.net/sites/default/files/S0700016810_Journal_Paper_7x9_Orange_Front_243x243.jpg" width="243" height="243" alt=""></a></div>
-      </div>
-</div></div>
-</li>
-      </ul></div></li><li><a href="/shop/curated.html">Curated</a></li><li><a href="/our-story">Our Story</a></li></ul>	    </nav>
-	    
-	    	  <div id="header-utility-wrapper">
-  <div id="header-utility-container" class="content-container clearfix">
-    
-    
-    <div class="mobile-only left">
-      <a href="#" class="close-trigger icon-menu"></a>
+
+            
+            <div class="middle">
+
+                                <div class="cart">
+                    <p><a id="shopping-cart-link" href="http://www.shinola.com/shop/checkout/cart">Cart<span id="shinola-cart-count"></span></a></p>
+                    <div id="cart-contents"></div>
+                </div>
+
+                                <p id="shinola-customer-session" class="login-action"></p>
+
+                <form class="search" action="/shop/catalogsearch/result/" method="" accept-charset="UTF-8" novalidate="" onsubmit="return this.q.value != '';">
+                    <input type="hidden" value="Submit">
+                    <fieldset>
+                        <legend>Search</legend>
+                        <label for="keys">Search</label>
+                        <input type="text" name="q" id="keys" size="25" maxlength="128" value="" placeholder="SEARCH" required="" autocomplete="off">
+                        <input id="search-magnifying-icon" type="submit" value="">
+                    </fieldset>
+                </form>
+
+                
+            </div>
+
+        </div>
+
     </div>
 
-    <ul id="cart-links">
-      <li class="newsletter">
-        <a id="header-newsletter-reveal" href="#">Newsletter Signup</a>
-        <form action="#" method="post" id="header-newsletter" accept-charset="UTF-8">
-          <label for="header-email">
-            <input placeholder="Enter Email" type="text" id="header-email" name="email" value="" size="25" maxlength="128" class="validate-email">
-            <input type="submit" id="header-newsletter-submit" name="sign-up" value="Sign Up" class="form-submit">
-          </label>
-        </form>
-      </li>
-      <li><a href="/shop/new-arrivals.html">New Arrivals</a></li>
-      <li class="giftcards"><a href="/shop/gift-card.html">Gift Cards</a></li>
-      <li class="login"><span id="shinola-customer-session"></span></li>
-      <li class="cart"><a id="shopping-cart-link" href="/shop/checkout/cart/">Cart<span id="shinola-cart-count"></span></a></li>
-      <li class="search">
-        <form action="/shop/catalogsearch/result/" method="get" id="site-search" accept-charset="UTF-8">
-          <label for="keys"> 
-            <input placeholder="Search" type="text" id="keys" name="q" value="" size="25" maxlength="128">
-            <input type="submit" id="search-submit" value="Submit" class="form-submit">
-          </label> 
-        </form>
-      </li>
-    </ul>
+    <nav class="widget-nav-primary">
+    <ul class="root-menu">
+                    <li class="root-item open">
+                <a class="root-link" href="http://www.shinola.com/">Home</a>
 
-    <div id="cart-contents">
-    <div class="close">close</div>
- 
-    </div> <!-- /#cart-contents -->
-     
-  </div><!--/.content-container-->
-</div><!--/#header-utility-wrapper-->
+                                  
 
+            </li>
+                    <li class="root-item mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/oscar-de-la-renta.html">SHINOLA SALUTES: <br>      
+                 OSCAR DE LA RENTA</a>
 
-	  </div>
-	</header>
-</div> <!-- /#standard-header-wrapper -->
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/shop/new-arrivals.html">New Arrivals</a>
+
+                                    <div class="megamenu" data-align="left">
+
+                        
+                            
+                            
+                                                            <div class="items-container" data-count="3">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/new-arrivals/runwell-leather-backpack.html">The Runwell Backpack</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/new-arrivals/therunwell41-chrono-s0198.html">The Runwell Chrono</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/new-arrivals/medium-zip-pouch.html">Medium Zip Pouch</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/new-arrivals/runwell-leather-backpack.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/new-arrivals/runwell-backpack.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/new-arrivals/therunwell41-chrono-s0198.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/new-arrivals/runwell-chrono.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/new-arrivals/medium-zip-pouch.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/new-arrivals/medium-zip-pouch.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                                                            <p class="bottom-link"><a href="http://www.shinola.com/shop/new-arrivals.html">Shop New Arrivals</a></p>
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/shop/watches.html">Watches</a>
+
+                                    <div class="megamenu" data-align="left">
+
+                        
+                                                            <h4>Men's</h4>
+                            
+                                                            <p class="see-all-link"><a href="http://www.shinola.com/shop/watches/mens-watches.html">See All</a></p>
+                            
+                                                            <div class="items-container" data-count="3" data-no-bottom-link="">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-runwell.html">The Runwell</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-brakeman.html">The Brakeman</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/watches/mens-watches/series/the-runwell-chrono.html">The Chrono</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/watches/mens-watches/series/the-runwell.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/watches/mens/runwell.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/watches/mens-watches/series/the-brakeman.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/watches/mens/brakeman.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/watches/mens-watches/series/the-runwell-chrono.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/watches/mens/chrono.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                            
+                        
+                                                            <h4>Women's</h4>
+                            
+                                                            <p class="see-all-link"><a href="http://www.shinola.com/shop/watches/womens-watches.html">See All</a></p>
+                            
+                                                            <div class="items-container" data-count="3">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-runwell.html">The Runwell</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-gomelsky.html">The Gomelsky</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/watches/womens-watches/series/the-birdy.html">The Birdy</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/watches/womens-watches/series/the-runwell.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/watches/womens/runwell.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/watches/womens-watches/series/the-gomelsky.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/watches/womens/gomelsky.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/watches/womens-watches/series/the-birdy.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/watches/womens/birdy.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                                                            <p class="bottom-link"><a href="http://www.shinola.com/shop/watch-straps.html">Shop Watch Straps</a></p>
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/watches/mens-watches.html">MENS</a>
+
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/watches/womens-watches.html">WOMENS</a>
+
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/watch-straps.html">WATCH STRAPS</a>
+
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/shop/leather.html">Leather</a>
+
+                                    <div class="megamenu" data-align="left">
+
+                        
+                                                            <h4>Men's</h4>
+                            
+                                                            <p class="see-all-link"><a href="http://www.shinola.com/shop/leather/mens-leather.html">See All</a></p>
+                            
+                                                            <div class="items-container" data-count="3" data-no-bottom-link="">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/wallets.html">Wallets</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/tech-accessories.html">Tech Acc.</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/accessories.html">Accessories</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/wallets.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/mens/wallets.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/tech-accessories.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/mens/techacc.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/mens-leather/leather-type/accessories.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/mens/accessories.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                            
+                        
+                                                            <h4>Women's</h4>
+                            
+                                                            <p class="see-all-link"><a href="http://www.shinola.com/shop/leather/womens-leather.html">See All</a></p>
+                            
+                                                            <div class="items-container" data-count="4">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/wallets.html">Wallets</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/bags.html">Bags</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/tech-accessories.html">Tech Acc.</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/accessories.html">Accessories</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/wallets.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/womens/wallets.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/bags.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/womens/bags.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/tech-accessories.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/womens/techacc.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/leather/womens-leather/leather-type/accessories.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/leather/womens/accessories.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                                                            <p class="bottom-link"><a href="http://www.shinola.com/shop/leather/leather-care.html">Shop Shoe Polish + Leather Care</a></p>
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/leather/womens-leather/leather-type/wallets.html">WALLETS</a>
+
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/leather/womens-leather/leather-type/bags.html">BAGS</a>
+
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/leather/womens-leather/leather-type/tech-accessories.html">TECH ACC</a>
+
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/leather/womens-leather/leather-type/accessories.html">ACCESSORIES</a>
+
+                                  
+
+            </li>
+                    <li class="root-item subroot mobile-only">
+                <a class="root-link" href="http://www.shinola.com/shop/leather/leather-care.html">LEATHER CARE</a>
+
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/shop/bicycles.html">Bicycles</a>
+
+                                    <div class="megamenu" data-align="left">
+
+                        
+                            
+                                                            <p class="see-all-link"><a href="http://www.shinola.com/shop/bicycles.html">See All</a></p>
+                            
+                                                            <div class="items-container" data-count="3">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/bicycles/the-runwell-bicycle.html">The Runwell</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/bicycles/the-bixby-3.html">The Bixby</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/bicycles/the-women-s-bixby.html">The Women's Bixby</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/bicycles/the-runwell-bicycle.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/bicycles/runwell.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/bicycles/the-bixby-3.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/bicycles/bixby.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/bicycles/the-women-s-bixby.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/bicycles/wbixby.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                                                            <p class="bottom-link"><a href="http://www.shinola.com/shop/bicycles/bicycle-accessories.html">Shop Bicycle Accessories</a></p>
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/shop/journals.html">Journals</a>
+
+                                    <div class="megamenu" data-align="left">
+
+                        
+                            
+                            
+                                                            <div class="items-container" data-count="3" data-no-bottom-link="">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/journals/cover-type/hard-linen.html">Hard Cover</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/journals/cover-type/soft-linen.html">Soft Cover</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/journals/cover-type/paper.html">Paper Cover</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/journals/cover-type/hard-linen.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/journals/hard_cover.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/journals/cover-type/soft-linen.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/journals/soft_cover.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/journals/cover-type/paper.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/journals/paper_cover.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/shop/pet-accessories.html">Pet</a>
+
+                                    <div class="megamenu" data-align="right">
+
+                        
+                            
+                            
+                                                            <div class="items-container" data-count="3">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/pet-accessories/dog-leashes-collars.html">Collars &amp; Leashes</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/pet-accessories/dog-toys.html">Dog Toys</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/shop/pet-accessories/dog-beds.html">Dog Beds</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/pet-accessories/dog-leashes-collars.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/pet/collars-and-leashes.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/pet-accessories/dog-toys.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/pet/dog-toys.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/shop/pet-accessories/dog-beds.html"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/pet/dog-beds.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                                                            <p class="bottom-link"><a href="http://www.shinola.com/shop/aboutshinolapet">About Shinola Pet</a></p>
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+                    <li class="root-item ">
+                <a class="root-link" href="http://www.shinola.com/shop/supply.html">Supply</a>
+
+                                  
+
+            </li>
+                    <li class="root-item " data-megamenu="">
+                <a class="root-link" href="http://www.shinola.com/our-story">Our Story</a>
+
+                                    <div class="megamenu" data-align="right">
+
+                        
+                            
+                            
+                                                            <div class="items-container" data-count="3" data-no-bottom-link="">
+
+                                    <ul class="title-items">
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/journal">Blog</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/the-places-we-work">Places We Work</a></li>
+                                                                                <li class="leaf-item-title"><a href="http://www.shinola.com/our-story/about-shinola">Why Detroit?</a></li>
+                                                                            </ul>
+
+                                    <ul class="image-items">
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/journal"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/argonite/blog.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/the-places-we-work"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/argonite/places-we-work.jpg"></a>
+                                                                                            </li>
+                                                                                    <li class="leaf-item-image">                                                                                                     <a href="http://www.shinola.com/our-story/about-shinola"><img src="http://edgecdn.shinola.com//shop/skin/frontend/enterprise/shinola/images/widget/nav-primary/argonite/why-detroit.jpg"></a>
+                                                                                            </li>
+                                                                            </ul>
+
+                                </div>
+                            
+                            
+                        
+                    </div>
+                                  
+
+            </li>
+            </ul>
+</nav>
+        <p class="subscribe-mobile"><a href="#" class="newsletter-signup-link" data-type="default" data-source="header" data-behavior="“default&quot;">Subscribe To Our Newsletter</a></p>
+
+                <p id="widget-header-live-chat-mobile"></p>
+    
+</div>
+
+<script src="https://shinola.ehosts.net/netagent/client/unified/portalsettings.js" language="JavaScript"></script>
+<script src="https://shinola.ehosts.net/netagent/client/unified/includes2/portaldetection.js" language="JavaScript"></script>
+<script language="JavaScript">DetectDevice("A8BDAAC9-4776-4421-BC25-8F2C0B0BEFCF", "widget-header-live-chat", "Live chat by", "Moxie Software");</script>
+<script language="JavaScript">DetectDevice("A8BDAAC9-4776-4421-BC25-8F2C0B0BEFCF", "widget-header-live-chat-mobile", "Live chat by", "Moxie Software");</script>
+
+<script type="text/javascript">document.getElementById("widget-header-live-chat").getElementsByTagName('a')[0].innerHTML = 'Live Chat';</script>
+<script type="text/javascript">document.getElementById("widget-header-live-chat-mobile").getElementsByTagName('a')[0].innerHTML = 'Live Chat';</script>
 
   
 
@@ -416,16 +639,21 @@ qacct:"p-X7qFfv0gyFWrK"
 		<ul class="clearfix">
 					<li class="customer-service-block">
 				<h3>We are here to help!</h3>
-				<p><em>If you have any concerns or questions, don't hesitate to contact us. There are three ways to get in touch. Fill out the contact form, give us a call, or send us an email.</em></p>			</li>
+				<p><em>If you have any concerns or questions, don't hesitate to contact us. There are three ways to get in touch. Fill out the contact form, give us a call, or send us an email.</em></p>
+			</li>
 					<li class="customer-service-block">
 				<h3>Contact Form</h3>
-				<p>Fill out this <a href="/customer-service/general-resources/contact-us">form</a> and a customer service representative will contact you regarding your inquiry.</p>			</li>
+				<p>Fill out this <a href="/customer-service/general-resources/contact-us">form</a> and a customer service representative will contact you regarding your inquiry.</p>
+			</li>
 					<li class="customer-service-block">
 				<h3>Call Shinola</h3>
-				<p><strong>1-844-744-6652</strong><br>Mon - Fri: 9 AM to 5 PM (EST)</p>			</li>
+				<p><b>1-844-744-6652</b><br>Mon - Fri: 9 AM to 5 PM (EST)</p>
+			</li>
 					<li class="customer-service-block">
 				<h3>Email</h3>
-				<p><a href="mailto:customerservice@shinola.com">customerservice@shinola.com</a></p><p>You will receive a response within 24 hours. If your inquiry is time-sensitive, please call us at 1-844-744-6652.</p>			</li>
+				<p><a href="mailto:customerservice@shinola.com">customerservice@shinola.com</a></p>
+<p>You will receive a response within 24 hours. If your inquiry is time-sensitive, please call us at 1-844-744-6652.</p>
+			</li>
 				</ul>
 	</div>
 
@@ -436,41 +664,67 @@ qacct:"p-X7qFfv0gyFWrK"
 			
 			<div id="footer-left">
 				<ul>
-					<li class="newsletter-footer">
-						<form action="#" method="post" id="newsletter-footer" accept-charset="UTF-8">
-							<p>Sign up for our newsletter</p>
-							<label for="footer-email">
-								<input placeholder="Newsletter Signup" type="text" id="footer-email" name="email" value="" size="25" maxlength="128" class="validate-email">
-								<input type="submit" id="footer-newsletter-submit" name="search" value="Sign Up" class="form-submit">
-							</label>
-						</form>
+					<li class="newsletter-footer desktop-only">
+						<p><a href="" class="newsletter-signup-link" data-type="default" data-source="footer" data-behavior="default">Sign up for our newsletter</a></p>
 					</li>
-
 					<li class="social-media no-mobile">
 						<ul>
-						<li><a class="facebook" href="http://www.facebook.com/shinola">Facebook</a></li>
+						<li><a class="fa fa-facebook-square fa-lg" href="http://www.facebook.com/shinola"></a></li>
+						<li><a class="fa fa-twitter-square fa-lg" href="https://twitter.com/#!/shinola"></a></li>
+						<li><a class="fa fa-google-plus-square fa-lg" href="https://plus.google.com/u/0/b/111799449975342239598/111799449975342239598/"></a></li>
+						<li><a class="fa fa-pinterest-square fa-lg" href="http://www.pinterest.com/shinola"></a></li>
+                        <li><a class="fa fa-linkedin-square fa-lg" href="http://www.linkedin.com/company/shinola"></a></li>
+						<li><a class="fa fa-instagram fa-lg" href="http://instagram.com/shinola"></a></li>	
+							
+							
+						<!--<li><a class="facebook" href="http://www.facebook.com/shinola">Facebook</a></li>
 						<li><a class="twitter" href="https://twitter.com/#!/shinola">Twitter</a></li>
 						<li><a class="google-plus" href="https://plus.google.com/u/0/b/111799449975342239598/111799449975342239598/">Google+</a></li>
 						<li><a class="pinterest" href="http://www.pinterest.com/shinola">Pinterest</a></li>
-						<li><a class="linked-in" href="http://www.linkedin.com/company/shinola">LinkedIn</a></li>
+						<li><a class="linked-in" href="http://www.linkedin.com/company/shinola">LinkedIn</a></li>-->
 						</ul>
 					</li>
 
 					<li class="social-media mobile-only">
-						<a class="icon-facebook" href="http://www.facebook.com/shinola"></a>
+						
+					<div><a class="fa fa-facebook fa-2x" href="http://www.facebook.com/shinola"></a></div>
+					<div><a class="fa fa-twitter fa-2x" href="https://twitter.com/#!/shinola"></a></div>
+					<div><a class="fa fa-google-plus fa-2x" href="https://plus.google.com/u/0/b/111799449975342239598/111799449975342239598/"></a></div>
+					<div><a class="fa fa-pinterest fa-2x" href="http://www.pinterest.com/shinola"></a></div>
+					<div><a class="fa fa-linkedin fa-2x" href="http://www.linkedin.com/company/shinola"></a></div>
+					<div><a class="fa fa-instagram fa-2x" href="http://www.instagram.com/shinola"></a></div>
+					
+						<!--<a class="icon-facebook" href="http://www.facebook.com/shinola"></a>
 						<a class="icon-twitter" href="https://twitter.com/#!/shinola"></a>
 						<a class="icon-google-plus" href="https://plus.google.com/u/0/b/111799449975342239598/111799449975342239598/"></a>
-						<a class="icon-pinterest" href="http://www.pinterest.com/shinola"></a>
+						<a class="icon-pinterest" href="http://www.pinterest.com/shinola"></a>-->
 					</li>
 
 					<li class="copyright">© Shinola 2014  | <a class="site-map-link" href="/shop/site-map">Site Map</a></li>
+					 <li class="mobile-footer-message mobile-only">			
+						<div>
+							<img class="payment-logo pp" src="/shop/skin/frontend/enterprise/shinola/images/paypal.png">
+							<img class="payment-logo vi" src="/shop/skin/frontend/enterprise/shinola/images/visa.png">
+							<img class="payment-logo mc" src="/shop/skin/frontend/enterprise/shinola/images/mastercard.png">
+							<img class="payment-logo ax" src="/shop/skin/frontend/enterprise/shinola/images/americanexpress.png">
+							<img class="payment-logo di" src="/shop/skin/frontend/enterprise/shinola/images/discover.png">		
+					</div>
+					</li>
+					
 				</ul>
-
 			</div>
 			<div id="footer-right">
-				<ul><li class="footer-navigation"><a href="/shop/watches.html">Watches</a></li><li class="footer-navigation"><a href="/shop/bicycles.html">Bicycles</a></li><li class="footer-navigation"><a href="/shop/leather.html">Leather</a></li><li class="footer-navigation"><a href="/shop/journals.html">Journals</a></li><li class="footer-navigation"><a href="/shop/curated.html">Curated</a></li></ul><ul><li class="footer-navigation"><a href="/shop/new-arrivals.html">New Arrivals</a></li><li class="footer-navigation"><a href="/our-story">Our Story</a></li><li class="footer-navigation"><a href="/customer-service/general-resources/faqs">FAQ</a></li><li class="footer-navigation"><a href="/customer-service/general-resources">Customer Care</a></li><li class="footer-navigation"><a href="/shop/gift-card.html">Gift Cards</a></li></ul><ul><li class="footer-navigation"><a href="/journal/introducing-shinola-guarantee">Lifetime Guarantee</a></li><li class="footer-navigation"><a href="/our-partners">Our Partners</a></li><li class="footer-navigation"><a href="/shop/store-locator">Store Locator</a></li><li class="footer-navigation"><a href="/careers">Careers</a></li><li class="footer-navigation"><a href="/customer-service/general-resources/terms-conditions">Privacy &amp; Terms</a></li></ul>			</div>
+				<ul><li class="footer-navigation"><a href="/shop/watches.html">Watches</a></li><li class="footer-navigation"><a href="/shop/bicycles.html">Bicycles</a></li><li class="footer-navigation"><a href="/shop/leather.html">Leather</a></li><li class="footer-navigation"><a href="/shop/journals.html">Journals</a></li><li class="footer-navigation"><a href="/shop/supply.html">Supply</a></li></ul><ul><li class="footer-navigation" id="chatClient2"></li><li class="footer-navigation"><a href="/our-story">Our Story</a></li><li class="footer-navigation"><a href="/customer-service/general-resources/faqs">FAQ</a></li><li class="footer-navigation"><a href="/customer-service/general-resources">Customer Care</a></li><li class="footer-navigation"><a href="/shop/gift-card.html">Gift Cards</a></li></ul><ul><li class="footer-navigation"><a href="/journal/introducing-shinola-guarantee">Lifetime Guarantee</a></li><li class="footer-navigation"><a href="/our-partners">Our Partners</a></li><li class="footer-navigation"><a href="/shop/store-locator">Store Locator</a></li><li class="footer-navigation"><a href="/careers">Careers</a></li><li class="footer-navigation"><a href="/shop/terms">Privacy &amp; Terms</a></li></ul>			</div>
+					<script src="https://shinola.ehosts.net/netagent/client/unified/portalsettings.js" language="JavaScript"></script>
+					<script src="https://shinola.ehosts.net/netagent/client/unified/includes2/portaldetection.js" language="JavaScript"></script>
+					<script language="JavaScript">DetectDevice("A8BDAAC9-4776-4421-BC25-8F2C0B0BEFCF", "chatClient2", "Live chat by", "Moxie Software");</script>
+					<script>
+						jQuery(document).ready(function() {
+    						jQuery("#chatClient2 a:nth-child(1)").html("Live Chat");
+						});
+					</script>
 		
-		</div> <!--/.footer-element-2-of-2 --> 
+		</div>  <!--/.footer-element-2-of-2 -->
 	</footer> <!-- /.footer-element-1-of-2 -->
   
 </div>
@@ -493,6 +747,7 @@ window.onload = function(){
    if(oldonload){oldonload()}};
 }());
 </script>
-<script src="http://d12nii4cu09w6n.cloudfront.net/sites/all/modules/shinola/shinola_mods/js/modernizr-2.5.3.js?n5j2pv"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"ad041d8771","applicationID":"2810181","transactionName":"NFcEN0IHXEVZBkReDA0dMxFZSVtYXABIGRMLQg==","queueTime":0,"applicationTime":24,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="http://edgecdn.shinola.com/sites/all/modules/shinola/shinola_mods/js/modernizr-2.5.3.js?ncd6xy"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"ad041d8771","applicationID":"2810181","transactionName":"NFcEN0IHXEVZBkReDA0dJwBED11YFwtfUwY8QgcEVTlEX10S","queueTime":0,"applicationTime":331,"ttGuid":"","agentToken":"","atts":"GBAHQQodT0s=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-460.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-460.min.js"></script></body></html>
