@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytopbusinessideas.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222145418id_/http%3A//www.mytopbusinessideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopbusinessideas.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925075044id_/http%3A//www.mytopbusinessideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for MyTopBusinessideas.com | Top Business ideas
+# Privacy Policy for MyTopBusinessideas.com | MyTopBusinessideas.com
 
 Privacy Policy for [**MyTopBusinessideas.com**](http://www.mytopbusinessideas.com/)
 
