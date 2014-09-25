@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestsocialbookmarkingsites.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620220716id_/http%3A//bestsocialbookmarkingsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsocialbookmarkingsites.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925090627id_/http%3A//bestsocialbookmarkingsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Social Bookmarking SitesBest Social Bookmarking Sites
 
