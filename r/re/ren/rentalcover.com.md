@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalcover.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407124613id_/http%3A//www.rentalcover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcover.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926000807id_/http%3A//www.rentalcover.com/privacy) for the most accurate reproduction.*
 
 # Rental Cover - Privacy Policy
 
