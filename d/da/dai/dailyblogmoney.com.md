@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyblogmoney.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820055703id_/http%3A//www.dailyblogmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyblogmoney.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925122500id_/http%3A//www.dailyblogmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
