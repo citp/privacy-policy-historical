@@ -1,71 +1,147 @@
-> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328062747id_/http%3A//www.storedvalue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storedvalue.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175356id_/http%3A//www.storedvalue.com/privacy-policy) for the most accurate reproduction.*
 
-# Ceridian Stored Value Solutions
+# Privacy Policy
 
-### Ceridian SVS's Commitment to Privacy
+#### Introduction
 
-Your privacy is important to Ceridian SVS. To better protect your privacy, we provide this notice explaining our online information practices. This policy does not apply to Web sites that may be accessed through links from Ceridian SVS' Web site, such as companies that may advertise on Ceridian SVS' Web site. This policy applies to personal information that may be collected by, or submitted to, Ceridian SVS through its Web site. 
+Stored Value Solutions, a division of Comdata Inc. ( **"Company"** or **  "We"**) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-### Collecting Your Information
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.storedvalue.com (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-When you visit our site, we may collect information from you that we might use to provide services, contact you with information on our products and services, maintain security or improve our site usability. 
+This policy applies to information we collect:
 
-### Personally Identifiable
-
-Information From time to time, we may request information that personally identifies you such as your name, mailing address, email address, telephone number, or other information that can be used to identify you. We may use this information to contact you with surveys or news and information about our products and services. 
-
-### Automatically Collected Information
-
-If you visit Ceridian SVS' Web site and do nothing more than browse the site, read pages, or download information, Ceridian SVS will gather and store certain information about your visit automatically. This information does not identify you personally. Ceridian SVS collects and stores indefinitely your Internet Protocol ("IP") address, as well as information about the date and time of your visit, whether a file you have requested exists, and how many "bytes" of information were transmitted to you over the Web from this site. An IP address is a series of numbers that identifies each computer and machine connected to the Internet. It does not identify you personally. Ceridian SVS may use your IP address to assess the frequency of visits to its Web site and the popularity of its various pages and functions. Ceridian SVS does not attempt to match any personally identifiable information that you provide to us with your IP address. 
-
-### Use of Cookies
-
-Ceridian SVS may use "cookies" to keep track of login name and password and/or to tailor our Web contents to our user's interests. Cookies are files that a Web site can place on your computer. A cookie file allows the Web site to recognize you as you click through pages on the site and when you later revisit the site. A Web site can use cookies to "remember" your preferences, and to record your browsing behavior on the Web. Although you can prevent Web sites from placing cookies on your computer by using your browser's preference menu, disabling cookies may affect your ability to view or interact with Ceridian SVS' Web site. 
-
-### Dissemination of Your Information
-
-Ceridian SVS does not sell or rent any personally identifiable information collected through its Web site. Occasionally, we may share personally identifiable information with trusted third party vendors and affiliates in order to provide the services you use or to administer our Web site. In addition, we may be required to disclose your personally identifiable information to a third party such as in the case of the sale of all or a portion of our business or assets, or if required to do so by law or to comply with judicial or governmental investigations. 
-
-### Use of Information for Marketing Purposes
-
-Some areas of Ceridian SVS' Web site may offer users the option to receive marketing information from Ceridian SVS such as information on new products and services. If you do not want to receive such information, simply "uncheck" the box that states you agree to receive such materials. If the box remains unchecked, you will automatically receive such marketing information. However, at any time, you can opt out of receiving further marketing information from Ceridian SVS by e-mailing us at [webmaster@storedvalue.com](mailto:webmaster@storedvalue.com). 
-
-### Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, Ceridian SVS has put into place the appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-### Policy Changes
-
-We may change this privacy policy at any time in our sole discretion. Any updates to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of the Ceridian SVS Web site following our posting of the change notice or an updated privacy policy will constitute binding acceptance of those changes. 
-
-### Contact Information
-
-For questions about your privacy while visiting Ceridian SVS' Web site, please e-mail Ceridian SVS at [webmaster@storedvalue.com](mailto:webmaster@storedvalue.com). 
-
-### StoredValue.com Web Site Copyrights, Trademarks & Disclaimers 
-
-While Ceridian Stored Value Solutions (Ceridian SVS) makes the information on this server available to anyone, it retains copyright on all text, images, audio and video clips and the information contained in the Ceridian SVS Web site. This means that except where otherwise stated in a notice appearing on a particular web page or where otherwise expressly authorized by SVS, you may not publish or distribute the information to others, "mirror" or display the information on your own server, or modify or reuse the information. You may print copies of the information for your own personal use, store the information files on your own computer for your personal use, or reference this server by links stored in your personal, non-commercial documents or web pages. Except as expressly provided above, Ceridian SVS reserves all other rights, and nothing contained herein shall be construed as conferring by implication, estoppel, or otherwise any license or right under a copyright, trademark or other intellectual property right of Ceridian SVS or any third party. The information provided in these web pages is provided by SVS as a convenience to you. Ceridian SVS does not warrant the accuracy or completeness of the information contained in these web pages or any linked web pages. 
-
-### StoredValue.com Linking Guidelines
-
-_Linking to StoredValue.com: Terms and Conditions_
-
-You may only use the graphics and code ("Button") supplied by Ceridian SVS communications. By using Ceridian SVS graphics and code, you agree to be bound by the following terms and conditions. 
-
-  * Your right to display the Button is limited to your Web site. 
-  * You may not remove, distort or alter any element of the Button (including the html code) or otherwise change the size or appearance of the Button in any way. 
-  * You may not display the Button in any manner that implies a relationship or affiliation with, sponsorship, or endorsement by Ceridian SVS, or which can be reasonably interpreted to suggest editorial content has been authored by, or represents the views or opinions of Ceridian SVS or Ceridian SVS personnel unless otherwise indicated by written contract with SVS. 
-  * The Button should not be the most prominent element on your web page. The Button must appear by itself, with a minimum spacing of 25 pixels between each side of the Logo and other graphic or textual elements on your web page. 
-  * You may not display the Button in a manner that is misleading, defamatory, infringing, libelous, disparaging, obscene or otherwise objectionable to Ceridian SVS, or impairing of the rights of Ceridian SVS in its trademarks or logos, in SVS' sole opinion. 
-  * You may not use the Button on a site that violates any law or regulation. 
-  * You may not frame or mirror any Ceridian SVS page (including the page which appears in response to a click on the Button) on your web page.
-  * Ceridian SVS reserves the right in its sole discretion to terminate or modify your permission to display the Button at any time and to take action against any use that does not conform to these terms and conditions, infringes any Ceridian SVS intellectual property or other right, or violates applicable law. 
-  * CERIDIAN SVS DISCLAIMS ANY WARRANTIES THAT MAY BE EXPRESSED OR IMPLIED BY LAW REGARDING THE BUTTON, INCLUDING WARRANTIES AGAINST INFRINGEMENT 
+  * On this Website.
+  * In e-mail, text and other electronic messages between you and this Website.
 
 
 
-Last Update: January 2008 
+It does not apply to information collected by:
 
-© 2007-2011 Ceridian Stored Value Solutions, Inc., All Rights Reserved.
+  * us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or
+  * any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-[MetaBank Privacy Policy.](https://web.archive.org/web/20140328062747id_/http%3A//www.storedvalue.com/svsprepaid/meta_policy.php)
+
+
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see _Changes to our Privacy Policy_ ). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+#### Information We Collect About You and How We Collect It
+
+We collect several types of information from and about users of our Website, including information:
+
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number or any other identifier by which you may be contacted online or offline ("personal information");
+  * that is about you but individually does not identify you; and/or
+  * about your internet connection, the equipment you use to access our Website and usage details.
+
+
+
+We collect this information:
+
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
+
+
+
+ **Information You Provide to Us.** The information we collect on or through our Website may include:
+
+  * Information that you provide by filling in forms on our Website. We may also ask you for information when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Your search queries on the Website.
+
+
+
+ **Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
+
+  *  Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
+
+
+
+The information we collect automatically may include personal information, or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  *  **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  *  **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see _Choices about How We Use and Disclose Your Information_
+  *  **Web Beacons.** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+
+
+#### How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please do not submit your information to us. For more information, see _Choices About How We Use and Disclose Your Information ._
+
+#### Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Company's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Company about our Website users is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * Otherwise with your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our [terms of use](https://web.archive.org/terms-and-conditions "Terms and Conditions") and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Company, our customers or others.
+
+
+
+#### Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  *  **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+
+
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way.
+
+#### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.  
+
+
+#### Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
+
+#### Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+Stored Value Solutions  
+101 Bullitt Lane  
+Suite 305  
+Louisville, KY 40222  
+(502) 326-4600
+
+Last Modified: August 2014
