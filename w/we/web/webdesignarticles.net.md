@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignarticles.net privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514001133id_/http%3A//www.webdesignarticles.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignarticles.net privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927002242id_/http%3A//www.webdesignarticles.net/privacy) for the most accurate reproduction.*
 
 # Privacy | WebDesignArticles.net
 
