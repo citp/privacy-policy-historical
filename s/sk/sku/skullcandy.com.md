@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skullcandy.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624044324id_/http%3A//www.skullcandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skullcandy.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926023634id_/http%3A//www.skullcandy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skullcandy Headphones & Earphones
 
