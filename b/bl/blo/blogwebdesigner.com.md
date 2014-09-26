@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogwebdesigner.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914234842id_/http%3A//www.blogwebdesigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogwebdesigner.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926073919id_/http%3A//www.blogwebdesigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blog Web Designer
 
@@ -22,7 +22,7 @@ When you visit a website, you disclose certain information, such as your Interne
 
 Cookies are pieces of information that are transferred to your computer from a web server.
 
-We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends.
+We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends.
 
 Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
 
