@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629145217id_/http%3A//www.healthcallings.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthcarejobs.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926053338id_/http%3A//www.healthcallings.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
 
 # Career Resources
 
