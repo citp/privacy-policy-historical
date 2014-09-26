@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anycoupons.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306224852id_/http%3A//www.anycoupons.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anycoupons.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926070556id_/http%3A//www.anycoupons.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy :: Any Coupons
 
@@ -24,18 +24,25 @@ AnyCoupons can obtain access to your name, e-mail address and other contact info
 Is data stored by AnyCoupons secure?  
      To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, AnyCoupons has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. However, data security is a constantly evolving art and science. You should consider any communication that you transmit to AnyCoupons (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that AnyCoupons will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient. 
 
+Who can see my personal information?  
+     We will share your personal information with third parties only in the ways that are described in this privacy notice. We do not sell your personal information to third parties.  
+     Only a very limited number of our employees ever have access to your personal information. We may use third-party contractors or vendors to help us provide some of our services. If we need to disclose personal information for them to provide the services, it is with the requirement that the information will be kept confidential and used only to provide those services. In addition, our affiliates, subsidiaries, service providers, and other entities may collect personal information about your browsing habits over time and across different Web sites when you use our website.  
+     We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us or to protect us and our members from losses.  
+     While browsers allow you to disable the usage of cookies, we do not change our practices in response to a “Do Not Track” signal in the http header from your browser or mobile application.  
+     If we (or one of our affiliated companies) are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice this website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
 Does AnyCoupons collect personally identifying information from or about children?  
      AnyCoupons uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The Services are not targeted at children, and children may not register for any portions of the Services that require registration. 
 
 How can I access or correct any personally identifying information about me?  
-     To request a copy of the personally identifiable information you have sent to AnyCoupons, please submit this [form](https://web.archive.org/web/20140306224852id_/http%3A//www.anycoupons.com/contact_us.php) containing your request. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with AnyCoupons. You may then correct or delete such information using the procedures specified in the e-mail. 
+     To request a copy of the personally identifiable information you have sent to AnyCoupons, please submit this [form](https://web.archive.org/web/20140926070556id_/http%3A//www.anycoupons.com/contact_us.php) containing your request. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with AnyCoupons. You may then correct or delete such information using the procedures specified in the e-mail. 
 
 What happens when I click on links from the site?  
      When you click on a link from the site, whether it is a coupon link, coupon button, a banner ad, a product link or image, or a search ad, you will be redirected to another website that is not owned or operated by AnyCoupons. This external site may appear in the same browser window/tab or in a new browser or tab.
 
 How do I find out more about AnyCoupons's information practices?  
-     If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please [contact us](https://web.archive.org/web/20140306224852id_/http%3A//www.anycoupons.com/contact_us.php). 
+     If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please [contact us](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Anycoupons.com). 
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that AnyCoupons may have collected. 
 
-This Privacy Policy was last revised on January 21, 2003. 
+This Privacy Policy was last revised on September 5, 2014. 
