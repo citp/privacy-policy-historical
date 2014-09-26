@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the becfinace.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529110721id_/http%3A//www.becfinace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becfinace.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926083148id_/http%3A//www.becfinace.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Privacy Policy | Economy and Finance
+# Becfinace.com » Privacy Policy
 
 ### About this Notice
 
