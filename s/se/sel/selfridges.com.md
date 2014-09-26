@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfridges.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629000122id_/http%3A//www.selfridges.com/en/StaticPage/Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfridges.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926161232id_/http%3A//www.selfridges.com/en/info/Privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy & cookie policy - Selfridges | Shop Online
 
