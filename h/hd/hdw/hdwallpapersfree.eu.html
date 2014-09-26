@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdwallpapersfree.eu privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325071958id_/http%3A//www.hdwallpapersfree.eu/privacy-policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdwallpapersfree.eu privacy policy that was archived on 2014-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927013007id_/http%3A//www.hdwallpapersfree.eu/privacy-policies) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta property="fb:admins" content="ClaudiuPopoviciu">
@@ -24,6 +24,7 @@
 	var MENU_BACKGROUND_COLOR = '#00B7F1';
 </script>
 
+<script async="" type="text/javascript" src="/js/menu.js"></script>
 
 <script async="" type="text/javascript" src="/js/mootools-1.2-core-yc.js"></script>
 <script async="" type="text/javascript" src="/js/mootools-1.2-more.js"></script>
@@ -67,12 +68,12 @@ window.google_analytics_uacct = "UA-26664777-6";
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=378337265512906";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div id="notifyBox" style="display:none;">
+<div style="margin: 0px; position: fixed; overflow: hidden; height: 0px;"><div id="notifyBox" style="display: block; margin: -35px 0px 0px;">
 	<div id="errors"></div>
 	<div id="success"></div>
 	<div id="notices"></div>
 	<div class="drawerDown"></div>
-</div>
+</div></div>
                                                                                                                                                                                             
                                                                                                                 
 
@@ -95,7 +96,7 @@ window.google_analytics_uacct = "UA-26664777-6";
 	<div class="menu" id="menu">
 	<ul class="menu">
 		<li><a href="/">home</a></li>
-				<li class="browse"><a href="javascript:void(0)">Browse Wallpapers</a><ul class="browse">
+		<li><a id="navCategories" href="javascript:void(0)">categories</a></li>		<li class="browse"><a href="javascript:void(0)">Browse Wallpapers</a><ul class="browse">
 			<li><a id="navBrowse" href="/latest_wallpapers.html">latest wallpapers</a></li>
 			<li><a id="navTorrents" href="/top_wallpapers.html">top wallpapers</a></li>
 			<li><a href="/random_wallpapers.html">random wallpapers</a></li></ul>
@@ -205,18 +206,37 @@ function searchSubmit(obj)
 </form></div>
 	</div>
 
-	    
+	        <!-- Navigation -->
+	<div id="navigation">
+		<div id="transmenu">
+			<script type="text/javascript">
+            if (TransMenu.isSupported()) {
+					var ms = new TransMenuSet( TransMenu.direction.down, -21, -57, TransMenu.reference.bottomLeft );
+					// Menu 1
+					var menu1 = ms.addMenu( document.getElementById("navCategories") );
+					menu1.addItem("Animals", '/animals-desktop-wallpapers.html');menu1.addItem("Art", '/art-desktop-wallpapers.html');menu1.addItem("Auto And Moto", '/auto-and-moto-desktop-wallpapers.html');menu1.addItem("Cars & Bikes", '/cars--bikes-desktop-wallpapers.html');menu1.addItem("Celebrities", '/celebrities-desktop-wallpapers.html');menu1.addItem("Cityscapes", '/cityscapes-desktop-wallpapers.html');menu1.addItem("Computers", '/computers-desktop-wallpapers.html');menu1.addItem("Countries", '/countries-desktop-wallpapers.html');menu1.addItem("Cute", '/cute-desktop-wallpapers.html');menu1.addItem("Fashion", '/fashion-desktop-wallpapers.html');menu1.addItem("Flowers", '/flowers-desktop-wallpapers.html');menu1.addItem("Food and Drink", '/food-and-drink-desktop-wallpapers.html');menu1.addItem("Girls", '/girls-desktop-wallpapers.html');menu1.addItem("Holidays", '/holidays-desktop-wallpapers.html');menu1.addItem("Insects", '/insects-desktop-wallpapers.html');menu1.addItem("Love", '/love-desktop-wallpapers.html');menu1.addItem("Military", '/military-desktop-wallpapers.html');menu1.addItem("Movies & TV Shows", '/movies--tv-shows-desktop-wallpapers.html');menu1.addItem("Nature", '/nature-desktop-wallpapers.html');menu1.addItem("Scary", '/scary-desktop-wallpapers.html');menu1.addItem("Seasons", '/seasons-desktop-wallpapers.html');menu1.addItem("Space", '/space-desktop-wallpapers.html');menu1.addItem("Sports", '/sports-desktop-wallpapers.html');menu1.addItem("Travel", '/travel-desktop-wallpapers.html');
+					TransMenu.renderAll();
+				}
+            </script>
+            <!--script type="text/javascript" language="javascript" src="/implode.php?type=js&files=js/menu_code.js.php"></script-->
+		</div>
+	</div>
+    
 	<div class="top-menu-ads">
 		
 
 </div>
-</div><div class="content_bg"></div><div class="content_background">				<div class="content_bgi">
+</div>
+<div class="content_bg"></div><div class="content_background">				<div class="content_bgi">
 
                                    
 
 			<div id="left-panel" class="left-panel">
+h2
 <center><p><a href="http://feeds.feedburner.com/freewhd"><img src="http://feeds.feedburner.com/~fc/freewhd?bg=333333&amp;fg=FFFFFF&amp;anim=1" height="26" width="88" style="border:0" alt=""></a></p>
+
 </center>
+
     
 
 <div class="side-header">categories</div>
@@ -227,20 +247,30 @@ function searchSubmit(obj)
 <ul class="side-panel">
     <li>Total Wallpapers: <strong>3954</strong></li>
     <li>Total Categories: <strong>66</strong></li>
-    <li>Total Downloads: <strong>6083578</strong></li>
-    <li>Total Views: <strong>1209348</strong></li>
-    <li>Total Users: <strong>3</strong></li>
+    <li>Total Downloads: <strong>5903572</strong></li>
+    <li>Total Views: <strong>1166962</strong></li>
+    <li>Total Users: <strong>5</strong></li>
 </ul>
 
 
 
-<table width="100" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="100" height="600" bgcolor="#FFFFFF"><div class="fb-like-box" data-href="https://www.facebook.com/hdwallpapersfreeeu" data-width="100" data-height="550" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div></td>
-  </tr>
-</tbody></table>
 
-</div>              <div class="content" id="content">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- 160x600 creat 17.11.2012 -->
+
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-7329015997888215" data-ad-slot="9701890429"></ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+
+
+
+</div>
+              <div class="content" id="content">
 
 			  
 			  <div class="reset"></div>
@@ -275,6 +305,7 @@ function searchSubmit(obj)
   <br>
   If you have any further queries please don't hesitate to&nbsp;<a href="/contact">contact us</a>.<br>
 </div>
+
                 				
 </div>              <div class="right-panel">
 	
@@ -325,4 +356,129 @@ Histats.track_hits();} catch(err){};
 </script>
 
 
-</body></html>
+
+<!-- Facebook Popup Widget START --><!-- Brought to you by www.MorganAndMen.com - www.TheBlogWidgets.com -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<style>
+#fanback {
+display:none;
+background:rgba(0,0,0,0.8);
+width:100%;
+height:100%;
+position:fixed;
+top:0;
+left:0;
+z-index:99999;
+}
+#fan-exit {
+width:100%;
+height:100%;
+}
+#MorganAndMen {
+background:white;
+width:420px;
+height:270px;
+position:absolute;
+top:58%;
+left:63%;
+margin:-220px 0 0 -375px;
+-webkit-box-shadow: inset 0 0 50px 0 #939393;
+-moz-box-shadow: inset 0 0 50px 0 #939393;
+box-shadow: inset 0 0 50px 0 #939393;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin: -220px 0 0 -375px;
+}
+#TheBlogWidgets {
+float:right;
+cursor:pointer;
+background:url(http://3.bp.blogspot.com/-NRmqfyLwBHY/T4nwHOrPSzI/AAAAAAAAAdQ/8b9O7O1q3c8/s1600/TheBlogWidgets.png) repeat;
+height:15px;
+padding:20px;
+position:relative;
+padding-right:40px;
+margin-top:-20px;
+margin-right:-22px;
+}
+.remove-borda {
+height:1px;
+width:366px;
+margin:0 auto;
+background:#F3F3F3;
+margin-top:16px;
+position:relative;
+margin-left:20px;
+}
+#linkit,#linkit a.visited,#linkit a,#linkit a:hover {
+color:#80808B;
+font-size:10px;
+margin: 0 auto 5px auto;
+float:center;
+}
+</style>
+
+
+<script type="text/javascript">
+//<![CDATA[
+jQuery.cookie = function (key, value, options) {
+
+// key and at least value given, set cookie...
+if (arguments.length > 1 && String(value) !== "[object Object]") {
+options = jQuery.extend({}, options);
+
+if (value === null || value === undefined) {
+options.expires = -1;
+}
+
+if (typeof options.expires === 'number') {
+var days = options.expires, t = options.expires = new Date();
+t.setDate(t.getDate() + days);
+}
+
+value = String(value);
+
+return (document.cookie = [
+encodeURIComponent(key), '=',
+options.raw ? value : encodeURIComponent(value),
+options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+options.path ? '; path=' + options.path : '',
+options.domain ? '; domain=' + options.domain : '',
+options.secure ? '; secure' : ''
+].join(''));
+}
+
+// key and possibly options given, get cookie...
+options = value || {};
+var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
+return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+};
+//]]>
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+if($.cookie('popup_user_login') != 'yes'){
+$('#fanback').delay(1000).fadeIn('medium');
+$('#TheBlogWidgets, #fan-exit').click(function(){
+$('#fanback').stop().fadeOut('medium');
+});
+}
+$.cookie('popup_user_login', 'yes', { path: '/', expires: 7 });
+});
+</script>
+
+<div id="fanback">
+<div id="fan-exit">
+</div>
+<div id="MorganAndMen">
+<div id="TheBlogWidgets">
+</div>
+<div class="remove-borda">
+</div>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?&#10;&#10;href=https://www.facebook.com/hdwallpapersfreeeu&amp;width=402&amp;height=255&amp;colorscheme=light&amp;show_faces=true&amp;show_border=false&amp;stream=false&amp;header=false" style="border: none; overflow: hidden; margin-top: -19px; width: 402px; height: 230px;"></iframe>
+</div>
+</div>
+<!-- Facebook Popup Widget END. Brought to you by www.MorganAndMen.com - www.TheBlogWidgets.com -->
+
+
+<div class="tipsClass" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div class="tip-top"></div><div class="tip"></div><div class="tip-bottom"></div></div></body></html>
