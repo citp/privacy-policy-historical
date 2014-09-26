@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshout.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628163906id_/https%3A//www.bookshout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshout.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926075239id_/https%3A//bookshout.com/privacy) for the most accurate reproduction.*
 
 # BookShout!
 
