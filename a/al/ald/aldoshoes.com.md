@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218204435id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926071855id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.*
 
 # ALDO | Shoes, Boots, Sandals, Handbags & Accessories
 
