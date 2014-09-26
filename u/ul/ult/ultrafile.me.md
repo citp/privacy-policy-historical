@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrafile.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054802id_/http%3A//ultrafile.me/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrafile.me privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927013238id_/http%3A//ultrafile.me/privacy-policy.html) for the most accurate reproduction.*
 
 # Ultrafile.me Privacy Policy
 
