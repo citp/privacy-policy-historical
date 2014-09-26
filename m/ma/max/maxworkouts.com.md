@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061756id_/http%3A//maxworkouts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926105143id_/https%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
 
 # MAX WORKOUTS: Privacy Policy
 
-We take your personal information very seriously and are committed to protecting your privacy. We do not sell, trade, or rent your personal information to others for any purpose. _Ever._
-
-Our privacy policy explains what information we collect, why we collect it, how we use this information, and how to contact us. 
+This Privacy Policy outlines the information we collect, why we collect it, how we use this information (and the choices you have to review, revise and/or restrict our usage of it), and how you can contact us.
 
 ### Information we collect and how we use it
 
@@ -17,9 +15,9 @@ In order to improve our website and ultimately your experience with us, we colle
 
 ##### Information you give us:
 
-When you order, we need to know your name, email address, billing address, credit card number, and expiration date. This allows us to process and fulfill your order, notify you of your order status, and provide you with customer support. _This information is considered personally identifiable information (PII)._
+When you place an order, we collect your name, email address, billing address, credit card number, and expiration date (this information is considered Personally Identifiable Information (PII)). When you sign up for a promotion, contest, free report, or email newsletter, we collect your name and email address.
 
-When you sign up to receive our promotional email newsletters or reports, we need your first name, email address and gender, which we use to send the information you requested. Our emails always give you the ability to unsubscribe from the email list at any time.
+We use this information to process any transaction, inquiry or promotion that you initiate with us, notify you of your order status, provide you with customer support and communicate with you about our products, services and promotions, including those that we think may be of particular interest to you based on information we have collected. You have the ability to unsubscribe from future email messages at any time (simply click the "Manage Subscriptions" link located at the bottom of any email you receive from us, then choose the email list(s) you want to unsubscribe from).
 
 ##### Information we collect from your use of our website:
 
@@ -39,7 +37,7 @@ You can set preferences for how Google advertises to you using the [Google Ad Pr
 
 maxworkouts.com posts articles and blogs where you may have the option to comment. You should be aware that if you voluntarily disclose Personally Identifiable Information on message boards, forums, comment areas on blog or article posts, or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
 
-### Children's Privacy
+### Children's privacy
 
 We do not knowingly collect Personally Identifiable Information (PII) from children under the age of 18. If we learn that we have PII on a child under the age of 18, we will delete that information from our systems. We encourage parents to go online with their kids to help them determine which types of websites are appropriate.
 
@@ -49,4 +47,8 @@ This Privacy Policy is subject to change without notice. Please check back often
 
 ### Contacting us
 
-In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/contact) if you have any questions about the Privacy Policy or if you would like to provide feedback.
+In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](https://www.maxworkouts.com/contact) if you have any questions about the Privacy Policy or if you would like to provide feedback.
+
+Mailing address: 35 Miller Ave #304 • Mill Valley, CA 94941  
+Phone: (415) 992-7016  
+Email: [support@maxworkouts.zendesk.com](mailto:support@maxworkouts.zendesk.com)
