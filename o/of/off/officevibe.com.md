@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153327id_/http%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927013110id_/http%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
 
 # Officevibe Privacy Statement
 
