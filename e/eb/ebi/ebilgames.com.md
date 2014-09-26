@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebilgames.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824021158id_/http%3A//www.ebilgames.com/ebil-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebilgames.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926133735id_/http%3A//ebilgames.com/ebil-privacy.asp) for the most accurate reproduction.*
 
 # Ebil Games - Privacy Policy
 
