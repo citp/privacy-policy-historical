@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundsforngos.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619201727id_/http%3A//www.fundsforngos.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsforngos.org privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926021009id_/http%3A//www.fundsforngos.org/privacy-policy) for the most accurate reproduction.*
 
 # FundsforNGOs - Privacy Policy
 
