@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the menupalace.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606154138id_/http%3A//www.menupalace.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the menupalace.com privacy policy that was archived on 2014-09-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140926033408id_/http%3A//www.menupalace.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -17,7 +17,10 @@ var optionForJs = "privacy";
 var siteURLForJs = "http://www.menupalace.com/";
 var base_url = "http://www.menupalace.com/";
 var appTypeForJs = "";
-var myip = '174.129.228.67';
+var myip = '172.16.13.1';
+var userlat="";
+var userlng="";
+     
 </script>
 
 
@@ -69,7 +72,7 @@ var myip = '174.129.228.67';
         <div class="header stick" id="header">                      
 <style>
 .search-icon{width:12px;height:12px;background:url('../images/search-icon.png');background-size:100% auto;-webkit-background-size:100% auto;position:absolute;top:3px;right:0px;}
-
+.signin_msgtxt{width:100%;float:left;font-size:16px;}
 .menu-palace-text h1,.menu-palace-text h2{float:left} 
 .header{background:#f2f2f2!important;border-bottom: none!important;-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.7);-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.7);box-shadow: 0 1px 5px rgba(0,0,0,0.7);}
 .input-append{background:none!important;right: 6%!important;}
@@ -87,6 +90,7 @@ var myip = '174.129.228.67';
 @media (max-width:979px){
   .discover-places ul{width:100%!important;}
   .discover-places {margin-top: -1.6%!important;}
+  .signin_msgtxt{font-size: 10px;}
 }
 
 @media (max-width:1024px){
@@ -102,7 +106,7 @@ var myip = '174.129.228.67';
 .discover-places ul li{padding-right: 4%!important;}
 .search-icon {right: 6px;}
 .seach-quicktxt{left: 78%!important;top:52%!important;}
-
+.signin_msgtxt{font-size: 11px;}
 }
 @media screen and (max-width: 768px){
 .input-append {right: 13%!important;top: 0%!important;width:25%!important;}
@@ -111,11 +115,14 @@ var myip = '174.129.228.67';
 .discover-places {margin-top: -3.6%!important;}
 .menu-palace-text{margin-top: 5%!important;}
 #ext_search {display:none;}
-.search-icon{display:none;}
+.search-icon{display:none;}  
+.signin_msgtxt{width:100%;float:left;font-size:16px;}
+.signin_msgtxt{font-size: 9px;}
 }
 @media screen and (max-width: 640px){
 .discover-places {margin-top: -3.6%!important;}
 .menu-palace-text{margin-top: 8%!important;}
+.signin_msgtxt{font-size: 9px;}
 }
 @media screen and (max-width: 2048px) and (min-width: 1600px) {
 #ext_search {height: 20px;top: -6px;width:160px;}
@@ -128,6 +135,7 @@ var myip = '174.129.228.67';
 .discover-places ul {width: 60%!important;}
 .header {min-height: 80px!important;}
 .share-btn {top: 55%!important;}
+.signin_msgtxt{font-size: 22px;}
 }
 @media screen and (max-width: 1600px) and (min-width: 1400px){
 .search-icon {right: 0px;}
@@ -135,15 +143,18 @@ var myip = '174.129.228.67';
 .discover-places {margin-top: -2%;}
 .discover-places ul {width: 65%!important;}
 .header {min-height: 80px!important;}
+.signin_msgtxt{font-size: 18px;}
 }
 @media screen and (max-width: 580px){
 .input-append {right: 12%!important;}
 .discover-places {margin-top: -5%!important;}
 .menu-palace-text {margin-top: 10%!important;}
+.signin_msgtxt{font-size: 8px;}
 }
 @media screen and (max-width: 480px){
 .input-append {right: 11%!important;}
 .caret {margin-top: 2px!important;}
+.signin_msgtxt{font-size: 8px;}
 }
 @media screen and (max-width: 480px){
 .input-append {right: 9%!important;}
@@ -151,11 +162,13 @@ var myip = '174.129.228.67';
 .menu-palace-text {width: 90%;}
 .discover-places {margin-top: -5.6%!important;}
 .menu-palace-text{margin-top: 10%!important;}
+.signin_msgtxt{font-size: 8px;}
 }
 @media screen and (max-width: 321px){
 .discover-places {margin-top: -8%!important;}
 .menu-palace-text{margin-top: 20%!important;}
 .input-append input {font-size: 13px!important;}
+.signin_msgtxt{font-size: 8px;}
 }
 
 .discover-places ul{width:65%;float:right!important;margin: 0%!important;}
@@ -268,7 +281,9 @@ border: none;
                 <div class="newsletter-img-container">
                   <img src="http://www.menupalace.com/images/sing_in_msg.png">
                 </div>
-               
+                <div class="signin_msgtxt">
+                    By signing up, you will receive emails weekly regarding MenuPalace Featured Restaurants.
+                </div>
                <div style="margin-top: 4%;width:100%;float:left;"><input type="text" name="signup-email" placeholder="Email Address" id="signup-email"></div>
                <p id="e-msg"></p>
                <div style="margin-top: 4%;width:100%;float:left;text-align:center;"><div style="margin-left: 35%;width: 28%;" id="" class="great-tab">
@@ -358,10 +373,11 @@ Where to Direct Questions About MenuPalace.com's Privacy Policy. If you have any
 
 </div>        </div>
          
-        <div class="row"> 
+        <div class="row" id="h2seotitle"> 
+         <h2 class="h2-seo-title" style="padding-bottom: 1%;"> </h2>
         <div class="gallery" style="width: 84%; margin-left: 8%;margin-right: 8%;clear: both;">
                   </div>
-        <div id="loader-pack" style="width: 84%; margin-top: 2%;margin-left: 8%;margin-right: 8%;clear: both;text-align:center;"></div>
+                 <div id="loader-pack" style="width: 84%; margin-top: 2%;margin-left: 8%;margin-right: 8%;clear: both;text-align:center;"></div>
         </div> 
          
          <div id="footer-spacing" style="min-height:30px;width:100%;float:left;"></div> 
@@ -476,6 +492,7 @@ Toronto, Ontario, M5V 2G5
     });
    */ 
  </script>
-    
+<div id="172.16.13.1"><div>    
   
-</body></html>
+  
+</div></div></body></html>
