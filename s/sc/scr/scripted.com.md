@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111922id_/https%3A//scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926214935id_/http%3A//scripted.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Scripted
+# Privacy Policy - Scripted
 
 Scripted (“Scripted” or “We”) is very sensitive to the privacy needs of its website visitors and members (collectively, “You” or “User”) and recognizes the importance of protecting personally identifiable information that You may choose to share with Scripted. This Online Privacy Policy (“Privacy Policy”) provides You with important information regarding Scripted’s collection, storage and use of personally identifiable information.
 
