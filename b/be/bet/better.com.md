@@ -1,91 +1,142 @@
-> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425002630id_/http%3A//www.better.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926032058id_/http%3A//better.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Your International Terminal to Luxury Lifestyle
+# Better - Online Training That Works
 
-## Privacy Policy
+Better AG ("Better") operates [http://better.com](https://better.com/) (the "Service"). It is our policy to respect your privacy regarding any information we may collect while operating our website. If you have questions about deleting or correcting your personal data please [contact us](http://better.com/en/company/#contact).
 
-**What information do we collect?**  
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+**Better cares deeply about your privacy. Not only because we think you'll be mad at us if we don't, but because it's right.** What you do is nobody else's business, unless you want them to know so that they can help you with something. We follow these principles: 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+  * We don't ask you for personal information unless we need it to improve the learning experience. 
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights [1]. 
+  * We aim to make it as simple as possible to control what information other users and the public can see about you. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
+[1] Sadly, the applicable law in most countries doesn't respect privacy anywhere near as much as they ought to. From a privacy point of view, complying with the law is therefore scary. We'll try our utmost to do the right thing, but since governments have guns, we can't make any promises. 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+## What information we collect
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+### Device information
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We may collect device-specific information, such as your hardware model, operating system version, unique device identifiers, browser type, browser language, referral URL, or mobile network information. 
 
-; To process transactions
+### Log information
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-; To administer a contest, promotion, survey or other site feature
+When you use Better, our server logs may collect certain information about your activities, including details of pages you viewed, the date and time of each request, and IP addresses. 
 
-; To send periodic emails
+### Learning data
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Our learning products are data-driven. In order to provide the best learning experience, we collect detailed data about your interactions with Better, for example exercises completed, responses provided, activity patterns, etc. 
 
-**How do we protect your information?**
+### Local storage
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+### Cookies
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our products, and their website access preferences. 
 
-**Do we use cookies?**
+Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our products, with the drawback that certain features may not function properly without the aid of cookies. 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+### Provided by you
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Certain visitors to our website choose to interact with our product in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. 
 
-**Do we disclose any information to outside parties?**
+For example, to learn using Better, a user is asked to provide information such as name and email address. Those who engage in transactions with us, for example by purchasing access to particular material or functionality, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Better. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
-**Third party links**
+## How we use the information
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We use the information we collect from our users to maintain, protect and improve our services, and to develop new ones. We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. 
 
-**California Online Privacy Protection Act Compliance**
+### Support
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+When you contact us, we may keep a record of your communication to help solve any issues you might be facing. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish a de-personalised, anonymised version of it in order to help us clarify or respond to your request or to help us support other users. 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+### Location
 
-**Childrens Online Privacy Protection Act Compliance**
+We may process personal information on our servers in any country in the world, and therefore cannot guarantee that your information will be processed or stored on a server located in the country where you live. 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+### News
 
-**Online Privacy Policy Only**
+If you are a registered user of our website and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Better and our products. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+## When we share the information
 
-**Terms and Conditions**
+We do not share potentially personally-identifying or personally-identifying information with outside parties unless one of the following circumstances apply. 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/terms-conditions/ "Terms & Conditions").
+### With your consent
 
-**Your Consent**
+We will share personal information when we have your consent to do so. This will always be done on an opt-in, rather than an opt-out, basis. In other words, we will not assume that we have your consent. 
 
-By using our site, you consent to our websites privacy policy.
+### With your organisations
 
-**Changes to our Privacy Policy**
+As a Better user, you can opt-in to interact with groups representing different types of organisations (typically, your employer) on Better. 
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+If you do so, others authorized by the organisation (e.g. your managers, HR colleagues, or external service providers) will have access to some of the information we hold about you (including your email and other data). In particular, they may be able to: 
 
-This policy was last modified on Sep 01 2012
+  * view statistics about your account, including what you are learning, how much time you have spent doing so, how much longer we expect you will need to reach your goals, etc. 
+  * enroll you in new courses, or change your goals for existing courses 
+  * change your account's email address or password
+  * suspend or terminate your account access
+  * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request 
+  * restrict your ability to delete or edit information
 
-**Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the form below.
+
+In such cases, please refer to your organisations' privacy policy for more information. 
+
+### With our service providers
+
+We disclose such information only to those of our employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at our websites, and (ii) that have agreed not to disclose it to others. 
+
+Some of those employees, contractors and affiliated organizations may be located outside of your home country. By using our websites, you consent to the transfer of such information to them. We will not rent or sell such information to anyone. 
+
+### For legal reasons
+
+We will share personal information with outside parties outside if we: 
+
+  * are required to do so by law
+  * believe in good faith that access, use, preservation or disclosure of the information is reasonably necessary to protect the property or rights of Better, third parties or the public at large 
+  * detect, prevent, or otherwise address fraud, security or technical issues 
+
+
+
+### In a depersonalised, aggregated way
+
+We may share statistics about the behavior of visitors to our websites. For instance, we may monitor the most popular courses. We may display this aggregated information publicly or provide it to others. 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it — unless we have to keep that information for legitimate business or legal purposes. 
+
+## Transparency and choice
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. 
+
+## Information security
+
+We take all measures reasonably necessary to protect against the unauthorized access to, use of, alteration of, or destruction of personal information. 
+
+## Terms of service
+
+Use of the Service is subject to our Terms of Service. This Privacy Policy should be read in conjunction with them. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service shall prevail. 
+
+## Continuation
+
+If Better is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Changes
+
+Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in our sole discretion. 
+
+We will post any privacy policy changes on this page, and encourage you to check it for any changes to our Privacy Policy. If the changes are significant, we will aim to provide a more prominent notice — email notifications, for example. 
+
+Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Acknowledgments
+
+Our Privacy Policy was adapted from [Automattic's Privacy Policy](http://automattic.com/privacy/), which they kindly made available under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/2.5/). 
+
+You are welcome to copy and use our policy for your purposes under the same license if you'd like to. 
