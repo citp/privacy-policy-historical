@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the advanceseooptimization.blogspot.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144459id_/http%3A//advanceseooptimization.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanceseooptimization.blogspot.in privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926124503id_/http%3A//advanceseooptimization.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Internet Marketing Blog: Privacy
-
-###  Privacy 
 
 We respect your privacy and we’re committed to safeguarding your privacy while online at [advanceseooptimization.blogspot.com](http://advanceseooptimization.blogspot.com/). The following discloses the information gathering and dissemination practices for this website.
 
