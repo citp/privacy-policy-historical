@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112842id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926064127id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy | Lending Club
 
@@ -383,7 +383,7 @@ service providers.
 
 
 
-#### Affiliates
+#### Joint Marketing
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
