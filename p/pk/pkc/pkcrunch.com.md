@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkcrunch.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529085241id_/http%3A//pkcrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkcrunch.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927100536id_/http%3A//pkcrunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PkCrunch
 
