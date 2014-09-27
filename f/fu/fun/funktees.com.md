@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funktees.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501174918id_/http%3A//www.funktees.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funktees.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927060215id_/http%3A//www.funktees.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Online T Shirts, FunkTees Tees
 
