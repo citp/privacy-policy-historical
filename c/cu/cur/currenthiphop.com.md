@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currenthiphop.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517040422id_/http%3A//currenthiphop.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currenthiphop.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927112214id_/http%3A//currenthiphop.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # CurrentHipHop.com - Stream and download the latest hip-hop music
 
@@ -92,5 +92,3 @@ The Site provides links to other websites on the Internet, and other websites ma
 Changes to this Privacy Policy
 
 The Company may amend this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to our Privacy Policy, we will notify you by posting an announcement on our Site so you are always aware of what information we collect, how we use it and under what circumstances if any, it is disclosed.
-
-Loading...
