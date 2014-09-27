@@ -1,35 +1,36 @@
-<!--The following is the downloaded HTML source of the 1800gotjunk.com privacy policy that was archived on 2014-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140426110228id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1800gotjunk.com privacy policy that was archived on 2014-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927112246id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><head>
-  <script type="text/javascript" async="" src="//cdnjs.cloudflare.com/ajax/libs/gas/1.10.1/gas.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQIBV1NaGwAEXFZbBQg="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://www.1800gotjunk.com/sites/all/themes/gotjunktwofive/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="1-800-GOT-JUNK? is a full-service junk removal company. We'll remove almost anything – from old furniture and appliances to garden waste and renovation debris. Plus, we do all the loading and cleanup, wherever the items are – you don't even need to get it to the curb!">
+<meta name="keywords" content="Junk Removal, Waste Removal, Got Junk, Get rid of Junk, Purchase Franchise, Dumpster Rentals, Franchising Information, Buy a Franchise, New York, Los Angeles, Chicago, Dallas, Philadelphia, Houston, Miami, Washington, Atlanta, Detroit, Boston, San Francisco, Phoenix, Riverside, Seattle, Furniture Removal, Appliance Disposal, Tire Disposal, Electronics Recycling, Yard Waste Disposal">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<meta name="rights" content="Copyright 2001-2010">
 <link rel="canonical" href="http://www.1800gotjunk.com/us_en/footer/privacy-legal.aspx">
 <link rel="shortlink" href="http://www.1800gotjunk.com/us_en/node/12615">
-<link rel="shortcut icon" href="http://www.1800gotjunk.com/sites/all/themes/gotjunktwofive/favicon.ico" type="image/vnd.microsoft.icon">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
-<meta name="copyright" content="Copyright 2001-2010">
-<meta name="description" content="1-800-GOT-JUNK? is a full-service junk removal company. We'll remove almost anything – from old furniture and appliances to garden waste and renovation debris. Plus, we do all the loading and cleanup, wherever the items are – you don't even need to get it to the curb!">
 <link rel="author" href="1-800-GOT-JUNK?">
-<meta name="keywords" content="Junk Removal, Waste Removal, Got Junk, Get rid of Junk, Purchase Franchise, Dumpster Rentals, Franchising Information, Buy a Franchise, New York, Los Angeles, Chicago, Dallas, Philadelphia, Houston, Miami, Washington, Atlanta, Detroit, Boston, San Francisco, Phoenix, Riverside, Seattle, Furniture Removal, Appliance Disposal, Tire Disposal, Electronics Recycling, Yard Waste Disposal">
   <title>Terms of Use and Privacy Policy 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc</title>
     <meta itemprop="name" content="Terms of Use and Privacy Policy">  <link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_4VsH4uokDE8vjIU9uy4qOzfrQXC0dwtgJqhdlgVKe7w.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_Q-dgcr7MybQ1XjMmymTJYdzJ8LmDuaTAzrxI_F09kCk.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_w9XiXl-JT6_O8RQjUmCtjsEJqqO49B97yRR3nnnRMLs.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_lIdhtVo8q3dbP-W61uUvqV3F54TAiOzC8bicoFBVtyI.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_xnVKLKy6Q68b-Nu2JeOV_XS1EDpxPIRvppmgh2QKB1I.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_HLcdhaWm-RBE1ocb8Y4tbrJgUHfu1hptGvbsVMZ9q9A.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.1800gotjunk.com/sites/default/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" async="" src="//cdnjs.cloudflare.com/ajax/libs/gas/1.10.1/gas.min.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
 //--><!]]>
 </script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
-<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_aIsOcfSbkXnl7lpse8bsppg2Sx_A8Y9Z-SuzID7yvC4.js"></script>
-<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_zzLsRgGInDoV7lSPxLUxsCl9q8fizqKw8jxC-qAhlWQ.js"></script>
+<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_WiWxmvoI09GwIcXohmo25nVn6pRKAiKLKMLmDXGXnu0.js"></script>
+<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_KRvzPt4vvFFMKZEdOyIvBwStH5s6UweaLfgF6oE9MBI.js"></script>
+<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_JA4yUt5QoczeQACvd-KN-cDy7gsADzGeUFPqgNaGxXE.js"></script>
+<script type="text/javascript" src="http://www.1800gotjunk.com/sites/default/files/js/js_icfaYuTi5ZXXC5XhPkloFBLmiCIvAD1qPtDsCFOwS2M.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPageState":{"theme":"gotjunktwofive","theme_token":"kSMcNQfS6OUw80KDo2iSvuuZfcdjiAQhZ89c2Xnfpro","js":{"sites\/all\/modules\/contrib\/browserclass\/browserclass.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/video\/js\/video.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/modernizr.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/jquery.jpanelmenu.min.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/placeholders.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/gotjunk.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/video\/css\/video.css":1,"sites\/all\/themes\/gotjunktwofive\/plugins\/layouts\/gotjunk\/default\/default.admin.css":1,"sites\/all\/themes\/gotjunktwofive\/css\/style.css":1,"sites\/all\/themes\/gotjunktwofive\/css\/normalize.css":1,"sites\/all\/themes\/gotjunktwofive\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPageState":{"theme":"gotjunktwofive","theme_token":"74iz13njun3z1ryqSKqK77V5GkIiX2T9BIo_8ugaUSI","js":{"sites\/all\/modules\/contrib\/browserclass\/browserclass.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/video\/js\/video.js":1,"sites\/all\/modules\/custom\/gj_support\/js\/zipcapture.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/modernizr.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/jquery.jpanelmenu.min.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/placeholders.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/gotjunk.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/flexslider_youtube.js":1,"sites\/all\/themes\/gotjunktwofive\/js\/silverpop.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/video\/css\/video.css":1,"sites\/all\/themes\/gotjunktwofive\/plugins\/layouts\/gotjunk\/default\/default.admin.css":1,"sites\/all\/themes\/gotjunktwofive\/css\/style.css":1,"sites\/all\/themes\/gotjunktwofive\/css\/normalize.css":1,"sites\/all\/themes\/gotjunktwofive\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true}});
 //--><!]]>
 </script>
 
@@ -77,7 +78,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
         <div class="siteinfo">
                     <div class="logo">
             <a href="/us_en" title="Home" rel="home">
-              <img src="http://www.1800gotjunk.com/sites/all/themes/gotjunktwofive/logo.png" class="logo-img" alt="Home">
+              <img src="http://www.1800gotjunk.com/sites/default/files/logo.png" class="logo-img" alt="Home">
             </a>
           </div>
           
@@ -114,11 +115,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
 <li class="last leaf menu-mlid-1887 faq mid-1887"><a href="/us_en/what-we-do/frequently_asked_questions.aspx">FAQ</a></li>
 </ul></li>
 <li class="leaf menu-mlid-1890 what-we-take mid-1890"><a href="/us_en/what-we-take/what_we_take.aspx">What We Take</a></li>
-<li class="expanded menu-mlid-1885 locations mid-1885"><a href="/us_en/locations">Locations</a><ul class="menu"><li class="first last leaf menu-mlid-2333 minneapolis mid-2333"><a href="/us_en/locations/junk-removal-twin-cities">Minneapolis</a></li>
+<li class="expanded menu-mlid-1885 locations mid-1885"><a href="/us_en/locations">Locations</a><ul class="menu"><li class="first leaf menu-mlid-3010 san-antonio mid-3010"><a href="/us_en/locations/junk-removal-san-antonio">San Antonio</a></li>
+<li class="last leaf menu-mlid-2333 minneapolis mid-2333"><a href="/us_en/locations/junk-removal-twin-cities">Minneapolis</a></li>
 </ul></li>
 <li class="leaf menu-mlid-1891 start-a-franchise mid-1891"><a href="/us_en/franchise/franchise_stage_1.aspx">Start a Franchise</a></li>
 <li class="leaf menu-mlid-1892 business-services mid-1892"><a href="/us_en/Commercial/Commercial_Services.aspx">Business Services</a></li>
-<li class="last leaf menu-mlid-1884 about-us mid-1884"><a href="/us_en/about/our_company.aspx">About Us</a></li>
+<li class="leaf menu-mlid-1884 about-us mid-1884"><a href="/us_en/about/our_company.aspx">About Us</a></li>
+<li class="last leaf active-trail active menu-mlid-3330 privacy-policy mid-3330"><a href="/us_en/footer/privacy-legal.aspx" style="unbutton" class="active-trail active">Privacy Policy</a></li>
 </ul></div>
     </div>
 
@@ -132,7 +135,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
     <div class="content">
       <div class="customer-service-wrapper">24/7 Customer Service at: <strong><a href="tel:1-800-468-5865">1-800-468-5865</a></strong></div><div class="language-wrapper">
                   <div class="language-current">
-                    <i class="icon-flag-us_en"></i></div><ul class="languages-available"><li class="us_en"><a href="/us_en/footer/privacy-legal.aspx" class="active">United States</a></li><li class="ca_en"><a href="/ca_en/footer/privacy-legal.aspx">Canada</a></li><li class="ca_fr"><a href="/ca_fr/footer/legales-confidentialite.aspx">Canada (Français)</a></li><li class="au_en"><a href="http://www.1800gotjunk.com.au">Australia</a></li></ul></div><div class="login-path"> <a href="https://request.1800gotjunk.com/webclient/forms/wfBook10.aspx?r=na_en&amp;c=us#mainContent">Login</a></div>    </div>
+                    <i class="icon-flag-us_en"></i></div><ul class="languages-available"><li class="us_en"><a href="/us_en/footer/privacy-legal.aspx">United States</a></li><li class="ca_en"><a href="/ca_en/footer/privacy-legal.aspx">Canada</a></li><li class="ca_fr"><a href="/ca_fr/footer/legales-confidentialite.aspx">Canada (Français)</a></li><li class="au_en"><a href="http://www.1800gotjunk.com.au">Australia</a></li></ul></div><div class="login-path"> <a href="https://request.1800gotjunk.com/webclient/forms/wfBook10.aspx?r=na_en&amp;c=us#mainContent">Login</a></div>    </div>
 
   </div>
 </div> <!-- /block-inner /block -->                  </div>
@@ -200,11 +203,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
   
   <div class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div>
   <div class="field field-name-field-body field-type-text-long field-label-hidden">
-    <div class="take-my-junk"></div>
+    <!-- Change $error_state value to 1 to enable error page -->
+
+<div class="take-my-junk"></div>
 <div class="postal-code-form">
 <span class="checkPrice1">Check price</span><br><span class="checkPrice2">&amp; pick-up times</span>           
 <div class="clear"></div>
 <div class="save10"><span class="save10_1">save $10 </span><span class="save10_2">on same day service</span></div>
+
             
 <form name="locationSearch" method="post" action="https://request.1800gotjunk.com/webclient/forms/wfBook10.aspx?r=na_en&amp;c=us">
 <span class="postalCodeField">
@@ -243,7 +249,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
   <div class="pane-content">
     
   <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-    <div class="pageContent">
+     <div class="pageContent">
 <p>Thank you for visiting the 1-800-GOT-JUNK? website (the "Site"). <strong>PLEASE CAREFULLY REVIEW THE TERMS OF USE OF THE SITE AND THE PRIVACY POLICY. </strong>Since your use of the Site will indicate your acceptance of these terms, do not use the Site if you do not agree to be bound by these terms. We may periodically change the terms in our sole discretion and without notice so please check these terms from time to time since your continued use of the Site signifies your acceptance of any changed terms. These terms incorporate and include our Privacy Policy, outlined below, and any other guidelines or disclaimers that may be posted on the Site.</p>
 <h1>Terms of Use</h1>
 <p><strong>USE OF THE SITE AND INDEMNITY</strong></p>
@@ -336,7 +342,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
 <p><strong>HOW TO CONTACT US</strong></p>
 <p>If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact our customer service team <a href="/ca_en/about/forms/contact_us.aspx?topic=customerservice">here</a>.</p>
 </div>
-  </div>
+   </div>
   </div>
 
   
@@ -355,31 +361,34 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
     
   
   <div class="pane-content">
-    <div class="view view-testimonials view-id-testimonials view-display-id-block_1 view-dom-id-564b991458f53377a9ef171af9f30fee">
+    <div class="view view-testimonials view-id-testimonials view-display-id-block_1 view-dom-id-ed159e2c3b04a08a88605a15362a1a3e">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-    <div itemprop="review" itemscope="" itemtype="http://schema.org/Review">
-  <h3 class="pane-title">Actual Customer Reviews<span>(Typos and all:)</span></h3>
+    
+<h3 class="pane-title">Actual Customer Reviews<span>(Typos and all:)</span></h3>
+
+<div itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+
   <div class="views-field views-field-body">    <span itemprop="description">
-      "Just continue what you are doing. Great, courteous and prompt service. Thanks"    </span>
-  </div>  <div class="review-rating" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
-    <i>
-      <meta itemprop="worstRating" content="1">
-      <span itemprop="ratingValue">
-        <strong>Rating: 10</strong></span><strong>/<span itemprop="bestRating">10</span></strong>
-      
-    </i>
+      "This is the 2nd time I have used this company and I always have a great experience. The men are polite, never complain, and do an awesome job. Thanks for this company who haul away my un-needed stuff. I highly recommend that any one needing to de-clutter their space call these people."      <p class="author-schema"></p><span itemprop="author" class="author">
+        - Shirley Villarreal, Saint Hedwig, Texas      </span><p></p>
+      <p class="about-schema">Another <span itemprop="about">1-800-GOT-JUNK?</span> happy customer.</p>
+    </span>
   </div>
-  <div class="review-author">
-    <span itemprop="author" class="author">
-      - Ronda Hall, Dumfries, Virginia    </span>
+  <div class="review-rating" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+    <meta itemprop="worstRating" content="1">
+    Rating: 
+    <span class="ratingvalue" itemprop="ratingValue">
+       10</span>/<span class="ratingvalue" itemprop="bestRating">10
+    </span>
   </div>
-  <div class="review-nothing">
-    <span class="field-content"><a href="/us_en/about/junk-removal-customer-reviews.aspx" class="more-link active">More Testimonials</a></span>  </div>
-</div>  </div>
+
+</div>
+<div class="review-nothing">
+  <span class="field-content"><a href="/us_en/about/junk-removal-customer-reviews.aspx" class="more-link">More Testimonials</a></span></div>  </div>
     </div>
   
   
@@ -466,15 +475,27 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
 </div>    </div>
 
   </div>
-</div> <!-- /block-inner /block --><div id="block-block-1" class="block block-block copyright block-odd last clearfix">
+</div> <!-- /block-inner /block --><div id="block-block-1" class="block block-block copyright block-odd clearfix">
   <div class="block-inner">
 
             
 
     <div class="content">
-      <p class="copyright">© 2014 RBDS RUBBISH BOYS DISPOSAL SERVICE INC. D.B.A 1-800-GOT-JUNK?</p>
+       <p class="copyright"><a href="/us_en/footer/privacy-legal.aspx">READ OUR PRIVACY POLICY</a></p>
+<p>&nbsp;</p>
+<p class="copyright">© 2014 RBDS RUBBISH BOYS DISPOSAL SERVICE INC. D.B.A 1-800-GOT-JUNK?</p>
 <p class="copyright">*24/7 Customer Service at 1-800-468-5865, except in Quebec where Customer Service hours are 8 a.m. to 8 p.m. Eastern Time Monday to Friday and 9 a.m. to 9 p.m. Saturday and Sunday.</p>
-    </div>
+     </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-17" class="block block-block target-click-cookie-collection block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content">
+       <p><img src="http://gjunk.netmng.com/pixel/?aid=3372" alt="" border="0" height="1" width="1"></p>
+     </div>
 
   </div>
 </div> <!-- /block-inner /block -->  </div>
@@ -503,6 +524,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"us_en\/","ajaxPage
     </noscript>
 
     <!-- END GOOGLE CODE -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"8de5384fb3","applicationID":"3487929","transactionName":"YVBTMERWVhcEVEdRXVgacAdCXlcKSkdSX1dpWFAKV1BdFjpZXFxXaUNYAUFoSAUCUg==","queueTime":0,"applicationTime":673,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+    
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+</body></html>
