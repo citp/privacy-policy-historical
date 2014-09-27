@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indo-movie.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609072515id_/http%3A//www.indo-movie.com/p/privacy-policy-for-indomovie-if-you.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indo-movie.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927111924id_/http%3A//www.indo-movie.com/p/privacy-policy-for-indomovie-if-you.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndoMovie
 
