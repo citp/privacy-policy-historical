@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixmerchant.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627170308id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixmerchant.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927122018id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
 
 # Scholarship Zone Privacy Statement
 
