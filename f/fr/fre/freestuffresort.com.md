@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuffresort.com privacy policy that was archived on 2014-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140206042430id_/http%3A//www.freestuffresort.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuffresort.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927095426id_/http%3A//www.freestuffresort.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
