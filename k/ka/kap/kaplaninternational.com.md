@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050003id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927104922id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s5) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -174,8 +174,8 @@ Student Code of Conduct: You agree to abide by the student conduct rules and oth
 **21\. USA**
 
 For a full list of the terms and conditions specific to the USA or to California, please visit one of the documents below.    
-[USA](https://web.archive.org/Images/2013%20Terms%20and%20Conditions%20USA%20only%20\(non-%20California\)_tcm7-61836.pdf "Terms and Conditions - USA")   
-[California](https://web.archive.org/Images/2013%20Terms%20and%20Conditions_CALIFORNIA%20Specific_tcm7-61835.pdf "Terms and Conditions - California")
+[USA](https://web.archive.org/Images/Terms_Conditions_USA_tcm7-61836.pdf "Terms and Conditions - USA")   
+[California](https://web.archive.org/Images/Terms_Conditions_California_tcm7-61835.pdf "Terms and Conditions - California")
 
  **REFUND POLICY**  
 
