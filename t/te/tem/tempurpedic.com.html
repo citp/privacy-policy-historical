@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tempurpedic.com privacy policy that was archived on 2014-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528005211id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tempurpedic.com privacy policy that was archived on 2014-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927120911id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js wf-loading"><!-- <![endif] --><head>
     <meta charset="utf-8">
@@ -28,13 +28,15 @@
         if (typeof (lpUnit) == 'undefined') var lpUnit = 'sales-us';
     </script>
     <script src="//tempurpedic.cachefly.net/scripts/mtagconfig.js" type="text/Javascript"></script>
-    <!-- $Id: additional_meta_tags.html,v 1.1.3.9 2014/05/15 22:25:06 rorya Exp $ -->
+    <!-- $Id: additional_meta_tags.html,v 1.1.3.10 2014/06/10 16:34:09 rorya Exp $ -->
 <meta name="google-site-verification" content="cEWIkzSMLr_xhy61Y3c3k4EZNC1BblcuKAcCiqgKUw0">
 <meta name="google-site-verification" content="8ioiE9S1yqCFuRChfj_Hh5bh4oswoKYWblKwNO9z6S4">
+<meta name="google-site-verification" content="aGBpuAb_w0VPhMKohtsmtxBcJcCAhy-iMB7fEcFFGMs">
 <meta name="y_key" content="a9d3b45aeaa12dc8">
 <meta name="msvalidate.01" content="CAECCCD0449469E478F5F1A75A6B7EEC">
 
-<!--Oslo Landing Page CSS-->
+<!--Additional CSS-->
+<link href="/assets/flowplayer/minimalist.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/assets/vendor/huge/oslo/css/all.css" media="screen" rel="stylesheet" type="text/css">
 
 <!-- BEGIN typekit async -->
@@ -53,56 +55,49 @@
 
 <script type="text/javascript" src="//tempurpedic.cachefly.net/scripts/mediaelement-and-player.js"></script>
 <script type="text/javascript" src="//tempurpedic.cachefly.net/scripts/jquery.tools.min.js"></script>
-<!-- $Id: GoogleAnalytics.html,v 1.1.3.6 2013/11/30 10:27:30 rorya Exp $ -->
+<!-- $Id: GoogleAnalytics.html,v 1.1.3.11 2014/07/09 13:25:07 rorya Exp $ -->
 
-<script type="text/javascript" src="//display.ugc.bazaarvoice.com/static/tempur-pedic/en_US/bvapi.js">
-</script>
-                                       
+<script type="text/javascript" src="//display.ugc.bazaarvoice.com/static/tempur-pedic/en_US/bvapi.js"></script>
+
 <!-- BEGIN Google Analytics Content Experiment code -->
 <script type="text/javascript">
-//<![CDATA[
 //
-// GA Content Experiment A/B testing
+// GA Content Experiments: client-side, DOM mutation method
 //
 var ga_experiment_path = '/disabled';
-var ga_experiment_key = '35655995-7'; // Experiment 3 (testing)
+var ga_experiment_id   = '73RIjEqeQaKm9NYABhaKIw';
 
-if (location.pathname == ga_experiment_path) {
-	if (window.console) window.console.log("GA Experiment found");
-	function utmx_section(){}
-	function utmx(){}
-	(function () {
-		var	k=ga_experiment_key,d=document,l=d.location,c=d.cookie;
-		if(l.search.indexOf('utm_expid='+k)>0)
-			return;
-		function f(n){
-			if(c){
-				var i=c.indexOf(n+'=');
-				if(i>-1){
-					var j=c.indexOf(';',i);
-					return escape(c.substring(i+n.length+1,j<0?c.length:j));
-				}
-			}
-		}
-		var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
-		d.write(
-'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')}
-)();
-
+if (location.pathname === ga_experiment_path) {
+  document.write('<scr'+'ipt type="text/javascript" src="//www.google-analytics.com/cx/api.js?experiment='+ ga_experiment_id +'"></scr'+'ipt>');
 }
-//]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
 if (location.pathname == ga_experiment_path) {
-    utmx('url','A/B');
+  if (typeof cxApi != 'undefined') {
+    var chosenVariation = cxApi.chooseVariation();
+  } else {
+    if (window.console) window.console.warn("GA Content Experiments API not found, so choosing original");
+    var chosenVariation = "0";
+  }
+  var chosenSlide = parseInt(chosenVariation) + 1;
+  //if (window.console) window.console.log("GA Experiment found: "+ ga_experiment_id +" chosen slide: "+ chosenSlide);
+  var pageVariations = [
+    function() {
+      document.getElementById('hero-01').style.display = 'block'; // original
+    },
+    function() {
+      document.getElementById('hero-02').style.display = 'block'; // variation 1
+    },
+    function() {
+      document.getElementById('hero-03').style.display = 'block'; // variation 2
+    }
+  ];
+  jQuery(document).ready(pageVariations[chosenVariation]);
 }
 //]]>
 </script>
+
 <!-- END Google Analytics Content Experiment code -->
 
 <!-- BEGIN Tealium -->
@@ -121,44 +116,6 @@ var utag_data = {}
 //]]>
 </script>
 <!-- END Tealium -->
-
-<!--  BEGIN fluidsurveys.com survey
-        btime: 20110523T1405Z
-        description: invokes survey from fluidsurveys.com
-        changelog:
-                * 20110514T1250Z 
-                        Modified for production
-                        Modified to load all local resources to use SSL to prevent alerts on an SSL context .
-                * 20111031T1924Z
-                        Commented out (disabled) until needed again
--->
-<!--
-<script type="text/javascript" src="https://app.fluidsurveys.com/media/jquery/jquery-json.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-	var FSPromptID = '436';
-	var FSPromptCookieID = '436';
-	var statusURL = 'https://app.fluidsurveys.com/surveys/tempurpedic-S/site-intercepts/checkpromptavail/';
-	//Set this to the location of prompt_standby.html You MUST host this file to use this feature.
-	var FSStandbyUrl = '/prompt_standby.asp';
-//]]>
-</script>
-<script type="text/javascript" src="//tempurpedic.cachefly.net/scripts/user_prompt.js"></script>
-<style type="text/css">
-	.clearfix:after {
-		content: ".";
-		display: block;
-		height: 0;
-		clear: both;
-		visibility: hidden;
-	}
-	* html #FSpopup { /*\*/position: absolute !important;/**/ }
-	.fs-popup-inner a.fs-popup-button:focus {
-		outline: 1px dotted #373737;
-	}	
-</style>
--->
-<!-- END fluidsurveys.com survey -->
 
 
 </head>
@@ -245,7 +202,7 @@ var utag_data = {}
   <nav class="clearfix grid-container">
     <div id="tp-logo">
       <a href="http://www.tempurpedic.com/" title="Tempurpedic Mattresses, Beds and Pillows">
-        <img alt="Tempurpedic Mattresses, Beds and Pillows" src="//tempurpedic.cachefly.net/images/logo.jpg">
+        <img alt="Tempurpedic Mattresses, Beds and Pillows" src="//tempurpedic.cachefly.net/images/logo.png">
       </a>
     </div>
     <ul id="main-nav"><li><a href="http://www.tempurpedic.com/our-company/sleep-better.asp">the tempur difference</a></li><li><a href="http://www.tempurpedic.com/tempur-pedic/Mattresses.asp">Mattresses</a></li><li><a href="http://www.tempurpedic.com/tempur-pedic/Bed-Bases.asp">Bed Bases</a></li><li class="dropdown-throw last-child"><span style="margin-right:8px;">Bedding &amp; More</span><span class="arrow arrow-down"></span><div class="flyout dropdown-catch" id="bedding-menu"><span class="global-dropdown-up-arrow"></span><ul id="bedding-sub-menu"><li><h2><a data-link="home-and-travel" href="/Home-and-Travel/Home-and-Travel.asp" title="Home &amp; Travel">Home &amp; Travel</a><span class="arrow arrow-down"></span></h2></li><li><h2><a data-link="bed-linens" href="/Bed-Linens/Bed-Linens.asp" title="Bed Linens">Bed Linens</a><span class="arrow arrow-down"></span></h2></li><li class="active"><h2><a data-link="pillows" href="/Pillows/Pillows.asp" title="Pillows">Pillows</a><span class="arrow arrow-down"></span></h2></li><li><h2><a data-link="slippers" href="/Slippers/Slippers.asp" title="Slippers">Slippers</a><span class="arrow arrow-down"></span></h2></li><li><h2><a data-link="sleeper-sofas" href="/Sleeper-Sofas/Sleeper-Sofas.asp" title="Sleeper Sofas">Sleeper Sofas</a><span class="arrow arrow-down"></span></h2></li></ul><div id="sub-menu-content"><div class="sub-menu" id="sub-home-and-travel"><div class="slug"><div class="global-green-circles"></div>
@@ -255,8 +212,8 @@ var utag_data = {}
 <span>Luxurious bed linens crafted from 100% long-staple cotton fit your Tempur-Pedic mattress perfectly.</span></div><div class="sub-content"><ul><li><a href="/Sheet-Sets/Sheet-Sets.asp" title="Sheet Sets"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/egyptian420-01.png"><h3>Sheet Sets</h3></a></li><li><a href="/Pillow-Cases/Pillow-Cases.asp" title="Pillow Cases"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/pima310-plwcase-01.png"><h3>Pillow Cases</h3></a></li><li><a href="/Basics/Basics.asp" title="Basics"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/mattprotector-01.png"><h3>Basics</h3></a></li><li><a href="/Comforters-and-Coverlets/Comforters-and-Coverlets.asp" title="Comforters and Coverlets"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/Sheets_Comforter_Down.png"><h3>Comforters and Coverlets</h3></a></li></ul></div></div><div class="sub-menu" id="sub-pillows"><div class="slug"><div class="global-green-circles"></div>
 <p>The right pillow can do wonders for your sleep.</p>
 <span>Ergonomically shaped or soft and shapeable.</span></div><div class="sub-content"><ul><li><a href="/Contoured-Pillows/Contoured-Pillows.asp" title="Contoured Pillows"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/NeckPillow121.jpg"><h3>Contoured Pillows</h3></a></li><li><a href="/Filled-Pillows/Filled-Pillows.asp" title="Filled Pillows"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/cloudplw-01.png"><h3>Filled Pillows</h3></a></li><li><a href="/Travel-Pillows/Travel-Pillows.asp" title="Travel Pillows"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/travelplw-01.png"><h3>Travel Pillows</h3></a></li></ul></div></div><div class="sub-menu" id="sub-slippers"><div class="slug"><div class="global-green-circles"></div>
-<p>Slippers for the entire family</p>
-<span>Available in a range of styles, each with a comfortable TEMPUR material insole.</span></div><div class="sub-content"><ul><li><a href="/TEMPUR-Womens-Slippers/TEMPUR-Womens-Slippers.asp" title="TEMPUR Womens Slippers"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/terry-scuff-womens-01.png"><h3>TEMPUR Womens Slippers</h3></a></li><li><a href="/TEMPUR-Mens-Slippers/TEMPUR-Mens-Slippers.asp" title="TEMPUR Mens Slippers"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/cloud-moc-mens-01.png"><h3>TEMPUR Mens Slippers</h3></a></li><li><a href="/Closeout-Slippers/Closeout-Slippers.asp" title="Closeout Slippers"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/Mens-Travel-Slipper433.jpg"><h3>Closeout Slippers</h3></a></li></ul></div></div><div class="sub-menu" id="sub-sleeper-sofas"><div class="slug"><div class="global-green-circles"></div>
+<p>Slippers for everyone</p>
+<span>Slippers in a range of styles, each with a comfy TEMPUR insole</span></div><div class="sub-content"><ul><li><a href="/TEMPUR-Womens-Slippers/TEMPUR-Womens-Slippers.asp" title="TEMPUR Womens Slippers"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/Slippers_Conduction_Natural.jpg"><h3>TEMPUR Womens Slippers</h3></a></li><li><a href="/TEMPUR-Mens-Slippers/TEMPUR-Mens-Slippers.asp" title="TEMPUR Mens Slippers"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/Slippers_Downdraft_Tan.jpg"><h3>TEMPUR Mens Slippers</h3></a></li></ul></div></div><div class="sub-menu" id="sub-sleeper-sofas"><div class="slug"><div class="global-green-circles"></div>
 <p>Comfort for every corner of your life.</p>
 <span>Offer your guests the comfort and support of Tempur-Pedic.</span></div><div class="sub-content"><ul><li><a href="/TEMPUR-Home-Sleeper-Sofas/TEMPUR-Home-Sleeper-Sofas.asp" title="TEMPUR-Home Sleeper Sofas"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/suburban_QP_LTH_BisonWhite.jpg"><h3>TEMPUR-Home Sleeper Sofas</h3></a></li><li><a href="/TEMPUR-Home-Sleeper-Chairs/TEMPUR-Home-Sleeper-Chairs.asp" title="TEMPUR-Home Sleeper Chairs"><img src="//tempurpedic.cachefly.net/getDynamicImage.aspx?w=168&amp;h=125&amp;path=../itemImages/suburban_CH_LTH_BisonWhite.jpg"><h3>TEMPUR-Home Sleeper Chairs</h3></a></li></ul></div></div></div></div></li></ul>
   </nav>
@@ -294,7 +251,7 @@ var utag_data = {}
 <!--/sidenav-->
 <div class="span3col" id="cyo">
 <h1>Privacy Policy</h1>
-<p class="cyo_footnote">This Privacy Policy was last updated on September 14, 2010</p>
+<p class="cyo_footnote">This Privacy Policy was last updated on September 25, 2014</p>
 <p>At Tempur-Pedic, we are committed to protecting your privacy and making it clear how we use your information. This privacy policy describes the kinds of information that we may collect about you; how we use that information; how we protect it; when we disclose it; and how you can access and control your information.</p>
 <h2>Your consent</h2>
 <p>By visiting our website, by requesting an information kit or other product detail, or by purchasing products directly from us (either on our website or by phone) you are indicating that you agree to these policies.</p>
@@ -334,11 +291,11 @@ var utag_data = {}
 <h3>How to control your information</h3>
 <p>After you give us your personal information, you can access and check, add, change or remove the information we have on file for you.</p>
 <h3>Adding your name to our lists</h3>
-<p>If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists <a href="http://www.tempurpedic.com/customer-service/contact-preferences.asp">here</a>.</p>
+<p>If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists <a href="http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp">here</a>.</p>
 <h3>Removing your name from our lists</h3>
-<p>If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists <a href="http://www.tempurpedic.com/customer-service/contact-preferences.asp">here</a>.</p>
+<p>If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists <a href="http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp">here</a>.</p>
 <h3>Changing the information we have on file</h3>
-<p>If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information <a href="http://www.tempurpedic.com/customer-service/contact-preferences.asp">here</a>.</p>
+<p>If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information <a href="http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp">here</a>.</p>
 <h3>Accessing your personal information</h3>
 <p>You may contact us (see contact details below) to check what personal information we have on file for you. To protect your personal information against unauthorized disclosure, we will ask you to appropriately identify yourself before responding to your inquiries.</p>
 <p>You can also contact us by phone, e-mail or mail to add, remove or change your information:</p>
@@ -353,6 +310,8 @@ var utag_data = {}
 <p>We may release personal information when we believe it is appropriate to comply with applicable law regulation, legal process, or governmental request; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Tempur-Pedic, our customers, our employees or others.</p>
 <h3>Business transfer</h3>
 <p>As we develop our business, we might sell or buy subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Tempur-Pedic or substantially all of its assets are acquired, customer information will be one of the transferred assets.</p>
+<h3>International transfers</h3>
+<p>Tempur Sealy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Tempur Sealy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tempur Sealy's certification, please visit <a href="http://www.export.gov/safeharbor/" title="Home" target="_blank">www.export.gov/safeharbor/</a>.</p>
 <h3>Sharing</h3>
 <p>We may share your name and mailing address with other reputable companies so they may send you catalogs about products of potential interest. We only share your name and address; we do not share your e-mail address, credit card information or information about the purchases you make from us.</p>
 <h2>How we protect your personal information</h2>
@@ -367,10 +326,12 @@ var utag_data = {}
 <h2>How to contact us</h2>
 <p>If you have questions about our privacy policy or the privacy and security of your information, you can contact us in one of the following ways:</p>
 <p>E-mail: <a href="mailto:privacy.compliance@tempurpedic.com">privacy.compliance@tempurpedic.com</a><br>Mail: Tempur-Pedic, Privacy Compliance, 100 Tempur Way, Lexington, KY 40511</p>
+
 </div>
 <!--/cyo-->
-<div id="cyo_breadcrumbs"><a class="cyo_crumb" href="http://www.tempurpedic.com/" title="Home"><span>Home</span></a> <a class="cyo_crumb" href="http://www.tempurpedic.com/customer-service/" title="Customer service">Customer service</a> <span id="cyo_bc2">Privacy policy</span></div>
+<div id="cyo_breadcrumbs"><a class="cyo_crumb" href="http://tempurpedic.shopvisible.com/" title="Home"><span>Home</span></a> <a class="cyo_crumb" href="http://tempurpedic.shopvisible.com/customer-service/" title="Customer service">Customer service</a> <span id="cyo_bc2">Privacy policy</span></div>
 <!--/breadcrumbs-->
+
 
 </div>
 <div style="clear:both;"></div>
@@ -692,7 +653,7 @@ var utag_data = {}
 <script type="text/javascript" src="/scripts/sbs.common.js"></script>
 </footer>
 <!--end footer-->
-<!-- $Id: google_analytics_footer_script.html,v 1.1.3.11 2014/05/15 17:19:54 rorya Exp $ -->
+<!-- $Id: google_analytics_footer_script.html,v 1.1.3.13 2014/08/13 06:48:55 rorya Exp $ -->
 
 
 <script type="text/javascript">
