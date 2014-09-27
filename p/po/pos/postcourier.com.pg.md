@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postcourier.com.pg privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606232633id_/http%3A//dev.postcourier.com.pg/post-courier-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcourier.com.pg privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927213126id_/http%3A//dev.postcourier.com.pg/post-courier-privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Post-Courier
+# Post-Courier: Papua New Guinea's Latest News, Business, Sport, Weather, Travel, Technology, Entertainment, Politics, Finance, Health, Bougainville and Women
 
 ### **Privacy Policy**
 
