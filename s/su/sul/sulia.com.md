@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194147id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927134359id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
 
 # Sulia Privacy Policy
 
