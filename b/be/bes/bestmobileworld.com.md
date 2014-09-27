@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmobileworld.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412163447id_/http%3A//www.bestmobileworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmobileworld.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927231936id_/http%3A//www.bestmobileworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Blog - Best Mobile World
 
