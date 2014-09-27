@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528005211id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927120911id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy | Tempur-Pedic
 
@@ -80,15 +80,15 @@ After you give us your personal information, you can access and check, add, chan
 
 ### Adding your name to our lists
 
-If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists [here](http://www.tempurpedic.com/customer-service/contact-preferences.asp).
+If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists [here](http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp).
 
 ### Removing your name from our lists
 
-If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists [here](http://www.tempurpedic.com/customer-service/contact-preferences.asp).
+If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists [here](http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp).
 
 ### Changing the information we have on file
 
-If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information [here](http://www.tempurpedic.com/customer-service/contact-preferences.asp).
+If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information [here](http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp).
 
 ### Accessing your personal information
 
@@ -119,6 +119,10 @@ We may release personal information when we believe it is appropriate to comply 
 ### Business transfer
 
 As we develop our business, we might sell or buy subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Tempur-Pedic or substantially all of its assets are acquired, customer information will be one of the transferred assets.
+
+### International transfers
+
+Tempur Sealy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Tempur Sealy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tempur Sealy's certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/ "Home").
 
 ### Sharing
 
