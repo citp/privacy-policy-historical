@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightcentre.ca privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213021120id_/http%3A//www.flightcentre.ca/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.ca privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927112419id_/http%3A//www.flightcentre.ca/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vacation Packages, Travel Deals | Flight Centre
 
