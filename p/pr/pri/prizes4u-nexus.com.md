@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizes4u-nexus.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321225955id_/http%3A//www.jokefrog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizes4u-nexus.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927115640id_/http%3A//www.jokefrog.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Joke Frog
 
