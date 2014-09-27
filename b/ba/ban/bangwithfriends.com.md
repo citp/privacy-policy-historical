@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangwithfriends.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208070041id_/http%3A//www.downapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangwithfriends.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927135042id_/http%3A//downapp.com/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
-# DOWN - Privacy
+# DOWN : Safe, anonymous dating in your social network
 
 ## Privacy Policy
 
