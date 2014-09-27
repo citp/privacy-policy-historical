@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hehechat.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109190135id_/http%3A//hehechat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hehechat.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927235429id_/http%3A//hehechat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HeheChat.com
 
