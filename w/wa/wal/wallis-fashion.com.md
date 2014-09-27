@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallis-fashion.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417205218id_/http%3A//www.wallisfashion.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D34094%26storeId%3D13076%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D351068%26interstitial%3Dtrue%26TS%3D1315937160107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis-fashion.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927194352id_/http%3A//www.wallisfashion.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D34094%26storeId%3D13076%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D351068%26interstitial%3Dtrue%26TS%3D1315937160107) for the most accurate reproduction.*
 
-# Privacy Policy- Wallis US
+# Privacy Policy - Wallis US
 
 **Privacy Policy Statement**
 
