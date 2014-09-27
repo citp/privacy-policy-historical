@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scene.ca privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331190309id_/https%3A//www.scene.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scene.ca privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927171343id_/https%3A//www.scene.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SCENE - Privacy Policy
 
