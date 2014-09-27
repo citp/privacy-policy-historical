@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023023756id_/http%3A//www.bahamasb2b.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927022753id_/http%3A//www.bahamasb2b.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Bahamas B2B
+# Privacy Policy - BahamasB2B
 
-  
-Effective August 22, 2004
+_Effective August 22, 2004_
 
 **Our Commitment To Privacy  **  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on most pages of our site and at every point where personally identifiable information may be requested. 
@@ -45,4 +44,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us:**    
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20061023023756id_/http%3A//www.bahamasb2b.com/contact.htm). 
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.bahamasb2b.com/contact.php). 
