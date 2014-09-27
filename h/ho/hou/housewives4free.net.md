@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housewives4free.net privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140605id_/http%3A//www.wifeadventures.com/info.php%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housewives4free.net privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927104911id_/http%3A//wifeadventures.com/info.php%23privacypolicy) for the most accurate reproduction.*
 
 # Wifeadventures.com
 
