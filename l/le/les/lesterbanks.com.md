@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lesterbanks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082329id_/http%3A//lesterbanks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesterbanks.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927164119id_/http%3A//lesterbanks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LESTERBANKS
+# Privacy Policy - Lesterbanks
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at lesterbanks@lesterbanks.com. 
 
