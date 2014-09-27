@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designinspirationmagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063402id_/http%3A//designinspirationmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designinspirationmagazine.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927202748id_/http%3A//designinspirationmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Design Inspiration
 
