@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitenalytic.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209011033id_/http%3A//www.sitenalytic.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitenalytic.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927080932id_/http%3A//sitenalytic.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
