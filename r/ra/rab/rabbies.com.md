@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabbies.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232745id_/http%3A//www.rabbies.com/tours_vacations_faqs/privacy.asp%3Flng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabbies.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927131819id_/http%3A//www.rabbies.com/tours_vacations_faqs/privacy.asp%3Flng%3Den) for the most accurate reproduction.*
 
 # Rabbie's Privacy and Cookie Policies
 
