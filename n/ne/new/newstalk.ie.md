@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132931id_/http%3A//www.newstalk.ie/footer_pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927150647id_/https%3A//www.newstalk.ie/footer_pages/privacy.php) for the most accurate reproduction.*
 
 # Newstalk - Privacy Policy
 
@@ -18,7 +18,7 @@ The Use Of 'Cookies'
 
 In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website or providing access to certain site features. Disabling cookies could mean you are not able to use some features of the website. 
 
-Please note that if you choose to opt-out of receiving cookies, you may lose some features and / or functionality of Newstalk.ie, for example - you won't be able to login with Newstalk ID. 
+Please note that if you choose to opt-out of receiving cookies, you may lose some features and / or functionality of newstalk.com, for example - you won't be able to login with Newstalk ID. 
 
 Why Do We Use Cookies? 
 
@@ -30,7 +30,7 @@ If you have an Newstalk ID, a cookie on your computer lets us remember your user
 
 For more information on how to manage cookies, including opting-out of functional cookies please visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
-When you use the Newstalk.ie website the following types of cookies can be set on your computer, smartphone or other devices: 
+When you use the newstalk.com website the following types of cookies can be set on your computer, smartphone or other devices: 
 
 Third party advertising 
 
