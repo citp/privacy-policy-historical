@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipechart.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328235953id_/http%3A//www.recipechart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipechart.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927191148id_/http%3A//www.recipechart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food Recipes, Dinner Ideas, Healthy Recipe Tips
 
@@ -93,6 +93,10 @@ Recipechart.com does not intentionally provide access and content toward persons
 If We decide to change Our policies, We will add those changes to this Privacy Policy and anywhere we deem appropriate so you are always aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We will use information in accordance with the Privacy Policy under which the information was collected.
 
 If, however, We are going to use your Personally Identifiable Information in a manner different from that stated at the time of collection, We will notify you via email. Users will have a choice as to whether or not We use their information in this different manner.
+
+## Third-Party Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Contact Information
 
