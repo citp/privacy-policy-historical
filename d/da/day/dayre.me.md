@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayre.me privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202091132id_/http%3A//dayre.me/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayre.me privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927061255id_/http%3A//dayre.me/s/privacy) for the most accurate reproduction.*
 
 # Dayre.me - Privacy Policy
 
@@ -127,7 +127,7 @@ Responding to legal requests and preventing harm:
 
 Storage and Processing:
 
-  * Your information collected through the Service may be stored and processed in the Republic of Sgapore or any other country in which Dayre, its Affiliates or Service Providers maintain facilities.
+  * Your information collected through the Service may be stored and processed in the Republic of Singapore or any other country in which Dayre, its Affiliates or Service Providers maintain facilities.
   * Dayre, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from Singapore law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
   * By registering for and using the Service you consent to the transfer of information to the Republic of Singapore, or to any other country in which Dayre, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
   * We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Dayre cannot ensure the security of any information you transmit to Dayre or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
