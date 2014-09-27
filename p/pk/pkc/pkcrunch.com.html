@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pkcrunch.com privacy policy that was archived on 2014-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140529085241id_/http%3A//pkcrunch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pkcrunch.com privacy policy that was archived on 2014-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927100536id_/http%3A//pkcrunch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:x2="http://www.w3.org/2002/06/xhtml2" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <meta charset="UTF-8">
@@ -8,216 +8,7 @@
 <link rel="stylesheet" href="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/style.css" type="text/css" media="screen">
 <link rel="shortcut icon" href="">
 <link rel="shortcut icon" href="" type="image/x-icon">
-<meta name="generator" content="Magazine3 Framework Version 3.0">
-
-	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-	<link rel="alternate" type="application/rss+xml" title="PkCrunch RSS Feed" href="http://pkcrunch.com/feed/">
-
-	<link rel="pingback" href="http://pkcrunch.com/xmlrpc.php">
-
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/jquery-1.4.4.min.js"></script>
-
-	<script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/ddsmoothmenu.js"></script> 
-
-    <script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/jquery.tools.min.js"></script>
-
- <script type="text/javascript">
-
-var $ = jQuery.noConflict();
-
-$(document).ready(function() {
-//When page loads...
-
-	$(".tab_content").hide(); //Hide all content
-
-	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
-
-	$(".tab_content:first").show(); //Show first tab content
-
-//On Click Event
-
-	$("ul.tabs li").click(function() {
-
-	$("ul.tabs li").removeClass("active"); //Remove any "active" class
-
-		$(this).addClass("active"); //Add "active" class to selected tab
-
-		$(".tab_content").hide(); //Hide all tab content
-
-		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
-
-		$(activeTab).fadeIn(); //Fade in the active ID content
-
-		return false;
-
-	});
-
-});
-
-</script>
-
- <script type="text/javascript">
-
-$(document).ready(function() {
-
-	//Tooltips
-
-	$(".tip_trigger").hover(function(){
-
-		tip = $(this).find('.tip');
-
-		tip.show(); //Show tooltip
-
-	}, function() {
-
-		tip.hide(); //Hide tooltip		  
-
-	}).mousemove(function(e) {
-
-		var mousex = e.pageX + 20; //Get X coodrinates
-
-		var mousey = e.pageY + 20; //Get Y coordinates
-
-		var tipWidth = tip.width(); //Find width of tooltip
-
-		var tipHeight = tip.height(); //Find height of tooltip
-
-		//Distance of element from the right edge of viewport
-
-		var tipVisX = $(window).width() - (mousex + tipWidth);
-
-		//Distance of element from the bottom of viewport
-
-		var tipVisY = $(window).height() - (mousey + tipHeight);
-
-		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
-
-			mousex = e.pageX - tipWidth - 20;
-
-		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
-
-			mousey = e.pageY - tipHeight - 20;
-
-		} 
-
-		tip.css({  top: mousey, left: mousex });
-
-	});
-
-});
-
-</script>
-
-	 <script type="text/javascript">
-
- $(document).ready(function() {
-
- $("div.scrollable").scrollable({
-		size: 3,
-
-		items: '#thumbs',   
-
-		hoverClass: 'hover',
-
-		speed: 400,
-
-		keyboard: false,
-
-		clickable: false
-
-	}).navigator();	
-	
-
-});
-
-</script>
-
- <script type="text/javascript">   
-  // when the DOM is ready...        
-
-$(document).ready(function () {      
-
-  // load the ticker                 
-
-	createTicker();                    
-
-});                                  
-
-
-function createTicker(){             
-
-	// put all list elements within #ticker-area into array   
-
-	var tickerLIs = $("#ticker-area ul").children();          
-
-	tickerItems = new Array();                                
-
-	tickerLIs.each(function(el) {                             
-
-		tickerItems.push( jQuery(this).html() );                
-
-	});                                                       
-
-	i = 0                                                     
-
-	rotateTicker();                                           
-
-
-}         
-
-function rotateTicker(){                                    
-
-	if( i == tickerItems.length ){                            
-
-	  i = 0;                                                  
-
-
-	} 
-
-  tickerText = tickerItems[i];
-c = 0;                                                    
-
-typetext();                                               
-setTimeout( "rotateTicker()", 5000 );                     
-i++;                                                      
-
-}                                                           
-
-var isInTag = false;                                        
-
-function typetext() {	                                      
-
-	var thisChar = tickerText.substr(c, 1);                   
-
-	if( thisChar == '<' ){ isInTag = true; }                  
-
-	if( thisChar == '>' ){ isInTag = false; }                 
-
-	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
-
-	if(c < tickerText.length+1)                                     
-	if( isInTag ){                                                
-
-	typetext();                                                 
-
-		}else{                                                        
-
-			setTimeout("typetext()", 28);                               
-
-		}                                                             
-
-	else {                                                          
-
-		c = 1;                                                        
-
-		tickerText = "";                                              
-
-	}	                                                              
-
-}                                                                 
-
-  </script> 
+<meta name="generator" content="PkCrunch">
 	
  
   	
@@ -229,7 +20,7 @@ function typetext() {
 <meta name="robots" content="noodp,noydir">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script type="text/javascript">
 (function() {
 	var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
 	s.type = 'text/javascript';
@@ -257,7 +48,7 @@ function typetext() {
 <!-- Wordpress Popular Posts v2.2.1 -->
 <script type="text/javascript" charset="utf-8">
     /* <![CDATA[ */				
-	jQuery.post('http://pkcrunch.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'e5a47f8a30', id: 610});
+	jQuery.post('http://pkcrunch.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '7299567616', id: 610});
     /* ]]> */
 </script>
 <!-- End Wordpress Popular Posts v2.2.1 -->
@@ -470,23 +261,9 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/10/03/ex-cm-balochistan-aslam-raisanis-vulgar-encounter-with-farzana-raja/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/10/farzana-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="farzana" title="farzana"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/31/raja-natwarlal-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Raja_Natwarlal-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Raja_Natwarlal" title="Raja_Natwarlal"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/10/03/ex-cm-balochistan-aslam-raisanis-vulgar-encounter-with-farzana-raja/" title="Ex CM Balochistan Aslam Raisani’s vulgar encounter with Farzana Raja">Ex CM Balochistan Aslam Raisani’s vulgar encounter with Farzana Raja</a></h2>
-
-					<div id="cb"></div>
-
-			 	</div>
-
-					  
-
-				<div class="slidesingle">
-
-			 <span id="slidesingleimg">
-
-<a href="http://pkcrunch.com/2013/10/03/%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86-%d9%85%db%8c%da%ba-%d8%ac%d8%b3%d9%85-%d9%81%d8%b1%d9%88%d8%b4%db%8c-%da%a9%d8%a7-%d8%af%da%be%d9%86%d8%af%db%81-%d8%a7%d8%aa%d9%86%d8%a7-%da%a9%da%be%d9%84/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/10/9th-Class-Girl-rape-Lodhran-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="9th-Class-Girl-rape-Lodhran" title="9th-Class-Girl-rape-Lodhran"></a>	</span>		
-
- 					<h2><a href="http://pkcrunch.com/2013/10/03/%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86-%d9%85%db%8c%da%ba-%d8%ac%d8%b3%d9%85-%d9%81%d8%b1%d9%88%d8%b4%db%8c-%da%a9%d8%a7-%d8%af%da%be%d9%86%d8%af%db%81-%d8%a7%d8%aa%d9%86%d8%a7-%da%a9%da%be%d9%84/" title="پاکستان میں جسم فروشی کا دھندہ اتنا کھلے عام ہوتا ہے">پاکستان میں جسم فروشی کا دھندہ اتنا کھلے عام ہوتا ہے</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/31/raja-natwarlal-full-movie-online/" title="Raja Natwarlal Full Movie online">Raja Natwarlal Full Movie online</a></h2>
 
 					<div id="cb"></div>
 
@@ -498,23 +275,9 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/09/09/%d9%86%d8%ac%d9%85-%d8%b3%db%8c%d9%b9%da%be%db%8c-%d8%b4%d8%b1%d8%a7%d8%a8-%d9%be%db%8c%d8%aa%db%92-%db%81%d9%88%d8%a6%db%92-%d9%be%da%a9%da%91%d8%a7-%da%af%db%8c%d8%a7/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_218-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_2" title="Screenshot_2"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/27/mardaani-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Mardaani-poster-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Mardaani-poster" title="Mardaani-poster"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/09/09/%d9%86%d8%ac%d9%85-%d8%b3%db%8c%d9%b9%da%be%db%8c-%d8%b4%d8%b1%d8%a7%d8%a8-%d9%be%db%8c%d8%aa%db%92-%db%81%d9%88%d8%a6%db%92-%d9%be%da%a9%da%91%d8%a7-%da%af%db%8c%d8%a7/" title="نجم سیٹھی شراب پیتے ہوئے پکڑا گیا">نجم سیٹھی شراب پیتے ہوئے پکڑا گیا</a></h2>
-
-					<div id="cb"></div>
-
-			 	</div>
-
-					  
-
-				<div class="slidesingle">
-
-			 <span id="slidesingleimg">
-
-<a href="http://pkcrunch.com/2013/09/09/how-its-made-electrical-wires/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_119-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_1" title="Screenshot_1"></a>	</span>		
-
- 					<h2><a href="http://pkcrunch.com/2013/09/09/how-its-made-electrical-wires/" title="How It’s Made Electrical Wires">How It’s Made Electrical Wires</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/27/mardaani-full-movie-online/" title="Mardaani Full Movie online">Mardaani Full Movie online</a></h2>
 
 					<div id="cb"></div>
 
@@ -526,23 +289,9 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/09/09/beautiful-water-style-lighting/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_310-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_3" title="Screenshot_3"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/15/singham-returns-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/SINGHAM-RETURNS-Release-Date-Story-Wiki-Star-cast-And-Latest-Poster-Ft.Ajay-Devgan-Kareena-Kapoor-Khan-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="SINGHAM-RETURNS- Full Movie" title="SINGHAM-RETURNS- Full Movie"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/09/09/beautiful-water-style-lighting/" title="Beautiful Water Style Lighting">Beautiful Water Style Lighting</a></h2>
-
-					<div id="cb"></div>
-
-			 	</div>
-
-					  
-
-				<div class="slidesingle">
-
-			 <span id="slidesingleimg">
-
-<a href="http://pkcrunch.com/2013/09/09/top-10-richest-people-of-pakistan-in-2013/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_217-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_2" title="Screenshot_2"></a>	</span>		
-
- 					<h2><a href="http://pkcrunch.com/2013/09/09/top-10-richest-people-of-pakistan-in-2013/" title="Top 10 Richest People of Pakistan in 2013">Top 10 Richest People of Pakistan in 2013</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/15/singham-returns-full-movie-online/" title="Singham Returns Full Movie online">Singham Returns Full Movie online</a></h2>
 
 					<div id="cb"></div>
 
@@ -554,23 +303,9 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/09/09/statements-of-nawaz-shabhaz-before-election-after-eelction/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_118-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_1" title="Screenshot_1"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/12/ragini-mms-2-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Raginimms2_movie_latest_poster-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Raginimms2_movie_latest_poster" title="Raginimms2_movie_latest_poster"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/09/09/statements-of-nawaz-shabhaz-before-election-after-eelction/" title="Statements of Nawaz Shabhaz before Election After Eelction">Statements of Nawaz Shabhaz before Election After Eelction</a></h2>
-
-					<div id="cb"></div>
-
-			 	</div>
-
-					  
-
-				<div class="slidesingle">
-
-			 <span id="slidesingleimg">
-
-<a href="http://pkcrunch.com/2013/09/09/%d8%a7%d8%b3%d9%84%d8%a7%d9%85%db%8c-%d8%ac%db%81%d9%85%d9%88%d8%b1%db%8c%db%81-%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86-%da%a9%db%8c-%d8%a7%db%8c%da%a9-%d8%ac%da%be%d9%84%da%a9/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_41-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_4" title="Screenshot_4"></a>	</span>		
-
- 					<h2><a href="http://pkcrunch.com/2013/09/09/%d8%a7%d8%b3%d9%84%d8%a7%d9%85%db%8c-%d8%ac%db%81%d9%85%d9%88%d8%b1%db%8c%db%81-%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86-%da%a9%db%8c-%d8%a7%db%8c%da%a9-%d8%ac%da%be%d9%84%da%a9/" title="اسلامی جہموریہ پاکستان کی ایک جھلک">اسلامی جہموریہ پاکستان کی ایک جھلک</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/12/ragini-mms-2-full-movie-online/" title="Ragini MMS 2 Full Movie online">Ragini MMS 2 Full Movie online</a></h2>
 
 					<div id="cb"></div>
 
@@ -582,23 +317,9 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/09/09/%d9%84%d8%a7%d9%87%d9%88%d8%b1-%d9%85%db%8c%da%ba-%d8%a8%db%92-%d8%ba%db%8c%d8%b1%d8%aa%db%8c-%d9%88-%d8%a8%db%92-%d8%ad%db%8c%d8%a7%d8%a6%db%8c-%da%a9%db%8c-%d8%a7%d9%86%d8%aa%db%81%d8%a7/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_39-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_3" title="Screenshot_3"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/11/bobby-jasoos-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Bobby-jasoos-Poster-HD-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Bobby-jasoos-Poster-HD" title="Bobby-jasoos-Poster-HD"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/09/09/%d9%84%d8%a7%d9%87%d9%88%d8%b1-%d9%85%db%8c%da%ba-%d8%a8%db%92-%d8%ba%db%8c%d8%b1%d8%aa%db%8c-%d9%88-%d8%a8%db%92-%d8%ad%db%8c%d8%a7%d8%a6%db%8c-%da%a9%db%8c-%d8%a7%d9%86%d8%aa%db%81%d8%a7/" title="لاهور میں بے غیرتی و بے حیائی کی انتہا">لاهور میں بے غیرتی و بے حیائی کی انتہا</a></h2>
-
-					<div id="cb"></div>
-
-			 	</div>
-
-					  
-
-				<div class="slidesingle">
-
-			 <span id="slidesingleimg">
-
-<a href="http://pkcrunch.com/2013/09/09/%da%a9%db%8c%d8%a7-%d8%a2%d9%be-%d8%ac%d8%a7%d9%86%d8%aa%db%92-%db%81%db%8c%da%ba-%da%a9%db%81-%d8%a8%d8%b1%db%8c%d9%86-%d9%88%d8%a7%d8%b4%d9%86%da%af-%da%a9%db%8c%d8%b3%db%92-%db%81%d9%88%d8%aa%db%8c/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_216-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_2" title="Screenshot_2"></a>	</span>		
-
- 					<h2><a href="http://pkcrunch.com/2013/09/09/%da%a9%db%8c%d8%a7-%d8%a2%d9%be-%d8%ac%d8%a7%d9%86%d8%aa%db%92-%db%81%db%8c%da%ba-%da%a9%db%81-%d8%a8%d8%b1%db%8c%d9%86-%d9%88%d8%a7%d8%b4%d9%86%da%af-%da%a9%db%8c%d8%b3%db%92-%db%81%d9%88%d8%aa%db%8c/" title="کیا آپ جانتے ہیں کہ برین واشنگ کیسے ہوتی ہے؟ نہیں؟ تو یہ دیکھیں">کیا آپ جانتے ہیں کہ برین واشنگ کیسے ہوتی ہے؟ نہیں؟ تو یہ دیکھیں</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/11/bobby-jasoos-full-movie-online/" title="Bobby Jasoos Full Movie online">Bobby Jasoos Full Movie online</a></h2>
 
 					<div id="cb"></div>
 
@@ -610,9 +331,9 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/09/09/burning-earth/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_117-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_1" title="Screenshot_1"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/11/imran-khan-today-press-conference-11-aug-2014/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Screenshot_1-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_1" title="Screenshot_1"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/09/09/burning-earth/" title="Burning earth">Burning earth</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/11/imran-khan-today-press-conference-11-aug-2014/" title="Imran Khan today Press Conference 11 Aug 2014">Imran Khan today Press Conference 11 Aug 2014</a></h2>
 
 					<div id="cb"></div>
 
@@ -624,9 +345,79 @@ s.parentNode.insertBefore(po, s);
 
 			 <span id="slidesingleimg">
 
-<a href="http://pkcrunch.com/2013/09/07/%d8%b9%d9%85%d8%b1%d8%a7%d9%86-%d8%ae%d8%a7%d9%86-%da%a9%d8%a7%d8%b4%d9%81-%d8%b9%d8%a8%d8%a7%d8%b3%db%8c-%d8%b4%db%8c%d8%ae-%d8%b1%d8%b4%db%8c%d8%af-%da%a9%db%8c-%d8%a8%d8%a7%d8%aa%d9%88%da%ba-%d9%be/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_215-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Screenshot_2" title="Screenshot_2"></a>	</span>		
+<a href="http://pkcrunch.com/2014/08/10/hate-story-2-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Hate-Story-2-Trailer-WorldFree4u.Com0_-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Hate Story 2 - Trailer - WorldFree4u.Com0" title="Hate Story 2 - Trailer - WorldFree4u.Com0"></a>	</span>		
 
- 					<h2><a href="http://pkcrunch.com/2013/09/07/%d8%b9%d9%85%d8%b1%d8%a7%d9%86-%d8%ae%d8%a7%d9%86-%da%a9%d8%a7%d8%b4%d9%81-%d8%b9%d8%a8%d8%a7%d8%b3%db%8c-%d8%b4%db%8c%d8%ae-%d8%b1%d8%b4%db%8c%d8%af-%da%a9%db%8c-%d8%a8%d8%a7%d8%aa%d9%88%da%ba-%d9%be/" title="عمران خان کاشف عباسی شیخ رشید کی باتوں پر ہنس ہنس کر برا حال۔">عمران خان کاشف عباسی شیخ رشید کی باتوں پر ہنس ہنس کر برا حال۔</a></h2>
+ 					<h2><a href="http://pkcrunch.com/2014/08/10/hate-story-2-full-movie-online/" title="Hate Story 2 Full Movie online">Hate Story 2 Full Movie online</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2014/08/10/humpty-sharma-ki-dulhania-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/hf5e5s2zsn9owe6e.D.0.Humpty-Sharma-Ki-Dulhania-Poster-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Humpty-Sharma-Ki-Dulhania-Poster ivod" title="Humpty-Sharma-Ki-Dulhania-Poster ivod"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2014/08/10/humpty-sharma-ki-dulhania-full-movie-online/" title="Humpty Sharma Ki Dulhania Full Movie online">Humpty Sharma Ki Dulhania Full Movie online</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2014/08/08/its-entertainment-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/its-entertainment-poster_140518487500-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="its-entertainment-poster_140518487500" title="its-entertainment-poster_140518487500"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2014/08/08/its-entertainment-full-movie-online/" title="Its Entertainment Full Movie online">Its Entertainment Full Movie online</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2014/08/08/holiday-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Akshay-Kumar-Sonakshi-Sinhas-Upcoming-Movie-Holiday-Release-Date-Reviews-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Akshay-Kumar-Sonakshi-Sinhas-Upcoming-Movie-Holiday-Release-Date-Reviews" title="Akshay-Kumar-Sonakshi-Sinhas-Upcoming-Movie-Holiday-Release-Date-Reviews"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2014/08/08/holiday-full-movie-online/" title="Holiday Full Movie online">Holiday Full Movie online</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2014/08/07/jumme-ki-raat-hai-full-video-online-song/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/Jumme-Ki-Raat-Song-Kick-Movie-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Jumme-Ki-Raat-Song-Kick-Movie" title="Jumme-Ki-Raat-Song-Kick-Movie"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2014/08/07/jumme-ki-raat-hai-full-video-online-song/" title="Jumme Ki Raat Hai Full Video online Song">Jumme Ki Raat Hai Full Video online Song</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://pkcrunch.com/2014/08/07/kick-full-movie-online/"><img width="50" height="45" src="http://pkcrunch.com/wp-content/uploads/2014/08/kick-movie-salman-khan-images-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="kick-movie-salman-khan-images" title="kick-movie-salman-khan-images"></a>	</span>		
+
+ 					<h2><a href="http://pkcrunch.com/2014/08/07/kick-full-movie-online/" title="Kick Full Movie online">Kick Full Movie online</a></h2>
 
 					<div id="cb"></div>
 
@@ -928,20 +719,6 @@ Note: This Page can get updated any time, without an prior noitce, so keep check
 
     <aside>
 
-<center>Advertisement </center>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-1406978937806657";
-/* pkcrunch-300x250 */
-google_ad_slot = "3406066527";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
-
 
 			<div id="sidebar">
 
@@ -978,11 +755,11 @@ google_ad_height = 250;
 <div class="section popular-posts">
 <div id="sidebartitlewrapper"><h3>Popular Posts</h3></div><div class="sectioncont"><ul>
 <li><a href="http://pkcrunch.com/2013/07/20/leaked-scandal-of-tv-actress-ayesha-sana-and-md-ptv/" title="Leaked scandal of TV actress Ayesha Sana and MD PTV"><span class="wpp-post-title">Leaked scandal of TV actress Ayesha…</span></a>        <a href="http://pkcrunch.com/2013/07/20/leaked-scandal-of-tv-actress-ayesha-sana-and-md-ptv/" title="Leaked scandal of TV actress Ayesha Sana and MD PTV"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/07/ayshia-sana-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Leaked scandal of TV actress Ayesha Sana and MD PTV" title="Leaked scandal of TV actress Ayesha Sana and MD PTV"></a></li>
-<li><a href="http://pkcrunch.com/2013/08/19/mahnoor-baloch-and-ayesha-omar-bold-photos-from-main-hoon-shahid-afridi/" title="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’"><span class="wpp-post-title">Mahnoor Baloch and Ayesha Omar Bol…</span></a>        <a href="http://pkcrunch.com/2013/08/19/mahnoor-baloch-and-ayesha-omar-bold-photos-from-main-hoon-shahid-afridi/" title="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/08/ayesha-omar-mahnoor-baloch3-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’" title="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’"></a></li>
 <li><a href="http://pkcrunch.com/2013/01/12/pakistani-film-star-sana-in-tight-shirt-with-sexy-jeans/" title="Pakistani Film Star Sana In Tight Shirt with Sexy Jeans"><span class="wpp-post-title">Pakistani Film Star Sana In Tight S…</span></a>        <a href="http://pkcrunch.com/2013/01/12/pakistani-film-star-sana-in-tight-shirt-with-sexy-jeans/" title="Pakistani Film Star Sana In Tight Shirt with Sexy Jeans"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/01/APaki-Film-Star-Sana-In-Tigh-Shirt-with-Sexy-Jeans-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Pakistani Film Star Sana In Tight Shirt with Sexy Jeans" title="Pakistani Film Star Sana In Tight Shirt with Sexy Jeans"></a></li>
-<li><a href="http://pkcrunch.com/2013/08/25/aishwarya-rai-weight-loss-secret-revealed/" title="Aishwarya Rai Weight Loss Secret Revealed"><span class="wpp-post-title">Aishwarya Rai Weight Loss Secret Re…</span></a>        <a href="http://pkcrunch.com/2013/08/25/aishwarya-rai-weight-loss-secret-revealed/" title="Aishwarya Rai Weight Loss Secret Revealed"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/08/aishwarya-rai-weight-loss-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Aishwarya Rai Weight Loss Secret Revealed" title="Aishwarya Rai Weight Loss Secret Revealed"></a></li>
-<li><a href="http://pkcrunch.com/2013/10/03/%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86-%d9%85%db%8c%da%ba-%d8%ac%d8%b3%d9%85-%d9%81%d8%b1%d9%88%d8%b4%db%8c-%da%a9%d8%a7-%d8%af%da%be%d9%86%d8%af%db%81-%d8%a7%d8%aa%d9%86%d8%a7-%da%a9%da%be%d9%84/" title="پاکستان میں جسم فروشی کا دھندہ اتنا کھلے عام ہوتا ہے"><span class="wpp-post-title">پاکستان میں جسم فروشی کا دھندہ اتنا…</span></a>        <a href="http://pkcrunch.com/2013/10/03/%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86-%d9%85%db%8c%da%ba-%d8%ac%d8%b3%d9%85-%d9%81%d8%b1%d9%88%d8%b4%db%8c-%da%a9%d8%a7-%d8%af%da%be%d9%86%d8%af%db%81-%d8%a7%d8%aa%d9%86%d8%a7-%da%a9%da%be%d9%84/" title="پاکستان میں جسم فروشی کا دھندہ اتنا کھلے عام ہوتا ہے"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/10/9th-Class-Girl-rape-Lodhran-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="پاکستان میں جسم فروشی کا دھندہ اتنا کھلے عام ہوتا ہے" title="پاکستان میں جسم فروشی کا دھندہ اتنا کھلے عام ہوتا ہے"></a></li>
-<li><a href="http://pkcrunch.com/2013/09/09/%d9%86%d8%ac%d9%85-%d8%b3%db%8c%d9%b9%da%be%db%8c-%d8%b4%d8%b1%d8%a7%d8%a8-%d9%be%db%8c%d8%aa%db%92-%db%81%d9%88%d8%a6%db%92-%d9%be%da%a9%da%91%d8%a7-%da%af%db%8c%d8%a7/" title="نجم سیٹھی شراب پیتے ہوئے پکڑا گیا"><span class="wpp-post-title">نجم سیٹھی شراب پیتے ہوئے پکڑا گیا…</span></a>        <a href="http://pkcrunch.com/2013/09/09/%d9%86%d8%ac%d9%85-%d8%b3%db%8c%d9%b9%da%be%db%8c-%d8%b4%d8%b1%d8%a7%d8%a8-%d9%be%db%8c%d8%aa%db%92-%db%81%d9%88%d8%a6%db%92-%d9%be%da%a9%da%91%d8%a7-%da%af%db%8c%d8%a7/" title="نجم سیٹھی شراب پیتے ہوئے پکڑا گیا"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/09/Screenshot_218-150x150.png" class="wpp-thumbnail wp-post-image" alt="نجم سیٹھی شراب پیتے ہوئے پکڑا گیا" title="نجم سیٹھی شراب پیتے ہوئے پکڑا گیا"></a></li>
+<li><a href="http://pkcrunch.com/2013/08/19/mahnoor-baloch-and-ayesha-omar-bold-photos-from-main-hoon-shahid-afridi/" title="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’"><span class="wpp-post-title">Mahnoor Baloch and Ayesha Omar Bol…</span></a>        <a href="http://pkcrunch.com/2013/08/19/mahnoor-baloch-and-ayesha-omar-bold-photos-from-main-hoon-shahid-afridi/" title="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/08/ayesha-omar-mahnoor-baloch3-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’" title="Mahnoor Baloch and Ayesha Omar Bold Photos From ‘Main Hoon Shahid Afridi’"></a></li>
+<li><a href="http://pkcrunch.com/2012/08/11/kristen-stewart-cheats-on-rob-with-rupert-sanders-photos-revealed-online/" title="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online"><span class="wpp-post-title">Kristen Stewart Cheats On Rob With …</span></a>        <a href="http://pkcrunch.com/2012/08/11/kristen-stewart-cheats-on-rob-with-rupert-sanders-photos-revealed-online/" title="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/08/kristen-stewart-cheating-2-685x778-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online" title="Kristen Stewart Cheats On Rob With Rupert Sanders; Photos Revealed Online"></a></li>
+<li><a href="http://pkcrunch.com/2013/07/31/bollywood-actress-kareena-kapoor-said-she-will-never-fast-during-ramadan/" title="Bollywood Actress Kareena Kapoor said she Will Never Fast During Ramadan"><span class="wpp-post-title">Bollywood Actress Kareena Kapoor sa…</span></a>        <a href="http://pkcrunch.com/2013/07/31/bollywood-actress-kareena-kapoor-said-she-will-never-fast-during-ramadan/" title="Bollywood Actress Kareena Kapoor said she Will Never Fast During Ramadan"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2013/07/Kareena-Kapoor-burkha-style-hd-wallpapers-150x150.jpg" class="wpp-thumbnail wp-post-image" alt="Bollywood Actress Kareena Kapoor said she Will Never Fast During Ramadan" title="Bollywood Actress Kareena Kapoor said she Will Never Fast During Ramadan"></a></li>
+<li><a href="http://pkcrunch.com/2012/11/07/worlds-big-and-strong-bull-qurbani-in-bakra-eid-video/" title="World’s Big and strong Bull Qurbani in Bakra EID-video"><span class="wpp-post-title">World’s Big and strong Bull Qurbani…</span></a>        <a href="http://pkcrunch.com/2012/11/07/worlds-big-and-strong-bull-qurbani-in-bakra-eid-video/" title="World’s Big and strong Bull Qurbani in Bakra EID-video"><img width="150" height="150" src="http://pkcrunch.com/wp-content/uploads/2012/11/World’s-Biggest-Bull-Qurbani-in-Lahore-Tune.pk_-150x150.png" class="wpp-thumbnail wp-post-image" alt="World’s Big and strong Bull Qurbani in Bakra EID-video" title="World’s Big and strong Bull Qurbani in Bakra EID-video"></a></li>
 </ul>
 </div></div>
 <!-- End Wordpress Popular Posts Plugin v2.2.1 -->
@@ -1022,6 +799,209 @@ google_ad_height = 250;
 	   	<div class="fotlogoright">
 
 
+ <script type="text/javascript">
+
+var $ = jQuery.noConflict();
+
+$(document).ready(function() {
+//When page loads...
+
+	$(".tab_content").hide(); //Hide all content
+
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+
+	$(".tab_content:first").show(); //Show first tab content
+
+//On Click Event
+
+	$("ul.tabs li").click(function() {
+
+	$("ul.tabs li").removeClass("active"); //Remove any "active" class
+
+		$(this).addClass("active"); //Add "active" class to selected tab
+
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+
+		$(activeTab).fadeIn(); //Fade in the active ID content
+
+		return false;
+
+	});
+
+});
+
+</script>
+
+ <script type="text/javascript">
+
+$(document).ready(function() {
+
+	//Tooltips
+
+	$(".tip_trigger").hover(function(){
+
+		tip = $(this).find('.tip');
+
+		tip.show(); //Show tooltip
+
+	}, function() {
+
+		tip.hide(); //Hide tooltip		  
+
+	}).mousemove(function(e) {
+
+		var mousex = e.pageX + 20; //Get X coodrinates
+
+		var mousey = e.pageY + 20; //Get Y coordinates
+
+		var tipWidth = tip.width(); //Find width of tooltip
+
+		var tipHeight = tip.height(); //Find height of tooltip
+
+		//Distance of element from the right edge of viewport
+
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+
+		//Distance of element from the bottom of viewport
+
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+
+			mousex = e.pageX - tipWidth - 20;
+
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+
+			mousey = e.pageY - tipHeight - 20;
+
+		} 
+
+		tip.css({  top: mousey, left: mousex });
+
+	});
+
+});
+
+</script>
+
+	 <script type="text/javascript">
+
+ $(document).ready(function() {
+
+ $("div.scrollable").scrollable({
+		size: 3,
+
+		items: '#thumbs',   
+
+		hoverClass: 'hover',
+
+		speed: 400,
+
+		keyboard: false,
+
+		clickable: false
+
+	}).navigator();	
+	
+
+});
+
+</script>
+
+ <script type="text/javascript">   
+  // when the DOM is ready...        
+
+$(document).ready(function () {      
+
+  // load the ticker                 
+
+	createTicker();                    
+
+});                                  
+
+
+function createTicker(){             
+
+	// put all list elements within #ticker-area into array   
+
+	var tickerLIs = $("#ticker-area ul").children();          
+
+	tickerItems = new Array();                                
+
+	tickerLIs.each(function(el) {                             
+
+		tickerItems.push( jQuery(this).html() );                
+
+	});                                                       
+
+	i = 0                                                     
+
+	rotateTicker();                                           
+
+
+}         
+
+function rotateTicker(){                                    
+
+	if( i == tickerItems.length ){                            
+
+	  i = 0;                                                  
+
+
+	} 
+
+  tickerText = tickerItems[i];
+c = 0;                                                    
+
+typetext();                                               
+setTimeout( "rotateTicker()", 5000 );                     
+i++;                                                      
+
+}                                                           
+
+var isInTag = false;                                        
+
+function typetext() {	                                      
+
+	var thisChar = tickerText.substr(c, 1);                   
+
+	if( thisChar == '<' ){ isInTag = true; }                  
+
+	if( thisChar == '>' ){ isInTag = false; }                 
+
+	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
+
+	if(c < tickerText.length+1)                                     
+	if( isInTag ){                                                
+
+	typetext();                                                 
+
+		}else{                                                        
+
+			setTimeout("typetext()", 28);                               
+
+		}                                                             
+
+	else {                                                          
+
+		c = 1;                                                        
+
+		tickerText = "";                                              
+
+	}	                                                              
+
+}                                                                 
+
+  </script> 
+
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="alternate" type="application/rss+xml" title="PkCrunch RSS Feed" href="http://pkcrunch.com/feed/">
+<link rel="pingback" href="http://pkcrunch.com/xmlrpc.php">
+<script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/ddsmoothmenu.js"></script> 
+<script type="text/javascript" src="http://pkcrunch.com/wp-content/themes/techblog_v1.0/techblog-single-pro-psd/js/jquery.tools.min.js"></script>
 
 
 
@@ -1029,7 +1009,7 @@ google_ad_height = 250;
 
 <!--
 <p style="text-align:center" class="yd_linkware"><small><a href="http://www.yann.com/en/wp-plugins/yd-recent-posts-widget">Featuring Recent Posts WordPress Widget development by YD</a></small></p>
---><script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2014Mayaa"></script>
+--><script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2014Sepaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -1038,7 +1018,7 @@ var WPGroHo = {"my_hash":""};
 <script type="text/javascript" src="http://pkcrunch.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4.1"></script>
 	<div style="display:none">
 	</div>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201422"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201439"></script>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -1050,7 +1030,7 @@ var WPGroHo = {"my_hash":""};
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-	<script src="http://stats.wordpress.com/e-201422.js" type="text/javascript"></script>
+	<script src="http://stats.wordpress.com/e-201439.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	st_go({v:'ext',j:'1:1.7',blog:'22209659',post:'610'});
 	var load_cmc = function(){linktracker_init(22209659,610,2);};
@@ -1063,4 +1043,4 @@ var WPGroHo = {"my_hash":""};
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Served from: pkcrunch.com @ 2014-05-29 08:52:58 --></body></html>
+Served from: pkcrunch.com @ 2014-09-27 10:06:50 --></body></html>
