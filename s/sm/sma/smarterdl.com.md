@@ -1,23 +1,48 @@
-> *The following text is extracted and transformed from the smarterdl.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628233949id_/http%3A//www.smarterdownloader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterdl.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927023212id_/http%3A//www.smarterdownloader.com/privacy.htm) for the most accurate reproduction.*
 
 # Smarterdownloader.com - Privacy Policy
 
-We respect your right to privacy. Any details that you give to us via this website or in any other way may be added to our database. You do not have to give us any personal information in order to use most of this website or our software, however, if you wish to take advantage of some of the personalized services that we may from time to time offer, you will need to provide this information.
+When you use this Website SmarterDownloader.com website ("Website", "Us" or "We") and the Smarter Downloader software ("Software"), you consent to the collection, use and disclosure of your information as described in this privacy policy ("Privacy Policy").
 
-Your Consent:
+We know that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected and stored by Us when you make use of the Website or Software downloaded from the Website, and how the information will be used.
 
-By using our website you consent to the collection and use of your personal information in the manner set out in this privacy policy. If we change or modify this privacy policy we shall post these changes on this page.
+This Privacy Policy may be updated from time to time we ask you to check back the most updated form of Privacy Policy as indicated below.
 
-Use of Personal Details:
+YOUR CONTINUED USE OF THE SOFTWARE AND/OR THIS WEBSITE AFTER THIS PRIVACY POLICY HAS BEEN AMENDED SHALL BE DEEMED AS YOUR CONTINUED ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY, AS AMENDED.
 
-Our database of personal details (however we collect these details) is used by us, and third parties acting on our behalf, for administration and marketing related purposes. We may, from time to time, send you mailings which you have requested or we feel may interest you and/or are relevant to you. Such mailings may include details of our products and services e.g. newsletters and other related matters.
+PLEASE NOTE: WE WILL NOT USE OR SHARE YOUR INFORMATION WITH ANYONE EXCEPT AS DESCRIBED IN THIS PRIVACY POLICY.
 
-Contacting us About Your Information:
+ ** _1\. Information Collected_**   
+1.1.Personal Information:   
+We may collect some personal information that you explicitly provide (for example, in the process of registration to the Website services) and which identifies your personally, such as your name, email address, services purchased, etc. ("Personal Information"). 
 
-If you would like to see the information we hold about you or would like to be removed from our database and/or any mailing lists, or require another form of assistance, please contact support at: [info@smarter-downloader.com](mailto:info@smarter-downloader.com)
+1.2.Non-Personal Information:   
+We collect some non-identifying information regarding your use of our Website and Software, including but not limited to, type of device on which Software is used and installed, applications with which the Software has interacted, advertisements viewed, pages browsed, search inquiries, the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server ("Non-Personal Information"). 
 
-Cookies:
+**_2\. Children Policy_**   
+We do not knowingly collect Personal Information from anyone under the age of thirteen (13). In the event that we learn that Personal Information was collected from a child under age of thirteen (13) without verification of parental consent, we will take adequate measures to delete that information as quickly as possible. 
 
-We may use cookies. A cookie is a small amount of data which is stored on your computer's hard drive which makes it easier to identify you and which is revealed to us when you use this website. We also use cookies to track the interest of our users so that we can subsequently enhance their experience on our website. You can configure your web browser not to accept cookies, although this may affect how you see and are able to use this website.
+**_3\. Software and Website Updates_**   
+The Software may perform regular checks for software updates on our servers and may download such updates when needed. 
 
-Search Providers and Other Policies:
+**_4\. Use of Collected Information_**
+
+4.1 Use of Collected Information 
+
+Personal Information shall be used solely in order to process your inquiries, respond to your requests and improve our services. 
+
+4.2.We will not disclose your Personal Information to any third party, unless: (i) required to do so as part of any legal proceedings conducted between you and the Website; (ii) Required to do so by court order; (iii) In case the activity of the Website is transferred to a third party, providing such party undertakes to protect your privacy in accordance with these terms   
+4.3.Non-Personal Information:   
+Non-Personal Information shall be used to ensure the adequate operation, improve, modify, cancel, enrich or adjust the Website and/or the Software. 
+
+4.4.We reserve the right to use and disclose Non-Personal Information to third parties, including, advertisers, sponsors, business partners, investors, affiliates and consultants, at our sole discretion. 
+
+**_5\. Cookies_**   
+We use Cookies in order to ensure proper operation, collect Non-Personal Information, verify information, tailor the Website and Software to your specific preferences and ensure information security.   
+Please note that modern browsers enable you to disable Cookies, however, this may interfere with your use of the Website or its services. 
+
+**_6\. Third Party Advertisements_**   
+We may use third-party advertising partners in order to serve advertisements on our Website. Such parties may use Cookies placed on your computer in order to adjust the advertisements presented on the Website. Such use is subject to the privacy policy of those parties and is not subject to these terms, we recommend you to review said policies. 
+
+**_7\. Information Security_**   
+Note that although we take measures to secure the information and reduce the risk of unwanted disclosure, we cannot guarantee the information will not be exposed as a result of unauthorized penetration to our servers. 
