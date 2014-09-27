@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinkedspace.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521183026id_/http%3A//www.myinkedspace.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinkedspace.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927111006id_/http%3A//www.myinkedspace.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MyInkedSpace
 
@@ -44,7 +44,7 @@ In General. We may use information that we collect about you to:
 
 ### With whom we share your information
 
-When you buy Bling Bucks or subscribe to VIP you share your personal information with the payment provider and are subject to their terms and conditions and privacy policy. 
+When you buy Points or subscribe to VIP you share your personal information with the payment provider and are subject to their terms and conditions and privacy policy. 
 
 Aggregated and non-personal information. We may share non-personal information we collect under any of the above circumstances. 
 
