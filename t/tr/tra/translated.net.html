@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the translated.net privacy policy that was archived on 2014-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140415053137id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the translated.net privacy policy that was archived on 2014-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140927105035id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,7 +13,7 @@
 			<script type="text/javascript" language="javascript" src="pub/js/jquery.validationEngine-en.js"></script>			
 			
 			<title> Translation Service - Confidentiality - Translated </title>
-			<meta name="description" content="Your Privacy Comes First. Translated shall make every effort, in regard to the electronic form of the service, to keep all documents and personal customer information absolutely confidential. Translated offers a professional translation service in more than 1600 language combinations and, over the last 10 years, has used intelligent methods to bring together 42,479 clients and 89,331 translators from around the world.">
+			<meta name="description" content="Your Privacy Comes First. Translated shall make every effort, in regard to the electronic form of the service, to keep all documents and personal customer information absolutely confidential. Translated offers a professional translation service in more than 1600 language combinations and, over the last 10 years, has used intelligent methods to bring together 48,167 clients and 99,919 translators from around the world.">
 			<meta name="keywords" content="confidentiality, privacy statement, professional translation, translation service, translation services, translation agency, translation agencies, sworn translations, translations, online estimate, online quote, site translation ">
 	</head>
 
@@ -21,7 +21,7 @@
 	<body>
 		<!--start of container-->
 		<div id="container">
-			<div id="top-right">
+            <div id="top-right">
                                                     <input type="hidden" id="oldCurrency" name="oldCurrency" value="USD">
             <ul>            	
                 <li>
@@ -51,11 +51,10 @@
                         <option value="ja/confidentiality">日本語</option>                          
                         <option value="ko/기밀-준수">한국어</option>                    </select>		
                 </li>				
-                <li class="accedi">					
-                    <span>
-                        <a id="linkToLogin" href="#acc" class="scroll">Sign in</a> | 
-                    </span>					
-                </li>            </ul>
+                 <!-- <li tal:condition="not:exists:nosignin" class="accedi"> -->
+                <li class="accedi">      			
+                    <span><a id="linkToLogin" class="loginWindow" style="height: 19px; line-height: 19px;">Sign in</a></span>					
+                </li>                             </ul>
         </div>			<a href="./"><span class="logo"><img src="pub/images/translated-logo.gif" alt="translated logo"></span></a>			<div class="nav-bg optimized">
             <span class="white"></span> <span class="white2"></span> <span class="white3"></span> <span class="white4"></span>
             <ul>
@@ -98,88 +97,7 @@
                 <p class="visited">A personal service tailored to your&nbsp;specific&nbsp;needs.</p>
             </li>
         </ul>
-    </div>				<div>
-			
-			<span>
-				<h3 id="area-accesso">Login</h3>	
-			</span> 	
-			<a id="acc"></a>
-			<ul id="loginTabs" class="shadetabs">
-				<li><a id="tabclienti" href="#" rel="clienti" class="selected">Customers</a></li>
-				<li><a id="tabtraduttori" href="#" rel="traduttori" class="">Translators</a></li>
-				<li><a id="tabaffiliati" href="#" rel="affiliati" class="">Partners</a></li>
-			</ul>
-			
-			<div id="loginFormContainer">
-				<div id="clienti" class="tabcontent" style="display: block;">
-					<div class="divform">
-				    	<form class="form" action="http://www.translated.net/int/ots.php">
-				        	<h4>Project and billing status</h4>
-				        	<ul>
-								<li>
-									<label for="clientiUserid">User </label>
-						  			<input name="login" id="clientiUserid" type="text" class="textbox">
-						  		</li>					  		
-				        		<li>
-				        			<label for="clientiPassword">Password</label>
-				        			<input name="pass" id="clientiPassword" type="password" class="textbox">
-									<span class="psw">
-                                        <a id="clientiForgotPassword" class="forgotPassword">Forgot your password?</a>                                     </span>                    		
-								</li>
-				       		  	<li>
-				       		  		<input id="clientiSubmit" name="clientiSubmit" type="submit" class="orderbtn_sml" value="Enter" style="margin-right:10px">
-				       		  	</li>
-				        	</ul>
-				     	</form>
-					</div>  
-				</div>
-				
-				<div id="traduttori" class="tabcontent" style="display: none;">
-					<div class="divform">
-	                	<form method="post" class="form" action="https://www.translated.net/top/top.php?step=1">                		
-	                    	<h4>Manage your profile and billing details</h4>
-	                    	<ul>
-								<li>
-									<label for="traduttoriUserid">User</label>
-								  	<input id="traduttoriUserid" name="login" type="text" class="textbox">
-						  		</li>					  		
-	                    		<li>
-	                    			<label for="traduttoriPassword">Password</label>
-	                    			<input id="traduttoriPassword" name="psw" type="password" class="textbox">
-									<span class="psw"><a id="traduttoriForgotPassword" class="forgotPassword">Forgot your password?</a></span>
-	                    		</li>
-	                    		<li>
-									<input name="dologin" type="submit" class="orderbtn_sml" value="Enter" style="margin-right:10px">
-								</li>
-	                    	</ul>
-	                 	</form>
-					</div>  
-				</div>
-	
-				<div id="affiliati" class="tabcontent" style="display: none;">
-					<div class="divform">
-	                	<form method="post" class="form" action="http://www.translated.net/aop/aop.php">	                	
-	                    	<h4>Check your earnings</h4>
-	                    	<ul>
-								<li>
-									<label for="affiliatiUserid">User</label>
-								  	<input id="affiliatiUserid" name="login" type="text" class="textbox">
-						  		</li>					  		
-	                    		<li>
-	                    			<label for="affiliatiPassword">Password</label>
-	                    			<input id="affiliatiPassword" name="psw" type="password" class="textbox">
-	                    			<span class="psw"><!--a tal:attributes="href string:http://www.translated.net/aop/${lang}/fpw.php">Password dimenticata?</a--> <a id="affiliatiForgotPassword" class="forgotPassword">Forgot your password?</a></span>
-	                    		</li>
-	                    		<li>
-									<input name="dologin" type="submit" class="orderbtn_sml" value="Enter" style="margin-right:10px">
-								</li>
-	                    	</ul>
-	                 	</form>
-					</div>  
-				</div>
-			</div>
-		</div>								
-			</div>
+    </div>			</div>
 			
 			<div id="right-panel" class="internal">	
 				<ul class="sections">
@@ -275,6 +193,7 @@
                     <li>Tel. (US): 1-800-930-6982</li>
                     <li><a class="tw" href="http://twitter.com/translation" target="_blank">Twitter.com/Translation</a></li>
 					<li><a class="fb" href="http://facebook.com/translated" target="_blank">Facebook.com/Translated</a></li>
+                    <li><a class="gp" href="https://plus.google.com/117012372348157679819" rel="publisher" target="_blank">Google+</a></li>
                     <li>VAT # IT07173521001</li>
                 </ul>
      		</div>       
@@ -396,6 +315,7 @@ SnapABug.setButton("/en/pub/images/Translation-service.gif");
 SnapABug.addButton("9edfd24b-c2f7-4340-8775-e6df7700b320","1","45%");
 </script-->
 <!--end old snapengage code -->
+
 <!-- begin SnapEngage code -->
 <script type="text/javascript">
   (function() {
@@ -405,9 +325,8 @@ SnapABug.addButton("9edfd24b-c2f7-4340-8775-e6df7700b320","1","45%");
     se.onload = se.onreadystatechange = function() {
       if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
         done = true;
-	SnapABug.setLocale("en");
-        // Place your SnapEngage JS API code below
-        //SnapABug.openProactiveChat(true, true); // Example: open the proactive chat on load
+        /* Place your SnapEngage JS API code below */
+        /* SnapEngage.allowChatSound(true); Example JS API: Enable sounds for Visitors. */
       }
     };
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
@@ -470,6 +389,146 @@ SnapABug.addButton("9edfd24b-c2f7-4340-8775-e6df7700b320","1","45%");
 					</a>					
 				</div>
 			</div>
+		</div>        <div id="loginContainerHid">
+			
+			<div id="loginwindow" style="float: right; margin-top:4px!important">
+    			<input id="loginWindowClose" type="button" value="Close" class="orderbtn closeDOMWindow">   
+    		</div>
+    		<h1 class="titlewindow">
+				Sign in 				
+			</h1>		
+			<div style="margin:10px 0 0 73px">
+				<div>
+			
+			<span></span> 	
+			<a id="acc"></a>
+			<ul id="loginTabs" class="shadetabs">
+				<li><a id="tabclienti" href="#" rel="clienti" class="selected">Customers</a></li>
+				<li><a id="tabtraduttori" href="#" rel="traduttori" class="">Translators</a></li>
+				<li><a id="tabaffiliati" href="#" rel="affiliati" class="">Partners</a></li>
+			</ul>
+			
+			<div id="loginFormContainer">
+				<div id="clienti" class="tabcontent" style="display: block;">
+					<div class="divform">
+				    	<form class="form" action="https://www.translated.net/int/ots.php">
+				        	<h4>Project and billing status</h4>
+				        	<ul>
+								<li>
+									<label for="clientiUserid">User </label>
+						  			<input name="login" id="clientiUserid" type="text" class="textbox">
+						  		</li>					  		
+				        		<li>
+				        			<label for="clientiPassword">Password</label>
+				        			<input name="pass" id="clientiPassword" type="password" class="textbox">
+									<span class="psw">
+                                        <span></span>                                     </span>                    		
+								</li>
+				       		  	<li>
+				       		  		<span id="span_loginErrorCust" style="display: none; color: red;">Incorrect username or password</span>
+				       		  		<input id="clientiSubmit" name="clientiSubmit" type="submit" class="orderbtn_sml executeLoginOnWebSite" value="Enter" style="margin-right:10px">
+				       		  	</li>
+				        	</ul>
+				     	</form>
+					</div>  
+				</div>
+				
+				<div id="traduttori" class="tabcontent" style="display: none;">
+					<div class="divform">
+	                	<form method="post" class="form" action="https://www.translated.net/top/top.php?step=1">                		
+	                    	<h4>Manage your profile and billing details</h4>
+	                    	<ul>
+								<li>
+									<label for="traduttoriUserid">User</label>
+								  	<input id="traduttoriUserid" name="login" type="text" class="textbox">
+						  		</li>					  		
+	                    		<li>
+	                    			<label for="traduttoriPassword">Password</label>
+	                    			<input id="traduttoriPassword" name="psw" type="password" class="textbox">
+									<span class="psw"><a id="traduttoriForgotPassword" class="forgotPassword">Forgot your password?</a></span>
+	                    		</li>
+	                    		<li>
+									<input name="dologin" type="submit" class="orderbtn_sml" value="Enter" style="margin-right:10px">
+								</li>
+	                    	</ul>
+	                 	</form>
+					</div>  
+				</div>
+	
+				<div id="affiliati" class="tabcontent" style="display: none;">
+					<div class="divform">
+	                	<form method="post" class="form" action="https://www.translated.net/aop/aop.php">	                	
+	                    	<h4>Check your earnings</h4>
+	                    	<ul>
+								<li>
+									<label for="affiliatiUserid">User</label>
+								  	<input id="affiliatiUserid" name="login" type="text" class="textbox">
+						  		</li>					  		
+	                    		<li>
+	                    			<label for="affiliatiPassword">Password</label>
+	                    			<input id="affiliatiPassword" name="psw" type="password" class="textbox">
+	                    			<span class="psw"><!--a tal:attributes="href string:http://www.translated.net/aop/${lang}/fpw.php">Password dimenticata?</a--> <a id="affiliatiForgotPassword" class="forgotPassword">Forgot your password?</a></span>
+	                    		</li>
+	                    		<li>
+									<input name="dologin" type="submit" class="orderbtn_sml" value="Enter" style="margin-right:10px">
+								</li>
+	                    	</ul>
+	                 	</form>
+					</div>  
+				</div>
+			</div>
+		</div>				<div class="cl"></div>
+				<div class="divform">
+				<h4>Forgot your password?</h4>
+				<p style="line-height:12px">
+					Forgot your password? Enter the username or e-mail address 
+					registered in your profile 
+				</p>
+				<form method="post" action="" id="inlineForgotPasswordForm">				
+					<input type="hidden" name="inlineForgotUsertype" id="inline_forgot_usertype" value="translator">	
+					<input type="text" class="textbox" name="inlineForgotUsername" id="inlineForgotUsername" value="">				
+					<input name="inlineForgotSend" id="inlineForgotSend" type="submit" class="orderbtn_sml" style="margin-right:15px" value="Send Password">				
+					
+				</form>
+				
+				<div id="inlineForgotErrorContainer" class="formError">						
+					<div id="inlineForgotErrorRequired" class="formErrorContent hide ">
+						<b>*  A username or e-mail address is required</b>
+					</div>
+					
+					<div id="inlineForgotErrorNotExists" class="formErrorContent hide">
+						<b>* Username not found</b>
+						<br>
+						Please contact us at
+						<a href="mailto:info@translated.net?Subject=password Reminder problem">
+							info@translated.net
+						</a>					
+					</div>
+					
+					<div id="inlineForgotErrorNoEmail" class="formErrorContent hide">
+						<b>
+						* The e-mail address associated with your profile 
+						is missing or is invalid. 
+						</b>
+						Password can not be sent.<br>
+						Please contact us at
+						<a href="mailto:info@translated.net?Subject=password Reminder problem">
+							info@translated.net
+						</a>									
+					</div>
+				
+				
+					<div id="inlineForgotErrorSentOk" class="formErrorContent hide" style="width:260px;background:#33be40;">
+						* An e-mail was sent to the address registered in your profile.
+						<br>
+						If you did not receive our e-mail, please contact us at
+						<a href="mailto:info@translated.net">info@translated.net</a>					
+					</div>
+				</div>
+			</div>
+			</div>
+
+			
 		</div>	       
 		<!-- END   HIDDEN CONTENT -->    
 		<script type="text/javascript" language="javascript">	
