@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120213id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927184508id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.0) for the most accurate reproduction.*
 
-# Privacy Policy - Super Mario Boards, the Mario forum
+# Privacy Policy
 
 **Privacy Policy for the Super Mario Boards**
 
@@ -35,4 +35,4 @@ marioboards.com has no access to or control over these cookies that are used by 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. marioboards.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
