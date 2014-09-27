@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callyoutomorrow.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208051029id_/http%3A//callyoutomorrow.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callyoutomorrow.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927024245id_/http%3A//callyoutomorrow.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy | callyoutomorrow.com
 
