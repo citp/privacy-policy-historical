@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsmart.in privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509031843id_/http%3A//www.bsmart.in/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsmart.in privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927173656id_/http%3A//www.bsmart.in/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ The Site may contain links to other websites. The Company is not responsible for
 
 The Company believes that the responsible use of personal information collected on the Site is an important element of its business operations and critical to its reputation. As part of the Company’s commitment to your privacy and respect of your rights, the Company adheres to this Privacy Statement in the operation and management of the Site.
 
-By submitting identifying data, a visitor to the Site is agreeing to the Company's use of such data as described in this statement. Should you have questions or concerns about this statement or should you have any queries regarding any personal information relating to you which may be in the Company’s possession, please feel free to direct your enquiry [**_to_**](https://web.archive.org/web/20100509031843id_/http%3A//www.bsmart.in/enquiry.aspx)
+By submitting identifying data, a visitor to the Site is agreeing to the Company's use of such data as described in this statement. Should you have questions or concerns about this statement or should you have any queries regarding any personal information relating to you which may be in the Company’s possession, please feel free to direct your enquiry [**_to_**](https://web.archive.org/web/20140927173656id_/http%3A//www.bsmart.in/enquiry.aspx)
 
 The extent and type of information the Company receives from you depends on what you do when visiting the Site.
 
