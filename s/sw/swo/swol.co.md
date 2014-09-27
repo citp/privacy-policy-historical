@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swol.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055441id_/http%3A//swol.co/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swol.co privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927164655id_/http%3A//swol.co/s/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SWOL
 
