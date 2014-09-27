@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicoxygen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071943id_/http%3A//dynamicoxygen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicoxygen.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927184439id_/http%3A//www.dynamicoxygen.com/privacy.htm) for the most accurate reproduction.*
 
 # DynamicOxygen > About Us > Privacy Policy
 
