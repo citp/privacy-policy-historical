@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymove.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616144033id_/http%3A//www.mymove.com/about/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymove.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927062101id_/http%3A//www.mymove.com/content/mymove/about/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy | My Move
 
