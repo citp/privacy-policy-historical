@@ -1,121 +1,55 @@
-> *The following text is extracted and transformed from the workathomecoach.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821154534id_/http%3A//www.workathomecoach.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workathomecoach.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927152314id_/http%3A//trafficswarm.com/privacy-policy) for the most accurate reproduction.*
 
-# Work At Home Coach - Privacy Policy
+# A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
-  
-We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
+## TrafficSwarm Privacy Policy
 
-If you want to opt-out of email communications from WorkAtHomeCoach.com, cancel your account, or need to contact us for any other privacy related issue you may do so in the following ways:
+TrafficSwarm.com takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy.
 
-1\. Email: [support@workathomecoach.com](mailto:support@workathomecoach.com)  
-  
-2\. Website: [http://www.workathomecoach.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-  
-3\. Postal Mail: WorkAtHomeCoach.com, LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
-  
-4\. Telephone: (206)452-5657
+Please read the following to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
 
-| 
+**IP Addresses**
 
-[ ](https://secure.trust-guard.com/certificates/workathomecoach.com)
+We use your IP address to help diagnose problems with our web server, and for the general administration of our website. Your IP address, should you decide to create a TrafficSwarm account, is also used to prevent you from registering twice due to temporary technical problems.
 
-|   | 
+**Cookies**
 
-[ ](https://secure.trust-guard.com/certificates/workathomecoach.com)
+Upon your first visit to this web site, a "cookie" is sent to your computer. A cookie is a tiny file that identifies you as a unique user. It stores personal preferences and user data, however, in no way does this tell us who you are. TrafficSwarm.com has two primary uses for its cookies.
 
-|   | 
+First, we use cookies to track special offers and promotions that may be presented to you as you navigate our website. This is done so that you are not presented with the same special offers and/or promotions over and over, or after you have indicated you are not interested in a particular offer. We also use cookies to help track referring web sites.
 
-[ ](https://secure.trust-guard.com/certificates/workathomecoach.com)
+While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent.
 
-|   | 
+**Information Gathering**
 
-[ ](https://secure.trust-guard.com/certificates/workathomecoach.com)  
-  
----|---|---|---|---|---|---  
-  
-**_What information does WorkAtHomeCoach.com collect from visitors?_**
+This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. Users may opt-out of receiving future mailings; see the opt-out/modify section below.
 
-WorkAtHomeCoach.com collects information from our visitors and users of our website and uses the information for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
-
-As a user of this website, WorkAtHomeCoach.com may collect your personally identifiable information when you visit our site and create a WorkAtHomeCoach.com account.
-
-The personally identifiable information that we collect is limited to just your name and email.
-
-**_Why is information collected?_**
-
-Information may be collected in an effort to enhance your user experience, provide you with information regarding WorkAtHomeCoach.com services or other related special offers, and/or to provide you with the products and/or services that you request.
-
-We, or our authorized third-party affiliates, may also collect general information about transactions as they correspond to our advertisements or products. This aggregate information may include demographic and usage information, but 
-
-_does not include personally identifiable information_.
-
-This information is used in an aggregated manner to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
-
-**_How does WorkAtHomeCoach.com protect my information?_**
-
-We have implemented a variety of security measures to maintain the safety of your personally identifiable information. Users' personal information is contained behind secured networks and is only accessible by certain key employees.
-
-We do not collect or store any credit card or other financial information.
-
-Should it be necessary to transmit your personally identifiable information to a reputable third party vendor to fulfill our service commitment to you, WorkAtHomeCoach.com will require all recipients of such information to maintain the information as confidential information, use the information for the limited and intended purpose and agree not to disclose such information.
-
-**_Will WorkAtHomeCoach.com disclose the information it collects to others?_**
-
-WorkAtHomeCoach.com does not rent, sell or share any of the information collected by this site with unrelated 3rd-parties, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
+**Will TrafficSwarm.com disclose the information it collects to others?**  
+TrafficSwarm.com does not rent, sell or share any of the information collected by this site with unrelated 3rd-parties, except to provide the products or services you've purchased or requested, when we have your permission, or under the following circumstances:
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of WorkAtHomeCoach.com's Terms of Use, or as otherwise required by law;
+  * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of TrafficSwarm.com's Terms of Use, or as otherwise required by law;
   * We may share your user information with carefully selected and well-respected service providers or other companies that provide marketing services on our behalf or to other providers with whom we have joint marketing agreements;
-  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote WorkAtHomeCoach.com and earn over $600 in commissions in a calender year.  
-
+  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote TrafficSwarm.com and earn over $600 in commissions in a calender year;
+  * We may share your user information with carefully selected and well-respected service providers or other companies that provide marketing services on our behalf or to other providers with whom we have joint marketing agreements.
 
   
-**_Does WorkAtHomeCoach.com use "cookies" or pixel "tags"?_**
+None of the information that is collected by this web site is rented, sold, or shared with any 3rd parties in any way, for any purpose.
 
-Cookies are bits of electronic information that a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow website operators to better customize a site to your individual preferences.
+**Security**
 
-The use of cookies is standard on the Internet and most major websites use them. We may use cookies to help provide you with a better experience on our site; however, we do not store personally identifying information in cookies.
+This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server.
 
-Like many Web sites, WorkAtHomeCoach.com may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement.
+**Opt-Out/Modify**
 
-We may also implement pixel tags provided by other companies, and limit the collection of information for the same purpose. We do not store personally identifying information in pixel tags.
+TrafficSwarm.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
-**_Can I access or modify the Personal Identifying Information collected?_**
+1\. Email: [support@trafficswarm.com](mailto:support@trafficswarm.com)   
+2\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202 USA  
+3\. FAX: (734) 661-0173
 
-You can view and/or modify the information provided to us at any time by logging in to your account, and clicking the "Account Info" link. You may also submit your request to modify your account information via any of the methods below.
+If you simply want to cancel your TrafficSwarm.com account, you may also do so at the following URL: [http://www.trafficswarm.com/cancelacct.pl](https://web.archive.org/cancelacct.pl)  
+**  
+Contacting TrafficSwarm.com**
 
-**_What if I want to Opt-Out of email communications from WorkAtHomeCoach.com?_**
-
-WorkAtHomeCoach.com provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in the following ways.
-
-Please note however that even if you opt-out, you may still receive important announcements or updates regarding your WorkAtHomeCoach.com account unless you cancel your account.
-
-1\. Email: [support@workathomecoach.com](mailto:support@workathomecoach.com)  
-  
-2\. Website: [http://www.workathomecoach.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-  
-3\. Postal Mail: WorkAtHomeCoach.com, LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
-  
-4\. Telephone: (206)452-5657
-
-**_Can children or minors use WorkAtHomeCoach.com?_**
-
-WorkAtHomeCoach.com does not knowingly collect or solicit any information from or about anyone under the age of 18. If we discover we have received such information in violation of this policy, we will delete that information immediately.
-
-If you believe WorkAtHomeCoach.com has any information from or about anyone under the age of 18, please contact us. If you are under 18, you may use WorkAtHomeCoach.com only under the supervision of a parent or guardian.
-
-**_Links to Other Sites_**
-
-This website may contain links to other sites. Please be aware that WorkAtHomeCoach.com is not responsible for the privacy practices of such other sites.
-
-We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
-
-**_Your consent_**
-
-By using this website, you consent to the collection and use of the information you provide per this Privacy Policy. We also reserve the right to change our Privacy Policy. Should this be necessary, we will post any changes here so you're always aware of the information we collect and how we use it.
-
-**_Contacting WorkAtHomeCoach.com_**
-
-If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
-
-This Privacy Policy was last updated October 23rd, 2010.
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above. All disputes will be handled promptly and fairly.
