@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingconceptsinc.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612042152id_/http%3A//tradingconceptsinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingconceptsinc.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927083231id_/http%3A//tradingconceptsinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trading Concepts | E-Mini, Futures, Options & Stock Trading
 
