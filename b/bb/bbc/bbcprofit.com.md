@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcprofit.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829222828id_/http%3A//bbcprofit.com/privacy.php%3FosCsid%3De0536f19a8617164d24491f65ffa3c37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcprofit.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927062909id_/http%3A//bbcprofit.com/privacy.php) for the most accurate reproduction.*
 
 # Buy HYIP Script
 
