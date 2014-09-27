@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propgoluxury.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610013158id_/http%3A//www.propgo.com/PrivatePolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propgoluxury.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927211512id_/http%3A//www.propgo.com/PrivatePolicy.aspx) for the most accurate reproduction.*
 
 # PropGO Privacy Policy
 
-**Privacy Policy**  
+Privacy Policy  
 
 
 PropGO.com respects your privacy and recognizes the importance of protecting information collected from you through PropGO.com's Web site, related data, and/or related services (collectively, the "Services"). We have adopted this privacy policy. PropGO.com will comply with this policy, and applicable privacy-related law, when we gather and use information from users of the Services. 
