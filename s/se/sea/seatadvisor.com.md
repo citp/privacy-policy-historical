@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606022613id_/http%3A//www.seatadvisor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927174738id_/http%3A//www.seatadvisor.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for SABO Box Office Software and Ticketing Systems
 
