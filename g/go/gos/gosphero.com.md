@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gosphero.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227085501id_/http%3A//www.gosphero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosphero.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927073628id_/http%3A//www.gosphero.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sphero Robot Ball
+# Privacy Policy | Sphero
 
 Orbotix, Inc. (“ **Company** “) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at [www.gosphero.com](http://www.gosphero.com/), (“ **Site** “) and the services provided through the Site (“ **Services** “).
 
@@ -10,7 +10,7 @@ Orbotix, Inc. (“ **Company** “) is committed to protecting your privacy. We
 
 **3.** ** **    **A Note to Users Outside of the United States. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.**
 
-**4. **    **** **Types of Data We Collect.  ”Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.  **“Anonymous Data”**  means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+**4. **    **** **Types of Data We Collect.  “Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.  **“Anonymous Data”**  means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
 **(a)** ** **    **Information You Provide to Us**
 
@@ -77,8 +77,8 @@ Orbotix, Inc. (“ **Company** “) is committed to protecting your privacy. We
 
 Orbotix, Inc.  
 Attn: Privacy Policy  
-1155 Canyon Blvd, Suite 210  
-Boulder, CO 80302  
+4772 Walnut St, Suite 206  
+Boulder, CO 80301  
 support@orbotix.com
 
 **11.** ** **    **Changes to This Privacy Policy. **This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
