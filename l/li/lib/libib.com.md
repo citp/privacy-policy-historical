@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libib.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214054211id_/http%3A//www.libib.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libib.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927222433id_/http%3A//www.libib.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Libib.com
 
@@ -32,7 +32,7 @@ Any of the information we collect from you may be used in one of the following w
 
 • To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+> The email address you provide when registering, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -78,6 +78,6 @@ By using our site, you consent to our [privacy policy](https://web.archive.org/p
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 11-03-2013
+This policy was last modified on 03-26-2014
 
-http://www.libib.com/contact
+https://www.libib.com/contact
