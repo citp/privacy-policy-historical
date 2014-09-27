@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlyse.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225654id_/http%3A//cleanfiles.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlyse.net privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927101755id_/http%3A//jlyse.net/privacy) for the most accurate reproduction.*
 
 # CleanFiles | Highest Paying Pay-Per-Download Network | Privacy
 
