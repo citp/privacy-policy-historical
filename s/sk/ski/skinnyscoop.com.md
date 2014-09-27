@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnyscoop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120739id_/http%3A//www.skinnyscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyscoop.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927212849id_/http%3A//www.skinnyscoop.com/privacy) for the most accurate reproduction.*
 
-# SkinnyScoop | Privacy
+# Privacy Policy for Site Users | SkinnyScoop
 
 This privacy statement (“Privacy Policy”) covers SkinnyScoop products (the “Products”) which are offered by The SkinnyScoop LLC (“SkinnyScoop”.) References to “we”, “us” and “our” herein refer to SkinnyScoop.
 
