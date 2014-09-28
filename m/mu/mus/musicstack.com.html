@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musicstack.com privacy policy that was archived on 2014-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140203202239id_/http%3A//www.musicstack.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicstack.com privacy policy that was archived on 2014-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140928024248id_/http%3A//www.musicstack.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" " lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <link href="https://plus.google.com/108654539630503500652" rel="publisher">
@@ -61,7 +61,9 @@
 </form>
 
 </td>
-<td align="right"><a href="http://www.musicstack.com/cart.cgi"><img src="http://www.musicstack.com/gif/button/cart.png" border="0"></a></td>
+
+<td align="right" class="t"><a href="http://www.musicstack.com/cart.cgi"><img src="http://www.musicstack.com/gif/cart/cart0.gif" border="0"></a></td>
+<td valign="bottom"><a href="http://www.musicstack.com/cart.cgi" style="text-decoration: none;" class="t"><b>Cart</b></a></td>
 <td align="right"><a href="http://login.musicstack.com"><img src="http://www.musicstack.com/gif/button/my_account.png" border="0"></a>
 </td></tr></tbody></table>
 </center></td></tr></tbody></table>
@@ -79,6 +81,7 @@ function SetCookie(cookieName,cookieValue,nDays) {
  var expire = new Date();
  if (nDays==null || nDays==0) nDays=1;
  expire.setTime(today.getTime() + 3600000*24*nDays);
+ if (cookieName == 'media' && eval(cookieValue)<200) {return;} 
  document.cookie = cookieName+"="+escape(cookieValue)
                  + ";expires="+expire.toGMTString();
 
