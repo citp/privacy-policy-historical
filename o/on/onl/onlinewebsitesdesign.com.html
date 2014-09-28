@@ -1,452 +1,293 @@
-<!--The following is the downloaded HTML source of the onlinewebsitesdesign.com privacy policy that was archived on 2013-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115015656id_/http%3A//www.onlinewebsitesdesign.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinewebsitesdesign.com privacy policy that was archived on 2014-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140928201243id_/http%3A//www.onlinewebsitesdesign.com/owd/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js no-touch csstransforms3d csstransitions"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy - Online Websites Design</title>
-<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
-<link href="piecemaker.css" rel="stylesheet" type="text/css">
+<title>OWD | Committed to Protect the Privacy of its Customers</title>
+<meta name="description" content="Our Privacy Policy is designed to help you understand how we collect, use and safeguard the information you provide when using this platform.">
 
-<meta name="description" content="Online Website Design - Design Service Privacy Policy.">
-<meta name="keywords" content="privacy policy, website design, web design, websites design, online website design, site design">
+<link rel="stylesheet" type="text/css" href="/app_themes/css/defaultStyle.css">
+<link rel="stylesheet" type="text/css" href="/app_themes/css/mainSlider.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/app_themes/script/jqueryEngine.js"></script>
+<script type="text/javascript" src="/app_themes/script/mainSlider.js"></script>
+<script type="text/javascript" src="/app_themes/script/offerBanner.js"></script> 
 
-
-<link href="/css/stylesheet.css" rel="stylesheet" type="text/css">
-<link href="/piecemaker.css" rel="stylesheet" type="text/css">
-<link href="/css/style.css" rel="stylesheet" type="text/css">
-<link href="/css/_web.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/_mootools.js"></script>
-<script type="text/javascript" src="/js/_class.noobSlide.packed.js"></script>
-<script type="text/javascript" src="/js/_class.noobSlide.js"></script>
-
-<script type="text/javascript" src="/scripts/swfobject/swfobject.js"></script>
-
-		<script type="text/javascript">
-	window.addEvent('domready',function(){
-		//SAMPLE 1 (auto, every 5 sec)
-		var hs1 = new noobSlide({
-			box: $('box1'),
-			items: [1,2,3,4],
-			size: 480,
-			autoPlay: true
-		});
-
-		//SAMPLE 2 (transition: Bounce.easeOut)
-		var hs2 = new noobSlide({
-			box: $('box2'),
-			items: [1,2,3,4,5,6,7,8],
-			interval: 3000,
-			fxOptions: {
-				duration: 1000,
-				transition: Fx.Transitions.Bounce.easeOut,
-				wait: false
-			},
-			buttons: {
-				previous: $('prev1'),
-				play: $('play1'),
-				stop: $('stop1'),
-				next: $('next1')
-			}
-		});
-
-		//SAMPLE 3 (play, stop, playback)
-		var hs3 = new noobSlide({
-			box: $('box3'),
-			items: [1,2,3,4,5,6,7,8],
-			interval: 1000,
-			startItem: 4,
-			buttons: {
-				playback: $('playback3'),
-				stop: $('stop3'),
-				play: $('play3')
-			}
-		});
-
-		//SAMPLE 4 (walk to item)
-		var hs4 = new noobSlide({
-			box: $('box4'),
-			items: $ES('div','box4'),
-			size: 480,
-			handles: $ES('span','handles4'),
-			onWalk: function(currentItem,currentHandle){
-				$('info4').setHTML(currentItem.getFirst().innerHTML);
-				this.handles.removeClass('active');
-				currentHandle.addClass('active');
-			}
-		});
-
-		//SAMPLE 5 (mode: vertical, using "onWalk" )
-		var info5 = $('info5').setOpacity(0.5);
-		var sampleObjectItems =[
-			{title:'Morbi elementum', autor:'Lorem', date:'5 Jun 2007', link:'http://www.link1.com'},
-			{title:'Mollis leo', autor:'Ipsum', date:'6 Dic 2007', link:'http://www.link2.com'},
-			{title:'Nunc adipiscing', autor:'Dolor', date:'9 Feb 2007', link:'http://www.link3.com'},
-			{title:'Phasellus volutpat pharetra', autor:'Sit', date:'22 Jul 2007', link:'http://www.link4.com'},
-			{title:'Sed sollicitudin diam', autor:'Amet', date:'30 Set 2007', link:'http://www.link5.com'},
-			{title:'Ut quis magna vel', autor:'Consecteur', date:'5 Nov 2007', link:'http://www.link6.com'},
-			{title:'Curabitur et ante in', autor:'Adipsim', date:'12 Mar 2007', link:'http://www.link7.com'},
-			{title:'Aliquam commodo', autor:'Colom', date:'10 Abr 2007', link:'http://www.link8.com'}
-		];
-		var hs5 = new noobSlide({
-			mode: 'vertical',
-			box: $('box5'),
-			size: 180,
-			items: sampleObjectItems,
-			buttons: {
-				previous: $('prev5'),
-				play: $('play5'),
-				stop: $('stop5'),
-				next: $('next5')
-			},
-			onWalk: function(currentItem){
-				info5.empty();
-				new Element('h4').setHTML('<a href="'+currentItem.link+'">link</a>'+currentItem.title).inject(info5);
-				new Element('p').setHTML('<b>Autor</b>: '+currentItem.autor+' &nbsp; &nbsp; <b>Date</b>: '+currentItem.date).inject(info5);
-			}
-		});
-
-		//SAMPLE 6 (on "mouseenter" walk)
-		var info6 = $('box6').getNext().setOpacity(0.5);
-		var hs6 = new noobSlide({
-			mode: 'vertical',
-			box: $('box6'),
-			items: sampleObjectItems,
-			size: 180,
-			handles: $ES('div','handles6_1').extend($ES('div','handles6_2')),
-			handle_event: 'mouseenter',
-			buttons: {
-				previous: $('prev6'),
-				play: $('play6'),
-				stop: $('stop6'),
-				playback: $('playback6'),
-				next: $('next6')
-			},
-			button_event: 'click',
-			fxOptions: {
-				duration: 1000,
-				transition: Fx.Transitions.Back.easeOut,
-				wait: false
-			},
-			onWalk: function(currentItem,currentHandle){
-				info6.empty();
-				new Element('h4').setHTML('<a href="'+currentItem.link+'">link</a>'+currentItem.title).inject(info6);
-				new Element('p').setHTML('<b>Autor</b>: '+currentItem.autor+' &nbsp; &nbsp; <b>Date</b>: '+currentItem.date).inject(info6);
-				this.handles.setOpacity(0.3);
-				currentHandle.setOpacity(1);
-			}
-		});
-		hs6.next();
-		
-		//SAMPLE 7
-		var startItem = 3; //or   0   or any
-		var thumbs_mask7 = $('thumbs_mask7').setStyle('left',(startItem*60-568)+'px').setOpacity(0.8);
-		var fxOptions7 = {duration:1000, transition:Fx.Transitions.Back.easeOut, wait:false}
-		var thumbsFx = new Fx.Style(thumbs_mask7,'left',fxOptions7);
-		var hs7 = new noobSlide({
-			box: $('box7'),
-			items: [0,1,2,3,4,5,6,7],
-			handles: $ES('span','thumbs_handles7'),
-			fxOptions: fxOptions7,
-			onWalk: function(currentItem){
-				thumbsFx.start(currentItem*60-568);
-			},
-			startItem: startItem
-		});
-		hs7.walk(0);
-
-		//SAMPLE 8
-		var hs8 = new noobSlide({
-			box: $('box8'),
-			startItem: 1,
-			items: $ES('h3','box8'),
-			size: 480,
-			handles: $ES('span','handles8'),
-			buttons: {previous: $('prev8'), play: $('play8'), stop: $('stop8'), playback: $('playback8'), next: $('next8') },
-			onWalk: function(currentItem,currentHandle){
-				//style for handles
-				this.handles.extend(handles8_more).removeClass('active');
-				$$(currentHandle,handles8_more[this.currentIndex]).addClass('active');
-				//text for "previous" and "next" default buttons
-				$('prev8').setHTML('&lt;&lt; '+this.items[this.previousIndex].innerHTML);
-				$('next8').setHTML(this.items[this.nextIndex].innerHTML+' &gt;&gt;');
-			}
-		});
-		//more "previous" and "next" buttons
-		hs8.addActionButtons('previous',$ES('.prev','box8'));
-		hs8.addActionButtons('next',$ES('.next','box8'));
-		//more handle buttons
-		var handles8_more = $ES('span','handles8_more');
-		hs8.addHandleButtons(handles8_more);
-		//
-		hs8.walk(0)
-
-	});
-	</script>
-
-
-   <script type="text/javascript" src="scripts/swfobject/swfobject.js"></script>
-        
-    <script type="text/javascript">
-      var flashvars = {};
-      flashvars.cssSource = "piecemaker.css";
-      flashvars.xmlSource = "piecemaker.xml";
-		
-      var params = {};
-      params.play = "true";
-      params.menu = "false";
-      params.scale = "showall";
-      params.wmode = "transparent";
-      params.allowfullscreen = "true";
-      params.allowscriptaccess = "always";
-      params.allownetworking = "all";
-	  
-      swfobject.embedSWF('piecemaker.swf', 'piecemaker', '1000', '455', '0', null, flashvars,    
-      params, null);
-    
-    </script><style type="text/css" media="screen">#piecemaker {visibility:hidden}</style>
-
-
-</head>
+<link type="image/x-icon" rel="shortcut icon" href="/app_themes/images/favicon.png"></head>
 
 <body>
-<div id="main">
-<div id="top_wrapper">
-  <div id="logo"><a href="http://www.onlinewebsitesdesign.com/"><img src="/images/logo.png" width="265" height="67" alt=""></a></div>
-  <div id="menu">
-    <li><a href="http://www.onlinewebsitesdesign.com/" title="Home">Home</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/aboutus.aspx" title="About Us">About Us</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/portfolio.aspx" title="Portfolio">Portfolio</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/webdesign_services.aspx" title="Services">Services</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/packages.aspx" title="Packages">Packages</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/website-order.aspx" title="Order Now">Order Now</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/testimonials.aspx" title="Testimonials">Testimonials</a></li>
-    <li><a href="http://www.onlinewebsitesdesign.com/contactus.aspx" title="Contact Us">Contact Us</a></li>
-    
-  </div>
-</div>
-<div id="header_wrapper">
-  <div id="header">
-    <object type="application/x-shockwave-flash" data="piecemaker.swf" width="1000" height="455" id="piecemaker" style="visibility: visible;"><param name="play" value="true"><param name="menu" value="false"><param name="scale" value="showall"><param name="wmode" value="transparent"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="allownetworking" value="all"><param name="flashvars" value="cssSource=piecemaker.css&amp;xmlSource=piecemaker.xml"></object>
-  </div>
-</div>
-
-
-
-<div id="body_text_wrapper">
-
-
-<div id="portfolio_right_col_wrapper">
-
-<div id="livechat_rightbar"><a href="#"><img src="/images/live_chat.png" alt="" width="280" height="156" border="0"></a></div>
-
-<div id="portfolio_top">
-<img src="/images/portfolio_top.jpg" width="290" height="185" border="0" align="absbottom" alt=""> </div>
-<div id="portfolio_repeate">
-<div id="p_col1"><a href="/website-design/web-designing.aspx"><img src="/images/pic_web_des.jpg" alt="" width="250" height="103" border="0"></a></div>
-  
-  <div id="p_col2"><img src="/images/pic_logo_des.jpg" alt="" width="250" height="103" border="0"></div>
-  
-<div id="p_col3"><img src="/images/pic_sta_des.jpg" alt="" width="250" height="103" border="0"></div>
-  
-  <div id="p_col3"><img src="/images/pic_bro_des.jpg" alt="" width="250" height="103" border="0"></div>
-  
-  <div id="p_col3"><img src="/images/pic_pro_des.jpg" alt="" width="250" height="103" border="0"></div> 
-
-
-<img src="/images/portfolio_bottom.jpg" width="290" height="55" border="0" align="top" usemap="#Map" alt="">
-<map name="Map" id="Map">
-  <area shape="poly" coords="249,42,286,2,290,55,253,55" href="/packages.aspx">
-</map>
-
-</div>
-</div>
-
-
-    <div id="body_text">
-        <h1>Privacy <b>Policy</b></h1>
-  
-<p class="body_sub_headings">Lucidity &amp; Choice</p>
-<p id="paragraph">At <a href="http://www.onlinewebsitesdesign.com" title="Online Website Design">Online Websites Design</a>, we are entirely responsive of the trust you lay in our business and it is our accountability to guard your privacy.<br><br>
-
-We have 5 standard privacy principles that portray how we manage our client's privacy and information:</p>
-<ul style="color:#000">
-<li>We use information to present our clients with valuable products and services.</li>
-<li>We build up products that divulge strong isolation principles and practices.</li>
-<li>We make the collection of personal information visible.</li>
-<li>We give our clients, important options to protect their privacy.</li>
-<li>We are a responsible guardian of the information we hold.</li></ul>
-<br><br>
-<p class="body_sub_headings">Our Privacy Policy</p>
-<p id="paragraph">Online Websites Design is committed to protect your privacy with guarantee. To provide an instant and precise response to your website design, website development, logo design, and SEO services, Online Websites Design asks its customers, only for the information necessary to complete their order with precision.</p><br>
-
-<p class="body_sub_headings">How Do We Gather And Use The Information</p>
-<p id="paragraph">When you order a website design, website development, logo design, and SEO services, <a href="http://www.onlinewebsitesdesign.com/website-design/seo-web-site-design.aspx" title="seo website design">seo website design</a>, we entail certain personal information like your first name, last name, company name, email address, and mailing address. This allows us to start and complete your order according to our required details and to inform you of your order position.</p><br>
-
-<p class="body_sub_headings">Legal Rights Agreements</p>
-<p id="paragraph">The design works of clients at Online Websites Design are uniquely the sole property of that individual client.<br>
-
-Online Websites Design guarantees the exclusiveness of its designs and that they are our own conception and not taken from anywhere but does not guarantee any similarities to any design created by any other design company or individual.</p><br>
-
-<p class="body_sub_headings">Use of Cookies &amp; Other Technologies</p>
-<p id="paragraph">A cookie is a small part of text accumulated on a user's computer by a web browser. A cookie surrounds of one or surplus one name-value duos holding little parts of data and information. Means of using cookie is not connected to any private information on our site.</p><br>
-
-<p class="body_sub_headings">Confidentiality &amp; Security</p>
-<p id="paragraph">We confine right to use of private information about you to even our recruits who we believe convincingly, need to approach into contact with that information to present products or services to you or in order to complete their responsibilities.</p><br>
-
-<p class="body_sub_headings">Information Sharing &amp; Disclosure</p>
-<p id="paragraph">
-We believe it is necessary to share information to inspect, avert, or take action regarding unlawful activities, alleged scam, situations concerning possible threats to the physical safety of any person, breaches of Online Websites Design terms of use, or as otherwise required by law.</p><br>
-
-<p class="body_sub_headings">Changes To This Privacy Policy</p>
-<p id="paragraph">
-Online Websites Design may modernize these guidelines. We will alert you about momentous changes in the way we care for delicate information by sending a discern to the primary email address specified in your Online Websites Design account or by placing a high up notice on our site.</p><br>
-
-<p class="body_sub_headings">Questions about our Privacy Policy</p>
-
-<p id="paragraph">
-If you have queries or concerns regarding our Privacy Policy, please feel free to contact us by Live Support, Customer Support, Phone or Via Email.
-</p><br>
-      
-
-
-
-</div>
-
-
-
-</div>
-
-
-
-
-
-
-</div>
-
-<!--footer start here-->
-<div id="water_repeate"></div>
-<div id="footer_repeate"> <br>
-  <div id="rw_box">
-  <img src="/images/pic_recent_work.png" alt="" width="940" height="48" border="0" usemap="#Map2">
-  <map name="Map2" id="Map2">
-    <area shape="rect" coords="822,22,902,38" href="#">
-  </map>
-  </div>
-  <br>
-  <div id="portfolio_footer_wrapper">
-    <div class="sample">
-      <div class="mask1">
-        <div id="box1"> 
-        <span><img src="/images/webportal/1thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/2thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/3thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/4thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/5thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/6thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/7thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/8thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/1thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/2thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/3thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/4thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/5thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/6thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/8thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/1thmb.jpg" alt=""></span>
-        <span><img src="/images/webportal/2thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/3thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/4thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/5thmb.jpg" alt=""></span> 
-        <span><img src="/images/webportal/6thmb.jpg" alt=""></span> </div>
+<header class="hundred_Wrapper">
+  <script>
+	(function() {
+    var link = document.createElement('link');
+    link.type = 'image/x-icon';
+    link.rel = 'shortcut icon';
+    link.href = '/app_themes/images/favicon.png';
+    document.getElementsByTagName('head')[0].appendChild(link);
+}());
+</script>
+<div class="logoLayer hundred_Wrapper">
+  <div class="hundred_Wrapper">
+    <div class="thousandPixel_wrapper"> <a href="/"><img src="/app_themes/images/online_website_design_logo.png" width="277" height="74" alt="Online Websites Design" class="marginTop10 float_left marginBottome10"></a>
+      <div class="topLeft float_right">
+        <div class="float_left">
+          <div class="topLeftChild float_left">
+            <div class="topLeftChild2">
+              <ul class="ulli1 White12px">
+                <li><a href="/request-quote.aspx" class="WhiteBold13px textDecoUndeLine">Get Quote</a></li>
+                <li>|</li>
+                <li><a href="/contact-us.aspx" class="WhiteBold13px textDecoUndeLine">Contact Us</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="topLeftChild float_left">
+            <div class="topLeftChild2">
+              <ul class="ulli1 White12px">
+                <li><div id="google_translate_element"></div>
+          <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="float_left">
+          <div class="float_left marginTop10 marginRight10">
+            <h1 class="red18px marginBottome5">Need Live Assistance?</h1>
+            <a href="javascript:;" class="GreenFont" title="Live Chat" onclick="openLiveChat()">Click here to Live Chat 24x7</a> </div>
+          <div class="float_left marginTop10">
+            <h1 class="red18px marginBottome5">Skype Call</h1>
+            <a href="skype:onlinewebsitesdesign?call" title="Skype Call" class="GreenFont">Click here to Call</a> </div>
+        </div>
       </div>
     </div>
   </div>
-  <div id="timebox_wrapper">
-  <img src="/images/pic_timebox.png" alt="" width="888" height="121" border="0" usemap="#Map">
-  <map name="Map" id="Map">
-    <area shape="rect" coords="581,95,653,110" href="#">
-  </map>
-  </div>
-  <div id="footer_menu_wrapper">
-    <div id="footer_col1">
-      <ul>
-        <li><a href="http://www.onlinewebsitesdesign.com/" title="Web Site">Web Site</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/aboutus.aspx" title="About Us"> About Us</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/webdesign_services.aspx" title="Services">Services</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/packages.aspx" title="Packages">Packages</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/sitemap.aspx" title="Sitemap">Sitemap</a></li>
-      </ul>
-    </div>
-    <div id="footer_col2">
-      <ul>
-        <li><a href="http://www.onlinewebsitesdesign.com/portfolio.aspx" title="Portfolio">Portfolio</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/testimonials.aspx" title="Testimonials">Testimonials</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-order.aspx" title="Order Now">Order Now</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-login.aspx" title="Client Login">Client Login</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/contactus.aspx" title="Contact Us">Contact Us</a></li>
-      </ul>
-    </div>
-    <div id="footer_col3">
-      <ul>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/" title="Website Design">Website Design</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/seo-web-site-design.aspx" title="SEO Web Site Design">SEO Web Site Design</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/web-designing.aspx" title="Web Designing">Web Designing</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/online-web-designer.aspx" title="Online Web Designer">Online Web Designer</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/web-design-samples.aspx" title="Web Design Samples">Web Design Samples</a></li>
-      </ul>
-    </div>
-    <div id="footer_col4">
-      <ul>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/buy-website.aspx" title="Buy Website">Buy Website</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/corporate-web-design.aspx" title="Corporate Web Design">Corporate Web Design</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/web-design-company.aspx" title="Web Design Company">Web Design Company</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/website-design/free-website-design.aspx" title="Free Website Design">Free Website Design</a></li>
-      </ul>
-    </div>
-    <div id="footer_col2">
-      <ul>
-        <li><a href="http://www.onlinewebsitesdesign.com/resources.aspx" title="Links">Links</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/websites-resource/" title="Resource">Resource</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/privacypolicy.aspx" title="Privacy Policy">Privacy Policy</a></li>
-        <li><a href="http://www.onlinewebsitesdesign.com/terms_conditions.aspx" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-      </ul>
-    </div>
-  </div>
-  <div id="footer_ground"><img src="/images/footer_ground.png" width="900" height="21" alt=""></div>
-  <div id="footer_box_wrapper">
-    <div id="footer_left"></div>
-    <div id="footer_right"></div>
-    <div id="footer_box_repeate">
-      <div id="livechat_heading"><a href="http://livechat.boldchat.com/aid/2193178549903755770/bc.chat?cwdid=2137658683936676589&amp;wdid=248503862050197785" target="_blank" onclick="window.open('http://livechat.boldchat.com/aid/2193178549903755770/bc.chat?cwdid=2137658683936676589&amp;wdid=248503862050197785&amp;url=' + escape(document.location.href), 'Chat51542390720594446', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;"><img style="float:left" src="/images/livechat.png" width="37" height="37" align="absmiddle" border="0" alt="">&nbsp;Get Online<br>
-         &nbsp;Live Chat Assistance</a></div>
-      <div id="footer_text"><a href="http://www.designerevaluation.com/web-design/" target="_blank">Web Design</a> &amp; <a href="http://www.designerevaluation.com/logo-design/" target="_blank">Logo Design</a> by: <a href="http://www.designerevaluation.com/" target="_blank">Designer Evaluation</a>.<br>
-        © 2010 <a href="http://www.onlinewebsitesdesign.com/" target="_blank">Online Websites Design</a>. All Rights Reserved.</div>
-      <div id="footer_icons"><a href="http://www.facebook.com/onlinewebsitesdesign" target="_new"><img src="/images/icon_fb.png" width="53" height="39" alt=""></a><a href="http://twitter.com/buywebdesign" target="_new"><img src="/images/icon_t.png" width="53" height="39" alt=""></a></div>
-    </div>
+  <div class="hundred_Wrapper">
+    <nav class="hundred_Wrapper">
+      <div class="thousandPixel_wrapper">
+        <ul class="ulli2">
+          <a href="/">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">Home</span></li>
+          </a><a href="/owd/about-us.html">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">About Us</span></li>
+          </a><a href="/services.html">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">Services</span></li>
+          </a><a href="/portfolio.html">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">Portfolio</span></li>
+          </a><a href="/owd/testimonials.html">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">Testimonial</span></li>
+          </a><a href="/request-quote.aspx">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">Quote</span></li>
+          </a><a href="/contact-us.aspx">
+          <li><span class="navTopCover"></span><span class="navbottomCover"></span><span class="navText">Contact Us</span></li>
+          </a>
+          
+        </ul>
+      </div>
+    </nav>
   </div>
 </div>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-5036101-15");
-pageTracker._trackPageview();
-} catch(err) {}</script> 
-<script language="JavaScript" type="text/javascript">
-document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/2193178549903755770/bc.vms2/vms.js"%3E%3C/script%3E'));
-</script><script language="JavaScript" type="text/javascript" src="http://vms.boldchat.com/aid/2193178549903755770/bc.vms2/vms.js"></script> 
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'owsd']);
-  _gaq.push(['_trackPageview']);
+  
+<!-- Provide Offer expiry Date here -->
+<span class="offerExpire" date="10" month="8" year="2014"></span>
+<!-- Please Dont forget to change RED text in title of class "offerBanner"-->
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<div class="container demo-2 hundred_Wrapper slider">
+    <div class="codrops-top clearfix">
+      <div class="clr"></div>
+    </div>
+    <div id="slider" class="sl-slider-wrapper">
+      <div class="sl-slider" style="width: 1366px; height: 401px;">
+             
+        <div class="sl-slides-wrapper"><div class="sl-slide sl-slide-horizontal" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" style="display: block;">
+          <div class="sl-content-wrapper" style="width: 1366px; height: 401px;"><div class="sl-content"><div class="sl-slide-inner">
+            <div class="bg-img bg-img-1"></div>
+            <h2><img src="/app_themes/images/owd_design_tag1.png" width="401" height="40" alt="Web Design"></h2>
+            <aside>
+              <p><img src="/app_themes/images/owd_design_tag.png" width="347" height="66" alt="owd designing services"></p>
+              <br>
+              <br>
+              <a class="orangeBtn1 marginTop20 float_left" href="/request-quote.aspx">GET A QUOTE </a> </aside>
+          </div></div></div>
+        </div><div class="sl-slide sl-slide-horizontal" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" style="display: none;">
+          <div class="sl-content-wrapper" style="width: 1366px; height: 401px;"><div class="sl-content"><div class="sl-slide-inner">
+            <div class="bg-img bg-img-2"></div>
+            <h2><img src="/app_themes/images/owd_logo_tag1.png" width="373" height="40" alt="Logo Design"></h2>
+            <aside>
+              <p><img src="/app_themes/images/owd_logo_tag.png" width="381" height="66" alt="owd logo services"></p>
+              <br>
+              <br>
+              <a class="orangeBtn1 marginTop20 float_left" href="/request-quote.aspx">GET A QUOTE</a> </aside>
+          </div></div></div>
+        </div><div class="sl-slide sl-slide-horizontal" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" style="display: none;">
+          <div class="sl-content-wrapper" style="width: 1366px; height: 401px;"><div class="sl-content"><div class="sl-slide-inner">
+            <div class="bg-img bg-img-3"></div>
+            <h2><img src="/app_themes/images/owd_print_tag1.png" width="272" height="40" alt="Printing Services"></h2>
+            <aside>
+              <p><img src="/app_themes/images/owd_print_tag.png" width="372" height="66" alt="owd print services"></p>
+              <br>
+              <br>
+              <a class="orangeBtn1 marginTop20 float_left" href="/request-quote.aspx">GET A QUOTE</a> </aside>
+          </div></div></div>
+        </div><div class="sl-slide sl-slide-horizontal" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" style="display: none;">
+          <div class="sl-content-wrapper" style="width: 1366px; height: 401px;"><div class="sl-content"><div class="sl-slide-inner">
+            <div class="bg-img bg-img-4"></div>
+            <h2><img src="/app_themes/images/owd_smo_tag1.png" width="472" height="40" alt="Social Media"></h2>
+            <aside>
+              <p><img src="/app_themes/images/owd_smo_tag.png" width="304" height="66" alt="owd smo services"></p>
+              <br>
+              <br>
+              <a class="orangeBtn1 marginTop20 float_left" href="/request-quote.aspx">GET A QUOTE</a> </aside>
+          </div></div></div>
+        </div><div class="sl-slide sl-slide-horizontal" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" style="display: none;">
+          <div class="sl-content-wrapper" style="width: 1366px; height: 401px;"><div class="sl-content"><div class="sl-slide-inner">
+            <div class="bg-img bg-img-5"></div>
+            <h2><img src="/app_themes/images/owd_development_tag1.png" width="433" height="40" alt="Web Development Services"></h2>
+            <aside>
+              <p><img src="/app_themes/images/owd_development_tag.png" width="304" height="66" alt="owd development service"></p>
+              <br>
+              <br>
+              <a class="orangeBtn1 marginTop20 float_left" href="/request-quote.aspx">GET A QUOTE</a> </aside>
+          </div></div></div>
+        </div><div class="sl-slide sl-slide-horizontal" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2" style="display: none;">
+          <div class="sl-content-wrapper" style="width: 1366px; height: 401px;"><div class="sl-content"><div class="sl-slide-inner">
+            <div class="bg-img bg-img-6"></div>
+            <h2><img src="/app_themes/images/owd_seo_tag1.png" width="438" height="40" alt="SEO Optimization"></h2>
+            <aside>
+              <p><img src="/app_themes/images/owd_seo_tag.png" width="348" height="66" alt="owd seo services"></p>
+              <br>
+              <br>
+              <a class="orangeBtn1 marginTop20 float_left" href="/request-quote.aspx">GET A QUOTE</a> </aside>
+          </div></div></div>
+        </div></div>
+        
+        
+        
+        
+        
+      </div>
+      <div id="nav-dots" class="nav-dots"> <span class="nav-dot-current"></span> <span></span> <span></span> <span></span> <span></span><span></span></div>
+    </div>
+    <div class="headerROd"></div>
+    
+  </div>
+</header>
+<article class="hundred_Wrapper area2 marginBottome10">
+  <section class="thousandPixel_wrapper">
+    <h1 class="h1Style1 marginTop20">Privacy Policy</h1>
+    <p class="paraStyel3">This privacy policy is developed for you to understand how we collect, use, link, disclose, and make use of your personal information. The terms, “we”, “us” and “our” refer to the Company (Online Websites Design ®). “You” refers to a user of our service. Your acceptance to our Privacy Policy reflects your consent to our collection, room, use, and disclosure of your personal information as described in this Privacy Policy.</p>
+    <h2 class="h3style3 marginTop20">Information Collection and Use</h2>
+    <p class="paraStyel3">Online Websites Design is the exclusive possessor of the data collected on this site. We will not trade, share, or charge this gathered data to others in different ways from what is disclosed in this statement. Information collected by us is relevant to internal management activities such as creating new accounts and billing.</p>
+    <p class="paraStyel3">In general, the information you provide is only used to help us communicate with you in response to questions, solicit feedback from users, providing technical support and informing about promotional offers.</p>
+    <h2 class="h3style3 marginTop20">How we Protect your Data</h2>
+    <p class="paraStyel3">Certain security measures are designed to protect your gathered data from illegal access. Your account password is meant to protect your account on this platform and we encourage you to take certain steps to maintain privacy for your personal information. Your data is further protected from security breaches through the implementation of technological security measures namely encryption, firewalls, and secure socket layer. These sort of measures do not guarantee complete protection from being accessed, altered, or destroyed due to the breach of any nature. Your use of our service acknowledges that you understand and agree to assume all sort of risks.</p>
+    <h2 class="h3style3 marginTop20">Links to other websites</h2>
+    <p class="paraStyel3">We possibly provide you with links or compatibility with other websites or applications. 
+      Please be aware that we are not accountable for the solitude practices of such websites or applications. We encourage our users to read the privacy statements of other website that collects personally identifiable information before proceeding to use them. Our website also includes social media features such as like and share buttons for Facebook or Twitter. These features may gather your IP address reflecting your visit on certain pages of our website. The privacy policy of company you are interacting with these features govern your interaction with these features.</p>
+    <h2 class="h3style3 marginTop20">Security and Data Retention</h2>
+    <p class="paraStyel3">We take every possible precautionary measures to protect information of our users. Your information is protected on this platform online and offline specifically when sensitive information is submitted to us. Once you submit your sensitive information while placing order with us, it is encrypted using SSL technology. We retain your information until your account is active. You can contact us if you no longer require your account being active or don’t want us to use your information.</p>
+    <h2 class="h3style3 marginTop20">Special Offers</h2>
+    <p class="paraStyel3">A verification email regarding password and username is sent from this platform to all new users.Registered members of this platform receive certain emails regarding our products, services, and promotions if they have selected to receive such mails from us. We also provide an option of unsubscribing from these sort of mails to reflect our respect for confidential information of users.</p>
+    <h2 class="h3style3 marginTop20">Correcting/Updating/Deleting/Deactivating Personal Information</h2>
+    <p class="paraStyel3">If your personally identifiable information changes or you are not interested to receive our services, then you are provided with different ways to correct, update, or delete such data. For this purpose, you can email us at <a href="mailto:info@onlinewebsitesdesign.com">info@onlinewebsitesdesign.com</a>. To deactivate or delete your account, you can communicate with our customer representative and your query will be fulfilled within 30 days.</p>
+    <h2 class="h3style3 marginTop20">Notification of Changes</h2>
+    <p class="paraStyel3">We are authorized to modify this policy anytime and modifications will be uploaded on this page. You are requested to visit this page from time to time for being aware of any modifications and manner of using your gathered data.</p>
+    <h2 class="h3style3 marginTop20">Business Transitions</h2>
+    <p class="paraStyel3">In any event, Online Websites Design ® goes through a business change over such as mergers or acquisitions with other entity, your personally identifiable data will likely be included in the transferred assets. You will be informed via email for any such change in rights or control of your personal data.</p>
+    <h2 class="h3style3 marginTop20">Legal Disclaimer</h2>
+    <p class="paraStyel3">Though we make every possible step to maintain your confidentiality, we might need to disclose your personal data whenever required by law or to comply with legal procedures being served here.</p>
+    <h2 class="h3style3 marginTop20">Contact Us</h2>
+    <p class="paraStyel3">If you have any query or questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to <a href="mailto:info@onlinewebsitesdesign.com">info(at)onlinewebsitesdesign(dot)com</a>.
+      This Privacy Policy was updated on 11th January 2014.</p>
+  </section>
+</article>
+<!--Left Pannel-->
+
+<div class="SMNav1" style="top: 384px;">
+    <div class="SMNav2">
+        <ul class="SMNavULLI">
+            <li><a href="https://twitter.com/BuyWebDesign" target="_blank">Twitter</a></li>
+            <li><a href="https://www.facebook.com/onlinewebsitesdesign" target="_blank">Facebook</a></li>
+            <li><a href="https://plus.google.com/+Onlinewebsitesdesign/posts" target="_blank">Google Plus</a></li>
+            <li><a href="javascript:;" onclick="openLiveChat()" title="Live Chat">live Chat</a></li>
+            <li><a href="/request-quote.aspx">Get a Quote</a></li>
+        </ul>
+    </div>
+    <div class="SMNavBtn" onclick="SMNavBtn(this)">+ </div>
+</div>
+<!--Left Pannel-->
+<footer class="hundred_Wrapper">
+    <div class="thousandPixel_wrapper">
+        <div class="float_left marginRight75 with190px">
+            <h2 class="bule20px">Join us on Social Media</h2>
+            <ul class="ulli4 marginTop10">
+                <li class="positon_reletive"><a href="https://www.facebook.com/onlinewebsitesdesign" target="_blank">
+                    <img src="/app_themes/images/owd_facebook.png" width="39" height="39" alt="Facebook">
+                    <img src="/app_themes/images/owd_facebook_red.png" width="39" height="39" alt="Facebook" class="redImg">
+                </a></li>
+                <li class="positon_reletive"><a href="https://plus.google.com/+Onlinewebsitesdesign/posts" target="_blank">
+                    <img src="/app_themes/images/owd_google_plus.png" width="39" height="39" alt="Gplus">
+                    <img src="/app_themes/images/owd_google_plus_red.png" width="39" height="39" alt="Gplus" class="redImg"></a></li>
+                <li class="positon_reletive"><a href="https://twitter.com/BuyWebDesign" target="_blank">
+                    <img src="/app_themes/images/owd_twitter.png" width="39" height="39" alt="Twitter">
+                    <img src="/app_themes/images/owd_twitter_red.png" width="39" height="39" alt="Twitter" class="redImg">
+                </a></li>
+            </ul>
+            <img src="/app_themes/images/owd_black_and_white_logo.png" alt="OWD Logo" width="194" height="67" class="marginTop20">
+            <p class="cright">
+              © 2014 Online Websites Design<br>
+                Designed and Developed by:<br>
+                <a href="http://www.designerevaluation.com/" rel="nofollow">Designer Evaluation</a>
+            </p>
+        </div>
+        <div class="float_left marginRight75">
+            <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com/onlinewebsitesdesign&amp;width&amp;height=240&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true" style="border: none; overflow: hidden; height: 225px; background: #fff"></iframe>
+        </div>
+        <div class="float_left marginRight75">
+            <h2 class="bule20px">Site Links</h2>
+            <ul class="ulli5 marginTop10">
+                <li><a href="/">Home</a></li>
+                <li><a href="/owd/about-us.html">About Us</a></li>
+                <li><a href="/services.html">Services</a></li>
+                <li><a href="/owd/guarantee.html">Guarantee</a></li>
+                <li><a href="/owd/faqs.html">FAQs</a></li>
+                <li><a href="/owd/why-choose-us.html">Why Choose Us</a></li>
+                <li><a href="/owd/terms-and-conditions.html">Terms and Conditions</a></li>
+                <li><a href="/owd/privacy-policy.html">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="float_right">
+            <h2 class="bule20px">Get In Touch</h2>
+            <ul class="ulli5 marginTop10">
+                <li><a href="/request-quote.aspx">Get Quote</a></li>
+                <li><a href="/contact-us.aspx">Contact Us</a></li>
+            </ul>
+            <h2 class="bule20px marginTop20">Credit Terms</h2>
+            <img src="/app_themes/images/credit_cards.png" width="150" height="70" alt="credit cards accepted" class="marginTop20">
+        </div>
+    </div>
+</footer>
+<div id="livezilla_tracking" style="display: none"><script type="text/javascript" src="http://www.knocknchat.com/chat/server.php?request=track&amp;output=jcrpt&amp;nse=0.45199625640318564"></script></div>
+<script type="text/javascript">
+    var script = document.createElement("script"); script.type = "text/javascript"; var src = "http://www.knocknchat.com/chat/server.php?request=track&output=jcrpt&nse=" + Math.random(); setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)", 1);</script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5036101-46', 'onlinewebsitesdesign.com');
+  ga('send', 'pageview');
 
 </script>
+
+<script type="text/javascript" src="/app_themes/script/defaultScript.js"></script>
 
 
 </body></html>
