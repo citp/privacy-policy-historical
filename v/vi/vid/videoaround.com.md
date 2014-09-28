@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoaround.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092942id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoaround.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928071145id_/http%3A//www.videoaround.com/privacy) for the most accurate reproduction.*
 
 # Aviation Videos Around - Hundred of Aviation Video Clips
 
@@ -6,26 +6,21 @@ Videoaround recognizes that its customers, visitors, users, and others who use t
 
 Please note that any video, image, or other content posted at the direction of Users onto the VideoaAround Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
-## Which informatios VideoAround Collects
+## Which informatios VideoAround.com Collects
 
-  * User Provided Information: You provide certain personally identifiable information (such as your name and email address) to VideoAround when choosing to participate in various activities on the website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
-  * Cookies Information: When you visit the VideoAround, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. VideoAround uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the website may not function properly if the ability to accept cookies is disabled. 
+  * User Provided Information: You provide certain personally identifiable information (such as your name and email address) to VideoAround.com when choosing to participate in various activities on the website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
+  * Cookies Information: When you visit the VideoAround.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. VideoAround.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the website may not function properly if the ability to accept cookies is disabled. 
   * Log File Information: When you use the website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
-
-
-
-**Google and the[DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)**
-
-  * Google, as a third party vendor, uses cookies to serve ads on VideoAround.
-  * Google's use of the DART cookie enables it to serve ads to VideoAround users based on their visit to VideoAround and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
 **Google Analytics and Display Advertising**
 
-  * Google Analytics Demographics and Interest Reporting.
-  * Users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+VideoAround.com may employ Google Analytics advertising features that collect data about traffic via Google advertising cookies and anonymous identifiers as well as data collected through standard Google Analytics implementation. VideoAround.com will not facilitate the merger of personally-identifiable information with non-personally identifiable information collected through any Google advertising product or feature. By utilizing certain Google Analytics Advertising Features, we are required to disclose the following information: 
+
+  * VideoAround.com may employ [Google Analytics **Display Advertising**](http://www.google.com/policies/technologies/ads/) features. 
+  * VideoAround.com and other third-party vendors may use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together. 
+  * Visitors to VideoAround.com can [opt-out of the Google Analytics Advertising Features](https://tools.google.com/dlpage/gaoptout/) used, including through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out). 
 
 
 
