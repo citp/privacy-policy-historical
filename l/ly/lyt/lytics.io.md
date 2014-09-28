@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lytics.io privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616035624id_/http%3A//www.lytics.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lytics.io privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928170325id_/http%3A//www.lytics.io/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
