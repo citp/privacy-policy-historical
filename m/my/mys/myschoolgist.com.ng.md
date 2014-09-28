@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myschoolgist.com.ng privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327181118id_/http%3A//www.myschoolgist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolgist.com.ng privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928104527id_/http%3A//www.myschoolgist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Latest Information About Schools in Nigeria
+# Privacy Policy - Latest Education News from Nigeria
 
 At [MySchoolGist](http://www.myschoolgist.com/ "MySchoolGist"), the privacy of our visitors is of _extreme importance_ to us. This Privacy Policy governs the manner in which MySchoolGist collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.myschoolgist.com](http://www.myschoolgist.com/ "MySchoolGist") website. This privacy policy applies to the Site and all products and services offered by MySchoolGist.
 
