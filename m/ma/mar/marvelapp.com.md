@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvelapp.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213155746id_/https%3A//marvelapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelapp.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928060608id_/https%3A//www.marvelapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Marvel
 
