@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentng.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611074700id_/http%3A//www.employmentng.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentng.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928202007id_/http%3A//www.employmentng.com/terms.php) for the most accurate reproduction.*
 
 # Employment Nigeria
 
@@ -31,3 +31,23 @@ You agree that Employmentng.com may amend this policy from time to time by posti
 
 **How to contact us**  
 You can contact Employmentng.com by sending an email to [info@employmentng.com](mailto:support@employmentng.com)
+
+  
+  
+
+
+ADVERTISEMENT
+
+Site Activity Feed
+
+[eddypure](https://web.archive.org/web/20140928202007id_/http%3A//www.employmentng.com/index.php?edit=viewJobseeker&id=2948) a Job Seeker Joined **Employment Nigeria**
+
+
+
+
+  
+  
+  
+  
+  
+
