@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053626id_/http%3A//www.sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928114232id_/http%3A//www.sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                     Rev. 01/2013
+                                                                                                     Rev. 03/2014
                      WHAT DOES BB&T DO
 FACTS                WITH YOUR PERSONAL INFORMATION?
 Why?                 Financial companies choose how they share your personal information. Federal law
@@ -63,7 +63,7 @@ Questions?           Call 1-888-800-3420
                                             bureaus, affiliates, or other companies.
   Why can’t I limit all sharing?            Federal law gives you the right to limit only
                                             n sharing for affiliates’ everyday business purposes—information about
-                                                your creditworthiness
+                                               your creditworthiness
                                             n affiliates from using your information to market to you
                                             n sharing for nonaffiliates to market to you
                                             State laws and individual companies may give you additional rights to
@@ -75,14 +75,14 @@ Questions?           Call 1-888-800-3420
   Affiliates                                Companies related by common ownership or control. They can be
                                             financial and nonfinancial companies.
                                             n  Our affiliates include financial companies such as banks, consumer
-                                                finance companies, securities broker-dealers, insurance agencies,
-                                                investment advisors, clearing firms, and mortgage companies.
+                                               finance companies, securities broker-dealers, insurance agencies,
+                                               investment advisors, clearing firms, and mortgage companies.
   Nonaffiliates                             Companies not related by common ownership or control. They can be
                                             financial and nonfinancial companies.
                                             n  Nonaffiliates we share with can include government entities, credit
-                                                bureaus, insurance companies, companies that perform marketing
-                                                services on our behalf, and companies that assist in servicing your
-                                                loan(s) or account(s) with us.
+                                               bureaus, insurance companies, companies that perform marketing
+                                               services on our behalf, and companies that assist in servicing your
+                                               loan(s) or account(s) with us.
   Joint marketing                           A formal agreement between nonaffiliated financial companies that
                                             together market financial products or services to you.
                                             n  Our joint marketing partners include financial institutions such as insur-
@@ -94,5 +94,4 @@ Questions?           Call 1-888-800-3420
   n Accounts with Vermont addresses will be treated as if you opted out of sharing information among our
     affiliates and opted out of joint marketing arrangements.
 *BB&T Companies providing this notice are: BB&T Credit Services, Inc., BB&T Investment Services, Inc., BB&T Securities, LLC, Branch
-Banking and Trust Company, Lendmark Financial Services, Inc., Lendmark Financial Services of West Virginia, Inc., Lendmark Mortgage
-and Finance, Inc., Regional Acceptance Corporation, Sterling Capital Management LLC.
+Banking and Trust Company, Regional Acceptance Corporation, Sterling Capital Management LLC.
