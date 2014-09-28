@@ -1,78 +1,69 @@
-> *The following text is extracted and transformed from the toolsstar.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330212112id_/http%3A//www.toolsstar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolsstar.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928192916id_/http%3A//toolsstar.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Tools Star | Facebook Autoposter, Webpage Manager
+# Privacy Policy | Tools Star
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which Social Media Star OÜ collects, uses, maintains and discloses information collected from users (each, a "User") of the http://toolsstar.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Social Media Star OÜ. 
 
-We collect information from you when you register on our site or place an order.
+Personal identification information 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-**What do we use your information for?**
+Non-personal identification information 
 
-Any of the information we collect from you may be used in one of the following ways:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Web browser cookies 
 
-; To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-; To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-**How do we protect your information?**
+How we use collected information 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+Social Media Star OÜ may collect and use Users personal information for the following purposes:
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+\- To improve customer service 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Information you provide helps us respond to your customer service requests and support needs more efficiently. 
 
-**Do we use cookies?**
+\- To personalize user experience 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
 
-We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+\- To send periodic emails 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
 
-**Do we disclose any information to outside parties?**
+How we protect your information 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-**California Online Privacy Protection Act Compliance**
+Sharing your personal information 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Settings' page.
+Third party websites 
 
-**Childrens Online Privacy Protection Act Compliance**
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Changes to this privacy policy 
 
-**Online Privacy Policy Only**
+Social Media Star OÜ has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Your acceptance of these terms 
 
-**Terms and Conditions**
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://toolsstar.com/terms.php>
+Contacting us 
 
-**Your Consent**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+Social Media Star OÜ 
 
-**Changes to our Privacy Policy**
+http://toolsstar.com 
 
-If we decide to change our privacy policy, we will send an email notifying you of any changes.
+Merikotka 7-14, Kuressaare 93810, Estonia 
 
-**Contacting Us**
+support@toolsstar.com 
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+This document was last updated on August 26, 2014 
 
-https://toolsstar.com
-
-Estonia  
-support@toolsstar.com
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
+Privacy policy created by http://www.generateprivacypolicy.com 
