@@ -1,42 +1,23 @@
-> *The following text is extracted and transformed from the videowebtown.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122155029id_/http%3A//www.videowebtown.com/community/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowebtown.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928113550id_/http%3A//www.videowebtown.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Personal Training Online Privacy Policy » Personal Training Online
 
-VideoWebTown takes corporate responsibility very seriously.
+Last modified: March 27, 2014
 
-**Especially, we feel that you should know:**
+Privacy Policy for **http://www.videowebtown.com**
 
-  1. What information this site gathers/tracks
-  2. What this site does with the gathered/tracked information
-  3. With whom this site shares the gathered/tracked information
-  4. This site's opt-out policy
-  5. This site's policy on correcting and updating personally identifiable information
-  6. This site's policy on deleting or deactivating your name from a database
+The privacy of our visitors to **http://www.videowebtown.com** is important to us.
 
+At **http://www.videowebtown.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **http://www.videowebtown.com** , and how we safeguard your information. We never sell your personal information to third parties.
 
+**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Questions?  
-**This is how we will handle information we gather about you from your visits to our various community neighborhoods.
+**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-Further questions regarding this statement should be directed to [cs@videowebtown.com](mailto:cs@videowebtown.com)
+We also use third party advertisements on **http://www.videowebtown.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-The information we receive depends upon what you do while visiting our site.
+**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx)
 
-Our site automatically captures IP addresses and Cookie ID's (set by this site) when you visit the site while reading or downloading any information. We also collect the information on what pages visitors' access, view and request, information on referral logs, and information volunteered by the visitor, such as personal, survey, and/or application data. The information we collect is used to improve the content of our Web pages, customize the content and/or layout of our pages for each individual consumer, improve our service, notify consumers about updates to our Web site and contact them for marketing or informational purposes.
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-If you send an e-mail to our site, you also may decide to send us personally-identifying information. For example, you might include your name, address and phone number in an electronic mail message containing a complaint. We use personally-identifying information from consumers in various ways to further our consumer protection and competition activities. The information you provide may be seen by various company employees, company representatives, and/or law enforcement agencies. For example, we may enter the information you send into our electronic database to share with our attorneys and investigators involved in law enforcement or public policy development. We may also share it with a wide variety of other government agencies enforcing consumer protection, competition, and other laws. You may be contacted by the FTC or any of these other agencies. In other limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose information you submit.
-
-Also, e-mail is not necessarily secure against interception. If your communication is very sensitive, or includes personal information like your bank account, charge card, or social security number, you might want to send it by postal (air) mail instead.
-
-From time to time we will ask you for your e-mail and/or postal address so we can contact you. If you provide your e-mail and/or postal address online, you will receive the information to the provided address. If you do not want to receive postal and/or e-mail from us in the future, please let us know by sending e-mail to the address below. We will make sure your name is removed from the list. If you supply us with your telephone number online, you will only receive telephone contact from us regarding applications you have submitted online. Please, provide us with your correct phone number.
-
-Any information submitted to Video Web Town Community will be held as confidential notwithstanding the circumstances discussed above. **_Information collected by Video Web Town Community will not be sold or disseminated in any way to outside parties other than by court order_**.
-
-**Deleting and Deactivation**
-
-If a member wishes to be removed from our community database, he or she can contact our webmaster to remove them. Please note that some records may still exist in our transaction or accounting logs.
-
-Thank You!
-
-  
-
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
