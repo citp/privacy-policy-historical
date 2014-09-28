@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rockto.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624051853id_/http%3A//www.rockto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockto.com privacy policy that was archived on 2014-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140928150801id_/http%3A//www.rockto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>ROCKTO - Privacy Policy</title>
@@ -26,7 +26,7 @@ $("#dialog-login").jqm();
 $(".login").livequery("click", function(event){
 					return false;
 				});
-		ajax("http://www.rockto.com/ajax/ajaxGlobal","22044");
+		ajax("http://www.rockto.com/ajax/ajaxGlobal","login");
 static()	
 		});
 	</script>
@@ -42,56 +42,17 @@ static()
                 <a href="http://www.rockto.com/"><img src="http://www.rockto.com/img/COMMON/NEW/logoRockto.png" width="160" height="58"></a>
            </div>
             <div class="column span-19 last" align="right">
-            	<ul class="horizontal right" style="position:relative;top:8px;right:2px">
-                 <li style="margin-right:5px;position:relative">
-                    	<span id="homeStat" class="corner-5 br bl tr tl">
-                        	<span class="child one corner-5 br bl tr tl"></span>
-                        	<span class="child two">
-                        		<a href="/"><img width="25" src="http://www.rockto.com/img/web/user/default_avatar/default-avatar-2.jpg" title="" class="img-rockers"></a>
-                            	<a href="#" id="dropDown" onclick="return false;"><span></span></a>
-                           	<span style="display:block;clear:both;"></span>
-                         </span>
-						</span>
-						<span id="homeStatMore" class="corner-5 tl br bl"><span style="display:block;padding:10px;">
-							<a href="http://www.rockto.com/">Home</a>
-											<a href="/notification">Notifications</a>
-											<a href="/">Profile</a>
-											<a href="http://www.rockto.com/settings"><span class="settings-icon"></span> Settings</a>
-											<a href="http://www.rockto.com/logout" style="margin-bottom:10px"><span class="logout-icon"></span> Logout</a>						</span></span>
-					</li>
-                	<li>
-                		<a href="/notification" id="notifAlert" class="notifOn">
-                		</a>
-					</li>
-                	<li style="margin:0px;margin-right:50px">
-                		<span class="homeStatFollowSubmit borderLeft">
-                			<span>0</span>
-                			<a href="/">Posts</a>
-                		</span>
-					</li>
-                	<li style="margin:0px">
-                		<span class="homeStatFollowSubmit borderLeft borderRight">
-                			<span>2354</span>
-                			<a href="//following">Following</a>
-                		</span>
-					</li>
-                	<li style="margin:0px">
-                		<span class="homeStatFollowSubmit borderRight">
-                			<span>11</span>
-                			<a href="//followers">Followers</a>
-                		</span>
-					</li>
-                	<li>
-                        <div style="position:relative;top:7px;right:15px">
-                            <div id="searchBox" class="corner-5 br bl tr tl">
-                                <form action="http://www.rockto.com/search" method="get">
-                                    <input type="text" id="searchBoxInput" value="Search.." title="Search" name="s">
-                                    <input type="image" src="http://www.rockto.com/img/COMMON/NEW/searchBoxBtn.png" id="searchBoxBtn" value="Search">
-                                </form>
-                            </div>
-                        </div>
-                	</li>
-                </ul>
+					<div style="" id="loginButton">
+						<a href="#" onclick="return false;" id="loginToggle">Log in <img src="http://www.rockto.com/img/COMMON/NEW/toggle_down_light.png" style="position:relative;top:2px;left:5px"></a>
+						<div align="right" class="corner-10 br bl" id="loginBox" style="display:none;">
+							<form action="http://www.rockto.com/login/do/modal" method="post" class="loginForm">
+								<span><input type="text" name="reg_email_user" id="reg_email_user" class="corner-5 br bl tr tl"></span>
+								<span><input type="text" name="reg_password" id="reg_password" class="corner-5 br bl tr tl"></span>
+								<span class="last corner-10 br bl"><button type="submit">Log in</button> <a href="https://graph.facebook.com/oauth/authorize?client_id=108646035897&amp;redirect_uri=http://www.rockto.com/register/facebook/&amp;display=page&amp;scope=user_birthday,publish_stream,publish_actions,email,read_friendlists,manage_pages"><img src="http://www.rockto.com/img/COMMON/NEW/regisFacebook.png" width="32"></a><a href="/register/twitter/login"><img src="http://www.rockto.com/img/COMMON/NEW/regisTwitter.png" width="32"></a><span style="display:block;margin-top:5px"><a style="font-size: 11px;font-weight: bold;" href="http://www.rockto.com/account/resend_password">forgot password ?</a></span></span>
+							</form>
+						</div>
+					</div>
+					<div style="clear:both"></div>
             </div>
         </div>
     </div>
