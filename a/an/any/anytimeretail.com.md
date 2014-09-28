@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anytimeretail.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125082729id_/http%3A//www.anytimeretail.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeretail.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928114142id_/http%3A//www.anytimeretail.com/privacy.aspx) for the most accurate reproduction.*
 
 # Anytime Retail Pvt Ltd
 
-## Privacy policy
+Privacy policy
 
 At Anytime Retail Pvt Ltd we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by the online solicitors at LegalCentre.co.uk. This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit this site. Our Privacy Policy should be read in conjunction with our terms of website use. We do occasionally update this Policy so please do return and review this Policy from time to time. 
 
@@ -62,3 +62,7 @@ The Data Protection Act gives all individuals the right to access personal infor
 #####  Contacting Us
 
 If you have any questions or queries relating to this Privacy Policy then please contact us at [info@anytimeretail.com](mailto:info@anytimeretail.com). 
+
+| 
+
+What others are buying:
