@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d4toys.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103095821id_/http%3A//www.d4toys.com/index.php%3Froute%3Dcommon/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d4toys.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928193742id_/http%3A//www.d4toys.com/index.php%3Froute%3Dcommon/privacy) for the most accurate reproduction.*
 
 # D4toys.com
 
