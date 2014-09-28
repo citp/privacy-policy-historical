@@ -1,53 +1,47 @@
-> *The following text is extracted and transformed from the onlinewebsitesdesign.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115015656id_/http%3A//www.onlinewebsitesdesign.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinewebsitesdesign.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928201243id_/http%3A//www.onlinewebsitesdesign.com/owd/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Online Websites Design
+# OWD | Committed to Protect the Privacy of its Customers
 
-Lucidity & Choice
+This privacy policy is developed for you to understand how we collect, use, link, disclose, and make use of your personal information. The terms, “we”, “us” and “our” refer to the Company (Online Websites Design ®). “You” refers to a user of our service. Your acceptance to our Privacy Policy reflects your consent to our collection, room, use, and disclosure of your personal information as described in this Privacy Policy.
 
-At [Online Websites Design](http://www.onlinewebsitesdesign.com/ "Online Website Design"), we are entirely responsive of the trust you lay in our business and it is our accountability to guard your privacy.
+## Information Collection and Use
 
-We have 5 standard privacy principles that portray how we manage our client's privacy and information:
+Online Websites Design is the exclusive possessor of the data collected on this site. We will not trade, share, or charge this gathered data to others in different ways from what is disclosed in this statement. Information collected by us is relevant to internal management activities such as creating new accounts and billing.
 
-  * We use information to present our clients with valuable products and services.
-  * We build up products that divulge strong isolation principles and practices.
-  * We make the collection of personal information visible.
-  * We give our clients, important options to protect their privacy.
-  * We are a responsible guardian of the information we hold.
+In general, the information you provide is only used to help us communicate with you in response to questions, solicit feedback from users, providing technical support and informing about promotional offers.
 
+## How we Protect your Data
 
+Certain security measures are designed to protect your gathered data from illegal access. Your account password is meant to protect your account on this platform and we encourage you to take certain steps to maintain privacy for your personal information. Your data is further protected from security breaches through the implementation of technological security measures namely encryption, firewalls, and secure socket layer. These sort of measures do not guarantee complete protection from being accessed, altered, or destroyed due to the breach of any nature. Your use of our service acknowledges that you understand and agree to assume all sort of risks.
 
-Our Privacy Policy
+## Links to other websites
 
-Online Websites Design is committed to protect your privacy with guarantee. To provide an instant and precise response to your website design, website development, logo design, and SEO services, Online Websites Design asks its customers, only for the information necessary to complete their order with precision.
+We possibly provide you with links or compatibility with other websites or applications. Please be aware that we are not accountable for the solitude practices of such websites or applications. We encourage our users to read the privacy statements of other website that collects personally identifiable information before proceeding to use them. Our website also includes social media features such as like and share buttons for Facebook or Twitter. These features may gather your IP address reflecting your visit on certain pages of our website. The privacy policy of company you are interacting with these features govern your interaction with these features.
 
-How Do We Gather And Use The Information
+## Security and Data Retention
 
-When you order a website design, website development, logo design, and SEO services, [seo website design](http://www.onlinewebsitesdesign.com/website-design/seo-web-site-design.aspx "seo website design"), we entail certain personal information like your first name, last name, company name, email address, and mailing address. This allows us to start and complete your order according to our required details and to inform you of your order position.
+We take every possible precautionary measures to protect information of our users. Your information is protected on this platform online and offline specifically when sensitive information is submitted to us. Once you submit your sensitive information while placing order with us, it is encrypted using SSL technology. We retain your information until your account is active. You can contact us if you no longer require your account being active or don’t want us to use your information.
 
-Legal Rights Agreements
+## Special Offers
 
-The design works of clients at Online Websites Design are uniquely the sole property of that individual client.  
-Online Websites Design guarantees the exclusiveness of its designs and that they are our own conception and not taken from anywhere but does not guarantee any similarities to any design created by any other design company or individual.
+A verification email regarding password and username is sent from this platform to all new users.Registered members of this platform receive certain emails regarding our products, services, and promotions if they have selected to receive such mails from us. We also provide an option of unsubscribing from these sort of mails to reflect our respect for confidential information of users.
 
-Use of Cookies & Other Technologies
+## Correcting/Updating/Deleting/Deactivating Personal Information
 
-A cookie is a small part of text accumulated on a user's computer by a web browser. A cookie surrounds of one or surplus one name-value duos holding little parts of data and information. Means of using cookie is not connected to any private information on our site.
+If your personally identifiable information changes or you are not interested to receive our services, then you are provided with different ways to correct, update, or delete such data. For this purpose, you can email us at [info@onlinewebsitesdesign.com](mailto:info@onlinewebsitesdesign.com). To deactivate or delete your account, you can communicate with our customer representative and your query will be fulfilled within 30 days.
 
-Confidentiality & Security
+## Notification of Changes
 
-We confine right to use of private information about you to even our recruits who we believe convincingly, need to approach into contact with that information to present products or services to you or in order to complete their responsibilities.
+We are authorized to modify this policy anytime and modifications will be uploaded on this page. You are requested to visit this page from time to time for being aware of any modifications and manner of using your gathered data.
 
-Information Sharing & Disclosure
+## Business Transitions
 
-We believe it is necessary to share information to inspect, avert, or take action regarding unlawful activities, alleged scam, situations concerning possible threats to the physical safety of any person, breaches of Online Websites Design terms of use, or as otherwise required by law.
+In any event, Online Websites Design ® goes through a business change over such as mergers or acquisitions with other entity, your personally identifiable data will likely be included in the transferred assets. You will be informed via email for any such change in rights or control of your personal data.
 
-Changes To This Privacy Policy
+## Legal Disclaimer
 
-Online Websites Design may modernize these guidelines. We will alert you about momentous changes in the way we care for delicate information by sending a discern to the primary email address specified in your Online Websites Design account or by placing a high up notice on our site.
+Though we make every possible step to maintain your confidentiality, we might need to disclose your personal data whenever required by law or to comply with legal procedures being served here.
 
-Questions about our Privacy Policy
+## Contact Us
 
-If you have queries or concerns regarding our Privacy Policy, please feel free to contact us by Live Support, Customer Support, Phone or Via Email. 
-
-  
-
+If you have any query or questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [info(at)onlinewebsitesdesign(dot)com](mailto:info@onlinewebsitesdesign.com). This Privacy Policy was updated on 11th January 2014.
