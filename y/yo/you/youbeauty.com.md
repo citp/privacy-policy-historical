@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213054024id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928102906id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # YouBeauty.com - Privacy
 
@@ -103,8 +103,9 @@ Cleveland, OH 44101
 Or
 
 YouBeauty.com   
-648 Broadway   
-New York, NY 10012 (646) 449-9445 – phone   
+185 Madison Avenue   
+Floor 5   
+New York, NY 10016 (646) 449-9445 – phone   
 (646) 449-9446 - fax 
 
 
