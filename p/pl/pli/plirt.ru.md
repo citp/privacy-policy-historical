@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052923id_/http%3A//plirt.ru/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928103442id_/http%3A//plirt.ru/privacypolicy) for the most accurate reproduction.*
 
-# plirt.ru – dating website! Communication without limits
+# plirt.ru – meetings website! Communication without limits
 
-Plirtrespects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
+### Privacy Policy
+
+Plirt respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
@@ -54,9 +56,7 @@ In General. We may use information that we collect about you to:
 
   * perform functions as otherwise described to you at the time of collection; and
 
-  * register you with and display your profile on other online dating and other social websites owned by Us.
-
-
+  * 
 
 
 Financial information. We may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
@@ -81,6 +81,10 @@ Personal information. We do not share your personal information with others exce
 
 
 Aggregated and/or non-personal information. We may share non-personal information we collect under any of the above circumstances. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal information, or personal information in hashed, non-human readable form, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis or other business purposes.
+
+##  **How to unsubscribe from future email messages**
+
+To unsubscribe from all notifications, go to settings, uncheck "Notify me by e-mail" and save the changes. 
 
 ##  **Third-party websites**
 
