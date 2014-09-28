@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irb.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023521id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irb.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928081220id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # International Rugby Board - privacy
 
