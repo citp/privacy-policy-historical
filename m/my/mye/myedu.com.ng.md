@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myedu.com.ng privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228193212id_/http%3A//www.myedu.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myedu.com.ng privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928060402id_/http%3A//www.myedu.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -24,11 +24,4 @@ In any case  you have any questions about  our Privacy Policy please feel free
 
 y also manually insert the shortcode into a post/page.
 
-**Do you Know that your education matters alot?** We are here to help in any way we can. 1: Kindly Drop your Comment, Question if you have any using the comment Box below. 2: Share our updates to your fellow students out there on [twitter](https://twitter.com/MyEduNigeria), [Facebook ](https://www.facebook.com/MyEduNigeria). Thank you all for the Support so far
-
-**Advertisement:**
-
-[](http://www.myedu.com.ng/jamb-past-question-answer-available/)
-
-| [](http://emucareer.org/admission-eastern-mediterranean-university/)  
----|---
+` `
