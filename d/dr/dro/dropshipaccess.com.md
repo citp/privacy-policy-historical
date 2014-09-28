@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipaccess.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000731id_/http%3A//www.dropshipaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipaccess.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928172222id_/http%3A//www.dropshipaccess.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Drop Ship Access
 
