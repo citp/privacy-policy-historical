@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607042513id_/http%3A//www.webucator.com/about-us/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928075359id_/https%3A//www.webucator.com/about-us/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Webucator Privacy Policy
 
