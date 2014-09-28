@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsportswear.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528021058id_/http%3A//www.teamsportswear.com/logo/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsportswear.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928093408id_/http%3A//www.teamsportswear.com/logo/privacypolicy.php) for the most accurate reproduction.*
 
 # TeamSportswear.com Privacy Policy
 
