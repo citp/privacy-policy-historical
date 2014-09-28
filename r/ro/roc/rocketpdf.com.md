@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketpdf.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618211017id_/http%3A//www.rocketpdf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketpdf.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928122802id_/http%3A//www.rocketpdf.com/privacy.php) for the most accurate reproduction.*
 
 # RocketPDF | Privacy policy
 
