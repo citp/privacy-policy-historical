@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415071501id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928210331id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -65,27 +65,30 @@ Cave Creek, AZ 85331
 
   
 Last Updated Tuesday March 17 2009.    
-Artwork and Brushes |  Free Stuff |  Training |  Add-ons |  Textures  
----|---|---|---|---  
+Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Seamless Textures  
+---|---|---|---  
   
 [Bonus Content Packs](http://www.unleash.com/bonus-content-packs/)  
 [Clipart Unleashed](http://www.unleash.com/clipart-unleashed/)  
 [1400+ CorelDRAW Brushes](http://www.unleash.com/tomknight/coreldraw-brush-packs/)  
-[1700+ Seamless Textures](http://www.unleash.com/textures/)  
 [Fashion Design](http://www.unleash.com/fashion-design/)  
+[QR Codes Docker](http://www.unleash.com/softbotz/qr-codes/)  
+[CNC Software](http://www.unleash.com/leonard-cnc-software/)  
 
 
 | 
 
-[Vehicle Templates (1000s free)](http://www.unleash.com/ddw/vehicle-templates/)  
-[2000 Seamless Stripes](http://www.unleash.com/stripes-unleashed/)  
+[Vehicle Templates-1000s free](http://www.unleash.com/ddw/vehicle-templates/)  
 [Signs by Design](http://www.unleash.com/signsbydesign/)  
 [Clipart deSIGN](http://www.unleash.com/clipartdesign/)  
+[Design Base (free)](http://www.unleash.com/tomknight/design-base/)  
+[ROMCat](http://www.unleash.com/articles/romcat/) | [eCut](http://www.unleash.com/ecut/)  
+[CoCut Standard & Pro](http://www.unleash.com/cocut/)  
 
 
 | 
 
-[500+ Free Fonts](http://www.unleash.com/fonts-unleashed/)  
+[620+ Free Fonts](http://www.unleash.com/fonts-unleashed/)  
 [Cave Creek Geek  
 ](http://www.unleash.com/cave-creek-geek/)[Graphics Unleashed Blog  
 ](http://graphics-unleashed.unleash.com/)[Free Publications  
@@ -99,32 +102,19 @@ Artwork and Brushes |  Free Stuff |  Training |  Add-ons |  Textures
 [Jeff Harrison's FUNdaMENTALs](http://www.unleash.com/jeffh/)  
 [CorelDRAW Training](http://www.unleash.com/training/coreldrawbootcamp.asp) | [On-Site](http://www.unleash.com/training/corporate.html)  
 [Hire the Geek](http://www.unleash.com/training/hire-the-geek/)  
-[CorelDRAW Unleashed Mag](http://www.coreldrawunleashed.com/magazine/)  
-[Windows Unleashed](http://www.unleash.com/windows-unleashed/)  
 
 
 | 
 
-[Design Base (free)](http://www.unleash.com/tomknight/design-base/)  
-[ROMCat](http://www.unleash.com/articles/romcat/) | [eCut](http://www.unleash.com/MediaSales/webApp/eCut_5_0-details.aspx)  
-[QR Codes Docker](http://www.unleash.com/softbotz/qr-codes/)  
-[EZ Metrics](http://www.unleash.com/ezmetrics/)  
-[Leonard CNC Software](http://www.unleash.com/leonard-cnc-software/)  
-
-
-| 
-
-[Wood](http://www.unleash.com/textures/textures-unleashed-wood-board.aspx) | [Metal](http://www.unleash.com/textures/textures-unleashed-metal.aspx) | [II](http://www.unleash.com/textures/textures-unleashed-metal-ii.aspx)  
-[Stone](http://www.unleash.com/textures/textures-unleashed-stone.aspx) | [Terrain](http://www.unleash.com/textures/textures-unleashed-terrain.aspx)  
-[Fire & Ice](http://www.unleash.com/textures/textures-unleashed-fire-ice.aspx) | [Tech](http://www.unleash.com/textures/textures-unleashed-technology.aspx)  
-[Ground & Plants](http://www.unleash.com/textures/textures-unleashed-ground-plants.aspx)  
-[Floor, Wall & Bricks](http://www.unleash.com/textures/textures-unleashed-floor-wall-bricks.aspx)  
-[Fiber](http://www.unleash.com/textures/textures-unleashed-cloth-fiber.aspx) | [Tile & Path](http://www.unleash.com/textures/textures-unleashed-tile-path.aspx)  
-[Marble](http://www.unleash.com/textures/textures-unleashed-marble-architecture-art.aspx) | [Crystals](http://www.unleash.com/textures/textures-unleashed-crystals.aspx)  
+[1900+ Seamless Textures](http://www.unleash.com/textures/)  
+[Wood](http://www.unleash.com/textures/textures-unleashed-wood-board.aspx) | [Metal](http://www.unleash.com/textures/textures-unleashed-metal.aspx) | [Stone](http://www.unleash.com/textures/textures-unleashed-stone.aspx) | [Terrain](http://www.unleash.com/textures/textures-unleashed-terrain.aspx) | [Fire & Ice](http://www.unleash.com/textures/textures-unleashed-fire-ice.aspx)  
+[Ground & Plants](http://www.unleash.com/textures/textures-unleashed-ground-plants.aspx) | [Floor, Wall & Bricks](http://www.unleash.com/textures/textures-unleashed-floor-wall-bricks.aspx) | [Fiber](http://www.unleash.com/textures/textures-unleashed-cloth-fiber.aspx)  
+[Tile & Path](http://www.unleash.com/textures/textures-unleashed-tile-path.aspx) | [Marble](http://www.unleash.com/textures/textures-unleashed-marble-architecture-art.aspx) | [Crystals](http://www.unleash.com/textures/textures-unleashed-crystals.aspx) | [Tech](http://www.unleash.com/textures/textures-unleashed-technology.aspx)  
+[Metal II](http://www.unleash.com/textures/textures-unleashed-metal-ii.aspx) | [Diamond Plate](http://www.unleash.com/textures/textures-unleashed-diamond-plate.aspx) | [Circuits](http://www.unleash.com/textures/textures-unleashed-circuits.aspx)  
   
   
-[](http://www.unleash.com/news/graphicsunleashedsubscription.aspx) [](http://www.facebook.com/graphicsunleashed/) [](http://www.twitter.com/fostercoburn/) [](https://plus.google.com/101018298827192652657/) [](http://www.linkedin.com/company/unleashed-productions-inc.?trk=fc_badge) [](http://www.youtube.com/coreldrawunleashed/) [](http://www.unleash.com/amazon/shop.asp) [](https://www.unleash.com/products/corel-estore.asp) [](http://www.unleash.com/news/graphicsunleashedsubscription.aspx)  
+[](http://www.unleash.com/aboutupi/)  
   
-[](http://www.unleash.com/aboutupi/)
-
+[](http://www.unleash.com/news/graphicsunleashedsubscription.aspx) [](http://www.facebook.com/graphicsunleashed/) [](https://twitter.com/intent/user?screen_name=fostercoburn) [](https://plus.google.com/101018298827192652657/) [](http://www.linkedin.com/company/unleashed-productions-inc.?trk=fc_badge) [](http://www.youtube.com/coreldrawunleashed/) [](http://www.unleash.com/amazon/shop.asp) [](https://www.unleash.com/products/corel-estore.asp) [](http://www.unleash.com/news/graphicsunleashedsubscription.aspx)  
+  
 Copyright © 1995–2014 Unleashed Productions, Inc., All Rights Reserved.
