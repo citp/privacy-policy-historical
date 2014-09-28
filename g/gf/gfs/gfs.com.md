@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621154844id_/http%3A//www.gfs.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928081653id_/http%3A//www.gfs.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy - GFS.com
 
