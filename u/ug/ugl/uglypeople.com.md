@@ -1,60 +1,53 @@
-> *The following text is extracted and transformed from the uglypeople.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610021550id_/http%3A//www.uglypeople.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglypeople.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929101431id_/http%3A//www.porncam.com/privacy.html%3FAFNO%3D1-81) for the most accurate reproduction.*
 
-# Ugly people dot com now showing all your favorite ugly men and ugly women. Upload, Submit, or Email goofy ugly pictures, comments, or suggestions to contribute to the web site
+# PornCam | Privacy Policy
 
-  
-[](https://web.archive.org/uglywomen/)  
-[](https://web.archive.org/uglymen/)  
-[](https://web.archive.org/submit.html)  
-[](https://web.archive.org/staff/)  
-[](https://web.archive.org/letters/)  
-[](https://web.archive.org/contact.html)  
-[](https://web.archive.org/new/)  
-[](https://web.archive.org/linktous.html)  
+[Home](http://www.porncam.com/?AFNO=1-81) / Privacy Policy
+
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
+
+PornCam respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use PornCam, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the PornCam website.
+
+PornCam will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
+
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+
+When you do provide us with personal identifying information, such information will be gathered solely by PornCam, and is for use solely by PornCam and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+
+PornCam may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
+
+PornCam may request personal identifying information on specific pages that allow users to contact PornCam. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
+
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of PornCam or those of PornCam customers or chat hosts, (4) under exigent circumstances to protect the physical safety of PornCam, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+
+Cookies used on the website by category:
+
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
-| 
 
-  
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-| 
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. PornCam does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-> **Privacy Policy**
-> 
-> UglyPeople.com and its related content and website, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. 
-> 
-> On occasion, UglyPeople.com. will make available to potential advertisers, research firms, and business partners aggregated results from research it has conducted on its UglyPeople.com readership base. UglyPeople.com will only provide such demographic information on an aggregated basis and does not disclose individual reader information. 
-> 
-> **E-mail**   
-> Any/all e-mail addresses sent to us as the result of correspondence with the consumers of UglyPeople.com will not be used or collected for the purposes of reselling to a third party and will not be added to a bulk e-mailing list. 
-> 
-> **Access**   
-> UglyPeople.com does not currently collect or archive any/all personal information sent to us on an individual basis. All information collected and analyzed solely on an aggregated basis. If--in the future--UglyPeople.com collects or archives personal information an individual basis and you wish to correct/add/remove the personal information submitted to the UglyPeople.com, please contact support@uglypeople.com 
-> 
-> **Security**   
-> This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All information recorded is available only in aggregated form, and is password protected to prevent misuse. 
-> 
-> **Cookies**   
-> Some ads displayed may come from an outside ad company. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads through our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while viewing ads from our site. Some customer data is shared with the advertising companies. 
-> 
-> **Traffic Data**   
-> Each time a visitor comes to an UglyPeople.com website, information is collected to improve the overall quality of UglyPeople.com. UglyPeople.com collects the visitor's domain name/IP Address (e.g., whether the user is logged on from netscape.com or yale.edu or 255.255.255.0), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to an UglyPeople.com website), and browser/platform type (e.g., a Netscape browser on a Macintosh platform). 
-> 
-> In addition to collecting these types of information, UglyPeople advertisement delivery system collects aggregate search terms for internal reporting and targeted advertising. UglyPeople.com advertisement delivery system collects visitor information for purposes of product monitoring, product improvement, and targeted advertising. 
-> 
-> UglyPeople.com. also counts, tracks, and aggregates the visitor's activity into our analysis of general traffic flows at UglyPeople.com (e.g., tracking where traffic comes from and how traffic flows within the UglyPeople.com website). UglyPeople.com may merge this information into group data, which may then be shared on an aggregated basis with potential advertisers, research firms, and business partners. UglyPeople.com will not disclose your individual identity or personal data. When UglyPeople.com does present aggregated information to potential advertisers, research firms and business partners, no one will be able to identify you or contact you. 
-> 
-> **Supplementation Information**   
-> This site supplements the information that we receive with information that is received from third parties. You can send email to [accounts@uglypeople.com](mailto:%20accounts@uglypeople.com)
-> 
-> **Contacting the Web Site**   
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-> 
-> Ugly People  
->  300 Oceangate, Suite 650  
->  Long Beach, CA   
->  email: [support@uglypeople.com](mailto:%20support@uglypeople.com)
-> 
->   
->  [](http://ad.doubleclick.net/jump/uglypeople.bla-bla.dart/;tile=2;sz=468x60;ord=9137976492238205)
+Members areas of PornCam may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@porncam.com](https://web.archive.org/contactsupport.php?AFNO=1-81).
+
+PornCam does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from PornCam, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?AFNO=1-81).
+
+PornCam also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if PornCam becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, PornCam reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the PornCam program, termination of PornCam services, and forfeiture of all commissions.
+
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@porncam.com](https://web.archive.org/contactsupport.php?AFNO=1-81) and provide us with your name, your PornCam login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
