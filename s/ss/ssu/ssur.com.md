@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssur.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110525id_/http%3A//shop.ssur.com/jzv/inf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssur.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929202031id_/http%3A//shop.ssur.com/jzv/inf/privacy) for the most accurate reproduction.*
 
 # SSUR
 
