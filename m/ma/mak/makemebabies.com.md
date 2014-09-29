@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemebabies.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407070805id_/http%3A//www.makemebabies.com/privacy-policy.php%3Fpid%3D393d33569c1f90a5357388c38202f829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemebabies.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929155601id_/http%3A//www.makemebabies.com/privacy-policy.php%3Fpid%3Df2f6476defaf9642462bc412f1f76c8d) for the most accurate reproduction.*
 
 # Make Babies with HOT celebs! makemebabies.com - Privacy Policy
 
