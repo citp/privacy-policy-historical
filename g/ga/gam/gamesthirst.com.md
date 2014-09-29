@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesthirst.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627172846id_/http%3A//www.gamesthirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesthirst.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929214730id_/http%3A//www.gamesthirst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Games Thirst - Amazing Life
 
