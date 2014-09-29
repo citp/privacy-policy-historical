@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotomage.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412060732id_/http%3A//www.fotomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotomage.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929093340id_/http%3A//www.fotomage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FotoMage
 
