@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfxbook.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627053441id_/http%3A//www.myfxbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfxbook.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930012629id_/http%3A//www.myfxbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Myfxbook
 
@@ -75,5 +75,3 @@ In addition Myfxbook may disclose or provide any of your information if Myfxbook
 **Miscellaneous**
 
 In the event that any provision of this Privacy Policy is held unenforceable, the validity or enforceability of the remaining provisions will not be affected, and the unenforceable provision will be replaced with an enforceable provision that comes closest to the intention underlying the unenforceable provision.
-
-Myfxbook is a company registered in the State of Israel, therefore your access to and use of this website, and this Privacy Policy, are governed by and will be construed solely in accordance with the laws of the State of Israel, without giving effect to any law or rule that would cause the laws of any jurisdiction other than the State of Israel to be applied. Any action arising out of this Privacy Policy or this website shall be litigated in, and only in, courts located in the city of Tel Aviv, Israel, and you agree to submit to the exclusive jurisdiction of those courts, and further agree that they are a convenient forum for you.
