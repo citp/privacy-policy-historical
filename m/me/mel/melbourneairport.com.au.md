@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619184331id_/http%3A//melbourneairport.com.au/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneairport.com.au privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929024753id_/http%3A//melbourneairport.com.au/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Melbourne Airport
 
@@ -74,7 +74,7 @@ If you do not want us to contact you about products or services you can **opt-ou
 
 **Website**
 
-When you visit our website, we may collection information such as the time and date of your visit, your server address and your browser type. We may also place and access any cookies on your browser.  When you use the "Contact Us" page on our website we may store any information you send us so we can respond to you if necessary.
+When you visit our website, we may collect information such as the time and date of your visit, your server address and your browser type. We may also place and access any cookies on your browser. When you use the "Contact Us" page on our website we may store any information you send us so we can respond to you if necessary
 
 **Complaints, questions and concerns**
 
