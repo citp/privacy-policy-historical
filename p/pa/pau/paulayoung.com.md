@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629005831id_/http%3A//www.paulayoung.com/jump.do%3FitemID%3D5%26itemType%3DLANDING%26privacy%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929025852id_/http%3A//www.paulayoung.com/jump.do%3FitemID%3D5%26itemType%3DLANDING%26privacy%3Dpolicy) for the most accurate reproduction.*
 
 # Wigs and Hairpieces - www.PaulaYoung.com
 
