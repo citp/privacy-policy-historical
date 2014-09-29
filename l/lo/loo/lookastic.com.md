@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lookastic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082812id_/http%3A//lookastic.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookastic.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929213111id_/http%3A//lookastic.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lookastic
 
-[Women](https://web.archive.org/women) [Men](https://web.archive.org/men) [Brands](https://web.archive.org/) [Celebrities](https://web.archive.org/celebrities) [Blog](http://blog.lookastic.com/) [Contact Us](https://web.archive.org/site/contact-us) [Sign In](https://web.archive.org/users/sign_in) [Join Lookastic](https://web.archive.org/users/sign_up)
+[My Wardrobe Try It! ](https://web.archive.org/join)[Women](https://web.archive.org/women) [Men](https://web.archive.org/men) [Brands](https://web.archive.org/) [Celebrities](https://web.archive.org/celebrities) [Blog](http://blog.lookastic.com/) [Contact Us](https://web.archive.org/site/contact-us) [Sign In](https://web.archive.org/users/sign_in) [Join Lookastic](https://web.archive.org/users/sign_up)
+
+## We use technology to help you dress better
 
 ## What information do we collect?
 
