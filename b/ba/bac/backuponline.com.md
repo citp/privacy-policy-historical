@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backuponline.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124194939id_/http%3A//www.backuponline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backuponline.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929155316id_/http%3A//www.backuponline.com/privacy.php) for the most accurate reproduction.*
 
 # BackupOnline makes online backup simple and secure
 
