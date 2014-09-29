@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectnigeria.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170730id_/http%3A//www.connectnigeria.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectnigeria.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929095331id_/http%3A//connectnigeria.com/privacy_policy.php) for the most accurate reproduction.*
 
 # connectnigeria.com - Privacy Policy
 
@@ -45,7 +45,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 ###  Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.connectnigeria.com/terms_and_conditions.php](https://web.archive.org/web/20140625170730id_/http%3A//www.connectnigeria.com/terms_and_conditions.php)  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.connectnigeria.com/terms_and_conditions.php](https://web.archive.org/web/20140929095331id_/http%3A//connectnigeria.com/terms_and_conditions.php)  
 
 
 ###  Your Consent 
