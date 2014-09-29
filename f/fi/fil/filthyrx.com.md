@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filthyrx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133943id_/http%3A//filthyrx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filthyrx.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929123141id_/http%3A//filthyrx.com/privacy.php) for the most accurate reproduction.*
 
 # Free Porno and Porn at Filthyrx
 
