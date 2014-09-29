@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disneydining.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530021523id_/http%3A//www.disneydining.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneydining.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929021035id_/http%3A//www.disneydining.com/privacy-policy-3) for the most accurate reproduction.*
 
-# Privacy Policy | DisneyDining
+# Privacy Policy - DisneyDining
 
 What information do we collect?
 
@@ -57,4 +57,4 @@ By using our site, you consent to our websites privacy policy.
 Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.  
-www.disdining.com
+www.disneydining.com
