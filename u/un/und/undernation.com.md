@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undernation.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423224338id_/http%3A//www.undernation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undernation.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929183829id_/http%3A//www.undernation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Undernation
 
