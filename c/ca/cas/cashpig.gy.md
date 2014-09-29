@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the cashpig.gy privacy policy that was archived on 2014-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140117003348id_/http%3A//cashpig.gy/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashpig.gy privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929030931id_/http%3A//cashpig.gy/pages/privacy) for the most accurate reproduction.*
 
 # Privacy :: CashPiggy
 
-### LEGAL PRIVACY POLICY for CASHPIG.GY / x19 Limited
+### LEGAL PRIVACY POLICY for CASHPIG.GY / Code404 S.L.
 
 _This statement was last updated December 3, 2013._
 
-The term 'cashpig.gy' or 'cashpiggy' or 'us' or 'we' refers to the owner of the website 'x19 Limited' whose registered office is x19 Limited, 27 Old Gloucester Street, London, WC1N 3AX. Our company registration number is 05995703, registered in England. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
+The term 'cashpig.gy' or 'cashpiggy' or 'us' or 'we' refers to the owner of the website 'Code404 S.L.' whose registered office is Code404 S.L., C. Provençals 40, 08019 Barcelona, Spain. Our company registration number is B66276569, registered in Spain. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
-We at x19 Limited respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
+We at Code404 S.L. respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.
 
 Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.
 
 This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.
 
-[For the purpose of the Data Protection Act 1998, x19 Limited is our data controller.]
+[For the purpose of the Data Protection Act 1998, Code404 S.L. is our data controller.]
 
 #### 1\. Collected Information
 
