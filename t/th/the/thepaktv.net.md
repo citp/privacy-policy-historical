@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepaktv.net privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510055615id_/http%3A//www.thepaktv.net/forums/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaktv.net privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929151236id_/http%3A//www.thepaktv.net/forums/privacy%2520policy.php) for the most accurate reproduction.*
 
 # ThePakTv: Watch Pakistani Dramas & Political Shows in High Quality - Privacy Policy of ThePakTv.com
 
