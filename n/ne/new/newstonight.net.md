@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstonight.net privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621104202id_/http%3A//newstonight.net/content/newstonightnet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstonight.net privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929055417id_/http%3A//newstonight.net/content/newstonightnet-privacy-policy) for the most accurate reproduction.*
 
 # NewsTonight.net Privacy Policy | News Tonight
 
