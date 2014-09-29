@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandadoc.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514093856id_/https%3A//www.pandadoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandadoc.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929145759id_/https%3A//www.pandadoc.com/privacy-policy) for the most accurate reproduction.*
 
 # PandaDoc Privacy Policy
 
