@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101236id_/http%3A//www.sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929155336id_/http%3A//www.sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Sertifi Privacy Policy | Sertifi: Electronic Signatures & eSignatures
 
@@ -92,7 +92,7 @@ Sertifi Incorporated takes reasonable steps to ensure that your personal informa
 
 **Enforcement**
 
-Sertifi will investigate and attempt to resolve complaints and disputes regarding processing and disclosure of Personal Information in accordance with the principles contained in this Notice. For complaints resolved internally, Sertifi's remedy will be reasonable, and sufficient corrective action to resolve the complaint, including correcting any Personal Information, using Personal Information consistent with the Safe Harbor Privacy Principles, reversing or correcting the effects of noncompliance, and assuring that future processing of Personal Information will be in conformity with the Safe Harbor Privacy Principles. Complaints that cannot be resolved between Sertifi will be handled by the American Arbitration Association.
+Sertifi will investigate and attempt to resolve complaints and disputes regarding processing and disclosure of Personal Information in accordance with the principles contained in this Notice. For complaints resolved internally, Sertifi's remedy will be reasonable, and sufficient corrective action to resolve the complaint, including correcting any Personal Information, using Personal Information consistent with the Safe Harbor Privacy Principles, reversing or correcting the effects of noncompliance, and assuring that future processing of Personal Information will be in conformity with the Safe Harbor Privacy Principles. Complaints that cannot be resolved between Sertifi will be handled by JAMS Arbitration and Resolution Services.
 
 Please address any questions or concerns regarding our Safe Harbor Privacy Notice or our practices regarding Personal Information to:
 
