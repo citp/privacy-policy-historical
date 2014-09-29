@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630024806id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929185937id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support @ ronpaul.com.
 
 [ ](http://befree2016.familysu.hop.clickbank.net/)
+
+Likes(0)Dislikes(0)
