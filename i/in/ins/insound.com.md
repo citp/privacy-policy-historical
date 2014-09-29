@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000124id_/http%3A//www.insound.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insound.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929043901id_/http%3A//www.insound.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Insound.com: Online Record Store for Vinyl Records, Turntables, Band Shirts, Band Posters and more.
-
-## Privacy Policy
+# Privacy Policy
 
 LAST UPDATED: May 31, 2013
 
@@ -16,20 +14,11 @@ The Properties are not directed to individuals under the age of thirteen (13), a
 
 **Your California Privacy Rights:** If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties’ own direct marketing purposes. Please send your request by email to [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or by postal mail to Warner Music Group, Attn: Privacy Coordinator, 75 Rockefeller Plaza, New York, NY 10019. We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
 
-  
-
-
 ### UPDATES TO THIS PRIVACY POLICY
 
 We may change this Privacy Policy at any time. Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we make the revised Privacy Policy available on or through the Property. Your use of any Property or your submission of any information in connection with a Property following such changes means that you accept the revised Privacy Policy.
 
-  
-
-
 ### PERSONAL INFORMATION
-
-  
-
 
 #### Personal Information We May Collect
 
@@ -52,7 +41,6 @@ We and our third-party service providers collect Personal Information through th
   * When you participate in a contest, promotion, sweepstakes, survey or other promotion through the Properties.
   * When you participate in a blog or forum.
 
-  
 
 
 #### How We May Use Personal Information 
@@ -74,9 +62,6 @@ We and our third-party service providers may use Personal Information:
 
 We may combine Personal Information that you submit on or through the Property with information that we collect from and about you from other online and offline sources, including from our own websites and web properties (including apps, widgets and players) and third party sources, which may include social media services you interact with through our Properties. We treat such combined information as Personal Information as long as it is so combined.
 
-  
-
-
 #### How Personal Information May Be Disclosed
 
 Your Personal Information may be disclosed:
@@ -92,27 +77,17 @@ Your Personal Information may be disclosed:
   * To a relevant artist who is no longer affiliated with us, if you indicated an interest in such artist (for example, by registering with the artist’s website).
   * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates or artists; (f) to protect our rights, privacy, safety or property, or that of our affiliates, our artists, you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-  
 
 
 #### Retention Period
 
 We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-  
-
-
 #### Sensitive Information
 
 We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Properties or otherwise to us.
 
-  
-
-
 ### OTHER INFORMATION
-
-  
-
 
 #### Other Information We May Collect
 
@@ -127,7 +102,6 @@ We and our third-party service providers may collect Other Information (defined 
   * Information about how you use the Properties
   * Aggregated information
 
-  
 
 
 #### How We May Collect Other Information
@@ -146,27 +120,17 @@ We and our third-party service providers may collect Other Information in a vari
   * **Information about how you interact on the Properties:** We may collect information about how you interact on the Properties. For example, some Properties may utilize analytic tools to help us better serve you through improved products, services, and revisions to the Properties. This collected information may let us know which services and features you are using the most within a Property, as well as device type and hardware features, country and language of download, etc.
   * **By aggregating information:** We may aggregate Personal Information so that the end-product does not personally identify you or any other user of the Property, for example, by using Personal Information to calculate the percentage of our users who like a particular artist.
 
-  
 
 
 #### How We May Use and Disclose Other Information
 
 Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it as described in “How We May Collect Other Information” section above, as well as for all the purposes for which we use and disclose Personal Information. In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-  
-
-
 ### SECURITY 
 
 We seek to use reasonable physical, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data security system can be guaranteed to be 100% secure.
 
-  
-
-
 ### CHOICES AND ACCESS
-
-  
-
 
 #### Your choices regarding our use and disclosure of your Personal Information 
 
@@ -182,17 +146,11 @@ In each case, please make clear in your email what you are opting-out from. We w
 
 Please note that, if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our artists or unaffiliated third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. Please also note that, if you do opt-out from receiving marketing-related messages from us, we may still send administrative messages to you; you cannot opt-out from receiving administrative messages.
 
-  
-
-
 #### How you can access, change or suppress your Personal Information
 
 If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us, you may contact us by emailing us at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com).
 
 In your request, please make clear what Personal Information you would like to have changed and what limitations (if any) you would like to place on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records which will not be removed. We are not responsible for changing, removing or suppressing information from the databases of artists or unaffiliated third parties with which we have already shared your Personal Information.
-
-  
-
 
 ### CONTACTING US
 
