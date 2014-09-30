@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610012347id_/http%3A//burstmedia.com/index.php/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001003940id_/http%3A//burstmedia.com/index.php/company/privacy) for the most accurate reproduction.*
 
 # Privacy - Burst Media
 
