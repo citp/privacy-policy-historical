@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090842id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930111724id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
 
 # Web Policies
 
   |  |    
-  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the [U.S. Geological Survey](http://www.usgs.gov/) (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20140625090842id_/http%3A//www.nationalatlas.gov/partners.html). The following statements and disclaimers apply to the National Atlas. |   
+  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the [U.S. Geological Survey](http://www.usgs.gov/) (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20140930111724id_/http%3A//www.nationalatlas.gov/partners.html). The following statements and disclaimers apply to the National Atlas. |   
 | 
 
 ## National Atlas Web Policies  
@@ -194,7 +194,7 @@ The USGS maintains a [Freedom of Information Act (FOIA) Electronic Reading Room]
 |    
   | 
 
-The staff of the National Atlas makes every practical attempt to make its products and services as accessible to people with disabilities as possible. However, maps are primarily visual presentation of information and there is no current means to convey the full information contained in maps using today's assistive technologies. If you cannot fully access the information on a particular page, please E-mail us at [atlasmail@usgs.gov](mailto:atlasmail@usgs.gov).
+The staff of the National Atlas makes every practical attempt to make its products and services as accessible to people with disabilities as possible. However, maps are primarily visual presentation of information and there is no current means to convey the full information contained in maps using today's assistive technologies. If you cannot fully access the information on a particular page, please [contact us](http://answers.usgs.gov/cgi-bin/gsanswers?tmplt=4&cat_id=9795).
 
 For further information and to learn more about the regulations governing the accessibility of Federal electronic information products, visit the pages listed below:
 
@@ -214,19 +214,11 @@ back to top
 |    
   | 
 
-If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20140625090842id_/http%3A//www.nationalatlas.gov/contactus.html):
-
-**E-Mail:**   [atlasmail@usgs.gov](mailto:atlasmail@usgs.gov) (Please include your return E-mail address in the body of your message.)
-
-**Standard Mail:**  
-National Atlas of the United States®  
-511 National Center  
-U.S. Geological Survey  
-Reston, VA 20192 USA
+If you have any questions about these policy notices and disclaimers, please [contact us](http://answers.usgs.gov/cgi-bin/gsanswers?tmplt=4&cat_id=9795).
 
 [Read more about the principal policies and notices that govern information posted on USGS Web sites](http://www.usgs.gov/laws/policies_notices.html). 
 
 back to top
 
 |    
-|  | [](https://web.archive.org/web/20140625090842id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
+|  | [](https://web.archive.org/web/20140930111724id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
