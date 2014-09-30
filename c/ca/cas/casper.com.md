@@ -1,100 +1,120 @@
-> *The following text is extracted and transformed from the casper.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casper.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930111649id_/https%3A//casper.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Casper — The Mattress Reimagined
 
-**Go Daddy Respects Your Privacy**
+Effective Date of Current Policy: April 1st, 2014
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+By using our Services, you agree to the use, disclosure and procedures this Privacy Policy describes. Please note that this Privacy Policy does not apply to third party websites ("Third Party Services"), such as Facebook, Twitter, Pinterest, Instagram and Google+, that we do not own or control, even if you access them through the Services. We try to only work with Third Party Services that share our respect for your privacy, but we cannot take responsibility for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any Third Party Services you access so that you know how they will use and share your information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+If you have any questions, please reach out to us at privacy@casper.com.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The information we collect from you falls into two categories: personally identifiable information ("Personal Information") and non-personally identifiable information (i.e., information that cannot be used to identify who you are) ("Non-Personal Information"). This Privacy Policy covers both types and will tell you how we might collect and use each.
 
-**Information Collection and Use**
+Personal Information we may collect from you includes:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * your name, username, email address, and password
+  * information from Third Party Services that you explicitly give us access to
+  * your contact information, such as your phone number, social media handle, or email (depending on how you contact us)
+  * your credit card information (although we use a third party payment processor, as described below), billing address and shipping address, if you make purchases through the Services
+  * live chats and customer service phone calls
+  * sales history
+  * survey responses to the extent you include Personal Information
+We may also collect some of the following Non-Personal Information from you: 
+  * the name of your internet service provider
+  * the IP address of the computer you use to access our Services
+  * the type of browser software you are using
+  * the operating system you are using
+  * the date and time you access our Services
+  * the website address, if any, that linked you to our Site
+  * the website address, if any, you leave our website and travel to
+  * your home page customization preferences
+  * search engine search terms and advertising clicks/actions
+  * weblogs and other clickstream data
+  * survey responses to the extent you do not include Personal Information
+  * in-store and near-store mobile device wireless signature information (such as a MAC address), which we use solely on an anonymous basis, as described below
+  * other non-personally identifiable traffic data
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Children's Information. We are especially sensitive about children's information. We do not knowingly collect information from children under the age of 13, in accordance with the Children's Online Privacy Protection Act ("COPPA"). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. We will treat any information that you provide us while using the Services on behalf of your minor child as Personal Information as otherwise provided in this Privacy Policy. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child's Personal Information, please email us at privacy@casper.com.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may collect your information in the following ways:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+When You Provide Us With Information to Make a Purchase. We make products we like in hopes you will find something you like, too. If you use our Services to make a purchase, we may request certain Personal Information from you to facilitate the transaction and get you the goods. This may include contact information such as your name, email address, and shipping address, We, or companies that provide services on our behalf, may also collect certain financial information from you, such as your payment method (this may include valid credit card number, type, expiration date or other financial information). We store only a very limited portion of your credit card information, in a manner that is generally permitted by credit card issuers. Our payment processor, that credit card issuers require to have sufficient security, stores and processes your credit card or other payment information using industry-standard security measures. By making a purchase through the Services, you give us consent to use and provide your financial information as we consider necessary to process the transaction.
 
-**Security**
+We do everything possible to make sure you have an amazing shopping experience. If you contact us in person, by phone, email, instant message, live chat, social media, or by some other means (either through our Services or through Third Party Services), we may keep a record of your contact information and correspondence for later reference (to help improve our service!). When we send you emails, we may track whether you open them to figure out how to deliver more delightful and helpful emails and improve our Services.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Our customers are active in many different communities, both offline and online, and we like facilitating that wherever we can. Some parts of our Services can be linked up with other accounts you have, such as your Facebook, Pinterest, Twitter, Instagram, or Google+ account ("Third Party Accounts").
 
-**Updating Your Information**
+If you link to Third Party Accounts from our Services, we may collect some information about your use of the Third Party Account. We will only be able to collect the information if you've authorized the Third Party Service to provide us with that information or if you've made the information public. Additionally, if you mention us through your Third Party Account, we may collect information and content related to your comment that is publicly available. If you wish to limit the information available to us, you should be sure to manage the privacy settings of your Third Party Accounts. One thing we won't ever store is your Third Party Account password.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+If you link your account on the Services with a Third Party Account, we may also collect and store publicly available information about your contacts and friends from the linked Third Party Account. This information may include their photo, name, email address, birthday, interests or other content you can see when you access such profiles on those Third Party Services. We may also collect and store information if you invite other users to the Services by providing us with their Personal Information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Like most websites, our Services may incorporate technology such as "pixel tags", "web beacons", and "cookies" that allow us to track the actions of users of our Services. Pixel tags, web beacons and cookies collect Non-Personal Information.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Pixel tags or web beacons are tracking devices on websites or in e-mails that can monitor the behavior of the user visiting the website or sending the e-mail. 
 
-      iii.      You may call us at: (480) 505-8800
+Cookies are small files that web servers may place on your computer when you visit a website. You may be able to set your web browser to reject cookies entirely or require that it request permission from you before accepting each new cookie. You can also delete cookies from your hard drive once you leave a website. We may also collect information when you are visiting our showroom. Like most retailers, we have in-showroom video that helps us understand customer behavior within our physical spaces. We may also anonymously collect wireless device signature information while you are near or in our showroom to help us better understand our customers. This information will not be linked to you individually.
 
-       iv.      You may fax us at: (480) 505-8844
+We primarily use the information we collect and store to enhance the Services and your experience with Casper Sleep. Except if we sell all or a portion of our business, as described below, we do not rent or sell your Personal Information to anyone, period. If we share your Personal Information, we do so only as described below.
 
-**Sending Emails**
+We may use Personal Information to provide the Services to you. Some ways we may internally use your information include:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * to facilitate the sale and delivery of your purchases
+  * to contact you when necessary
+  * to respond to your comments or questions
+  * to provide you with additional information according to your preferences
+  * to customize and personalize your experience with the Services
+  * to generate anonymous statistics to help us improve the customer experience
+  * to make the Services easier and more convenient for you (such as by prepopulating forms when you have already provided identical information)
+  * to provide recommendations to you
+  * to send you information and marketing materials about services and products available through our Services
+  * to train our team members
+  * for our other internal business purposes
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may share or disclose aggregated Non-Personal Information on our Site, with service providers, and/or with other persons we conduct business with. These service providers and other persons may also share with us aggregated Non-Personal Information that they have independently developed or acquired. Additionally, we may combine aggregate information from the pixel tags, web beacons and cookies we discussed above with similar data we collect from other visitors to help us improve our Services, but that anonymous information cannot be linked back to you.
 
-**Third Party Service Providers**
+If you decide you don't want to receive email or other mail from us, you can select the "opt out" provision in our communications to unsubscribe. Unsubscribing will stop you from receiving most types of communication, but it may not apply to emails about orders or transactions you place through the Services or to respond to your specific request, such as password recovery.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Except as we discuss in this Privacy Policy, we will not share your Personal Information with third parties who wish to market other products and services to you. We never want to cause you any hassles!
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We may work with other businesses from time to time. These affiliated businesses may sell items or provide promotions to you through the Services. We may also provide services or sell products jointly with the affiliated businesses. We will clearly show you when an affiliated business is associated with your transaction, and we will only share Personal Information with them that is related to your transaction.
 
-**Supplementation of Information**
+Generally, we will not disclose your Personal Information to unaffiliated third parties.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We've figured out ways to do a lot of things on our own, but we haven't quite figured out how to all of it. We may provide your Personal Information to our employees, contractors, agents, service providers and designees ("Agents") to enable them to perform certain services for us exclusively, including:
 
-**Contests/Surveys**
+  * order fulfillment
+  * payment processing
+  * website-related services such as web hosting
+  * improvement of website-related services and features
+  * maintenance services
+  * distribution of advertisements and other marketing materials on our behalf
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+We promise, no surprises—unless we tell you differently, our Agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
-**What Happens to my Personal Information if I Opt Out?**
+We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; cooperate with law enforcement; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Casper Sleep, our employees, our users, or others.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Except as we've stated above, we will notify you before we share your Personal Information with any third parties, and you will be able to prevent the sharing of this information.
 
-**Transfer of Data Abroad**
+We take the protection of your information very seriously. We understand the sensitivity of the information you may give us. Therefore, we take many security measures (physical, electronic and procedural) to help keep your Personal Information safe. For example, we limit access to authorized employees and third parties who have agreed to follow confidentiality obligations we give them. Also, we only allow parties to access your Personal Information for permitted business purposes. Unfortunately, even though we use commercially reasonable efforts to protect your Personal Information, we cannot guarantee complete security. Any information that you provide to us is done so entirely at your own risk.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We occasionally review this Privacy Policy to make sure it complies with applicable law and conforms to changes in our business. We may need to update this Privacy Policy, and we reserve the right to do so at any time. If we do revise this Privacy Policy, we will update the "Effective Date" at the top of this page so that you can tell if it has changed since your last visit. Please review this Privacy Policy regularly to ensure that you are aware of its terms. Your use of our Services constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time.
 
-**Changes in Our Practices**
+Through your account settings, you may access, and, in some cases, edit or delete the following information you've provided to us:
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  * name and password
+  * mailing address
+  * billing address
+  * email address
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating your information, please contact us at privacy@casper.com. If you are a California resident, you also get the ability to ask us for a notice identifying the categories of Personal Information we share with our affiliates and/or third parties for marketing purposes and the contact information for such affiliates and/or third parties (under California Civil Code Sections 1798.83-1798.84). If you are a California resident and would like a copy of this notice, please submit a written request to privacy@casper.com.
