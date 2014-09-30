@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrafficbuddy.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517181436id_/http%3A//autotrafficbuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrafficbuddy.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930035413id_/http%3A//autotrafficbuddy.com/privacy) for the most accurate reproduction.*
 
 # 
 
