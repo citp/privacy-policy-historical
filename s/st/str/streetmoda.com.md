@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetmoda.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043816id_/http%3A//www.streetmoda.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetmoda.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930163327id_/http%3A//www.streetmoda.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Street Moda
+# Privacy Policy
 
 **[](http://images.streetmoda.com/images/holiday_calendar.png)**
 
