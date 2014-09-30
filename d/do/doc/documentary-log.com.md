@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentary-log.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430090216id_/http%3A//www.documentary-log.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentary-log.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001014141id_/http%3A//www.documentary-log.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Online For Free | Documentary-Log.com
 
