@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140253id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001003211id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
 # Online Privacy Notice | Fannie Mae
 
@@ -8,6 +8,7 @@ Fannie Mae respects your concerns about privacy and values its relationship with
   * **KnowYourOptions.com**
   * **HomePath.com**
   * **HousingIndustryForum.com**
+  * **TheHomeStory.com**
 
 
 
