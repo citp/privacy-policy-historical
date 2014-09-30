@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyafar.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529022209id_/http%3A//www.skyafar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyafar.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930160958id_/http%3A//www.skyafar.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skyafar Technology Blog
 
