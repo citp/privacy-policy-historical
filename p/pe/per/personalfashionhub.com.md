@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personalfashionhub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230357id_/http%3A//personalfashionhub.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalfashionhub.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930171940id_/http%3A//personalfashionhub.com/disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Personal Fashion Hub
 
 This Privacy Policy governs the manner in which Personal Fashion Hub collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://personalfashionhub.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Personal Fashion Hub.
 
