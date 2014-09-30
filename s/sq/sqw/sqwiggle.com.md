@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqwiggle.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627005449id_/https%3A//www.sqwiggle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqwiggle.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930190136id_/https%3A//www.sqwiggle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sqwiggle
 
