@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welchallyn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115342id_/http%3A//www.welchallyn.com/en/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchallyn.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001064636id_/http%3A//www.welchallyn.com/en/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
