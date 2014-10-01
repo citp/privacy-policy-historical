@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the getsubscribers.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627150953id_/http%3A//www.getsubscribers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsubscribers.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002002059id_/http%3A//www.getsubscribers.com/privacy-policy) for the most accurate reproduction.*
 
 # Opt-in list-builder adds subscribers and leads to your mailing list
 
 ## Privacy Policy
 
-Implix realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes our Privacy Policy. By visiting our website you are accepting and consenting to the practices described in this Privacy Policy.
+GetResponse realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes our Privacy Policy. By visiting our website you are accepting and consenting to the practices described in this Privacy Policy.
 
-Any personal information provided or acquired by Implix is controlled primarily by the Implix Company, 28 Rozewska Street, 81-055 Gdynia, Poland, hereinafter referred to as "Implix".
+Any personal information provided or acquired by GetResponse is controlled primarily by the GetResponse Company, Arkonska 6, A3, 80-387 Gdansk, Poland, hereinafter referred to as "GetResponse".
 
-Implix recognizes the importance of respecting the privacy of those who visit our website and choose to take advantage of the services we offer.
+GetResponse recognizes the importance of respecting the privacy of those who visit our website and choose to take advantage of the services we offer.
 
 We believe it is important for you, our Customer, to know how we treat the information about you which we receive during your visits to our site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information we receive when you visit and browse our website. We encourage you to take the time to read this Privacy Policy as well as those of any other sites you visit, whether through a link on that site or otherwise.
 
-THIS PRIVACY POLICY APPLIES ONLY TO THIS SITE, IMPLIX BEST PRACTICES AND DATA ACQUIRED ONLINE. IT IS A PART OF THE SITE'S TERMS OF USE.
+THIS PRIVACY POLICY APPLIES ONLY TO THIS SITE, GetResponse BEST PRACTICES AND DATA ACQUIRED ONLINE. IT IS A PART OF THE SITE'S TERMS OF USE.
 
-Implix guarantees to use and process your private information within the scope and purpose stated in the Terms of Service.
+GetResponse guarantees to use and process your private information within the scope and purpose stated in the Terms of Service.
 
-Implix uses commercially reasonable precautions to keep all disclosed personal information secure. Information collected through tracking and registration will not be shared or sold to third parties for any purpose without your express consent, except as provided in this Privacy Policy, or in a contract between Implix and individual customers.
+GetResponse uses commercially reasonable precautions to keep all disclosed personal information secure. Information collected through tracking and registration will not be shared or sold to third parties for any purpose without your express consent, except as provided in this Privacy Policy, or in a contract between GetResponse and individual customers.
 
 When you visit our website, we receive may collect two types of information: (1) Site Use Information and Cookies, and (2) personal information you knowingly choose to disclose which is collected on individual bases.
 
@@ -28,7 +28,7 @@ The site use information includes, but is not limited to, the following: the dom
 
 Information we collect may be used to enhance your use of our website, and to provide you with a service that you ordered, arrange the website in the most customer friendly way, communicate special offers and featured items, and/or respond to your questions and suggestions.
 
-Implix only collects personal information that you choose to provide voluntarily registering to our service.
+GetResponse only collects personal information that you choose to provide voluntarily registering to our service.
 
 In the case of an agreement, personal information includes data that identifies you as the specific individual, i.e. your name, email address, phone number, geographical address, and/or company name and address. This information is used to complete the account application process, customer's information request, and/or to verify the validity of the request, and to proceed payment.
 
@@ -42,7 +42,7 @@ When you request information or other services from us, we use your email addres
 
 ## Your Customer's Private Information Policy
 
-Implix recognizes the importance of respecting the privacy of those who decided to entrust their sensitive information with you. We assure to make every effort to safeguard their security. Implix will never use the information about the customers you collect within our services to send any unsolicited messages or information, nor will we share it with or sell it to anyone else for such use.
+GetResponse recognizes the importance of respecting the privacy of those who decided to entrust their sensitive information with you. We assure to make every effort to safeguard their security. GetResponse will never use the information about the customers you collect within our services to send any unsolicited messages or information, nor will we share it with or sell it to anyone else for such use.
 
 ## Cookies
 
