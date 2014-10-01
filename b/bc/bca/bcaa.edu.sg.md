@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcaa.edu.sg privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609181027id_/http%3A//www.bcaa.edu.sg/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcaa.edu.sg privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001165005id_/http%3A//www.bcaa.edu.sg/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
   1. This is BCA Academy website. Thank you for examining our privacy statement. 
 
@@ -14,7 +14,7 @@
 
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 
-  7. If you demur to our Policies or have any questions on your personal data access, you can email to the Building and Construction Authority at [bca_academy@bca.gov.sg](mailto:bca_academy@bca.gov.sg)[](mailto:bca_enquiry@bca.gov.sg). You can also reach us at this email address if you have any queries or feedback regarding the e-services.
+  7. If you demur to our Policies or have any questions on your personal data access, you can email to the Building and Construction Authority at [bca_academy@bca.gov.sg](mailto:bca_academy@bca.gov.sg). You can also reach us at this email address if you have any queries or feedback regarding the e-services.
 
 
 
