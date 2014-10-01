@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611094442id_/http%3A//www.linqia.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001133954id_/http%3A//www.linqia.com/general/privacy) for the most accurate reproduction.*
 
 # Your Audience. Their Stories. - Linqia
 
