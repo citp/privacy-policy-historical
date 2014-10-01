@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recharge.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619051615id_/http%3A//www.recharge.com/en-US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recharge.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001023434id_/http%3A//www.recharge.com/en-NG/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Recharge.com
 
