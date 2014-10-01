@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemarket.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630015637id_/http%3A//www.freelancer.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemarket.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001103049id_/https%3A//www.freemarket.com/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
 
-# Freelancer.com | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
+# Freemarket.com | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
 
 Freelancer has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Freelancer site. 
 
