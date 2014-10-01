@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubrevenue.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625170131id_/http%3A//pubrevenue.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubrevenue.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001121504id_/http%3A//pubrevenue.com/%3Fprivacy) for the most accurate reproduction.*
 
 # Pub Revenue - Innovate to Maximise Profits
 
