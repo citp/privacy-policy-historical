@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131235id_/http%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001085833id_/http%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
 
 # College Central Network - Privacy Policy
 
@@ -24,7 +24,7 @@ If you are a registered user of the CCN Site and your school is a CCN Client Sch
 
 Employers cannot search any personal information whatsoever if you are not attending a CCN Client School. If you have uploaded a résumé or career portfolio to our database and have personally chosen to submit or forward it to an employer when applying for a job, this is the only information that will be accessible to employers.
 
-You may also elect whether or not you wish to receive email notifications from CCN of new job postings that match your job search criteria. If you change your mind and do not wish to receive such mailings after you have registered, you may so update the applicable Résumé and/or Career Portfolio Authorization in your account. You may also unsubscribe by clicking the Unsubscribe link at the bottom of one of these emails or by contacting us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com).
+You may also elect whether or not you wish to receive email notifications from CCN about career advice and new job postings that match your job search criteria. If you change your mind and do not wish to receive such mailings after you have registered, you may update the CCN Email Notices checkbox in the Email Authorization section of your registration form. You may also unsubscribe by clicking the Unsubscribe link at the bottom of one of these emails or by contacting us at [privacy@collegecentral.com](mailto:privacy@collegecentral.com).
 
 CCN will not sell or otherwise make available your personally identifiable information to third parties unrelated to the specific operation of this Site, such as companies seeking to contact you with offers of products or services.
 
