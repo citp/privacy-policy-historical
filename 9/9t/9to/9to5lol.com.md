@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9to5lol.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612060928id_/http%3A//9to5lol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9to5lol.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001193653id_/http%3A//9to5lol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 9 to 5 LOL
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at admin at FunChoke
 
