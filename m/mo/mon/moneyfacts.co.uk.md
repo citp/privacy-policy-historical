@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530122730id_/http%3A//downloads.moneyfacts.co.uk/moneyfacts/pdf/moneyfactsprivacycookiepolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001185742id_/http%3A//downloads.moneyfacts.co.uk/moneyfacts/pdf/moneyfactsprivacycookiepolicy.pdf) for the most accurate reproduction.*
 
 # Moneyfacts.co.uk Privacy and Cookie Policy
 
