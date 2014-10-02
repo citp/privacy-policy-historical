@@ -1,0 +1,977 @@
+<!--The following is the downloaded HTML source of the majestic.com privacy policy that was archived on 2014-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141002064945id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<meta name="viewport" content="initial-scale=1.0">
+	<title>Privacy Policy - Majestic SEO</title>
+	
+	<link rel="icon" type="image/png" href="/static/images/majestic/favicon.png">
+	
+	<link rel="stylesheet" type="text/css" href="/static/css/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-1.10.3.custom.min.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-dialogs.min.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/reset-min.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/base-min.css">
+	
+	<link rel="stylesheet" type="text/css" href="/static/production/css/6404e9b0.majestic.seo.min.cache.css">
+	
+	
+	
+	<!-- css changes for the bigger header and grey bar -->
+	
+
+	
+
+	
+		
+			<link rel="alternate" hreflang="en" href="https://majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="cn" href="https://cn.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="de" href="https://de.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="es" href="https://es.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="fr" href="https://fr.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="it" href="https://it.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="nl" href="https://nl.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="pl" href="https://pl.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="pt" href="https://pt.majestic.com/support/privacy-policy">
+		
+	
+		
+			<link rel="alternate" hreflang="ru" href="https://ru.majestic.com/support/privacy-policy">
+		
+	
+	
+	<script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/static/scripts/jquery/jquery-ui.min-20140205.js"></script>
+	
+	<script type="text/javascript" src="/static/scripts/bootstrap/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/static/scripts/highcharts/highcharts-3.0.4.js"></script>
+	
+	<script type="text/javascript" src="/static/production/js/a42b9d34.majestic.seo.min.cache.js"></script>
+	
+	<!--[if IE]>
+		<script type="text/javascript" src="/static/scripts/excanvas/excanvas.min.js"></script>
+	<![endif]-->
+	
+	<script type="text/javascript">
+		var default_link_action = "";
+		var is_link_action_tab =  false ;
+		var backlinksDownloadText = {};
+			
+		$(document).ready(function()
+		{
+			$(".concertina").concertina();
+			$("a.youtube").YouTubePopup();
+			
+			
+			
+			
+			
+			bindDefaultEvents();
+		});
+		
+		function bindDefaultEvents()
+		{
+			$('.hoverHint, .technicalTerm').majesticPopover(defaultTooltipOptions());
+			$('.actionsIcon').majesticPopover(defaultPopoverActionOptions());
+			$('.ajax-popup-marker').majesticPopover({
+				content: function()
+				{
+					return '<img src="/static/images/icons/loading.gif" />';
+				},
+				defaultPosition: 'right',
+				onClick: false
+			});
+			
+			bindDefaultLinkActions( false );
+			
+			var bucketText = {
+				addHoverText:"Add to your bucket",					// The text that appears when a user hovers over the add button
+				addedHoverText:"Added to your bucket", 				// The text that appears when a user hovers over the added button
+				addedNotificationText:"Added to bucket", 			// The text that appears in the notification when a user adds a item
+				alreadyAddedNotificationText:"Item already in bucket", 	// The text that appears in the notification when a user adds a item already present in the bucket
+				removedNotificationText:"Removed from bucket", 		// The text that appears in the notification when a user removes a item
+				bucketFullNotificationText:"Bucket is full", 		// The text that appears in the notification when a user add a item to a full bucket
+				ajaxErrorNotificationText:"Error adding to bucket"	// The text that appears in the notification when an error occurs
+			};
+
+			$('.addToBucketButton').majBucketButton(bucketText);
+			
+			$('.addToBucketPopoverButton').majBucketButton($.extend({}, bucketText, {
+				addHoverText:"Add to bucket",
+				updateStatusFunction: updatePopoverBucketStatus											// The function to use when updating the notification popover
+			}));
+		}
+	</script>
+
+	
+	
+	
+</head>
+
+<body style="">
+	
+
+	<div id="feedbackForm">
+	<div id="innerFeedbackForm">
+		<div>
+			<div style="float:left; width:429px;">
+				<h3 style="text-align:center;">Feedback</h3>
+			</div>
+			<div style="float:right;">
+				<div id="feedbackCloseButton" onclick="feedbackFormToggle()"></div>
+			</div>
+		</div>
+		<br class="clearfloat">
+		<p style="padding:5px 20px 10px 25px;">
+			Do you have a suggestion that will improve this page? We would love to hear it.
+		</p>
+		<p id="feedbackError" style="display:none; margin-left:20px;">
+			<span id="feedbackErrorMessage" style="font-weight:bold; color:red">Please complete all required fields.</span>
+		</p>
+		<p id="sendEmailError" style="display:none; margin-left:20px;">
+			<span style="font-weight:bold; color:red">There was an error sending your message. Please try again.</span>
+		</p>
+		<p id="feedbackSuccess" style="display:none; margin-left:20px;">
+			<span id="feedbackSuccessMessage" style="font-weight:bold; color:green">Thank you for your feedback.</span>
+		</p>
+		
+		<div style="padding:8px 10px 10px 20px;">
+			<table style="margin-bottom:5px">
+				
+				<tbody><tr>
+					<td class="padded">Name:</td>
+				</tr>
+				<tr>
+					<td><input id="feedbackName" type="text" class="midTextBox" value=""></td>
+				</tr>
+				<tr>
+					<td class="padded">Email Address:</td>
+				</tr>
+				<tr>
+					<td><input id="feedbackEmailAddress" type="text" class="longTextBox" value=""></td>
+				</tr>
+				
+				<tr>
+					<td class="padded">Feedback:</td>
+				</tr>
+				<tr>
+					<td>							
+						<textarea id="feedback" class="marginsEqual" style="width:400px; margin-top:0px; resize:none;" rows="6" onblur="clearIfEmpty(this);"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<input name="submitted" type="hidden" value="1">
+						<div class="contentPanelTools" style="padding-top:3px;">
+							<input type="button" value="Send Feedback" onclick="sendFeedback(false, 'Please enter your query details here...', '/support/privacy-policy')">
+						</div>
+						<div style="margin-top:10px;">
+							No replies are given for feedback. For support, please click <a href="/support/contact-us">here</a>.
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+	</div>
+	<div style="float:right;">
+		<input id="feedbackButton" type="button" onclick="feedbackFormToggle()">
+	</div>
+</div>
+	<script>
+	var topMessage_loadMessageTimeout = null;
+	var topMessage_tryAgain = 2000;
+	
+	function getBannerMessages()
+	{
+		
+	}
+
+	function topMessage_loadMessage()
+	{
+		clearTimeout(topMessage_loadMessageTimeout);
+		
+		$.post('/messages/get-message',
+			{
+				path: '/support/privacy-policy',
+				uxgroup: 'a'
+			},
+			function(response)
+			{
+				response = $.trim(response);
+				if(response.length > 0 && (response.charAt(0) == 1 || response.charAt(0) == 0))
+				{
+					//$("div#topPageMessage .technicalTerm, div#topPageMessage .toolIcon, div#topPageMessage .hoverHint").poshytip('hide');
+						
+					if(response.charAt(0) == 0)
+						return;
+					
+					var wrapper = $('div#topPageMessage #topPageMessageWrapper');
+					wrapper.html(response.substr(1, response.length));
+					wrapper.show();
+						
+					if(response.charAt(0) == 1)
+					{
+						$("div#topPageMessage").slideDown();
+					}
+					
+					if($('#topPageMessageContent a'))
+					{
+						var links = $('#topPageMessageContent a');
+						var href = $('#topPageMessageContent a').attr('href');
+						
+						if(href != undefined && href.indexOf('?') != -1)
+						{
+							links.attr('href', href + '&path=/support/privacy-policy&source=Banner');
+						}
+						else if(href != undefined)
+						{
+							links.attr('href', href + '?path=/support/privacy-policy&source=Banner');
+						}
+					}
+					
+					//$("div#topPageMessage .technicalTerm, div#topPageMessage .toolIcon, div#topPageMessage .hoverHint").poshytip();
+					topMessage_tryAgain = 2000;
+				}
+				else
+				{
+					topMessage_loadMessageTimeout = setTimeout(topMessage_loadMessage, topMessage_tryAgain);
+					topMessage_tryAgain = Math.round(topMessage_tryAgain * 1.5);
+				}
+			}
+		).error(function()
+		{
+			topMessage_loadMessageTimeout = setTimeout(topMessage_loadMessage, topMessage_tryAgain);
+			topMessage_tryAgain = Math.round(topMessage_tryAgain * 1.5);
+		});
+	}
+	
+	function topMessage_slideUp()
+	{
+		var topPageMessage = $("div#topPageMessage");
+		topPageMessage.css('min-height', '0px');
+		topPageMessage.slideUp();
+	}
+	
+	function topMessage_acknowledgeMessage(messageUid)
+	{
+		$.post('/messages/acknowledge-message',
+			{
+				message_uid: messageUid,
+				path: '/support/privacy-policy',
+				source: 'Banner'
+			},
+			function(response)
+			{
+				topMessage_slideUp();
+			}
+		).error(function()
+		{
+			topMessage_slideUp();
+		});
+	}
+	
+	function displayNotification(content, cssClass)
+	{
+		if(!$('#topPageMessage').length)
+			return;
+	
+		if($('#topPageMessage').is(':visible'))
+		{
+			$('#topPageMessage').slideUp(function() 
+			{
+				updateContent(content, cssClass);
+			});
+			
+			return;
+		}
+		
+		updateContent(content, cssClass);
+	}
+	
+	function updateContent(content, cssClass)
+	{
+		$('#topPageMessage').removeClass();
+	
+		if(cssClass !== undefined || cssClass != null)
+			$('#topPageMessage').addClass(cssClass);
+		
+		$('#customMessageContent p').html(content);
+		$('#topPageMessageWrapper').html($('#customMessage').html());
+		$('#customMessageActions img').click(topMessage_slideUp);
+		
+		$('#topPageMessage').slideDown();
+	}
+</script>
+
+<div id="topPageMessage" style="display:none;">
+	<div id="topPageMessageWrapper"></div>
+</div>
+
+<div id="customMessage" style="display:none">
+	<div id="customMessageContent">
+		<p></p>
+	</div>
+	<div id="customMessageActions">
+		<span title="Click to close this notification.">
+			<img src="/static/images/icons/cross-white.png" alt="Close notification">
+		</span>
+	</div>
+</div>
+	<div id="header_bg">
+		<div id="top"></div>
+		<div id="bottom"></div>		
+		<div id="bottomGrey"></div>		
+		<div id="yellow_bar"></div>		
+	</div>
+	<div id="container" style="z-index:1">
+
+		<div id="header"><!-- BEGIN site/header -->
+<!-- put this here so we dont have to make a new css file each time a new lang is added -->
+<style>
+#header ul.horzMenu li#lang.dd-link:hover ul.dd-content {
+    left: -63px;
+}
+
+</style>
+<!--[if lt IE 8]>
+<style type="text/css">
+	 #grey_panel #tools_menu ol { padding-bottom:12px;}
+	 #grey_panel #tools_menu ol li {float:left;width:15%;}
+	 #header ul.horzMenu li.dd-link:hover ul.dd-content{top:16px;z-index:999;}
+</style>
+<![endif]-->
+<script type="text/javascript">
+	var showingLogout = false;
+	
+	$(document).ready(function() {
+
+		
+		// save recent searches.
+		// turned off for Do Not Track
+		var recentSearches = $("#recentSearches");
+		/* Recent Searches */
+		if(typeof(Storage) !== "undefined")
+		{
+			var sh = sessionStorage.getItem("mj12_search_history");
+			var searchHistory = JSON.parse(sh);
+
+			if(sh == null || sh == '["","","","",""]')
+			{
+				$('<li>No searches have been made.</li>').appendTo(recentSearches);
+			}
+			else
+			{
+				if (searchHistory !== null)
+				{
+					for(var i = 0; i < 5; i++)
+					{
+						if(searchHistory[i])
+						{
+							var searchTerm = searchHistory[i][0];
+							var index = searchHistory[i][1];
+							var wildcard = searchHistory[i][2];
+							var tool = searchHistory[i][3];
+							var url = "/reports";
+
+							if (tool)
+							{
+								url += "/search-explorer?q=" + searchTerm;
+							}
+							else
+							{
+								url += "/site-explorer?q=" + searchTerm;
+								if(index == "H")
+								{
+									url += "&IndexDataSource=" + index;
+								}
+								if(wildcard == 1)
+								{
+									url += "&wildcard=1";
+								}
+							}
+
+							if(searchTerm.length > 18)
+							{
+								searchTerm = searchTerm.substring(0,18);
+								searchTerm += "...";
+							}
+							$('<li><a title="' + searchHistory[i][0] + '"href="' + url + '">' + searchTerm + '</a></li>').appendTo(recentSearches);
+						}
+					}
+				}
+				else
+				{
+					$('<li>No searches have been made.</li>').appendTo(recentSearches);
+				}
+			}
+		}
+		
+
+		var arrow = $("#login_arrow_image");
+	
+		<!-- login dropdown -->
+		$(".signin").click(function(e) {          
+			e.preventDefault();
+			$("div#signin_menu").toggle();
+			$(".signin").toggleClass("menu-open");
+			if($(".signin").hasClass("menu-open") && !showingLogout)
+			{
+				arrow.css("background-position", "-80px 0");
+			}else{
+				arrow.css("background-position", "-65px 0").css("padding-right", "0px");
+			}
+		});
+		
+		
+
+		$("div#signin_menu").mouseup(function() {
+			return false
+		});
+		$(document).mouseup(function(e) {
+			if($(e.target).parent("a.signin").length==0) {
+				$(".signin").removeClass("menu-open");
+				if(!showingLogout){
+					arrow.css("background-position", "-65px 0");
+				}
+				$("div#signin_menu").hide();
+			}
+		});	
+		<!-- to close css dropdown menus in ipads -->
+		if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+			$("#container,#containerHome").click(function() {		
+				$('body').focus();
+			});
+		}
+		
+	});	
+	
+	var tagsToReplace = {
+		'&': '&amp;',
+		'<': '&lt;',
+		'>': '&gt;'
+	};	
+	
+	function trigger_logout()
+	{
+		/* Recent Searches */
+		if(typeof(Storage) !== "undefined")
+		{
+			var sh = sessionStorage.getItem("mj12_search_history");
+			var searchHistory = JSON.parse(sh);
+			if(searchHistory != null){
+				for(var i = 0; i < 5; i++)
+				{
+					searchHistory[i] = "";
+				}
+				sessionStorage.setItem("mj12_search_history", JSON.stringify(searchHistory));
+			}
+		}
+		var tag = $("#logout_header_link");
+		tag.text("Logging out...");
+		tag.css("background-image", "url('/static/images/icons/loading.gif')").css("background-repeat", "no-repeat").css("background-position", "100% 60%");
+		setTimeout(function(){
+			document.location = "/account/logout";
+		},200);
+	}
+
+	function replaceTag(tag) {
+		return tagsToReplace[tag] || tag;
+	}
+
+	function escapeTags(str) {
+		return str.replace(/[&<>]/g, replaceTag);
+	}
+</script>
+<div id="majestic_logo">
+	<h1 id="normal">
+		<a id="mj-logo" href="/">Majestic SEO</a>
+	</h1>
+</div>
+
+<div class="jump-to-mobile">
+	<a href="/mobile">
+		<img src="/static/images/icons/jump-to-mobile.png" alt="Jump to Mobile Icon">
+		<span>Mobile<br>Version</span>
+	</a>
+	
+</div>
+
+<div id="menu_list">
+	<ul class="horzMenu">
+	
+		<li><a href="http://blog.majesticseo.com/">Blog</a></li>			
+		<li class="dd-link separator">					
+			<a class="head" aria-haspopup="true" href="JavaScript:;">Tools<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>							  
+			<ul class="dd-content">
+				<li><a href="/support/tools">Overview</a></li>
+				<li><a href="/reports">My Reports</a></li>				
+				<li><a href="/reports/site-explorer?q=example.com&amp;IndexDataSource=F">Site Explorer</a></li>
+				<li><a href="/reports/search-explorer">Search Explorer™</a></li>
+				<li class="dd-sub" aria-haspopup="true">
+					<a href="JavaScript:;" style="cursor: default;">Compare&nbsp;<span class="right-arrow"></span></a>	
+					<ul>
+						<li><a href="/reports/comparator?q1=example.com&amp;IndexDataSource=F">Summary</a></li>
+						<li><a href="/reports/compare-domain-backlink-history?q1=example.com&amp;IndexDataSource=F">Backlink History</a></li>
+						<li><a href="/reports/compare-topics?q1=example.com&amp;IndexDataSource=F">Topics</a></li>
+						<li><a href="/reports/cliquehunter">Clique Hunter</a></li>
+						<li><a href="/stats/majestic-million">Majestic Million</a></li>
+					</ul>
+				</li>	
+				<li class="dd-sub" aria-haspopup="true">
+					<a href="JavaScript:;" style="cursor: default;">Link Map Tools&nbsp;<span class="right-arrow"></span></a>	
+					<ul>
+						<li><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
+						<li><a href="/reports/keyword-checker">Keyword Checker</a></li>
+						<li><a href="/reports/neighbourhood-checker">Neighbourhood Checker</a></li>
+						<li><a href="/reports/link-profile-fight">Link Profile Fight</a></li>
+						<li><a href="/reports/url-submitter">URL Submitter</a></li>
+					</ul>
+				</li>
+				<li><a href="/webmaster-tools">Webmaster Tools</a></li>
+				<li><a href="/majestic-widgets/plugins">Majestic Plugins</a></li>
+				
+				
+					<li class="dd-sub" aria-haspopup="true">
+						<a href="JavaScript:;" style="cursor: default;">Workflows&nbsp;<span class="right-arrow"></span></a>	
+						<ul style="border-bottom-left-radius: 0;">
+							<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
+							<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
+							<li><a href="/support/tools/for-developers">Developers</a></li>
+							<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
+						</ul>
+					</li>
+								
+			</ul>
+		</li>
+
+		<li class="dd-link separator">					
+			<a class="head" aria-haspopup="true" href="JavaScript:;">Support<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>
+			<ul class="dd-content">
+				<li><a href="/support">Overview</a></li>
+				<li><a href="/support/faq">FAQs</a></li>
+				<li><a href="/support/glossary">Glossary</a></li>
+				<li><a href="http://blog.majesticseo.com/how-to-videos/">How To Videos</a></li>
+				<li><a href="/support/forums">Forums</a></li>
+				<li><a href="/support/contact-us">Contact Us</a></li>
+				<li><a href="/support/tools">Tools</a></li>
+				<li><a href="/support/about">About Us</a></li>
+				<li><a href="/support/terms">Terms &amp; Conditions</a></li>
+				<li class="selected"><a href="/support/privacy-policy">Privacy Policy</a></li>
+				<li><a href="http://developer-support.majesticseo.com/api/">API Reference Guide</a></li>	
+				
+			</ul>
+		</li>
+
+		
+		<li class="separator"><a href="/plans-pricing" style="color: #FFCC00">Plans &amp; Pricing</a></li>
+		
+		
+			<li class="separator"><a href="/account/register">Sign Up</a></li>
+
+			<noscript>
+				<li class="separator"><a href="/account/login?redirect=%2Fsupport%2Fprivacy-policy">Login</a></li>
+				<style type="text/css">#header ul.horzMenu li.login{display:none;}</style>
+			</noscript>
+
+			<li class="login separator">
+				<div id="topnav" class="topnav"> 
+					<a id="login_header_dropdown" href="https://majestic.com/account/login" class="signin">Login<img id="login_arrow_image" class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>  
+				</div>
+				<div id="signin_menu">
+					<form method="post" id="signin" action="https://majestic.com/account/login">
+						<input type="hidden" name="redirect" value="/support/privacy-policy"><label for="username">Email Address</label>
+						<input name="EmailAddress" value="" title="Email Address" type="text">
+						<p>
+						<label for="password">Password</label>
+						<input name="Password" value="" title="password" type="password">
+						</p>
+						<p class="remember">
+							<span>
+								<input id="signin_submit" value="Login" size="20" type="submit">
+							</span>
+							<span>
+								<input name="RememberMe" id="RememberMe" value="1" type="checkbox">
+								<label for="RememberMe">Remember me</label>
+							</span>
+						</p>
+						<p class="forgot"><a href="/account/reset-password?EmailAddress=">Forgot your password?</a></p>
+						
+					</form>
+				</div>
+			</li>
+		
+
+		<li id="lang" class="dd-link separator">
+			<a class="head" aria-haspopup="true" href="JavaScript:;"><img class="en" height="17" width="17" src="/static/images/backgrounds/1px.png">&nbsp;<img class="toggle_arrow" style="margin-left: 3px;" height="16" width="16" src="/static/images/backgrounds/1px.png"></a><!-- Keep &nbsp and position absolute, needed because of issues with IE and opera  -->
+			<ul class="dd-content langs">
+
+				
+				<li class="lang en"><a href="https://majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					English
+					
+				</a></li>
+				
+				<li class="lang cn"><a href="https://cn.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					中文
+					
+				</a></li>
+				
+				<li class="lang de"><a href="https://de.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Deutsch
+					
+				</a></li>
+				
+				<li class="lang es"><a href="https://es.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Español
+					
+				</a></li>
+				
+				<li class="lang fr"><a href="https://fr.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Français
+					
+				</a></li>
+				
+				<li class="lang it"><a href="https://it.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Italiano
+					
+				</a></li>
+				
+				<li class="lang nl"><a href="https://nl.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Nederlands
+					
+				</a></li>
+				
+				<li class="lang pl"><a href="https://pl.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Polski
+					
+				</a></li>
+				
+				<li class="lang pt"><a href="https://pt.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Português
+					
+				</a></li>
+				
+				<li class="lang ru"><a href="https://ru.majestic.com/support/privacy-policy"><img height="17" width="17" src="/static/images/backgrounds/1px.png">
+					Pусский
+					
+				</a></li>
+				
+			</ul>
+		</li>
+	</ul>
+
+</div>
+<!-- END site/header -->
+</div>
+
+
+	<ul class="dd_menu">
+		<li><a href="/support">Support</a></li>
+		<li><a href="/support/faq">FAQs</a></li>
+		<li><a href="/support/glossary">Glossary</a></li>
+		<li><a href="/support/contact-us">Contact Us</a></li>
+		<li><a href="/support/tools">Tools</a></li>
+		<li><a href="/support/about">About Us</a></li>
+		<li><a href="/support/terms">Terms &amp; Conditions</a></li>
+		<li class="selected"><a href="/support/privacy-policy">Privacy Policy</a></li>
+		
+	</ul>
+	<div class="clearfloat"></div>
+	
+
+
+<div id="breadcrumb">
+	<ul class="horzMenu">
+		<li><a href="/">Home</a></li><li><a href="/support">Support</a></li><li><a href="/support/privacy-policy">Privacy Policy</a></li>
+		<li>Privacy Policy</li>
+	</ul>
+	
+	<!-- For the images used on top right hand side of menus and some other pages -->	
+		
+</div>
+
+
+
+<!--[if lt IE 7]>
+
+<div style="background:#ffffff;clear:both;height:45px;padding:10px;position:relative;">
+	<a style="display:block;margin:0 auto;width:820px;"href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
+</div>
+
+<![endif]--> 
+
+<br class="clearfloat">
+
+<div id="content_container">
+	<div>
+		
+
+	
+		
+	<div class="warningBox">
+		<b>
+			Please Note: As a company registered in England and Wales, the Terms of Use are in English, and are subject to the jurisdiction of England and Wales.
+		</b>
+	</div>
+	
+	<style>
+		div#privacy_policy_container div.contentPanelWhite ul,ul{padding-left: 14px;}
+		div#privacy_policy_container div.contentPanelWhite ul li,div#privacy_policy_container ul li{padding-left: 10px;padding-bottom: 10px;}
+	</style>
+<div id="privacy_policy_container">
+	
+	<div class="contentPanelWhite brdBottom noTopPad">
+		<h3>Privacy Policy</h3>
+		<p>
+			<b>This policy applies from:</b> 23<super>rd</super> April 2014.<br>
+			The <a href="/support/privacy-policy/privacy-policy-pre-april2014">earlier version of the Privacy Policy</a> is available for your convenience.
+		</p>
+		<p>
+			Should you have any queries regarding this privacy policy please feel free to contact us using our <a href="/support/contact-us">support system</a>.
+		</p>
+	</div>
+
+	<div class="contentPanelWhite">
+
+		<p>
+			Majestic-12 Limited (company registered number 05269210) (<b>We or us</b>), are committed to protecting and respecting your privacy.<br>
+		</p>
+		<p>
+			This policy (together with our <a href="/support/terms#termsofuse">terms of use</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.<br>
+		</p>
+		<p>
+			For the purpose of the Data Protection Act 1998 (the <b>Act</b>), the data controller is Majestic-12 Limited of Birmingham Science Park Aston, Faraday Wharf, Holt Street, Birmingham, United Kingdom, B7 4BB. <br>
+		</p>
+
+		<h3>INFORMATION WE MAY COLLECT FROM YOU</h3>
+
+			<p>
+				We may collect and process the following data about you:
+			</p>
+
+			<ul>
+				<li> Information that you provide by filling in forms on our sites (including majesticseo.com and majestic12.co.uk (and any associated sub-domains)) (<b>our sites</b>). This includes information provided at the time of registering to use our sites, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our sites.</li>
+				<li> If you contact us, we may keep a record of that correspondence.</li>
+				<li> We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. </li>
+				<li> Details of transactions you carry out through our sites and of the fulfilment of your orders. </li>
+				<li> Details of your visits to our sites including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. </li>
+			</ul>
+
+		<h3>IP ADDRESSES</h3>
+
+			<p>
+				We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+			</p>
+
+		<h3>COOKIES</h3>
+
+			<p>
+				Our sites use cookies to distinguish you from other users of our sites. This helps us to provide you with a good experience when you browse our sites and also allows us to improve our sites.
+			</p>
+		 
+			<p>
+				A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
+			</p>
+
+			<p>
+				The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+			</p>
+		 
+			<p>
+				We do not use third party cookies, or attempt to facilitate control of cookies by any third party.
+			</p>
+		 
+			<p>
+				You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.
+			</p>
+
+		<h3>WHERE WE STORE YOUR PERSONAL DATA</h3>
+
+			<p>
+				The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the  fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your  personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+			</p>
+			
+			<p>
+				Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask that you do not share a password with anyone.
+			</p>
+			
+			<p>
+				Unfortunately, the transmission of information via is internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try and prevent unauthorised access.
+			</p>
+
+		<h3>USES MADE OF THE INFORMATION</h3>
+
+			<p>
+				We use information held about you in the following ways:
+			</p>
+
+			<ul>
+				<li> To ensure that content from our sites is presented in the most effective manner for you and for your computer. </li>
+				<li> To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. </li>
+				<li> To carry out our obligations arising from any contracts entered into between you and us.</li>
+				<li> To allow you to participate in interactive features of our service, when you choose to do so.</li>
+				<li> To liaise effectively with third party payment providers in respect of the process of any payment made by you. </li>
+				<li> To notify you about changes to our service.</li>
+			</ul>
+
+			<p>
+				We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+			</p>
+		 
+			<p>
+				If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+			</p>
+		 
+			<p>
+				If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+			</p>
+
+			<p>
+				If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+			</p>
+
+		<h3>DISCLOSURE OF YOUR INFORMATION</h3>
+
+			<p>
+				We use reputable third party technologies to manage elements of our activities including Salesforce and Mailchimp.
+				We may therefore be required to disclose your information to these companies for such purposes.
+				Mailchimp's privacy policy is available at the time of writing at <a href="http://mailchimp.com/legal and Salesforce’s privacy">http://mailchimp.com/legal and Salesforce’s privacy</a>
+				policy is available at the time of writing at <a href="http://www.salesforce.com/company/privacy/">http://www.salesforce.com/company/privacy/</a>
+			</p>
+
+			<p>We may disclose your personal information to third parties:</p>
+
+			<ul>
+				<li> In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+				<li> If Majestic-12 Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+				<li> If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="/support/terms#termsofuse">terms of use</a> or <a href="/support/terms#termsofsupply">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of Majestic-12 Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+			</ul>
+
+		<h3>YOUR RIGHTS</h3>
+
+			<p>
+				You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us in writing at Privacy Policy, Majestic-12 Limited, Birmingham Science Park Aston, Faraday Wharf, Holt Street, Birmingham, United Kingdom, B7 4BB.
+			</p>
+			
+			<p>
+				Our sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+			</p>
+
+		<h3>ACCESS TO INFORMATION</h3>
+
+			<p>
+				The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+			</p>
+
+		<h3>CHANGES TO OUR PRIVACY POLICY</h3>
+
+			<p>
+				Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+			</p>
+
+		<h3>CONTACT</h3>
+
+			<p>
+				Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us in writing at Privacy Policy, Majestic-12 Limited, Birmingham Science Park Aston, Faraday Wharf, Holt Street, Birmingham, United Kingdom, B7 4BB .
+			</p>
+
+	</div>
+</div>
+
+	</div>
+</div>
+
+<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
+
+
+		<div class="push"></div>
+		<!-- end #container -->
+
+	</div>
+	
+	<div id="footer_container">
+		<div id="pad"></div>
+		<div id="footer">
+			
+		<div id="social_links">
+			<a href="https://twitter.com/MajesticSEO" title="Twitter" target="_blank"><img class="twitter" height="30" width="30" alt="Majestic SEO on Twitter" src="/static/images/backgrounds/1px.png"></a>
+			<a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank"><img class="fb" height="30" width="30" alt="Majestic SEO on Facebook" src="/static/images/backgrounds/1px.png"></a>
+			<a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank"><img class="yt" height="30" width="30" alt="Majestic SEO on Youtube" src="/static/images/backgrounds/1px.png"></a>
+			<a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank"><img class="gplus" height="30" width="30" alt="Majestic SEO on Google+" src="/static/images/backgrounds/1px.png"></a>
+			<a href="http://pinterest.com/majesticSEO12/" title="Pinterest" rel="publisher" target="_blank"><img class="pinterest" height="30" width="30" alt="Majestic SEO on Pinterest" src="/static/images/backgrounds/1px.png"></a>
+			<a href="/support/forums" title="Forums"><img class="forums" height="30" width="30" alt="Forums" src="/static/images/backgrounds/1px.png"></a>
+		</div>					
+		<ul class="horzMenu footerlist">
+			<li><a href="http://majesticanalytics.com">Enterprise</a></li>
+			<li class="separator"><a href="/support/about">About</a></li>
+			<li class="separator"><a href="/support/terms">Terms and Conditions</a></li>
+			<li class="separator"><a href="/support/privacy-policy">Privacy Policy</a></li>
+			<li class="separator"><a href="/support/contact-us">Contact Us</a></li>
+		</ul>
+
+
+		</div>
+	</div>
+
+	
+		<!-- Piwik --><!-- CHeese Burger -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  
+
+	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=a/usr=G"]);	
+  
+
+	_paq.push(['setCustomVariable',  1,"Subdomain", "en", "page"]); 
+	_paq.push(['setCustomVariable',  2,"Usr", "G", "page"]);
+	_paq.push(['setCustomVariable',  3,"Domain", "Majestic", "page"]);	
+	_paq.push(['trackPageView']); 
+	_paq.push(['enableLinkTracking']); 
+	_paq.push(['setDomains',"*.majestic.com"]);
+	_paq.push(['setCookieDomain','*.majestic.com']);
+
+	(function() {
+		var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.majestic.com/";
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['setSiteId', 2]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+		g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	})();
+
+</script>
+<noscript><p><img src="//analytics.majestic.com/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+	
+
+	
+
+
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front dialog ui-draggable" tabindex="-1" role="dialog" aria-describedby="warningDialog" aria-labelledby="ui-id-1" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Warning</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="warningDialog" class="ui-dialog-content ui-widget-content" style=""><p id="warningMessage" class="message" style="text-align: center;"></p><p style="text-align: center;"><input type="button" value="OK" id="warningButton" class="button" style="margin: auto;"></p></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front dialog ui-draggable" tabindex="-1" role="dialog" aria-describedby="confirmDialog" aria-labelledby="ui-id-2" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">Confirm Message</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="confirmDialog" class="ui-dialog-content ui-widget-content" style=""><p id="confirmMessage" class="message" style="text-align: center;"></p><div style="text-align: center;"><input type="button" value="OK" id="confirmButton" class="button"><input type="button" value="Cancel" id="cancelButton" class="button"></div></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front" tabindex="-1" role="dialog" aria-describedby="ui-id-3" aria-labelledby="ui-id-4" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-4" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="ui-id-3" class="ui-dialog-content ui-widget-content" style="padding: 0px;"></div></div></body></html>
