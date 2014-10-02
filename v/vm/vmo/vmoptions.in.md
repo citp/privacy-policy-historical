@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmoptions.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060344id_/http%3A//www.vmoptions.in/privacy-p23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmoptions.in privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002044723id_/http%3A//www.vmoptions.in/privacy-p23) for the most accurate reproduction.*
 
 # Privacy - VMO Classifieds, Free Indian Classified Ads, Local India Classifieds
 
@@ -91,5 +91,5 @@ Users who use any of the features on Vmoptions.in agree & accept that they have 
 
 **General**
 
-We may update, upgrade, modify (partially &/or fully) this policy at any time, Send questions about this policy to our [Support Team](https://web.archive.org/web/20140625060344id_/http%3A//advertisement-p40) . [  
+We may update, upgrade, modify (partially &/or fully) this policy at any time, Send questions about this policy to our [Support Team](https://web.archive.org/web/20141002044723id_/http%3A//advertisement-p40) . [  
 ](mailto:info@sntinfotech.com)
