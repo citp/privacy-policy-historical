@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southafrica.co.za privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620040921id_/http%3A//www.southafrica.co.za/web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.co.za privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002064950id_/http%3A//www.southafrica.co.za/web-site-privacy-policy) for the most accurate reproduction.*
 
 # South Africa Online web site privacy policy | South Africa Online
 
