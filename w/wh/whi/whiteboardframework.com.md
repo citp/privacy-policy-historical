@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteboardframework.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093829id_/http%3A//wplifeguard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteboardframework.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002154935id_/http%3A//wplifeguard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wordpress Video Tutorials
 
