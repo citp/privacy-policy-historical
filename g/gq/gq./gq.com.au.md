@@ -1,16 +1,26 @@
-> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419113049id_/http%3A//www.gq.com.au/extra/privacy%2Bpolicy%2C57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002101537id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
 
-# Privacy Policy - GQ
+# Privacy Policy | News Corp Australia
 
-NOTICE: This Privacy Policy will come into effect on 10 March 2014.
+  * 1\. INTRODUCTION
+  * 2\. WHAT INFORMATION DO WE COLLECT?
+  * 3\. HOW DO WE USE YOUR INFORMATION?
+  * 4\. HOW DO WE PROTECT YOUR INFORMATION?
+  * 5\. HOW CAN YOU ACCESS YOUR INFORMATION?
+  * 6\. HOW CAN YOU OPT OUT?
+  * 7\. OTHER IMPORTANT INFORMATION FOR YOU
+  * 8\. HOW YOU CAN CONTACT US
+  * 9\. LIST OF INCLUDED COMPANIES
 
- **1\. INTRODUCTION**
+
+
+**1\. INTRODUCTION**
 
 Each company listed in Section 9 below (“Company” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including home delivery subscription, digital services subscription, advertising services, websites, mobile sites, applications (“apps”), and widgets, competitions and customer surveys (collectively, the “Company Services”). By using Company Services, you agree to the terms and conditions of this Privacy Policy.
 
 This Privacy Policy applies to all persons who interact with us, including those who are advertisers, subscribers to our goods or services and registered and unregistered users of Company Services. This Privacy Policy applies to Company’s collection and use of your personal information (i.e. information about an identified or reasonably identifiable individual, such as full name or name and postal address).
 
-Company is bound by the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (and complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee records exemption in the Act. This Privacy Policy will not address issues around personal information and its collection and use in the course of journalism and for details on this, you should refer to the Australian Press Council Privacy Standards at [http://www.presscouncil.org.au/privacy-principles](http://www.presscouncil.org.au/privacy-principles).
+Company is bound by the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (and complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee records exemption in the Act. This Privacy Policy will not address issues around personal information and its collection and use in the course of journalism and for details on this, you should refer to the Australian Press Council Privacy Standards at <http://www.presscouncil.org.au/privacy-principles>.
 
 **2\. WHAT INFORMATION DO WE COLLECT?**
 
@@ -72,7 +82,7 @@ If you would like to access, review, correct or update your personal information
 
 **6\. HOW CAN YOU OPT OUT?**
 
-You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to [http://www.youronlinechoices.com.au/opt-out](http://www.youronlinechoices.com.au/opt-out).
+You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to <http://www.krux.com/krux_privacy/consumer_choice/>.
 
 If you want to stop receiving promotional materials, you can change your account settings or follow the unsubscribe instructions at the bottom of each email or text message. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
@@ -104,4 +114,37 @@ Any information posted on bulletin boards and/or communicated in chat areas beco
 
 If you have questions about this Privacy Policy, please contact our Privacy Officer at:
 
- **9\. LIST OF INCLUDED COMPANIES**
+Email: | [privacy@news.com.au](mailto:privacy@news.com.au)  
+---|---  
+Mail: | National Privacy Officer, News Limited, 2 Holt Street, Surry Hills, NSW 2010  
+Telephone: | [+61 2 9288 3000](tel:+61292883000)  
+  
+**9\. LIST OF INCLUDED COMPANIES**
+
+  * Advertiser Newspapers Pty Ltd (ACN 007 872 997)
+  * Advertiser News Weekend Publishing Company Pty Ltd (ACN 007 562 950)
+  * Australia Independent Business Media Pty Ltd (ACN 126 233 743)
+  * Business Spectator Pty Ltd (ACN 126 233 725)
+  * Davies Brothers Pty Limited (ACN 009 475 754)
+  * Duvir Holdings Pty Ltd (ACN 068 007 474)
+  * Eureka Report Pty Ltd (ACN 111 063 686)
+  * Gold Coast Publications Pty Ltd (ACN 009 696 511)
+  * Kidspot.com.au Pty Ltd (ACN 111 607 866)
+  * Leader Associated Newspapers Pty Ltd (ACN 004 337 446)
+  * Messenger Press Pty Ltd (ACN 007 563 439)
+  * Nationwide News Pty Ltd (ACN 008 438 828) 
+  * News Digital Media Pty Ltd (ACN 000 529 457)
+  * News Life Media Pty Ltd (ACN 088 923 906)
+  * News Limited (ACN 007 871 178)
+  * Perth Print Pty Ltd (ACN 081 584 223)
+  * Queensland Newspapers Pty Ltd (ACN 009 661 778)
+  * Shespot.com.au Pty Ltd (ACN 138 256 961)
+  * Sunshine Coast Publishing Pty Ltd (ACN 090 524 799)
+  * The Cairns Post Pty Limited (ACN 009 655 752)
+  * The Geelong Advertiser Pty Ltd (ACN 004 090 055) 
+  * The Herald & Weekly Times Pty Limited (ACN 004 113 937)
+  * The North Queensland Newspaper Company Pty Ltd (ACN 009 655 690)
+
+
+
+**Last updated: 26 June 2014**
