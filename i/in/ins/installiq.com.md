@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the installiq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103441id_/http%3A//policy.installiq.com/PrivacyPolicy_Full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installiq.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002141351id_/http%3A//policy.installiq.com/PrivacyPolicy_Full.html) for the most accurate reproduction.*
 
 # InstallX, LLC’s Privacy Policy Statement
 
-**InstallX, LLC’S PRIVACY POLICY STATEMENT  
-LAST UPDATED: May 14, 2014  
-VERSION 4.1**
+**InstallX, LLC’'S PRIVACY POLICY STATEMENT  
+LAST UPDATED: July 24, 2014  
+VERSION 4.2**
 
 InstallX, LLC, and its Subsidiaries are committed to safeguarding your privacy online. This Privacy Policy ("Privacy Policy") discloses how we collect and use information, and the choices that you can make about the way we collect and use your information.
 
@@ -15,7 +15,7 @@ This Privacy Policy applies to any customers who use our Services. Collection, u
 Sites Covered by This Policy: [www.freeze.com](http://www.freeze.com/), [www.screensaver.com](http://www.screensaver.com/), , [www.music-oasis.com](http://www.music-oasis.com/), [www.wallpapers.com](http://www.wallpapers.com/), [www.sonicdownloads.net](http://www.sonicdownloads.net/), [www.facepaintapp.com](http://www.facepaintapp.com/), [www.intunemp3.com](http://www.intunemp3.com/), [www.tweativity.com](http://www.tweativity.com/), [www.video-buzz.com](http://www.video-buzz.com/), [www.favdownloads.com](http://www.favdownloads.com/), [www.clipartcastle.com](http://www.clipartcastle.com/), [www.worldoffreegames.com](http://www.worldoffreegames.com/), [www.eztocreate.com](http://www.eztocreate.com/) and other sites we own that post a link to this Privacy Policy (collectively "Sites"). This Privacy Policy also applies to our desktop software (collectively "Products"). This Privacy Policy may also apply to new Sites and Products we develop.
 
 **_Overview of Our Policy_**  
-We supply free entertainment software including screensavers, and wallpapers for your Desktop on our Sites. (We refer to our software and Products throughout this agreement as our “Services”).
+We supply services and software such as screensavers, computer utilities, music players and wallpapers for your computing device on our Sites. (We refer to our software and Products throughout this agreement as our "Services"). 
 
 We offer our Services to you in exchange for your agreement to receive e-mail, view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software.
 
@@ -30,16 +30,16 @@ Please read this Privacy Policy carefully so that you understand our online priv
 
 We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary this policy will govern. Where there is a conflict between this policy and our supplement, the supplement will govern.
 
-We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites' homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 **_Some Terms We Use in This Policy_**  
-_Offers_ include e-mail, promotions, advertisements contests and third-party software presented by our Partners and us.
+_Offers_ include e-mail, promotions, advertisements, contests and third-party software presented by our Partners and us.
 
 _Personally Identifiable Information (PII)_ is any information that identifies or could be used to identify, contact or locate you. It also includes your credit card number.
 
 _Partner_ is an advertiser, or other entity with whom we have a business relationship to provide Offers.
 
-_Service_ includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software.
+_Service_ but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, calendar software, media player software, and computer utilities.
 
 _Subsidiary_ is an entity wholly owned or related to InstallX, LLC.
 
@@ -52,13 +52,13 @@ _You and Your_ refer to each user and his or her agents.
 **_Personal Information We Collect_**  
 We may collect personal information at various times when you use our Services. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Your participation is voluntary and you have the choice not to disclose any information that we request.
 
-_Installation_. During installation, we will present you with Offers. You may choose not to accept our Offers. Your participation is voluntary, you are not required to disclose to our Partners any information they request. However, if you provide your Personally Identifiable Information in response to any Offer, we will share it with our Partners so they can provide you with the Offers in which you have expressed interest.
+_Installation_. During installation and use of the Services, we will present you with Offers. You may choose not to accept our Offers. Your participation is voluntary, you are not required to disclose to our Partners any information they request. However, if you provide your Personally Identifiable Information in response to any Offer, we will share it with our Partners so they can provide you with the Offers in which you have expressed interest.
 
 _Contacts/IP Information_. If you voluntarily submit information or contact us (e.g. password request, technical support), we may keep a record of this communication. We do not merge this information with your Personally Identifiable Information.
 
 _Third Party Information_. If you use the "E-mail this story" feature to send an article or information to a friend from any of the Sites, the information you provide (Names, and Email) is used to facilitate the communication. We do not otherwise use the information you provide. However, we do store the information you provide in our databases.
 
-_Contact Us_. We collect your name and email address on the Sites’ “Contact us” forms. We use this information for the sole purpose of responding to your inquiry.
+_Contact Us_. We collect your name and email address on the Sites' "Contact us" forms. We use this information for the sole purpose of responding to your inquiry.
 
 _Customer Support_. If you use the customer support section on the Sites we will collect your email address, topic and any additional information you provide us. We use this information for the sole purpose of responding to your inquiry.
 
@@ -67,7 +67,7 @@ _Affiliate Sign Up_. If you choose to sign up as an affiliate we will collect yo
 _Free Games_. We offer free games. Some of our games collect your name as a requisite to setting up a profile. We use this information for the sole purpose of setting up your profile.
 
 **_Aggregate Information We Collect_**  
-When you use our Services, we may collect tracking information such as (but not limited to) your IP address, browser type, browser settings, default program settings, the type of operating system you use, details about your computer hardware, the applications you have installed on your PC, the domain name of your Internet service provider, and pages you visited on our Sites. None of the information identifies you personally and we do not link aggregate information to Personally Identifiable Information.
+When you use our Services, we may collect tracking information such as (but not limited to) your IP address, browser type, browser settings, default program settings, the type of operating system you use, details about your computer hardware, the applications you have installed on your computer, the domain name of your Internet service provider, and pages you visited on our Sites. None of the information identifies you personally and we do not link aggregate information to Personally Identifiable Information.
 
 _Cookies_. A cookie is a small text file sent to your browser. Cookies are stored on your computer's hard drive for record keeping purposes. We and our Partners use session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie will terminate. A persistent cookie remains on your hard drive for an extended period. You can remove persistent cookies by following directions provided in your Internet browser's help file.
 
@@ -83,7 +83,7 @@ We use third-party web beacons from Yahoo! to help analyze where visitors go and
 
 _Global Unique Identifiers_. A GUID (global unique identifier) is a randomly generated alphanumeric identifier used to indicate a unique installation of our Products or Services. We may create a GUID when you install our Products or Services. We use GUIDs to track installations and to enable features and functionality for specific customers who subscribe to our Products and Services. We do not tie the information gathered by GUIDs to our customers' Personally Identifiable Information.
 
-_Software Information_. We employ a technology that allows us to determine the operating systems you are using and to view your computer's registry. Software installed on your computer has unique registry keys. By viewing your registry, we are able to detect whether you have a compatible operating system, compatible versions of DirectX, and Flash Player installed. We use your registry information to determine whether our software offers are compatible with software already present on your PC. We do not tie registry information gathered to our customers' Personally Identifiable Information.
+_Software Information_. We employ a technology that allows us to determine the operating systems you are using and to view your computer's registry. Software installed on your computer has unique registry keys. By viewing your registry, we are able to detect whether you have a compatible computer for the Service and Offers. We use your registry information and other Aggregate information to determine whether our software offers are compatible with software already present on your computer. We do not tie registry information gathered to our customers' Personally Identifiable Information.
 
 _Hardware Information_. Your computer's operating system also stores hardware information that we examine to determine your computer's hardware configuration including the amount of memory and the type of video card your computer has, as well as the speed of your processor. We use the information to determine whether our software offers are compatible with your computer hardware. We do not tie hardware information to our customers' Personally Identifiable Information.
 
@@ -100,13 +100,13 @@ _Blogs & Posts_. On some of our sites you can sign up to receive notifications w
 
 _Testimonials_. We post testimonials on our Sites. Testimonials may contain Personally Identifiable Information. We will obtain your consent via email prior to posting the testimonial or comment.
 
-_Widgets_. We use the “Share and Enjoy” and “Add This” widgets to enable you to share blog posts from our sites or to post links to our sites on third party sites or within emails. If you choose to send an email, or share a blog post from our Sites, no third party personal information is collected.
+_Widgets_. We use the "“Share and Enjoy"” and “"Add This”" widgets to enable you to share blog posts from our sites or to post links to our sites on third party sites or within emails. If you choose to send an email, or share a blog post from our Sites, no third party personal information is collected.
 
 If you use the email a friend feature your friend’s email will be collected for the sole purpose of sending them a onetime email to visit the site. Please note that any personal information you submit within these widgets is not governed by this privacy policy.
 
 _Research_. We study users' demographics and interests using your information. We also use cookies, pixels, software checker information and server log files to better understand and serve you. We compile and analyze this information on an aggregated basis. We also may share this aggregated data periodically with current and potential Partners.
 
-_Third Parties and Advertising_. Third parties advertise on our Sites and Services, and we also contract with third parties to serve ads across the Internet. These third parties may serve ads about our products or Services, or third party products or services in which, based on your information, we or our business partners believe you may be interested. These third parties may seek to use cookies and pixel tags, including those collected on our Site or Service, to track Session Data about the ads you have seen and types of things in which you appear interested. These third parties may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. You can opt-out of the third party advertising program by visiting the Network Advertising Initiative website <http://www.networkadvertising.org/consumer/opt_out.asp>. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
+_Third Parties and Advertising_. We and third parties may advertise on our Sites and Services and we may use information collected to provide you with advertisements that are relevant to you or are compatible with your computer. We also contract with third parties to serve ads across the Internet. These third parties may serve ads about our Products or Services, or third party products or services in which, based on your information, we or our business partners believe you may be interested. These third parties may seek to use cookies and pixel tags, including those collected on our Site or Service, to track Session Data about the ads you have seen and types of things in which you appear interested. These third parties may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. You can opt-out of the third party interest-based advertising program by visiting the [ Network Advertising Initiative Website](http://www.networkadvertising.org/consumer/opt_out.asp.) Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 
 When you click on a third party advertisers' link from our Site or Service, you may enter the third party's site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
 
@@ -136,6 +136,8 @@ _Legal Disclosure_. We may also disclose account information in special cases wh
 _E-Mail Suppression Lists_. We may disclose a user's e-mail address as part of a suppression file or do-not-e-mail list to its partners and affiliates to make sure that a user's unsubscribe requests are forwarded to the appropriate parties to ensure removal of the user from partner and affiliate databases in compliance with law, including without limitation, the Can-Spam Act of 2003.
 
 _Sale, Merger or Asset Transfer_. We may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that we or all of our assets are acquired, customer information, including any information collected through the Sites or the Services would be one of the transferred assets.
+
+From time to time we use third-parties when providing Services to you. We will only share information with third-parties necessary for them to provide the Services you have requested. Third-parties are prohibited from using your Personally Identifiable Information for promotional purposes.
 
 From time to time we use third-parties when providing Services to you. We will only share information with third-parties necessary for them to provide the Services you have requested. Third-parties are prohibited from using your Personally Identifiable Information for promotional purposes.
 
