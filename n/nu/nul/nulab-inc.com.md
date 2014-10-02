@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113636id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002021645id_/http%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Nulab Inc.
+# Privacy Policy - Nulab Inc.
 
 Nulab Inc. conducts computer system development and sales, contributes to the local community while making an effort to develop skilled personnel. In providing our wide-ranging service, and considering the usefulness of personal information, we have established an information protection policy to protect the individual’s rights and interests, and all board members and employees shall carry out this policy in good faith.
 
