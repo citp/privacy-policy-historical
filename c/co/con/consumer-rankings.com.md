@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627033931id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002061551id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Consumer-Rankings
+# Privacy Policy | Consumer-Rankings.com
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.consumer-rankings.com/seal_m "Validate TRUSTe privacy certification")
 
@@ -137,3 +137,5 @@ PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
 LAST UPDATED 09-05-2013
 
 Copyright © Consumer-Rankings.com, 2013 All Rights Reserved.
+
+Back to Top
