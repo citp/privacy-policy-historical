@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the kassad.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070741id_/http%3A//quickfind.kassad.in/_QF/peepee.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kassad.in privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002090407id_/http%3A//quickfind.kassad.in/legal) for the most accurate reproduction.*
 
-# None
+# Legal • League of Legends Quickfind
+
+Quickfind isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
 League of Legends content and materials are trademarks and copyrights of Riot Games Inc., Garena, Tencent QQ or its licensors. This site is not affiliated with or endorsed by Riot Games Inc. We also use cookies to enhance your user experience (for example, remembering your region/server selections) and collect some anonymised data to help enhance the service.
 
-To protect your privacy, we collect only the absolute minimum to provide service. Additionally, we are the only service that provides any form of privacy opt out whatsoever. **What information do we collect?**
+To protect your privacy, we collect only the absolute minimum to provide service. 
+
+**What information do we collect?**
 
 We collect information from you when you register on our site. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site.Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
  **What do we use your information for?**
 
@@ -54,12 +58,9 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 18 July 2013
+This policy was last modified on 18 July 2013.
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-pp --at-- scout.so
-
-This policy is powered by Trust Guard, your PCI compliance authority.
+If there are any questions regarding this privacy policy you may contact us using the information below.   
+support@quickfind.freshdesk.com
