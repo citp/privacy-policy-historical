@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatsports.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175209id_/http%3A//www.chatsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatsports.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002212420id_/http%3A//www.chatsports.com/privacy) for the most accurate reproduction.*
 
 # Chat Sports: Privacy Policy
 
