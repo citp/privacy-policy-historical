@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldcoast.com.au privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618212621id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldcoast.com.au privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002101537id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp Australia
 
@@ -82,7 +82,7 @@ If you would like to access, review, correct or update your personal information
 
 **6\. HOW CAN YOU OPT OUT?**
 
-You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to <http://www.youronlinechoices.com.au/opt-out>.
+You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to <http://www.krux.com/krux_privacy/consumer_choice/>.
 
 If you want to stop receiving promotional materials, you can change your account settings or follow the unsubscribe instructions at the bottom of each email or text message. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
@@ -147,4 +147,4 @@ Telephone: | [+61 2 9288 3000](tel:+61292883000)
 
 
 
-**Last updated: 5 March 2014**
+**Last updated: 26 June 2014**
