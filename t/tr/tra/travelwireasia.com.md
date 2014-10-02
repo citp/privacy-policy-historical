@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503120408id_/http%3A//www.travelwireasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002124538id_/http%3A//www.travelwireasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asia Travel Guides, Reviews, Diary, News | Travel Wire Asia
 
