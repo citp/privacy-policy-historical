@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagepay.co.za privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630191442id_/http%3A//www.sagepay.co.za/sagepay/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagepay.co.za privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002020132id_/https%3A//www.sagepay.co.za/sagepay/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Sage Pay
 
