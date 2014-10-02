@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dating.lt privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228221114id_/http%3A//www.dating.lt/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dating.lt privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002023040id_/http%3A//www.dating.lt/home/privacy_policy.php) for the most accurate reproduction.*
 
 # International dating service
 
