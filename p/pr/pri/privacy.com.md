@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacy.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729210147id_/http%3A//www.privacy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacy.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003005204id_/http%3A//www.privacy.com/privacy.html) for the most accurate reproduction.*
 
 # Brierley+Partners
 
@@ -88,12 +88,12 @@ If you have questions or concerns regarding this Policy, you should first contac
 
 Brierley+Partners  
 Attention: Privacy  
-5800 Tennyson Parkway  
+5465 Legacy Drive  
 Suite 300  
 Plano, TX 75024  
-Phone: 214.760.8700  
-Fax: 214.743.5514 
+214-760-8700  
+fax 214-743-5511 
 
 Email: [privacy@brierley.com](mailto:privacy@brierley.com)
 
-**Last Updated: December 21, 2011**
+**Last Updated: December 21, 2013**
