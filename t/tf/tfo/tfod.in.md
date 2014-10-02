@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfod.in privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428125509id_/http%3A//www.tfod.in/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfod.in privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002020847id_/http%3A//www.tfod.in/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
