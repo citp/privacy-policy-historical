@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gianttiger.ca privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401043426id_/http%3A//community.gianttiger.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gianttiger.ca privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004004801id_/http%3A//community.gianttiger.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Giant Tiger
 
