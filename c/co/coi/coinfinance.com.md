@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coinfinance.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055658id_/http%3A//coinfinance.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinfinance.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003020415id_/http%3A//www.coinfinance.com/privacy_policy) for the most accurate reproduction.*
 
-# CoinFinance.com - Bitcoin and alternative cryptocoins quotes, news & more
+# Bitcoin and alternatives cryptocoins news, prices and others analytics tools.
 
 CoinFinance is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the CoinFinance website. The CoinFinance website is owned and operated by CoinFinance. If you have any questions regarding our privacy statement, please first contact us by e-mail at privacy@coinfinance.com. 
 
