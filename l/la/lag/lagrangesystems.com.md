@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215232440id_/http%3A//www.lagrangesystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003114903id_/http%3A//www.lagrangesystems.com/privacy-policy) for the most accurate reproduction.*
 
-# Lagrange Systems - Privacy Policy
+# Privacy Policy | Lagrange Systems
 
 Lagrange Systems, Inc. ("Lagrange," "Us," or "We") is committed to protecting the privacy of the users of the [http://www.lagrangesystems.com](http://www.lagrangesystems.com/) web site (the "Site") and the services offered through the Site (the "Services"). This privacy policy (the "Policy") discloses our information privacy practices for the Site and Services. This policy is intended to inform registered users and other visitors to the Site of the information collection and use practices of the Site and Services. Your use of the Site and Services is also subject to our current Terms of Service, which are incorporated herein.
 
