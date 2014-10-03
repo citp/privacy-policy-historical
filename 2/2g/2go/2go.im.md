@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 2go.im privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215112914id_/http%3A//www.2go.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2go.im privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003161425id_/http%3A//www.2go.im/privacy) for the most accurate reproduction.*
 
 # 2go - Privacy
 
 ### 2GO PRIVACY NOTICE AND TERMS OF SERVICE
 
-2go Interactive CC ("2go") enables you to chat and share on your mobile phone through downloading and using the software application known as 2go and by offering you the use of this software and all and any 2go services, websites, content, products and/or virtual currency (collectively and individually referred to as the "2go Service" or the "Service").
+2go Interactive (Pty) Ltd ("2go") enables you to chat and share on your mobile phone through downloading and using the software application known as 2go and by offering you the use of this software and all and any 2go services, websites, content, products and/or virtual currency (collectively and individually referred to as the "2go Service" or the "Service").
 
 YOUR PRIVACY IS VERY IMPORTANT TO US AND INFORMATION PROVIDED BY YOU WILL BE STORED IN ACCORDANCE WITH THIS PRIVACY POLICY. BY USING THE 2GO SERVICE YOU ACKNOWLEDGE AND AGREE TO 2GO'S PRIVACY POLICY AND THESE TERMS OF SERVICE. IF YOU DO NOT AGREE TO ANY OF THESE TERMS, PLEASE DO NOT USE THE SERVICE.
 
@@ -68,6 +68,6 @@ In the event that 2go is sold, merged or otherwise liquidated your personal info
 
 Your continued use of the Service constitutes your agreement to this Notice and any future amendments. This Notice may be changed from time to time, which will reflected by the "Date Last Amended" below.
 
-Date Last Amended: This Notice was last amended on 1 November 2012.
+Date Last Amended: This Notice was last amended on 16 September 2014.
 
-**2go Interactive CC**
+**2go Interactive (Pty) Ltd**
