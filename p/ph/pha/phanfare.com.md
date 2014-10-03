@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075113id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003134856id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
 
 # Phanfare - Where photos live.
 
@@ -116,6 +116,6 @@ Your use of Phanfare, and any disputes arising from it, is subject to this Priva
 
 Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at privacy-matters@Phanfare.com. You may also contact us by mail at 84 Nassau Street, Suite 26, Princeton, NJ 08542. 
+If you have any questions about this privacy policy, please contact us at privacy-matters@Phanfare.com. You may also contact us by mail at Carbonite, Inc. 177 Huntington, Ave., Boston, MA 02116. 
 
 Phanfare © 2009 
