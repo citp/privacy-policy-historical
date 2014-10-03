@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516002613id_/http%3A//us.cottonon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003160110id_/http%3A//us.cottonon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cotton On
 
