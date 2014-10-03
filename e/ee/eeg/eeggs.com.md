@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeggs.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314224532id_/http%3A//eeggs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeggs.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003051210id_/http%3A//www.eeggs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
