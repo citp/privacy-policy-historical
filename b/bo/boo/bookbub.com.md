@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153729id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003085223id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BookBub
 
@@ -41,6 +41,8 @@ We may use remarketing to advertise online to users who have accessed our Site. 
 **CHOICE, OPTING-IN AND OPTING-OUT REGARDING OPTIONAL COMMUNICATIONS AND OPTIONAL DISCLOSURES**
 
 We let you control what types of information you receive from us. If you are a Registered User, you can access such email subscription preferences by clicking on the link at the bottom of any of your emails. Once there, you can modify your registration information and other information voluntarily provided by you (your "Registration Profile") that may determine what communication you receive from us.
+
+If you wish to opt out of future communications from the Site, you may also [contact us](https://www.bookbub.com/contact/new).
 
 We do not maintain responsibility for the manner in which third parties use or further disclose Personal Information collected from you through the Site or Services, after we have disclosed that information to those third parties. However, we do require our third-party service providers to promise not to use such information except as necessary to provide the relevant services to us. If you do not want Company to use or disclose Personal Information collected about you in the manners identified in this policy as Necessary Communications and/or Necessary Disclosures, you may not use the Site or any Service. If you are merely a visitor to the Site but are not registered as a Registered User of any Service, please note that Company does not collect any Personal Information unless you voluntarily provide the same, so you do not need to opt-out regarding any such communications or disclosures.
 
