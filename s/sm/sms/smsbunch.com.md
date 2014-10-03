@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the smsbunch.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522201254id_/http%3A//www.smsbunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsbunch.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003072300id_/http%3A//www.smsbunch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Advertisement  
-
 
 **Privacy Policy** for SMSBunch.com
 
@@ -33,9 +30,6 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 **Children’s Privacy**  
 Some Portions of the Web site may be used by children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our web site.
-
-Advertisement  
-
 
 #### People also searches: 
 
