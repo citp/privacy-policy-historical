@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutdevice.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628031433id_/http%3A//www.aboutdevice.com/2013/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutdevice.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003112137id_/http%3A//www.aboutdevice.com/2013/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AboutDevice
 
@@ -32,7 +32,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Disclaimer: We cannot guarantee that all information provided is correct, [Please Contact us for any Error Seen.](http://www.aboutdevice.com/p/contact.html)
 
-[](https://www.pinterest.com/pin/create/button/) [ ](http://www.reddit.com/submit) [](http://del.icio.us/post?URL=&title=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/) [ ](http://www.reddit.com/submit)
 
 Like and Follow AboutDevice
 
