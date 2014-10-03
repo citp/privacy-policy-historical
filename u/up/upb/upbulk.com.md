@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upbulk.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228013410id_/http%3A//www.upbulk.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upbulk.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003064453id_/http%3A//www.upbulk.com/policy.html) for the most accurate reproduction.*
 
 # 
 
