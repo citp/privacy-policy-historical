@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.net privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511110650id_/http%3A//www.radialpoint.com/en-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.net privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003093532id_/http%3A//www.radialpoint.com/en-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Radialpoint
 
@@ -102,7 +102,7 @@ Occasionally we may conduct surveys on our websites. To participate, you may be 
 
 #### Marketing
 
-We may occasionally contact you with specific email, text and other electronic or digital messages at Company’s request. Such communication may include information and advertisements from Company and its partners. We will not share your email addresses or other Personal Information to third parties for marketing purposes other than as set forth herein. It is your right to opt out from all such communications at any time by contacting us at <ahref=”mailto:privacy@radialpoint.com”>privacy@radialpoint.com.
+We may occasionally contact you with specific email, text and other electronic or digital messages at Company’s request. Such communication may include information and advertisements from Company and its partners. We will not share your email addresses or other Personal Information to third parties for marketing purposes other than as set forth herein. It is your right to opt out from all such communications at any time by contacting us at [privacy@radialpoint.com](mailto:privacy@radialpoint.com).
 
 #### 5\. Who may have access to your Personal Information
 
@@ -168,7 +168,6 @@ Where applicable, we will also provide you with instructions on how to opt in to
 This privacy policy has been last updated on March 1, 2013.  
 © 2013 Radialpoint SafeCare Inc. All Rights Reserved.
 
-[Privacy Policy](https://web.archive.org/en-privacy) | [Cookies](https://web.archive.org/en-cookies) | [Terms of use](https://web.archive.org/en-legal)
+[Terms of use](https://web.archive.org/en-terms) | [Privacy Policy](https://web.archive.org/en-privacy) | [Cookies](https://web.archive.org/en-cookies) | [EULA](https://web.archive.org/en-eula)
 
-COPYRIGHT © 2014 Radialpoint SafeCare Inc. All rights reserved.  
-Radialpoint and the Radialpoint logo are trademarks of Radialpoint SafeCare Inc.
+© 2014 Radialpoint SafeCare Inc. All rights reserved. Radialpoint™, PTScx™, Be More to your Customer™, Radialpoint Reveal™, Radialpoint SupportKit™ and their respective logos are trademarks, service marks or registered trademarks of Radialpoint SafeCare Inc.
