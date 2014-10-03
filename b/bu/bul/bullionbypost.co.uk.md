@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullionbypost.co.uk privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603082759id_/http%3A//www.bullionbypost.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullionbypost.co.uk privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003150444id_/http%3A//www.bullionbypost.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - BullionByPost - Gold Bars, Silver Bars and Platinum Bars delivered direct from LBMA approved suppliers
 
