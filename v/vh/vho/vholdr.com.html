@@ -1,308 +1,137 @@
-<!--The following is the downloaded HTML source of the vholdr.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628225221id_/http%3A//contour.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vholdr.com privacy policy that was archived on 2014-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141003094618id_/http%3A//www.vholdr.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy – Motorcycle Extreme</title>
+<meta name="Description" content="Privacy Policy.">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Cabin+Sketch" rel="stylesheet" type="text/css">
+<link href="webfontkit/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="webfontkit-1/stylesheet.css" rel="stylesheet" type="text/css">
+<!---------------------slider------------------------------->
+<script type="text/javascript" src="js/sliderman.1.3.7.js"></script>
 
-    <title>Contour | Privacy Policy</title>
+<!---------------------master------------------------------->
 
-    <link href="/packaged/web_basics.css?1339438491" media="screen" rel="stylesheet" type="text/css">
-    
+<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
 
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script src="js/contact-form/jQuery1.8.3.js"></script> 
+<script src="js/contact-form/jQuery.validation.1.10.0.js"></script>
+ <script type="text/javascript">
+$(document).ready(function() {
+  $.validator.addMethod("nourl", function(value, element) {
+    return !/http\:\/\/|www\.|link\=|url\=/.test(value);
+  }, "No URL's");
 
-    <script src="/packaged/web_basics.js?1339438491" type="text/javascript"></script>
-    
+  $("form").validate({
+    rules: {
+        message: {
+        required: true,
+        minlength: 4,
+        nourl: true
+      },
+      captcha: {
+        required: true,
+        remote: {
+          url: "contact-form/validation-captcha.php",
+          type: "post"
+        }
+      }
+    },
+    messages: {
+		name: "",
+		email: "",
+		comments: "",
+		captcha: ""
+		}
+  });
+});
+</script> 
+</head>
 
-          <script type="text/javascript">
-//<![CDATA[
-window._token = '51C35EjyHIUVur+KvOkHEwk+oFKJgOL1gXxQSYwJZfU=';
-//]]>
-</script>
+<body>
+<!--container strat-->
+<div id="container" class="inner">
+  <div id="wrapper"> 
+    <!--header strat-->
+    <div id="header"> 
+      <!--logo strat-->
+      <div class="logo"><a href="http://www.vholdr.com"><img src="images/logo.png" alt="Adrenalin Motorcycle Sports Logo"></a></div>
+      <!--logo end-->
       
-      <script type="text/javascript">
-//<![CDATA[
-      $(document).ready(function() {
-        Jelly.attach.apply(Jelly, [{"component":"Jelly.Location","arguments":[]},{"component":"Jelly.Page","arguments":["Static","legal"]}]);
-      });
-
-//]]>
-</script>
-
-
-    
-
-    <script src="/javascripts/language.js?v=3"></script>
-
-    <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="51C35EjyHIUVur+KvOkHEwk+oFKJgOL1gXxQSYwJZfU=">
-      <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-410185-4']);
-    _gaq.push(['_setDomainName', '.contour.com']);
-    _gaq.push(['_setAllowHash', false]);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script');
-      ga.type = 'text/javascript';
-      ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-
-    
-
-    
-
-    <script type="text/javascript" src="http://use.typekit.com/rpw3smy.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-  <body>
-    <style type="text/css" media="screen">
-  .header-logo{
-  background: url('/images/navigation/nav_sprite.png') no-repeat -10px -27px;
-    width: 187px;
-    height: 30px;
-    float:  left;
-    margin: 0px 25px 0 5px;
-  }
-
-</style>
-
-<div class="tk-ff-din-web" id="c-nav" style="padding-top:15px">
-  <a href="/" class="header-logo"> </a>
-
-  <ul id="main-nav">
-    <li>
-      <a href="/products">Products</a>
-    </li>
-    <li>
-      <a href="/stories/hand_picked">Community</a>
-    </li>
-    <li>
-      <a href="http://store.contour.com" onclick="_gaq.push(['_trackEvent', 'Buy Now Click','SiteWide','Header']);  pageTracker._link(this.href); return false;">Shop</a>
-    </li>
-  </ul>
-
-  <div id="search">
-      <form accept-charset="UTF-8" action="/search" class="search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-        <input autocomplete="off" class="srch-inactive" data-suggestion="Search Stories..." id="srch" name="q" onblur="this.className='srch-inactive';" onfocus="this.className='srch-active';" type="text" value="">
-</form>  </div>
-
-  <div id="user-actions">
-    <style type="text/css" media="screen">
-      a.dropdown span {
-        background:    url('/images/navigation/nav_sprite.png') no-repeat 43px -66px;
-      }
-      a.dropdown.dropdown-active span {
-        background: url('/images/navigation/nav_sprite.png') no-repeat 43px -98px;
-      }
-      a.dropdown:hover span{background: url('/images/navigation/nav_sprite.png') no-repeat 43px -98px;}
-    </style>
-    <div class="join">
-      <a href="/users/new" class="join">Join</a>
-    </div>
-
-    <span class="sep">|</span>
-
-    <div class="sign-in">
-      <div class="relative">
-        <a href="#" class="dropdown signinlink" id="dd1" rel="join"><span>Sign-In</span></a>
-        <div id="dropdown1" class="dropdown-menu sign-in-dd">
-          <form accept-charset="UTF-8" action="https://contour.com/sessions" class="clearfix" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="51C35EjyHIUVur+KvOkHEwk+oFKJgOL1gXxQSYwJZfU="></div>
-            <label for="user_email">Email Address</label><input id="user_email" name="user[email]" size="30" tabindex="1" type="text">
-
-            <div class="password-label left"><label for="user_password">Password</label></div>
-            <div class="right forgot-password"><a href="/sessions/forgot_password" class="forgot_password">Forgot password?</a></div>
-            <input autocomplete="off" id="user_password" name="user[password]" size="30" tabindex="2" type="password">
-
-            <div class="center">
-              <input id="user_submit" name="commit" tabindex="3" type="submit" value="SIGN IN ›">
-            </div>
-
-            <input id="user_context" name="user[context]" type="hidden" value="static">
-            <input id="user_contest_id" name="user[contest_id]" type="hidden">
-</form>
-          <div class="facebook_login">
-            <a href="https://graph.facebook.com/oauth/authorize?client_id=175657395815797&amp;redirect_uri=https%3A%2F%2Fcontour.com%2Ffacebook%2Ftoken_callback%3Fcontext%3Dlogin&amp;scope=email,user_location,publish_stream&amp;display=page"><img alt="Facebook_login" src="/images/facebook_login.png?1339438490"></a>
-          </div>
-        </div>
+      <div class="menu">
+        <ul>
+          <li><a href="index.htm" class="">Home</a></li>
+          <li class="f"><a href="contact.htm" class="">Contact Us</a></li>
+          <li class="p"><a href="privacy.htm" class="active">Privacy Policy</a></li>
+        </ul>
+        <h1><a href="#"><img src="images/facebook.png" alt="facebook"></a> <a href="#"><img src="images/twitter.png" alt="twitter"></a> <a href="#"><img src="images/google-plus.png" alt="google-plus"></a></h1>
       </div>
     </div>
-  </div>
-</div>
-
-<div style="clear:both;">&nbsp;</div>
-
-
-    <div class="site_container body-content clearfix">
-      
-
-
-      <div class="generic_body clearfix">
-  <div class="legal container_12">
-    <h1>CONTOUR PRIVACY POLICY</h1>
-
-    <p>Effective August 25, 2010
-
-	</p><p>Contour, Inc. (<em>"Contour"</em>, <em>"we"</em> or <em>"our"</em>) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the Contour service (<em>"Contour"</em>), which is, among other things, an online community to share videos made with Contour wearable video cameras, accessible at www.contour.com (the <em>"Site"</em>).  This Privacy Policy also applies to information we collect from users who download our Story Teller App. software (the <em>"Software"</em>) for use with Contour products, available at <a href="/software/storyteller">/software/storyteller</a>.  This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site.  You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Contour Terms of Service, accessible at <a href="/legal/tos">/legal/tos</a>.
-	</p><p>As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.  
-
-	</p><h2>Information Collection and Use</h2>
-
-	<p>Our primary goals in collecting information are to provide and improve our Site, services, including Contour, features and content, to administer your membership (together, the <em>"Service"</em>) and to enable users to enjoy and easily navigate the Site.  
-
-	</p><h3>Personally Identifiable Information.</h3>
-
-	<ul>
-		<li>When you register with us through the Site or upon downloading the Software, we will ask you for personally identifiable information.  This refers to information about you that can be used to contact or identify you (<em>"Personal Information"</em>).  Personal Information includes, but is not limited to, your name and email address.  We use your Personal Information mainly to provide the Service and administer your inquiries.</li>
-		<li>We may also collect the other information that you provide as part of registration and the administration and personalization of your profile (e.g., without limitation, city, website, interests, Contour camera serial number and individual preferences) (<em>"Non-Identifying Information"</em>).</li>
-		<li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service and administer your inquiries.</li>
-		<li>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified.  But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences).  We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Contour Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used.  We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a service to you according to your preferences or restrictions.</li>
-		<li>We also use your Personal Information to contact you with Contour newsletters, marketing or promotional materials and other information that may be of interest to you.  If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "Settings" information. (See <b>"Changing or Deleting Information,"</b> below.)</li>
-	</ul>
-
-	<p><u>Promotions</u>.  From time to time we may provide you the opportunity to participate in surveys, contests or sweepstakes (collectively, <em>"Promotions"</em>) through the Site. If you participate, we will request certain Personal Information from you.  Participation in these Promotions is completely voluntary and you therefore have a choice whether or not to disclose this information. We use this information to administer your participation in each Promotion. 
-
-	</p><p><u>Log Data</u>.  When you visit the Site, whether as a registered member or a non-registered user just browsing (any of these, a <em>"Contour User"</em>), our servers automatically record information that your browser sends whenever you visit a website (<em>"Log Data"</em>).  This Log Data may include information such as your computer’s browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics.  We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  We also use this information to verify that visitors to the Site meet the criteria required to process their requests.  
-
-	</p><h2>Cookies</h2>
-
-	<p>Like many websites, we use "cookies" to collect information.  A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  We use cookies for two purposes.  First, we utilize persistent cookies to save your username and password for future logins to the Site.  Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser.  Third party advertisers on the Site may also place or read cookies on your browser.  You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.  
-
-	</p><h2>Messaging Via a Contour Account</h2>
-
-	<p>As part of the Service, Contour members may communicate with other Contour members through use of their accounts.  Contour members may send a message to other members by selecting the "Send Msg" icon in a Contour member profile. 
-
-	</p><h2>Phishing</h2>
-	<p>Identity theft and the practice currently known as "phishing" are of great concern to Contour.  Safeguarding information to help protect you from identity theft is a top priority.  We do not and will not, at any time, request your username, password or credit card or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.  For more information about phishing, visit the Federal Trade Commission’s website.
-
-	</p><h2>Information Sharing and Disclosure</h2>
-	<p><u>Contour members.</u>  When you register through the Site and submit your Personal Information to create a profile webpage, Contour members will see your username.  You can choose what other Personal Information you provide as part of your profile (<em>"Other Subscriber Information"</em>). Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with Contour Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you. Please note that you have no expectation of privacy vis-à-vis any User Content you provide and make available via the Site and Service.
-	</p><p><u>Aggregate Information and Non-Identifying Information.</u>  We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information. 
-	</p><p><u>Service Providers.</u>  We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used.  These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
-Distribution of User Content.  We may provide your User Content (defined in the Contour Terms of Service) that you submit to us to third parties for distribution on third party distribution channels selected by us.  In such instances, although we will not provide your Personal Information to the third parties separately along with your User Content, if there is any information about you in the User Content (including, but not limited to, you being identifiable in a video you upload to the Site) that could be Personal Information that will be provided to the third party and may be virally distributed via the third party distribution channels. 
-	</p><p><u>Compliance with Laws and Law Enforcement.</u>  Contour cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Contour or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. 
-	</p><p><u>Business Transfers.</u>  Contour may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.  
-
-	</p><h2>Changing or Deleting Your Information</h2>
-
-	<p>All members may review, update, correct or delete the Personal Information in their profile by contacting us or by updating the "Settings" and "Profile" areas of the Site.  If you completely delete all such information, then your account may become deactivated.  If you would like us to delete your record in our system, please contact us at <a href="mailto:contour.com">info@contour.com</a> with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request.  We may retain an archived copy of your records as required by law or for legitimate business purposes.
-
-	</p><h2>Security</h2>
-
-	<p>We will make any legally required disclosures of any  breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
-
-	</p><h2>International Transfer</h2>
-
-	<p>Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Contour transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-	</p><h2>Links to Other Sites</h2>
-
-	<p>Our Site may contain links to other websites.  If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website.  The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit.  
-
-	</p><h2>Our Policy Toward Children</h2>
-
-	<p>This Site is not directed to individuals under 18.  We do not knowingly collect personally identifiable information from individuals under 18.   If a parent or guardian becomes aware that his or her minor child under 18 has provided us with Personal Information without their consent, he or she should contact us at <a href="mailto:info@contour.com">info@contour.com</a>.  If we become aware that a person under 18 has provided us with Personal Information, we will delete such information from our files.  
-
-	</p><h2>Contacting Us </h2>
-
-	<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:info@contour.com">info@contour.com</a> or at: Contour, Inc. 3131 Western Ave. Suite 410 Seattle, WA 98122.
-  </p></div>
-</div>
-
+    <div id="content">
+      <!-- start navigation -->
+    <div class="nav_menu">
+        <h2>Navigation Menu</h2>
+        <ul>
+          <li><a href="sports.htm">Adrenalin Motorcycle Sports</a></li>
+          <li><a href="stunts.htm">Motorcycle Stunts</a></li>
+          <li><a href="motorcycles.htm">Adrenalin Motorcycles</a></li>
+          <li><a href="racing.htm">Motorcycle Racing</a></li>
+          <li><a href="shows.htm">Adrenaline Motorcycle Shows</a></li>
+          <li><a href="quad-bikes.htm">Extreme Quad Biking</a></li>
+          <li><a href="cameras.htm">Motorcycle Sports Cameras</a></li>
+          <li><a href="safety.htm">Motorcycle Safety Wear</a></li>
+        </ul>
+      </div>      <!-- end navigation -->
+      <div class="content-right">
+        <h1>Privacy</h1>
+        
+        <p>This privacy policy sets out how the Motorcycle Extreme website uses and protects any personal information that you submit when you contact us.</p>
+        
+        <p>We are committed to ensuring that your privacy is protected. When you contact us we ask you to provide certain information. You can be assured that this information will only be used in accordance with this privacy statement.</p>
+        
+        <p>This policy is effective from February, 2014.</p>
+        
+        <h2>What we collect</h2>
+        
+        <p>We may collect the following personal information:</p>
+        
+        <p>•	contact information including your name and email address</p>
+        
+        <h2>What we do with the information we collect</h2>
+        
+        <p>Possible uses of the information include:</p>
+        
+        <p>•	Internal record keeping.</p>
+        
+        <p>•	We may use the information to improve our services.</p>
+        
+        <p>•	We may use the information to customise the website according to your interests.</p>
+        
+        <h2>Security</h2>
+        
+        <p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+        
+        <h2>Links to other websites</h2>
+        
+        <p>The Motorcycle Extreme website contains links to other websites. We do not have any control over the websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+        
+        <p>If you have any questions regarding this privacy policy please <a href="http://www.vholdr.com/contact.htm">contact us</a></p>
+        
+      </div>
     </div>
-
-    <div class="footer site_container clearfix">
-  <div class="vertical-margin horizontal-margin">
-    <div class="clearfix">
-      <ul class="footer-navigation">
-        <li><h4>Learn More</h4></li>
-        <li><a href="/company/our_story">Our Story</a></li>
-        <li><a href="/reviews">Reviews</a></li>
-        <li><a href="/camera/media">Media</a></li>
-        <li><a href="/retailers">Find a Retailer</a></li>
-				<li><a href="http://sj.tbe.taleo.net/SJ11/ats/careers/jobSearch.jsp?org=CONTOUR&amp;cws=1">Jobs</a></li>
-      </ul>
-
-      <ul class="footer-navigation">
-        <li><h4>Partners</h4></li>
-        <li><a href="/partners">Brands</a></li>
-        <li><a href="http://retailers.contour.com">Retailer Portal</a></li>
-        <li><a href="http://distributors.contour.com">Distributor Portal</a></li>
-        <li><a href="/affiliates">Affiliates</a></li>
-      </ul>
-
-      <ul class="footer-navigation social-links">
-        <li><h4>Follow Us</h4></li>
-        <li><a href="http://www.facebook.com/contour" target="_blank">Facebook</a></li>
-        <li><a href="http://twitter.com/contour_cam" target="_blank">Twitter</a></li>
-        <li><a href="http://www.youtube.com/user/ContourCamera" target="_blank">YouTube</a></li>
-        <li><a href="/blogs">Blog</a></li>
-      </ul>
-
-      <ul class="footer-navigation">
-        <li><h4>Need Help?</h4></li>
-        <li><a href="http://help.contour.com">Support</a></li>
-        <li><a href="/software/storyteller">Downloads</a></li>
-        <li><a href="/contact">Contact Us</a></li>
-      </ul>
-    </div>
-
-    <p>
-      <small>
-        © 2012 Contour Inc. All Rights Reserved &nbsp;&nbsp;
-        <a href="/legal/tos">Terms of Service</a> &nbsp;&nbsp;
-        <a href="/legal/guidelines">Community Guidelines</a> &nbsp;&nbsp;
-        <a href="/legal/privacy">Privacy Policy</a> &nbsp;&nbsp;
-        <a href="/legal/copyright">Copyright Policy</a>
-      </small>
-    </p>
+    <div class="clear"></div>
   </div>
+ <!-- start footer -->
+     <div id="footer">
+    <div class="mid-fot">
+      <p><a href="http://www.vholdr.com">Motorcycle Extreme - Adrenalin Motorcycle Sports</a> Site and contents are © Motorcycle Extreme - All Rights Reserved 2013 - 2014</p>
+      <p class="l"> <a href="index.htm">Home</a><span>|</span><a href="contact.htm">Contact Us</a><span>|</span><a href="privacy.htm">Privacy Policy</a></p>
+    </div>
+  </div>
+<!-- end footer -->
 </div>
 
 
-    <script type="text/javascript">
-      if (!Contour.saveOptimizerCookie) {
-        Cookies.erase('optimizer');
-      }
-    </script>
-
-    <div class="trackers">
-  <script type="text/javascript">
-  adroll_adv_id = "UKOSA76AJZEHBPJO254GCU";
-  adroll_pix_id = "HHFKF22NQVECVJBH6NHW3U";
-  (function () {
-  var oldonload = window.onload;
-  window.onload = function(){
-     __adroll_loaded=true;
-     var scr = document.createElement("script");
-     var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-     scr.setAttribute('async', 'true');
-     scr.type = "text/javascript";
-     scr.src = host + "/j/roundtrip.js";
-     document.documentElement.firstChild.appendChild(scr);
-     if(oldonload){oldonload()}};
-  }());
-  </script>
-</div>
-
-  <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","f94b045ddc",84650,"cwpbRhRWWwlcFh1BR1ERXFFJVVICWAg=",0.0,272,new Date().getTime(),"","","","",""])</script>
-
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
+</body></html>
