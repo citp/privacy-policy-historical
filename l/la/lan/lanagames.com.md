@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanagames.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613002905id_/http%3A//www.lanagames.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanagames.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003145914id_/http%3A//www.lanagames.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
 
