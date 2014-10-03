@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health2con.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526091447id_/http%3A//www.health2con.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health2con.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003024815id_/http%3A//www.health2con.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Health 2.0
 
@@ -28,7 +28,7 @@ The Children’s Online Privacy Protection Act (COPPA) severely restricts what i
 
 ## 7\. Health 2.0’s Use of Your Information
 
-We may use your Contact Data to send you information about Health 2.0 or our products or Services, to contact you when necessary and in conjunction with your use of certain Interactive Tools. We may use your Demographic Data and/or your Traffic Data to customize and tailor your experience on the Website, in emails and in other communications, displaying content that we think you might be interested in and according to your preferences. In addition we collect information about companies and individuals who apply to speak at our conferences or complete information about themselves such as in our “startup application” forms for our industry database. We also collect information directly from companies for this industry database. This information in combination with research from our own resources will be used by health 2.0 for a variety of purposes and may be shared with the public and our clients.
+We may use your Contact Data to send you information about Health 2.0 or our products or Services, to contact you when necessary and in conjunction with your use of certain Interactive Tools. We may use your Demographic Data and/or your Traffic Data to customize and tailor your experience on the Website, in emails and in other communications, displaying content that we think you might be interested in and according to your preferences. In addition we collect information about companies and individuals who apply to speak at our conferences or complete information about themselves such as in our “startup application” forms (and other related forms) for our industry database. We also collect information directly from companies for this industry database. This information in combination with research from our own resources will be used by health 2.0 for a variety of purposes and may be shared with the public and our clients.
 
 ## 8\. Sharing of Information
 
