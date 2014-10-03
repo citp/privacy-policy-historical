@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001032539id_/http%3A//www.superior.k12.wi.us/privacy.phtml%3Fsessionid%3D423baafa75822c74fc286a82804208d1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003115111id_/http%3A//www.superior.k12.wi.us/privacy.phtml%3Fsessionid%3D48aa177fdcaaab05b8468dc76fb25e85) for the most accurate reproduction.*
 
 # Superior School District
 
