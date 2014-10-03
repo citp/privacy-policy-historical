@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202155815id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003095644id_/http%3A//www.credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
-**This privacy policy was most recently updated on May 30, 2013.**   
-It governs Credit.com’s collection, use and disclosure of non-public personal information (“NPPI”), defined below, received from our current and former customers or collected by us concerning our current and former customers. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
+  * [Home](https://web.archive.org/) >
+  * Privacy Policy
+
+
+
+**This privacy policy was most recently updated on September 24, 2014.**   
+This privacy policy applies to the website located at www.credit.com, which is owned and operated by Credit.com Inc. ("Credit.com"). It governs Credit.com's collection, use and disclosure of non-public personal information ("NPPI"), defined below, received from our current and former customers or collected by us concerning our current and former customers. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective. 
 
 We take the privacy and security of your NPPI seriously and believe it is important that you understand: 
 
@@ -15,17 +20,23 @@ We take the privacy and security of your NPPI seriously and believe it is import
 
 
 
-[](http://www.truste.org/ivalidate.php?url=www.credit.com&sealid=111) Credit.com is dedicated to protecting the privacy of our customers. Credit.com’s privacy policy and information practices have been independently certified for compliance by the TRUSTe® Privacy Program. Credit.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.credit.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[ ](https://privacy.truste.com/privacy-seal/Credit-com-Inc-/validation?rid=7f21c678-0f12-4491-828e-ce5dd6cc903b "TRUSTe online privacy certification")
+
+Credit.com is dedicated to protecting the privacy of our customers. 
+
+Credit.com Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.credit.com.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 ### What information we collect and how we collect it.
 
-We collect the following categories of NPPI: (i) information you provide such as your contact information; (ii) information about your transactions with us or our affiliates; (iii) information about your transactions with non-affiliated third-parties to whom your information is disclosed by us to fulfill a transaction you request, such as obtaining a personal loan or credit card; and (iv) information obtained from any consumer reporting agency, such as your credit history. 
+We collect the following categories of NPPI: (i) information you provide such as your contact information; (ii) information about your transactions with us or our affiliates; (iii) information about your transactions with non-affiliated third-parties to whom your information is disclosed by us to fulfill a transaction you request, such as obtaining a personal loan or credit card; and (iv) information obtained from any consumer reporting agency, such as your credit history.
 
 ### Traffic data
 
-We automatically track and collect traffic data. Traffic data is information that does not identify you personally but may include your IP address, ISP and other similar types of information that help us administer our site, and improve our service offerings. We use cookies and web-beacons to track traffic data and customer transactions for accounting purposes. 
+We automatically track and collect traffic data. Traffic data is information that does not identify you personally but may include your IP address, ISP and other similar types of information that help us administer our site, and improve our service offerings. We use cookies and web-beacons to track traffic data and customer transactions for accounting purposes.
 
-No NPPI information that identifies a customer or former customer is revealed in the collection and use of traffic data. Consequently, we do not adjust or alter our website’s automatic tracking and data collection in response to a Do Not Track signal or request. We believe we can offer customers a more personalized experience when visiting our website when we are able to retrieve data from a customer’s previous activity on our website. We do share anonymous traffic and transactional information with our affiliates and service providers on an aggregate basis for marketing, accounting and site-optimization purposes. 
+No NPPI information that identifies a customer or former customer is revealed in the collection and use of traffic data. Consequently, we do not adjust or alter our website's automatic tracking and data collection in response to a Do Not Track signal or request. We believe we can offer customers a more personalized experience when visiting our website when we are able to retrieve data from a customer's previous activity on our website. We do share anonymous traffic and transactional information with our affiliates and service providers on an aggregate basis for marketing, accounting and site-optimization purposes. 
 
 ### Non-public personal information
 
@@ -57,9 +68,9 @@ Credit.com may disclose the NPPI we collect about you, described above, to our a
 
 > (i) To financial institutions such as banks, finance companies and other lenders and creditors in order to fulfill or respond to your request for credit or otherwise contact you with information about their products or services. When a financial institution contacts you, its use of your information is subject to its privacy policy and not ours; and 
 > 
-> (ii) To affiliates and service providers who perform professional services for us, such as demographic analysis for marketing purposes and accounting or to assist us with marketing, advertising, product/service offerings and customer service fulfillment. For example, we may provide your contact information to our service providers for direct emailing of our newsletters or to provide you with notifications of our product/service offerings via email, phone or text message. 
+> (ii) To affiliates and service providers who perform professional services for us, such as demographic analysis for marketing purposes and accounting or to assist us with marketing, advertising, product/service offerings and customer service fulfillment. These companies are authorized to use your NPPI only as necessary to provide these services to us. For example, we may provide your contact information to our service providers for direct emailing of our newsletters or to provide you with notifications of our product/service offerings via email, phone or text message. 
 
-Selected NPPI, such as your Social Security number, driver’s license number, bank account or routing number, and debit or credit card numbers, expiration dates and security codes are immediately encrypted. 
+Selected NPPI, such as your Social Security number, driver's license number, bank account or routing number, and debit or credit card numbers, expiration dates and security codes are immediately encrypted. 
 
 Credit.com does not sell, rent or otherwise disclose your NPPI to third-parties except as explained in this privacy policy and as permitted by law. 
 
@@ -74,9 +85,9 @@ We use your e-mail address to:
 
 
 
-Credit.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from Credit.com please report it to us at privacy@credit.com. We are not responsible for communications you may receive from non-affiliated third-parties. 
+Credit.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from Credit.com please report it to us at [privacy@credit.com](mailto:privacy@credit.com). We are not responsible for communications you may receive from non-affiliated third-parties. 
 
-We will never ask you to provide NPPI in an e-mail. **DO NOT RESPOND** to an e-mail that appears to be from us requesting NPPI. Contact us immediately at privacy@credit.com. 
+We will never ask you to provide NPPI in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting NPPI. Contact us immediately at [privacy@credit.com](mailto:privacy@credit.com). 
 
 We do not store e-mail addresses from correspondence sent to us. If you contact us by e-mail we will respond by email. Credit.com will not use or store your email address in our database from such correspondence. 
 
@@ -95,7 +106,7 @@ When you unsubscribe, you will receive an e-mail confirming your decision to opt
 
 ### Your access to identifying non-public personal information
 
-If you want to change or delete your identifying NPPI, including your e-mail address, or if you no longer are interested in a service found on this website, you may correct, update, delete or deactivate your identifying NPPI by contacting the non-affiliated third party that processed your request. Information entered on the Credit.com website will be automatically updated each time you apply for a new or different service. 
+If you want to change or delete your identifying NPPI, including your e-mail address, or if you no longer are interested in a service found on this website, you may correct, update, delete or deactivate your identifying NPPI by contacting the non-affiliated third party that processed your request. Information entered on the Credit.com website will be automatically updated each time you apply for a new or different service. In addition, we will deactivate your account when you send such a request to [privacy@credit.com](mailto:privacy@credit.com). Please note that deactivation of your account will not necessarily result in the deletion of your NPPI. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, and otherwise in accordance with our standard archival practices. 
 
 ### Credit.com reserves the right to disclose your NPPI, including your e-mail address without your consent:
 
@@ -106,6 +117,10 @@ If you want to change or delete your identifying NPPI, including your e-mail add
   5. To our affiliated business partners for accounting purposes.
 
 
+
+### Business Transitions
+
+If Credit.com is involved in a merger, acquisition, or sale of all or a portion of its assets, your NPPI or other information may be part of the transferred assets.
 
 ### Important note regarding non-U.S. users and U.S. law
 
@@ -119,11 +134,21 @@ We do not knowingly solicit information from children or send them requests for 
 
 This privacy policy applies only to the website http://www.credit.com and the users of the site. It does not apply to any other web site whether it is a site that you may link to, or a site that may link to this site. Credit.com is not responsible for the privacy practices on any other site or of any other entity or person. We encourage you to learn about the privacy policies of any site you visit and the companies that operate them. 
 
+### Blog
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@credit.com](mailto:privacy@credit.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+You also have an option to post comments on our blog page through a third party platform. These platforms managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
+
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Privacy policies and non-affiliated third-parties
 
-We do not permit third parties to collect NPPI on our website, but our website does include links to third-party websites, services and products, and when you link to a third-party website, the third-party website’s privacy policy applies. In addition, you authorize us to provide your NPPI to non-affiliated third parties when you request a financial product or service offered by a third party. 
+We do not permit third parties to collect NPPI on our website, but our website does include links to third-party websites, services and products, and when you link to a third-party website, the third-party website's privacy policy applies. In addition, you authorize us to provide your NPPI to non-affiliated third parties when you request a financial product or service offered by a third party. 
 
-Because this privacy policy applies only to the Credit.com website it may be different than that of the non-affiliated third-parties to whom your NPPI is disclosed to process the financial product or service you request or authorize. Credit.com urges you to review the privacy policies of every website you visit where you are required to disclose your NPPI to obtain a product or service. 
+Because this privacy policy applies only to the Credit.com website it may be different than that of the non-affiliated third-parties to whom your NPPI is disclosed to process the financial product or service you request or authorize. Credit.com urges you to review the privacy policies of every website you visit where you are required to disclose your NPPI to obtain a product or service.
 
 ### Your use of this web site
 
@@ -135,17 +160,17 @@ We urge you to take adequate precautions to protect your identifying NPPI, both 
 
 ### Contact us
 
-If you have questions or concerns regarding this policy, contact customer service by e-mail at [privacy@credit.com](mailto:privacy@credit.com), or by mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this policy, contact customer service by e-mail at [privacy@credit.com](mailto:privacy@credit.com), or by mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 > Credit.Com, Inc.  
->  201 Mission Street Ste. 1550  
+>  160 Spear Street, Suite 1020  
 >  San Francisco, California 94105 
 
 ### Security
 
 Credit.com is a VeriSign® secured website and uses a VeriSign® SSL Certificate for encryption. Customer data is securely transmitted by Credit.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPPI submitted through the Credit.com website such as your Social Security number, drivers license number, bank account or routing number, and debt or credit card numbers, expiration dates are encrypted. 
 
-Credit.com also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties. 
+Credit.com also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@credit.com](mailto:privacy@credit.com). 
 
 ### Terms Used in This Statement
 
@@ -156,7 +181,7 @@ Credit.com also maintains and enforces strict internal policies to protect NPPI 
 
 Credit.com uses cookies, or small text files maintained by your web browser, to enhance your interaction with the website. Some cookies are stored on your hard drive. You may reject or refuse cookies and still visit our web site. However if you reject cookies you may not be able to access all of the services on our web site. 
 
-Some of the companies that offer products or services via our web sites, and some of the companies that send visitors to our web site pass cookies to your computer. Please be aware that we have no control over cookies passed to you from other companies’ sites. 
+Some of the companies that offer products or services via our web sites, and some of the companies that send visitors to our web site pass cookies to your computer. Please be aware that we have no control over cookies passed to you from other companies' sites. 
 
 If you request information or purchase a product or service, you will be requested to enter NPPI on our web site. Selected NPPI is linked to the cookie stored on your computer so it will be easier for you to complete a transaction on your next visit to our web site. If you complete another transaction, you may have to re-enter selected NPPI which is not linked to cookies stored on your computer. 
 
@@ -192,3 +217,7 @@ A web beacons is a tracking marker that is placed within a web page or in an e-m
     * A previously set cookie value
 
 
+
+#### Behavioral Targeting
+
+We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
