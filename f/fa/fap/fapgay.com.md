@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fapgay.com privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225062832id_/http%3A//fapgay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapgay.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003223529id_/http%3A//fapgay.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy of fapgay
 
