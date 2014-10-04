@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the communityseo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209092106id_/https%3A//communityseo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityseo.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004102310id_/https%3A//communityseo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+#### CommunitySEO is not currently accepting new submissions or orders. Thanks for your interest, please check back later.
+
+  
+
 
 ### What information do we collect?
 
