@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331174403id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004094935id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Download Free Games - Download Free Games
 
+* * *
+
 **Download Free Games (DFG) Privacy Policy**  
-Updated November 3, 2009
+Updated June 3, 2014
 
 DFG's Privacy Policy has been modeled after privacy expert eTrust (www.etrust.org) guidelines and on recommendations made public by the United States Federal Trade Commission (FTC - <http://www.ftc.gov/privacy/>) and the Children's Online Privacy Protection Act (COPPA - <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>).
 
@@ -11,14 +13,14 @@ Download Free Games can be contacted via mail at:
 
 Alpha Internet Consulting LLC  
 ATTN: Download Free Games  
-1212 N. Washington St. Suite 303  
-Spokane, WA 99201
+3009 S. Mt. Vernon, Box 3  
+Spokane, WA 99223
 
 Questions about this privacy policy should be sent to [privacy@download-free-games.com](mailto:privacy@download-free-games.com)
 
-**INFORMATION COLLECTION & USE**
+ **INFORMATION COLLECTION & USE**
 
-**Personally Identifiable Information**
+ **Personally Identifiable Information**
 
 "Personally Identifiable Information" is information that we can use to identify you as an individual. Personally identifiable information includes your name, address, telephone number and any other information that is connected with you personally.
 
@@ -34,11 +36,11 @@ In the case DFG merged or was acquired by another company, all applicable inform
 
 To opt out of any information we have collected about you, please email us at [privacy@download-free-games.com](mailto:privacy@download-free-games.com)
 
-**Registration**
+ **Registration**
 
 DFG does not require registration to use any part of our site.
 
-**Email**
+ **Email**
 
 In order to receive email correspondence from us in the form of newsletters or game alerts or similar programs, we require a valid email address that is confirmed through double opt in. Double opt-in protects your email address from abuse and is described in the following steps:
 
@@ -52,7 +54,7 @@ In order to receive email correspondence from us in the form of newsletters or g
 
 Alpha Internet Consulting LLC (parent company of Download Free Games) is the sole owner of the information collected via email signup on our site.
 
-**Orders**
+ **Orders**
 
 If you purchase a product or service from us, our third party order processors request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
 
@@ -61,7 +63,6 @@ Our third party order processors use this information for billing purposes and t
 DFG partners with several third party order processors & content providers to bring our users the best selection possible. All orders are done securely through our third party processors. Here are links to their privacy policies:
 
   * BMT Micro - <https://vendors.bmtmicro.net/newdevelopers/privacystatement.html>
-  * Trymedia Systems - <https://fe.trymedia.com/magnus/privacy_en_mn.html>
   * RegNow - <http://www.regnow.com/privacy.html>
   * Plimus - <http://www.plimus.com/privacy.shtml>
   * Jagex - <http://www.jagex.com/corporate/privacy.ws>
@@ -71,17 +72,17 @@ DFG partners with several third party order processors & content providers to br
 
 DFG does not store any credit card information itself.
 
-**Game Reviews**
+ **Game Reviews**
 
 We allow users to voluntarily submit reviews of games on our site. If you participate, we will request certain personally identifiable information from you. Participation in these reviews is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and demographic information (such as city, state, country).
 
 We use this information to notify you if you have won a free game for submitting a review. We also post your name and where you live on our reviews if you have chosen to give us this information. We only use this information to promote the legitimacy of our reviews and not for any other purposes!
 
-**Site Visitors**
+ **Site Visitors**
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name and IP address, but not the e-mail address (where possible). Email addresses are collected if visitors double opt-in to our Game Club services. Email addresses are then only used by Download Free Games and not sold, rented, given, or shown to any other company for any use whatsoever. Our use of double opt-in email addresses is to notify visitors of new games added to the site, send tips, or any information related to Download Free Games' products.
 
-**Cookies**
+ **Cookies**
 
 A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser.
 
@@ -89,11 +90,10 @@ Cookies are used on many download links to track referrals from this site. All f
 
 To opt out of BT Buckets geo targeting system, [click here](http://btbuckets.com/site/optout)
 
-**Ad Servers**
+ **Ad Servers**
 
-With respect to Ad Servers: We are currently partnering with Google Adsense and Tribal Fusion to deliver ads.
+With respect to Ad Servers: We are currently partnering with Google Adsense to deliver ads.
 
-Tribal Fusion Privacy Policy Information - <http://www.tribalfusion.com/TribalFusion/privacy.html>  
 Google Adsense Privacy Policy Information - <http://www.google.com/privacy.html>
 
 **Privacy Standards**
@@ -104,4 +104,4 @@ Download Free Games has partnered with eTrust to provide a professionally certif
 
 Any changes made to this privacy policy will appear publicly on our site at
 
-[http://www.download-free-games.com/privacy.htm/](https://web.archive.org/privacy.htm)
+http://www.download-free-games.com/privacy
