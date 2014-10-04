@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opportunity-2014x.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104459id_/http%3A//opportunity-2014x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunity-2014x.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004194419id_/http%3A//opportunity-2014x.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Opportunity 2014
+# Privacy Policy | Opportunity 2014 by Bonofa
 
 This privacy policy sets out how Opportunity 2014x uses and protects any information that you give  Opportunity 2014x when you use this website.
 
