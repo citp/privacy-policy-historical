@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxelet.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604135243id_/http%3A//www.boxelet.com/index.php/component/content/article%3Fid%3D182) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxelet.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004183212id_/http%3A//boxelet.com/index.php/component/content/article%3Fid%3D182) for the most accurate reproduction.*
 
 # BoXELeT - BoXELeT
 
