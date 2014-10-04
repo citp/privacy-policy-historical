@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiawebdirectory.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209014453id_/http%3A//indiawebdirectory.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiawebdirectory.net privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004072645id_/http%3A//indiawebdirectory.net/privacy_policy.html) for the most accurate reproduction.*
 
 # India Web Directory
 
