@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the smartertrack.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514213347id_/http%3A//www.smartertrack.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertrack.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004055828id_/https%3A//www.smartertrack.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy, SmarterTrack.com
 
   * [Website](https://web.archive.org/)
-  * [Portal](http://portal.smartertrack.com/)
+  * [My Account](https://account.smartertools.com/)
+  * [Support Portal](http://portal.smartertools.com/)
   * 
 [ ](https://web.archive.org/)
 
   * [Why SmarterTrack?](https://web.archive.org/helpdesk-software.aspx)
-  * [Support](https://web.archive.org/customer-service-support.aspx)
   * [Pricing](https://web.archive.org/pricing.aspx)
   * [Company](https://web.archive.org/about.aspx)
   * [Get Started](https://web.archive.org/sign-up.aspx)
@@ -41,7 +41,7 @@ Upon request, we may provide site visitors with access to all information (inclu
 
 We may collect information about your interaction with SmarterTools sites and services. For example, we may use website analytics tools on our site to retrieve information, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height, etc. We may also use cookies to collect information about the pages you view, the links you click and other actions you take on our site. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses.
 
-SmarterTools also collects and retains information you submit to us, including the email address of individuals that post messages to our community forums or communicate with us via email. It is up to you whether to submit information to us and how much information to provide. If you choose to become a SmarterTools customer or partner, we may ask for other personally identifiable information, and/or information used to monitor performance and protect our intellectual property rights. This additional collected information is defined in the software End User License Agreement (EULA), Partner Agreement, Terms of Service Agreement, or other related documentation.
+SmarterTools also collects and retains information you submit to us, including the email address of individuals that post messages to our Community or communicate with us via email. It is up to you whether to submit information to us and how much information to provide. If you choose to become a SmarterTools customer or partner, we may ask for other personally identifiable information, and/or information used to monitor performance and protect our intellectual property rights. This additional collected information is defined in the software End User License Agreement (EULA), Partner Agreement, Terms of Service Agreement, or other related documentation.
 
 If individuals submit resumes or employment applications online, we may ask for specific contact information, such as name, address, phone number, email address, and employment history. This information is collected and used to assess the individual’s qualifications for an open position within the company.
 
