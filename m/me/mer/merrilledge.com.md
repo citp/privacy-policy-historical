@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604104210id_/http%3A//www.ml.com/index.asp%3Fid%3D7695_69068) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005011449id_/http%3A//www.ml.com/index.asp%3Fid%3D7695_69068) for the most accurate reproduction.*
 
 # Merrill Lynch Privacy & Security
 
 U.S. Online Privacy Notice
 
-_(Last Updated  April 11, 2014)_  
+_(Last Updated  July 24, 2014)_  
  
 
 This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface ( _i.e._ , website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites).  The term “Bank of America” or “we” or “us” or “our” in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you and explains how information may be collected and used for advertising purposes.  
@@ -24,7 +24,7 @@ Personal Information means personally identifiable information such as informati
 We may use Personal Information:
 
   * to respond to your inquiries and fulfill your requests;
-  * to inform you about important information regarding the Site, products or services for which you apply or in which you are enrolled, changes to terms, conditions, and policies and/or other administrative information; 
+  * to inform you about important information regarding the Site, products or services for which you apply or may be interested in applying for, or in which you are already enrolled, changes to terms, conditions, and policies and/or other administrative information; 
   * to deliver marketing communications that we believe may be of interest to you, including, ads or offers tailored to you;
   * to personalize your experience on the Site;
   * to allow you to apply for products or services (e.g., to prequalify for a mortgage, apply for a credit card, or to open a retirement account, investment account or other financial product) and evaluate your eligibility for such products or services;
@@ -49,13 +49,11 @@ Other Information is any information other than Personal Information that does n
 We and our third-party service providers may collect and use Other Information in a variety of ways, including:
 
   * **Through your browser or device** :  Certain information is collected by most browsers and/or through your device, such as your Media Access Control (MAC) address, device type, screen resolution, operating system version and internet browser type and version. We use this information to ensure Sites function properly, for fraud detection and prevention, and security purposes.
-  * **Using cookies** :  Cookies are pieces of information stored directly on the device you are using.  Cookies we use do not contain or capture unencrypted Personal Information.  Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and your relationship with us.  We use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize/tailor your experience while engaging with us, and to recognize your device to allow your use of our online products and services.  We collect statistical information about the usage of the Site in order to continually improve the design and functionality, to monitor responses to our advertisements and content, to understand how account holders and visitors use the Site and to assist us with resolving questions regarding the Site.  We also utilize cookies for advertising purposes. Please see the **Advertising** section below for more information.
-
+  * **Using cookies** :  Cookies are pieces of information stored directly on the device you are using.  Cookies we use do not contain or capture unencrypted Personal Information.  Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences, and your relationship with us.  We use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize/tailor your experience while engaging with us, and to recognize your device to allow your use of our online products and services.  We collect statistical information about the usage of the Site in order to continually improve the design and functionality, to monitor responses to our advertisements and content, to understand how account holders and visitors use the Site and to assist us with resolving questions regarding the Site.  We also utilize cookies for advertising purposes. Please see the **Advertising** section below for more information.  
 You can refuse to accept these cookies and most devices and browsers offer their own privacy settings for cookies.  You will need to manage your cookie settings for each device and browser you use. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site and some online products and services.  For example, we will not be able to recognize your device and you will need to answer a challenge question each time you log on.  You also may not receive tailored advertising or other offers from us that may be relevant to your interests and needs.
-
-  * **Other technologies including pixel tags, web beacons, and clear GIFs** :  These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, for fraud detection and prevention, for security purposes, for advertising and to assist us in resolving account holders’ questions regarding use of our Site. Please see the Advertising section below for more information regarding our use of other technologies.
+  * **Other technologies including pixel tags, web beacons, and clear GIFs** :  These may be used in connection with some Site pages, downloadable mobile applications and HTML-formatted email messages to measure the effectiveness of our communications, the success of our marketing campaigns, to compile statistics about usage and response rates, to personalize/tailor your experience while engaging with us online and offline, for fraud detection and prevention, for security purposes, for advertising and to assist us in resolving account holders’ questions regarding use of our Site. Please see the Advertising section below for more information regarding our use of other technologies.
   * **Flash objects** : As part of our solutions for online authentication, we use Flash objects (sometimes referred to as “Local Shared Objects”) to help us recognize you and your device when you come back to the Site. For our pages running Adobe® Flash® content (demos and tutorials with moving content), we use Flash objects to determine your browser type and version of Adobe Flash in order for you to view the content.  We do not use Flash objects for any online behavioral advertising purpose.  Deleting cookies does not delete Flash objects. You can learn more about Flash objects – including how to control and disable them – through the [Adobe](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) interface. If you choose to disable Flash objects from our Site, then you may not be able to access and use all or part of the Site or benefit from the information and services offered.
-  * I **P Address:**   Your IP Address is a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP).  An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the internet and is done automatically by many web sites.  We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, advertising, for compliance and security purposes and administering the Site. Please see the Advertising section below for more information.
+  * I **P Address:**   Your IP Address is a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP).  An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the internet and is done automatically by many web sites.  We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, to personalize/tailor your experience while engaging with us online and offline, for compliance and security purposes, for advertising, and administering the Site. Please see the Advertising section below for more information.
   * **Aggregated and De-identified Data:**  Aggregated and De-identified Data is data that we may create or compile from various sources, including but not limited to accounts and transactions.  This information, which does not identify individual account holders, may be used for our business purposes, which may include offering products or services, research, marketing or analyzing market trends, and other purposes consistent with applicable laws.
 
 
@@ -71,7 +69,7 @@ Bank of America uses information described in this Notice to help advertise our 
   * Present tailored ads, to you including: 
     * Banner ads and splash ads that appear as you sign on or off of your online accounts on our Sites, within mobile banking and other mobility applications
     * E-mail, postal mail and telemarketing, and
-  * On other sites and mobile apps not affiliated with Bank of America;
+    * On other sites and mobile apps not affiliated with Bank of America;
   * Analyze the effectiveness of our ads; and
   * Determine whether you might be interested in new products or services
 
@@ -82,10 +80,8 @@ Bank of America uses information described in this Notice to help advertise our 
 > **Relationship based advertising**  
 >  In order to help make our advertising informative and useful, we may use information about your relationship with us(such as types of accounts, transactional information or the state in which you bank) to help determine which advertisements or offers to present to you.
 > 
-> **Online Behavioral Advertising   ~~ ~~**  
->  We or our advertising service providers may use certain information about your activities on our Sites, such as pages visited and search keywords entered to help determine which of our advertisements or offers may be of interest to you. We limit access and collection of information for specific purposes by advertising service providers. We may use this online information for online and offline advertising. 
-
-We may use this online information for online and offline advertising.
+> **Online Behavioral Advertising  **  
+>  We or our advertising service providers may use certain information about your activities on our Sites, such as pages visited and search keywords entered to help determine which of our advertisements or offers may be of interest to you. We limit access and collection of information for specific purposes by advertising service providers. We may use this online information for online and offline advertising.
 
 **Advertising on third party sites and mobile apps**  
 Bank of America contracts with advertising companies to advertise our products and services on sites and mobile apps not affiliated with us.  We may use Aggregated and De-identified Data and information provided by you to these third party sites and mobile apps to select which of our advertisements or offers may appeal to you, display them to you and monitor your responses.  Third Party sites and mobile apps are not subject to Bank of America Privacy Notices. Please visit the individual sites and mobile apps for additional information on their data and privacy practices and opt-out policies.
@@ -100,7 +96,9 @@ You may set your choices for advertising in the following ways:
 > 
 > Opting out also means that the online content and advertising you receive on our non-servicing sites ( _i.e._ before sign-in) will be untailored and will not be based on your online behavior or your relationship. 
 > 
-> Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America. When accessing online account servicing areas ( _i.e._ after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships. See **Important Reminder** section below.
+> Please note that if you opt out of this advertising, you may still receive untailored advertising from Bank of America. When accessing online account servicing areas ( _i.e._ after sign-in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships. In addition, financial advisors/Client Managers may continue to use information collected online as described in this Notice to provide details on products and services in accordance with account agreements.
+> 
+> See **Important Reminder** section below.
 > 
 > **Bank managed Direct Marketing:** If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing you may manage your direct marketing [choices online](https://secure.bankofamerica.com/customer/public/privacy.go) or:
 > 
