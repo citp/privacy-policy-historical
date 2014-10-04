@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buscarenlaweb.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506155328id_/http%3A//buscarenlaweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buscarenlaweb.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004050357id_/http%3A//buscarenlaweb.com/privacy) for the most accurate reproduction.*
 
 # Arbitrary - buscarenlaweb.com
 
