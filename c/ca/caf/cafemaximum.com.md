@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafemaximum.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820071851id_/http%3A//www.cafemaximum.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafemaximum.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004055700id_/http%3A//cafemaximum.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
