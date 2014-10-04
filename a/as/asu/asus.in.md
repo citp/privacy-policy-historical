@@ -1,97 +1,141 @@
-> *The following text is extracted and transformed from the asus.in privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018130641id_/http%3A//in.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D325) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asus.in privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005015831id_/http%3A//www.acer.co.in/ac/en/IN/content/privacy) for the most accurate reproduction.*
 
-# ASUS
+# Acer | Privacy
 
-ASUSTeK COMPUTER INC. and its affiliated companies ("WE" or "ASUS") are committed to protecting and respecting YOUR privacy. WE conduct OUR business in compliance with applicable laws on data privacy protection and data security. The following policy outlines what data WE may collect, how WE use and safeguard that data and with whom WE may share it. Customers who submit data to ASUS ("YOU") accept this Privacy Policy. 
+**Our Commitment to You...**
 
-#### Information That WE Collect and How WE Use It 
+Acer Inc., of 8/F, No. 88, Sec. 1, Xin Tai 5th Road, Xizhi, New Taipei City 221, Taiwan, R.O.C. and its group of companies around the world (including but not limited to its affiliated brands Gateway, eMachines and Packard Bell, a list of which can be found at [www.acer-group.com/officelist.html](http://www.acer-group.com/officelist.html)) (collectively, “Acer”, “our” or “we”) respect the privacy of our customers and online visitors. This Privacy Policy is to inform you of our online information practices, our practices concerning the collection, storage, processing, transfer and use of personal information, and the choices available regarding the collection and use of your personal information.
 
-WE do not generally collect personal information when YOU visit OUR web site unless YOU log on, place an order, request support service or register with us. It is completely optional for YOU to engage in these activities. If YOU elect to engage in these activities, ASUS may ask YOU to provide US with YOUR personal information. For example: 
+You can access the Acer service (the “Service”) through our website, applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access our Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic devices. This Privacy Policy governs your access of our Service, regardless of how you access it, and by using our Service you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy.
 
-  * WE ask YOU for YOUR first and last name, mailing/shipping address (including zip code), e-mail address, telephone and facsimile numbers, and other personally identifiable information. 
-  * When YOU register a product for support, WE request details about the product YOU bought, e.g. place and date of purchase, model and serial number of the product. 
-  * WE may ask YOU to complete surveys that WE use for OUR customer satisfaction analysis. 
-  * In order to customize OUR support services to YOUR personal needs WE may ask YOU to provide US with information such as languages YOU speak or YOUR proficiency with computer technology. However such information is not compulsory. 
-  * If YOU contact US via telephone, WE may keep a record of that correspondence, unless YOU indicate at any time during the call that YOU do not want US to keep such record. 
-  * When YOU submit feedback or questions via e-mail, or contact US for information about OUR web site, WE will request YOUR name and e-mail address. WE use this information solely in order to respond to YOUR inquiries.
+  
 
 
+**What We Collect and How We Collect It:**
 
-ASUS collects and uses YOUR personal information solely for the purpose of recording and supporting YOUR participation in the activities YOU select or additional purposes that are directly related thereto. For example: 
+We collect various kinds of information to help us better serve our customers and visitors to our website:
 
-  * If YOU place an order with US, WE use YOUR personal information to fulfill OUR obligations to YOU under any sale and purchase contract including the processing of any payment and shipment of YOUR product to YOU. 
-  * If YOU order a product that is to be electronically downloaded, YOUR information may be used to register YOUR license and rights to technical support, upgrade, discounts or other benefits that may be made available to registered users. 
-  * If YOU provide US with a customer satisfaction feedback, such information may be used to improve OUR products and services. 
-  * If YOU choose to regularly receive information about OUR products, services and other special offers, the information provided by YOU will be used to send such information to YOU. YOU may unsubscribe at any time. Subscription to this service is optional and free. 
-  * If YOU enter a contest, information is collected to qualify the entry and to contact YOU regarding the contest or prize awards.
+  * Internet Protocol (IP) Addresses. For each visitor accessing or using our Service or browsing our website, our web server automatically recognizes and stores the visitor's IP address (the internet protocol address of the visitor's computer) to determine which areas of our website are being visited and how long each visitor spends there. This information helps us understand visitors' traffic patterns through our Service and website so that we can enhance the overall usability of our website. Your computer provides this information automatically each time you log on, unless you have activated blocking technology available in some browsers.
+  * Device Information. We may collect device-specific information, such as your hardware model, operating system version and unique device identifiers. We may also collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+  * Cookies. Like many websites today, we may employ a standard technology called cookies to collect information about how you use our website in order to provide you with a better experience by measuring which areas of our website are of the greatest interest to you or to remember you when you return to visit us. We have no desire or intention to infringe on your privacy while you visit our website. Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You can choose to set your browser to notify you when you receive a cookie, giving you the choice of rejecting or accepting the cookie. Cookies may also be used by third party ad-serving companies when they place ads on our website, and these cookies help control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
+  * Personal Information. While we do not generally require that you provide us with individually identifiable information in order to visit, access or use our website, at times we may ask you to provide us with personal information that is associated with individually identifiable information, such as your e-mail address, name, mailing address, telephone number, credit card number, demographic information, or persistent identifier (such as user name and password). Providing us with this information allows you to make purchases, register products, receive support, correspond with us, participate in online surveys, subscribe to mailing lists or newsletters, or register for special purchase discounts. We do not require you to provide sensitive personal information (such as information about your health, political or religious beliefs, criminal offences alleged or committed, or sexual orientation), and request that you do not provide us with such information. Any such information you do provide voluntarily to us will be used only in accordance with this Privacy Policy. 
+
+  
+
+
+**What We Do with Personal Information:**
+
+The personal information you provide may be used to support your customer relationship with Acer. We want to use this data to tailor your experience at our website and with us generally. We do not collect or use the personal information which you submit for any unrelated purposes, other than when obligated or permitted by local laws to do so without informing you in advance.
+
+Unless you instruct us otherwise (as described below), we will send you information about our various product upgrades, special offers and other new products and services from Acer that we feel may be of interest to you. Only Acer (or agents working on behalf of Acer) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. You may also opt-out of receiving future mailings at any time by contacting Acer; see the opt-out section below.
+
+We may also use your information to comply with laws or to defend ourselves in claims under such laws, or when necessary to exercise Acer’s legitimate business interests and needs, in which case special care is taken to safeguard your rights and to ensure any use of your personal information is fair, lawful and proportionate.
+
+To the extent permitted by law, the information you provide may be accessed, processed or stored by, or transferred to, any member of the Acer group of companies (or their subcontractors) at locations around the world, including those located in countries where you do not live. These locations include countries that do not have laws protecting the use of personal information. A list of Acer entities (and their respective registered offices) that may receive your data in those locations and become data controllers of that data can be found at [www.acer-group.com/officelist.html](http://www.acer-group.com/officelist.html). This use may continue even if they cease to be a member of the Acer group of companies. All of the Acer companies that receive your personal information will use it in accordance with this Privacy Policy.
+
+Acer will not share your personal information with any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with Acer’s agents or contractors for the purpose of providing services, processing transactions or performing statistical analysis for an Acer company. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents or contractors with the minimum amount of information needed to complete the requested services or transaction.
+
+Your information may also be disclosed to third parties where we are legally required or entitled to do so, for example in response to a request from a government or regulatory authority or in connection with potential legal proceedings. Acer is not responsible for the actions of any government or regulatory authority with respect to your information or data.
+
+If we merge with, or any part of the Acer group is acquired by, another business (or enter into discussions concerning the same) we may share your information with such a business and its advisers; however, if we do so, we will ensure steps are taken so that your rights in relation to your information continue to be protected.
+
+  
+
+
+**Children's Guidelines:**
+
+Acer will NOT knowingly collect online contact information from children or minors (as defined by local requirements), and if we learn that we have personal information about a child or minor, we will delete it from our systems. Acer encourages parents or guardians (including other legal representatives) to spend time online with their children and to participate in their online activities. Children or minors are eligible to use our online sales transactions services ONLY with a parent’s or guardian's consent to and payment for the transaction, or to the extent permitted by applicable law. If you are a child or a minor, you are required to get the permission of your parents or guardians in order to complete certain transactions on this website.
+
+  
+
+
+**Users from Outside of the United States:**
+
+If you are visiting our website from outside of the United States or otherwise contacting us from outside of the United States, please be aware that your personal information may be transferred to, stored or processed in, the United States, where many of our servers are located. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using our Service, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+  
+
+
+**Users from the European Union:**
+
+Where the information provided by you is transferred by an Acer company in the European Economic Area (“EEA”) or Switzerland to an Acer company or agent outside of the EEA or Switzerland, appropriate steps are put in place to provide adequate protection for the data. Please note that this Privacy Policy does not apply to data and information that you save to the cloud storage services if the data and information are stored in a server outside of Europe. In such case, you are solely responsible for and assume all risks associated with your storage of your data outside of Europe.
+
+  
+
+
+**Users from Taiwan:**
+
+If you are a user from Taiwan, we hereby draw your attention to the following in accordance with the relevant law and regulations of Taiwan:
+
+  * We will maintain and, when necessary, use your personal data from the time when you provide it to us through any means until you request us to delete it. The geographical scope of our use of your personal data is limited to Taiwan, the jurisdiction in which you locate and the place where Acer’s subsidiary operates only.
+  * You may exercise the following rights with respect to your personal data pursuant to the Personal Data Protection Law:
+    1. any inquiry and request for a review of the personal information (fees apply depending on each individual case);
+    2. any request to make duplications of the personal information (fees apply depending on each individual case);
+    3. any request to supplement or correct the personal information;
+    4. any request to discontinue collection, processing or use of personal information; and
+    5. any request to delete the personal information.
+  * The servers providing online services process and store an enormous amount of information each day and keeps a record of the processing performed. These computer records are called “log files”. After the information in the log files has been processed, it is stored and blocked from further access. Until the information is stored, your account information may remain in our active server log files.
+  * If the data which you provide contains the personal data of any third party, you confirm that such third party has knowledge of the rights under this Privacy Policy, and guarantee that you have obtained the consent of such third party and authorize us to use the personal data of such third party in accordance with this Privacy Policy.
+  * If you decline to provide, or request us to cease using, processing and using or request us to delete, your personal data, we will be unable to contact you for the relevant matters regarding our Service, keep a record for future inquiry, provide you with the latest information of the our Service or conduct customer review, and we may not continue our Service and shall not be responsible for any losses arising therefrom.
+  * In the event that the personal data which you provide to us is insufficient to confirm the authenticity of your identity, or that it is the result of any false identity or identity theft or is unreal, we are entitled to terminate our Service to you. We apologize for any inconvenience caused as a result thereof, if any.
+
+  
+
+
+**Use and Disclosure of Anonymous Aggregated Information:**
+
+Acer may also collect, aggregate and maintain anonymous information about our customers and online visitors to our website, such as visitors' hobbies, interests, purchasing habits and the like. This data can then be used to tailor our content and advertising to deliver a better experience for our visitors. In addition, Acer may also share such aggregate information about our visitors with advertisers, business partners, sponsors and other third parties, for example, to inform them of the percentage of male/female visitors or the percentage of visitors within a particular age range.
+
+  
+
+
+**Security Measures:**
+
+We protect the personal information which you share with us. At Acer, access to your personal information is limited to people who need it to do their work. It is our policy to maintain the integrity of any personal information in our possession. To prevent security breaches, Acer uses several security techniques, such as SET or industry-standard Secure Socket Layer (SSL) encryption for transmission of credit card information or wherever personal information is required, to protect any personal information from unauthorized access by users; however, we cannot and do not guarantee security on the internet.
+
+  
+
+
+**Inquiries or Questions – Your Rights:**
+
+In connection with processing of your personal data, you have certain rights:
+
+  * You have the right to obtain confirmation as to whether or not your personal data is processed.
+  * You have the right to be informed of (i) the source of your personal data; (ii) the purposes and methods of the processing; (iii) the data custodian’s identity; and (iv) the third-party entities or categories of entities to whom or which the personal data may be communicated.
+  * You have the right to obtain: (i) updating, rectification or integration of your data; and (ii) erasure, anonymization or blocking of your data if processed unlawfully. 
+  * You have the right to object, in whole or in part (i) on legitimate grounds, to the processing of your personal data, even though the data is relevant to the purpose of the collection; and (ii) to the processing of your personal data, where it is made for the purpose of sending advertising materials or direct selling, or else for the performance of market or commercial communication surveys.
 
 
 
-For such purposes portions of YOUR personal information may be transferred to OUR agents and contractors acting on OUR behalf and within the scope of the purposes. 
+If you have questions or concerns about Acer policies and practices for handling personal information received through this online service, please contact [privacy_officer@acer.com](mailto:privacy_officer@acer.com). Alternatively, for specific application and/or local data handling queries, please contact the Acer entity to which you submitted your information. Contact addresses for each Acer entity can be found at [www.acer-group.com/officelist.html](http://www.acer-group.com/officelist.html). In order to allow us to provide you with faster service, please submit inquiries in English if possible and advise us of the country you are contacting us from, along with a description of the make and model of your products (if applicable).
 
-WE will not use or transfer to third parties YOUR personal information for any unrelated purposes, unless and to the extent it is required by applicable laws or regulations or the competent governmental or judicial authorities, necessary to establish or preserve a legal claim or defense, or necessary to prevent fraud or other illegal activities. 
+  
 
-WE will in particular not sell or market YOUR personal information to any third parties. 
 
-#### Transfer of Data to Different Locations
+**How to Opt-Out of Our Use of Your Personal Information:**
 
-When YOU submit personal information to ASUS on this site, YOU understand and agree that this information may be transferred between ASUS offices across national boundaries and may be stored and processed in any of the countries in which ASUS and its affiliates maintain offices. All transfer, storage and use of YOUR personal information shall be subject to this privacy policy. 
+You may, at any time, opt-out of our use of your personal information by contacting Acer. We will remove your personal information from our database(s) as soon as reasonably possible.
 
-YOU also acknowledge that for services undertaken by contractors of ASUS, such as on-site support, pick up or delivery services, WE may transfer to those contractors portions of YOUR personal information that are necessary to carry out the requested services and WE will ensure that those contractors are strictly in compliance with this Privacy Policy. 
+  
 
-#### How WE Use Cookies and Web Beacons 
 
-OUR web site may use "cookies", which are text files placed on YOUR computer, to enable YOU to sign in to OUR services and to help personalize YOUR online experience. WE use cookies to store YOUR preferences and other information on YOUR computer in order to save YOUR time by eliminating the need to repeatedly enter the same information, and to display YOUR personalized content and appropriate advertising on YOUR later visits to these web sites.
+**Linked Websites:**
 
-WE may also use so called "Web beacons" or similar technologies on some ASUS web sites to better tailor those sites to YOUR needs. When a visitor accesses those pages, a non-identifiable notice of that visit is generated which may be processed by US or by OUR suppliers. For this purpose information may be transferred to OUR suppliers which is anonymous but may contain the IP address YOU used when accessing OUR web site. OUR suppliers will not associate IP addresses with any other information they may hold. These Web beacons usually work in conjunction with cookies. If YOU don't want YOUR cookie information to be associated with YOUR visits to these pages, YOU can set YOUR browser to reject cookies. If YOU do so, Web beacons and other technologies will still detect visits to these pages; however, those visits will not be associated with information otherwise stored in cookies. WE may also include Web beacons in marketing e-mail messages or OUR newsletters in order to determine whether messages have been opened and links contained within clicked on.
+Other websites that are linked to/from our website may have different policies. Acer does not share any personal information collected with those websites and is not responsible for any information or content of those websites. We encourage you to review the privacy policies posted on those websites for details. Acer does not warrant or support any information or policies given on any website that is not controlled by Acer.
 
-YOU may refuse the use of cookies by selecting the appropriate settings on YOUR browser, however please note that if YOU do this YOU may not be able to use the full functionality of this web site. 
+  
 
-WE do not allow third parties to place their own cookies or Web beacons on OUR site or in OUR advertisements unless they are providing services to US and acting on OUR behalf. 
 
-#### Security 
+**Policy Governing Use; Changes to Privacy Policy:**
 
-WE take precautions to protect YOUR personal information against unauthorized access or unauthorized alteration, disclosure or destruction. These include internal reviews of OUR data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where WE store YOUR personal information. Transmission of data between different locations of ASUS affiliated companies is performed through OUR encrypted wide area network. When YOU submit personal information via the web site, YOUR information is protected both online and offline. For credit card transactions, WE establish security by using Secure Sockets Layer (SSL) technology. This means that the credit card information YOU send is encrypted by YOUR computer, and then decrypted again on OUR side, preventing third parties from intercepting the credit card information. 
+This Privacy Policy shall be written in various languages. In the event of any inconsistency in this Privacy Policy between the English version and any other version, the English version shall prevail. The terms of this Privacy Policy will govern the use and any information collected while it is in place. Acer reserves the right to change this Privacy Policy at any time and we therefore encourage you to check our website from time to time for update. Changes to this Privacy Policy are effective at the time they are posted to our website. 
 
-However, ASUS cannot guarantee a perfect security on the Internet. As general best practice when using the internet, WE recommended that YOU use alphanumerical usernames and passwords and to change YOU passwords on a regular basis, as well as keeping YOUR computer up to date by applying the latest available security updates for YOUR software and using such tools as virus/spyware scanners. 
+  
 
-#### How WE Handle Marketing Communications 
 
-WE maintain a user-customizable subscription service for those people who request promotional emails. YOU may in YOUR sole discretion subscribe or unsubscribe at any time. 
+**Questions:**
 
-#### How YOU Can Access YOUR Information
+For any questions or comments regarding this Privacy Policy or our website, please contact us at: [privacy_officer@acer.com](mailto:privacy_officer@acer.com). In order to allow us to provide you with faster service, please submit inquiries in English if possible and advise us of the country you are contacting us from, along with a description of the make and model of your products (if applicable).
 
-WE want to help YOU keep YOUR personal information accurate. YOU may view and change YOUR registration information by logging in and editing YOUR account settings on OUR web site. For the security of YOUR account, YOU will be required to sign in with YOUR login ID and password. 
-
-#### Children's Privacy 
-
-WE do not sell products for purchase by children. Youth-oriented products are sold for purchase by adults only. WE will not knowingly collect information from children and will not target OUR web sites to children. WE encourage parents and guardians to take an active role in their children's online activities and interests. 
-
-#### Sensitive Personal Information 
-
-ASUS will never ask YOU to provide sensitive personal information (such as information about YOUR health, political or religious beliefs, criminal offences alleged or committed, sexual orientation). Please refrain from providing US with such information. 
-
-#### Links to Third Party Web sites 
-
-This web site may contain links to other web sites. Please be aware that ASUS is not responsible for the security or the privacy practices of those web sites. WE encourage YOU to be aware of when YOU leave OUR site, and to read the privacy statements of each and every web site that collects personal information. This Privacy Policy applies only to ASUS web sites. 
-
-#### Anonymous Data
-
-WE may use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. WE do not link IP addresses to personal information. 
-
-#### Changes to The Privacy Statement
-
-WE may modify this Privacy Policy at any time, so please review it frequently. If WE make substantial changes to it, WE will notify YOU by means of a notice on OUR homepage. 
-
-#### Contacting Us 
-
-If YOU have any inquiries, questions, comments or complaints about this Privacy Policy, or if YOU believe that ASUS did not comply with it, please feel free to contact
-
-ASUSTeK COMPUTER INC.   
-Legal Compliance Department  
-15, Li-Te Rd.,   
-Taipei 112,   
-Taiwan
-
-[privacy@asus.com](mailto:privacy@asus.com)  
+  
 
