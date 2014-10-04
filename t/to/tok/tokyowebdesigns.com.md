@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326211612id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004232441id_/http%3A//www.tokyowebdesigns.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Tokyo Web Designs
 
@@ -8,7 +8,7 @@ By visiting the TokyoWebDesigns.com website (the “Site”) you are agreeing wi
 
 #### Information you give us
 
-We receive and store information that you actively provide to us. This may represent a potentially wide range of information. It will only be used for the purpose for which you have provided it and will not be added to a mailing list unless you have specifically opted into a mailing list. We will not use your e-mail address for any other purpose and will not disclose it, without your consent.
+We receive and store information that you actively provide to us. This may represent a potentially wide range of information. It will only be used for the purpose for which you have provided it and will not be added to a mailing list unless you have specifically opted into a mailing list. We will not use your e-mail address for any other purpose and will not disclose it, without your consent. **We never spam.**
 
 #### Information we collect from you
 
@@ -42,4 +42,4 @@ The Site may contain links to other sites. With the exception of other sites ope
 
 ### Further queries
 
-If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our contact page.
+If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](https://web.archive.org/contact).
