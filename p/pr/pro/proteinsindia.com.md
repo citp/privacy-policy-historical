@@ -1,63 +1,94 @@
-> *The following text is extracted and transformed from the proteinsindia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093104id_/http%3A//www.proteinsindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proteinsindia.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004203110id_/http%3A//proteinsindia.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Proteinsindia Privacy Policy
+# Buy Whey Proteins, Fat Burners, Supplements, Gainers Privacy Policy and Nutrition on Proteinsindia.com
 
-## **Privacy Policy**
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-We value the trust that you have placed in us by providing us the information about yourself. This policy sets forth how we collect, use and safeguard the personal information you provide us and would help you in making informed decisions when you use our site and our products.
+This privacy policy sets out how ProteinsIndia.com uses and protects any information that you give ProteinsIndia.com when you use this website. ProteinsIndia.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ProteinsIndia.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
- **What information do we gather?**
+## What we collect
 
-  *  **Information that you provide us**
+We may collect the following information:
 
-
-
-You need to provide us your personal information in order to receive further information about our products. For example, you need to provide us your name, email address and location. If you correspond to us through email, we store the content of your email along with our response.
-
-  *  **Information about web site usage**
-
-
-
-Apart from the personal information that you provide us, we also collect information about the way you browse through our web site by using the web server logs. Our web site also uses the standard technology named “cookies”.We use these technologies to gather the date and time of visits, the pages viewed, and time spent at our Web site. This information is collected on an aggregate basis and not on the individual basis.
-
-  *  **We use Google Analytics that collects data anonymously for statistical and analytical purposes only.**
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
- **How do we use the personal information provided to us?**
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-We use the personal information provided to us for responding to your requests, customizing the web pages for you, improving our web stores features, and communicating with you. Sometimes, we may also use your information to inform you about the new services and special offers available at our web site. You may choose to notify us, in case you do not wish to receive these offers.
+## What we do with the information we gather
 
- **Cookies, what are they?**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-Cookies are small pieces of data that are stored by the web browser on the hard drive and help in uniquely identifying the device from which the website is visited. Cookies do remember the information accessed on a web page which helps to simplify subsequent visits to that web page by the same user.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
- **How is the Information collected from Cookies and Web Server Logs used?**
 
-Cookies help us in collecting important technical and business statistics about how the user’s use our website and the path do they follow while moving from one page to another.This information assists us in designing a user friendly and easy to use web site for better shopping experience.
 
-Web Server logs give us the count of how many people visited our web site and evaluate our web site’s performance
+## Security
 
- **Notification about new services**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-We may use the information provided to us to notify you of the new services or any important changes made to our web site.
+## How we use cookies
 
- **Information Safety Practices**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-Our business practices and operations are periodically reviewed for compliance with corporate policies and procedures governing the confidentiality and security of the information. We restrict the access of personally identifiable data and disclosure of such information only to authorized persons and processes.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
- **Disclosing Information to Third Parties**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-We do not disclose or sell personally identifying data, except as otherwise provided in this Privacy Policy, to the third parties. We may provide the aggregate information about our sales, Web site traffic statistics, customers and related Web site information to our business affiliates.
+## Links to other websites
 
- **Legally Compelled to Disclose the Information**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-We may disclose the personal information if we are legally compelled to do so, in good faith, that the law enforcement offices need this information for reasonable reasons.
+## Controlling your personal information
 
- **Links to Other Web Sites**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Our website is not responsible for the content or the practices followed by the web sites linked to and from our website. When you navigate away from our web site to any other web site, our privacy policy is no longer in effect. Please refer to that web site’s privacy policy before proceeding.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at orders@proteinsindia.com 
 
- **Your Consent**
 
-By the mere use of our website, you express your consent towards the use and disclosure of your personal information by our web site in accordance with our privacy policy. Our privacy policy is subject to change at any time. We would post the changes to our web site. Please review the privacy policy at regular intervals.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Shop No. 3 GHS, Vikaspuri New Delhi-110018. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
