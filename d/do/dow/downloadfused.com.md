@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadfused.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613034852id_/http%3A//downloadfused.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfused.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004181544id_/http%3A//downloadfused.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | This site
 
@@ -6,7 +6,7 @@ _Privacy Policy_
 
 1\. Processing of personal data provided via the Website 
 
-EAD Consulting SA (“ **We** ” or the “ **Company** ” or “ **EADC** ”) informs users of its website [put website here] (the “ **Website** “), of its policy of protection of personal data regarding access and use by users of the Website that EADC places at the disposal of Internet users interested in its services and content, so that they can freely and voluntarily determine whether they wish to provide personal data to EADC which may be required or that may be obtained. 
+EAD Consulting Ltd (“ **We** ” or the “ **Company** ” or “ **EADC** ”) informs users of its website [put website here] (the “ **Website** “), of its policy of protection of personal data regarding access and use by users of the Website that EADC places at the disposal of Internet users interested in its services and content, so that they can freely and voluntarily determine whether they wish to provide personal data to EADC which may be required or that may be obtained. 
 
 We do not have access to any personal information except such such data that the user voluntarily sends to us when contacting EADC. We will never share your personal information and we only use it when responding to your specific inquiries. We will never send electronic communications for promotional purposes. 
 
@@ -70,7 +70,7 @@ Failure to allow the use of cookies means that certain services or functionality
 
 · Advertising Cookies. We use cookies to make advertising more attractive to users. Cookies are often used to select ads based on content that is relevant to a user, improve reporting of campaign performance and avoid showing ads that the user has already seen. Conversion cookies are also used so that advertisers may determine the number of times that people who click on the ads end up buying their products. These cookies allow EADC and the advertiser to know that you have clicked on the ad and that you have subsequently accessed the site of the advertiser. Some of our advertising products allow other companies send their own cookies to your browser. 
 
-Any personal data that is collected through the use of cookies on this website will be processed by EAD Consulting, SA Spain, responsible to facilitate and improve browsing on the website, analyse visits and identify registered users. If you accept cookies you consent to the possible processing of personal data for all purposes indicated, international transfers and communications; but if you do not consent to such use then please do not accept the use of cookies. The user can exercise their rights of access, modification, cancellation and opposition to EADC at the above-mentioned address. 
+Any personal data that is collected through the use of cookies on this website will be processed by EAD Consulting, Ltd Spain, responsible to facilitate and improve browsing on the website, analyse visits and identify registered users. If you accept cookies you consent to the possible processing of personal data for all purposes indicated, international transfers and communications; but if you do not consent to such use then please do not accept the use of cookies. The user can exercise their rights of access, modification, cancellation and opposition to EADC at the above-mentioned address. 
 
 You can set your browser to refuse or accept cookies, or set the browser so that cookies are automatically deleted once you close your browser, computer or device. You may change your cookies settings in browsers as follows: 
 
