@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the chubbyparade.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625133413id_/http%3A//chubbyparade.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chubbyparade.com privacy policy that was archived on 2014-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141004080246id_/http%3A//chubbyparade.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>DMCA Policy - Chubby Parade</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<style type="text/css">
+<style type="text/css" id="cp_styles_custom">
 /*fontello style for all pages*/
 @font-face{
  font-family:'cp_all';
- src: url('http://chubbyparade.com/font/cp-all.eot?58953146');
- src: url('http://chubbyparade.com/font/cp-all.eot?58953146#iefix') format('embedded-opentype'),
-   url('http://chubbyparade.com/font/cp-all.woff?58953146') format('woff'),
-   url('http://chubbyparade.com/font/cp-all.ttf?58953146') format('truetype'),
-   url('http://chubbyparade.com/font/cp-all.svg?58953146#cp-all') format('svg');
+ src: url('http://chubbyparade.com/font/cp-all.eot?589531464');
+ src: url('http://chubbyparade.com/font/cp-all.eot?589531464#iefix') format('embedded-opentype'),
+   url('http://chubbyparade.com/font/cp-all.woff?589531464') format('woff'),
+   url('http://chubbyparade.com/font/cp-all.ttf?589531464') format('truetype'),
+   url('http://chubbyparade.com/font/cp-all.svg?589531464#cp-all') format('svg');
  font-weight:normal;
  font-style:normal;
 }
@@ -37,30 +37,21 @@
 .allicon-cog:before{content:'\e804';}
 .allicon-reload:before{content:'\e805';}
 .allicon-chat:before{content:'\e806';}
+.allicon-search:before{content:'\e807';}
+.allicon-group:before{content:'\e808';}
+.allicon-pics:before{content:'\e809';}
+.allicon-vids:before{content:'\e80a';}
+.allicon-bell:before{content:'\e80b';}
+.allicon-logout:before{content:'\e80c';}
 
-/*new navbar menu style*/
-	#subNavbar{clear:both;margin-bottom:14px;}
-	#subNavbar .subnavline{clear:both;display:none;}
-	.navbaritem{float:left;padding:7px 14px;border-right:1px solid #888888;}
-	.navbaritem a{text-decoration:none}
-	.navbaritem a:hover{text-decoration:underline}
-	.navbarlogout{float:right;padding:7px 14px 7px 0;}
-	#subNavbar .visible{display:block;}
+/*smart marker for menus*/
 
-	/*conditional menus*/
-	
-	#subNavbar .s_PRIVACY_POLICY{display:block}
-	
+	.bsnavbar-nav .s_PRIVACY_POLICY{display:block}
+	#tiny-nav li.s_PRIVACY_POLICY:before{
+		content:' ';width:0;height:0;position:absolute;left:0px;top:9px;border-top:11px solid transparent;border-bottom:11px solid transparent;border-left:11px solid #FFFFFF;z-index:5;
+	}
 
-	@media (max-width:1100px) {
-		#subNavbar .menu_br_0{display:none}
-	}
-	@media (max-width:1025px) {
-		#subNavbar .menu_br_1{display:none}
-	}
-	@media (max-width:900px) {
-		#subNavbar .menu_br_2{display:none}
-	}
+
 </style>
 
 
@@ -380,6 +371,20 @@ legend
 	color: #FFFFFF;
 	text-decoration: none;
 }
+html{overflow-y:scroll}
+
+.pagenav_lnk, .pagenav_lnkrel{
+	background-color:#F0F0F0;
+	border:1px solid #808080;
+}
+.pagenav_lnk:hover, .pagenav_lnkrel:hover{
+	background-color:#CCCCCC;
+}
+.pagenav_lnk a, .pagenav_lnkrel a {padding:6px}
+.pagenav_currpage{
+	padding:6px
+}
+
 /*NEW BUTTONS 2013*/
 .button{
     margin:0 7px 0 0;
@@ -841,12 +846,26 @@ background-position:0px -5px;
 }
 
 .dynwrap {
-	min-width: 784px; max-width: 1100px;
+	/*
+	min-width: 666px;
+	*/
+	max-width: 1400px;
 	margin: 0 auto;
 	background-color:#FFFFFF;
-/*<![CDATA[*/
-	width:expression(document.body.clientWidth < 785? "784px" : document.body.clientWidth > 1101? "1100px" : "auto");
-/*]]>*/
+	text-align:left;
+	padding:0px 25px 0px 25px;
+	/*
+	width:expression(document.body.clientWidth < 667? "666px" : document.body.clientWidth > 1101? "1100px" : "auto");
+	*/
+	/*<![CDATA[*/
+	width:expression(document.body.clientWidth > 1401 ? "1400px" : "auto");
+	/*]]>*/
+}
+@media (max-width: 767px) {
+	.dynwrap{padding:0px 5px;}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.dynwrap{padding:0px 10px;}
 }
 
 /* postbit link */
@@ -919,17 +938,17 @@ label {cursor: default;}
 
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js?v=387"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=387"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "";
+var SESSIONURL = "s=317e3bb5f714b8e58c986b7187f647e9&";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "http://chubbyparade.com/forum/images/new_misc";
 var vb_disable_ajax = parseInt("0", 10);
 // -->
 </script>
-<script type="text/javascript" src="http://static.chubbyparade.com/forum/clientscript/vbulletin_global.js?v=387"></script>
+<script type="text/javascript" src="http://static.chubbyparade.com/forum/clientscript/vbulletin_global.js"></script>
 <!-- http://chubbyparade.com/forum/clientscript/vbulletin_global.js?v=387 -->
 
 
@@ -971,6 +990,613 @@ if (document.getElementById(elementid).style.display == 'none'){
 </script>
 
 <meta name="application-name" content="Chubby Parade"><meta name="msapplication-TileColor" content="#FFFFFF"><meta name="msapplication-TileImage" content="/images/322240de-38b0-4ea4-91fb-0103cc9cf552.png">
+
+
+<!--new navigation menu-->
+<style type="text/css">
+html{
+	font-family: sans-serif;
+	/*
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	*/
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body{
+	margin: 0;
+}
+a:active,a:hover {outline:0}
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+*:before, *:after{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.img-responsive{
+	display:block;
+	width:100% \9;
+	max-width:100%;
+	height:auto;
+}
+.img-rounded{
+	border-radius: 6px;
+}
+.nav {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+.nav > li {
+  position:relative;display: block;
+}
+.nav > li > a {
+  position: relative;
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #eeeeee;
+}
+.nav .nav-divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+.nav > li > a > img {
+  max-width: none;
+}
+.bsnavbar {
+  position: relative;
+  min-height: 50px;
+  border: 1px solid transparent;
+	padding-left:15px;
+	padding-right:15px;
+}
+@media (min-width: 768px) {
+  .bsnavbar {
+    border-radius: 4px;
+  }
+}
+@media (min-width: 768px) {
+  .bsnavbar-header {
+    float: left;
+  }
+}
+.bsnavbar-collapse {
+  overflow-x: visible;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-top: 1px solid transparent;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  -webkit-overflow-scrolling: touch;
+}
+.bsnavbar-collapse.in {
+  overflow-y: auto;
+}
+@media (min-width: 768px) {
+  .bsnavbar-collapse {
+    width: auto;
+    border-top: 0;
+    box-shadow: none;
+  }
+  .bsnavbar-collapse.collapse {
+    /* display: block !important; */
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+  .bsnavbar-collapse.in {
+    overflow-y: visible;
+  }
+  .bsnavbar-fixed-top .bsnavbar-collapse,
+  .bsnavbar-static-top .bsnavbar-collapse,
+  .bsnavbar-fixed-bottom .bsnavbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.bsnavbar-fixed-top .bsnavbar-collapse,
+.bsnavbar-fixed-bottom .bsnavbar-collapse {
+  max-height: 340px;
+}
+@media (max-width: 480px) and (orientation: landscape) {
+  .bsnavbar-fixed-top .bsnavbar-collapse,
+  .bsnavbar-fixed-bottom .bsnavbar-collapse {
+    max-height: 200px;
+  }
+}
+.container > .bsnavbar-header,
+.container-fluid > .bsnavbar-header,
+.container > .bsnavbar-collapse,
+.container-fluid > .bsnavbar-collapse {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.bsnavbar-static-top {
+  z-index: 1000;
+  border-width: 0 0 1px;
+}
+@media (min-width: 768px) {
+  .bsnavbar-static-top {
+    border-radius: 0;
+  }
+}
+.bsnavbar-fixed-top,
+.bsnavbar-fixed-bottom {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+@media (min-width: 768px) {
+  .bsnavbar-fixed-top,
+  .bsnavbar-fixed-bottom {
+    border-radius: 0;
+  }
+}
+.bsnavbar-fixed-top {
+  top: 0;
+  border-width: 0 0 1px;
+}
+.bsnavbar-fixed-bottom {
+  bottom: 0;
+  margin-bottom: 0;
+  border-width: 1px 0 0;
+}
+.bsnavbar-brand {
+  float: left;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 50px;
+  text-decoration: none;
+}
+@media (max-width: 768px) {
+  .bsnavbar > .container .bsnavbar-brand,
+  .bsnavbar > .container-fluid .bsnavbar-brand {
+    margin-left: 0px;
+  }
+}
+.bsnavbar-toggle {
+  position: relative;
+  float: right;
+  margin-right: 15px;
+  padding: 9px 10px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  background-color: #F0F0F0;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor:pointer;
+}
+.bsnavbar-toggle:focus {
+  outline: 0;
+}
+.bsnavbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  border-radius: 1px;
+}
+.bsnavbar-toggle .icon-bar + .icon-bar {
+  margin-top: 4px;
+}
+@media (min-width: 768px) {
+  .bsnavbar-toggle {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+/*
+  .bsnavbar .bsnavbar-collapse,
+*/
+/*
+  .bsnavbar .dropdown-toggle{
+    display: none;
+  }
+*/
+  .bsnavbar .downarrow{display:none}
+}
+.bsnavbar-nav {
+  margin: 7.5px -15px;
+}
+.bsnavbar-nav > li > a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+}
+@media (min-width: 768px) {
+  .bsnavbar-nav {
+    float: left;
+    margin: 0;
+  }
+  .bsnavbar-nav > li {
+    float: left;
+  }
+  .bsnavbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .bsnavbar-nav.bsnavbar-right:last-child {
+/*
+    margin-right: -15px;
+*/
+  }
+}
+@media (min-width: 768px) {
+  .bsnavbar-left {
+    float: left !important;
+  }
+  .bsnavbar-right {
+    float: right !important;
+  }
+}
+.bsnavbar-form {
+  margin-left: -15px;
+  margin-right: -15px;
+  padding: 10px 15px;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.bsnavbar-default {
+  border-color: #e7e7e7;
+}
+.bsnavbar-default .bsnavbar-brand:hover,
+.bsnavbar-default .bsnavbar-brand:focus {
+  color: #FFFFFF;
+  background-color: transparent;
+}
+.bsnavbar-default .bsnavbar-nav > li > a {
+  color: #FFFFFF;
+}
+.bsnavbar-default .bsnavbar-nav > li > a:hover,
+.bsnavbar-default .bsnavbar-nav > li > a:focus {
+  color: #333333;
+  background-color: transparent;
+}
+.bsnavbar-default .bsnavbar-nav > .active > a,
+.bsnavbar-default .bsnavbar-nav > .active > a:hover,
+.bsnavbar-default .bsnavbar-nav > .active > a:focus {
+  color: #555555;
+  background-color: #e7e7e7;
+}
+.bsnavbar-default .bsnavbar-toggle {
+  border-color: #dddddd;
+}
+.bsnavbar-default .bsnavbar-toggle:hover,
+.bsnavbar-default .bsnavbar-toggle:focus {
+  background-color: #dddddd;
+}
+.bsnavbar-default .bsnavbar-toggle .icon-bar {
+  background-color: #888888;
+}
+.bsnavbar-default .bsnavbar-link {
+  color: #777777;
+}
+.bsnavbar-default .bsnavbar-link:hover {
+  color: #333333;
+}
+.bsnavbar-default .btn-link {
+  color: #777777;
+}
+.bsnavbar-default .btn-link:hover,
+.bsnavbar-default .btn-link:focus {
+  color: #333333;
+}
+.bsnavbar-default .btn-link[disabled]:hover,
+fieldset[disabled] .bsnavbar-default .btn-link:hover,
+.bsnavbar-default .btn-link[disabled]:focus,
+fieldset[disabled] .bsnavbar-default .btn-link:focus {
+  color: #cccccc;
+}
+.label {
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 75%;
+  font-weight: bold;
+  line-height: 1;
+  color: #ffffff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+}
+a.label:hover,
+a.label:focus {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.label:empty {
+  display: none;
+}
+.btn .label {
+  position: relative;
+  top: -1px;
+}
+.label-default {
+  background-color: #777777;
+}
+.label-default[href]:hover,
+.label-default[href]:focus {
+  background-color: #5e5e5e;
+}
+.label-primary {
+  background-color: #428bca;
+}
+.label-primary[href]:hover,
+.label-primary[href]:focus {
+  background-color: #3071a9;
+}
+.label-success {
+  background-color: #5cb85c;
+}
+.label-success[href]:hover,
+.label-success[href]:focus {
+  background-color: #449d44;
+}
+.label-info {
+  background-color: #5bc0de;
+}
+.label-info[href]:hover,
+.label-info[href]:focus {
+  background-color: #31b0d5;
+}
+.label-warning {
+  background-color: #f0ad4e;
+}
+.label-warning[href]:hover,
+.label-warning[href]:focus {
+  background-color: #ec971f;
+}
+.label-danger {
+  background-color: #d9534f;
+}
+.label-danger[href]:hover,
+.label-danger[href]:focus {
+  background-color: #c9302c;
+}
+.badge {
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  line-height: 1;
+  vertical-align: baseline;
+  white-space: nowrap;
+  text-align: center;
+  background-color: #777777;
+  border-radius: 10px;
+}
+.badge:empty {
+  display: none;
+}
+a.badge:hover,
+a.badge:focus {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+a.list-group-item.active > .badge {
+  color: #428bca;
+  background-color: #ffffff;
+}
+.clearfix:before,
+.clearfix:after,
+.nav:before,
+.nav:after,
+.bsnavbar:before,
+.bsnavbar:after,
+.bsnavbar-header:before,
+.bsnavbar-header:after,
+.bsnavbar-collapse:before,
+.bsnavbar-collapse:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after,
+.nav:after,
+.bsnavbar:after,
+.bsnavbar-header:after,
+.bsnavbar-collapse:after {
+  clear: both;
+}
+.hide {
+  display: none !important;
+}
+.show {
+  display: block !important;
+}
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+@-ms-viewport {
+  width: device-width;
+}
+.visible-xs,
+.visible-sm,
+.visible-md,
+.visible-lg {
+  display: none; /*!important*/
+}
+@media (max-width: 767px) {
+  .visible-xs {
+    display: block; /*!important*/
+  }
+  table.visible-xs {
+    display: table;
+  }
+  tr.visible-xs {
+    display: table-row !important;
+  }
+  th.visible-xs,
+  td.visible-xs {
+    display: table-cell !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .visible-sm {
+    display: block !important;
+  }
+  table.visible-sm {
+    display: table;
+  }
+  tr.visible-sm {
+    display: table-row !important;
+  }
+  th.visible-sm,
+  td.visible-sm {
+    display: table-cell !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .visible-md {
+    display: block !important;
+  }
+  table.visible-md {
+    display: table;
+  }
+  tr.visible-md {
+    display: table-row !important;
+  }
+  th.visible-md,
+  td.visible-md {
+    display: table-cell !important;
+  }
+}
+@media (min-width: 1200px) {
+  .visible-lg {
+    display: block !important;
+  }
+  table.visible-lg {
+    display: table;
+  }
+  tr.visible-lg {
+    display: table-row !important;
+  }
+  th.visible-lg,
+  td.visible-lg {
+    display: table-cell !important;
+  }
+}
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .hidden-sm {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .hidden-lg {
+    display: none !important;
+  }
+}
+
+/*custom*/
+@media (max-width: 867px) {
+	.bsnavbar-right li a{padding-left:5px;padding-right:5px;}
+	.bsnavbar-right li:last-child a{padding-right:15px;}
+}
+.lead-icon{
+	padding-left:15px;
+}
+#navbar_collapse-xs{
+	display:none;
+	background-color:#EE4B43;
+}
+#tiny-nav li a{
+	padding-left:6px;padding-right:6px;
+}
+.dropdown-menu{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	background: #FFFFFF;
+	color: #000000;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+  z-index: 1000;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+	border:1px solid #666666;
+  border: 1px solid rgba(0, 0, 0, .15);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+ul.dropdown-menu .divider {
+	background-color: #e5e5e5;
+	height: 1px;
+	line-height:1px;
+	margin: 9px 0;
+	padding:0px;
+	overflow: hidden;
+}
+ul.dropdown-menu li{
+	margin:0px;
+	/*
+	padding:5px 20px 5px 20px;
+	*/
+	cursor: pointer;
+}
+ul.dropdown-menu li:hover{
+	background-color:#FFAAAA;
+}
+ul.dropdown-menu li a{
+	text-decoration:none;
+	display:block;
+	padding:5px 20px 5px 20px;
+}
+ul.dropdown-menu .dropdown-header {
+	color:#999;
+	display:block;
+	font-size:10px;
+	padding:3px 20px 6px 20px;
+	margin:0px;
+	cursor:default;
+}
+ul.dropdown-menu .dropdown-header:hover {
+	background-color:#FFFFFF;
+}
+
+@media (max-width: 767px) {
+  #module_56 {
+    display: none !important;
+  }
+}
+</style>
 </head>
 <body>
 <a name="top"></a>
@@ -978,13 +1604,15 @@ if (document.getElementById(elementid).style.display == 'none'){
 
 
 
-<div class="dynwrap" align="center">
+<div class="dynwrap hidden-xs" align="center">
 
 <!--regular header-->
 
 	<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" id="headertable">
 	<tbody><tr>
+<!--
 	<td align="left" class="headergraph" style="width:25px;" width="25">&nbsp;</td>
+-->
 	<td align="left" style="margin:0px;padding:0px;" class="headergraph">
 
 
@@ -993,7 +1621,7 @@ if (document.getElementById(elementid).style.display == 'none'){
 
 
 
-	<div style="padding-bottom:10px;">
+	<div style="padding-bottom:10px">
 	
 	 
 	  
@@ -1024,7 +1652,9 @@ if (document.getElementById(elementid).style.display == 'none'){
 	</td>
 	
 
+<!--
 	<td width="25" class="headergraph">&nbsp;</td>
+-->
 
 	</tr>
 	</tbody></table>
@@ -1038,112 +1668,203 @@ if (document.getElementById(elementid).style.display == 'none'){
 <!-- open content container -->
 
 <div align="center">
-	<div class="dynwrap page" style="text-align:left">
-		<div style="padding:0px 25px 0px 25px" align="left">
+	<div class="dynwrap page">
+		<div style="" align="left">
 
 
 <div class="vbmenu_popup" id="vbbloglinks_menu" style="display:none;margin-top:3px" align="left">
 	<table cellpadding="4" cellspacing="1" border="0">
 	<tbody><tr>
-		<td class="thead"><a href="blog.php">Blogs</a></td>
+		<td class="thead"><a href="blog.php?s=317e3bb5f714b8e58c986b7187f647e9">Blogs</a></td>
 	</tr>
 	
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=list">Recent Entries</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=317e3bb5f714b8e58c986b7187f647e9&amp;do=list">Recent Entries</a></td>
 	</tr>
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=list&amp;blogtype=best">Best Entries</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=317e3bb5f714b8e58c986b7187f647e9&amp;do=list&amp;blogtype=best">Best Entries</a></td>
 	</tr>
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=bloglist&amp;blogtype=best">Best Blogs</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=317e3bb5f714b8e58c986b7187f647e9&amp;do=bloglist&amp;blogtype=best">Best Blogs</a></td>
 	</tr>
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=bloglist">Blog List</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=317e3bb5f714b8e58c986b7187f647e9&amp;do=bloglist">Blog List</a></td>
 	</tr>
 	
 	<tr>
-		<td class="vbmenu_option"><a href="blog_search.php?do=search">Search Blogs</a></td>
+		<td class="vbmenu_option"><a href="blog_search.php?s=317e3bb5f714b8e58c986b7187f647e9&amp;do=search">Search Blogs</a></td>
 	</tr>
 	
 	</tbody></table>
 </div>
-<div style="padding-bottom:20px" id="newnavbar">
+<!--role="navigation"-->
+<div class="thead bsnavbar bsnavbar-default bsnavbar-static-top">
 
-<script type="text/javascript"><!--
-function nav_show(the_menu){
-	//hide all the menus
-	document.getElementById('menu_forum').style.display = 'none';
-	document.getElementById('menu_pics').style.display = 'none';
-	document.getElementById('menu_videos').style.display = 'none';
-	document.getElementById('menu_social').style.display = 'none';
-	document.getElementById('menu_settings').style.display = 'none';
-	document.getElementById('menu_other').style.display = 'none';
+      <div class="container">
 
-	//show selected menu
-	document.getElementById(the_menu).style.display = 'block';
-}
-//-->
-</script>
+        <div class="bsnavbar-header">
 
-<table id="navbar" border="0" width="100%" cellpadding="0" cellspacing="0" align="center" class="thead" style="height:34px">
-<tbody><tr>
+		<button class="bsnavbar-toggle" type="button" onclick="toggle_nav();">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
 
-<td width="5%" class="ntd1">
-	<a href="http://chubbyparade.com/" title="Home"><i class="allicon-home-outline"></i></a>
-</td>
+		<a href="http://chubbyparade.com/" class="bsnavbar-brand hidden-xs" title="Home"><i class="allicon-home-outline"></i></a>
+		<a href="http://chubbyparade.com/" class="bsnavbar-brand hidden-sm hidden-md hidden-lg" title="Home">CP</a>
 
-<td width="5%" style="padding:3px 10px 3px 0px;" class="ntd1" nowrap="nowrap">
-	<a href="http://chubbyparade.com/forum/usercp.php" onmouseover="nav_show('menu_settings');"><i class="allicon-cog"></i></a>
-</td>
-
-<td width="10%" class="ntd1">
-	<a href="http://chubbyparade.com/forum/" onmouseover="nav_show('menu_forum');">Forum</a>
-</td>
-
-<td width="10%" class="ntd1">
-	<a href="http://chubbyparade.com/forum/misc.php?do=warning" onmouseover="nav_show('menu_social');" title="Chat"><i class="allicon-chat"></i></a>
-	
-		<script type="text/javascript"><!--
-		// a small poupup window to show who is in the chat
-		function showInfo() {
-			var y = (screen.height - 300) / 2;var x = (screen.width - 400) / 2;	
-			var url = 'http://chubbyparade.com/chat/info.php';
-			var options = 'width=400,height=300,top=' + y + ',left=' + x + ',resizable';
-			window.open( url, 'info', options );
-		}
-		//-->
-		</script>
-		<a href="javascript:showInfo();" title="See who's in the chat" rel="nofollow">(8)</a>
-	
-</td>
+        </div>
 
 
-<td width="10%" class="ntd1">
-	<a href="http://chubbyparade.com/gallery/index.php" onmouseover="nav_show('menu_pics');">Pics</a>
-</td>
-
-
-<td width="10%" class="ntd1">
-	<a href="http://video.chubbyparade.com/" onmouseover="nav_show('menu_videos');">Videos</a>
-</td>
-
-<td width="10%" class="ntd1">
-	<a href="http://chubbyparade.com/forum/group.php" onmouseover="nav_show('menu_social');">Social</a>
-</td>
-
-<td width="10%" class="ntd1">
-	<a href="http://chubbyparade.com/forum/toplist.php" onmouseover="nav_show('menu_other');">Links</a>
-</td>
-
-
-		
-		<td width="10%"><a href="http://chubbyparade.com/forum/forumdisplay.php?do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a></td>
+	<!--tiny navbar-->
+        <div class="bsnavbar-collapse visible-xs hidden-sm hidden-md hidden-lg roundbottom" id="navbar_collapse-xs">
+		<ul class="nav bsnavbar-nav smallfont roundbottom" id="tiny-nav">
 			
-	
+			<!--PICS-->
+			<li class="s_image s_all_albums s_album s_albums s_PICUPLOAD">
+				<span class="lead-icon allicon-pics"></span>
+				<a href="http://chubbyparade.com/gallery/">Gallery</a>
+				<a href="http://chubbyparade.com/forum/albums.php">Albums</a>
+				<a title="Forum Picture Threads" href="http://chubbyparade.com/forum/forumdisplay.php?f=1">Picture Threads</a>
+			</li>
+			<!--VIDEO-->
+			<li class="s_video_parade s_video_parade_watch">
+				<span class="lead-icon allicon-vids"></span>
+				<a href="http://video.chubbyparade.com/">Videos</a>
+			</li>
+			<!--COMMUNITY-->
+			<li class="s_index s_adv_index s_forumdisplay s_search s_profile s_newthread s_newreply s_showthread s_subscription s_tags s_group s_blog">
+				<span class="lead-icon allicon-group"></span>
+				<a href="http://chubbyparade.com/forum/">Forum</a>
+				<a href="http://chubbyparade.com/forum/group.php">Groups</a>
+				<a href="http://chubbyparade.com/forum/blog.php">Blogs</a>
+			</li>
+			<!--SETTINGS-->
+			
+		</ul>
+	</div>
+
+
+	<!--regular navbar-->
+	<div class="bsnavbar-collapse collapse hidden-xs visible-sm visible-md visible-lg" id="navbar_collapse">
+          <ul class="nav bsnavbar-nav">
 
 
 
-</tr></tbody></table>
+<!--PICS-->
+            <li class="dropdown s_all_albums s_album" id="navbar_pics">
+              <a class="dropdown-toggle" href="http://chubbyparade.com/gallery/">PICS <small class="downarrow">▼</small></a>
+<script type="text/javascript">vbmenu_register("navbar_pics",true);</script>
+            </li>
+
+<!--VIDS-->
+            <li class="dropdown" id="navbar_vids">
+              <a class="s_video_parade s_video_parade_watch dropdown-toggle" href="http://video.chubbyparade.com/">VIDEOS <small class="downarrow">▼</small></a>
+<script type="text/javascript">vbmenu_register("navbar_vids",true);</script>
+            </li>
+
+<!--FORUM-->
+            <li class="s_index s_adv_index s_forumdisplay s_search s_profile s_newthread s_newreply s_showthread s_subscription s_tags" id="navbar_forum">
+		<a href="http://chubbyparade.com/forum/" style="padding-right:5px;">FORUM <small class="downarrow">▼</small></a>
+<script type="text/javascript">vbmenu_register("navbar_forum",true);</script>
+		</li>
+		<li>
+		<a title="New Forum Activity" href="http://chubbyparade.com/forum/search.php?do=getnew" style="padding-left:0px;"><span class="allicon-reload"></span></a>
+</li>
+
+<!--COMMUNITY-->
+            <li class="dropdown" id="navbar_community">
+              <a class="s_group s_showgroups s_online s_memberlist s_blog s_chat s_misc dropdown-toggle" href="http://chubbyparade.com/forum/group.php">COMMUNITY <small class="downarrow">▼</small></a>
+<script type="text/javascript">vbmenu_register("navbar_community",true);</script>
+            </li>
+
+	<li class="dropdown">
+		<a rel="nofollow" style="clear:none;padding-right:0px;" title="Enter the chat" href="http://chubbyparade.com/forum/misc.php?do=warning"><i class="allicon-chat"></i></a> 
+		
+	</li>
+
+          </ul>
+
+
+
+
+          <ul class="nav bsnavbar-nav bsnavbar-right" id="navbar_signup">
+            <li class="dropdown">
+		<a href="http://chubbyparade.com/forum/login.php?do=login">Log In</a>
+            </li>
+            <li class="dropdown">
+		<a href="http://chubbyparade.com/forum/register.php">Sign Up</a>
+            </li>
+          </ul>
+
+
+        </div><!--/.nav-collapse -->
+      </div>
+</div>
+
+
+
+
+<!--FORUM-MENU-->
+<ul class="dropdown-menu" id="navbar_forum_menu" style="display:none">
+	<li><a href="http://chubbyparade.com/forum/">Forum</a></li>
+	<li><a href="http://chubbyparade.com/forum/search.php?do=getnew">New Posts/Threads</a></li>
+	<li><a href="http://chubbyparade.com/forum/search.php?do=getdaily">Today's Posts</a></li>
+	<li><a href="http://chubbyparade.com/forum/misc.php?do=topposters">Top Posters</a></li>
+	<li><a href="http://chubbyparade.com/forum/showthread.php?t=74">Forum Rules</a></li>
+
+</ul>
+
+<!--PICS-MENU-->
+<ul class="dropdown-menu" id="navbar_pics_menu" style="display:none">
+	<li><a href="http://chubbyparade.com/gallery/">Gallery</a></li>
+	<li><a href="http://chubbyparade.com/forum/albums.php">Albums</a></li>
+	<li><a href="http://chubbyparade.com/forum/forumdisplay.php?f=1">Forum Threads</a></li>
+
+</ul>
+
+<!--VIDEOS-MENU-->
+<ul class="dropdown-menu" id="navbar_vids_menu" style="display:none">
+                <li><a href="http://video.chubbyparade.com/?nsfw">NSFW Videos</a></li>
+                <li><a href="http://video.chubbyparade.com/?sfw">SFW Videos</a></li>
+                <li><a href="http://chubbyparade.com/forum/forumdisplay.php?f=5">Video Threads</a></li>
+
+</ul>
+
+<!--FRIENDS-MENU-->
+<ul id="navbar_friends_menu" style="display:none" class="dropdown-menu">
+                <li class="clearfix"><a href="http://chubbyparade.com/forum/online.php" class="left">Who's Online</a>
+<a onclick="window.open('/forum/misc.php?do=buddylist&amp;focus=1','buddylist','statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=250,height=300'); return false;" href="/forum/misc.php?do=buddylist&amp;focus=1" class="right"><i class="allicon-link-ext"></i></a>
+                </li>
+
+</ul>
+
+<!--ME MENU-->
+<ul id="navbar_me_menu" class="dropdown-menu dropdown-menu-right" style="display:none">
+                <li><a href="http://chubbyparade.com/forum/member.php?u=0"><i class="allicon-user"></i> My Profile</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">MANAGE</li>
+                <li><a href="http://chubbyparade.com/forum/private.php"><i class="allicon-mail"></i> My PMs</a></li>
+                <li><a href="http://chubbyparade.com/forum/profile.php?do=editoptions"><i class="allicon-cog"></i> My Settings</a></li>
+
+</ul>
+
+<!--COMMUNITY-->
+<ul class="dropdown-menu" id="navbar_community_menu" style="display:none">
+		<li class="clearfix">
+			<a title="Chat" style="clear:none" class="left" onmouseover="nav_show('menu_social');" href="http://chubbyparade.com/forum/misc.php?do=warning">Chat</a>
+
+		</li>
+                <li><a href="http://chubbyparade.com/forum/group.php">Groups</a></li>
+                <li><a href="http://chubbyparade.com/forum/forumdisplay.php?f=46">Classifieds</a></li>
+                <li><a href="http://chubbyparade.com/forum/blog.php">Blogs</a></li>
+                <li><a href="http://chubbyparade.com/forum/memberlist.php">Members</a></li>
+                <li><a href="http://chubbyparade.com/forum/toplist.php">Links</a></li>
+
+</ul>
+
+
+
 
 
 
@@ -1172,82 +1893,9 @@ function nav_show(the_menu){
 
 
 
-<div id="subNavbar" class="alt1 roundbottom">
 
-<!--FORUM-->
-	<div id="menu_forum" class="subnavline s_index s_adv_index s_forumdisplay s_search s_profile s_newthread s_newreply s_showthread s_subscription s_tags">
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/showthread.php?t=74">Forum Rules</a></div>
-		
-			<div class="navbaritem"><a href="http://chubbyparade.com/forum/search.php?do=getdaily">Today's Posts</a></div>
-		
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/subscription.php" rel="nofollow">Subscribed Threads</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/realtime.php">Realtime Posts</a></div>
-		<div class="navbaritem menu_br_2"><a href="http://chubbyparade.com/forum/tags.php">Tags</a></div>
-		<div class="navbaritem menu_br_2"><a href="http://chubbyparade.com/forum/misc.php?do=topposters">Top Posters</a></div>
-		
-	</div>
-
-<!--PICS-->
-	<div id="menu_pics" class="subnavline s_all_albums s_album ">
-		<div class="navbaritem"><a href="http://chubbyparade.com/gallery/index.php">Gallery</a></div>
-		
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/forumdisplay.php?f=1">Forum Picture Posts</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/album.php?u=0">Your Albums</a></div>
-	</div>
-
-<!--VIDEOS-->
-	<div id="menu_videos" class="subnavline s_video_parade s_video_parade_watch">
-		<div class="navbaritem"><a href="http://video.chubbyparade.com/?nsfw">NSFW</a></div>
-		<div class="navbaritem"><a href="http://video.chubbyparade.com/?sfw">SFW</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/forumdisplay.php?f=5">Forum Video Posts</a></div>
-		
-	</div>
-
-<!--SOCIAL-->
-	<div id="menu_social" class="subnavline s_group s_showgroups s_online s_memberlist s_blog s_chat">
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/misc.php?do=warning"><i class="allicon-chat"></i> Chat</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/online.php">Who's Online</a></div>
-		<!--
-		<div class="navbaritem"><a href="http://chubbyparade.com/dating/">Dating</a></div>
-		-->
-		
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/group.php">Groups</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/forumdisplay.php?f=46">Classifieds</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/blog.php">Blogs</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/gallery/index.php?c=6">Verified Members</a></div>
-		<div class="navbaritem menu_br_2"><a href="http://chubbyparade.com/forum/memberlist.php">Member List</a></div>
-		<div class="navbaritem menu_br_0"><a href="http://chubbyparade.com/forum/showgroups.php">Mod Team</a></div>
-	</div>
-
-<!--PROFILE-->
-
-
-<!--Links-->
-	<div id="menu_other" class="subnavline s_toplist s_buzz">
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/toplist.php">Links</a></div>
-<!--
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/calendar.php">Calendar</a></div>
--->
-		<div class="navbaritem"><a href="http://chubbyparade.com/buzz/">Buzz</a></div>
-
-		<div class="navbaritem"><a href="http://chubbyparade.com/forum/faq.php">FAQ</a></div>
-		<div class="navbaritem"><a href="http://chubbyparade.com/donate.php">Donate</a></div>
-
-	</div>
-
-<!--RIGHT-->
-	<div class="navbarlogout">
-		
-			<a href="http://chubbyparade.com/forum/login.php?do=login">Log in</a> |
-			<a href="http://chubbyparade.com/forum/register.php" rel="nofollow">Register</a>
-		
-	</div>
-
-	<div class="c"></div>
-</div>
-
-
-
+<!--padding below navbar - margin will not work-->
+<div style="padding-bottom:25px;line-height:1px;height:1px;width:100%" class="clearfix"></div>
 
 
 <div align="center" style="margin-top:20px">
@@ -1258,13 +1906,12 @@ function nav_show(the_menu){
 <br>
 
 
-</div><!-- background:white -->
 
 <div class="thead" width="100%" style="padding:7px;" align="center">
 Chubby Parade's Privacy Policy
 </div>
 
-<div class="alt1" style="padding:10px 7px;" align="left">
+<div class="alt1" style="padding:10px 7px;">
 
 Your privacy is of the utmost importance to us. Because we ask for some basic personal information during registration, we want you to be fully informed of how this information is gathered and used.
 <br>
@@ -1347,8 +1994,20 @@ November 2006
 
 
 
+<script type="text/javascript"><!--
+function toggle_nav(){
 
+	var navbar_collapse = document.getElementById('navbar_collapse-xs');
 
+	if(navbar_collapse.style.display == 'block'){
+		navbar_collapse.style.display = 'none';
+	}else{
+		navbar_collapse.style.display = 'block';
+	}
+
+}
+//-->
+</script>
 
 <script type="text/javascript">/*<![CDATA[*/try {
 	var parent_location = new String(parent.location).toLowerCase();
@@ -1377,11 +2036,11 @@ November 2006
 	<div align="right" style="float:right;padding:6px" class="smallfont">
 			<strong>
 
-				<a href="./?styleid=7">Mobile</a> -
+				<a href="./?styleid=7?s=317e3bb5f714b8e58c986b7187f647e9">Mobile</a> -
 
 
 
-				<a href="http://chubbyparade.com/forum/contact.php" rel="nofollow" accesskey="9">Contact Us</a> -
+				<a href="http://chubbyparade.com/forum/contact.php?s=317e3bb5f714b8e58c986b7187f647e9" rel="nofollow" accesskey="9">Contact</a> -
 				
 				<a href="http://chubbyparade.com/privacy-policy.php">Privacy Policy</a> -
 
@@ -1395,7 +2054,8 @@ November 2006
 				
 
 
-				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Top</a>
+				<span class="hidden-xs">
+- <a href="#top" onclick="self.scrollTo(0, 0); return false;">Top</a></span>
 			</strong>
 	</div>
 <div style="clear:both"></div>
@@ -1404,7 +2064,7 @@ November 2006
 <br>
 
 
-<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">01:34 PM</span>.</div>
+<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">08:02 AM</span>.</div>
 
 
 
