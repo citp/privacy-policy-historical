@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523212712id_/http%3A//store.themodernman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themodernman.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004055531id_/http%3A//store.themodernman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Modern Man
 
@@ -18,7 +18,7 @@ You can change the settings on your internet browser to prevent cookies being st
 
 **Disclosure**
 
-We will use your information to contact you via e-mail. The Modern Man does not release your personal information (name, e-mail address, mailing address, credit data, etc.) with anyone else. We will never disclose information about our customers to third parties except where it is part of operating our website, for billing purposes, or for providing a service to you (i.e. arranging for a product to be sent to you, carrying out credit and other security checks).
+We will use your information to contact you via e-mail. The Modern Man does not release your personal information (name, e-mail address, mailing address, credit data, etc.) with anyone else. We will never disclose information about our customers to third parties.
 
 **Receiving information or products from TheModernMan.com**
 
@@ -30,7 +30,7 @@ National Privacy Principle 6 of the Australian Privacy Act allows you to get acc
 
 **Security**
 
-We have processes in place to ensure the security of your personal information, including encryption of all data when it is transferred to our service providers and limitations on access to personal information within our organisation. We use the highest level of security (up to 256 bit encryption – the level of encryption that banks use) to offer totally safe and secure transactions. So, you can rest assured that communications between your browser and TheModernMan.com's web servers are private and secure.
+We have processes in place to ensure the security of your personal information, including advanced encryption of all data when it is transferred to our service providers and limitations on access to personal information within our organisation. We use the highest level of security (up to 256 bit encryption - the level of encryption that banks use) to offer totally safe and secure transactions. So, you can rest assured that communications between your browser and TheModernMan.com's web servers are private and secure.
 
 **Transfer out of Australia**
 
