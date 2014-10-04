@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuscore.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124035334id_/http%3A//accuscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuscore.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004231616id_/http%3A//accuscore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AccuScore
 
@@ -8,7 +8,7 @@ Last Revised: November 4, 2011
 
 1\. INTRODUCTION  
 1.1 PURPOSE OF POLICY.  
-This Policy describes how Orion Data Analysis Corporation (“us,” “we” or “AccuScore”) collects, uses and discloses personal information from you when you visit and use AccuScore.com and the SKL online game (the “Site”). This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+This Policy describes how Accuscore Inc (“us,” “we” or “AccuScore”) collects, uses and discloses personal information from you when you visit and use AccuScore.com and the SKL online game (the “Site”). This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2 NOTICE CONCERNING CHILDREN  
 PLEASE NOTE: Our Site is operated for an adult audience only, and we require users to be at least 18 years of age. We do not intend for anyone under the age of 18 to use any of the features or services we offer from the Site, and we certainly do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. 2. INFORMATION COLLECTION PRACTICES  
@@ -49,4 +49,4 @@ The Site may contain links to other websites. If you choose to visit other websi
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at  [support@accuscore.com](mailto:support@accuscore.com) with subject line “Privacy Policy”.  
 6.2 UPDATES AND CHANGES  
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If any changes are made to this Privacy Policy we will reflect the “Last Revised” date above. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.  
-Copyright © 2004-2011 All rights are reserved. Powered by: Orion Data Analysis Corporation
+Copyright © 2004-2011 All rights are reserved. Powered by: Accuscore Inc
