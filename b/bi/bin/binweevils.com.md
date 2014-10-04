@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234609id_/http%3A//www.binweevils.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004100445id_/http%3A//www.binweevils.com/privacy.php) for the most accurate reproduction.*
 
 # Bin Weevils
 
@@ -11,9 +11,7 @@ Bin Weevils Limited ("Bin Weevils") - is the place in cyberspace where kids can 
 
 Bin Weevils believes in the power of kids and we encourage both them and their parents to use and enjoy our site. Whilst we embrace the interactive nature of online media, we strive to educate parents and kids about how to appropriately safeguard their privacy when travelling on the web. Our information collection practices are described below. We urge kids to check with their parents before entering any information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. This privacy policy covers the site BinWeevils.com.
 
-Bin Weevils has been awarded TRUSTe's Children's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's program requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information collected on BinWeevils.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at **[privacy@binweevils.com](mailto:privacy@binweevils.com)**. If you are not satisfied with our response you can [**contact TRUSTe here.**](http://watchdog.truste.com/pvr.php?page=complaint)
-
-[](https://privacy.truste.com/privacy-seal/Bin-Weevils-Limited/validation?rid=d0dd2a34-5ab2-4ce2-be6d-3e61b8e9d5ae "TRUSTe Children privacy certification")
+If you have questions or complaints regarding our privacy policy or practices, please contact us at **[privacy@binweevils.com](mailto:privacy@binweevils.com)**. 
 
 **What Information Is Collected?**  
 At Bin Weevils Limited, it is our policy to create website content which requires minimum collection of information from our visitors. Generally, Bin Weevils limits collection of information to what is known as non-personally identifiable information (e.g. first name, age, gender, city or town). This information is collected so kids can participate in activities without giving out unnecessary personal information. Where we need extra information, e.g. kids'/parents' email addresses/telephone numbers (as explained below) to run competitions, allow the use of the 'Invite A Friend' feature, or to offer extra on-line activities, we let parents know the reason why we are collecting the information and what we will do with it. 
@@ -85,9 +83,11 @@ If you have any questions, comments or concerns regarding our privacy policy and
 
 Alternatively you can write to:   
 Bin Weevils Limited  
-42 Upper Berkeley Street  
-London   
-W1H 5QJ  
+4th Floor,  
+Clarebell House,  
+5-6 Cork Street,  
+London,  
+W1S 3NX  
 Telephone: +44 (0)20 3397 6831
 
 **16\. Changes in this Privacy Policy**  
