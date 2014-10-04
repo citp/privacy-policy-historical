@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231748id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004101610id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kids Crafts & Activities for Children | Kiwi Crate
 
@@ -9,6 +9,8 @@ In order to access and use the Site and Services, you must agree to our [Online 
 By submitting Personal Information through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
 
 Your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than the laws in your country.
+
+## What Information Do We Collect?
 
 “Personal Information” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.  “Non-Personal Information” means data that is not associated with or linked to your Personal Information; Non-Personal Information does not, by itself, permit the identification of individual persons.  We collect Personal Information and Non-Personal Information, as described below.
 
@@ -28,7 +30,9 @@ We collect additional information through the Site and the Service that is not a
 
 The Site is not directed to children and children are not eligible to use our Services.  Protecting the privacy of children is very important to us.  We do not collect or maintain Personal Information from people we actually know are under 18, and no part of our Site or Service is designed to attract people under 18.  If we later learn that a user is under 18, we will take steps to remove that user's Personal Information from our databases and to prevent the user from utilizing the Site and the Service.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party.  You or the third party may contact us at [http://www.kiwicrate.com/contact-us](http://www.kiwicrate.com/contact-us/) to request the removal of this information from our database.
+If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party.  You or the third party may contact us at <http://www.kiwicrate.com/contact-us/> to request the removal of this information from our database.
+
+## Use and Disclosure of Collected Information
 
 Company uses information collected from the Site and Service in several ways, as outlined in this policy.  For example, we use Personal Information as needed to provide Site and Services, to create Accounts, and to communicate with Registered Users.  We also use both Personal Information and Non-Personal Information when evaluating ways to improve the Site and the Service.  As further described below, in limited circumstances we may disclose collected information, including Personal Information, to certain third parties in connection with providing Services or as required by law.  We will not use or disclose collected information in ways different from what is described in this policy unless otherwise required by law.
 
@@ -50,6 +54,8 @@ We do not maintain responsibility for the manner in which third parties use or f
 
 The Site contains links to other Web sites.  Please be aware that we are not responsible for the privacy practices or the content of such other Web sites. We encourage our users to read the privacy statements of each and every Web site they visit.  This privacy statement applies solely to information collected by us through the Site.
 
+## Access To Personal Information Collected From You
+
 Registered Users may access their Registration Profiles at any time to update Personal Information contained within that Registration Profile.  Subsequent uses or disclosures of information by us will reflect those changes, but we have no ability to update any information previously disclosed to any third party. 
 
 You may request deletion of your Personal Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  When we delete any information, it will be deleted from the active database, but may remain in our archives.
@@ -60,8 +66,12 @@ Furthermore, access to Personal Information is physically restricted within our 
 
 Please be aware that, although we endeavor to provide security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of Personal Information or Non-Personal Information arising in connection with the theft thereof.  Likewise, Registered Users are responsible for safeguarding the confidentiality of passwords to any Services, and we bear no liability for access to, or use or disclosure of, Personal Information, if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of a password.
 
-If you have any questions about our security measures, you can click here to contact us http://www.kiwicrate.com/.
+If you have any questions about our security measures, you can [click here to contact us](http://www.kiwicrate.com/contact-us/).
+
+## Changes to This Policy
 
 If we change our privacy policy, we will post those changes on the Site so that users are always aware of what information we collect, how we use it, and under what circumstances, if any, we will disclose it. Any changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. In any event, changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Your continued access to and/or use of the Site or Service following notice of such changes constitutes your assent to, and acceptance of, this policy, including all posted changes for which we have provided notice as described herein.
 
-If you have any questions about this privacy policy, please contact us at [http://www.kiwicrate.com/contact-us](http://www.kiwicrate.com/contact-us/). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 103A Pioneer Way, Mountain View, CA 94041, or [click here to contact us](http://www.kiwicrate.com/contact-us/) or send an e-mail to info at kiwicrate dot com.
+## Contacting Company
+
+If you have any questions about this privacy policy, please contact us at [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 140 E Dana St. Mountain View, CA 94041, or [click here to contact us](http://www.kiwicrate.com/contact-us/) or send an e-mail to [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com).
