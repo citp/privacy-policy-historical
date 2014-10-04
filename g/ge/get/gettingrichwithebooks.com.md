@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingrichwithebooks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095150id_/http%3A//www.gettingrichwithebooks.com/v3/members/contact-us/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingrichwithebooks.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004053345id_/http%3A//www.gettingrichwithebooks.com/v3/members/contact-us/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Getting Rich With Ebooks v3
 
