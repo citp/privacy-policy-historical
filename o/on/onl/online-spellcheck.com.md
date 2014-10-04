@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-spellcheck.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626224311id_/http%3A//www.online-spellcheck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-spellcheck.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004075330id_/http%3A//www.online-spellcheck.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
