@@ -1,118 +1,85 @@
-> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205091522id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004175622id_/http%3A//latonas.com/privacy) for the most accurate reproduction.*
 
-# Latona's Brokerage and Auction House
+# Privacy Policy - Latonas.com
 
-#### Privacy Policy
+Latona's LLC. ("Latonas","Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information, the choices available to you regarding our use of your personal information and how you can access and update this information. By visiting the Latonas website and domain name, and any other linked pages, features, content, or mobile application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-**This policy tells you about how we use and protect your personal information.**
+This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing Company's Website and when you use Company services.
 
-#### Scope
-
-This Privacy Policy describes how we handle your personal information for our services on the Latona's websites. It applies generally to the Latonas.com website and content and other related websites where this policy appears in the footer of the page. Some Latona's-branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears in the footer of each website. 
-
-Our subsidiaries' and joint ventures' privacy practices are similar to those described in this Privacy Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global Latona's trading community. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on December 7th, 2009. 
-
-#### Collection
-
-You can browse our sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States. 
-
-We may collect and store the following personal information:
-  * email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers;
-  * transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account);
-  * shipping, billing and other information you provide to purchase or ship an item, if applicable;
-  * community discussions, chats, dispute resolution, correspondence through our sites and correspondence sent to us;
-  * other information from your interaction with our sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;
-  * additional information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an intellectual property you list);
-  * information from other companies, such as demographic and navigation data; and
-  * other supplemental information from third parties (for example, if you incur a debt to Latona's, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law).
+  
 
 
+## Your Personal Information We Collect
 
-#### Marketing
+The information we gather from customers enables us to personalize and improve our services, and to allow our users to set up a user profile and make purchases via the Website. In general, we use the personal information we collect from you to fulfill your order, send you an order confirmation, send you requested product or service information, respond to customer service requests, improve our Web site and marketing efforts, display content based upon your interests and administer your account.
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference or by following the directions provided with the communication or advertisement. 
+When you register or (log in), you supply your email address and a password. This allows us to provide you access to your account every time you visit Company website. During your setup you may also provide your name, phone number and/or physical address. This will allow our brokers to contact you if you show interest in one of our properties for sale or if you want to sell your property. This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features, and you may not be able to complete a purchase through the Company Website.
 
-#### Use
+We may use your email address to notify you about the Company daily deals or to inform you of your order placement, order status and/or shipping information if you have opted-in. Emails are sent only to Company users who have chosen to receive them (opted-in) or who have made a purchase on our Website. At any time, you can notify us to opt-out from receiving these emails (See "Opt-out" section below). In addition, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to help us better meet better meet your needs.
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. The Company stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@latonas.com](mailto:info@latonas.com) to request that we remove this information from our database.
 
-You agree that we may use your personal information to:
-  * provide the services and customer support you request;
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our User Agreement;
-  * customize, measure and improve our services, content and advertising;
-  * tell you about our services and those of our corporate family, targeted marketing, service updates, and promotional offers based on your communication preferences; and
-  * compare information for accuracy, and verify it with third parties.
+We also display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below. 
 
+Users of our Website are required to be at least 18 years old, and any user under 18 is not an authorized user. Additionally, if we learn that a user is under 13 years of age, we will promptly delete any Personal Information we have collected about that user.
 
+## Automatically Collected Information
 
-#### Our Disclosure of Your Information
+Upon engaging Company website or services the Company automatically receives and records information on our server logs from your browser including your IP address, the type of browser being used, cookie information, the page you requested, duration of activity on our site and any items you may purchase. This information may be used to customize the content you see on our Website or to communicate with you about special offers. These statistics do not identify you personally, but provide us information regarding the type of user who is accessing our Website and certain browsing activities of that user. We may make extensive use of this data at an aggregated level in order to understand how our Company website is being used.
 
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. 
+## Cookies and Other Tracking Technologies
 
-We may also share your personal information with:
-  * Members of the Rick Latona Family of Companies like RickLatona.com, DigiPawn.com or DigiLoan.com to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.
-  * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards).
-  * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
-  * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation, such as name, city, state, zip code, telephone number, email address, User ID history, IP address, fraud complaints, and bidding and listing history.
-  * Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.)
+Like most other transactional Websites, we use "cookies" to improve your shopping experience and to save you time. Cookies are little tags that are placed onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Cookies allow us to customize our website to your individual preferences in order to create a more personalized shopping experience. Please note that the cookies we use for our Website or email campaigns do not store personally identifiable information about you or your finances. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the shopping cart, will be limited. 
 
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partners uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
+If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](mailto:info@latonas.com?Subject=optout). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. 
+The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
 
-#### Information You Share on Latona's
+## Sharing of Personal Information
 
-Your User ID is displayed throughout Latona's (and so available to the public), and is connected to all of your Latona's activity. Other people can see your bids, purchases, items for sale, storefronts, feedback, ratings and associated comments. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your Latona's activities. 
+We neither rent nor sell your Personal Information to anyone. We share your Personal Information only in instances as described below.
 
-If you access our sites from a shared computer or a computer in an internet cafe certain information about you, such as your User ID, activity or reminders from Latona's, may also be visible to other individuals who use the computer after you. 
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you, such as shipping your order, processing a payment or offering customer service. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
 
-#### Using Information from Latona's
+We restrict access to your Personal Information to those employees who need to know that information to provide products or services to you. At all times we take the utmost care to protect your personal information.
 
-Latona's enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions. When users are involved in a transaction, they may have access to each other's name, User ID, email address and other contact and shipping information. In all cases, you must give other users a chance to remove themselves from your database and a chance to review what information you have collected about them. 
+Company may be forced to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when Company, in its sole discretion, deems it necessary in order to protect its rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply Company Website terms of use.
 
-#### You agree to use user information only for:
+If Company is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
 
-  * Latona's transaction-related purposes that are not unsolicited commercial messages;
-  * using services offered through Latona's (such as escrow, shipping, and fraud complaints), or
-  * other purposes that a user expressly chooses.
+## Secure Shopping for All Latonas Customers
 
+Company endeavors to protect user information to ensure that user account information is kept private. Your Company account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
+When Company's order form asks users to enter Personal Information such as a credit card number, that information is encrypted with industry-standard Secure Socket Layers ("SSL") encryption to keep your online order safe and secure. Company also maintains physical, electronic, and procedural safeguards that comply with federal regulations to protect your Personal Information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@latonas.com](mailto:info@latonas.com).
 
-#### Cookies
+## User Access and Choice (Opt-out)
 
-We use "cookies" (small files placed on your hard drive) on certain of our pages to help analyze our web page flow; customize our services, content and advertising; measure promotional effectiveness, and promote trust and safety. 
+If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at [info@latonas.com](mailto:info@latonas.com) or by contacting us by telephone or postal mail at the contact information listed below. If you no longer desire our service, or wish to have all of your information deleted, please contact us directly. We will respond to your request within 30 days.
 
-A few important things you should know about cookies are that:
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  * We offer certain features that are available only through the use of cookies.
-  * We use cookies to help identify you and maintain your signed-in status.
-  * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
-  * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services.
-  * You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.)
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [info@latonas.com](mailto:info@latonas.com).
 
+## Third Party Links and Plug-ins
 
+Our Site includes links to other Web sites whose privacy practices may differ from those of the Company. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-#### No Spam, Spyware or Spoofing
+Our site includes Social Media Features, such as the Facebook Like button, links to our various social media pages and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-We and our users do not tolerate spam. Make sure to set your Latona's communication preferences so we communicate to you as you prefer. You are not licensed to add other Latona's users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+## Changes in Policy
 
-#### Account Protection
+Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to Company Policy. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email at least 15 or 30 days prior to the change taking effect, respectively depending on the method of notice. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your Latona's password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Latona's and change your password. 
+## Questions or Concerns
 
-#### Accessing, Reviewing and Changing Your Personal Information
+If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to [info@latonas.com](mailto:info@latonas.com) and we will make every effort to resolve your concerns. You may also write to us at:
 
-You can see, review and change most of your personal information by signing on to Latona's. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our user agreement and take other actions otherwise permitted by law. 
+Latona's LLC  
+2870 Peachtree Rd  
+Suite 420  
+Atlanta, GA 30305  
+Effective Date: July 22, 2013  
 
-#### Security
-
-Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
-
-#### Third Parties
-
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are bidders, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Latona's does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
-
-#### General
-
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through the Latona's Message Center. If your questions are not answered online, you may write to us at: Latona's LLC. Attn: Legal - 3 West Paces Ferry Rd, Suite 201, Atlanta, GA 30305 
