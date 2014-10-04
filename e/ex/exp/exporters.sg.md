@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054052id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004200459id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Exporters.SG
 
@@ -42,7 +42,7 @@ Information Sharing & Disclosures
 ** We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.
 
 **Personally identifiable information  
-**We DO NOT Share Personally Identifiable Information with Third Parties that are not publicly available in Exporters.SG. For example, your email address.
+**We DO NOT Share Personally Identifiable Information with Third Parties that are not publicly available in Exporters.SG.
 
 We do share your company information that is publicly available like company name, company address, business description and contact numbers with trade promoting organisations. The purpose of sharing these information is to give a better exposures for our members.
 
@@ -135,4 +135,4 @@ If you have any questions or suggestions regarding our privacy policy, please [c
 
 Back to Top
 
-**Updated on 1st Aug 2010**
+**Updated on 18th July 2014**
