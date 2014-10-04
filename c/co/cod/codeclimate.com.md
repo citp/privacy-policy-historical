@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeclimate.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327211622id_/https%3A//codeclimate.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeclimate.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004160224id_/https%3A//codeclimate.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Code Climate
 
