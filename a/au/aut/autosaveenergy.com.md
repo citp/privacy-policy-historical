@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autosaveenergy.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722175222id_/http%3A//www.autosaveenergy.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosaveenergy.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004134255id_/http%3A//www.autosaveenergy.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # autosaveenergy.com » Privacy Policy
 
