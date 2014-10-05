@@ -1,0 +1,1010 @@
+<!--The following is the downloaded HTML source of the moveloot.com privacy policy that was archived on 2014-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141005161858id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"497d706d62","applicationID":"4765126","transactionName":"cFlbFkRdVFxXExZKQ1JCXAEZQkpZRABaQGhDWVkLVUs=","queueTime":0,"applicationTime":44,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIAVl5aGwcHUlRTBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<title>Privacy Policy</title>
+<meta content="Move Loot Privacy Policy. This Privacy Statement describes the types of personal information Move Loot, Inc. collects through www.moveloot.com" name="description">
+<meta content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+<link data-turbolinks-track="true" href="/assets/application-9153b7b2a2e8b71649e3e36417a50d29.css" media="all" rel="stylesheet">
+<script data-turbolinks-track="true" src="/assets/application-2b36dfd280dedbb4f8ec6965ad6fe3a1.js"></script>
+<script data-turbolinks-track="true" src="https://js.braintreegateway.com/v2/braintree.js"></script>
+<link href="/assets/favicon-80c6895589bbcfa503402359fe5eb5db.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<meta content="86042db404eabf78b79683908fe4d502" name="p:domain_verify">
+<meta content="5iZ9cAy-RDKVrm5RN9Dhe-QjfkarIvP3Z7BUjiZDes4" name="google-site-verification">
+<meta content="13FC252F4083EE1DE73636A26FA81A20" name="msvalidate.01">
+<meta content="mu-a562627e-f119d308-88042c91-1490d232" name="blitz">
+<meta content="app-id=883723244" name="apple-itunes-app">
+<script>
+  dataLayer = [
+    {
+      'conversion_type': 'none',
+      'conversion_value': 0,
+      'conversion_id': 0,
+      'convserion_shipping': 0,
+      'conversion_tax': 0,
+      'transactionId': 744723311,
+      'transactionAffiliation': 'Acme Clothing',
+      'transactionTotal': '11.99',
+      'transactionTax': '1.29',
+      'transactionShipping': '5',
+      'transactionProducts': [{
+          'sku': 'DD44',
+          'name': 'T-Shirt',
+          'category': 'Apparel',
+          'price': '11.99',
+          'quantity': '1'
+      },{
+          'sku': 'AA1243544',
+          'name': 'Socks',
+          'category': 'Apparel',
+          'price': '9.99',
+          'quantity': '2'
+      }]
+    }
+  ];
+</script>
+
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="lSvCayT4FhBSX0S0fsNeWIhPKJnRaVBbNybhuWYYsdA=" name="csrf-token">
+</head>
+<body class="static-controller privacy_policy-action" style="background-image: url(/assets/sf_skyline_background-d8735b4b53149dba0e8e30c94fa06a76.png)">
+<div id="fb-root"></div>
+    <script type="text/javascript">
+      window.analytics.page();
+    </script>
+
+
+
+
+
+
+
+<div class="container hidden-sm hidden-xs">
+<div class="active" id="sell-furniture-sticky">
+<div id="sell-furniture-text">
+<a class="sticky-sell btn btn-primary" href="/rdu/sell">Sell furniture</a>
+</div>
+</div>
+</div>
+<div class="hidden-sm hidden-xs" id="top-navbar">
+<div id="top-navbar-container">
+<div id="top-navbar-info">
+<p>Free Delivery over $99</p>
+</div>
+<div id="top-navbar-logo">
+<a href="/rdu" id="main-logo-link"><img alt="Movelootweblogo" id="main-logo" src="/assets/MoveLootWebLogo-d413dccf27525ba422142e844839094b.png"></a>
+<div id="service-area-switcher">
+<a class="unstyled" data-show-service-area-modal="#service-area-switch-modal" href="#">RALEIGH &amp; DURHAM
+<b class="caret"></b>
+</a></div>
+
+</div>
+<div id="top-navbar-account-cart">
+<a class="unstyled" href="/users/sign_in?next=%2F404&amp;service_area=rdu">Sign In
+</a>
+<div class="dropdown" id="cart-dropdown">
+<a class="btn dropdown-toggle" href="/rdu/orders/new">
+<span class="cart-icon">
+<i class="ml-icon empty-cart"></i>
+<div class="number_of_items">0</div>
+</span>
+
+</a>
+<div class="dropdown-tab">
+<div class="dropdown-tab-inner"></div>
+</div>
+<div class="cart-menu dropdown-menu dropdown-menu-right">
+<h3>
+Your Cart
+</h3>
+<table class="cart-table table">
+<tbody>
+<tr class="subtotal">
+<td class="text">
+<b>SUBTOTAL</b>
+</td>
+<td class="value">
+<b>$0.00</b>
+</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p class="free_delivery">
+$100.00 left until
+<span class="green">free delivery</span>
+</p>
+<div class="hidden-xs hidden-sm">
+<a class="btn btn-main checkout-button" href="/rdu/orders/new">Check Out</a>
+</div>
+<div class="visible-xs visible-sm">
+<a class="btn btn-main checkout-button" href="/rdu/orders/new" style="background: none">Check Out</a>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="visible-sm visible-xs" id="top-navbar-mobile">
+<div class="mobile-menu-link">
+<a class="unstyled" data-toggle-body-class="menu-open" data-toggle-sidebar="#top-navbar-mobile-menu" href="#"></a>
+</div>
+<div id="mobile-logo">
+<a href="/rdu" id="main-logo-link"><img alt="Mobile logo" id="main-logo" src="/assets/mobile_logo-87ee4adfbb51dda0db94efbc3bdb8d24.png"></a>
+</div>
+<div class="mobile-cart-link">
+<a class="unstyled" data-toggle-body-class="cart-open" data-toggle-sidebar="#top-navbar-mobile-cart" href="#">
+<span class="mobile-cart-icon">
+<i class="mobile-empty-cart"></i>
+<div class="mobile-number-of-items">0</div>
+</span>
+
+</a>
+</div>
+<div id="top-navbar-mobile-menu">
+<div id="mobile-search">
+<form accept-charset="UTF-8" action="/rdu/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<i class="ml-icon search-icon"></i>
+<input class="form-control" id="q" name="q" placeholder="TYPE TO SEARCH" type="text">
+</form>
+
+</div>
+<hr class="hr2">
+<a class="btn-alt" data-show-service-area-modal="#service-area-switch-modal" href="#">CURRENT LOCATION
+<br>
+RALEIGH &amp; DURHAM
+<b class="caret"></b>
+</a><h5>Categories</h5>
+<ul>
+<li><a class="unstyled" href="/rdu/shop/new">NEW</a></li>
+<li><a class="unstyled" href="/rdu/shop/sofas">SOFAS</a></li>
+<li><a class="unstyled" href="/rdu/shop/chairs">CHAIRS</a></li>
+<li><a class="unstyled" href="/rdu/shop/tables">TABLES</a></li>
+<li><a class="unstyled" href="/rdu/shop/dressers">DRESSERS</a></li>
+<li><a class="unstyled" href="/rdu/shop/storage">STORAGE</a></li>
+<li><a class="unstyled" href="/rdu/shop/beds">BEDS</a></li>
+<li><a class="unstyled" href="/rdu/shop/decor">DECOR</a></li>
+<li><a class="unstyled" href="/rdu/shop/office">OFFICE</a></li>
+</ul>
+<a class="btn-main" href="/rdu/sell">sell furniture</a>
+<h5>Support</h5>
+<ul>
+<li><a href="/contact?service_area=rdu">CONTACT</a></li>
+<li><a href="/how_it_works?service_area=rdu">HOW IT WORKS</a></li>
+<li><a href="/rdu/faq">FAQ</a></li>
+<li><a href="/delivery_policy?service_area=rdu">DELIVERY</a></li>
+<li><a href="/return_policy?service_area=rdu">RETURNS</a></li>
+<li><a href="/seller_details?service_area=rdu">SELLING DETAILS</a></li>
+<li><a href="/buyer_details?service_area=rdu">BUYING DETAILS</a></li>
+</ul>
+<h5>Company</h5>
+<ul>
+<li><a href="/about_us?service_area=rdu">ABOUT</a></li>
+<li><a href="http://blog.moveloot.com">BLOG</a></li>
+<li><a href="/gift_cards?service_area=rdu">GIFT CARDS</a></li>
+<li><a href="/press?service_area=rdu">PRESS</a></li>
+<li><a href="/careers?service_area=rdu">CAREERS</a></li>
+</ul>
+<h5>Legal</h5>
+<ul>
+<li><a href="/consignment_agreement?service_area=rdu">CONSIGNMENT AGREEMENT</a></li>
+<li><a href="/terms?service_area=rdu">TERMS &amp; CONDITIONS</a></li>
+<li><a href="/privacy_policy?service_area=rdu">PRIVACY POLICY</a></li>
+</ul>
+<a class="btn-alt" href="/users/sign_in?next=%2F404&amp;service_area=rdu">sign in</a>
+
+</div>
+<div id="top-navbar-mobile-cart">
+<h3>
+Your Cart
+</h3>
+<table class="cart-table table">
+<tbody>
+<tr class="subtotal">
+<td class="text">
+<b>SUBTOTAL</b>
+</td>
+<td class="value">
+<b>$0.00</b>
+</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p class="free_delivery">
+$100.00 left until
+<span class="green">free delivery</span>
+</p>
+<div class="hidden-xs hidden-sm">
+<a class="btn btn-main checkout-button" href="/rdu/orders/new">Check Out</a>
+</div>
+<div class="visible-xs visible-sm">
+<a class="btn btn-main checkout-button" href="/rdu/orders/new" style="background: none">Check Out</a>
+</div>
+
+</div>
+</div>
+
+
+<div class="white" id="wrapper">
+<div id="flash-messages">
+</div>
+
+<div id="cart-expiration-messages">
+</div>
+
+<div class="hidden-sm hidden-xs">
+<div id="categories-navbar-outline">
+<div id="categories-navbar-outline-inner"></div>
+<div id="categories-navbar-container">
+<ul class="categories">
+<li class="">
+<a class="unstyled" href="/sf/shop/new"><span>NEW</span>
+</a></li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/sofas"><span>SOFAS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas/classic_sofas">Classic Sofas</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas/loveseats">Loveseats</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas/sectionals">Sectionals</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas/chaises">Chaises</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas/sofa_sets">Sofa Sets</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Sizes</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas?size=2+Seater">2 Seater</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas?size=3+Seater">3 Seater</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/sofas?size=4+Seater">4 Seater</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/chairs"><span>CHAIRS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs/accent_chairs">Accent Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs/home_office_chairs">Home Office Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs/dining_chairs">Dining Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs/benches">Benches</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs/stools">Stools</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Rooms</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs?room=Living+Room">Living Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs?room=Entryway">Entryway</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs?room=Dining+Room">Dining Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs?room=Outdoor">Outdoor</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/tables"><span>TABLES</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/dining_sets">Dining Sets</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/coffee_tables">Coffee Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/end_tables">End Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/dinner_tables">Dinner Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/utility_tables">Utility Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/accent_tables">Accent Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables/home_office_desks">Home Office Desks</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Rooms</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables?room=Bedroom">Bedroom</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables?room=Living+Room">Living Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables?room=Dining+Room">Dining Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/tables?room=Outdoor">Outdoor</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/dressers"><span>DRESSERS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/dressers/chests_of_drawers">Chests of Drawers</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/dressers/dresser_sets">Dresser Sets</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/dressers/wardrobes">Wardrobes &amp; Armoires</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/dressers/trunks">Trunks</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/storage"><span>STORAGE</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage/wardrobes">Wardrobes &amp; Armoires</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage/media_units">Media Units</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage/filing_bins">Filing &amp; Bins</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage/cabinets">Cabinets &amp; Sideboards</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage/trunks">Trunks</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage/bookcases">Bookcases &amp; Shelving</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Rooms</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage?room=Bedroom">Bedroom</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage?room=Living+Room">Living Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage?room=Kitchen">Kitchen</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage?room=Home+Office">Home Office</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/storage?room=Dining+Room">Dining Room</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/beds"><span>BEDS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds/headboards">Headboards</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds/bed_frames">Bed Frames</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds/bed_sets">Bed Sets</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Sizes</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds?size=Twin">Twin</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds?size=Full">Full</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds?size=Queen">Queen</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds?size=King">King</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/beds?size=Cal+King">Cal King</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/decor"><span>DECOR</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/decor/rugs">Rugs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/decor/wall_art">Wall Art</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/decor/mirrors">Mirrors</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/decor/lamps">Lamps</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/decor/decorative">Decorative Accents</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/office"><span>OFFICE</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/office/desks">Desks</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/office/chairs">Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/office/tables">Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/office/lighting">Lighting</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/office/storage">Storage</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/office/accessories">Accessories</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="">
+<a class="unstyled" href="/sf/shop/sale"><span>SALE</span>
+</a></li>
+<li class="search">
+<form accept-charset="UTF-8" action="/sf/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<input id="sort" name="sort" type="hidden" value="best_match">
+<input id="q" name="q" placeholder="SEARCH" type="text">
+</form>
+
+<img alt="Search" src="/assets/new_icons/search-17f84418e14cf94e5d8d25ed8374c8f8.png">
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div id="page-content" role="main">
+<div id="mobile-disabler"></div>
+<div class="static-info" id="privacy-policy">
+<h1>MOVE LOOT INC. - PRIVACY STATEMENT</h1>
+<div class="content">
+<h2>I. Scope of this Privacy Statement</h2>
+<p>This Privacy Statement describes the types of personal information Move Loot, Inc. (“Company,” “us,” “we” or “our”) collects through www.moveloot.com, (the “Site”) and our application (the “Application”, and collectively with the Site, the “Services”), and how we collect, use, and share that information.  This Privacy Statement does not govern our collection of personal information through any website or other means, other than through the Services.</p>
+<p>By using the Services, you explicitly accept, without limitation or qualification, our practices surrounding the collection, use, and sharing of personal information provided by you in the manner described in this Privacy Statement.  If you do not agree with the terms of this Privacy Statement, please do not access, browse, or use the Services.</p>
+<h2>II. Personal Information We Collect</h2>
+<h3>A. Information You Give Us</h3>
+<p>You do not have to give us any personal information to browse the Services.  However, you may be asked to provide personal information to submit or request information from us, or to use the Services.  Once you provide us with personal information about you, you are no longer anonymous to us.</p>
+<p>Our Services are designed to create local marketplaces to facilitate the sale and delivery of household items, such as furniture.  You provide information when you register for our Services; post an item for sale; make a purchase; request, submit, or accept a bid; arrange for a delivery; answer a survey or questionnaire; or communicate with us in person, by phone or by email.  This information may include:</p>
+<ul class="aligned">
+<li><span style="text-decoration:underline;">Registration information</span>.  When you sign up for the Services, you are required to provide information such as your name, email address, zip code, birthday, and telephone number, or, if you chose to connect via a third party social network your login information for such third party social network.</li>
+<li><span style="text-decoration:underline;">Transactional Information</span>.  Transaction information may include information about the item you are selling or buying, your location (including your physical address), any description or pictures of the item you post, additional commentary or communication about the item, and certain metadata, such as the timestamp of such activity, telephone number, logistical information pertaining to the pick-up or delivery of furniture (such as whether you live in a multi-story building, whether the move will involve the use of stairs or an elevator, etc.); and payment card information.</li>
+<li><span style="text-decoration:underline;">Additional Information</span>.  Additional information that you provide to us, including through comments and feedback, emails, or answers to surveys or questionnaires that you may submit. You will also be able to access your mobile camera and photo library through our mobile site, but we will not collect photo information unless you choose to upload such information to our Services.</li>
+</ul>
+<h3>B. Information from Social Networks</h3>
+<p>We also collect personal information about you and your friends and connections on Facebook, Twitter, and other social media networks with which we may partner from time to time, of which you are a member and that you identify to us (“Social Network”), such as names, ages, genders, email addresses, Social Network IDs, Social Network profile pictures, Social Network activities, education histories, hometowns, groups, interests, likes, locations, relationship statuses, religious and political views, list of friends, and work histories.</p>
+<h3>C. Automated Information Collection</h3>
+<p>We may collect certain information about your use of the Services through the use of tracking technologies or by other passive means.  This “passively collected” information includes, but is not limited to, the domain name of the website that allowed you to navigate to the Services, search engines used, the internet protocol (IP) address used, the length of time spent on the Services, the pages you looked at on the Services, other websites you visited before and after visiting the Services, the type of internet browser you have, the frequency of your visits to the Services, and other relevant statistics, including the following:</p>
+<ul class="aligned">
+<li><span style="text-decoration:underline;">Log Information</span>.  When you access the Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request, and one or more cookies (small text files containing a string of characters) that may uniquely identify your browser.</li>
+<li><span style="text-decoration:underline;">Links</span>.  The Services may include links in a format that enables us to keep track of whether these links have been followed by IP addresses.  We use this information to improve the quality of our products and design.</li>
+<li><span style="text-decoration:underline;">URLs</span>.  When you visit or access the Services we automatically receive the URL of the site from which you came and the site to which you are going when you leave the Services.  Additionally, advertisers receive the URL of the page you were on when you click on an ad on the Services.  We also receive the internet protocol (“IP”) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, your mobile device and mobile operating system, as well as the name of your ISP or your mobile carrier.</li>
+<li><span style="text-decoration:underline;">Location Data</span>.  We may also receive location data passed to us from GPS-enabled devices that you have enabled or from third-party services.</li>
+<li><span style="text-decoration:underline;">Cookies</span>.  When you visit or access the Services, we send one or more cookies (small text files containing a string of characters) to your computer that uniquely identifies your browser.  We use cookies to improve the quality of the Services by storing user preferences and tracking user trends.  Most web browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent.  If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies.  Please note that if you disable cookies, you may not be able to use some customized features available through the Services.</li>
+<li><span style="text-decoration:underline;">Web Beacons</span>.  Web beacons (also known as “pixel tags” or “clear GIFs”) are 1x1 single-pixel graphics that allow us to count the number of users who have visited or accessed the Services and to recognize users by accessing our cookies.  We may employ web beacons to facilitate Services administration and navigation, to track the actions of users of the Services, to compile aggregate statistics about Services usage and response rates, and to provide an enhanced online experience for visitors to the Services.  We may also include web beacons in HTML-formatted e-mail messages that we send to determine which e-mail messages were opened.</li>
+<li><span style="text-decoration:underline;">Aggregate Information</span>.  We may also compile personal information and other information collected through the Services on an aggregate basis.  This information may include, without limitation, the number of people who have visited the Services and other user demographics.  Such aggregate information does not identify you individually.</li>
+</ul>
+<h2>III. How We Use Personal Information</h2>
+<p>Personal information collected through the Services may be used by Company and its affiliates for purposes of:</p>
+<ul class="aligned">
+<li>Administering your account, processing payments for products and services purchased through the Services, arranging for the pick-up or delivery of the products and services purchased through the Services, and otherwise providing the products and services you select through the Services.</li>
+<li>Responding to your questions and feedback;</li>
+<li>Contacting you, whether by email, postal mail, or telephone with information about the Services, including communications regarding future products and services that we believe may be of interest to you;</li>
+<li>For such purposes as you may authorize at the time you submit the information;</li>
+<li>Auditing, research, and analysis to maintain, protect, and improve Services and our other services;</li>
+<li>Ensuring the technical functions of our network;</li>
+<li>Improving and customizing the content and layout of the Services;</li>
+<li>Creating a profile based on the information you have provided;</li>
+<li>Tailoring advertisements to you;</li>
+<li>Developing new products and services; or</li>
+<li>Compiling personal information and other information collected through the Services on an aggregate basis.</li>
+</ul>
+<h2>IV. Personal Information We Share</h2>
+<p>We do not sell, rent, trade, or otherwise share personal information collected through the Services, except as described below:</p>
+<ul class="aligned">
+<li><span style="text-decoration:underline;">In Connection with our Offerings</span>.  The Services involve the sharing of personal information collected through the Services with (i) other users of the Services, (ii) your Social Network if you choose to connect via your Social Network (including users of your Social Network who are not users of the Services), and (iii) as you otherwise provide your consent.   Information which you upload, post, e-mail, submit or otherwise transmit in connection with the Services to a public message board, chat area or other public area of the Services becomes public information. You are solely responsible for any information you choose to post on or through the Services, and you may always choose not to divulge any personal information to the public when posting to a message board, chat area or other public area of the Services.  All information that is posted to a message board, chat area, or other public area of the Services  may be shared by us with others.</li>
+<li><span style="text-decoration:underline;">Social Network</span>.  When you first register for the Services via a Social Network (or at a later time by changing your privacy settings), you may choose whether your activities on the Services will be published on your Social Network and visible to other Social Network users, or if your activities will only be visible to you on your Social Network.   If you choose to make your activities visible to other Social Network users, your activities may be published on you Social Network, including without limitation on your Social Network news feed, timeline, and profile (as applicable). Your Social Network’s website is governed by its own Social Network’s terms of use and privacy policy, including, without limitation, privacy, password, and account security policies.  We do not exercise any control over your Social Network.  If you chose to connect to our Services via a Social Network, you should consult your Social Network’s privacy policy.  We are not responsible for your Social Network’s privacy practices, and we are not liable for your Social Network’s misuse of personal information about you.</li>
+<li><span style="text-decoration:underline;">Sales and Marketing</span>.  We enter into certain select marketing relationships with advertisers, suppliers and retailers and other companies that provide products or services that we believe may be of interest to users of the Services.  We will share personal information or any information collected through the Services with those sales and marketing affiliates in order to help them send you information that we believe will be of interest to you. You may opt-out from having your information shared with such sales and marketing affiliates by contacting us at support@moveloot.com.</li>
+<li><span style="text-decoration:underline;">Subsidiaries and Affiliates</span>.  We may share personal information with our subsidiaries and affiliates for the purposes for which you provided the information or as reasonably necessary for our internal administrative and business purposes.</li>
+<li><span style="text-decoration:underline;">Third Party Service Providers</span>.  We work with third party service providers in connection with our offerings.  Such services may include moving and logistics services, payment card processors, website hosting, marketing, website usage analytics, advertising, customer service, and monitoring and maintaining the Services.  We may share personal information and non-personal information with these third parties for the purpose of enabling them to provide these services.  We do not bear any responsibility for any actions or policies of such third parties.</li>
+<li><span style="text-decoration:underline;">Consent</span>.  We may share personal information in accordance with any consent you provide.</li>
+<li><span style="text-decoration:underline;">Required by Law</span>.  We may disclose personal information or any information collected through the Services if we are required to do so by law or pursuant to legal process, in response to a request from government officials or law enforcement authorities, or as necessary or appropriate in connection with an investigation of illegal activity.</li>
+<li><span style="text-decoration:underline;">Certain Transactions</span>.  We may disclose or transfer personal information or any information collected through the Services to third parties who acquire all or a portion of Company’s business, whether such acquisition is by way of merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.</li>
+<li><span style="text-decoration:underline;">Non-Personal Information</span>.  We may share with third parties certain pieces of aggregated, non-personal information, such as the number of people who visited or accessed the Services, the number of profiles created by users of the Services, survey and rating information and other feedback provided by users of the Services.  Such information does not identify you individually.</li>
+</ul>
+<h3>Aggregate Information</h3>
+<p>We may compile personal information and other information collected through the Services on an aggregate basis.  This information may include, without limitation, the number of users who have registered for the Services, demographic information about users of the Services, and individual purchase preferences.  Such aggregate information does not identify you individually.  We may use aggregate information and share aggregate information with third parties for any of the purposes specified in this Privacy Statement, and for any other lawful purpose.</p>
+<h2>VI. Your Choices</h2>
+<h3>A. Information You Provide</h3>
+<p>You can always choose whether or not to provide information on the Services.  However, if you choose not to disclose certain information, you may not be able to register as a user of the Services, which may limit your access to certain portions of the Services.</p>
+<h3>B. Communications From Us</h3>
+<p>If at any time you decide that you no longer wish to receive notices from us regarding the Services, you may indicate this preference by unsubscribing from our mailing list or contacting us at support@moveloot.com.</p>
+<h3>C. Deleting your Account and the Application</h3>
+<p>You may delete your account by clicking on the “delete account” option under your account information on the www.moveloot.com website.</p>
+<p>You may uninstall the Application at any time from your mobile device.  To completely delete the Application, however, you must also remove it from your Social Network account.</p>
+<h2>VII. Information Storage and Security</h2>
+<p>We employ reasonable security precautions to protect personal information about you.  The Services are operated from a secure environment with integrated security measures to help protect against the loss, misuse, and alteration of personal information provided on or through the Services.  These security measures include Secure Socket Layer (SSL) data transmission. However, no method of transmitting or storing data is completely secure.  As a result, although we strive to protect personal information about you, we cannot guarantee the security of any information you transmit to us through or in connection with the Services.  If you have reason to believe that personal information is no longer secure, please notify us immediately by contacting us in accordance with the last section below.</p>
+<h2>VIII. A Special Note about Children</h2>
+<p>Children are not eligible to use the Services, and we ask that minors (children under the age of 18) not submit any personal information to us.  If you are a minor, you can use the Services only in conjunction with your parents or guardians.</p>
+<h2>IX. External Links</h2>
+<p>The Services may contain links to various websites that Company does not control.  When you click on one of these links, you will no longer be transacting business through the Services.  Third party websites maintain their own privacy policies, and we do not exercise any control over any of the third party websites that may be linked to the Services.  If you visit a website that is linked to the Services, you should consult that website’s privacy policy before providing any personal information.  Please be aware that we are not responsible for the privacy practices of such other websites, and we are not liable for their misuse of personal information about you.</p>
+<h2>X. Special Admonitions for International Use</h2>
+<p>The Services are hosted in the United States and are intended for use by residents of the United States of America only.  All matters relating to the Services are governed exclusively by the laws of the State of California in the United States of America and not the jurisdiction in which you are located.  If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize such transfer.</p>
+<h2>XI. Your California Privacy Rights</h2>
+<p>Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident, you may request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.   If you are a California resident and would like to make such a request, please send an email message to <a href="mailto:support@moveloot.com">support@moveloot.com</a> with “Request for California Privacy Information” in the subject line.  If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27’s requirements.</p>
+<h2>XII. Updates to this Privacy Statement</h2>
+<p>We may change or update the Services or any of our policies and procedures without prior notice.  We will post a notice on the Services to advise you of any significant changes to this Privacy Statement and indicate via the “Last Updated” legend at the bottom of this Privacy Statement when it was most recently updated.  Your continued use of the Services signifies your continued assent to the terms of this Privacy Statement, as updated or amended at that time.</p>
+<h2>XIII. Questions Regarding this Privacy Statement</h2>
+<p>If you have any questions or comments regarding this Privacy Statement, please send us an email at <a href="mailto:support@moveloot.com">support@moveloot.com</a>.</p>
+<p>Last Updated: September 12, 2013</p>
+</div>
+</div>
+
+</div>
+</div>
+<div class="visible-sm visible-xs mobile-footer">
+<div class="footer-link">
+<a href="/contact?service_area=sf">Contact</a>
+</div>
+<div class="footer-link">
+<a href="/about_us?service_area=sf">About</a>
+</div>
+<div class="footer-link">
+<a href="/how_it_works?service_area=sf">How it works</a>
+</div>
+<div class="share-icons">
+<p>
+<span>
+<a class="pinterest" href="http://www.pinterest.com/moveloot" target="_blank">
+<img alt="Pinteresticon" src="/assets/new_icons/PinterestIcon-18e66aef7f1f524ce9dd117c92ca6d48.png">
+</a>
+<a class="facebook" href="http://facebook.com/moveloot" target="_blank">
+<img alt="Facebookicon" src="/assets/new_icons/FacebookIcon-116f498c3a777c8e0c282e3446b6fe19.png">
+</a>
+<a class="twitter" href="https://twitter.com/MoveLoot" target="_blank">
+<img alt="Twittericon" src="/assets/new_icons/TwitterIcon-25eb011627a151fd5677e2d9a26d783b.png">
+</a>
+<a class="instagram" href="http://instagram.com/moveloot" target="_blank">
+<img alt="Instaicon" src="/assets/new_icons/InstaIcon-39ff9dfef5093c7b73e91953e2bd4832.png">
+</a>
+</span>
+</p>
+</div>
+</div>
+<div class="hidden-xs hidden-sm" id="footer">
+<b class="caret products_index_visible"></b>
+<div id="sell-link">
+<h3>
+<a href="/sf/sell">Want to sell some furniture?</a>
+<img alt="Truckicon small" src="/assets/new_icons/TruckIcon_Small-87272e7cd23c6de1b1e83203d4dbd510.png">
+</h3>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-4 col-sm-2">
+<h5>SUPPORT</h5>
+<ul class="footer-link-list">
+<li><a href="/contact?service_area=sf">Contact</a></li>
+<li><a href="/how_it_works?service_area=sf">How it works</a></li>
+<li><a href="/sf/faq">FAQ</a></li>
+<li><a href="/sf/moving_services">Moving Services</a></li>
+<li><a href="/delivery_policy?service_area=sf">Delivery</a></li>
+<li><a href="/return_policy?service_area=sf">Returns</a></li>
+<li><a href="/seller_details?service_area=sf">Selling details</a></li>
+<li><a href="/buyer_details?service_area=sf">Buying details</a></li>
+<li><a href="/sf/events">Events</a></li>
+<li><a href="/sf/partnership_program">Partnerships</a></li>
+</ul>
+</div>
+<div class="col-xs-4 col-sm-2">
+<h5>COMPANY</h5>
+<ul class="footer-link-list">
+<li><a href="/about_us?service_area=sf">About</a></li>
+<li><a href="http://blog.moveloot.com">Blog</a></li>
+<li><a href="/press?service_area=sf">Press</a></li>
+<li><a href="https://jobs.lever.co/moveloot/">Careers</a></li>
+</ul>
+</div>
+<div class="col-xs-4 col-sm-3">
+<h5>LEGAL</h5>
+<ul class="footer-link-list">
+<li><a href="/consignment_agreement?service_area=sf">Consignment Agreement</a></li>
+<li><a href="/terms?service_area=sf">Terms and Conditions</a></li>
+<li><a href="/privacy_policy?service_area=sf">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-sm-offset-1">
+<h5>SIGN UP FOR OUR NEWSLETTER</h5>
+<form accept-charset="UTF-8" action="/mailing_list/signup?service_area=sf" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="qOG8+F1Y9oMBoy9l9KwrDpARrN4ORBuRxNUAaCkM+tU="></div>
+<div class="form-group">
+<div class="input-group">
+<div class="input-group-addon">
+<div class="fa fa-envelope"></div>
+</div>
+<input class="form-control" id="email" name="email" type="text" value="">
+<div class="input-group-btn">
+<input class="btn btn-primary" name="commit" type="submit" value="Subscribe">
+</div>
+</div>
+</div>
+</form>
+
+
+<div class="share-icons">
+<h5>OUR SOCIAL MEDIAS</h5>
+<p>
+<span>
+<a class="pinterest" href="http://www.pinterest.com/moveloot" target="_blank">
+<img alt="Pinteresticon" src="/assets/new_icons/PinterestIcon-18e66aef7f1f524ce9dd117c92ca6d48.png">
+</a>
+<a class="facebook" href="http://facebook.com/moveloot" target="_blank">
+<img alt="Facebookicon" src="/assets/new_icons/FacebookIcon-116f498c3a777c8e0c282e3446b6fe19.png">
+</a>
+<a class="twitter" href="https://twitter.com/MoveLoot" target="_blank">
+<img alt="Twittericon" src="/assets/new_icons/TwitterIcon-25eb011627a151fd5677e2d9a26d783b.png">
+</a>
+<a class="instagram" href="http://instagram.com/moveloot" target="_blank">
+<img alt="Instaicon" src="/assets/new_icons/InstaIcon-39ff9dfef5093c7b73e91953e2bd4832.png">
+</a>
+</span>
+</p>
+</div>
+</div>
+</div>
+<div class="row text-center">
+<div class="col-md-12">
+<p>
+</p><div class="copyright-notice">
+Copyright © 2014 Move Loot Inc. All Rights Reserved.
+</div>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="service-area-switch-modal">
+<div class="container">
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+<div class="header">
+<h3>PICK YOUR LOCATION</h3>
+<a data-close-service-area-modal="#service-area-switch-modal" href="#">
+<img alt="X icon red" src="/assets/new_icons/x_icon_red-e7201f54e3157ec8834150fb90136b9d.png">
+</a>
+</div>
+<ul>
+<li>
+<a href="/sf"><img alt="Sf location image" src="/assets/SF_location_image-e5b13c01708de32a3fc08893afc50cdf.jpg">
+</a></li>
+<li>
+<a href="/rdu"><img alt="Rdu location graphic" src="/assets/RDU_location_graphic-8c0c67872918cdba99a413cdb3380c79.jpg">
+</a></li>
+</ul>
+<h4>
+If your city isn't listed, fret not! We are expanding quickly so check back soon to see if we are
+coming your way or sign up for our newsletter to hear updates about new Move Loot locations.
+</h4>
+<form accept-charset="UTF-8" action="/mailing_list/signup?service_area=sf" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="lSvCayT4FhBSX0S0fsNeWIhPKJnRaVBbNybhuWYYsdA="></div>
+<div class="form-group">
+<div class="input-group">
+<div class="input-group-addon">
+<div class="fa fa-envelope"></div>
+</div>
+<input class="form-control" id="email" name="email" type="text" value="">
+<div class="input-group-btn">
+<input class="btn btn-primary" name="commit" type="submit" value="Subscribe">
+</div>
+</div>
+</div>
+</form>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<div class="device-xs visible-xs"></div>
+<div class="device-sm visible-sm"></div>
+<div class="device-md visible-md"></div>
+<div class="device-lg visible-lg"></div>
+
+<div id="page-spinner">
+<div id="page-spinner-icon">
+<style>
+  #floatingCirclesG{
+    position:relative;
+    width:128px;
+    height:128px;
+    -moz-transform:scale(0.6);
+    -webkit-transform:scale(0.6);
+    -ms-transform:scale(0.6);
+    -o-transform:scale(0.6);
+    transform:scale(0.6);
+  }
+
+  .f_circleG{
+    position:absolute;
+    background-color:#FFFFFF;
+    height:23px;
+    width:23px;
+    -moz-border-radius:12px;
+    -moz-animation-name:f_fadeG;
+    -moz-animation-duration:0.72s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-direction:linear;
+    -webkit-border-radius:12px;
+    -webkit-animation-name:f_fadeG;
+    -webkit-animation-duration:0.72s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-direction:linear;
+    -ms-border-radius:12px;
+    -ms-animation-name:f_fadeG;
+    -ms-animation-duration:0.72s;
+    -ms-animation-iteration-count:infinite;
+    -ms-animation-direction:linear;
+    -o-border-radius:12px;
+    -o-animation-name:f_fadeG;
+    -o-animation-duration:0.72s;
+    -o-animation-iteration-count:infinite;
+    -o-animation-direction:linear;
+    border-radius:12px;
+    animation-name:f_fadeG;
+    animation-duration:0.72s;
+    animation-iteration-count:infinite;
+    animation-direction:linear;
+  }
+
+  #frotateG_01{
+    left:0;
+    top:52px;
+    -moz-animation-delay:0.27s;
+    -webkit-animation-delay:0.27s;
+    -ms-animation-delay:0.27s;
+    -o-animation-delay:0.27s;
+    animation-delay:0.27s;
+  }
+
+  #frotateG_02{
+    left:15px;
+    top:15px;
+    -moz-animation-delay:0.36s;
+    -webkit-animation-delay:0.36s;
+    -ms-animation-delay:0.36s;
+    -o-animation-delay:0.36s;
+    animation-delay:0.36s;
+  }
+
+  #frotateG_03{
+    left:52px;
+    top:0;
+    -moz-animation-delay:0.45s;
+    -webkit-animation-delay:0.45s;
+    -ms-animation-delay:0.45s;
+    -o-animation-delay:0.45s;
+    animation-delay:0.45s;
+  }
+
+  #frotateG_04{
+    right:15px;
+    top:15px;
+    -moz-animation-delay:0.54s;
+    -webkit-animation-delay:0.54s;
+    -ms-animation-delay:0.54s;
+    -o-animation-delay:0.54s;
+    animation-delay:0.54s;
+  }
+
+  #frotateG_05{
+    right:0;
+    top:52px;
+    -moz-animation-delay:0.63s;
+    -webkit-animation-delay:0.63s;
+    -ms-animation-delay:0.63s;
+    -o-animation-delay:0.63s;
+    animation-delay:0.63s;
+  }
+
+  #frotateG_06{
+    right:15px;
+    bottom:15px;
+    -moz-animation-delay:0.72s;
+    -webkit-animation-delay:0.72s;
+    -ms-animation-delay:0.72s;
+    -o-animation-delay:0.72s;
+    animation-delay:0.72s;
+  }
+
+  #frotateG_07{
+    left:52px;
+    bottom:0;
+    -moz-animation-delay:0.81s;
+    -webkit-animation-delay:0.81s;
+    -ms-animation-delay:0.81s;
+    -o-animation-delay:0.81s;
+    animation-delay:0.81s;
+  }
+
+  #frotateG_08{
+    left:15px;
+    bottom:15px;
+    -moz-animation-delay:0.9s;
+    -webkit-animation-delay:0.9s;
+    -ms-animation-delay:0.9s;
+    -o-animation-delay:0.9s;
+    animation-delay:0.9s;
+  }
+
+  @-moz-keyframes f_fadeG{
+    0%{
+      background-color:#F35251}
+
+    100%{
+      background-color:#FFFFFF}
+
+  }
+
+  @-webkit-keyframes f_fadeG{
+    0%{
+      background-color:#F35251}
+
+    100%{
+      background-color:#FFFFFF}
+
+  }
+
+  @-ms-keyframes f_fadeG{
+    0%{
+      background-color:#F35251}
+
+    100%{
+      background-color:#FFFFFF}
+
+  }
+
+  @-o-keyframes f_fadeG{
+    0%{
+      background-color:#F35251}
+
+    100%{
+      background-color:#FFFFFF}
+
+  }
+
+  @keyframes f_fadeG{
+    0%{
+      background-color:#F35251}
+
+    100%{
+      background-color:#FFFFFF}
+
+  }
+
+</style>
+<div id="floatingCirclesG">
+    <div class="f_circleG" id="frotateG_01">
+    </div>
+    <div class="f_circleG" id="frotateG_02">
+    </div>
+    <div class="f_circleG" id="frotateG_03">
+    </div>
+    <div class="f_circleG" id="frotateG_04">
+    </div>
+    <div class="f_circleG" id="frotateG_05">
+    </div>
+    <div class="f_circleG" id="frotateG_06">
+    </div>
+    <div class="f_circleG" id="frotateG_07">
+    </div>
+    <div class="f_circleG" id="frotateG_08">
+    </div>
+</div>
+
+
+</div>
+</div>
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
