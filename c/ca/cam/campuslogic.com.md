@@ -1,50 +1,23 @@
-> *The following text is extracted and transformed from the campuslogic.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620043025id_/http%3A//campuslogic.com/wp-content/uploads/2011/11/1.A-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campuslogic.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006013018id_/http%3A//campuslogic.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Campuslogic
 
-PRIVACY POLICY
-CampusLogic is committed protecting your privacy. We recognize and appreciate the
-importance of respecting the privacy of our customers and are committed to safeguarding
-against unauthorized disclosure of, or access to, the information about our customers.
-CampusLogic reserves the right to change or update our privacy policy at anytime.
-INFORMATION WE MAY COLLECT
-CampusLogic limits the collection, retention and use of customer information, such as
-personal name, company name, work address, email address and/or telephone number to
-the minimum amount required to deliver our products and services.
-There is also information about your computer hardware and software that is automatically
-collected by CampusLogic. This information can include: your IP address, browser type,
-domain names, access times and referring website addresses. This information is used by
-CampusLogic for the operation of the service, to maintain quality of the service and to
-provide general statistics regarding use of the CampusLogic website.
-USE OF INFORMATION
-CampusLogic may use the information we collect to provide you with products or services
-you have requested, to improve our marketing and promotional efforts, to improve our
-offerings, to contact you regarding information we believe may be useful or to otherwise
-conduct business. We believe these uses allow us to improve our services in order to meet
-our customers’ needs. CampusLogic may, from time to time, contact you on behalf of
-external business partners about a particular offering that may be of interest to you.
-HOW WE USE COOKIES
-A cookie is a small file that asks permission to be placed on your computer's hard drive.
-Once you agree, the file is added and the cookie helps analyze web traffic or lets you know
-when you visit a particular site. Cookies allow web applications to respond to you as an
-individual. The web application can tailor its operations to your needs, likes and dislikes by
-gathering and remembering information about your preferences.
-CampusLogic may use traffic log cookies to identify which pages are being used. This helps
-us analyze data about web page traffic and improve our website in order to tailor it to
-customer needs. We only use this information for statistical analysis purposes and then the
-data is removed from the system.
-Overall, cookies help us provide you with a better website, by enabling us to monitor which
-pages you find useful and which you do not. A cookie in no way gives us access to your
-computer or any information about you, other than the data you choose to share with us.
-You can choose to accept or decline cookies. Most web browsers automatically accept
-cookies, but you can usually modify your browser setting to decline cookies if you prefer.
-This may prevent you from taking full advantage of the website.
-LINKS TO OTHER WEBSITES
-CampusLogic’s website may contain links to enable you to visit other websites of interest
-easily. However, once you have used these links to leave our site, you should note that we
-do not have any control over that other website. Therefore, we cannot be responsible for
-the protection and privacy of any information which you provide while visiting such sites and
-such sites are not governed by this privacy statement. You should exercise caution and look
-at the privacy statement applicable to the website in question.
-If you have any questions or concerns regarding CampusLogic’s privacy policy, contact us at
-info@campuslogic.com.
+## Privacy Policy
+
+Thank you for visiting [http://campuslogic.com](https://web.archive.org/), a CampusLogic, Inc. product. This privacy policy outlines how personal information is used and collected on this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+
+**Note:**  the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+
+**Collection of Information:**  We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.  **We will never share your personal information with third party entities**.
+
+**Cookie/Tracking Technology:**  The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+
+**Distribution of Information:**  We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+
+**Commitment to Data Security:**  Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+
+**Privacy Contact Information:**  If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
+By e-mail: [info@campuslogic.com](mailto:info@campuslogic.com)  
+By Phone:  **602-643-1300**
+
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
