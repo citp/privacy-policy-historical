@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbrite.sg privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624092201id_/http%3A//www.eventbrite.sg/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.sg privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005054222id_/http%3A//www.eventbrite.sg/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
@@ -14,7 +14,7 @@ This Privacy Policy sets forth our policy with respect to information, including
 
 We take the privacy of your Personal Data and other information seriously. Because of that, we have created this Privacy Policy. Please read this Privacy Policy as it includes important information regarding your Personal Data and other information. 
 
-If you have any questions or concerns, please do not hesitate to contact us by using the following link: [http://www.eventbrite.sg/contact-us](http://www.eventbrite.sg/contact-us/). 
+If you have any questions or concerns, please do not hesitate to contact us by using the following link: [https://www.eventbrite.sg/contact-us](https://www.eventbrite.sg/contact-us/). 
 
 ####  Consent: 
 
@@ -90,7 +90,7 @@ You have several choices available when it comes to your Personal Data:
 
 Limit the Personal Data You Provide:  You can use the Services without providing any Personal Data or with limiting the Personal Data you provide. If you choose not to provide any Personal Data or limit the Personal Data you provide, you may not be able to use certain functionality of the Services. For instance, in order to open an account, or buy or sell tickets, your name and email address will be required. 
 
-Opt Out:  You can "opt out" of receiving Eventbrite newsletter emails by logging in, clicking on "Account" and following the instructions to "email preferences." You may modify your choices at any time in your Eventbrite account. In the event an Organiser uses our system to email you, you will be able to "opt out" of receiving those communications as well. Please note that if you unsubscribe from receiving a particular Organiser's emails, you will no longer receive emails from the particular Organiser that are sent through our system (but you may still receive emails sent by that Organiser through means other than our system), however, you will still receive Eventbrite communications and communications from other Organisers whose events you have attended or are registered to attend or who have otherwise obtained your email address. Likewise, if you unsubscribe from our communications you will continue to receive communications from Organisers. So you may have to unsubscribe from multiple emails before you stop receiving all communications. You can also unsubscribe from receiving all Organiser emails sent through our system. It may take up to 24 hours for us to process an unsubscribe request. Note that you cannot unsubscribe from update communications about the Services. You can stop receiving Service communications only by contacting us at [http://www.eventbrite.sg/contact-us](https://web.archive.org/contact-us) and closing your account. By electing to stop receiving all communications from us or through our system you will no longer receive any updates on your account or on events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Services, are not currently registered for an event, are not currently organizing an event and will have no need to receive further communications from us or through our system. Even after you opt out of all communications, we will retain your Personal Data and Non-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. However, Organisers who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies, but they may not use our system to do so. 
+Opt Out:  You can "opt out" of receiving Eventbrite newsletter emails by logging in, clicking on "Account" and following the instructions to "email preferences." You may modify your choices at any time in your Eventbrite account. In the event an Organiser uses our system to email you, you will be able to "opt out" of receiving those communications as well. Please note that if you unsubscribe from receiving a particular Organiser's emails, you will no longer receive emails from the particular Organiser that are sent through our system (but you may still receive emails sent by that Organiser through means other than our system), however, you will still receive Eventbrite communications and communications from other Organisers whose events you have attended or are registered to attend or who have otherwise obtained your email address. Likewise, if you unsubscribe from our communications you will continue to receive communications from Organisers. So you may have to unsubscribe from multiple emails before you stop receiving all communications. You can also unsubscribe from receiving all Organiser emails sent through our system. It may take up to 24 hours for us to process an unsubscribe request. Note that you cannot unsubscribe from update communications about the Services. You can stop receiving Service communications only by contacting us at [https://www.eventbrite.sg/contact-us](https://web.archive.org/contact-us/) and closing your account. By electing to stop receiving all communications from us or through our system you will no longer receive any updates on your account or on events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Services, are not currently registered for an event, are not currently organising an event and will have no need to receive further communications from us or through our system. Even after you opt out of all communications, we will retain your Personal Data and Non-Personal Data in accordance with this Privacy Policy, however, we will no longer use it to contact you. However, Organisers who have received your Personal Data in accordance with this Privacy Policy may still use that Personal Data to contact you in accordance with their own privacy policies, but they may not use our system to do so. 
 
 Do Not Track:  We currently do not participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personal Data. 
 
@@ -100,7 +100,7 @@ This Privacy Policy does not apply to any Personal Data collected by us other th
 
 ####  Children: 
 
-We do not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please [contact us](http://www.eventbrite.sg/contact-us/), and we will endeavor to delete that information from our databases. 
+We do not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please [contact us](https://www.eventbrite.sg/contact-us/), and we will endeavor to delete that information from our databases. 
 
 ####  Links to Other Web Sites: 
 
@@ -120,7 +120,7 @@ We participate in the US-EU & US-Swiss Safe Harbour Frameworks covering the coll
 
 ####  Other Terms and Conditions: 
 
-Your access to and use of the Services is subject to the [Terms of Service](http://www.eventbrite.sg/tos/). If you are using the Eventbrite application programming interfaces (the "Eventbrite APIs"), you are subject to the Eventbrite [API Terms of Use](http://developer.eventbrite.com/terms/). 
+Your access to and use of the Services is subject to the [Terms of Service](https://www.eventbrite.sg/tos/). If you are using the Eventbrite application programming interfaces (the "Eventbrite APIs"), you are subject to the Eventbrite [API Terms of Use](http://developer.eventbrite.com/terms/). 
 
 ####  Changes to This Privacy Policy: 
 
@@ -136,7 +136,7 @@ We may retain your Personal Data as long as you continue to use the Services. Yo
 
 ####  Contacting Eventbrite: 
 
-Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. You may contact us by writing to <http://www.eventbrite.com/contact-us> or by calling us at 1-800-350-8850.
+Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. You may contact us by writing to [http://www.eventbrite.com/contact-us](http://www.eventbrite.com/contact-us/) or by calling us at 0800 652 8399.
 
 ####  Dispute Resolution: 
 
