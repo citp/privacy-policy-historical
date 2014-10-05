@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelogovector.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629200107id_/http%3A//freelogovector.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelogovector.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005140257id_/http%3A//www.freelogovector.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy » Free Logo Vector Graphics download and share
 
