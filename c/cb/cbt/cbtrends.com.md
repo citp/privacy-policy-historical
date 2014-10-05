@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtrends.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002315id_/http%3A//www.cbtrends.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtrends.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005030928id_/http%3A//www.cbtrends.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CBtrends.com
 
