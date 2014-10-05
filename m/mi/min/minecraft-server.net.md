@@ -1,64 +1,41 @@
-> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216135225id_/http%3A//minecraft-skins.com/about/privacy-police) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005033449id_/http%3A//minecraft-server.net/refundandprivacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Minecraft Skins
+# Refund and Privacy Policies - Minecraft Server List
 
-**Your Privacy**  
-Your privacy is important to SP Media. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+### Sales and subscriptions
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+Due to the nature of are purchases running (primarily) on a weekly basis, all sales are final. Under no circumstance any refunds refunds will be given. If any problems occur with a payment please contact us on support@minecraft-server.net at which we will help you though the process. 
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+### General
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Minecraft-Skins.com has no access or control over these cookies that may be used by third party advertisers.
+This Privacy Policy relates to the product Soulsplit and the associated website at soulsplit.com and it's subdomains are owned and operated by Ryan Herman Co. Ryan Herman Co are committed to integrity and professionalism in all areas of our services and therefore we take our obligations under the Data Protection Act 1998 (“the Act”) seriously. We will use all reasonable endeavours to protect your privacy and ensure that personal data is collected and processed in accordance with the Act and only as outlined below. 
 
-**Collection of Personal Information**  
-When visiting Minecraft-Skins.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+### Your personal data: what we collect
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We may collect the following types of personal data from you if you buy products or services from us: Your name, email address (that of the payment and/or for login purposes) and IP address; When you are browsing our website, we may collect information about your computer, including your IP address, operating system. We may obtain information by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive and allow us to recognise your PC and your preferred settings. Most browsers can be programmed to reject, or warn you, before using cookies. 
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. We use Aweber.com for all of our email needs.
+### Your personal data: how we use it
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. Please be sure to check back often for updates.
+We will use your personal data for administrative purposes, including making a contract with you, billing you, receiving payment from you and carrying out services for you. We may use the data you provide to conduct appropriate anti-fraud checks. To ensure that your credit, debit or charge card has not been used without your consent, we will validate name, address and other personal information that you supply during the order and payment process. In performing these checks, personal data you provide may be disclosed to a registered Credit Reference Agency, which may keep a record. This is done only to confirm your identity and no credit check is performed, and your credit rating should not be affected. We may use your email address to contact you with news, updates, and Soulsplit related matters 
 
-Search For A Skin  
+### Your personal data: use by third parties
 
-  *   * **How to search by category:**
+We will not provide any other your personal data to any third party unless you specifically authorise us to do so; or we need to do so in relation to a payment transaction with a credit or debit card company or in relation to a direct debit transaction with a bank or other financial institution or credit reference agency; or we are required to do so by law or other binding regulation. 
 
-Click on a Category below and then click on the title of the skin to be taken to the full skin page. 
+### Maintaining records
 
-  * ### Categories
+In line with current requirements under the Data Protection Act, 1998, we will retain your personal data for no longer than necessary. We encourage you to provide full personal data and you agree to provide personal data which is in all respects true, accurate and up to date and is not misleading, deceptive or inaccurate. 
 
-  * ### Recent Posts
+### Data security
 
-    * [Killing Floor](http://minecraft-skins.com/2011/12/killing-floor/ "Killing Floor")
-    * [Rick Astley](http://minecraft-skins.com/2011/12/rick-astley/ "Rick Astley")
-    * [Freddie Mercury](http://minecraft-skins.com/2011/12/freddy-mercury/ "Freddie Mercury")
-    * [The Walking Dead](http://minecraft-skins.com/2011/11/the-walking-dead/ "The Walking Dead")
-    * [Like playing flash games?](http://minecraft-skins.com/2011/11/like-playing-flash-games/ "Like playing flash games?")
-  * ### Archives
+We will take reasonable steps to protect the personal data under our control from unauthorised access, improper use and disclosure. Even though we have taken reasonable steps to protect your data whilst it is being transmitted, we cannot guarantee the security of any data transmitted to us by the internet and any transmission is at your own risk. Once we have received your data, we will use strict procedures and security features to prevent unauthorised access. 
 
-    * [December 2011](http://minecraft-skins.com/2011/12/ "December 2011")
-    * [November 2011](http://minecraft-skins.com/2011/11/ "November 2011")
-    * [October 2011](http://minecraft-skins.com/2011/10/ "October 2011")
-    * [September 2011](http://minecraft-skins.com/2011/09/ "September 2011")
-    * [August 2011](http://minecraft-skins.com/2011/08/ "August 2011")
-    * [July 2011](http://minecraft-skins.com/2011/07/ "July 2011")
-    * [June 2011](http://minecraft-skins.com/2011/06/ "June 2011")
-    * [May 2011](http://minecraft-skins.com/2011/05/ "May 2011")
-    * [April 2011](http://minecraft-skins.com/2011/04/ "April 2011")
-    * [March 2011](http://minecraft-skins.com/2011/03/ "March 2011")
-    * [February 2011](http://minecraft-skins.com/2011/02/ "February 2011")
-    * [January 2011](http://minecraft-skins.com/2011/01/ "January 2011")
-    * [December 2010](http://minecraft-skins.com/2010/12/ "December 2010")
-    * [November 2010](http://minecraft-skins.com/2010/11/ "November 2010")
-    * [October 2010](http://minecraft-skins.com/2010/10/ "October 2010")
-  * ### Minecraft Links
+### Requesting information
 
-  * ### Tags
+The full extent of the personal data we hold on you is displayed in the Administration section of our website at soulsplit.com. You may ask us to provide you with a copy of the personal data we hold about you for a nominal fee by sending an email to info@soulsplit.com. For your protection, we may ask for proof of your identity before providing any information and reserve the right to refuse to provide information requested if your identity is not established to our satisfaction. 
 
-  * 
+### Our details
 
+The contact details of our Data Protection Compliance Officer are: Ryan Herman support@minecraft-server.net 
+
+If you have any enquiry or concern about our Privacy Policy, or the way we are handling your personal data, please contact us at the address above.
