@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601205923id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ To the extent that information is publicly available and provided by the governm
 
 We cannot guarantee any particular action for any particular record ahead of time.
 
-While we at one point permitted requests for information removal via e-mail, we now ask that you use our web-based, easy-to-use [Contact Us Form](https://web.archive.org/web/20140601205923id_/http%3A//www.plainsite.org/contact/index.html) to get in touch with us about an issue you may have with information on PlainSite. Using the form helps streamline the process, as we typically receive over 10 requests per day.
+While we at one point permitted requests for information removal via e-mail, we now ask that you use our web-based, easy-to-use [Contact Us Form](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/contact/index.html) to get in touch with us about an issue you may have with information on PlainSite. Using the form helps streamline the process, as we typically many requests per day and have only a small staff to respond.
 
 If a piece of public information is harming you or someone you know, the best course of action is to attempt to have it sealed or expunged by the government agency publishing the information **first** , and **then** to get in touch with us.
 
@@ -39,7 +39,7 @@ When evaluating a given request, the following factors cause us to generally kee
 
   * **Frequent public access.** Many PlainSite records have a "hit" counter that measures the number of access attempts logged. If a record has roughly 100 or more hits, we interpret that measure as a sign of strong public interest, which means the information should be kept available. This is one of the most important factors we look at.
   * **Involvement of government.** Federal, state and local government affects all of us. If a given record involves a government official or agency, it's likely that others will want to know.
-  * **Large amounts of money.** Any case involving $5,000 USD or more is generally above the threshold of a "small claims" case and generally significant, but even many small claims cases involving more than $1,000 USD are of interest to the public.
+  * **Large amounts of money.** Any case involving $2,500 USD or more is generally above the threshold of a "small claims" case and generally significant, but even many small claims cases involving more than $1,000 USD are of interest to the public.
   * **Serious criminal charges.** Cases that involve serious crimes, but do not jeopardize the safety of any individual, are of particular interest to the public.
   * **Recent and ongoing matters.** With some exceptions related to court precedent (see below), records pertaining to matters before the government that have been recently filed (within five years) or are ongoing are generally of more interest to the public than older matters.
   * **Precedential cases.** The court system works on the basis of _stare decisis_ , which is Latin for "to stand by things decided." Decisions in one case almost always reference decisions made in prior cases. Records from frequently-cited cases are therefore of particular public interest. Cases that have been appealed even once are generally considered to be an especially important part of the body of case law, and we do not suppress these cases as a rule.
@@ -78,7 +78,7 @@ The information we collect from you may be used in one of the following ways:
   * **To personalize your experience.** Your information helps us to better respond to your individual needs.
   * **To improve our website.** (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * **To improve customer service.** (your information helps us to more effectively respond to your customer service requests and support needs)
-  * **To process transactions.** We charge fees for [PlainSite Pro Se](https://web.archive.org/web/20140601205923id_/http%3A//www.plainsite.org/prose/index.html) and [PlainSite Pro](https://web.archive.org/web/20140601205923id_/http%3A//www.plainsite.org/pro/index.html), which means we need to collect payment information.
+  * **To process transactions.** We charge fees for [PlainSite Pro Se](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/prose/index.html) and [PlainSite Pro](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/pro/index.html), which means we need to collect payment information.
 
 
 
@@ -114,8 +114,8 @@ When was this policy last updated?
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on March 28, 2014.
+This policy was last modified on June 13, 2014.
 
 How can I contact you?
 
-If there are any questions regarding this privacy policy, please [contact us](https://web.archive.org/web/20140601205923id_/http%3A//www.plainsite.org/contact/index.html).
+If there are any questions regarding this privacy policy, please [contact us](https://web.archive.org/web/20141005191325id_/http%3A//www.plainsite.org/contact/index.html).
