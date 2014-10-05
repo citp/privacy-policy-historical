@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051555id_/http%3A//www.xtb.com/docs/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtb.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005075113id_/http%3A//www.xtb.com/docs/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
