@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driftinghearts.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626044751id_/http%3A//www.driftinghearts.com/page/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driftinghearts.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005111248id_/http%3A//www.driftinghearts.com/page/general/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Filipina Asian Dating Singles and Personals | Drifting Hearts
 
