@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiotreasure.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328061704id_/http%3A//www.audiotreasure.com/privacyat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiotreasure.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005024816id_/http%3A//www.audiotreasure.com/privacyat.htm) for the most accurate reproduction.*
 
 # Privacy Policy for AudioTreasure
 
