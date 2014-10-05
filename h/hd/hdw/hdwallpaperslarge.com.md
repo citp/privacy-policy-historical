@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaperslarge.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517061555id_/http%3A//www.hdwallpaperslarge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperslarge.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005080527id_/http%3A//www.hdwallpaperslarge.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HD Wallpapers Large
 
