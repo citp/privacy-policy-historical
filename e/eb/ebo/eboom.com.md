@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eboom.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821135248id_/http%3A//www.eboom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboom.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006010410id_/http%3A//www.eboom.com/privacy) for the most accurate reproduction.*
 
 # Search eboom
 
@@ -9,6 +9,8 @@ Eboom.com respects the value of your privacy.
 Information You Give Us
 
 The use of certain features and services on the Eboom.com may require that you register and supply personally identifiable information (ex. wishlists) such as your name, email address, telephone number and other information, which is stored by Eboom.com. When you register as a member, we may also collect additional information from you in order to provide you with those specific services and to personalize your experience on the Eboom.com. This information is strictly optional. Eboom.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, with your permission.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 Anti-Spam Policy
 
