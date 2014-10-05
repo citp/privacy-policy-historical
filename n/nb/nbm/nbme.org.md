@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823110617id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006000538id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NBME
 
@@ -8,7 +8,7 @@ The National Board of Medical Examiners (NBME) is committed to protecting your p
 
 ## TRUSTe Privacy Seal
 
-[](https://privacy.truste.com/privacy-seal/National-Board-of-Medical-Examiners/validation?rid=2b6de817-b10a-4443-a102-6eec12f9187a "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/National-Board-of-Medical-Examiners/validation?rid=6317a366-df16-4f82-8b5b-35ac460d4da2 "TRUSTe online privacy certification")
 
 The National Board of Medical Examiners has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [communications@nbme.org ](mailto:%63%6F%6D%6D%75%6E%69%63%61%74%69%6F%6E%73%40%6E%62%6D%65%2E%6F%72%67). If you are not satisfied with our response, you can contact [TRUSTe here ](http://watchdog.truste.com/pvr.php?page=complaint), by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaints shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, please visit [TRUSTe ](http://watchdog.truste.com/pvr.php?page=complaint) or request this information from TRUSTe at the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
