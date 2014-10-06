@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the bookschristian.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookschristian.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006112952id_/http%3A//www.christianbook.com/Christian/Books/cms_content/1462341889%3Fpage%3D144543) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Christianbook.com
 
-**Go Daddy Respects Your Privacy**
+**Christianbook.com Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy was last updated on November 29, 2010. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Christianbook.com, LLC (Christianbook.com) respects the privacy of users of our website and is committed to disclosing our data collection practices so that users of our website can understand what information is collected and how it is used.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy describes what information we collect from users of our website, how the information we collect is used, under what circumstances we disclose the information we collect, and our users’ choices regarding the information we collect and how it is used and disclosed.
 
-**Information Collection and Use**
+Your use of this website, including visiting any page which is a part of this website, constitutes your acceptance of the terms and conditions of this Privacy Policy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Information we collect**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Information is received and collected automatically each time you visit the Christianbook.com site. We receive and collect your Internet Protocol (IP) address, the browser and operating system you are utilizing, the date and time of your visit, the pages of the site which you visit, the Internet address of the website from which you linked to our site and any promotion identifiers contained in these links, and the Internet address of any website to which you link from our site. If you maintain an account with Christianbook.com and log onto the site using such account information, we also receive and collect your user identification number, user name, and password.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use “cookies” to automatically receive and collect certain information each time you visit the Christianbook.com site. Cookies are used on the Christianbook.com website to identify and link users to their shopping cart and to track other user behaviors related to their activities on the Christianbook.com website. “Cookies” are small files that contain unique alphanumeric identifiers that are transferred to your computer’s hard drive to enable our system to recognize you and your browser. If you prefer not to allow cookies on your browser, you can find instructions for how to disable cookies in the help section of your browser’s toolbar. However, please keep in mind this will interfere with certain features on our website, reduce the overall quality of your experience and hinder our ability to improve site functionality over time. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We use pixel tags or web beacons in conjunction with cookies to track what parts of our website were visited, track the effectiveness of our advertising campaigns with third parties and to update our third party analytics.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In the following instances, we may require you to submit personally identifiable information which we receive and collect: (1) open an account; (2) complete and submit an order on our site or from our catalogs; (3) request a catalog; (4) submit a customer review; (5) create a registry with Gift Registry Service; (6) enter a contest; (7) communicate with customer service; (8) conduct a search; or (9) subscribe to a newsletter or customer alert. The information which we may receive and collect in connection with any of these activities includes your name, address, telephone number, fax number, and email address; credit card information; names and addresses of the parties to whom product is shipped; content of reviews and emails sent to us; and, your password.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We also receive and collect certain information when you communicate to us by telephone, mail, fax, or email. We may request and receive a confirmation from you when you receive and open an email from us.  
+  
+---  
+  
+**How the information we collect is used**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use the information which we collect from you internally for the following purposes: process, track, and fulfill your order; communicate with you regarding your order; respond to a request for information; send you catalogs or promotional information and material; send you newsletters, customer alerts, and email; communicate with you regarding products you have purchased; improve our website; enhance our customer service; track customer preferences; and, improve and enhance our product selection.
 
-**Security**
+We do not sell or otherwise provide the information we collect from you to third parties except as described below. We share information with our subsidiary and affiliated companies which are owned or controlled by us or which are under common ownership and control as us and with certain third parties to whom we provide goods and/or services which are not our subsidiary or affiliated companies. We also share information with third party services providers, agents, and subcontractors which are not our subsidiary or affiliated companies and which provide certain services and goods to us including credit card processing; online check payment services; postal and delivery services; fulfillment services; data analysis services; market research; technology infrastructure; and, marketing, promotional, and advertising services. All third parties to whom we provide information have no right to use the information except to the extent necessary in connection with providing goods and/or services to us or our providing goods and services to them. All such third parties are contractually obligated to maintain the confidentiality and security of the information. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may provide our mailing list (names, addresses, and/or email addresses) and information about individual shopping interests to other select companies whose products or services may be of interest to you. We may also send you catalogs or other promotional materials on behalf of other companies. See “What Are My Choices Regarding My Information?” below for your options regarding these other companies.
 
-**Updating Your Information**
+We may in the future sell some or all of our assets and/or business units, in which case, customer information may be one of the assets transferred. We may disclose any information that we collect if required by law or valid order of a court or other governmental authority or to protect the health and safety of our employees or the general public.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**How is the information secured?**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+All sensitive information which we receive and collect from you is secured using industry standard security and encryption technology such as Secured Sockets Layer (SSL) technology. This technology prevents information which is transmitted over the Internet from being intercepted and read by unauthorized parties. All information is stored on secured computers to which access is restricted.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**How can I access my information?**
 
-      iii.      You may call us at: (480) 505-8800
+All of your personal information can be accessed by logging onto Your Account Page of our site. You may also track orders and recent account activity.  
+  
+**What are my choices regarding my information?**
 
-       iv.      You may fax us at: (480) 505-8844
+You can review, modify, update, and delete any information contained in Your Account by logging onto Your Account page of our site.If you do not wish to receive promotional emails from us, you can indicate this by changing Your Email Preferences in the Account section of the Christianbook.com website or by sending an email to "unsubscribe@christianbook.com" with the word "unsubscribe" included in the subject field or by calling us toll free at 1-800-CHRISTIAN (1-800-247-4784, US and Canada; 1-978-977-5000 all other countries), or by writing us at CBD Mail Preference Service, P.O. Box 7000, Peabody, MA 01961-7000. (Please specify in your correspondence that you do not want to receive future email notices from CBD.)
 
-**Sending Emails**
+If you wish to be removed from our mailing list, please send an email to "customer.service@christianbook.com", by calling us at 1-800-CHRISTIAN (1-800-247-4784, US and Canada; 1-978-977-5000 all other countries), or by writing to us at CBD Mail Preference Service, P.O. Box 7000, Peabody, MA 01961-7000. Please specify in your correspondence that you do not wish to receive mailings from CBD.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you prefer that we do not share any of your information with other companies, you can indicate this by sending an email to us at "customer.service@christianbook.com", by calling us at 1-800-CHRISTIAN (1-800-247-4784, US and Canada; 1-978-977-5000 all other countries), or by writing to us at CBD Mail Preference Service, PO Box 7000, Peabody, MA 01961-7000. Please specify in your correspondence that you do not want us to share your address with other companies. If you are already receiving unwanted mailings, please provide us with your exact name and address. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+If you do not wish to receive catalogs, emails, or other promotional materials from other companies, you can indicate this by sending an email to us at "customer.service@christianbook.com", by calling us at 1-800-CHRISTIAN (1-800-247-4784, US and Canada; 1-978-977-5000 all other countries), or by writing to us at CBD Mail Preference Service, PO Box 7000, Peabody, MA 01961-7000. Please specify in your correspondence that you do not want us to share your address with other companies. If you are already receiving unwanted mailings, please provide us with your exact name and address.
 
-**Compliance with Laws and Law Enforcement**
+If you purchase products or services from our site without opening an account, you may indicate that you do not wish to receive catalogs, emails, or other communications from us or from other companies during the purchase ordering process. Please see “Information We Collect”, above, for information on how to set your browser to deal with Cookies.  
+  
+**Underage Users**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+If you are under the age of eighteen (18) years, you may use this web site and purchase products and services through the use of this web site only with the involvement and under the supervision of a parent or legal guardian.
 
-**Third Party Service Providers**
+**Links to other websites and third-party advertisers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Our site includes links to other websites which are not our subsidiary or affiliated companies. These websites are not owned or operated by us and we are not responsible for their actions or activities. We encourage you to review the privacy and security policies of these websites and advertisers. We do not provide personally identifiable information to these advertisers or third party websites. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Third party vendors, including Google, may show ads for Christianbook.com on websites across the internet. Some of these ads may be served based on information collected from the Christianbook.com website through the use of cookies. The Network Advertising Initiative (“NAI”) is a cooperative of online marketing and analytics companies which provides information regarding Internet advertising and marketing companies. The NAI website provides an opt-out tool which allows consumers to opt-out of the advertising delivered by NAI member companies. The NAI opt-out tool is located at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-**Supplementation of Information**
+**Conditions of use**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Your use of this website and the purchase of products and services through this website are subject to the terms and conditions of this Privacy Policy and the Terms of Use Agreement which is available at <http://www.christianbook.com/Christian/Books/cms_content?page=1471987>.
 
-**Contests/Surveys**
+**Changes to Privacy Policy**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Christianbook.com reserves the right, in its sole discretion, to modify and amend this Privacy Policy in any manner at any time by posting a change notice or new Privacy Policy on our website. 
