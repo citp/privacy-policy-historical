@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoca-colacompany.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627213217id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoca-colacompany.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006190333id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Coca-Cola Company: The Coca-Cola Company
 
@@ -6,11 +6,9 @@
 
  **Last Revised: 15 November, 2013**
 
-The Coca-Cola Company and its affiliates are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through activities that link to this Privacy Policy including websites (our “ **Websites** ”) and any mobile sites, applications, widgets, and other mobile interactive features (collectively, our “ **Apps** ”), through our official social media pages that we control (our “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you
+The Coca-Cola Company and its affiliates are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through activities that link to this Privacy Policy including websites (our “ **Websites** ”) and any mobile sites, applications, widgets, and other mobile interactive features (collectively, our “ **Apps** ”), through our official social media pages that we control (our “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you (collectively, including the Social Media Pages, Apps and Websites, the “ **Sites** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-(collectively, including the Social Media Pages, Apps and Websites, the “ **Sites** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
-
-If you are located in the European Union (EU), please note that The Coca-Cola Company abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU/Switzerland with respect to personal information collected by entities located in the European Economic Area and transferred to The Coca-Cola Company in the United States.  For additional information regarding the Safe Harbor Program, see The Coca-Cola Company’s Safe Harbor policy [http://www.coca-colacompany.com/our-company/safe](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")[](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")[-harbor-privacy-policy.](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")
+If you are located in the European Union (EU), please note that The Coca-Cola Company abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU/Switzerland with respect to personal information collected by entities located in the European Economic Area and transferred to The Coca-Cola Company in the United States.  For additional information regarding the Safe Harbor Program, see The Coca-Cola Company’s Safe Harbor policy [http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy.](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")
 
 ## **PERSONAL INFORMATION**  
 
@@ -41,7 +39,7 @@ We and our service providers may collect Personal Information in a variety of wa
 
   * **Through the Sites** :  We may collect Personal Information through the Sites, e.g., when you sign up for a newsletter or make a purchase.
   *  **Offline** :  We may collect Personal Information from you offline, such as when you contact customer service. 
-  * **Online tracking** : **  **Because we do not track our Site users over time and across third-party websites, we do not respond to browser do-not-track signals.
+  * **Online tracking** : **  **Because we do not track our Site users over time and across third-party websites, we do not respond to browser do-not-track signals. 
   * **From Other Sources** :  We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles. 
 
 
@@ -190,14 +188,13 @@ we ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 ## UPDATES TO THIS PRIVACY POLICY
 
-We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on a Site.  Your use of the Sites following these changes means that you accept the revised Privacy Policy.   
-
+We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on a Site.  Your use of the Sites following these changes means that you accept the revised Privacy Policy. 
 
 ## CONTACTING US
 
 If you have any questions about this Privacy Policy, please contact us as follows:
 
-1.     You may email us at: [https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml](https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml "Link: https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml")
+1.     You may email us at: [https://secure.coca-colacompany.com/ssldocs/mail/eQuery_other.shtml](https://secure.coca-colacompany.com/ssldocs/mail/eQuery_other.shtml "Link: https://secure.coca-colacompany.com/ssldocs/mail/eQuery_other.shtml")
 
 2.     You may call us at 1-800-438-2653
 
