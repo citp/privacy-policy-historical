@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridgewood.k12.nj.us privacy policy that was archived on 2012-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120722001136id_/http%3A//www.ridgewood.k12.nj.us/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridgewood.k12.nj.us privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006191055id_/http%3A//www.ridgewood.k12.nj.us/privacy.phtml%3Fsessionid%3D72248345c2f8fa4f378ddcaaaf91816e) for the most accurate reproduction.*
 
 # Ridgewood Public Schools
 
