@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075246id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007000228id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bangor Daily News — BDN Maine
 
