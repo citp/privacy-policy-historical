@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625001035id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007010142id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DoSomething.org | Largest organization for teens and social cause
+# Privacy Policy | DoSomething.org | America's largest organization for youth volunteering opportunities, with 2,700,000 members and counting
 
 **1\. When Does Do Something Collect My Personal Information?**  
 When you share it with us by, for example: (1) sharing your email address, birthdate, phone number, or other information when subscribing to our newsletter or registering with us to form an account ("Account"), (2) sharing personal information when you submit a report via our contact form, (3) sharing personal information when you post comments, (4) sharing contact information (e.g.., Twitter username and Facebook account name) through our contests or platform, (5) signing up to be a member online by email or Facebook Connect or sms, (6) participating in a survey where an email address is requested; (7) sharing other personal information with us through forms, contest entries, or other communications with us.
