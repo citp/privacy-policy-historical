@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507001824id_/http%3A//www.churchill.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006022238id_/http%3A//www.churchill.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Churchill Insurance UK
 
