@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209111603id_/http%3A//www.nolanchart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006210808id_/http%3A//www.nolanchart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nolan Chart
 
 **Privacy Policy Statement**
 
-This web site is owned by Nolan Chart LLC.  
+This web site is owned by Online Marketing Guild LLC.  
 Our postal address is  
-9707 Routts Hill Road  
-Warrenton, VA 20186
+34 Alan Drive  
+Weatogue, CT 06089
 
-We can be reached via email at webmaster (at) nolanchart (dot) com or you can reach us by telephone at 540-428-2787
+We can be reached via email at webmaster (at) nolanchart (dot) com or you can reach us by telephone at 860-264-5432.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s IP address and domain name (where possible).
 
