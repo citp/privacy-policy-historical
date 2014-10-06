@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the framesdirect.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401071343id_/http%3A//www.framesdirect.com/landing/a/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the framesdirect.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006213557id_/http%3A//www.framesdirect.com/include/information/privacy-policy.aspx) for the most accurate reproduction.*
 
 # FramesDirect.com Privacy & Security Policy
 
