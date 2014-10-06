@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roehampton-online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080113id_/http%3A//www.roehampton-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roehampton-online.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006215947id_/http%3A//www.roehampton-online.com/privacy-policy) for the most accurate reproduction.*
 
-# Policies | University of Roehampton Online Degree Programmes
+# Statement of Privacy
 
-View our Privacy Policy below or read our complete [Terms & Conditions](https://web.archive.org/web/20140625080113id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.ashx).
+View our Privacy Policy below or read our complete [Terms & Conditions](https://web.archive.org/web/20141006215947id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.ashx).
 
-For additional information on our academic policies, please review our [Academic Policies](https://web.archive.org/web/20140625080113id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Academic_Policies_2013.ashx).
+For additional information on our academic policies, please review our [Academic Policies](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Academic_Policies_2013.pdf).
 
 Laureate Online Education presents this Statement of Privacy to you in order to demonstrate its firm commitment to privacy. The following information discloses Laureate Online Education’s data collection, maintaining, processing and transfer practices with relation to this website [www.roehampton-online.com](http://www.roehampton-online.com/).
 
@@ -38,7 +38,7 @@ This Statement of Privacy is governed by the laws of the Netherlands, without ef
 
 Laureate Online Education may provide you with links to other sites. Please be aware that Laureate Online Education is not responsible for the privacy practices of these sites. Laureate Online Education does not endorse them or make any representations about them or any information, services, products or materials found on them. If you decide to access any of the third party sites through links, we strongly encourage you to read their privacy statements.
 
-If you did not find what you were looking for read our complete [Terms & Conditions](https://web.archive.org/web/20140625080113id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.ashx) or contact us.
+If you did not find what you were looking for read our complete [Terms & Conditions](https://web.archive.org/web/20141006215947id_/http%3A//www.roehampton-online.com/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.ashx) or contact us.
 
 ## Cookies
 
@@ -48,10 +48,10 @@ When you use our websites, our web server logs your Internet Protocol (IP) addre
 
 Cookies are small text files that are stored on your computer or device when you visit a website. Cookies are used by all websites and have a variety of functions, primarily:
 
-  * Allowing the website to function as intended and in a secure manner
-  * Enabling us to monitor performance, functionality and usability of the website
-  * Improving user experience of the website by remembering information entered by a site visitor
-  * Improving experience by displaying information of relevance to you
+  * Allowing the website to function as intended and in a secure manner 
+  * Enabling us to monitor performance, functionality and usability of the website 
+  * Improving user experience of the website by remembering information entered by a site visitor 
+  * Improving experience by displaying information of relevance to you 
 
 
 
@@ -64,15 +64,15 @@ These cookies will only be placed by Laureate Online Education's websites and no
 
 Our necessary cookies will:
 
-  * Enable site functionality
-  * Detect the best settings for the device you are using
+  * Enable site functionality 
+  * Detect the best settings for the device you are using 
 
 
 
 Our necessary cookies will not:
 
-  * Store any behavioural information
-  * Send any information to third parties
+  * Store any behavioural information 
+  * Send any information to third parties 
 
 
 
@@ -83,15 +83,15 @@ The majority of our performance cookies are placed by Laureate Online Education.
 
 Our performance cookies will:
 
-  * Identifying errors within the website, allowing us to improve it
-  * Help us understand user interaction
-  * Enable the website to run quicker and more efficiently
+  * Identifying errors within the website, allowing us to improve it 
+  * Help us understand user interaction 
+  * Enable the website to run quicker and more efficiently 
 
 
 
 Our performance cookies will not:
 
-  * Store personal information beyond your current visit
+  * Store personal information beyond your current visit 
 
 
 
@@ -102,7 +102,7 @@ The majority of our performance cookies are placed by Laureate Online Education.
 
 Our customisation cookies will:
 
-  * Store preferences that you select, such as font sizes or volume level
+  * Store preferences that you select, such as font sizes or volume level 
 
 
 
