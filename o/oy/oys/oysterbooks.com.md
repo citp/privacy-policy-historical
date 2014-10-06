@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the oysterbooks.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327052208id_/https%3A//www.oysterbooks.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oysterbooks.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006224015id_/https%3A//www.oysterbooks.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Oyster Privacy Policy
 
-  * [Help Center](https://web.archive.org/help/overview)
-  * [Customer FAQ](https://web.archive.org/help/customer-faq)
-  * [Publisher FAQ](https://web.archive.org/help/publisher-faq)
-  * [Gifts FAQ](https://web.archive.org/help/gifts-faq)
-  * [Privacy](https://web.archive.org/help/privacy-policy)
-  * [Terms of Service](https://web.archive.org/help/terms-of-service)
-  * [Copyright Policy](https://web.archive.org/help/copyright-policy)
-  * [Payment Terms](https://web.archive.org/help/payment-terms)
-  * [Gift Terms](https://web.archive.org/help/gift-terms)
+  * [Terms of Service](https://web.archive.org/legal/terms-of-service)
+  * [Privacy](https://web.archive.org/legal/privacy-policy)
+  * [Copyright Policy](https://web.archive.org/legal/copyright-policy)
+  * [Payment Terms](https://web.archive.org/legal/payment-terms)
+  * [Gift Terms](https://web.archive.org/legal/gift-terms)
+  * [Referral Terms](https://web.archive.org/legal/referral-terms)
 
 
 
