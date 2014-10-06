@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204112914id_/http%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idc.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006225629id_/https%3A//www.idc.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # IDC - Privacy Policy
 
@@ -14,23 +14,23 @@ Specifically:
 
 
 
-We may aggregate statistics of the type of applications used to browse our web site and the regional source of that browsing, among IDC and other IDG companies for analysis. Such data is collected and examined through our web server's log files without identifying the user.
+We may aggregate statistics of the type of applications used to browse our web site and the regional source of that browsing, among IDC and other IDG companies for analysis. 
 
 IDC employs SSL encryption on all credit card transactions. The secure server software (SSL) encrypts all information you input before you send it to us.
 
 Corporate Administrators at our client organizations have access to usage statistics for their account base. If your user account is part of a corporate account, then a Corporate Administrator at your company may access your user and usage information. Corporate Administrators can access user information only for individuals within their corporate profile.
 
-**Cookies**  
-IDC.com places 3 "cookies" on your machine; one that stores your login information for up to 1 year, and 2 cookies that maintain your presence when you log into the site. The cookies tell IDC.com only who you are, and that you have logged in to the site successfully. The identity cookie resides only on the computer that you used to login to IDC.com and the 2 session cookies expire within 8 hours or 1 year of your session, depending on whether you opt to have the site "Remember" you upon login. No one external to IDC has access to user information for individual accounts (individuals who are not part of a corporate account). 
+Email Privacy
 
-**Email Privacy**  
 IDC.com requires that users provide an email address as their login identity when registering for an account on our web site. This ensures a unique identity and provides IDC with a method to contact customers about service interruptions and other service related issues.
 
 During registration, new users are added to the IDC.com Subscriber list to receive additional communications about special IDC offers, unless the user unchecks the pre-checked Contact box. If you choose to un-check the Contact boxes, you will not be included in the IDC.com subscriber list. To remove your email address from this list, simply login to IDC.com, click on Edit Profile in the top-right corner of the screen, then un-check the selected contact methods in the "Contact Me By" section.
 
-Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive. Or, you may also request that your email address be removed from the IDC.com subscriber list by entering it on our Unsubscribe list, [here](http://www.idc.com/unsubscribe). Once you request to be removed, please allow up to 10 days to be taken off the IDC.com subscriber list. If you would like to re-subscribe, you can add your email address to our list again by signing up to be contacted on your IDC.com Profile page, or by contacting IDC Technical Support at [idc_support@idc.com](mailto:idc_support@idc.com). 
+Once you are on the IDC.com subscriber list, you may ask to be removed at any time. You may simply click on the link that appears at the bottom of the IDC email you receive. If you would like to re-subscribe, you can add your email address to our list again by signing up to be contacted on your IDC.com Profile page, or by contacting IDC Technical Support at [idc_support@idc.com](mailto:idc_support@idc.com). 
 
 Unsubscribe requests, or issues may also be sent to the following postal addresses:
+
+* * *
 
 **IDC North America**   
 5 Speen Street  
