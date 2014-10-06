@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itvlocal.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140311id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itvlocal.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006143633id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for ITV services – ITV
 
@@ -35,6 +35,8 @@ What information we collect about you depends which of our Services you are usin
   * other data to ensure and check compliance with the [**Terms of Use**](http://www.itv.com/terms) and/or otherwise as required by law.
 
 
+
+The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ##  When and how do you collect information? 
 
