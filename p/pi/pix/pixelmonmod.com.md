@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelmonmod.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075351id_/http%3A//pixelmonmod.com/faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelmonmod.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006183256id_/http%3A//pixelmonmod.com/faq) for the most accurate reproduction.*
 
 # Pixelmon | The Amazing Pokemon Mod for Minecraft
 
