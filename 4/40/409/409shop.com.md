@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022214156id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006031510id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
 
-# 409SHOP LIMITED (HK) 2-way Radio Earpiece accessory Wholesale
+# 409SHOP LIMITED (HK) 409對講機專門店 2-way Radio Earpiece accessory Wholesale
 
 **Privacy Policy  
 **  
