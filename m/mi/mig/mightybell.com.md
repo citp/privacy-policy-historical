@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327134706id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006223232id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
 
-# Mightybell | Privacy Policy
+# Privacy Policy
 
 ## Mightybell Privacy Policy
 
@@ -84,7 +84,7 @@ This Privacy Policy applies only to the Service. The Service may contain links t
 
 One of the special features of the Service is that it allows you to enable various online third party services, such as social media and social networking services like Facebook and Twitter (each, an “Integrated Service”), to integrate directly into your Mightybell Circle. By directly integrating these services, we make your use of Mightybell richer, and more personalized. To enable Integrated Services, we may ask you to authorize Mightybell to access the Integrated Services (or vice versa). When you add an Integrated Service account to the Service (or vice versa), your log-in information, Personal Data, Non-Identifiable Data, location information, User Content, Circle names, Circle IDs, Circle locations, partner affiliations, and other relevant information necessary to enable the Service and Integrated Service may be passed through to, or received from, the Integrated Service in connection with your use of the Service. We may import, use, disclose, and retain such data and information to, among other things, customize and improve the Service for you, your friends, and others. Note that Integrated Services may also import, use, and retain this information. You may be able to control how certain information is shared with us in your privacy settings within the Integrated Services. However, please remember that the manner in which Integrated Services collect, use, store, and disclose your information is governed solely by the policies of the third parties operating those Integrated Services, and Mightybell shall have no liability or responsibility for the privacy practices or other actions of any Integrated Service that may be enabled within the Service.
 
-From time to time, we may share your information with [Integrated Services](https://web.archive.org/about_partnerships) (such as Lean In.org). This may happen when you first register with Mightybell, when you log into Mightybell from time to time, or in emails or other communications we may send you consistent with this Privacy Policy. We may share your Personal Data and Non-Identifiable Data, your location information, your partner affiliation, your Circle ID, your Circle URL, your Circle title, your Circle location, and your use of the Circles feature on Mightybell with Integrated Services to facilitate and enhance your use of the Integrated Services. Please keep in mind that services provided by Integrated Services are not provided by Mightybell and therefore your use of the Integrated Services will be governed by the Integrated Services' Terms of Use and other policies, and that the collection, use, and disclosure of information provided by you or us to Integrated Services is not governed by this Privacy Policy. 
+From time to time, we may share your information with Integrated Services. This may happen when you first register with Mightybell, when you log into Mightybell from time to time, or in emails or other communications we may send you consistent with this Privacy Policy. We may from time to time share your Personal Data and Non-Identifiable Data, your location information, your partner affiliation, your Community URL, your location, and your use of certain features on Mightybell with Integrated Services to facilitate and enhance your use of the Integrated Services. Please keep in mind that services provided by Integrated Services are not provided by Mightybell and therefore your use of the Integrated Services will be governed by the Integrated Services' Terms of Use and other policies, and that the collection, use, and disclosure of information provided by you or us to Integrated Services is not governed by this Privacy Policy.
 
 ### SECURITY
 
@@ -92,7 +92,7 @@ Mightybell takes reasonable steps to protect the Personal Data provided via the 
 
 ### OTHER TERMS AND CONDITIONS
 
-Your access to and use of the Service is subject to the Terms of Use at mightybell.com/terms_of_use.
+Your access to and use of the Service is subject to the Terms of Use at https://mightybell.com//terms_of_use.
 
 ### CHANGES TO MIGHTYBELL’S PRIVACY POLICY
 
