@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderncoinmart.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624230208id_/http%3A//www.moderncoinmart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderncoinmart.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006075049id_/http%3A//www.moderncoinmart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ModernCoinMart (MCM)
 
