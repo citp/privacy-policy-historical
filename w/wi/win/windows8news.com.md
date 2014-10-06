@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windows8news.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118151654id_/http%3A//everything-microsoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows8news.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006064045id_/http%3A//www.everything-microsoft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Everything Microsoft
+# Privacy Policy
 
 Everything Microsoft may from time to time collect names and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the Everything Microsoft site.These details will not be passed onto any other third party or other organisation unless we are required to by government or other law enforcement authority.
 
