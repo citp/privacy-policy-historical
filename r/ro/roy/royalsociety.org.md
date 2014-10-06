@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032411id_/http%3A//royalsociety.org/about-us/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006105908id_/https%3A//royalsociety.org/about-us/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Society
 
