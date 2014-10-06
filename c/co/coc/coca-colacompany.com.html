@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coca-colacompany.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627213217id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coca-colacompany.com privacy policy that was archived on 2014-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141006190333id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="theme-bg-main  no-js" lang="en-US"><!--<![endif]--><head>
 
@@ -41,11 +41,11 @@ Normand Veillieux
 
 <link href="http://assets.coca-colacompany.com/resource/img/favicon.b0e38b099b7e74b80bc020fb2f7ab2d1.ico" rel="icon" type="image/x-icon">
 
-<link rel="stylesheet" href="http://assets.coca-colacompany.com/resource/static/css/tccc.global.f0ac0771843431ddc39146f8a9d1cace.css">
+<link rel="stylesheet" href="http://assets.coca-colacompany.com/resource/static/css/tccc.global.b2ced610c1d23d248228922cce4d1950.css">
     <link rel="stylesheet" href="http://assets.coca-colacompany.com/resource/css/grid.ea78801cbb95f5534a8d759412498410.css">
 
 
-<link rel="stylesheet" href="http://assets.coca-colacompany.com/resource/css/article-iframe.c72c3cfa28077c86ee0ee5fcf3fba5a1.css">
+<link rel="stylesheet" href="http://assets.coca-colacompany.com/resource/css/article-iframe.95117d1a1d2c746b8411e350fc79531c.css">
 
 <link rel="apple-touch-icon-precomposed" href="http://assets.coca-colacompany.com/resource/icons/coke-icon.6c58a333a4d27119f1087a104ac95541.png">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://assets.coca-colacompany.com/resource/icons/coke-icon-57x57.0d0ec080c12ce8d42b570369dd6f379b.png">
@@ -254,7 +254,9 @@ html.mobile body.article-iframe div.wrapper article.third_party_iframe {margin: 
 
 /* srice: 11-12-13 update Stories and Opinions sidekick opacity to show more of the image  */
 body.stories .sidekick .metadata {opacity: 0.83;}
-body.stories .sidekick .metadata p {margin: 7px;}
+html.desktop .stories .sidekick .metadata p,
+html.tablet .stories .sidekick .metadata p {margin: 7px;}
+
 
 /* jpencola: force link color in Immersive Gallery captions to red */
 .experience-wrapper .rsGCaption a { color: #f40009 }
@@ -279,7 +281,10 @@ a.cms-social-tweetable:hover {
     background: #fdc7c4;
 }
 
-/* git r dun like a boss coke-1000 4 ever */</style>
+/* git r dun like a boss coke-1000 4 ever */
+
+
+</style>
 <style type="text/css">
     /* jpencola: makes the bubbling and phototext modules' right-most text-content wrappers divisible evenly so that they can scale up/down without floating point values, which causes them to wrap under */
 .module.module-whats-bubbling .entry .number {
@@ -330,8 +335,13 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
         jquery: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/lib/jquery/jquery-1.8.3.b67a21f5f4e41409583b93e4979e58e5",
         adaptConfig: "http://assets.coca-colacompany.com/resource/js/lib/adaptConfig.a05de28d965a1fa9b0753f8c5bd74d32",
         adapt: "http://assets.coca-colacompany.com/resource/js/vendor/adapt.025fcda52f8f60546fbeb333223fed44",
-        royalSliderDefault: "http://assets.coca-colacompany.com/resource/js/vendor/royalslider/jquery.royalslider.custom.min.d008d3e455817d4cfbe0fff89628ba48",
-        royalslider: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/lib/royalslider/dev/jquery.royalslider.49676781279b734418f02f1df4fa5264",
+        
+        // all sliders now point at the global version of royalslider
+        royalSliderDefault: "http://assets.coca-colacompany.com/resource/js/vendor/royalslider/jquery.royalslider.custom.min.34e1a55420767a3d313e6d00492d426f",
+        royalslider: "http://assets.coca-colacompany.com/resource/js/vendor/royalslider/jquery.royalslider.custom.min.34e1a55420767a3d313e6d00492d426f",
+        // except the immersive gallery, that will continue to point to the version it was using at the time it was created
+        royalsliderImmersive: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/lib/royalslider/dev/jquery.royalslider.49676781279b734418f02f1df4fa5264",
+
         royalsliderCaption: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/lib/royalslider/dev/modules/jquery.rs.global-caption.7af2f3111ae0b47360906032b66a3752",
         royalsliderBullets: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/lib/royalslider/dev/modules/jquery.rs.bullets.fac96ab3c3f1ab8b32ff60ef423224d6",
         royalsliderVideo: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/lib/royalslider/dev/modules/jquery.rs.video.be57a56e4e4e6e5529afe60551223f4b",
@@ -345,30 +355,33 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
 
         brightcovePlayer: "http://assets.coca-colacompany.com/resource/js/templates/brightcoveVideoPlayer.5ff3f46d7da09f96b988d410985331da",
         head: "http://assets.coca-colacompany.com/resource/js/vendor/head.min.96273952283ff0ad533a2102ede87a40",
-        tccc: "http://assets.coca-colacompany.com/resource/js/lib/tccc.cf4649c0b214dc2090d7aa7e2809f783",
+        tccc: "http://assets.coca-colacompany.com/resource/js/lib/tccc.39c29e83be3139c967f3eceb07880819",
         tcccRoutes: "http://assets.coca-colacompany.com/resource/js/lib/routes.8771e813791a1efb267e6a473a91313b",
-        sharebar: "http://assets.coca-colacompany.com/resource/js/modules/SocialSharebar.1dbd03095a20f7d5f8ee6c398c6ab46d",
+        sharebar: "http://assets.coca-colacompany.com/resource/js/modules/SocialSharebar.fcecdba014a751b273ea3a7dbd08bebb",
         commentingTemplate: "http://assets.coca-colacompany.com/resource/js/templates/comments.30935d472bbda51b902cea4810d8d1db",
-        gallery: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/app/Gallery.95dc0d8240559aab133feb7a1c532a72",
-        factGallery: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/app/FactGallery.eaacc0c2f50c7746b05dedf4526f100b",
+        
+        gallery: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/app/Gallery.b506f1ad6b5e0186872e8c8fa9edc581",
+        galleryfull: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/app/galleryfull.339fe4a7656cbb5431bba15ba1a7137d",
+        factGallery: "http://assets.coca-colacompany.com/resource/immersive-gallery/js/app/FactGallery.6a6c1e5236ed40f1a67cc01a63a847f5",
+        
         customtracking: "http://assets.coca-colacompany.com/resource/js/modules/CustomTracking.1b6cdc4f6979c7136887b47b921fc70e",
         trackingEvents: "http://assets.coca-colacompany.com/resource/js/lib/trackingEvents.31f3c41cc54be3f0f693f10a9a38d558",
         stockticker: "http://assets.coca-colacompany.com/resource/js/modules/StockTicker.65380a017327117dc96529f059b703f8",
         trending: "http://assets.coca-colacompany.com/resource/js/modules/Trending.1228da46107fe2dcde3186c82ede6f69",
         headerUtils: "http://assets.coca-colacompany.com/resource/js/lib/tccc.header_utils.c6319b87638765dd56b37fb185a4c1fe",
-        footerUtils: "http://assets.coca-colacompany.com/resource/js/lib/tccc.footer_utils.34131f9fd90c0112a8ef227b6aadd76a",
+        footerUtils: "http://assets.coca-colacompany.com/resource/js/lib/tccc.footer_utils.94c393b1c3214a208de62443eb8c3741",
         subnav: "http://assets.coca-colacompany.com/resource/js/modules/Subnav.aee7854dee4ead309d08bb618db2d72e",
         debate: "http://assets.coca-colacompany.com/resource/js/modules/Debate.f74e29fd00ef8332cc456add5aded753",
         calendar: "http://assets.coca-colacompany.com/resource/js/modules/Calendar.45b0d956263863f21b6b33a1bbf5b3f6",
         recipe: "http://assets.coca-colacompany.com/resource/js/modules/Recipe.16fa95f59242e78a9e21efaae505d331",
         brandPost: "http://assets.coca-colacompany.com/resource/js/models/BrandPost.8bf854f1e8814b1321165a9daa4f4b99",
-        brandPostsHandler: "http://assets.coca-colacompany.com/resource/js/brands/BrandPostsHandler.88ab7d60b2d701677adecda878caf154",
+        brandPostsHandler: "http://assets.coca-colacompany.com/resource/js/brands/BrandPostsHandler.fb7a808db6e6accfb418606266bf9cbd",
         brandAllHandler: "http://assets.coca-colacompany.com/resource/js/brands/BrandAllHandler.045deeb3bb039533f49caf4df67ebe06",
         collection: "http://assets.coca-colacompany.com/resource/js/models/Collection.e86fb1a96c112f8c28e899eb93489210",
         listContent: "http://assets.coca-colacompany.com/resource/js/models/ListContent.4209012ac58f8ca749fd9496b07eecf1",
         listContentHandler: "http://assets.coca-colacompany.com/resource/js/list-content/ListContentHandler.970371277102bee297745646a97ce9a1",
         listContentLoader: "http://assets.coca-colacompany.com/resource/js/modules/listContentLoader.e57d5ca9220c0a6007c84e59dc13e93b",
-        listContentRenderer: "http://assets.coca-colacompany.com/resource/js/modules/listContentRenderer.d0ddc5deda36fa6cd250ecede8a5b954",
+        listContentRenderer: "http://assets.coca-colacompany.com/resource/js/modules/listContentRenderer.320e90f2c50a026191c5af27d8b8bd05",
         topic: "http://assets.coca-colacompany.com/resource/js/models/Topic.9f685af8d4fb663eb37d72e7ef5b8377",
         topicModule: "http://assets.coca-colacompany.com/resource/js/modules/TopicsModule.54b1c383e86fb79aac975eda13f59f5a",
         mixedMediaRenderer: "http://assets.coca-colacompany.com/resource/js/modules/MixedMediaRenderer.7dc41fb60e62692f7b2f2bb3fb469407",
@@ -389,13 +402,17 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
         form: "http://assets.coca-colacompany.com/resource/js/lib/tccc.form.e718203c172adb96df7dc0377de2b454",
         sparseSet: "http://assets.coca-colacompany.com/resource/js/utils/SparseSet.3e9d9887a8426f17c4efb9eb709e4e9d",
         flyinWidget: "http://assets.coca-colacompany.com/resource/js/modules/FlyInWidget.17255ec5a5959f6d1d5deae3bf592b2e",
-        featuredSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/blog/featuredSlideshow.0d7cc26548b584f57e7ffe15f3ed0625",
-        promoSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/blog/promoSlideshow.7836e7f1058bc68d210905b49be33ed3",
-        heroSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/heroSlideshow.da8f5f3b91ef3944562274affdbc4c01",
-        stayAndSipSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/stayAndSipSlideshow.3b6f3fb4efce5c86f7cc7bd7c6e371b9",
+        featuredSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/blog/featuredSlideshow.a4268d62303690e0914304e6ee0a428f",
+        promoSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/blog/promoSlideshow.ee6688577b174297cfc5b3914555aa80",
+        heroSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/heroSlideshow.80fdb399fa38f0bb957be4acec275462",
+        stayAndSipSlideshow: "http://assets.coca-colacompany.com/resource/js/modules/stayAndSipSlideshow.5c352a8173f5da84ba0cb0a945aab7e9",
         quizModule: "http://assets.coca-colacompany.com/resource/js/modules/Quiz.5894a290a5e362efb743fd940d7ca6bc",
-        newsletterSignup: "http://assets.coca-colacompany.com/resource/js/modules/NewsletterSignUp.187ad9c52574c591cab7e942e9489f90",
-        
+        newsletterSignup: "http://assets.coca-colacompany.com/resource/js/modules/NewsletterSignUp.d959610318e3777a8b358b5de3f667d6",
+        productInfo: "http://assets.coca-colacompany.com/resource/js/modules/productInfo.5864b74e2f9875e3b79eacee006f767e",
+        railSlider: "http://assets.coca-colacompany.com/resource/js/modules/railSlider.103c3014a3466282466ea367e0cc0a94",
+        productSlider: "http://assets.coca-colacompany.com/resource/js/modules/productSlider.1c45ba3af98dbd085b4dda02f78467fd",
+        surveyLinkPopUp: "http://assets.coca-colacompany.com/resource/js/modules/SurveyLinkPopUp.1e5a37de9d8ec50081527cbc8e512488",
+
         // vendor
         ie8patch: "http://assets.coca-colacompany.com/resource/js/vendor/jquery-ie8-patch.668546648c568d4d2f78e73cc086c43d",
         jqCookie: "http://assets.coca-colacompany.com/resource/js/vendor/jquery.cookie.3854d7fc5d2b20ed6e651029a06ba5ac",
@@ -440,6 +457,8 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
         exif: "http://assets.coca-colacompany.com/resource/js/vendor/exif.137ede95257808f2034242bf717d84ac",
         megapixImage: "http://assets.coca-colacompany.com/resource/js/vendor/megapix-image.0d8d0e5315b932bf9fbe88d31577ace3",
         add2home: "http://assets.coca-colacompany.com/resource/js/vendor/add2home.541f4a3d3c33659a005a3d89e76657ef",
+        qrcode: "http://assets.coca-colacompany.com/resource/js/vendor/qrcode.8230d50f1eed6d5af162d8901135de29",
+        createQRcode: "http://assets.coca-colacompany.com/resource/js/modules/createQRcode.faa210a1776d82079646768068d7e6e1",
         rAF: "http://assets.coca-colacompany.com/resource/js/vendor/AnimationFrame.min.d191a1847c3f0dab00a045213ac2846b"
       },
 
@@ -464,7 +483,6 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
         jqUI: {deps: ['jquery'], exports: 'jqUI'},
         jqSmoothScroll: {deps: ['jquery'], exports: 'jqSmoothScroll'},
         jqColor: {deps: ['jquery'], exports: 'jqColor'},
-
         head: {exports: 'head'},
         form2Obj: {exports: 'form2Obj'},
         selectBoxIt: {deps: ['jquery','jqUI'], exports: 'selectBoxIt'},
@@ -482,16 +500,17 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
         twitterAPI: {exports: 'twitterAPI'},
         royalSliderDefault: {deps: ['jquery'], exports: 'royalSlider'},
         royalslider: {deps: ['jquery'], exports: 'royalSlider'},
-        royalsliderCaption: {deps: ['royalslider'], exports: 'royalSliderCaption'},
-        royalsliderVideo: {deps: ['royalslider'], exports: 'royalSliderVideo'},
-        royalsliderBullets: {deps: ['royalslider'], exports: 'royalSliderBullets'},
-        royalsliderDeeplink: {deps: ['royalslider'], exports: 'royalSliderDeeplink'},
-        royalsliderAutoPlay: {deps: ['royalslider'], exports: 'royalSliderAutoPlay'},
-        royalsliderVisibleNearby: {deps: ['royalslider'], exports: 'royalsliderVisibleNearby'},
-        royalsliderActiveClass: {deps: ['royalslider'], exports: 'royalsliderActiveClass'},
-        royalsliderAnimatedBlocks: {deps: ['royalslider'], exports: 'royalsliderAnimatedBlocks'},
-        royalsliderThumbs: {deps: ['royalslider'], exports: 'royalsliderThumbs'},
-        royalsliderTabs: {deps: ['royalslider'], exports: 'royalsliderTabs'},
+        royalsliderImmersive: {deps: ['jquery'], exports: 'royalsliderImmersive'},
+        royalsliderCaption: {deps: ['royalsliderImmersive'], exports: 'royalSliderCaption'},
+        royalsliderVideo: {deps: ['royalsliderImmersive'], exports: 'royalSliderVideo'},
+        royalsliderBullets: {deps: ['royalsliderImmersive'], exports: 'royalSliderBullets'},
+        royalsliderDeeplink: {deps: ['royalsliderImmersive'], exports: 'royalSliderDeeplink'},
+        royalsliderAutoPlay: {deps: ['royalsliderImmersive'], exports: 'royalSliderAutoPlay'},
+        royalsliderVisibleNearby: {deps: ['royalsliderImmersive'], exports: 'royalsliderVisibleNearby'},
+        royalsliderActiveClass: {deps: ['royalsliderImmersive'], exports: 'royalsliderActiveClass'},
+        royalsliderAnimatedBlocks: {deps: ['royalsliderImmersive'], exports: 'royalsliderAnimatedBlocks'},
+        royalsliderThumbs: {deps: ['royalsliderImmersive'], exports: 'royalsliderThumbs'},
+        royalsliderTabs: {deps: ['royalsliderImmersive'], exports: 'royalsliderTabs'},
         bootstrap: {deps:['jquery'], exports: 'boostrap'},
         bootstrapTypeahead: {deps: ['jquery', 'bootstrap'], exports: 'typeahead'},
         glDatePicker: {deps: ['jquery'], exports: 'glDatePicker'},
@@ -499,7 +518,8 @@ html.tablet #global-section-nav .sections[data-total-sections="8"] .section-link
         binaryAjax: {exports: 'binaryAjax'},
         exif: {exports: 'exif'},
         megapixImage: {exports: 'megapixImage'},
-        json2: {exports: 'JSON'}, 
+        json2: {exports: 'JSON'},
+        qrcode: {deps:['jquery'], exports: 'qrcode'},
         add2home: {exports: 'addToHome'}
       }
     });
@@ -671,6 +691,20 @@ require(['jquery','tccc'], function ($, tccc){
 
         $tweetables.each(function() {
             var $tweetable = $(this);
+            var $current = $tweetable.parent().next();
+     	    var $next = $current.parent().next();
+        
+	        while ($current.find('.cms-social-tweetable').length > 0) {
+	            if ($current.text() !== $current.find('.cms-social-tweetable').text()) {
+                	break;
+            	}
+            
+            	var $next = $current.next();
+        	    $tweetable.append($current.html());
+        	    $current.remove();
+    	        $current = $next;
+	        }
+            
             var text = $tweetable.text();
             var $link = $('<a/>', {
                 'class': 'cms-social-tweetable',
@@ -737,7 +771,10 @@ require(['jquery','tccc'], function ($, tccc){
 </script>
 
 
-<!--[if IE]><script src="http://assets.coca-colacompany.com/resource/js/vendor/html5.fe835e53283987c1b88501320d0b5459.js"></script><![endif]-->
+<!--[if IE]>
+<script src="http://assets.coca-colacompany.com/resource/js/vendor/html5.fe835e53283987c1b88501320d0b5459.js"></script>
+<script src="http://assets.coca-colacompany.com/resource/js/vendor/html5-printshiv.min.f9c461c873783daa4be6964e4cebd278.js"></script>
+<![endif]-->
 </head>
 
 <body class="article-iframe  our-company privacy-policy ">
@@ -747,15 +784,15 @@ require(['jquery','tccc'], function ($, tccc){
 <section id="global-banner" class="hidden-phone">
         <div class="container">
             <div class="vertically-centered">
-            <a href="http://www.coca-colacompany.com/"><img data-src="{&quot;desktop&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;tablet&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;mobile&quot;:&quot;http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png&quot;}" data-override-size="small" src="http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png" alt="Go to Coca-Cola Journey Home Page" title="Go to Coca-Cola Journey Home Page" class="hidden horizontally-centered"></a>
+            <a href="http://www.coca-colacompany.com/" data-cms-ai="0"><img data-src="{&quot;desktop&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;tablet&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;mobile&quot;:&quot;http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png&quot;}" data-override-size="small" src="http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png" alt="Go to Coca-Cola Journey Home Page" title="Go to Coca-Cola Journey Home Page" class="hidden horizontally-centered"></a>
                 </div>
         </div>
     </section>
 
     <section id="global-hat" class="clearfix">
-        <a id="mobile-menu"><i class="icon-reorder"></i></a>
+        <a id="mobile-menu" data-cms-ai="0"><i class="icon-reorder"></i></a>
         <div class="vertically-centered">
-        <a id="mobile-logo" href="http://www.coca-colacompany.com/"><img data-src="{&quot;desktop&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;tablet&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;mobile&quot;:&quot;http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png&quot;}" data-override-size="small" src="http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png" alt="Go to Coca-Cola Journey Home Page" title="Go to Coca-Cola Journey Home Page" class="hidden horizontally-centered"></a>
+        <a id="mobile-logo" href="http://www.coca-colacompany.com/" data-cms-ai="0"><img data-src="{&quot;desktop&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;tablet&quot;:&quot;http://assets.coca-colacompany.com/1c/fc/48aae2c74edea58b95d6fbf9bc31/go-to-coca-cola-journey-home-page.png&quot;,&quot;mobile&quot;:&quot;http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png&quot;}" data-override-size="small" src="http://assets.coca-colacompany.com/a0/68/b2ff09c2473483677bb45d2197de/go-to-coca-cola-journey-home-page.png" alt="Go to Coca-Cola Journey Home Page" title="Go to Coca-Cola Journey Home Page" class="hidden horizontally-centered"></a>
             </div>
     </section>
 
@@ -775,13 +812,13 @@ require(['jquery','tccc'], function ($, tccc){
                 <div class="sub-nav col col1 not-selectable">
                     <ul class="link-list">
                         <li class="link-list-item investors vertically-centered">
-                                <a href="http://www.coca-colacompany.com/investors/" id="investors-link" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investors&quot;,&quot;tablet&quot;:&quot;Investors&quot;,&quot;mobile&quot;:&quot;Investors&quot;}" class="">
+                                <a href="http://www.coca-colacompany.com/investors/" id="investors-link" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investors&quot;,&quot;tablet&quot;:&quot;Investors&quot;,&quot;mobile&quot;:&quot;Investors&quot;}" class="">
     Investors</span>
 </a>
                                 </li>
                         <li class="link-list-item our-company vertically-centered sub-menu-wrapper" data-linked-menu-id="js-company-menu">
                                 <span class="bar">|</span>
-                                <a href="http://www.coca-colacompany.com/our-company/" class="sub-menu-link" target=""><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> Company&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> Company&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> Company&quot;}" class="">
+                                <a href="http://www.coca-colacompany.com/our-company/" class="sub-menu-link" target="" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> Company&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> Company&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> Company&quot;}" class="">
     The <nobr>Coca-Cola</nobr> Company</span>
 <i class="icon-caret-down"></i></a>
                             </li>
@@ -790,7 +827,7 @@ require(['jquery','tccc'], function ($, tccc){
 
                 <div class="sub-nav col col2 not-selectable">
                         <ul class="link-list">
-                            <li class="link-list-item vertically-centered countries sub-menu-wrapper" data-linked-menu-id="js-country-menu"><a class="country-menu-link sub-menu-link">Country (Global)<i class="icon-caret-down"></i></a></li>
+                            <li class="link-list-item vertically-centered countries sub-menu-wrapper" data-linked-menu-id="js-country-menu"><a class="country-menu-link sub-menu-link" data-cms-ai="0">Country (Global)<i class="icon-caret-down"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -798,25 +835,25 @@ require(['jquery','tccc'], function ($, tccc){
             <section id="global-section-nav">
                 <nav class="container clearfix">
                     <ul class="sections" data-total-sections="7">
-                    <li class="section"><a tabindex="1" href="http://www.coca-colacompany.com/" class="front-page  section-link first" target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Front Page&quot;,&quot;tablet&quot;:&quot;Front Page&quot;,&quot;mobile&quot;:&quot;Front Page&quot;}" class="">
+                    <li class="section"><a tabindex="1" href="http://www.coca-colacompany.com/" class="front-page  section-link first" target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Front Page&quot;,&quot;tablet&quot;:&quot;Front Page&quot;,&quot;mobile&quot;:&quot;Front Page&quot;}" class="">
     Front Page</span>
 </div></a></li>
-                    <li class="section"><a tabindex="2" href="http://www.coca-colacompany.com/brands/" class="brands  section-link " target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Brands&quot;,&quot;tablet&quot;:&quot;Brands&quot;,&quot;mobile&quot;:&quot;Brands&quot;}" class="">
+                    <li class="section"><a tabindex="2" href="http://www.coca-colacompany.com/brands/" class="brands  section-link " target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Brands&quot;,&quot;tablet&quot;:&quot;Brands&quot;,&quot;mobile&quot;:&quot;Brands&quot;}" class="">
     Brands</span>
 </div></a></li>
-                    <li class="section"><a tabindex="3" href="http://www.coca-colacompany.com/videos/" class="videos  section-link " target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Videos&quot;,&quot;tablet&quot;:&quot;Videos&quot;,&quot;mobile&quot;:&quot;Videos&quot;}" class="">
+                    <li class="section"><a tabindex="3" href="http://www.coca-colacompany.com/videos/" class="videos  section-link " target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Videos&quot;,&quot;tablet&quot;:&quot;Videos&quot;,&quot;mobile&quot;:&quot;Videos&quot;}" class="">
     Videos</span>
 </div></a></li>
-                    <li class="section"><a tabindex="4" href="http://www.coca-colacompany.com/food/" class="food-test  section-link " target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Food&quot;,&quot;tablet&quot;:&quot;Food&quot;,&quot;mobile&quot;:&quot;Food&quot;}" class="">
-    Food</span>
+                    <li class="section"><a tabindex="4" href="http://www.coca-colacompany.com/sustainability/" class="00000148-60ae-ddc1-ab6f-e5ae3fb80000  section-link " target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Sustainability&quot;,&quot;tablet&quot;:&quot;Sustainability&quot;,&quot;mobile&quot;:&quot;Sustainability&quot;}" class="">
+    Sustainability</span>
 </div></a></li>
-                    <li class="section"><a tabindex="5" href="http://www.coca-colacompany.com/history/" class="history  section-link " target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;History&quot;,&quot;tablet&quot;:&quot;History&quot;,&quot;mobile&quot;:&quot;History&quot;}" class="">
+                    <li class="section"><a tabindex="5" href="http://www.coca-colacompany.com/history/" class="history  section-link " target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;History&quot;,&quot;tablet&quot;:&quot;History&quot;,&quot;mobile&quot;:&quot;History&quot;}" class="">
     History</span>
 </div></a></li>
-                    <li class="section"><a tabindex="6" href="http://www.coca-colacompany.com/coca-cola-music/" class="coca-cola-music  section-link " target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Music&quot;,&quot;tablet&quot;:&quot;Music&quot;,&quot;mobile&quot;:&quot;Music&quot;}" class="">
+                    <li class="section"><a tabindex="6" href="http://www.coca-colacompany.com/coca-cola-music/" class="coca-cola-music  section-link " target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Music&quot;,&quot;tablet&quot;:&quot;Music&quot;,&quot;mobile&quot;:&quot;Music&quot;}" class="">
     Music</span>
 </div></a></li>
-                    <li class="section"><a tabindex="7" href="http://www.coca-colacompany.com/coca-cola-unbottled/" class="coca-cola-unbottled  section-link " target=""><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Unbottled&quot;,&quot;tablet&quot;:&quot;Unbottled&quot;,&quot;mobile&quot;:&quot;Unbottled&quot;}" class="">
+                    <li class="section"><a tabindex="7" href="http://www.coca-colacompany.com/coca-cola-unbottled/" class="coca-cola-unbottled  section-link " target="" data-cms-ai="0"><div class="section-link-text"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Unbottled&quot;,&quot;tablet&quot;:&quot;Unbottled&quot;,&quot;mobile&quot;:&quot;Unbottled&quot;}" class="">
     Unbottled</span>
 </div></a></li>
                     </ul>
@@ -824,41 +861,35 @@ require(['jquery','tccc'], function ($, tccc){
             </section>
             <section id="global-package-nav" class="collapsed">
                 <div class="container">
-                    <ul class="packages" data-total-packages="6">
-                        <li class="package first" data-package-id="2012-2013-sustainability-report-water-stewardship">
-                                <a href="http://www.coca-colacompany.com/water-stewardship-replenish-report/" class="package-link first  " data-has-tooltip="false"><div class="package-link-text">
-                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Water Replenish Report&quot;,&quot;tablet&quot;:&quot;Water Replenish Report&quot;,&quot;mobile&quot;:&quot;Water Replenish Report&quot;}" class="">
-    Water Replenish Report</span>
-</div>
-                                </a></li>
-                        <li class="package " data-package-id="5by20">
-                                <a href="http://www.coca-colacompany.com/stories/5by20/" class="package-link   " data-has-tooltip="false"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
-                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Empowering Women&quot;,&quot;tablet&quot;:&quot;Empowering Women&quot;,&quot;mobile&quot;:&quot;Empowering Women&quot;}" class="">
-    Empowering Women</span>
-</div>
-                                </a></li>
-                        <li class="package " data-package-id="rain">
-                                <a href="http://www.coca-colacompany.com/rain/" class="package-link   " data-has-tooltip="false"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
+                    <ul class="packages" data-total-packages="5">
+                        <li class="package first" data-package-id="rain">
+                                <a href="http://www.coca-colacompany.com/rain/" class="package-link first  " data-has-tooltip="false" data-cms-ai="0"><div class="package-link-text">
                                     <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Water for Africa&quot;,&quot;tablet&quot;:&quot;Water for Africa&quot;,&quot;mobile&quot;:&quot;Water for Africa&quot;}" class="">
     Water for Africa</span>
 </div>
                                 </a></li>
-                        <li class="package " data-package-id="fifa">
-                                <a href="http://www.coca-colacompany.com/fifa-world-cup/" class="package-link   " data-has-tooltip="false"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
-                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;2014 FIFA World Cup&quot;,&quot;tablet&quot;:&quot;2014 FIFA World Cup&quot;,&quot;mobile&quot;:&quot;2014 FIFA World Cup&quot;}" class="">
-    2014 FIFA World Cup</span>
-</div>
-                                </a></li>
                         <li class="package " data-package-id="plantbottle-packaging">
-                                <a href="http://www.coca-colacompany.com/plantbottle-technology/" class="package-link   " data-has-tooltip="false"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
-                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Go Behind the Bottle&quot;,&quot;tablet&quot;:&quot;Go Behind the Bottle&quot;,&quot;mobile&quot;:&quot;Go Behind the Bottle&quot;}" class="">
-    Go Behind the Bottle</span>
+                                <a href="http://www.coca-colacompany.com/plantbottle-technology/" class="package-link   " data-has-tooltip="false" data-cms-ai="0"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
+                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;PlantBottle&quot;,&quot;tablet&quot;:&quot;PlantBottle&quot;,&quot;mobile&quot;:&quot;PlantBottle&quot;}" class="">
+    PlantBottle</span>
 </div>
                                 </a></li>
                         <li class="package " data-package-id="cokestyle">
-                                <a href="http://www.coca-colacompany.com/cokestyle/" class="package-link   " data-has-tooltip="false"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
+                                <a href="http://www.coca-colacompany.com/cokestyle/" class="package-link   " data-has-tooltip="false" data-cms-ai="0"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
                                     <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;#cokestyle&quot;,&quot;tablet&quot;:&quot;#cokestyle&quot;,&quot;mobile&quot;:&quot;#cokestyle&quot;}" class="">
     #cokestyle</span>
+</div>
+                                </a></li>
+                        <li class="package " data-package-id="community-connections">
+                                <a href="http://www.coca-colacompany.com/NorthAmericaCommunityConnections/" class="package-link   " data-has-tooltip="false" data-cms-ai="0"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
+                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;North America Community Connections&quot;,&quot;tablet&quot;:&quot;North America Community Connections&quot;,&quot;mobile&quot;:&quot;North America Community Connections&quot;}" class="">
+    North America Community Connections</span>
+</div>
+                                </a></li>
+                        <li class="package " data-package-id="food-test">
+                                <a href="http://www.coca-colacompany.com/food/" class="package-link   " data-has-tooltip="false" data-cms-ai="0"><i class="package-link-separator icon-circle"></i><div class="package-link-text">
+                                    <span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Food &amp; Recipes&quot;,&quot;tablet&quot;:&quot;Food &amp; Recipes&quot;,&quot;mobile&quot;:&quot;Food &amp; Recipes&quot;}" class="">
+    Food &amp; Recipes</span>
 </div>
                                 </a></li>
                         </ul>
@@ -871,126 +902,126 @@ require(['jquery','tccc'], function ($, tccc){
             <div class="desktop-tablet-sub-menu" id="js-company-menu">
                 <div class="content-bounds">
                     <ul class=" section-column our-co-our-company">
-                            <li class="primary"><a href="http://www.coca-colacompany.com/our-company/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Our Company&quot;,&quot;tablet&quot;:&quot;Our Company&quot;,&quot;mobile&quot;:&quot;Our Company&quot;}" class="">
+                            <li class="primary"><a href="http://www.coca-colacompany.com/our-company/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Our Company&quot;,&quot;tablet&quot;:&quot;Our Company&quot;,&quot;mobile&quot;:&quot;Our Company&quot;}" class="">
     Our Company</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Our Company&quot;,&quot;tablet&quot;:&quot;Our Company&quot;,&quot;mobile&quot;:&quot;Our Company&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Our Company&quot;,&quot;tablet&quot;:&quot;Our Company&quot;,&quot;mobile&quot;:&quot;Our Company&quot;}" class="">
     Our Company</span>
 &nbsp;Main</a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/mission-vision-values" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Mission, Vision &amp; Values&quot;,&quot;tablet&quot;:&quot;Mission, Vision &amp; Values&quot;,&quot;mobile&quot;:&quot;Mission, Vision &amp; Values&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/mission-vision-values" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Mission, Vision &amp; Values&quot;,&quot;tablet&quot;:&quot;Mission, Vision &amp; Values&quot;,&quot;mobile&quot;:&quot;Mission, Vision &amp; Values&quot;}" class="">
     Mission, Vision &amp; Values</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/the-coca-cola-system" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> System&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> System&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> System&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/the-coca-cola-system" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> System&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> System&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> System&quot;}" class="">
     The <nobr>Coca-Cola</nobr> System</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/workplace-overview" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Our Workplace&quot;,&quot;tablet&quot;:&quot;Our Workplace&quot;,&quot;mobile&quot;:&quot;Our Workplace&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/workplace-overview" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Our Workplace&quot;,&quot;tablet&quot;:&quot;Our Workplace&quot;,&quot;mobile&quot;:&quot;Our Workplace&quot;}" class="">
     Our Workplace</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/human-workplace-rights" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Human &amp; Workplace Rights&quot;,&quot;tablet&quot;:&quot;Human &amp; Workplace Rights&quot;,&quot;mobile&quot;:&quot;Human &amp; Workplace Rights&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/human-workplace-rights" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Human &amp; Workplace Rights&quot;,&quot;tablet&quot;:&quot;Human &amp; Workplace Rights&quot;,&quot;mobile&quot;:&quot;Human &amp; Workplace Rights&quot;}" class="">
     Human &amp; Workplace Rights</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/coca-cola-leaders" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Leadership&quot;,&quot;tablet&quot;:&quot;Leadership&quot;,&quot;mobile&quot;:&quot;Leadership&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/coca-cola-leaders" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Leadership&quot;,&quot;tablet&quot;:&quot;Leadership&quot;,&quot;mobile&quot;:&quot;Leadership&quot;}" class="">
     Leadership</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/history/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company History&quot;,&quot;tablet&quot;:&quot;Company History&quot;,&quot;mobile&quot;:&quot;Company History&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/history/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company History&quot;,&quot;tablet&quot;:&quot;Company History&quot;,&quot;mobile&quot;:&quot;Company History&quot;}" class="">
     Company History</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/company-reports" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company Reports&quot;,&quot;tablet&quot;:&quot;Company Reports&quot;,&quot;mobile&quot;:&quot;Company Reports&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/company-reports" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company Reports&quot;,&quot;tablet&quot;:&quot;Company Reports&quot;,&quot;mobile&quot;:&quot;Company Reports&quot;}" class="">
     Company Reports</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/our-company/the-coca-cola-foundation" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/the-coca-cola-foundation" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;}" class="">
     The <nobr>Coca-Cola</nobr> Foundation</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/sustainability/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Sustainability Report&quot;,&quot;tablet&quot;:&quot;Sustainability Report&quot;,&quot;mobile&quot;:&quot;Sustainability Report&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/our-company/sustainability-report/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Sustainability Report&quot;,&quot;tablet&quot;:&quot;Sustainability Report&quot;,&quot;mobile&quot;:&quot;Sustainability Report&quot;}" class="">
     Sustainability Report</span>
 </a></li>
                             </ul>
                     <ul class=" section-column our-co-investors">
-                            <li class="primary"><a href="http://www.coca-colacompany.com/investors/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investors&quot;,&quot;tablet&quot;:&quot;Investors&quot;,&quot;mobile&quot;:&quot;Investors&quot;}" class="">
+                            <li class="primary"><a href="http://www.coca-colacompany.com/investors/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investors&quot;,&quot;tablet&quot;:&quot;Investors&quot;,&quot;mobile&quot;:&quot;Investors&quot;}" class="">
     Investors</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investors&quot;,&quot;tablet&quot;:&quot;Investors&quot;,&quot;mobile&quot;:&quot;Investors&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investors&quot;,&quot;tablet&quot;:&quot;Investors&quot;,&quot;mobile&quot;:&quot;Investors&quot;}" class="">
     Investors</span>
 &nbsp;Main</a></li>
-                            <li><a href="/annual-review/2013/" target="_blank"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;2013 Year in Review&quot;,&quot;tablet&quot;:&quot;2013 Year in Review&quot;,&quot;mobile&quot;:&quot;2013 Year in Review&quot;}" class="">
+                            <li><a href="/annual-review/2013/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;2013 Year in Review&quot;,&quot;tablet&quot;:&quot;2013 Year in Review&quot;,&quot;mobile&quot;:&quot;2013 Year in Review&quot;}" class="">
     2013 Year in Review</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-reports-and-financial-information" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Financial Reports &amp; Information&quot;,&quot;tablet&quot;:&quot;Financial Reports &amp; Information&quot;,&quot;mobile&quot;:&quot;Financial Reports &amp; Information&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-reports-and-financial-information" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Financial Reports &amp; Information&quot;,&quot;tablet&quot;:&quot;Financial Reports &amp; Information&quot;,&quot;mobile&quot;:&quot;Financial Reports &amp; Information&quot;}" class="">
     Financial Reports &amp; Information</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-stock-information" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Stock Information&quot;,&quot;tablet&quot;:&quot;Stock Information&quot;,&quot;mobile&quot;:&quot;Stock Information&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-stock-information" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Stock Information&quot;,&quot;tablet&quot;:&quot;Stock Information&quot;,&quot;mobile&quot;:&quot;Stock Information&quot;}" class="">
     Stock Information</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-investor-webcasts-and-events" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investor Webcasts &amp; Events&quot;,&quot;tablet&quot;:&quot;Investor Webcasts &amp; Events&quot;,&quot;mobile&quot;:&quot;Investor Webcasts &amp; Events&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-investor-webcasts-and-events" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Investor Webcasts &amp; Events&quot;,&quot;tablet&quot;:&quot;Investor Webcasts &amp; Events&quot;,&quot;mobile&quot;:&quot;Investor Webcasts &amp; Events&quot;}" class="">
     Investor Webcasts &amp; Events</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/shareowner-information" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Shareowner Information&quot;,&quot;tablet&quot;:&quot;Shareowner Information&quot;,&quot;mobile&quot;:&quot;Shareowner Information&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/shareowner-information" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Shareowner Information&quot;,&quot;tablet&quot;:&quot;Shareowner Information&quot;,&quot;mobile&quot;:&quot;Shareowner Information&quot;}" class="">
     Shareowner Information</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/corporate-governance" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Corporate Governance&quot;,&quot;tablet&quot;:&quot;Corporate Governance&quot;,&quot;mobile&quot;:&quot;Corporate Governance&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/corporate-governance" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Corporate Governance&quot;,&quot;tablet&quot;:&quot;Corporate Governance&quot;,&quot;mobile&quot;:&quot;Corporate Governance&quot;}" class="">
     Corporate Governance</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-sec-filings" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;SEC Filings&quot;,&quot;tablet&quot;:&quot;SEC Filings&quot;,&quot;mobile&quot;:&quot;SEC Filings&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/investors/investors-info-sec-filings" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;SEC Filings&quot;,&quot;tablet&quot;:&quot;SEC Filings&quot;,&quot;mobile&quot;:&quot;SEC Filings&quot;}" class="">
     SEC Filings</span>
 </a></li>
                             </ul>
                     <ul class=" section-column our-co-media-center">
-                            <li class="primary"><a href="http://www.coca-colacompany.com/press-center/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Center&quot;,&quot;tablet&quot;:&quot;Press Center&quot;,&quot;mobile&quot;:&quot;Press Center&quot;}" class="">
+                            <li class="primary"><a href="http://www.coca-colacompany.com/press-center/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Center&quot;,&quot;tablet&quot;:&quot;Press Center&quot;,&quot;mobile&quot;:&quot;Press Center&quot;}" class="">
     Press Center</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Center&quot;,&quot;tablet&quot;:&quot;Press Center&quot;,&quot;mobile&quot;:&quot;Press Center&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Center&quot;,&quot;tablet&quot;:&quot;Press Center&quot;,&quot;mobile&quot;:&quot;Press Center&quot;}" class="">
     Press Center</span>
 &nbsp;Main</a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/press-releases/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Releases&quot;,&quot;tablet&quot;:&quot;Press Releases&quot;,&quot;mobile&quot;:&quot;Press Releases&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/press-releases/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Releases&quot;,&quot;tablet&quot;:&quot;Press Releases&quot;,&quot;mobile&quot;:&quot;Press Releases&quot;}" class="">
     Press Releases</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/company-statements/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company Statements&quot;,&quot;tablet&quot;:&quot;Company Statements&quot;,&quot;mobile&quot;:&quot;Company Statements&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/company-statements/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company Statements&quot;,&quot;tablet&quot;:&quot;Company Statements&quot;,&quot;mobile&quot;:&quot;Company Statements&quot;}" class="">
     Company Statements</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/company-articles/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company Articles&quot;,&quot;tablet&quot;:&quot;Company Articles&quot;,&quot;mobile&quot;:&quot;Company Articles&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/company-articles/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Company Articles&quot;,&quot;tablet&quot;:&quot;Company Articles&quot;,&quot;mobile&quot;:&quot;Company Articles&quot;}" class="">
     Company Articles</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/a-v-library/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;A/V Library&quot;,&quot;tablet&quot;:&quot;A/V Library&quot;,&quot;mobile&quot;:&quot;A/V Library&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/a-v-library/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;A/V Library&quot;,&quot;tablet&quot;:&quot;A/V Library&quot;,&quot;mobile&quot;:&quot;A/V Library&quot;}" class="">
     A/V Library</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/image-library/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Image Library&quot;,&quot;tablet&quot;:&quot;Image Library&quot;,&quot;mobile&quot;:&quot;Image Library&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/image-library/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Image Library&quot;,&quot;tablet&quot;:&quot;Image Library&quot;,&quot;mobile&quot;:&quot;Image Library&quot;}" class="">
     Image Library</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/press-center/press-contacts-north-america" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Contacts&quot;,&quot;tablet&quot;:&quot;Press Contacts&quot;,&quot;mobile&quot;:&quot;Press Contacts&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/press-center/press-contacts-north-america" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Press Contacts&quot;,&quot;tablet&quot;:&quot;Press Contacts&quot;,&quot;mobile&quot;:&quot;Press Contacts&quot;}" class="">
     Press Contacts</span>
 </a></li>
                             </ul>
                     <ul class=" section-column our-co-careers">
-                            <li class="primary"><a href="http://www.coca-colacompany.com/careers/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Careers&quot;,&quot;tablet&quot;:&quot;Careers&quot;,&quot;mobile&quot;:&quot;Careers&quot;}" class="">
+                            <li class="primary"><a href="http://www.coca-colacompany.com/careers/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Careers&quot;,&quot;tablet&quot;:&quot;Careers&quot;,&quot;mobile&quot;:&quot;Careers&quot;}" class="">
     Careers</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/careers/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Careers&quot;,&quot;tablet&quot;:&quot;Careers&quot;,&quot;mobile&quot;:&quot;Careers&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/careers/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Careers&quot;,&quot;tablet&quot;:&quot;Careers&quot;,&quot;mobile&quot;:&quot;Careers&quot;}" class="">
     Careers</span>
 &nbsp;Main</a></li>
-                            <li><a href="http://www.coca-colacompany.com/careers/who-we-are-infographic" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Who We Are&quot;,&quot;tablet&quot;:&quot;Who We Are&quot;,&quot;mobile&quot;:&quot;Who We Are&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/careers/who-we-are-infographic" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Who We Are&quot;,&quot;tablet&quot;:&quot;Who We Are&quot;,&quot;mobile&quot;:&quot;Who We Are&quot;}" class="">
     Who We Are</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/careers/why-work-at-the-coca-cola-company" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Top Reasons to Work Here&quot;,&quot;tablet&quot;:&quot;Top Reasons to Work Here&quot;,&quot;mobile&quot;:&quot;Top Reasons to Work Here&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/careers/why-work-at-the-coca-cola-company" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Top Reasons to Work Here&quot;,&quot;tablet&quot;:&quot;Top Reasons to Work Here&quot;,&quot;mobile&quot;:&quot;Top Reasons to Work Here&quot;}" class="">
     Top Reasons to Work Here</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/careers/career-opportunities-job-search" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Career Opportunities&quot;,&quot;tablet&quot;:&quot;Career Opportunities&quot;,&quot;mobile&quot;:&quot;Career Opportunities&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/careers/career-opportunities-job-search" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Career Opportunities&quot;,&quot;tablet&quot;:&quot;Career Opportunities&quot;,&quot;mobile&quot;:&quot;Career Opportunities&quot;}" class="">
     Career Opportunities</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/careers/career-areas" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Career Areas&quot;,&quot;tablet&quot;:&quot;Career Areas&quot;,&quot;mobile&quot;:&quot;Career Areas&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/careers/career-areas" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Career Areas&quot;,&quot;tablet&quot;:&quot;Career Areas&quot;,&quot;mobile&quot;:&quot;Career Areas&quot;}" class="">
     Career Areas</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/careers/meet-our-people" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Meet Our People&quot;,&quot;tablet&quot;:&quot;Meet Our People&quot;,&quot;mobile&quot;:&quot;Meet Our People&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/careers/meet-our-people" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Meet Our People&quot;,&quot;tablet&quot;:&quot;Meet Our People&quot;,&quot;mobile&quot;:&quot;Meet Our People&quot;}" class="">
     Meet Our People</span>
 </a></li>
                             </ul>
                     <ul class="last section-column our-co-contact-us">
-                            <li class="primary"><a href="http://www.coca-colacompany.com/contact-us/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Contact Us&quot;,&quot;tablet&quot;:&quot;Contact Us&quot;,&quot;mobile&quot;:&quot;Contact Us&quot;}" class="">
+                            <li class="primary"><a href="http://www.coca-colacompany.com/contact-us/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Contact Us&quot;,&quot;tablet&quot;:&quot;Contact Us&quot;,&quot;mobile&quot;:&quot;Contact Us&quot;}" class="">
     Contact Us</span>
 </a></li>
-                            <li><a href="http://www.coca-colacompany.com/contact-us/" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Contact Us&quot;,&quot;tablet&quot;:&quot;Contact Us&quot;,&quot;mobile&quot;:&quot;Contact Us&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/contact-us/" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Contact Us&quot;,&quot;tablet&quot;:&quot;Contact Us&quot;,&quot;mobile&quot;:&quot;Contact Us&quot;}" class="">
     Contact Us</span>
 &nbsp;Main</a></li>
-                            <li><a href="http://www.coca-colacompany.com/contact-us/faqs" target=""><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;FAQs&quot;,&quot;tablet&quot;:&quot;FAQs&quot;,&quot;mobile&quot;:&quot;FAQs&quot;}" class="">
+                            <li><a href="http://www.coca-colacompany.com/contact-us/faqs" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;FAQs&quot;,&quot;tablet&quot;:&quot;FAQs&quot;,&quot;mobile&quot;:&quot;FAQs&quot;}" class="">
     FAQs</span>
 </a></li>
                             </ul>
@@ -1000,41 +1031,41 @@ require(['jquery','tccc'], function ($, tccc){
            <div class="desktop-tablet-sub-menu" id="js-country-menu">
                     <div class="content-bounds">
                         <ul class="section-column">
-                            <li class="primary"><a>Country</a></li>
+                            <li class="primary"><a data-cms-ai="0">Country</a></li>
                             <li>
-                                    <a href="http://www.coca-colajourney.com.au" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Australia&quot;,&quot;tablet&quot;:&quot;Australia&quot;,&quot;mobile&quot;:&quot;Australia&quot;}" class="">
+                                    <a href="http://www.coca-colajourney.com.au" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Australia&quot;,&quot;tablet&quot;:&quot;Australia&quot;,&quot;mobile&quot;:&quot;Australia&quot;}" class="">
     Australia</span>
 </a></li>
                             <li>
-                                    <a href="http://www.coca-cola-deutschland.de" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Deutschland&quot;,&quot;tablet&quot;:&quot;Deutschland&quot;,&quot;mobile&quot;:&quot;Deutschland&quot;}" class="">
+                                    <a href="http://www.coca-cola-deutschland.de" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Deutschland&quot;,&quot;tablet&quot;:&quot;Deutschland&quot;,&quot;mobile&quot;:&quot;Deutschland&quot;}" class="">
     Deutschland</span>
 </a></li>
                             <li>
-                                    <a href="http://www.cocacola.co.jp" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;日本 (Japan)&quot;,&quot;tablet&quot;:&quot;日本 (Japan)&quot;,&quot;mobile&quot;:&quot;日本 (Japan)&quot;}" class="">
+                                    <a href="http://www.cocacola.co.jp" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;日本 (Japan)&quot;,&quot;tablet&quot;:&quot;日本 (Japan)&quot;,&quot;mobile&quot;:&quot;日本 (Japan)&quot;}" class="">
     日本 (Japan)</span>
 </a></li>
                             <li>
-                                    <a href="http://fr.coca-colamaroc.ma" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Maroc - Français&quot;,&quot;tablet&quot;:&quot;Maroc - Français&quot;,&quot;mobile&quot;:&quot;Maroc - Français&quot;}" class="">
+                                    <a href="http://fr.coca-colamaroc.ma" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Maroc - Français&quot;,&quot;tablet&quot;:&quot;Maroc - Français&quot;,&quot;mobile&quot;:&quot;Maroc - Français&quot;}" class="">
     Maroc - Français</span>
 </a></li>
                             <li>
-                                    <a href="http://ar.coca-colamaroc.ma" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;مغرب (Morocco)&quot;,&quot;tablet&quot;:&quot;مغرب (Morocco)&quot;,&quot;mobile&quot;:&quot;مغرب (Morocco)&quot;}" class="">
+                                    <a href="http://ar.coca-colamaroc.ma" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;مغرب (Morocco)&quot;,&quot;tablet&quot;:&quot;مغرب (Morocco)&quot;,&quot;mobile&quot;:&quot;مغرب (Morocco)&quot;}" class="">
     مغرب (Morocco)</span>
 </a></li>
                             <li>
-                                    <a href="http://www.coca-colajourney.co.nz" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;New Zealand&quot;,&quot;tablet&quot;:&quot;New Zealand&quot;,&quot;mobile&quot;:&quot;New Zealand&quot;}" class="">
+                                    <a href="http://www.coca-colajourney.co.nz" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;New Zealand&quot;,&quot;tablet&quot;:&quot;New Zealand&quot;,&quot;mobile&quot;:&quot;New Zealand&quot;}" class="">
     New Zealand</span>
 </a></li>
                             <li>
-                                    <a href="http://www.coca-colarussia.ru/" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Россия (Russia)&quot;,&quot;tablet&quot;:&quot;Россия (Russia)&quot;,&quot;mobile&quot;:&quot;Россия (Russia)&quot;}" class="">
+                                    <a href="http://www.coca-colarussia.ru/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Россия (Russia)&quot;,&quot;tablet&quot;:&quot;Россия (Russia)&quot;,&quot;mobile&quot;:&quot;Россия (Russia)&quot;}" class="">
     Россия (Russia)</span>
 </a></li>
                             <li>
-                                    <a href="http://www.coca-colaukraine.com/" target="_blank"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Україна (Ukraine)&quot;,&quot;tablet&quot;:&quot;Україна (Ukraine)&quot;,&quot;mobile&quot;:&quot;Україна (Ukraine)&quot;}" class="">
+                                    <a href="http://www.coca-colaukraine.com/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Україна (Ukraine)&quot;,&quot;tablet&quot;:&quot;Україна (Ukraine)&quot;,&quot;mobile&quot;:&quot;Україна (Ukraine)&quot;}" class="">
     Україна (Ukraine)</span>
 </a></li>
                             <li>
-                                    <a href="http://www.coca-colacompany.com"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Global&quot;,&quot;tablet&quot;:&quot;Global&quot;,&quot;mobile&quot;:&quot;Global&quot;}" class="">
+                                    <a href="http://www.coca-colacompany.com" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Global&quot;,&quot;tablet&quot;:&quot;Global&quot;,&quot;mobile&quot;:&quot;Global&quot;}" class="">
     Global</span>
 </a></li>
                             </ul>
@@ -1166,7 +1197,7 @@ require(['jquery','tccc'], function ($, tccc){
                     <li><a href="http://www.coca-colacompany.com/our-company/the-coca-cola-foundation" class="" target="" data-cms-ai="0"><span><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;,&quot;tablet&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;,&quot;mobile&quot;:&quot;The <nobr>Coca-Cola</nobr> Foundation&quot;}" class="">
     The <nobr>Coca-Cola</nobr> Foundation</span>
 </span></a></li>
-                    <li><a href="http://www.coca-colacompany.com/sustainability/" class="" target="" data-cms-ai="0"><span><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Sustainability Report&quot;,&quot;tablet&quot;:&quot;Sustainability Report&quot;,&quot;mobile&quot;:&quot;Sustainability Report&quot;}" class="">
+                    <li><a href="http://www.coca-colacompany.com/our-company/sustainability-report/" class="" target="" data-cms-ai="0"><span><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Sustainability Report&quot;,&quot;tablet&quot;:&quot;Sustainability Report&quot;,&quot;mobile&quot;:&quot;Sustainability Report&quot;}" class="">
     Sustainability Report</span>
 </span></a></li>
                     </ul>
@@ -1304,13 +1335,14 @@ require(['jquery','tccc'], function ($, tccc){
     <section class="content primary">
 
         <div class="widget-socialbar">
-	<iframe src="//www.facebook.com/plugins/like.php?href=http://www.coca-colacompany.com/our-company/privacy-policy&amp;font=arial&amp;height=35&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=374300382671440&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowtransparency="true" class="social-widget facebook-like-widget"></iframe>
+    
+    <iframe src="//www.facebook.com/plugins/like.php?href=http://www.coca-colacompany.com/our-company/privacy-policy&amp;font=arial&amp;height=35&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=374300382671440&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowtransparency="true" class="social-widget facebook-like-widget"></iframe>
 <div class="social-widget newsletter-subscribe-widget">
-        <form class="newsletter-subscribe-form" action="http://www.coca-colacompany.com/newsletter-sign-up" target="" method="get">
-        
+        <form class="newsletter-subscribe-form" action="http://www.coca-colacompany.com/newsletter-sign-up" target="" method="POST">
+
             <div class="input-container">
                 <input name="email" placeholder="Enter your email address, and...">
-                <input type="hidden" name="returntoUrl" value="http://www.coca-colacompany.com/stories/kobe-bryant-and-lebron-james-ask-whos-got-game">
+                <input type="hidden" name="returntoUrl" value="http://www.coca-colacompany.com/our-company/privacy-policy">
             </div>
             <div class="button-container"><button class="button button-gradient">Subscribe to Journey</button></div>
         </form>
@@ -1333,42 +1365,42 @@ font-weight: 200;
 font-size: 0.33333333333em;
 letter-spacing: 0;
 text-shadow: none;
-letter-spacing: 0.0em;}</style><p class="cms-textAlign-right">
-	<a title="Link: /our-company/the-coca-cola-company-privacy-policy" target="_blank" href="/our-company/the-coca-cola-company-privacy-policy-pdf" rel="print" data-cms-ai="0">Print/Save</a></p><p><b>Last Revised: 15 November, 2013</b></p><span>The <nobr>Coca-Cola</nobr> Company and its
+letter-spacing: 0.0em;}</style><p>
+	<a title="Link: /our-company/the-coca-cola-company-privacy-policy" target="_blank" href="/our-company/the-coca-cola-company-privacy-policy-pdf" rel="print" data-cms-ai="0">Print/Save</a></p><p><b>Last Revised: 15 November, 2013</b></p><p>The <nobr>Coca-Cola</nobr> Company and its
 affiliates are concerned about privacy issues and want you to be familiar with
 how we collect, use and disclose information.&nbsp;
 This Privacy Policy describes our practices in connection with
 information that we collect through activities that link to this Privacy Policy
 including websites (our “<b>Websites</b>”) and
 any mobile sites, applications, widgets, and other mobile interactive features
-(collectively, our “<b>Apps</b>”), </span><span>through our official social
+(collectively, our “<b>Apps</b>”), through our official social
 media pages that we control (our “<b>Social
 Media Pages</b>”) as well as through HTML-formatted email messages that we send
-to you<span><p> (collectively, including the Social Media
+to you (collectively, including the Social Media
 Pages, Apps and Websites, the “<b>Sites</b>”).&nbsp; By providing Personal Information to us, you
-agree to the terms and conditions of this Privacy Policy.</p></span></span>
+agree to the terms and conditions of this Privacy Policy.</p><p>
 
 
 
-<p class="MsoNormal">If you are located in the
+If you are located in the
 European Union (EU), please note that The <nobr>Coca-Cola</nobr> Company abides by the Safe
 Harbor framework agreed to by the U.S. Department of Commerce and the
 EU/Switzerland with respect to personal information collected by entities
 located in the European Economic Area and transferred to The <nobr>Coca-Cola</nobr> Company
 in the United States.&nbsp; For additional
 information regarding the Safe Harbor Program, see The <nobr>Coca-Cola</nobr> Company’s Safe
-Harbor policy <a target="_self" title="Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" href="http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" data-cms-ai="0">http://www.<nobr>coca-cola</nobr>company.com/our-company/safe</a><a target="_self" title="Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" href="http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" data-cms-ai="0"></a><a target="_self" title="Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" href="http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" data-cms-ai="0">-harbor-privacy-policy.</a></p>
+Harbor policy <a target="_self" title="Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" href="http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy" data-cms-ai="0">http://www.<nobr>coca-cola</nobr>company.com/our-company/safe-harbor-privacy-policy.</a></p>
 
 
 
 <h2 class="MsoNormal cms-h-h2"><b>PERSONAL INFORMATION </b><br></h2>
 
-<h3 class="MsoNormal cms-h-h3">Personal Information We May Collect</h3>
+<h3 class="MsoNormal cms-h-h3">Personal Information We May Collect</h3><p>
 
 
 
-<p class="MsoNormal"><span>“<b>Personal Information</b>” is information that identifies you as an
-individual, such as: </span></p>
+“<b>Personal Information</b>” is information that identifies you as an
+individual, such as: </p>
 
 
 
@@ -1378,22 +1410,22 @@ individual, such as: </span></p>
      and debit card number</li><li class="MsoNormal">Profile
      picture</li><li class="MsoNormal">Social
      media account ID</li><li class="MsoNormal">Country
-     of residence</li></ul>
+     of residence</li></ul><p>
 
 
 
-<p class="MsoNormal">In some cases, we may use a third party
+In some cases, we may use a third party
 payment service to process purchases and/or collect donations made through the
 Sites.&nbsp; In these cases, your Personal
 Information may be collected by this third party and not by us, and will be
 subject to the third party’s privacy policy, rather than this Privacy
 Policy.&nbsp; We have no control over, and are
 not responsible for, this third party’s use or disclosure of your Personal
-Information. </p>
+Information. </p><p>
 
 
 
-<p class="MsoNormal">If you submit any
+If you submit any
 Personal Information relating to other people to us or to our service providers
 in connection with the Sites, you represent that you have the authority to do
 so and to permit us to use the information in accordance with this Privacy
@@ -1402,9 +1434,9 @@ Policy.</p>
 
 
 <h3 class="MsoNormal cms-h-h3">How We May Collect Personal
-Information<b> </b></h3>
+Information<b> </b></h3><p>
 
-<p class="BodyTextContinued">We and our service
+We and our service
 providers may collect Personal Information in a variety of ways,
 including:&nbsp; </p>
 
@@ -1414,9 +1446,9 @@ including:&nbsp; </p>
      you offline, such as when you contact customer service.&nbsp; 
 
 </li><li class="MsoNormal"><b>Online
-     tracking</b><span>:<b>
+     tracking</b>:<b>
      &nbsp;</b>Because we do not track our Site users over time and across
-     third-party websites, we do not respond to browser do-not-track signals.</span>
+     third-party websites, we do not respond to browser do-not-track signals.
 
 </li><li class="MsoNormal"><b>From Other
      Sources</b>:&nbsp; We may receive your Personal Information
@@ -1426,22 +1458,22 @@ including:&nbsp; </p>
      your social media account to your Website account, certain Personal Information
      from your social media account will be shared with us, which may include
      Personal Information that is part of your profile or your friends’
-     profiles.&nbsp; </li></ul>
+     profiles.&nbsp; </li></ul><p>
 
 
 
-<p class="MsoNormal">The Personal Information you
+The Personal Information you
 provide through the Sites may be combined with Personal Information and Other Information
 that you provide to us (via online or offline means), that is publicly
 available, or that we may otherwise obtain online or offline.</p>
 
 
 
-<h3 class="MsoNormal cms-h-h3">How We May Use Personal Information<b> </b></h3>
+<h3 class="MsoNormal cms-h-h3">How We May Use Personal Information<b> </b></h3><p>
 
 
 
-<p class="MsoNormal">We may
+We may
 use Personal Information: </p>
 
 
@@ -1500,11 +1532,11 @@ use Personal Information: </p>
 
 
 
-<h3 class="MsoNormal cms-h-h3">How Personal Information May Be Disclosed </h3>
+<h3 class="MsoNormal cms-h-h3">How Personal Information May Be Disclosed </h3><p>
 
 
 
-<p class="MsoNormal">Your
+Your
 Personal Information may be disclosed:</p>
 
 
@@ -1571,12 +1603,12 @@ pursue available remedies or limit the damages that we may sustain. </li></ul>
 <h2 class="MsoNormal cms-h-h2">OTHER INFORMATION</h2>
 
 <h3 class="MsoNormal cms-h-h3">Other Information We May
-Collect</h3>
+Collect</h3><p>
 
 
 
-<p class="MsoNormal"><span>“<b>Other Information</b>” is any information
-that does not reveal your specific identity, such as: </span></p>
+“<b>Other Information</b>” is any information
+that does not reveal your specific identity, such as: </p>
 
 <ul type="disc"><li class="MsoNormal">Browser
      and device information</li><li class="MsoNormal">Server
@@ -1585,15 +1617,15 @@ that does not reveal your specific identity, such as: </span></p>
      usage data</li><li class="MsoNormal">Demographic
      information and other information provided by you</li><li class="MsoNormal">Location
      information </li><li class="MsoNormal">Aggregated
-     information</li></ul>
+     information</li></ul><p>
 
 
 
-<p class="MsoNormal"><b>How We May Collect Other Information </b></p>
+<b>How We May Collect Other Information </b></p><p>
 
 
 
-<p class="MsoNormal">We and
+We and
 our third party service providers may collect Other Information in a variety of
 ways, including:&nbsp; </p>
 
@@ -1605,7 +1637,7 @@ screen resolution, operating system name and version, device manufacturer and
 model, language, Internet browser type and version, service provider, and the
 name and version of the Sites (such as the App) you are using.&nbsp; We use this information for statistical
 purposes as well as to ensure that the Sites function properly.&nbsp;</li><li><b>Through
-server log files</b><span>:&nbsp; Your “<b>IP Address</b>” is a number that is
+server log files</b>:&nbsp; Your “<b>IP Address</b>” is a number that is
 automatically assigned to the computer or device that you are using by your
 Internet Service Provider (ISP).&nbsp; An IP
 Address is identified and logged automatically in our server log files whenever
@@ -1617,7 +1649,7 @@ purposes such as calculating Sites usage levels, helping diagnose server
 problems, and administering the Sites.&nbsp;
 Please note that we treat IP Addresses, server log files and related
 information as Other Information, except where we are required to do otherwise
-under applicable law.</span></li><li><b>Using
+under applicable law.</li><li><b>Using
 cookies</b>:&nbsp; Cookies allow a web
 server to transfer data to a computer or device for recordkeeping and other
 purposes.&nbsp; We use cookies and other
@@ -1630,7 +1662,7 @@ please see our cookies policy <a target="_self" title="Link: http://www.coca-col
 Adobe Flash technology (including Flash Local Stored Objects (“Flash LSOs”))
 and other similar technologies</b>:&nbsp;
 We may use Flash LSOs and other technologies to, among other things,
-collect and store information about your use of the Sites.&nbsp; <span>If you do not want Flash LSOs stored on your
+collect and store information about your use of the Sites.&nbsp; If you do not want Flash LSOs stored on your
 computer or device, you can adjust the settings of your Flash player to block
 Flash LSO storage using the tools contained using the <a target="_blank" href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" title="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" data-cms-ai="0">Website
 Storage Settings Panel</a>. You can also control Flash LSOs by going to the <a target="_blank" href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html" title="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html" data-cms-ai="0">Global
@@ -1642,12 +1674,12 @@ asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not
 being delivered by the operator of the page you are on at the time).&nbsp; Please note that setting the Flash Player to
 restrict or limit acceptance of Flash LSOs may reduce or impede the functionality
 of some Flash applications, including, potentially, Flash applications used in
-connection with the Sites or our online content.</span></li><li><b>Using
-pixel tags, web beacons, clear GIFs or</b><span> <b>other similar technologies</b>:&nbsp;
+connection with the Sites or our online content.</li><li><b>Using
+pixel tags, web beacons, clear GIFs or</b> <b>other similar technologies</b>:&nbsp;
 These may be used in connection with some Sites pages and HTML-formatted
 email messages to, among other things, track the actions of Sites users and
 email recipients, measure the success of our marketing campaigns and compile
-statistics about Sites usage and response rates.&nbsp;</span></li><li><b>Through your
+statistics about Sites usage and response rates.&nbsp;</li><li><b>Through your
 use of an App.</b>&nbsp; When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on
 your device accesses our servers and what information and files have been
 downloaded to the App based on your device number.&nbsp;</li><li><b>From you</b>:&nbsp; Information such as date of birth, gender and
@@ -1673,21 +1705,21 @@ user of the Sites, (for example, we may use Personal Information to calculate
 the percentage of our users who have a particular telephone area code).</li></ul>
 
 <h3 class="MsoNormal cms-h-h3">How We May Use and Disclose Other Information
-</h3>
+</h3><p>
 
 
 
-<p class="MsoNormal">Please
+Please
 note that we may use and disclose Other Information for any purpose, except
 where we are required to do otherwise under applicable law.&nbsp; If we are required to treat Other Information
 as Personal Information under applicable law, then, in addition to the uses listed
 in the “How We May Collect Other Information” section above, we may use and
 disclose Other Information for all the purposes for which we use and disclose
-Personal Information.</p>
+Personal Information.</p><p>
 
 
 
-<p class="MsoNormal">In some
+In some
 instances, we may combine Other Information with Personal Information (such as
 combining your name with your zip code).&nbsp;
 If we combine any Other Information with Personal Information, the
@@ -1696,20 +1728,20 @@ it is combined.</p>
 
 
 
-<h2 class="MsoNormal cms-h-h2">THIRD PARTY SITES</h2>
+<h2 class="MsoNormal cms-h-h2">THIRD PARTY SITES</h2><p>
 
 
 
-<p class="MsoNormal">This Privacy Policy does not
+This Privacy Policy does not
 address, and we are not responsible for, the privacy, information or other
 practices of any third parties, including any third party operating any site to
 which these Sites contain a link.&nbsp; The
 inclusion of a link on the Sites does not imply endorsement of the linked site
-by us or by our affiliates.&nbsp; </p>
+by us or by our affiliates.&nbsp; </p><p>
 
 
 
-<p class="MsoNormal">In particular, please note that
+In particular, please note that
 the Sites may contain a link to e-commerce websites, including some e-commerce
 websites that are <nobr>Coca-Cola</nobr> branded.&nbsp;
 This Privacy Policy does not govern any e-commerce websites to which the
@@ -1718,22 +1750,22 @@ through the e-commerce website
 will be subject to the privacy policy of the e-commerce site, and not this
 Privacy Policy.&nbsp; We have no control over,
 and shall not be responsible for, the use of information collected through the
-e-commerce site. </p>
+e-commerce site. </p><p>
 
 
 
-<p class="MsoNormal">Additionally, we may provide you with access
+Additionally, we may provide you with access
 to third-party functionality that permits you to post content to your social
 media account(s).&nbsp; Please note that any
 information that you provide through use of this functionality is governed by
 the applicable third party’s privacy policy, and not by this Privacy
 Policy.&nbsp; We have no control over, and
 shall not be responsible for, any third party’s use of information that you
-provide through use of this functionality.</p>
+provide through use of this functionality.</p><p>
 
 
 
-<p class="MsoNormal">We are also not responsible for the
+We are also not responsible for the
 collection, usage and disclosure policies and practices (including the data
 security practices) of other organizations, such as Facebook, Apple, Google,
 Microsoft, RIM or any other app developer, app provider, social media platform
@@ -1744,11 +1776,11 @@ organizations through or in connection with the Apps or our Social Media Pages.&
 
 
 <h2 class="MsoNormal cms-h-h2"><a name="OLE_LINK15" data-cms-ai="0"></a>CAREERS<b>
-</b></h2>
+</b></h2><p>
 
 
 
-<p class="MsoNormal">The Sites may
+The Sites may
 include a link to our Careers section, which contains information on what it's
 like to work for us and methods for applying for jobs at our offices worldwide.
 Any Personal Information submitted through this portion of the Sites, or to
@@ -1758,11 +1790,11 @@ Submission Policy <a target="_self" title="Link: http://www.thecoca-colacompany.
 
 
 
-<h2 class="MsoNormal cms-h-h2">THIRD PARTY ADVERTISING-RELATED VENDORS<b><span>&nbsp; <br></span></b></h2>
+<h2 class="MsoNormal cms-h-h2">THIRD PARTY ADVERTISING-RELATED VENDORS<b>&nbsp; <br></b></h2><p>
 
 
 
-<p class="MsoNormal">Please note that our online and email
+Please note that our online and email
 advertising-related vendors may use pixel tags, web beacons, clear GIFs or
 other similar technologies in connection with the Sites to help manage our
 online and email advertising campaigns and strengthen the effectiveness of such
@@ -1774,11 +1806,11 @@ may have brought you to our Sites, and the vendor may provide us with such
 Other Information for our use.&nbsp; Please
 note we may link such Other Information provided to us by our vendors to Personal
 Information about you that we have previously collected.&nbsp; Such combined information will be treated as
-Personal Information hereunder as long as it is so combined.</p>
+Personal Information hereunder as long as it is so combined.</p><p>
 
 
 
-<p class="MsoNormal">We may use third-party advertising
+We may use third-party advertising
 companies to serve advertisements on our Sites.&nbsp;
 These companies may use information (not including your name, address,
 email address or telephone number) about your visits to this and other websites
@@ -1787,11 +1819,11 @@ you.&nbsp;&nbsp;</p>
 
 
 
-<h2 class="MsoNormal cms-h-h2">SECURITY<br></h2>
+<h2 class="MsoNormal cms-h-h2">SECURITY<br></h2><p>
 
 
 
-<p class="MsoNormal"><span>We use reasonable organizational,
+We use reasonable organizational,
 technical and administrative measures to protect Personal Information under our
 control.&nbsp; Unfortunately, no data
 transmission over the Internet or data storage system can be guaranteed to be
@@ -1801,7 +1833,7 @@ feel that the security of any account you might have with us has been compromise
 please immediately notify us of the problem by contacting us in accordance with
 the <i>“Contacting Us”</i> section below
 (note that physical mail notification will delay the time it takes for us to
-respond to the problem).</span></p>
+respond to the problem).</p>
 
 
 
@@ -1810,41 +1842,41 @@ respond to the problem).</span></p>
 
 
 <h3 class="MsoNormal cms-h-h3">Your choices regarding our use and disclosure of your
-Personal Information</h3>
+Personal Information</h3><p>
 
 
 
-<p class="MsoNormal">We give you many choices regarding our use
+We give you many choices regarding our use
 and disclosure of your Personal Information for marketing purposes.&nbsp; </p>
 
 
 
-<ul type="disc"><li class="MsoNormal"><span>If
+<ul type="disc"><li class="MsoNormal">If
      at any time you wish to stop receiving email marketing communications from
      us, please just let us know by emailing, calling or writing to us using
-     the contact information listed below in <span>the <i>“Contacting Us”</i> section </span>or
+     the contact information listed below in the <i>“Contacting Us”</i> section or
      by using the unsubscribe feature in the marketing email you received. In
      your request, please indicate that you wish to stop receiving email marketing
-     communications from us.&nbsp; </span></li></ul>
+     communications from us.&nbsp; </li></ul>
 
 
 
-<ul type="disc"><li class="MsoNormal"><span>In
+<ul type="disc"><li class="MsoNormal">In
      addition, we will not disclose your Personal Information to third parties,
      including our subsidiaries, for the third party's direct marketing
      purposes if we have received and processed a request from you that your
      Personal Information not be shared with third parties for that purpose. If
      you would like to submit such a request, please just let us know by
      emailing, calling or writing to us using the contact information listed
-     below in <span>the <i>“Contacting
-     Us”</i> section.&nbsp; </span>Please
+     below in the <i>“Contacting
+     Us”</i> section.&nbsp; Please
      clearly indicate that you request that The <nobr>Coca-Cola</nobr> Company not disclose
      your Personal Information to The <nobr>Coca-Cola</nobr> Company subsidiaries and/or
-     other third parties for their direct marketing purposes.</span></li></ul>
+     other third parties for their direct marketing purposes.</li></ul><p>
 
 
 
-<p class="MsoNormal">Please note that changes may not be effective
+Please note that changes may not be effective
 immediately.&nbsp; We will endeavor to comply
 with your request(s) as soon as reasonably practicable.&nbsp; Please also note that if you do opt-out of
 receiving marketing-related messages from us, we may still send you important
@@ -1854,19 +1886,19 @@ messages.</p>
 
 
 <h3 class="MsoNormal cms-h-h3">How you can access, change or suppress your Personal
-Information</h3>
+Information</h3><p>
 
 
 
-<p class="MsoNormal"><span>To review, correct, update, suppress, delete
+To review, correct, update, suppress, delete
 or otherwise limit our use of your Personal Information that has been
 previously provided to us, please email, call or write to us using the contact
-information listed below in <span>the <i>“Contacting Us”</i> section </span>and clearly describe your
-request.&nbsp; </span></p>
+information listed below in the <i>“Contacting Us”</i> section and clearly describe your
+request.&nbsp; </p><p>
 
 
 
-<p class="MsoNormal">In your request, please make clear what
+In your request, please make clear what
 information you would like to have changed, whether you would like to have your
 Personal Information suppressed from our database or otherwise let us know what
 limitations you would like to put on our use of your Personal Information.&nbsp; We will try to comply with your request as
@@ -1884,29 +1916,29 @@ completion of such purchase or promotion).&nbsp;
 
 
 <h2 class="MsoNormal cms-h-h2">RETENTION
-PERIOD</h2>
+PERIOD</h2><p>
 
-<p class="MsoBodyText">We will retain your
+We will retain your
 Personal Information for the period necessary to fulfill the purposes outlined
 in this Privacy Policy unless a longer retention period is required or
 permitted by law.&nbsp; </p>
 
-<h2 class="MsoNormal cms-h-h2">USE OF SITES BY MINORS</h2>
+<h2 class="MsoNormal cms-h-h2">USE OF SITES BY MINORS</h2><p>
 
 
 
-<p class="MsoNormal">The Sites are directed only to
+The Sites are directed only to
 individuals who are permitted to share their Personal Information without
 parental consent and we request that all other individuals (including individuals
 under the age of 13) not provide Personal Information through the Sites. </p>
 
 
 
-<h2 class="MsoNormal cms-h-h2">CROSS-BORDER TRANSFER</h2>
+<h2 class="MsoNormal cms-h-h2">CROSS-BORDER TRANSFER</h2><p>
 
 
 
-<p class="MsoNormal">Your Personal Information may be
+Your Personal Information may be
 stored and processed in any country where we have facilities or service
 providers, and by using our Sites you consent to the transfer of information to
 countries outside of your country of residence, including the United States,
@@ -1914,53 +1946,53 @@ which may provide for different data protection rules than in your country.</p>
 
 
 
-<h2 class="MsoNormal cms-h-h2">SENSITIVE INFORMATION</h2>
+<h2 class="MsoNormal cms-h-h2">SENSITIVE INFORMATION</h2><p>
 
 
 
-<p class="MsoNormal">w<span>e ask that you not send us, and you not disclose, any
+we ask that you not send us, and you not disclose, any
 sensitive Personal Information (<i>e.g.</i>,
 information related to racial or ethnic origin, political opinions, religion or
 other beliefs, health or medical condition, criminal background or trade union
-membership) on or through the Sites or otherwise to us. </span></p>
+membership) on or through the Sites or otherwise to us. </p>
 
 
 
 <h2 class="MsoNormal cms-h-h2">UPDATES TO THIS
-PRIVACY POLICY</h2>
+PRIVACY POLICY</h2><p>
 
 
 
-<p class="MsoNormal"><span>We may change this Privacy
+We may change this Privacy
 Policy.&nbsp; Please take a look at the “<i>Last
 Updated</i>” legend at the top of this page to see when this Privacy
 Policy was last revised.&nbsp; Any changes to
 this Privacy Policy will become effective when we post the revised Privacy
 Policy on a Site.&nbsp; Your use of the Sites
-following these changes means that you accept the revised Privacy Policy.</span> <br></p><h2 class="MsoNormal cms-h-h2">CONTACTING US</h2>
+following these changes means that you accept the revised Privacy Policy. </p><p><br></p><h2 class="MsoNormal cms-h-h2">CONTACTING US</h2><p>
 
 
 
-<p class="MsoNormal">If you have any questions about
-this Privacy Policy, please contact us as follows:</p>
+If you have any questions about
+this Privacy Policy, please contact us as follows:</p><p>
 
 
 
-<p class="MsoNormal">1.&nbsp;&nbsp;&nbsp;&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp;
 You
-may email us at: <a title="Link: https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml" target="_blank" href="https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml" data-cms-ai="0">https://secure.the<nobr>coca-cola</nobr>company.com/ssldocs/mail/eQuery_other.shtml</a></p>
+may email us at:&nbsp;<a href="https://secure.coca-colacompany.com/ssldocs/mail/eQuery_other.shtml" target="_blank" title="Link: https://secure.coca-colacompany.com/ssldocs/mail/eQuery_other.shtml" data-cms-ai="0">https://secure.coca-<wbr>colacompany.com/ssldocs/mail/<wbr>eQuery_other.shtml</a></p><p>
 
-<p class="MsoNormal">2.&nbsp;&nbsp;&nbsp;&nbsp;
+2.&nbsp;&nbsp;&nbsp;&nbsp;
 You
-may call us at 1-800-438-2653</p>
+may call us at 1-800-438-2653</p><p>
 
-<p class="MsoNormal">3.&nbsp;&nbsp;&nbsp;&nbsp;
+3.&nbsp;&nbsp;&nbsp;&nbsp;
 You
-may send mail to the following postal mail address:</p>
+may send mail to the following postal mail address:</p><p>
 
 
 
-<p class="MsoNormal">Attn: Website Privacy
+Attn: Website Privacy
 Policy<br>Industry and Consumer
 Affairs<br>The <nobr>Coca-Cola</nobr> Company<br>1 <nobr>Coca-Cola</nobr> Plaza<br>Atlanta, GA 30313<br>USA</p><p>
 
@@ -2012,7 +2044,7 @@ information in your emails to us.</p><div class="clearfix"></div>
                             <img src="http://assets.coca-colacompany.com/6a/30/2ab588b848adbd8de469d5ea81d9/facebook-icon.png" width="35" height="35"></a>
                         </div>
                         <dl class="text-wrapper">
-                            <dd class="value">512,144</dd>
+                            <dd class="value">625,483</dd>
                             <dt class="term">Likes</dt>
                         </dl>
                     </div>
@@ -2022,7 +2054,7 @@ information in your emails to us.</p><div class="clearfix"></div>
                             <img src="http://assets.coca-colacompany.com/3f/f5/8752d98d44a88fcbebb52c364091/socialicon-twit.png" width="35" height="35"></a>
                         </div>
                         <dl class="text-wrapper">
-                            <dd class="value">231,199</dd>
+                            <dd class="value">270,295</dd>
                             <dt class="term">Followers</dt>
                         </dl>
                     </div>
@@ -2032,7 +2064,7 @@ information in your emails to us.</p><div class="clearfix"></div>
                             <img src="http://assets.coca-colacompany.com/60/74/238b39f3415dab0b04c91124cc12/linkedin-icon.png" width="35" height="35"></a>
                         </div>
                         <dl class="text-wrapper">
-                            <dd class="value">541,441</dd>
+                            <dd class="value">597,909</dd>
                             <dt class="term">Followers</dt>
                         </dl>
                     </div>
@@ -2042,7 +2074,7 @@ information in your emails to us.</p><div class="clearfix"></div>
                             <img src="http://assets.coca-colacompany.com/39/c3/07c700dd43fea5e78d0ba59c5f76/youtube-icon.png" width="35" height="35"></a>
                         </div>
                         <dl class="text-wrapper">
-                            <dd class="value">3,088,205</dd>
+                            <dd class="value">3,129,045</dd>
                             <dt class="term">Views</dt>
                         </dl>
                     </div>
@@ -2062,7 +2094,7 @@ information in your emails to us.</p><div class="clearfix"></div>
                             <img src="http://assets.coca-colacompany.com/9d/e5/05e69e684ae88dadc09c6ca82ec2/instagram-icon.png" width="35" height="35"></a>
                         </div>
                         <dl class="text-wrapper">
-                            <dd class="value">177,407</dd>
+                            <dd class="value">327,249</dd>
                             <dt class="term">Followers</dt>
                         </dl>
                     </div>
@@ -2072,7 +2104,7 @@ information in your emails to us.</p><div class="clearfix"></div>
                             <img src="http://assets.coca-colacompany.com/bf/62/879b02f543a8997d50ad4854f53a/gplus-icon.png" width="35" height="35"></a>
                         </div>
                         <dl class="text-wrapper">
-                            <dd class="value">346</dd>
+                            <dd class="value">363</dd>
                             <dt class="term">Items</dt>
                         </dl>
                     </div>
@@ -2090,8 +2122,8 @@ information in your emails to us.</p><div class="clearfix"></div>
             <li class=""><a href="http://www.coca-colacompany.com/videos/" class="videos" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Videos&quot;,&quot;tablet&quot;:&quot;Videos&quot;,&quot;mobile&quot;:&quot;Videos&quot;}" class="">
     Videos</span>
 </a></li>
-            <li class=""><a href="http://www.coca-colacompany.com/food/" class="food-test" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Food&quot;,&quot;tablet&quot;:&quot;Food&quot;,&quot;mobile&quot;:&quot;Food&quot;}" class="">
-    Food</span>
+            <li class=""><a href="http://www.coca-colacompany.com/sustainability/" class="00000148-60ae-ddc1-ab6f-e5ae3fb80000" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;Sustainability&quot;,&quot;tablet&quot;:&quot;Sustainability&quot;,&quot;mobile&quot;:&quot;Sustainability&quot;}" class="">
+    Sustainability</span>
 </a></li>
             <li class=""><a href="http://www.coca-colacompany.com/history/" class="history" target="" data-cms-ai="0"><span itemprop="name" data-override-size="short" data-title="{&quot;desktop&quot;:&quot;History&quot;,&quot;tablet&quot;:&quot;History&quot;,&quot;mobile&quot;:&quot;History&quot;}" class="">
     History</span>
@@ -2200,8 +2232,14 @@ information in your emails to us.</p><div class="clearfix"></div>
                     <li class=""><a href="http://cookingwithamy.blogspot.com/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Cooking With Amy&quot;,&quot;tablet&quot;:&quot;Cooking With Amy&quot;,&quot;mobile&quot;:&quot;Cooking With Amy&quot;}" class="">
     Cooking With Amy</span>
 </a></li>
-                    <li class="last"><a href="http://girlloveslife.com/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;girlloveslife&quot;,&quot;tablet&quot;:&quot;girlloveslife&quot;,&quot;mobile&quot;:&quot;girlloveslife&quot;}" class="">
+                    <li class=""><a href="http://girlloveslife.com/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;girlloveslife&quot;,&quot;tablet&quot;:&quot;girlloveslife&quot;,&quot;mobile&quot;:&quot;girlloveslife&quot;}" class="">
     girlloveslife</span>
+</a></li>
+                    <li class=""><a href="http://mymannersandmoxie.com/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Manners and Moxie&quot;,&quot;tablet&quot;:&quot;Manners and Moxie&quot;,&quot;mobile&quot;:&quot;Manners and Moxie&quot;}" class="">
+    Manners and Moxie</span>
+</a></li>
+                    <li class="last"><a href="http://www.nytrendymoms.com/" target="_blank" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;NY Trendy Moms&quot;,&quot;tablet&quot;:&quot;NY Trendy Moms&quot;,&quot;mobile&quot;:&quot;NY Trendy Moms&quot;}" class="">
+    NY Trendy Moms</span>
 </a></li>
                     </ul>
 
@@ -2280,9 +2318,6 @@ information in your emails to us.</p><div class="clearfix"></div>
                 <section class="about-col">
 
                     <h5 class="gray title hidden-phone">The <nobr>Coca-Cola</nobr> Company</h5>
-                    <h5 class="gray"><a href="http://www.coca-colacompany.com/sustainability/" class="normal" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;2012/2013 Sustainability Report&quot;,&quot;tablet&quot;:&quot;2012/2013 Sustainability Report&quot;,&quot;mobile&quot;:&quot;2012/2013 Sustainability Report&quot;}" class="">
-    2012/2013 Sustainability Report</span>
-</a></h5>
                     <h5 class="gray"><a href="http://beverageinstitute.org/us/" target="_blank" class="normal" data-cms-ai="0"><span itemprop="name" data-override-size="" data-title="{&quot;desktop&quot;:&quot;Beverage Institute for Health &amp; Wellness&quot;,&quot;tablet&quot;:&quot;Beverage Institute for Health &amp; Wellness&quot;,&quot;mobile&quot;:&quot;Beverage Institute for Health &amp; Wellness&quot;}" class="">
     Beverage Institute for Health &amp; Wellness</span>
 </a></h5>
@@ -2364,8 +2399,8 @@ partners, we rank among the world's top 10 private employers with more than
 
 <script>
 
-    require(['headerUtils','footerUtils','newsletterSignup'], 
-        function (Header, Footer, NewsletterSignup){
+    require(['headerUtils','footerUtils','newsletterSignup','surveyLinkPopUp'], 
+        function (Header, Footer, NewsletterSignup, SurveyLinkPopUp){
         $(document).ready(function() {
             var subscribeUrl = "http://www.coca-colacompany.com/ajax/subscribe";
             var footer_context = {
@@ -2380,6 +2415,9 @@ partners, we rank among the world's top 10 private employers with more than
                 NewsletterSignup.recordPageView();
                 NewsletterSignup.render(subscribeUrl);
             }
+            
+            //Start of survey Pop Up
+            SurveyLinkPopUp.render();
         });
     });
 
