@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fan.tv privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527133907id_/https%3A//www.fan.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan.tv privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006191811id_/https%3A//www.fan.tv/privacy-policy) for the most accurate reproduction.*
 
 # Fan TV | Privacy Policy
 
