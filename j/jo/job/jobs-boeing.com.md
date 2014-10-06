@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs-boeing.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160047id_/http%3A//www.boeing.com/boeing/companyoffices/aboutus/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-boeing.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006221557id_/http%3A//www.boeing.com/boeing/companyoffices/aboutus/privacy.page) for the most accurate reproduction.*
 
 # Boeing: privacy
 
