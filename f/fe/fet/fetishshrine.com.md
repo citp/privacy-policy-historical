@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetishshrine.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504030101id_/http%3A//www.fetishshrine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetishshrine.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006232107id_/http%3A//www.fetishshrine.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fetish Shrine
 
