@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326171925id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipsemc.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006125026id_/https%3A//eclipsemc.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Eclipse Mining Consortium
 
