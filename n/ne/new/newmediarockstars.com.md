@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064928id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006083952id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | New Media Rockstars
 
 Protecting your private information is our priority. This Statement of Privacy applies to the NewMediaRockstars.com and NewMediaRockstars, INC. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to NewMediaRockstars, INC. include NewMediaRockstars.com and NMR. The NMR website is a Blog, News, and Entertainment site. By using the NMR website, you consent to the data practices described in this statement.
 
