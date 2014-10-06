@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factmagazine.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327143548id_/http%3A//www.factmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmagazine.co.uk privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006103857id_/http%3A//www.factmag.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy – FACT Magazine: Music News, New Music.
 
