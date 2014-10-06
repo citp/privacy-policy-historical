@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollywood123.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607073657id_/http%3A//www.tollywood123.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollywood123.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006170433id_/http%3A//www.tollywood123.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy | Tollywood123.com
 
