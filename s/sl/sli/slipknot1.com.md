@@ -1,159 +1,121 @@
-> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120213955id_/http%3A//www.slipknot1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006195902id_/http%3A//www.slipknot1.com/privacy.html) for the most accurate reproduction.*
 
-# Slipknot
+# Slipknot - Privacy Policy
 
-This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
+This Privacy Policy ( **"Privacy Policy"** ) describes the information we collect through the properties and service owned and/or operated by VIXLET CA LLC, a California limited liability company, ( **"VIXLET"** ), including, without limitation, the www.VIXLET.com mobile device apps, other Internet graphical or non-graphical interface that are owned and/or operated by VIXLET, (collectively, the **"Vixlet World"** ), and any features, content, application or other social media management services offered from time to time by VIXLET in connection therewith (collectively, the **"Service"** ). Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/tos.html).
 
-**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
+Welcome to Vixlet ("we," "us" or "our"). Vixlet provides a unique and fun way for you to share and discover media around passions and to connect and interact with individuals who share similar passions through the Vixlet World. The Vixlet World also includes Vixlet Branded Worlds, which are communities that are devoted to a shared passion for brands, co-branded by Vixlet and such brand (a "Vixlet Partner"),powered by Vixlet’s Service. Vixlet Branded Worlds do not include any applications or websites not powered by Vixlet Service. 
 
-This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
+### 1.Information We Collect and How We Use It
 
-By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
+The Service will provide you with the ability to upload, submit, disclose, share, distribute or otherwise post (hereafter, "posting") content such as images, videos, blogs, links to 3rd party sites, message, comments and communications, to the Services (the " **User Submissions** ").
 
-We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
+  1. Account information. Through third party applications or directly through our Service, we may ask for and store information about you when you create an account in the Vixlet World, such as your avatar, first and last name, email address, short description, birthday, gender and hometown (city and state only), your VIXLET Username and your password.
 
-## About ground(ctrl)™
+    * _Account Creation._ We may use your first and last name, email address, birthday, hometown (city and state only), VIXLET Username and password to create your Vixlet account. In the event that you’re creating a Vixlet account in a Vixlet Branded World of which the Vixlet Partner also has other websites and applications of which you do not have an account with, a log in will be created for you with those non-Vixet branded web sites or applications of the Vixlet Partner. During the Vixlet log in process you will be identified and connected to the non-Vixlet branded web sites or application through a secured authorization process. The shared login allows the Vixlet Service to connect and share profile information with the Vixlet Partner’s other web sites and applications.
+    * _Administration._ We use your email address to help you reset your password, curb spamming, send you updates, provide services to you in connection with the Vixlet World, and to contact you on behalf of other users sending you messages, compliments, and the like.
+    * _Public Profile._ We may use your avatar, Vixlet Username, short description, and hometown (city and state) to create your public profile.
+    * _Marketing._ We use your account information to send you updates, newsletters, marketing materials and other information that may be of interest to you, and to provide services to you in connection with the Vixlet World. If you decide at any time that you no longer wish to receive email communications, push or in-App notifications from us, please follow the unsubscribe instructions provided in any of the communications.
+  2. Information You Choose to Share—Public Forum. By posting information which you choose to share, such as uploading photos, videos, comments, reviews, filling out your public profile, posting annotations, captions to content or comments to either your own content or someone else’s, you understand that such information will be considered public content—to be display to the public and can be re-shared, searched, as well as used for promotional purposes. This includes content posted to our proprietary content structuring system, Capsules. Note that if you include personally identifiable information in your public content, it can be used and viewed by others. We are not responsible for the information you choose to share. To change the privacy settings, you can change the privacy setting and any Capsules you have created on the Service. To change the privacy settings, you can change the privacy setting and any Capsules you have created on the Service. To change the privacy settings, you can change the privacy setting and any Capsules you have created on the Service. To change the privacy settings, you can change the privacy setting and any Capsules you have created on the Service. If you removed information that you posted in the Vixlet World, copies may remain viewable in cached and archived pages of the Service, or if other users or third parties have copied or saved that information.
 
-Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
+  3. Your Activities in the Vixlet World.
 
-To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
+    * _Social Login._ If you choose to log into the Vixlet World using an account you have already established with a social networking platform (e.g., Facebook, Twitter) or an email platform (e.g., Gmail, Yahoo! Mail), you give the Vixlet World access to certain Personal Information stored on the given social network or email platform. If you log into a Vixlet Branded World, we will collect this Personal Information as well as other information that you previously provided to the social network or email platform, to the extent as permitted by you when logging in via the social login, and will pass this information back to our Vixlet Partner’s website or mobile application ("End User Passed Data"). This End User Passed Data may include, but not be limited to, your name, email address, postal address, and demographic information such as age and gender. "Personal Information," as used in this Privacy Policy, is information that allows a person to directly identify an individual, such as a name or email address, and information that we combine directly with such identifying information.
+    * _Photo Upload._ When you choose to upload your photos from your computer or mobile device to the Vixlet World, we access the image database on your computer or mobile device for the purpose of retrieving the photos and uploading them onto the Vixlet World.
+    * _Polls, ratings, etc._ The Vixlet World may enable you to vote, take polls and ratings in the Vixlet World. The value of these submissions are collected and stored by us.
+    * _Activity Feed._ The Service may enable you to view a near-real time feed of activity happening in the Vixlet World. The specific actions displayed in the Activity Feed can include such social actions as your sharing and commenting as well as non-social actions such as video views. We collect and store a record of these actions for the purpose of displaying the Activity Feed. Your Vixlet Username and profile picture may be displayed alongside your actions as listed in the Activity Feed.
+    * _Gamification._ The Service may enable you to earn points and rewards for taking specified actions in the Vixlet World. We collect and store this content. This may include the display of information such as your Vixlet Username, profile picture, points, and badges, both to you directly and publicly to others in the Vixlet World.
+  4. Finding Your Friends on Vixlet.
 
-## The Information We Collect
+    * If you choose, you can use our "Find friends" feature to locate other people with Vixlet accounts through (i) your contacts list, (ii) third-party social media sites or (iii) through a search of names, email addresses and Vixlet Usernames on Vixlet.
+    * If you choose to find your friends through (i) your device's contacts list, then Vixlet will access your contacts list to determine whether or not someone associated with your contact is using Vixlet.
+    * If you choose to find your friends through a (ii) third-party social media site, then you will be prompted to set up a link to the third-party service and you understand that our Privacy Policy will govern any information that such service may provide to us.
+    * Note about "Invite Friends" feature:ÊIf you choose to invite someone to the Service through our "Invite friends" feature, you may select a person directly from the contacts list on your device and send a text or email from your third party personal account. You understand and agree that you are responsible for any charges that apply to communications sent from your device, and because this invitation is coming directly from your third party personal account, Vixlet does not have access to or control this communication.
+  5. Location data. Certain VIXLET Service will become available based on where you are. If you tell us where you are (e.g., by allowing your mobile device to send us your location), we may store and use that information to provide you with location-based Service, such as the unlocking of certain Capsules. If you want to deactivate this feature, you can deactivate GPS on your mobile device. Please refer to your device manufacturer for instructions on how to do this.
 
-When you visit this web site, you provide us with three types of information:
+  6. Log data. We automatically store information related to your use of the Vixlet World, such as the pages you view on the Vixlet World, your browser type, IP address, requested URL, browser language, referring URL, and the date and time of your visit. We use this type of information to administer the Vixlet World and provide the highest possible level of service to you. We also use this information in the aggregate (without Personal Information) to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Vixlet World.
 
-  1. Web site information collected by us through your interaction with this web site;
-  2. Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and
-  3. Personal information you knowingly and voluntarily disclose to use when using this service.
+  7. Device Information. When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers." We may use this data to help detect unauthorized access to your Vixlet account. Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by Vixlet. A device identifier may deliver information to us about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
+  8. Metadata. Metadata is usually technical data that is associated with User Submission (as defined in our [Terms of Service](https://web.archive.org/tos.html)). This makes your User Submsision more searchable by others and more interactive. For example, Metadata can describe how, when and by whom a piece of User Submission was collected and how that content is formatted. Users can add or may have Metadata added to their User Submission including a hashtag (e.g., to mark keywords when you post a photo), geotag (e.g., to mark your location to a photo), comments or other data. If you geotag your photo or tag your photo using other's APIs then, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings.
 
+  9. Cookies. We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. "Cookies" refer to small pieces of information that the Vixlet World sends to your computer's hard drive while you are viewing the Vixlet World. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Vixlet World may not work properly or at all. Our cookies are linked to your account information. We have no access to or control over the use of these cookies. These cookies collect information about your use of the Vixlet World, such as where you came from, which pages you visited within the Vixlet World, and possibly other Vixlet Worlds you visit if those websites cooperate with the same third party, but do not collect your name, email address, contact information or other personally identifiable information that by itself would allow the third party to identify or contact you. We may ask advertisers or other partners to serve ads or services to your devices or computer, which may use cookies or similar technologies placed by us or the third party.
 
-First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
+  10. GIFs. Clear GIFs (also known as web beacons) are used in combination with cookies to help website operators understand how visitors interact with their websites. A clear GIF is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a website. The use of a clear GIF allows the website to measure the actions of the visitor opening the page that contains the clear GIF. It makes it easier to follow and record the activities of a recognized browser, such as the path of pages visited at a website. Clear GIFs, which can be embedded in web pages, videos, or emails, can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Clear GIF, the IP address of your computer, and the URL of the web page from which the Clear GIF was viewed.
 
-Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:
+  11. Feedback. You should feel free to give us feedback, register a complaint, or ask questions about the Vixlet World. We may store your communications, including any personal information you include in them, so that we can effectively respond to you.
 
-Your first and last name
-    For the purpose of addressing you personally
-Your email address and encrypted password
-    To provide you with access to your personal account, and to send notifications about activity on the website
-Street address, city, state, postal code, country
-    To verify billing information for orders you place on the website and/or ship merchandise to you
-Your location
-    So you may optionally share your geographic location with other members of the website
-Birth date
-    So that you may optionally share your age with other members of the website
-AIM, Yahoo screen name, Jabber, ICQ screen names
-    So that you may optionally share your instant message information with other users of the site
-Flickr user id and Twitter user name
-    So that you may optionally display recent photos and twitter posts on your profile page
-Links to your third-party sites
-    So that you may optionally share favorite or other personal websites with other members of the site
-An avatar image
-    So that you may optionally provide a visual representation of yourself next to items you publish on the site
 
-We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
 
-Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
-## Children's Online Privacy Protection Act Of 1998
+### 2.Sharing Information with Third Parties
 
-This privacy policy is provided in conformity with the [Children’s Online Privacy Protection Act of 1998](http://www.coppa.org/coppa.htm "COPPA -Children's Online Privacy Protection") (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
+  1. Third Party Service Providers. We may use third parties to perform internal business functions (e.g., provide technical and customer support, content moderation, conduct surveys, perform tracking and reporting functions, conduct quality assurance testing, maintenance, security, data analysis, email transmission, CRM, database management services, credit card payment processing, data hosting, online loyalty, membership, reward programs). We may share such information about you that is necessary for them to perform the services they are required to perform, but they are not permitted to use your Personal Information other than to provide us with the necessary services.
 
-If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
+  2. Sponsors and Promotional Partners. Vixlet can share your information with sponsors and promotional partners, so they may help Vixlet provide services, offers, promotions or content you have requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submitted Personal Information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list.
 
-120 K. Street Suite 3rd Floor
+  3. Aggregate Information. We may share aggregated information with Vixlet Partners, existing and prospective business partners or the press in order to demonstrate usage of the Vixlet World, spot industry and advertising trends, and to generate publicity for the Vixlet World. Any aggregated information shared in these contexts will not contain Personal Information.
 
-Sacramento, CA 95814
+  4. Ad Servers. We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
 
-Toll Free: 1 (877) GND-CTRL
+  5. Vixlet Partners. Solely with respect to your activities within a Vixlet Branded World, we may share User Submission and your information (as described in Section 1 above, "Information We Collect and How We Use It") with the Vixlet Partner of such Vixlet Branded World for such Vixlet Partner’s internal business purposes, and such Vixlet Partner may share User Submission and your information (as described in Section 1 above) with third parties in the manner as described in this Section 2. If you do not wish to share information with a Vixlet Partner then do not log in/opt in to the related Vixlet Branded World.
 
-Phone (916) 443-9202
+  6. Investigations. We reserve the right to investigate abuses in the Vixlet World, and enforce and apply our [Terms of Service](https://web.archive.org/tos.html) and Privacy Policy. We may disclose information about you to third parties if we have a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our [Terms of Service](https://web.archive.org/tos.html) and Privacy Policy; (c) comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us, domestic or international; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
 
-Fax (916) 443-9204
 
-Additional operators maintaining information collected through this website include: Slipknot .
 
-The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
 
-As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.
+### 3.Affiliates; Business Transfers.
 
-We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.
+  1. Affiliates. We may share User Submission and your information (including but not limited to, information from cookies, log files, device identifiers and location data) with our affiliates (including a parent company, subsidiaries, joint venture partners or other companies that we control or that are under common control with us). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences, in which case we will seek to require those affiliates to honor this Privacy Policy.
 
-## Correcting, Updating or Removing Your Information
+  2. Business Transfers. In the event of a change in ownership, or a merger with, acquisition by, or transfer or sale of all or a portion of our assets to another entity, we reserve the right to transfer all of your information to that entity.
 
-At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature.
 
-## How We Use the Information
 
-We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
 
-When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+### 4.Special Note to International Users
 
-Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
+The Vixlet World is hosted in the United States and is intended for and directed to users in the United States. If you are a user accessing the Vixlet World from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Vixlet World, which are governed by U.S. law, this Privacy Policy, and our [Terms of Service](https://web.archive.org/tos.html), you are transferring your personal information to the United States and you consent to that transfer.
 
-## Sharing Your Information with Third Parties
+### 5.Links
 
-This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
+The Vixlet World contains links to third party websites with which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
 
-  1. Enforce the network’s Terms and Conditions of Use Agreement;
-  2. Protect the network’s rights;
-  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
-  4. Protect the safety of it’s members; or
-  5. Enhance each member’s promotional and informational-sharing experience.
+### 6.Our Policy Towards Children
 
+The Vixlet World is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at support@VIXLET.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
+### 7.Security
 
-The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
+If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By entering the Vixlet World or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Vixlet World. If a security systems breach occurs, we may post a notice on our homepage (www.vixlet.com) or elsewhere in the Vixlet World and may send email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. If you choose to receive such notifications in writing, please email your contact details including full name and mailing address to support@VIXLET.com.
 
-Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
+### 8.Changing or Deleting Your Information; Account Termination.
 
-## Third-Party Advertising
+All users may review, update, correct or delete the personal information in their Vixlet account by contacting us or by editing their profile via the Service. If you completely delete all of your personal information, then your Vixlet account may become deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
 
-Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
+In event that the account is terminated, we may retain your information for a commercially reasonable period of time as required by law or for legitimate business purposes. Your usage data that has been aggregated without personally identifiable data may be retained indefinitely. Furthermore, VIXLET and other users may retain and continue to display, reproduce, re-post, modify, re-arrange, and distribute any of your information that you have posted to public or semi-public areas of the Vixlet World. We may continue to display your information where it implicates other users (e.g., communications between you and other users, your comments on other stories, blogs, polls, etc..).
 
-## Comments, Blogs, Messages, and Links
+### 9.California Privacy Rights
 
-Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
+Under California law, a California resident with whom VIXLET has an established relationship has the right to request certain information with respect to the types of personal information VIXLET has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to:
 
-This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
+Vixlet   
+Attention: Legal   
+555 West 5th Street   
+50th Floor   
+Los Angeles, CA 90013 
 
-## Security
+This same California law permits VIXLET to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by any of the means described under "Sharing Information with Third Parties".
 
-Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.
+### 10.Dispute Resolution
 
-Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
+If you believe that VIXLET has not adhered to this Privacy Policy you may contact VIXLET at support@VIXLET.com.
 
-## Disclaimer of Liability for Unauthorized Viewing of Personal Information
+### 11.Modifications to this Privacy Policy
 
-You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will always be posted on the Vixlet World. If we make a change to this Privacy Policy that, in our sole discretion, is material, we will notify you either by prominently posting a notice of such changes prior to implementing the change on the Vixlet World and/or via the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-## Changes in the Privacy Policy’S Terms of Use, Notices and Revisions
-
-We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
-
-Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
-
-Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
-
-## European Commission's Directive on Data Protection - Safe Harbor
-
-We adhere to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. For more information on the Safe Harbor framework, visit the Department of Commerce's website located at <http://export.gov/safeharbor/>.
-
-## Your California Privacy Rights
-
-Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@groundctrl.com](mailto:privacy@groundctrl.com) or contact us at the address below.
-
-If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
-
-120 K. Street Suite 3rd Floor
-
-Sacramento, CA 95814
-
-Toll Free: 1 (877) GND-CTRL
-
-Phone (916) 443-9202
-
-Fax (916) 443-9204
-  *[CA]: California
+Effective Date: August 1, 2014
