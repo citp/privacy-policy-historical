@@ -1,41 +1,80 @@
-> *The following text is extracted and transformed from the postcard.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118023116id_/http%3A//postcard.com/About/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcard.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006143549id_/http%3A//postcard.com/privacy) for the most accurate reproduction.*
 
-# Privacy And Security :: postcard.com
+# Postcard :: Privacy Policy
 
-Our postal address is  
-121 Varick St.  
-New York, NY 10013
+* Introduction
 
-We can be reached via e-mail at info@postcards.com or you can reach us by telephone at 212-741-1070
+Thank using Postcard.com for your postcard orders. Please read our Terms of Service and this Privacy Policy carefully, as you are agreeing to be bound by both documents by using our Service.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+* Definitions
 
-We collect aggregate information on what pages consumers access or visit.
+Throughout this Agreement, we may use certain words or phrases, and it is important that you understand the meaning of them. The list is not all-encompassing and no definition should be considered binding to the point that it renders this Agreement nonsensical: 
 
-The information we collect is used to improve the content of our Web page.
+  * "Applications(s)" means one or more smartphone applications as well as website plugins developed and published by Postcard.com;
+  * "Agreement" means these Terms of Service;
+  * "Postcard.com" refers to our company, known as "Postcard.com, PBC"; our Site; our Application(s); our Service; or a combination of all or some of the preceding definitions, depending on the context of the word;
+  * "Service" refers to the services that we provide through our Site, including our online catalogue, online store, and our Site itself;
+  * "Site" refers to our website, www.Postcard.com, which includes, without limitation, accessibility via a User's private computer and or our Application(s).
+  * "User" refers but is not limited to customers, browsers, vendors, merchants, and/or contributors of content, of our Site and, without limiting the generality of the foregoing, includes general visitors to our Site;
+  * "You" refers to you, the person who is entering into this Agreement with Postcard.com.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
-If you do not want to receive e-mail from us in the future, please let us know by or clicking on and following the instructions from the "opt-out" link at the bottom of any email communications that we send to you..
+* Information Collected
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address.
+## Identifying Information
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address.
+We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, address, e-mail address, other information that we deem relevant for the purpose of providing you with our Service, and any information that you provide to us voluntarily. The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms of Service and/or this Privacy Policy. 
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events.   If you do not wish to receive such mailings, please let us know by writing to us at the above address.
+## Non-Identifying Information
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+Whenever you visit our Site, we may collect non-identifying information from you, such as your IP address, referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+* Use of Your Information
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.
+We may use your information to: 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the above address.
+  * Enhance or improve User experience, our Site, or our Service.
+  * Send e-mails about our Site or respond to inquiries.
+  * Send e-mails and updates about Postcard.com, including newsletters and notifications of amendments to legal documents such as this Privacy Policy and our Terms of Service.
+  * Perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our Site or Service.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-Consumers can have this information corrected by writing to us at the above address.
+* Accessing, Editing, and Removing Your Information
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing their account. Although most changes may occur immediately, information may still be stored in a web browser's cache. We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such. In addition, we may, from time to time, retain residual information about you in our backup and/or database.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+* Cookies
+
+We use cookies to remember your preferences. For this reason, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
+
+* Third Party Websites
+
+Postcard.com or its Users may post links to third party websites on our Site. Additionally, learning materials made available through our Service may contain third party website links or files. These third party websites and files are not screened for privacy or security issues by Postcard.com, and you release us from any liability for the conduct of these third parties. Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties or require disclosure of any personal information relating to members of the Service or Site. Postcard.com bears no responsibility for the information collected or used by any advertiser or third party website. Please review the privacy policy and terms of service for each site you visit through third party links. 
+
+* Third Party Access to Your Information
+
+Although you are entering into an agreement with Postcard.com to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others. Throughout the course of our provision of our Service to you, we may delegate our authority to collect, access, use, and disseminate your information. For example, our web host stores the information that you provide us, and we may hire outside contractors to perform maintenance or assist us in securing our website. It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. Without limiting the generality of the foregoing, you authorize us to collect, share, store, exchange, and otherwise use your information in conjunction with MixPanel. 
+
+* Release of Your Information for Legal Purposes
+
+At times it may become necessary or desirable, for legal purposes, to release your information in response to a request from a government agency or a private litigant. You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
+
+* Commercial and Non-Commercial Communications
+
+By providing information to the Site that forms the basis of communication with you, such as contact information, you waive all rights to file complaints concerning unsolicited email from Postcard.com since, by providing such information, you agree to receive communication from us or anyone else covered under this Privacy Policy. However, you may unsubscribe from certain communications by notifying Postcard.com that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
+
+* Security Measures
+
+We take certain measures to enhance the security of our Site and Service, including using SSL certificates. However, we make no representations as to the security or privacy of your information. It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
+
+* Your California Online Privacy Rights
+
+Postcard.com permits residents of California to use its services. Therefore, it is the intent of Postcard.com to comply with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at support@Postcard.com with any questions.
+
+* International Transfer
+
+Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Postcard.com transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+* Amendments
+
+We may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will post the changes here. Your continued use of our Service shall constitute your acceptance of such changes.
