@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanseer.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627121550id_/http%3A//www.africanseer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanseer.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006202259id_/http%3A//www.africanseer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AfricanSeer.com
 
