@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reveal.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630012454id_/http%3A//www.reveal.co.uk/about/information/a560438/data-protection-privacy-policy-for-use-on-websites.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reveal.co.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007002440id_/http%3A//www.reveal.co.uk/about/information/a560438/data-protection-privacy-policy-for-use-on-websites.html) for the most accurate reproduction.*
 
 # Data protection: Privacy Policy for use on websites - About Reveal Information - Reveal
 
