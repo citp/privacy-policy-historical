@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hamptonroads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052000id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptonroads.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006201324id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HamptonRoads.com | PilotOnline.com
 
 ## HamptonRoads.com and PilotOnline.com Privacy Policy
 
-_Last Updated on April 22,  2013_
+_Last Updated on August 12,  2014_
 
 This Privacy Policy discloses the privacy practices for HamptonRoads.com and PilotOnline.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to “HamptonRoads.com” include HamptonRoads.com, PilotOnline.com, and all of the channels found on these sites. 
 
@@ -54,9 +54,9 @@ This Privacy Policy applies to the following HamptonRoads.com web sites:
 •    CareerConnection.com (jobs.hamptonroads.com)  
 •    Drive (drive.hamptonroads.com)  
 •    ePilot, the electronic edition of The Virginian-Pilot   
-•    Real Estate (homes.hamptonroads.com)  
-•    Apartments (realestate.hamptonroads.com/apartments/)  
-•    Shopping (shopping.hamptonroads.com)  
+•    Real Estate (realestate.hamptonroads.com)  
+•    Apartments (apartments.hamptonroads.com)  
+•    Shopping (shop.hamptonroads.com)  
 •    Daily Deal (dailydeal.pilotonline.com)  
 •    Business Directory (find.hamptonroads.com)
 
@@ -128,11 +128,11 @@ You may submit content to certain sections of our sites provided you do so in ac
 
 **HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
 
-**Your Virginian-Pilot Home Delivery account:** You may update and/or edit your Home Delivery account information online by clicking on the “[Manage Account](http://managesubscription.pilotonline.com/cgi/cgiip.wsc/custservice/web/login.html)”  link on our home pages, under The Virginian-Pilot. Should you require assistance, please call our toll free number, 1-800-446-2005; locally, you may call 446-9000.
+**Your Virginian-Pilot Home Delivery account:** You may update and/or edit your Home Delivery account information online by clicking on the “[Activate](https://managesubscription.pilotmediacompanies.com/cgi-bin/cmo_cmo.sh/custservice/web/registration.html)”  link at the top of our home pages. Should you require assistance, please call our toll free number, 1-800-446-2005; locally, you may call 446-9000.
 
 **Manage your HamptonRoads.com account:** You may review and update your HamptonRoads.com account information and access your site comments and participation history in your User Account area. There are a number of things you can do to ensure your personal information is accurate and up to date. You can update the information you provided during the free registration process. You can sign up for our e-mail newsletters and manage your delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, [you can reset your password here](http://hamptonroads.com/user/password).  If you need further assistance, [please use our online feedback form](http://contact.hamptonroads.com/process.php?subject=Registration/profile%20process&r=27). 
 
-**Manage your ePilot account:** You may update and/or edit your ePilot account information online by logging in at [hamptonroads.com/epilot](http://hamptonroads.com/epilot/). You may update your registered credit card information, address, communication preferences and the e-mail address and password registered to the account. 
+**Manage your ePilot account:** You may update and/or edit your ePilot account information online by logging in at <http://hamptonroads.com/2013/05/get-pilot-electronically>. You may update your registered credit card information, address, communication preferences and the e-mail address and password registered to the account. 
 
 **IS MY INFORMATION PROTECTED?**
 
@@ -159,4 +159,4 @@ We may disclose personal information if we are required to do so by law or we in
 **CHANGES TO THIS POLICY**  
 We reevaluate both our Privacy Policy and our [Posting Policy](http://hamptonroads.com/posting-guidelines) on an ongoing basis. We will post the new policies on this page in a timely manner, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, HamptonRoads.com will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the top and the bottom of the page.
 
-Last Updated on April 22, 2013
+Last Updated on August 12, 2014
