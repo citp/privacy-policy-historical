@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123349id_/https%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006180924id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
 
 # SOS Privacy Policy
 
@@ -17,6 +17,8 @@ This Privacy Policy relates to the following SOS owned websites and mobile devic
 **All of our Apple iOS device apps**
 
 **All of our Android device apps**
+
+**All of our Kindle device apps**
 
 These sites/device apps are owned and run by the SOS Publications group of companies. Some services and/or features mentioned below may not be available on all our sites/device apps.
 
@@ -159,7 +161,10 @@ Users may unsubscribe from any of our email newsletters at any time by following
 8\. Information Security  
 The security and confidentiality of your information is extremely important to us, and we take a number of steps to safeguard any personally identifiable information or credit card information that you provide to us. We use data encryption technology to help protect against loss, misuse or alteration of your credit card information. Secure Socket Layers (SSLs) encrypt the credit card information sent between your computer and our database and or our card payment service provider. However, no method of transmitting or storing electronic data is ever completely secure, and therefore we cannot warrant or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this policy. 
 
-9\. Transfer of personal data overseas  
+9\. Credit Card Information  
+We do not store credit card or debit card details nor do we share customer details with any 3rd parties.
+
+10\. Transfer of personal data overseas  
 As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union or United States. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
 
-_This Privacy Policy was last updated 22nd May 2012._
+_This Privacy Policy was last updated 24th Sept 2014._
