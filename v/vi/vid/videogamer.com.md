@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamer.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602035453id_/http%3A//videogamer.com/legal.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamer.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006213911id_/http%3A//www.videogamer.com/legal.html%23privacy) for the most accurate reproduction.*
 
 # VideoGamer.com Legal Notices
 
