@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170933id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006234709id_/http%3A//www.2-spyware.com/articles/documents/20.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,5 +42,3 @@ In an attempt to provide you with increased value, we may include third party li
 **
 
 By using our site, you consent to our privacy policy.
-
-This entry was posted on Sunday, February 13th, 2005 at 9:11 am and is filed under [Articles](http://www.2-spyware.com/news/postcategory/articles "View all posts in Articles"), [Documents](http://www.2-spyware.com/news/postcategory/articles/documents "View all posts in Documents"). You can leave a response, or [trackback](http://www.2-spyware.com/news/post173.html/trackback) from your own site. 
