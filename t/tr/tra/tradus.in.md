@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradus.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004642id_/http%3A//www.tradus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradus.in privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006073849id_/http%3A//www.tradus.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Shopping in India for Mobiles, Cameras, Watches, Clothes, Gift Vouchers – Tradus.com
 
