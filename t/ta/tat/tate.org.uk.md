@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209221335id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006152202id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
 
 # Tate website privacy notice and use of cookies | Tate
 
@@ -9,12 +9,12 @@ When you use the Tate website, we may collect personal information about you whe
   * contact you to respond to your queries (if you email us with a question, for example)
   * provide you with services (send you an email bulletin or enable your progress through an online course, for example)
   * personalise your experience of Tate content (remembering your most recent search in [Art & artists](https://web.archive.org/art/), for example)
-  * contact you to ask you to respond to surveys 
+  * contact you to ask you to respond to surveys
   * optimise your experience of Tate content (remembering your connection speed to serve you streamed video, for example)
 
 
 
-We collect information about you when you create user accounts and log in to the following website services:
+We collect information about you when you comment or create user accounts and log in to the following website services:
 
   * Main website sign in used for visitor comments
   * [Online courses](http://www.tate.org.uk/whats-on/courses-and-workshops/artists-techniques-and-methods)
@@ -23,6 +23,7 @@ We collect information about you when you create user accounts and log in to the
   * [Tate Kids](http://kids.tate.org.uk/)
   * [Tate Collectives](http://collectives.tate.org.uk/)
   * [BP Art Exchange](https://web.archive.org/node/278743)
+  * [Circuit](http://circuit.tate.org.uk/)
   * Email bulletin subscriptions
 
 
@@ -119,10 +120,40 @@ Tate complies with all applicable UK and EU data protection legislation in force
 
 Our website may contain links to other websites which are outside our control and are not covered by this privacy notice. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-## 4\. Changes to this privacy notice
+## 4\. Apps privacy policy
+
+### 4.1 Terms and Conditions
+
+#### What this privacy policy covers
+
+This Privacy Policy explains what we do with the information we collect through our app, “Noisy Neighbours”
+
+#### Personal information?
+
+We do not collect personal information about the users of our apps.
+
+We do collect anonymous usage information such as the number of app sessions and the length of sessions but this will not be linked to the app user’s account.
+
+#### Links within apps
+
+The [_Noisy Neighbours_ app](https://web.archive.org/node/299647) has a link to our Books page at [www.tate.org.uk/publishing](http://www.tate.org.uk/about/business-services/tate-publishing) which allows you to find out more about products and services offered by Tate Publishing. There is also a link to our Support page to help support users with their queries.
+
+#### In- app purchases
+
+Our app does not contain any in-app purchases.
+
+#### Advertising
+
+Our app does not contain any third party advertising.
+
+#### Privacy questions
+
+If you have any questions about our app or our privacy policy, please contact [apps@tate.org.uk](mailto:apps@tate.org.uk)
+
+## 5\. Changes to this privacy notice
 
 From time to time Tate may change this privacy notice. You may therefore wish to check this page each time you submit personal information to Tate. The latest privacy notice will always appear on this page.
 
-## 5\. Contacting Tate about this privacy notice
+## 6\. Contacting Tate about this privacy notice
 
 If you have any questions or comments about this privacy notice, please contact us at [webmaster@tate.org.uk](mailto:webmaster@tate.org.uk).
