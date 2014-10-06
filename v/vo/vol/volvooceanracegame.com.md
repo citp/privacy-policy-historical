@@ -1,75 +1,99 @@
-> *The following text is extracted and transformed from the volvooceanracegame.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127075050id_/http%3A//www.unitedgames.com/company-profile/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvooceanracegame.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007013237id_/http%3A//www.volvooceanrace.com/en/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy « UnitedGames
+# Privacy Policy| Volvo Ocean Race 2014-2015
 
-**UNITED GAMES PRIVACY POLICY**
+**PRIVACY POLICY for www.volvooceanrace.com**
 
-Effective January 10, 2010
+**Data Protection Compliance – our commitment to you**
 
-United Games provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of United Games games and/or the games and applications offered by United Games. and accessed through United Games’ websites and or third party web sites (collectively, the “Services”). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on www.unitedgames.com. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our  Terms of Service.
+In order to protect your privacy, the Volvo Ocean Race (VOR) seeks to comply with the applicable Data Protection regulations, in particular Organic Law 15/1999, of 13 December, governing Personal Data Protection and Royal Decree 1720/2007, of 21 December, which approves the Regulations that implement Organic Law 15/1999. We follow the appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties, in accordance to the level of protection, the nature of the data supplied and considering the state of the technology. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent we are required to accept such responsibility by applicable laws.
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates.
+The information you may supply to us will be included in an automated file for the purpose of providing services to you or for direct marketing by us or by our Race partners as detailed below.
 
-**Information Collection and Use**
+For more information about the data controller, please visit the “Contact us” section.
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your membership, and to enable users to enjoy and easily navigate them.
+The files that contain personal data are registered in the Spanish Data Protection Agency's Register.
 
-**Personally Identifiable Information.**
+**Definitions  
+** Agents means companies or individuals contracted by Volvo to provide database and marketing services to and for the Volvo Ocean Race. These companies or individuals are bound by Volvo’s terms and conditions for collecting your personal information.
 
-When you register with us, either through the Site or on one of the Services (” _United Games Subscriber_ “), we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (” _Personal Information_ “). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. We also collect the other information that you provide as part of registration and the administration and personalization of your account (e.g., without limitation, zip code (on its own) and individual preferences) (” _Non-Identifying Information_ “). We use your Personal Information (in some cases, in conjunction with Non-Identifying Information) mainly to provide the Services, complete your transactions, and administer your inquiries.
+Volvo Group means the subsidiary companies of VCC and ABV, namely Volvo Cars, Volvo Trucks, Volvo Buses, Volvo Construction Equipment, Volvo Penta, Volvo Aero, Volvo Financial Services
 
-Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other United Games Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.
+Race Partners means Volvo Car Corporation and AB Volvo Group; race partners Inmarsat, Boston Consulting Group, Abu Dhabi Tourism Authority and DHL; race sponsors Thrane & Thrane and IWC Schaffhausen; race suppliers Puma, Volvo Penta, Volvo IT and Ericsson. This is not an exclusive list of the Volvo Ocean Race Partners – VOR reserves the right to add other sponsors and suppliers to this list at any time.
 
-We also use your Personal Information to contact you with United Games’ and its marketing partners’ newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information as applicable. (See “ _Changing or Deleting Information_ ,” below.)
+You will find further information about our Race partners on the Partners page.
 
-Log Data. When you visit the Site or the Services, whether as a United Games Subscriber or a non-registered user just browsing (any of these, a “ _United Games User_ “), our servers automatically record information that your browser sends whenever you visit a website (” _Log Data_ “). This Log Data may include information such as your computer’s Internet Protocol (” _IP_ “) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to our visitors’ needs. For example, some of this information is collected so that when you visit the Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+**When do we collect information and how do we process it?  
+** From time to time the Volvo Ocean Race may invite you to supply personal information (e.g. name, email address and country) in order for us to provide you with certain services such as event updates and newsletters, register for subscriber-only services, downloads, play games, enter sweepstakes or competitions, participate in Race Partner surveys or shop online. This information will be collected from you at a 'Registration Page'. In order to deliver such services, we will need to process and store your personal information and may need to transfer it to companies in the Volvo Group, relevant partners or agents of the Volvo Ocean Race or Third Party Sponsors for processing both inside and outside the European Economic Area (EEA). By submitting your personal information you consent to such processing and transfers in connection with such services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy. Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but Volvo Ocean Race always demands that those parties to whom we transfer data adhere to the same security procedures that it follows itself.
 
-**Cookies**
+Your personal information may also be used to better understand who visits the sites. This allows us to improve our content on an ongoing basis, and report on audience levels. All such reporting information will be aggregated, anonymous data. We may provide analysis of such data about our users, sales, traffic patterns and related site information to our Agents or Race Partners, but this data will not contain any information about you from which you could be identified.
 
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Services. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by United Games Users and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Services may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Services.
+Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if VOR acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with the Volvo Ocean Race despite a change of ownership.
 
-**Emailing Via a United Games Account**
+If you do not agree with this privacy policy you should not submit your personal information on this website.
 
-As part of the Services, United Games Subscribers may communicate with United Games Subscribers and non-registered users through use of their accounts. Where United Games Subscribers have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from United Games to those email addresses on their behalf. These email addresses will be stored in the address book the United Games Subscriber creates and will be used only for the purpose of sending the email communication to the addressee.
+**How will we use your data?  
+** Your data will be used to facilitate a number of different services which have been mentioned above. In all cases, all data capture points will clearly detail what types of information we are collecting about you, as well as the uses the Volvo Ocean Race intends to make of this information, most of which have been set out in this privacy policy.
 
-**Phishing**
+**Registration Page**
 
-Identity theft and the practice currently known as “phishing” are of great concern to United Games. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
+**\- Volvo Opt-In  
+** You will be given the option to register your details on the website in order to receive email updates or downloads from VOR, as well as other information related to the Volvo Ocean Race and to be provided with the services referred to above. The information we need for us to provide these various services to you, are usually your name, email address and country.
 
-**Information Sharing and Disclosure**
+To complete registration you are required to check the Privacy Policy opt-in box, to indicate that you agree to the terms of the Privacy Policy.
 
-United Games Registration. When you register through the Services and submit your Personal Information to create a profile webpage or join one of the Services, United Games Users may see your username and the other information about you (” _Required Subscriber Identifiers_ “). We may display your Personal Information in your profile page and elsewhere on the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other United Games Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you.
+You may also be given the option to provide additional information which allows us to tailor the communications or services we send to you or can provide to you to fit your specific interests. We may use the information we collect about you to notify you from time to time about updates on the Volvo Ocean Race and important new features related to the Volvo Ocean Race as well as changes to our on-line services, special offers, sweepstakes, competitions, surveys or promotions and other programs and events we think you will find of interest.
 
-Aggregate Information and Non-Identifying Information. We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
+At any time you may stop emails being sent to your email address from VOR by opting-out. To find out how to do this, please refer to the section below entitled: "Unsubscribe”.
 
-Service Providers. We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.
+**\- Volvo Race Sponsor Opt-In  
+** During registration, you may be asked if you'd like to receive information from one of our Volvo Ocean Race Partners.
 
-Compliance with Laws and Law Enforcement. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of United Games or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+If you check this opt-in box, we may send your information to our Race Partners.
 
-Business Transfers. United Games may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+Our Race Partners may contact you via email regarding their products and services, to that extend you will be required to check an opt-in box. Under no circumstances will we share your personal data with any other third parties who are not listed as a Race Partner.
 
-**Changing or Deleting Your Information**
+We are not responsible for the privacy practices of our Race Partners and this statement applies solely to any personal information collected by us.
 
-All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on a social networking site, by changing the applicable information in their profile page. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+**Online Purchases  
+** When you place an order we need to know your name, phone number, email address, billing address, and credit card type, number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. Your information is treated with the utmost security. Your information is used by the Volvo Ocean Race and its agents for the purpose of aggregate identification of our customers. Your personal information will not be delivered to any third party, unless you authorize us specifically to do this. PLEASE NOTE THAT ON-LINE SALES WILL BE PROCESSED SUBJECT TO SEPARATE TERMS AND CONDITIONS THAT WILL BE MADE AVAILABLE TO YOU DURING YOUR TRANSACTION.
 
-**Security**
+When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer data we collect is protected against unauthorized access.
 
-United Games is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+**Unsubscribe  
+** To unsubscribe, login into your profile page and deselect the items to which you have subscribed. Click update.
 
-**International Transfer**
+**Cookies  
+** Cookies are bits of information that a website transfers to an individual's hard drive for record-keeping purposes. The use of cookies is an industry standard practice, which you'll find at most major websites. Cookies make web-surfing easier for you by saving your preferences while you're at our site or when you return.
 
-Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the Netherlands and choose to provide information to us, United Games transfers Personal Information to the Netherlands and processes it there and your submission of such information represents your agreement to that transfer.
+In places where the Volvo Ocean Race site asks for login information (such as games), cookies may store your login name and password on your hard drive to eliminate the need for you to enter this information every time it is required.
 
-**Links to Other Sites**
+The Volvo Ocean Race also uses cookies to understand site usage and patterns. This may include the use of your registration information to better understand and serve the interests of our users.
 
-Our Services contain links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+**What happens if you disable your cookies?  
+** There may be features in our site which are not accessible without cookies. However, if you want to disable your cookies you can do so in two ways: you can ask your browser to inform you every time a cookie is set and then decide whether to accept it or not, or you can set your browser to automatically deny cookies.
 
-**Our Policy Toward Children**
+If you ask your browser to inform you of "cookie set" requests and you say "NO" to the cookies, you will get a pop up window for every hit. If you set your browser to automatically deny cookies then you will not see these pop up windows.
 
-The Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+**IP Address  
+** We may use your IP address to help diagnose problems with our server, and to administer our website. Your IP address may also be used to gather broad demographic information.
 
-**Contacting Us**
+**Links to Other Sites  
+** This site contains links to other sites not operated by or on behalf of the Volvo Ocean Race. The Volvo Ocean Race is not responsible for the privacy practices of such websites and does not endorse or accept any responsibility for the content of such websites.
 
-If you have any questions about this Privacy Policy, please contact us at  or at: Privacy Department, United Games BV, zaanweg 119b, 1521 DS Wormerveer
+**Children's Guidelines  
+** The Volvo Ocean Race does not specifically target children to register. However, should someone register on our site and tell us they are 14 or younger (where age is asked) they will not be added to our database and Volvo Ocean Race will be unable to use the personal data for the uses described in this privacy policy.
 
-© United Games BV 2010, All Rights Reserved.
+**Rights of access, rectification erasure and objection  
+** The rights of access, rectification, erasure and objection shall be exercised in accordance with the applicable laws.
+
+You may exercise these rights by submitting a written or e-mailed request accompanied by copy of your identification document, to the following address:
+
+Volvo Ocean Race, S.L.U  
+Muelle nº 10 de Levante  
+Puerto de Alicante  
+03001 Alicante - Spain
+
+Or by email to: [info@volvooceanrace.com](mailto:info@volvooceanrace.com)
+
+If you have any concerns at all about any aspect of the management of personal data by us please contact us at the above address.
