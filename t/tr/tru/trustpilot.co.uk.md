@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102138id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006214614id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@
 
 By creating a profile on or using any of the Trustpilot websites including, but not limited to www.trustpilot.com, www.trustpilot.co.uk, www.trustpilot.nl, (the "Website") you **accept** this policy for the processing of your personal data on the Website.
 
-We, Trustpilot A/S, Trommesalen 5, 3rd floor, 1614 Copenhagen, Denmark ("Trustpilot") recommend that you **print** and **keep** these guidelines.
+We, Trustpilot A/S, Pilestræde 58, 5th floor, 1112 Copenhagen K, Denmark ("Trustpilot") recommend that you **print** and **keep** these guidelines.
 
 Close and return
 
@@ -231,7 +231,7 @@ Trustpilot may at any time and without notice make changes to its privacy policy
 
 In case of inquiries regarding Trustpilot's privacy policy, our processing of personal data, correction of data or your relations to us in general, you are welcome to contact Trustpilot on the following address:
 
-Trustpilot A/S, Trommesalen 5, 3rd floor, 1614 Copenhagen, Denmark, CVR-no: 30276582, telephone: +45 69 91 12 82, Email: support@trustpilot.com.
+Trustpilot A/S, Pilestræde 58, 5th floor, 1112 Copenhagen K, Denmark, Denmark, CVR no.: 30276582, telephone: +45 69 91 12 82, Email: support@trustpilot.com.
 
 November 2013
 
