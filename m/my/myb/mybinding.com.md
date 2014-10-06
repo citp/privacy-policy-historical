@@ -1,73 +1,92 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213175221id_/http%3A//www.mybinding.com/.sc/ms/sp/ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006045815id_/http%3A//www.mybinding.com/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
 
-# Privacy Policy - MyBinding.com
+# Privacy Policy | MyBinding.com
 
-**What information do we collect?**
+This privacy policy sets out how MyBinding.com uses and protects any information that you give MyBinding.com when you use this website. MyBinding.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MyBinding.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+## What we collect
 
-**What do we use your information for?**
+We may collect the following information:
 
-Any of the information we collect from you may be used in one of the following ways: 
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+## What we do with the information we gather
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Do we use cookies?**
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. Our systems do not obey "Do Not Track" settings.
+## Security
 
-**Do we disclose any information to outside parties?**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## How we use cookies
 
-**Third party links**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-**California Online Privacy Protection Act Compliance**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+## Links to other websites
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Childrens Online Privacy Protection Act Compliance**
+## Controlling your personal information
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-**Online Privacy Policy Only**
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@mybinding.com
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**Changes to our Privacy Policy**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 5500 NE Moore Court Hillsboro, OR 97124.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-This policy was last modified on 10/7/2013
+## List of cookies we collect
 
-**Contacting Us**
+The table below lists the cookies we collect and what information they store.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[http://www.mybinding.com](http://www.mybinding.com/)  
-5500 NE Moore Court  
-Hillsboro, Oregon 97124  
-USA
-
-[support@mybinding.com  
-](mailto:support@mybinding.com)1-800-944-4573
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
