@@ -1,84 +1,50 @@
-> *The following text is extracted and transformed from the ellioskids.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603095525id_/http%3A//ellios.com/McCainPrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellioskids.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007023938id_/http%3A//www.oetker.us/us-en/footer/privacy/privacy.html) for the most accurate reproduction.*
 
-# Ellio's
+# Privacy | Dr. Oetker
 
-**Global Privacy Policy**
+1\. Dr. Oetker North America Website  
+This privacy policy is applicable to Dr. Oetker’s activities in North America and the Dr. Oetker North American web site located at [](http://www.oetker.ca/)[www.oetker.ca](http://www.oetker.ca/) (“the Website”) and may be different than the privacy policy posted at the Dr. Oetker’s international web site [](http://www.oetker.com/)[www.oetker.com](http://www.oetker.com/).
 
-©2011 McCain Foods USA. All rights reserved.
+Visitors’ (“you”) use of the Website is subject to the terms and conditions of this privacy policy. In any case, by submitting personal information via an active information collection point on the Website, you specifically consent to the collection, use, and dissemination of such information in accordance with this privacy policy.
 
-This website is owned and operated by, or on behalf of, McCain Foods Limited, for McCain Foods Limited and its affiliates (“McCain”). We have developed this Privacy Policy to let you know in general terms about McCain’s personal information management practices, including what personal information we collect, how it is used and to whom it might be disclosed. We may update the Policy from time to time, so please review it occasionally. 
+2\. Gathering and Using Your Personal Information
 
-McCain recognizes its obligation to its customers, community and online visitors to adhere to the highest standards of decency, fairness and integrity in all its operations. Likewise, McCain is dedicated to the fundamentals of protecting consumer privacy on the internet, especially for children. We support active self-regulation and adherence to recognized best practices where regulations do not exist and to compliance with personal information protection legislation where such legislation exists. 
+The only personal information that we will collect is the personal information that you knowingly provide to us when you communicate with us through the Website, or by any other means, such as submissions, contests and communications to the Website. No personal information is gathered without your consent. You always have the ability to refuse to consent to the collection, use or disclosure of your personal information.
 
-**Information We Collect**
+When we do collect personal information, we use it only for the purposes described in this privacy policy or for the purpose indicated when it was collected (for example, consumers who write to us for free recipes will receive these recipes and we will not use their contact information for any other purposes).
 
-**1\. Personal Information**
+In certain limited circumstances, we may be required or permitted by law to disclose your Personal Information, such as to the police in the course of a criminal investigation.
 
-Except where we expressly tell you otherwise, we don't collect personally identifiable information from individuals unless they provide it to us with their consent, express or implied. Browsing our websites does not require that the visitor provide any personal information. However, in order to participate in some of the special programs that are offered by McCain, you may have to provide personal information. These special programs include contests, sweepstakes and other promotions. Whenever such a special program is offered, it will be apparent what information is being collected, how it will be used and to whom it might be disclosed. We will not collect any more personal information than is reasonably necessary for the special program. 
+Personal Information collected on the Website belongs to [Dr. Oetker Limited] and may be transferred to a purchaser of all or some of [Dr. Oetker Limited’s] assets or business.
 
-We may be required or permitted under statute or regulation to collect, use or disclose personal information without your consent, for example to comply with a court order, to comply with local or federal regulations or a legally permitted inquiry by a government agency or to collect a debt owed to us. 
+3\. Contact Us
 
-**2\. Non-Personal Information: Cookies**
+If at any time it is unclear as to the reason we are requesting your information, or the purpose the information will be used for, or if you have questions, concerns, or complaints about your privacy or your personal information, you may contact us at the address listed below. We will inform you of our complaint procedures and will assist you in resolving the situation.
 
-McCain may use "cookie" technology to obtain non-personal information from its online visitors. Cookies are information files that your web browser places on your computer when you visit a website. Most browsers accept cookies automatically, but can be configured not to accept them or to indicate when a cookie is being sent. We do not extract personal information in this process nor do we provide this information to third parties. We also do not contact you. Cookies allow us to customize your user interface to speed up the navigation process and to make the site experience more efficient. If your browser is configured to reject cookies, you will not be able to use some of the features of the McCain websites. 
+[Dr. Oetker Canada] can be contacted at [customer_service@oetker.ca](mailto:customer_service@oetker.ca).
 
-We may use a temporary session cookie to enable you to use a shopping basket (where provided). These temporary cookies are deleted when you exit your browser. Another type of cookie can be stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. We use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want. 
+4\. How We Care For Your Personal Information
 
-**What We Do With the Information We Collect**
+We will not knowingly or deliberately forward your information to a third party without your consent or except as otherwise provided for in this privacy policy. This includes selling, leasing, or making your information available to a third party. If we decide to change our privacy policy we will post the changes here. However, if we make material changes to the way we use your personal information we will ask for your consent before we do so.
 
-If you provide us with personal information (e.g. in an e-mail sent to us or in connection with signing up for certain programs, contests, promotions, etc.), we may use your personal information as follows: 
+Please note that we work closely with a select group of third parties, such as marketing and promotional agencies or data processors, in order to facilitate the operation of the Website and to make the Website more enjoyable for visitors. Often, these third parties support programs and other activities related to the Website for which your personal information is required. As a result your personal information may be transferred to one or more such third parties for activities and processing relating to these purposes. Additionally, we ensure such third parties follow the same policies that we follow in order to guarantee the safety of your personal information.
 
-1\. To provide the services you request – this may include responding to your inquiries, and administering contests and sweepstakes you enter.   
-2\. To respond to communications sent to McCain or posted on the website.   
-3\. To contact you from time to time, where you have specifically consented to follow-up contacts by McCain or its affiliates or to be put on our mailing list.   
-4\. For such other purposes which you may request or consent to from time to time.   
-5\. To maintain our business records, which includes legal, security, regulatory, audit, risk-management and quality assurance purposes.   
-6\. For such other uses authorized by law. 
+At any time after you have submitted your personal information for whatever reason, if you wish to withdraw your consent for our use of such information you may do so subject to legal or contractual restrictions and reasonable notice. If you withdraw your consent, we will inform you of the implications of such withdrawal; in some cases the withdrawal of consent may prevent us from providing you with goods or services in the future. To withdraw your consent, simply contact us and advise us of what personal information you no longer wish us to use. We will at any time, at your request, provide you with a copy of any personal information that we are holding about you.
 
-Whenever you provide personal information to us after we have advised why your personal information is being requested, how it is to be used and with whom it is to be disclosed, your consent to such collection, use and disclosure is implied by your voluntarily providing such personal information. From time to time we may ask you to be more explicit about your consent. 
+[Dr. Oetker Limited] uses commercially reasonable steps to keep any personal information which it collects about you secure from unauthorized access, deletion or alteration, but, as with any communication of personal information over the Internet, there is a risk that data will be intercepted or otherwise interfered with by third parties. [Dr. Oetker Limited] will have no liability to you if your personal information is intercepted or otherwise interfered with by third parties. You should take precautions to ensure that your personal information is not accessed by others; such precautions include the use of passwords and encryption and turning off your computer when you are finished using it.
 
-If you provide us with information about another person, you are responsible for obtaining that person’s consent to the collection, use and disclosure of that person’s personal information in accordance with this privacy policy and specifically for the purpose for which you have provided it to us. If you use a feature of a website that enables you to send information to another person via e-mail, that e-mail message will be considered to be sent by you (and not McCain) to that person. We will only use that other person’s personal information to manage the particular service, including detecting and addressing abuse. 
+5\. What Is Personal Information
 
-**Disclosure of Your Personal Information**
+For the purposes of this privacy policy, “personal information” means “any information about an identifiable individual, and includes:
 
-Except as described in this section, we don't share the information you give us with anyone outside of McCain and its affiliates, except with third-party service providers of McCain who have agreed not to use your personal information except for specific proposes, as directed by McCain and except as may be required by law. 
+Name  
+Address  
+Phone Number  
+Email Address  
+Age  
+Date of Birth  
+Sex
 
-There may be features of a website, now or in the future, where visitors can comment publicly on materials made available by McCain or may upload content that will be visible by the general public. When this is the case, we will let you know that information will be publicly visible and doing so will be optional. 
+6\. Gathering Information with Cookies
 
-In the event that McCain proposes to enter into a business transaction (such as the sale of a division of McCain or one of its subsidiaries, a financing, securitization, sale of assets or the like), McCain may disclose personal information that is reasonably necessary for the evaluation of such a transaction. McCain would require that any recipient of such personal information be bound to keep it confidential and to only use it for the purposes of evaluating the transaction. If the transaction is not completed, the other party would be required to return or destroy it. If the transaction is completed, McCain would transfer the personal information that is reasonably necessary for the fulfillment of the transaction and would require that the recipient of such information only use the personal information for the purposes for which it was originally collected and in accordance with this policy. 
-
-McCain may disclose your personal information as reasonably necessary to carry out the purposes described in the section entitled “What We Do With the Information We Collect,” including meeting legal, regulatory, industry self-regulatory, insurance, audit and security requirements. 
-
-McCain operates globally and personal information may be stored and processed by it or its service providers in multiple jurisdictions. 
-
-Personal Information of Minor Children 
-
-**Important Note to Children**
-
-Before providing your name, address, e-mail address or any other personal information to anyone on the Internet, be sure to ask your parents if it's ok. 
-
-**Important Note to Parents**
-
-McCain does not advertise to or knowingly collect personally identifiable information of children under the age of 12. Several portions of our websites are dedicated to brands that are of interest to or are appealing to children under the age of majority (but older than 12 years of age). In communicating with children over the age of 12, McCain is especially mindful of the need to protect their personal privacy. 
-
-We do permit children 12 years of age or older to communicate with us by e-mail, enter contests and register for promotions, newsletters and other similar activities. In doing so, your child will be asked to provide parental information confirming your consent for him/her to do so. 
-
-If the parent permits a child's participation in a contest and the child wins, we contact the parent (not the child) for further personal information needed for any prize delivery. 
-
-Links 
-
-McCain websites may contain links to other websites. We try to only link to websites that share our high standards of decency, fairness and integrity. We try to make sure that these links are safe for everyone, but the privacy and data collection practices on any linked websites are entirely separate from McCain and are not covered by this Privacy Policy. Other websites, which may contain material not suitable for children, may also link to McCain websites without McCain’s knowledge or consent. McCain does not necessarily endorse any outside websites and McCain has no responsibility for the content, policies or actions of these websites. 
-
-Online Security 
-
-McCain has taken steps to make all information received from our online visitors and customers secure against unauthorized access and use. Personal information provided by visitors and customers is kept in McCain's secure database. All information received from our customers is protected by our security measures, which are periodically reviewed. You should keep in mind, however, that no data transmission over the Internet is 100 per cent secure and any information disclosed online can potentially be intercepted and used by parties other than the intended recipient. 
-
-Changes and Updates to the Privacy Policy 
-
-McCain website content and features may be updated, revised, modified and supplemented from time to time. McCain reserves the right to change information, features, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Privacy Policy will be posted on our websites. Please check the policy periodically for changes. At the top of the policy, we indicate the date of an update to the Privacy Policy. The continued use of the McCain websites following the posting of changes to this Privacy Policy will mean you accept those changes. 
-
-Changes and Access to Personal Information 
-
-Individuals who provide information to McCain can correct, update and delete personal information from our database at any time by sending an e-mail to McCain by clicking on the hyperlink "Contact Us" located on each page of McCain websites. Your request will be routed to the appropriate person at McCain, who may contact you to answer your query or to seek further information about your request. 
-
-You can change your consent that has been previously given. We note, for your information, that changing your consent to the collection, use and disclosure of personal information may affect your ability to participate in certain activities offered by McCain or limit our ability to communicate with you. 
+Cookies are used minimally on the Website. “Cookies” are small data files that are sent to your browser and then are placed on an individual visitor’s computer hard drive by a web server. Currently, with respect to the Website the 'Session ID' is the only thing stored in a cookie on a visitor’s computer. The purpose of this is to identify the user to the server while the visitor is browsing the Website. This function is not permanent; it only is valid while the visitor is on the Website. It will expire if the user jumps to another site and does come back in a short period of time, approximately 30 minutes. No information about the visitor, the visitor’s computer, or the visitor’s environment is saved by the Website in any way. If you do not want to accept cookies, you will often be able to prevent them from operating by changing your Internet browser settings. The “help” portion of the toolbar on most browsers will provide you with further information in this respect.
