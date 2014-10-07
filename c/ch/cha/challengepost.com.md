@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629182511id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008015801id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ChallengePost
+# Privacy Policy
 
 Effective March 19, 2013
 
@@ -51,7 +51,7 @@ Specifically, if you register for an individual challenge in order to receive u
 
 ### Legal Requirements
 
-ChallengePost may disclose your Personally Identifiable Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of ChallengePost, © act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
+ChallengePost may disclose your Personally Identifiable Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of ChallengePost, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
 
 ### Business Transfers
 
@@ -59,7 +59,7 @@ As we develop our business, we might sell or buy businesses or assets. In the ev
 
 ## Accessing and Modifying Personally Identifiable Information and Communication Preferences
 
-You may access, review, and/or make changes to Personally Identifiable Information that you have provided to us by logging in on the Site, clicking on your username, then clicking “settings”.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any ChallengePost marketing e-mails.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.  You cannot opt-out of receiving transactional e-mails related to your account with ChallengePost. Personally Identifiable Information provided to us that is contained in a submission to a challenge may not be edited after the competition submission deadline until the conclusion of the challenge, per the rules of each competition. Requests to remove such information from a submission may be made after a challenge is over by emailing us at  support@challengepost.com.
+You may access, review, and/or make changes to Personally Identifiable Information that you have provided to us by logging in on the Site, clicking on your username, then clicking "settings".  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any ChallengePost marketing e-mails.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.  You cannot opt-out of receiving transactional e-mails related to your account with ChallengePost. Personally Identifiable Information provided to us that is contained in a submission to a challenge may not be edited after the competition submission deadline until the conclusion of the challenge, per the rules of each competition. Requests to remove such information from a submission may be made after a challenge is over by emailing us at  support@challengepost.com.
 
 ## Children
 
