@@ -1,0 +1,329 @@
+<!--The following is the downloaded HTML source of the muckrock.com privacy policy that was archived on 2014-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141007131539id_/https%3A//www.muckrock.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="">
+	<meta name="google-site-verification" content="4KnIEDr5Fi-PUL9klVnMlC2BMcStrUwQIj-4gMVfqjk">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	
+	<script type="text/javascript" src="https://muckrock.s3.amazonaws.com/js/main.js?f47c7155"></script>
+	
+	
+
+<script type="text/javascript">
+
+// using jQuery
+function getCookie(name) {
+    var cookieValue = null;
+    if (document.cookie && document.cookie != '') {
+        var cookies = document.cookie.split(';');
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = jQuery.trim(cookies[i]);
+            // Does this cookie string begin with the name we want?
+            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+var csrftoken = getCookie('csrftoken');
+function csrfSafeMethod(method) {
+    // these HTTP methods do not require CSRF protection
+    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+}
+function sameOrigin(url) {
+    // test that a given url is a same-origin URL
+    // url could be relative or scheme relative or absolute
+    var host = document.location.host; // host + port
+    var protocol = document.location.protocol;
+    var sr_origin = '//' + host;
+    var origin = protocol + sr_origin;
+    // Allow absolute or scheme relative URLs to same origin
+    return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+        (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+        // or any other URL that isn't scheme relative or absolute i.e relative.
+        !(/^(\/\/|http:|https:).*/.test(url));
+}
+$.ajaxSetup({
+    beforeSend: function(xhr, settings) {
+        if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+            // Send the token to same-origin, relative URLs only.
+            // Send the token only if the method warrants CSRF protection
+            // Using the CSRFToken value acquired earlier
+            xhr.setRequestHeader("X-CSRFToken", csrftoken);
+        }
+    }
+});
+
+
+</script>
+
+
+<script type="text/javascript" src="https://muckrock.s3.amazonaws.com/autocomplete_light/autocomplete.js"></script>
+<script type="text/javascript" src="https://muckrock.s3.amazonaws.com/autocomplete_light/widget.js"></script>
+<script type="text/javascript" src="https://muckrock.s3.amazonaws.com/autocomplete_light/addanother.js"></script>
+<script type="text/javascript" src="https://muckrock.s3.amazonaws.com/autocomplete_light/text_widget.js"></script>
+<script type="text/javascript" src="https://muckrock.s3.amazonaws.com/autocomplete_light/remote.js"></script>
+<link rel="stylesheet" type="text/css" href="https://muckrock.s3.amazonaws.com/autocomplete_light/style.css">
+
+
+	
+	<link rel="stylesheet" type="text/css" href="https://muckrock.s3.amazonaws.com/css/main.css?3f317ae1" media="screen">
+	
+
+	
+	
+	<title> MuckRock's Privacy Policy  | Muckrock</title>
+</head>
+
+<body id="top">
+
+<div id="network">
+	<div class="center-wrapper">
+
+		<div class="left">Tuesday, October 7, 2014</div>
+		<div class="right">
+
+			<ul class="tabbed" id="network-tabs">
+				
+				<li><a href="/accounts/login/">Log in</a></li>
+				<li><a href="/accounts/register/">Register</a></li>
+				
+			</ul>
+
+			<div class="clearer">&nbsp;</div>
+		
+		</div>
+		
+		<div class="clearer">&nbsp;</div>
+
+	</div>
+</div>
+
+<div id="site">
+	<div class="center-wrapper">
+
+		<div id="header">
+
+			<div class="right" id="toolbar">
+				&nbsp;
+			</div>
+
+			<div class="clearer">&nbsp;</div>
+
+			<div id="site-title">
+
+				<h1><a href="/">MuckRock</a> <span> /  About </span></h1>
+
+			</div>
+
+			<div id="navigation">
+				
+				<div id="main-nav">
+
+					<ul class="tabbed">
+						
+						<li class=""><a href="/news/">News</a></li>
+						<li class=""><a href="/foi/new/">Submit Request</a></li>
+						<li class=""><a href="/foi/list/">FOI Requests</a></li>
+						<li class=""><a href="/questions/">FOI Questions</a></li>
+						
+						<li class=""><a href="/accounts/profile/">Account</a></li>
+						<li><a href="/about/">About</a></li>
+						
+					</ul>
+
+					<div class="clearer">&nbsp;</div>
+
+				</div>
+
+				<div id="sub-nav">
+
+					
+						&nbsp;
+					
+
+					<div class="clearer">&nbsp;</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		
+	<div class="main" id="main-two-columns">
+
+		<div class="left" id="main-left">
+
+			
+
+			
+<h1>MuckRock Privacy Policy</h1>
+
+<p>MuckRock respects your privacy. This Privacy Policy applies to our web site, www.MuckRock.com (referred to herein as the MuckRock Site or Site). This Privacy Policy explains what information we collect through the Site, how we use that information, and what choices you have.</p>
+
+<p>This Privacy Policy does not apply to the practices of any companies or individuals that MuckRock does not control, or any web sites that you link to or from the MuckRock Site. You should use caution and review the privacy policies of any external websites that you visit from the MuckRock Site.</p>
+
+<p>By accessing the MuckRock Site, you agree to accept its terms and conditions and are aware that our policies may evolve in the future.</p>
+
+<p><strong>What We Collect and How We Use the Information We Collect</strong></p>
+
+<p>As part of the services provided by MuckRock, we must collect some "Personally Identifiable Information," such as your first name, last name, and e-mail address. You may optionally supply other information that can be used to contact you or identify you as an individual, including your postal address and phone number (collectively, “Optional Personally Identifiable Information”). We use Personally Identifiable Information and Optional Personally Identifiable Information to communicate with you and to assist in processing and managing your requests. When you register on the Site, we also require you to set up an account and, at that time, MuckRock will collect your username, user ID number, and a hashed password. </p>
+
+<p>Integral in managing and processing your public records requests, MuckRock additionally collects the following information: your account type, your Stripe ID associated with your credit card information, your user profile URL, the number of non-expiring and number of expiring requests you have, the date that subscriptions renew, what requests you follow, the kind of status your account has (<em>e.g.</em> “active,” “blocked,” “staff,” or “superuser”), your last login and the date you joined, the requests you have filed, and the agencies with which you have filed these requests. </p>
+
+<p>Our payment processor, Stripe, collects and stores information necessary for making payments including your credit card information, your e-mail address, your Stripe ID, the date you registered, your MuckRock username, your subscription information, and logs of certain activities and interactions (<em>e.g.</em> when your account was created and every transaction you make with Stripe)</p>
+
+<p><strong>How We Store Information We Collect</strong></p>
+
+<p>Except for the information collected and stored by Stripe (as described above), all other information is stored by MuckRock inside MuckRock’s Django app. This information may be further organized or broken down into the following headings and categories, such as: title, URL of request, status of request, jurisdiction, agency, date submitted, date response was received, date request is due, days until request is due, date MuckRock will follow-up with request, whether the request is currently embargoed, date the embargo extends until, price of the request if the government is charging, description of the request, whether the request is featured, whether special data should be displayed on the side of the request, the request’s government-provided tracking ID number, whether the user has viewed the request since the request was last updated, the number of page views the request has, what e-mail address the request was sent to and/or from, what other e-mail addresses were copied in the correspondence, tags used to organize the request, and MuckRock’s internal tracking ID. Metadata associated with every communication included as part of your request shall also be collected and stored. This may include the name of sender, name of receiver, data and time sent, whether it is to or from the user, whether the request uses HTML, the contents of the body of the message, whether that communication changed the status of the request, how may pages an attachment, a description of an attachment, and a copy of an attached file. </p>
+
+<p> <strong>How we share information</strong></p>
+
+<p>Except as noted below, MuckRock does not share your Personally Identifiable Information with third parties unless you give us your permission or we need to share such information in order to provide the services you have requested. When we supply Personally Identifiable Information to these third parties, we require them to use it only for the function they are helping us with.</p>
+
+<p>We will disclose Personally Identifiable Information when required by law or under the good-faith belief that such disclosure is necessary in order to conform to applicable law, comply with subpoenas, court orders or legal process served on MuckRock, to establish or exercise our legal rights or defend against legal claims, and to protect the property or interests of MuckRock, its agents and employees, personal safety, or the public. If we become part of another organization, including without limitation, by merger, change of control, sale of assets, or other acquisition, the acquiring organization will obtain and have access to the Personally Identifiable Information collected by MuckRock and it will assume the rights and obligations regarding your Personally Identifiable Information as described in this Privacy Policy. If we cease operation, your information may be transferred to and used by another company that offers similar or related products or services. </p>
+
+<p> <strong>How Long Will We Store This Information</strong></p>
+
+<p>Due to the length of the typical public records process and the length of these documents' usefuleness, we will store this information indefinitely. Should you no longer wish information from a request you filed through the site to be stored by MuckRock, you must send a request via e-mail to info@muckrock.com. Deletion requests will be complied with within 10 days of their submission.</p>
+
+<p><strong>Security and Your Privacy Responsibilities </strong></p>
+
+<p> We keep the Personally Identifiable Information you provide on servers that are protected by technological means against intrusion and unauthorized access. </p>
+
+<p>To help protect your privacy, be sure: not to share your user ID or password with anyone else; to log off the MuckRock Site when you are finished; and to take customary precautions to guard against “malware” (<em>e.g.</em> viruses, Trojan horses, bots, etc.), for example, by installing and updating suitable anti-virus software.</p>
+
+<p><strong>Publicly posted information</strong></p>
+
+<p> MuckRock does not control, and is not responsible for, the use of any information or content that you have exposed to the public through your use of the MuckRock Site.</p>
+
+<p><strong>Changes to this Privacy Policy</strong></p>
+
+<p>We reserve the right to change or update this Privacy Policy as we deem necessary or appropriate. We endeavor to notify you of any material change to the Policy by sending a notice to the e-mail address you have provided or by posting a notice of such changes on the MuckRock Site. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site or App will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site and App.</p>
+
+<p><strong>Questions</strong></p>
+
+<p>If you have questions or comments about our Privacy Policy, please send an e-mail to info@muckrock.com. </p>
+
+<p><em>This Privacy Policy was last modified on May 16, 2013.</em></p>
+ 
+
+
+		</div>
+
+		<div class="right sidebar" id="sidebar">
+
+			<form action="/search/" method="get">
+				<input type="hidden" name="csrfmiddlewaretoken" value="a8RxrPOhfKLgHDO660az7BBW8V9Gh7bM">
+				<input type="text" name="q" id="id_q">
+				<input type="submit" name="submit" value="Search" class="button">
+			</form>
+
+			<div class="content-separator"></div>
+			
+			 
+
+		</div>
+
+		<div class="clearer">&nbsp;</div>
+
+	</div>
+
+
+		<div id="dashboard">
+
+			<div class="column left" id="column-1">
+				
+				<div class="column-content">
+				
+					<div class="column-title">About MuckRock</div>
+
+					<p>We make tools to keep our government transparent and accountable. Read our <a href="https://www.muckrock.com/privacy/">Privacy Policy</a> and <a href="https://www.muckrock.com/terms/">Terms of Service</a>.</p>
+
+				</div>
+
+			</div>
+
+			<div class="column left" id="column-2">
+
+				<div class="column-content">
+				
+					<div class="column-title">Follow Us</div>
+					<ul class="plain-list">
+						<li><a href="/news/feeds/" class="feed">Latest News</a></li>
+						<li><a href="/foi/feeds/submitted/" class="feed">Recently Submitted Requests</a></li>
+						<li><a href="/foi/feeds/completed/" class="feed">Recently Completed Requests</a></li>
+						<li><a href="/questions/feed/" class="feed">Latest Questions</a></li>
+						<li><a href="http://www.twitter.com/muckrock" class="twitter">@MuckRock</a></li>
+						<li><a href="http://www.facebook.com/muckrock" class="facebook">Like Us</a></li>
+					</ul>
+
+				</div>
+
+			</div>
+
+			<div class="column left" id="column-3">
+
+				<div class="column-content">
+				
+					<div class="column-title">Want to Learn More?</div>
+
+					<p>Subscribe to our <a href="/about/interested/">newsletter</a> or email <a href="mailto:info@muckrock.com">Info@MuckRock.com</a>.</p>
+					<p>Read our <a href="https://www.muckrock.com/faq/">Frequently Asked Questions</a>.
+				</p></div>
+
+			</div>
+
+			<div class="column right" id="column-4">
+
+				<div class="column-content">
+				
+					<div class="column-title">Get in Touch</div>
+
+					<p>Email: <a href="mailto:info@muckrock.com">info@muckrock.com</a></p>
+
+				</div>
+
+			</div>
+
+			<div class="clearer">&nbsp;</div>
+
+		</div>
+
+		<div id="footer">
+
+			<div class="left">© 2014 MuckRock </div>
+			<div class="right"></div>
+
+			<div class="clearer">&nbsp;</div>
+
+		</div>
+
+	</div>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16635809-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"755754","licenseKey":"5c2951ed21","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"Zl0BMksDCxUAABELDl8XJRNXAREPDg1KBgtQVgQJFxQMAxYQSwYEV1kWCk0RXxYABAA9D15MPABWFwsC","errorBeacon":"bam.nr-data.net","beacon":"beacon-1.newrelic.com","queueTime":6,"applicationTime":190}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
