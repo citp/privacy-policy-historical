@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112616id_/http%3A//kiplinger.com/customer-service/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007204014id_/http%3A//www.kiplinger.com/customer-service/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy-Kiplinger
 
