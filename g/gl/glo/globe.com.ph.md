@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globe.com.ph privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210081834id_/http%3A//www.globe.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globe.com.ph privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008005220id_/http%3A//www.globe.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | About Globe - globe.com.ph
+# Privacy Policy | About Globe
 
 ## **Privacy Policy**
 
