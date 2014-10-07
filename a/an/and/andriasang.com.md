@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andriasang.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601015531id_/http%3A//andriasang.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andriasang.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007104222id_/http%3A//andriasang.com/about/privacy) for the most accurate reproduction.*
 
-# About Andriasang
+# Andriasangについて
 
 By using this site, you consent to the below privacy policy.
 
