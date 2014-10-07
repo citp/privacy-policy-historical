@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecosportdiscoveries.co.in privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614172016id_/http%3A//www.india.ford.com/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecosportdiscoveries.co.in privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008014957id_/http%3A//www.india.ford.com/privacy-disclaimer) for the most accurate reproduction.*
 
-# Ford India Private Limited - Privacy and Disclaimer
+# Privacy and Disclaimer
 
 ### Ford India Private Limited Privacy Policy
 
@@ -92,9 +92,8 @@ We endeavour to maintain your personal information as accurately as reasonably p
 Wherever possible and appropriate, we will let you see the personal information we hold about you and correct it if it is wrong. If we do not allow you access to any part of the personal information we hold about you, we will tell you why.  
 If you wish to obtain access to your personal information held by us, or to request us to correct any errors in that information, please contact us by:
 
-  * phoning the Ford Customer Relationship Centre on (04114) 259218
-  * faxing the Ford Customer Relationship Centre on (04114) 254279
-  * emailing us at [ocadmin@ford.com](mailto:ocadmin@ford.com)
+  * phoning the Ford Customer Relationship Centre on 1800-425-2500
+  * emailing us at [custmail@ford.com](mailto:custmail@ford.com)
   * or writing to us at : Ford India Private Limited, S.P. Koil Post, Chengalpattu, Tamil Nadu-603 204
 
 
