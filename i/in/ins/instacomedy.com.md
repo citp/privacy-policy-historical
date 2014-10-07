@@ -1,69 +1,91 @@
-> *The following text is extracted and transformed from the instacomedy.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518102046id_/http%3A//instacomedy.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacomedy.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007173701id_/http%3A//instacomedy.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY**
+Instacomedy is founded on the principles of helping people to discover new information by enabling them to share what they find funny with one another. By visiting the Instacomedy website, you are accepting the practices outlined in this Privacy Policy.
 
-We value your membership, we enforce your security.
+This Privacy Policy covers Instacomedy's treatment of personal information that Instacomedy gathers when you are on the Instacomedy website and when you use Instacomedy services. This policy does not apply to the practices of third parties that Instacomedy does not own or control, or to individuals that Instacomedy does not employ or manage.
 
-Last Modified: 4 May 2013
+Information Collected by Instacomedy
 
-INTRODUCTION
+We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Instacomedy users:
 
-INSTACOMEDY Inc. (“INSTACOMEDY”) takes the private nature of your personal information very seriously.
+1.    Information You Provide to Us:
 
-This privacy policy, which we adapted from a policy originally provided by Automattic (WordPress.com), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
+We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-WEBSITE VISITORS
+Registration: In order for you to use Instacomedy services, such as submitting new pictures to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your name and e-mail address).
 
-Like most website operators, INSTACOMEDY collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. INSTACOMEDY’s purpose in collecting non-personally identifying information is to better understand how INSTACOMEDY’s visitors use its website. From time to time, INSTACOMEDY may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.
+User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, your website, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used.
 
-INSTACOMEDY also collects potentially personally-identifying information like Internet Protocol (IP) addresses. INSTACOMEDY does not use such information to identify its visitors, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+2.    Automatic Information:
 
-GATHERING OF PERSONALLY-IDENTIFYING INFORMATION
+We receive and store certain types of information whenever you interact with us. Instacomedy and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Instacomedy cookie information, and the page you requested. Instacomedy uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 
-Certain visitors to INSTACOMEDY’s websites choose to interact with INSTACOMEDY in ways that require INSTACOMEDY to gather personally-identifying information. The amount and type of information that INSTACOMEDY gathers depends on the nature of the interaction. For example, we ask visitors who sign up for INSTACOMEDY.com to provide a username and email address. In each case, INSTACOMEDY collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with INSTACOMEDY. INSTACOMEDY does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Instacomedy may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
 
-AGGREGATED STATISTICS
+Many companies offer programs that help you to visit websites anonymously. While Instacomedy will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-INSTACOMEDY may collect statistics about the behavior of visitors to its websites. For instance, INSTACOMEDY may monitor the most popular collections on INSTACOMEDY.com. INSTACOMEDY may display this information publicly or provide it to others. However, INSTACOMEDY does not disclose personally-identifying information other than as described below.
+E-mail Communications
 
-PROTECTION OF CERTAIN PERSONALLY-IDENTIFYING INFORMATION
+Instacomedy is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. Instacomedy may send out e-mails with Instacomedy-related news, products, offers, surveys or promotions. You may also receive notification e-mails from Instacomedy, which inform you of actions that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your Account Options and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 
-INSTACOMEDY discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on INSTACOMEDY’s behalf or to provide services available at INSTACOMEDY’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using INSTACOMEDY’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if INSTACOMEDY or substantially all of its assets were acquired, or in the unlikely event that INSTACOMEDY goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of INSTACOMEDY may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, INSTACOMEDY will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
+Cookies
 
-Other than to its employees, contractors and affiliated organizations, as described above, INSTACOMEDY discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when INSTACOMEDY believes in good faith that disclosure is reasonably necessary to protect the property or rights of INSTACOMEDY, third parties or the public at large. If you are a registered user of a INSTACOMEDY website and have supplied your email address, INSTACOMEDY may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with INSTACOMEDY and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. INSTACOMEDY takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Instacomedy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Instacomedy's coolest features.
 
-COOKIES
+Like the vast majority of sites on the interwebs nowadays, Instacomedy's advertising partners may place and read a cookie on your browser, or use web beacons that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. We think most of you would rather receive relevant ads than untargeted ones.
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. INSTACOMEDY uses cookies to help INSTACOMEDY identify and track visitors, their usage of INSTACOMEDY’s websites, and their website access preferences. INSTACOMEDY visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using INSTACOMEDY’s websites, with the drawback that certain features of INSTACOMEDY’s websites may not function properly without the aid of cookies.
+Sharing Your Information
 
-ADS
+Because Instacomedy enables people to discover and share information with one another, information about the people who use Instacomedy is an integral part of the Instacomedy experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-Ads appearing on any INSTACOMEDY websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by INSTACOMEDY and does not cover the use of cookies by any advertisers.
+Instacomedy Personnel: Instacomedy personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Instacomedy business.
 
-LINKS TO THIRD PARTY SITES
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Instacomedy, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-This privacy policy only applies to information collected by INSTACOMEDY. This privacy policy does not apply to the practices of companies that INSTACOMEDY does not own or control, or employees that INSTACOMEDY does not manage. A INSTACOMEDY website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and INSTACOMEDY and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+Protection of Instacomedy and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Instacomedy, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-SECURITY
+User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other Instacomedy users in your User Profile. The User Profile is the area on Instacomedy where we allow you to tell other Instacomedy users about yourself and your interests. You may control what personal information is displayed in your User Profile by editing your Details of your Account.
 
-All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
+Social sharing of data: Instacomedy allows other users to browse content that you have submitted or commented on. This information is made available via your User Profile. Instacomedy may choose to post this data on other site features.
 
-CHOICE/OPT-OUT
+Friends' Activity: Much like other online social networks, Instacomedy allows non-friends to browse your friends' activity.
 
-If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.
+Syndication: Instacomedy allows for the RSS syndication of all of its public content within the Instacomedy website.
 
-ADRESS BOOK DATA
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-Any external address book data (email contacts, etc.) that a user voluntarily gives INSTACOMEDY access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
+Keeping Information Secure
 
-PRIVACY POLICY CHANGES
+Your Instacomedy account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
 
-Although most changes are likely to be minor, INSTACOMEDY may change its privacy policy from time to time, and in INSTACOMEDY’s sole discretion. INSTACOMEDY encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
+Only employees who need personal information to perform a specific job are granted access to it. All of our employees are kept up to date on our privacy and security practices.
 
-CONTACT US
+Ways to Control Display and Use of Your Information
 
-If you have any questions about this privacy policy or our sites in general, please contact us.
+As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new pictures.
+
+By visiting your Account, you can correct, amend, add or delete personal information on our website.
+
+You may request deletion of your Instacomedy account by e-mailing us at
+
+If you do not wish to receive e-mail from us or other Instacomedy users, please visit the Email Preferences section of your Account and/or follow the instructions contained in the unwanted e-mail message.
+
+However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+
+As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+
+Children Under 18 Years of Age
+
+You must be 13 years and older to register to use the Instacomedy website. As a result, Instacomedy does not specifically collect information about children. If we learn that Instacomedy has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Instacomedy or sending information about themselves or anyone else over the Internet.
+
+Changes to this Privacy Policy
+
+Instacomedy may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Instacomedy website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+Conditions of Use
+
+If you decide to visit Instacomedy website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages and, arbitration of disputes, and application of the law.
