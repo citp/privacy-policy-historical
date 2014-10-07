@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 13abc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231036id_/http%3A//www.13abc.com/story/18243161/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13abc.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007215408id_/http%3A//www.13abc.com/story/18243161/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 13abc.com Toledo (OH) News, Weather and Sports
 
