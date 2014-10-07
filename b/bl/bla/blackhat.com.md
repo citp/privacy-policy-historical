@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074618id_/http%3A//www.blackhat.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhat.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007202802id_/http%3A//www.blackhat.com/html/privacy.html) for the most accurate reproduction.*
 
 # Black Hat | Privacy
 
@@ -28,7 +28,7 @@ This policy might change periodically to reflect new services we offer or change
 
 ### Media Policy:
 
-Black Hat's policy has always been never to share attendee lists with anyone, including the media list. In case you'd like to search who is writing about Black Hat [click here](https://web.archive.org/web/20140625074618id_/http%3A//www.blackhat.com/html/press.html), this could provide you with the media list you need.
+Black Hat's policy has always been never to share attendee lists with anyone, including the media list. In case you'd like to search who is writing about Black Hat [click here](https://web.archive.org/web/20141007202802id_/http%3A//www.blackhat.com/html/press.html), this could provide you with the media list you need.
 
 For additional information regarding UBM's privacy policy please visit [United Business Media LLC Privacy Notice Highlights](http://legal.us.ubm.com/privacy-notice-highlights/).
 
