@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedomainradio.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234852id_/http%3A//freedomainradio.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomainradio.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008004609id_/https%3A//freedomainradio.com/privacy.html) for the most accurate reproduction.*
 
-# Freedomain Radio – The Home Page
+# Freedomain Radio – Privacy Policy
 
 Freedomain Radio is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Freedomain Radio Web site and governs data collection and usage. By using the Freedomain Radio website, you consent to the data practices described in this statement.
 
