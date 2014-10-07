@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rhinospike.com privacy policy that was archived on 2014-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328162844id_/http%3A//rhinospike.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rhinospike.com privacy policy that was archived on 2014-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008005021id_/https%3A//rhinospike.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en"><head><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],loader:[function(a,b){b.exports=a("YLUGVp")},{}]},{},["YLUGVp"]);</script>
+<!DOCTYPE html><html dir="ltr" lang="en"><head><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
         
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>RhinoSpike : Privacy Policy</title>
@@ -17,6 +17,7 @@
         <link rel="stylesheet" href="/site_media/static/pinax/css/accounts.css">
         <link rel="stylesheet" href="/site_media/static/uni_form/uni-form.css">
         <link rel="stylesheet" href="/site_media/static/css/jquery-ui.min.css">
+        <link rel="stylesheet" href="/site_media/static/bootstrap/css/bootstrap.min.css">
         <link rel="shortcut icon" href="/site_media/static/images/rhinospike.ico">
         
 
@@ -33,64 +34,69 @@
 
     <link rel="stylesheet" href="/site_media/static/mejs/mediaelementplayer.css">
     <link rel="stylesheet" href="/site_media/static/css/shib.css">
+
+    <script type="text/javascript" src="https://js.stripe.com/v1/"></script>
+
+    <script type="text/javascript">
+        Stripe.setPublishableKey('pk_0AZyFnaIS2TjrFZ1EeESbyzDziIUk');
+        //global namespace to add dynamic view stuff to in RHINO_js block.  
+        //e.g. RHINO.username = ; //RHINO.username can now be used in external .js files
+        var RHINO = {}; 
+    </script>
     
 
     </head>
 
     <body class="">
+        <header>
+            
+
+
+    <div id="top-bar" class="navbar navbar-fixed-top navbar-inverse">
+        <div class="navbar-inner">
+            <div class="container">
+            <div id="logo-small"></div>
+                <a class="brand" href="/">
+                    RhinoSpike
+                </a>
+
+
+                
+
+                <ul class="nav pull-right">
+                    <li class="divider-vertical"></li>
+                    <li>
+                        <a href="/account/signup/"><i class="icon-heart icon-white"></i>
+                            Sign up
+                        </a>
+                    </li>
+                    <li class="divider-vertical"></li>
+                    <li>
+                        <a href="/account/login/">
+                            <i class="icon-star icon-white"></i>
+                            Login
+                        </a>
+                    </li>
+                    <li class="divider-vertical"></li>
+                </ul>
+
+                
+            </div>
+        </div>
+    </div>
+
+        </header>
         <div id="canvas">
             <div id="page">
                 
 
-                <div id="tabhead">
-                    <div class="logo" dir="ltr"><a href="/"><img src="/site_media/static/images/rs_logo_60.png" alt="RhinoSpike"></a></div>
-                    <div class="login">
-    
-        <a href="/account/login/">Login</a> or <a href="/account/signup/"><b>Sign up</b></a>
-    
-
-    <form action="/i18n/setlang/" method="post" id="locale_switcher">
-        <select name="language" onchange="$('#locale_switcher').submit()">
-            
-                <option value="en" selected="selected">English</option>
-            
-                <option value="cs">Čeština</option>
-            
-                <option value="da">Dansk</option>
-            
-                <option value="es">Español</option>
-            
-                <option value="el">Ελληνικά</option>
-            
-                <option value="fr">Français</option>
-            
-                <option value="ja">日本語</option>
-            
-                <option value="nl">Nederlands</option>
-            
-                <option value="pt-br">Português brasileiro</option>
-            
-                <option value="zh-cn">中文 (简体字)</option>
-            
-                <option value="zh-tw">中文 (正體字)</option>
-            
-        </select>
-    </form>
-<div style="text-align: right;"></div></div>
-                    <div id="left_tabs"></div>
-                    <div id="mid_tabs">
-    
-</div>
-                    <div id="donation_button"></div>
-                    <div id="right_tabs">
-    
-</div>
-                </div>
                 <div id="subnav" class="clxearfix"><div class="clearfix">&nbsp;</div></div>
 
                 
                 <div id="body">
+                    <ul id="messages">
                     
+                    </ul>
 
 
                     <div id="body_header">
@@ -98,6 +104,7 @@
                         </div>
                     </div>
                     
+
     <h1>Privacy Policy</h1>
     last updated February 4th, 2010
       
@@ -147,13 +154,14 @@
     <h3>QUESTIONS</h3>
     <p>Any questions about this privacy policy should be addressed to support at rhinospike dot com.</p>
 
+
                     <div class="clearboth"></div>
                 </div>  
                 
 
                 <div id="footer">
 <div class="legal">
-    © 2009-2013 &lt;Azabua LLC&gt;
+    © 2009-2014 &lt;Azabua LLC&gt;
     - <a href="/about/">About</a>
     - <a href="http://blog.rhinospike.com">Blog</a>
     
@@ -161,13 +169,55 @@
     - <a href="/about/privacy/">Privacy Policy</a>
     
 </div>
+
+    <form action="/i18n/setlang/" method="post" id="locale_switcher">
+        <select name="language" onchange="$('#locale_switcher').submit()">
+            
+                <option value="en" selected="selected">English</option>
+            
+                <option value="cs">Čeština</option>
+            
+                <option value="da">Dansk</option>
+            
+                <option value="es">Español</option>
+            
+                <option value="el">Ελληνικά</option>
+            
+                <option value="fr">Français</option>
+            
+                <option value="ja">日本語</option>
+            
+                <option value="nl">Nederlands</option>
+            
+                <option value="pt-br">Português brasileiro</option>
+            
+                <option value="zh-cn">中文 (简体字)</option>
+            
+                <option value="zh-tw">中文 (正體字)</option>
+            
+        </select>
+    </form>
 </div>
 
-                <script src="/site_media/static/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+                <!--<script src="/site_media/static/js/jquery-1.7.2.min.js" type="text/javascript"></script>-->
+                <script src="//code.jquery.com/jquery-1.8.3.min.js" type="text/javascript"></script>
                 <script src="/site_media/static/pinax/js/base.js" type="text/javascript"></script>
                 <script src="/site_media/static/uni_form/uni-form.jquery.js" type="text/javascript"></script>
+                <script type="text/javascript" src="/site_media/static/bootstrap/js/bootstrap.min.js"></script>
+                 <script type="text/javascript" src="/site_media/static/js/bootbox.min.js"></script>
                 <script src="/site_media/static/js/jquery-ui.min.js"></script>
                 <script src="/flag/script/rhinoflag.js"></script>
+                <script type="text/javascript">
+                    
+    RHINO.ajax_credit_pack_id = 11;
+    RHINO.ajax_credit_pack_url = '/creditpackpurchase/11/';
+    RHINO.ajax_credit_pack_opened_url = '/creditpackpurchaseopened/11/';
+    RHINO.check_language_url = '/checklang/'
+ 
+                </script>
+                
+    
+ 
 
                 
 
@@ -178,6 +228,23 @@
                     rhinoflag.init();
                     
 $.ajaxSetup({traditional: true});
+
+//bootstrap dialog workaround
+$('a[data-toggle="modal"]').on('click', function(){
+    //fixes a bootstrap bug that prevents a modal from being reused
+    $('#rsModalBody').html('<img src="/site_media/static/images/openid/indicator.gif">');
+    $('#rsModalBody').load(
+        $(this).attr('href'),
+        function(response, status, xhr) {
+            if (status === 'error') {
+                //console.log('got here');
+                $('#rsModalBody').html('<h2>Oh boy</h2><p>Sorry, but there was an error:' + xhr.status + ' ' + xhr.statusText+ '</p>');
+            }
+            return this;
+        }
+    );
+});
+
 
                 });
 
@@ -191,8 +258,19 @@ $.ajaxSetup({traditional: true});
                 
     
     
-    
-    
+
+<div id="rsModal" class="modal hide fade">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="rsModalHeaderText">&nbsp;</h3>
+    </div>
+    <div id="rsModalBody" class="modal-body">
+    </div>
+    <div class="modal-footer">
+        <a href="#" data-dismiss="modal" class="btn">Close</a>
+    </div>
+</div>
+
     
 
             </div>  
@@ -203,7 +281,7 @@ $.ajaxSetup({traditional: true});
         
             <div id="floating-follow">
                 <a href="http://twitter.com/rhino_spike" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
-                <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
             </div>
 
             <div id="social">
@@ -211,20 +289,20 @@ $.ajaxSetup({traditional: true});
                     <g:plusone callback="plusone_callback();" href="http://rhinospike.com"></g:plusone>
                 </div>
                 <div id="tweet">
-                    <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://rhinospike.com" data-text="RhinoSpike - Foreign Language Audio and Transcripts On Demand!" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                    <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://rhinospike.com" data-text="RhinoSpike - Foreign Language Audio and Transcripts On Demand!" data-count="vertical">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
                 </div>
                 <div id="facebook">
-                    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://rhinospike.com" send="true" layout="box_count" width="65" show_faces="false" font="tahoma"></fb:like>
+                    <div id="fb-root"></div><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://rhinospike.com" send="true" layout="box_count" width="65" show_faces="false" font="tahoma"></fb:like>
                 </div>
             </div>
-        
 
-        
             
+            <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
         
 
         
-        <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+                        
+        
 
         
         <script type="text/javascript">
@@ -240,6 +318,25 @@ $.ajaxSetup({traditional: true});
         
 
         
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","queueTime":0,"licenseKey":"e4f3579c24","agent":"js-agent.newrelic.com/nr-361.min.js","transactionName":"MwEAbRFVDxdSWkdeXApLJEwNVxUNXFccU1kFCgVWTUIIAURKHVBWCgEQUAAaEg1eSV9SCQANEFwAQD4QXGZHUl4UCANNBg==","applicationID":"3520336","errorBeacon":"jserror.newrelic.com","applicationTime":32}</script>
+<div id="credit_pack_modal" class="modal fade hidden">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title">Buy Credits</h4>
+                    </div>
+                    <div class="modal-body">
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Nevermind!</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
+
+        
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","queueTime":0,"licenseKey":"e4f3579c24","agent":"js-agent.newrelic.com/nr-412.min.js","transactionName":"MwEAbRFVDxdSWkdeXApLJEwNVxUNXFccU1kFCgVWTUIIAURKHVBWCgEQUAAaAwVAXAljVgkUDlgXUTcNVk4dUFYQ","applicationID":"3520336","errorBeacon":"bam.nr-data.net","applicationTime":45}</script>
+
+<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
