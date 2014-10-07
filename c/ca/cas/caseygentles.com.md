@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caseygentles.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119060333id_/http%3A//caseygentles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseygentles.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007060556id_/http%3A//caseygentles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
