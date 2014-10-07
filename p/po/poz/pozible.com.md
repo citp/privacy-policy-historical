@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528073052id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007184823id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
 
-# Pozible | Crowdfunding Creativity
+# Privacy Policy | Pozible
 
 Your privacy is very important to us. You must read and agree to the terms of this Privacy Policy before becoming a Pozible account holder. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties. This Privacy Policy governs the information we collect about you and your use of information we provide to you. By accepting this Privacy Policy and the User Agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Pozible User Agreement. 
 
