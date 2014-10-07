@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628222047id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007081042id_/http%3A//tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -25,7 +25,9 @@ To download a copy of this Act, please click on [Information Privacy Act 2009 
 
 ### Your personal information
 
-Details about the personal information held by the department, and the steps this department will take to address its obligations under the _Information Privacy Act 2009_ , can be obtained by emailing [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au). 
+Please note legislation imposes obligations on us in relation to the confidentiality of information. In relation to personal information obtained for a particular purpose, this legislation authorises us to use it for another purpose provided that purpose is directly related to the purpose for which the information was obtained. For example, if you notify us of a change of address for your driver’s licence, we may apply this address to your adult proof of age card or marine licence.
+
+Details about the personal information held by us and the steps we will take to address our obligations under the _Information Privacy Act 2009_ , can be obtained by emailing [privacy@tmr.qld.gov](mailto:privacy@tmr.qld.gov).
 
 ### When using online services
 
@@ -42,15 +44,24 @@ When you visit this website, our server makes a record of your visit and logs th
 
 No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may request inspection of the activity logs, through appropriate legal processes.
 
-### Cookies
-
-The Transport and Main Roads website may use cookies to retain preferences during your visit to our website, so they can be used next time you visit the site. Cookies used on this website are non-harmful and do not attempt to identify individual users. 
-
 ### Your emails
+
+If you choose to supply an email address and/or mobile phone/SMS device number, you consent to us retaining that information and you authorise us to use that information for the purposes for which you provided it including:
+
+  * issuing you with an online access code
+  * responding to your enquiries
+  * processing your transaction 
+  * sending you information, notices, reminders or updates on Transport and Main Roads products and services. 
+
+
 
 Email correspondence sent to this site will be treated as a public record and will be retained as required by relevant legislation.
 
-Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. Email messages may be monitored by the department's web team for system troubleshooting and maintenance purposes.
+Your name and address details will not be added to a mailing list nor will we disclose these details to third parties without your consent unless required by law. Email messages may be monitored by the department’s web team for system troubleshooting and maintenance purposes.
+
+### Cookies
+
+The Transport and Main Roads website may use cookies to retain preferences during your visit to our website, so they can be used next time you visit the site. Cookies used on this website are non-harmful and do not attempt to identify individual users. 
 
 ### Security
 
@@ -76,15 +87,15 @@ Privacy complaints made to the department must:
 Privacy complaints need to be marked **private and confidential** and forwarded to:
 
 Post: | The Privacy Contact Officer   
-RTI & Privacy Unit   
-Legal and Ethical Standards   
+RTI, Privacy and Complaints Management  
 Department of Transport and Main Roads   
 GPO Box 1549   
 Brisbane Qld 4001  
 ---|---  
 Email: | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
+Phone: | 07 3066 7108  
   
-Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/Contact-us.aspx).
+Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/sitecore/content/TMRInternet/Contact-us1.aspx).
 
 ### Contact
 
