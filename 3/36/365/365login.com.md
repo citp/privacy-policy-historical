@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 365login.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504211522id_/http%3A//www.365login.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365login.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007134956id_/http%3A//www.365login.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 365 login
+# Login to Office 365
 
 Thank you for visiting our web site. This website is administered by EverydayICT B.V., address: De Run 4308, 5503 LN, Veldhoven, The Netherlands. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
