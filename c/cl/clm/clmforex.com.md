@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clmforex.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526183714id_/http%3A//www.clmforex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clmforex.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008000610id_/http%3A//www.clmforex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Core Liquidity Markets
 
