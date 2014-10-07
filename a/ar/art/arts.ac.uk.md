@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325022427id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007122643id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# University of the Arts London: Privacy and Cookies
+# Privacy and Cookies - University of the Arts London
 
 This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website.University of the Arts London is committed to ensuring that your privacy is protected
 
@@ -31,6 +31,7 @@ The types of information which we may collect and process about you are:
   * Send you information about courses or other studies which we may make available to you and which we think could be of interest to you.
   * Send you details of any fundraising or other campaigns which we may run.
   * Send you promotional information about third parties we think you may find interesting.
+  * Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
 
 
 
@@ -78,8 +79,8 @@ We use our cookies to help us: 
   * Collect any personally identifiable information (without your express permission).
   * Pass data to advertising networks.
   * Pass personally identifiable data to third parties.
-  * YouTube - [Privacy Policy](https://web.archive.org/web/20140325022427id_/http://www.arts.ac.uk/privacy-and-cookies/%20http://www.google.com/intl/en/policies/privacy/)  powers some of the videos on our site.
-  * Google - [Privacy Policy](http://www.google.com/intl/en/policies/privacy) is used for Google map integration and analytics. To opt out of being tracked by Google Analytics across all websites [visit](http://tools.google.com/dlpage/gaoptout).
+  * YouTube - [Privacy Policy](https://www.youtube.com/static?&template=privacy_guidelines "YouTube Privacy Policy") powers some of the videos on our site.
+  * Google - [Privacy Policy](http://www.google.com/intl/en/policies/privacy) is used for Google map integration and analytics. We have enabled Demographics and Interests tracking with Universal Analytics. To opt out of being tracked by Google Analytics across all websites [visit](http://tools.google.com/dlpage/gaoptout).
   * Vimeo - [Privacy Policy](http://vimeo.com/privacy)
   * Wufoo - [Privacy Policy](http://www.wufoo.com/privacy)
   * Twitter - [Privacy Policy](https://twitter.com/privacy)
