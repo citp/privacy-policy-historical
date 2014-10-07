@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409230454id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007235537id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
