@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213034510id_/https%3A//kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007202555id_/https%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # The Kanetix.ca Privacy Policy
 
@@ -6,11 +6,11 @@ Your privacy and security
 
 **Our privacy pledge**
 
-Effective on June 10, 2013 
+Effective on March 14, 2014 
 
 Kanetix Ltd ("KANETIX")® believes in protecting the personal information that you provide us at www.kanetix.ca. We have made safe computing and the protection of your privacy an important priority. KANETIX provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent. 
 
-Kanetix Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us here at [contact KANETIX](http://www.kanetix.ca/about_generic_about_history). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site. 
+Kanetix Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us here at [contact KANETIX](https://www.kanetix.ca/about_generic_about_history). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site. 
 
 **Security**   
 Entering personal data on KANETIX is not only easy but also safe. KANETIX uses an Apache server with SSL (Secure Socket Layer) protocol, among the best Internet security software in the world, and Entrust.net certificates for securing the exchange of confidential data. This security technology encrypts the personal information that you send us (including things like names, addresses, emails and telephone numbers), so it cannot be read by anyone as it travels over the Internet. We will evaluate and adopt new security technology as it becomes available. 
@@ -19,7 +19,7 @@ You can find out when the secure SSL connection is activated by looking for the 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our website, you can [send us an email through our online form](http://www.kanetix.ca/about_generic_about_history). 
+If you have any questions about security on our website, you can [send us an email through our online form](https://www.kanetix.ca/about_generic_about_history). 
 
 **Cookies**   
 Cookies are small pieces of information stored on your hard drive. The only personal information that a cookie can contain is information supplied by the visitor and the cookies we use cannot read data off of our visitor's hard disk or read cookie files created by other websites. 
@@ -34,7 +34,7 @@ As is true of most Web sites, we and our third party tracking-utility partner to
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
 **Advertising**   
-We partner with a third party ad network to manage our advertising on other sites as well as within our site. Our ad network partner uses cookies to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests and your actions on our site. We do not have access or control over these cookies. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from KANETIX, you may not be able to use all the services available on the site. These cookies are not tied to your personal information. 
+We partner with a third party ad network to manage our advertising on other sites as well as within our site. Our ad network partner uses cookies to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests and your actions on our site. We do not have access or control over these cookies. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by [clicking here](http://www.networkadvertising.org/choices/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from KANETIX, you may not be able to use all the services available on the site. These cookies are not tied to your personal information. 
 
 **Collecting information**   
 We gather and store data about online usage on a collective rather than individual basis. For example, like most websites, we gather aggregate information about the number of visitors that visit our website and the pages that they view, NOT what pages were viewed by each individual. We use this information to anticipate bottlenecks, to gauge the capacity of our servers, and to improve the overall management of our website. 
@@ -54,7 +54,7 @@ Finally, you can log in to our site using sign-in services such as Facebook Conn
 At various points on the KANETIX website and when visitors contact KANETIX, visitors may be asked if they consent to sharing their personal information with our affiliates and / or 3rd parties. If they agree, KANETIX provides one or more affiliates and / or 3rd parties with their personal information for the purposes of either preparing or validating an insurance quote or providing marketing services as explicitly requested by the visitor. 
 
 **Email**   
-KANETIX will not accept transactions or instructions by Internet email messages. However, questions of a general nature or inquiries may be communicated by [submitting your question online](http://www.kanetix.ca/about_generic_about_history). 
+KANETIX will not accept transactions or instructions by Internet email messages. However, questions of a general nature or inquiries may be communicated by [submitting your question online](https://www.kanetix.ca/about_generic_about_history). 
 
 By submitting your question, comment or suggestion online the information you provide becomes the property of KANETIX. Where necessary, we may share the information you provide in your email with 3rd parties in order to address your question, comments or concerns. The content of your email may be used for any purpose and KANETIX is free to use any idea contained in it for any purpose whatsoever, including, but not limited to, developing, manufacturing and marketing products using such information. 
 
@@ -77,17 +77,17 @@ Some of our content is served on other pages using framing techniques to serve a
 Our select partners may also offer you the opportunity to opt-in to receiving information regarding their products and services. If you choose to receive these communications the information you provide is governed by their privacy policy. 
 
 **Service providers**   
-In some cases, we use third parties to provide the online quotes you receive on our site. The only information shared with the third party is the information required to provide you with an accurate quote. Depending on the type of quote you are seeking, this information may be comprised of one or more of the following: your age, gender, marital status, smoking status, driving, and insurance history. This information is only shared as necessary for the third party to provide you with an accurate quote. 
+In some cases, we use third parties to provide the online quotes you receive on our site or to assist us in advertising our services to you. With respect to the quotes you get, the only information shared with the third party is the information required to provide you with an accurate quote. Depending on the type of quote you are seeking, this information may be comprised of one or more of the following: your age, gender, marital status, smoking status, driving, and insurance history. This information is only shared as necessary for the third party to provide you with an accurate quote. 
 
 These third parties are prohibited from using your personal information for any other purpose. 
 
 **Testimonials**   
-We post customer testimonials on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please [contact us through our online form](http://www.kanetix.ca/about_generic_about_history). 
+We post customer testimonials on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please [contact us through our online form](https://www.kanetix.ca/about_generic_about_history). 
 
 **How can you change your personal information?**   
 You can change your username (email address) and password online in the 'My KANETIX' section of the site or you can update your personal information by calling us at 1 (888) 854-2503 or writing to us at [360 Adelaide Street West, Suite 100, Toronto, Ontario, M5V 1R7](https://plus.google.com/107465114783210030737/about?gl=CA&hl=en-CA). 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel, delete or remove your account, or request that we no longer use your information to provide you services [contact us through our online form](http://www.kanetix.ca/about_generic_about_history). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel, delete or remove your account, or request that we no longer use your information to provide you services [contact us through our online form](https://www.kanetix.ca/about_generic_about_history). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **For your protection**   
 Your password is your private, secret entry code to your account information at KANETIX. It is required when you first log in to view or to modify your saved information. Your password keeps your account information private and secure and you can change it as many times as you like. 
@@ -102,7 +102,7 @@ Another example in how you can opt out involves our newsletter or renewal remind
 You will be notified when your personal information is collected by any third party that is not our one of our service providers, so you can make an informed choice as to whether or not to share your information with that party. 
 
 **Public Forums**   
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us through our [online form](http://www.kanetix.ca/about_generic_about_history). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us through our [online form](https://www.kanetix.ca/about_generic_about_history). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 **Social Media Features and Widgets**   
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
@@ -125,7 +125,7 @@ In the event KANETIX goes through a business transition, such as a merger, acqui
 We are committed to providing excellent service to you. However, if you have a concern or complaint, please contact us, because we are also committed to working with you to achieve a resolution and following through to a successful conclusion as quickly as possible. In most cases, complaints are resolved simply by discussing it with us. You should be able to get swift results by:
 
   * calling one of our customer associates at 1 (888) 854-2503
-  * [sending us a question through our online form](http://www.kanetix.ca/about_generic_about_history) or,
+  * [sending us a question through our online form](https://www.kanetix.ca/about_generic_about_history) or,
   * writing to us at: 
 
 KANETIX  
