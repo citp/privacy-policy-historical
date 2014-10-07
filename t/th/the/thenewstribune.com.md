@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010021id_/http%3A//www.thenewstribune.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007202614id_/http%3A//www.thenewstribune.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # The News Tribune Tacoma, WA
 
