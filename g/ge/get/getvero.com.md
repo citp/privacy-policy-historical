@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getvero.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331070854id_/https%3A//www.getvero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getvero.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007030931id_/https%3A//www.getvero.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Vero
+# Privacy Policy
 
 #### Introduction
 
@@ -16,16 +16,13 @@ We gather various types of Personal Information from our users, as explained mor
 
 #### a. Information you provide to us:
 
-Your Personal Information: We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, and browser information. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
-
+Your Personal Information: We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, email address, and browser information. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.  
 Your Customers’ Personal Information: In order to provide you with the Services, we also receive and store any information you choose to provide us with in respect to your customers (“End User Customers”). The End User Customer information (“End User Customer Information”) we receive and store typically includes names and email addresses of your customers, but will consist of any information you choose to provide us with.
 
 #### b. Information collected automatically:
 
-Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Website are visited by you. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Website’s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.
-
-When you visit the Website, whether as a Vero customer or a non-registered user just browsing, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). For example, Log Data may include information such as your computer’s IP address, browser type or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics. We use this information to monitor and analyze use of the Website and the Services and for the Website’s technical administration, to increase our Website’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.
-
+Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Website are visited by you. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Website’s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.  
+When you visit the Website, whether as a Vero customer or a non-registered user just browsing, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). For example, Log Data may include information such as your computer’s IP address, browser type or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics. We use this information to monitor and analyze use of the Website and the Services and for the Website’s technical administration, to increase our Website’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  
 Additionally, as part of our provision of the Services to you, if you install certain software code provided by us on your website, we will also track and collect End User Customer usage information on your website. We also use third parties to collect publicly available information relating to your End User Customers. For more information on how we collect and compile End User Customer Information, please see Section IV below.
 
 #### c. E-mail and other communications:
@@ -58,21 +55,16 @@ Except as set forth above, you will be notified when your Personal Information m
 
 #### 5\. Is the personal information secure?
 
-Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
-
-We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. The transmission of information via the Internet is not completely secure. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
-
+Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.  
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. The transmission of information via the Internet is not completely secure. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.  
 The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
 #### 6\. What personal information can I access?
 
-Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
-
-Name and password   
-Email address   
-Company URL   
-
-
+Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:  
+Name and password  
+Email address  
+Company URL  
 The information you can view, update, and delete may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at support@getvero.com. Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: support@getvero.com.
 
 #### 7\. What choices do I have?
@@ -85,4 +77,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 #### 9\. Questions or concerns?
 
-[Email it to us](mailto:support@getvero.com) or give us a call on (415) 562 8376 
+Email it to us or give us a call on (415) 562 8376
