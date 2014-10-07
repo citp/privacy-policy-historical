@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cex.io privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215125037id_/https%3A//cex.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cex.io privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007172543id_/https%3A//cex.io/privacy) for the most accurate reproduction.*
 
-# CEX.io - Privacy
+# Privacy - CEX.IO
 
 ### General
 
@@ -96,15 +96,3 @@ Our Site policies, content, information, promotions, disclosures, disclaimers an
 If you have any questions, comments, or concerns regarding our Privacy Policy and/or practices as it or they relate to the Platform, please contact us at the following e-mail address, address and telephone number:
 
 E-Mail: [webmaster@cex.io](mailto:webmaster@cex.io)
-
-#### __Funding & Market
-
-No trade fee. Live Market Quotes, Instant Trades, Trade 24/7/365.
-
-#### __Service
-
-We provide professional service and responsive support. We work hard on the improvement of our service and security.
-
-#### __Exclusive
-
-We are the only exchange where you can trade GHS and BitFury chips.
