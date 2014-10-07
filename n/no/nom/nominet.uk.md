@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nominet.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210022002id_/http%3A//www.nominet.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007100451id_/http%3A//www.nominet.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nominet
 
@@ -24,11 +24,11 @@ We use analytics, which collects information about your computer, such as IP add
 
 ### Analysing .uk domain name usage
 
-So we can monitor usage of .uk domains, and following a short trial towards the end of 2012, Nominet collects data, on a regular basis, on whether .uk domain names resolve, where they are hosted, whether they are used for email and whether a web site is in place. As part of this, we collect information about the landing page of your website so that we can categorise the website type (e.g. blog, parking page etc). We do not collect any more information than we would if we visited the landing page via a browser.
+So we can monitor usage of .uk domains, Nominet collects data, on a regular basis, on whether .uk domain names resolve, where they are hosted, whether they are used for email and whether a web site is in place. As part of this, we collect information about the landing page of your website so that we can categorise the website type (e.g. blog, parking page etc). We may also check whether there is a matching domain name in a different top level domain (e.g. .com), and collect similar information about them in order to see how they differ from the.uk domain name. In each case, when we visit a website, we do not collect any more information than we would if we visited the landing page via a browser.
 
 The information we gather is used to help Nominet better understand the .uk market and identify changes over time. To keep bandwidth to a minimum, only the landing page of a web site is visited and we will restrict the number of times we visit websites which use the same IP address. Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
 
-If you want to, you can stop us from collecting data about your website by using a "robots.txt" file. You can find more information about "robots.txt" files [here](http://www.robotstxt.org/robotstxt.html). 
+If you want to, you can stop us from collecting data about your website(s) by using a "robots.txt" file. You can find more information about "robots.txt" files [here](http://www.robotstxt.org/robotstxt.html)
 
 ### Where we store your personal data
 
