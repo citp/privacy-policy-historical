@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603212531id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007051541id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com | Privacy Policy & Security Statement
 
@@ -85,11 +85,11 @@ Video guides, travel podcasts, city maps & free city guides. What to eat, where 
 
 [Find a guide »](http://www.hostels.com/d/guides "Find a travel guide")
 
-##### [Latest Blog Post](http://www.hostels.com/d/blog/guest-bloggers/10-ways-backpackers-can-save-money-with-food/)
+##### [Latest Blog Post](http://www.hostels.com/d/blog/travel-tips/how-to-pack-for-any-length-trip/)
 
-My personal definition of a backpacker is not someone who carries a backpack, but someone who just wants to save money to travel longer.
+A badly packed suitcase (or backpack) can leave you with a headache regardless of the trip length. With a few key tips and a concise packing list, you can be sure to leave the hassle of packing behind. Don't put a damper on your travel just because you didn't pack well!
 
-[Read more »](http://www.hostels.com/d/blog/guest-bloggers/10-ways-backpackers-can-save-money-with-food/ "Latest blog post")
+[Read more »](http://www.hostels.com/d/blog/travel-tips/how-to-pack-for-any-length-trip/ "Latest blog post")
 
 ##### [Great Value and Choice](http://www.hostels.com/hostel.menu.html)
 
