@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irbsevens.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192110id_/http%3A//www.irbsevens.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irbsevens.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007223620id_/http%3A//www.irbsevens.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Official HSBC Sevens World Series
 
