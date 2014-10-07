@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420070150id_/http%3A//nationalpriorities.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007192026id_/https%3A//www.nationalpriorities.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Nationalpriorities.org is committed to protecting the privacy and security of visitors to our website. Nationalpriorities.org does not collect personal information when you visit our website unless you choose to provide that information.  Outlined below is the NPP online privacy policy. If you have questions about this policy, [ please let us know ](http://nationalpriorities.org/about/contact/).
+Nationalpriorities.org is committed to protecting the privacy and security of visitors to our website. Nationalpriorities.org does not collect personal information when you visit our website unless you choose to provide that information.  Outlined below is the NPP online privacy policy. If you have questions about this policy, [ please let us know ](https://www.nationalpriorities.org/about/contact/).
 
 ## At a Glance
 
