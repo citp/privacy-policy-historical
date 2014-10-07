@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the idropnews.com privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105074141id_/http%3A//www.idropnews.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idropnews.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007231455id_/http%3A//www.idropnews.com/privacypolicy.html) for the most accurate reproduction.*
 
 # iDrop
 
-## [Privacy Policy](https://web.archive.org/web/20140105074141id_/http%3A//www.idropnews.com/index.html)
+## [Privacy Policy](https://web.archive.org/web/20141007231455id_/http%3A//www.idropnews.com/index.html)
 
 iDrop will never sell our integrity. Just as importantly, we will never rent, share, or sell our subscriber list. We appreciate you letting us into your email, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy. The policy below describes how we treat the information we collect when you visit our site and/or register for iDrop. Please read this carefully. There will not be a test, but it's still important. 
 
