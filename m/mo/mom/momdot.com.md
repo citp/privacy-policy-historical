@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momdot.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042832id_/http%3A//www.momdot.com/mombloggingmedia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momdot.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007035333id_/http%3A//www.momdot.com/mombloggingmedia/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - MomDot
 
 This is the web site of **MomDot**.
 
