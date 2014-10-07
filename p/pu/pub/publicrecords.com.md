@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecords.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528002215id_/http%3A//www.publicrecords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecords.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007072339id_/https%3A//www.publicrecords.com/privacy) for the most accurate reproduction.*
 
 # Public Records | Privacy Policy | PublicRecords.com
 
