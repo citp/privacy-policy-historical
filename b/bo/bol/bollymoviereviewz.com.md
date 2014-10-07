@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollymoviereviewz.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016065311id_/http%3A//www.bollymoviereviewz.com/2008/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollymoviereviewz.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007161653id_/http%3A//www.bollymoviereviewz.com/2008/10/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Rajeev Masand|Taran Adarsh|Anupama Chopra|Komal Nahta|Raja Sen|Sukanya Verma|Shubhra Gupta|Times of India|Rediff|NDTV|IMDB|IBNBollymoviereviewz
+# Privacy Policy |Rajeev Masand|Taran Adarsh|Anupama Chopra|Komal Nahta|Raja Sen|Times of India|Rediff|NDTV|IMDB|IBNBollymoviereviewz
 
 **Privacy Policy for http://Bollymoviereviewz.com/**  
 
@@ -17,10 +17,14 @@ http://bollymoviereviewz.com/ does not use cookies. 
 **DoubleClick DART Cookie**    
 .:: Google, as a third party vendor, uses cookies to serve ads on http://bollymoviereviewz.com/.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to http://bollymoviereviewz.com/ and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
+Users may also opt out of tracking from criteo via  
+http://www.criteo.com/privacy/  
+users may optout of sovrn via  
+http://info.evidon.com/pub_info/2672?v=1&nt=0&nw=false
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense
+Google Adsense,Criteo, Sovrn
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://bollymoviereviewz.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
