@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210001217id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007210227id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animals Zone
 
-**Privacy Policy** ****
+**Privacy Policy**
 
-This privacy statement covers all websites of [Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”). At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access our **** sites. **By using the Services you agree to the terms of this Privacy Policy.**
+This privacy statement covers all websites of [Dreamattic S.A.](http://www.dreamattic.com/) (“Dreamattic”). At Dreamattic, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit websites and services (“Services”) published by Dreamattic and how we safeguard your information. Please read this statement carefully before proceeding to access oursites. **By using the Services you agree to the terms of this Privacy Policy.**
 
 **We never sell your personal information to third parties.**
 
-**Information we collect** ****
+**Information we collect**
 
 Dreamattic is the sole owner of the information collected on its websites. Dreamattic may collect information from our users at several different points:
 
@@ -32,13 +32,13 @@ By setting a cookie on one of Dreamattic sites, users will not have to log in a 
 
 **Comments**
 
-Dreamattic allows readers to post comments to our online content. Under the Digital Millennium Copyright Act, comments are the sole responsibility of the individual commenters. Dreamattic reserves the right to delete any comments that include hate speech, libel, plagiarism, threats, personal attacks or off-topic assertions, and inappropriate language in order to protect the integrity of the site and its users. We do not edit comments for content.   ****
+Dreamattic allows readers to post comments to our online content. Under the Digital Millennium Copyright Act, comments are the sole responsibility of the individual commenters. Dreamattic reserves the right to delete any comments that include hate speech, libel, plagiarism, threats, personal attacks or off-topic assertions, and inappropriate language in order to protect the integrity of the site and its users. We do not edit comments for content.
 
 **Third party links  **
 
 Dreamattic sites contain links to other sites. Please be aware that Dreamattic is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Dreamattic.
 
-**Third Party Advertising** **and Cookies** ****
+**Third Party Advertising** **and Cookies**
 
 Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. Dreamattic has no access to or control over these cookies once we have given permission for them to set cookies for advertising. These advertisers may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC. This privacy statement covers the use of cookies by Dreamattic and does not cover the use of cookies by any advertisers.
 
