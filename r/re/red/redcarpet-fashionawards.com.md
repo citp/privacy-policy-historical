@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redcarpet-fashionawards.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213145627id_/http%3A//www.redcarpet-fashionawards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcarpet-fashionawards.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007072341id_/http%3A//www.redcarpet-fashionawards.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Red Carpet Fashion Awards
+# Privacy Policy - Red Carpet Fashion Awards
 
 This statement covers the website [Red Carpet Fashion Awards](http://www.redcarpet-fashionawards.com/). Please read this statement carefully before accessing Red Carpet Fashion Awards. Your use of Red Carpet Fashion Awards indicates your agreement to abide by the terms in effect.
 
@@ -14,22 +14,25 @@ In order to enhance their use of this website, users can choose to leave comment
 Some of our business partners may use cookies on our site (for example, advertisers). However, Red Carpet Fashion Awards has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
 **Third Party Advertising**  
-The advertisements appearing on Red Carpet Fashion Awards are delivered to users by Google, among other services. Information about usersâ€™ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. No personal information about our users is ever transferred to any party by Red Carpet Fashion Awards.
+The advertisements appearing on Red Carpet Fashion Awards are delivered to users by Google, among other services. Information about users visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. No personal information about our users is ever transferred to any party by Red Carpet Fashion Awards.
 
 **Log Files**  
-Like most standard website servers we make use of log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the website, track userâ€™s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+Like most standard website servers we make use of log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the website, track users movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
 **Legal Disclaimer**  
 Though we make every effort to preserve user privacy, Red Carpet Fashion Awards may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
 
 **Business Transitions**  
-In the event Red Carpet Fashion Awards goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, usersâ€™ personal information will, in most instances, be part of the assets transferred.
+In the event Red Carpet Fashion Awards goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, users personal information will, in most instances, be part of the assets transferred.
 
 **Links**  
 Red Carpet Fashion Awards contains links to other websites. Please be aware that Red Carpet Fashion Awards is not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our website to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Red Carpet Fashion Awards.
 
 **Notification of Changes**  
 Whenever Red Carpet Fashion Awards changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+**Notice Regarding Online Behavioral Advertising**  
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/). 
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please do not hesitate to contact us at [Red Carpet Fashion Awards](mailto:catherine@redcarpet-fashionawards.com).
