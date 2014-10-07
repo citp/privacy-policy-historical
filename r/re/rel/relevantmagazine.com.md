@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213142245id_/http%3A//www.relevantmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007080925id_/http%3A//www.relevantmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RELEVANT Magazine
 
@@ -41,7 +41,6 @@ the visitor's Internet service provider. We also use Demographics and Interest R
 
  **II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**
 
-  
 RELEVANT uses this information to provide you with the service you have  
 requested. For instance, if you subscribe to any of our publications we  
 may use your e-mail address to send you a confirmation notice and your  
@@ -115,4 +114,4 @@ Fax: (407) 401-9100
 
 Email: [webmaster@relevantmagazine.com](mailto:%20webmaster@relevantmagazine.com)
 
-© 2010 RELEVANT Media Group, Inc.
+© 2014 RELEVANT Media Group, Inc.
