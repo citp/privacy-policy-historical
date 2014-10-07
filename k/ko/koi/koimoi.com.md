@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223110824id_/http%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007142102id_/http%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,6 @@ We also cannot warrant the security of the information, which you transmit to us
 
 We categorise information about you (collectively referred to as “Personal Information”) as follows:
 
-  * Profiling Information: Information which you provide when you Subscribe or register for a Service.
   * Information about your personal identity such as gender, age, etc.
   * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
   * Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
@@ -20,6 +19,18 @@ We categorise information about you (collectively referred to as “Personal Inf
   * Correspondence Information: Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, comments, blog, chat room and discussion board communications, instant message communications, experts forum communications, contests and entries, faxmail communications, membership of mailing lists, etc.
   * User IDs: Your usernames, nicknames, passwords, email addresses and other security-related information used by you in relation to our Services.
   * Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
+  * Profiling Information: 
+
+(i) Information which you provide when you Subscribe or register for a Service:
+
+    * Information about your personal identity such as gender, age, etc.;
+    * Your financial information such as your banking details and any information relating to your income and lifestyle levels (if requested and provided); and
+    * Your contact details such as your physical addresses, postal addresses, telephone, mobile and fax numbers and the like (if requested and provided).
+    * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history, etc (if requested and provided). We maintain this in encrypted form on secure servers
+
+(ii) Information from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics:  
+\- We use Google Analytics tracking code to track our site’s traffic. This code also supports Display Advertising. The Google Analytics features include Google Analytics Demographics and Interest Reporting that we have implemented based on Display Advertising.
+
 
 
 
@@ -80,6 +91,8 @@ In order to ensure that all our Users comply with the User Rules, we may monitor
 
 To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.
 
-We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties.
+We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.
+
+Using the Google Ads Settings <https://www.google.com/settings/ads>, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also opt-out by downloading and installing the Google Analytics Opt-out Browser Add-on [https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/) for your web browser.
 
 In addition to the general limitations in the above terms, we will not be liable to you or any other third party for any damages suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement.
