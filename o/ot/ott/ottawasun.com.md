@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottawasun.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209034448id_/http%3A//www.ottawasun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottawasun.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007232036id_/http%3A//www.ottawasun.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Ottawa Sun
 
