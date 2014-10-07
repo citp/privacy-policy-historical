@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013450id_/https%3A//www.payza.com/legal-agreements/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008015421id_/https%3A//payza.com/legal-agreements/online-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Protected & Secure Accounts
 
