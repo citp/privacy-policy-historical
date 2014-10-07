@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starsall.net privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621004030id_/http%3A//starsall.net/%3Fpage_id%3D717) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsall.net privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007234057id_/http%3A//starsall.net/%3Fpage_id%3D717) for the most accurate reproduction.*
 
 # StarsAll Privacy Policy - StarsAll
 
