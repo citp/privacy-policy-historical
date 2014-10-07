@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the auditnet.org privacy policy that was archived on 2014-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328194845id_/http%3A//www.auditnet.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auditnet.org privacy policy that was archived on 2014-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141007110155id_/http%3A//www.auditnet.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   <meta charset="utf-8">
   <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
   <title>Contact - Privacy Policy - AuditNet</title>
       <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="By+Ui0hvP8PjDzQODGx7V/08NuQV6ojzcnIUwDEIviA=">  
+<meta name="csrf-token" content="Y+nuw6I/dBEeToyzVJYW8t5pVoFoGqhfH3f3fU70TLs=">  
 
   <link href="/stylesheets/cache/application.css?1370874021" media="screen" rel="stylesheet" type="text/css">
   
 
-  <link href="/stylesheets/message.css?1396013294" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/message.css?1412676434" media="screen" rel="stylesheet" type="text/css">
   
 
 <script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=007644915406193525012:qwn3br0spdq"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
@@ -30,7 +30,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
   <script src="/javascripts/modernizr-min.js" type="text/javascript"></script>
 <script>
-    var total_slide_image = "0";
+    var total_slide_image = "1";
 	var image_arr = new Image();
 	var imagetext_arr = new Image();
 	for(var i = 0; i < total_slide_image; i++){
@@ -127,8 +127,111 @@ onload = setBorder;
 
   <body>
 <div>
-<div style="margin:7px 0 2px 0"><script src="/javascripts/jquery.js?1396013294" type="text/javascript"></script>
-<script src="/javascripts/jquery_ujs.js?1396013294" type="text/javascript"></script>
+<div style="margin:7px 0 2px 0"><script src="/javascripts/jquery.js?1412676434" type="text/javascript"></script>
+<script src="/javascripts/jquery_ujs.js?1412676434" type="text/javascript"></script>
+<style>
+.fl{float:left}
+.cover
+{
+	background:#fff;
+	min-height: 250px;
+	height:auto;
+	margin: 0 auto;
+	width:600px;
+	display:none;
+	position:absolute; 
+	left:0px;
+	right:0px;
+	top:150px;
+	z-index:999;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+.cover_term{
+	background:#fff;
+	min-height: 250px;
+	height:auto;
+	margin: 0 auto;
+	width:900px;
+	display:none;
+	position:absolute; 
+	left:0px;
+	right:0px;
+	top:150px;
+	z-index:999;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	padding:10px 20px 20px 20px;
+}
+#overlay
+{
+	position:fixed;
+	top:0;
+	bottom:0; 
+	left:0;
+	right:0; 
+	opacity:0.7;
+	display:none;
+	background:none repeat scroll 0 0 #333333;
+	z-index:1;
+}
+#terms
+{
+	position:fixed;
+	top:0;
+	bottom:0; 
+	left:0;
+	right:0; 
+	opacity:0.7;
+	display:none;
+	background:none repeat scroll 0 0 #333333;
+	z-index:1;
+}
+
+.cl
+{
+	text-align: right;
+	padding-right: 15px;
+    padding-top: 15px;
+}
+.rt
+{	
+	padding-top:10px;
+	float:right;
+}
+.close_pop_tm{
+	position:absolute;
+	right:-10px;
+	top:-10px
+}
+
+</style>
+
+<script type="text/javascript">
+  function popup_show(){
+    clear_all_fields();
+    document.getElementById('terms').style.display = "block";
+    document.getElementById('terms_add').style.display = "block";
+    };
+  function popup_close(){
+    document.getElementById('terms_add').style.display = "none";
+    document.getElementById('terms').style.display = "none";
+    clear_all_fields();
+    };
+  function clear_all_fields()
+  {
+    $("#msg").html("");
+    $("#email").val("");
+    $("#first_name").val("");
+    $("#last_name").val("");
+    $("#company").val("");
+    $("#captcha").val("");
+    $("#position").val("");
+    $("#news_sub_country_id").val("");
+  }
+</script>
 <script type="text/javascript">
 function open_popup(obj){
 		if($(".popup").css('display') == 'none'){
@@ -154,19 +257,410 @@ function open_popup(obj){
 
 <div class="login2" style="margin-right: 0px;"> 
 <strong>
+<a href="javascript:void(0)" onclick="popup_show();">Subscribe To NewsLetter</a>
+    &nbsp;<b style="color:#3a6697">|</b>&nbsp;
     <a href="/members/login">Log in</a>
     &nbsp;<b style="color:#3a6697">|</b>&nbsp;
     <a href="/members/new"><b>Register</b></a>
 </strong>
 </div>
 </div>
+<div id="terms"></div>
+    <div class="cover_term" id="terms_add" style="margin-top:-95px;width:500px;">
+       <div class="head" style="width:94%;">Subscribe for NewsLetters</div>    
+        <div class="cb"></div>
+        <div class="lt" style="color:#000; ">		
+		<div class="close_pop_tm" style="right: 2px;top: 2px;"><img src="/images/clse.png" style="cursor:pointer;" onclick="popup_close();"></div>		
+		  <div id="accordion-container">
+
+			 <div class="accordion-content" id="show_emails">
+			  
+			   
+			  </div>
+			
+		  </div>
+       <div id="msg" style="text-align:center;margin-top:5px;"></div>
+      <form accept-charset="UTF-8" action="/save_news_subscribe" id="nn" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Y+nuw6I/dBEeToyzVJYW8t5pVoFoGqhfH3f3fU70TLs="></div> 
+        <table cellspacing="10" style="align:center;">
+         <tbody><tr>
+          <td>
+           Email:&nbsp;*
+          </td>
+          <td>
+          <input class="txt_bx" id="email" name="email" required="required" type="email" value="">&nbsp;
+          </td>
+         </tr>
+         
+         <tr>
+           <td>
+            First Name:&nbsp;*
+           </td>
+           <td>
+            <input class="txt_bx" id="first_name" name="first_name" required="required" style="width:135px;" type="text" value="">&nbsp;
+            Last Name:
+            <input class="txt_bx" id="last_name" name="last_name" style="width:135px;" type="text" value="">&nbsp;
+           </td>
+         </tr>
+         
+         <tr>
+          <td>
+           Organization:
+
+          </td>
+          <td>
+           <input class="txt_bx" id="company" name="company" style="width:135px;" type="text" value="">&nbsp;
+           Position:
+           &nbsp;&nbsp;&nbsp;&nbsp;<input class="txt_bx" id="position" name="position" style="width:135px;" type="text" value="">&nbsp;
+
+          </td>
+         </tr>
+
+         <tr>
+          <td>
+           Country:
+
+          </td>
+          <td>
+           <select class="txt_bx" id="news_sub_country_id" name="news_sub[country_id]"><option value=""></option>
+<option value="AF">Afghanistan</option>
+<option value="AX">Aland Islands</option>
+<option value="AL">Albania</option>
+<option value="DZ">Algeria</option>
+<option value="AS">American Samoa</option>
+<option value="AD">Andorra</option>
+<option value="AO">Angola</option>
+<option value="AI">Anguilla</option>
+<option value="AQ">Antarctica</option>
+<option value="AG">Antigua and Barbuda</option>
+<option value="AR">Argentina</option>
+<option value="AM">Armenia</option>
+<option value="AW">Aruba</option>
+<option value="AU">Australia</option>
+<option value="AT">Austria</option>
+<option value="AZ">Azerbaijan</option>
+<option value="BS">Bahamas</option>
+<option value="BH">Bahrain</option>
+<option value="BD">Bangladesh</option>
+<option value="BB">Barbados</option>
+<option value="BY">Belarus</option>
+<option value="BE">Belgium</option>
+<option value="BZ">Belize</option>
+<option value="BJ">Benin</option>
+<option value="BM">Bermuda</option>
+<option value="BT">Bhutan</option>
+<option value="BO">Bolivia, Plurinational State of</option>
+<option value="BA">Bosnia and Herzegovina</option>
+<option value="BW">Botswana</option>
+<option value="BV">Bouvet Island</option>
+<option value="BR">Brazil</option>
+<option value="IO">British Indian Ocean Territory</option>
+<option value="BN">Brunei Darussalam</option>
+<option value="BG">Bulgaria</option>
+<option value="BF">Burkina Faso</option>
+<option value="BI">Burundi</option>
+<option value="KH">Cambodia</option>
+<option value="CM">Cameroon</option>
+<option value="CA">Canada</option>
+<option value="CV">Cape Verde</option>
+<option value="KY">Cayman Islands</option>
+<option value="CF">Central African Republic</option>
+<option value="TD">Chad</option>
+<option value="CL">Chile</option>
+<option value="CN">China</option>
+<option value="CX">Christmas Island</option>
+<option value="CC">Cocos (Keeling); Islands</option>
+<option value="CO">Colombia</option>
+<option value="KM">Comoros</option>
+<option value="CG">Congo</option>
+<option value="CD">Congo, Democratic Republic of the</option>
+<option value="CK">Cook Islands</option>
+<option value="CR">Costa Rica</option>
+<option value="CI">Cote d'Ivoire ? Côte d'Ivoire</option>
+<option value="HR">Croatia</option>
+<option value="CU">Cuba</option>
+<option value="CY">Cyprus</option>
+<option value="CZ">Czech Republic</option>
+<option value="DK">Denmark</option>
+<option value="DJ">Djibouti</option>
+<option value="DM">Dominica</option>
+<option value="DO">Dominican Republic</option>
+<option value="EC">Ecuador</option>
+<option value="EG">Egypt</option>
+<option value="SV">El Salvador</option>
+<option value="GQ">Equatorial Guinea</option>
+<option value="ER">Eritrea</option>
+<option value="EE">Estonia</option>
+<option value="ET">Ethiopia</option>
+<option value="FK">Falkland Islands (Malvinas);</option>
+<option value="FO">Faroe Islands</option>
+<option value="FJ">Fiji</option>
+<option value="FI">Finland</option>
+<option value="FR">France</option>
+<option value="GF">French Guiana</option>
+<option value="PF">French Polynesia</option>
+<option value="TF">French Southern Territories</option>
+<option value="GA">Gabon</option>
+<option value="GM">Gambia</option>
+<option value="GE">Georgia</option>
+<option value="DE">Germany</option>
+<option value="GH">Ghana</option>
+<option value="GI">Gibraltar</option>
+<option value="GR">Greece</option>
+<option value="GL">Greenland</option>
+<option value="GD">Grenada</option>
+<option value="GP">Guadeloupe</option>
+<option value="GU">Guam</option>
+<option value="GT">Guatemala</option>
+<option value="GG">Guernsey</option>
+<option value="GN">Guinea</option>
+<option value="GW">Guinea-Bissau</option>
+<option value="GY">Guyana</option>
+<option value="HT">Haiti</option>
+<option value="HM">Heard Island and McDonald Islands</option>
+<option value="VA">Holy See (Vatican City State);</option>
+<option value="HN">Honduras</option>
+<option value="HK">Hong Kong</option>
+<option value="HU">Hungary</option>
+<option value="IS">Iceland</option>
+<option value="IN">India</option>
+<option value="ID">Indonesia</option>
+<option value="IR">Iran, Islamic Republic of</option>
+<option value="IQ">Iraq</option>
+<option value="IE">Ireland</option>
+<option value="IM">Isle of Man</option>
+<option value="IL">Israel</option>
+<option value="IT">Italy</option>
+<option value="JM">Jamaica</option>
+<option value="JP">Japan</option>
+<option value="JE">Jersey</option>
+<option value="JO">Jordan</option>
+<option value="KZ">Kazakhstan</option>
+<option value="KE">Kenya</option>
+<option value="KI">Kiribati</option>
+<option value="KP">Korea, Democratic People's Republic of</option>
+<option value="KR">Korea, Republic of</option>
+<option value="KW">Kuwait</option>
+<option value="KG">Kyrgyzstan</option>
+<option value="LA">Lao People's Democratic Republic</option>
+<option value="LV">Latvia</option>
+<option value="LB">Lebanon</option>
+<option value="LS">Lesotho</option>
+<option value="LR">Liberia</option>
+<option value="LY">Libyan Arab Jamahiriya</option>
+<option value="LI">Liechtenstein</option>
+<option value="LT">Lithuania</option>
+<option value="LU">Luxembourg</option>
+<option value="MO">Macao</option>
+<option value="MK">Macedonia, the former Yugoslav Republic of</option>
+<option value="MG">Madagascar</option>
+<option value="MW">Malawi</option>
+<option value="MY">Malaysia</option>
+<option value="MV">Maldives</option>
+<option value="ML">Mali</option>
+<option value="MT">Malta</option>
+<option value="MH">Marshall Islands</option>
+<option value="MQ">Martinique</option>
+<option value="MR">Mauritania</option>
+<option value="MU">Mauritius</option>
+<option value="YT">Mayotte</option>
+<option value="MX">Mexico</option>
+<option value="FM">Micronesia, Federated States of</option>
+<option value="MD">Moldova, Republic of</option>
+<option value="MC">Monaco</option>
+<option value="MN">Mongolia</option>
+<option value="ME">Montenegro</option>
+<option value="MS">Montserrat</option>
+<option value="MA">Morocco</option>
+<option value="MZ">Mozambique</option>
+<option value="MM">Myanmar</option>
+<option value="NA">Namibia</option>
+<option value="NR">Nauru</option>
+<option value="NP">Nepal</option>
+<option value="NL">Netherlands</option>
+<option value="AN">Netherlands Antilles</option>
+<option value="NC">New Caledonia</option>
+<option value="NZ">New Zealand</option>
+<option value="NI">Nicaragua</option>
+<option value="NE">Niger</option>
+<option value="NG">Nigeria</option>
+<option value="NU">Niue</option>
+<option value="NF">Norfolk Island</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="NO">Norway</option>
+<option value="OM">Oman</option>
+<option value="PK">Pakistan</option>
+<option value="PW">Palau</option>
+<option value="PS">Palestinian Territory, Occupied</option>
+<option value="PA">Panama</option>
+<option value="PG">Papua New Guinea</option>
+<option value="PY">Paraguay</option>
+<option value="PE">Peru</option>
+<option value="PH">Philippines</option>
+<option value="PN">Pitcairn</option>
+<option value="PL">Poland</option>
+<option value="PT">Portugal</option>
+<option value="PR">Puerto Rico</option>
+<option value="QA">Qatar</option>
+<option value="RE">Reunion ? Réunion</option>
+<option value="RO">Romania</option>
+<option value="RU">Russian Federation</option>
+<option value="RW">Rwanda</option>
+<option value="BL">Saint Barthélemy</option>
+<option value="SH">Saint Helena</option>
+<option value="KN">Saint Kitts and Nevis</option>
+<option value="LC">Saint Lucia</option>
+<option value="MF">Saint Martin (French part);</option>
+<option value="PM">Saint Pierre and Miquelon</option>
+<option value="VC">Saint Vincent and the Grenadines</option>
+<option value="WS">Samoa</option>
+<option value="SM">San Marino</option>
+<option value="ST">Sao Tome and Principe</option>
+<option value="SA">Saudi Arabia</option>
+<option value="SN">Senegal</option>
+<option value="RS">Serbia</option>
+<option value="SC">Seychelles</option>
+<option value="SL">Sierra Leone</option>
+<option value="SG">Singapore</option>
+<option value="SK">Slovakia</option>
+<option value="SI">Slovenia</option>
+<option value="SB">Solomon Islands</option>
+<option value="SO">Somalia</option>
+<option value="ZA">South Africa</option>
+<option value="GS">South Georgia and the South Sandwich Islands</option>
+<option value="ES">Spain</option>
+<option value="LK">Sri Lanka</option>
+<option value="SD">Sudan</option>
+<option value="SR">Suricountry_name</option>
+<option value="SJ">Svalbard and Jan Mayen</option>
+<option value="SZ">Swaziland</option>
+<option value="SE">Sweden</option>
+<option value="CH">Switzerland</option>
+<option value="SY">Syrian Arab Republic</option>
+<option value="TW">Taiwan, Province of China</option>
+<option value="TJ">Tajikistan</option>
+<option value="TZ">Tanzania, United Republic of</option>
+<option value="TH">Thailand</option>
+<option value="TL">Timor-Leste</option>
+<option value="TG">Togo</option>
+<option value="TK">Tokelau</option>
+<option value="TO">Tonga</option>
+<option value="TT">Trinidad and Tobago</option>
+<option value="TN">Tunisia</option>
+<option value="TR">Turkey</option>
+<option value="TM">Turkmenistan</option>
+<option value="TC">Turks and Caicos Islands</option>
+<option value="TV">Tuvalu</option>
+<option value="UG">Uganda</option>
+<option value="UA">Ukraine</option>
+<option value="AE">United Arab Emirates</option>
+<option value="GB">United Kingdom</option>
+<option value="US">United States</option>
+<option value="UM">United States Minor Outlying Islands</option>
+<option value="UY">Uruguay</option>
+<option value="UZ">Uzbekistan</option>
+<option value="VU">Vanuatu</option>
+<option value="VE">Venezuela, Bolivarian Republic of</option>
+<option value="VN">Viet Nam</option>
+<option value="VG">Virgin Islands, British</option>
+<option value="VI">Virgin Islands, U.S.</option>
+<option value="WF">Wallis and Futuna</option>
+<option value="EH">Western Sahara</option>
+<option value="YE">Yemen</option>
+<option value="ZM">Zambia</option>
+<option value="ZW">Zimbabwe</option></select>
+
+          </td>
+         </tr>
+         <tr>
+          <td>
+            Enter Captcha:*
+          </td>
+          <td>
+           <div class="simple_captcha">
+  <div class="simple_captcha_image">
+    <img src="/simple_captcha?code=c1847f3bcfe003ff0afa13042674e1661de13661&amp;time=1412679715" alt="captcha">
+  </div>
+  
+  <div class="simple_captcha_field">
+    <input autocomplete="off" id="captcha" name="captcha" type="text">
+  </div>
 </div>
+
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2">
+            <button id="news_sub_btn" type="button" class="btn_submit" style="margin-left:103px;" onclick="sub()">Subscribe</button>
+          </td>
+         </tr>
+        </tbody></table>
+</form>         </div>  
+    </div>
+<script>
+ function sub()
+ {
+  $('#news_sub_btn').prop("disabled", true).html("Please wait...");
+  var posturl= "/save_news_subscribe";
+  var email = $("#email").val();
+  var f_name = $("#first_name").val();
+  var l_name = $("#last_name").val();
+  var comp = $("#company").val();
+  var pos = $("#position").val();
+  var con = $("#news_sub_country_id").val();
+  var captcha = $("#captcha").val();
+  var qstring= "?email="+email+"&f_name="+f_name+"&l_name="+l_name+"&comp="+comp+"&cap="+captcha+"&pos="+pos+"&con="+con;
+ if(email != "" && f_name != "" && captcha != ""){
+ 
+  var atpos=email.indexOf("@");
+  var dotpos=email.lastIndexOf(".");
+  if (email != '' && (atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length))
+  {
+   $('#msg').html('');
+   $('#msg').html('<span style="color:red;">Invalid Email</span>');
+   $('#news_sub_btn').removeAttr("disabled").html("Subscribe");
+  }
+  else{
+   $.ajax( {
+        type: "POST",
+        url: posturl + qstring,
+        success: function(result){
+          
+          if(result == "error")
+          {
+           $('#msg').html('<span style="color:red;">Invalid Captcha</span>');
+          }
+          else if(result == "email_present")
+          {
+           $('#msg').html('');
+           $('#msg').html('<span style="color:red;">Email id already exists</span>');
+           $('#news_sub_btn').removeAttr("disabled").html("Subscribe");
+          } 
+          else
+          {
+           $('#news_sub_btn').removeAttr("disabled").html("Subscribe");
+           $('#msg').html('');
+           $('#msg').html('<span style="color:green;">Successfully subscribed</span>');
+           location.reload();
+          }
+          $('#news_sub_btn').removeAttr("disabled").html("Subscribe");
+        }
+      });
+     }
+   }
+   else
+   {
+    $('#msg').html('');
+    $('#msg').html('<span style="color:red;">* mark fields are mandatory</span>');
+    $('#news_sub_btn').removeAttr("disabled").html("Subscribe");
+   }
+ }
+</script> </div>
 	<div style="clear:both"></div>
     	</div>
       	<div id="container">
 	<div id="left" class="fl">
 	       	<div class="logo">
-  <a href="/"><img alt="Auditnet_logo1" src="/images/auditnet_logo1.png?1396013294"></a>
+  <a href="/"><img alt="Auditnet_logo1" src="/images/auditnet_logo1.png?1412676434"></a>
 </div>
 
 <nav id="menu" class="menu clearfix">
@@ -209,6 +703,8 @@ function open_popup(obj){
   <a href="/contact">Contact</a></li>
 <li class="selected" id="item_18">
   <a href="/privacy-policy">Privacy Policy</a></li>
+<li id="item_19">
+  <a href="/review-our-site">Review our Site</a></li>
    
   </ul>
 </nav>
@@ -224,7 +720,10 @@ function open_popup(obj){
 			       <a href="http://www.teammatesolutions.com/am.aspx?WT.mc_id=AM-AN14016-41699" target="_blank"><img alt="Aman14016" height="60" src="/system/images/BAhbBlsHOgZmSSIpMjAxNC8wMy8yMC8xMC8yMS8xMi82Ni9BTUFOMTQwMTYuanBnBjoGRVQ/AMAN14016.jpg" width="468"></a>
 				</div>
 				<div style="float:left;padding:1px;">
-			       <a href="http://info.accelus.thomsonreuters.com/AuditNetAuditRiskAssessmentWhitepaper1403BNR" target="_blank"><img alt="Audit Risk Assessment Wp2014" height="60" src="/system/images/BAhbBlsHOgZmSSI6MjAxNC8wMy8wNC8yMS8yNC8xNy8xNTEvQXVkaXRSaXNrQXNzZXNzbWVudFdQMjAxNC5naWYGOgZFVA/AuditRiskAssessmentWP2014.gif" width="468"></a>
+			       <a href="http://info.accelus.thomsonreuters.com/AuditNetWebThirdLineofDefenseResources1410" target="_blank"><img alt="Third Line Of Defense Resources 2014 10 468x60" height="60" src="/system/images/BAhbBlsHOgZmSSJNMjAxNC8xMC8wMi8yMS8yMS8wMC85OS9UaGlyZF9MaW5lT2ZfRGVmZW5zZV9SZXNvdXJjZXNfMjAxNF8xMF80Njh4NjAuZ2lmBjoGRVQ/Third_LineOf_Defense_Resources_2014-10_468x60.gif" width="468"></a>
+				</div>
+				<div style="float:left;padding:1px;">
+			       <a href="http://www.auditnet.org/news/keyword-analytics-%E2%80%93-new-survey-worldwide-tabulation-project-complimentary-webinar-released-by-auditnet" target="_blank"><img alt="Banner Keywords" height="60" src="/system/images/BAhbBlsHOgZmSSIvMjAxNC8wOS8xNS8xMC8wOS81Ni85MDkvQmFubmVyS2V5d29yZHMuanBnBjoGRVQ/BannerKeywords.jpg" width="468"></a>
 				</div>
 		  </div>
           <div class="cb"></div>
@@ -263,7 +762,7 @@ function search_check()
 	<gcse:searchbox-only resultsurl="http://www.auditnet.org/"></gcse:searchbox-only>
 </div>
 <!--<div style="vertical-align:middle">
-<form accept-charset="UTF-8" action="http://www.auditnet.org/search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="By+Ui0hvP8PjDzQODGx7V/08NuQV6ojzcnIUwDEIviA=" /></div>
+<form accept-charset="UTF-8" action="http://www.auditnet.org/search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y+nuw6I/dBEeToyzVJYW8t5pVoFoGqhfH3f3fU70TLs=" /></div>
  <span style="float:left;margin-right:7px">
   <input class="search_box" id="query" name="query" placeholder="Search site for..." type="search" />
  </span>
@@ -326,6 +825,12 @@ function search_check()
 
 			  <input type="hidden" id="timer" value="0">
 			  <input type="hidden" id="selected_image" value="0">
+					  <div class="slideshow" style="float:right;padding:10px;">
+							  <a href="http://www.auditsoftwarevideos.com/index.php?option=com_rsmembership&amp;view=rsmembership&amp;Itemid=844" target="_blank">
+							   <img src="/system/images/BAhbBlsHOgZmSSIqMjAxNC8wOS8wNy8xMS8wNS8wOC85NTYvQVNWQmFubmVyLmpwZwY6BkVU/ASVBanner.jpg" id="img0" height="60" width="468" alt="Asv Banner" title="Audit Software Videos" style="border:0px;display:block"> 
+							  </a>
+						   
+						  </div>
 				</div>
 				<div style="clear:both"></div>
   			</div>			
@@ -361,14 +866,14 @@ google_ad_height = 600;
 </script>  		</div>
     <div class="cb"></div>
   	</div>
-        <script src="/javascripts/jquery.js?1396013294" type="text/javascript"></script>
-<script src="/javascripts/jquery_ujs.js?1396013294" type="text/javascript"></script>
+        <script src="/javascripts/jquery.js?1412676434" type="text/javascript"></script>
+<script src="/javascripts/jquery_ujs.js?1412676434" type="text/javascript"></script>
 <script src="/javascripts/jquery_rails_autoreplace.js" type="text/javascript"></script>
 <script src="/javascripts/ajaxful_rating.js" type="text/javascript"></script>
 
 
     <script src="/javascripts/refinery/core.js" type="text/javascript"></script>
-<script src="/javascripts/application.js?1396013294" type="text/javascript"></script>
+<script src="/javascripts/application.js?1412676434" type="text/javascript"></script>
 
   
 
