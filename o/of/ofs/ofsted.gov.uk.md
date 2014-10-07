@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045017id_/http%3A//www.ofsted.gov.uk/terms-of-use/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007095159id_/http%3A//www.ofsted.gov.uk/terms-of-use/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
 
 # Ofsted | Privacy statement and cookie policy
 
@@ -27,7 +27,7 @@ To help us to keep your information reliable and up to date, please:
 If you feel Ofsted has not kept its promises about the way we handle your personal information, we ask you write to, or email, Richard McGowan. We will investigate your concerns and report back to you within 20 working days:
 
 Richard McGowan  
-Head of Information Rights  
+Senior Information Rights and Delivery Manager  
 Ofsted  
 Aviation House  
 125 Kingsway  
