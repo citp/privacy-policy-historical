@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbox360achievements.org privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624021743id_/http%3A//www.xboxachievements.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbox360achievements.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007144625id_/http%3A//www.xboxachievements.com/privacy.php) for the most accurate reproduction.*
 
 # XboxAchievements.com - Privacy Policy
 
