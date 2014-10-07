@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepressreleasedb.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409150155id_/http%3A//www.freepressreleasedb.com/pr-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressreleasedb.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007174457id_/http%3A//www.freepressreleasedb.com/pr-privacy-policy.php) for the most accurate reproduction.*
 
-# Welcome To Business Listing Malaysia
+# Free Press Release DB - Privacy Policy
 
 **What information do we collect?**
 
@@ -61,7 +61,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.freepressreleasedb.com](https://web.archive.org/web/20140409150155id_/http%3A//www.freepressreleasedb.com/pr-terms-conditions.php "Free Press Release DB - Terms & Conditions")
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.freepressreleasedb.com](https://web.archive.org/web/20141007174457id_/http%3A//www.freepressreleasedb.com/pr-terms-conditions.php "Free Press Release DB - Terms & Conditions")
 
  **Your Consent**
 
