@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whas11.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209083859id_/http%3A//www.whas11.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whas11.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007024641id_/http%3A//www.whas11.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # WHAS11.com | Terms and Conditions - WHAS11.com
 
@@ -41,7 +41,7 @@ We may use location information, either information you provided by you or infor
 
 **Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance's website at [www.aboutads.info](https://web.archive.org/web/20140209083859id_/http%3A//www.whas11.com/terms-and-conditions/www.aboutads.info).
+If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance's website at [www.aboutads.info](https://web.archive.org/web/20141007024641id_/http%3A//www.whas11.com/terms-and-conditions/www.aboutads.info).
 
 ### How Information is Shared
 
