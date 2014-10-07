@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209205907id_/https%3A//www.michaeljfox.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007142006id_/https%3A//www.michaeljfox.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The Michael J. Fox Foundation Privacy Policy | The Michael J. Fox Foundation
 
@@ -22,6 +22,9 @@ The Foundation provides a separate online form to join our mailing list. The inf
 
 Please contact us directly by regular mail if at any time you wish to be removed from the mailing list or if you would like to correct or change the personal information you have previously provided. To protect your privacy and security, we will take certain steps to verify your identity before granting access to your information or making corrections. Callers will be asked specific questions, including full name, address, phone number, and, if applicable, credit card numbers and/or expiration date, in order to verify their identity and protect the privacy of the Foundation's donors and members of its mailing list.
 
+**eNewsletters**  
+You will be added to The Michael J. Fox Foundation's email newsletter list only if you register to receive newsletters via a form or checkbox on The Michael J. Fox Foundation website. You may opt out of receiving our eNewsletters by clicking on the opt-out link included in every email newsletter we send.
+
 **Links to Other Web Sites**  
 The Foundation's site includes links, some temporary and some permanent, to other Web sites. We are not responsible for the privacy and security practices of any other Web site or the nature of the content contained therein.
 
@@ -38,6 +41,3 @@ The Michael J. Fox Foundation for Parkinson's Research
 Church Street Station  
 P.O. Box 780  
 New York, NY 10008-0780
-
-**Disclosure**  
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the effectiveness of our website to better serve our visitors. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
