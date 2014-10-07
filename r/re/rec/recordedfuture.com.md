@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the recordedfuture.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601051302id_/https%3A//www.recordedfuture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordedfuture.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007032449id_/https%3A//www.recordedfuture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Version 1.74 – Effective June 14, 2010_
+_Version 1.75 – Updated July 8, 2014_
 
-## What We May Collect About You
+Recorded Future, Inc. is a [web intelligence company](https://www.recordedfuture.com/about/) which analyzes public, openly available sources on the web in search of new trends and patterns. Recorded Future is not a data broker. Recorded Future does not maintain files on individuals’ purchases, nor sell lists of consumers. Recorded Future does not collect consumer information for targeting of ads. Recorded Future does not provide consumer scoring. In addition, Recorded Future:
+
+  * Does not maintain transaction-specific data about consumer purchases.
+  * Does not obtain payment data from retailers and/or catalog companies.
+  * Does not track consumer product purchases, the dollar amount of the purchase, the date of the purchase, or payment types.
+  * Does not obtain information from magazine publishers about the types of subscriptions sold.
+
+
+
+Put simply, Recorded Future does not provide consumer marketing databases, or even the means to produce consumer marketing databases, in any shape or form.
+
+### What We May Collect About You
 
 When you visit the Recorded Future website, or use our services, we may collect the following types of information:
 
@@ -56,11 +67,11 @@ If Recorded Future becomes involved in a merger, acquisition, or any form of sal
 
 We may use information about how you have used our service in order to improve our service offering to you or to others. By knowing, for example what kinds of information you are seeking on our site, and the results delivered to you, we may be able to analyze this information to deliver more targeted results. While we will not share the individual search results or what we call “identified” information about your searches or results, we may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or the nature of the results returned to aggregated users. Such information does not identify you or your searches or results individually.
 
-## How We Protect Your Information
+### How We Protect Your Information
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data, including data that relates to your personally identifiable information. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to Recorded Future employees, contractors and agents (including third party hosting platforms) who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-## Data integrity and Quality
+### Data Integrity and Quality
 
 Recorded Future processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
@@ -72,10 +83,10 @@ The information we deliver to our clients and customers, (that is the aggregated
 
 When you use Recorded Future services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-## Enforcement
+### Enforcement
 
 Recorded Future regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Recorded Future’s treatment of personal information by contacting us by email to privacy [at] recordedfuture [dot] com, or by writing to us at Recorded Future/Privacy Policy, 1430 Massachusetts Avenue, Cambridge, MA, 02138, USA. When we receive formal written complaints at this address, it is Recorded Future’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Recorded Future and an individual.
 
-## Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. However, we anticipate most changes to our Privacy Policy will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). By using, or continuing to use this service after being provided notice of the change is policy, you will be deemed to have consented to the change. Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior version of this Privacy Policy in an archive for your review. If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email to privacy [at] recordedfuture [dot] com.
