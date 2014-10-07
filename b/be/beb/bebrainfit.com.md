@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082817id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008005058id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
 
-# Privacy Policy | Disclosure Policy | Terms of Use
+# Privacy Policy - Disclosure Policy - Terms of Use | Be Brain Fit
 
 ## Privacy Policy
 
