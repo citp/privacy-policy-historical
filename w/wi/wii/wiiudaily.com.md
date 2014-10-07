@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiiudaily.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625191456id_/http%3A//wiiudaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiiudaily.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008003439id_/http%3A//wiiudaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wii U
 
