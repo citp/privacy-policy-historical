@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603172647id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007210402id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective date: May 24, 2013
+Effective date: September 26, 2014
 
 ## 1\. Introduction
 
@@ -72,19 +72,11 @@ Once you have shared your information with Presdo, you may still control how it 
 
 
 
-## 7\. International Users; US-EU and US-Swiss Safe Harbor
-
-By visiting the Site and providing your data, you acknowledge and agree that due to the international dimension of Presdo, some of the data may be transmitted outside your resident jurisdiction. Furthermore, you acknowledge and agree that such data may be stored on servers in the United States.
-
-Presdo complies with the EU and Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and have also self-certified our privacy practices as consistent with US-EU and US-Swiss Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. To view our certification, visit the [U.S. Department of Commerce’s Safe Harbor Web site](https://www.export.gov/safehrbr/list.aspx).
-
-Presdo has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU AND SWISS SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Presdo, please visit the BBB EU AND SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-## 8\. Changes to the Privacy Policy
+## 7\. Changes to the Privacy Policy
 
 This Privacy Policy may be updated as Presdo’s services change and grow. Presdo will indicate any such changes on this page, by email, or through notice on our home page. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If this Privacy Policy is changed, Presdo will post them and will indicate at the top of this page the policy’s new effective date. Presdo encourages you to refer to this policy on an ongoing basis so that you understand our current privacy policy. The most current version of the Privacy Policy can be found at [http://match.presdo.com/privacy](https://web.archive.org/privacy).
 
-## 9\. Contact
+## 8\. Contact
 
 If you have any questions about this privacy policy, please first contact us at [privacy@presdo.com](mailto:privacy@presdo.com?subject=Privacy%20Policy). 
 
