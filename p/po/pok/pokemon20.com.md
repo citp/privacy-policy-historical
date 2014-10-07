@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokemon20.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518231650id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemon20.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007130640id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pokemon.com
+# Privacy Policy|Pokemon.com
 
 [](http://www.esrb.org/confirm/pokemon-confirmation.jsp)Last updated May 14, 2014.
 
