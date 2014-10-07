@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skift.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074742id_/http%3A//skift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skift.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007202507id_/http%3A//skift.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Skift
 
