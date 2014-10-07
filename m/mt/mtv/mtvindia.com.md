@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231607id_/http%3A//mtv.in.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007184156id_/http%3A//mtv.in.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MTV India - VJs, Music, Videos, Blogs, Games, Wallpapers, Interviews, Performances, Shows, Fun and more - About us
 
