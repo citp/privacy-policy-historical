@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcunicareers.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209055051id_/http%3A//www.nbcunicareers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcunicareers.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008013118id_/http%3A//www.nbcunicareers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NBCUniversal Careers
 
