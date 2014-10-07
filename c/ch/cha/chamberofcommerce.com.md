@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531113101id_/http%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007205755id_/https%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChamberofCommerce.com
 
