@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328203819id_/http%3A//www.tehelka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehelka.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007134404id_/http%3A//www.tehelka.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tehelka.com
 
 Tehelka.com Private Limited (Tehelka.com Pvt Ltd.), a wholly-owned subsidiary of Anant Media Private Limited and located at [http://www.tehelka.com](http://www.tehelka.com/) is the mother brand of Tehelka.com Pvt Ltd. We respect your privacy. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Tehelka.com and its related properties, you agree to the collection and use of your data by Tehelka.com Pvt Ltd in the manner provided in this Privacy Policy.
 
-Tehelka.com Pvt Ltd. respects the privacy of its users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to its users Tehelka.com Pvt Ltd. offers a variety of community services. You may read ‘About Us’ to know more about Tehelka.com Pvt Ltd. at [http://www.tehelka.com/about/](https://web.archive.org/web/20140328203819id_/http://www.tehelka.com/privacy-policy/about/ "About")
+Tehelka.com Pvt Ltd. respects the privacy of its users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to its users Tehelka.com Pvt Ltd. offers a variety of community services. You may read ‘About Us’ to know more about Tehelka.com Pvt Ltd. at [http://www.tehelka.com/about/](https://web.archive.org/web/20141007134404id_/http://www.tehelka.com/privacy-policy/about/ "About")
 
 The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Tehelka.com Pvt Ltd. or to the people that are not engaged, employed or managed by Tehelka.com
 
@@ -54,7 +54,7 @@ We use this information for billing purposes and to fill your orders. If we have
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Tehelka.com Pvt Ltd. does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [http://www.tehelka.com/about/contact.asp](https://web.archive.org/web/20140328203819id_/http://www.tehelka.com/privacy-policy/contact/ "Contact") to request that we remove this information from our database.
+Your friend may contact us at [http://www.tehelka.com/about/contact.asp](https://web.archive.org/web/20141007134404id_/http://www.tehelka.com/privacy-policy/contact/ "Contact") to request that we remove this information from our database.
 
 We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
 
