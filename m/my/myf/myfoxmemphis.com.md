@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629062422id_/http%3A//www.myfoxmemphis.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007172708id_/http%3A//www.myfoxmemphis.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - FOX13 News, WHBQ FOX 13
 
