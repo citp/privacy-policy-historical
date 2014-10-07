@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104205id_/http%3A//www.bigtop40.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007232040id_/http%3A//www.bigtop40.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Help & FAQs | Privacy policy - Big Top 40
 
