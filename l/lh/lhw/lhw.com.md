@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhw.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001359id_/http%3A//www.lhw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhw.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007192124id_/http%3A//www.lhw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Leading Hotels of the World
 
@@ -24,6 +24,10 @@ We collect, process and use your Personal Information for purposes of providing 
 ### Visiting
 
 You can always visit our site without revealing who you are or providing any Personal Information. When you visit our site or visit our site through a linking site, we do collect usage information, such as your IP address, ("session data"), but it is stored using pseudonyms only and is not linked to you as an individual. We use session data to better understand things such as how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our site's database, the types of browsers and computer operating systems used by our visitors, and the Internet Protocol addresses from which our visitors connect to our site. We use this information to improve our site content and ease of use. If you have configured your browser to accept cookies, as described below, then you may opt-out if you do not want us to collect and use such session data as described above by sending an email to [info@lhw.com](mailto:info@lhw.com).
+
+### US-EU/Swiss Safe Harbor Framework
+
+LHW, as part of its policy, complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To see our Safe Harbor Privacy Policy, [click here](https://web.archive.org/privacy-policy/safe-harbor).
 
 ### Cookies
 
