@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808072346id_/http%3A//www.alltelwireless.com/allied-webapp-public/allied-internet/misc/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007174019id_/http%3A//www.alltelwireless.com/allied-webapp-public/allied-internet/misc/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - - Alltel Wireless
 
