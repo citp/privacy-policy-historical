@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiomirchi.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114033946id_/http%3A//www.radiomirchi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiomirchi.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007210829id_/http%3A//www.radiomirchi.com/privacy-policy) for the most accurate reproduction.*
 
 # :: Radio Mirchi ::
 
