@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021143id_/http%3A//www.click2houston.com/4735798) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007224655id_/http%3A//www.click2houston.com/4735798) for the most accurate reproduction.*
 
 # Privacy policy | Home - Home
 
@@ -124,7 +124,7 @@ We reserve the right, in our sole discretion, to modify, alter or otherwise upda
 
 **How can you ask questions or contact us?**
 
-If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@postnewsweek.com).
+If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by clicking [here](mailto:websitepolicy@grahammedia.com).
 
 **Effective: June 15, 2010**
 
