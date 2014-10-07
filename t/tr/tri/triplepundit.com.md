@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triplepundit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626071822id_/http%3A//www.triplepundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplepundit.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007034235id_/http%3A//www.triplepundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TriplePundit
 
@@ -10,8 +10,6 @@ If you choose to subscribe to our [free email newsletter](http://www.triplepundi
 
 By registering to comment on the site you also register for our [free email newsletter](http://www.triplepundit.com/newsletter/), however you may opt-out at any time and will not be re-subscribed.
 
- **Banner advertising:**
-
-As you browse 3p and CSRreporting.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, [AdRoll](https://app.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with us. The techniques our partners employ **do not** collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
+ **Syndication and Use of Content:  [Please visit this page](http://www.triplepundit.com/legal).**
 
 For more information, [please contact us](mailto:contact@triplepundit.com).
