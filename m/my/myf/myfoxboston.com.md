@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxboston.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511213953id_/http%3A//www.myfoxboston.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxboston.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007184109id_/http%3A//www.myfoxboston.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Boston News, Weather, Sports | FOX 25 | MyFoxBoston
 
