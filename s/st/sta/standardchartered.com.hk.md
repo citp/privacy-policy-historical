@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112043820id_/http%3A//standardchartered.com.hk/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007190308id_/https%3A//www.sc.com/hk/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Standard Chartered Bank Hong Kong
 
@@ -103,7 +103,7 @@ The above cookies may be placed on your device by us or by third parties on our 
 
 _Most web browsers are initially set up to accept cookies. You can choose to 'not accept' cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our website will not work properly._
 
-For further details of the _Bank's_ Website Privacy Statement, please visit : ([http://www.standardchartered.com.hk/website-privacy-statement.html](https://web.archive.org/website-privacy-statement.html)). 
+For further details of the _Bank's_ Website Privacy Statement, please visit : ([http://www.standardchartered.com.hk/website-privacy-statement.html](https://web.archive.org/hk/website-privacy-statement.html)). 
 
 Accessing your personal data
 
