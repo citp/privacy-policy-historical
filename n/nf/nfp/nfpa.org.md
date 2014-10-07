@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082142id_/http%3A//www.nfpa.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007043807id_/http%3A//www.nfpa.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This is the web site of the National Fire Protection Association.
 1 Batterymarch Park  
 Quincy, MA 02169-7471
 
-We can be reached via e-mail at [webmaster@nfpa.org](mailto:webmaster@nfpa.org) or [custserv@nfpa.org](mailto:custserv@nfpa.org) or you can reach us by telephone at +1 617 770-3000.
+We can be reached via e-mail at [webmaster@nfpa.org](mailto:webmaster@nfpa.org), or you can [contact customer service](http://www.nfpa.org/customer-service-inquiry). You can also reach us by telephone at +1 617 770-3000.
 
 **Collection and use of consumer information  
 **For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
@@ -22,11 +22,11 @@ With respect to cookies: We use cookies to record session information, such as i
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address or updating your online profile.
 
 **Customer email lists: collection, usage  and preference options  
-**By supplying NFPA with your email address (while creating an account on our website, placing an order on-line or through our call center, requesting catalog or other information, or during an NFPA hosted event, etc.), we will use that email address for NFPA marketing solicitations and electronic newsletter deployments. You can opt-out of these electronic communications at anytime by following the instructions in our emails or by logging into your on-line NFPA profile and visiting the email preference page. In addition to the emails just described, all NFPA Members, as part of their member benefits, receive NFPA Journal Update and other Member information.  If you are an NFPA Member and would like to opt-out of receiving these NFPA Member Benefit emails, you may email us at [custserv@NFPA.org](mailto:custserv@NFPA.org) or call us at 1-800-344-3555.
+**By supplying NFPA with your email address (while creating an account on our website, placing an order on-line or through our call center, requesting catalog or other information, or during an NFPA hosted event, etc.), we will use that email address for NFPA marketing solicitations and electronic newsletter deployments. You can opt-out of these electronic communications at anytime by following the instructions in our emails or by logging into your on-line NFPA profile and visiting the email preference page. In addition to the emails just described, all NFPA Members, as part of their member benefits, receive NFPA Journal Update and other Member information.  If you are an NFPA Member and would like to opt-out of receiving these NFPA Member Benefit emails, [you may contact customer service](http://www.nfpa.org/customer-service-inquiry), or call us at 1-800-344-3555.
 
 From time to time, we make the email addresses of those who register on our site available to other reputable organizations whose products and services we think you might find interesting. For sponsored training events, we may also provide your email address to the event sponsor(s). If you do not want to NFPA to share your email address with other organizations, [please register your email address to be suppressed from third party sharing](http://ebm.cheetahmail.com/r/regf2?a=0&aid=272412627&n=800).
 
-For questions or further assistance email us at [custserv@NFPA.org](mailto:custserv@NFPA.org) or call us at 1-800-344-3555.
+For questions or further assistance, [contact customer service](http://www.nfpa.org/customer-service-inquiry), or call us at 1-800-344-3555.
 
 **Online behavioral advertising  
 **NFPA uses third party vendors to display relevant ads on sites throughout the internet. Many times these third party vendors use cookies to serve ads based on your interaction with NFPA web properties. For more information on how Online Behavioral Advertising works, please visit <http://www.aboutads.info/consumers/>. Users may opt out of some, many, or all Online Behavioral Advertising targeting by visiting either or both of the following sites: <http://www.networkadvertising.org/managing/opt_out.asp> and/or <http://www.aboutads.info/choices/>.
