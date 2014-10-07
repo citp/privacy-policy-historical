@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313091304id_/http%3A//www.avianweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007123420id_/http%3A//beautyofbirds.com/privacy.html) for the most accurate reproduction.*
 
-# Avianweb Site Privacy Policy
+# beautyofbirds Site Privacy Policy
 
 Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of the visitors of this website. The following outlines our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -56,7 +56,7 @@ Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of 
 
 ### Questions or Suggestions
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [sf@avianweb.com](mailto:sf@avianweb.com).
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [sf@avianweb.com](http://www.cloudflare.com/email-protection#0c7f6a4c6d7a656d627b696e226f6361).
 
 
 
