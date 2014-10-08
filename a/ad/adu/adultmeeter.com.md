@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmeeter.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421105653id_/http%3A//www.meeter.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmeeter.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008121555id_/http%3A//www.meeter.com/pages/privacy) for the most accurate reproduction.*
 
 # meeter
 
