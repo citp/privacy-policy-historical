@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chick-fil-a.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528192807id_/http%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick-fil-a.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008210151id_/http%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
 
-# Chick-fil-A: Privacy
+# Privacy | Chick-fil-A
 
 This Privacy Policy (“Privacy Policy”) describes the information practices of Chick-fil-A, Inc. ("Chick-fil-A”) and, as applicable, its affiliates, subsidiaries and related entities such as CFA Properties, Inc. and CFA Servco, Inc. (“Affiliates”), (Chick-fil-A and its Affiliates are referred to herein, as the context may require, as “we”, “us”, or “our"). It covers the information that Chick-fil-A collects about you, how we use and share this information, and your choices regarding our collection and use. 
 
