@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133024id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008214927id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About NTU - Nottingham Trent University
 
@@ -119,7 +119,7 @@ At end of session, when session times out or browser is closed
 | 
 
  **NTU Self Service  
-** This cookie is a testing cookie and contains the value ‘set’.  
+** This cookie is a testing cookie and contains the value 'set'.  
   
 Login  
 d2lSessionVal  
@@ -134,7 +134,7 @@ At end of session, when session times out or browser is closed
 | 
 
  **now.ntu.ac.uk  
-** The NTU Online Workspace (NOW) requires a number of cookies to function. The username cookie contains your NTU username, the Login cookie contains the value ‘true’. All other cookies contain randomly generated identifiers.  
+** The NTU Online Workspace (NOW) requires a number of cookies to function. The username cookie contains your NTU username, the Login cookie contains the value 'true'. All other cookies contain randomly generated identifiers.  
   
 Userid
 
@@ -190,7 +190,26 @@ End of session/browser close
 | 
 
  **Google Analytics (wording taken from ICO.gov.uk)**  
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+Read an [overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
+  
+Variable per campaign| Variable per campaign (up to 2 years)|  **Remarketing with Google Analytics  
+** We use Remarketing to advertise online and make ads more relevant ("Remarketing"). Remarketing cookies will be used by third parties (including Google) to show our ads on websites other than our own.
+
+Both us and third parties (including Google) will also use Remarketing cookies – both first party (such as Google Analytics) and third party (such as DoubleClick) – to serve more relevant ads to users based on such users' past visits to our website, whether those users are on our Website or on other websites.
+
+To opt-out from Google's Remarketing program, please edit your [Google Ad Settings](https://www.google.com/settings/ads).  
+  
+Variable per campaign| Variable per campaign (up to 2 years)|  **Google Tag Manager**  
+We may use Tag Manager to run custom analytics and remarketing campaigns across different sections of our sites. These campaigns will not collect any information beyond that already stated for analytics and remarketing.
+
+To opt-out from Google's Remarketing program, please edit your [Google Ad Settings](https://www.google.com/settings/ads).  
+  
+Variable| Variable|  **YouTube  
+** We embed videos from our official YouTube channel using YouTube's privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
+
+Read more at [YouTube's embedding videos information](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780) page.  
   
   
  **How do I remove cookies?  
