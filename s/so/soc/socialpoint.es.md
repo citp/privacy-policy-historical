@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialpoint.es privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624223332id_/http%3A//www.socialpoint.es/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialpoint.es privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008075036id_/http%3A//www.socialpoint.es/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy of Social Point
 
