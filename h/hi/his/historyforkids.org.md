@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045301id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008190042id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - History for Kids!
 
@@ -16,5 +16,3 @@ And finally, we use third-party advertising companies to serve ads when you visi
 
 
 * * *
-
-\-->
