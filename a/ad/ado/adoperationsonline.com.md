@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306033413id_/http%3A//www.adoperationsonline.com/internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008111108id_/http%3A//www.adoperationsonline.com/internet-privacy-statement) for the most accurate reproduction.*
 
 # Privacy | Ad Operations Online
 
