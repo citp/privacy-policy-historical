@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213163920id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009015241id_/https%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
@@ -30,9 +30,17 @@ We request information from the user on our Financial Aid Application form. Whil
 
 We request information from the user on our Scholarship Application form. Our scholarship applications are hosted by NextGen Web Solutions. Applicants use their student ID number and a unique password (not the student's Penn College network password or SIS PIN) to log in. This information is contained on a secure server at NextGen.
 
-##### Institutional Advancement
+##### The Penn College Scholarship Campaign Donor Form
 
-We request information from the user on our Online Giving form. The data requested by this form allows the user a more convenient; yet secure method of giving to Penn College. We accept online payment via credit card; this transaction is secured by Comodo. For those who wish to give to Penn College without submitting sensitive information, we also provide a printable form that can be mailed to the Institutional Advancement Office.
+We request information from the user on our Scholarship Campaign online gift form. The data requested by this form allows the user a convenient and secure method of giving to The Penn College Scholarship Campaign. We accept online payment via credit card; this transaction is secured by Comodo. 
+
+For those who wish to give to The Penn College Scholarship Campaign without submitting sensitive information online, we also provide a printable form that can be mailed to the Institutional Advancement Office.
+
+##### The Penn College Fund Donor Form
+
+The College contracts with Blackbaud, Inc., of Charleston, SC, USA, a leading provider of technology solutions and services for nonprofit organizations, to provide The Penn College Fund online giving form. The Blackbaud Gateway safely processes all transactions and the Blackbaud Vault encrypts sensitive information to ensure all transactions are secure. The College has elected to not require user registration with Blackbaud from our donors, further ensuring your privacy. Neither the College nor Blackbaud will disclose or share financial information without your consent, except for general statistical purposes and certain explicit circumstances in which disclosure may be required by law. Your financial information will not be distributed or sold to third-party organizations. Read the [Blackbaud Privacy Policy](https://www.blackbaud.com/privacy-policy.aspx) for more information. 
+
+For those who wish to give to The Penn College Fund without submitting sensitive information online, we also provide a printable form that can be mailed to the Institutional Advancement Office.
 
 ##### Planned Giving
 
@@ -104,4 +112,4 @@ The College will occasionally update this Statement. Those changes will be poste
 
 ## How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20140213163920id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20141009015241id_/http://www.pct.edu/privacy/contact.asp).
