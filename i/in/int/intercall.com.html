@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the intercall.com privacy policy that was archived on 2014-02-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140217234109id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intercall.com privacy policy that was archived on 2014-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009014645id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 184 - published by Open Text Web Solutions 10 - 10.0.1.90 - 30893 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,6 +7,7 @@
 <meta name="copyright" content="© 2006 InterCall">
 <meta name="keywords" content="InterCall privacy policy, conference call company, web conferencing privacy, audio conferencing privacy">
 <meta name="description" content="View InterCall’s privacy policy about their audio and web conferencing services.">
+
 <title>InterCall Privacy Policy | Conference Call Company   </title>
 <link href="/includes/mainStyles.css" rel="stylesheet" type="text/css">
 
@@ -61,6 +62,7 @@ $("a[href$=.msi]").click(function(){
 });
 </script>
 <script type="text/javascript">
+ 
   $(document).ready(function() {
     $("a.regionPopOut").fancybox({
     'type'   : 'iframe',
@@ -85,6 +87,94 @@ $("a.bannerPop").fancybox({
     'titleShow'         : false
    });
 
+
+ 
+winsz = $(window).width();
+//detect screen width so fixed header does not appear on mobile devices
+if (winsz > 1000) {
+$(window).scroll(function () {        
+var offset = parseInt($(window).scrollTop());        
+if (offset > 65 ) {            
+navOn();                          
+}        
+else {            
+navOff();                                   
+}                
+});
+}                
+
+
+function navOff () {
+$('.dropDownMenu').show();
+$(".fixedHeader").remove(); 
+$("body").css({                
+'background-position': '50% 100px',
+'background-attachment':'scroll'              
+});    
+}
+function navOn() { 
+if ($(".fixedHeader").html() == null) {    
+$('.topBar').prepend("<div class='fixedHeader'></div>");                
+innerHTML = $('#header').html(); 
+$('.dropDownMenu').hide();
+headerCurve = $('<div>').append($('#headerBottom').clone()).html(); 
+outerHTML = "<div id='header'>" + innerHTML + headerCurve + "</div>";            
+$('.fixedHeader').html(outerHTML);            
+$(".fixedHeader").css({                
+'position':'fixed',                
+'width': '100%',                
+'height': '100px',                
+'z-index':'700',                
+'top': '-50px',                
+ 'background-color':'#FFFFFF',
+ 'float':'left',              
+'display':'none'                                           
+});                
+$(".fixedHeader #header").css({                
+'width': '900px',                
+'margin-left': 'auto',                 
+'margin-right': 'auto',
+'height':'60px',
+'background-color':'#FFFFFF'               
+});
+$(".fixedHeader #logo").css({
+'z-index':'1000'                
+}); 
+
+$(".fixedHeader .googleSearch").css({
+'width':'80px'                
+}); 
+          
+$(".fixedHeader #headerBottom").css({                
+'top': '55px'              
+});  
+$("body").css({                
+'background-position': '50% 50px',
+'background-attachment':'fixed'              
+}); 
+
+
+                             
+$(".fixedHeader .regionPopOut").css('display', 'none');            
+//$(".fixedHeader #cse-search-box").css('display', 'none');
+$(".fixedHeader  #smbToggle").css('display','none');
+$(".fixedHeader #toolBar").css({                
+'top': '45px',                
+'right': '460px'                
+});   
+          
+ } 
+$(".fixedHeader").fadeIn();    
+} 
+
+var initOffset = parseInt($(window).scrollTop()); 
+var count = 0;    
+if (initOffset > 65 ) { 
+navOn(); 
+}
+
+
+
  });
 </script><script type="text/javascript">
 $(document).ready(function(){
@@ -96,7 +186,7 @@ $(document).ready(function(){
      if (document.images[i].src) {
      var imgSrc = document.images[i].src;
      if (imgSrc.substr(imgSrc.length-4) === '.png' || imgSrc.substr(imgSrc.length-4) === '.PNG') {
-     document.images[i].style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='crop',src='" + imgSrc + "')";
+     document.images[i].style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='" + imgSrc + "')";
      }
      }
  }
@@ -113,6 +203,8 @@ $(document).ready(function(){
 <body>
 
 <!--BEGIN LAYOUT CONTAINER * * * * * * * * * * * * * * * * * * * -->
+<div class="topBar"></div>
+
 <div id="container">
 
   <!--BEGIN HEADER * * * * * * * * * * * * * * * * * * * -->
@@ -150,7 +242,7 @@ $(document).ready(function(){
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu33">
-        <li><a id="33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideThirdNav('dropmenu33_1', '33_1');" class="flyout" href="/solutions/industries/index.php"><span>By Industry</span></a></li><li><a id="33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideThirdNav('dropmenu33_2', '33_2');" class="flyout" href="/solutions/job-functions/index.php"><span>By Job Function</span></a></li><li><a id="33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideThirdNav('dropmenu33_3', '33_3');" class="flyout" href="/solutions/uses/index.php"><span>By Use</span></a></li><li><a id="33_4" onmouseover="showThirdNav('dropmenu33_4', 'solutions', 'dropmenu33', '33_4') ;" onmouseout="hideThirdNav('dropmenu33_4', '33_4');" class="flyout" href="/solutions/white-papers.php"><span>White Papers</span></a></li><li><a href="/solutions/case-studies.php"><span>Case Studies</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li><li><a href="/solutions/voip.php"><span>VOIP Solutions</span></a></li>
+        <li><a id="33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideThirdNav('dropmenu33_1', '33_1');" class="flyout" href="/solutions/industries/index.php"><span>By Industry</span></a></li><li><a id="33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideThirdNav('dropmenu33_2', '33_2');" class="flyout" href="/solutions/job-functions/index.php"><span>By Job Function</span></a></li><li><a id="33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideThirdNav('dropmenu33_3', '33_3');" class="flyout" href="/solutions/uses/index.php"><span>By Use</span></a></li><li><a href="/solutions/case-studies.php"><span>Case Studies</span></a></li><li><a id="33_5" onmouseover="showThirdNav('dropmenu33_5', 'solutions', 'dropmenu33', '33_5') ;" onmouseout="hideThirdNav('dropmenu33_5', '33_5');" class="flyout" href="/solutions/intercall-insights.php"><span>InterCall Insights </span></a></li>
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideAllNav('dropmenu33_1', '33_1', 'solutions');">
@@ -164,12 +256,12 @@ $(document).ready(function(){
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideAllNav('dropmenu33_3', '33_3', 'solutions');">
-<li><a href="/solutions/uses/meetings.php"><span>Meetings</span></a></li><li><a href="/solutions/uses/event-conferencing.php"><span>Online Events &amp; Webinars</span></a></li><li><a href="/solutions/uses/training.php"><span>Training</span></a></li><li><a href="/solutions/uses/techSupport.php"><span>Tech Support</span></a></li><li><a href="/solutions/uses/crisis-communication.php"><span>Crisis Communication</span></a></li>
+<li><a href="/solutions/uses/meetings.php"><span>Meetings</span></a></li><li><a href="/solutions/uses/event-conferencing.php"><span>Online Events &amp; Webinars</span></a></li><li><a href="/solutions/uses/training.php"><span>Training</span></a></li><li><a href="/solutions/uses/techSupport.php"><span>Tech Support</span></a></li><li><a href="/solutions/uses/crisis-communication.php"><span>Crisis Communication</span></a></li><li><a href="/solutions/voip.php"><span>VOIP Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li>
 
     </ul>
 
-    <ul class="dropDownMenu thirdNav" id="dropmenu33_4" onmouseover="showThirdNav('dropmenu33_4', 'solutions', 'dropmenu33', '33_4') ;" onmouseout="hideAllNav('dropmenu33_4', '33_4', 'solutions');">
-<li><a href="/solutions/wp-business-communications-growth-catalyst.php"><span>Business Communications as Your Growth Catalyst</span></a></li><li><a href="/solutions/wp-power-continuous-access.php"><span>The Power of Continuous Access</span></a></li><li><a href="/solutions/wp-mobilizing-mobile-workforce.php"><span>Mobilizing Your Mobile Workforce</span></a></li><li><a href="/solutions/wp-uc-in-transition.php"><span>Unified Communications in Transition</span></a></li><li><a href="/solutions/wp-rise-collaborative-enterprise.php"><span>The Rise of the Collaborative Enterprise </span></a></li>
+    <ul class="dropDownMenu thirdNav" id="dropmenu33_5" onmouseover="showThirdNav('dropmenu33_5', 'solutions', 'dropmenu33', '33_5') ;" onmouseout="hideAllNav('dropmenu33_5', '33_5', 'solutions');">
+<li><a href="/solutions/white-papers.php"><span>White Papers</span></a></li><li><a href="/solutions/best-practices.php"><span>Best Practices</span></a></li>
 
     </ul>
 
@@ -189,6 +281,8 @@ $(document).ready(function(){
 
 
 <div id="header">
+<div itemscope="" intemtype="http://schema.org/Organization"> <img itemprop="logo" src="/images/logo.png" alt="InterCall Conferencing &amp; Online Meeting Solutions" border="0"> </div> 
+  
   <!--BEGIN HEADER LOGO * * * * * * * * * * * * * * * * * * * -->
   <div id="logo"><a href="/index.php"><img src="/images/IC_logo.gif" alt="InterCall home" border="0"></a></div>
   <!--END HEADER LOGO * * * * * * * * * * * * * * * * * * * -->
@@ -202,7 +296,6 @@ $(document).ready(function(){
   
 
 <div id="toolBar">
-
 <!--[if IE 6]>
 <style type="text/css">
 .searchSubmit {
@@ -212,9 +305,12 @@ margin-top:2px !important;
 <![endif]-->
 
 <!-- search = Y -->
+<style>.key {position:absolute;left:-5000px;}</style>
 <div style="float:right; margin:0 0 0 10px;">
 <form action="/search-results.php" id="cse-search-box">
-<input type="text" name="q" class="formElement1" value="search..." onfocus="if(this.value==this.defaultValue) this.value='';" style="padding:1px 0px 0px 3px; font-size:10px; vertical-align:top; margin-top:1px; background-color:#fff; background-image:url(/images/background/bkg_searchField.jpg); background-repeat:repeat-x; background-position:left bottom; border-color:#DADADA"> <input type="image" src="/images/btn_search.jpg" style="width:16px; height:16px; margin-top:1px; padding:0; margin-left:-4px;" alt="Search" border="0" class="searchSubmit">
+<input type="text" name="q" class="formElement1 googleSearch" value="search..." onfocus="if(this.value==this.defaultValue) this.value='';"> 
+<input name="key" value="" class="key" type="text" autocomplete="off">
+<input type="image" src="/images/btn_search.jpg" alt="Search" border="0" class="searchSubmit">
 </form>
 </div>
 
@@ -233,7 +329,7 @@ margin-top:2px !important;
 
 
 
-<a href="http://www.intercall.com/iol.htm">login</a></li>
+<a href="http://www.intercall.com/iol.htm">my account</a></li>
       
 
       
@@ -349,7 +445,12 @@ $(document).ready(function(){
 <p>InterCall reserves the right to modify the Privacy Policy at any time. Please review the Privacy Policy each time you access and use the InterCall website, as your continued use of the InterCall website and the InterCall Services signifies your assent to such modifications.</p>
 <h2>Contact Us</h2>
 <p>If at any time you believe InterCall has not followed the above Policy, or if you have questions, comments, or complaints regarding InterCall’s Policy, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a>. By mail, we can be contacted at:</p>
-<p>InterCall, Inc.<br>ATTN: Legal Department<br>8420 W. Bryn Mawr<br>Suite 1100<br>Chicago, IL 60631</p>&nbsp;
+<p>InterCall, Inc.<br>ATTN: Legal Department<br>8420 W. Bryn Mawr<br>Suite 1100<br>Chicago, IL 60631</p>
+<p></p>
+<h2>HIPPA Privacy Notice</h2>
+<div class="dottedLines"></div>
+<p style="COLOR: grey; FONT-SIZE: smaller">Effective June 6, 2014</p><a class="pdfLink" href="http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf" target="_blank">Download HIPPA Privacy Notice</a> 
+<div></div>&nbsp;
     </div>
  </div>
   <!--END PAGE CONTENT* * * * * * * * * * * * * * * * * * * -->
@@ -363,6 +464,117 @@ $(document).ready(function(){
 
 
 
+<script src="http://www.intercall.com/common/js/jquery.cookie.js"></script>
+<script>
+$(document).ready(function() {
+ $.fn.slideFadeToggled  = function(speed, easing, callback) {
+  if ($("a.flyoutTab").html() == "+ FEEDBACK" ) {
+   $("a.flyoutTab").html("x CLOSE");
+ 
+  }
+  else {
+   $("a.flyoutTab").html("+ FEEDBACK"); 
+$.cookie('custSurvey', 'true', { expires: 30, path: '/' });
+ 
+   }
+  return this.animate({height: 'toggle'},  easing, callback);
+ };
+ 
+ $('.flyoutTab').click(function() {
+  $(".flyoutContent").slideFadeToggled();
+ });
+ randomNum = Math.round(Math.random() * 5);
+  
+ if (randomNum <= 2) {
+  if (winsz > 1000 && $.cookie('custSurvey') != "true") {
+  //$(".flyoutContent").delay(6000).slideFadeToggled();
+  }
+  }
+ 
+ $(".noThanks").click(function() {
+  $(".flyoutContent").slideFadeToggled();
+ $.cookie('custSurvey', 'true', { expires: 30, path: '/' });
+ });
+});
+$(window).load(function() {
+$("#sm_e_s").attr('scrolling', 'yes');
+ $("#sm_e_s").load(function() {
+  $(".flyoutContent").delay(1500).slideFadeToggled();
+  $.cookie('custSurvey', 'true', { expires: 30, path: '/' });
+ });
+});
+</script>
+
+
+
+<style>
+.flyoutContainer { 
+z-index:1000;
+position:fixed;
+bottom:0px;
+width:100%;
+}
+.flyoutContent { 
+display:none;
+background: rgb(153,153,153); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(153,153,153,1) 0%, rgba(249,249,249,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(153,153,153,1)), color-stop(100%,rgba(249,249,249,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#999999', endColorstr='#f9f9f9',GradientType=0 ); /* IE6-9 */
+color:#FFFFFF;
+padding:25px;
+border-top:solid 2px #FFFFFF;
+box-shadow:-5px -5px 20px #cccccc;
+}
+.flyoutContent2 { 
+width:960px;
+margin:0px auto;
+background: url(http://www.intercall.com/images/bkg-surveyArrow.png) no-repeat 0px 0px;
+height:350px;
+overflow:hidden;
+}
+.flyoutTitle {
+ float:left;
+ width:300px;
+ margin-right:50px;
+}
+.flyoutTabContainer { 
+position:relative;
+height:22px;
+margin:0px auto;
+}
+a.flyoutTab { 
+position:absolute;
+border-radius: 3px 0px 0px 0px;
+font-size: 14px !important;
+height:15px;
+right:0px;
+font-size:24px;
+background-color:#999999;
+color:#FFFFFF;
+text-align:center;
+padding:3px 10px 10px 10px;
+display:block;
+text-decoration:none;
+}
+</style>
+<!--BEGIN FLYOUT CONTAINER-->
+<div class="flyoutContainer">
+<div class="flyoutTabContainer">
+<a class="flyoutTab" href="#">+ FEEDBACK</a>
+</div>
+<div class="flyoutContent">
+<div class="flyoutContent2">
+<!--place content here-->
+<div class="flyoutTitle"><h1>Please help us  Make this Site Better.</h1> <br>
+<h3 style="margin-left:35px;">Please take a few seconds to fill out a survey. Your feedback is appreciated.<br><br>
+<a href="#" class="ctaButtonSmall noThanks">NO THANKS</a></h3></div>
+<div style="margin-left:400px;">
+<div id="surveyMonkeyInfo"><div><script src="https://www.surveymonkey.com/jsEmbed.aspx?sm=W8IjYO1qegMjHuSUwblmJg_3d_3d"> </script></div></div></div>
+</div></div></div>
 <!--BEGIN FOOTER* * * * * * * * * * * * * * * * * * * -->
 <!--Main Footer -101711-->
  <div id="footer"><img src="/images/background/footerSpectrum2.jpg" class="footerSpectrum"><div id="footerContainer"> 
@@ -372,6 +584,7 @@ $(document).ready(function(){
 <a href="/services/audio-conferencing/index.php">Audio Conferencing</a> »</li><li>
 <a href="/services/web-conferencing/index.php">Web Conferencing</a> »</li><li>
 <a href="/services/video-conferencing/index.php">Video Conferencing</a> »</li>
+
    </ul>
 </div>
 <div class="footerColumns">Solutions
@@ -392,37 +605,21 @@ $(document).ready(function(){
 <a href="/customer-center/resources.php">Resources &amp; Downloads</a> »</li>
   </ul>
 </div>
-<div class="footerColumns"><!--Become A Partner-->
+<div class="footerColumns">
+<a href="http://www.intercall.com/blog"><img src="http://www.intercall.com/images/icon-blog.png" border="0" alt="Read our blog"></a>
+<a href="http://www.facebook.com/intercall"><img src="http://www.intercall.com/images/icon-facebook.png" border="0" alt="Follow us on Facebook"></a><a href="http://www.twitter.com/intercall"><img src="http://www.intercall.com/images/icon-twitter.png" border="0" alt="Follow us on Twitter"></a>
+<a class="noArrow" href="http://www.linkedin.com/companies/intercall">
+<img border="0" src="http://www.intercall.com/images/icon-linkedin.png" alt="Follow us on LinkedIn">
+</a>
+<a href="https://plus.google.com/109197481614909701480" rel="publisher"><img alt="Follow us on Google+" src="http://www.intercall.com/images/icon-google+.png"></a>
+<br><br>
+<!--Become A Partner-->
   <ul>
     <!--<li>
 <a href="/about-us/resellers.php">Resellers</a> &raquo;</li><li>
 <a href="/about-us/strategic-partners.php">Strategic Partners</a> &raquo;</li><li>
 <a href="/about-us/business-partners.php">Agents &amp; Master Agents</a> &raquo;</li>-->
- SALES: <br><span style="FONT: bold 18px Arial">800.820.5855</span> <br><br>CUSTOMER SERVICE: <span style="FONT: bold 18px Arial">800.374.2441</span>
-<!--LIVE CHAT FOR FOOTER --><a style="DISPLAY: none" id="liveagent_button_online_57360000000Kyja-2" onclick="liveagent.startChat('57360000000Kyja')" href="javascript://Chat"><img style="MARGIN: 8px 0px 0px -7px; DISPLAY: block" src="http://www.intercall.com/images/btn-footer-liveChat.png"></a> 
-<div style="DISPLAY: none" id="liveagent_button_offline_57360000000Kyja-2"><img src="http://www.intercall.com/images/btn-footer-liveChat-inactive.png"></div>
-<script type="text/javascript"> 
-if (document.getElementById('liveagent_button_offline_57360000000Kyja')) { 
-//add a live chat button to right columns 
-if (!window._laq) { window._laq = []; } 
-window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja')); 
-liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja')); 
-}); 
-} 
-if (document.getElementById('liveagent_button_online_57360000000Kyja-2')) { 
-//add a live chat button in footer 
-if (!window._laq) { window._laq = []; } 
-window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja-2')); 
-liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja-2'));
-$('.footerColumns').css({'height' : '145px'}); 
-}); 
-} 
-</script>
-
-<script type="text/javascript" src="https://c.la4.salesforceliveagent.com/content/g/deployment.js"></script>
-
-<script type="text/javascript"> liveagent.init('https://d.la4.salesforceliveagent.com/chat', '57260000000KyjB', '00D300000000FAQ'); </script>
-<!--END LIVE PERSON CHAT FOR FOOTER -->
+ <div itemtype="http://www.schema.org/ContactPoint" itemscope=""><span itemprop="contactType">SALES</span>: <br><span style="FONT: bold 18px Arial" itemprop="telephone">800.820.5855</span> <br><br><span itemprop="contactType">CUSTOMER SERVICE</span>: <br><span style="FONT: bold 18px Arial" itemprop="telephone">800.374.2441</span> </div>
 
 
   </ul>
@@ -430,20 +627,25 @@ $('.footerColumns').css({'height' : '145px'});
 <div class="footerColumns">
    
 
-<div id="thanks1"><br><br><br>THANK YOU FOR<br>SIGNING UP.</div>
+<div id="thanks1"><br>THANK YOU FOR<br>SIGNING UP.</div>
 <div id="optinForm2">
 <form name="InterCalldotcomoptin" action="http://s1354.t.eloqua.com/e/f2" method="post" onsubmit="return checkEmail();" target="formFrame">
-  <input type="hidden" name="elqFormName" value="InterCalldotcomoptin">
-  <input type="hidden" name="elqSiteID" value="1354">
-  <strong>GET NOTIFIED <br>ABOUT UPCOMING <a href="/customer-center/webinars.php" style="text-decoration:none;color:#666666; font:bold 14px Arial;">WEBCASTS</a></strong><br>
-<input type="text" value="Enter email address" name="C_EmailAddress" id="optinEmail" onfocus="this.value='';"><span class="errorMsg">Enter a valid email</span>
+
+<!-- bot trap -->
+<style>#address{position:absolute;left:-5000px;}</style>
+<label for="address" id="address">Address<input name="address" class="text" type="text" autocomplete="off"></label>
+
+<input type="hidden" name="elqFormName" value="InterCalldotcomoptin">
+<input type="hidden" name="elqSiteID" value="1354">
+
+<strong>Sign up for news and webinars:</strong><br>
+<input type="text" value="Enter email address" name="C_EmailAddress" id="optinEmail" onfocus="this.value='';"><span class="errorMsg">Enter a valid email</span> <button class="elqFormSubmit" style="margin-left:2px; margin-top:1px;">SEND</button>
  
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Educational1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Promotional1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Conferencing_Compass1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Webinars_Training1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Transacational1" value="1">
-<input type="image" src="http://www.intercall.com/images/btn-subscribeBW.png" border="0" alt="Submit Form" class="elqFormSubmit">
 </form>
 </div>
 <iframe src="http://s1354.t.eloqua.com/e/f2" name="formFrame" class="formFrame"></iframe>
@@ -477,7 +679,7 @@ return false;
 <style>
 #optinForm {
  width:128px;
- padding:80px 10px 0px 10px;
+ padding:80px 0px 10px 10px;
  background:url(http://www.intercall.com/images/tout-upcomingWebinar.jpg) no-repeat;
  text-align:center;
  position:relative;
@@ -488,6 +690,7 @@ return false;
  font:bold 14px Arial;
  color:#666666;
  position:relative;
+margin-bottom:-15px;
  }
 input#optinEmail, input#optinEmail2 {
  width:90%;
@@ -505,7 +708,7 @@ color:#861a0e;
 display:none;
 font:11px Arial;
 position:absolute;
-bottom:40px;
+top:62px;
 }
 .formFrame {
 height:1px;
@@ -517,7 +720,43 @@ visibility:hidden;
  font:bold 15px/19px Arial;
  color:#666666;
 }
+.elqFormSubmit {
+position:absolute;
+top:36px;
+left:148px;
+background-color:#999999;
+color:#FFFFFF;
+padding:0px 10px;
+width:50px;
+height:21px;
+border-width:0px;
+cursor:pointer;
+}
 </style>&nbsp;
+<!--LIVE CHAT FOR FOOTER --><a style="DISPLAY: none" id="liveagent_button_online_57360000000Kyja-2" onclick="liveagent.startChat('57360000000Kyja')" href="javascript://Chat"><img style="MARGIN: 8px 0px 0px -7px; DISPLAY: block" src="http://www.intercall.com/images/btn-footer-liveChat.png"></a> 
+<div style="DISPLAY: none" id="liveagent_button_offline_57360000000Kyja-2"><img src="http://www.intercall.com/images/btn-footer-liveChat-inactive.png"></div>
+<script type="text/javascript"> 
+if (document.getElementById('liveagent_button_offline_57360000000Kyja')) { 
+//add a live chat button to right columns 
+if (!window._laq) { window._laq = []; } 
+window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja')); 
+liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja')); 
+}); 
+} 
+if (document.getElementById('liveagent_button_online_57360000000Kyja-2')) { 
+//add a live chat button in footer 
+if (!window._laq) { window._laq = []; } 
+window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja-2')); 
+liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja-2'));
+$('.footerColumns').css({'height' : '145px'}); 
+}); 
+} 
+</script>
+
+<script type="text/javascript" src="https://c.la4.salesforceliveagent.com/content/g/deployment.js"></script>
+
+<script type="text/javascript"> liveagent.init('https://d.la4.salesforceliveagent.com/chat', '57260000000KyjB', '00D300000000FAQ'); </script>
+<!--END LIVE PERSON CHAT FOR FOOTER -->
 
 </div>
   
@@ -546,14 +785,7 @@ visibility:hidden;
  </ul>    </div>                                                                                                                 
  ©2013. InterCall is a subsidiary of West Corporation.<br>
     <br>
-    <img src="/images/west-logo-grey.gif" width="133" height="30"><br><br>
-<a href="http://blog.intercall.com"><img src="http://www.intercall.com/home-images/icon_rss.gif" border="0"></a>&nbsp;&nbsp;
-<a href="http://www.facebook.com/intercall"><img src="http://www.intercall.com/home-images/icon_facebook.gif" border="0"></a>&nbsp;&nbsp;
-<a style="padding-right:5px;" href="http://www.twitter.com/intercall"><img src="http://www.intercall.com/home-images/icon_twitter.gif" border="0"></a>
-<a class="noArrow" href="http://www.linkedin.com/companies/intercall">
-<img width="16" height="16" border="0" src="http://www.intercall.com/images/linkedinsmblk.gif">
-</a>&nbsp;
-<a href="https://plus.google.com/109197481614909701480" rel="publisher"><img style="border:0;width:16px;height:16px;" alt="" src="http://www.intercall.com/images/gplus-16.gif"></a> </div>
+    <img src="/images/west-logo-grey.gif" width="133" height="30"> </div>
 </div>
 <!--END FOOTER* * * * * * * * * * * * * * * * * * * -->
 <!--END FOOTER* * * * * * * * * * * * * * * * * * * -->
