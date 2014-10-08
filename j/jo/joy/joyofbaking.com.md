@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofbaking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111321id_/http%3A//joyofbaking.com/other/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofbaking.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008214540id_/http%3A//joyofbaking.com/other/privacypolicy.html) for the most accurate reproduction.*
 
 # Joyofbaking.com Privacy Policy
 
@@ -8,20 +8,19 @@ We collect the e-mail addresses of those who communicate with us via e-mail and 
 
 With respect to cookies: We do not set any cookies. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail [here](https://web.archive.org/web/20140625111321id_/http%3A//joyofbaking.com/other/emailstephanie.html). 
+If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail [here](https://web.archive.org/web/20141008214540id_/http%3A//joyofbaking.com/other/emailstephanie.html). 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, Ad Server companies may collect information such as your domain type, your IP address and clickstream information. These companies may set cookies or use web beacons. For further information, consult the privacy policies of:
 
 [ Google](http://www.google.com/privacy.html)  
-[Adbrite](http://www.adbrite.com/mb/privacy.php)  
-[ Adify](https://app.adify.com/FooterPages/Privacy.aspx)  
-[ Contextweb/Adsdaq](http://www.contextweb.com/ppolicy.html) [   
-Amazon](http://www.amazon.com/gp/help/customer/display.html/104-8833146-4193527?ie=UTF8&nodeId=468496)   
+[Cox](https://app.adify.com/FooterPages/Privacy.aspx)  
+[ Pulsepoint   
+](http://www.pulsepoint.com/privacy-policy) [Amazon ](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)   
 [ Value Click](http://valueclick.com/privacy.html)   
-[ Platform-A](http://www.platform-a.com/privacy-policy/advertisingcom/company-statement)   
-[Chitika](https://chitika.com/privacy_policy.php)  
-[ ](http://www.platform-a.com/privacy-policy/advertisingcom/company-statement)[Adconion](http://www.adconion.com/en_us/miscellaneous/privacy-policy.html)[ ](http://www.adconion.com/en_us/miscellaneous/privacy-policy.html)   
-[ ](http://www.platform-a.com/privacy-policy/advertisingcom/company-statement)[BV Media](http://www.bvmedia.ca/EN/Privacy-Policy.html)[ ](http://www.bvmedia.ca/EN/Privacy-Policy.html)   
+[ Advertising.com](http://privacy.aol.com/)   
+[AdRoll](http://www.adroll.com/about/privacy)   
+[Olive Media](http://www.olivemedia.ca/privacy-policy)   
+[Gourmet Ads](http://www.gourmetads.com/about/privacy-policy)  
 [Kontera](http://www.kontera.com/kontera-privacy-policy)
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
@@ -37,4 +36,4 @@ With respect to Traffic Auditing: In order to accurately measure the traffic and
 [ Quantcast](http://www.quantcast.com/privacy.jsp)   
 [ Google](http://www.google.com/privacy.html)
 
-If you feel that this site is not following its stated information policy, you may contact us by [clicking here](https://web.archive.org/web/20140625111321id_/http%3A//joyofbaking.com/other/emailstephanie.html).
+If you feel that this site is not following its stated information policy, you may contact us by [clicking here](https://web.archive.org/web/20141008214540id_/http%3A//joyofbaking.com/other/emailstephanie.html).
