@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210045012id_/http%3A//www.utne.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008233436id_/http%3A//www.utne.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ For our internal purposes, we gather date, time, browser type, navigation histor
 
 We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in an aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services.
 
-We use third-party advertising companies to serve ads when you visit our website. Some of these companies, such as Google use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies **,**  [click here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html").
+We use third-party advertising companies to serve ads when you visit our website. Some of these companies, such as Google use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit: <https://www.google.com/settings/u/0/ads> to change your ad settings or to permanently opt out [click here.](https://www.google.com/settings/ads/plugin)
 
 If you prefer not to receive traditional mail or other off-line promotions from this or any other Ogden Publications property or any companies not owned by Ogden Publications please call 800-678-5779.
 
