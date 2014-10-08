@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221223932id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008060210id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.*
 
-# GazetteXtra | Terms of Use and Privacy Policy
+# Terms of Use and Privacy Policy | GazetteXtra
 
 PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY BEFORE USING GAZETTEXTRA.COM, WALWORTHCOUNTYTODAY.COM, JANESVILLEHOMEFRONT.COM, JANESVILLECLASSIFIEDS.COM, GAZETTEHALFPRICEDEALS.COM or GAZLO.COM (Bliss sites). By using one or more of these sites, you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use these sites.
 
- **TERMS OF USE**
+**TERMS OF USE**
 
 All materials appearing as part of Bliss sites are protected by copyright as individual works and/or as a collective work or compilation under U.S. copyright and other laws and are property of Bliss Communications, Inc., or the party credited as the provider of the content.
 
-Users of Bliss sites shall not directly or indirectly copy, reproduce, transfer, distribute, publish, display, perform, modify, create derivative works, transmit or in any way exploit any content available through Bliss sites, nor shall users distribute any part of Bliss sites' content over any network, sell or offer it for sale, or use such content to construct any kind of database. 
+Users of Bliss sites shall not directly or indirectly copy, reproduce, transfer, distribute, publish, display, perform, modify, create derivative works, transmit or in any way exploit any content available through Bliss sites, nor shall users distribute any part of Bliss sites' content over any network, sell or offer it for sale, or use such content to construct any kind of database.
 
 Associated Press (AP) news, photos, graphics, video, audio and other multimedia material accessed through Bliss sites shall not be directly or indirectly reproduced, published, broadcast, sold, transferred, licensed, distributed in any manner or medium, used to prepare derivative works or displayed publicly in any manner or medium now known or later developed. AP news material shall not be stored in whole or in part in a computer except for personal and non-commercial use. The AP will not be held liable for any delays, inaccuracies, errors or omissions in the AP service or in any AP material including without limitation any third-party content and any of the advertisement in the AP service or in the transmission or delivery of all or any part thereof or for any damages whatsoever.
 
@@ -40,7 +40,7 @@ Personal information you voluntarily provide is used for internal purposes only 
 
 **Special notice about children**
 
-Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us. 
+Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us.
 
 **Notice regarding other online companies**
 
