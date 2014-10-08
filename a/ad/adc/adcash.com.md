@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adcash.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630155527id_/https%3A//www.adcash.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcash.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008140525id_/https%3A//www.adcash.com/en/privacy.php) for the most accurate reproduction.*
 
-# Adcash® Advertising Network | International Advertising Platform
+# Privacy Policy | adcash®
 
 Overview  
 At **Adcash** ® we are deeply committed to respect and protect the privacy of our online visitors.  
