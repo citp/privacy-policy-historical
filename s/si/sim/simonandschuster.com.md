@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084529id_/http%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008034755id_/http%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
 
 # New Book Releases, Bestsellers, Author Info and more at Simon & Schuster
 
