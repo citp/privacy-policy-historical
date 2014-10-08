@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcpost.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510220140id_/http%3A//www.vcpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcpost.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008052241id_/http%3A//www.vcpost.com/privacypolicy) for the most accurate reproduction.*
 
 # Venture Capital Post
 
