@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purebits.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060721id_/http%3A//purebits.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purebits.net privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008170546id_/http%3A//purebits.net/privacy.php) for the most accurate reproduction.*
 
-# PureBits - Privacy
+# Purebits PPD Network - Pay Per Download - Privacy
 
 What information do we collect?   
 We collect information from you when you place an order, subscribe to our newsletter or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
