@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the patentbuddy.com privacy policy that was archived on 2014-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210005626id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patentbuddy.com privacy policy that was archived on 2014-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008155515id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-			<title>
-	  Patent Buddy Special Reports
-		</title>
+			
+			<title>PatentBuddy Special Reports</title>
 			
 		<base href="http://www.patentbuddy.com/">	
 			<link rel="stylesheet" media="screen, projection" href="style/pbnewstyles/css/pbmains.css">
@@ -17,9 +16,21 @@
 </head>
 <body>
 
+
+
+
 <link rel="stylesheet" media="screen, projection" href="style/pbnewstyles/css/pbmains.css">
 <link type="text/css" href="style/pbstyle/modal/basic.css" rel="stylesheet" media="screen">
+		
+<link href="style/pbnewstyles/css/perfect-scrollbar.css" rel="stylesheet">
+
 <script src="scripts/newjs/planDetails.js"></script>
+<script src="scripts/newjs/jquery.mousewheel.js"></script>
+    <script src="scripts/newjs/perfect-scrollbar.js"></script>
+    
+<script src="scripts/jquery/jquery.alerts.js" type="text/javascript"></script>
+<link href="scripts/jquery/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
+
 
 <script type="text/javascript">
 	var contextPath =  'http://www.patentbuddy.com/';
@@ -28,6 +39,13 @@
 		window.setTimeout(function() {$('#upgrade-membership-modal').modal({onShow: function (dialog) {
 			 dialog.container.css("width","900px");
 			 dialog.container.css("height","600px");
+			 
+			 $("#planFeaturesContainer, #planFeaturesContainerUpgrade, #planFeaturesContainerTrial, #planFeaturesContainerFreemium").perfectScrollbar({
+					wheelSpeed: 20,
+					wheelPropagation: false,
+					minScrollbarLength : 5
+				});     
+			 
 		}})}, 250);
 		 return false;
 	}
@@ -43,19 +61,17 @@
 	    return returnKey;       
 	           
 	}
-
-	$(document)
-	.ready(
-			function() {
-				disableOrEnablePlanFrequency();
-				disableOrEnablePlanFrequencyForFreemium();
-				var profileInTrialMode = 'false';
-				if(profileInTrialMode == "true"){
-					trialModePopUp();
-				}
-				
-			});
-
+	
+	$(document).ready(function() {
+		   
+		disableOrEnablePlanFrequency();
+		disableOrEnablePlanFrequencyForFreemium();
+		var profileInTrialMode = 'false';
+		if(profileInTrialMode == "true"){
+			trialModePopUp();
+		}
+	});
+	
 	function disableOrEnablePlanFrequency() {
 		var subscriptionCycle = '';
 		var val = document.getElementsByName('type_radio');
@@ -140,10 +156,34 @@
 		 window.setTimeout(function() {$('#trial-membership-modal').modal({onShow: function (dialog) {
 			 dialog.container.css("width","900px");
 			 dialog.container.css("height","620px");
+			 $("#planFeaturesContainer, #planFeaturesContainerUpgrade, #planFeaturesContainerTrial, #planFeaturesContainerFreemium").perfectScrollbar({
+					wheelSpeed: 20,
+					wheelPropagation: false,
+					minScrollbarLength : 5
+				});     
 		}})}, 250);
 	}
+
 </script>
 
+
+<style type="text/css">
+#simplemodal-container {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-radius: 6px 6px 6px 6px;
+	background-color: #FFFFFF;
+	padding-top: 20px;
+	position: fixed;
+	z-index: 1002;
+	border: 1px solid #333333;
+	height:auto;
+	width:auto;
+}
+
+html {
+	
+}
+</style>
 
 <!--[if lt IE 9]>
 	<script src="scripts/newjs/html5.js"></script>
@@ -156,20 +196,25 @@
 	<link rel="stylesheet" href="style/pbnewstyles/css/ie6.css" type="text/css"/>
 <![endif]-->
 
-
 		<div id="logo">
-			<a href="#">Patent Buddy</a>
-		</div><div class="quickSignUpLinks non-mobile"><div id="dad" style="width:600px;margin-top:-12px;"><a id="idOt2" name="idOt2" href="login.jsf;jsessionid=09831309326261DCE192828AFE56D995" style="color:#fff;text-align:right;float:right;">Sign In</a><span id="idOt1" style="color:#fff;text-align:right;float:right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a id="idOt" name="idOt" href="registration;jsessionid=09831309326261DCE192828AFE56D995" style="color:#fff;text-align:right;float:right;">Join Today</a></div></div>	
+			<a id="_idJsp34" name="_idJsp34" href="#">Patent Buddy</a>
+		</div><div class="quickSignUpLinks non-mobile"><div id="dad" style="width:600px;margin-top:-12px;"><a id="idOt2" name="idOt2" href="login.jsf" style="color:#FFFFFF;text-align:right;float:right;">Sign In</a><span id="idOt1" style="color:#FFFFFF;text-align:right;float:right;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><a id="idOt" name="idOt" href="registration" style="color:#FFFFFF;text-align:right;float:right;">Join Today</a></div></div>	
 		<nav id="nav-primary" role="navigation">
 			<ul id="mailUlId">
-				<li id="nav-dashboard" style="padding: 17px 25px 0 0"><a href="dashboard" style="width:115px;">UPDATE SUMMARY</a></li>
+				<li id="nav-dashboard" style="padding: 17px 15px 0 0"><a href="dashboard" style="width:115px;">UPDATE SUMMARY</a></li>
 				
-				<li id="nav-portfolio" style="padding: 17px 25px 0 0"><a href="pages/portfolio-pages/userPortfolios.jsf"><span>Portfolio(s)</span></a></li>
+				<li id="nav-portfolio" style="padding: 17px 15px 0 0"><a href="pages/portfolio-pages/userPortfolios.jsf"><span>Portfolio(s)</span></a></li>
 				
-				<li id="nav-search" style="padding: 17px 25px 0 0"><a href="SearchPatents"><span>Search</span></a></li>
+				<li id="nav-search" style="padding: 17px 15px 0 0"><a href="SearchPatents"><span>Search</span></a></li>
 				
-				<li id="nav-watches" style="padding: 17px 25px 0 0"><a href="watches"><span>Following</span></a></li>
-			    <li id="nav-toprated" style="padding: 17px 10px 0 0"><a href="topprosecutors"><span>Top Rated</span></a></li>
+				<li id="nav-comparisons" style="padding: 17px 15px 0 0"><a href="comparisons"><span>Comparisons</span></a></li>
+				
+				<li id="nav-watches" style="padding: 17px 15px 0 0"><a href="watches"><span>Following</span></a></li>
+				
+			    <li id="nav-toprated" style="padding: 17px 15px 0 0"><a href="Top500PatentOwner/All"><span>Top Rated</span></a></li>
+			    
+			    <li id="nav-reports" style="padding: 17px 15px 0 0; display: none;"><a href="pages/userLibrary.jsfs"><span>Reports</span></a></li>
+			   	
 			</ul>
 		</nav>
 
@@ -187,7 +232,7 @@
 					</div>
 
 					</div>
-				<form id="membershipUpgradeForm" name="membershipUpgradeForm" method="post" action="/privacypolicy.jsf;jsessionid=09831309326261DCE192828AFE56D995" enctype="application/x-www-form-urlencoded" target="">
+				<form id="membershipUpgradeForm" name="membershipUpgradeForm" method="post" action="/privacypolicy.jsf" enctype="application/x-www-form-urlencoded" target="">
 				<div id="upgrade-membership-modal" style="display:none;">
 					<div class="popup-window" style="padding:14px;">
         <div style="width: 867px; margin-top: 20px;">
@@ -200,7 +245,7 @@
                         </td>
                         <td style="width: 5px;"></td>
                         <td align="center" style="width: 135px;">
-                            <h2>Standard</h2>
+                            <h2>Premium</h2>
                         </td>
                         <td style="width: 5px;"></td>
                         <td align="center" style="width: 135px;">
@@ -213,7 +258,7 @@
                     </tr>
                 </thead>
             </table>
-            <div style="width:867px; overflow:auto; height:315px;">
+            <div id="planFeaturesContainerUpgrade" style="width:867px; overflow:hidden; height:315px;position : relative;">
             <table class="table-grid" style="width:850px;">
                 <tbody>
                     <tr class="cellpadding">
@@ -411,9 +456,7 @@
                         <td>&nbsp;</td>
                         <td align="center" valign="middle">&nbsp;</td>
                         <td>&nbsp;</td>
-                        <td align="center" style="color: #FFFFFF; padding: 0px; margin: 0px; height: auto;vertical-align: top;">+ $.08/mo per
-                    <br>
-                            patent in a portfolio. </td>
+                        <td align="center" style="color: #FFFFFF; padding: 0px; margin: 0px; height: auto;vertical-align: top;"></td>
                     </tr>
                     
                     <tr class="cellpadding">
@@ -427,23 +470,23 @@
 								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
 									Watch Daily Update</td>
 								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$5.75/mo/patent</td>
-								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.65/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.55/mo/patent</td>
 					</tr>
                     
 					
 					<tr>
 						<td align="left" valign="middle" height="50"><script type="text/javascript"><!--
 function oamSetHiddenInput(formname, name, value){var form = document.forms[formname];if(typeof form.elements[name]=='undefined'){var newInput = document.createElement('input');newInput.setAttribute('type','hidden');newInput.setAttribute('name',name);newInput.setAttribute('value',value);form.appendChild(newInput);}else{form.elements[name].value=value;}}function oamClearHiddenInput(formname, name, value){var form = document.forms[formname];if(typeof form.elements[name]!='undefined'){form.elements[name].value=null;}}function oamSubmitForm(formName, linkId, target, params){var clearFn = 'clearFormHiddenParams_'+formName.replace(/-/g, '\$:').replace(/:/g,'_');if(typeof eval('window.'+clearFn)!='undefined'){eval('window.'+clearFn+'(formName)');}if(typeof window.getScrolling!='undefined'){oamSetHiddenInput(formName,'autoScroll',getScrolling());}var oldTarget = '';if((typeof target!='undefined') && target != null){oldTarget=document.forms[formName].target;document.forms[formName].target=target;}if((typeof params!='undefined') && params != null){for(var i=0; i<params.length; i++){oamSetHiddenInput(formName,params[i][0], params[i][1]);}}oamSetHiddenInput(formName,formName +':'+'_idcl',linkId);if(document.forms[formName].onsubmit){var result=document.forms[formName].onsubmit();if((typeof result=='undefined')||result){document.forms[formName].submit();}}else {document.forms[formName].submit();}if(oldTarget==null) oldTarget='';document.forms[formName].target=oldTarget;if((typeof params!='undefined') && params != null){for(var i=0; i<params.length; i++){oamClearHiddenInput(formName,params[i][0], params[i][1]);}}oamClearHiddenInput(formName,formName +':'+'_idcl',linkId);return false;}
-//--></script><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp100');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp100" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a><input type="hidden" name="autoScroll">
+//--></script><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp144');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp144" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a><input type="hidden" name="autoScroll">
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp103');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp103" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp147');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp147" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp106');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp106" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp150');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp150" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp109');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp109" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:upgradeMember_inc:_idJsp153');" id="membershipUpgradeForm:upgradeMember_inc:_idJsp153" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 					</tr>
                 </tfoot>
@@ -457,7 +500,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 					
 					<h2><p style="color:red;font-size:13px;">Welcome to PatentBuddy 2.0!  Please enjoy the 30+ day free trial of our  level membership.  If you wish to continue with a paid membership, please select a membership plan before the year end expiration date.  Otherwise, all portfolios and followings will be reset to our free membership plan after the expiration date.</p></h2>
 					
-        <div style="width: 867px; margin-top: 5px;">
+        <div style="width: 867px; margin-top: 5px;overflow : auto;">
             <table class="table-grid" style="width:867px;">
                 <thead class="fd-header">
                     <tr style="background: #3e3e3e;">
@@ -467,7 +510,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                         </td>
                         <td style="width: 5px;"></td>
                         <td align="center" style="width: 135px;">
-                            <h2>Standard</h2>
+                            <h2>Premium</h2>
                         </td>
                         <td style="width: 5px;"></td>
                         <td align="center" style="width: 135px;">
@@ -480,7 +523,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                     </tr>
                 </thead>
             </table>
-            <div style="width:867px; overflow:auto; height:315px;">
+            <div id="planFeaturesContainerTrial" style="width:867px; height:315px;  overflow : hidden;position : relative;">
             <table class="table-grid" style="width:850px;">
                 <tbody>
                     <tr class="cellpadding">
@@ -678,9 +721,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                         <td>&nbsp;</td>
                         <td align="center" valign="middle">&nbsp;</td>
                         <td>&nbsp;</td>
-                        <td align="center" style="color: #FFFFFF;">+ $.08/mo per
-                    <br>
-                            patent in a portfolio. </td>
+                        <td align="center" style="color: #FFFFFF;"></td>
                     </tr>
                     
                     <tr class="cellpadding">
@@ -694,21 +735,21 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
 									Watch Daily Update</td>
 								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$5.75/mo/patent</td>
-								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.65/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.55/mo/patent</td>
 					</tr>
                     
 					
 					<tr>
-						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp133');" id="membershipUpgradeForm:trialMode_inc:_idJsp133" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycle(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp177');" id="membershipUpgradeForm:trialMode_inc:_idJsp177" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp136');" id="membershipUpgradeForm:trialMode_inc:_idJsp136" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp180');" id="membershipUpgradeForm:trialMode_inc:_idJsp180" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp139');" id="membershipUpgradeForm:trialMode_inc:_idJsp139" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp183');" id="membershipUpgradeForm:trialMode_inc:_idJsp183" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp142');" id="membershipUpgradeForm:trialMode_inc:_idJsp142" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycle(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:trialMode_inc:_idJsp186');" id="membershipUpgradeForm:trialMode_inc:_idJsp186" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 					</tr>
                 </tfoot>
@@ -721,7 +762,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 					<div class="popup-window" style="padding: 23px;">
 						<h1 class="port-heading" style="font-size:22px;">Please Confirm Your Upgraded Plan Purchase By Selecting Upgrade Button</h1>
 							<div id="subscriptionCycle" class="input" style="width:auto;float:left;margin: 30px 0 30px 14px;">
-									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio_for_freemium"><tbody><tr>		<td><label><input type="radio" name="type_radio_for_freemium" value="annually" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio_for_freemium" value="monthly" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp147" name="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp147" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
+									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio_for_freemium"><tbody><tr>		<td><label><input type="radio" name="type_radio_for_freemium" value="annually" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio_for_freemium" value="monthly" onclick="confirmSubscriptionValue(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirm_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp191" name="membershipUpgradeForm:subscriptionConfirm_inc:_idJsp191" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
 							</div>
 					</div>
 				</div>
@@ -738,7 +779,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                         </td>
                         <td style="width: 5px;"></td>
                         <td align="center" style="width: 135px;">
-                            <h2>Standard</h2>
+                            <h2>Premium</h2>
                         </td>
                         <td style="width: 5px;"></td>
                         <td align="center" style="width: 135px;">
@@ -751,7 +792,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                     </tr>
                 </thead>
             </table>
-            <div style="width:867px; overflow:auto; height:315px;">
+            <div id="planFeaturesContainerFreemium" style="width:867px; overflow:hidden; height:315px; position: relative;">
             <table class="table-grid" style="width:850px;">
                 <tbody>
                     <tr class="cellpadding">
@@ -949,9 +990,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
                         <td>&nbsp;</td>
                         <td align="center" valign="middle">&nbsp;</td>
                         <td>&nbsp;</td>
-                        <td align="center" style="color: #FFFFFF;">+ $.08/mo per
-                    <br>
-                            patent in a portfolio. </td>
+                        <td align="center" style="color: #FFFFFF;"></td>
                     </tr>
                     
                     <tr class="cellpadding">
@@ -965,21 +1004,21 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 								<td colspan="3" align="right" valign="middle" height="15" style="background: #FFFFFF;">PAIR
 									Watch Daily Update</td>
 								<td colspan="3" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px;background: #3e3e3e;" align="center" valign="middle">$5.75/mo/patent</td>
-								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.65/mo/patent</td>
+								<td align="center" valign="middle" style="color: #FFFFFF; padding: 0px 10px; margin: 0px; font-size:12px; background: #3e3e3e;">$5.55/mo/patent</td>
 					</tr>
                     
 					
 					<tr>
-						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp165');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp165" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="left" valign="middle" height="50"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(1)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp209');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp209" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp168');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp168" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(2)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp212');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp212" style="margin-left:18px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp171');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp171" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(3)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp215');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp215" style="margin-left:20px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 						<td style="width: 5px;">&nbsp;</td>
-						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp174');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp174" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
+						<td align="center" valign="middle"><a href="#" onclick="if (!confirmSubscriptionCycleForFreemium(4)) return false;;return oamSubmitForm('membershipUpgradeForm','membershipUpgradeForm:freemiumUpgrade:_idJsp218');" id="membershipUpgradeForm:freemiumUpgrade:_idJsp218" style="margin-left:30px;font-weight:bold;" class="button-green abc">Upgrade Now</a>
 						</td>
 					</tr>
                 </tfoot>
@@ -992,7 +1031,7 @@ function oamSetHiddenInput(formname, name, value){var form = document.forms[form
 					<div class="popup-window" style="padding: 23px;">
 						<h1 class="port-heading" style="font-size:22px;">Please Confirm Your Upgraded Plan Purchase By Selecting Upgrade Button</h1>
 							<div id="subscriptionCycle" class="input" style="width:auto;float:left;margin: 30px 0 30px 14px;">
-									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio"><tbody><tr>		<td><label><input type="radio" name="type_radio" value="annually" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio" value="monthly" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp179" name="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp179" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
+									<table style="border-collapse: separate;border-spacing: 1em;" id="type_radio"><tbody><tr>		<td><label><input type="radio" name="type_radio" value="annually" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Yearly (Get 12 months for the price of 11!)</label></td>		<td><label><input type="radio" name="type_radio" value="monthly" onclick="confirmSubscriptionValueForFreemium(this.value);" style="border-collapse: separate;border-spacing: 1em;">&nbsp;Monthly</label></td></tr></tbody></table><div><a href="#" onclick="clear_membershipUpgradeForm();if(window.getScrolling!=undefined){document.forms['membershipUpgradeForm'].elements['autoScroll'].value=getScrolling();}document.forms['membershipUpgradeForm'].elements['membershipUpgradeForm:_link_hidden_'].value='membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase';if(document.forms['membershipUpgradeForm'].onsubmit){var result=document.forms['membershipUpgradeForm'].onsubmit();  if( (typeof result == 'undefined') || result ) {document.forms['membershipUpgradeForm'].submit();}}else{document.forms['membershipUpgradeForm'].submit();}return false;" id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:upgradePurchase" style="margin: 10px 10px 10px 140px;" class="button-green abc"><span style="color:white;">UPGRADE</span></a><a id="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp223" name="membershipUpgradeForm:subscriptionConfirmForFreemium_inc:_idJsp223" href="javascript:void(0)" style="float:right;margin:10px;" class="button-red abc simplemodal-close"><span style="color:white">CANCEL</span></a></div>
 							</div>
 					</div>
 				</div>
@@ -1003,7 +1042,7 @@ function clear_membershipUpgradeForm() {
   f.target='';
 }
 clear_membershipUpgradeForm();
-//--></script><input type="hidden" name="jsf_tree_64" id="jsf_tree_64" value="H4sIAAAAAAAAAK1YzW/cRBQf8lEaaIgKVD2AVFEqFSKxWY+9/lDFoQS1SZSQKGmLUA6r6Xo263T9gT1Okws37hw5cEeq8hfwF3DjigSCI1y4cmbs2LObN37ZTcTFst+8eW/ee7/34Tn9h8xnKXkcpwctlrDegLfCkz7r8Ux+JsOgx0QQR60nKed7Is17Ik/5FovYAU/vjYircZjEEY/Eo69u//rDxr+/zJC5fbLQ7Q2CoZ9KOtnY35QqVs5UrFQqVsZUrEyr4sEmWer26q/VIcsyQd7ePGRHbGXIooMVyR9EB5Ltxoht3f+afENm9snr3UKzkFve2R/bs/38kPfEg+MkT6uj/h/eePDT6f2fb3773asZQo4TQsitrDgGSQSxGlSo07YGIhy2+LForcmX7VwkuXgiP4U8fuBvZImRVIKK53VFNpvJnWay00z2APl6pRLqrOlQaU2HWmt6rTYvnvPSKeRS3thhER8+TuM8USJpWxNZvLw/YqCQ4ZoKxMcFCI5bjTqh92txNhT32pip9xSf2ZbyP2gyLc9EHLb84Kj1eXA0kusmzXJMhN5B6A5C90rC8kihhRiivmenMtSiUztyM4heCDIf+NuCglOWRGM611pmSfhUkLliV23XrM98YKOlSYQ2AbBYWHQnHKlj1EeqCe0ESHYn4LRjwR1agGabdXuQb+5iTbZ5NSNtFxhpO+DIdmeCkY4WEMhgQpHNO5ZLyMgkAuwdBP6O5v6ZqWx2VWDfy5ODlPl8J097A5bxR3G683B990smeoPpcOuawH8uBXh1tWI2D74XmyXbzVa7mtXNEPJgOtZ0C6HbwO1eG2FUDUWQzvR1XjbRkEX+Wb1YqHpHG+pQC+dO//3YAqydaqGD7YCOVAsutuNqFq5Hsh6uSQQX89GNjA/lBML9RM4jI3HOpR32WS5ELAXeHpSSn54hdouHz3maDYJECr3fXKmfrn/BQjk5rcrtLIh4KsjNfHx7N4h6EEyLF8O+dpGhKpuiaD2ZQA4sEIaHLFCs1muMsHOqBVg71IIHDaAYskwMi1ofVwsYFk3MBSaGRRPzjWUgO6yzCnQqyKIcnNlwK/Z5U6Rh25xRIL2L4WmvxPS64KEgb4qThHdPOEuHJ+Mn+U1iv1wKJewGck0Qd3rQn2nYjvgu84NYor4UlRYf3X6cdvtyKA+DPLxk5Ve+seVxlicMNucq1RJoERPaglKk+qqiOHVjUJRzKPlRpfhe/jzrpUFS/Jo8Y8Oc1/G8nY2tyKzuB2l4QQ7DM3UMBEodbXhA0kzrxGoBQ6ltwDTrYKlqWwigbXSHg+2Ag3e94LSRHQ7mG8fEdlggeu/W2NyrKv/OWOUvnq8EuVPzrCHFvIr0Us1XcUybu2UCFo/fE0j5o3z9U5A3Ril1xSxyzsD9V/H4e8qEcNswIRwPJoTjAJfeRRJCzmmP6kJQeexuQ26MsZVpIsiHE1Jf7pCl7VaoAlL5v6BPGrDvIIZj6HWxZHKxZPIwkHpYI/K04R0Jj+fA8HhYq/KQ5KLYMEfbcBRVC3AWVQuIctrGlBuYcgNTbmDKjUnXAYoRFnlqIDGl2IhDKRJTio00FBtpKMV0mJgObICh2k2EWsCUW5goCxNloaJG1xqhnFs/qf8IxyqFq/1Hk/McVO9pMF9hsSOTrzzG76qUIg0t8FcdQY9NgVXU1n4VJ/zEq40dTZSlUTSHLEwpXEO5jUXO1q4tEJmOAWU6WP462n8FJtPSZGKYdKYsi9SBZZE6WGXSbyMQmVonpFonpPZl76yUcBMKdzWYVfcf48ni1W30LT/IekMWhNXfYcV4rR/HgqcS9h+Vs/whO7YOs36rn7KQv4zTFyWp9VA+ngX85a7kLqQfVe/Jf43QbnyWGAAA"><input type="hidden" name="jsf_state_64" id="jsf_state_64" value="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"><input type="hidden" name="jsf_viewid" id="jsf_viewid" value="/privacypolicy.jsp"></form>
+//--></script><input type="hidden" name="jsf_tree_64" id="jsf_tree_64" value="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"><input type="hidden" name="jsf_state_64" id="jsf_state_64" value="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"><input type="hidden" name="jsf_viewid" id="jsf_viewid" value="/privacypolicy.jsp"></form>
 
 
 
@@ -1011,33 +1050,20 @@ clear_membershipUpgradeForm();
 
 
 
-
-<style type="text/css">
-
-#simplemodal-container {
-	background: none repeat scroll 0 0 #FFFFFF;
-	border-radius: 6px 6px 6px 6px;
-	background-color: #FFFFFF;
-	padding-top: 20px;
-	position: fixed;
-	z-index: 1002;
-	border: 1px solid #333333;
-	height:auto;
-	width:auto;
-}
-			
-</style>
-
+	
 
 	
 	
 	
-		 
+	     
 	
 					
 					
 					
-					
+	
+	
+	
+		   
 	
 	
 		
@@ -1203,10 +1229,11 @@ clear_membershipUpgradeForm();
 
 
 
+
     
     <nav id="nav-secondary" role="navigation">
 			<ul class="current">
-				<li class="current" id="analytics"><a href="SearchPatents">Back to Patent Analytics</a></li>
+				<li class="current" id="analytics"><a href="SearchPatents">Back to Patent Search</a></li>
 </ul>
 		</nav>
 
@@ -1214,7 +1241,7 @@ clear_membershipUpgradeForm();
 
 <section id="main" role="main" class="wide">
 			<section id="search">
-	<h2 class="border_bottom_none">Patent Buddy Privacy Policy Highlights:</h2>
+	<h2 class="border_bottom_none">PatentBuddy Privacy Policy Highlights:</h2>
 			This page summarizes the key highlights from our privacy policy. For more information, read our full privacy policy. 
 	      </section>
 	      	<div>
@@ -1228,13 +1255,13 @@ We collect information:
 <br>
 </p><ul style="margin-left: 20px;line-height: 2;">
 <li class="margin-left25">
-When you register an account to become a Patent Buddy user ("User"), such as your name, e-mailaddress, phone number and a password.<br> 
+When you register an account to become a PatentBuddy user ("User"), such as your name, e-mailaddress, phone number and a password.<br> 
 </li><li class="margin-left25">
 When you modify your profile. <br>
 </li><li class="margin-left25">
 We use cookies and other technologies to recognize you, customize your experience and serve advertisements. <br>
 </li><li class="margin-left25">
-We automatically collect information regarding, such as from your IP address, the URLs of sites from which you arrive or leave the Patent Buddy website, your type of browser and your ISP. 
+We automatically collect information regarding, such as from your IP address, the URLs of sites from which you arrive or leave the PatentBuddy website, your type of browser and your ISP. 
 </li>
 </ul>
 
@@ -1247,13 +1274,13 @@ We use the information you provide to:
 <li class="margin-left25">
 Administer your account with us and customize the service we provide to you. <br>
 </li><li class="margin-left25">
-To send you service or promotional communications through email and notices on the Patent Buddy website. <br>
+To send you service or promotional communications through email and notices on the PatentBuddy website. <br>
 </li><li class="margin-left25">
 We do not sell, rent or otherwise provide your personal identifiable information to any third parties for marketing purposes. <br>
 </li><li class="margin-left25">
 In order to deliver our services, we may share information with third parties. <br> 
 </li><li class="margin-left25">
-Enable you to share your information and communicate with other Users, or provide (usually at your option) your personal details to third parties offering combined services with Patent Buddy. 
+Enable you to share your information and communicate with other Users, or provide (usually at your option) your personal details to third parties offering combined services with PatentBuddy. 
 </li>
 </ul>
 
@@ -1270,7 +1297,7 @@ Choose what information you make available through your public profile. <br>
 </li><li class="margin-left25">
 Change your settings to control visibility and accessibility through our website. <br>
 </li><li class="margin-left25">
-Tell us to close your Patent Buddy account. <br>
+Tell us to close your PatentBuddy account. <br>
 </li>
 </ul>
 
@@ -1290,7 +1317,7 @@ Personal information you provide will be secured with industry standard protocol
 <br>
 If you have any questions or comments please email us at 
 					
-				<a id="_idJsp196" name="_idJsp196" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp252" name="_idJsp252" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 
 </p><br>
 
@@ -1308,12 +1335,12 @@ Any personally identifiable information that you provide will be secured with in
 </ul>
 
 <p style="line-height: 2;">
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the Patent Buddy service after notice of changes have been sent to you or published on the Patent Buddy website, you are consenting to the changes.<br>
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. By continuing to use the PatentBuddy service after notice of changes have been sent to you or published on the PatentBuddy website, you are consenting to the changes.<br>
 Please read this privacy policy to learn more about:
 </p>
 <ul style="line-height: 2;">
 <li class="margin-left25" style="list-style-type:decimal;margin-left: 20px;">
-What personally identifiable information of yours is collected by Patent Buddy.<br> 
+What personally identifiable information of yours is collected by PatentBuddy.<br> 
 </li><li class="margin-left25" style="list-style-type:decimal;margin-left: 20px;">
 How the information is used. <br>
 </li><li class="margin-left25" style="list-style-type:decimal;margin-left: 20px;">
@@ -1321,7 +1348,7 @@ With whom the information may be shared.<br>
 </li><li class="margin-left25" style="list-style-type:decimal;margin-left: 20px;">
 How you can access and change your Account settings.<br> 
 </li><li class="margin-left25" style="list-style-type:decimal;margin-left: 20px;">
-What security procedures are in place to protect the loss, misuse or alteration of information collected by Patent Buddy<br>
+What security procedures are in place to protect the loss, misuse or alteration of information collected by PatentBuddy<br>
 </li><li class="margin-left25" style="list-style-type:decimal;margin-left: 20px;"> 
 How to contact us. <br>
 </li>
@@ -1330,7 +1357,7 @@ How to contact us. <br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Personal Information.</span>					
 <br>
-The purpose of the Patent Buddy website is to permit Users to voluntarily provide information about themselves for the purposes of developing, maintaining and enhancing a network of professional contacts. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the Patent Buddy website. If you have any hesitation about providing such information to us and/or having such information displayed on the Patent Buddy website or otherwise used in any manner permitted in this Privacy Policy and the Terms of Use, you should not become a member of the Patent Buddy community.
+The purpose of the PatentBuddy website is to permit Users to voluntarily provide information about themselves for the purposes of developing, maintaining and enhancing a network of professional contacts. You willingly provide us certain personal information, which we collect in order to allow you to benefit from the PatentBuddy website. If you have any hesitation about providing such information to us and/or having such information displayed on the PatentBuddy website or otherwise used in any manner permitted in this Privacy Policy and the Terms of Use, you should not become a member of the PatentBuddy community.
 <br> <br>
 We collect your personal information in the following ways:
 
@@ -1338,14 +1365,14 @@ We collect your personal information in the following ways:
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Registration.</span>					
 <br>
-In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including Patent Buddy, to identify you: name, email address, name of the organization that you are associated with, and a password chosen by you.
+In order to become a User, you must first create an account on our website. To create an account you are required to provide the following contact information, which you recognize and expressly acknowledge is personal information allowing others, including PatentBuddy, to identify you: name, email address, name of the organization that you are associated with, and a password chosen by you.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Profile Information.</span>					
 <br>
-Once you become a User, you may provide additional information in the Profile section describing your skills, professional experiences, and awards/recognitions. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the Patent Buddy system to build and leverage your professional network. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service. If you opt-out you may lose the potential benefit of being a User, including receiving ads that are more targeted to your interests.
+Once you become a User, you may provide additional information in the Profile section describing your skills, professional experiences, and awards/recognitions. Providing additional information beyond what is required at registration to become a User is entirely optional, but enables you to better identify yourself and find new opportunities in the PatentBuddy system to build and leverage your professional network. Any information you provide at registration or in the Profile section that is not personally identifiable may be used in the same manner and extent to which other information that is not personally identifiable is permitted to be used hereunder, including for the purpose of serving advertisements through the service. If you opt-out you may lose the potential benefit of being a User, including receiving ads that are more targeted to your interests.
 <br>
 
 </p><br>
@@ -1353,33 +1380,33 @@ Once you become a User, you may provide additional information in the Profile se
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Customer Service.</span>					
 <br>
-Patent Buddy may collect information through the Patent Buddy website or through the Customer Service in order to, among other things, accurately categorize and respond to a customer's inquiry and deliver appropriate service levels.
+PatentBuddy may collect information through the PatentBuddy website or through the Customer Service in order to, among other things, accurately categorize and respond to a customer's inquiry and deliver appropriate service levels.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Cookies.</span>					
 <br>
-Like most websites, Patent Buddy uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows Patent Buddy to recognize you as a User when you return to the Patent Buddy website using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use the Patent Buddy website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website.
+Like most websites, PatentBuddy uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows PatentBuddy to recognize you as a User when you return to the PatentBuddy website using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use the PatentBuddy website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website.
 <br>
-One type of cookie, known as a "persistent" cookie, is set once you've logged in to your Patent Buddy account. The next time you visit the Patent Buddy website, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. In order to access or change any of your private information or to send a message to another User, however, you must log in securely again with your password even if your computer contains your persistent cookie.
+One type of cookie, known as a "persistent" cookie, is set once you've logged in to your PatentBuddy account. The next time you visit the PatentBuddy website, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. In order to access or change any of your private information or to send a message to another User, however, you must log in securely again with your password even if your computer contains your persistent cookie.
 <br>
-Additionally, if you log out of the Patent Buddy website you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the Patent Buddy website. Session cookies expire after a short time or when you close your web browser.
+Additionally, if you log out of the PatentBuddy website you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the PatentBuddy website. Session cookies expire after a short time or when you close your web browser.
 <br>
-We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, your occupation, or information about your professional or educational background, for greater customization of your user experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the Patent Buddy website or services effectively. Patent Buddy does not store personally identifiable information in the cookies.
+We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, your occupation, or information about your professional or educational background, for greater customization of your user experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the PatentBuddy website or services effectively. PatentBuddy does not store personally identifiable information in the cookies.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Web Beacons.</span>					
 <br>
-We allow other Patent Owners, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Patent Buddy may "target" some ads to Users that fit a certain general profile - for example, "product managers in Texas". Patent Buddy does NOT use personally identifiable information to target ads.
+We allow other Patent Owners, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. PatentBuddy may "target" some ads to Users that fit a certain general profile - for example, "product managers in Texas". PatentBuddy does NOT use personally identifiable information to target ads.
 <br>
-To deliver these ads properly, Patent Buddy may include a file, called a web beacon, from these ad networks within pages served by Patent Buddy so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.
+To deliver these ads properly, PatentBuddy may include a file, called a web beacon, from these ad networks within pages served by PatentBuddy so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.
 <br>
 Because your web browser must request these advertisements and web beacons from the ad network's servers, these Patent Owners can view, edit or set their own cookies, just as if you had requested a web page from their site.
 <br>
-These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. Patent Buddy does not provide personally identifiable information to any advertiser or any other third party.
+These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. PatentBuddy does not provide personally identifiable information to any advertiser or any other third party.
 <br>
 
 </p><br>
@@ -1387,15 +1414,15 @@ These general targets may also be used by ad networks to display targeted ads on
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Log files, IP addresses and information about your computer.</span>					
 <br>
-Due to the communications standards on the Internet, when you visit the Patent Buddy web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave Patent Buddy. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Patent Buddy service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.
+Due to the communications standards on the Internet, when you visit the PatentBuddy web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave PatentBuddy. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the PatentBuddy service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law.
 <br>
 
 </p><br>
 
 
-<p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Consent to Patent Buddy Processing Information About You.</span>					
+<p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Consent to PatentBuddy Processing Information About You.</span>					
 <br>
-Certain information you provide to Patent Buddy may reveal, or allow others to identify more  about you. Please be aware that in providing information to Patent Buddy for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and Patent Buddy's User Agreement. The supplying of all such information by you to Patent Buddy, including all information deemed "sensitive" by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.
+Certain information you provide to PatentBuddy may reveal, or allow others to identify more  about you. Please be aware that in providing information to PatentBuddy for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and PatentBuddy's User Agreement. The supplying of all such information by you to PatentBuddy, including all information deemed "sensitive" by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the User Agreement, but please note that your withdrawal of consent will not be retroactive.
 <br>
 
 </p><br>
@@ -1406,66 +1433,66 @@ You have a right to access, modify, correct and eliminate the data about you whi
 <br>
 We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at 
 					
-				<a id="_idJsp217" name="_idJsp217" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp341" name="_idJsp341" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 </p><br>
 	
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Uses of personal information.</span>					
 <br>
-Patent Buddy is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by Patent Buddy from Users (such as, for example, patterns of utilization) and is exclusively owned by Patent Buddy. This information can be utilized by Patent Buddy in such manner as Patent Buddy, in its sole discretion, deems appropriate.
+PatentBuddy is an online service dedicated to helping all types of professionals more effectively connect with one another. The personally identifiable information you choose to provide on our website is used to help you describe yourself to other Users. Other information, that does not personally identify you as an individual, is collected by PatentBuddy from Users (such as, for example, patterns of utilization) and is exclusively owned by PatentBuddy. This information can be utilized by PatentBuddy in such manner as PatentBuddy, in its sole discretion, deems appropriate.
 <br>
 
 </p><br>
 
-<p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Patent Buddy Communications.</span>					
+<p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">PatentBuddy Communications.</span>					
 <br>
-Patent Buddy will communicate with you through email and notices posted on the Patent Buddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from Patent Buddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. Patent Buddy may send you promotional information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to 
+PatentBuddy will communicate with you through email and notices posted on the PatentBuddy website or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access. These include welcome email which help inform new Users about various features of the service. Please be aware that you will always receive certain emails from PatentBuddy related to the proper functioning of your account, such as email notices when another User in your network sends you an opportunity. PatentBuddy may send you promotional information. You can change your e-mail and contact preferences at any time by logging into your 'Preferences Page' and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to 
 					
-				<a id="_idJsp223" name="_idJsp223" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>.
+				<a id="_idJsp365" name="_idJsp365" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Customized Content.</span>					
 <br>
-Information provided to Patent Buddy (or to third parties with whom it offers combined services) is also used to customize your experience on our website.
+Information provided to PatentBuddy (or to third parties with whom it offers combined services) is also used to customize your experience on our website.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Sharing Information with Third Parties.</span>					
 <br>
-Patent Buddy takes the privacy of Users very seriously. We will share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.
+PatentBuddy takes the privacy of Users very seriously. We will share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.
 <br>
-Patent Buddy offers a "public profile" feature which allows Users to publish portions of their Patent Buddy profile, including their "name", but not their "email address", however Patent Buddy does not warrant how often third-party search engines will update their cache.
+PatentBuddy offers a "public profile" feature which allows Users to publish portions of their PatentBuddy profile, including their "name", but not their "email address", however PatentBuddy does not warrant how often third-party search engines will update their cache.
 <br>
-We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Patent Buddy. 
+We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on PatentBuddy. 
 <br>
 
 </p><br>
 
-<p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Testimonials and Advertisement Placed through Patent Buddy DirectAds Service.</span>					
+<p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Testimonials and Advertisement Placed through PatentBuddy DirectAds Service.</span>					
 <br>
-May post those testimonials and examples of advertisements you place in connection with Patent Buddy's promo. If you provide any testimonials about  the Patent Buddy service or place advertisements through  Patent Buddy wetion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided. In connection with our promotion of our services to third parties we may disclose the name of organizations for which our users work. For example, we may publish a list of entities that have employees as registered users to demonstrate the breadth and types of entities that use our website. <br>
+May post those testimonials and examples of advertisements you place in connection with PatentBuddy's promo. If you provide any testimonials about  the PatentBuddy service or place advertisements through  PatentBuddy wetion of its service to third parties, which testimonials and advertisements may include your name and other personal information that you have provided. In connection with our promotion of our services to third parties we may disclose the name of organizations for which our users work. For example, we may publish a list of entities that have employees as registered users to demonstrate the breadth and types of entities that use our website. <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Communications to other Users.</span>					
 <br>
-Many emails you initiate through Patent Buddy, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Other communications that you initiate through the Patent Buddy website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
+Many emails you initiate through PatentBuddy, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Other communications that you initiate through the PatentBuddy website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Legal Disclaimers.</span>					
 <br>
-It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to Patent Buddy brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.
+It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to PatentBuddy brought in any country throughout the world, or to exercise our legal rights or defend against legal claims.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Disclosures to others.</span>					
 <br>
-We may also disclose your personal  and other  information you provide, to another third party as part of a reorganization or a sale of  assets of a Patent Buddy. A ny third party to which we transfer or sell Patent Buddy's assets will have the right to continue to use the personal and other information that you provide to us.<br>
+We may also disclose your personal  and other  information you provide, to another third party as part of a reorganization or a sale of  assets of a PatentBuddy. A ny third party to which we transfer or sell PatentBuddy's assets will have the right to continue to use the personal and other information that you provide to us.<br>
 
 </p><br>
 
@@ -1473,30 +1500,30 @@ We may also disclose your personal  and other  information you provide, to anoth
 <br>
 <b>Accessing and Changing Your Account Information</b><br>
 
-You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your Patent Buddy account including your email, and contact preferences, at any time by logging in to your account on the Patent Buddy website. Please be aware that even after your request for a change is processed, Patent Buddy may retain  information about you, that is publicly available, in its database.
+You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your PatentBuddy account including your email, and contact preferences, at any time by logging in to your account on the PatentBuddy website. Please be aware that even after your request for a change is processed, PatentBuddy may retain  information about you, that is publicly available, in its database.
 <br>
 <b>Closing Your Account</b><br>
-You can also close your account on Patent Buddy website. If you close your Patent Buddy account, your name will still show up from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account  from the Patent Buddy website, please send your request to 
+You can also close your account on PatentBuddy website. If you close your PatentBuddy account, your name will still show up from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account  from the PatentBuddy website, please send your request to 
 					
-				<a id="_idJsp239" name="_idJsp239" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>. Please send your request using an email account that you have registered with Patent Buddy under your name. You will receive a response to requests sent to 
+				<a id="_idJsp421" name="_idJsp421" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a>. Please send your request using an email account that you have registered with PatentBuddy under your name. You will receive a response to requests sent to 
 					
-				<a id="_idJsp241" name="_idJsp241" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> within few business days of its receipt. For more details please visit Patent Buddy's Policy and Procedure For Error Correction and Name Removal Requests 
+				<a id="_idJsp425" name="_idJsp425" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> within few business days of its receipt. For more details please visit PatentBuddy's Policy and Procedure For Error Correction and Name Removal Requests 
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Your Obligations.</span>					
 <br>
-As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members, such as Patent Buddy:
+As a User, you have certain obligations toward the other Users with whom you will be communicating. Certain of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members, such as PatentBuddy:
 <br></p><ul>
 <li class="margin-left25" style="list-style-type:disc;margin-left:20px;">
 You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the User Agreement. This includes respecting all intellectual property rights which may belong to third parties (such as photographs). 
 <br></li><li class="margin-left25" style="list-style-type:disc;margin-left:20px;">
-You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Patent Buddy and its community of Users. 
+You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of PatentBuddy and its community of Users. 
 <br></li><li class="margin-left25" style="list-style-type:disc;margin-left:20px;">
-You must not provide information to Patent Buddy and /or other Users which you believe might be injurious or detrimental to your person, professional or social status. 
+You must not provide information to PatentBuddy and /or other Users which you believe might be injurious or detrimental to your person, professional or social status. 
 </li><br>
-Any violation of these guidelines may lead to the restriction, suspension or termination of your account by Patent Buddy, as we take these principles seriously and consider them to be the basis on which our Users adhere to the Patent Buddy website and the services which it offers.
+Any violation of these guidelines may lead to the restriction, suspension or termination of your account by PatentBuddy, as we take these principles seriously and consider them to be the basis on which our Users adhere to the PatentBuddy website and the services which it offers.
 <br>
 
 <p></p><br>
@@ -1508,16 +1535,16 @@ Any violation of these guidelines may lead to the restriction, suspension or ter
 Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service unless identified as registered US patent attorney /or patent agent or innovator on US patent and /or published application.
 <br>
 <b>Changes to this Privacy Policy</b><br>
-Patent Buddy may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the Patent Buddy website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+PatentBuddy may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the PatentBuddy website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 <br>
-If you use the Patent Buddy service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
+If you use the PatentBuddy service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
 <br>
 
 </p><br>
 
 <p style="line-height: 2;"><span style="text-decoration: underline;" class="font-bold">Security.</span>					
 <br>
-In order to secure your personal information, access to your data on Patent Buddy is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the Patent Buddy web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center. It is your responsibility to protect the security of your login information. Please note that emails and instant messaging and similar means of communication with other users of Patent Buddy are not encrypted and we strongly request you not to communicate any confidential information through these means.
+In order to secure your personal information, access to your data on PatentBuddy is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the PatentBuddy web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center. It is your responsibility to protect the security of your login information. Please note that emails and instant messaging and similar means of communication with other users of PatentBuddy are not encrypted and we strongly request you not to communicate any confidential information through these means.
 <br>
 
 </p><br>
@@ -1526,7 +1553,7 @@ In order to secure your personal information, access to your data on Patent Budd
 <br>
 You can also contact us at 
 					
-				<a id="_idJsp251" name="_idJsp251" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
+				<a id="_idJsp459" name="_idJsp459" href="mailto:support@patentbuddy.com">support@patentbuddy.com</a> 
 <br>
 
 </p><br>
@@ -1566,8 +1593,14 @@ You can also contact us at
                         e.preventDefault();
                         $("#responsiveCSS")[0].disabled = true;
                     });
+
+                	function openHelp(){
+                		var tAndCWindow = window.open("help-function.html","tAndC","width=550,height=280,toolbar=no,menubar=no,resizable=yes,scrollbars=yes");
+                		tAndCWindow.focus();
+                	}
                 </script>
-	Copyright 2014 PatentBuddy.</div><div style="float:right;padding-top:5px;"><a id="disclaimer_inc:_idJsp267" name="disclaimer_inc:_idJsp267" href="pages/advertiseinfo-pages/advertiseInfo.jsf;jsessionid=09831309326261DCE192828AFE56D995">Advertise</a> | <a id="disclaimer_inc:_idJsp270" name="disclaimer_inc:_idJsp270" href="mailto:support@patentbuddy.com">Contact</a> | <a id="disclaimer_inc:_idJsp273" name="disclaimer_inc:_idJsp273" href="javascript:openTAndCPopup();">Terms</a> | <a id="disclaimer_inc:_idJsp276" name="disclaimer_inc:_idJsp276" href="privacypolicy.jsf;jsessionid=09831309326261DCE192828AFE56D995">Privacy</a> | <a id="disclaimer_inc:_idJsp279" name="disclaimer_inc:_idJsp279" href="pages/aboutUs.jsf;jsessionid=09831309326261DCE192828AFE56D995">About Us</a></div></div></div>
+	Copyright 2014 PatentBuddy.</div><div style="float:right;padding-top:5px;">
+		<a target="_blank" href="help-function.html">Help</a> | <a id="disclaimer_inc:_idJsp477" name="disclaimer_inc:_idJsp477" href="pages/advertiseinfo-pages/advertiseInfo.jsf">Advertise</a> | <a id="disclaimer_inc:_idJsp480" name="disclaimer_inc:_idJsp480" href="mailto:support@patentbuddy.com">Contact</a> | <a id="disclaimer_inc:_idJsp483" name="disclaimer_inc:_idJsp483" href="javascript:openTAndCPopup();">Terms</a> | <a id="disclaimer_inc:_idJsp486" name="disclaimer_inc:_idJsp486" href="privacypolicy.jsf">Privacy</a> | <a id="disclaimer_inc:_idJsp489" name="disclaimer_inc:_idJsp489" href="pages/aboutUs.jsf">About Us</a></div></div></div>
 
 
 
@@ -1611,6 +1644,8 @@ function openTAndCPopupOfDashboard(){
 	
 	
 	
+	
+		
 		
 		
 		
@@ -1623,6 +1658,10 @@ function openTAndCPopupOfDashboard(){
 	
 	
 	
+		
+		
+		
+		   
 		
 	
 
