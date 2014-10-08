@@ -1,90 +1,99 @@
-> *The following text is extracted and transformed from the linkinpark.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225171753id_/http%3A//linkinpark.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkinpark.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008065855id_/http%3A//groundctrl.com/privacy-policy) for the most accurate reproduction.*
 
-# LINKIN PARK / PRIVACY POLICY
+# ground(ctrl)
 
-## Privacy Policy
+### **ground(ctrl) Privacy Policy 2014**
 
-### Introduction
+Updated July 14th, 2014. [Previous Versions.](https://web.archive.org/terms-of-use-archive)
 
-Clique (“Clique”), a business unit of Sparkart Group, Inc., cares deeply about your privacy and the protection of your personal information, which is why we have devised this Privacy Policy. This policy statement describes how Clique helps protect your personal information. By using the Clique Services, you consent to the data practices described in this policy statement. Defined terms designated in the Terms of Use shall have the same definitions in this Privacy Policy.
+This policy is effective as of July 14th, 2014, and reflects only non-material changes and clarifications from the previous version. Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.
 
-### Collection of Personal Information
+### Privacy Policy 
 
-When you register for the Clique Services, you will be asked to provide certain personal information that will be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Clique may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Clique Services. We may also collect data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns. Further, when you register for the Clique Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Clique when there are account issues, such as needing to reset your password. You may also be requested to answer various questions about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key.
+This Privacy Policy, effective July 14th, 2014, is designed to help you, the user, understand how ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member”. We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
 
-### Use of Your Personal Information
+By accessing and/or using this web site, you are (1) becoming a member of the ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
-#### How We Will **Not** Use Your Personal Information:
+We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
 
-  * Except as stated in the next sentence, Clique will not sell or rent your personal information to third parties. Clique may sell, rent and disclose your personal information to the following third parties: artists and organizations for whom we operate a Web site (for example, a music group for whom we are operating a fan club Web site), and artists and organizations for whom we are selling concert tickets or merchandise. Please be aware that these third parties may have their own policies governing how they will use and disclose your personal information which may be different from this Privacy Policy.
-  * Clique will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent.
+**About ground(ctrl)™**
+
+ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
+
+To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
+
+**Children’s Online Privacy Protection Act Of 1998**
+
+This privacy policy is provided in conformity with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
+
+If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email address:
+
+ground(ctrl)  
+120 K Street Suite 300  
+Sacramento, CA 95814  
+Phone: 1 (877) GND-CTRL  
+Email: [info@groundctrl.com](mailto:info@groundctrl.com)  
+
+
+**Correcting, Updating or Removing Your Information**
+
+At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature. Our customers support staff can assist them as well. 
+
+**How We Use the Information**
+
+We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
+
+When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+
+Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
+
+**Sharing Your Information with Third Parties**
+
+This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
+
+  1. Enforce the network’s Terms and Conditions of Use Agreement;
+  2. Protect the network’s rights;
+  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
+  4. Protect the safety of it’s members; or
+  5. Enhance each member’s promotional and informational-sharing experience.
 
 
 
-Clique uses your personal information for the operation and maintenance of your Clique account and the Clique Services. For example, we may use your e-mail address to send you a welcome e-mail message when you first register informing you about the service and telling you how to manage your Clique account. You may be required to respond to this e-mail in order to validate that you are the owner of the email address associated with the Clique account. If applicable, failure to respond to the email and verify the address within the time stated in the email will cause the Clique account to become inactive. This process is designed to verify the validity of the email address and to help prevent email addresses from being used without permission in the creation of Clique accounts.
+The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
 
-As part of the Clique Services, we may recommend for your consideration various products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns so that we can make recommendations suited especially to you.
+Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-We may also send you e-mail about periodic service or recommended security updates or surveys related to the Clique Service. These periodic e-mails are considered essential to the provision of the service you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
+ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
 
-### General Disclosure of Personal Information
+**Third-Party Advertising**
 
-Clique occasionally hires other companies to provide limited services on our behalf, such as answering customer support inquiries. Clique will only provide these companies with those pieces of your personal information needed to deliver the services, and the companies and their employees are prohibited from using that personal information for any other purpose.
+Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
 
-Clique may share your personal information with third parties in order to fulfill a service or transaction you may have requested.
+**Comments, Blogs, Messages, and Links**
 
-Clique may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Clique; (b) protect and defend the rights or property of Clique; or (c) act under exigent circumstances to protect the personal safety of users of the Clique Service, or the public.
+Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
 
-### Disclosure of Personal Information to Clique ID Participating Sites
+This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
 
-The information about you stored in the Clique ID system is not shared with a Clique ID participating site, service or system unless you explicitly choose to use your Clique ID to register or sign in with the participating site. When you use your Clique ID to register or sign in with the participating site, service or system, the participating site, will receive some or all of the information about you stored in the Clique ID system. It is important for you to read the privacy statement for each Clique ID participating site, service or system that you visit before you register or sign in, so that you understand how that site may use your personal Clique ID information. Also, if you registered for a Clique ID through a participating site, service or system, then that registering site will receive the profile information at the time of registration.
+**Security**
 
-### Use of Information by Clique ID Participating Sites
+Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer support and technical staff.
 
-Clique ID participating sites, services and systems with whom you choose to share the information can use it for a variety of purposes. These can include personalizing your experience at their sites and reducing registration time by using information in your Clique ID account to pre-fill their registration forms. Clique ID participating sites and services may share your personal information with third parties in order to fulfill a service or transaction you may have requested. In addition, participating sites may share your personal information with third parties as permitted by their own privacy policies.
+Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
 
-To become a Clique ID participating site or service, the operator must agree to have a posted privacy policy and to use commercially reasonable efforts to comply with industry-standard privacy guidelines and practices. Nevertheless, we do not control or monitor the privacy practices of Clique ID participating sites, services or systems and the privacy practices of those sites will vary. You should carefully review the privacy statement for each Clique ID participating site you sign in to in order to determine how each site or service will use the information it collects.
+**Disclaimer of Liability for Unauthorized Viewing of Personal Information**
 
-If Clique becomes aware of ongoing, site-specific privacy issues with a Clique ID participating site, service or system, we will work to address those issues with the site. If at any time you believe that a Clique ID participating site has not adhered to these principles, please notify Clique by e-mail.
+You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
 
-### Managing Your Personal Information
+### Changes in the Privacy Policy’s Terms of Use, Notices, and Revisions
 
-You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by contacting [Clique Customer Service](mailto:customersupport@cliqueinc.com).
+**Contacting This Web Site**
 
-### Sharing Your Personal Information
+If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
-If you choose, you may opt-in to various features which may be available as part of the Clique Services which allow the voluntary sharing of information between you and a group of Clique users designated by you; for example, a “buddy list” or “friends” who also have a Clique ID.
+ground(ctrl)  
+120 K Street Suite 300  
+Sacramento, CA 95814  
+Phone: 1 (877) GND-CTRL  
+Email: [info@groundctrl.com](mailto:info@groundctrl.com)  
 
-### Security and Storage of Your Personal Information
-
-Clique is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities.
-
-You must type the correct password to access your information. It is your responsibility to ensure the security of your Clique account password and not to reveal this information to others.
-
-Personal information collected by Clique may be stored and processed in the United States or any other country in which Clique or its affiliates, subsidiaries, or agents maintain facilities. By using the Clique Service, you consent to any such transfer of information outside of your country.
-
-### Operational Information
-
-Some “operational” information is used by Clique in order to operate your account properly and provide the Clique Services. This operational information does not include the personal information that you provide as part of your Clique registration data, but may include, for example, the following: the date on which your registration data was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide Clique Services.
-
-### Aggregate Information
-
-We may collect and analyze information about your use of the Clique Services as aggregated with the use of the Clique Services by other users (“Aggregate Information”); for example, overall usage patterns of Clique users, the total number of Clique users, the percentage of Clique users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Clique users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Clique Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information which can be used to individually identify you or any other Clique user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
-
-### Use of Cookies
-
-A cookie is a very small text file that a Web site saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences. The Clique Services may use cookies when you sign in to or access a Clique Web site. The Clique Services store your unique identifier, the time you signed in, and Clique registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.
-
-The Clique Services may also use cookies to improve the sign in experience. For example, the Clique Services may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in.
-
-You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Clique Services.
-
-### Change to This Privacy Policy
-
-Clique may occasionally update this Privacy Policy. When we do, Clique will endeavor to provide notice to users in the following ways: (1) Clique will update the “last updated” date at the bottom of the Privacy Policy; (2) Clique will post notice of the change as a news post on the Clique Site; and (3) Clique may email notice of the change to all Registered Users. Clique will obtain your consent for any updates to this Privacy Policy that expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy.
-
-### Contact Us
-
-If you have questions regarding this Privacy Policy, please contact [Clique Customer Service](mailto:customersupport@cliqueinc.com).
-
-**Last Updated: December 4, 2007**
