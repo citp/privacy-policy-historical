@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041136id_/http%3A//www.elections.org.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008205246id_/http%3A//www.elections.org.nz/privacy) for the most accurate reproduction.*
 
 # Privacy | Electoral Commission
 
@@ -64,13 +64,15 @@ These terms and conditions set out what is required when you use our online serv
 
 ###  Access
 
-The online enrolment checking and updating service is provided to allow you to enrol or check your own enrolment details for the sole purpose of checking if they are correct, and updating them if they are not.
+The online enrolment checking and updating service is provided to allow you to enrol to check your own enrolment details for the sole purpose of checking if they are correct, and updating them if they are not.
 
 Use of this service for any other purpose, particularly if it is unrelated to registration as an elector, is prohibited.
 
-If you have registered with your Registrar of Electors to update your enrolment details electronically access to this service is governed by the RealMe login service that is provided by the Department of Internal Affairs (DIA).
+If you enrol using your verified RealMe® account, the RealMe® login associated with your verified account will be linked to your enrolment details for future online updates with our service.
 
-The terms of use for the RealMe login service form part of the registration process and [are available here](https://www.realme.govt.nz/terms-and-conditions/).
+If you have registered with your Registrar of Electors to update your enrolment details electronically, or wish to enrol using your verified RealMe® account, access to this service is governed by RealMe®, a service provided by the Department of Internal Affairs (DIA).
+
+The RealMe® terms of use [are available here](https://www.realme.govt.nz/terms-and-conditions/).
 
 ###  Prohibited access and use
 
