@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the traffic-annihilator.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072109id_/http%3A//www.traffic-annihilator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-annihilator.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008060017id_/http%3A//traffic-annihilator.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Annihilator
 
-[](http://traffic-annihilator.com/banclick.php?code=49e863b146f3b5470ee222ee84669b1c)  
+[](http://traffic-annihilator.com/banclick.php?code=404dcc91b2aeaa7caa47487d1483e48a)  
 
 
 Traffic Annihilator Privacy Policy
