@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wocchat.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313024922id_/http%3A//www.wocchat.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wocchat.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008064114id_/http%3A//www.wocchat.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Free chat rooms wocchat.com
-
-Privacy Policy for wocchat.com
+# Privacy Policy
 
 The privacy of our visitors to wocchat.com is important to us.
 
@@ -10,11 +8,11 @@ At wocchat.com, we recognize that privacy of your personal information is import
 
 All information on this website will be crawled by search engines and will be indexed into their cache, so please dont put any information on wocchat.com that you dont want people to be able to find via search engines
 
-Log Files
+Log Files for tracking
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-Cookies and Web Beacons
+Cookies and Web markers
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
@@ -25,3 +23,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Please do not post inappropriate content on this site, it will get you removed from the site or even reported for to your ISP.
 
 Some conversations on this website are logged for security reasons, along with details of private messages, these will never be published anywhere and are only for use in extreme situations for example with police enquiries.
+
+  
+
