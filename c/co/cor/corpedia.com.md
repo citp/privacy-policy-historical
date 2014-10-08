@@ -1,179 +1,92 @@
-> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326175117id_/http%3A//corpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009003229id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
 
-# Corpedia - Privacy Policy
+# Intercontinental Exchange: Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Corpedia/validation?rid=43a288f4-03dc-4d8e-a2b4-c5d3f8bca2e9 "TRUSTe European Safe Harbor certification")
+Last Update: June 4, 2014
 
-[](https://privacy.truste.com/privacy-seal/Corpedia/validation?rid=3eadcebe-d769-4277-bf1c-292a569f25fb "Validate TRUSTe privacy certification")
+This Website, (as applicable, www.theice.com, www.nyse.com, or www.intercontinentalexchange.com) is owned and operated by Intercontinental Exchange, Inc., a Delaware corporation. In this privacy policy, "ICE" ("us", "we" or "our") refers to Intercontinental Exchange, Inc. and our affiliates that link to this privacy policy. These affiliates include, but are not limited to Intercontinental Exchange Holdings, Inc., ICE Futures U.S., Inc., ICE Futures Europe, ICE Futures Canada, Inc., ICE Endex Derivatives B.V., ICE Clear U.S., Inc., ICE Clear Europe, ICE Clear Canada, Inc., ICE OTC, ICE Data Management Group, LLC, ICE Markets, Inc., ICE Markets Corporation, ICE Markets Limited, YellowJacket, Inc., Chatham Energy LLC, Creditex Group, Inc., ICE Benchmark Administration Limited, ICE Endex Holding BV, NYSE Holdings, LLC, NYSE Group, Inc., NYSE Arca, Inc., NYSE MKT LLC, NYSE Technologies, Inc., New York Stock Exchange, LLC, NYSE ARCA, L.L.C., Chicago Climate Exchange, Inc., ICE Data LLP, ICE Credit Hub, LLC, ICE Execution Services, LLC, ICE Processing, LLC, ICE Clear Credit, LLC, The Clearing Corporation, , Liffe Administration and Management, American Stock Exchange, LLC, Securities Industry Automation Corporation, NYBX, LLC, NYSE AMEX LLC, NYSE Board Member, LLC, Whentech LLC, and Corpedia Corporation. ICE respects the privacy of every individual who uses this Website. This privacy policy ("Privacy Policy") outlines the information we collect from the Website (as defined below) and how we use, disclose and otherwise manage that information, as well as the choices you have concerning such information. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE.
 
-Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services such as our website: [welcome.corpedia.com](https://welcome.corpedia.com/) and our service: the Global Gifts & Entertainment Tracker, if any. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site.
+This Privacy Policy applies only to the information collected on our Website. For purposes of this Privacy Policy, "Website" means the Website of ICE available to the general public and located at www.theice.com, www.nyse.com, www.intercontinentalexchange.com, and other ICE websites where this Privacy Policy is posted, or any software application made available by ICE for use on a computer, tablet, mobile phone or other mobile device. By submitting your personal information to ICE through the Website, you consent to the collection and use of your personal information in accordance with this Privacy Policy.
 
-Corpedia has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and [TRUSTe’s TRUSTed Cloud Program Requirements ](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.corpedia.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@corpedia.com](mailto:privacy@corpedia.com).
+This Privacy Policy does not apply to access to ICE's electronic trading platforms, whether through the Internet or by other means. Access to ICE's electronic trading platforms is limited to members and participants of the relevant market who have entered into off-line agreements with ICE or an affiliate of ICE for such access, and is governed by the terms of those off-line agreements. 
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@corpedia.com](mailto:privacy@corpedia.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Your use of this Website and our services, and any dispute over privacy, is subject to this Privacy Policy and our Terms and Conditions/Site Disclaimer, available here and from our homepage, including any applicable limitations on damages and the resolution of disputes. Our Terms and Conditions are incorporated by reference into this Policy.
 
-Corpedia participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce.  As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=),  fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+This Privacy Policy is current as of the effective date set forth above. We reserve the right to change this Privacy Policy from time to time. Changes and modifications to this Privacy Policy will be effective immediately upon posting of the changes and modifications on the Website, except where prohibited by law. You are bound by any such revisions and should therefore periodically visit this page to review the current Privacy Policy. If at any time you choose not to accept the terms of this Privacy Policy, you should not use this Website.
 
-Corpedia complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Corpedia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Corpedia’s certification, please visit <http://www.export.gov/safeharbor/>.
+ _Information We Collect Directly From You:_ We collect personal information from you when you use our Website; the type of information that we collect from you depends on your particular interaction with our Website and services. We require you to register with our Website to access certain features; we may collect the following information from you during the registration process: your name, country of residence, address, phone number, job title, company, investor type, email address, and a password that you select. 
 
-This Privacy Policy is effective upon acceptance for new users and is otherwise effective on October 11, 2013.
+If you choose to purchase a product or service through our Website, we also will collect your credit card information. Currently, we use a third party service provider to process credit card transactions on our behalf. The third party will collect from you contact information (such as your name, address, and e-mail) and financial information (such as credit card number and expiration date). 
 
-**Information Related to Data Collected for our Clients**
+_Information We Collect About You Automatically._ We and our third party service providers, use cookies, web beacons, and other tracking technologies to collect information about you automatically as you use our Website. Examples of this type of information include, but are not limited to, the dates and times of your use of this Website and the route by which you choose to access it, including your IP (Internet Protocol) address, your browser type, your operating system, or domain name, and your use of any hyperlinks or downloadable content available on this Website. We may combine this information with other information that we collect about you. For additional information about our use of these technologies, please see “Cookies and Other Tracking Technologies” below.
 
-Service Provider Collection and Use
+We primarily use your information to provide our services to you and to respond to your inquiries. We also may use your information as follows:
 
-Corpedia collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. Corpedia works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.
+  * To communicate with you, including to respond to your comments or requests for information, to request feedback on our products and services, and to notify you about changes to subscriptions, services and products.
+  * To help us understand our customers, to tailor and enhance our product and service offerings, anticipate and resolve problems with any products or services supplied to you, create products or services that may meet your needs, communicate with you about our products and services, provide access to restricted pages or contents of the Website.
+  * To comply with legal and/or regulatory requirements.
+  * To facilitate your purchases and to identify you when you log into your account on our Website.
+  * For marketing and advertising purposes. For example, where permitted by applicable law, we will send you emails about products and services that we believe would be of interest to you, including products and services offered by third parties. We do not, however, share your information with third parties for their own marketing purposes. We also will use the information that we collect to evaluate the success of our advertising campaigns.
+  * For Website development, research, analytics, assessing patterns of use, regulatory purposes, planning and assessing marketing initiatives by ICE. 
+  * As required or permitted by law.
 
-Access to Data Controlled by Our Clients
 
-Corpedia has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Corpedia’s Client (the data controller). If the Client requests Corpedia to remove the data, we will respond to their request within 30 business days.
 
-Data Retention
+You have the option of disabling cookies and of opting out of certain tracking for advertising purposes. However, we currently do not honor browser requests not to be tracked. 
 
-Corpedia will retain personal data we process on behalf of our Clients for as long as needed provide services to our Client. Corpedia will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+_Cookies_
 
-**Information Related to Data We Collect From You**
+This Website uses cookies. Information about cookies and our Cookie Policy is available here and from our home page. 
 
-**Information Collection and Use**
+_Web Beacons_
 
-We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties.
+ICE employs a software technology that serves as a web tracking device to collect certain information about traffic to the Website. This device is classified as a "web beacon" which means that the scope of its collection is restricted to the Website traffic data. It is similar in function to cookies. The main difference between cookies and web beacons is that web beacons are invisible on the page and are much smaller, about the size of the period at the end of this sentence. A P3P-compliant JavaScript cookie is set and collected by the tracking device to allow for differentiation between visitors to the sites. This data is used for tracking and reporting aggregate usage patterns on the Website as well as to enable us to track email response rates (e.g., whether you opened/ or forwarded an email). 
 
-Corpedia contracts with client organizations to provide corporate ethics and compliance eLearning courseware, risk assessment and other related services. Personally identifiable information provided to us by our client organizations or information you (unique user) provide to us or that we learn from your use of this Web site is treated as confidential information. We are not in the business of selling or sharing your personal information to third parties for direct marketing purposes and we do not share your personal identifiable information with third parties for unknown or unrelated uses. However, we may share your personal information where it is necessary for us to complete a transaction initiated or consented to, by you, to do something you have asked us to do, or to comply with applicable legal requirements.
+_IP Addresses_
 
-Corpedia collects and uses personal information from you in several ways:
+We use your IP address to help diagnose problems with our server, and to administer the Website. We may also use your IP address to identify you when we feel it is necessary to enforce compliance with this Privacy Policy or the terms of use for services purchased through the Website, or to protect our services, Website, systems, information, employees, business partners, service providers, users, customers or others, and for other purposes as described in this Privacy Policy. 
 
-**Registration**
+We share your information with the following persons/entities and in the following circumstances:
 
-Our Web site registration form(s) may require customers to give us specific contact information (such as name and e-mail address), unique company information (such as employee ID, department name, business unit, etc) and demographic information (such as gender, ethnicity, zip code, etc). The extent of information collected depends on unique contractual agreements with our client organizations. We use this information to register client organization employees for online courseware programs, enable users to participate in online risk assessment surveys and/or contact customers about the services offered by Corpedia.
+ _Third Party Service Providers:_ To enable us to more efficiently provide the products and services you have requested from us, ICE may share your personal information with selected third parties that act on our behalf as our agents, suppliers, or providers, or these third parties may collect your personal information on ICE's behalf. You acknowledge that the collection, transfer, storage, and processing of your personal information may be undertaken by these selected third parties for the purpose for which the information was collected. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose your personal information for their own marketing purposes.
 
-In some instances, when you request information from us such as a whitepaper or course catalog we will ask for additional information such your phone number and address. We will use this information to contact you regarding your interest in our products and services. If you no longer wish to have your information used in this way you may contact us directly by email at list@corpedia.com. Please include the phrase “OPT OUT” in the subject line and in the body of the email please include “OPT OUT” and your email address. This email will indicate your desire to be removed from any contact list.
+In some cases, we may provide personal information to a third party only if that third party either: (a) complies with the Safe Harbor principles or is subject to the EU Data Protection Directive or another adequacy finding or (b) agrees (1) to provide adequate protections for your privacy interests that are no less protective than those set out in this Privacy Policy, and (2) to use the personal information only for the purposes for which the third party has been engaged by ICE. 
 
-In terms of demographic/profile data that is collected at our site, we use this data to tailor the visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+_Transfer of Business Assets_
 
-**Web Site Usage**
+As we continue to develop our business, we might acquire or buy other businesses or assets. In such transactions, customer information generally is one of the transferred business assets. Also, we may transfer any information we have about you as an asset to third parties in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of ICE, or as part of a corporate reorganization or stock sale or other change in corporate control, for the purposes of such third parties carrying on the business of ICE in relation to the continued provision of our services to you as described in this Privacy Policy. 
 
-Corpedia, or Corpedia authorized service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) relating to your use of this Web site. While we may collect or log this information, we do not identify you or match this information with your other personal information except as set forth herein or with your prior consent. We may use this collected or logged information to diagnose Web site technical problems, or to facilitate your use of the site. Corpedia, or one of our authorized service providers, or we may use this information to track aggregate traffic patterns throughout this Web site.
+_Disclosure for Other Lawful Purposes_
 
-**Log Files**
+ICE, our affiliates and our European, US, Canadian and other service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by applicable law. We may also disclose personal information where appropriate for the establishment, exercise or defense of legal claims, or as otherwise permitted by law. 
 
-Like many Web sites, we collect certain information automatically and store it in log files. This includes information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system and date/time stamp.
+If you wish to stop receiving information concerning our services or products, please contact us by email at [privacy@theice.com](mailto:privacy@theice.com) to notify us of your wishes. 
 
-We use this information to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart.
+We may transfer, process, and store your personal information outside of your home country, including in the United States and Canada, which may not have the same level of data protection as your home country. For the avoidance of doubt, if you are resident in the EEA this may include the transfer of your personal information from within the EEA to a country outside of the EEA. 
 
-**Cookies**
+If you have submitted personal information through an ICE Website and you would like to access, update, or correct inaccuracies in your personal information, or have your name removed from our databases, please contact ICE via email at [privacy@theice.com](mailto:privacy@theice.com), or send a letter to our Privacy Compliance Officer, 2100 RiverEdge Parkway, Suite 500, Atlanta, GA 30328. 
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Our site uses cookies to keep track of your shopping cart and to deliver content specific to your interests. This cookie also allows us to track online courseware progress, which means whether or not an employee has completed a unique online course. We track this information based on your email address which also serves as your username. As such, we tie this personally identifiable information to the cookie. From time to time we also use cookies to track the effectiveness of some of our marketing campaigns and tie personally identifiable information you submit to us to those cookies.
+If you are a registered user of our Website, you may also access your personal account information online and make changes by logging into your account.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. We set a persistent cookie to store your username, so you don’t have to enter it more than once. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s help file. Some of our business partners use cookies on our site. We have no access to or control over these cookies.
+We have put in place certain safeguards to help prevent unauthorized access and maintain data security with respect to your personal information. Please see our list of [security](https://www.theice.com/security) procedures and technical mechanisms on the security section for a complete description of these safeguards. Despite these protections, however, we cannot guarantee that your data will be 100% secure. You should take measures to protect your personal information. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as surveys, will be limited.
+Your online access to certain of your personal information may be protected with a password you select. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages). You have an obligation to keep your user ID, password and personal information secure. As part of maintaining this obligation we recommend that you do the following:
 
-**Web beacons** ****
+  * Keep your user ID and password confidential;
+  * Utilize a unique password and change it frequently;
+  * Make sure others are not watching you enter your user ID and/or password on your keyboard when using protected areas of the Website; and
+  * Do not leave your computer unattended while logged onto protected areas of the Website. After you finished accessing your information, exit the protected area.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-**Online Transactions**
 
-Our Web site uses an order form for customers to purchase products and services (online training). We collect contact information (such as name and billing address), financial information (credit card numbers), and demographic information (zip code). Contact information from the order form is used to fulfill orders and/or send information about our company to our customers. If we have trouble processing an order, we will use this information to contact the user.
+This Website is not intended for use by minors (persons under the age of 18 and, in those Canadian provinces where the age of majority is 19, persons under the age of 19). If you are a minor, do not use this Website. If parents believe their minor children have accessed this Website and provided their personal information, please contact us using the information provided in the "Accessing Your Personal Information" section of this Privacy Policy so that we may delete the information.
 
-**Marketing Surveys**
+Our Website may contain links to other sites that ICE does not own or operate. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. We recommend you read carefully the privacy statements, notices and terms of use of any linked websites. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. 
 
-From time-to-time we may provide you the opportunity to participate in marketing surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code).
+ICE takes your privacy concerns seriously. If you have any questions about this policy or if you believe that ICE has not complied with this Privacy Policy with respect to your personal information, you may write to [privacy@theice.com](mailto:privacy@theice.com%22) or send a letter to our Privacy Compliance Officer at Fifth Floor, 2100 River Edge Parkway, Atlanta, GA 30328.
 
-We use this information to create broad demographic profiles as well as to contact you when the survey is complete. For example, we may send the survey participant an email with the results of the survey.
+Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2008 will receive information regarding 2007 sharing activities). 
 
-We use a third party service provider to conduct these surveys; that company is prohibited from using our users’ personally identifiable information for any other purpose.
+To obtain this information, please send an email message to [privacy@theice.com](mailto:privacy@theice.com%22) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
 
-**Testimonials**
-
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer’s name. We do obtain the customer’s consent prior to posting the testimonial to post their name along with their testimonial. To request removal of your personal information from our testimonials, contact us at [support@corpedia.com](mailto:support@corpedia.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-**Use of Collected Information**
-
-**Corpedia Partners/Suppliers**
-
-Corpedia may work with some authorized service providers to provide technical and customer support, shipping, credit card processing, product fulfillment or other services. Corpedia’s policy is to require these service providers to safeguard any personal information you provide to us. To the extent it is necessary for these service providers to complete their contractual obligations to Corpedia; these third parties may have access to or process your personal information. Except as otherwise authorized by you, Corpedia limits its use of your personal information to the purpose for which it was shared.
-
-**Mergers, Acquisitions and Bankruptcy**
-
-If Corpedia should ever file for bankruptcy or merge with another company, or if Corpedia should decide to buy, sell or reorganize some part or all of its business, Corpedia may be required to disclose your personal information to prospective or actual purchasers or receive personal information from sellers. It is Corpedia’s practice to seek appropriate protection for information disclosed or received in these types of transactions.
-
-**As Required by Law and Other Extraordinary Disclosures**
-
-Corpedia may be required to disclose your personal information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is otherwise necessary to protect our rights or property; or (iv) is necessary protect the interest of other users of our Web site.
-
-**Communications from the Web Site**
-
-**Newsletters**
-
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the CHOICE-OPT OUT section presented later in this policy.
-
-**Service-related Announcements**
-
-Corpedia may send service-related announcements on rare occasions when it is necessary to do so. For instance, if Corpedia’s service is temporarily suspended for maintenance, a user would receive an email message from us.
-
-**Customer Service**
-
-Based on the personally identifiable information you provide us, we will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance to your wishes.
-
-**International Visitors and Customers**
-
-**Corpedia Worldwide**
-
-Corpedia operates globally and privacy laws differ across the globe. To help visitors from countries outside the United States understand our privacy practices we provide special information on our privacy policies that may be applicable to these visitors. This Web site is hosted in the United States and is intended for United States visitors. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer.
-
-**EU Safe Harbor Adherence**
-
-Corpedia adheres to the Safe Harbor principles agreed to by the United States and EU relating to data protection. For more information about Safe Harbor, please visit the [U.S. Department of Commerce Web site](http://www.export.gov/safeharbor/).
-
-**Security**
-
-Your information is stored on our servers located in the United States. The security of your personal information is important to us. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When you enter sensitive information (such as credit card information) on our registration or order forms, we encrypt that information using either secure socket layer (SSL) technology or PGP technology.
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and when we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send Customer Support an email at [support@corpedia.com.](mailto:support@corpedia.com)
-
-**Links to Other Web Sites**
-
-This Web site contains links to other Web sites that are not owned or controlled by Corpedia. Please be aware that we, Corpedia, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
-
-This privacy policy applies only to information collected by this Web site.
-
-**Changing Your Privacy Preferences With Corpedia**
-
-By using our Web site, you consent to the collection and use of your personal information by Corpedia. If, in the future, we change the Privacy Policy, we will post the updated policy on this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
-
-We reserve the right to change this policy in the future. Your continued use of this Web site following a change in the privacy policy represents consent to the new policy. We encourage you to periodically review this Privacy Policy.
-
-**Accessing and/or Updating Your Personal Information**
-
-If your personally identifiable information changes, you may update or delete this information by emailing our Customer Support at [support@corpedia.com](mailto:support@corpedia.com), or by contacting us by telephone toll-free at (877) 629-8724 or if you are a user of our e-learning courseware, you may log into the application and change your profile information.
-
-A user may request access to his/her personal identifiable information at any time. If a user contacts Corpedia either by email or telephone, they can expect to receive a response to their request for access to their personal identifiable information within 5 business days.
-
-Upon request and within 30 days, Corpedia will grant individuals reasonable access to personal information that it holds about them. In addition, Corpedia will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact Customer Support at [support@corpedia.com](mailto:support@corpedia.com) to change your personal information gathered on the Site.
-
-We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@corpedia.com](mailto:support@corpedia.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Choice/Opt-Out**
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-Send an e-mail to [support@corpedia.com](mailto:support@corpedia.com) or call our toll-free number: (877) 629-8724.
-
-**Contacting Corpedia**
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
-
-Corpedia  
-2355 E. Camelback Road  
-Suite 700  
-Phoenix, Arizona 85016  
-Phone: (877) 629-8724  
-Fax: (602) 712-0019  
-E-mail: [privacy@corpedia.com](mailto:privacy@corpedia.com)
+Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
