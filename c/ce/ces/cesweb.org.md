@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104140id_/http%3A//www.cesweb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008095315id_/http%3A//www.cesweb.org/privacy) for the most accurate reproduction.*
 
 # Privacy - 2015 International CES, January 6-9
 
@@ -86,4 +86,4 @@ If you have any questions or concerns relating to this Privacy Policy, please co
 
  or by phone at 1-866-858-1555.
 
-pickle
+The 2015 International CES (Consumer Electronics Show®) will take place January 6-9, 2015 in Las Vegas, NV.
