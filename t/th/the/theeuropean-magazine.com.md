@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627222005id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008183548id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -66,51 +66,51 @@ Most Read
 
   * Conversation
 
-## [Michael Bloomberg on cities and innovation](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation)
+## [Carl Bildt on the Ukrainian conflict](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict)
 
-[](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation#disqus_thread) [](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation)
+[](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict#disqus_thread) [](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict)
 
-As a former mayor of New York City, Michael Bloomberg knows what challenges cities have to face today and how to respond to them. He told Max Tholl what states should learn fro... [read more](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation)
-
-  * Column
-
-## [What European leaders can learn from Italy](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy)
-
-[](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy#disqus_thread) [](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy)
-
-The European elections have shown how big a problem populism really is. But Cameron, Hollande and other leaders can keep the populists at bay if they start to look south. [read more](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy)
+Carl Bildt has been Foreign Minister of Sweden since 2006 and was Prime Minister from 1991-1994. He spoke with WorldPost editor-in-chief Nathan Gardels earlier this week at a c... [read more](https://web.archive.org/carl-bildt/9049-carl-bildt-on-the-ukrainian-conflict)
 
   * Conversation
 
-## [Robert Reich on Inequality and Austerity](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity)
+## [Cory Doctorow on security in the digital age](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age)
 
-[](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity#disqus_thread) [](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity)
+[](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age#disqus_thread) [](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age)
 
-Former U.S. Secretary of Labor Robert Reich urges us to save capitalism from its own excesses. He sat down with Martin Eiermann to discuss austerity, inequality and our return ... [read more](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity)
+Cory Doctorow keeps up to speed with the latest trends in technology. He spoke with Lars Mensel and Thore Barfuss about staying safe online without becoming paranoid. [read more](https://web.archive.org/cory-doctorow/9057-cory-doctorow-on-security-in-the-digital-age)
 
-  * Comment
+  * Debate
 
-## [Brazil’s harsh response to the World Cup protests](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests)
+## [The Scottish referendum and democracy](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy)
 
-[](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests#disqus_thread) [](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests)
+[](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy#disqus_thread) [](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy)
 
-Brazil has scored an own-goal. If it wanted to show the world how modern and progressive it is, it should have allowed its citizens take to the streets and protest without fear... [read more](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests)
+By choosing to stay in the Union, Scots probably did the right thing. But did they do it for the right reasons? [read more](https://web.archive.org/ewan-macphee--2/9055-the-scottish-referendum-and-democracy)
 
-  * Comment
+  * Column
 
-## [Love and Modern Society](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society)
+## [Recording versus being in the moment](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment)
 
-[](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society#disqus_thread) [](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society)
+[](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment#disqus_thread) [](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment)
 
-Love is like a disease. No wonder we have fought it off for such a long time. [read more](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society)
+What if the constant recording of every nook and cranny of our daily life is helping us to be more in touch with reality rather than less? [read more](https://web.archive.org/lars-mensel--3/9059-recording-versus-being-in-the-moment)
 
-  * Voices
+  * Debate
 
-## [Why lobbying hinders European development](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development)
+## [Scottish power claims after the referendum](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum)
 
-[](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development#disqus_thread) [](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development)
+[](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum#disqus_thread) [](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum)
 
-The German export lobby, the British finance lobby and the French energy lobby hinder problem solving in the EU. The continent has only one chance: the subordination of these i... [read more](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development)
+The referendum may have failed to return independence, but it might have gone a long way toward gaining Scotland both more powers and more influence. Will others follow the Sco... [read more](https://web.archive.org/mark-briggs/9047-scottish-power-claims-after-the-referendum)
+
+  * Debate
+
+## [Devolution in Britain after the referendum](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum)
+
+[](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum#disqus_thread) [](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum)
+
+The referendum must be the starting point of a wider discussion about how power is distributed across the whole United Kingdom and not just between Scotland and Westminster. [read more](https://web.archive.org/annie-rutherford--2/9042-devolution-in-britain-after-the-referendum)
 
 
 
