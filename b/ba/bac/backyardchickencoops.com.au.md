@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardchickencoops.com.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607202241id_/http%3A//www.backyardchickencoops.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardchickencoops.com.au privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008071956id_/http%3A//www.backyardchickencoops.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Backyard Chicken Coops
 
