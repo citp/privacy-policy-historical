@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326074734id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008111103id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
 
-# People's Choice Awards Privacy Policy -
+# People's Choice Awards: Fan Favorites in Movies, Music & TV - PeoplesChoice.com
 
 Welcome! Thank you for visiting a People's Choice Award offering that is owned and operated by One Three Digital, LLC ("OTD," "we" or "us"). To help inform you, we provide this notice explaining our online information practices and the choices you can make about the collection and use of information you submit or we collect through our website www.peopleschoice.com and our other related mobile websites, mobile OTD applications ("mobile apps"), services, tools, and other applications (the "Site").
 
