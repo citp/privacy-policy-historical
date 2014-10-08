@@ -1,110 +1,125 @@
-> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301133113id_/http%3A//www.cell.com/cellpress/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cell.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008065050id_/http%3A//www.elsevier.com/privacypolicy) for the most accurate reproduction.*
 
-# CellPress Online - cellpress PrivacyPolicy
+# None
 
-## Privacy Policy
+Elsevier is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you.  Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information.
 
-The Cell Press web sites ("Site") are owned and operated by Elsevier Inc., 600 Technology Square, Cambridge, MA, 02139, USA. We respect your privacy and do not rent, sell or disclose your personal information to any non-affiliated third party without your consent.
+ **About our Privacy Policy**
 
-We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
+This privacy policy describes how the personal information that is collected when you visit the Elsevier website, application or product that posts a link to this privacy policy ("Service") will be used by the Elsevier company that owns the Service ("Elsevier," "we," "us" or "our").  This policy may be supplemented by additional privacy terms or notices set forth on certain areas of the Service.
 
-### Collection of Information Through Use of Cookies
+ **Information We Collect**
 
-This Site collects information regarding your use of the Site through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site's computers and stored on your computer. The type of information we collect as a result of a cookie being stored on your computer includes the Internet Protocol ("IP") address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and click stream data, including date and time, cookie number and content you viewed or searched for on the Site.
+The Service collects information from you in two ways: directly from your input and automatically through the Service's technologies.
 
-We use "session" cookies to collect information about your use of the Site and so that you may view articles, abstracts or other records and browse from page to page. These cookies are temporary and are deleted when you leave the Site. We use "persistent" cookies to allow for automatic login, give you a more personalized browsing experience, and help you navigate the Site more efficiently.
+ _Information You Provide_
 
-We collect and use, and may from time to time supply third parties with, this information only as anonymous, collective or aggregated user data for the purposes of usage analysis, quality control and improving the Site.
+The types of personal information that the Service collects directly from you may include:
 
-You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu. If you choose to disable cookies altogether, you can use the Site but will not be able to register, login to the Site with a personal User Name and Password, or make use of the advanced personalization features of the Site, although the basic features and functionality offered to unregistered users of the Site will be possible to use.
-
-### Collection and Registration of Personal Information
-
-We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user's name, e-mail address, and postal address.
-
-In order to access certain content and to make use of the full functionality and advanced personalization features of the Site, such as alerts and subscriptions, we ask you to register and obtain a personal User Name and Password. You may be prompted to register when you:
-
-• Choose the "Register" or "Email Alert" on the home page or login screens  
-• Use personalization features  
-• Create an email alert   
-• Provide feedback
-
-The information collected from the registration form that is presented to users when they choose to register may include contact information, such as the user's name, e-mail address, postal address, country, telephone number, specialization and work setting ("Registration Information"). The Registration Information is linked directly to a personal User Name and Password chosen by the user and can only be retrieved by supplying the correct User Name and Password that is linked to that profile. 
-
-### How Personal Information Is Used
-
-We use the personal information that you provide for such purposes as:
-
-• Completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries
-
-• Web site and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents
-
-• Research and development to enhance, evaluate and improve the Site and our services
-
-• Tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits
-
-• Pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting
-
-• Communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys
-
-### Disclosure of Personal Information to Third Parties
-
-Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing, printing and fulfillment operations, and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above.
-
-With your consent, we also may share your personal information with our affiliated group companies and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties. If you wish us to pass your personal information to third parties, please tick the appropriate check box when you [register](http://www.ajhg.org/personalize/register) for personalized services or access or amend your preferences by logging in and clicking on the [Your Details](http://www.ajhg.org/personalize/profile) link at any time.
-
-We will not otherwise disclose any personal information without your consent except under the following circumstances: 
-
-• in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; 
-
-• if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and 
-
-• if Elsevier, this Site or a related asset or line of business is acquired by, transferred to or merged with another company.
-
-### Access and Changes to Your Registration Information and Preferences
-
-Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by contacting our Customer Service Department at the address or telephone number detailed below and/or clicking on the [Profile](http://www.cell.com/profile) link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
-
-If you wish to receive alerts, newsletters, new product announcements, market surveys, special offers or promotions, please tick the appropriate check box when you [register](http://www.cell.com/register) for personalized services or access or amend your preferences by logging in and clicking on the [Profile](http://www.cell.com/profile) link at any time. If you wish to cease receiving any of this information, amend your preferences either by contacting our Customer Service Department at the address or telephone number detailed below, logging in and clicking on the [Profile](http://www.cell.com/profile) link, or using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
-
-### Retention of Personal Information
-
-We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on our servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties' use or misuse of such information.
-
-### Third-Party Advertisers
-
-We contract with third-party advertisers and their agents that post on the Site banner and other advertisements, which may link to other web sites not under our control. These third-party advertisers may use cookie technology to measure the effectiveness of their ads or may otherwise collect personally identifiable information from you when you leave this Site. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers and their agents. Transactions that occur between you and the third party are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
-
-### Our Commitment to Data Security
-
-We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on our servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties' use or misuse of such information.
-
-Chat rooms, newsgroups, notice boards, comments, online forums, directories, etc.   
+  * Contact details, such as your name, email address, postal address and telephone number;
+  * Educational and professional background information;
+  * Usernames and passwords;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback, posts and other content you submit to the Service; and
+  * Interests and communication preferences.
 
 
-If at any time this Site offers any chat rooms, newsgroups, notice boards, comments, online forums, directories, etc. we may collect the information that you disclose. Such information will be used in accordance with this privacy policy. Please note that we cannot be responsible for other parties' use of the information that you make available to such third parties through any chat room, notice board, newsgroup, comments, online forum, directories, etc. on this Site. Please be careful about what information you disclose in this way. 
 
-### About This Privacy Policy
+In order to access certain content and to make use of additional functionality and features of the Service, we ask you to register for an account by completing and submitting a registration form, which may request additional information.
 
-The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page. Our policy does not create a contract or any legal rights.
+If you choose to register and sign in by using a third party account (such as your Facebook account), the authentication of your login is handled by the third party and the Service will collect your name, email address and any other information about your third-party account that you agree to share with us at the time you give permission for your account on the Service to be linked to your third party account.
 
-This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail). 
+ _Information Collected Automatically_
 
-This Site may contain links to other web sites that are beyond our control. Other web sites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each web site you visit before submitting any information to them.
+The Service also automatically collects, through our servers and the use of cookies (small text files sent to your computer), web beacons (also known as clear or single pixel .gifs) and other technologies, information that tells us how you use the Service, such as:
 
-### Questions, Complaints and Dispute Resolution
+  * Internet Protocol ("IP") address used to connect your computer to the Internet;
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier ("UDID") and other technical identifiers;
+  * Uniform Resource Locator ("URL") click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and
+  * For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world.
 
-If you have any questions or comments regarding this privacy policy, please contact our Customer Service Department at:
 
-Cell Press  
-Customer Service Department  
-11830 Westline Industrial Drive
 
-St Louis, MO 63146 USA  
-Email: [subs@cell.com](mailto:subs@cell.com)  
-Tel: (866) 314-2355 (Toll Free US & Canada), (314) 579-2880 (outside US & Canada),  
-Fax: (314) 523 5170
+We may use and disclose information that does not reveal your identity or permit direct association with any specific individual, such as browser and device information, anonymous usage data and aggregated information, for any purpose, except where we are restricted by law.  If we combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
 
-If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Department. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem. 
+You can control cookies through your browser's settings and other tools.  However, if you block certain cookies, you may not be able to register, login to the Service, access certain parts of the Service or make full use of the Service.
 
-Last revised: June 23, 2010
+ **Use of Your Information**
+
+We may use your personal information to:
+
+  * Provide the Service to you, such as allow access to or delivery of our products or services, process or fulfill an order or transaction, or administer surveys or promotional programs;
+  * Respond to your requests, inquiries, comments or concerns;
+  * Provide technical, product and other support and help keep the Service working, safe and secure;
+  * Offer you customized content and individualized personalization of the Service to make it more relevant to your interests and needs;
+  * Enhance, evaluate and improve the Service, its advertisements and promotional campaigns and our products and services and to develop new products and services;
+  * Identify and analyze usage trends, including for the purposes of research, audits, reporting and paying royalties and license fees to third-party content providers;
+  * Notify you about changes or updates to the Service and our products and services; and
+  * Provide you special offers, promotions, surveys and other information about the Service as well as products, events and services of ours, our affiliates and non-affiliated third parties such as societies and sponsors.
+
+
+
+We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for the purposes described above.
+
+ **Disclosure of Your Information**
+
+We may share your personal information with:
+
+  * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors;
+  * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and
+  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit <http://www.elsevier.com/about>),
+
+
+
+to assist us with producing and delivering our products and services, developing and operating our businesses, systems and applications, processing payments, customer support, marketing, promotion and communications and for other purposes set forth in this privacy policy.
+
+We also may share your personal information with our affiliated group companies worldwide and with societies, sponsors and other non-affiliated third parties that wish to send you information about their products and services that may be of interest to you as determined by your choices in managing your communications preferences following the process described below.
+
+If the Service offers a content database or learning service ("Subscription Service") and you access the Subscription Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management and testing and remediation.  If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
+
+We also may need to disclose your personal information:
+
+  * to respond to or comply with any law, regulation, subpoena, court order or other legal obligation;
+  * to enforce and protect our rights and properties;
+  * to detect, investigate and help prevent security threats, fraud or other malicious activity;
+  * to protect the rights, property or safety of our users, employees or others; and
+  * if Elsevier, the Service or a related asset or line of business is acquired by, transferred to or merged with another company.
+
+
+
+The Service may let you post and share personal information, comments, materials and other content.  Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed.  Please be careful when disclosing personal information in these public areas.
+
+ **Your Choices and Communications Preferences**
+
+You can manage your communications preferences when you register with the Service, by updating your account preferences, by using the "opt-out" or unsubscribe mechanism or other means provided within the communications that you receive from us or by contacting us.  We reserve the right to notify you of changes or updates to the Service whenever necessary.
+
+ **Access to and Accuracy of Your Information**
+
+The Service may allow registered users to access their account information and make corrections or updates upon log in at any time.  The accuracy of such information is solely the responsibility of the user.  You may also request access to other personal information about you that may be held in the Service.  If you request to deactivate your account or delete your personal information, we will endeavor to fulfill your request but some personal information may persist in backup copies for a certain period of time and may be retained as necessary for legitimate business purposes or to comply with our legal obligations.
+
+ **Data Security**
+
+Elsevier takes precautions to safeguard your personal information against loss, theft and misuse and unauthorized access, disclosure, alteration and destruction through the use of appropriate administrative, physical and technical security measures.
+
+ **Cross-Border Transfer of Your Information**
+
+Your personal information may be transferred to other countries for processing.  By using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
+
+ **Changes to Our Privacy Policy**
+
+We may change this privacy policy from time to time.  Any changes will be posted on this page with an updated revision date.
+
+ **Contact**
+
+If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact:
+
+Elsevier Data Protection Officer  
+Elsevier Limited  
+The Boulevard  
+Langford Lane  
+Kidlington  
+Oxford OX5 1GB  
+United Kingdom  
+Email: [DPO@elsevier.com](mailto:DPO@elsevier.com)
+
+This privacy policy was last updated on 19 December 2013.
