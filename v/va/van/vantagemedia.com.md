@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vantagemedia.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627120105id_/http%3A//www.vantagemedia.com/%3Fpage_id%3D394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagemedia.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008085747id_/http%3A//www.vantagemedia.com/%3Fpage_id%3D394) for the most accurate reproduction.*
 
 # Privacy Policy | Vantage Media
 
