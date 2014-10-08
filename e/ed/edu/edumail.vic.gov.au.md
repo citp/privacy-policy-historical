@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edumail.vic.gov.au privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210183531id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edumail.vic.gov.au privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008221732id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ This Privacy Statement does not apply to linked websites that are not the Depart
 
 The Department has an information privacy policy and handles personal information in accordance with the Victorian Privacy laws - the _Information Privacy Act 2000_ and _Health Records Act 2001_. 
 
-For more information, see: [Information Privacy Policy](https://web.archive.org/pages/privacypolicy.aspx)
+For more information, see: [Information Privacy Policy](https://web.archive.org/Pages/privacypolicy.aspx)
 
 ## Collection of information
 
