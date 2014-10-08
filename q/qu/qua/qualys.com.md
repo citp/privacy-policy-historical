@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508002042id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008072108id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Highlights | Qualys, Inc.
 
-Version 2.2 – Effective March 20, 2013
+Version 2.3 – Effective August 25, 2014
 
 [](https://privacy.truste.com/privacy-seal/Qualys,-Inc-/validation?rid=db66dd79-5d1d-4338-9c5e-daf97465efe6 "Validate TRUSTe privacy certification")
 
-This Privacy Statement Highlights provides a high-level summary of Qualys' entire [Privacy Statement](https://web.archive.org/company/privacy/statement/). Qualys provides these highlights as a convenience to you but should not be considered the fully Privacy Statement of Qualys.
+This Privacy Statement Highlights provides a high-level summary of Qualys' entire [Privacy Statement](https://web.archive.org/company/privacy/statement/). Qualys provides these highlights as a convenience to you but should not be considered the full Privacy Statement of Qualys.
 
 ## Overview
 
-Qualys® is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
+Qualys®, Inc. (Qualys) is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
 
   
 
 
-#### Web Sites Covered
+#### Websites Covered
 
-This Privacy Statement applies to Qualys Web sites that link to this Privacy Statement:
+This Privacy Statement applies to Qualys Websites that link to this Privacy Statement:
 
-[http://www.qualys.com](https://web.archive.org/);
+[https://www.qualys.com](https://web.archive.org/);
 
 [https://qualysguard.qualys.com](https://qualysguard.qualys.com/);
 
@@ -29,42 +29,48 @@ This Privacy Statement applies to Qualys Web sites that link to this Privacy Sta
 
 [https://community.qualys.com](https://community.qualys.com/);
 
-[http://cn.qualys.com](http://cn.qualys.com/);
-
 [http://qualys.jp](http://qualys.jp/);
 
 [https://browsercheck.qualys.com](https://browsercheck.qualys.com/);
 
 [https://ssllabs.qualys.com](https://ssllabs.qualys.com/);
 
-[http://news.qualys.com](http://news.qualys.com/);
+[qualysguard.qg2.apps.qualys.com](https://qualysguard.qg2.apps.qualys.com/);
 
-[http://laws.qualys.com](http://laws.qualys.com/); and
+[portal.qg2.apps.qualys.com](https://portal.qg2.apps.qualys.com/);
 
-[https://portal.qualys.com](https://portal.qualys.com/) (collectively referred to as "Qualys Web sites").
+[https://qualysguard.qualys.eu](https://qualysguard.qualys.eu/);
 
-Qualys Web sites may contain links to other Web sites. Qualys is not responsible for the information practices or the content of such other Web sites. Qualys encourages you to review the privacy statements of other Web sites to understand their information practices.
+[https://portal.qualys.eu](https://portal.qualys.eu/);
+
+[qualysguard.qg3.apps.qualys.com](https://qualysguard.qg3.apps.qualys.com/);
+
+[portal.qg3.apps.qualys.com](https://portal.qg3.apps.qualys.com/); and
+
+[https://portal.qualys.com](https://portal.qualys.com/) (collectively referred to as "Qualys Websites").
+
+Qualys Websites may contain links to other websites. Qualys is not responsible for the information practices or the content of such other websites. Qualys encourages you to review the privacy statements of other websites to understand their information practices.
 
   
 
 
 #### Statistical Information About Your Visit
 
-When you visit Qualys Web sites, our systems collect personal information (in the manner described above) and statistical or non-personally identifiable information about your visit to our sites (e.g. IP address, pages visited, origin of visitor domains, and types of browsers used). However, unless you actively submit personal information, we do not typically identify you via the non-personally identifiable information. Notwithstanding the foregoing, to the extent permitted by applicable law, we reserve the right to combine non-personally information with personal information that you have actively submitted.
+When you visit Qualys Websites, our systems collect personal information (in the manner described above) and statistical or non-personally identifiable information about your visit to our sites (e.g. IP address, pages visited, origin of visitor domains, and types of browsers used). However, unless you actively submit personal information, we do not typically identify you via the non-personally identifiable information. Notwithstanding the foregoing, to the extent permitted by applicable law, we reserve the right to combine non-personally information with personal information that you have actively submitted.
 
   
 
 
 #### Qualys Supported Blogs and Forums
 
-If you use a blog or forum, or other chat tool on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Qualys is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the applicable Terms of Use or other terms and conditions set forth on the relevant forum site.
+If you use a blog or forum, or other chat tool on a Qualys Website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Qualys is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the applicable Terms of Use or other terms and conditions set forth on the relevant forum site.
 
   
 
 
 #### Your Ability to Opt-Out of Further Notifications
 
-From time-to-time, we notify visitors of our Sites of new products, announcements, upgrades and updates unless you have opted out of these notices. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
+From time-to-time, we notify visitors to Qualys Websites of new products, announcements, upgrades and updates unless you have opted out of these notices. If you would like to opt-out of being notified, please contact us at the address given at the end of this Privacy Statement.
 
 If you would like to change your preferences online, please visit [http://www.qualys.com/company/compref/](https://web.archive.org/company/compref/). Please be aware that you may not opt out of receiving information regarding the security, initial use, expiration, product enhancement or migration of our products or services.
 
@@ -73,7 +79,7 @@ If you would like to change your preferences online, please visit [http://www.qu
 
 #### Our Security Procedures
 
-We consider the protection of all personal information we receive from our Web site visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SSAE 16 or industry standard alternative audit by an internationally-recognized accounting firm.
+We consider the protection of all personal information we receive from Qualys Website visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SSAE 16 or industry standard alternative audit by an internationally-recognized accounting firm.
 
   
 
