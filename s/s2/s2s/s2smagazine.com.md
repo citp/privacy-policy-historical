@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the s2smagazine.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501131732id_/http%3A//s2smagazine.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s2smagazine.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008051108id_/http%3A//s2smagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | S2SMagazine.com
 
-Sister2Sister Magazine (“Sister2Sister Magazine”) recognizes that its customers, visitors, users, and others who use [www.s2smagazine.com](http://www.s2smagazine.com/ "www.s2smagazine.com") or other web sites owned or operated by Sister2Sister Magazine (the “Sister2Sister Magazine Sites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Sister2Sister Magazine Sites. Sister2Sister Magazine provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Sister2Sister Magazine Sites.
+Sister2Sister Magazine (“Sister2Sister Magazine”) recognizes that its customers, visitors, users, and others who use www.s2smagazine.com or other web sites owned or operated by Sister2Sister Magazine (the “Sister2Sister Magazine Sites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Sister2Sister Magazine Sites. Sister2Sister Magazine provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Sister2Sister Magazine Sites.
 
-_  
-This Privacy Notice is incorporated into and is subject to the Sister2Sister Magazine Terms of Use. Your use of the Sister2Sister Magazine Sites and any personal information you provide on the Sister2Sister Magazine Sites remains subject to the terms of this Privacy Notice and our Terms of Use._
+This Privacy Notice is incorporated into and is subject to the Sister2Sister Magazine Terms of Use. Your use of the Sister2Sister Magazine Sites and any personal information you provide on the Sister2Sister Magazine Sites remains subject to the terms of this Privacy Notice and our Terms of Use.
 
 Please note that any video, image, or other content posted at the direction of Users onto the Sister2Sister Magazine Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -58,6 +57,11 @@ The Sister2Sister Magazine Sites are hosted in the United States and are intende
 **In the Event of Merger, Sale, or Bankruptcy**
 
 In the event that Sister2Sister Magazine is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+**Ad Serving  
+**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **Changes and updates to this Privacy Notice**
 
