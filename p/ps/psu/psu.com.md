@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215131505id_/http%3A//www.psu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008092908id_/http%3A//www.psu.com/site/privacy) for the most accurate reproduction.*
 
-# PlayStation Universe
+# PlayStation Universe - Privacy
 
-This is the web site of Abstract Holdings International, Ltd.
+This is the web site of ORIGINAL WEB VENTURES Inc.
 
 **Our postal address is:**  
-The Business Center  
-Upton, St. Michael  
-Barbados, 11103  
+PO BOX 24159 RPO HAZELDEAN  
+KANATA, ONTARIO K2M 2C3  
 
 
 We can be reached via e-mail at [admin@psu.com](mailto:admin@psu.com)
@@ -22,11 +21,9 @@ With respect to cookies: We use cookies to store visitors preferences, record se
 
 We may allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies may use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability [to opt out](http://www.networkadvertising.org/managing/opt_out.asp) of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-## Terms and Conditions
 
 In using this website you are deemed to have read and agreed to the following terms and conditions:
 
@@ -81,4 +78,4 @@ Notification of Changes
 
 The Company reserves the right to change these conditions from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms. If there are any changes to our privacy policy, we will announce that these changes have been made on our home page and on other key pages on our site. If there are any changes in how we use our site customers’ Personally Identifiable Information, notification by e-mail or postal mail will be made to those affected by this change. Any changes to our privacy policy will be posted on our web site 30 days prior to these changes taking place. You are therefore advised to re-read this statement on a regular basis.
 
-These terms and conditions form part of the Agreement between the Client and ourselves. Your accessing of this website and/or undertaking of a booking or Agreement indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected. @Abstract Holdings International Ltd 2006-2013 All Rights
+These terms and conditions form part of the Agreement between the Client and ourselves. Your accessing of this website and/or undertaking of a booking or Agreement indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected. @ORIGINAL WEB VENTURES Inc 2006-2014 All Rights
