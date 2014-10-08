@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331070003id_/https%3A//www.sweetyhigh.com/static/landing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008165911id_/https%3A//www.sweetyhigh.com/static/landing/privacy-policy) for the most accurate reproduction.*
 
 # Sweety High
 
@@ -88,3 +88,6 @@ We may amend this Privacy Policy at any time. If we amend this Privacy Policy to
 
 **Additional privacy protection we provide for children under age of 13 on Sweety High site**  
 We recognize the need to provide additional privacy protections for children who visit the Sweety High Site. To read about our protections for children who are under the age of 13, please read Sweety High's Children's Privacy Policy <https://www.sweetyhigh.com/static/landing/childrens-privacy-policy>. 
+
+[](http://privo.com/privo-site-validation/?company=243) **PRIVO-Cert™ Safe Harbor Certification Program**  
+Sweety High is a Member of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Sweety High adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Sweety High has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 310-545-8869 or [contact@sweetyhigh.com](mailto:contact@sweetyhigh.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com). 
