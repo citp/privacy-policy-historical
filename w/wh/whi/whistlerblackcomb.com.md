@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327015250id_/http%3A//www.whistlerblackcomb.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008233759id_/http%3A//www.whistlerblackcomb.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Whistler Blackcomb - Privacy Policy
 
