@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariadb.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209123835id_/https%3A//www.mariadb.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariadb.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008044509id_/https%3A//mariadb.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MariaDB
 
