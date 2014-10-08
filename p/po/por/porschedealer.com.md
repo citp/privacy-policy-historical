@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616235814id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009001630id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - HOME - Dr. Ing. h.c. F. Porsche AG
 
