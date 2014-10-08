@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wysk.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627153506id_/http%3A//support.wysk.com/customer/portal/articles/744720-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wysk.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008102959id_/http%3A//support.wysk.com/customer/portal/articles/744720-privacy-policy) for the most accurate reproduction.*
 
 # Wysk | Privacy Policy
 
