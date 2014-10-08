@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093303id_/http%3A//awfulannouncing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008065519id_/http%3A//awfulannouncing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Awful Announcing
+# Privacy Policy - Awful Announcing
 
 Bloguin knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
