@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvhub.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209113320id_/http%3A//www.tvhub.in/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvhub.in privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008124541id_/http%3A//www.tvhub.in/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TVhub.in
 
