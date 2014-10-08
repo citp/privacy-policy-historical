@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omgghana.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025529id_/http%3A//omgghana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgghana.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008172358id_/http%3A//omgghana.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – OMGGhana: Ghana's premier News, Entertainment, Gossip, Business, Sports, Multimedia, Celebrities Website
 
 Thank you for visiting omgghana.com, the website of The BiGx Music Group LLC. We respect your privacy and consider it an important element of our business. Our privacy policy is very candid: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us.
 
