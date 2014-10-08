@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suite.io privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409013646id_/https%3A//suite.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite.io privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008162325id_/https%3A//suite.io/privacy) for the most accurate reproduction.*
 
 # Privacy – Suite
 
@@ -64,7 +64,7 @@ Your continued dealings with Suite or your use of the Website subsequent to any 
 
 17\. Your Comments - If you have any comments or questions or complaints about this Privacy Policy or your personal information, please send your comments by e-mail to privacy@suite.io or to:
 
-Suite.com Media Inc.  
+Suite Media Inc.  
 204-576 Seymour Street  
 Vancouver, British Columbia, Canada  
 V6B 3K1
