@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetspark.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903142427id_/http%3A//www.dotnetspark.com/TOS/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspark.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008165333id_/http%3A//www.dotnetspark.com/TOS/Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
