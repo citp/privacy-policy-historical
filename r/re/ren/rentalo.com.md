@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054333id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalo.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008162523id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Rentalo.com
 
@@ -81,14 +81,7 @@ Changes to this Privacy Policy
 
 Questions and Suggestions 
 
-  * [ Click here](http://www.ftc.gov/ftc/privacy.htm) for important information about safe surfing from the Federal Trade Commission. 
-
-If you have questions or suggestions, please [email us](http://rentalo.com/web/common/contact_us.cgi) or write to us at:
-
-Rentalo.com  
-8004 NW 154 St # 401   
-Miami, FL 33016  
-
+  * [ Click here](http://www.ftc.gov/ftc/privacy.htm) for important information about safe surfing from the Federal Trade Commission.  
 
 
 
