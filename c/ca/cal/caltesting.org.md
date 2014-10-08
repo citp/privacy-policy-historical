@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltesting.org privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323023556id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltesting.org privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009014408id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
