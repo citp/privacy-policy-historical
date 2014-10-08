@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmontonsun.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209191830id_/http%3A//www.edmontonsun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmontonsun.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008081943id_/http%3A//www.edmontonsun.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Edmonton Sun
 
