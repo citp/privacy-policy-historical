@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gazettextra.com privacy policy that was archived on 2014-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140221223932id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gazettextra.com privacy policy that was archived on 2014-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141008060210id_/http%3A//www.gazettextra.com/Services/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   <!--
@@ -14,8 +14,9 @@
   KB Article: https://docs.saxotech.com/display/Onl/ArticleHead.pbo
   Created: 20120927 SJJ
   -->
-<title>GazetteXtra | Terms of Use and Privacy Policy</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript">
+<title>Terms of Use and Privacy Policy | GazetteXtra</title>
+<meta property="og:title" content="Terms of Use and Privacy Policy">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://sslconnect.janesvillegazette.com/scripts/library/56741d6cd722fa65543510bbb6b3a03a.js"></script><script language="Javascript">
 // Omniture used in omniture.pbo
 var s_prop9="Terms of Use and Privacy Policy";
 </script>
@@ -26,6 +27,8 @@ var s_prop9="Terms of Use and Privacy Policy";
   Created: 20120927 SJJ
   -->
 <meta itemprop="description" name="Description" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="http://www.gazettextra.com/assets/png/JG7037529.PNG">
 <script language="Javascript">
 // Omniture used in omniture.pbo
 var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
@@ -75,8 +78,19 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
   <script src="/js/jquery.zrssfeed.min.js" type="text/javascript"></script>
   <script src="/js/jquery.custom.janesville.1.1.0.js" type="text/javascript"></script>
 <!-- Saxotech Connect starts -->
-<!-- All supported libraries + SxConnectFunctions will be bundled automatically from the Connect side -->
-  <script src="//connect.janesvillegazette.com/scripts/library/56741d6cd722fa65543510bbb6b3a03a.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  var Connect = Connect || {}   
+  Connect.queue = Connect.queue || [];
+  (function() {
+    var cn = document.createElement('script');
+    var audience_lib = 'connect.janesvillegazette.com/scripts/library/56741d6cd722fa65543510bbb6b3a03a.js';
+    cn.type = 'text/javascript';
+    cn.async = true;
+    cn.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://') + audience_lib;
+    var cs = document.getElementsByTagName('script')[0];
+    cs.parentNode.insertBefore(cn, cs);
+  })();
+</script>
 <!-- Saxotech Connect ends --> 
 
   <!--
@@ -88,6 +102,10 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
 
 
 
+
+<script type="text/javascript">
+  var userStatus = 'Anonymous';
+</script>
 
 <!-- Display only this part if the request is from the my account ajax call in the header -->
 
@@ -103,12 +121,15 @@ var articleGuid="3FCC02E5-2F20-47B2-870C-662CF25867A6";
 var ConnectActive = 1;
 if (ConnectActive == '1') {
   // Set the userID, used for the Saxotech Connect integration
-  top.SaxoConnect.Uid = '';
-  var uid = top.SaxoConnect.Uid || -1;
+  /*top.SaxoConnect.Uid = '';
+  var uid = top.SaxoConnect.Uid || -1;*/
+  var uid = '';
   uid = uid == 0 ? -1 : uid;
   //alert('sx_UserID is ');
 }
 </script>
+	
+
   <!--[if lte IE 8]>
     <script src="/WebCasterGlobal/js/ie8.js"></script>  
   <![endif]-->
@@ -172,38 +193,46 @@ Modified: 20130715 MQN
           Included Connect GA library via TIC-63562
 -->
 <script type="text/javascript">
-(function(){
-           var ga = document.createElement('script');
-           ga.type = 'text/javascript';
-           ga.async = true;
-           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-           var s = document.getElementsByTagName('script')[0];
-           s.parentNode.insertBefore(ga, s);
-           }
- ) ();
-          var _gaq = _gaq || [];
-          // PUT your GA account below
-          _gaq.push(['_setAccount', 'UA-2847738-1'])
-         // Connect GA library binding
-         if(gapi) {
-           gapi.setSyncVersion('async');
-           gapi.setTrackerObj(_gaq);
-           gapi.trackUser(scapi.getSessionID());
-    }
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2847738-1', 'gazettextra.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
 </script>
   <!-- End Google Analytics Javascript -->
 
 <!--
-Document Name: servicesTop.pbo
+Document Name: /templates/macros/Top/articleTop.pbo
 Purpose: Loads Everything between the HEAD tags and the mast-head HTML.
-Created: 20121003 SJJ
+Created: 20120813 SSW
+20120906 SJJ: Added ajax photo view for articles (Support extra pictures and the main picture)
+20120910 SJJ: Added Google Map v3 integration and added integration to Wounderground weather service.
+20120911 SJJ: Added dynamic navigation and added support for mouseover dropdown in the navigation.
+20120924 SJJ: OAMS banners implemented.
+20120927 SJJ: Added dynamic Meta tags.
+-->
+  <script type="text/javascript">
+    var artPhoto_ofLabel = 'of';
+  </script>
+  <script src="/js/artphoto.js" type="text/javascript"></script>
+  <!-- Sharethis -->
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">stLight.options({publisher: ""});</script>
+  <!-- /Sharethis -->
+  <!--
+Document Name: newsMap.pbo
+Purpose: Build the API call for the Google Map integration. Used to build the news map in the right-rail.
+Created: 20120918 SJJ
+20121002 SJJ: Removed two features we not use, Yet. Could result in a javascript error.
 20130405 SSW: Added customJS macro so customers can add custom or overwrite JS between the HEAD tags.   
 -->
-<!-- Macro for Custom JavaScript -->
-<!-- customJS.pbo - This is a placeholder macro for when this macro doesn't exist on the local side --> 
-<!-- Macro for Custom JavaScript -->
+  <!-- Macro for Custom JavaScript -->
+  <!-- customJS.pbo - This is a placeholder macro for when this macro doesn't exist on the local side --> 
+  <!-- Macro for Custom JavaScript -->
 </head>
-<body>
+<body onload="articleLoad();">
   <!-- container starts -->
   <div id="container">
       <div id="wrapper" class="articlepage">
@@ -225,7 +254,7 @@ Modified:
 <!-- Start iServices hidden login form -->
     <form style="display:none;" id="iServicesForm" method="post" name="login" action="https://iservices.gazetteextra.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html">
 		<input name="AuthOnly" id="AuthOnly" value="yes" type="hidden">
-        <input name="timestamp" size="30" value="2014-02-21" readonly="" type="hidden">
+        <input name="timestamp" size="30" value="2014-10-07" readonly="" type="hidden">
         <input name="AuthControlID" size="35" value="" type="hidden">
         <input name="ProductID" size="35" value="JG" type="hidden">
         <input name="targetURL" id="targetURL" value="" type="hidden">
@@ -233,10 +262,10 @@ Modified:
 <script type="text/javascript">
 	$(document).ready(function(){
 		// start testing of redirect data
-		var templateCheck = '/apps/pbcs.dll/section?Category=ads&nocache=1&server=http:&Profile=/jgads.sx3.atl.publicus.com&subsite=JG001&random=60035620691634938&spot=TOP728SPOT1&label=Frontpage';
+		var templateCheck = '/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983';
 		var currentURL = 'http://www.gazettextra.com';
-		var currentRequestUnmodified = '/section/ads?server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60035620691634938&spot=TOP728SPOT1&label=Frontpage';
-		var currentRequest = '/apps/pbcs.dll/section?Category=ads&nocache=1&server=http:&Profile=/jgads.sx3.atl.publicus.com&subsite=JG001&random=60035620691634938&spot=TOP728SPOT1&label=Frontpage';
+		var currentRequestUnmodified = '/Services/Terms';
+		var currentRequest = '/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983';
 		var targetURL = window.location;
 		//populate the targetURL with the current URL value of the page being viewed via jquery which avoids caching problems
 		$('#targetURL').val(targetURL);
@@ -260,13 +289,14 @@ Created: 20130213 SSW
 -->
   <!-- Start advertisement topLeaderAd 1 -->
     <!--
-  Document Name: ads.pbo
-  Purpose: Main ad placeholder.
+  Document Name: connectAds.pbo
+  Purpose: Audience recommended ad placeholder.
   Created: 20120924 SJJ
   Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
   Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
+  Modified 20140429 Gokul : Modified from original ads.pbo to suit Audience library and get the matching ads based on recommendation.
   -->
-<div class="advertisement" id="header-leader-ad">
+<div class="advertisement" id="header-leader-ad" style="height:95px;">
   Loading...
 </div>
 <script type="text/javascript">
@@ -287,19 +317,50 @@ Created: 20130213 SSW
     if (windowWidth < 468) {
       spot = 'TOP234SPOT1';
     }
-    ResizeAd(windowWidth, spot, '#header-leader-ad', 'fallback');
-    function ResizeAd(windowWidth, spot, Placeholder, OAMSLabel) {
-      function calcHeight(spot) {
-        //find the height of the internal page
-        var the_height = document.getElementById('header-leader-ad-'+spot).contentWindow.document.body.scrollHeight;
-        //change the height of the iframe
-        document.getElementById('header-leader-ad-'+spot).height = the_height;
-      }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60015997269179396&spot='+spot+'&label='+OAMSLabel+'" id="header-leader-ad-'+spot+'" height="1" style="overflow:hidden; width:100%;" scrolling="no" frameborder="0"></iframe>');
-      $(window).load(function(){
-        calcHeight(spot);
-      });
-    }    
+/* Below is the setup and function that calls in Audience / Connect match for users and serves the ads */
+Connect.AdServer ="http://jgads.sx3.atl.publicus.com";
+Connect.AdSite = "JG001"; // AKA Subsite 
+var dynamic_suffix = dynamic_suffix || 0;
+var adVal = 'ad' + (parseInt(dynamic_suffix) + 1);
+// console.log("adVal is " + adVal);
+var audienceAdsPosition = audienceAdsPosition || {};
+audienceAdsPosition[adVal] = {
+  'targetDiv' : "header-leader-ad", 
+  'spot' : "AUD970SPOT1",
+  'label': "fallback",
+  'defaultSpot': spot,
+  'defaultLabel': "fallback",
+  //'Targeting_Workflow' :  "",  // Use this if not useing Random workflow from aggregate
+  'viewname' : "saxotech_default",
+  //'displayid' : ""  // Use this if not useing Random workflow from aggregate
+};
+// console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
+var sendData = {};
+sendData = {
+  'parameters': {}
+};
+var adparams = {
+  'siteUrl'         : Connect.AdServer, 
+  'site'            : Connect.AdSite,
+  'adPositions'     : audienceAdsPosition,
+  'adType'          : 'OAMS'
+};
+//sendData['parameters']['Targeting_Workflow'] = "";  // Use this if not useing Random workflow from aggregate
+sendData['parameters']['viewname'] = "saxotech_default";
+//sendData['parameters']['displayid'] = "";  // Use this if not useing Random workflow from aggregate
+// sendData['parameters']['uid'] = uid;
+sendData['adparams'] = adparams;
+// top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
+var args = {};
+args = {
+  'data': sendData,
+  // 'scb': 'adRecommendationSuccess',
+  // 'fcb': 'doProfileFailure',        
+};
+Connect.queue.push(function() {
+  Connect.util.ui('adRecommendationFromLS', args);
+});
+dynamic_suffix++;
   </script>
   <!-- End advertisement topLeaderAd 1 -->
     <!-- headerPlaceholder2.pbo -->
@@ -355,7 +416,7 @@ Object Script Variables
 -->
     <a id="AccuWeatherURL" href="">
         <div id="weather">
-<span id="iconUrl"><img src="http://icons-ak.wxug.com/i/c/k/partlycloudy.gif" alt="Janesville"></span><span class="weather-degree"><span id="temp">30</span>°</span>
+<span id="iconUrl"><img src="http://icons.wxug.com/i/c/k/nt_clear.gif" alt="Janesville"></span><span class="weather-degree"><span id="temp">45.3</span>°</span>
         </div>
     </a>
 	<script type="text/javascript">
@@ -393,7 +454,7 @@ Object Script Variables
 		<!-- headerPlaceholder6.pbo -->
 		<!-- Displays Today's Date -->
 		<div id="site-date">
-   <script>changeDateFormat('2014-02-21*15:36', 'dddd, MMMM D, YYYY')</script>Friday, February 21, 2014
+   <script>changeDateFormat('2014-10-07*04:32', 'dddd, MMMM D, YYYY')</script>Tuesday, October 7, 2014
 </div>
 	</div><!-- //end #custom-mast-head-container -->
     <!-- start: headerPlaceholder7.pbo -->
@@ -566,20 +627,6 @@ Object Script Variables
     Script_Profile_Name - Output the name of the profile.
   -->
 <li><a href="/Sports/Local">Local Sports</a></li>
-  <!--
-  Document Name: navigationSubItem1.pbo 
-  Purpose: The main navigation SubItems.
-  Created: 20120911 SJJ
-  Modified: 
-     20120912 SJJ
-        - Added SectionSeo on the navigation.
-  -->
-  <!--
-  Object Script Variables  
-    Script_Profile_URL - Output the Url of the profile.
-    Script_Profile_Name - Output the name of the profile.
-  -->
-<li><a href="/Sports/Olympics">Olympics</a></li>
   <!--
   Document Name: navigationSubItem1.pbo 
   Purpose: The main navigation SubItems.
@@ -859,6 +906,34 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
+<li><a href="/Entertainment/Movies">Movie Listings</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
+<li><a href="/Entertainment/TV">TV Listings</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
 <li><a href="/Entertainment/Comics">Comics</a></li>
   <!--
   Document Name: navigationSubItem1.pbo 
@@ -1027,7 +1102,7 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
-<li><a href="/Blogs/Community">Community Blogs</a></li>
+<li><a href="/Blogs/Staff">Staff Blogs</a></li>
   <!--
   Document Name: navigationSubItem1.pbo 
   Purpose: The main navigation SubItems.
@@ -1041,7 +1116,7 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
-<li><a href="/Blogs/Staff">Staff Blogs</a></li>
+<li><a href="/Blogs/Community">Community Blogs</a></li>
   </ul>
 </li>
   <!--
@@ -1223,6 +1298,20 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
+<li><a href="/Services/Advertisers">Advertisers</a></li>
+  <!--
+  Document Name: navigationSubItem1.pbo 
+  Purpose: The main navigation SubItems.
+  Created: 20120911 SJJ
+  Modified: 
+     20120912 SJJ
+        - Added SectionSeo on the navigation.
+  -->
+  <!--
+  Object Script Variables  
+    Script_Profile_URL - Output the Url of the profile.
+    Script_Profile_Name - Output the name of the profile.
+  -->
 <li><a href="/Services/FAQ">FAQ</a></li>
   <!--
   Document Name: navigationSubItem1.pbo 
@@ -1307,7 +1396,7 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
-<li><a href="/RetailLocations">Retail locations</a></li>
+<li><a href="/RetailLocations">Retail Locations</a></li>
   </ul>
 </li>
   <!--
@@ -1363,7 +1452,7 @@ Object Script Variables
     Script_Profile_URL - Output the Url of the profile.
     Script_Profile_Name - Output the name of the profile.
   -->
-<li><a href="http://gazlo.com/">Gazlo</a></li>
+<li><a href="http://www.gazlo.com">Gazlo</a></li>
   </ul>
 </li>
   <!--
@@ -1383,16 +1472,17 @@ Object Script Variables
   </ul>
 </div>
     <!-- start: headerPlaceholder8.pbo -->
-		  <div class="headerPlaceholder8">
+		  <div class="headerPlaceholder8" style="clear:both;">
 			  <!-- Start advertisement -->
 			    <!--
-  Document Name: ads.pbo
-  Purpose: Main ad placeholder.
+  Document Name: connectAds.pbo
+  Purpose: Audience recommended ad placeholder.
   Created: 20120924 SJJ
   Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
   Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
+  Modified 20140429 Gokul : Modified from original ads.pbo to suit Audience library and get the matching ads based on recommendation.
   -->
-<div class="advertisement" id="header-leader-ad-2">
+<div class="advertisement" id="header-leader-ad-2" style="height:90px;">
   Loading...
 </div>
 <script type="text/javascript">
@@ -1413,19 +1503,50 @@ Object Script Variables
     if (windowWidth < 468) {
       spot = 'TOP234SPOT2';
     }
-    ResizeAd(windowWidth, spot, '#header-leader-ad-2', 'fallback');
-    function ResizeAd(windowWidth, spot, Placeholder, OAMSLabel) {
-      function calcHeight(spot) {
-        //find the height of the internal page
-        var the_height = document.getElementById('header-leader-ad-2-'+spot).contentWindow.document.body.scrollHeight;
-        //change the height of the iframe
-        document.getElementById('header-leader-ad-2-'+spot).height = the_height;
-      }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60015997269179396&spot='+spot+'&label='+OAMSLabel+'" id="header-leader-ad-2-'+spot+'" height="1" style="overflow:hidden; width:100%;" scrolling="no" frameborder="0"></iframe>');
-      $(window).load(function(){
-        calcHeight(spot);
-      });
-    }    
+/* Below is the setup and function that calls in Audience / Connect match for users and serves the ads */
+Connect.AdServer ="http://jgads.sx3.atl.publicus.com";
+Connect.AdSite = "JG001"; // AKA Subsite 
+var dynamic_suffix = dynamic_suffix || 0;
+var adVal = 'ad' + (parseInt(dynamic_suffix) + 1);
+// console.log("adVal is " + adVal);
+var audienceAdsPosition = audienceAdsPosition || {};
+audienceAdsPosition[adVal] = {
+  'targetDiv' : "header-leader-ad-2", 
+  'spot' : "AUD970SPOT1",
+  'label': "fallback",
+  'defaultSpot': spot,
+  'defaultLabel': "fallback",
+  //'Targeting_Workflow' :  "",  // Use this if not useing Random workflow from aggregate
+  'viewname' : "saxotech_default",
+  //'displayid' : ""  // Use this if not useing Random workflow from aggregate
+};
+// console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
+var sendData = {};
+sendData = {
+  'parameters': {}
+};
+var adparams = {
+  'siteUrl'         : Connect.AdServer, 
+  'site'            : Connect.AdSite,
+  'adPositions'     : audienceAdsPosition,
+  'adType'          : 'OAMS'
+};
+//sendData['parameters']['Targeting_Workflow'] = "";  // Use this if not useing Random workflow from aggregate
+sendData['parameters']['viewname'] = "saxotech_default";
+//sendData['parameters']['displayid'] = "";  // Use this if not useing Random workflow from aggregate
+// sendData['parameters']['uid'] = uid;
+sendData['adparams'] = adparams;
+// top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
+var args = {};
+args = {
+  'data': sendData,
+  // 'scb': 'adRecommendationSuccess',
+  // 'fcb': 'doProfileFailure',        
+};
+Connect.queue.push(function() {
+  Connect.util.ui('adRecommendationFromLS', args);
+});
+dynamic_suffix++;
   </script>
 			  <!-- End advertisement -->
 		  </div>
@@ -1435,19 +1556,25 @@ Object Script Variables
 
 <!-- Comments should be added below doctype since any space or comments added before doctype triggers quirks mode in IE -->
 <!--
-Document Name: services_art.pbs
-Purpose: Default template for all services pages, like About us.
-Created: 20120911 SJJ
+Document Name: gen_art.pbs
+Purpose: Default article template (loads header, content, footer and global variables)
+Created: 20120814 SSW
+Modified:
+  20120814 SSW
+    - added the folllowing macros: 2 setGlobalVars.pbo, 1 header.pbo, 1 articleContentLeft.pbo, 1 articleContentRight.pbo, and 1 footer.pbo.
+  20120830 SSW
+    - changed wording and removed cachequalifier values 
 -->
 <!--
 PBS Macro Tags 
 SetGlobalVars - Sets and creates global variables. 
 SetGlobalVars (uncached) - Uncached and should be used to set variables.
-header - Contains everything from the opening DOCTYPE declaration to the closing tag for the mast-head is in this file.
+articleTop - Contains everything from the opening DOCTYPE declaration to the closing tag for the mast-head is in this file.
+defaultHeader - Contains the navigation, logo, weather and the current date.
 articleContentRight - Contains all the HTML for the right side of the page aka side rail. 
 defaultFooter - Contains all the HTML for the footer section of the site 
 -->
-<!-- Start content-->
+<!-- Start content -->
 <section id="content">
 
   <!--
@@ -1499,27 +1626,90 @@ defaultFooter - Contains all the HTML for the footer section of the site
   -->
 
 	
+  <!-- Start special header if needed -->
+	
+  <!--
+  Document Name: articleTaxonomy.pbo
+  Purpose: Loads taxonomy items for the article.
+  KB Article: https://docs.saxotech.com/display/Onl/ArticleFacts.pbo
+  Created: 20120905 SJJ
+  -->
+
+
+ 
+  <!-- End special header if needed -->
+
+  
+    <!-- Starts article_embed_top content -->
+    
+  
+    <!-- Ends article_embed_bottom content -->
+  
   <!-- Start story title and global variables for videos -->
   
   <!--
-  Document Name: articleHead5.pbo
-  Purpose: Loads the main blog article headline.
+  Document Name: articleHead1.pbo
+  Purpose: Loads the main article headline and  the global variables for videos.
   KB Article: https://docs.saxotech.com/display/Onl/ArticleHead.pbo
   Created: 20120905 SJJ
   -->
 
 
 <h1>Terms of Use and Privacy Policy</h1>
+
+<!-- SJJ: Placed here because it must be the same level as articlepicture.pbo and extrapictures.pbo -->
+
+
+
   <!-- End story title and global variables for videos -->
   
+  <!-- Start story share -->
+  
+  <!-- Start story share -->
+<div class="story-share">
+  <span class="st_facebook_hcount" displaytext="Facebook"></span>
+  <span class="st_twitter_hcount" displaytext="Tweet"></span>
+  <span class="st_linkedin_hcount" displaytext="LinkedIn"></span>
+  <span id="print" class="story-share-fields">
+    <img alt="Print" src="/apps/pbcsi.dll/staticimage/images/print-icon.png">
+    <a target="_blank" href="/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983&amp;template=printart">Print</a>
+  </span>
+</div>
+
+  
+  <!-- End story share -->
+  
+  
+  <div id="story-byline-date"></div>
+  
+    
+  <!-- Start main image, extra pictures and video -->
+  <div id="lead-story" style="display:none">
+    <div id="art_photo_0"></div>
+    <div class="art_photo_controls" id="art_photo_controls"></div>
+  </div>
+
+  
+  
+  
+
+  <div id="art_photo_count" style="display:none"></div>
+  <div id="art_photo_int" style="display:none"></div>
+  <!-- End main image, extra pictures and video -->
   
   <!-- Starts left rail blocks -->
 	<div id="article-left-rail">
   
-  	<!-- Facts Box -->
+	<!-- Gallery Connection Items -->
     
 	
-	<!-- Gallery Connection Items -->
+    <!-- Pull Quote -->
+    
+ 	
+	<!-- Article Poll --> 
+    
+  
+  	<!-- Facts Box -->
     
 	
 	<!-- Connected Media Items -->
@@ -1558,13 +1748,16 @@ Object Script Variables
 
 
     
+    <!-- Facebook / Twitter -->
+    
+
   </div>
 
   <!-- Ends left rail blocks -->
   
   <!-- Starts article content -->
   <!--
-  Document Name: articleParagraph.pbo
+  Document Name: articleParagraph1.pbo
   Purpose: Load Paragraph for the article.
   KB Article: https://docs.saxotech.com/display/Onl/ArticleParagraph.pbo
   Created: 20120905 SJJ
@@ -1572,9 +1765,37 @@ Object Script Variables
 
 
 
-<p>PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY BEFORE USING GAZETTEXTRA.COM, WALWORTHCOUNTYTODAY.COM, JANESVILLEHOMEFRONT.COM, JANESVILLECLASSIFIEDS.COM, GAZETTEHALFPRICEDEALS.COM or GAZLO.COM (Bliss sites). By using one or more of these sites, you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use these sites.</p><p> </p><p> <strong></strong></p><p><strong>TERMS OF USE</strong></p><p> </p><p> All materials appearing as part of Bliss sites are protected by copyright as individual works and/or as a collective work or compilation under U.S. copyright and other laws and are property of Bliss Communications, Inc., or the party credited as the provider of the content.</p><p> </p><p> Users of Bliss sites shall not directly or indirectly copy, reproduce, transfer, distribute, publish, display, perform, modify, create derivative works, transmit or in any way exploit any content available through Bliss sites, nor shall users distribute any part of Bliss sites' content over any network, sell or offer it for sale, or use such content to construct any kind of database. </p><p> </p><p> Associated Press (AP) news, photos, graphics, video, audio and other multimedia material accessed through Bliss sites shall not be directly or indirectly reproduced, published, broadcast, sold, transferred, licensed, distributed in any manner or medium, used to prepare derivative works or displayed publicly in any manner or medium now known or later developed. AP news material shall not be stored in whole or in part in a computer except for personal and non-commercial use. The AP will not be held liable for any delays, inaccuracies, errors or omissions in the AP service or in any AP material including without limitation any third-party content and any of the advertisement in the AP service or in the transmission or delivery of all or any part thereof or for any damages whatsoever.</p><p></p><p> <strong>PRIVACY POLICY</strong></p><p></p><p> We believe you have a right to know what personal information is collected during your visits to Bliss sites and how the information is used and safeguarded. You can view some of our content anonymously, but circumstances exist when information about you is collected. The information gathered falls into two categories: information you supply voluntarily and information we gather through technology.</p><p></p><p> <strong>Information you supply voluntarily</strong></p><p></p><p> To use certain features and services on Bliss sites, you may be asked to provide specific information about yourself. This information is collected when you fill out a browser-based form and is necessary to make the features useful and valuable. The forms have blank spaces into which you type the information. We collect information, including but not limited, your name, email address, telephone number, birth date and mailing address.</p><p></p><p> <strong>How we use information you supply voluntarily</strong></p><p></p><p> We use the information you voluntarily supply to develop and offer content that best suits your interests, to complete transactions, or to communicate with you. For example, if you purchase a print subscription, we use your information to process your order. If you contact us for help, we use the information to contact you with a resolution to your problem or answer to your question. If you enter a contest, we use the information to determine eligibility and to contact winners.</p><p></p><p> <strong>Information gathered through technology</strong></p><p></p><p> Technology helps us gather other information. Our web servers automatically collect information about your computer's connection to the Internet, including your IP address, which is usually associated with the place from which you enter the Internet. You likely enter the Internet through your Internet service provider, your company or your school. Your IP address does not identify you personally. Your email address is not collected through this process, and no data on your hard drive or personal or institutional servers are read.</p><p></p><p> We also collect aggregate information on how many people visit our sites and what pages people access on our sites. Some of this information is gathered using a standard feature of browser software called a "cookie." A cookie cannot read data on your hard drive or server or gather other personal information about you such as your name or email address. Aggregate information is processed by third party services: Omniture and Google Analytics.</p><p></p><p> <strong>How we use information gathered through technology</strong></p><p></p><p> The information gathered through technology helps us make our sites more interesting and useful to you and other visitors. It helps us evaluate the value of and interest in specific sections of our sites. We can build better sites if we know which content you and other people visit and how often you and others visit that content. In turn, we are able to deliver content most suited to an individual's preferences. Site content includes, but is not limited to, news and information content and advertising.</p><p></p><p> <strong>Sharing information with other parties</strong></p><p></p><p> Personal information you voluntarily provide is used for internal purposes only and is not shared with or sold to other businesses or organizations. Use of certain interactive features, such as commenting on a news article, implies your permission to share your information. Situations where permission is implied are clearly labeled on the browser-based forms. We will share personal information with law enforcement officials as required under subpoena or court order to protect the safety and security of our sites, our visitors and the community. We do share aggregated statistics on site visits and page views with advertisers, as well as audience profiles. This to helps them understand and target certain audiences and confirm the value of advertising on our web sites. Personal information about individuals is not shared with advertisers.</p><p></p><p> <strong>Special notice about children</strong></p><p></p><p> Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us. </p><p></p><p> <strong></strong></p><p><strong>Notice regarding other online companies</strong></p><p></p><p> The Gazette, Bliss Communications, Inc., and Bliss New Media are affiliated with other online companies and providers, some of which feature our branding. Our web sites also provide text and graphic links to web sites over which we have no control or responsibility for content or business practices. This policy statement does not apply to the web sites of those companies and organizations. Please refer to these affiliated sites to obtain information on their privacy policies. If you cannot find the privacy policy of these sites via a link from the site's home page, you should contact the business or organization directly for more information.</p><p></p><p> <strong>Our right to revise this policy</strong></p><p></p><p> The Internet is an ever-changing medium. We reserve the right to alter or amend this policy as required by changes in business strategy or developments in technology. If changes are required, we will post the changes to the Terms of Use and/or Privacy Policy.</p><br>
+<p>PLEASE READ THESE TERMS OF USE AND PRIVACY POLICY CAREFULLY BEFORE USING GAZETTEXTRA.COM, WALWORTHCOUNTYTODAY.COM, JANESVILLEHOMEFRONT.COM, JANESVILLECLASSIFIEDS.COM, GAZETTEHALFPRICEDEALS.COM or GAZLO.COM (Bliss sites). By using one or more of these sites, you signify your assent to these terms of use. If you do not agree to these terms of use, please do not use these sites.</p>
+<p><strong><span style="text-decoration: underline;">TERMS OF USE</span></strong></p>
+<p>All materials appearing as part of Bliss sites are protected by copyright as individual works and/or as a collective work or compilation under U.S. copyright and other laws and are property of Bliss Communications, Inc., or the party credited as the provider of the content.</p>
+<p>Users of Bliss sites shall not directly or indirectly copy, reproduce, transfer, distribute, publish, display, perform, modify, create derivative works, transmit or in any way exploit any content available through Bliss sites, nor shall users distribute any part of Bliss sites' content over any network, sell or offer it for sale, or use such content to construct any kind of database.</p>
+<p>Associated Press (AP) news, photos, graphics, video, audio and other multimedia material accessed through Bliss sites shall not be directly or indirectly reproduced, published, broadcast, sold, transferred, licensed, distributed in any manner or medium, used to prepare derivative works or displayed publicly in any manner or medium now known or later developed. AP news material shall not be stored in whole or in part in a computer except for personal and non-commercial use. The AP will not be held liable for any delays, inaccuracies, errors or omissions in the AP service or in any AP material including without limitation any third-party content and any of the advertisement in the AP service or in the transmission or delivery of all or any part thereof or for any damages whatsoever.</p>
+<p><strong><span style="text-decoration: underline;">PRIVACY POLICY</span></strong></p>
+<p>We believe you have a right to know what personal information is collected during your visits to Bliss sites and how the information is used and safeguarded. You can view some of our content anonymously, but circumstances exist when information about you is collected. The information gathered falls into two categories: information you supply voluntarily and information we gather through technology.</p>
+<p><strong>Information you supply voluntarily</strong></p>
+<p>To use certain features and services on Bliss sites, you may be asked to provide specific information about yourself. This information is collected when you fill out a browser-based form and is necessary to make the features useful and valuable. The forms have blank spaces into which you type the information. We collect information, including but not limited, your name, email address, telephone number, birth date and mailing address.</p>
+<p><strong>How we use information you supply voluntarily</strong></p>
+<p>We use the information you voluntarily supply to develop and offer content that best suits your interests, to complete transactions, or to communicate with you. For example, if you purchase a print subscription, we use your information to process your order. If you contact us for help, we use the information to contact you with a resolution to your problem or answer to your question. If you enter a contest, we use the information to determine eligibility and to contact winners.</p>
+<p><strong>Information gathered through technology</strong></p>
+<p>Technology helps us gather other information. Our web servers automatically collect information about your computer's connection to the Internet, including your IP address, which is usually associated with the place from which you enter the Internet. You likely enter the Internet through your Internet service provider, your company or your school. Your IP address does not identify you personally. Your email address is not collected through this process, and no data on your hard drive or personal or institutional servers are read.</p>
+<p>We also collect aggregate information on how many people visit our sites and what pages people access on our sites. Some of this information is gathered using a standard feature of browser software called a "cookie." A cookie cannot read data on your hard drive or server or gather other personal information about you such as your name or email address. Aggregate information is processed by third party services: Omniture and Google Analytics.</p>
+<p><strong>How we use information gathered through technology</strong></p>
+<p>The information gathered through technology helps us make our sites more interesting and useful to you and other visitors. It helps us evaluate the value of and interest in specific sections of our sites. We can build better sites if we know which content you and other people visit and how often you and others visit that content. In turn, we are able to deliver content most suited to an individual's preferences. Site content includes, but is not limited to, news and information content and advertising.</p>
+<p><strong>Sharing information with other parties</strong></p>
+<p>Personal information you voluntarily provide is used for internal purposes only and is not shared with or sold to other businesses or organizations. Use of certain interactive features, such as commenting on a news article, implies your permission to share your information. Situations where permission is implied are clearly labeled on the browser-based forms. We will share personal information with law enforcement officials as required under subpoena or court order to protect the safety and security of our sites, our visitors and the community. We do share aggregated statistics on site visits and page views with advertisers, as well as audience profiles. This to helps them understand and target certain audiences and confirm the value of advertising on our web sites. Personal information about individuals is not shared with advertisers.</p>
+<p><strong>Special notice about children</strong></p>
+<p>Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us.</p>
+<p><strong>Notice regarding other online companies</strong></p>
+<p>The Gazette, Bliss Communications, Inc., and Bliss New Media are affiliated with other online companies and providers, some of which feature our branding. Our web sites also provide text and graphic links to web sites over which we have no control or responsibility for content or business practices. This policy statement does not apply to the web sites of those companies and organizations. Please refer to these affiliated sites to obtain information on their privacy policies. If you cannot find the privacy policy of these sites via a link from the site's home page, you should contact the business or organization directly for more information.</p>
+<p><strong>Our right to revise this policy</strong></p>
+<p>The Internet is an ever-changing medium. We reserve the right to alter or amend this policy as required by changes in business strategy or developments in technology. If changes are required, we will post the changes to the Terms of Use and/or Privacy Policy.</p><br>
 
   <!-- End article content -->
+  
+  <!-- Starts article_embed_bottom content -->
+    
+  
+    <!-- Ends article_embed_bottom content -->
   
   <!--
   <div class="article-pagination">
@@ -1587,23 +1808,59 @@ Object Script Variables
   
   <br clear="all">
   
+  <!-- Start story share -->
+  
+  <!-- Start story share -->
+<div class="story-share">
+  <span class="st_facebook_hcount" displaytext="Facebook"></span>
+  <span class="st_twitter_hcount" displaytext="Tweet"></span>
+  <span class="st_linkedin_hcount" displaytext="LinkedIn"></span>
+  <span id="print" class="story-share-fields">
+    <img alt="Print" src="/apps/pbcsi.dll/staticimage/images/print-icon.png">
+    <a target="_blank" href="/apps/pbcs.dll/article?avis=JG&amp;date=20120705&amp;category=ARTICLES&amp;lopenr=307059991&amp;Ref=AR&amp;template=printart">Print</a>
+  </span>
+</div>
+
+  
+  <!-- End story share -->
+  
   <!-- SJJ: Moved 'story related info' to Phase 2 -->
 </section>
 <!-- End content -->
-    <!--
-    Document Name: servicesContentRight.pbo
-    Purpose: Loads content for the right rail section in the default section front
-    Created: 20121003 SJJ
-    Modified: 
-      20121004 SJJ
-        - Added support for detect the element size and then show the right ads.
-    -->
-    <!--
-    Object Script Variables  
-    -->
+      <!--
+      Document Name: articleContentRight.pbo
+      Purpose: Loads content for the right rail article.
+      Created: 20120814 SSW
+      Modified:
+        20120905 SJJ
+          - Added a placeholder for the search box.
+        20120907 SJJ
+          - Implemented "Most commented" and "Most read" in the right side.
+        20120910 SJJ
+          - Added Google Map v3 integration. 
+        20120914 SJJ
+          - Module control added for Pollmini, Most Read, Most Commented and Trending Now and so on (Localdata.ini)
+          - The More Section Stories box implemented.
+        20120919 SJJ
+          - A conflict between the Google Map and the (Most read, Most Commented and Trending Now) box is now fixed.
+          - Object class changed for Most Read, Most Commented and Trending Now. Template documentation added.
+        20120921 SJJ
+          - Added current profile to the Pollmini module.
+        20120924 SJJ
+          - OAMS banners implemented.
+        20121004 SJJ
+          - Added support for detect the element size and then show the right ads.
+        20130130 MQN 
+		  - Changed order of modules
+          - Added a 4th adn(portrait-ad-5)
+          - All rail ad spots use element size 300 only
+      -->
+      <!--
+      Object Script Variables  
+      -->
   <!-- Start rightrail -->
   <aside id="right-rail">
-    <!-- Start search module -->
+	<!-- Start search module -->
     <!--
 Document Name: PlaceholderRightSearch.pbo
 Purpose: Placeholder for the html searchs box in the right side.
@@ -1621,13 +1878,19 @@ Object Script Variables
   </form>
 </div>
     <!-- End search module -->
-    <!-- Start advertisement -->
+    <!-- Start advertisement RightPortraitAd1 -->
+    <!-- 
+         connectTW = Targeting Workflow
+         connectView = ServiceAPI View name
+         connectDID = ServiceAPI Display ID
+    -->    
       <!--
-  Document Name: ads.pbo
-  Purpose: Main ad placeholder.
+  Document Name: connectAds.pbo
+  Purpose: Audience recommended ad placeholder.
   Created: 20120924 SJJ
   Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
   Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
+  Modified 20140429 Gokul : Modified from original ads.pbo to suit Audience library and get the matching ads based on recommendation.
   -->
 <div class="advertisement" id="portrait-ad-1">
   Loading...
@@ -1650,64 +1913,179 @@ Object Script Variables
     if (windowWidth < 468) {
       spot = 'RIGHT234SPOT1';
     }
-    ResizeAd(windowWidth, spot, '#portrait-ad-1', 'fallback');
-    function ResizeAd(windowWidth, spot, Placeholder, OAMSLabel) {
-      function calcHeight(spot) {
-        //find the height of the internal page
-        var the_height = document.getElementById('portrait-ad-1-'+spot).contentWindow.document.body.scrollHeight;
-        //change the height of the iframe
-        document.getElementById('portrait-ad-1-'+spot).height = the_height;
-      }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60015997269179396&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-1-'+spot+'" height="1" style="overflow:hidden; width:100%;" scrolling="no" frameborder="0"></iframe>');
-      $(window).load(function(){
-        calcHeight(spot);
-      });
-    }    
+/* Below is the setup and function that calls in Audience / Connect match for users and serves the ads */
+Connect.AdServer ="http://jgads.sx3.atl.publicus.com";
+Connect.AdSite = "JG001"; // AKA Subsite 
+var dynamic_suffix = dynamic_suffix || 0;
+var adVal = 'ad' + (parseInt(dynamic_suffix) + 1);
+// console.log("adVal is " + adVal);
+var audienceAdsPosition = audienceAdsPosition || {};
+audienceAdsPosition[adVal] = {
+  'targetDiv' : "portrait-ad-1", 
+  'spot' : "AUD970SPOT1",
+  'label': "fallback",
+  'defaultSpot': spot,
+  'defaultLabel': "fallback",
+  //'Targeting_Workflow' :  "Advertising",  // Use this if not useing Random workflow from aggregate
+  'viewname' : "saxotech_default",
+  //'displayid' : "page_1"  // Use this if not useing Random workflow from aggregate
+};
+// console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
+var sendData = {};
+sendData = {
+  'parameters': {}
+};
+var adparams = {
+  'siteUrl'         : Connect.AdServer, 
+  'site'            : Connect.AdSite,
+  'adPositions'     : audienceAdsPosition,
+  'adType'          : 'OAMS'
+};
+//sendData['parameters']['Targeting_Workflow'] = "Advertising";  // Use this if not useing Random workflow from aggregate
+sendData['parameters']['viewname'] = "saxotech_default";
+//sendData['parameters']['displayid'] = "page_1";  // Use this if not useing Random workflow from aggregate
+// sendData['parameters']['uid'] = uid;
+sendData['adparams'] = adparams;
+// top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
+var args = {};
+args = {
+  'data': sendData,
+  // 'scb': 'adRecommendationSuccess',
+  // 'fcb': 'doProfileFailure',        
+};
+Connect.queue.push(function() {
+  Connect.util.ui('adRecommendationFromLS', args);
+});
+dynamic_suffix++;
   </script>
-    <!-- End advertisement -->
-    <!-- Start events module -->
-    <!-- End events module -->
+    <!-- End advertisement RightPortraitAd1 -->
+    <!-- Start advertisement RightPortraitAd2 -->
+	<!-- 
+         connectTW = Targeting Workflow
+         connectView = ServiceAPI View name
+         connectDID = ServiceAPI Display ID
+    -->    
+      <!--
+  Document Name: connectAds.pbo
+  Purpose: Audience recommended ad placeholder.
+  Created: 20120924 SJJ
+  Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
+  Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
+  Modified 20140429 Gokul : Modified from original ads.pbo to suit Audience library and get the matching ads based on recommendation.
+  -->
+<div class="advertisement" id="portrait-ad-2">
+  Loading...
+</div>
+<script type="text/javascript">
+    var windowWidth = $(window).width();
+    // = or higher than elementSize1
+    if (windowWidth >= 1024) {
+      spot = 'RIGHT1024SPOT2';
+    }
+    // = or higher than elementSize2 and less than elementSize1
+    if (windowWidth >= 728 && windowWidth < 1024) {
+      spot = 'RIGHT728SPOT2';
+    }
+    // = or higher than elementSize3 and less than elementSize2
+    if (windowWidth >= 468 && windowWidth < 728) {
+      spot = 'RIGHT468SPOT2';
+    }
+    // less than elementSize3
+    if (windowWidth < 468) {
+      spot = 'RIGHT234SPOT2';
+    }
+/* Below is the setup and function that calls in Audience / Connect match for users and serves the ads */
+Connect.AdServer ="http://jgads.sx3.atl.publicus.com";
+Connect.AdSite = "JG001"; // AKA Subsite 
+var dynamic_suffix = dynamic_suffix || 0;
+var adVal = 'ad' + (parseInt(dynamic_suffix) + 1);
+// console.log("adVal is " + adVal);
+var audienceAdsPosition = audienceAdsPosition || {};
+audienceAdsPosition[adVal] = {
+  'targetDiv' : "portrait-ad-2", 
+  'spot' : "AUD970SPOT1",
+  'label': "fallback",
+  'defaultSpot': spot,
+  'defaultLabel': "fallback",
+  //'Targeting_Workflow' :  "Audience Development",  // Use this if not useing Random workflow from aggregate
+  'viewname' : "saxotech_default",
+  //'displayid' : "audience_development"  // Use this if not useing Random workflow from aggregate
+};
+// console.log("Ad call for targetDiv " + audienceAdsPosition[adVal]['targetDiv'] + " and placeholder " + audienceAdsPosition[adVal]['defaultSpot']);
+var sendData = {};
+sendData = {
+  'parameters': {}
+};
+var adparams = {
+  'siteUrl'         : Connect.AdServer, 
+  'site'            : Connect.AdSite,
+  'adPositions'     : audienceAdsPosition,
+  'adType'          : 'OAMS'
+};
+//sendData['parameters']['Targeting_Workflow'] = "Audience Development";  // Use this if not useing Random workflow from aggregate
+sendData['parameters']['viewname'] = "saxotech_default";
+//sendData['parameters']['displayid'] = "audience_development";  // Use this if not useing Random workflow from aggregate
+// sendData['parameters']['uid'] = uid;
+sendData['adparams'] = adparams;
+// top.SaxoConnect.getMultiOamsAdFromDoProfile(audienceAdsPosition, sendData);
+var args = {};
+args = {
+  'data': sendData,
+  // 'scb': 'adRecommendationSuccess',
+  // 'fcb': 'doProfileFailure',        
+};
+Connect.queue.push(function() {
+  Connect.util.ui('adRecommendationFromLS', args);
+});
+dynamic_suffix++;
+  </script>
+    <!-- End advertisement RightPortraitAd2 -->
+	<div style="margin: 15px 0 0 8px;">
+		<a href="/20140912/28_apple_orchards_within_your_reach" target="_blank">
+			<img style="width: 100%;" src="/assets/jpeg/JG7269915.JPG">
+		</a>
+	</div>
     <!-- Start gallery -->
-<div id="gallery-module">
-  <h4 class="right-rail-heading">
-    <a href="/galleries">Gallery</a>
-    <!-- SJJ: Moved to phase 2
-    <span class="right-block-fields submit"><a href="#">Submit</a></span>
-    <span class="right-block-fields"><a href="#">Videos</a></span>
-    -->
-    <span class="right-block-fields"><a href="/galleries">Photos</a></span>
-  </h4>
+	<div id="gallery-module">
+		<h4 class="right-rail-heading">
+			<a href="/galleries">Galleries</a>
+			<!-- SJJ: Moved to phase 2
+			<span class="right-block-fields submit"><a href="#">Submit</a></span>
+			<span class="right-block-fields"><a href="#">Videos</a></span>
+			<span class="right-block-fields"><a href="/galleries">Photos</a></span>
+			-->
+		</h4>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20140220&amp;Category=MULTIMEDIA02&amp;ArtNo=220009999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20140220&amp;Category=MULTIMEDIA02&amp;ArtNo=220009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Parker versus Craig Girls Basketball">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141007&amp;Category=MULTIMEDIA02&amp;ArtNo=100709999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141007&amp;Category=MULTIMEDIA02&amp;ArtNo=100709999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Janesville Parker versus Madison West Volleyball">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20140217&amp;Category=MULTIMEDIA02&amp;ArtNo=217009999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20140217&amp;Category=MULTIMEDIA02&amp;ArtNo=217009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Editorial cartoons for Feb. 16-22, 2014">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141006&amp;Category=MULTIMEDIA02&amp;ArtNo=100609999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141006&amp;Category=MULTIMEDIA02&amp;ArtNo=100609999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="WIAA Div. 1 Sectional Golf Tournament">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20140214&amp;Category=MULTIMEDIA02&amp;ArtNo=214009998&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20140214&amp;Category=MULTIMEDIA02&amp;ArtNo=214009998&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Craig versus Middleton Girls Basketball">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409998&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409998&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Irish Fest Activities">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20140214&amp;Category=MULTIMEDIA02&amp;ArtNo=214009999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20140214&amp;Category=MULTIMEDIA02&amp;ArtNo=214009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Icicles dazzle in Lake Superior caves">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141004&amp;Category=MULTIMEDIA02&amp;ArtNo=100409999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Whitewater Warhawks versus La Crosse Football">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20140211&amp;Category=MULTIMEDIA02&amp;ArtNo=211009999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20140211&amp;Category=MULTIMEDIA02&amp;ArtNo=211009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Big Foot versus Clinton Boys Basketball">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209998&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209998&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Stand Alone Photos for October, 2014">
   </a>
 </div>
 <div class="photos">
-  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20140210&amp;Category=MULTIMEDIA02&amp;ArtNo=210009999&amp;Ref=PH&amp;template=gallery">
-    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20140210&amp;Category=MULTIMEDIA02&amp;ArtNo=210009999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Editorial cartoons for Feb. 9-15, 2014">
+  <a href="/apps/pbcs.dll/gallery?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209999&amp;Ref=PH&amp;template=gallery">
+    <img src="http://JGweb.SX3.atl.publicus.com/apps/pbcsi.dll/bilde?Site=JG&amp;Date=20141002&amp;Category=MULTIMEDIA02&amp;ArtNo=100209999&amp;Ref=PH&amp;Item=1&amp;NewTbl=1&amp;MaxW=90" alt="Janesville Craig versus Madison East Football">
   </a>
 </div>
-</div>
+	</div>
     <!-- End gallery -->
     <!-- Start blogs -->
   <!--
@@ -1725,9 +2103,9 @@ Object Script Variables
   <!-- start contentListItem7 -->
 <div class="blog-details">
   <div class="event-text">
-    <a href="/article/20140221/ARTICLES/140229946"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Political discourse must perplex previous letter writer</a>
+    <a href="/20141007/best_of_the_gazette_oct_7_mars_sex_offenders_and_barrel_whiskey"> Best of The Gazette, Oct. 7: Mars, sex offenders and barrel whiskey</a>
     <div class="date">
-      <script>changeDateFormat('2014-02-21*15:31', 'MMMM D, YYYY')</script>February 21, 2014
+      <script>changeDateFormat('2014-10-07*15:05', 'dddd, MMMM D, YYYY')</script>Tuesday, October 7, 2014
     </div>
   </div>
 </div>
@@ -1736,9 +2114,9 @@ Object Script Variables
 <!-- start contentListItem7 -->
 <div class="blog-details">
   <div class="event-text">
-    <a href="/article/20140221/ARTICLES/140229952"> Crash closes Highway 11 near County H in Rock County</a>
+    <a href="/20141007/john_w_eyster_two_holidays_ripe_for_change"> John W. Eyster: Two holidays ripe for change</a>
     <div class="date">
-      <script>changeDateFormat('2014-02-21*11:07', 'MMMM D, YYYY')</script>February 21, 2014
+      <script>changeDateFormat('2014-10-06*14:37', 'dddd, MMMM D, YYYY')</script>Monday, October 6, 2014
     </div>
   </div>
 </div>
@@ -1747,9 +2125,9 @@ Object Script Variables
 <!-- start contentListItem7 -->
 <div class="blog-details">
   <div class="event-text">
-    <a href="/article/20140221/BLOGS/140229954"> Staying strong as we age</a>
+    <a href="/20141006/james_martin_a_screeching_argument_against_common_core"> James Martin: A screeching argument against Common Core</a>
     <div class="date">
-      <script>changeDateFormat('2014-02-21*10:22', 'MMMM D, YYYY')</script>February 21, 2014
+      <script>changeDateFormat('2014-10-06*10:41', 'dddd, MMMM D, YYYY')</script>Monday, October 6, 2014
     </div>
   </div>
 </div>
@@ -1757,51 +2135,233 @@ Object Script Variables
 <!-- end contentListItem7 -->
 </div>
     <!-- End blogs -->
-    <!-- Start advertisement -->
-      <!--
-  Document Name: ads.pbo
-  Purpose: Main ad placeholder.
-  Created: 20120924 SJJ
-  Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
-  Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
+    <div id="accordion">
+      <!-- Start trending now module -->
+      <h4 class="right-rail-heading">
+        <a href="#">Trending now</a>
+      </h4>
+      <div>
+  <!--
+  Document Name: contentStats1.pbo 
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStats.pbo
+  Created: 20120831 SJJ
   -->
-<div class="advertisement" id="portrait-ad-2">
-  Loading...
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141004/firefighters_public_respond_to_delavan_childs_request_for_shoulder_patches"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Firefighters, public respond to Delavan child's request for shoulder patches</a> <span class="summary"></span>
 </div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141006/milton_police_seek_publics_help_identifying_junction_pub_robbers"> Milton police seek public's help identifying Junction Pub robbers</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141007/scott_r_stricker_edgerton_wi_1963_2014"> Scott R. Stricker, Edgerton, WI (1963-2014)</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141007/senate_candidates_ads_feature_bathroom_bar_swearing"> Senate candidate's ads feature bathroom, bar, swearing</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141007/georgia_officers_cleared_in_raid_that_wounded_janesville_toddler"> Georgia officers cleared in raid that wounded Janesville toddler</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141007/updated_highway_14_between_janesville_evansville_now_open"> Updated: Highway 14 between Janesville, Evansville now open</a> <span class="summary"></span>
+</div>
+      </div>
+      <!-- End trending now module -->
+      <!-- Start most read -->
+      <h4 class="right-rail-heading">
+        <a href="#">Most read</a>
+      </h4>
+      <div>
+  <!--
+  Document Name: contentStats1.pbo 
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStats.pbo
+  Created: 20120831 SJJ
+  -->
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141003/brothers_plan_to_revamp_downtown_tavern_with_ribs_country_music_and_barrel_whiskey"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Brothers plan to revamp downtown tavern with ribs, country music and barrel whiskey</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141001/sambath_pal_gets_20_years_in_hit_and_run_deaths_of_two_motorcyclists"> Sambath Pal gets 20 years in hit-and-run deaths of two motorcyclists</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20140930/website_puts_dicks_gordmans_at_janesville_mall"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Website puts Dick's, Gordmans at Janesville Mall</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141006/milton_police_seek_publics_help_identifying_junction_pub_robbers"> Milton police seek public's help identifying Junction Pub robbers</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141003/authorities_say_woman_set_car_on_fire_and_her_death_was_suicide"> Authorities say woman set car on fire and her death was suicide</a> <span class="summary"></span>
+</div>
+  <!--
+  Document Name: contentStatsItem1.pbo
+  Purpose: Get most commented and trending now content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentStatsItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141001/family_friends_shocked_by_car_fire_death_of_local_woman"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Family, friends shocked by car-fire death of local woman</a> <span class="summary"></span>
+</div>
+      </div>
+      <!-- End most read -->
+      <!-- Start most commented -->
+      <h4 class="right-rail-heading">
+        <a href="#">Most commented</a>
+      </h4>
+      <div>
+  <!--
+  Document Name: contentList2.pbo 
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentList.pbo
+  Created: 20130301 SJJ
+  -->
+  <!--
+  Document Name: contentListItem2.pbo
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentListItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141004/your_views_eliminate_sound_off_column_or_at_least_its_anonymity"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Eliminate Sound Off column or at least its anonymity</a> <span class="summary">(10)</span>
+</div>
+  <!--
+  Document Name: contentListItem2.pbo
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentListItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20140930/referendum_question_seeking_money_for_street_repair_doesnt_spell_out_what_the_money_is_for"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Referendum question seeking money for street repair doesn't spell out what the money is for</a> <span class="summary">(10)</span>
+</div>
+  <!--
+  Document Name: contentListItem2.pbo
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentListItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141006/your_views_gov_walker8217s_ways_are_not_wisconsin8217s_ways"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Gov. Walker’s ways are not Wisconsin’s ways</a> <span class="summary">(10)</span>
+</div>
+  <!--
+  Document Name: contentListItem2.pbo
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentListItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141003/your_views_mary_burke8217s_8216lifted8217_jobs_plan_earns_an_f_in_her_book"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Your Views: Mary Burke’s ‘lifted’ jobs plan earns an F in her book</a> <span class="summary">(8)</span>
+</div>
+  <!--
+  Document Name: contentListItem2.pbo
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentListItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141002/ted_kinnaman_show_scott_walker_he_has_gone_too_far_in_war_on_workers"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Ted Kinnaman: Show Scott Walker he has gone too far in war on workers</a> <span class="summary">(8)</span>
+</div>
+  <!--
+  Document Name: contentListItem2.pbo
+  Purpose: Get most commented content in the right rail.
+  KB Article: https://docs.saxotech.com/display/Onl/ContentListItem.pbo
+  Created: 20120814 SSW
+  -->
+<div class="right-rail-text">
+  <a href="/20141004/group_traffic_volume_doesnt_justify_interstate_9039_expansion"><span class="PREMIUM"><img src="/images/icon-premium-content.png"></span> Group: Traffic volume doesn't justify Interstate 90/39 expansion</a> <span class="summary">(7)</span>
+</div>
+      </div>
+      <!-- End most commented -->
+    </div>
+    <!-- Start personalized news -->
+    <!-- Start personalized news -->
+ <!--
+    Document Name: PlaceholderPersonalizedNews.pbo
+    Purpose: Place holder for personalized news box in the right rail.
+    Created: 20121030 SJJ
+	Modified: 20130725 MQN
+			  - modified for Janesville Gazette site see documentation here: https://docs.saxotech.com/display/CON/Connect+library+setup+guidelines+for+Janesville
+			  - removed variables LConnectPersonalizedNewsCurrentCat, LConnectPersonalizedNewsCurrentProfile, LConnectTemplate
+-->
+<div id="personalized-news"></div>
 <script type="text/javascript">
-    var windowWidth = $(window).width();
-    // = or higher than elementSize1
-    if (windowWidth >= 1024) {
-      spot = 'RIGHT1024SPOT2';
-    }
-    // = or higher than elementSize2 and less than elementSize1
-    if (windowWidth >= 728 && windowWidth < 1024) {
-      spot = 'RIGHT728SPOT1';
-    }
-    // = or higher than elementSize3 and less than elementSize2
-    if (windowWidth >= 468 && windowWidth < 728) {
-      spot = 'RIGHT468SPOT2';
-    }
-    // less than elementSize3
-    if (windowWidth < 468) {
-      spot = 'RIGHT234SPOT2';
-    }
-    ResizeAd(windowWidth, spot, '#portrait-ad-2', 'fallback');
-    function ResizeAd(windowWidth, spot, Placeholder, OAMSLabel) {
-      function calcHeight(spot) {
-        //find the height of the internal page
-        var the_height = document.getElementById('portrait-ad-2-'+spot).contentWindow.document.body.scrollHeight;
-        //change the height of the iframe
-        document.getElementById('portrait-ad-2-'+spot).height = the_height;
-      }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60015997269179396&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-2-'+spot+'" height="1" style="overflow:hidden; width:100%;" scrolling="no" frameborder="0"></iframe>');
-      $(window).load(function(){
-        calcHeight(spot);
-      });
-    }    
-  </script>
-    <!-- End advertisement -->
-    <!-- Start advertisement -->
+var LConnectPersonalizedNewsCount          = 10;
+var LConnectPersonalizedNewsCurrentCat     = ''; // Set the correct value or remove this or set to Null
+var LConnectPersonalizedNewsCurrentProfile = ''; // Set the correct value or remove this or set to Null
+var LConnectTemplate                       = ''; // Set the correct value
+//  Params :  count, targetDiv, objectClass, category, profile, template
+// Refer this and we recommend to include in the header  : \templates\objects\sessionInfo999.pbo - Must include Javascript code to set top.SaxoContent.Uid to 
+// top.SaxoConnect.Uid = uid;
+// top.SaxoConnect.getContentFromDoProfile(LConnectPersonalizedNewsCount, 'personalized-news', 5, LConnectPersonalizedNewsCurrentCat, LConnectPersonalizedNewsCurrentProfile,LConnectTemplate);
+</script>
+<!-- End personalized news -->
+    <!-- End personalized news -->
+    <!-- Start advertisement RightPortraitAd3 -->
       <!--
   Document Name: ads.pbo
   Purpose: Main ad placeholder.
@@ -1810,7 +2370,7 @@ Object Script Variables
   Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
   -->
 <div class="advertisement" id="portrait-ad-3">
-  Loading...
+	Loading...
 </div>
 <script type="text/javascript">
     var windowWidth = $(window).width();
@@ -1838,13 +2398,57 @@ Object Script Variables
         //change the height of the iframe
         document.getElementById('portrait-ad-3-'+spot).height = the_height;
       }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60015997269179396&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-3-'+spot+'" height="1" style="overflow:hidden; width:100%;" scrolling="no" frameborder="0"></iframe>');
+      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=40020373099324621&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-3-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
       $(window).load(function(){
         calcHeight(spot);
       });
     }    
   </script>
-    <!-- End advertisement -->
+    <!-- End advertisement RightPortraitAd3 -->
+    <!-- Start advertisement RightPortraitAd4 -->
+      <!--
+  Document Name: ads.pbo
+  Purpose: Main ad placeholder.
+  Created: 20120924 SJJ
+  Modified 20121004 SJJ : Added support for detect the element size and then show the right ads.
+  Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
+  -->
+<div class="advertisement" id="portrait-ad-4">
+	Loading...
+</div>
+<script type="text/javascript">
+    var windowWidth = $(window).width();
+    // = or higher than elementSize1
+    if (windowWidth >= 1024) {
+      spot = 'RIGHT1024SPOT4';
+    }
+    // = or higher than elementSize2 and less than elementSize1
+    if (windowWidth >= 728 && windowWidth < 1024) {
+      spot = 'RIGHT728SPOT4';
+    }
+    // = or higher than elementSize3 and less than elementSize2
+    if (windowWidth >= 468 && windowWidth < 728) {
+      spot = 'RIGHT468SPOT4';
+    }
+    // less than elementSize3
+    if (windowWidth < 468) {
+      spot = 'RIGHT234SPOT4';
+    }
+    ResizeAd(windowWidth, spot, '#portrait-ad-4', 'fallback');
+    function ResizeAd(windowWidth, spot, Placeholder, OAMSLabel) {
+      function calcHeight(spot) {
+        //find the height of the internal page
+        var the_height = document.getElementById('portrait-ad-4-'+spot).contentWindow.document.body.scrollHeight;
+        //change the height of the iframe
+        document.getElementById('portrait-ad-4-'+spot).height = the_height;
+      }
+      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=40020373099324621&spot='+spot+'&label='+OAMSLabel+'" id="portrait-ad-4-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
+      $(window).load(function(){
+        calcHeight(spot);
+      });
+    }    
+  </script>
+    <!-- End advertisement RightPortraitAd4 -->
   </aside>
   <!-- End rightrail -->
 
@@ -1885,7 +2489,7 @@ Object Script Variables
   Modified 20130410 SSW : Cleaned up and streamlined the OAS Script.
   -->
 <div class="advertisement" id="footer-leader-ad">
-  Loading...
+	Loading...
 </div>
 <script type="text/javascript">
     var windowWidth = $(window).width();
@@ -1913,7 +2517,7 @@ Object Script Variables
         //change the height of the iframe
         document.getElementById('footer-leader-ad-'+spot).height = the_height;
       }
-      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=60015997269179396&spot='+spot+'&label='+OAMSLabel+'" id="footer-leader-ad-'+spot+'" height="1" style="overflow:hidden; width:100%;" scrolling="no" frameborder="0"></iframe>');
+      $(Placeholder).html('<iframe src="/section/ads?nocache=1&server=http://jgads.sx3.atl.publicus.com&subsite=JG001&random=40020373099324621&spot='+spot+'&label='+OAMSLabel+'" id="footer-leader-ad-'+spot+'" height="90" style="overflow:hidden; width:100%; background-color: #fff;" scrolling="no" frameborder="0"></iframe>');
       $(window).load(function(){
         calcHeight(spot);
       });
@@ -2035,15 +2639,6 @@ Created: 20120912 SJJ
 Object Script Variables  
 -->
 <li><a href="/Sports/Local">Local Sports</a></li>
-<!--
-Document Name: siteMapSubItem1.pbo 
-Purpose: Build the sitemap (SubItems).
-Created: 20120912 SJJ
--->
-<!--
-Object Script Variables  
--->
-<li><a href="/Sports/Olympics">Olympics</a></li>
 <!--
 Document Name: siteMapSubItem1.pbo 
 Purpose: Build the sitemap (SubItems).
@@ -2231,6 +2826,24 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
+<li><a href="/Entertainment/Movies">Movie Listings</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
+<li><a href="/Entertainment/TV">TV Listings</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
 <li><a href="/Entertainment/Comics">Comics</a></li>
 <!--
 Document Name: siteMapSubItem1.pbo 
@@ -2347,7 +2960,7 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
-<li><a href="/Blogs/Community">Community Blogs</a></li>
+<li><a href="/Blogs/Staff">Staff Blogs</a></li>
 <!--
 Document Name: siteMapSubItem1.pbo 
 Purpose: Build the sitemap (SubItems).
@@ -2356,7 +2969,7 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
-<li><a href="/Blogs/Staff">Staff Blogs</a></li>
+<li><a href="/Blogs/Community">Community Blogs</a></li>
     </ul>
 </div>
   <!--
@@ -2481,6 +3094,15 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
+<li><a href="/Services/Advertisers">Advertisers</a></li>
+<!--
+Document Name: siteMapSubItem1.pbo 
+Purpose: Build the sitemap (SubItems).
+Created: 20120912 SJJ
+-->
+<!--
+Object Script Variables  
+-->
 <li><a href="/Services/FAQ">FAQ</a></li>
 <!--
 Document Name: siteMapSubItem1.pbo 
@@ -2535,7 +3157,7 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
-<li><a href="/RetailLocations">Retail locations</a></li>
+<li><a href="/RetailLocations">Retail Locations</a></li>
     </ul>
 </div>
   <!--
@@ -2575,7 +3197,7 @@ Created: 20120912 SJJ
 <!--
 Object Script Variables  
 -->
-<li><a href="http://gazlo.com/">Gazlo</a></li>
+<li><a href="http://www.gazlo.com">Gazlo</a></li>
     </ul>
 </div>
   <!--
@@ -2602,22 +3224,24 @@ Object Script Variables
   <!-- container ends -->
   <!-- SAXOTECH Connect Stats Collector starts -->
   <script>
-$(document).ready(function(){
   // please see the following documentation for changes made to this code.
   // https://docs.saxotech.com/display/CON/Connect+library+setup+guidelines+for+Janesville
     // Article Stats
-    sc.push({
+    // sc.push was replaced with Connect.util.stats by Aspire for GRNDEV-1063
+var data = {
   uId     : uid, 
-  sc_var1 : 'Article', 
-  sc_var2 : 'Services:SERVICES', 
-  sc_var3 : '', 
-  sc_var4 : '', 
-  sc_var5 : 'Terms%20of%20Use%20and%20Privacy%20Policy:3FCC02E5-2F20-47B2-870C-662CF25867A6', // escaping the headline to handle special characters
-  sc_var6 : '', 
-  sc_var7 : '', 
-  sc_var8 : '', 
+  sc_var1 : "Article", 
+  sc_var2 : "Services:SERVICES", 
+  sc_var3 : "", 
+  sc_var4 : "", 
+  sc_var5 : "Terms%20of%20Use%20and%20Privacy%20Policy:3FCC02E5-2F20-47B2-870C-662CF25867A6", // escaping the headline to handle special characters
+  sc_var6 : "", 
+  sc_var7 : "", 
+  sc_var8 : "", 
   sc_var9 : (uid != -1) ? 'Registered' : 'Anonymous' // check to see if logged in to fill in Profile type
-});
+};
+Connect.queue.push(function() {
+  Connect.util.stats('pushData', data);     
 });
 </script>
 
@@ -2630,6 +3254,8 @@ $(document).ready(function(){
   -->
 <script language="JavaScript" type="text/javascript" src="/js/omniture/default/s_code.js"></script>
 <script language="JavaScript" type="text/javascript">
+$( document ).ready(function() {
+// start document ready
 s.server="http://www.gazettextra.com"
   s.pageName="article | services | " + s_prop9 + " | " + articleGuid + ""
   s.channel="Articles"
@@ -2639,9 +3265,27 @@ s.prop13=articleGuid
 s.prop16="0"
 s.prop17="http://www.gazettextra.com/apps/pbcs.dll/article?AID=/99999999/SERVICES/121219983&nocache=1"
 s.prop18=document.title
-s.prop19="Anonymous"
+if (userStatus) {
+	s.prop19=userStatus;
+} else {
+	s.prop19="Undefined";
+}
+s.prop22=window.location.href
+//var testResult = 'result is ' + (sessionInfoTrigger == 1) ? 'success' : 'fail');
+//var myTest = myVar == 0 ? -1 : myVar;
+//alert(testResult);
+// alert( 'omniture macro' );
+// if(sessionInfoTriggerX==1){
+// 	alert('Trigger is 1');
+// 	}
+// 	else {
+// 	alert('Trigger is not 1');
+// 	}
+// alert('omniture macro omniture_SX_UserID = ' + omniture_SX_UserID);
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)
+// end document ready
+});
 </script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
@@ -2651,4 +3295,4 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
   <!-- Omniture ends -->
 
 
-<!--Updated: 2014/02/21 15:37:26--></body></html>
+<!--Updated: 2014/10/08 00:46:35--></body></html>
