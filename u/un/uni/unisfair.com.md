@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217234109id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009014645id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
 # InterCall Privacy Policy | Conference Call Company
 
@@ -91,5 +91,11 @@ ATTN: Legal Department
 8420 W. Bryn Mawr  
 Suite 1100  
 Chicago, IL 60631
+
+## HIPPA Privacy Notice
+
+Effective June 6, 2014
+
+[Download HIPPA Privacy Notice](http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf)
 
  
