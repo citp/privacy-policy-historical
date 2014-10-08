@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airserver.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316115116id_/http%3A//www.airserver.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airserver.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009000516id_/http%3A//www.airserver.com/Info/Privacy) for the most accurate reproduction.*
 
-# AirServer - Privacy policy
+# Privacy policy ‹ AirServer
 
 This Privacy Policy governs the manner in which App Dynamic collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.airserver.com](http://www.airserver.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by App Dynamic
 
