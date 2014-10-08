@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180346id_/http%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpsonswiki.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008111612id_/http%3A//simpsonswiki.com/wiki/Wikisimpsons%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikisimpsons:Privacy policy - Wikisimpsons, the Simpsons Wiki
 
   |  [](http://twitter.com/simpsonswiki "Twitter") [](http://wikisimpsons.deviantart.com/ "deviantART") [](http://www.facebook.com/wikisimpsons "Facebook")[](http://tumblr.simpsonswiki.net/ "Tumblr")[](https://plus.google.com/104723308372789955884/ "Google+")
-
-[Make an account!](http://simpsonswiki.com/w/index.php?title=Special:UserLogin&type=signup) It's easy, free, and your work on the wiki can be attributed to you. 
-
-We are pleased to announce [Wikisimpsons Answers](http://answers.simpsonswiki.com/ "answers:"), the newest member of the Wikisimpsons family! People can ask any _[The Simpsons](https://web.archive.org/wiki/The_Simpsons "The Simpsons")_ related question there and get an answer! So, if you have a question that is anything to do with _The Simpsons_ , ask away! 
-
-* * *
 
 ### Wikisimpsons - The Simpsons Wiki
 
