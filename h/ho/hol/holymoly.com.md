@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153726id_/http%3A//www.holymoly.com/page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008160127id_/http%3A//www.holymoly.com/page/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Holy Moly!
 
