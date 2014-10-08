@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the merchantos.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608145937id_/http%3A//www.lightspeedretail.com/cloud/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantos.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008063237id_/http%3A//www.lightspeedretail.com/cloud/privacy) for the most accurate reproduction.*
 
 # LightSpeed Retail Point of Sale (POS) Privacy Policy Statement
-
-## LightSpeed Cloud
 
 #####  LightSpeed Cloud Privacy Policy 
 
