@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealerinspire.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620140752id_/http%3A//www.dealerinspire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerinspire.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008182519id_/http%3A//www.dealerinspire.com/privacy-policy) for the most accurate reproduction.*
 
-# Dealer Inspire
+# Privacy Policy | Dealer Inspire
 
 We only collect information from you when you submit your information on our site through a form. The information we collect includes your name, email address, mailing address, and phone number.
 
