@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327100924id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008052842id_/http%3A//www.reedconstructiondata.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-#### Last Revised: April 2012
-
-#### Overview
+# Reed Construction Data - Privacy
 
 Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to our sites.
 
@@ -15,7 +11,7 @@ This Privacy Policy describes the policies of Reed Construction Data LLC ( ** _�
 
 
 
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources or other Internet sites. Your use of the Sites constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. If you sign in to the Sites using social networking such as Facebook or Twitter, that social network will request your permission to provide your information to us and we will use it in compliance with this Privacy Policy. If you send us a request to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com), we will delete the data we received from social networking sites, but you will no longer be able to sign into the Sites through a social networking site. 
+This privacy policy does not apply to information we collect by other means (including offline) or from other sources or other Internet sites. Your use of the Sites constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. If you sign in to the Sites using social networking such as Facebook or Twitter, that social network will request your permission to provide your information to us and we will use it in compliance with this Privacy Policy. If you send us a request to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com), we will delete the data we received from social networking sites, but you will no longer be able to sign into the Sites through a social networking site.
 
 We may change the terms of this Privacy Policy prospectively, so Users are encouraged to review this page from time to time. Your continued use of the Sites following the posting of changes to the Privacy Policy means that you accept the changes.
 
@@ -25,7 +21,7 @@ Children (persons under the age of 18) are not eligible to use the Sites.
 
 We require you to provide certain information about yourself if you register with the Sites or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback, when you submit postings to public areas of the Sites (e.g., blogs, moderated discussions and bulletin boards) and when you log on to the Sites through social networks such as Facebook, or Twitter.
 
-The information we collect may include information from which you may be personally identified (" **Personally Identifiable Information** "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Sites) for which there is a charge. 
+The information we collect may include information from which you may be personally identified (" **Personally Identifiable Information** "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Sites) for which there is a charge.
 
 When you visit the Sites, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on the Sites. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of the Sites. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the Sites, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
@@ -80,17 +76,15 @@ You may view and update information that you previously submitted to the Sites b
 
 **Links**
 
-This Sites contain content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
+This Sites contain content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
 
-**The Sites are operated by:**
-
-Reed Construction Data LLC  
+**The Sites are operated by:** Reed Construction Data LLC  
 30 Technology Parkway South  
 Norcross, GA 30092  
 Email: [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com)
 
 **Your California Privacy Rights**
 
-We will provide individuals who are California residents a description of the categories of personal customer information Reed Construction Data shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. We will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like this information, please submit a written request to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com) or to Reed Construction Data at the mailing address above. In your request, please specify that you want a "California Privacy Rights Notice." Please allow 30 days for a response. 
+We will provide individuals who are California residents a description of the categories of personal customer information Reed Construction Data shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. We will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like this information, please submit a written request to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com) or to Reed Construction Data at the mailing address above. In your request, please specify that you want a "California Privacy Rights Notice." Please allow 30 days for a response.
 
-© 2012 Reed Construction Data LLC All rights reserved. Any commercial use of the Sites[](http://www.blogger.com/blogger.g?blogID=5704428590836194951) is strictly prohibited, except as provided in the [Terms & Conditions](http://www.reedconstructiondata.com/corporate/terms/) or to the extent that we otherwise approve. To request approval to use Site content, please see our [Reprint/Licensing](http://www.reedconstructiondata.com/corporate/reprint) page.
+© 2012 Reed Construction Data LLC All rights reserved. Any commercial use of the Sites[](http://www.blogger.com/blogger.g?blogID=5704428590836194951) is strictly prohibited, except as provided in the [Terms & Conditions](https://web.archive.org/Company-Information/Terms-of-Use/) or to the extent that we otherwise approve. To request approval to use Site content, please see our [Reprint/Licensing](https://web.archive.org/Company-Information/Reprints/) page.
