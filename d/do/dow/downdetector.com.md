@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downdetector.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063549id_/http%3A//downdetector.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008233312id_/http%3A//downdetector.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement and policy Down Detector
 
@@ -16,7 +16,9 @@ We have no access to or administration abilities over any cookies that are used 
 **  
 Third-Party Advertising – AdChoices**
 
-We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/).   
+We use third-party advertising companies to serve ads and collect information when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information about this practice and to understand your opt-out choices, please [click here](http://www.networkadvertising.org/choices/). 
+
+To opt out for Project Rubicon advertising, please visit [http://www.Rubiconproject.com/privacy/consumer-online-profile-and-opt-out/](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)  
 **  
 Links to Other Websites**
 
@@ -56,8 +58,8 @@ info@downdetector.com
 
 Serinus42  
 Downdetector  
-Lange Herenvest 32-e  
-2011 BT Haarlem  
+Parklaan 125  
+2011 KT Haarlem  
 The Netherlands
 
 This privacy statement and policy was last updated on 29 March 2013.
