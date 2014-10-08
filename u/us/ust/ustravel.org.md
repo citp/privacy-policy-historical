@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627142843id_/http%3A//www.ustravel.org/about-us-travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008115433id_/http%3A//www.ustravel.org/about-us-travel/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Practices | U.S. Travel Association
 
