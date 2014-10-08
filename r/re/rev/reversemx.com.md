@@ -1,47 +1,71 @@
-> *The following text is extracted and transformed from the reversemx.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227154052id_/http%3A//www.nukex.com/NukeXCom/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversemx.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008100506id_/https%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
 
-# NukeX.Com > Home ( DNN 3.2.0 )
+# Privacy Policy - DomainTools
 
-NukeX.Com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the NukeX.Com Web site and governs data collection and usage. By using the NukeX.Com website, you consent to the data practices described in this statement.
+_Last updated December 13, 2013_
 
-Collection of your Personal Information
+Your privacy is important to DomainTools. This privacy policy is designed to tell you how we collect and use personal information so you can make an informed decision about using our websites, including domaintools.com, screenshots.com, and other sites on which this policy is posted. 
 
-NukeX.Com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. NukeX.Com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+DomainTools may update this privacy policy from time to time. When we do, the changes will be posted on this page and the date indicated above will be updated. So please check this page periodically. In the case of material changes, we may also contact you using the email address you provided, if any, or post a notice on our website that the privacy policy has been modified. 
 
-There is also information about your computer hardware and software that is automatically collected by NukeX.Com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by NukeX.Com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the NukeX.Com Web site.
+Please read this statement before using our websites or submitting any personal information to us and let us know if you have any questions. If you do not agree with this policy, please do not submit personal information or use our website or online services. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through NukeX.Com public message boards, this information may be collected and used by others. Note: NukeX.Com does not read any of your private online communications.
+### Collection and use of personal information
 
-NukeX.Com encourages you to review the privacy statements of Web sites you choose to link to from NukeX.Com so that you can understand how those Web sites collect, use and share your information. NukeX.Com is not responsible for the privacy statements or other content on Web sites outside of the NukeX.Com and NukeX.Com family of Web sites.
+Personal information is information that can be used to uniquely identify or contact a single person. DomainTools collects personal information in several ways. 
 
-Use of your Personal Information
+When you register for a DomainTools account, we may ask you to provide certain personal information, including your name and email address. If you register for a paid account or make a purchase, we may ask you to provide your address, phone number, and credit-card or PayPal billing information. 
 
-NukeX.Com collects and uses your personal information to operate the NukeX.Com Web site and deliver the services you have requested. NukeX.Com also uses your personally identifiable information to inform you of other products or services available from NukeX.Com and its affiliates. NukeX.Com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+We also request information from you when you log in to your DomainTools account, where you will be required to provide your account name and password as a condition to accessing certain information, materials, or services. 
 
-NukeX.Com does not sell, rent or lease its customer lists to third parties. NukeX.Com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, NukeX.Com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to NukeX.Com, and they are required to maintain the confidentiality of your information.
+DomainTools may use personal information, either alone or in combination with other information, to provide and improve our services in several ways. For example, we use your email address to send registration reminders, to notify you of updates, and to send news and special offers. We use your credit card or other billing information to obtain payment for certain kinds of accounts or for other purchases you make. 
 
-NukeX.Com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you register for an account but do not wish to receive additional marketing material from us, you can generally indicate your preference on the registration form. If you no longer wish to receive news or promotional materials, you may opt-out of receiving them by following the instructions included in each news release or communication. 
 
-NukeX.Com keeps track of the Web sites and pages our customers visit within NukeX.Com, in order to determine what NukeX.Com services are the most popular. This data is used to deliver customized content and advertising within NukeX.Com to customers whose behavior indicates that they are interested in a particular subject area.
+DomainTools may retain collected personal information indefinitely. 
 
-NukeX.Com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on NukeX.Com or the site; (b) protect and defend the rights or property of NukeX.Com; and, (c) act under exigent circumstances to protect the personal safety of users of NukeX.Com, or the public.
+### Collection and use of other information
 
-Use of Cookies
+DomainTools may also collect other, non-personal information, which does not permit identification or association with a particular individual. 
 
-The NukeX.Com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We may collect information about user activity on our websites. This includes the time, the Internet Protocol (IP) address, the referral source (if any), and the browser user agent. This information is not shared with third parties. It may be used by DomainTools to detect and monitor potential misuse of our services, to improve our services, and to provide customer support. DomainTools may retain this information indefinitely. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize NukeX.Com pages, or register with NukeX.Com site or services, a cookie helps NukeX.Com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same NukeX.Com Web site, the information you previously provided can be retrieved, so you can easily use the NukeX.Com features that you customized.
+If we do combine non-personal information with personal information, we will treat the combined information as personal information for as long as it remains combined. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the NukeX.Com services or Web sites you visit.
+### Cookies and other technologies
 
-Security of your Personal Information
+Cookies are small files that a website or its service provider transfers to your computer through your web browser that enables the website or service provider system to recognize your browser and capture and remember certain information. DomainTools uses cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
-NukeX.Com secures your personal information from unauthorized access, use or disclosure. NukeX.Com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+DomainTools may also collect information about your use of our website and services. For example, we may record your searches and uses of various services we provide. This is done in order to provide you with the results of those searches or services when you next visit our website. DomainTools may retain this information indefinitely. 
 
-Changes to this Statement
+### Disclosure to third parties
 
-NukeX.Com will occasionally update this Statement of Privacy to reflect company and customer feedback. NukeX.Com encourages you to periodically review this Statement to be informed of how NukeX.Com is protecting your information.
+DomainTools does not sell personal information to third parties. 
 
-Contact Information
+DomainTools may provide information, including personal information, to certain third-party service providers. For example, we may provide user email addresses to our third-party email service provider in order to contact our users by email. Also, we provide necessary billing information to our third-party credit-card processor for the purpose of completing user transactions. These companies are obligated to protect your information and are not permitted to use it for other purposes. 
 
-NukeX.Com welcomes your comments regarding this Statement of Privacy. If you believe that NukeX.Com has not adhered to this Statement, please contact NukeX.Com at [admin@nukex.com](mailto:admin@nukex.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+We may also release your information when we believe release is reasonably necessary in order to comply with the law, enforce our terms of service, or protect ours or others' rights, property, or safety. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. 
+
+### Security
+
+DomainTools follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. But no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+Your information is stored on DomainTools' servers. When you enter sensitive information (such as credit-card billing information) on our registration or order forms, we undertake to encrypt that information using secure socket layer (SSL) or other similar technology. In order to benefit from those protections, you must use an SSL-enabled web browser. 
+
+DomainTools personnel are trained appropriately regarding the application of privacy practices and the importance of protecting your information. 
+
+### Children
+
+DomainTools does not knowingly collect any information from children under 13. Our website, products, and services are all directed to people who are at least 13 years old or older. If we learn that we have collected the personal information of a child under 13, we will take steps to delete the information as soon as possible. 
+
+### Links to other sites
+
+Our websites may contain links to third-party websites at which personal information may be collected. DomainTools has no control over the information you provide to third-party websites and the collection and use of your personal information will be governed by the privacy policy applicable to that site. 
+
+### How you can access or correct your information
+
+You can help ensure that your contact and billing information and other preferences are accurate, complete, and up-to-date by logging in to your DomainTools account. 
+
+### Contacting us
+
+If you have any questions or concerns about our privacy practices, please contact us using the contact information provided at the following website: <http://www.domaintools.com/about/contact-us/>
