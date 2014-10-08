@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackeyedpeas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063506id_/http%3A//www.blackeyedpeas.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackeyedpeas.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008130122id_/http%3A//www.blackeyedpeas.com/about/privacy_statement) for the most accurate reproduction.*
 
 # BlackEyedPeas.com - The Official Black Eyed Peas Website
 
