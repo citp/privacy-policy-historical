@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transfergo.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152951id_/https%3A//transfergo.com/en/stat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfergo.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008212519id_/https%3A//transfergo.com/en/stat/privacy) for the most accurate reproduction.*
 
-# None
+# International Money Transfer Online | TransferGo.com
 
 ## Effective Date: 01 August 2012, Middlesbrough, UK
 
@@ -8,15 +8,15 @@ We have written this policy to explain how Transfergo Ltd ("we", "us" or "Transf
 
 Transfergo complies fully with the Data Protection Act 1998 and all applicable data protection & privacy legislation. We will only process personal information in accordance with the applicable rules and this privacy policy. All personal information you submit will be controlled by Transfergo. 
 
-If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting [ico.org.uk](http://www.ico.org.uk/).
+If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting [ico.org.uk](http://www.ico.org.uk/). 
 
 ### Information we may collect about you
 
 We may collect the following information about you, which may include non-public personal information:
 
-  * Information that you provide during registration and/or using our service, such as your name, email or postal address, phone number.
+  * Information that you provide during registration and/or using our service, such as your name, email or postal address, phone number. 
   * Information that you provide to verify your account such as copies of identification documents or documents verifying identification from publically accessible databases. 
-  * We collect details of transactions you carry out through our site(s) and of the fulfilment of your orders.
+  * We collect details of transactions you carry out through our site(s) and of the fulfilment of your orders. 
   * We use cookies to manage our site(s) and service, advertising, email programs.
   * We keep records when you submit enquiries or comments to us or contact us.
   * We collect personal information from you when you enter any promotions, competitions or prize draws via our service. 
@@ -28,11 +28,11 @@ We may collect the following information about you, which may include non-public
 
 ### How we use your information 
 
-  * We use your personal or financial information to provide you with information and services you request and to give you a customised interactive experience as you use our service.
+  * We use your personal or financial information to provide you with information and services you request and to give you a customised interactive experience as you use our service. 
   * We do not sell or rent your personal information with anyone for promotional or marketing purposes.
-  * We do not share your personal information with anyone outside of Transfergo for their promotional or marketing use without your consent.
-  * We summarise information about you and we also combine that information with that of others in a way that does not identify you personally to understand how our products are used and to help us develop new products and services.
-  * We may use service companies to help fill your order. We will only provide the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+  * We do not share your personal information with anyone outside of Transfergo for their promotional or marketing use without your consent. 
+  * We summarise information about you and we also combine that information with that of others in a way that does not identify you personally to understand how our products are used and to help us develop new products and services. 
+  * We may use service companies to help fill your order. We will only provide the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
 
 
@@ -44,7 +44,7 @@ By providing personal information you are deemed to consent to your personal inf
 
   * in the even that we sell or buy any business or assets;
   * if TransferGo or substantially all of its assets are acquired by a third party; or
-  * if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Transfergo's rights or property.
+  * if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Transfergo's rights or property. 
 
 
 
@@ -59,9 +59,9 @@ Statistical information, which does not reveal your personal or organizational i
 
 We use cookies and similar means as follows:
 
-  * to deliver a more personalised service through mean like storing your preferences, helping you find things more quickly, to serve advertisements and to let you log-in more quickly.
+  * to deliver a more personalised service through mean like storing your preferences, helping you find things more quickly, to serve advertisements and to let you log-in more quickly. 
   * "persistent cookies" are used so when you visit our site(s) we recognise you as an existing user.
-  * We also use "session" cookies, which identify particular visits to the site(s). These session cookies expire after a limited period of time.
+  * We also use "session" cookies, which identify particular visits to the site(s). These session cookies expire after a limited period of time. 
 
 
 
