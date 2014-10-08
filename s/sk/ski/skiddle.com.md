@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142732id_/http%3A//www.skiddle.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008052847id_/http%3A//www.skiddle.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Skiddle Privacy Policy
 
@@ -6,7 +6,7 @@ Skiddle Limited ("we") are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use [linked to website terms of use] and any other documents referred to on it) sets out the basis of which any personal data we collect from you, or that you provide to us, will be processed by use. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By accepting the Privacy Policy and our Terms and Conditions when registering, you expressly consent to our collection, storage, use and disclosure of your personal information as described below.
 
-For the purpose of the Data Protection Act 1998 (The Act), the data controller is Skiddle Limited of the Watermark, Ribbleton Street Preston PR1 5EZ.
+For the purpose of the Data Protection Act 1998 (The Act), the data controller is Skiddle Limited of Ashley Hall Farm, Inglewhite Road, Goosnargh, Preston, PR3 2EB.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
