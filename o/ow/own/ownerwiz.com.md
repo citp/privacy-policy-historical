@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ownerwiz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070040id_/http%3A//ownerwiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownerwiz.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008182755id_/http%3A//ownerwiz.com/privacy.php) for the most accurate reproduction.*
 
 # Complete Your Home Listing Profile | OwnerWiz Rent To Own Homes
 
