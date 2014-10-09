@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629060836id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009043329id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
 
 # Cookies and privacy | UNICEF UK
 
@@ -95,7 +95,7 @@ No data transmission over the internet can be guaranteed to be 100% secure. As a
 
 ## 9\. **Fraudulent online activity**
 
-UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our Supporter Care team in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our Supporter Care on 0844 8012414 between 8:00am – 6:00pm from Monday to Friday, or you can email them at [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
+UNICEF endeavours to prevent online fraudulent activity taking place. In order to prevent this activity from happening we have put additional security checks in place on our website. As a result of these checks there are times when we will be unable to process card transactions on the first attempt due to missing or incorrect information. This could include an uncompleted field or missing/incorrect address information. On these occasions we will encourage the cardholder to contact our Supporter Care team in order to complete the transaction or to try again online using a different card. If you would like to speak to someone about a transaction you have made please contact our Supporter Care on 0300 330 5580 between 8:00am – 6:00pm from Monday to Friday, or you can email them at [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
 
 ## 10\. **Links**
 
