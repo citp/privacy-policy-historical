@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626134948id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009182819id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RNIB
 
@@ -40,7 +40,7 @@ Unfortunately, no data transmission over the Internet is 100 per cent secure. As
 
 ### Cookies
 
-RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/node/752).
+RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/about-rnib/cookies).
 
 ### Privacy and comments on our blogs
 
