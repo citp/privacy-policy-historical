@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houmatoday.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331184848id_/http%3A//www.houmatoday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houmatoday.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009135135id_/http%3A//www.houmatoday.com/privacypolicy) for the most accurate reproduction.*
 
 # Untitled Document
 
