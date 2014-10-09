@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shr77.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409045211id_/http%3A//cpvlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shr77.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009053755id_/http%3A//cpv.li/privacy) for the most accurate reproduction.*
 
-# CPV Link LLC : Privacy.
+# CPV.LI - Free URL Shortener, Image Hosting, Video Hosting, Sharing : Privacy.
 
 We encourage you to read this policy to learn more about what information of yours we collect and how we use it. 
 
-The CPVLink.com website accessible via http://www.cpvlink.com is owned by CPV Media LLC, a Nevada limited liability company. As used in this Agreement, " **we** ", " **us** ", and " **our** " refers to CPV Media LLC. This policy provides you with details on the information we collect from you, the uses we make of your personal information and how we protect your information. If you do not want us to access or using your personal information as described herein, please do not provide us with any. This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit this website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes. 
+The CPV.LI website accessible via http://www.cpv.li is owned by CPV Media LLC, a Nevada limited liability company. As used in this Agreement, " **we** ", " **us** ", and " **our** " refers to CPV Media LLC. This policy provides you with details on the information we collect from you, the uses we make of your personal information and how we protect your information. If you do not want us to access or using your personal information as described herein, please do not provide us with any. This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit this website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes. 
 
 What information do we collect?
 
@@ -52,7 +52,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Address: CPVLink.com, 7345 S Durango Dr #B107-284, Las Vegas, NV 89113  
+Address: CPV.LI, 7345 S Durango Dr #B107-284, Las Vegas, NV 89113  
 Phone: +1 (775) 434.8718  
 Fax: +1 (775) 245.7110  
-Email: contact@cpvlink.com
+Email: contact@cpv.li
