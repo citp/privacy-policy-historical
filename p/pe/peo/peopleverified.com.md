@@ -1,80 +1,273 @@
-> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132039id_/http%3A//www.peopleverified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009121511id_/http%3A//www.peopleverified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy PeopleVerified.com
 
-## Effective Date: May 15, 2014
+## Effective Date: July 7, 2014
 
-## This Policy Covers the Following:
+This privacy policy applies to PeopleVerified.com, owned and operated by Segmentic Ltd. This privacy policy describes how Segmentic Ltd. collects and uses the personal information you provide on our website, www.peopleverified.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.   
+You can learn more about how we protect your privacy and how to manage your information in our databases through the [PeopleVerified Privacy Education Center.](https://web.archive.org/web/20141009121511id_/http%3A//www.peopleverified.com/privacy-center)
 
-This policy covers how PeopleVerified.com owned and operated by Segmentic Ltd. ("Website", "we", "us", "our") handles any and all personal information received, which includes but is not limited to past usage of the site and/or additional products and services. Personal information regards to information about you that is identifiable such as your name, residence, debit or credit number, e-mail address, contact phone number which otherwise may not be available publicly. The policy does not cover practices of companies or 3rd parties that are not owned or controlled by us or the action of people that are not employed or managed by PeopleVerified.com. This policy does not apply or relate to the information stored relating to our people search databases with the exception of our opt-out policy located [here](https://web.archive.org/opt-out-policy). 
+## TRUSTe
 
-[](https://privacy.truste.com/privacy-seal/Segmentic-Ltd-/validation?rid=4b0c0554-2019-492b-ba8c-9128b27519b9 "TRUSTe online privacy certification")
+Segmentic Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@peopleverified.com](mailto:privacy@peopleverified.com).If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site:www.peopleverified.com, and does not cover information that may be collected through software downloaded from the site. 
 
-Segmentic Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.PeopleVerified.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@peopleverified.com](mailto:support@peopleverified.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+[ ](https://privacy.truste.com/privacy-seal/Segmentic-Ltd-/validation?rid=4b0c0554-2019-492b-ba8c-9128b27519b9 "TRUSTe online privacy certification")
 
-## Usage of Information
+## Overview
 
-  * In order to properly process searches and manage our business affairs, we may gather personal information about visitors to the website. This includes information that is provided when you register, when you use the website or any of our products and services as well any interaction your browser may carry with us. Information gathered by us may be combined with information that is obtained from our business partners or additional 3rd party companies, such as data and billing providing companies and services.
-  * Information gathered regarding your person may include but is not limited solely to: name, residence, e-mail address, IP address, Credit Card number and search history. Once you become a registered member and login to your account, you are no longer anonymous to us.
-  * By providing your e-mail address on our registration page, you are agreeing to receive mail from our completely free newsletter and e-mail alerting services. You comprehend that you may receive additional messages that are commercial in nature. You can stop receiving these messages at any point by simply following the "unsubscribe" link provided in any of these messages.
-  * Information is supplied automatically received and recorded on our servers from your browser, which includes IP address as well as cookies and page requests.
-  * Information is used for any number of general purposes which includes customizing advertising and content for you, provide better products and services, contacting your directly, market research, statistics gathering and reporting services for internal and external usage.
+#### TRUSTe
+
+#### What information do we collect?
+
+Registration Information  
+Billing Information  
+Additional Information  
+Technical and Analytic Information
+
+#### How do we collect information about you?
+
+Services You Authorize  
+Social Media Widgets  
+Cookies and Other Tracking Technologies
+
+#### What do we use your information for?
+
+#### How do we protect your information?
+
+Technical and Administrative Controls  
+Payment Information  
+Disclaimer
+
+#### When do we share your information?
+
+With Your Consent Within the Segmentic Family of Products  
+To Provide Certain Services  
+Public, Anonymous and Aggregated Data  
+Business Transfers  
+Fraud and Abuse Prevention  
+Legal Compliance and Harm Prevention  
+Advertising
+
+#### How do I access and control my personal information?
+
+Access and Choice  
+Communication Preferences
+
+#### Compliance Notices
+
+California Do Not Track Disclosure  
+California Information-Sharing Disclosure  
+Children’s Online Privacy Protection Act
+
+#### Changes to this Privacy Policy
+
+#### Contact Information
+
+## What does this privacy policy cover?
+
+This policy covers how PeopleVerified.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy.](https://web.archive.org/web/20141009121511id_/http%3A//www.peopleverified.com/opt-out-policy)   
+Our website also includes links to other websites whose privacy practices may differ from those of Segmentic Ltd. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
+
+## What information do we collect?
+
+We collect some information that is personal (i.e. information that identifies you, either alone or in combination with other data.) We also collect information that is non-personal and does not, on its own, identify you. When non-personal information is combined with other information so that it does identify you, we treat that combination as personal information. 
+
+### Registration Information
+
+When you register for an account to use PeopleVerified.com, we may collect the following information: 
+
+  * Your name, email address, mailing address, phone number, and password
+  * Your birthdate
+  * Content that you create (also known as user-generated content)
 
 
 
-## Disclosure of Information
+Registration is optional. However, if you choose not to register, certain features may not be available to you. Once you register with us and sign in to our services, you are not anonymous to us. 
 
-We do not sell, rent or share personal information regarding your person with other people or non-affiliated companies and\or organizations unless to provide you with products and\or services that you have requested with your permission or in any of the following: 
+### Billing Information
 
-  * Information is provided to trusted partners who work with us or on our behalf. These companies may utilize your personal information to help provide you with information regarding offers from us or our marketing partners. This includes billing companies that may expedite payments or companies that may help protect you from identity theft
-  * We respond to court orders, legal proceedings etc as well as establish our legal rights to defend against any legal claims.
-  * We reserve the right to upload judgment and share information in order to investigate or prevent any action that may resort in any illegal activity, fraud or anything that may place any individual under potential threats or harm their wellbeing as well as violations to our terms and conditions or any other situations required by law.
-  * We do not provide any information to advertisers when you are displayed a targeted advertisement through our website, services or products. However, you are agreeing to allow advertisers on making the assumption that you meet their criteria’s to display advertisements.
-  * In order to protect and minimize cases of frauds and\or misuse of the website or any of its services, we analyze purchases as well as attempted purchases, repeated or high-volume search activities, or any use on the website or any of its underlining services to help identify, intercept, interrupt or block individuals or suspected individuals involved in fraudulent or malicious activity involving the website and any our services. In addition we may use this information with any of our security partners as well as any law enforcement agency to assist any group or individual we have reason to believe was victimized or was about to be victimized by such misuse of our website. 
+While registration is free, if you choose to purchase certain additional services and products, we may collect the following personal information: 
 
-
-
-## Cookies
-
-  * Cookies on your local end machine may be set and accessed by us. We may use cookies, for example, to keep track of your preferences and profile information.
-  * Companies that display advertisements on our pages may set and access their cookies on your local end machine. Other companies that store cookies on your machine are subject to their privacy policy, not ours. Such companies do not gain access to our cookies. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
-  * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
-  * Information that can be used to identify your person, such as names, residence, passwords and such will not be stored in our cookies.
+  * Credit card or other billing account information
+  * Billing address
+  * Transaction-related information
+  * Fraud prevention information (see Fraud and Abuse Prevention)
 
 
 
-## Editing, Deleting and Accessing Your Information and Preferences
+### Additional Information
 
-  * You may edit or delete information regarding your account within our member’s area, by simply clicking on the "My Account" and then followed by clicking "Make Changes".
-  * To remove yourself from any commercial e-mails or alerts sent to you by us, you can simply do so by following the unsubscribe link provided by any and all commercial messages sent to your e-mail.
-  * We reserve the right to send you information and communication relating to our service, such as service announcements, administration related messages, customer receipts and so forth without providing an opt-out option of receiving them. If you wish to no longer receive these emails please contact us by clicking here or at [support@peopleverified.com](mailto:support@peopleverified.com). We provide an option of opting-out of our living people searches completely free. Simply contact our [support staff](https://web.archive.org/support) to do so.
+In order to provide certain services, we may collect additional information from you. 
 
-
-
-## Security and Confidentiality
-
-  * Access to your personal information is limited solely to employees and contractors who are assured to have reasons to come into contact with your personal information in order to perform their job or functionality.
-  * We utilize proper safeguards of a physical, electronic and procedural nature that comply with federal regulations and common security best practices to protect your personal information. This includes the use of 128-bit SSL encryption of all credit and debit card transactions between you and our servers and our partners' servers. All sensitive customer related data is protected by using encryption devices with full PCI DSS compliant audit logging as well as dedicated networks. All data is stored within secure location allowing access solely to the minimal required authorized personnel who can pass a multi layered identification process.
-  * If you use any of our internal forums, you should be made aware that any information that you provide that may personally identify you, can be read or shared by other users. We are not responsible for such information you wish to submit on your own. You can request the removal of your personal information from our forum, by contacting us at support@peopleverified.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * When you search for a person using our website, we collect a log of your searches.
+  * If you wish to enhance your search results using information from third-party services such as Facebook or LinkedIn, we may ask you to give us authorization to access information about you stored in those third-party services.
+  * To use our identity protection products, we may ask for the following personal information: 
+    * Your legal name
+    * Your current residence
+    * Your Social Security Number
+    * Knowledge-based authentication questions that only you would know
 
 
 
-## Data Retention
+### Technical and Analytic Information
 
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We automatically collect technical and analytic information from both registered users and anonymous visitors to our website. We generally treat this information as non-personal. This information includes, but is not limited to: 
 
-## Links to Other Web Sites
+  * Your IP address
+  * The referring link that brought you to our website
+  * The browser and operating system you are using to access our website
+  * Data that we may have previously stored in cookies on your computer
+  * Which pages on our website you visit
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of PeopleVerified.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-## Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Twitter button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+## How do we collect information about you?
+
+### Services You Authorize
+
+When you give us authorization to access an account you have on a third-party service such as Facebook or LinkedIn, we use a protocol called OAuth to access your information. We will never ask you to give us your password for a third-party service. 
+
+### Social Media Widgets
+
+Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+### Cookies and Other Tracking Technologies
+
+We use several methods to collect technical and analytics data, including the following: 
+
+  * Cookies. We may set and access our cookies on your computer. PeopleVerified.com uses both session cookies and persistent cookies. A session cookie expires when you close your browser. We use session cookies to make it easier for you to navigate the site and log in to your account. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to track usage of our site to improve your experience, and to remember your preferences. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. [Learn more about cookies](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). You may disable cookies in your browser settings, but your ability to use some areas of our site will be limited.
+
+  * Third-Party Cookies. The use of cookies by our partners, affiliates, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, and service providers use session and persistent cookies to make it easier for you to navigate our site, monitor site usage and performance, and provide targeted ads. 
+
+  * Web Beacons. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information. 
+
+  * Flash Cookies. We use Flash cookies (also known as local storage objects or LSOs) to store content information and preferences. Third parties, with whom we partner to provide certain features on our site, prevent fraud, or to display advertising based upon your Web browsing activity, may use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please[click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+
+  * Log Data. Your browser automatically sends certain data that is recorded by our servers every time you interact with this website, including your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, and search terms. 
+
+
+
+
+## What do we use your information for?
+
+We use the information you give us to: 
+
+  * Operate and improve our website, products, and services
+  * Understand you and your preferences, which helps us to enhance your experience on our website
+  * Respond to your comments and questions and provide customer service
+  * Provide and deliver the products and services that you request
+  * Conduct research to improve the quality of our products and services
+  * Send you information related to your account, including confirmations, invoices, security alerts, updates, confirmations, and support and administrative messages
+  * Protect our users against fraud and abuse
+  * Communicate with you about new products and services offered by Segmentic and our selected partners
+
+
+
+## How do we protect your information?
+
+### Technical and Administrative Controls
+
+  * Your information is stored on servers in physically secure locations
+  * We implement technical measures to prevent unauthorized access, and keep security patches and software up-to-date
+  * Employee access to your information is restricted and audited
+  * Sensitive personal information is stored in encrypted form
+  * All personal information is encrypted during transfer (for example, when providing credit card information)
+
+
+
+### Payment Information
+
+For processing payments, we use systems that are compliant with the Payment Card Industry Data Security Standard (PCI DSS). All payment information is safely stored according to PCI DSS requirements. 
+
+### Disclaimer
+
+While we use acceptable industry-standard practices to protect your information, no computer system or Internet communication is ever completely secure or error-free. As a result, we cannot and do not guarantee that your information will be absolutely secure. 
+
+## When do we share your information?
+
+We do not share, rent, or sell your information except in the limited circumstances described below: 
+
+### With Your Consent
+
+We will share your information when you give us permission; for example, when you use a third-party web client to access your account, or when you give us permission to make information public. 
+
+### Within the Segmentic Family of Products
+
+Other Segmentic products may use your information, but only in ways that are consistent with this Privacy Policy. 
+
+### To Provide Certain Services
+
+We use certain trusted third parties to provide certain services for us. We may share your information with these third parties, but when we do, we will only share the minimum amount of information necessary to provide the service. In addition, any third-party service provider we use is required to give your information the same protections that are outlined here in this Privacy Policy. 
+
+### Public, Anonymous and Aggregated Data
+
+We may share or disclose information that is non-private, anonymously aggregated, or otherwise non-personal. 
+
+### Business Transfers
+
+In the event that Segmentic is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The obligations of this Privacy Policy will continue to apply to the new entity after the sale or transfer. 
+
+### Fraud and Abuse Prevention
+
+We partner with certain third party vendors to prevent fraud and abuse. When you make a purchase, we analyze your payment information and unique device identifiers (including, but not limited to, IP address, geographical location, browser and operating system settings, and device ID) to identify suspected fraudulent activity and block it.   
+When we detect suspected fraud or abuse, we may share information associated with that particular transaction or event (including, but not limited to, payment information, email addresses, and unique device identifiers) with our security partners or law enforcement for further investigation. 
+
+### Legal Compliance and Harm Prevention
+
+We may preserve or share your information in the following circumstances: 
+
+  * When required by law, regulation, or legal request such as a warrant or subpoena
+  * When we believe it is reasonably necessary in urgent situations to protect the well-being or safety of any individual
+  * To address fraud, security, or technical issues
+  * To protect Segmentic’s rights or property
+
+
+
+Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party or government request to disclose your information. 
+
+### Advertising
+
+We may use third-party advertising companies to serve targeted ads when you visit our website. These companies may use non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
+While we do not provide any personal information to the advertiser when you interact with or view a targeted advertisement, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the advertisement (for example, women ages 18-24 from a particular geographic area.)   
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/choices/). 
+
+## How do I access and control my personal information?
+
+### Access and Choice
+
+You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our Privacy Team at [privacy@peopleverified.com](mailto:privacy@peopleverified.com). We will respond to your request within 30 days. 
+
+### Communication Preferences
+
+We may send you information about our products, notify you of any changes to your account, or send confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing emails.   
+If you would like to stop receiving newsletters and marketing emails from PeopleVerified.com, please provide us with the email address you would like to unsubscribe by emailing [privacy@peopleverified.com](mailto:privacy@peopleverified.com) or calling 1-888-797-0103. Please note that you may still receive account and billing notices from us, if applicable. 
+
+## Compliance Notices
+
+### California Do Not Track Disclosure
+
+When you browse our website, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. All analytics and performance data collected by third-party tools is anonymous. We may use these tools regardless of whether or not you enable the Do Not Track setting in your browser.   
+Fraud prevention tools may collect personally identifiable information regardless of whether or not you enable the Do Not Track setting in your browser; however, this data is used specifically for fraud and abuse prevention and will never be used for marketing purposes. 
+
+### California Information-Sharing Disclosure
+
+We do not share your personal information with third parties for their own use without your permission. 
+
+### Children’s Online Privacy Protection Act
+
+PeopleVerified.com complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems. 
 
 ## Changes to this Privacy Policy
 
-We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page prior to the changes taking effect 
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice posted to this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-## Contacting Us
+## Contact Information
 
-If you have additional questions or concerns regarding our privacy policy or on any other subject, you can contact us through [support@peopleverified.com](mailto:support@peopleverified.com), calling 1-888-797-0103 or writing to us at PeopleVerified.com, Attn: Privacy Dept., Omaha, Nebraska 68139, PO Box 391146. Please do not write us for opt-out requests, but instead use our online [opt-out page](https://web.archive.org/opt-out). 
+If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@peopleverified.com](mailto:privacy@peopleverified.com), calling 1-888-797-0103, or writing to us at: 
+
+PeopleVerified.com  
+ATTN: Privacy Department  
+P.O. Box 391146  
+Omaha, NE 68139
+
+PeopleVerified.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. 
