@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wvxu.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625061906id_/http%3A//wvxu.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wvxu.org privacy policy that was archived on 2014-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009101916id_/http%3A//wvxu.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="og: http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aac2.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
@@ -27,18 +27,18 @@
   <link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_CKoWqiBj9gVXhPuDSnNphuEB0b0J2To76x0pX0EGqn4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_tNbmSqTYnHVC1ObDC2-m4ln4CJdlAuCm2cWQy1pBjBE.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_XHTm2cMU6sD6pzlNwtS19lgDRK8GjAz14nQaxKhle30.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_fmGEU_a1hQxzRRVp8Lxm7ZkDXTHHmmbGIpIn6GAogK8.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_Vr76DlqprTUz8bqXPDeMObfMyu63j80a15GaDPl6qA4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_eszYOKJ5OrKhLuMdGm6oUtXptVBe1ptG2Bkv-leOCIs.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_NOTPrIy74Ph8MbcaI6drli1eofrLtZPmBKG1bxa26_4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_spH3BlySPIdnRRvcETJpr6-8rmK35AJqP0HRwVkEFFs.css" media="print">
 <link type="text/css" rel="stylesheet" href="http://wvxu.org/sites/wvxu.org/files/css/css_B15vctw4GcwhMj9Kl11E9TFaLNe48yCDY8lc5A-8RgI.css" media="all">
  
   <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
 <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_71ulivOsZAkmkoPBdBAgiAgrh0D5I_TiadS6vTmxLF4.js"></script>
 <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
-<script type="text/javascript" src="/misc/jquery.cookie.js?1403733074"></script>
-<script type="text/javascript" src="http://wvxu.org/sites/all/modules/custom/pi_guide/js/pi_guide_feed.js?1403733074"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?n7ebo3"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_HuWotM9iOc80jj5rA_WUzZROQq6mBduOUeiXjy_xEck.js"></script>
+<script type="text/javascript" src="/misc/jquery.cookie.js?1413381065"></script>
+<script type="text/javascript" src="http://wvxu.org/sites/all/modules/custom/pi_guide/js/pi_guide_feed.js?1413381065"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?nd6nht"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/wvxu/files/js/js_7rg88r8HHygn_uFprjgnjr3xgeD6w9vF8RxOjjqRxzM.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 GS_googleAddAdSenseService('ca-pub-1643250941333400');GS_googleEnableAllServices();
@@ -80,7 +80,7 @@ var addthis_config = {data_ga_property: 'UA-18188937-11',data_ga_social : true}
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"look2","theme_token":"9MasZ2zD6PN61EmSnlz6idTxHHND4H0alNGgYQRpU4g","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_feed.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"0":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"4":1,"5":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-504e346046951d5c":1,"http:\/\/platform.twitter.com\/widgets.js":1,"6":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_listenlive.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"\/sites\/all\/modules\/custom\/drafts\/css\/drafts.css":1,"sites\/all\/modules\/custom\/pi_ads\/css\/pi_ads.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide_xml.css":1,"sites\/all\/modules\/custom\/pi_social\/css\/pi_social.css":1,"sites\/all\/modules\/custom\/pi_rss\/css\/pi_rss.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/pilot\/css\/html-reset.css":1,"sites\/all\/themes\/pilot\/css\/pilot.css":1,"sites\/all\/themes\/looks\/look2\/css\/look2.css":1,"sites\/all\/themes\/pilot\/css\/print.css":1,"sites\/wvxu\/themes\/station\/css\/station.css":1}},"chartbeat":{"uid":33583,"domain":"wvxu.org"},"googleCSE":{"cx":"010251366440257945544:ntuuq6duzko","language":"","resultsWidth":600,"domain":"www.google.com"},"streamCount":2,"streams":[{"stream_mp3":"http:\/\/cpr.streamguys.net\/wvxu.pls","width":"","height":"","display":"1","weight":0,"streamName":"wvxu","description":"WVXU","ucs":"5187f904e1c8f2128efc1f2f"},{"stream_mp3":"http:\/\/cpr2.streamguys.net\/wguc","width":"","height":"","weight":"1","streamName":"wguc","description":"WGUC","ucs":"51892b70e1c88271aa0ef398"}]});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"look2","theme_token":"XGGWHVM7B74SfoDACYZFn1C7ecg7VdtfUtuCbJqAf_U","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_feed.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/js\/shared-cache-roundtrip.js":1,"0":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"4":1,"5":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-504e346046951d5c":1,"http:\/\/platform.twitter.com\/widgets.js":1,"6":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_listenlive.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"\/sites\/all\/modules\/custom\/drafts\/css\/drafts.css":1,"sites\/all\/modules\/custom\/pi_ads\/css\/pi_ads.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide_xml.css":1,"sites\/all\/modules\/custom\/pi_social\/css\/pi_social.css":1,"sites\/all\/modules\/custom\/pi_rss\/css\/pi_rss.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/pilot\/css\/html-reset.css":1,"sites\/all\/themes\/pilot\/css\/pilot.css":1,"sites\/all\/themes\/looks\/look2\/css\/look2.css":1,"sites\/all\/themes\/pilot\/css\/print.css":1,"sites\/wvxu\/themes\/station\/css\/station.css":1}},"chartbeat":{"uid":33583,"domain":"wvxu.org"},"googleCSE":{"cx":"010251366440257945544:ntuuq6duzko","language":"","resultsWidth":600,"domain":"www.google.com"},"streamCount":2,"streams":[{"stream_mp3":"http:\/\/wvxu.org\/listen","width":"","height":"","display":"1","weight":0,"streamName":"wvxu","description":"WVXU","ucs":"5187f904e1c8f2128efc1f2f"},{"stream_mp3":"http:\/\/cpr2.streamguys.net\/wguc","width":"","height":"","weight":"1","streamName":"wguc","description":"WGUC","ucs":"51892b70e1c88271aa0ef398"}]});
 //--><!]]>
 </script>
 
@@ -120,10 +120,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <ul class="companion" id="on-air-items">
 
 		<li class="listen">
-      <span class="btn-listen"><a id="stream-link-0" href="http://cpr.streamguys.net/wvxu.pls">Listen Live<span class="right-arrow"></span></a></span>
+      <span class="btn-listen"><a id="stream-link-0" href="http://wvxu.org/listen">Listen Live<span class="right-arrow"></span></a></span>
 		</li>
   <li class="now-playing">
-      <span class="label">On Air Now</span><a href="http://cpr.streamguys.net/wvxu.pls" id="now-on-0"><span class="program-text"></span></a>
+      <span class="label">On Air Now</span><a href="http://wvxu.org/listen" id="now-on-0"><span class="program-text"></span></a>
     </li>
 </ul></div>
 </div>
@@ -272,7 +272,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/gifts-stock">Gifts of Stock</a>
 </li>
 <li class="left">
-<a href="/planned-giving">Planned Giving</a>
+<a href="/making-bequest">Making a Bequest</a>
 </li>
 <li class="left">
 <a href="/charitable-gift-annuities">Charitable Gift Annuity</a>
@@ -309,7 +309,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-8b_4hHiDvWCpxuuJ5cPU5Gf3gDE5r0kBaFcp-QsKYiM">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Oxs2tx_EfepQz-V1SjdcT0fly8kbBaR-XW7reytUXus">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form></div>
@@ -332,9 +332,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
 <ul> 
   <li><!-- Promo 0 -->
-    <a href="/post/wvxu-partners-some-great-summer-events-otr"> 
-              <img src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/small_square/public/201405/washington_park_logo.jpg" alt="WVXU Partners"> 
-            <div><span class="promo-header-slug">WVXU Partners</span><span class="promo-header-title">WVXU Partners With Some Great Summer Events in OTR!</span></div> 
+    <a href="/subscribe-our-email-list"> 
+              <img src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/small_square/public/201312/enews.jpg" alt=""> 
+            <div><span class="promo-header-slug"></span><span class="promo-header-title">Subscribe to our Email List</span></div> 
     </a> 
   </li> 
   <li class="promo-middle"><!-- Promo 1 -->
@@ -344,9 +344,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     </a> 
   </li> 
   <li><!-- Promo 2 -->
-    <a href="/post/childhood-diseases-once-thought-eradicated-are-back-due-unvaccinated-children"> 
-              <img src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/small_square/public/201406/vaccination.jpg" alt="Cincinnati Edition - 513-419-7100"> 
-            <div><span class="promo-header-slug">Cincinnati Edition - 513-419-7100</span><span class="promo-header-title">Childhood diseases once thought eradicated are back due to unvaccinated children </span></div> 
+    <a href="/post/new-face-college"> 
+              <img src="http://mediad.publicbroadcasting.net/p/wvxu/files/styles/small_square/public/201408/mature_college_students.jpg" alt="American RadioWorks Documentary"> 
+            <div><span class="promo-header-slug">American RadioWorks Documentary</span><span class="promo-header-title">The New Face of College</span></div> 
     </a> 
   </li> 
 </ul> 
@@ -372,7 +372,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h2 class="block-title">Now Playing</h2>
     
   <div class="content">
-    <div class="content-center-frame"><div id="playlist-xml" generated="1403733074" station="">
+    <div class="content-center-frame"><div id="playlist-xml" generated="1413381065" station="">
 
 
 
@@ -609,62 +609,62 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	<ul class="events">
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">25</div>
-				</div>
-				<div class="event-details">
-					<div class="event-category">Live Music: All</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1520579">Wednesdays on the Green </a></div>
-					<div class="event-description">
- At Clifton Cultural Arts Center</div>
-				</div>
-			</li>
-					<li class="single-date">
-				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">26</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">15</div>
 				</div>
 				<div class="event-details">
 					<div class="event-category">Community Events</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1526624">Career Workshop for Unemployed Veterans</a></div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1588379">Town Hall Forum</a></div>
 					<div class="event-description">
- At Military Veterans Resource Center Hamilton Office</div>
+ At The Peacock Pavilion at The Cincinnati Zoo</div>
 				</div>
 			</li>
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">26</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">15</div>
 				</div>
 				<div class="event-details">
 					<div class="event-category">Lectures/Literary</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1533961">The Secret of the Yoga Sutra</a></div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1538856">Classic Book Discussion: Flannery O'Connor's Wise Blood</a></div>
 					<div class="event-description">
- At Root Down Yoga</div>
+ At Kenton County Public Library</div>
 				</div>
 			</li>
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">27</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">15</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Live Music: All</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1524727">Joseph FireCrow in Concert</a></div>
+					<div class="event-category">Theater &amp; Dance: Plays</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1517745">An Iliad</a></div>
 					<div class="event-description">
- At SunWatch Indian village/Archaeological Park</div>
+ At Ensemble Theatre Cincinnati</div>
 				</div>
 			</li>
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">27</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">16</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Live Music: Folk</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1528926">Harpeth Rising</a></div>
+					<div class="event-category">Charity &amp; Outreach</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1578200">Relive the Legacy: the Appalachian Trail Film Showing &amp; Membership Drive</a></div>
 					<div class="event-description">
- At Rohs Street Cafe</div>
+ At Cintas Center at Xavier University</div>
+				</div>
+			</li>
+					<li class="single-date">
+				<div class="event-date">
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">16</div>
+				</div>
+				<div class="event-details">
+					<div class="event-category">Theater &amp; Dance: Plays</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/wvxu/events.eventsmain?action=showEvent&amp;eventID=1517748">An Iliad</a></div>
+					<div class="event-description">
+ At Ensemble Theatre Cincinnati</div>
 				</div>
 			</li>
 			</ul>
@@ -740,6 +740,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     }());
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":453,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":975,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 <script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
