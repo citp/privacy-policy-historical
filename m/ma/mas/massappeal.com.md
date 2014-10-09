@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the massappeal.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222012959id_/http%3A//massappeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massappeal.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009031841id_/http%3A//massappeal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mass Appeal
+# Privacy Policy | Mass Appeal
 
 Mass Appeal, LLC and/or its affiliates (referred to as “we,” “our,” “us,” or “Mass Appeal”) owns and operates web site properties located at www.Mass Appeal.com and elsewhere on the Internet (collectively referred to as the “Sites”), and one or more related social media widgets (the Sites, together with any other products and services provided by Mass Appeal in connection therewith, whether through the Sites or through third party sites or services by or on behalf of Mass Appeal, are collectively referred to as the “Mass Appeal Service”).
 
@@ -87,7 +87,7 @@ We store information collected via the Mass Appeal Service, including without li
 
 Information Review:
 
-You can change and modify the information you previously have provided to us by contacting us at: [EMAIL ADDRESS] 
+You can change and modify the information you previously have provided to us by contacting us at: [EMAIL ADDRESS]
 
 Security Precautions:
 
