@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629175502id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009045444id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
 
 # Animal Jam - Privacy Policy
 
@@ -52,6 +52,8 @@ Under the Children's Online Privacy Protection Act, you can review your child's 
 The Internet is not 100 percent secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
 We filter and moderate our online chat. We also filter usernames to make sure they don't have personal information. Parents, you can take steps to protect your kids too. To learn more about how to protect your child online, read the helpful [information provided by the FTC](http://www.onguardonline.gov/). Please also read [this bulletin](http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online).
+
+In some features, we may allow children to share monitored communications such as photos, videos, and interactions with other players. These feautres are only available to accounts with verified parental consent. Some interactions, including Safe Chat, also require paid membership in addition to verified parental consent.
 
 Information we maintain may be stored both within and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
 
