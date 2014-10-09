@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepolish.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326155203id_/https%3A//www.homepolish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepolish.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009204226id_/https%3A//www.homepolish.com/privacy) for the most accurate reproduction.*
 
 # * Homepolish NYC *
 
@@ -6,13 +6,13 @@ Thank you for accessing the web site ("Site") of Homepolish.com. ("Homepolish").
 
 Your privacy is very important to us. Our Privacy Policy spells out Homepolish's commitment to respecting the privacy of the members and visitors to the Site. We reserve the right to change this policy, which we'll do through online posting. We are very careful with what we do with your information. Collection of information is usually grouped into two categories: personal, which is information identifiable to a specific member, and aggregate, which is general demographic information that does not identify any individual member. Personal information may include your name, email address, mailing address, credit card information and phone number. We may also collect certain demographic information such as your genre preferences, age, gender, geographical location, language, time zone, income and education (some of the information we ask for may be optional). Homepolish may use or disclose aggregate information for any purpose.
 
-###### We will not disclose your personally identifiable information to third parties for their marketing purposes without your consent.
+##### We will not disclose your personally identifiable information to third parties for their marketing purposes without your consent.
 
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. It also explains the steps we have taken to secure your personal information. Finally, it explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy and in our [Terms of Use](https://web.archive.org/terms).
 
-###### This privacy policy applies only to this Site. We are not responsible for the content or privacy practices on any non-Homepolish web site to which this Site links or that links to this Site.
+##### This privacy policy applies only to this Site. We are not responsible for the content or privacy practices on any non-Homepolish web site to which this Site links or that links to this Site.
 
-###### INFORMATION COLLECTION AND USE
+##### INFORMATION COLLECTION AND USE
 
   1. **Information Collection.**
 
@@ -43,7 +43,7 @@ We collect information from you in several different ways on this Site. One goal
 
 
 
-###### DATA SECURITY
+##### DATA SECURITY
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
@@ -53,20 +53,20 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email.**
 
-###### OPT OUT/CORRECTIONS
+##### OPT OUT/CORRECTIONS
 
 On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to our Client Services department at [info@Homepolish.com](mailto:info@homepolish.com). Please do not email your credit card number or other sensitive information.
 
-###### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+##### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
 As you might expect, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store or shred the fax, depending on whether there is any need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
-###### WHAT IF YOU'RE NOT A Homepolish MEMBER, BUT YOU'VE HEARD FROM Homepolish?
+##### WHAT IF YOU'RE NOT A Homepolish MEMBER, BUT YOU'VE HEARD FROM Homepolish?
 
 If you're not a member but you've been contacted by Homepolish, we may have received your information in a few different ways. First, another member may have referred you. Members may give us your name and email address in order for them to customize an invitation for you to join. You also may receive similarly customized email reminders from your friend about this invitation. If you apply for membership, your information will be used in accordance with the rest of this privacy policy. If you choose not to apply online, your email address may be retained for a period. Similarly, a member may have shipped a gift or other merchandise to you through us and provided your personal information for that purpose.
 
 You may have received an offer from us. If you were a prior member, we may have invited you back. We may also have received your information from one of our partners or from the mailing, opt-in emailing, or phone lists of a reputable company. Unless we are using an opt-in only list in our marketing efforts, Homepolish will screen our lists with the Direct Marketing Association preference lists before we send such offers.
 
-###### UPDATES TO THIS POLICY
+##### UPDATES TO THIS POLICY
 
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Client Services at [info@Homepolish.com](mailto:info@homepolish.com).
