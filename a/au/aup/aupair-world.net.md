@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421023614id_/http%3A//www.aupair-world.net/index.php/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009064912id_/https%3A//www.aupair-world.net/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Aupair World
 
@@ -22,9 +22,9 @@ Mandatory information is indicated with an asterisk (*). This information is nec
 
 **By making payment using Paypal or Worldpay, you consent to the transmission of data to these companies.** The data to be transmitted is described in the privacy protection statement of the respective service provider:
 
-Worldpay (external link): [http://www.worldpay.com/about_us/index.php?page=privacy&c=UK](http://www.worldpay.com/deutsch/about_us/index.php?page=privacy)
+Worldpay (external link): [http://www.worldpay.com/about_us/index.php?page=privacy&c=UK](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK)
 
-Paypal (external Link): [https://cms.paypal.com/en/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_EN](https://cms.paypal.com/de/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=de_DE)
+Paypal (external Link): [https://cms.paypal.com/en/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_EN](https://www.paypal.com/webapps/mpp/ua/privacy-full?country.x=US&locale.x=en_US)
 
 ####  Revocation
 
@@ -57,7 +57,7 @@ We also use the following software and services in order to analyse user behavio
 
 **Adwords Conversion Tracking**
 
-If you reached our website via a Google advertisement, a cookie will be placed on your computer via Google Adwords Conversion Tracking. It remains valid for 30 days. To the extent you visit certain AuPair World pages whilst the cookie is valid, both we and Google are able to see that you have clicked on the ad and were directed to the site. In this manner, we learn how many users have clicked on our advertisements. You may prevent the recording of this data by deactivating the automatic placement of cookies in your browser settings for [http://www.google.de/analytics/terms/de.html.](http://www.google.de/analytics/terms/de.html) Data protection information from Google on conversion tracking may be found [here](http://services.google.com/sitestats/de.html "services.google.com/sitestats/de.html").
+If you reached our website via a Google advertisement, a cookie will be placed on your computer via Google Adwords Conversion Tracking. It remains valid for 30 days. To the extent you visit certain AuPair World pages whilst the cookie is valid, both we and Google are able to see that you have clicked on the ad and were directed to the site. In this manner, we learn how many users have clicked on our advertisements. You may prevent the recording of this data by deactivating the automatic placement of cookies in your browser settings for [http://www.google.com/analytics/terms/us.html.](http://www.google.com/analytics/terms/us.html) Data protection information from Google on conversion tracking may be found [here](http://services.google.com/sitestats/en.html "services.google.com/sitestats/de.html").
 
 **Alexa**
 
@@ -73,11 +73,11 @@ Following your registration, we collect your IP address and the time you registe
 
 ####  Social bookmarks
 
-As a modern service provider it is our intention to be active in the field of social media. Our site contains a link to the social network sites; no programmes from these sites are integrated into our server. The data privacy policy of the respective provider ([Facebook](http://www.facebook.com/about/privacy/ "Facebook privacy policy"), [Google+](http://www.google.com/intl/en/policies/privacy/ "Google+ privacy policy") und [Twitter](http://twitter.com/privacy "Twitter privacy policy")) apply as soon as you visit a social network site. 
+As a modern service provider it is our intention to be active in the field of social media. Our site contains a link to the social network sites; no programmes from these sites are integrated into our server. The data privacy policy of the respective provider ([Facebook](http://www.facebook.com/about/privacy "Facebook privacy policy"), [Google+](http://www.google.com/intl/en/policies/privacy "Google+ privacy policy") und [Twitter](http://twitter.com/privacy "Twitter privacy policy")) apply as soon as you visit a social network site. 
 
 ####  Encryption
 
-Our website is not encrypted. As soon as you are connected to a service provider for the settlement of payments, the connection is ssl encrypted.
+This website is encrypted using SSL (https). This means that your data are encrypted when being transmitted between your browser and our server. Data you have entered are thus protected from being viewed by third parties whilst being transmitted between your browser and our server.
 
 ####  Data protection officer
 
