@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asicstiger.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625234745id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asicstiger.com privacy policy that was archived on 2014-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009034949id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js touch  csstransforms csstransforms3d csstransitions" lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>
 
@@ -19,20 +19,16 @@
 	<meta property="og:url" content="">
     <meta property="og:description" content="">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6MS"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" src="/dtagent55_n3_5203.js" data-dtconfig="rid=RID_-210521496|rpid=254353950|domain=asicsamerica.com|tp=500,50,0"></script><link rel="shortcut icon" type="image/x-icon" href="/_ui/desktop/common/images/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/_ui/desktop/common/images/favicon.ico">
 	
 	<meta property="og:image" content="http://www.asicsamerica.com/medias/sys_master/images/8796166062110/logo-hybris.png">
 		<meta property="og:site_name" content="">
 	
-	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics.less?v=74e7964e63e22e6b746b707042eea99a">
-
-<link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aac/css/asics-print.less?v=74e7964e63e22e6b746b707042eea99a"><!--[if lt IE 9]>
-<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics-ie8.css?v=74e7964e63e22e6b746b707042eea99a" />
+	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics.less?v=58c828750b17f3c2457e0fb5d6f7f764"><link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aac/css/asics-print.less?v=58c828750b17f3c2457e0fb5d6f7f764"><!--[if lt IE 9]>
+<link rel="stylesheet" href="/_ui/desktop/theme-asics-aac/css/asics-ie8.css?v=58c828750b17f3c2457e0fb5d6f7f764" />
 <![endif]-->
 
-<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/01319438-0abb-4491-8d1f-585c6909419c.css">
-
-	<script src="//cdn.optimizely.com/js/255859442.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-J6MS"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script src="//cdn.optimizely.com/js/255859442.js"></script>
 	<script>
 		var htmlClass = 'js';
 		if (window.Touch !== undefined) htmlClass += ' touch';
@@ -56,13 +52,34 @@
 			contextPath: '',
 			languageISO: 'en',
 
+			readCookie : function(cookiename) {
+				// Get name followed by anything except a semicolon
+				var cookiestring=RegExp(""+cookiename+"[^;]+").exec(document.cookie);
+				// Return everything after the equal sign
+				return unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./,"") : "");
+			  },
+
+			cookiesAllowed: function() {
+				var policy = this.readCookie('policy'),
+					explicitBanner = "", //need to check for Java variable as the cookie bar is not loaded in DOM before GA & MP
+					cookiesAllowed;
+
+					if (explicitBanner == 'true' && policy == 'false' || explicitBanner == 'true' && policy == undefined || explicitBanner == 'true' && policy == "") {
+						cookiesAllowed = false;
+					} 
+					else {
+						cookiesAllowed = true;
+					}	
+				return cookiesAllowed;
+			},
+			
 			// Proxy for calls to Google Analytics
 			googleAnalytics: (function() {
 
 				// All calls are routed through queue
 				var queue = function(arr) {
-		        	// Only push if _gaq is defined
-		        	if (window._gaq) {
+		        	// Only push if _gaq is defined and cookies are allowed
+		        	if (window._gaq && globals.cookiesAllowed()) {
 		        		window._gaq.push(arr);
 		        	}
 				};
@@ -92,14 +109,14 @@
 
 			    // All calls are routed through invoke
 			    var invoke = function(method, args, people) {
-			        // Only invoke if mixpanel is defined
-			        if (window.mixpanel) {
+			        // Only invoke if mixpanel is defined and cookies are allowed
+			        if (window.mixpanel && globals.cookiesAllowed()) {
 			            // Mixpanel, strangely, has a separate API for people.
 			            // Need to target mixpanel.people if people specified in params.
 			            var target = people ? window.mixpanel.people : window.mixpanel;
 			            // console.log('%cmixpanel: ', 'background: red; color: #fff;', target, args);
 			            return target[method].apply(target, args);
-			        }
+			        } 
 			    };
 
 			    return {
@@ -319,7 +336,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 					<li id="autocomplete_more_button" class="close" style="display: none;"><a id="more_button" class="button alternate" href="#">More</a></li>
 				</div>
 
-				<ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, {'event': 'notifyCriteo', 'customerid':'' }]">
+                <ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, {'event': 'notifyCriteo', 'customerid':'' }]">
 					<li>
 						<a href="/store-finder">Store Locator</a>
 					</li>
@@ -384,20 +401,30 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			Shoe Finder</a>
 	</li>
 			</ul>
-<div id="minicart" ng-controller="MiniCart" class="ng-scope">
-		<dl id="minicart_data">
-			<dt>Cart items</dt>
-			<dd><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span></dd>
-		</dl>
-		<div id="minicart_actions">
-			<a class="button button_toggle highlight_off panel_link">
-				<span class="off">View Cart</span>
-				<span class="on">Hide Cart</span>
-			</a>
+<div id="minicart_popup_version" ng-controller="MiniCart" class="ng-scope">
+				<dl id="minicart_data">
+					<a href="/cart/">
+						<dt>Cart items</dt>
+						<dd><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span></dd>
+					</a>
+				</dl>
+				<a class="description optimizely_cart_variation_1" href="/cart/">
+					Shopping Cart<div class="total_items ng-binding">
+						 
+						<ng-pluralize count="cart.contents.data.totalUnitCount" when="{'0': 'Items',
+					                       'one': 'Item',
+					                       'other': 'Items'}"></ng-pluralize> 
+						
+					</div>
+				</a>
+				<div id="minicart_actions" class="optimizely_cart_original">
+					<a href="/cart/" class="button button_toggle highlight_off" id="minicart_popup_button">
+						<span class="off">View Cart</span>
+						<span class="on">Hide Cart</span>
+					</a>
+				</div>
+			</div>
 		</div>
-	</div>
-
-</div>
 		</div>
 
 		<div id="panels">
@@ -430,8 +457,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 													<a href="/Shop/Accessories/cat/Accessories" class="" title="Accessories">
 			Accessories</a>
 	</li>
-											<li class="level_3" id="internal-content-page-new-arrivals">
-													<a href="/new-arrivals" class="" title="New Arrivals">
+											<li class="level_3" id="internal-category-grid-new-arrivals">
+													<a href="/New-Arrivals/cat/new-arrivals" class="" title="New Arrivals">
 			New Arrivals</a>
 	</li>
 											</ul>
@@ -481,7 +508,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			VOLLEYBALL</a>
 	</li>
 											<li class="level_3" id="internal-product-grid-tennis">
-													<a href="/Sports/Tennis/cat/sport-tennis" class="" title="TENNIS">
+													<a href="/Sports/Tennis/cat/sports-tennis" class="" title="TENNIS">
 			TENNIS</a>
 	</li>
 											<li class="level_3" id="internal-product-grid-wrestling">
@@ -509,9 +536,17 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 					<div class="listing ">
 							<h3>Featured</h3>
 							<ul class="level_3">
-										<li class="level_3" id="internal-content-page-new-arrivals">
-													<a href="/new-arrivals" class="" title="New Arrivals">
-			New Arrivals</a>
+										<li class="level_3" id="internal-content-kayano21-main-navigation">
+													<a href="/gel-kayano" class="" title="GEL-Kayano 21">
+			GEL-Kayano 21</a>
+	</li>
+											<li class="level_3" id="internal-breast-cancer-awareness">
+													<a href="/breast-cancer-awareness" class="" title="Breast Cancer Awareness">
+			Breast Cancer Awareness</a>
+	</li>
+											<li class="level_3" id="internal-product-grid-tcs-nyc-marathon">
+													<a href="/2014-TCS-New-York-City-Marathon-Collection/cat/nyc-marathon" class="" title="TCS NYC Marathon">
+			TCS NYC Marathon</a>
 	</li>
 											<li class="level_3" id="internal-content-page-gel-equipped">
 													<a href="/gel" class="" title="GEL-Equipped">
@@ -529,19 +564,11 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 													<a href="/gel-lyte33" class="" title="GEL-Lyte33 3">
 			GEL-Lyte33 3</a>
 	</li>
-											<li class="level_3" id="internal-content-page-super-j33">
-													<a href="/gel-super-j33" class="" title="GEL-Super J33">
-			GEL-Super J33</a>
-	</li>
-											<li class="level_3" id="internal-product-grid-kayano20-main-navigation">
-													<a href="/Footwear/GEL-Kayano-20-Running-Shoes/cat/footwear-kayano-20" class="" title="GEL-Kayano 20">
-			GEL-Kayano 20</a>
-	</li>
 											<li class="level_3" id="internal-widths-product-grid">
 													<a href="/Collections/Widths/cat/collection-widths-all" class="" title="WIDTHS">
 			WIDTHS</a>
 	</li>
-											<li class="level_3" id="internal-gt-series-page">
+											<li class="level_3" id="internal-content-gt-series-page">
 													<a href="/gt-series" class="" title="GT Series">
 			GT Series</a>
 	</li>
@@ -633,12 +660,12 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			<div class="featured">
 							<h3>Featured Events</h3>
 							<ul class="level_3">
-								<li class="level_3" id="featured-link-wsobv">
-											<a href="/wsobv">
-	<img src="/medias/sys_master/h73/hce/9227321573406/featured_event_hero_wsobv.png" alt="2014 WSOBV">
+								<li class="level_3" id="featured-link-nycm">
+											<a href="/nycm">
+	<img src="/medias/sys_master/hfb/h16/8849972887582/featured_event_hero_nycm.png" alt="2014 NYCM">
 </a>
-<a href="/wsobv" class="" title="2014 WSOBV">
-			2014 WSOBV</a>
+<a href="/nycm" class="" title="2014 NYCM">
+			2014 NYCM</a>
 	</li>
 									</ul>
 						</div>
@@ -656,23 +683,27 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
     
     
        
-          
+            
 <div id="cart_panel" class="panel wrap" style="display:none;">
-					<article id="cart" class="updatable item ng-scope empty" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}">
+					<div ng-show="cart.contents.data.totalItems" class="ng-hide">
 
-	<div ng-show="cart.contents.data.totalItems" class="ng-hide">
+    </div>
 
-		<header id="cart_header">
-			<h2>Your Shopping Cart</h2>
-			<h3 id="cart_id" class="ng-binding">Cart ID:</h3>
-		</header>
+<article id="cart" class="updatable item ng-scope empty" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}">
 
-		<p class="message  ng-hide" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
-			<span class="icon ng-binding">:</span>
-			<span class="ng-binding"></span>
-		</p>
+    <div ng-show="cart.contents.data.totalItems" class="ng-hide">
 
-		<table id="cart_table">
+        <header id="cart_header">
+            <h2>Your Shopping Cart</h2>
+            <h3 id="cart_id" class="ng-binding">Cart ID:</h3>
+        </header>
+
+        <p class="message  ng-hide" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
+            <span class="icon ng-binding">:</span>
+            <span class="ng-binding"></span>
+        </p>
+
+        <table id="cart_table">
 	<thead>
 		<tr>
 			<th id="head_details" colspan="2" class="details">Items</th>
@@ -733,9 +764,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 				</dt>
 				<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
         	<dt class="tax" ng-hide="cart.contents.data.net">Tax</dt>
-		<dd class="tax ng-binding" ng-hide="cart.contents.data.net"></dd>
-
-	</dl>
+			<dd class="tax ng-binding" ng-hide="cart.contents.data.net"></dd>
+		</dl>
 
 	<div class="cart_promotions_total">
 		<!-- ngIf: cart.contents.data.appliedOrderPromotions.length || cart.contents.data.potentialOrderPromotions.length -->
@@ -750,21 +780,23 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 </div>
 <div class="actions">
-			<a id="checkout_button" class="button highlight" href="/cart/checkout">Proceed to Checkout</a>
-			<a class="button" href="/returns">Returns information</a>
-		</div>
+            <a id="checkout_button" class="button highlight" href="/cart/checkout">Proceed to Checkout</a>
+            <a class="button" href="/returns">Returns information</a>
+        </div>
 
-	</div>
+    </div>
 
-	<div ng-show="cart.contents.data.totalItems == 0" class="ng-hide">
+    <div ng-show="cart.contents.data.totalItems == 0" class="ng-hide">
 
-		<header id="cart_header">
-			<h2>Your Shopping Cart Is Empty</h2>
-		</header>
-		<a id="continue_shopping" class="button panel_link" href="#cart_panel">Continue Shopping</a>
-		</div>
+        <header id="cart_header">
+            <h2>Your Shopping Cart Is Empty</h2>
+        </header>
+        <a class="button panel_link" href="#cart_panel">Continue Shopping</a>
+        </div>
 
 </article>
+
+
 </div>
 			</div>
 
@@ -798,7 +830,20 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 				<a class="addthis_counter addthis_bubble_style"></a>
 			</div>
 			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-512e28bc58dbe854"></script>
-			<script type="text/javascript">var addthis_config = {data_track_addressbar: false, data_track_clickback: false, ui_language: "en"};</script>
+			<script type="text/javascript">
+
+				var addthis_config = {data_track_addressbar: false, 
+									  data_track_clickback: false, 
+									  ui_language: "en",
+									  data_use_cookies:false,
+									  data_use_flash:false
+									};
+
+
+				var addthis_share = {
+									   title: ''
+									};					  
+			</script>
 			<!-- AddThis Button END -->
 
 			<a class="back_link" href="javascript:history.go(-1)">Back</a>
@@ -830,7 +875,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 					<li class="">
 							<a href="/ethics-hotline" title="Ethics Hotline">Ethics Hotline</a></li>
 					<li class="">
-							<a href="http://www.asics.com/en/about_asics/practical_information" title="ASICS Office Locations" target="_new">ASICS Office Locations</a></li>
+							<a href="http://corp.asics.com/en/about_asics/practical_information" title="ASICS Office Locations" target="_new">ASICS Office Locations</a></li>
 					</ul>
 			</nav>
 			<div class="item main_column">
@@ -925,7 +970,7 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			Terms of Use</a>
 	</li>
 								<li class="level_2">
-										<a href="http://www.asics.com/en/about_asics/practical_information" class="" title="ASICS Office Locations" target="_blank">
+										<a href="http://corp.asics.com/en/about_asics/practical_information" class="" title="ASICS Office Locations" target="_blank">
 			ASICS Office Locations</a>
 	</li>
 								</ul>
@@ -933,22 +978,22 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 					</ul>
 			</nav>
 
-			<div id="newsletter_signup">
-					<h3><div style="font-size:18px;">EMAIL NEWSLETTER</div></h3>
-					<form class="newsletter_signup_form ng-pristine ng-valid" action="/json/newsletter/signup.json" novalidate="">
-						<ol>
-							<li>
-								<label>Email address</label>
-								<input name="email" class="text" type="email" placeholder="Email address">
-							</li>
-						</ol>
-						<div class="buttons">
-							<input class="button  auto" type="submit" value="Sign Up">
-						</div>
-					</form>
-					<p>Signup to our newsletter and receive special offers and exclusive news about our products</p>
-				</div>
-			<div class="site_payments">
+				<div id="newsletter_signup">
+						<h3><div style="font-size:18px;">EMAIL NEWSLETTER</div></h3>
+						<form class="newsletter_signup_form ng-pristine ng-valid" action="/json/newsletter/signup.json" novalidate="">
+							<ol>
+								<li>
+									<label>Email address</label>
+									<input name="email" class="text" type="email" placeholder="Email address">
+								</li>
+							</ol>
+							<div class="buttons">
+								<input class="button  auto" type="submit" value="Sign Up">
+							</div>
+						</form>
+						<p>Signup to our newsletter and receive special offers and exclusive news about our products</p>
+					</div>
+				<div class="site_payments">
 				</div>
 
 		</div>
@@ -970,14 +1015,14 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 						<span class="flag" style="background: url('/medias/sys_master/images/8798813749278/web-site-flags.png') -740px 0;"></span>
 						<span>United States &nbsp;Change</span>
 					</div>
-					<div id="languageSelector" class="languageSelector">
+					<div id="countrySelector">
 						<div id="lightBox">
 							<div class="logoAsics"></div>		
 							<h2>Please choose your country and language</h2>
-							<div id="closeChangeLanguage" class="changeLanguage">
+							<div id="closeCountryPanel" class="changeLanguage">
 								<a href="">Close</a>
 							</div>
-							<div class="language_listings">
+							<div class="country_listings">
 								<div>
 									<h3>Americas</h3>
 									<ul>
@@ -1125,7 +1170,12 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
     padding:0 30px;
 }
 </style></p></div><div class="minicart_popup ng-scope" ng-controller="MainCart">
-		<a href="/cart/" class="counter ng-hide" ng-show="cart.contents.data.totalItems >= 3"><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span> ITEMS</a>
+		<a href="/cart/" class="counter ng-hide" ng-show="cart.contents.data.totalItems >= 3">
+			<span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span>
+			<ng-pluralize count="cart.contents.data.totalUnitCount" when="{'0': 'Items',
+		                       'one': 'Item',
+		                       'other': 'Items'}"></ng-pluralize>
+		</a>
 
 		<div class="empty-message ng-hide" ng-show="cart.contents.data.totalItems == 0">
 				<p>Your Shopping Cart Is Empty</p>
@@ -1137,7 +1187,7 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
 		<div class="actions" ng-show="cart.contents.data.totalItems != 0">
 			<div class="buy">
 				<div class="total">
-					<span class="label">Total</span>
+					<span class="label">Subtotal</span>
 					<span class="value ng-binding"></span>
 
 				</div>
@@ -1151,8 +1201,7 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
 			           		</dl>
 			           		<dl>
 								<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
-									* Estimated shipping<!-- <span class="note">* The exact shipping cost will be calculated during checkout</span> -->
-								</dt>
+									* Estimated shipping</dt>
 								<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
 							</dl>
 			        	</div>
@@ -1317,11 +1366,11 @@ header[role="banner"] nav#primary #lead ul#areas li > a{
 					<span>Added</span>
 
 					
-						<a href="javascript:void(0);" class="panel_link panel_link_open ng-hide" ng-show="cart.contents.success" id="cart_panel_id">
+
+					
+						<a href="/cart/" class="panel_link_open ng-hide" ng-show="cart.contents.success">
 							View Cart
 						</a>
-					
-
 						
 				</p>
 				<p class="message error ng-hide" ng-show="quickShop.contents.unselectedMsg">
