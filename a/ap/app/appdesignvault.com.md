@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdesignvault.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202110231id_/http%3A//www.appdesignvault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdesignvault.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009222741id_/http%3A//www.appdesignvault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone and iOS App UI Design Templates
 
@@ -39,6 +39,13 @@ We use traffic log cookies to identify which pages are being used. This helps us
 Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Use of Re-marketing Pixels
+
+This website uses the re-marketing services like Facebook and Google to advertise on third party websites (including Google and Facebook) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network or in the Facebook Newsfeed. Third-party vendors, including Google and Facebook, use cookies to serve ads based on someone’s past visits to the App Design Vault website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s and Facebook’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 ### Links to other websites
 
