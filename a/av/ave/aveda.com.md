@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aveda.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073047id_/http%3A//www.aveda.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveda.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009131610id_/http%3A//www.aveda.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
 # Aveda - Customer Service - Privacy Policy
 
-**Effective Date: 10/16/2013**
+**Effective Date: 4/16/2014**
 
 Aveda Corporation United States Privacy Policy
 
@@ -64,7 +64,13 @@ We may use third party web analytics services on this site. Such third party web
 
 How We Use the Information Collected by Automated Means  
 
-We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms & Conditions](https://web.archive.org/cms/customer_service/terms_conditions.tmpl "Terms & Conditions"). We also may use the information in other ways for which specific notice is provided at the time of collection.
+We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms & Conditions](https://web.archive.org/cms/customer_service/terms_conditions.tmpl). We also may use the information in other ways for which specific notice is provided at the time of collection.
+
+California Do Not Track Notice  
+
+> Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection.  At this time, we do not track our customers’ personal information over time and across third-party websites and therefore this requirement does not apply to us.   
+> 
+> California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service.  Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information.   We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
 
 Information We Share  
 
@@ -96,8 +102,31 @@ You can ask Aveda to stop sending you marketing communications by postal mail by
 
 •  Text Message Opt-Out
 
-If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems ("Text Messages"), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from Aveda to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are: 
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems ("Text Messages"), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from Aveda to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are: 
 
+ACS Wireless| Cox Wireless| Pocket Wireless  
+---|---|---  
+Alltel| Cricket Communications| Revol Wireless  
+All West Communications| Element Mobile| Silver Star PCS  
+Appalachian Wireless| Farmers Mutual Telephone Co.| Simmetry Wireless  
+AT&T| GCI Wireless| Snake River PCS  
+Bluegrass Wireless| Golden State Cellular| South Central Communications  
+Boost| Illinois Valley Cellular| Sprint  
+Boost Unlimited| Immix| Sprocket Wireless  
+Breakaway Wireless| Inland Cellular| Strata Wireless  
+Carolina West Wireless| iWireless| Syringa Wireless  
+Cambridge Telephone Company (CTC)| Metro PCS| Thumb Cellular  
+Cellcom| Midwest Wireless| T-Mobile  
+Cellular South| Nex-Tech Wireless| United Wireless  
+Cellular One of East Central Illanois| Nextel| Union Wireless  
+Cellular One of Montana| Northwest Missouri Cellular| U.S. Cellular  
+Cellular One of NEPA| nTelos| Verizon Wireless  
+Centennial Wireless| Nucla-Naturita Telephone| Viaero Wireless  
+Chat Mobility| Panhandle Telecommunications| Virgin Mobile US  
+Cellular 29| Pioneer Cellular| West Central Wireless  
+Cincinnati Bell| Plateau Wireless|   
+  
+  
 SMS messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures. **To receive help with Text Messages, you can either text the word "Help" to AVEDA (28332) or call 1.800.644.4831 or email[AvedaOnlinetech@aveda.com](mailto:AvedaOnlinetech@aveda.com).
 
 You may unsubscribe from receiving Text Messages any time by texting the word "STOP" to AVEDA (28332) from your device.
@@ -136,8 +165,8 @@ Our website may provide links to other websites for your convenience and informa
 
 Updates To Our Privacy Policy  
 
-This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our website to notify you of any significant changes to our Privacy Policy and indicate at the top of the Policy when it was most recently updated.
-
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our website to notify you of any significant changes to our Privacy Policy and indicate at the top of the Policy when it was most recently updated.  
+  
 How To Contact Us  
 
 If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at [AvedaOnlinetech@aveda.com](mailto:AvedaOnlinetech@aveda.com) or telephone at 1.800.644.4831. You also may write to:
