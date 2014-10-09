@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the etonbio.com privacy policy that was archived on 2014-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140507073108id_/http%3A//www.etonbio.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etonbio.com privacy policy that was archived on 2014-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009022513id_/http%3A//www.etonbio.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -271,8 +271,8 @@ Email:<a href="mailto:supportnj@etonbio.com">supportnj@etonbio.com</a>
             <div class="subStrong" onclick="toggleArrow('dnaArrow');">Services Types</div>
             <ul>
               <li class="service_list"><a href="/sequencing/regular_sequencing.php">Regular DNA Sequencing</a></li>
-              <li class="service_list"><a href="/sequencing/specialty_dna_sequencing.php">Specialty Sequencing</a>
-              </li><li class="service_list"><a href="/sequencing/sequencing_ready_to_load.php">Ready to Load</a></li>
+              <li class="service_list"><a href="/sequencing/specialty_dna_sequencing.php">Specialty Sequencing</a></li>
+              <li class="service_list"><a href="/sequencing/sequencing_ready_to_load.php">Ready to Load</a></li>
               <li class="service_list"><a href="/sequencing/primer_walking_sequencing.php">Primer Walking</a></li><a href="/sequencing/primer_walking_sequencing.php">  
           	  </a><li class="service_list"><a href="/sequencing/primer_walking_sequencing.php"></a><a href="/sequencing/direct_sequencing.php">Direct Sequencing</a></li>
               <!-- <li class="service_list"><a href="http://www.etonbio.com/sequencing/direct_sequencing_mini_prep.php">Mini Prep - Sequencing</a></li> -->
@@ -286,16 +286,6 @@ Email:<a href="mailto:supportnj@etonbio.com">supportnj@etonbio.com</a>
           	<li><a href="/downloads.php">Result Viewers</a></li>
         </ul>
       </div>
-      <script>
-$(".accordion > li > .subStrong").click(function(){
- 
-    if(false == $(this).next().is(':visible')) {
-        $('.accordion ul').slideUp(300);
-    }
-    $(this).next().slideToggle(300);
-});
- 
-</script> 
       <!-- end of DNA Sequencing --> 
       <!-- begin of Fragment Analysis -->
       <div class="service_menu_layout"> <img src="/images/menu/fragment.jpg" width="30" height="30" class="menu_image">
@@ -309,14 +299,32 @@ $(".accordion > li > .subStrong").click(function(){
       </div>
       <div class="service_menu_layout"> <img src="/images/menu/genomic.jpg" width="30" height="30" class="menu_image">
         <div class="list_title">Other Genomic Services</div>
-        <ul class="service_list">
+        <ul class="service_list accordion">
           <li><a href="/Genomic-Services/gene_synthesis_service.php">Gene Synthesis</a></li>
           <li><a href="/Genomic-Services/mutagenesis.php">Mutagenesis</a></li>
           <li><a href="/Genomic-Services/genomic_cloning.php">Cloning &amp; Subcloning</a></li>
-          <li><a href="/DNAprep/dna_prep_services.php">Maxi Prep</a></li>
+          <li id="prepArrow">
+          		<div class="subStrong" onclick="toggleArrow('prepArrow');">Maxi Prep</div>
+          		<ul>
+                    <li class="service_list"><a href="/DNAprep/dna_prep_services.php">Service Description</a></li>
+                    <li class="service_list"><a href="/DNAprep/faq_dnaPrep.php">FAQ</a></li>
+                </ul>
+          </li>
+          
+          
+        </ul>
+      </div>     
+      <div class="clear"></div>
+      
+      <div class="service_menu_layout"> <img src="/images/menu/oligo_icon.jpg" width="30" height="30" class="menu_image">
+        <div class="list_title">Oligo Synthesis</div>
+        <ul class="service_list">
+          <li><a href="/oligo/oligo_services.php">Service Description</a></li>
+          <li><a href="/oligo/oligo_services.php#howTo">How to Order</a></li>
+          <li><a href="/oligo/oligo_services.php#turnaround">Turnaround time &amp; Delivery</a></li>
+          <li><a href="/oligo/faq_oligo.php">FAQ</a></li>
         </ul>
       </div>
-      <div class="clear"></div>
         <div class="service_menu_layout"> <img src="/images/menu/antibody.jpg" width="30" height="30" class="menu_image">
         <div class="list_title">Antibody Services</div>
         <ul class="service_list">
@@ -331,14 +339,8 @@ $(".accordion > li > .subStrong").click(function(){
           <li><a href="/peptides/faq_peptide_synthesis.php">FAQ</a></li>
         </ul>
       </div>
-      <div class="service_menu_layout"> <img src="/images/menu/mammilian.jpg" width="30" height="30" class="menu_image">
-        <div class="list_title">Mammalian Cell Expression</div>
-        <ul class="service_list">
-          <li><a href="/sequencing/cloning.php">Our Service</a></li>
-        </ul>
-      </div>
-    </div>
-    <!-- End services container --> 
+      
+   </div><!-- End services container --> 
   </li>
   <!-- End services Item -->
   
@@ -352,8 +354,7 @@ $(".accordion > li > .subStrong").click(function(){
       </div>
     </div>
   </li>
-</ul>
-                   </div>
+</ul>                   </div>
                     <div id="loginSection">
                         <h3>Welcome </h3>
                                                       <table>
@@ -406,6 +407,25 @@ $(".accordion > li > .subStrong").click(function(){
 </div>
 <link rel="stylesheet" href="/views/main/css/fatFooter.css" type="text/css" media="screen">
 
+<script>
+//Controls accordian drop down on menu.inc.php and member/index.php
+$(".accordion > li > .subStrong").click(function(){
+ 
+    if(false == $(this).next().is(':visible')) {
+        $('.accordion ul').slideUp(300);
+    }
+    $(this).next().slideToggle(300);
+});
+
+$(".accordion > .subStrong").click(function(){
+ 
+    if(false == $(this).next().is(':visible')) {
+        $('.accordion ul').slideUp(300);
+    }
+    $(this).next().slideToggle(300);
+});
+ 
+</script> 
     <div id="bottom">
 
   <div class="footer1">
@@ -433,7 +453,7 @@ $(".accordion > li > .subStrong").click(function(){
         <div class="strong">DNA Sequencing</div>
         <ul class="service_list">
           <li><a href="../../sequencing/dna_sequencing_services.php">Our Services</a></li>
-          <li><a href="../../sequencing/dna_sequencing_ordering.php">Ordering</a></li>
+          <li><a href="../../ordering.php">Ordering</a></li>
           <li><a href="../../sequencing/dna_sequencing_primer.php">Primer List</a></li>
           <li><a href="../../sequencing/dna_sequencing_pricing.php">Pricing</a></li>
           <li><a href="../../sequencing/faq_seq.php">FAQ</a></li>
@@ -470,11 +490,6 @@ $(".accordion > li > .subStrong").click(function(){
       </div>
       
       <div class="colServices">
-        <div class="strong">Primer Walking</div>
-        <ul>
-          <li><a href="../../sequencing/walking_ss.php">Single Stranded DNA</a></li>
-          <li><a href="../../sequencing/walking_ds.php">Double Stranded DNA</a></li>
-        </ul>
             <div class="strong">Peptide Synthesis</div>
             	<ul> 
                     <li><a href="../../peptides/peptide_service.php">Custom Peptides</a></li>
