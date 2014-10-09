@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065949id_/http%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010010105id_/http%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
 
 # Box Office Buz - Box Office Buz Privacy Policy
 
