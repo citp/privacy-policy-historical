@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410082714id_/https%3A//www.bloodhorse.com/horse-racing/about-us/privacy-policy%3Futm_source%3DNavigation%26utm_medium%3DLinks%26utm_campaign%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodhorse.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009063927id_/http%3A//www.bloodhorse.com/horse-racing/about-us/privacy-policy%3Futm_source%3DNavigation%26utm_medium%3DLinks%26utm_campaign%3DFooter) for the most accurate reproduction.*
 
 # Privacy Policy | BloodHorse.com
 
