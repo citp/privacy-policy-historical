@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mpora.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060630id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpora.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009142134id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
-# Mpora Action Sports Network
+# Mpora - The Best In Action Sports
 
 This Privacy Policy (the 'Policy') forms part of the Terms and Conditions for the access and use of this Website (the 'Terms') and should be read in conjunction with the Terms. Your access and use of this Website and any information you provide on the Website remains subject to the terms of this Policy and to our Terms. This Policy may be updated from time to time and you should read it each time you use this Website to ensure that you are happy with it. If you do not accept the contents of this Policy and the Terms then please do not use this Website. By visiting this Website, you are accepting and consenting to the practices described in this policy, [terms](https://web.archive.org/about/terms) and [cookie policy](https://web.archive.org/about/cookies). 
 
