@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001704id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009103832id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Vertafore
 
 Updated: November 3, 2011
 
-This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may reference this policy or have site specific privacy policies.
+This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may reference this policy or have site specific privacy policies.
 
 **Notice Regarding Collection and Use of your Personal Information**
 
@@ -24,7 +24,7 @@ Except as otherwise described in this statement, personal information you provid
 
 Vertafore may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Vertafore or the Site; (b) protect and defend the rights or property of Vertafore and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Vertafore employees or agents, users of Vertafore products or services, or members of the public.
 
- **Use of Cookies** The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience.  A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser.  Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them.  Vertafore does not use cookies to retrieve personal information about you from your computer.
+ **Use of Cookies** The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer.
 
 Vertafore uses cookies to: 
 
