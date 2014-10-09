@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesscardjournal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092307id_/http%3A//businesscardjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscardjournal.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009174943id_/http%3A//businesscardjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Business Card Journal
 
