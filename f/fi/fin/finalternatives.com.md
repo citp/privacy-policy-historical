@@ -1,42 +1,104 @@
-> *The following text is extracted and transformed from the finalternatives.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111256id_/http%3A//www.finalternatives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalternatives.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009110851id_/http%3A//www.futuresmag.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | FINalternatives
+# FuturesMag
 
-**FINalternatives.com** is the Web site of **FINalternatives** , an information service of **Stone Street Media, LLC**. Stone Street Media is committed to protecting your privacy. The following statement describes Stone Street Media’s privacy policy as it relates to Stone Street Media's services, including ad placements, advertising, marketing and lead generation.
+This privacy statement explains the procedures followed by The Alpha Pages LLC and all its products in collecting and using information regarding visitors to this Web site and advises you what information might be shared with third parties. The type of information collected will vary depending upon the portions of the site which you visit and, in certain instances, which you voluntarily disclose.
 
-**User Information  
-** Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual. Stone Street Media may collect non-personally identifiable information while you are visiting a Stone Street Media Web site or the Web site of one of Stone Street Media’s customers, including advertisers and Web publishers. With each advertising impression served, Stone Street Media collects information such as the time of day, URL visited, browser type, browser language, and IP address. Stone Street Media analyzes certain web pages of those publisher websites within our network. Stone Street Media may use page content, form data and URL parameters in order to improve its service to the users. In addition, the visited URL is sent to Stone Street Media's servers from the browser so that Stone Street Media may retrieve the applicable page content from the publisher's servers.
+## 1\. COLLECTION OF INFORMATION
 
-As part of our on-going efforts to ensure the best possible experience, we may use any number of features, including Web beacons and cookies, to collect non-personally identifiable information. Web beacons, also known as clear gif technology or action tags, are small colorless image files placed on a Web page for the purpose of tracking the completion of transactions and the submittal of applications, which, in turn, enhances the online experience for our users.
+### Basic Viewing
 
-Similarly, a Cookie is a file that the Internet browser places on your computer's hard drive. It is not a virus and cannot erase your hard drive or otherwise damage your computer. A cookie controls the delivery rate of ads to Web browsers such that the number of times a Web browser receives any one advertisement is limited to ensure the best online experience for our users. A cookie also allows Stone Street Media reporting system to estimate the total reach of an ad campaign so that our advertisers can determine with greater accuracy the composition of the audience they reach.
+If you read or download any pages on a The Alpha Pages site, we automatically collect and store:
 
-Neither Web beacons nor cookies provide Stone Street Media with an email address or any other personally-identifiable information, and Stone Street Media does not and cannot use Web beacons or cookies to recover such information from the computers of our users. Again, Stone Street Media simply collects non-personally identifiable information for the limited purpose of optimizing the operation of Stone Street Media services, maintaining the quality and integrity of the services, and providing general statistics regarding our users. Although cookies enhance the online experience, Web users always have the option of blocking the use of the same by altering a setting in their browser. Please see your browser supplier's Web site for details on how this may be done if you object to the collection of non-personally identifiable information.
+the requested Web page,
 
-Stone Street Media may place advertisements of third-party advertisers on Web sites that you are visiting. If you choose to click on an advertisement, Stone Street Media may provide non-personally identifiable information to the advertiser and Web publisher. Also, the Web publisher or Stone Street Media’s other partners may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their Web sites.  The information they collect is governed by their individual privacy policies, not Stone Street Media’s.
+the status of the request (whether it was successful or not),
 
-**Submission of Personally Identifiable Information  
-** When using services offered through Stone Street Media or its customers and affiliates, you may choose to enter your name, contact information, and other personal information. You will have clear notification that we are collecting this information so that you can choose not to provide it.  Users may also provide contact information while visiting StoneStreetMedia.com or its related Web Sites to request information. 
+the date and time you access our site,
 
-**_Use of the Information We Collect_**
+the Internet address of the Web site or the domain name of the computer from which you accessed our site,
 
-**Use of Non-Personally Identifiable Information**   
-Stone Street Media may use non-personally identifiable information collected to improve the quality of Stone Street Media services, for example, by increasing ad placements on Web sites that are receiving more Web traffic and presenting you with ads that we think you would be interested in viewing. Stone Street Media may market its services by sharing Web surfing data with business partners in such a way that you are not identified. Stone Street Media also may provide your non-personally identifiable information to companies so that they can perform services for us.
+the type and version of the Web browser, and
 
-**Use of Personally Identifiable Information**  
-Stone Street Media does not provide personally identifiable information to third parties except under the following conditions.  If you provide personally identifiable information as part of an inquiry about products or services provided by one of our business partners, we will provide that information only to that business partner so that they may attempt to provide you with information regarding the products or services you inquired about.  
-Stone Street Media may use the personally identifiable information provided by users or business partners at StoneStreetMedia.com or its related Web Sites for internal purposes, such as sales, human resources, marketing, and administration (e.g., billing, newsletters and communicating with our business partners and maintaining their account information).  We may share this information with third parties who provide Stone Street Media with administrative services.  If Stone Street Media shares any of the information collected from you with a third party, their use of that information will be governed by the third party's privacy policy.
+the operating system of the computer running the Web browser.
 
-**Advertising Content  
-** Stone Street Media's services display links to other sites in the form of "contextual advertising." Stone Street Media has no control over the content presented in such advertisements; third party advertisers provide them. The content of these advertisements is intended to show a high degree of relevance to the content you view. Stone Street Media parses the content of the URL visited, determines the relevant context and keywords and passes this information to the third party to obtain the advertisement to display. 
+In addition to using this information to send the requested site pages to your computer, we use this information (i) to monitor the performance of our Web server and diagnose system problems and to otherwise administer our system and (ii) to provide collective demographic and user profile data on visitors to our site.
 
-**Child Protection**  
-Stone Street Media does not offer services to, or target, persons under the age of 18.  In compliance with the Children's Online Privacy Protection Act, any information we receive from people we believe to be minors will be purged from our database. 
+Any usage of on-line chat or newsgroup sessions is considered a public usage and you assume responsibility for any information or content which you submit. 
 
-**Contacting the Web Site**  
-If you have questions or concerns regarding this policy, you should contact Stone Street Media by sending an email though our [**CONTACT US**](https://web.archive.org/contact) page with "Privacy" in the subject line, or by writing to Privacy, Stone Street Media, PO Box 3195, New York, New York 10008. 
+### Users Who Register
 
-  **Acceptance of Privacy Statement**   
-Your use of our Web site is subject to this privacy policy.  BY USING OUR WEB SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY.  We reserve the right to modify this privacy policy at any time by posting the changes on this page. Please check the effective date at the bottom of this page to determine if the privacy policy has been modified since you last reviewed it.  Your continued use of our Web site following posting of the updated privacy policy will constitute your acceptance of the changes.
+Several The Alpha Pages sites include a registration page. This page is optional if you are simply browsing our site. Visitors may complete registration forms to be added to our distribution list(s) to receive e-mail newsletters and information about The Alpha Pages products and services. We may also contact you for other marketing purposes.
 
-_**Effective Date:** The privacy policy was last revised on January 31, 2010._
+However, in order to use our online ordering procedure or to access secure pages (such as online continuing education or our online library) or to download product demos, visitors must register.
+
+### E-Mail Users
+
+If you send us an e-mail or respond to the Contact Us section, in addition to the general visitor information, we also will record your e-mail address and any other personal information included with your message. We will use this information to respond to your message and may add your address to an e-mail distribution list used to announce new products or to update the status of other products or otherwise contact you for marketing purposes.
+
+### Online Purchasers/Demo Users
+
+If you access or download a software or other product demo, in addition to the general visitor information, we will collect and store your name and e-mail address and other information on the registration form. This information will be incorporated into one or more The Alpha Pages database(s). We may use this information to send you solicitations for The Alpha Pages products and make other marketing contacts.
+
+If you order a product on-line, in addition to the general visitor information, we will require certain personal information, including (i) financial information necessary to process the order (such as a credit card number or account information), (ii) location information (including address and business affiliation) necessary to ship and process the order (which will include mailing and delivery addresses and telephone numbers) and to otherwise support the The Alpha Pages customer database and (iii) unique identifiers (such as a user password). We use this information to authorize and process your order and also to track order fulfillment and billing. (Customers who do not wish to provide this information on-line may order products by telephone or mail.) The customer specific information will be incorporated into one or more The Alpha Pages customer database(s). We periodically send our customers, either by regular mail or e-mail, information and solicitations for The Alpha Pages products and make other marketing contacts. We also use composite demographic or profile data for our own internal research and when dealing with advertisers.
+
+### Online Continuing Education Participants
+
+Individuals taking continuing education exams on line will have been given a unique password. This password will be connected to personal information required for identification of the test taker as required by the course administrator and the continuing education authorities of the specific jurisdiction. In addition to the general visitor information (which, for the visit to the site when you either order or take the test, may be linked to your personal identifying test information), if you ordered the test online, such order data will be recorded as provided above and will be linked to the test administration data. We may use composite demographic or profile data for our own internal research, including test development, and when dealing with continuing education providers and certification authorities.
+
+## 2\. SHARING INFORMATION
+
+### Basic Viewing
+
+For visitors who only read or download pages from a The Alpha Pages site, no individual identifying data is shared outside of The Alpha Pages or its providers. We may disclose or sell collective demographic and user profile data with third parties.
+
+### Registered Viewers
+
+Visitors who register may be included in one or more The Alpha Pages customer database(s). This data may be shared or sold to third parties, unless you request that we not do so. (See the Choice/Opt-Out section below.)
+
+### E-Mail Users
+
+Parties who send us an e-mail or respond to the Contact Us section may be included in one or more The Alpha Pages customer database. This data may be shared or sold to third parties, unless you request that we not do so. (See the Choice/Opt-Out section below.)
+
+### Online Purchasers and Demo Users
+
+Parties who sample products or order on-line will have certain information entered in one or more The Alpha Pages database(s). Information in The Alpha Pages customer databases may be shared or sold to third parties, unless you request that we not do so. (See the Choice/Opt-Out section below.) This may include any information supplied to The Alpha Pages other than individual financial information (such as credit card or account data, and personal passwords). The Alpha Pages will disclose credit card account, billing and expiration data only to the institutions with which it has a merchant relation, including charge authorization services. Delivery information may be disclosed to shippers and others in the delivery process for the purpose of delivering goods and tracking shipments. Payment information may be disclosed to credit reporting bureaus or used for collection purposes.
+
+### Online Continuing Education Participants
+
+Data gathered as a general visitor to a The Alpha Pages site or as an online purchaser may be shared as previously described above under those headings. In addition, you can expect that personal identifying information, including test results, as required by the continuing education authority or course provider will be sent to those parties. Users who have questions as to the specific data to be provided in any given case, should contact The Alpha Pages at info@futuresmag.com before registering for a continuing education program or test.
+
+## 3\. CHOICE/OPT-OUT
+
+Users who do not wish The Alpha Pages to share customer data information with third parties may request that their name not be shared either by so indicating when registering at this site or submitting an on-line order or by contacting us later to ask that their name be deleted from any such shared lists. This can be done by contacting The Alpha Pages by any of the means given under the heading CHANGES/CORRECTIONS below. Also, The Alpha Pages customers who do not wish to receive future communications on products or services may contact us by those same means to have your name deleted from The Alpha Pages customer lists. Such changes normally will be effective with list usages beginning 10 business days after we receive your request, although in some cases it may take longer. This will not affect lists used or shared before the changes are entered.
+
+## 4\. COOKIES
+
+A "cookie" is a small data file that is sent to your browser when you access a web site. The Alpha Pages cookies will contain a unique user ID that tracks the pages you have visited. This user ID is used only for the operation of the cookie and is not provided to any third party. A cookie file cannot read other data from your hard disk or read cookie data created by other sites. The Alpha Pages uses cookies primarily to facilitate your visit through our sites and to help us improve our sites. The Alpha Pages also will use cookie data in operating its on-line ordering and product demo functions as well as in granting access to secure pages.
+
+If you prefer not to receive cookies from The Alpha Pages sites, you should set your browser to alert you before accepting cookies or to otherwise block cookies. You do not have to have cookies turned on to use most areas of a The Alpha Pages site. However, you will not be able to view product samples or demos or to order on-line or use various other functions.
+
+## 5\. LINKS
+
+As a convenience for our users, The Alpha Pages sites may contain links to third party sites. (This includes links through advertisements.) These sites are not under the control of The Alpha Pages and are not covered by this privacy policy. Once you link to another site, you are subject to the privacy policy of that new site. (Check the URL in the location bar on your Web browser.)
+
+## 6\. SECURITY
+
+The Alpha Pages is committed to taking commercially reasonable steps to protect any individual identifying information that you provide to us. We use industry standard secure shopping tools, including CyberCash™ and Verisign™ technology.
+
+## 7\. CHANGES/CORRECTIONS
+
+If you have any questions about the accuracy of information on The Alpha Pages's system or need to modify any information previously provided, you may contact us to confirm or correct any individual identifying information as follows:
+
+By e-mail: [info@futuresmag.com](mailto:info@futuresmag.com)  
+By regular mail:   
+The Alpha Pages, LLC  
+217 N. Jefferson Street  
+Suite 601  
+Chicago, IL 60661  
+Attn: Customer Service  
+By telephone: 312-846-4600
+
+## 8\. GENERAL
+
+The Alpha Pages reserves the right to revise these terms at any time by updating this posting. Even though you may have visited this site before, any access is subject to the then current terms and you are responsible for checking for any updates. However, the prior terms will continue to apply to any information submitted under such policy.
