@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualaroo.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210174236id_/https%3A//qualaroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualaroo.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009220713id_/https%3A//qualaroo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Qualaroo - Behavior Insight Surveys For Smarter A/B Testing
 
