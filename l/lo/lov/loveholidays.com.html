@@ -1,221 +1,529 @@
-<!--The following is the downloaded HTML source of the loveholidays.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619042602id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loveholidays.com privacy policy that was archived on 2014-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009140606id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
-        <meta charset="utf-8">
-        
-        
-    
-        <meta name="description" content="This is the privacy policy for www.loveholidays.com covering data protection and our use of cookies">
-    
-    
-        <meta name="keywords" content="loveholidays.com privacy policy, privacy policy, loveholidays.com">
-    
-    <link rel="canonical" href="http://www.loveholidays.com/privacy-policy.html">
-    
-        
-        
-            <meta content="Copyright (c) loveholidays 2012" name="copyright">
-            
-    
-    
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="150x150" href="/apple-touch-icon-150x150.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="64x64" href="/apple-touch-icon-64x64.png">
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="32x32" href="/apple-touch-icon-32x32.png">
+
+		
+	<meta name="description" content="loveholidays.com ensures that proper security measures are in place to protect the information you give us. We do nothand over your details to anyone without your consent.">
+	<link rel="canonical" href="http://www.loveholidays.com/privacy-policy.html">
+
+		<title>Privacy Policy - loveholidays.com</title>
+
+		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-438L"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=537132909692852"></script><script type="text/javascript" src="/static/js/43cd4601a898.js"></script>
+
+		<script type="text/javascript" src="/static/js/a45f5972c75d.js"></script>
+
+		<script>
+			window['optimizely'] = window['optimizely'] || [];
+
+			if(typeof window.optimizely.push === "function") {
+				window['optimizely'].push(["bucketVisitor", 2037630196, 2003770329]);
+			}
+		</script>
+
+		<script type="text/javascript">
+			
+				window.TM.AB.Env = 'prod';
+			
+			
+			
+		</script>
+
+		
+			<script src="//cdn.optimizely.com/js/788353815.js"></script>
+		
+
+		
+
+		
+
+		
+		
+			<link rel="stylesheet" href="/static/css/907bf53e6eb3.css" type="text/css" media="all">
+		
+		
+
+		<!-- html5shiv lets us use HTML5 elements in older IE versions
+		 See https://github.com/aFarkas/html5shiv for details. -->
+		<!--[if lt IE 9]>
+			<script>
+				window.html5 = {
+				  'elements': ['figure', 'figcaption']
+				};
+			</script>
+			<script src="/static/src-js/lib/html5shiv.js"></script>
+		<![endif]-->
+
+		<script type="text/javascript">
+			window.love_static_url = "/static/";
+			window.love_compressed_mode = ("True" === "True");
+			window.love_cb = "9f42f50";
+
+			// pollyfill for old browsers
+			if(!window.console) {
+				window.console = {
+					log : function(){}
+				};
+			}
+		</script>
+
+		<script type="text/javascript">
+	var google_tag_params = {
+		hrental_id: null,
+		hrental_pagetype: null
+	};
+</script>
+
+		
+
+		
+			<script type="text/javascript" src="/static/js/fedapp/bowser.noamd.js?cb=9f42f50"></script>
+		
+		<script type="text/javascript" src="/static/js/d4a8df1efb39.js"></script>
+		
+	
+		
+
+<script type="text/javascript">
+	/****
+	 * We place a single object on the page to colelct analytics while the page is loading, this is even before Modularizer loads our libraries
+	 */
+	window.LovePerformance = {
+		reports:[],
+		/****
+		 * start a time and create a callback which will end the count since its creation and file that away
+		 * for reporting later
+		 * @returns {Function}
+		 */
+		time:function(key){
+			var start = (new Date()).getTime(),
+					loveperf = this;
+			return function(){
+				var time = (new Date()).getTime() - start;
+				loveperf.report([key,"KPITIMER",time]);
+			};
+		},
+		report:function(eventToReport){
+			if(typeof eventToReport === 'undefined') {
+				if(this.reports) {
+					for(var index = 0; index < this.reports.length;index++) {
+						$(document).trigger("KPI:" + this.reports[index][0],this.reports[index].splice(1));
+					}
+					// mark report caching as false so next time it'll be reported directly to KPIs
+					this.reports = false;
+				}
+			} else {
+				if(this.reports) {
+					// analytics haven't been init yet, cache report for later
+					this.reports.push(eventToReport);
+				} else {
+					$(document).trigger("KPI:" + eventToReport[0],eventToReport.splice(1));
+				}
+			}
+		}
+	};
+
+	/****
+	 * Globals object to pass vars to the client side
+	 */
+	Love.define('App.Config.Globals',[],function(){
+		var useCORS = false;
+
+		var props = {
+			CurrentUser:{
+				Flags:{
+					'legacy_search': false
+				}
+			},
+			STATIC_IMAGES_URL: '//static.loveholidays.com/images/',
+			"TM" : {
+				"channel_mobile_num" : '0161 372 8110',
+				"channel_num" : '0800 215 5900'
+			},
+			"media_url": 'http://static.loveholidays.com.global.prod.fastly.net//images/',
+			"STATIC_URL" : "/static/",
+			"templates-src" : (useCORS? "/static/" : "/static/") + "app-js/app/templates/templates.html",
+			"OnExitPopup" : {
+				"NotTheHotel" : function(){return (TM && TM.AB && TM.AB.OnExitPopup && TM.AB.OnExitPopup.NotTheHotel? true : false); },
+				"Coupon" : function(){return (TM && TM.AB && TM.AB.OnExitPopup && TM.AB.OnExitPopup.Coupon? true : false); }
+			},
+			"OnEventPopup" : {
+				"NotTheHotelHeader" : function(){return (TM && TM.AB && TM.AB.OnEventPopup && TM.AB.OnEventPopup.NotTheHotelHeader? true : false); }
+			},
+			// Hash keys we wish to treat as sticky and transferable from page to page
+			StickyFragments : ['r','state'],
+			StickyQuery : ['alltabs']
+		};
+
+		if(TM && TM.AB && TM.AB.CouponCode) {
+			props.CouponCode = TM.AB.CouponCode;
+		}
+
+		
+			props.ENVIRONMENT =  'prod';
+		
+		if(!props.ENVIRONMENT || props.ENVIRONMENT === 'local') {
+			// treat local env as Dev env
+			props.ENVIRONMENT = 'dev';
+		}
+
+		
+		if(props.state) {
+			// the old landing pages still need a hidden input field with the state in them - add one
+			/****
+			 * Gidi 30.7.14
+			 * This is a horrible piece of code.
+			 * Basically, the old legacy components (such as listings on http://www.loveholidays.com/holidays/majorca-holidays.html) require
+			 * a hidden input field which contains the prepopulated state, for the nav-state.js component.
+			 * We create it whenever a hard coded state is passed from the django side.
+			 * ONCE ALL LEGACY CODE IS DEAD you should remove this code.
+			 ****/
+			(function(){
+				var currentStateEncoded = $("#currentStateEncoded");
+				if(!currentStateEncoded.length) {
+					currentStateEncoded = $('<input type="hidden" id="currentStateEncoded"></input>').appendTo($('body'));
+				}
+				currentStateEncoded.val(props.state);
+			})();
+			/***
+			 * End of horrible block
+			 ****/
+		}
+
+		if(window.TM && window.TM.AB && window.TM.AB.defaultBasestate) {
+			props.defaultBasestate = window.TM.AB.defaultBasestate;
+		}
+
+		return props;
+	});
+
+	/***
+	 * Init the analytics and logging engines
+	 */
+	Love.require(['Engine.Analytics', 'Engine.Log','Engine.Error'], function (Analytics, Logger, o_O) {
+		Logger.initialize();
+		Analytics.initialize(function(){
+			// require the analytics just to make sure its all setup before reporting all the timers
+			if(window.LovePerformance) {
+				window.LovePerformance.report();
+			}
+		});
+	});
+</script>
+		
+	<script type="text/javascript">
+		Love.define('App.Config.Page',[],function(){
+			return {
+				"page" : {
+					name: "Support",
+					controller: "Controller.Support"
+				}
+			};
+		});
+	</script>
+
+	</head>
+	<body data-authenticated="0" class="
+		
+		
+			select2-enabled
+		
+			dest-picker-resort
+			select2-search-disabled
+	">
+		
+
+		
+
+		<div id="masthead-background"></div>
+
+		<!--[if IE 7]> <div id="page" class="no-js ie7 main-width"> <![endif]-->
+		<!--[if IE 8]> <div id="page" class="no-js ie8 main-width"> <![endif]-->
+		<!--[if IE 9]> <div id="page" class="no-js ie9 main-width"> <![endif]-->
+		<!--[if gt IE 9]><!-->
 
 
-        
+		<div id="page" class="no-js main-width">
+		<!--<![endif]-->
+			<div id="masthead">
+				<div id="main-nav">
 
-        <title>
-    
-        loveholidays.com privacy policy
-    
-</title>
-        
-        
-    <link rel="stylesheet" type="text/css" href="http://static.loveholidays.com/css/static.b1e8bba2.css">
+					<a href="/" title="loveholidays.com Home" id="main-logo">loveholidays.com</a>
+
+					
+						<div class="icons">
+							
+							<div class="masthead-badge verisign-secured">
+								<a href="/book-with-confidence.html" target="_blank">
+									<span class="icon-badge"></span>
+									<span class="masthead-label">
+										VeriSign Secured
+									</span>
+								</a>
+							</div>
+							<div class="masthead-badge atol-protected">
+								<a href="/book-with-confidence.html" target="_blank">
+									<span class="icon-badge"></span>
+									<span class="masthead-label">
+										ATOL Protected
+									</span>
+								</a>
+							</div>
+							<div class="masthead-badge abta-member">
+								<a href="/book-with-confidence.html" target="_blank">
+									<span class="icon-badge"></span>
+									<span class="masthead-label">
+										ABTA Member
+									</span>
+								</a>
+							</div>
+							<div class="masthead-badge monthly-payments">
+								<a href="/spread-the-cost-holidays.html" target="_blank">
+									<span class="icon-badge"></span>
+									<span class="masthead-label">
+										Monthly Payments
+									</span>
+								</a>
+							</div>
+							<div class="masthead-badge price-match">
+								<a href="/lowest-price-promise.html" target="_blank">
+									<span class="icon-badge"></span>
+									<span class="masthead-label">
+										Price Match
+									</span>
+								</a>
+							</div>
+						</div>
+					
 
 
-    </head>
-    <body class="main-bg ">
+					<ul class="tab-container tab-container-masthead">
+						
+						<li class="tab tab-masthead">
+							<a class="" href="/" title="loveholidays.com Home">
+								Home
+							</a>
+						</li>
+						<li class="tab tab-masthead">
+							<a href="/holidays/">
+								Holidays
+							</a>
+						</li>
+						<li class="tab tab-masthead">
+							<a href="/late-holiday-deals.html">
+								Late Deals
+							</a>
+						</li>
+						<li class="tab tab-masthead">
+							<a href="/about-us.html">
+								About us
+							</a>
+						</li>
+						<li class="tab tab-masthead">
+							<a href="/book/manage-my-booking.html">
+								<img src="/static/img/tag.png" alt="">
+								My Booking
+							</a>
+						</li>
+						
+					</ul>
 
+					
+					<div class="masthead-support">
+						
+							<div class="masthead-breadcrumb">
+								
+							</div>
+							
+								
+									<a href="/accounts/login/?next=/privacy-policy.html">Login</a> |
+								
 
-    <div id="page" class="main-width">
-        <div id="masthead">
-            <div id="main-nav">
-                <a href="/" title="loveholidays.com Home" id="main-logo">loveholidays.com</a>
-                <div id="mast-promise"><a href="/lowest-price-promise.html" target="_blank">Lowest price promise - Money Back Guarantee</a></div>
-                <div id="mast-accred"><a href="/book-with-confidence.html" target="_blank">Government backed holiday protection from ABTA: No. L9345 - Verisign secured</a></div>
-                <div id="mast-phone">
-                    <span class="call-centre-number masthead-call-centre-number"><span class="channel_number">0800 215 5900</span></span>
-                    <span class="call-centre-number call-centre-number-mobile masthead-call-centre-number">0161 360 2080</span><br>
-                    <span class="call-centre-number masthead-call-centre-number-no-image">After Sales: 0844 568 9000</span>
-                </div>
-                <ul class="tab-container tab-container-masthead">
-                    <li class="tab tab-masthead"><a href="/" title="loveholidays.com Home">Home</a></li>
-                    <li class="tab tab-masthead"><a href="/holidays/">Holidays</a></li>
-                    <li class="tab tab-masthead"><a href="/offers/?tab=sales#state=AQoUKFAAoKGH8QIAAA">Sale</a></li>
-                    <li class="tab tab-masthead"><a href="/offers/?tab=late#state=AQoUKFAAoKGIAQIAAA">Late Deals</a></li>
-                    <li class="tab tab-masthead selected"><a href="/about-us.html">About us</a></li>
-                    <li class="tab tab-masthead"><a href="/customer-services/">Contact</a></li>
-                    
-                </ul>
-                <div class="masthead-support">
-                    <div class="masthead-breadcrumb">
-                    <p id="breadcrumb"><a href="http://www.loveholidays.com">Home</a> &gt; <b>Privacy policy</b></p>
-                    </div>
-                    <a href="/customer-services/">Customer Support</a> |
-                    <a rel="nofollow" href="http://haystravel.whoson.com/chat/chatstart.htm?domain=www.loveholidays.com" class="popout" onclick="javascript:window.open('http://haystravel.whoson.com/chat/chatstart.htm?domain=www.loveholidays.com','new_win','width=484,height=361');return false;">Live Help</a> |
-                    <a data-rel="opening-times-help" class="open-tooltip">Call Centre times</a>
-                    <div id="opening-times-help" class="tooltip tooltip-small" data-topoffset="-42" data-leftoffset="-330">
-                        <div class="tooltip-header">
-                            <h1 class="tooltip-heading">Call Centre times</h1>
-                            <a class="tooltip-closer" href="#">Close</a>
-                        </div>
-                        <div class="tooltip-content">
-                            <p>
-                                Monday-Friday 9am to 10pm<br>
-                                Saturday 9am to 8pm<br>
-                                Sunday 10am to 8pm<br>
-                                Bank Holidays 10am to 8pm
-                            </p>
-                            <p>
-                                Calls to 0800 numbers are normally free of charge from landlines but charges may
-                                apply from mobile phones; calls to 01 numbers from mobile phones are often included
-                                in your inclusive minutes.
-                            </p>
-                        </div>
-                        <span class="tooltip-arrow tooltip-arrow-right"></span>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    
+								<a href="/customer-services/">
+									Customer Support
+								</a>
+								|
+								
+
+								<span class="opening-times-help" rel="popover" data-title="Call Centre times" data-placement="bottom" data-animation="true" data-content-selector="#opening-times-help" data-html="true">Call Centre times</span>
+
+								<div id="opening-times-help" class="popover-hidden-content">
+									<div class="opening-times-help">
+										
+										<p class="call-center-times">
+											
+											Monday-Friday 8am to 11pm<br>
+											
+											Saturday 8am to 10pm<br>
+											
+											Sunday 9am to 10pm<br>
+											
+											Bank Holidays 10am to 11pm<br>
+											
+										</p>
+										<p>
+											Calls to 0800 numbers are normally free of charge from landlines but charges may
+											apply from mobile phones; calls to 01 numbers from mobile phones are often included
+											in your inclusive minutes.
+										</p>
+									</div>
+								</div>
+							
+						
+					</div>
+					
+					
+				</div>
+			</div>
+
+			
     <div id="gatherer" class="default-padding">
 
         
 
         
-    <div id="content">
-        <div class="default-padding alt-bg">
-            <div class="header light-highlight">
-                <h1 class="heading">Privacy policy</h1>
-            </div>
-            <div class="header-content default-padding">
-                <div class="content-area">
-                <h1 class="heading large-heading">loveholidays.com takes your privacy seriously</h1>
-<h2 class="heading">PERSONAL INFORMATION</h2>
-<p>
-	Any personal information you provide to us including and similar to your name, address, telephone number and
-	e-mail address will not be released, sold, or rented to any entities or individuals outside of Hays Travel Ltd
-	trading as loveholidays.com except where required by us to process your booking and to ensure that your travel
-	arrangements run smoothly and meet your requirements we need to use the information you provide such as name,
-	address, any special needs/dietary requirements etc. Our representatives may sometimes follow up, either by
-	e-mail, phone, fax or mail, to people who have registered their details and we may periodically send promotional
-	e-mail about new products, special offers or other information which we think you may find interesting using
-	the e-mail address which you have provided.
-</p>
-<p>
-	We take full responsibility for ensuring that proper security measures are in place to protect your information. We
-	must pass the information on to the relevant suppliers of your travel arrangements such as your tour operator,
-	airlines, hotels, transport companies etc. The information may also be provided to security or credit checking
-	companies, public authorities such as customs/immigration if required by them, or as required by law.
-</p>
-<p>
-	Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your
-	destination may not be as strong as the legal requirements in this country. We will not however, pass any information
-	onto any person not responsible for part of your travel arrangements. This applies to any sensitive information that
-	you give to us such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this
-	information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking. In making this booking,
-	you consent to this information being passed on to the relevant persons.)
-</p>
-<p>
-	Usually your tour operator or other principal will pass this information onto their suppliers once we have provided it to
-	them. The tour operator or other principal's use of your information is subject to their policy, both in respect of your
-	booking and any future marketing, and is their responsibility. Please ask either us or them for a copy of this if you would
-	like to see it.
-</p>
+	<div id="content">
+		<h2 class="heading default-margin">About Us</h2>
 
-<h2 class="heading">CREDIT &amp; DEBIT CARD DETAILS</h2>
-<p>
-	All credit card information and personal information is encrypted as it is passed between your browser and our website. When
-	you make a booking your initial payment is cleared using the information you provide. Your credit card number is not held in
-	our database. All encryption is performed using at least 128 bits making it virtually impossible to decrypt without the necessary
-	decryption key.
-</p>
+		<img src="/static/img/about-us-header.jpg" style="margin: 10px 0; width: 100%;">
 
-<h2 class="heading">MONITORING</h2>
-<p>
-	To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may
-	monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises;
-	and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property.
-</p>
+		<ul class="tab-container">
+			<li class="tab tab-masthead " style="margin-left: 10px;"><a href="/about-us.html">About Us</a></li>
+			<li class="tab tab-masthead "><a href="/customer-services/">Contact Us</a></li>
+			<li class="tab tab-masthead selected"><a href="/privacy-policy.html">Privacy</a></li>
+			<li class="tab tab-masthead "><a href="/terms-and-conditions.html">T&amp;C's</a></li>
+			<li class="tab tab-masthead "><a href="/feedback/">Feedback</a></li>
+			<li class="tab tab-masthead ">
+				<a href="/lowest-price-promise.html">
+					Price Match Guarantee
+				</a>
+			</li>
+			<li class="tab tab-masthead "><a href="/PR.html">PR</a></li>
+			<li class="tab tab-masthead "><a href="/jobs.html">Jobs</a></li>
+		</ul>
 
-<h2 class="heading">OTHER WEBSITES</h2>
-<p>
-	Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to
-	leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the
-	protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy
-	Statement. You should exercise caution and look at the Privacy Statement applicable to the website in question.
-</p>
+		<div class="default-padding alt-bg">
+			<div class="header-content default-padding">
+				<div class="content-area">
+					
+	<div class="in-this-section wide">
+		<h3>In this section</h3>
+		<ul>
+			<li><a href="#cards">Credit and Debit card details</a></li>
+			<li><a href="#monitoring">Monitoring</a></li>
+			<li><a href="#other-websites">Other websites</a></li>
+			<li><a href="#cookies">Cookies</a></li>
+		</ul>
+		<div class="clearBoth"></div>
+	</div>
 
-<h2 class="heading">COOKIES</h2>
-<p>
-	A "cookie" is a small data text file that is placed in your browser and allows loveholidays.com to recognise you each time you visit this
-	site (customisation etc). Cookies themselves do not contain any personal information, and loveholidays.com does not use cookies to collect
-	personal information. Cookies may also be used to pass information between websites owned by loveholidays.com.
-</p>
+	<img src="/static/img/AboutUs-Bookwithconfidence.gif" style="float: left; margin-right: 10px;  margin-bottom: 10px;">
 
-<p>
-	You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for
-	providing this to you].
-</p>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="right-side">
+		<h2 class="heading large-heading">loveholidays.com takes your privacy seriously</h2>
+		<p>
+			Any personal information you provide to us including and similar to your name, address, telephone number and
+			e-mail address will not be released, sold, or rented to any entities or individuals outside of Hays Travel Ltd
+			trading as loveholidays.com except where required by us to process your booking and to ensure that your travel
+			arrangements run smoothly and meet your requirements we need to use the information you provide such as name,
+			address, any special needs/dietary requirements etc. Our representatives may sometimes follow up, either by
+			e-mail, phone, fax or mail, to people who have registered their details and we may periodically send promotional
+			e-mail about new products, special offers or other information which we think you may find interesting using
+			the e-mail address which you have provided.
+		</p>
+		<p>
+			We take full responsibility for ensuring that proper security measures are in place to protect your information. We
+			must pass the information on to the relevant suppliers of your travel arrangements such as your tour operator,
+			airlines, hotels, transport companies etc. The information may also be provided to security or credit checking
+			companies, public authorities such as customs/immigration if required by them, or as required by law.
+		</p>
+		<p>
+			Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your
+			destination may not be as strong as the legal requirements in this country. We will not however, pass any information
+			onto any person not responsible for part of your travel arrangements. This applies to any sensitive information that
+			you give to us such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this
+			information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking. In making this booking,
+			you consent to this information being passed on to the relevant persons.)
+		</p>
+		<p>
+			Usually your tour operator or other principal will pass this information onto their suppliers once we have provided it to
+			them. The tour operator or other principal's use of your information is subject to their policy, both in respect of your
+			booking and any future marketing, and is their responsibility. Please ask either us or them for a copy of this if you would
+			like to see it.
+		</p>
 
+		<h2 class="heading" id="cards">CREDIT &amp; DEBIT CARD DETAILS</h2>
+		<p>
+			All credit card information and personal information is encrypted as it is passed between your browser and our website. When
+			you make a booking your initial payment is cleared using the information you provide. Your credit card number is not held in
+			our database. All encryption is performed using at least 128 bits making it virtually impossible to decrypt without the necessary
+			decryption key.
+		</p>
 
-        
-    <div id="ancillary">
-        <div class="module default-padding dark-highlight">
-            <h2 id="useful-links" class="heading image-replace-heading">Your useful links!</h2>
-            <div class="body">
-                <ul class="link-list">
-                    
-                        <li><a href="http://www.loveholidays.com/customer-services/">Customer support</a></li>
-                        <li><a href="http://www.loveholidays.com/feedback/">Site feedback</a></li>
-                    
-                    
-                        
-                            <li><a href="http://www.loveholidays.com/about-us.html">About Us</a></li>
-                        
-                    
-                        
-                            <li class="current">» Privacy policy</li>
-                        
-                    
-                        
-                            <li><a href="http://www.loveholidays.com/terms-and-conditions.html">Terms and conditions</a></li>
-                        
-                    
-                        
-                            <li><a href="http://www.loveholidays.com/lowest-price-promise.html">Lowest Price Promise</a></li>
-                        
-                    
-                        
-                            <li><a href="http://www.loveholidays.com/affiliate.html">Our Affiliate Programme</a></li>
-                        
-                    
-                </ul>
-            </div>
-        </div>
+		<h2 class="heading" id="monitoring">MONITORING</h2>
+		<p>
+			To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may
+			monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises;
+			and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property.
+		</p>
 
-        
+		<h2 class="heading" id="other-websites">OTHER WEBSITES</h2>
+		<p>
+			Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to
+			leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the
+			protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy
+			Statement. You should exercise caution and look at the Privacy Statement applicable to the website in question.
+		</p>
 
+		<h2 class="heading" id="cookies">COOKIES</h2>
+		<p>
+			A "cookie" is a small data text file that is placed in your browser and allows loveholidays.com to recognise you each time you visit this
+			site (customisation etc). Cookies themselves do not contain any personal information, and loveholidays.com does not use cookies to collect
+			personal information. Cookies may also be used to pass information between websites owned by loveholidays.com.
+		</p>
+
+		<p>
+			You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for
+			providing this to you].
+		</p>
+	</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
 
 
         
-    </div>
+	<div id="ancillary">
+		<div id="generic-search-module" class="generic_search loading"></div>
+		<br>
+		<div class="module default-padding dark-highlight">
+			<h2 class="heading">Useful links:</h2>
+			<div class="body">
+				<ul class="link-list">
+					<li><a href="/customer-services/">Customer support</a></li>
+					<li><a href="/feedback/">Site feedback</a></li>
+					<li><a href="/about-us.html">About Us</a></li>
+					<li><a href="/privacy-policy.html">Privacy policy</a></li>
+					<li><a href="/terms-and-conditions.html">Terms and conditions</a></li><a href="/terms-and-conditions.html">
+					</a><li><a href="/terms-and-conditions.html"></a><a href="/lowest-price-promise.html">Price Match Guarantee</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
 
+		
+		<div class="clearBoth"></div>
     </div>
 
     
@@ -224,118 +532,151 @@
         
     
 
-    </div>
 
+			
+			<div class="clearBoth"></div>
+		</div>
 
-        
-            
+		
+			
+
 
 <div class="standard-footer main-width">
+	<div id="reviews">
+		<div class="testimonial">
+			<div>
+				<span>LoveHolidays gave us a ridiculously cheap price for such an incredible hotel - I'm 99% sure we paid less than everyone else staying there!</span>
+				<div class="authorandrating">
+					<p><span class="star-rating star5">&nbsp;</span></p>
+					<span>Niamh, London</span>
+					<div>
+						<meta>
+						(<span>5</span>/<span>5</span>)
+					</div>
+				</div>
+			</div>
+		</div>
 
-      <div id="reviews">
-      <div class="testimonial">
-        <div>
-          <span>Very helpful!!!!! They were willing to help &amp; happy to explain in detail the options available, and cost. I found the experience refreshing, and am now all booked and paid for. Thank you. X</span>
-          <div class="authorandrating">
-              <p><span class="star-rating star5">&nbsp;</span></p>
-            <span>Caroline, United Kingdom</span>
-            <div>
+		<div id="trust-pilot">
+			<p class="tplogo">
+				<a href="http://www.trustpilot.co.uk/review/www.loveholidays.com" rel="nofollow" target="_blank">
+					Trust<span>Pilot</span>
+				</a>
+			</p>
+			<p>
+				Independent customer reviews.
+				<a href="http://www.trustpilot.co.uk/review/www.loveholidays.com" rel="nofollow" target="_blank">See all reviews</a>
+			</p>
+			<a href="http://www.trustpilot.co.uk/review/www.loveholidays.com" rel="nofollow" target="_blank">
+				<div id="review-stars" class="fourstar">5 star rating</div>
+			</a>
+			<p>
+				<span>
+					<span class="rating">
+						<span>8.7</span> / <span>10</span>
+				</span>
+			</span></p>
+			<p class="small">
+				<span class="noreviews">
+					<span>610</span> customer reviews</span>
+				
+			</p>
+		</div>
 
-              (<span>5</span>/<span>5</span>)
-            </div>
-          </div>
-        </div>
-      </div>
-      <div id="trust-pilot">
-        <a href="/bounce/?url=http://www.trustpilot.co.uk/review/www.loveholidays.com" rel="nofollow" target="_blank"><div class="tplogo"></div></a>
-        <p>Independent customer reviews. <a rel="nofollow" target="_blank" href="/bounce/?url=http://www.trustpilot.co.uk/review/www.loveholidays.com">See all reviews</a></p>
-        <a rel="nofollow" target="_blank" href="/bounce/?url=http://www.trustpilot.co.uk/review/www.loveholidays.com"><div id="review-stars" class="fourstar">4 star rating</div></a>
-        <div>
-          <span>
-            <span class="rating"><span>8.9</span>/<span>10</span></span>
-            </span>
-            <span class="noreviews"><span>30</span> reviews</span>
-        </div>
-      </div>
-      <div class="testimonial">
-          <div>
-            <span>Our group found a really good holiday that was cheaper than Thomson themselves.. we had absolutely no worries with the hotel and all went to plan!!! Well done , great job !!! will be back again!</span>
-            <div class="authorandrating">
-                <p><span class="star-rating star5">&nbsp;</span></p>
-              <span>Simon, United Kingdom</span>
-              <div>
-                (<span>5</span>/<span>5</span>)
-              </div>
-            </div>
-          </div>
-      </div>
-    </div>
+		<div class="testimonial">
+			<div>
+				<span>Absolutely fantastic, lovely call centre staff and fabulous prices, This is coming from a member of staff that works for a leading high street agent....ssssh</span>
+				<div class="authorandrating">
+					<p><span class="star-rating star5">&nbsp;</span></p>
+					<span>Chloe, Northampto</span>
+					<div>
+						<meta>
+						(<span>5</span>/<span>5</span>)
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
-    <div class="footer-section footer-section-links default-padding">
-        <div class="footer-booking">
-            <div class="footer-numbers">
-                <div class="footer-number">
-                    <p class="footer-number-label">To make a Booking:</p>
-                    <p class="call-centre-number call-centre-number-pod"><span class="channel_number">0800 215 5900</span></p>
-                </div>
 
-                <div class="footer-number">
-                    <p class="footer-number-label">After Sales Contact:</p>
-                    <p class="call-centre-number call-centre-number-pod"><span>0844 568 9000</span></p>
-                </div>
-            </div>
+	<div class="footer-tabs" id="footer-tabs">
+		
 
-            <p class="footer-text footer-text-booking">
-                Calls to 0800 numbers are normally free of charge from landlines but charges may apply from mobile
-                phones; calls to 01 numbers from mobile phones are often included in your inclusive minutes. Calls
-                to 0844 numbers will be charged at 5p per minute from BT Landlines. Calls from mobiles and other
-                networks may vary.
-            </p>
-        </div>
+		
+		
 
-        <div class="footer-links">
-            <ul class="footer-links-list">
-                <li><a href="/faq/">FAQ's</a></li>
-                <li><a href="/terms-and-conditions.html">Terms &amp; conditions</a></li>
-                <li><a href="/customer-services/">Contact us</a></li>
-                <li><a href="/about-us.html">About us</a></li>
-            </ul>
+		<div id="footer-content-information" class="">
+			<div class="footer-section footer-section-links default-padding">
+				<div class="footer-booking">
+					<div class="footer-numbers">
+						
+							<div class="footer-number">
+								<p class="footer-number-label">To make a Booking:</p>
+								<p class="call-centre-number call-centre-number-pod">
+									<span>0800 215 5900</span>
+								</p>
+							</div>
+						
+						
+							<div class="footer-number">
+								<p class="footer-number-label">After Sales Contact:</p>
+								<p class="call-centre-number call-centre-number-pod"><span>0333 033 9995</span></p>
+							</div>
+						
+					</div>
 
-            <ul class="footer-links-list">
-                <li><a href="/feedback/">Feedback</a></li>
-                
-                <li><a href="/privacy-policy.html">Privacy policy</a></li>
-                
-                <li class="footer-link-lpp"><a href="/lowest-price-promise.html">Lowest price promise</a></li>
-                <li><a href="/affiliate.html">Affiliates</a></li>
-                
-                
-            </ul>
+					
+						<p class="footer-text footer-text-booking">
+							Calls to 0800 numbers are normally free of charge from landlines but charges may apply from mobile phones.
+							Calls to 03 numbers cost no more than a national rate call to an 01 or 02 number and must count towards any inclusive minutes in the same way as 01 and 02 calls. Calls to 0844 numbers will be charged at 5p per minute from BT Landlines.
+						</p>
+						
+				</div>
 
-            <ul class="footer-links-list">
-                <li class="share-icon-facebook"><a target="_blank" rel="nofollow" href="http://www.loveholidays.com/bounce/?url=http://www.facebook.com/loveholidays"><span class="share-icon"></span>Facebook</a></li>
-                <li class="share-icon-twitter"><a target="_blank" rel="nofollow" href="http://www.loveholidays.com/bounce/?url=https://twitter.com/loveholidays_"><span class="share-icon"></span>Twitter</a></li>
-                <li class="share-icon-gplus"><a target="_blank" rel="nofollow" href="http://www.loveholidays.com/bounce/?url=http://www.gplus.to/loveholidays"><span class="share-icon"></span>Google +</a></li>
-            </ul>
-        </div>
-    </div>
+				<div class="footer-links">
+					<ul class="footer-links-list">
+						<li><a href="/faq/">FAQ's</a></li>
+						<li><a href="/terms-and-conditions.html">Terms &amp; conditions</a></li>
+						<li><a href="/customer-services/">Contact us</a></li>
+						<li><a href="/about-us.html">About us</a></li>
+						<li class="cookies"><a href="/privacy-policy.html#cookies">Use of Cookies</a></li>
+					</ul>
 
-    <div class="footer-section footer-section-trust">
+					<ul class="footer-links-list">
+						<li><a href="/feedback/">Feedback</a></li>
+						<li><a href="/privacy-policy.html">Privacy policy</a></li>
+						<li class="footer-link-lpp"><a href="/lowest-price-promise.html">Price Match Guarantee</a></li>
+						<li><a href="/spread-the-cost-holidays.html">Payment Options</a></li>
+						<li><a href="/affiliate.html">Affiliates</a></li>
+					</ul>
 
-        <div class="footer-price-promise"><a href="/lowest-price-promise.html"><img src="http://static.loveholidays.com/img/core/footer/price-seal.png" alt="Lowest price promise" width="76" height="76"></a></div>
+					<ul class="footer-links-list">
+						
+						<li class=""><a target="_blank" rel="nofollow" href="http://www.facebook.com/loveholidays">Facebook</a></li>
+						<li class=""><a target="_blank" rel="nofollow" href="https://twitter.com/loveholidays">Twitter</a></li>
+						<li class=""><a target="_blank" rel="nofollow" href="https://plus.google.com/+Loveholidaysltd/posts">Google+</a></li>
+						<li class=""><a target="_blank" rel="nofollow" href="http://www.pinterest.com/loveholidays/">Pinterest</a></li>
+						<li class=""><a target="_blank" rel="nofollow" href="/blog/">Blog</a></li>
+					</ul>
+				</div>
+			</div>
 
-        <ul class="footer-trust-logos">
-            <li class="trust-logo trust-logo-abta">ABTA: ABTA Number L9345</li>
-            <li class="trust-logo trust-logo-verisign">Verisign Secured</li>
-            <li class="trust-logo trust-logo-atol">ATOL Protected</li>
-        </ul>
+			<div class="footer-section footer-section-trust">
 
-        <form id="footer-email" action="">
-            <input id="footer-email-input" name="email" value="">
-            <button class="call-to-action" id="footer-email-send">Send</button>
-        </form>
+			<div class="footer-price-promise"><a href="/lowest-price-promise.html"><img src="/static/img/core/footer/price-seal.png" alt="Lowest price promise" width="76" height="76"></a></div>
 
-        <ul class="payment-methods">
+				<ul class="footer-trust-logos">
+					<li class="trust-logo trust-logo-abta">ABTA: ABTA Number L9345</li>
+					<li class="trust-logo trust-logo-verisign">Verisign Secured</li>
+					<li class="trust-logo trust-logo-atol">ATOL Protected</li>
+				</ul>
+
+				<form id="footer-email" action="">
+					<input id="footer-email-input" name="email" value="">
+					<button class="call-to-action" id="footer-email-send">Send</button>
+				</form>
+
+				<ul class="payment-methods">
     <li class="payment-method visa">Visa</li>
     <li class="payment-method mastercard">MasterCard</li>
     <li class="payment-method amex">American Express</li>
@@ -346,72 +687,297 @@
 </ul>
 
 
-        <p class="footer-text footer-text-trust">
-            The air holiday packages shown are ATOL Protected by the Civil Aviation Authority, as we act as an
-            agent for licensed tour operators. The names and ATOL numbers of these tour operators are displayed
-            with each holiday shown. Please see our <a class="offsite" href="/terms-and-conditions.html">terms and conditions</a> for more information.
-            © 2012 loveholidays.com
-        </p>
+				<p class="footer-text footer-text-trust">
+					The air holiday packages shown are ATOL Protected by the Civil Aviation Authority, as we act as an agent for licensed tour operators. The names and ATOL numbers of
+					these tour operators are displayed with each holiday shown.
 
-    </div>
+					Please see our <a class="offsite" href="/terms-and-conditions.html">terms and conditions</a> for more information.
+					<a href="/html-sitemap/sitemap.html">Click here to view full site map.</a>
+					© 2014 loveholidays.com
+				</p>
+			</div>
+		</div>
+
+		
+	</div>
+
+	<div class="footer-section footer-section-ref default-padding">
+		
+		<p>
+			
+				For new bookings quote reference ID: <span class="ref">
+					REF53XHWL
+				</span>
+			
+			
+		</p>
+	</div>
 </div>
 
-        
+		
 
-        <script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/5742n812243.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.loveholidays.com/js/base.6e7d3cb0.js"></script>
+		<script type="text/javascript">
+			window.TM = window.TM || {};
 
+			TM.newuser = 0;
 
-        
-        
+			TM.static_url = '/static/';
+			TM.media_url = 'http://static.loveholidays.com.global.prod.fastly.net//images/';
 
+			TM.channel = 'default';
+			TM.phone_enabled = '800';
+			TM.channel_num = '0800 215 5900';
+			TM.channel_mobile_num = '0161 372 8110';
+			TM.board_basis = {
+    "FP": {
+        "name": "Full board plus",
+        "prio": 7
+    },
+    "HB": {
+        "name": "Half board",
+        "prio": 4
+    },
+    "FB": {
+        "name": "Full board",
+        "prio": 6
+    },
+    "AI": {
+        "name": "All inclusive",
+        "prio": 8
+    },
+    "DH": {
+        "name": "Deluxe Half Board",
+        "prio": 5
+    },
+    "BB": {
+        "name": "Bed & Breakfast",
+        "prio": 3
+    },
+    "SC": {
+        "name": "Self catering",
+        "prio": 2
+    },
+    "RO": {
+        "name": "Room only",
+        "prio": 1
+    }
+};
+			TM.fromInternalLink =  false; 
+			TM.millisecsInDay = 86400000;
+			
+			TM.SEOMode = true;
 
-        <script type="text/javascript" src="http://static.loveholidays.com/js/base-end.fd04e0fa.js"></script>
+			
 
+			TM.select2Opts = {};
 
-        
-        
-        <!-- begin Google Tracking Script -->
-        <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-27821669-1']);
-            _gaq.push(['_setDomainName', 'loveholidays.com']);
-            _gaq.push(['_trackPageview']);
-            _gaq.push(['_setDetectFlash', false]);
-            
-            (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-            })();
-        </script>
+			var dataLayer = dataLayer || [];
+		</script>
 
-        <!-- BEGIN: Marin Software Tracking Script -->
-        <script type="text/javascript">
-            var _mTrack = _mTrack || [];
-            _mTrack.push(['trackPage']);
+		<!--[if lte IE 7]> <script type="text/javascript" src="/static/src-js/json2.js"></script> <![endif]-->
 
-            (function() {
-                var mClientId = '5742n812243';
-                var mProto = ('https:' == document.location.protocol ? 'https://' : 'http://');
-                var mHost = 'tracker.marinsm.com';
-                var mt = document.createElement('script'); mt.type = 'text/javascript'; mt.async = true; mt.src = mProto + mHost + '/tracker/async/' + mClientId + '.js';
-                var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBefore(mt, fscr);
-            })();
-        </script>
-        <!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
-        
-
-        <script type="text/javascript" src="http://haystravelgw.whoson.com/include.js?domain=www.loveholidays.com"></script>
-        <script type="text/javascript">
-            sWOResponse = '';
-            if (typeof sWOTrackPage == 'function')sWOTrackPage();
-        </script>
-        <!-- End of embedded WhosOn -->
-        
-        
+		
+		<script type="text/javascript">
+		(function(){
+  var FLAGS = {
+    'accom_supp': false,'enable_premium_numbers': false,'header_flat_icons': true,'holiday_enquiry_enabled': false,'hotel_detail_hotel_only': false,'legacy_search': false,'new_sliders_facets': true,'remove_main_tab_navigation': false,'select2values': true
+    },
+    SWITCHES = {
+    'dp_sale_of_the_century': true
+    },
+    SAMPLES = {
     
+    };
+  window.waffle = {
+    "flag_is_active": function waffle_flag(flag_name) {
+      
+      return !!FLAGS[flag_name];
+    },
+    "switch_is_active": function waffle_switch(switch_name) {
+      
+      return !!SWITCHES[switch_name];
+    },
+    "sample_is_active": function waffle_sample(sample_name) {
+      
+      return !!SAMPLES[sample_name];
+    },
+    "FLAGS": FLAGS,
+    "SWITCHES": SWITCHES,
+    "SAMPLES": SAMPLES
+  };
+})();
+
+		</script>
+
+		
+		<script type="text/javascript" src="/static/js/c57f8a89dc47.js"></script>
+		
+
+		
+	<script type="text/javascript" src="/static/js/4b1bf66a5fa8.js"></script>
+
+
+		
+		
+			<script type="text/javascript" src="/static/js/a0a6f9b72a3c.js"></script>
+		
+
+
+		<div id="fb-root"></div>
+		<script type="text/javascript">
+			(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=537132909692852";
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<div id="new-overlay-background" class="popupclose"></div>
+
+		<div id="new-bookings" class="popup popupclose">
+			<div class="header popup-header light-highlight">
+				<h3 class="heading modal-heading">New Bookings Contact Details</h3>
+				<a class="modal-closer popupclosebutton">Close</a>
+			</div>
+			<div id="popup-content" style="padding: 10px;">
+				<div class="header-content default-padding">
+					<div id="new-bookings-a">
+						<form action="/book/cc-feedback/" method="post" id="cc-feeback-form">
+							<input type="hidden" name="shortref" value="">
+							<p>We'd love to know why you're calling? Do you need help with your booking, or was there a problem with the site? *</p>
+							<p><input class="text required" type="text" name="why" placeholder="Enter text here"></p>
+							<p class="call-to-action below-trip-summary cc-feedback-submit"><input class="submit" type="submit" value="Show me the telephone number"></p>
+						</form>
+					</div>
+					<div id="new-bookings-b">
+						<p><strong>Thank you for helping us to improve our site!</strong></p>
+						<p>Call a member of our Customer Service Team who will be happy to help!</p>
+
+						
+
+						
+						<div id="phone-numbers" style="width: 280px; float: left; color: #fff; margin-right: 30px;">
+							<p>
+								<strong>
+									Call Centre Numbers:
+										
+											<span class="call-center-open">
+												(Call center is Open)
+											</span>
+										
+								</strong>
+							</p>
+							<div class="call-centre-number call-centre-number-pod ">
+								<span>Phone:
+									
+										0800 2155667
+									
+								</span>
+							</div>
+							<div class="call-centre-number call-centre-number-pod call-centre-number-mobile-pod ">
+								<span>Mobile:
+									0161 3720057
+								</span>
+							</div>
+						</div>
+						<p>
+							<strong>
+								Call Centre Opening Times:
+							</strong>
+						</p>
+						
+						<div class="call-center-times">
+							
+							<p>Monday-Friday 8am to 11pm</p>
+							
+							<p>Saturday 8am to 10pm</p>
+							
+							<p>Sunday 9am to 10pm</p>
+							
+							<p>Bank Holidays 10am to 11pm</p>
+							
+						</div>
+						<div style="clear: both"></div>
+						<p>
+							Calls to 0800 numbers are normally free of charge from landlines but charges may
+							apply from mobile phones; calls to 01 numbers from mobile phones are often included
+							in your inclusive minutes.
+						</p>
+						
+							<div style="clear: both"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+
+		
+
+		
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-438L"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-438L');</script>
+		
+
+		
+		<script type="text/javascript">
+			/***  KPI Analytics  ***/
+			/***
+			 * Since WhosOn loads using document.write it can be bad for out performance - we need to keep track of it.
+			 * Since document.write forces the execusion to halt while its loading the script we can simply start measuring before the tag
+			 * and finish afterwards and then report that number to the KPIs
+			 ***/
+			var WhosOn = window.LovePerformance.time("Performance-Infra-Externals-WhosOn-Load");
+			/***  KPI Analytics  ***/
+		</script>
+		<script type="text/javascript" src="http://haystravelgw.whoson.com/include.js?domain=www.loveholidays.com"></script>
+		<script type="text/javascript">
+			/***  KPI Analytics  ***/
+			WhosOn();
+			/***  KPI Analytics  ***/
+			sWOResponse = '';
+			if (typeof sWOTrackPage == 'function')sWOTrackPage();
+		</script>
+		
+
+		
+			<script type="text/javascript">
+			var __stormJs = 't1.stormiq.com/dcv4/jslib/4904_7D531088_9A64_4186_B079_FF8B26DA6AE7.js';
+			</script>
+			<script type="text/javascript" src="/static/src-js/track.js"></script>
+		
+
+		
+
+
+		<script type="text/javascript" src="/static/js/aa3f9b1b9555.js"></script>
+
+		<script type="text/javascript">
+			customTrack.addCustomParameter('lvhid', '1412862994901');
+			customTrack.addCustomParameter('customer_ref', 'REF53XHWL');
+			customTrack.addCustomParameter('channel', 'default');
+			customTrack.addCustomParameter('remove_main_tab_navigation', false);
+			customTrack.addCustomParameter('new_sliders_facets', true);
+
+			customTrack.addCustomParameter('legacy_search', false);
+
+			
+
+			
+
+			
+
+			
+			
+
+			customTrack.addCustomParameter('is_mobile', false);
+			customTrack.logStoredParameters('iqvisit');
+		</script>
+	
 
 </body></html>
