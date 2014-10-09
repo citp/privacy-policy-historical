@@ -1,0 +1,604 @@
+<!--The following is the downloaded HTML source of the pinshape.com privacy policy that was archived on 2014-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141010001429id_/https%3A//pinshape.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+<meta charset="utf-8">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/0745.js?439009" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//widget.uservoice.com/BfeXBmJQcleIm0OWjsHLw.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"5dd3be2b6a","applicationID":"3980717","transactionName":"cFcKQxYMCllTEEsJXVRQO0ELDxJUUQdLEVVUXRcYFwsJQg==","queueTime":0,"applicationTime":35,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8PV1FXGwAJXFFVBgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>pinshape</title>
+<link href="//static-c.pinshape.com/assets/application-59ba3d5517e1b96f752259f8e82ddf94.css" media="screen" rel="stylesheet">
+<script src="//static-b.pinshape.com/assets/modernizr-197c1de5e8a545851986d5d2fcafafa5.js"></script>
+<script src="//static-f.pinshape.com/assets/modernizration-b56bed077edf61f4a7c3780ca49215a7.js"></script>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="XwyVWN2x24oqWOIwLGyAGjSGKIGczU4qfTUE+rMQjQs=" name="csrf-token">
+
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+</head>
+<body class="pages-controller show-action">
+<div class="off-canvas-wrap" data-offcanvas="">
+<div class="inner-wrap">
+<aside class="right-off-canvas-menu">
+<ul>
+<li>
+<a href="/sign-in">Sign In</a>
+</li>
+<li>
+<a href="/users/sign-up">Sign Up</a>
+</li>
+<li class="off-canvas-divider"></li>
+<li class="off-canvas-cart">
+<a href="/orders/current">Cart
+<span>9</span>
+</a></li>
+<li class="off-canvas-divider"></li>
+<li>
+<a href="/index">Explore</a>
+</li>
+<li>
+<a href="http://forums.pinshape.com">
+Forum
+</a>
+</li>
+<li>
+<a href="/contests">Contests</a>
+</li>
+<li>
+<a class="open-upload-modal" href="/items/new">Upload</a>
+</li>
+</ul>
+</aside>
+
+<nav class="nav-block main-nav-block">
+<nav class="main-navbar">
+<div class="wrap">
+<div class="row">
+<div class="column-10-hand column-4-desk">
+<div class="row">
+<div class="pinshape-logo-wrap">
+<a class="pinshape-logo" href="/index"></a>
+</div>
+<div class="column-auto-hand">
+<form action="/search/items" id="search-bar" method="get" role="search">
+<input class="search small" id="query" name="q" placeholder="Search" type="text" value="">
+</form>
+</div>
+</div>
+</div>
+<div class="column-2-hand column-8-desk align-center">
+<div class="row end-hand">
+<ul>
+<li class="hamburger-collapse">
+<a href="/index">Explore</a>
+</li>
+<li class="hamburger-collapse">
+<a href="http://forums.pinshape.com">
+Forum
+</a>
+</li>
+<li class="hamburger-collapse">
+<a href="/contests">Contests</a>
+</li>
+<li class="hamburger-collapse">
+<a class="button-hollow-prominent upload-button" href="/items/new"><i class="shicon-cloud-files-upload-backup"></i>
+Upload
+</a></li>
+<li class="hamburger-collapse">
+<a href="/sign-in">Sign In</a>
+</li>
+<li class="hamburger-collapse">
+<a href="/users/sign-up">Sign Up</a>
+</li>
+<li class="cart hamburger-collapse">
+<div class="icon-next-to-text">
+<i class="shicon-shopping-cart-store-basket-purchase1"></i>
+<a class="icon-cart" href="/orders/current">Cart
+</a></div>
+</li>
+<li class="hamburger">
+<a class="right-off-canvas-toggle icon-hamburger" href="#">
+Menu
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</nav>
+
+<section class="content">
+<div class="wrap-thinner">
+<h3 class="text-center">
+Pinshape Privacy Policy
+</h3>
+<p class="text-center">
+<em>
+Effective date: November 26, 2014
+</em>
+</p>
+<p>
+Welcome to Pinshape ("Pinshape," "we," "us" or "our"). Pinshape is a 3D printing community, focused on celebrating designs, innovation, and creativity.
+</p>
+<p>
+This Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with Pinshape services (collectively, the "Service"), and the choices you have regarding the&nbsp;collection and use of your information.
+</p>
+<p>
+Our Policy applies to all visitors, users, and others who access the Service ("Users").
+</p>
+<p>
+By using our Service you understand and agree that we are providing a platform for you to post and/or purchase content, including models, and other materials ("User Content"), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy.
+</p>
+<p>
+Click on the links below to jump to each section of this Policy:
+</p>
+<ul class="privacy-nav-list nav nav-stacked">
+<li>
+<a href="#INFORMATION_WE_COLLECT">
+Information We Collect
+</a>
+</li>
+<li>
+<a href="#HOW_WE_USE_YOUR_INFORMATION">
+How We Use Your Information
+</a>
+</li>
+<li>
+<a href="#SHARING_OF_YOUR_INFORMATION">
+Sharing of Your Information
+</a>
+</li>
+<li>
+<a href="#HOW_WE_STORE_YOUR_INFORMATION">
+How We Store Your Information
+</a>
+</li>
+<li>
+<a href="#YOUR_CHOICES_ABOUT_YOUR_INFORMATION">
+Your Choices About Your Information
+</a>
+</li>
+<li>
+<a href="#CHILDRENS_PRIVACY">
+Children's Privacy
+</a>
+</li>
+<li>
+<a href="#OTHER_WEB_SITES_AND_SERVICES">
+Other Websites and Services
+</a>
+</li>
+<li>
+<a href="#HOW_TO_CONTACT_US_ABOUT_A_DECEASED_USER">
+How to Contact Us About a Deceased User
+</a>
+</li>
+<li>
+<a href="#HOW_TO_CONTACT_US">
+How to Contact Us
+</a>
+</li>
+<li>
+<a href="#CHANGES_TO_OUR_PRIVACY_POLICY">
+Changes to Our Privacy Policy
+</a>
+</li>
+</ul>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="INFORMATION_WE_COLLECT" name="INFORMATION_WE_COLLECT"></span>
+<p class="privacy-section-header">
+<a>
+1. Information We Collect
+</a>
+</p>
+<p>
+We collect the following types of information.
+</p>
+<p>
+<strong>
+Information you provide us directly:
+</strong>
+</p>
+<p>
+Your username, password and e-mail address when you register for a Pinshape account.
+</p>
+<p>
+Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows us to help you or other users&nbsp;be "found" on Pinshape.
+</p>
+<p>
+User Content (e.g., models, comments, and other information) that you post to the Service.
+</p>
+<p>
+Communications between you and Pinshape. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+</p>
+<p>
+<strong>
+Finding designers on Pinshape:
+</strong>
+</p>
+<p>
+If you choose, you can use our find designer feature to locate other people with Pinshape accounts either through (i) your contacts list, (ii) third-party social media sites or (iii) through a search of names and usernames on Pinshape.
+</p>
+<p>
+If you choose to find your friends through a (ii) third-party social media site, then you will be prompted to set up a link to the third-party service and you understand that any information that such service may provide to us will be governed by this Privacy Policy.
+</p>
+<p>
+<strong>
+Analytics information:
+</strong>
+</p>
+<p>
+We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+</p>
+<p>
+<strong>
+Cookies and similar technologies:
+</strong>
+</p>
+<p>
+When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use Pinshape and how we provide features to you.
+</p>
+<p>
+We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.
+</p>
+<p>
+More information is available in our "About Cookies" section of this Privacy Policy.
+</p>
+<p>
+<strong>
+Log file information:
+</strong>
+</p>
+<p>
+Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device.
+</p>
+<p>
+When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
+</p>
+<p>
+<strong>
+Device identifiers:
+</strong>
+</p>
+<p>
+When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifier." Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by Pinshape
+</p>
+<p>
+A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+</p>
+<p>
+<strong>
+Metadata:
+</strong>
+</p>
+<p>
+Metadata is usually technical data that is associated with User Content. For example, Metadata can describe how, when and by whom a piece of User Content was collected and how that content is formatted.
+</p>
+<p>
+Users can add or may have Metadata added to their User Content including a hashtag (e.g., to mark keywords when you post a model), comments or other data. This makes your User Content more searchable by others and more interactive.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="HOW_WE_USE_YOUR_INFORMATION" name="HOW_WE_USE_YOUR_INFORMATION"></span>
+<p>
+<a>
+2.&nbsp;How We Use Your Information
+</a>
+</p>
+<p>
+In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
+</p>
+<ul>
+<li>
+help you efficiently access your information after you sign in;
+</li>
+<li>
+remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
+</li>
+<li>
+provide personalized content and information to you and others, which could include online ads or other forms of marketing;
+</li>
+<li>
+provide, improve, test, and monitor the effectiveness of our Service;
+</li>
+<li>
+develop and test new products and features;
+</li>
+<li>
+monitor metrics such as total number of visitors, traffic, and demographic patterns; and
+</li>
+<li>
+diagnose or fix technology problems.
+</li>
+</ul>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="SHARING_OF_YOUR_INFORMATION" name="SHARING_OF_YOUR_INFORMATION"></span>
+<p>
+<a>
+3. Sharing of Your Information
+</a>
+</p>
+<p>
+We will not rent or sell your information to third parties outside Pinshape (or the group of companies of which Pinshape is a part) without your consent, except as noted in this Policy.
+</p>
+<p>
+Parties with whom we may share your information:
+</p>
+<p>
+We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are or that become part of that group ("Affiliates"). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). Affiliates include, but are not limited to 3D printers who are contracted to provide services through this website.
+</p>
+<p>
+We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with other third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
+</p>
+<p>
+We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
+</p>
+<p>
+We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
+</p>
+<p>
+Parties with whom you may choose to share your User Content:
+</p>
+<p>
+Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings that you set. To change your privacy settings on the Service, please change your profile setting. Once you have shared User Content or made it public, that User Content may be re-shared by others.
+</p>
+<p>
+Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users.
+</p>
+<p>
+If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users or third parties using Pinshape have copied or saved that information.
+</p>
+<p>
+Users will have access to a private page, which only Pinshape and the User can see. Other uses cannot see the content stored on your private board, but Pinshape administrators can, and the content on that board is still subject to content restrictions that&nbsp;Pinshape may have in place from time to time.
+</p>
+<p>
+What happens in the event of a change of control:
+</p>
+<p>
+If we sell or otherwise transfer part or the whole of Pinshape or our assâ€‹ets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through the Service may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.
+</p>
+<p>
+Responding to legal requests and preventing harm:
+</p>
+<p>
+We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the Canada where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="HOW_WE_STORE_YOUR_INFORMATION" name="HOW_WE_STORE_YOUR_INFORMATION"></span>
+<p>
+<a>
+4.&nbsp;How We Store Your Information
+</a>
+</p>
+<p>
+<strong>
+Storage and Processing:
+</strong>
+</p>
+<p>
+Your information collected through the Service may be stored and processed in Canada or any other country in which Pinshape, its Affiliates or Service Providers maintain facilities.
+</p>
+<p>
+Pinshape, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the US, European Union or other regions with laws governing data collection and use that may differ from Canadian law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+</p>
+<p>
+By registering for and using the Service you consent to the transfer of information through Canada or to any other country in which Pinshape, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+</p>
+<p>
+We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Pinshape cannot ensure the security of any information you transmit to Pinshape or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
+</p>
+<p>
+Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Pinshape, at all times. Your privacy settings may also be affected by changes made to the social media services you connect to pinshape. We are not responsible for the functionality, privacy, or security measures of any other organization.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="YOUR_CHOICES_ABOUT_YOUR_INFORMATION" name="YOUR_CHOICES_ABOUT_YOUR_INFORMATION"></span>
+<p>
+<a>
+5.&nbsp;Your Choices About Your Information
+</a>
+</p>
+<p>
+<strong>
+Your account information and profile/privacy settings:
+</strong>
+</p>
+<p>
+Update your account at any time by logging in and changing your profile settings.
+</p>
+<p>
+Unsubscribe from email communications from us by clicking on the "unsubscribe" link&nbsp;provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
+</p>
+<p>
+Learn more about reviewing or modifying your account information.
+</p>
+<p>
+<strong>
+How long we keep your User Content:
+</strong>
+</p>
+<p>
+Following termination or deactivation of your account, Pinshape, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="CHILDRENS_PRIVACY" name="CHILDRENS_PRIVACY"></span>
+<p>
+<a>
+6.&nbsp;Children's Privacy
+</a>
+</p>
+<p>
+Pinshape does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="OTHER_WEB_SITES_AND_SERVICES" name="OTHER_WEB_SITES_AND_SERVICES"></span>
+<p>
+<a>
+7.&nbsp;Other Web Sites and Services
+</a>
+</p>
+<p>
+We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party's own rules and policies. In addition, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service and you allow them to access your User Content you do so at your own risk.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="HOW_TO_CONTACT_US_ABOUT_A_DECEASED_USER" name="HOW_TO_CONTACT_US_ABOUT_A_DECEASED_USER"></span>
+<p>
+<a>
+8. How To Contact Us About A Deceased User
+</a>
+</p>
+<p>
+In the event of the death of a Pinshape User, please contact us. We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="HOW_TO_CONTACT_US" name="HOW_TO_CONTACT_US"></span>
+<p>
+<a>
+9.&nbsp;How To Contact Us
+</a>
+</p>
+<p>
+If you have any questions about this Privacy Policy or the Service, please email&nbsp;
+<a href="mailto:info@pinshape.com">
+info@pinshape.com
+</a>
+</p>
+<div align="center">
+<hr align="center" noshade="noshade" size="2" width="100%">
+</div>
+<span class="anchor" id="CHANGES_TO_OUR_PRIVACY_POLICY" name="CHANGES_TO_OUR_PRIVACY_POLICY"></span>
+<p>
+<a>
+10. Changes To Our Privacy Policy
+</a>
+</p>
+<p>
+Pinshape may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you with additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Pinshape or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
+</p>
+</div>
+
+</section>
+<a class="exit-off-canvas"></a>
+</div>
+</div>
+<div class="reveal-modal" data-reveal="" id="sign-up-modal"></div>
+<footer>
+<div class="wrap-thin">
+<div class="logo">
+<a class="footer-logo" href="/index"></a>
+</div>
+<div class="navigation">
+<ul class="footer-nav">
+<li>
+<a href="/how-it-works">
+How it Works
+</a>
+</li>
+<li>
+<a href="/materials">
+Materials
+</a>
+</li>
+<li>
+<a href="https://blog.pinshape.com">
+Blog
+</a>
+</li>
+<li>
+<a href="/schools">
+Schools
+</a>
+</li>
+<li>
+<a href="/about">
+About
+</a>
+</li>
+<li>
+<a href="/terms">
+Terms
+</a>
+</li>
+<li>
+<a href="/privacy">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="/content">
+Content Policy
+</a>
+</li>
+<li>
+<a href="http://support.pinshape.com/knowledgebase">
+FAQ
+</a>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+<div id="outdated">
+<h6>Your browser is out-of-date!</h6>
+<p>
+Update your browser to view this website correctly.
+<a href="http://outdatedbrowser.com/" id="btnUpdateBrowser">Update my browser now</a>
+</p>
+<p class="last">
+<a href="#" id="btnCloseUpdateBrowser" title="Close">×</a>
+</p>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script>window.jQuery || document.write(unescape('%3Cscript src="//static-a.pinshape.com/assets/jquery-b83142eae5a1733c8805a61e60c812bb.js">%3C/script>'))</script><script src="//static-a.pinshape.com/assets/jquery-b83142eae5a1733c8805a61e60c812bb.js"></script>
+<script src="//static.pinshape.com/assets/application-e7907944b927885f94fdae5cbec875ad.js"></script>
+<script src="https://cdn.optimizely.com/js/571950485.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-36726897-1', 'pinshape.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<script>
+  UserVoice=window.UserVoice||[];(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//widget.uservoice.com/BfeXBmJQcleIm0OWjsHLw.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();UserVoice.push(["set",{accent_color:"#448dd6",trigger_color:"white",trigger_background_color:"rgba(152, 152, 152, 0.9)"}]);UserVoice.push(["identify",{}]);UserVoice.push(["addTrigger",{mode:"contact",trigger_position:"bottom-right"}]);UserVoice.push(["autoprompt",{}])
+</script>
+<script>
+  setTimeout(function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0];e.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/0745.js?"+Math.floor((new Date).getTime()/36e5),e.async=!0,e.type="text/javascript",t.parentNode.insertBefore(e,t)},1);
+</script>
+
+<script>
+  $(function() {
+    if($.cookie("sign_up_modal_shown") != "true"){
+      setTimeout(function() {
+        $('#sign-up-modal').foundation('reveal', 'open', Routes.new_user_registration_path({ layout: false }));
+        $.cookie("sign_up_modal_shown", "true", { expires: 7 });
+      }, 10000);
+  
+      $('.sign-up-with-email-link').click(function(){
+        $('.sign-up-with-email-form').toggle( "fast", function() {});
+      });
+    }
+  });
+</script>
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
