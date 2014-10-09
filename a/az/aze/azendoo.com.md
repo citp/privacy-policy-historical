@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213221717id_/https%3A//www.azendoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009224203id_/https%3A//www.azendoo.com/privacy) for the most accurate reproduction.*
 
 # Azendoo - Task Management Application
 
 ## Azendoo is founded on the principles of sharing tasks or files and collaborating as teams. We know that you care about how your personal information is used and shared; reason why security of data and privacy are a priority for us.
 
-This Privacy Statement describes Azendoo's treatment of personal information that Azendoo gathers when you are on our websites and when you use our services. <br/> <br/> By visiting the Azendoo website and by subscribing to our service, you are accepting the practices outlined in this document. This policy does not apply to the practices of third parties that Azendoo does not own or control, or to individuals that Azendoo does not employ or manage.
+This Privacy Statement describes Azendoo's treatment of personal information that Azendoo gathers when you are on our websites and when you use our services. By visiting the Azendoo website and by subscribing to our service, you are accepting the practices outlined in this document. This policy does not apply to the practices of third parties that Azendoo does not own or control, or to individuals that Azendoo does not employ or manage.
 
 ## Information collected
 
