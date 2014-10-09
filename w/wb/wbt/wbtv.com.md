@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525043808id_/http%3A//www.wbtv.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010011648id_/http%3A//www.wbtv.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WBTV 3 News, Weather, Sports, and Traffic for Charlotte, NC
 
