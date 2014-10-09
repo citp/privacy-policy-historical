@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209052935id_/http%3A//www.hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010011442id_/http%3A//www.hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hardware Secrets
 
@@ -30,14 +30,7 @@ Hardwaresecrets.com periodically conducts contests and sweepstakes. If you choos
 
 This Privacy Policy may be modified from time to time. If there are changes, those changes are effective immediately.
 
-  
-
-
-| 
-
-[](https://web.archive.org/rss.xml)Latest News
-
-  
+|    
 
 
 [](https://web.archive.org/rss_articles.xml)Latest Content
@@ -47,9 +40,6 @@ This Privacy Policy may be modified from time to time. If there are changes, tho
 
 Our Most Popular Articles
 
-  
-
-
-Latest Threads in Our Forums  
+[Follow @hardwaresecrets](http://twitter.com/hardwaresecrets)  
   
 ---|---
