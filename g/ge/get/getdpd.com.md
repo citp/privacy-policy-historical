@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getdpd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060312id_/http%3A//getdpd.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdpd.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009181803id_/https%3A//getdpd.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | DPD – Digital Product Delivery | Sell Downloads | Digital Publishing
 
