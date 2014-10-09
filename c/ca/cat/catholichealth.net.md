@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy Denver, Colorado (CO) - Catholic Health Initiatives
 
@@ -7,11 +7,11 @@
 Website Privacy Policy  
   
 ---  
-| [CHI Culture Preview](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/culture-project-39709)  
+| [CHI Culture Preview](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/culture-project-39709)  
 ---  
-[Website Privacy Policy](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/website-privacy-policy)  
-[Contact Us](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/contact-us)  
-[Terms and Conditions](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/terms-and-conditions)  
+[Website Privacy Policy](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/website-privacy-policy)  
+[Contact Us](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/contact-us)  
+[Terms and Conditions](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/terms-and-conditions)  
   
 ### **Privacy Policy**
 
@@ -50,9 +50,9 @@ If a User’s personally identifiable information changes (such as your zip code
   *   * 
 
 
-| [Centura Health Announces Three New Health Centers for North Denver](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1242)  
+| [CHI Health Good Samaritan Receives $3.3 Million Grant for New Equipment](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1311)  
 ---  
-[CHI Reaches Agreement on Acquisition of QualChoice Holdings](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1240)  
-[Mercy Hot Springs Transfers to St. Vincent Health System](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1241)  
+[World Atrial Fibrillation Awareness Day 5K Family Fun Run & Walk](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1310)  
+[CHI and St. Alexius Medical Center Sign Affiliation Agreement](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1309)  
   
-[](https://web.archive.org/web/20140407184417id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
+[](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
