@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineradiostations.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326221519id_/http%3A//www.onlineradiostations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineradiostations.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009031120id_/http%3A//www.onlineradiostations.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Free Radio Stations, Free Internet Radio, Online Music, Live Web Radio - Privacy Policy
+# OnlineRadioStations - Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
