@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happylikes.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620180234id_/http%3A//www.niftylikes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happylikes.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009150246id_/http%3A//www.niftylikes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Nifty Likes - Privacy Policy
 
