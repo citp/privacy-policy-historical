@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the insidesales.com privacy policy that was archived on 2014-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531222238id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insidesales.com privacy policy that was archived on 2014-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009200411id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -1066,6 +1066,7 @@ window.onload = function(){
 	<div id="mainContent">
 		
 		<style>
+.chat {float: right; display: block; height: 40px;}
 body, h1, h2, h3, h4, h5, h6, p, li, div, input, a {
     font-family: "Open Sans", Arial, sans-serif;
     font-weight: 300;
@@ -1230,15 +1231,19 @@ display:block!important;
 */
 
 /* END Site-wide Backwards Compatible Styles */
-
+.sub_menu  {visibility: hidden; position: absolute; background: #666769; border: 2px solid #434b4d; padding: 3px 0px 10px 0px; margin-top: 0px; border-top: 16px solid #434b4d; z-index: 7; width: 196px; box-shadow: 0px 2px 10px 0px #434b4d;}
+.sub_menu li {padding: 5px 0; list-style-type: none;}
+.sub_menu li a {color: #fff; margin: 0 8px;}
 .phone-number {display:inline-block; color:white}
 .phone-number a {display:inline-block; color:white}
 .home-logo-img {float:left;}
 .new-gray-nav {background-color:#434b4d;}
+li.navigation-link {display: inline-block;}
 a.navigation-link {color: white; margin: 0 12px; font-size: 14px;}
-.desktop-nav-links{float: right; margin: 10px 11px; font-size: 16px;}
-#desktop-main-nav, #desktop-floated-main-nav, #mobile-main-nav {height: 47px;}
-#desktop-main-nav img, #desktop-floated-main-nav img, #mobile-main-nav img {margin: 10px 11px;}
+li.navigation-link a {color: white; margin: 0 12px; font-size: 14px;}
+.desktop-nav-links{float: right; margin: 6px 11px; font-size: 16px;}
+#desktop-main-nav, #desktop-floated-main-nav, #mobile-main-nav {height: 40px;}
+#desktop-main-nav img, #desktop-floated-main-nav img, #mobile-main-nav img {margin: 6px 11px;}
 #number_container_1, #number_container_3 {margin-left: 23px;}
 #number_container_1 {
     display: inline-block;
@@ -1279,7 +1284,6 @@ padding-top: .8em;
 #collapseContent1 li {
 padding: .45em;
 }
-.copyrightPatentsContainer {display:none;}
 #navMobileIcon {float: right; margin: 7px 11px; color: white; font-size:1.35em; cursor:pointer;}
 
 #collapseContent1 li.secondary-nav-link {padding:0em;}
@@ -1301,15 +1305,15 @@ opacity: 0;
 }
 
 
-@media only screen and (max-width:50.99em) {
-    #desktop-main-nav {display:none;}
+@media only screen and (max-width:52.99em) {
+    /*#desktop-main-nav {display:none;}*/
     #mobile-main-nav {position:fixed; z-index:5; width: 100%;-webkit-box-shadow: 0px 8px 20px -10px rgba(0,0,0,0.75);
 -moz-box-shadow: inset 0px 8px 20px -10px rgba(0,0,0,0.75);
 box-shadow: 0px 8px 20px -10px rgba(0,0,0,0.75);
     }
-    .desktop-nav-links {display:none;}
+    /*.desktop-nav-links {display:none;}*/
 }
-@media only screen and (min-width:51em) {
+@media only screen and (min-width:53em) {
     #mobile-main-nav {display:none;}
     #desktop-floated-main-nav.desktop-floated-nav {max-width: inherit;}
 }
@@ -1317,17 +1321,74 @@ box-shadow: 0px 8px 20px -10px rgba(0,0,0,0.75);
 </style>
 <div id="desktop-main-nav" class="new-gray-nav">
     <a class="home-logo-img" href="http://www.insidesales.com/">
-        <img src="http://static.insidesales.com/assets/images/home-logo-2014.png" alt="InsideSales.com">
+        <img src="//static.insidesales.com/assets/images/home-logo-2014.png" alt="InsideSales.com">
     </a>
-    <div class="desktop-nav-links">
-        <a href="/products" class="navigation-link">Products</a>
-        <a href="/services" class="navigation-link">Services</a>
-        <a href="/resources" class="navigation-link">Resources</a>
-        <a href="/about_us.php" class="navigation-link">About Us</a>
-        <a href="/login.php" class="navigation-link">Log In</a>
-        <div id="number_container_1" class="phone-number numberContainer">(866) 342-5370</div>
+     <div class="chat">
+        <a href="#" onclick="return SnapEngage.startLink();"><img src="https://www.snapengage.com/statusImage?w=98142088-e0eb-4aae-b326-d0e398b32bfb" alt="Contact us" border="0" style="margin: 0;"></a>
     </div>
+    <ul class="desktop-nav-links dropdown">
+        <li class="navigation-link"><a href="/products">Products</a>
+        </li>
+        <li class="navigation-link"><a href="/services">Services</a>
+            <ul class="sub_menu">
+                <li><a href="/implementation">Implementation</a></li>
+                <li><a href="/consulting">Consulting</a></li>
+                <li><a href="/certification">Certification</a></li>
+                <li><a href="/support">Support</a></li>
+                <li><a href="/call-center-playbook">Call Center Coaching</a></li>
+                <li><a href="/custom_dev">Custom Development</a></li>
+                <li><a href="/training">Training</a></li>
+            </ul>
+        </li>
+        <li class="navigation-link"><a href="/resources">Resources</a>
+            <ul class="sub_menu">
+                <li><a href="/research_papers.php">Research Papers</a></li>
+                <li><a href="/whitepapers">Whitepapers</a></li>
+                <li><a href="/eBooks">eBooks</a></li>
+                <li><a href="/insider/">Insider Blog</a></li>
+                <li><a href="/webinar">Webinars</a></li>
+                <li><a href="/events">Events</a></li>
+                <li><a href="/events/2014/sales-acceleration-summit/register">Sales Acceleration Summit</a></li>
+                <li><a href="http://community.insidesales.com/">Support Community</a></li>
+                <li><a href="/developers">Developer Resources</a></li>
+            </ul>
+        </li>    
+        <li class="navigation-link"><a href="/pricing">Pricing</a></li>
+        <li class="navigation-link"><a href="/about-us">About Us</a>
+            <ul class="sub_menu">
+                <li><a href="/about-us">Our Story</a></li>
+                <li><a href="/about-us/team">Leadership</a></li>
+                <li><a href="/events">Events</a></li>
+                <li><a href="/insider/">Insider Blog</a></li>
+                <li><a href="/about-us/news">News</a></li>
+                <li><a href="/about-us/partners">Partners</a></li>
+                <li><a href="/about-us/foundation">Do Good Foundation</a></li>
+                <li><a href="/careers">Careers</a></li>
+                <li><a href="/about-us/contact-us">Contact Us</a></li>
+            </ul>
+        </li>
+        <li class="navigation-link"><a href="/login.php">Log In</a></li>
+        <div id="number_container_1" class="phone-number numberContainer">(866)342-5370</div>
+    </ul>
 </div>
+
+<script type="text/javascript">
+$(function(){
+
+    $("ul.dropdown li").hover(function(){
+    
+        $(this).addClass("hover");
+        $('ul:first',this).css('visibility', 'visible');
+    
+    }, function(){
+    
+        $(this).removeClass("hover");
+        $('ul:first',this).css('visibility', 'hidden');
+    
+    });
+
+});
+</script>
 		<!--
 		<div id="breadCrumbContainer">
 
@@ -2295,7 +2356,7 @@ width: 100%;
                   &nbsp;|&nbsp;
                 
                   <a rel="nofollow" href="/sitemap.php" class="link_footer">
-                    Site Map 
+                    Sitemap 
                   </a>
                   &nbsp;|&nbsp;
                 
@@ -2451,7 +2512,8 @@ width: 100%;
 <!-- Start Lead Generation Reporting -->
 <script type="text/javascript">
 //JBC.trackPageClick('21','','Inside Sales');
-track('/', ['number_container_1','number_container_2','number_container_3','number_container_4','number_container_5'], '4', 'session_id');
+// the '1' is for the type of phone numbers to display
+track('/', ['number_container_1','number_container_2','number_container_3','number_container_4','number_container_5'], '1');
 </script>
 <!-- End Lead Generation Reporting -->
 <!-- Start Google Analytics Asynchronous Tracking Code -->
@@ -2469,10 +2531,13 @@ track('/', ['number_container_1','number_container_2','number_container_3','numb
   })();
 </script>
 <!-- End Google Analytics Asynchronous Tracking Code -->
+
+
 <!--  GOOGLE CODE FOR REMARKETING TAG setup info: http://google.com/ads/remarketingsetup -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1007341658;
+var google_conversion_label = "e4ZTCKbS_gIQ2qCr4AM";
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
@@ -2481,16 +2546,53 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1007341658/?value=1.00&amp;label=e4ZTCKbS_gIQ2qCr4AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1070894740;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070894740/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Code for * RLSA Whole Site -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1070894740;
+var google_conversion_label = "Kz0zCLShmgwQlJ3S_gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070894740/?value=1.00&amp;label=Kz0zCLShmgwQlJ3S_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <script>
 var gaciframe = $('iframe[name=google_conversion_frame]');
 gaciframe.attr('height', '0');
 </script>
-
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1007341658/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 <!-- END GOOGLE CODE FOR REMARKETING TAG -->
 <!-- MARKETO TRACKING -->
