@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305124651id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundless.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009131004id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.*
 
 # Boundless - Privacy
 
@@ -218,4 +218,4 @@ Boston, MA 02111
 boundless.com   
 [support@boundless.com](mailto:support@boundless.com?subject=General%20Query)
 
-**_Copyright © 2013 Boundless Learning, Inc. All Rights Reserved._ **
+**_Copyright © 2014 Boundless Learning, Inc. Some Rights Reserved._ **
