@@ -1,102 +1,115 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031145id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009022248id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
-## Data Protection
+## Introduction and Consent
 
-Any information you give to us will be stored and used in accordance with our privacy policy set out below. 
+Southern is committed to protecting and respecting your privacy when you use our services.
 
-## Privacy Policy
+This Privacy Policy explains:
 
-This Website is owned and operated by Southern Railway Limited trading as Southern, which is a wholly owned subsidiary of GOVIA Limited and is a part of the Go-Ahead Group Rail Division.
-
-Southern Railway Ltd is registered in England No. 06574965.
-
-Registered office:  
-3rd Floor,  
-41-51 Grey Street,  
-Newcastle Upon Tyne,  
-NE1 6EE
-
-GOVIA Ltd is registered in England No. 03278419.
-
-Registered office:  
-3rd Floor,  
-41-51 Grey Street,  
-Newcastle Upon Tyne,  
-NE1 6EE
-
-* * *
-
-Our privacy policy relates only to information that we obtain from you. If you visit a Website operated by a third party through a link included on this Website, your information might be used differently by the operator of the linked Website.
-
-The information you provide to us when using this Website will be processed for the following reasons:
-
-  * to administer your user account with us
-  * to process any request for advice or information supplied by us
-  * to process any booking or competition entry made by you
-  * to notify you of our bulletins, information packs, special offers, competitions and services, should you consent to this
-  * to customise this Website according to your interests
-  * to comply with our statutory and regulatory obligations
-  * to process any application made by you for a position with us
+  * What personal data we collect from you when you use our website, apps, visit our stations, contact us or use our services
+  * How we will collect and use that information
+  * How we keep information secure and
+  * How you can contact us if you wish to exercise any of your rights in relation to the information.
 
 
 
-If you do not wish to receive additional information from us, you can let us know by checking the appropriate box on the new account registration form.
+**By providing us with your information you consent to our use of it in the manner set out in this policy.**
 
-The type of information we will collect about you includes:
+For the purposes of the Data Protection Act 1998, the data controller is:
 
-  * your name and address
-  * your email address
-  * details about the products or services you specifically request
-  * information you complete in relation to our customer surveys
+Southern Railway Limited Go-Ahead House,   
+26-28 Addiscombe Road  
+Croydon   
+CR9 5GA
 
+Our nominated data protection officer is:
 
+Chris Fisher  
+Head of Business Assurance and Data Protection Officer  
+3rd Floor,   
+Go-Ahead House,   
+26-28 Addiscombe Road   
+Croydon   
+CR9 5GA
 
-We will never collect sensitive information about you without your explicit consent.
+Email: [privacy@southernrailway.com](mailto:privacy@southernrailway.com "Email Southern")
 
-Any information that we collect about you is stored electronically on our database. It may also be printed and stored in our filing system.
+More information about the Data Protection Act can be found on the [Information Commissioners Website](http://ico.org.uk/ "Visit the Information Commissioners Website").
 
-We will keep your personal information confidential except to the extent that we are compelled to disclose it by law (for example where fraud or other crime is involved) or to comply with an instruction of a regulatory body of competent jurisdiction, such as:
+## Information We May Collect From You
 
-  * the Department for Transport
-  * other train operating companies where this is necessary to process your booking or competition entry with us
-  * Passenger Focus and London Travel Watch
-  * other transport providers where you request this
-  * any other body carrying out statutory functions
+We may collect and process information about you when you: travel on our services, visit our stations or car parks, use our website, buy a product from us or make an after sales enquiry, contact customer services.
 
+## How We use Your Information
 
+We will only use the information you provide as permitted by the Data Protection Act. Depending on how you contact us, use our services, the consent you have given, or legal obligations we may have, this will include:
 
-* * *
-
-From time to time we may be called upon to demonstrate our maintenance of certain professional standards as set by appropriate authorities and/or to satisfy our auditors and/or to comply with regulations in relation to money laundering or other statutory requirements. If you do not consent to our production of your details for this purpose only as an exception to our duty of confidentiality, you can let us know by checking the appropriate box on the new account registration form.
-
-If you believe that the information we hold about you is inaccurate or if you wish us to cease processing your data for any particular purpose or purposes, write to us at the above address or amend your details through the My Account section of the website.
-
-To comply with the Data Protection Act 1998 we adhere to strict security procedures. The personal information, which we hold will be held securely to ensure no unauthorised disclosure or access. When you register for a user account with us you will be required to adhere to the security provisions set out in our terms and conditions.
-
-We would like to contact you in the future for marketing purposes by email or telephone but we need your consent to do this. If you would like us to contact you (including by email or telephone) concerning services that may be of interest to you then please check the appropriate box on the new account registration form or log into your online account and update your preferences.
-
-You may refuse any marketing or career communication from us in the future at any time by unsubscribing those preferences from [My Account](https://web.archive.org/my-account/account-details/ "go to your account"), writing to us at the address above or [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us").
-
-Should you wish to obtain a copy of the personal data that we hold on you, please write to us at the address above or [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). As soon as we are satisfied as to your identity, we will send you, within 40 days, a copy of all the data that we hold concerning you.
-
-If you have a complaint regarding any breach of this privacy policy, write to us at the address above or [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 10 days of receiving your complaint to inform you of the outcome.
-
-When visiting our Webpages, we would like to use tracking technologies, which record information about you automatically with information that does not identify you personally. This can include using a "cookie" which would be stored on your browser. It is possible to configure your Internet browser so that it can disable cookies. For further details, please visit [allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies website") If we cannot use such technology it is possible that certain functionality of this site might be affected and you might not be able to access certain Webpages.
-
-We automatically collect and store only the following information about your visit:
-
-  * the internet domain and IP address from where you access our Website
-  * the type of browser software and operating system used to access our Website
-  * the date and time you access our Website
-  * the pages you enter, visit and exit our Website from
-  * if you linked to our Website from another Website, the address of that Website
+  * To provide you with details of our services, information, newsletters, and details of promotions and offers which we feel may interest you
+  * To notify you about our services and changes to these
+  * To make and receive any payments necessary between us
+  * To carry out our obligations arising from any contracts entered into between you and us
+  * For customer service, administration and customer research
+  * For your safety and security
+  * For fraud and crime prevention
+To enhance your experience of our website, as described in our [cookie policy](http://www.southernrailway.com/p/cookies "Read our Cookie policy") 
 
 
+## Sharing or Disclosure of Your Information
 
-We use this information to help us identify click stream patterns, to improve our Website and to learn about the number of visitors to our Website and the types of technology our visitors use. We only use this information to ensure that our Webpages stay compatible with a selection of browsers and systems and thereby ensure that the pages appeal to a wide audience. We do not track or record information about individuals and their visits.
+We will only share or disclose your information as set out in this Policy or where permitted by the Data Protection Act and will obtain your consent where we are required to do so. We will only use 3rd parties to process information where we are satisfied that they comply with these standards. We may share or disclose information for the following reasons:
 
-For more information on online behavioural advertising in the UK, about cookies, and about how to opt-out of receiving targeted advertising, please visit [Your Online Choices.](http://www.youronlinechoices.com/ "Visit the Your Online Choices website")
+  * We will share the information with our service providers where it is necessary for us to do so in order to fulfil a contract between us or to respond to requests for marketing and/or information from you
+  * To respond to your complaints or administer requests you have made, either to us or another regulatory body such as the Department for Transport; Passenger Focus, London Travel Watch, or other train operating company
+  * To process payment card transactions
+  * To comply with requests from the police or other law enforcement agencies for the purposes of crime prevention or detection. These are dealt with on a case-by-case basis, to ensure that any disclosure is lawful
+  * To comply with other legal obligations for example, relating to crime and taxation purposes or regulatory activity
+  * To protect our legitimate business interests, for example, for fraud prevention or revenue protection
+  * Where required as a result of the sale, merger, or acquisition of business assets
+  * If you have agreed to receive information for survey or research purposes, we may share your contact details with a limited number of parties, but only for the reasons you have agreed to in the survey return
+  * Where you have consented, to share with other members of the Go-Ahead Group PLC (registered in England, company number 02100855) (“Go Ahead”), of which we are a member, in order to respond to queries, complaints or a request for information from you, or where Go-Ahead has any services, promotions and offers which we feel may interest you. Details of other members of the Go-Ahead Group can be found at [go-ahead.com](http://www.go-ahead.com/ourcompanies.aspx "Visit the Go-Ahead website")
+  * In respect of information provided to us for marketing purposes only, to the Department for Transport and/or any successor operator of the rail franchise in order that they may contact you for marketing purposes in the event that we cease to operate this rail franchise
 
-Delay Repay claims must be made on a per journey basis, not a per service basis. We ask you to tell us the time of the service you planned to take and then we can base your compensation on the actual length of the delay you experienced. You cannot, therefore, claim for every possible service that was delayed or cancelled. In order to process your claim, we require you to advise us which service you actually intended to travel on. All claims are checked and verified. Southern reserves the right to prosecute fraudulent claimants.
+You can find out more about the information we collect and how we use, share or disclose it by clicking on the links below.
+
+    * [CCTV](https://web.archive.org/privacy-sub-document/#cctv)
+    * [Website](https://web.archive.org/privacy-sub-document/#website)
+    * [Smartcard](https://web.archive.org/privacy-sub-document/#smartcard)
+    * [Ticket Office Purchases](https://web.archive.org/privacy-sub-document/#ticketoffice)
+    * [Revenue Protection and Penalty Fares](https://web.archive.org/privacy-sub-document/#revenueprotection)
+    * [Customer Services](https://web.archive.org/privacy-sub-document/#customerservices)
+
+## Where We Store Your Personal Information
+
+The information that we collect from you will only be stored in the European Economic Area (“EEA”) or, where it is necessary to disclose it to our processors located outside the EEA , other jurisdictions which are acceptable according to guidance provided by the Information Commissioner and/or where appropriate legal and security safeguards are in place.
+
+## Information Security
+
+We use a range of technical and organisational measures to safeguard access to and use of, your personal information. These include structured access controls to systems, network protection, intrusion detection, physical access controls and staff training.
+
+## Your Rights
+
+**To prevent marketing to you:**
+
+You have the right to ask us not to process your personal information for marketing purposes. We will usually inform you before collecting your information if we intend to use or disclose it for such purposes. If you do not want us to use your information for marketing purposes either:
+
+    * Indicate this by using the tick box when you sign up or, if you have an account with us, by logging in and changing your contact preferences or
+    * To prevent all contact by us you can opt out at any time by contacting us using the following details: email us at [comments@southernrailway.com](mailto:comments@southernrailway.com "Email Southern"), or write to Southern Customer Services, PO Box 10240, Ashby-De-La Zouche, LE65 9EB or telephone us on 03451 272920.
+
+## Subject Access
+
+Your are entitled to request a copy of the information we hold about you.
+
+Details of how to make a [subject access request](http://www.southernrailway.com/your-journey/customer-services/personal-data "Personal data")
+
+## Cookies
+
+Cookies are small data files that are placed onto the hardware device which you use to browse the internet by websites that you visit. Cookies contain information about your visits to that website and the purpose of cookies is to enable our websites to remember you, and your browsing habits, when you visit it again in the future. Details of how we use [cookies](http://www.southernrailway.com/p/cookies "Read our Cookie Policy").
+
+## Changes to this Privacy Policy
+
+We may occasionally update this statement. Your continued use of the site will mean that you accept those revisions.
+
+
+
