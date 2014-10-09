@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619042602id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009140606id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
-# loveholidays.com privacy policy
+# Privacy Policy - loveholidays.com
 
-## PERSONAL INFORMATION
+## loveholidays.com takes your privacy seriously
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Hays Travel Ltd trading as loveholidays.com except where required by us to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide such as name, address, any special needs/dietary requirements etc. Our representatives may sometimes follow up, either by e-mail, phone, fax or mail, to people who have registered their details and we may periodically send promotional e-mail about new products, special offers or other information which we think you may find interesting using the e-mail address which you have provided. 
 
