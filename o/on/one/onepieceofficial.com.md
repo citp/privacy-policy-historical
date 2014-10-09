@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onepieceofficial.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506001450id_/http%3A//www.funimation.com/privacy-policy/anime) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepieceofficial.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009144905id_/http%3A//www.funimation.com/privacy-policy/anime) for the most accurate reproduction.*
 
 # FUNimation - Privacy Policy
-
-##  PRIVACY POLICY
 
 FUNimation Entertainment is respectful about the privacy of our users.  As a general policy, no personal information is automatically collected from users of our sites.  This policy statement tells you how we collect information from you and how we use it.
 
@@ -36,14 +34,13 @@ FUNimation provides personal information to other companies and individuals to p
 
 Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any personally identifiable information to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g. demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.
 
-**FUNimation Advertising on Other Websites**
+**FUNimation Advertising on FUNimation.com and on Other Websites**
 
-User acknowledges that third party vendors, including Google and Facebook, show FUNimation advertisements on various internet sites. Third party vendors, including Google and Facebook, use cookies to serve advertisements based on User's prior visits to FUN.com. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).  Users may opt out of Facebook's use of cookies by logging into Facebook and visiting the [Facebook opt-out page](https://www.facebook.com/ads/website_custom_audiences/). If you would prefer to opt out of a third party vendor’s use of cookies, please visit [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+User acknowledges that third party vendors, including Google and Facebook, show FUNimation advertisements on various internet sites and on FUNimation.com. Third party vendors, including Google and Facebook, use cookies to serve advertisements based on User's prior visits to FUNimation.com. User also acknowledges that FUNimation uses Google Adwords features such as remarketing, interest categories, similar audiences, other types of interest-based advertising, and demographic and location targeting to serve ads on third party sites and on FUNimation.com. User also acknowledges that FUNimation.com uses Google Analytics and Signal (formerly BrightTag) to collect data about User's traffic via Google Analytics advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation.
 
-In some cases, the Teracent cookie is used and  Users may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out).
+All information collected in the above manner is non-personally identifiable and will not be merged with any personally identifiable User information without prior notice and the consent of User. No information will be shared with Google through any marketing or product data feeds which might be associated with our advertising.
 
-In some cases, DoubleClick cookies may be in use. Users may opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
-
+  
 **Privacy Policy Manager:**  
 FUNimation Productions, Ltd.  
 Privacy Policy Manager  
