@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.tv privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,12 @@ Your privacy is very important to The Museum of Broadcast Communications (MBC), 
 
  Museum of Broadcast Communications was made possible thanks to a generous grant by:
 
-[ ](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/hours.htm) [ ](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/special%20features.htm) [ ](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/school.htm) [ ](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/member.htm) [ ](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/pub.htm) [ ](http://www.illinois.gov/dceo/Pages/default.aspx) [ ](http://mkt.com/museum-of-broadcast-communications/an-evening-with-larry-king)
+[ ](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/hours.htm) [ ](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/special%20features.htm) [ ](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/school.htm) [ ](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/member.htm) [ ](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/pub.htm) [ ](http://www.illinois.gov/dceo/Pages/default.aspx)
 
-                                                      I [Terms Of Use](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/terms_of_use.htm) I Privacy Policy I [Contact Us](https://web.archive.org/web/20140629050221id_/http%3A//www.museum.tv/contact_us.htm)[ ](mailto:info@museum.tv)I
+                                                      I [Terms Of Use](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/terms_of_use.htm) I Privacy Policy I [Contact Us](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/contact_us.htm)[ ](mailto:info@museum.tv)I
 
 [ ](http://www.museum.tv/index.htm) [ ](https://twitter.com/MuseumTV) [ ](https://www.facebook.com/MuseumTV)
 
 MUSEUM OF  BROADCAST COMMUNICATIONS 360 North State Street Chicago, IL 60654
+
+[ ](https://web.archive.org/web/20141009170331id_/http%3A//www.museum.tv/2014_nrhof_ceremony.htm)
