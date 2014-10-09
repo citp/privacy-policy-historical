@@ -1,84 +1,135 @@
-> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327062652id_/https%3A//segment.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009232727id_/https%3A//segment.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Segment.io
+# Privacy Policy - Segment
 
-Effective August 14, 2012
+Segment commits to strong, secure and transparent privacy practices. Our Privacy Policy explains:
 
-This privacy policy (the “Privacy Policy”) describes how Segment.io Inc. (“Segment.io”, “We” or “Us”) collects and uses your data on our websites, including [segment.io](https://web.archive.org/), along with services related to those sites (collectively, the “Service”).
-
-If you have any questions or comments regarding this privacy policy or its enforcement, please contact Us at [legal@segment.io](mailto:legal@segment.io).
-
-### NOTICE - INFORMATION WE COLLECT AND USE.
-
-  * **Users of Websites on which the Service are Implemented.** When you visit a website on which the Service is implemented, We collect certain information regarding your use of the website, such as your IP address and browser type. We gather this information for systems administration purposes and to track user trends. We may also use your IP address to identify the general geographic area from which you are accessing a website on which the Service is implemented.
-  * **Users of Our Service.** We collect and store information that registered users of Our Service (“Members”) submit to Us, such as their names and e-mail addresses, to allow Us to identify users and notify them of changes or updates to the Service. When you provide us your e-mail address, you automatically opt-in to receive e-mails from Us (including marketing e-mails). If you wod like to opt-out of these marketing e-mails, you can change your settings through your account page. If a Member elects to provide it, We also collect and store your name and phone number, which We use to assist Us in providing the Service to you. We also collect other information, such as your IP address and browser type. We use the IP addresses of Members to assist in login and other uses related to a registered user’s use of the Service. Member’s sessions on Our sites are also tracked for systems administration purposes and to track user trends. We may link IP address and other information to a Member’s account.
-  * **Website Visitor Data.** As part of the Service, We collect and track certain data and information regarding the characteristics and activities of visitors to websites on which the Service is implemented (collectively, “Website Visitor Data”).
-  * **Header Information.** We collect and use browser header information to help Us understand from which websites a user navigates to a website on which the Service is implemented.
-  * **Cookies.** Like many other websites, We use a standard technology called “cookies.” Cookies are small pieces of information stored on your hard drive. They can help make the Internet experience quicker and more convenient. Cookies allow users to login without entering their user ID and password each time they use the Service. We also use cookies on third party websites on which the Service are implemented; such cookies help Us understand how users interact with those websites. Cookies also allow Us to improve the Service. If you disable cookies, you will not be able to use the Service. We may also use cookies in connection with third party services to run analytics on Our websites; such cookies do not collect or use any personal information about users.
+  * What information we collect and why we collect it
+  * How we use this information
+  * The choices we offer, including how to access, update and remove information
 
 
 
-### DATA INTEGRITY - HOW WE USE YOUR INFORMATION.
+We have kept this simple for your understanding, but if you’re not familiar with terms like “cookies”, “IP addresses” or “API”, then feel free to [email us](mailto:legal@segment.com)! Your privacy is really important to us, so whether you’re new to Segment or a long-time user, please take the time to get to know our practices.
 
-We generally use the information We collect from you to create a secure and personalized Service for Our Members.
+Effective as of September 19, 2014
 
-  * **IP Addresses.** We gather this information for systems administration purposes, abuse prevention and to track user trends. We may also use your IP address to identify the general geographic area from which you are accessing a website on which the Service is implemented.
-  * **Header Information.** Header information is used to determine which websites originated traffic into websites implementing the Service.
-  * **Website Visitor Data.** Website Visitor Data is used to provide Members with analytics. We may aggregate and anonymize Website Visitor Data with that from other sites to provide benchmarking data and other functionality, but no identifiable Website Visitor Data will be disclosed at any time without your express prior consent.
-  * **User ID and Password Information.** For Members, We collect user ID and password information to enable them to log into and use the Service.
-  * **Member E-Mail Addresses.** Members are automatically opted-in to receive marketing emails from us when they register for the Service. Members can opt-out of such emails by adjusting their account settings, provided that we may still send Members e-mails relating to their account.
-  * **Member Names and Phone Numbers.** For Members, We optionally collect their names and phone numbers, which allow Us to contact them in account recovery and other scenarios.
+Segment, Inc. (“Segment”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.segment.com](http://segment.com/) site and any websites owned by Segment (collectively, the “Sites”), and when they use any of Segment’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
 
+## Segment’s Service and Client User Data __
 
+Commercial users of our Service (“Clients”) may use our Service to collect information from you and about your use of their website, application or service (“Client User Data”). Client User Data may include, without limitation, information about the identity of Client users (such as name, postal address, e-mail address, IP address and phone number), as well as information about the pages that users visit and the features that they use, and the actions that they take while using the Client’s website, service or application. The Segment Service allows Clients the ability to pass Client User Data into Segment’s Service, and, at each Client’s direction, out from Segment into a variety of third-party tools. Segment may also store this data at the instruction of our Client. Segment does not inspect the Client User Data that it collects, and collects such information automatically under the direction of its Clients when providing our Service.
 
-### ONWARD TRANSFER - DISCLOSURE OF INFORMATION TO THIRD PARTIES.
+Each of our Clients has its own policies regarding the collection and use of your information. This Privacy Policy does not apply to websites, applications, or services that display or link to different privacy statements. This Privacy Policy also does not apply to Client User Data. We recommend that you review the policies of our Clients through whom your information may be collected and submitted to us. We are not responsible for our Clients’ privacy policies or actions with respect to Client User Data. The use of Client User Data provided by our Clients in connection with our Services is subject to the written agreement between Segment and Client.
 
-  * **Personal Information.** We will not sell, lease or exchange your personal information to third parties without first obtaining your express consent, unless required by law or to protect your status as a Member. To the extent We do disclose your personal information to a third party to protect your status as a Member, We will notify you of that disclosure.
-  * **Website Visitor Data.** We may aggregate and anonymize your Website Visitor Data with that from other sites to provide benchmarking data and other functionality, but no personally identifiable Website Visitor Data will be disclosed at any time without your express prior consent.
-  * **Cookies** For sites that use the Service we use only 1 cookie called “_sio” in most cases. This is so we know if a user has visited the site before. These cookies are assigned to the domain using the Service and are unique to that domain. How you remove a cookie depends on the browser you are using, please refer to the documentation for your browser.
+## Collection of Personally Identifying Information __
 
+In the course of your use of the Services, you may provide us with certain personally identifying information that can be used to provide you the Service, to identify and contact you, and to set up and administer your account (“Personally Identifying Information” or “PII”). PII may include, but is not limited to, your name, phone number, credit card or other billing information, email address, and postal addresses. You may at any time refuse to provide the PII that we request; however, this may limit our ability to provide the Services to you.
 
+## How We Use Personally Identifying Information __
 
-### CHOICE
+PII is used for the following purposes: (i) to provide, administer and improve our Services, (ii) to better understand your needs and interests, (iii) to fulfill requests you may make, (iv) to personalize your experience, (v) to provide Service announcements, (vi) to provide you with further information and offers from Segment or our affiliates, and (vii) protect, investigate and deter against fraudulent, harmful, unauthorized or illegal activity.
 
-  * **Your Authorization Required.** We will not use or share your personal information in ways incompatible with the ones described above, or other than as you have explicitly authorized, without providing you a choice. If at any time We wod like to disclose your personal information to a third party in a manner not described above, We will provide you with an affirmative or explicit (opt in) choice. Personal information will not be used to directly market the Service unless that possible use of the information has been disclosed and a choice provided.
-  * **Email Opt-Out.** As noted above, Members may choose not to receive marketing emails from Us. You can opt out of such e-mails through your account settings.
+We appreciate that the language above is a pretty high level description – so below we explain in more detail where we collect information and how we use the information that we collect.
 
+## Website Visitors __
 
+Like many websites, we collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Site. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Site and to tell us how and when you interact with our Site. We may also use cookies to monitor aggregate usage and web traffic routing on our Site and to customize and improve our Service. We may link this information to your user account. Unlike persistent cookies, session cookies are deleted when you log off from the Site and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Service. We may also use cookies in connection with third party services to run analytics on our Site; such cookies may collect PII about users.
 
-### ACCESS.
+We may employ and/or our third party tracking utility company may employ software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. These gifs (or other tracking technology) may be included in or associated with e-mails or other communications that you receive from us (or our partners) in order to help us track your response and interests and to deliver you relevant content and services. We may tie information gathered by clear gifs or other tracking technology to PII.
 
-  * **Access.** Through your Member account, We will provide you access to personally identifiable information about you that We store in a manner that is identifiable as your personal information. Note, however, that for non-Members, We don’t retain IP addresses, browser information or header information for more than a temporary period of time in order to provide the Service, and as such, that information cannot be accessed or modified. We will allow you to correct, amend or delete personal information of yours that We retain where it is inaccurate, except where the burden or expense of providing access wod be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons wod be violated.
-  * **Deletion.** Members who leave the Service may choose to have their personal information deleted by contacting [legal@segment.io](mailto:legal@segment.io).
+Our servers may automatically record certain information about how a person uses our Site (we refer to this information as “Log Data”), including both account holders and non-account holders. Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Site to which a user browsed and the time spent on those pages or features, the frequency with which the Site is used by a user, search terms, the links on our Site that a user clicked on or used, and other statistics. We use this information to administer the Service and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences. 
 
+## Behavioral Targeting / Re-targeting __
 
+We may partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on our Site and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](https://web.archive.org/web/20141009232730id_/https://segment.com/docs/legal/privacy/preferences.truste.com). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-### LINKS TO THIRD PARTY WEBSITES.
+## Purchase Information __
 
-Our websites may contain links to third party websites. Please be aware that We are not responsible for the privacy practices of third party websites you choose to visit. If you provide any information directly to parties other than Us, different res may apply to the use or disclosure of that information. We encourage you to investigate and ask questions before disclosing your personal information to third parties.
+If you purchase subscriptions to our Service from our Site, we request that you provide your name, email address, billing address, credit card information, telephone number and other information necessary to open your account and complete the transaction. We do not collect or store your full credit card information (although we may store the last four digits for verification purposes). Our credit card processing service provider will collect and store full payment card information from you to pay for your Service.
 
-### VOLUNTARY PUBLIC DISCLOSURE OF PERSONAL INFORMATION.
+## Children __
 
-Please be aware that whenever Members voluntarily disclose personal information online - e.g., on message boards, in chat areas, in file uploads, through events, etc. - that information becomes public and can be collected and used by others; We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, Members may receive unsolicited messages from other parties.
+Because the nature of our Service does not appeal to children under the age of 13, Segment does not knowingly acquire or receive PII from children under 13. If we later learn that any user of our Service is under the age of 13, we will take appropriate steps to remove that user’s information from our account database and will restrict that individual from future access to the Service.
 
-### PRIVACY PROTECTION FOR CHILDREN.
+## Testimonials __
 
-In compliance with the Children’s Online Privacy Protection Act (COPPA), We will not knowingly provide access to the Service to persons under the age of thirteen (13). If We later learn that any user is under the age of thirteen (13), We will take appropriate steps to remove that user’s information from the database and We will restrict that individual from future access to the Service.
+We display personal testimonials of satisfied customers on our Site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, please [contact us](mailto:legal@segment.com). If you provide us with comments or feedback we may collect your name and e-mail address, as well as any other content included in the e-mail to send you a reply and improve our Service.
 
-### SECURITY.
+Our Site may include social media features, such as the Facebook “like” button and widgets, such as the “share this” button. These features may collect your PII and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.
 
-We have implemented security measures to protect user information from loss, misuse and alteration. We use industry-standard practices such as encrypted storage, firewalls and password protection systems to safeguard the confidentiality of your personal information. Each of Our employees is aware of Our security policies, and your information is only available to those employees who need it to perform their jobs.
+## Mailing List Information __
 
-### CONSENT.
+You may choose to submit your email address or other contact information via our Site. We may use this information to send you news about Segment-related services, products or promotions. We may use one or more service providers to administer these messages, but we do not share your email address with spammers or any other third parties without your permission. We will give you the ability to opt out of marketing-related e-mails by logging in and changing your account settings or by clicking on a link at the bottom of each such e-mail. In some of our communications, we use tracking means, such as a “click-through URL” linked to content on the Site. We track this data to help us measure the effectiveness of our customer communications.
 
-This Privacy Policy is a part of Our Terms of Use. By using the Service, users agree to be bound by the Terms of Use and this Privacy Policy. Some terms may be defined in the Terms of Use. This Privacy Policy only addresses activities originating from Our servers.
+## Aggregate Information __
 
-### NOTIFICATION OF CHANGES.
+Segment may collect and analyze non-PII information about the performance of its Service. From time to time, Segment may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its Service.
 
-If We change this Privacy Policy and seek to use your personal information in a manner different from that stated at the time of collection, you will be notified via e-mail or otherwise in some manner through the Service. In addition, if We make any material changes in Our privacy practices that do not affect personal information already stored by Us, We will post a notice on Our websites notifying users of the change. In some cases where We post such a notice, We will also e-mail users who have opted to receive communications from Us to notify them of the changes in Our privacy practices.
+## Disclosure to Third Parties __
 
-### Questions?
+We do not share or sell the Personally Identifying Information that you provide us with other organizations without your express consent. Under this Privacy Policy you hereby consent to sharing under the following circumstances: 
 
-If you have any questions at all about our Privacy Policy, please feel free to [email us](mailto:legal@segment.io)!
+**Service Providers**. We may employ third party companies and individuals to administer and provide the Service on our behalf, (including, without limitation, bill and credit card payment processing, maintenance, administration, support, hosting and database management services). These third parties may have access to your PII only to perform these tasks on our behalf in accordance with this Privacy Policy and are obligated not to disclose or use it for any other purpose. 
 
-[Segment.io](https://web.archive.org/)
+**Compliance with Laws and Law Enforcement; Protection and Safety.** Segment may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe reasonably necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, unauthorized or harmful. 
+
+**Business Transfers.** Segment may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will require the recipient to honor this Privacy Policy. You acknowledge that such transfers may occur and that any acquirer or successor of Segment or its assets may continue to use your personal information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site or Service of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+## Changing or Deleting Your Information __
+
+All Segment account holders may review, update, correct or delete the PII in their registration profile by logging into their account. Removing your information may limit our ability to provide the Service to you. If you completely delete all such information, your account will be deactivated and you will lose access to the Service. You may also [contact us](mailto:legal@segment.com) directly to accomplish the foregoing or if you have additional requests or questions. We’ll take reasonable steps to provide, modify or delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, where the rights of other persons would be violated, or as required by law. We will respond to all requests within 30 days (or less!).
+
+Access to Data Controlled by our Clients Segment has no direct relationship with the individuals whose personal data is contained within the Client User Data processed by our Service. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate personal data provided by our Clients should direct their query to Segment’s Client. If the Client requests Segment to remove or modify the data, we will respond to their request within 30 days (or less!). You may also [contact us](mailto:legal@segment.com) if you have additional questions or concerns.
+
+## Changes to Privacy Policy __
+
+We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via e-mail (if you have an account where we have your contact information) or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting on our Site – for example on this page or on our blog).
+
+Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting). In all cases, your continued use of the Service or Site after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+
+## Security __
+
+The security of your PII is important to us. We follow generally accepted industry standards to protect the PII submitted to us, both during transmission and once we receive it (including encrypted storage, firewalls and password protection). Each of our employees is aware of our security policies, and your information is only available to those employees who need it to perform their jobs. No method of transmission over the Internet using industry standard technology is 100% secure. Therefore, we cannot guarantee the absolute security of your information.
+
+## International Transfer __
+
+Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Segment, please be advised that we transfer PII to the United States and process it there.
+
+## Links to Other Sites and Services __
+
+The Service may contain links to other websites and services. The fact that we link to a website or service is not an endorsement, authorization or representation that we are affiliated with that third party. We do not exercise control over third party websites or services, and are not responsible for their actions. Other websites and services follow different rules regarding the use or disclosure of the PII you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit and services you use.
+
+## Voluntary Public Disclosure of Personal Information __
+
+We may make available on our Site, or link to, certain opportunities for our members and other users to share information online (e.g., on message boards, in chat areas, in file uploads, through events, etc.). Please be aware that whenever you voluntarily disclose personal information online, that information becomes public and can be collected and used by others. We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, you may receive unsolicited messages from other parties.
+
+## Safe Harbor Compliance Statement __
+
+Segment complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Segment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Segment commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Segment. 
+
+Please feel free to [email us](mailto:legal@segment.com). Or contact us by mail:
+
+Segment Inc.  
+42 Minna St, 2nd Floor   
+San Francisco, CA 94105 USA  
+Attention: Privacy Officer
+
+Segment has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Segment, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+## Questions? __
+
+If you have any questions or concerns at all about our Privacy Policy, please feel free to [email us](mailto:legal@segment.com)!
+
+Of if you are feeling old fashioned, use snail mail:
+
+Segment Inc.   
+42 Minna St, 2nd Floor   
+San Francisco, CA 94105 USA  
+Attention: Privacy Officer
+
+* * *
+
+If you ever have any questions, or see anywhere we can improve our documentation, feel free to [contact us](https://web.archive.org/contact)!
