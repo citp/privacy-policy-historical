@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608235243id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009035648id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -11,7 +11,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
  **What information do we collect?**  
 We collect information from you when you register on our website, subscribe to our articles, respond to a survey or fill out a form.
 
-When ordering or registering on our website, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our website anonymously.
+When registering on our website, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our website anonymously.
 
 Google as a third party vendor, uses cookies to serve ads on our website. Google’s use of any cookie enables it to serve ads to our users based on their visit to our website and other websites on the Internet. Users may opt out of the use of the any cookie by visiting the Google ad and content network privacy policy.
 
@@ -43,3 +43,7 @@ http://www.allvitalpoints.com/terms-conditions/
  **angela.taylor@allvitalpoints.com**
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.allvitalpoints.com%2Fabout-us%2Fprivacy-policy%2F&media=)
+
+Category:  Product #: Regular price:$ (Sale ends !) Available from: Condition:  Good  ! Order now!
+
+Reviewed by  on. Rating: 
