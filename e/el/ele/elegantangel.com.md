@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elegantangel.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209102528id_/http%3A//www.clubelegantangel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantangel.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009093016id_/http%3A//www.clubelegantangel.com/privacy.html) for the most accurate reproduction.*
 
 # Club Elegant Angel
 
@@ -40,7 +40,7 @@ We utilize the services of outside advertising agencies to advertise our service
 
 The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site.
 
-**The subscriber may opt-out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site:**
+The subscriber may opt-out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site: 
 
 **Disclaimer**
 
@@ -48,7 +48,7 @@ By the subscriber's use of the site, the subscriber expressly agrees that the si
 
 By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
 
-All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
+All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site. 
 
 The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
 
