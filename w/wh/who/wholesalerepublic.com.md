@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalerepublic.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517172718id_/http%3A//www.wholesalerepublic.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalerepublic.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010162038id_/http%3A//www.wholesalerepublic.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
