@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504172227id_/https%3A//www.kraken.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010195625id_/https%3A//www.kraken.com/legal/privacy) for the most accurate reproduction.*
 
 # Kraken - Privacy Policy
 
