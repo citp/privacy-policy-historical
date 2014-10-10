@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612000739id_/http%3A//webanalyticssolutionprofiler.com/privacy-copyright-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010205217id_/http%3A//webanalyticssolutionprofiler.com/privacy-copyright-policies%23privacy) for the most accurate reproduction.*
 
 # Web Analytics Solution Profiler (WASP) - Website Privacy and Copyright Policies
 
@@ -24,15 +24,8 @@ The websites noted above will be referred to collectively as “Online Propertie
 
 For the purposes of this Policy:
 
-a) “Personally Identifiable Information”, or “PII”, is defined as any piece or  
-collection of information or data that can be used to identify an individual, or can  
-be related, whether processed or unprocessed, to an individual to find personal  
-characteristics, preferences, or other private information which would reveal their  
-identity;  
-b) “Confidential Information” is defined as any piece or collection of information or  
-data that could reveal commercially or personally sensitive information about an  
-organization, corporation, business, or individual which, if revealed, could cause  
-irreparable harm to that organization, corporation, business, or individual.
+a) “Personally Identifiable Information”, or “PII”, is defined as any piece or collection of information or data that can be used to identify an individual, or can be related, whether processed or unprocessed, to an individual to find personal characteristics, preferences, or other private information which would reveal their identity;  
+b) “Confidential Information” is defined as any piece or collection of information or data that could reveal commercially or personally sensitive information about an organization, corporation, business, or individual which, if revealed, could cause irreparable harm to that organization, corporation, business, or individual.
 
 **2. GENERAL POLICIES REGARDING INFORMATION COLLECTION AND USAGE.**
 
@@ -172,8 +165,8 @@ Cardinal Path can be contacted by postal mail in Canada at:
 
 Cardinal Path, Inc.  
 RE: Online Privacy Policy  
-1080 Howe St., Suite 503  
-Vancouver, BC V6Z 2T1 Canada
+1140 Pender St. W , Suite 840  
+Vancouver, BC V6E 4G1 Canada
 
 ## Copyright
 
