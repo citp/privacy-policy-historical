@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroclean.in privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608074322id_/http%3A//www.euroclean.in/privacy_policey.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroclean.in privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010151713id_/http%3A//euroclean.in/privacy_policey.html) for the most accurate reproduction.*
 
 # Euroclean
 
