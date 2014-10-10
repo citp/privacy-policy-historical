@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudistbare.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325151602id_/http%3A//www.nudistbare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudistbare.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010045115id_/http%3A//www.nudistbare.com/privacy.html) for the most accurate reproduction.*
 
 # 2014 NUDISM (HQ) - Online Nudist Privacy Policy
 
