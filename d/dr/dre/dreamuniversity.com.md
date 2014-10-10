@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamuniversity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115710id_/http%3A//dreamuniversity.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamuniversity.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010151058id_/http%3A//dreamuniversity.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dream UniversityDream University
 
