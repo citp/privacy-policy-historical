@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mancheck.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403104223id_/http%3A//mancheck.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mancheck.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010071922id_/http%3A//www.mancheck.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
@@ -41,6 +41,6 @@ There may be occasions when a subscriber will be presented with special offers e
 
 **Terms and Conditions of Membership:**
 
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](http://www.mancheck.com/join/terms.cfm) may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](http://www.mancheck.com/terms.html) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
