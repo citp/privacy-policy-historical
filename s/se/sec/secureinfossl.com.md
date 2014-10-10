@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureinfossl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045807id_/http%3A//www.premiumwebcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureinfossl.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010224549id_/http%3A//www.premiumwebcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Premium Web Cart Inc. - Privacy Policy
 
