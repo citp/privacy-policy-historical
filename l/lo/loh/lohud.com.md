@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lohud.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608130359id_/http%3A//static.lohud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lohud.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011000809id_/http%3A//static.lohud.com/privacy) for the most accurate reproduction.*
 
-# lohud.com Privacy Policy | lohud
+# Privacy Policy | lohud
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
@@ -14,7 +14,6 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 Mark Faris  
 Online Privacy Coordinator  
-[ lohud.com](http://www.lohud.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
@@ -99,7 +98,6 @@ If you have any questions about this Privacy Notice, our privacy practices, or y
 
 Mark Faris  
 Online Privacy Coordinator  
-[ lohud.com](http://www.lohud.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
