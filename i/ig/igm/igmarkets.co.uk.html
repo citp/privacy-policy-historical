@@ -1,47 +1,44 @@
-<!--The following is the downloaded HTML source of the igmarkets.co.uk privacy policy that was archived on 2014-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140329174402id_/http%3A//www.ig.com/uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igmarkets.co.uk privacy policy that was archived on 2014-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141010053520id_/http%3A//www.ig.com/uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="gtie9 gtie10 nojs" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
-	<meta charset="utf-8">   
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
-    
-    
-    
 
-    <title>Privacy Policy</title>
-	<meta name="keywords" content="">
+        
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+
+
+<title>Privacy Policy | IG UK</title><meta name="keywords" content="">
     <meta name="description" content="Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others.">
     <meta name="locale" id="locale" content="en_GB">
     <meta name="softid" id="softid" content="igcom">
-    <meta name="apple-itunes-app" content="app-id=736705884">
-                <link rel="canonical" href="http://www.ig.com/uk/privacy-policy">
+
+    <meta name="apple-itunes-app" content="app-id=406492428">
+            <link rel="canonical" href="http://www.ig.com/uk/privacy-policy">
 	<meta property="og:site_name" content="IG">
 
     <meta property="og:type" content="website">
-<meta property="og:image" content="http://www.ig.com/etc/designs/onedomain/1395729938000/images/og_image.jpg">
+<meta property="og:image" content="http://www.ig.com/etc/designs/onedomain/1412008513840/images/og_image.jpg">
 <meta property="og:title" content="Privacy policy">
     <meta property="og:url" content="http://www.ig.com/uk/privacy-policy">
 
     <meta property="og:description" content="Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others.">
 
     
-    <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@IGcom">
-<meta name="twitter:creator" content="@IGCom">
-<meta name="twitter:domain" content="www.IG.com">
 
-<meta name="twitter:app:name:iphone" content="">
-<meta name="twitter:app:id:iphone" content="">
-<meta name="twitter:app:url:iphone" content="">
 
-<meta name="twitter:app:name:ipad" content="">
-<meta name="twitter:app:url:ipad" content="">
-<meta name="twitter:app:id:ipad" content="">
 
-<meta name="twitter:app:name:googleplay" content="">
-<meta name="twitter:app:url:googleplay" content="">
-<meta name="twitter:app:id:googleplay" content="">
-	
+
+
+
+
+
+
 
 
 
@@ -101,6 +98,7 @@ var d = document;
 
 
 
+    PS.util.jspVars.set('loggedin.openDealerText')(['Open dealer']);
     PS.util.jspVars.set('loggedin.bannerText')(['You are now logged into your TYPE NAME account','Logout']);
     PS.util.jspVars.set('loggedin.popupText')('You have <br/> the dealing platform open in another tab');
     //URL for user details:
@@ -109,13 +107,18 @@ var d = document;
     //URL for remote logoff:
     PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
 
+    
     //this enables authentication for this template but not for the iframe or login template
     PS.util.jspVars.set('loggedin.authThisTemplate')(true);
 
     PS.util.jspVars.set('mobilePagePath')({"path":"", "vanity":""});
     PS.util.jspVars.set('shareWithIgmarkets')(true);
+    PS.util.jspVars.set('user.redirects')([]);
     PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7","mozilla":"3.6","safari":"3"});
     PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')(true);
+    PS.util.jspVars.set('hide_megascroller_bar')(false);
+    PS.util.jspVars.set('google.analytics.tracking.id')("UA-53269626-3");
     PS.util.jspVars.set('analytics.s_account')("adviggroupigcomuklive,adviggrouprollup");
     PS.util.jspVars.set('analytics.page_title')("Privacy policy");
     PS.util.jspVars.set('analytics.cq_page_name')("privacy-policy");
@@ -129,11 +132,41 @@ var d = document;
 
     //this is all used by site cat
 //TODO: update site cat init js to look to jspVars, then all this becomes redundant
+
+//set up namespaces and modules
+window.PS = window.PS || {}; // Public Sites namespace
+PS.util = PS.util || {};     //create module for mini-classes
+
+//only the global vars that we absolutely must have
 var analytics = analytics || {};
-analytics.s_account=PS.util.jspVars.get("analytics.s_account");
-analytics.page_title=PS.util.jspVars.get("analytics.page_title");
-analytics.cq_page_name=PS.util.jspVars.get("analytics.cq_page_name");
-analytics.path=PS.util.jspVars.get("analytics.path");
+
+(function(PS) {
+
+    "use strict";
+
+    /**
+     * Create the analytics object
+     * @constructor
+     */
+    function Analytics(){
+        Analytics.prototype.init();
+    }
+
+    /**
+     * Inits the properties with the needed value
+     *
+     * @param none
+     */
+    Analytics.prototype.init = function(){
+
+        analytics.s_account = PS.util.jspVars.get("analytics.s_account");
+        analytics.page_title = PS.util.jspVars.get("analytics.page_title");
+        analytics.cq_page_name = PS.util.jspVars.get("analytics.cq_page_name");
+        analytics.path = PS.util.jspVars.get("analytics.path");
+    };
+
+    PS.util.Analytics = new Analytics();
+}(PS));
 
     
     
@@ -142,26 +175,54 @@ analytics.path=PS.util.jspVars.get("analytics.path");
 
 
 
-var i18n={};i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-GB\/internet-explorer\/download-ie';i18n['clientlibs.browsers.deprecated.default.browser']='browser';i18n['clientlibs.browsers.deprecated.default.upgradelink']='https:\/\/www.google.com\/chrome';i18n['clientlibs.yes']='Yes';i18n['clientlibs.secondaryNav.more']='More';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.no']='No';i18n['clientlibs.browsers.deprecated.name.msie']='version of Internet Explorer';i18n['clientlibs.yes_no_cr']='Yes (No CR)';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';
+
+    var i18n= i18n || {};
+i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-GB\/internet-explorer\/download-ie';i18n['clientlibs.browsers.deprecated.default.browser']='browser';i18n['clientlibs.dates.september']='September';i18n['clientlibs.dates.march']='March';i18n['clientlibs.browsers.deprecated.default.upgradelink']='https:\/\/www.google.com\/chrome';i18n['clientlibs.yes']='Yes';i18n['clientlibs.dates.december']='December';i18n['clientlibs.dates.january']='January';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.dates.monday']='Monday';i18n['clientlibs.dates.october']='October';i18n['clientlibs.secondaryNav.more']='More';i18n['clientlibs.dates.february']='February';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.dates.august']='August';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.dates.saturday']='Saturday';i18n['clientlibs.dates.november']='November';i18n['clientlibs.dates.may']='May';i18n['clientlibs.dates.july']='July';i18n['clientlibs.no']='No';i18n['clientlibs.dates.april']='April';i18n['clientlibs.dates.june']='June';i18n['clientlibs.browsers.deprecated.name.msie']='version of Internet Explorer';i18n['clientlibs.yes_no_cr']='Yes (No CR)';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.dates.friday']='Friday';
 
     
 
-var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"page","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","priva508"],["CAT","priva473"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien589"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"IDD","cookie_value":"A=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien019"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien722"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien607"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien783"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien634"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien631"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien914"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien226"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien820"]]}],[{"vendor":"Diligent","description":"wtp101 tag","cookie_name":"","cookie_value":"","element":"js","func":"","scope":"page","type":"element","src":"//www.wtp101.com/pixel?id=__ID__","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","17607"]]}],[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","988543918"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]}]];
+var tagData = [[{"vendor":"Mouseflow","description":"Mouseflow user tracking tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//cdn.mouseflow.com/projects/11f51bf7-e8ff-4914-982c-ce4c6a769938.js","secureSrc":"","post_vars":[],"pre_vars":[["_mfq","obj-[]"]],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"page","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","priva508"],["CAT","priva473"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien589"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien722"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien607"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien783"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien634"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien631"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien914"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien226"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien820"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"demo-account","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4157917"],["TYPE","clien826"],["CAT","clien019"]]}],[{"vendor":"Adroll","description":"Adroll Smartpixel","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"http://a.adroll.com/j/roundtrip.js","secureSrc":"https://a.adroll.com/j/roundtrip.js","post_vars":[],"pre_vars":[["adroll_adv_id","GAS7KBYCZVD5HGC43JYJXS"],["adroll_pix_id","QHQSFXB5AFFRLF7KSG6JL3"]],"src_vars":[]}],[{"vendor":"Exelator","description":"Exelator demo tag","cookie_name":"ID","cookie_value":"demo-account","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA29064"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"A=1","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA30903"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"CS=1","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA14085"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=IN","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA32469"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=CU","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA18343"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=CO","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA14202"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=BI","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA19434"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=OP","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA20518"]]},{"vendor":"Exelator","description":"Exelator client tag","cookie_name":"ID","cookie_value":"PTI=SH","element":"img","func":"","scope":"site","segment":"","type":"element","src":"https://load.exelator.com/load/?lb=__VAR__&rand=%3Crandom","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","AA10041"]]}],[{"vendor":"Diligent","description":"wtp101 tag","cookie_name":"","cookie_value":"","element":"js","func":"","scope":"page","segment":"","type":"element","src":"//www.wtp101.com/pixel?id=__ID__","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","17607"]]}],[{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version.","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"site","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","268914066602947"]]}],[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","988543918"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing Everypage nojs","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"everypage","segment":"","type":"element","src":"http://www.googleadservices.com/pagead/conversion/__GOOGLEID__/?label=__GOOGLELABEL__&amp;guid=ON&amp;script=0","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["GOOGLEID","1037885815"],["GOOGLELABEL","1biwCOvb5QMQ98Lz7gM"]]}]];
 
 </script>
 
 
+
+
+
+
+
 <script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/en_GB/ex-nav/terms-and-agreements/privacy-policy","extension":"html","selectors":[],"systemId":"ea5e59d4-43b0-4a68-b37f-55ac264b0151","runModes":"samplecontent,uk,crx2,publish,crx3mongo,prod"};</script>
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1395729938000/clientlibs_head.min.js"></script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1412008513840/clientlibs_head.min.js"></script>
 
 
-<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/en_GB/ex-nav/terms-and-agreements/privacy-policy","extension":"html","selectors":[],"systemId":"ea5e59d4-43b0-4a68-b37f-55ac264b0151","runModes":"samplecontent,uk,crx2,publish,crx3mongo,prod"};</script>
-<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1395729938000/clientlibs_ps.min.css" type="text/css">
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1412008513840/clientlibs_ps.min.css" type="text/css">
 
 
-    
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@IGcom">
+<meta name="twitter:creator" content="@IGCom">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
 </head>
 
+    
 
 
 
@@ -169,14 +230,24 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
-    <body class="desktop privacy-policy content-page">
-        
 
-	    
+
+
+
+
+
+
+<body class="desktop privacy-policy content-page">
+
+
+
+
+
 
 
 
 <div class="wrapper">
+
    
 
 
@@ -185,8 +256,16 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
 <div class="header clearfix">
-    <div class="fluid-width inner">
+    <div class="fluid-width inner inner-anniversary">
         <p class="logo">
 			<a class="logo-link" href="/uk">
 				<span class="screenreader">home</span>
@@ -212,6 +291,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
             </div>
 
             
@@ -219,6 +299,15 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
                     <div class="top-nav">
                         <div class="linkList section">
                             <ul>            
+                            
+                                <li>
+									
+										
+										
+											<a target="_self" href="/uk/igplayer" class="normal js_target"><span>IG Player</span></a>
+										
+									
+                                </li>
                             
                                 <li>
 									
@@ -290,6 +379,14 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
     <ul class="header-cta">
         <li>
             <a id="header-login-button" href="/uk/login" class="button-grey button">
@@ -326,10 +423,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
 	
-	    
-            <p class="fluid-width"><span class="tertiary-header">With your IG account you're getting access to world class trading services</span></p>
-        
 		<div class="content-parsys parsys snippet-parsys">
 
 <!-- DBG: included_as_snippet=true -->
@@ -340,9 +437,28 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -375,6 +491,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         
@@ -387,6 +507,8 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 <ul>
 	<li><a href="/uk/spread-betting">Spread betting</a></li>
 	<li><a href="/uk/cfd-trading">CFD trading</a></li>
+	<li><a href="/uk/stockbroking-with-ig">Stockbroking</a></li>
+	<li><a href="/uk/investyourway">InvestYourWay</a></li>
 	<li><a href="/uk/spread-betting-versus-cfds">Spread betting vs CFDs</a></li>
 	<li><a href="/uk/spread-betting-cfds-risks">What are the risks?</a></li>
 </ul>
@@ -433,6 +555,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -440,6 +575,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -457,14 +596,15 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
                 <p class="quaternary-header">Range of markets</p>
 
 <ul>
-	<li><a href="/uk/forex-trading">Forex</a></li>
 	<li><a href="/uk/indices-trading">Indices</a></li>
+	<li><a href="/uk/forex-trading">Forex</a></li>
 	<li><a href="/uk/shares-trading">Shares</a></li>
 	<li><a href="/uk/commodities-trading">Commodities</a></li>
 	<li><a href="/uk/binaries-trading">Binaries</a></li>
 	<li><a href="/uk/sprint-markets-binaries">Sprint markets</a></li>
 	<li><a href="/uk/options-trading">Options</a></li>
 	<li><a href="/uk/other-markets">Other markets</a></li>
+	<li><a href="/uk/ipo-list">IPOs</a></li>
 </ul>
 
                 
@@ -501,6 +641,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -508,6 +661,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -579,6 +736,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -586,6 +756,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -601,24 +775,21 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
                 <p class="quaternary-header">Support</p>
+
 <ul>
-	<li>
-		<a href="/uk/client-support">Client support</a></li>
-	<li>
-		<a href="/uk/introduction-programme">Introduction programme</a></li>
-	<li>
-		<a href="/uk/premium-services">Premium services</a></li>
-	<li>
-		<a href="/uk/welcome-to-your-account">Welcome to your account</a></li>
+	<li><a href="/uk/client-support">Client support</a></li>
+	<li><a href="/uk/introduction-programme">Introduction programme</a></li>
+	<li><a href="/uk/premium-services">Premium services</a></li>
+	<li><a href="/uk/welcome-to-your-account">Welcome to your account</a></li>
+	<li><a href="/uk/monthly-newsletter">Monthly newsletter</a></li>
 </ul>
+
 <p class="quaternary-header">Before you apply</p>
+
 <ul>
-	<li>
-		<a href="/uk/how-to-apply">How to apply</a></li>
-	<li>
-		<a href="/uk/demo-account">Platform demos</a></li>
-	<li>
-		<a href="/uk/professional-corporate-trader">Corporate account</a></li>
+	<li><a href="/uk/how-to-apply">How to apply</a></li>
+	<li><a href="/uk/demo-account">Platform demos</a></li>
+	<li><a href="/uk/professional-corporate-trader">Corporate account</a></li>
 </ul>
 
                 
@@ -644,27 +815,42 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
-<div class="linkList-wrapper">
 
 
 
 
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
 
+    
+    
         
-            <li>
-                <a href="https://demo-deal.ig.com/dealing/pd/publicpd.htm?webSiteId=igi&amp;locale=en_GB&amp;profile=DEFAULT&amp;exitPath=spread-betting" class="button-green button "><span>Try our platform</span>
-                </a>
-                
-            </li>
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="https://demo-deal.ig.com/dealing/pd/publicpd.htm?webSiteId=igi&amp;locale=en_GB&amp;profile=DEFAULT&amp;exitPath=spread-betting" class="button-green button "><span>Try our platform</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
         
-
-        </ul>
+        
     
-    
-
 </div></div>
 
 </div>
@@ -693,10 +879,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
 	
-	    
-            <p class="fluid-width"><span class="tertiary-header">Access live data for over 7000 markets, plus news, tools and analysis</span></p>
-        
 		<div class="content-parsys parsys snippet-parsys">
 
 <!-- DBG: included_as_snippet=true -->
@@ -707,9 +893,28 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -742,6 +947,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         
@@ -752,15 +961,15 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
                 <p class="quaternary-header">Popular markets</p>
 
 <ul>
-	<li><a href="/uk/ig-forex/eur-usd">EUR/USD</a></li>
-	<li><a href="/uk/ig-forex/eur-gbp">EUR/GBP</a></li>
-	<li><a href="/uk/ig-forex/gbp-usd">GBP/USD</a></li>
 	<li><a href="/uk/ig-indices/ftse-100">FTSE 100</a></li>
 	<li><a href="/uk/ig-indices/wall-street">Wall Street</a></li>
-	<li><a href="/uk/ig-shares/royal-mail-plc">Royal Mail PLC</a></li>
-	<li><a href="/uk/ig-shares/twitter-inc">Twitter Inc</a></li>
+	<li><a href="/uk/ig-indices/germany-30">Germany 30</a></li>
+	<li><a href="/uk/ig-forex/eur-usd">EUR/USD</a></li>
+	<li><a href="/uk/ig-forex/gbp-usd">GBP/USD</a></li>
+	<li><a href="/uk/ig-shares/apple-inc-AAPL-US">Apple</a></li>
+	<li><a href="/uk/ig-shares/facebook-inc-FB-US">Facebook</a></li>
+	<li><a href="/uk/ig-shares/twitter-inc">Twitter</a></li>
 	<li><a href="/uk/ig-commodities/gold">Gold</a></li>
-	<li><a href="/uk/ig-commodities/silver">Silver</a></li>
 </ul>
 
                 
@@ -795,6 +1004,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -802,6 +1024,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -817,19 +1043,14 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
                 <p class="quaternary-header">Market data</p>
+
 <ul>
-	<li>
-		<strong><a class="none" href="/uk/market-data">All market data</a></strong></li>
-	<li>
-		<a href="/uk/forex">Forex</a></li>
-	<li>
-		<a href="/uk/indices">Indices</a></li>
-	<li>
-		<a href="/uk/shares">Shares</a></li>
-	<li>
-		<a href="/uk/commodities">Commodities</a></li>
-	<li>
-		<a href="/uk/bonds-and-rates">Bonds</a></li>
+	<li><strong><a class="none" href="/uk/market-data">All market data</a></strong></li>
+	<li><a href="/uk/forex">Forex data</a></li>
+	<li><a href="/uk/indices">Indices data</a></li>
+	<li><a href="/uk/shares">Shares data</a></li>
+	<li><a href="/uk/commodities">Commodities data</a></li>
+	<li><a href="/uk/bonds-and-rates">Bonds data</a></li>
 </ul>
 
                 
@@ -866,6 +1087,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -873,6 +1107,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -896,7 +1134,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 	<li><a href="/uk/indices-news">Indices news</a></li>
 	<li><a href="/uk/shares-news">Shares news</a></li>
 	<li><a href="/uk/commodities-news">Commodities news</a></li>
-	<li><a href="/uk/the-review">The Review and Outlook</a></li>
+	<li><a href="/uk/non-farm-payrolls">Non-farm payrolls</a></li>
 </ul>
 
                 
@@ -931,6 +1169,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -945,6 +1196,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         
@@ -952,13 +1207,21 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
-                <p class="quaternary-header">Additional tools</p>
+                <p class="quaternary-header">Trading tools and ideas</p>
 
 <ul>
+	<li><a href="/uk/week-ahead">The week ahead</a></li>
+	<li><a href="/uk/broker-ratings">Daily broker ratings</a></li>
+	<li><a href="/uk/shares-rsis-highs-lows">Daily shares RSIs, highs and lows</a></li>
+	<li><a href="/uk/out-of-hours-shares">Extended hours on US stocks</a></li>
 	<li><a href="/uk/ig-economic-calendar">Economic calendar</a></li>
+	<li><a href="/uk/ig-market-screener">Market screener</a></li>
 	<li><a href="/uk/ig-diary">Trading diary</a></li>
 	<li><a href="/uk/trading-central-newsletter">Trading Central email briefings</a></li>
 </ul>
+
+<div class="live-video-title"><p><a class="button button-grey js_target" href="/uk/live-video" target="_self">Discover IG Live</a></p>
+</div>
 
                 
             </div>
@@ -996,10 +1259,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
 	
-	    
-            <p class="fluid-width"><span class="tertiary-header">Skills development for traders of all levels, with practical guides, events and articles</span></p>
-        
 		<div class="content-parsys parsys snippet-parsys">
 
 <!-- DBG: included_as_snippet=true -->
@@ -1010,9 +1273,28 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1045,6 +1327,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         
@@ -1056,8 +1342,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 <ul>
 	<li><strong><a href="/uk/seminars">All seminars</a></strong></li>
-	<li><a href="/uk/building-a-portfolio-and-managing-risk">Building a portfolio and managing risk</a></li>
-	<li>Using our trading platform</li>
+	<li><a href="/uk/stock-index-trading-risk-management-advanced-charts1">Indices, charting and risk management</a></li>
 	<li><a href="/uk/our-speakers">Speakers</a></li>
 </ul>
 
@@ -1093,6 +1378,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-width baseline text-no-image">
@@ -1100,6 +1398,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -1115,21 +1417,15 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
                 <p class="quaternary-header">Articles and guides</p>
+
 <ul>
-	<li>
-		<strong><a href="/uk/trading-articles-and-guides">All articles and guides</a></strong></li>
-	<li>
-		<a href="/uk/introduction-to-spread-betting">Introduction to spread betting</a></li>
-	<li>
-		<a href="/uk/introduction-to-cfds">Introduction to CFDs</a></li>
-	<li>
-		<a href="/uk/shares-explained">Shares</a></li>
-	<li>
-		<a href="/uk/forex-essentials">Forex</a></li>
-	<li>
-		<a href="/uk/indices-explained">Indices</a></li>
-	<li>
-		<a href="/uk/other-markets-articles">Binaries</a></li>
+	<li><strong><a href="/uk/trading-articles-and-guides">All articles and guides</a></strong></li>
+	<li><a href="/uk/introduction-to-spread-betting">Introduction to spread betting</a></li>
+	<li><a href="/uk/introduction-to-cfds">Introduction to CFDs</a></li>
+	<li><a href="/uk/shares-articles">Shares guide</a></li>
+	<li><a href="/uk/forex-articles">Forex guide</a></li>
+	<li><a href="/uk/indices-articles">Indices guide</a></li>
+	<li><a href="/uk/other-markets-articles">Binaries guide</a></li>
 </ul>
 
                 
@@ -1166,13 +1462,30 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
-        <div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col3/rich_content.webimg.png/1370881287403/IGM_MENU_TradingSkills_4col.png" style="height:234px;" class=" text-layout-full-width crop-right baseline imagesize50">
+        <div style="" class=" text-layout-full-width baseline text-no-image">
 
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -1188,19 +1501,14 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
                 <p class="quaternary-header">&nbsp;</p>
+
 <ul>
-	<li>
-		<a href="/uk/what-is-short-selling">Short selling</a></li>
-	<li>
-		<a href="/uk/introduction-to-leverage">Leverage</a></li>
-	<li>
-		<a href="/uk/types-of-risk">Managing risk</a></li>
-	<li>
-		<a href="/uk/what-is-a-trading-plan">Developing a trading plan</a></li>
-	<li>
-		<a href="/uk/trading-psychology">Common mistakes</a></li>
-	<li>
-		<a class="none" href="/uk/introduction-to-technical-analysis">Technical analysis</a></li>
+	<li><a href="/uk/what-is-short-selling">Short selling</a></li>
+	<li><a href="/uk/introduction-to-leverage">Leverage</a></li>
+	<li><a href="/uk/types-of-risk">Managing risk</a></li>
+	<li><a href="/uk/what-is-a-trading-plan">Developing a trading plan</a></li>
+	<li><a href="/uk/trading-psychology">Common mistakes</a></li>
+	<li><a class="none" href="/uk/introduction-to-technical-analysis">Technical analysis</a></li>
 </ul>
 
                 
@@ -1216,6 +1524,108 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 </div>
 
         <div class="parsys col col4">
+<div class="content promo section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col4/promo.webimg.jpg/1410430794770.jpg" style="height:230px;" class="theme
+        
+        text-left
+        full-width
+        
+        crop-right
+         js_clickable 
+    ">
+    
+
+    
+
+    <div class="text">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+        
+
+
+
+
+
+
+<p class="primary-standfirst"><font color="#FFFFFF">IG Player</font></p>
+
+<p>Exclusive, on-demand videos, including market news, analysis and educational guides</p>
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="  normal js_target" href="/uk/igplayer" target="_self">
+    
+        </a>
+    </p>
+
+
+        
+        
+    </div>
+
+    
+</div></div>
 
 </div>
 
@@ -1243,14 +1653,20 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
 	
-	    
-            <p class="fluid-width"><span class="tertiary-header">We offer world-class tools and execution for serious traders at all levels</span></p>
-        
 		<div class="content-parsys parsys snippet-parsys">
 
 <!-- DBG: included_as_snippet=true -->
 <div class="igColumns section">
+
+
+
+
+
+
 
 
 
@@ -1282,6 +1698,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -1289,6 +1718,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -1345,6 +1778,9 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
 <div class="header-bottom" id="secondary-cq-menu">
         <div class="header-secondary-nav">
             <ul class="secondary-nav" id="secondary-nav">
@@ -1376,6 +1812,9 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
         <div class="breadcrumb-bar">
             <div class="fluid-width">
                 <div class="breadcrumb">
@@ -1389,6 +1828,9 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 				    </ul>
 			    </div>
                 
+
+
+
 
 
 
@@ -1423,6 +1865,15 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
         </div>
 
    
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1482,6 +1933,19 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -1489,6 +1953,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -1634,7 +2102,15 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="footer">
+
+
+
+
+
+
+
+
+<div class="footer UK">
     <div class="footer-section-1">
         <div class="fluid-width">
             <div class="footer-padding">
@@ -1660,9 +2136,22 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
-        <div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/jcr%3Acontent/footer-section-1-parsys/rich_content.webimg.png/1380191056109/Blank_30.png" style="height:30px;" class="white-opaque text-layout-full-width crop-right baseline imagesize50">
+        <div data-background-image="//a.c-dn.net/c/content/igcom/en_GB/jcr%3Acontent/footer-section-1-parsys/rich_content.webimg.png/1380191056109.png" style="height:30px;" class="white-opaque text-layout-full-width crop-right baseline imagesize50">
 
             <div class="text text-content" style="">
                 
@@ -1674,8 +2163,12 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
     
-        <h3 class="heading">
+        <h3 class="heading ">
         Any questions?
         </h3>
     
@@ -1700,9 +2193,28 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1735,6 +2247,10 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
     
     
         
@@ -1755,15 +2271,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
     
-             
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col1/rich_content.webimg.png/1377706644681/IGM_Content_Footer-Account_20pc.png" data-alt="New accounts" data-classnames="crop-right " data-height="58" data-width="56" data-link="">          
-       <noscript>
-         
-         <img title="IGM_Content_Footer-Account_20pc" alt="New accounts" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/_jcr_content/footer-section-1-parsys/columns/col%20col1/rich_content.webimg.png/1377706644681/IGM_Content_Footer-Account_20pc.png">
-         
-       </noscript>             
-     </p>                     
+    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col1/rich_content.webimg.png/1377706644681.png" data-alt="New accounts" data-classnames="crop-right " data-height="58" data-width="56" data-link="">
+    <noscript>
+        
+            <img title="IGM_Content_Footer-Account_20pc" alt="New accounts" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/jcr%3acontent/footer-section-1-parsys/columns/col%20col1/rich_content.webimg.png/1377706644681.png">
+            
+    </noscript>
+    </p>
+
 
                 </div>
             
@@ -1795,6 +2315,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="height:58px;" class=" text-layout-right baseline imagesize20">
@@ -1802,6 +2335,10 @@ We may collect personal information you enter when using our website.</p>
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -1829,15 +2366,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
     
-             
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col2/rich_content.webimg.png/1377706788980/IGM_Content_Footer-Helpdesk_20pc.png" data-alt="Helpdesk" data-classnames="crop-right " data-height="58" data-width="56" data-link="">          
-       <noscript>
-         
-         <img title="IGM_Content_Footer-Helpdesk_20pc" alt="Helpdesk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/_jcr_content/footer-section-1-parsys/columns/col%20col2/rich_content.webimg.png/1377706788980/IGM_Content_Footer-Helpdesk_20pc.png">
-         
-       </noscript>             
-     </p>                     
+    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col2/rich_content.webimg.png/1377706788980.png" data-alt="Helpdesk" data-classnames="crop-right " data-height="58" data-width="56" data-link="">
+    <noscript>
+        
+            <img title="IGM_Content_Footer-Helpdesk_20pc" alt="Helpdesk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/jcr%3acontent/footer-section-1-parsys/columns/col%20col2/rich_content.webimg.png/1377706788980.png">
+            
+    </noscript>
+    </p>
+
 
                 </div>
             
@@ -1871,6 +2412,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="height:78px;" class=" text-layout-right baseline imagesize20">
@@ -1878,6 +2432,10 @@ We may collect personal information you enter when using our website.</p>
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -1894,7 +2452,7 @@ We may collect personal information you enter when using our website.</p>
 
                 <p><strong>Dealing desk</strong><br>
 +44 20 7896 0000<br>
-+44 20 7633 5323 (CFDs)</p>
++44 20 7633 5323</p>
 
                 
             </div>
@@ -1905,15 +2463,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
     
-             
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col3/rich_content.webimg.png/1387795397347/IGM_Content_Footer-DeaingDesk_20pc01.png" data-alt="Dealing desk" data-classnames="crop-right " data-height="78" data-width="56" data-link="">          
-       <noscript>
-         
-         <img title="IGM_Content_Footer-DeaingDesk_20pc01" alt="Dealing desk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/_jcr_content/footer-section-1-parsys/columns/col%20col3/rich_content.webimg.png/1387795397347/IGM_Content_Footer-DeaingDesk_20pc01.png">
-         
-       </noscript>             
-     </p>                     
+    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_GB/jcr:content/footer-section-1-parsys/columns/col col3/rich_content.webimg.png/1407340373856.png" data-alt="Dealing desk" data-classnames="crop-right " data-height="78" data-width="56" data-link="">
+    <noscript>
+        
+            <img title="IGM_Content_Footer-DeaingDesk_20pc01" alt="Dealing desk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_GB/jcr%3acontent/footer-section-1-parsys/columns/col%20col3/rich_content.webimg.png/1407340373856.png">
+            
+    </noscript>
+    </p>
+
 
                 </div>
             
@@ -1940,27 +2502,42 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
 
 
 
 
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
 
+    
+    
         
-            <li>
-                <a href="http://portal.ig.com/support/?websiteLocale=en_EN&amp;webSiteId=pub" class="block-arrow " target="_blank"><span>Help and support portal</span>
-                </a>
-                
-            </li>
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="http://portal.ig.com/support/?websiteLocale=en_EN&amp;webSiteId=pub" class="block-arrow " target="_blank"><span>Help and support portal</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
         
-
-        </ul>
+        
     
-    
-
 </div></div>
 
 </div>
@@ -1995,29 +2572,50 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
 
 
 
 
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
 
+    
+    
         
-            <li>
-                <a href="/uk/services-ig" class="block-arrow " title="Our services"><span>Our services</span>
-                </a>
-                
-            </li>
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/services-ig" class="block-arrow " title="Our services"><span>Our services</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
         
-
-        </ul>
+        
     
-    
-
 </div></div>
 <div class="igColumns section">
+
+
+
+
+
+
 
 
 
@@ -2040,41 +2638,74 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
-
-
-	<h3>Dealing products</h3>
 
 
 
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
-
-        
-            <li>
-                <a href="/uk/spread-betting" class="small-red-arrow " title="Spread betting"><span>Spread betting</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/cfd-trading" class="small-red-arrow " title="CFD trading"><span>CFD trading</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/spread-betting-versus-cfds" class="small-red-arrow "><span>Spread betting vs CFDs</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
-    
+        <h3 class="linkList-header linkList-header-top">Dealing products</h3>
     
 
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/spread-betting" class="small-red-arrow " title="Spread betting"><span>Spread betting</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/cfd-trading" class="small-red-arrow " title="CFD trading"><span>CFD trading</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/stockbroking-with-ig" class="small-red-arrow " title="Stockbroking with IG"><span>Stockbroking with IG</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/spread-betting-versus-cfds" class="small-red-arrow " title="Spread betting vs CFDs"><span>Spread betting vs CFDs</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 <div class="linkList section">
 
@@ -2090,35 +2721,44 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
-
-
-	<h3>Charges and margins</h3>
 
 
 
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
-
-        
-            <li>
-                <a href="/uk/spread-betting-cfds-charges" class="small-red-arrow "><span>Our charges</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/spread-betting-cfds-margin" class="small-red-arrow "><span>Margins</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
-    
+        <h3 class="linkList-header linkList-header-top">Charges and margins</h3>
     
 
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/spread-betting-cfds-charges" class="small-red-arrow "><span>Our charges</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2138,59 +2778,94 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
-
-
-	<h3>Range of markets</h3>
 
 
 
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
-
-        
-            <li>
-                <a href="/uk/forex-trading" class="small-red-arrow " title="Forex"><span>Forex</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/indices-trading" class="small-red-arrow " title="Indices"><span>Indices</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/shares-trading" class="small-red-arrow "><span>Shares</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/commodities-trading" class="small-red-arrow " title="Commodities"><span>Commodities</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/binaries-trading" class="small-red-arrow "><span>Binaries</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/options-trading" class="small-red-arrow "><span>Options</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
-    
+        <h3 class="linkList-header linkList-header-top">Range of markets</h3>
     
 
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/forex-trading" class="small-red-arrow " title="Forex"><span>Forex</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/indices-trading" class="small-red-arrow " title="Indices"><span>Indices</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/shares-trading" class="small-red-arrow "><span>Shares</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/commodities-trading" class="small-red-arrow " title="Commodities"><span>Commodities</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/binaries-trading" class="small-red-arrow "><span>Binaries</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/options-trading" class="small-red-arrow "><span>Options</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2212,41 +2887,74 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
-
-
-	<h3>Tools &amp; technology</h3>
 
 
 
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
-
-        
-            <li>
-                <a href="/uk/trading-platform-devices" class="small-red-arrow "><span>Dealing platforms &amp; devices</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/tablet-trading-platform" class="small-red-arrow "><span>iPad dealing</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/mobile-trading-platform" class="small-red-arrow "><span>Mobile dealing</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
-    
+        <h3 class="linkList-header linkList-header-top">Tools &amp; technology</h3>
     
 
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/trading-platform-devices" class="small-red-arrow "><span>Dealing platforms &amp; devices</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/tablet-trading-platform" class="small-red-arrow "><span>iPad dealing</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/mobile-trading-platform" class="small-red-arrow "><span>Mobile dealing</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/apis" class="small-red-arrow "><span>APIs</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2266,35 +2974,54 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
-
-
-	<h3>Support</h3>
 
 
 
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
-
-        
-            <li>
-                <a href="/uk/client-support" class="small-red-arrow " title="24 hour customer service"><span>Client support</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/introduction-programme" class="small-red-arrow "><span>Introduction programme</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
-    
+        <h3 class="linkList-header linkList-header-top">Support</h3>
     
 
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/client-support" class="small-red-arrow " title="24 hour customer service"><span>Client support</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/introduction-programme" class="small-red-arrow "><span>Introduction programme</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 <div class="linkList section">
 
@@ -2310,35 +3037,54 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
-
-
-	<h3>Before you apply</h3>
 
 
 
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
-
-        
-            <li>
-                <a href="/uk/how-to-apply" class="small-red-arrow "><span>How to apply</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/demo-account" class="small-red-arrow "><span>Platform demos</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
-    
+        <h3 class="linkList-header linkList-header-top">Before you apply</h3>
     
 
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/how-to-apply" class="small-red-arrow "><span>How to apply</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/demo-account" class="small-red-arrow "><span>Platform demos</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2366,6 +3112,12 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="linkList section">
@@ -2382,45 +3134,72 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
 
 
 
 
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
 
-        
-            <li>
-                <a href="/uk/ig-financial-markets" class="block-arrow "><span>Market insight</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/market-data" class="small-red-arrow "><span>Market data</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/market-news-and-analysis" class="small-red-arrow "><span>News and analysis</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/ig-economic-calendar" class="small-red-arrow "><span>Economic calendar</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
     
     
+        
+            <ul class="linkList-items ">
 
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/ig-financial-markets" class="block-arrow "><span>Market insight</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/market-data" class="small-red-arrow "><span>Market data</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/market-news-and-analysis" class="small-red-arrow "><span>News and analysis</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/ig-economic-calendar" class="small-red-arrow "><span>Economic calendar</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2440,45 +3219,62 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
 
 
 
 
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
 
-        
-            <li>
-                <a href="/uk/trading-skills" class="block-arrow "><span>Trading skills</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/seminars" class="small-red-arrow "><span>Seminars</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/trading-articles-and-guides" class="small-red-arrow "><span>Trading guides</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="/uk/shares-trading-guide" class="small-red-arrow "><span>Guide for shares traders</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
     
     
+        
+            <ul class="linkList-items ">
 
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/trading-skills" class="block-arrow "><span>Trading skills</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/seminars" class="small-red-arrow "><span>Seminars</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/trading-articles-and-guides" class="small-red-arrow "><span>Trading guides</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2500,33 +3296,170 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
+
+
+
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
+
+    
+
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/about-ig" class="block-arrow "><span>About IG</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/social-media" class="small-red-arrow "><span>Find us online</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
+</div></div>
+<div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
     
-        <ul>
+    
+        <div style="" class=" text-layout-full-left baseline text-no-image">
 
-        
-            <li>
-                <a href="/uk/about-ig" class="block-arrow "><span>About IG</span>
-                </a>
+            <div class="text text-content" style="">
                 
-            </li>
-        
-            <li>
-                <a href="/uk/social-media" class="small-red-arrow "><span>Find us online</span>
-                </a>
                 
-            </li>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
         
-
-        </ul>
-    
     
 
+
+
+                
+                
+            </div>
+
+            
+        </div>
+
+        
+    
+</div>
+<div class="linkList section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
+
+    
+
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/igplayer" class="block-arrow "><span>IG Player</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2546,33 +3479,52 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper">
 
 
 
 
+
+
+
+
+
+<div class="linkList-wrapper
+    
+    ">
 
     
-        <ul>
 
-        
-            <li>
-                <a href="/uk/create-account" class="button-green button "><span>Create account</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="https://demo-deal.ig.com/dealing/pd/publicpd.htm?webSiteId=igi&amp;locale=en_GB&amp;profile=DEFAULT&amp;exitPath=spread-betting" class="button-grey button "><span>Try our platform</span>
-                </a>
-                
-            </li>
-        
-
-        </ul>
     
     
+        
+            <ul class="linkList-items ">
 
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="/uk/create-account" class="button-green button "><span>Create account</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="https://demo-deal.ig.com/dealing/pd/publicpd.htm?webSiteId=igi&amp;locale=en_GB&amp;profile=DEFAULT&amp;exitPath=spread-betting" class="button-grey button "><span>Try our platform</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2593,13 +3545,19 @@ We may collect personal information you enter when using our website.</p>
                 <div class="footer-logo" itemscope="" itemtype="http://schema.org/Organization">
                     <a itemprop="url" href="/uk">
                         
-                        <img itemprop="logo" src="//www.ig.com/etc/designs/onedomain/1395729938000/images/schema_image.jpg" width="20">
+                        <img itemprop="logo" src="//www.ig.com/etc/designs/onedomain/1412008513840/images/schema_image.jpg" width="20">
                     </a>
                 </div>
                 <div class="parsys iparsys footer-section-3-parsys">
 <div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys footer-section-3-parsys">
 <div class="igColumns section">
+
+
+
+
+
+
 
 
 
@@ -2627,6 +3585,19 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -2634,6 +3605,10 @@ We may collect personal information you enter when using our website.</p>
             <div class="text text-content" style="">
                 
                 
+
+
+
+
 
 
 
@@ -2677,45 +3652,74 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<div class="linkList-wrapper inline ">
 
 
 
 
 
-    
-        <ul>
 
-        
-            <li>
-                <a href="http://www.iggroup.com/" class="small-red-arrow " title="IG Group" target="_blank"><span>IG Group</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="http://www.ig.com?rc=true" class="small-red-arrow " title="International" target="_blank"><span>International </span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="http://www.igmarketspartners.com/" class="small-red-arrow " title="Partners" target="_blank"><span>Partners</span>
-                </a>
-                
-            </li>
-        
-            <li>
-                <a href="http://www.iggroup.com/corporate/careers.html" class="small-red-arrow " title="Careers" target="_blank"><span>Careers</span>
-                </a>
-                
-            </li>
-        
 
-        </ul>
+
+
+<div class="linkList-wrapper
     
     
+        inline 
+    ">
 
+    
+
+    
+    
+        
+            <ul class="linkList-items ">
+
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="http://www.iggroup.com/" class="small-red-arrow " title="IG Group" target="_blank"><span>IG Group</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="http://www.ig.com?rc=true" class="small-red-arrow " title="International" target="_blank"><span>International </span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="http://www.igmarketspartners.com/" class="small-red-arrow " title="Partners" target="_blank"><span>Partners</span>
+                    </a>
+                    
+                </li>
+            
+                <li class="linkList-item
+                        
+                        
+                        js_clickable">
+
+                    <a href="http://www.iggroup.com/corporate/careers.html" class="small-red-arrow " title="Careers" target="_blank"><span>Careers</span>
+                    </a>
+                    
+                </li>
+            
+
+            </ul>
+        
+        
+    
 </div></div>
 
 </div>
@@ -2730,7 +3734,10 @@ We may collect personal information you enter when using our website.</p>
 
             </div>
         </div>
-    </div>    
+    </div>
+
+
+
     <div class="footer-section-4">
         <div class="fluid-width">
             <div class="footer-padding">
@@ -2738,6 +3745,19 @@ We may collect personal information you enter when using our website.</p>
 <div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys footer-section-4-parsys">
 <div class="content section rich-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2770,6 +3790,10 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
     
     
         
@@ -2777,9 +3801,9 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-                <p>Spread bets and CFDs are leveraged products. Spread betting and CFD trading may not be suitable for everyone and can result in losses that exceed your deposits, so please ensure that you fully understand the risks involved. CFDs provided by IG Markets Limited, spread betting provided by IG Index Limited.</p>
+                <p><strong>Spread bets and CFDs are leveraged products and can result in losses that exceed deposits. The value of shares, ETFs and ETCs bought through an IG stockbroking or stocks and shares ISA account can fall as well as rise, which could mean getting back less than you originally put in. Please ensure you fully understand the risks and take care to manage your exposure.</strong></p>
 
-<p>IG is a trading name of IG Markets Limited (a company registered in England and Wales, company number 04008957) and IG Index Limited (a company registered in England and Wales, company number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. Both IG Markets Limited (register number 195355) and IG Index Limited (register number 114059) are authorised and regulated by the Financial Conduct Authority. Excludes binary bets, where IG Index Limited is licensed and regulated by the Gambling Commission, reference number 2628. IG supports responsible gambling, for information and advice please visit <a href="http://www.gambleaware.co.uk">www.gambleaware.co.uk</a>.</p>
+<p>CFD, stockbroking and stocks and shares ISA accounts provided by IG Markets Ltd, spread betting provided by IG Index Ltd. IG is a trading name of IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. Both IG Markets Ltd (Register number 195355) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority. Excludes binary bets, where IG Index Ltd is licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx" target="_blank">Gambling Commission, reference number 2628</a>. IG Index supports responsible gambling, for information and advice please visit <a href="http://www.gambleaware.co.uk/" target="_blank">www.gambleaware.co.uk</a>.</p>
 
 <p>The information on this site is not directed at residents of the United States or any particular country outside the UK and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.</p>
 
@@ -2810,10 +3834,18 @@ We may collect personal information you enter when using our website.</p>
 
 
 
+
+
+
+
+
+
+
+
 	<div class="sticky-footer " id="sticky-footer">
 	    <div class="fluid-width">
-	        <p class="disclaimer-text">Spread bets and CFDs are leveraged products. Spread betting and CFD trading may not be suitable for everyone and can result in losses that exceed your deposits, so please ensure that you fully understand the risks involved. </p>
-	        <div class="close-icon" id="sticky-footer-close-icon"></div>
+	        <p class="disclaimer-text">All trading involves risk. Spread bets and CFDs are leveraged products and can result in losses that exceed deposits. The value of shares, ETFs and ETCs bought through a stockbroking account can fall as well as rise. Please take care to manage your exposure.</p>
+            
 	    </div>
 	</div>
 
@@ -2827,9 +3859,14 @@ We may collect personal information you enter when using our website.</p>
 
 
 
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1395729938000/clientlibs_ps.min.js"></script>
 
 
 
-        
-    </body></html>
+
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1412008513840/clientlibs_ps.min.js"></script>
+
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/cq-cms-core/1411164997000/clientlibs_encryption.min.js"></script>
+
+
+
+</body></html>
