@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121745id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010210158id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
 
 # Instant Cash Sweepstakes Terms
 
@@ -40,7 +40,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ##### There are Times When We Learn Your Name or Other PIA
 
-We may learn your name on certain occasions, but we do not store it within the ICS and PV databases or use it for any other purpose than to resolve a customer support issue initiated by you. For instance, if you send us an email, your name may be revealed to us in your email address, or because you have used your name in your email. If you post a message on our [blog](http://blog.instantcashsweepstakes.com/) or [Get Satisfaction](http://getsatisfaction.com/instantcashsweepstakescom) page, you may choose to sign it with your real name. We do not encourage you to publically reveal your name even though no 3rd parties will be able to see your registration demographics or other personal information. When we send you money by PayPal.com, your name may be revealed to us in our Paypal account but we will not transfer your name to the ICS or PV database. We have no interest in knowing your personal identity. 
+We may learn your name on certain occasions, but we do not store it within the ICS and PV databases or use it for any other purpose than to resolve a customer support issue initiated by you. For instance, if you send us an email, your name may be revealed to us in your email address, or because you have used your name in your email. If you post a message on our [blog](https://www.facebook.com/InstantCashSweepstakes) or [Get Satisfaction](http://getsatisfaction.com/instantcashsweepstakescom) page, you may choose to sign it with your real name. We do not encourage you to publically reveal your name even though no 3rd parties will be able to see your registration demographics or other personal information. When we send you money by PayPal.com, your name may be revealed to us in our Paypal account but we will not transfer your name to the ICS or PV database. We have no interest in knowing your personal identity. 
 
 ##### Customer Testimonials/Comments/Reviews/User Feedback
 
