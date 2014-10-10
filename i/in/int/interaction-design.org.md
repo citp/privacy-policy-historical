@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062231id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010173438id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -56,13 +56,13 @@ If so, you might like to try Tor, an anonymous browsing service.
 
 We make no guarantee that the information that you provide us will be secure.
 
-### Changes to this page
+Join our community and advance:
 
-07 Sep 2004: Modified  
-28 Apr 2003: Added  
+Your  
+Skills
 
+Your  
+Network
 
-### Page Information
-
-Author(s): Mads Soegaard  
-URL: http://www.interaction-design.org/about/privacy.html 
+Your  
+Career
