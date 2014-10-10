@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125846id_/http%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010040854id_/http%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Black Milk Clothing
-
-## Privacy Policy
+# Privacy Policy › Black Milk Clothing
 
 The Privacy Statement applies to the collection, storage, use and dissemination by Black Milk Clothing Pty Ltd (ACN 87 140 574 009) ( **Black Milk, we, our, us** ) of your ( **You, Your** ) personal information.
 
