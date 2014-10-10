@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantopian.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183327id_/https%3A//www.quantopian.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantopian.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010192047id_/https%3A//www.quantopian.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,7 +120,7 @@ Quantopian is committed to protecting the security of your Personal Information.
 
 ### 11\. Contact Information.
 
-Quantopian welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at feedback@quantopian.com or contact us at the following address: 
+Quantopian welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [feedback@quantopian.com](mailto:feedback@quantopian.com) or contact us at the following address: 
     
     
     Quantopian
