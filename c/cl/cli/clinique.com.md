@@ -1,170 +1,238 @@
-> *The following text is extracted and transformed from the clinique.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827062516id_/http%3A//www.clinique.com/cms/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinique.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011011348id_/http%3A//www.clinique.com/customer-care/general-info/privacy-policy) for the most accurate reproduction.*
 
-# Customer Service | Privacy Policy
+# Customer Care - Privacy Policy | Clinique
 
-Clinique Canada Online Privacy Policy  
-  
----  
-  
-Effective Date: October 04, 2011
+Effective Date: July 29, 2014
 
- **CLINIQUE CANADA ONLINE PRIVACY POLICY**
+Clinique Laboratories LLC United States Privacy Policy
 
-We at [Clinique Canada Online](https://web.archive.org/cms/customer_service/general_information.tmpl) respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and our Terms and Conditions [hyperlink].
-
-This Privacy Policy describes the types of personal information we collect on the Clinique Canada Online website, located at www.clinique.ca (" ** _Site_** "), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you can access, modify or delete your personal information. 
-
-Please note that this Privacy Policy governs only personal information collected, used or disclosed by the Clinique Canada Online website. It does not govern any other information or communications that may reference Clinique, _e.g._ , communications from Clinique counters located within brick and mortar retail stores. If you visit one of our other regional websites, _e.g._ clinique.com, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.
+Clinique Laboratories LLC (“we, us, or our”) respect your concerns about privacy and value the relationship we have with you. This Privacy Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information. We also describe the measures we take to protect the security of the information and how our customers can contact us about our privacy practices.
 
 Click on one of the links below to jump to the listed section:
 
-Information We Collect and How We Use It   
-Use of Personal Information by Clinique Online   
-     Marketing Communications   
-     Communications to Serve You   
-     Customomized Service   
-     Special Events, Questionnaires and Surveys   
-     Employment   
-Technologies That Allow Us To Customize Your Experience On Our Site   
-     Web Beacons and Tracking Links   
-     Cookies   
-     Coremetrics   
-Information We Share and With Whom We Share It   
-     Group Companies   
-     Third Parties   
-     Business Transfers   
-     Compliance With Law   
-Transfer of Data to Other Countries   
-Children's Privacy   
-How We Protect Personal Information   
-Updates to Our Privacy Policy   
-Your Choices   
-     Updating Your Information   
-     Opt-Out and Managing Your Preferences   
-Data Processor   
-Comments  
+  * Information We Collect
+    * Information You Provide
+      * How We Use the Information
+    * Information We Collect by Automated Means
+      * Technologies We Use
+        * Cookies, Web Server Logs and Web Beacons
+        * Third Party Web Analytics Services
+      * Targeted Advertising
+      * How We Use the Information Collected by Automated Means
+      * California Do Not Track Notice
+  * Information We Share
+  * Your Rights And Choices
+  * Data Transfers
+  * Children’s Privacy
+  * How We Protect Personal Information
+  * Links To Other Websites
+  * Updates To Our Privacy Policy
+  * How To Contact Us
+
+
+
+* * *
+
+Information We Collect
+
+We may obtain personal information about you from various sources. We may collect this information when you provide it at one of our stores, on our website or in connection with our social networking or mobile applications. Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to us. This Privacy Policy does not address any data collection at our retail partners. When you visit this site or our social networking or mobile applications, we may also collect certain information by automated means, using technologies such as cookies, web server logs and web beacons.
+
+> * * *
+> 
+> Information You Provide
+> 
+> You may choose to provide personal information to us in a number of ways, such as when you participate in an offer or promotion, or when you make a purchase on our site or in our stores. The types of personal information you may provide to us includes:
+> 
+>   * Contact information (such as name, postal address, email address, and mobile or other phone number)
+>   * Age and date of birth
+>   * Gender
+>   * Username and password
+>   * Payment information (such as your payment card number, expiration date, delivery address, and billing address)
+>   * Your skincare concerns
+>   * Contact information for friends or other people you would like us to contact
+>   * Content you provide (such as photographs, articles and comments)
+>   * Information provided to us by social networks or mobile applications when you use one of our social networking or mobile applications (such as your name, profile picture, likes, location, friend list and other information described in the social networking application sign-up page, or your geo-location details when using one of our mobile applications)
+> 
+
+>
+>> * * *
+>> 
+>> How We Use The Information
+>> 
+>> We may use the information you provide to:
+>> 
+>>   * Send you promotional materials or other communications
+>>   * Provide services to you
+>>   * Process your payment card transactions
+>>   * Create and manage your online account
+>>   * Respond to your inquiries
+>>   * Communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, surveys and other offers
+>>   * Operate and communicate with you about our social networking or mobile applications
+>>   * Operate, evaluate and improve our business (including developing new products and services; managing our communications; analyzing our products; performing data analytics; and performing accounting, auditing and other internal functions)
+>>   * Comply with applicable legal requirements, relevant industry standards and our policies
+>> 
+
+>> 
+>> We also may use the information in other ways for which we provide specific notice at the time of collection.
+
+> * * *
+> 
+> Information We Collect by Automated Means
+> 
+> When you visit this site or our online advertisements or use one of our social networking or mobile applications, we collect certain information about your usage or device by automated means or by using technologies such as cookies, web server logs and web beacons.  For example, if you use one of our mobile applications, we may collect your unique device identifier (or other device identifier) and/or geolocation data in order to offer you certain features or functionalities within that mobile application.  As set forth in more detail below, we may also collect information about your usage, preferences, and browsing habits using various web-based technologies.
+>
+>> * * *
+>> 
+>> Technologies We Use
+>>
+>>> * * *
+>>> 
+>>> Cookies, Web Server Logs and Web Beacons
+>>> 
+>>> Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser.  Your browser may tell you how to be notified when you receive certain types of cookies and may provide you with the ability to reject or delete cookies.  Please note, however, that without cookies you may not be able to use all of the features of our website.
+>>> 
+>>> In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located.  The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet.
+>>> 
+>>> To control which web servers collect this information, we may place tags on our web pages called “web beacons.”  These are computer instructions that link web pages to particular web servers and their cookies.
+>>> 
+>>> * * *
+>>> 
+>>> Third Party Web Analytics Services
+>>> 
+>>> We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Coremetrics and Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of Coremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please [click here](https://web.archive.org/customer_service/coremetrics_optout.tmpl). To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+>> 
+>> * * *
+>> 
+>> Targeted Advertising
+>> 
+>> We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails; on third-party websites and emails; and on our advertising placed on third-party websites.  They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us).  You may see these advertisements on other websites.  This process also helps us manage and track the effectiveness of our marketing efforts.  To learn more about these and other advertising networks and their opt-out instructions, [click here](http://www.networkadvertising.org/choices/).
+>> 
+>> * * *
+>> 
+>> How We Use the Information Collected by Automated Means
+>> 
+>> We may use the information collected through automated means like cookies on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms and Conditions](https://web.archive.org/customer-care/general-info/terms-conditions).  In addition, we may use this information to deliver a more personalized experience to you while you are on our site.   We also may use the information in other ways for which specific notice is provided at the time of collection.
+>> 
+>> * * *
+>> 
+>> California Do Not Track Notice
+>> 
+>> Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection.  At this time, we do not track our customers’ personal information over time and across third-party websites and therefore this requirement does not apply to us.  
+>> 
+>> California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service.  Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information.   We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
+
+* * *
+
+Information We Share
+
+We do not rent lists, or sell or otherwise disclose personal information we collect about you, except as described here. We may share your personal information with:
+
+  * Our affiliates within the **Clinique Laboratories LLC** umbrella of companies
+  * Service providers who perform services on our behalf based on our instructions. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, fulfill orders, and provide web hosting and marketing services.
+  * Other third parties with your consent (e.g., some of our Facebook applications may share information collected through those apps with your Facebook friends or other Facebook users).
+
+
+
+In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
+
+We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+
+* * *
+
+Your Rights and Choices
+
+We offer you certain choices in connection with the personal information we collect from you, such as how we use the information and how we communicate with you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
+
+**Email Opt-Out**
+
+You can at any time tell us not to send you marketing communications by email by clicking on the unsubscribe link within the marketing emails you receive from us or by contacting us as indicated below. You also may opt out of receiving marketing emails from **Clinique** by [clicking here](https://web.archive.org/account/index.tmpl).
+
+**Postal Mail Opt-Out**
+
+You can ask Clinique to stop sending you marketing communications by postal mail by following the instructions that may be included in a particular promotion. You also can request that we refrain from sending you promotional postal mail by contacting us as indicated below.
+
+**Text Message Opt-Out**
+
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, cosmetics tips or promotions that may be sent using automated dialing systems (“Text Messages”), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from **Clinique** to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are:
+
+ACS Wireless | Cox Wireless | Pocket Wireless  
+---|---|---  
+Alltel | Cricket Communications | Revol Wireless  
+All West Communications | Element Mobile | Silver Star PCS  
+Appalachian Wireless | Farmers Mutual Telephone Co. | Simmetry Wireless  
+AT&T | GCI Wireless | Snake River PCS  
+Bluegrass Wireless | Golden State Cellular | South Central Communications  
+Boost | Illinois Valley Cellular | Sprint  
+Boost Unlimited | Immix | Sprocket Wireless  
+Breakaway Wireless | Inland Cellular | Strata Networks  
+Carolina West Wireless | iWireless | Syringa Wireless  
+Cambridge Telephone Company (CTC) | Metro PCS | Thumb Cellular  
+Cellcom | Midwest Wireless | T-Mobile  
+Cellular South | Nex-Tech Wireless | United Wireless  
+Cellular One of East Central Illinois | Nextel | Union Wireless  
+Cellular One of Montana | Northwest Missouri Cellular | U.S. Cellular  
+Cellular One of NEPA | nTelos | Verizon Wireless  
+Centennial Wireless | Nucla-Naturita Telephone Co. | Viaero Wireless  
+Chat Mobility | Panhandle Telecommunications | Virgin Mobile US  
+Cellular 29 | Pioneer Cellular | West Central Wireless  
+Cincinnati Bell | Plateau Wireless |    
   
-Information We Collect and How We Use It  
-  
-  
-You may choose to provide us with personal information when you visit our Site. For example, if you decide to complete a user registration form, complete an online survey, or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), age group, gender and product and/or cosmetic concerns, and the brands and products you use. If you decide to place an order, we will also need to know your delivery and billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password.
+Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery or guarantee availability or performance of this service, including liability for transmission delays or message failures. **To receive help with Text Messages, you can either text the word “Help” to 898257 (TXTCLQ) or call 1.800.419.4041 or email[cliniquetech@clinique.com](mailto:cliniquetech@clinique.com)**
 
-If you would prefer that we not collect any personal information from you, please do not provide us with any such information.  
-  
-Use of Personal Information by Clinique Online  
-  
-  
-Marketing Communications
+**You may unsubscribe from receiving Text Messages any time by texting the word “STOP” to 898257 (TXTCLQ) from your device.** You may also choose not to receive Text Messages by emailing us at Clinique and specifying that this is your preference.
 
-With your consent, the information you provide may be used by Clinique Canada Online to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information, cosmetics tips or promotions or to phone you. If you do consent to receive these communications and later decide that you would no longer like to receive them, see the "Your Choices" Section below. You may receive the benefit of hearing from Clinique Canada Online via direct mail even if you have not elected to receive other marketing communications. If you do not wish to receive direct mail, see "Your Choices"  Section below.  
+**Social Networking Application Opt-Out**
 
+To remove or delete our apps from your social networking account, follow the instructions from the social network:
 
-Communications to Serve You
+[Facebook: provided by the Facebook Help Center.](https://www.facebook.com/help/?faq=170585223002660)
 
-If you have elected to provide us with your contact information, we may provide you with service related announcements by any means, including email, concerning the Site or contact you regarding your customer service requests or questions or your order. For example, all registered users will receive a welcoming email to confirm their registration. When you email our customer service department with a comment or question, we collect the personally identifiable information you provide us, such as your name, email address, contact information and any information relating to your comment or question, and may forward such information, along with your inquiry, to our affiliates in the United States in order to investigate and respond to your inquiry. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that Clinique Canada Online offers its customers. 
+**Geo-Location Information**
 
-Customized Service
+When you use one of our mobile applications, you may be asked for your geo-location via our mobile application.  You may choose not to share your geo-location details by adjusting your mobile device’s location services settings.  To decline from sharing your geo-location details, follow the instructions on your mobile device on changing the relevant settings; otherwise, please contact your service provider or device manufacturer.
 
-We may also offer features on our Site that invite you to provide information about your skin type and skincare concerns or preferences. We may use your personal information to provide you with customized service and use of our Site. For example, we may suggest products that would be of particular interest to you.   
+**Withdrawing Consent**
 
+You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to our use or disclosure of your personal information will mean that you cannot take advantage of some of our products or services.
 
-Special Events, Questionnaires and Surveys
+**Reviewing, Updating and Modifying Personal Information**
 
-On occasion, Clinique Canada Online may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. When you enter a contest or participate in a promotion, we may collect your name, address, phone number and email address. We use this information to administer your participation in the contest or promotion. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy and the purposes it sets forth.  
+Subject to applicable law, you may have the right to request access to and receive details about the personal information we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. You may request to review, change or delete your personal information by sending an email to [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com).
 
+* * *
 
-Employment
+Data Transfers
 
-If you provide personal information, such as a resume, to us with respect to employment opportunities with Clinique Canada we will treat such personal information as confidential and use it only to consider you for current and future employment opportunities and to contact you with respect to employment with us or our affiliates. An " ** _Affiliate_** " is a person or entity that directly or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, our company. We will retain your recruiting information for further recruitment opportunities that may arise, unless you tell us that you no longer wish for us to retain your information. Clinique Canada is an Equal Employment Opportunity/Affirmative Action employer. We affirm the right of every person to participate in all aspects of employment without regard to race, color, religion, national origin, age, disability, creed, gender, marital status, sexual orientation, or status with regard to public assistance, or other protected classifications.   
+We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
 
+* * *
 
-Clinique Canada does not solicit, recruit or manage any employment for or on behalf of any third party retailers or department stores. However, you may also elect to submit personal information, such as a resume and contact information, for employment opportunities with such third party retailers or department stores via email functionality on the Site. Clinique Canada has no control over or responsibility over the recruitment and/or hiring process of any third party retailers and department stores; the ability of such retailers or department stores to offer job opportunities to candidates; or the quality of candidates to fill job openings, and Clinique Canada makes no representations or warranties about any and all such employment opportunities or about any information processing practices or security measures of such third party retailers or department stores. Questions regarding their practices, measures or policies should be made directly to them.  
-  
-Technologies That Allow Us To Customize Your Experience On Our Site  
-  
-We use various technologies to collect information (such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request) about your visit to our Site and to enhance and customize your experience on our Site. For example, we may collect the Internet Protocol (IP) address identifying your computer or device and indicating your geographic region for statistical purposes. In some instances, we may use these technologies in combination with the personal information you provide on the Site. These technologies may provide a variety of information such as whether you have visited our Site before. They also may enable you to save your preferences. Each technology is explained below.   
+Children's Privacy
 
+If you are under thirteen years of age, you may browse our site. However, you may not provide personal information to us. This site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records.
 
-Web Beacons and Tracking Links
+* * *
 
-Web beacons (also called clear gifs and pixel tags), tracking links and/or similar technology consist of a few lines of code and are embedded on the pages of our Site. They are often used in combination with cookies and are often not visible to the user of the Site. Web beacons may relay information to third parties such as our service providers and may be used in order to track customer response to certain advertising, to better target interactive advertising and to enhance customer support and usability. If you reject our cookies (see Cookie section below), you will prevent Web beacons from relaying this information about you and may limit your use of some of our Site features.  
+How We Protect Personal Information
 
+We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-Cookies
+* * *
 
-Browser cookies are bits of text that are placed on your computer’s hard drive when you visit our Site. Flash cookies are similar to browser cookies except that they can store data more complex than simple text and are stored in your browser rather than on your hard drive. 
+Links To Other Websites
 
-You can have your browser and/or plugs to your browser, such as flash, notify you of, or automatically reject, cookies. Rejecting our cookies will disenable the Coremetrics cookies (described below) as well. If you reject our cookies, you may still use this Site, but you may be limited in the use of some of its features.
+Our website may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for the sites’ content, any use of the sites, or the privacy practices of the sites.
 
-Coremetrics
+* * *
 
-We are continuously working to make your experience on our Site better. To this end, we have retained a company, Coremetrics, to assist us in better understanding your use of our Site. Coremetrics will place cookies on your computer to collect information on our behalf that will show us how you come to our Site and how you use and navigate our Site. Coremetrics does not collect any personal information about you. Coremetrics is contractually prohibited from using the data for any other purpose. Coremetrics is required to maintain all data collected on our behalf in confidence. You may deactivate the ability of Coremetrics to track your behavior on the Site. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, please [click here](https://web.archive.org/cms/customer_service/coremetrics_optout.tmpl).  
-  
-Information We Share and With Whom We Share It  
-  
-We will not provide your personal information to third parties for their use in marketing their products or services to you without your consent except as provided in the "[Business Transfers](https://web.archive.org/web/20130827062516id_/http%3A//www.clinique.com/cms/customer_service/businesstransfers)" Section below. In addition, we do not sell or otherwise disclose personal information about our Site visitors except as described here.   
+Updates To Our Privacy Policy
 
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our website to notify you of any significant changes to our Privacy Policy and indicate at the top of the Policy when it was most recently updated.
 
-Group Companies
+* * *
 
-When you submit personally identifiable information on this Site, the information you provide may be shared with our affiliates and other divisions of Estee Lauder that distribute and market Clinique products (the " ** _Group Companies_** "). Group Companies may use this information in accordance with this Privacy Policy. Group Companies may be located both inside and outside of Canada, the United States (" ** _US_** ") and the European Union (" ** _EU_** ").  
+How To Contact Us
 
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com) or telephone at 1-888-309-3841.
 
-Third Parties
-
-We may retain other companies and individuals to perform functions on our behalf consistent with this Privacy Policy. Examples include data analysis firms, customer support specialists, email vendors, webhosting companies and fulfillment companies ( _e.g._ , companies that coordinate mailings). Such third parties may be provided with access to personal information needed to perform their functions but may not use or disclose such information other than on our behalf and in accordance with this Privacy Policy or as otherwise required or permitted by applicable law. 
-
-In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a third party such as an event or promotion co-sponsor. If you consent, we will share your information with such third party and the information you provide may be used by such third party for their own purposes and in accordance with their own policies.
-
-Business Transfers
-
-We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) or as part of a corporate reorganization or stock sale or other change in corporate control. 
-
-Compliance With Law and Fraud Protection
-
-Clinique Canada Online and Group Companies and our service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or as otherwise required by applicable law. We may also disclose personal information where necessary for the establishment, exercise or defense of legal claims, as part of the administration of our loss prevention program, or as otherwise permitted by law.  
-  
-Transfer of Data to Other Countries  
-  
-The Affiliates, Clinique Companies and third parties who may receive your personal information in accordance with this Privacy Policy and the databases in which your personal information is stored shall be located in the United States and other countries which may not guarantee the same level of protection for personal information as the one in which you reside.  
-  
-Children's Privacy  
-  
-  
-If you are under thirteen (13) years of age, you may browse our Site. However, you may not provide personal information to us. This Site is not directed to children under the age of thirteen (13) and we do not knowingly collect personal information from children under the age of thirteen (13) on the Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen (13) on the Site, we will delete the information from our records.  
-  
-How We Protect Personal Information  
-  
-We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com).  
-  
-Third Party Links  
-  
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. We suggest that you periodically consult this Privacy Policy. Please find the effective date of the Privacy Policy at the top of this page.  
-  
-Updates to Our Privacy Policy  
-  
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. We suggest that you periodically consult this Privacy Policy. Please find the effective date of the Privacy Policy at the top of this page.  
-  
-Your Choices  
-  
-Updating Your Information
-
-You have the ability to access, update and correct in accuracies in your personal information by [clicking here](https://web.archive.org/templates/user/account/index.tmpl) or sending an email to [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com).
-
-Opt-Out and Managing Your Preferences
-
-You may choose whether or not you would like to receive marketing communications from us. You may change your preferences with respect to marketing communications at any time clicking the "unsubscribe" link at the bottom of each email you receive from us, or emailing us [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com)and specifying that you no longer consent to receiver email and/or phone communications. You may also choose not to receive direct mail communications by emailing us at [cliniquetech@clinique.com](mailto:cliniquetech@clinique.com)and specifying that this is your preference. Please note that these opt-outs do not apply to communications to serve you (described above) or to other communications which may reference Clinique, e.g., from a retailer.  
-  
-  
-Data Processor  
-  
-ELC Online Inc., 65 Bleecker Street, New York, New York 10012, USA will collect, host, and process such personal information.  
-  
-Comments  
-  
-We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the manner in which your personal information is treated by us or our authorized service providers, please contact our Privacy Officer by email at [privacyinfo@estee.ca](mailto:privacyinfo@estee.ca) or telephone at 1-800-387-6707 Ext. 5399.  
-  
-Copyright © Clinique Laboratories LLC. All worldwide rights reserved.  
-  
-back to top  
-
+Copyright © Clinique Laboratories, LLC. All rights reserved.
