@@ -1,50 +1,98 @@
-> *The following text is extracted and transformed from the bookt.com privacy policy that was archived on 2014-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140103203353id_/http%3A//www.bookt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookt.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010195513id_/http%3A//www.instamanager.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy | Bookt
+# Privacy Policy - InstaManager
 
-We've provided this Privacy Policy, which sets forth our terms regarding the collection, use and protection of the personal information of those using the Bookt website. Personal information means information that can be linked to a specific individual, such as name, address, ip address, telephone number, e-mail address and credit card number. 
+RealPage, Inc. and its group companies (collectively, “RealPage”, “we”, “our”, “us”) are committed to providing our product and service users (“clients”, “you”) with clear and concise information regarding our privacy policy and practices. This Privacy Policy describes in detail our policy and practices regarding the collection, use, and disclosure of client information by our subsidiary, RP Newco X, LLC, doing business as _Bookt/Instamanager_. By accessing our websites or utilizing our products and services, you consent to the information collection and handling practices outlined in this policy. 
 
-We encourage you to review our Privacy Policy, and become familiar with it, but you should know that we do not sell or rent our customers' personal information to any third parties.
+This Privacy Policy was last updated on August 5, 2014. We may change this Privacy Policy from time to time so please check back regularly to keep informed of any updates. 
 
-Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, you may wish to bookmark this page and/or periodically review this page to make sure that you have the current version.
+**Scope**
 
-This Privacy Policy explains the following:
+This Privacy Policy describes in detail our policy and practices regarding our collection, use, and disclosure of client information only. This Privacy Policy does not apply in respect of any data we process on behalf of our clients in the course of providing our products and services to them, including personal data relating to customers of our clients, and vendors which our clients have formalized business arrangements with. Any such individuals with questions about the uses of their data by our clients should contact the relevant client directly. 
 
-What personal information does Bookt gather from me and how is this When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described below. We do not knowingly permit the site to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children (meaning those younger than thirteen years of age).
+**What information we collect**
 
-**Safe Harbor**  
-Bookt complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Bookt has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Bookt’s certification, please visit [http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/)    
-**  
-Making a Purchase**  
-In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your credit card billing address, your telephone number, your e-mail address and the name or names of the person(s) traveling. 
+RealPage may collect various types of client information through our products, services, and websites. The information is gathered from your usage of our products and services, as well as from your entry of information on our websites. This collected information consists of two basic types of data: 1) personal information and 2) device information. 
 
-**Member Registration  
-**If you choose to become a registered member of www.Bookt.com, you must provide your name, e-mail address, a unique login name and password. Other information may be collected on a voluntary basis. As a www.Bookt.com member you will also occasionally receive updates from us about fare sales in your area, special offers, new Bookt services, and other noteworthy items. However, you may choose at any time to no longer receive these types of e-mail messages. By supplying a phone number, it is implied that you are giving us consent to contact you regardless if the phone number is listed in any "Do not call" lists.
+_Personal information_ is information that can be used to uniquely identify you as an individual or contact you directly. This may include contact information such as your name, address, telephone number, and email address. For certain financial, health, or credit-based products and services, personal information may also include sensitive data such as payment data, credit records, social security numbers, date of birth, and account numbers. Personal information is only collected based upon your choice to provide it to RealPage through our products, services, and websites. You have the option to choose not to provide personal information to us; however, the lack of such personal information will typically prevent RealPage from providing the requested products or services to you. 
 
-**Member Profile**  
-As a www.Bookt.com member, you can choose to complete your online profile by providing us with travel preferences. This information is primarily used to assist us in finding the most suitable travel deal for you. With your login and password, you can at anytime update or remove supplied information.
+If you provide us personal information about others, such as your customers and vendors with whom you have formalized business arrangements with, we will only use that information in accordance with your instructions and for the specific reason for which it was provided to us. 
 
-**  
-Automatic Logging of Session Data**  
-We automatically log generic information about your computer's connection to the Internet, which we call "session data". Session data consists of things such as IP address, operating system and type of browser software being used and the activities conducted by the user while on our site. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyze such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor's Internet Service Provider (ISP) and the approximate geographic location of his or her point of connectivity. We may also use some session data, such as the pages you visited on our site, to send you e-mail unless you had previously opted out of receiving such messages. 
+_Device information_ is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect device information such as your IP address, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties. 
 
-**Cookies**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses or harvest your personal information. The use of cookies is very common on the Internet and www.Bookt.com's use of cookies is similar to that of such sites as Expedia and Travelocity, as well as Google, CNN.com and other reputable online companies.
+**How we use the information**
 
-First and foremost, you can rest assured that no personal information about you is gathered or stored in the cookies placed by the www.Bookt.com website and, as a result, none can be passed on to any third parties.
+Your information will be used to enable us to provide you with the products or services you have requested from us. We may also process your information for operational and marketing purposes, so that we can improve our products and services to better meet our clients’ needs, as described further below. 
 
-Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. 
+**Who has access to your data?**
 
-A cookie may also be placed by our advertising server. Such cookies are used only for purposes of tracking the effectiveness of advertising served by us on our site and no personal information about you is gathered from you by the use of these cookies, nor is this information shared with any third parties. Similarly, a cookie may be placed by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does not include your personal information.
+Except as explained in this Privacy Policy, RealPage does not sell, license, or share our users’ information outside the RealPage family of companies without the consent and authorization of the user whose information will be shared. 
 
-The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. Any such information is anonymous. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personal information about you is collected during this process. The information is anonymous and does not link online actions to an identifiable person.
+We may share your information within the [RealPage family of companies, products, and services](http://www.realpage.com/company/) for operational and marketing purposes. The RealPage companies that access your information will do so in conformity with the practices described in this Privacy Policy. Sharing this information allows RealPage to provide you with the best customer service experience possible, provide you with the services you have ordered or requested, and notify you of the latest information regarding new or enhanced products, services, and promotions. RealPage may periodically send offers, promotions, and updates regarding RealPage products and services to current and potential users via e-mail. Every marketing e-mail RealPage sends contains instructions and procedures allowing you to opt out of additional marketing e-mails for that product or service. 
 
-Most web browsers automatically accept cookies. Of course, by changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. Bookt supports your right to block any unwanted Internet activity, especially that of unscrupulous websites. However, blocking www.Bookt.com cookies may disable certain features on our site and may make it impossible to purchase or use certain services available on the site. Please note that it is possible to block cookie activity from certain web sites while permitting cookies from sites you trust, like www.Bookt.com.
+In some circumstances, we use third-party companies, agents, and contractors to perform services on our behalf, such as website optimization, email distribution, processing credit card transactions, infrastructure and IT services, background screening, and other data processing or handling functions. In the course of engaging these third party services, RealPage only shares your information to the extent reasonably necessary for the third party to perform the services on our behalf. We do not permit these third parties to use or disclose your personal information except for the purpose of providing the services we request of them. 
 
-**Other**  
-From time to time we may add or enhance services available on the site. To the extent these services are provided and used by you, we will use the information you provide to facilitate the service requested. For example, if you email us with a question, we will use your email address, phone number, name, nature of the question, etc. to respond to your question. We may also store such information to assist us in making the site the better and easier to use.
+RealPage also reserves the right to disclose user information if we reasonably believe that such disclosure is necessary to (1) satisfy any applicable legal or regulatory requirement, (2) to respond to a governmental request, as required by law such as to comply with a subpoena, or similar legal process (3) enforce RealPage Terms of Use or investigate potential violations thereof, (4) to protect against fraudulent, malicious, abusive, unauthorized or unlawful use of RealPage products, services, and websites, or (5) to protect our rights or property, or the safety or security of our customers, employees or data. 
 
-**Contacting Bookt**  
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Bookt commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Bookt at: support@bookt.com.  Bookt has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Bookt, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.  
-_  
-Thank you for using[www.Bookt.com](http://www.bookt.com/)!_
+If RealPage enters into any business transition, restructuring, merger, sale, or other transferring of assets, we reserve the right to transfer user information, including all personal information, as part of or in connection with the transaction. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+
+**Cookies, Web Beacons, and Other Technologies**
+
+When you access our websites, products, and services, RealPage servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable RealPage to gather information about your activity on our websites, products, and services for the purposes of improving your online experience, remembering your preferences and settings, delivering advertising to match your preferences and interests, and for other similar customization purposes. 
+
+In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services. For greater detail on how these technologies function and how your activity records are used, please review the Google Analytics privacy disclosures at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
+
+Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on RealPage websites, products, and services. To opt out of any behavioral advertising and tracking cookies, please go to <http://www.aboutads.info/choices> to submit your do not track request.
+
+**Third Party Advertisements and Links to Other Sites**
+
+Certain RealPage websites may include third party advertisements and links to other websites. These linked websites are operated by unaffiliated third parties that have separate and independent privacy statements, terms of use, and related notices or disclosures regarding information handling practices. Third party advertisers may also utilize cookies, web beacons, and similar technologies to collect information regarding your website interactions and activities. These third party technologies may be utilized by those entities to provided targeted advertising and web links based upon your activities and preferences. If you choose to interact with specific advertisers who advertise on our sites, the information you provide to them is subject to the conditions of their specific privacy policies and in no way covered by the practices described in this policy. RealPage cannot be responsible for the information handling practices of independent parties and encourages you to review their practices prior to information disclosure. 
+
+**Other websites and Social Media Integration**
+
+RealPage websites, products, and services may include links to third party websites. If you access other websites from links provided on our websites, products and services, the operators of those websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from our Privacy Policy. 
+
+RealPage websites, products, and services may include the option of integration through third party social networking sites and related social media plug-ins or applications. When you integrate or link our websites, products, and services with your social media applications (e.g., Facebook, LinkedIn, MySpace, Google+, etc.), you authorize RealPage to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, comments, etc.) to deliver the content or as part of the operation of the integrated application. We may also obtain non-personally identifiable information (e.g., content viewed, advertising viewed, etc.) from your interaction with our integrated content. 
+
+By choosing to integrate RealPage websites, product, and services with social media applications, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an integrated application, it may be publicly viewed by other members of these sites and RealPage cannot prevent further use of the information by independent third parties. For more information about how social networking sites handle your personal information and available privacy settings, please refer to their privacy policies and terms of use. 
+
+**Mobile Applications and Location-based Services**
+
+Certain RealPage websites, products, and services offer mobile applications for access via smartphones and tablet devices. These applications are subject to the information handling practices outlined in this Privacy Policy. 
+
+RealPage mobile applications may include the option to provide you with helpful information based on where you are. To provide such location-based services, RealPage may collect, use, and share precise location data, including the real-time geographic location of your mobile device. This location data is collected anonymously in a form that does not personally identify you and is solely used by RealPage to provide and improve location-based products and services. If you wish to deactivate this feature, you can disable the location services on your mobile device. 
+
+**Information Security**
+
+RealPage wants you to feel confident about using our products and services, and we are committed to protecting the personal information that we collect from our clients. We implement and maintain appropriate physical, administrative, technical and organizational measures to protect the personal information you provide us against unauthorized or unlawful access, use or disclosure, and against accidental loss, damage, alteration or destruction. Under our security policies and practices, access to sensitive personal information is authorized only for those who have a business need for such access, and sensitive records are retained only as long as reasonably necessary for business or legal purposes. RealPage strives to protect the user information that we collect and store, however, no security program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use, or disclose personal information. RealPage maintains security incident response policies and procedures to handle incidents involving unauthorized access to private information we collect or store. 
+
+**International transfers**
+
+RealPage, Inc. and its group companies have certified their compliance with the EU/US and Swiss/US Safe Harbor regimes to the US Department of Commerce for personal information that our clients transfer to us in the course of using our products and services. A copy of our Safe Harbor policy is available at [www.instamanager.com/safeharbor/](http://www.instamanager.com/safeharbor/). 
+
+Some of the third-party companies, agents, and contractors that we engage to perform services on our behalf may need to transfer your personal information internationally in order to provide their services, including to territories outside of the USA and Europe which may not have equivalent data protection regimes. However, where this is the case, we have implemented measures to safeguard your personal information in accordance with this Privacy Policy at all times. 
+
+**Children’s Online Privacy**
+
+RealPage does not target children under the age of 13 for the collection of information online. Our products, services, and websites are not designed to attract the attention of persons under the age of 13. 
+
+**Accessing and Updating Personal Information**
+
+In the event that your personal information becomes outdated, incomplete, or inaccurate, you may access and update your information by logging into your RealPage product or service account. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”). You can also contact RealPage directly at the address below (see “Contact Us”) to ask us what personal information we hold about you. 
+
+**Data retention**
+
+The time periods for which we retain your personal information depend on the purposes for which we use it. RealPage will keep your Personal Information for as long as is necessary for the purposes for which we collect it and, thereafter, for no longer than is reasonably necessary for internal reporting and reconciliation purposes pursuant to legal requirements and when we are required or allowed to do so under applicable law. 
+
+**Privacy Policy Changes**
+
+As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions. 
+
+**Contact Us**
+
+If you have any questions or concerns about the RealPage Privacy Policy or its implementation, you may contact us at [privacy@realpage.com](mailto:privacy@realpage.com) or mail your written inquiry to: 
+
+RealPage, Inc.  
+Attn: Privacy (Legal)  
+4000 International Parkway  
+Carrollton, Texas 75007-1913
