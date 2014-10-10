@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022156id_/http%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010190625id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Spreets
 
