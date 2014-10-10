@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickrduncan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161514id_/http%3A//www.rickrduncan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickrduncan.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010062554id_/http%3A//www.rickrduncan.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rick R. Duncan
 
@@ -73,6 +73,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 B3Marketing, LLC  
 PO BOX 334  
 Rockville, VA 23146  
-b3marketingllc@gmail.com 
+b3marketingllc@gmail.com
 
 This document was last updated on January 14, 2014
