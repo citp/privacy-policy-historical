@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenieblackgirls.com privacy policy that was archived on 2014-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140109183419id_/http%3A//join.teenieblackgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenieblackgirls.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010193136id_/http%3A//join.teenieblackgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
