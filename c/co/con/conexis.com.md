@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conexis.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405035622id_/http%3A//www.conexismarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conexis.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010062559id_/http%3A//www.conexismarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CONEXIS
 
