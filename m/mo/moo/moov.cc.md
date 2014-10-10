@@ -1,69 +1,102 @@
-> *The following text is extracted and transformed from the moov.cc privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412145737id_/http%3A//moov.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moov.cc privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010032030id_/https%3A//www.moov.cc/privacy) for the most accurate reproduction.*
 
-# Mushroom Labs LLC. Privacy Policy | Moov
+# Moov, Inc. Privacy Policy | Moov
 
-**What information do we collect?**
+Moov Privacy Policy
 
-We collect information from you when you place an order. 
+Date of Last Revision: July 13, 2014
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously. 
+Our Policy
 
-**What do we use your information for?**
+Welcome to the web site (the “Site”) of Moov Inc.(“Moov”, “we”, “us” and/or “our”). This Site is operated by Moov and has been created to provide information about our Moov and our virtual coach, workout and exercise tracking and motion analytics services, mobile applications and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth Moov’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Information We Collect
 
-To personalize your experience   
-(your information helps us to better respond to your individual needs) 
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
 
-• To improve our website   
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+Personal Data That You Provide Through the Services: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. 
 
-• To improve customer service   
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+BY VOLUNTARILY PROVIDING US WITH PERSONAL DATA, YOU ARE CONSENTING TO OUR USE OF IT IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU PROVIDE PERSONAL DATA TO THE SERVICES, YOU ACKNOWLEDGE AND AGREE THAT SUCH PERSONAL DATA MAY BE TRANSFERRED FROM YOUR CURRENT LOCATION TO THE OFFICES AND SERVERS OF MOOV AND THE AUTHORIZED THIRD PARTIES REFERRED TO HEREIN LOCATED IN AND OUTSIDE THE UNITED STATES.
 
-• To process transactions 
+Personally Identifying Information: When interacting with Moov through the Services, we will also receive and store personally identifying information - data in a form that permits direct association with any specific individual. This type of information helps us to provide better support for all of our users and includes two types of personally identifying information: 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  1. Information that you give us. For example, purchasing Moov from www.moov.cc requires you to give us your full name, email and shipping address, and phone number. Please note that even though you are also required to provide your credit card information along with any other information a financial institution would need to process the transaction, Moov does not store this information. We use Stripe to process all our online payments. When you make your payment, your credit card information doesn’t go through our website or servers. All payment processing is performed by Stripe. Stripe has been audited by a PCI-certified auditor, which has in turn been certified as a PCI Level 1 Service Provider, the most stringent level of certification available. You can confirm Stripe’s certification in Visa's registry of service providers. Stripe is also a participant in the PCI Security Standards Council.
 
-• To administer a contest, promotion, survey or other site feature 
 
-• To send periodic emails 
+  2. Information we get from your use of our product. We may collect smart phone device-specific logs, which for example include your hardware model, operating system version and unique device identifiers. This helps us determine the type of environment you’re connecting your Moov to. We may also collect Moov device-specific logs which, for example, include your Moov settings, app configurations and device events like crashes and system activity.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-**How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+Moov will only disclose your potentially personally-identifying information to those of it employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Moov’s behalf, such as a postal carrier requires shipping information to make a delivery, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside your home country; by using Moov’s products and services you consent to the transfer of such information to them. Moov will not rent or sell potentially-identifying and personally-identifying information to anyone. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential. 
+Other Information 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
+Non-Identifiable Data: When you interact with Moov through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Moov may store such information itself or such information may be included in databases owned and maintained by Moov affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.  
 
-**Do we use cookies?**
+In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, Moov often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Moov may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Moov may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+Location Information: Our Service may collect and use your location information (for example, by using the GPS on your mobile device) to provide certain functionality of our Service. If you choose to enable our location features, your location information may be publicly displayed within the Service. Please keep in mind that other users can see this information about you, and they may use it or disclose it to other individuals or entities outside of our control and without your knowledge. Your location information may be subject to abuse, misuse, and monitoring by others, so please be careful if you choose to enable location functionality. We may also use your location information in an aggregate way, as described above in the “Aggregated Personal Data” section.
 
-**Do we disclose any information to outside parties?**
+Our Use of Your Personal Data and Other Information
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+  
+Moov uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Moov and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. Moov and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. Email communications without “unsubscribe” features will only made to inform and/or request additional information from you about a prior Moov purchase. If you wish to be removed from any Moov purchase related email communication, you must cancel your Moov purchase. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us at support@moov.cc
 
-**California Online Privacy Protection Act Compliance**
+If Moov intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+Our Disclosure of Your Personal Data and Other Information
 
-**Your Consent**
+  
+Moov is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
-By using our site, you consent to our [web site privacy policy](https://moov.cc/privacy). 
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.  
 
-**Changes to our Privacy Policy**
+Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+Agents, Consultants and Related Third Parties: Moov, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.        
 
-**Contacting Us**
+Legal Requirements: Moov may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Moov, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Your Choices
 
-[https://moov.cc](https://moov.cc/)   
-[support@moov.cc](mailto://support@moov.cc)
+You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. 
+
+Exclusions
+
+This Privacy Policy does not apply to any Personal Data collected by Moov other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to Moov through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Moov shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
+
+Children
+
+Moov does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Moov through the Services, please contact us, and we will endeavor to delete that information from our databases. 
+
+Links to Other Web Sites
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Moov (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Moov endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+
+Integrating Social Networking Services
+
+One of the special features of the Service is that it allows you to enable or log in to the Services via various social networking services like Facebook or Twitter (“Social Networking Service(s)”). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into or grant us permission via the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service.  As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store and disclose such information in accordance with this Privacy Policy.  However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and Moov shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service.  
+
+You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Service); you acknowledge that if you choose to use this feature, your friends, followers and subscribers on any Social Networking Services you have enabled will be able to view such activity.
+
+Security
+
+Moov takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Moov via the Internet. 
+
+Other Terms and Conditions
+
+Your access to and use of the Services is subject to the [Terms of Service](https://www.google.com/url?q=https%3A%2F%2Fwww.moov.cc%2Fterms&sa=D&sntz=1&usg=AFQjCNHgxIi5fKgyirKR8DyW8r0L4z8mWQ) at [https://www.moov.cc/terms](https://www.google.com/url?q=https%3A%2F%2Fwww.moov.cc%2Fterms&sa=D&sntz=1&usg=AFQjCNHgxIi5fKgyirKR8DyW8r0L4z8mWQ)
+
+Changes to Moov’s Privacy Policy
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for Moov to make changes to this Privacy Policy. Moov reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
+
+Access to Information; Contacting Moov
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. 
+
+Please also feel free to contact us if you have any questions about Moov’s Privacy Policy or the information practices of the Services.
+
+You may contact us as follows: support@moov.cc
