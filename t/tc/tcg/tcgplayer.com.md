@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210163323id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010143130id_/http%3A//magic.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
-# TCGplayer.com: Online Store for Magic, Yugioh, Cards, Miniatures, Singles, Packs and Booster Boxes
+# Magic The Gathering Strategy, News, Decks, Price Guide and an Online Card Store
+
+|    
+  
+
 
 ##  Privacy Statement for TCGplayer.com
 
@@ -20,7 +24,7 @@ Our Site uses cookies to deliver content specific to your interests. We also use
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique �cookie� on your browser. 
+In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique “cookie” on your browser. 
 
   
 
@@ -84,3 +88,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [Webmaster@TCGplayer.com](mailto:webmaster@TCGplayer.com)
+
+|  |   
+  
+| 
