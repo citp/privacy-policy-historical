@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsmediawatch.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629012236id_/http%3A//www.sportsmediawatch.com/smw-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmediawatch.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010104311id_/http%3A//www.sportsmediawatch.com/smw-privacy-policy) for the most accurate reproduction.*
 
-# Sports Media Watch – Privacy Policy
+# Privacy Policy — Sports Media Watch
 
 **Privacy?Policy?**
 
