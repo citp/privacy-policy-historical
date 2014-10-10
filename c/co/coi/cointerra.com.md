@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cointerra.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208195007id_/http%3A//cointerra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointerra.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010130513id_/https%3A//cointerra.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CoinTerra
+# Privacy Policy - CoinTerra
 
 **Privacy Policy**
 
