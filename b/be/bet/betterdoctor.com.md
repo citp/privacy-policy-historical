@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betterdoctor.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209035921id_/https%3A//betterdoctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterdoctor.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010164152id_/https%3A//betterdoctor.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BetterDoctor
+# Privacy Policy | BetterDoctor
 
 ## Privacy Policy
 
