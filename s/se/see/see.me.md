@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220936id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the see.me privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010135333id_/https%3A//www.see.me/privacy) for the most accurate reproduction.*
 
-# See | Me - Where great talent receives endless attention
+# See | Me - Bringing creativity back to the real world.
 
 ## PRIVACY POLICY
 
