@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the busiplaner.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223003321id_/http%3A//www.busiplaner.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busiplaner.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010111333id_/http%3A//www.busiplaner.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# busiplaner.com » Privacy Policy
+# Busiplaner.com » Privacy Policy
 
 ### About this Notice
 
