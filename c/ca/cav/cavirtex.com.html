@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cavirtex.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209232919id_/https%3A//www.cavirtex.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cavirtex.com privacy policy that was archived on 2014-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011013458id_/https%3A//www.cavirtex.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Canadian Virtual Exchange
@@ -9,8 +9,8 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="M79TumRrI0FXdpZbUqm7J3yhE4Mi_KMOpTHvB1n7DpI">
-<link rel="stylesheet" href="/media/virex.css?20140122" type="text/css" charset="utf-8">
-<link href="/media/main.css?20140122" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/media/virex.css?20140423" type="text/css" charset="utf-8">
+<link href="/media/main.css?20140702" rel="stylesheet" type="text/css">
 <link href="/media/reset.css" rel="stylesheet" type="text/css">
 <link href="/media/jquery-ui-css/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/jquery.min.js"></script>
@@ -27,11 +27,67 @@
 
 
 <script type="text/javascript">
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    function showAboutEscrow(){
+        alert("Amounts shown in Escrow are a result of a trade not getting filled, cancel the trade to return your Escrow amount to your Balance. Read FAQ #2 for more info.");
+    }
+
+    String.prototype.capitalize = function(){
+        return this.charAt(0).toUpperCase() + this.slice(1);
+    }
+
+    function getAjaxContent(url){
+        $.get(url + '?ajax=1', function(result){
+            if(result.search('2e4M6u8E9i0I45i3441227P8C9d9B9p5D') >= 0){ // string in a remark in login.html, to see if we've been kicked back to the login prompt.
+                var newDoc = document.open("text/html", "replace");
+                newDoc.write(result);
+                newDoc.close();
+            }else{
+                $('#pageContent').html(result);
+                bindAjaxable($('#pageContent'));
+                $('#rightContent').load('/right_content');
+                $('#ticker_wrapper').load('/ticker?' + (new Date().getTime()));
+            }
+        });
+    }
+
+    var ajaxables = [];
+
+    function bindAjaxable(parentElement){
+        var elements;
+        if(typeof parentElement == 'object'){
+            elements = $('.ajaxable', parentElement);
+        }else{
+            elements = $('.ajaxable');
+        }
+
+        elements.each(function(){
+            var href = $(this).attr('href');
+            ajaxables[href] = 1;
+            $(this).click(function(){
+                getAjaxContent(href);
+                history.pushState('data', '', $(this).attr("href"));
+                return false;
+            });
+        });
+        
+        window.onpopstate = function(event) {
+            if(!event.state) return;
+            if(ajaxables[window.location.pathname] != undefined){
+                getAjaxContent(window.location.pathname);
+            }else{
+                window.location = document.location;
+            }
+        };
+
+    }
+  
+    $(document).ready(bindAjaxable);
 </script>
 <!--[if lte IE 9]>
    <style type="text/css">
@@ -54,94 +110,125 @@
       <strong>Need Help?  <a href="http://support.cavirtex.com" target="_blank">Submit a ticket</a> or call (888)812-2525</strong>
     </div>
   
-  <div id="header">
-    <div id="topNavList">
+    <div id="header">
+        <div id="topNavList">
         <a href="/merchant_directory">.: Merchant Directory :.</a>      
-    </div>
-    <div class="socialLinks">
-      <div class="social1"><a target="_blank" href="http://twitter.com/cavirtex"><img src="/media/icon-twitter.png" height="32" alt="Twitter" title="Twitter"></a></div>
-      <div class="social2"><a target="_blank" href="http://www.facebook.com/pages/VirtEx/224085370954214"><img src="/media/icon-facebook.png" height="32" alt="Facebook" title="Facebook"></a></div>
-      <div class="social3"><a target="_blank" href="http://www.youtube.com/cavirtex"><img src="/media/icon-youtube.png" height="32" alt="You Tube" title="You Tube"></a></div>
-    </div>
-    <div id="logo"><a href="/home"><img src="/media/logo.png" alt="VirtEx Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
-    <div id="navContainer">
+        </div>
+        <div class="socialLinks">
+            <div class="social1"><a target="_blank" href="http://twitter.com/cavirtex"><img src="/media/icon-twitter.png" height="32" alt="Twitter" title="Twitter"></a></div>
+            <div class="social2"><a target="_blank" href="http://www.facebook.com/pages/VirtEx/224085370954214"><img src="/media/icon-facebook.png" height="32" alt="Facebook" title="Facebook"></a></div>
+            <div class="social3"><a target="_blank" href="http://www.youtube.com/cavirtex"><img src="/media/icon-youtube.png" height="32" alt="You Tube" title="You Tube"></a></div>
+        </div>
+        <div id="logo"><a href="/home"><img src="/media/logo.png" alt="CAVIRTEX Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
+        <div id="navContainer">
       <ul id="navList">
         <li><a href="/deposit_methods">Deposit</a></li>
         <li><a href="/withdraw_methods">Withdraw</a></li>
         <li>
-          <a href="/orderbook" style="position:relative">
-            <img src="/media/redStar.png" id="tradeStar">
-            Open Trades
-          </a>
+            
+                <a href="/orderbook" style="position:relative"> <img src="/media/redStar.png" id="tradeStar"> Open Trades </a>
+            
         </li>
-        <li><a target="_blank" href="http://www.bitcoincharts.com/markets/virtexCAD.html">Charts</a></li>
+        <li><a target="_blank" href="https://bitcoinwisdom.com/markets/cavirtex/btccad">Charts</a></li>
         <li><a href="/faq">FAQs</a></li>
       </ul>
+        </div>
     </div>
-  </div>
-  <div id="stats">
-    <div id="slogans">
-      <div style="display:inline-block; float:right; margin: -4px 0 0 6px ">
+    <div id="stats">
+        <div id="slogans">
+            <div style="display:inline-block; float:right; margin: -4px 0 0 6px ">
         <img id="slogan_leaf" src="/media/mapleLeaf.png">
-      </div>
-      <div style="display:inline-block; float:right">
+            </div>
+            <div style="display:inline-block; float:right">
         100% CANADIAN 
-      </div>
-      <div class="tickerTextAbove">Over $69.2 Million Traded </div>
-    </div>
-    <div class="right">
-      <img src="/media/DebitCardAd.jpg" alt="Debit Card logo">
-    </div>
+            </div>
+            <div class="tickerTextAbove">Over $92 Million Traded </div>
+        </div>
+        <div class="right">
+          <img src="/media/DebitCardAd.jpg" alt="We have debit cards!">
+        </div>
+  
 
-  <div class="left">
-    
-      <table id="ticker" width="510" border="0" align="center" cellpadding="5px">
-        <tbody><tr>
-          <th style="width:12%">&nbsp;</th>
-          <th style="width: 22%">Last</th>
-          <th style="width: 22%">High</th>
-          <th style="width: 22%">Low</th>
-          <th style="width: 22%">Volume</th>
-        </tr>
-        <tr class="dailyRow">
-          <td>Daily</td>
-          <td> 780.00 (CAD)</td>
-          <td> 780.00 (CAD)</td>
-          <td> 746.00 (CAD)</td>
-          <td> 237.97 (BTC)</td>
-        </tr>
-        <tr class="weeklyRow">
-          <td>Weekly</td>
-          <td> 780.00 (CAD)</td>
-          <td> 898.00 (CAD)</td>
-          <td> 746.00 (CAD)</td>
-          <td> 2692.37 (BTC)</td>
-        </tr>
-      </tbody></table>
-    
-    </div>
+        <div class="left" id="ticker_wrapper">
+  	    
+      <table id="ticker" style="width:100%; margin:0">
+      		<colgroup>
+			<col style="border-right: 1px solid #444">
+			<col>
+			<col style="border-right: 1px solid #444">
+			<col>
+			<col style="border-right: 1px solid #444">
+			<col>
+			<col style="border-right: 1px solid #444">
+		</colgroup>
+		<tbody><tr>
+			<td></td>
+			<th colspan="2">BTC/CAD : <span style="font-weight:bold; color:#FFE">403.48</span></th>
+			<th colspan="2">LTC/CAD : <span style="font-weight:bold; color:#FFE">4.10</span></th>
+			<th colspan="2">BTC/LTC : <span style="font-weight:bold; color:#FFE">99.00</span></th>
+		</tr>
+		<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+		<tr style="font-size:10px">
+			<td></td>
+			<td style="color:#92A1C0">Daily</td><td>Weekly</td>
+			<td style="color:#92A1C0">Daily</td><td>Weekly</td>
+			<td style="color:#92A1C0">Daily</td><td>Weekly</td>
+		</tr>
+		<tr style="font-size:15px">
+			<th style="font-size: 10px; text-align:right">High</th>
+			<td style="color:#92A1C0"> 410.76&nbsp;<span class="currencyTag">CAD</span></td>
+			<td> 423.00&nbsp;<span class="currencyTag">CAD</span></td>
+			<td style="color:#92A1C0"> 4.40&nbsp;<span class="currencyTag">CAD</span></td>
+			<td> 4.70&nbsp;<span class="currencyTag">CAD</span></td>
+			<td style="color:#92A1C0"> 99.00&nbsp;<span class="currencyTag">LTC</span></td>
+			<td> 99.99&nbsp;<span class="currencyTag">LTC</span></td>
+		</tr>
+		<tr style="font-size:15px">
+			<th style="font-size: 10px; text-align:right">Low</th>
+			<td style="color:#92A1C0"> 382.00&nbsp;<span class="currencyTag">CAD</span></td>
+			<td> 309.50&nbsp;<span class="currencyTag">CAD</span></td>
+			<td style="color:#92A1C0"> 4.10&nbsp;<span class="currencyTag">CAD</span></td>
+			<td> 4.00&nbsp;<span class="currencyTag">CAD</span></td>
+			<td style="color:#92A1C0"> 93.00&nbsp;<span class="currencyTag">LTC</span></td>
+			<td> 83.57&nbsp;<span class="currencyTag">LTC</span></td>
+		</tr>
+		<tr style="font-size:15px">
+			<th style="font-size: 10px; text-align:right">Vol</th>
+			<td style="color:#92A1C0"> 156.396&nbsp;<span class="currencyTag">BTC</span></td>
+			<td> 3483.414&nbsp;<span class="currencyTag">BTC</span></td>
+			<td style="color:#92A1C0"> 190.575&nbsp;<span class="currencyTag">LTC</span></td>
+			<td> 2968.643&nbsp;<span class="currencyTag">LTC</span></td>
+			<td style="color:#92A1C0"> 0.461&nbsp;<span class="currencyTag">BTC</span></td>
+			<td> 2.266&nbsp;<span class="currencyTag">BTC</span></td>
+		<td>
+      </td></tr></tbody></table>
 
-  </div>
+    
+
+
+        </div>
+
+    </div>
 
   
     <div id="news">
-      <p>Latest News: <a href="/news" title="Pre-Paid Debit card loads increased to $500 per load!">Pre-Paid Debit card loads increased to $500 per load!</a></p>
+      <p>Latest News: <a href="/news" title="CAVIRTEX users getting spammed with invoice.jar again">CAVIRTEX users getting spammed with invoice.jar again</a></p>
     </div>
   
-  <div id="container">
+        <div id="container">
     
 
 <div id="privacy" class="basic">
   <h3>Personal Information Protection Policy</h3>
 
-  <p>VirtEx is committed to safeguarding the personal information
+  <p>CAVIRTEX is committed to safeguarding the personal information
     entrusted to us by our users. We manage your personal
     information in accordance with Alberta's Personal Information
     Protection Act and other applicable laws. This policy outlines the
     principles and practices we follow in protecting your personal
     information.</p>
 
-  <p>This policy applies to VirtEx and its subsidiaries. The policy
+  <p>This policy applies to CAVIRTEX and its subsidiaries. The policy
     also applies to any person providing services on our behalf.</p>
 
   <h4>What is personal information?</h4>
@@ -251,7 +338,7 @@
     devices used to store electronic records.</p>
 
   <h4>Access to records containing personal information</h4>
-  <p>Clients of VirtEx have a right of access to their own personal
+  <p>Clients of CAVIRTEX have a right of access to their own personal
     information in a record that is in our custody or under our
     control, subject to some exceptions. For example, organizations
     are required under the Personal Information Protection Act to
@@ -285,7 +372,7 @@
   <h4>Questions and complaints</h4>
 
   <p>If you have a question or concern about any collection, use or
-    disclosure of personal information by VirtEx, or about a request
+    disclosure of personal information by CAVIRTEX, or about a request
     for access to your own personal information, please contact our
     Compliance Officer. Contact details can be
     found <a href="contact">here</a>.</p>
@@ -293,35 +380,38 @@
 </div>
 
 
-  </div>
+        </div>
 
-  <div id="footer">
-    <div id="logoFooter"><a href="/home"><img src="/media/logo.png" alt="VirtEx Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
-    <div id="footernavWrap">
+        <div id="footer">
+            <div id="logoFooter"><a href="/home"><img src="/media/logo.png" alt="CAVIRTEX Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
+            <div id="footernavWrap">
       
-        <div id="footernav1">
+                <div id="footernav1">
           <ul>
             <li><a href="/terms">Terms</a></li>
             <li><a href="/privacy">Privacy Policy</a></li>
             <li><a href="/faq">FAQs</a></li>
-            <li><a href="http://blog.cavirtex.com">Virtex Blog</a></li>
+            <li><a href="http://blog.cavirtex.com">CAVIRTEX Blog</a></li>
+            <li><a href="/api_information">API</a></li>
           </ul>
-        </div>
-        <div id="footernav2">
+                </div>
+                <div id="footernav2">
           <ul>
             <li><a href="/home">Home</a></li>
             <li><a href="/orderbook">Open Trades</a></li>
             <li><a href="/methods">Deposit and Withdraw Funds</a></li>
             <li><a href="http://affiliates.cavirtex.com/">Affiliate Program</a></li>
+            <li><a href="/press">Press</a></li>            
           </ul>
-        </div>
+                </div>
       
+            </div>
+        </div>
+        <div id="comments">
+            <div class="right"> © 2011-2014 CAVIRTEX (Canada) <a href="/contact">Contact Us</a></div>
+        </div>
     </div>
-  </div>
-  <div id="comments">
-    <div class="right"> © 2011-2013 VirtEx (Canada) <a href="/contact">Contact Us</a></div>
-  </div>
-</div>
+
 
 
 </body></html>
