@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisismoney.co.uk privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402115926id_/http%3A//www.thisismoney.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisismoney.co.uk privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010115422id_/http%3A//www.thisismoney.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies | Mail Online
+# Privacy Policy and Cookies | Daily Mail Online
 
 Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site. 
 
