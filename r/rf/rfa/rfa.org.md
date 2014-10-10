@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rfa.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511091343id_/http%3A//www.rfa.org/english/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfa.org privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010190255id_/http%3A//www.rfa.org/about/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Find out how RFA deals with information collected and stored while you are using our Web site and services. 
 
 ##   
 Effective September 26, 2005
@@ -48,5 +46,4 @@ The RFA Web site may contain links to other sites. RFA is not responsible for th
 
 **Acceptance of Privacy Policy Terms**
 
-RFA reserves the right to change this policy in its sole discretion at any time. Use of the RFA Web site constitutes consent to any policy then in effect. Please make sure that you read RFA's Terms of use to understand additional terms and conditions which apply to the use of our Web site.  
-
+RFA reserves the right to change this policy in its sole discretion at any time. Use of the RFA Web site constitutes consent to any policy then in effect. Please make sure that you read RFA's Terms of use to understand additional terms and conditions which apply to the use of our Web site.
