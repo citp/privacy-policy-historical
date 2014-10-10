@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617191103id_/http%3A//www.boxycharm.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010181910id_/http%3A//www.boxycharm.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,49 +108,35 @@ We strive to provide you with choices regarding the personal information you pro
 
 **Accessing and Correcting Your Personal Information**
 
-You can review and update your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the “Forgot your password?” link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you.  
-You may also send us an e-mail at  
+You can review and update your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the “Forgot your password?” link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you. 
+You may also send us an e-mail at 
 
 
 [eliana@boxycharm.com ](mailto:eliana@boxycharm.com)
 
-. To request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account.  
+. To request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. 
 
 
 **Your California Privacy Rights**
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to Eliana Oliveros at  
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to Eliana Oliveros at 
 
 
-[eliana@boxycharm.com ](mailto:eliana@boxycharm.com)
-
-. or write us at: 5364 NW 167 Street, Miami FL 33014.  
-
+[eliana@boxycharm.com](mailto:eliana@boxycharm.com)
 
 **Data Security**
 
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.  
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.  
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk.  
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology. 
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. 
 
 
 **Changes to Our Privacy Policy**
 
-It is our policy to post any changes we make to our privacy policy on this page  
+It is our policy to post any changes we make to our privacy policy on this page 
 
 
 [www.Boxycharm.com ](http://www.boxycharm.com/)
 
-.  If we make material changes to this privacy policy, we will notify you by e-mail or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page.  
+.  If we make material changes to this privacy policy, we will notify you by e-mail or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. 
 
-
-**Contact Information**
-
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
-
-
-Eliana Oliveros
-
-5364 NW 167 Street, Miami FL33014 /  [eliana@boxycharm.com ](mailto:eliana@boxycharm.com)
-
-Telephone: 954-454-7100
