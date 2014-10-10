@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329174402id_/http%3A//www.ig.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010053520id_/http%3A//www.ig.com/uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | IG UK
 
 Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
 
