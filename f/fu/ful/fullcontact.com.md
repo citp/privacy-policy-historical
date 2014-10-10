@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullcontact.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327101225id_/http%3A//www.fullcontact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcontact.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010145345id_/http%3A//www.fullcontact.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FullContact
 
@@ -8,7 +8,7 @@ Privacy [Terms](https://web.archive.org/terms/)
 
 FullContact allows you to claim your profile, edit it, and hide or disclose data in your profile. 
 
-[Claim Your Contact Data](https://web.archive.org/web/20140327101225id_/http://www.fullcontact.com/privacy/claim)
+[Claim Your Contact Data](https://web.archive.org/web/20141010145345id_/https://www.fullcontact.com/privacy/claim)
 
 #####  FullContact   
 Privacy Policy | Your Privacy Rights 
