@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coke2home.com privacy policy that was archived on 2014-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517191619id_/http%3A//www.coke2home.com/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coke2home.com privacy policy that was archived on 2014-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141010210814id_/http%3A//www.coke2home.com/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta name="Robots" content="index,follow">
@@ -8,10 +8,49 @@
 <meta name="keywords" content="coke,fanta,limca,thums up,sprite,kinley,coke india,coca cola,diet coke,mineral water,soft drinks,juice drinks,minute maid,packaged water,100% juices, soft drink brand,soft drink brands,soft drinks online,buy online beverages,fanta soft drinks,buy online in india, coke distributors in india,buy soft drinks online,thums up soft drink,sprite soft drink,buy soft drinks online">
 <meta name="description" content="Buy soft drinks Online in India at best price.Visit coke2home.com to meet the coke Crew and free home delivery of coca cola products- Coke, Diet Coke, Fanta, Limca, thums up, Minute Maid Juices">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--<meta name="viewport" content="width=device-width, initial-scale=1" />--> 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-53DG72"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.coke2home.com/static/scripts/jquery-1.9.1.min.js"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.coke2home.com/static/scripts/jquery.min.js"></script> 
+<script type="text/javascript" src="http://www.coke2home.com/static/scripts/jquery-1.9.1.min.js"></script> 
 <script type="text/javascript" src="http://www.coke2home.com/static/scripts/jquery.vticker-min.js"></script>
+
+<script>
+		
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('.top-red-menu ul ');			
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle(500);
+				e.stopPropagation();
+				
+				$('.show_hide').click(function(e) {
+     				menu.slideUp();
+    });
+	$('html').click(function(e) {
+     				menu.slideUp();
+    });
+			});
+			
+		
+
+   
+
+
+		$(window).resize(function(){
+        		var w = $(window).width();
+        		if(w > 320 && menu.is(':hidden')) {
+        			menu.removeAttr('style');
+        		}
+    		});
+			 
+ 
+		});
+	</script>
+
 <script type="text/javascript">
 $(function(){
 	$('#news-container').vTicker({ 
@@ -24,8 +63,6 @@ $(function(){
        
 });
 </script>
-
-<!-- Google Code for Analytics -->
 
 <script type="text/javascript">
 
@@ -40,27 +77,11 @@ $(function(){
   })();
 </script>
 
-<!-- Google Code for Analytics -->
-
-
-<!-- Google Code for Tag Manager -->
-
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53DG72"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-53DG72');</script>
-<!-- End Google Tag Manager -->
-
-<!-- Google Code for Tag Manager -->
-
-
-
 
 <title> Coke2Home.com : Delivering Happiness </title>
+<link href="http://www.coke2home.com/css/coke-css/main-responsive1.css" type="text/css" rel="stylesheet">
 <link href="http://www.coke2home.com/css/coke-css/main.css" type="text/css" rel="stylesheet">
+
  <script src="http://www.coke2home.com/static/scripts/jquery.secret-source.min.js"></script>
  
  <script type="text/javascript" src="http://www.coke2home.com/static/library/common.js"></script>
@@ -68,11 +89,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <script type="text/javascript" src="http://www.coke2home.com/static/scripts/colorbox.js"></script>
   <!--[if IE ]>
 <style type="text/css">
-.product-weper-box{width:1024px; margin:0 auto; float:none;}
+.order_reminder span{font-size:13px!important; padding-right:10px;}
 .top-red-menu{width: 788px;
 float: left;
-padding-left:8px;}
-
+padding-left:8px; margin-top:0px; }
+ul.products li p.prdt_call{font-size:12px;}
+.add-to-bag-button-p{ height:14px;}
 .top-red-menu ul{ list-style:none; float:left;}
 .top-red-menu ul li{ float:left; padding: 0 4px;}
 .top-red-menu ul li a{ font-size:13px; color:#fff; text-decoration:none; text-transform:uppercase; text-align:center; line-height:36px; font-weight:normal; }
@@ -96,28 +118,73 @@ border-bottom-right-radius: 0px!important;
 border-bottom-left-radius: 0px !important;}
 .top-red-menu ul li a:hover .span-buttom{background:#fad040;}
 .top-red-menu ul li a:hover span{background:#fad040;}
-
 .top-red-menu ul li.activ a span{background:#fad040 !important;}
-
 .calling-hours1{width: 104px;}
 
 </style>
 <![endif]-->
 
+
 </head>
 <body>
-<div class="product-page-header">
+
+<script type="text/javascript">
+ 
+$(document).ready(function(){
+        $(".user-pro-list").hide();
+        $(".show_hide").show(); 
+    $('.show_hide').click(function(ev){		
+    $(".user-pro-list").slideToggle(500);
+		ev.preventDefault();
+	ev.stopPropagation();
+	
+	$("#pull").click(function(){                   
+  $(".user-pro-list").slideUp();
+    });
+	$("html").click(function(){                   
+  $(".user-pro-list").slideUp();
+    });
+});
+ 
+});
+ 
+</script>
+
+ <div class="product-page-header">
 	<div class="main-wepar">
     	<div class="coke2home-logo">
-        	<a href="logout.php"><img src="http://www.coke2home.com/images/coke-img/coke2homelogo.png" alt=""></a>
+        	<a href="home.php"><img src="http://www.coke2home.com/images/coke-img/coke2homelogo.png" alt=""></a>
+            
         </div>
+        <div class="icons-section">
+        <div class="kart">
+        <a href="#" class="cart-icon"></a>
+        </div>
+        <div class="user-profile"> 
+<a href="#" class="show_hide"></a>
+<div class="user-pro-list">
+<ul>
+<li><span class="guest-icon"></span><a>Hello. Guest</a></li>
+ <li><span class="lgn-icon"></span><a href="http://www.coke2home.com/login_register.php">Login</a></li>
+<li><span class="rs-icon"></span><a href="http://www.coke2home.com/login_register.php">Register</a></li>
+<li><span class="cn-icon"></span><a href="http://www.coke2home.com/Contact.htm">Contact Us</a></li>
+<li><span class="ord-icon"></span><a href="http://www.coke2home.com/order_history.php">Order history</a></li>
+<li><span class="adr-detail-icon"></span><a href="http://www.coke2home.com/account_info.php">Address details</a></li>
+<li><span class="chng-add-icon"></span><a href="http://www.coke2home.com/add_new_ship.php" class="group2 cboxElement">Change address options</a></li>
+<li><span class="prvious-ord-icon"></span><a href="http://www.coke2home.com/order_history.php">Previous orders</a></li>
+
+</ul>
+</div>
+ 
+</div>
+          </div>
         <div class="product-page-header-right">
         	<div class="currentlyserving">
-               	  <h5>Search Products catalog</h5>
+               	  
                               
 										<label>
                   <select style="width: 138px;" onchange="ChangeCityNameSubmit(this.value,'http://www.coke2home.com/','http://www.coke2home.com/products.php')">  
-                      <option value="1" selected="selected">Ahmedabad</option><option value="137">Bangalore</option><option value="199">Chennai</option><option value="198">Hyderabad</option>							
+                      <option value="1" selected="selected">Ahmedabad</option><option value="137">Bangalore</option><option value="199">Chennai</option><option value="855">Gandhinagar</option><option value="198">Hyderabad</option><option value="897">Mumbai</option><option value="8012">Pune</option>							
 																			
 					  </select>
 					  </label>
@@ -128,7 +195,7 @@ border-bottom-left-radius: 0px !important;}
     <ul>
 	
         <li><a href="http://www.coke2home.com/Contact.htm">Contact Us</a></li>
-        <li><a href="http://www.coke2home.com/login_register.php"><strong>Register</strong></a></li>		<li><a>Hello. Guest</a><a href="logout.php?action=logout"><strong>Login</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+        <li><a href="http://www.coke2home.com/login_register.php"><strong>Register</strong></a></li>		<li><a>Hello. Guest</a><a href="logout.php?action=&#10;&#9;&#9;&#9;logout"><strong>Login</strong><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
 		
 		
 		
@@ -137,14 +204,130 @@ border-bottom-left-radius: 0px !important;}
 	</div>
 
 				<div class="top-red-menu">
-                	<ul>
-					                      	<li><a id="tab10" href="http://www.coke2home.com/products.php#1090746022"><span class="" style="width:80%;">&nbsp;</span> Sparkling Drinks <span class="span-buttom" style="width:80%;">&nbsp;</span></a></li>
-						                    	<li><a id="tab11" href="http://www.coke2home.com/products.php#1228823629"><span class="" style="width:80%;">&nbsp;</span> Energy Drinks <span class="span-buttom" style="width:80%;">&nbsp;</span></a></li>
-						                    	<li><a id="tab12" href="http://www.coke2home.com/products.php#598564254"><span class="" style="width:80%;">&nbsp;</span> Juice Based Drinks <span class="span-buttom" style="width:80%;">&nbsp;</span></a></li>
-						                    	<li><a id="tab13" href="http://www.coke2home.com/products.php#1055266784"><span class="" style="width:80%;">&nbsp;</span> Soda &amp; Mixers <span class="span-buttom" style="width:80%;">&nbsp;</span></a></li>
-						                    	<li><a id="tab14" href="http://www.coke2home.com/products.php#1157221830"><span class="" style="width:80%;">&nbsp;</span> Packaged Drinking Water <span class="span-buttom" style="width:80%;">&nbsp;</span></a></li>
+                 <a href="#" id="pull"></a>
+                	<ul class="clearfix">
+                    <h2>Shop by categories</h2>
+					                         
+                    	<li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#1090746022"><span style="width:80%;" class="dott">&nbsp;</span> Sparkling Drinks <span class="span-buttom" style="width:80%;">&nbsp;</span></a>
+						
+                   <ul>
+				   				    <li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#m_16"><span style="width:80%;" class="dott1">&nbsp;</span> Coca Cola</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#m_18"><span style="width:80%;" class="dott1">&nbsp;</span> Thums Up</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#m_19"><span style="width:80%;" class="dott1">&nbsp;</span> Sprite</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#m_20"><span style="width:80%;" class="dott1">&nbsp;</span> Fanta</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#m_21"><span style="width:80%;" class="dott1">&nbsp;</span> Limca</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab10" href="http://www.coke2home.com/products.php#m_31"><span style="width:80%;" class="dott1">&nbsp;</span> Rimzim</a>
+                        </li>
+						                     </ul>  
+                        
+                        </li>
+						                       
+                    	<li>
+                       
+                        
+                        <a id="tab11" href="http://www.coke2home.com/products.php#1228823629"><span style="width:80%;" class="dott">&nbsp;</span> Energy Drinks <span class="span-buttom" style="width:80%;">&nbsp;</span></a>
+						
+                   <ul>
+				   				    <li>
+                       
+                        
+                        <a id="tab11" href="http://www.coke2home.com/products.php#m_22"><span style="width:80%;" class="dott1">&nbsp;</span> Burn</a>
+                        </li>
+						                     </ul>  
+                        
+                        </li>
+						                       
+                    	<li>
+                       
+                        
+                        <a id="tab12" href="http://www.coke2home.com/products.php#598564254"><span style="width:80%;" class="dott">&nbsp;</span> Juice Based Drinks <span class="span-buttom" style="width:80%;">&nbsp;</span></a>
+						
+                   <ul>
+				   				    <li>
+                       
+                        
+                        <a id="tab12" href="http://www.coke2home.com/products.php#m_23"><span style="width:80%;" class="dott1">&nbsp;</span> Maaza</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab12" href="http://www.coke2home.com/products.php#m_24"><span style="width:80%;" class="dott1">&nbsp;</span> Minute Maid</a>
+                        </li>
+						                     </ul>  
+                        
+                        </li>
+						                       
+                    	<li>
+                       
+                        
+                        <a id="tab13" href="http://www.coke2home.com/products.php#1055266784"><span style="width:80%;" class="dott">&nbsp;</span> Soda &amp; Mixers <span class="span-buttom" style="width:80%;">&nbsp;</span></a>
+						
+                   <ul>
+				   				    <li>
+                       
+                        
+                        <a id="tab13" href="http://www.coke2home.com/products.php#m_26"><span style="width:80%;" class="dott1">&nbsp;</span> Schweppes</a>
+                        </li>
+										    <li>
+                       
+                        
+                        <a id="tab13" href="http://www.coke2home.com/products.php#m_25"><span style="width:80%;" class="dott1">&nbsp;</span> Kinley Soda</a>
+                        </li>
+						                     </ul>  
+                        
+                        </li>
+						                       
+                    	<li>
+                       
+                        
+                        <a id="tab14" href="http://www.coke2home.com/products.php#1157221830"><span style="width:80%;" class="dott">&nbsp;</span> Packaged Drinking Water <span class="span-buttom" style="width:80%;">&nbsp;</span></a>
+						
+                   <ul>
+				   				    <li>
+                       
+                        
+                        <a id="tab14" href="http://www.coke2home.com/products.php#m_27"><span style="width:80%;" class="dott1">&nbsp;</span> Kinley</a>
+                        </li>
+						                     </ul>  
+                        
+                        </li>
 						                        </ul>
                 </div>
+                
+                <!--icons div start from here -->
+                
+      
+                
+                
+                
+                <!--icons div ends from here -->
+                
 				<div id="my_bag_div">
 <!-- Cart value Start -->
 				</div>
@@ -156,11 +339,13 @@ border-bottom-left-radius: 0px !important;}
 <div class="product-weper-box">
 <table width="100%" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
-<td width="120" valign="top" align="center">
+<td width="120" valign="top" align="center" class="hidden-for-mob">
 <div class="product-weper-box-left">
-<div class="top-banner-left-box">
- <a href="http://www.coke2home.com/summersale.htm"> <img src="http://www.coke2home.com/images/coke-img/get-online-offer.png" alt=""></a>
+    <div class="top-banner-left-box hidden-for-mob">
+ <a href="http://www.coke2home.com/festive.htm"> <img src="http://www.coke2home.com/images/coke-img/get-online-offer.png" alt=""></a>
  </div>
+ 
+
        <div class="clear"></div>
     </div></td>
 <td width="99%" valign="top" align="left">   
@@ -232,7 +417,7 @@ border-bottom-left-radius: 0px !important;}
 
 </div>
 </td> 
-<td width="140" valign="top" align="center">
+<td width="140" valign="top" align="center" class="hidden-for-mob">
  <div class="product-weper-box-right">
 <div class="block-box">
         	<h3>Customer Support</h3>
@@ -267,28 +452,50 @@ body p strong{  color: #515151; font-size: 15px; }
 .product-box-100 ol li{list-style-type:decimal;}
 .product-box-100 ul li{list-style:disc;}
 </style>
-
+<div class="goto-top-btn">
+<div><a class="submit_btn-m red-m" href="#"><img src="http://www.coke2home.com/images/coke-img/mobile-arrow.png" alt=""></a></div>
+</div>
 <div class="clear"></div>
+
+<script>
+jQuery(document).ready(function() {
+var offset = 220;
+var duration = 400;
+jQuery(window).scroll(function() {
+if (jQuery(this).scrollTop() > offset) {
+jQuery('.goto-top-btn').fadeIn(duration);
+} else {
+jQuery('.goto-top-btn').fadeOut(duration);
+}
+});
+
+jQuery('.goto-top-btn').click(function(event) {
+event.preventDefault();
+jQuery('html, body').animate({scrollTop: 0}, duration);
+return false;
+})
+});
+</script>
 <div class="clear" style="clear:both; width:100%; height:5px;"></div>
 <div class="footer-bg">
 		<div class="main-wepar">
         	<div class="new_footer_links">
-    	<div class="col1">
+    	<div class="col1 c2h1">
         	<h3>Coke2Home.com</h3>
             <ul>
             	<li><a title="www.hindustancoca-cola.com" target="_blank" href="http://www.hindustancoca-cola.com/">Corporate Site</a></li>
                 <li><a href="http://www.coke2home.com/About_Us.htm" title="About Us">About Us</a></li>
             </ul>
         </div>
-        <div class="col2 col1">
+        <div class="col2 col1 c2h2">
         	<h3>My Account</h3>
-            <ul>
-            	<li><a href="http://www.coke2home.com/" title="My Order">My Order</a></li>				
+			            <ul>
+            	<li><a href="http://www.coke2home.com/login_register.php" title="My Order">My Order</a></li>				
                 <li><a title="My Basket" href="http://www.coke2home.com/managerLink.php">My Basket</a></li>
                 <li><a href="http://www.coke2home.com/trackyourorder.htm" class="group1 cboxElement"><lable title="Track My Order">Track My Order</lable></a></li>
             </ul>
         </div>
-        <div class="col3 col1">
+        <div class="col3 col1 c2h3">
         	<h3>Support</h3>
             <ul>
             	<li><a href="http://www.coke2home.com/Contact.htm" title="Contact Us">Contact Us</a></li>
@@ -298,16 +505,18 @@ body p strong{  color: #515151; font-size: 15px; }
                 <li><a href="http://www.coke2home.com/feedback.htm" title="Customer Feedback">Customer Feedback</a></li>
             </ul>
         </div>
-        <div class="col1" style="width:163px;">
+        <div class="col1 c2h4" style="width:163px;">
         	<h3>Policies</h3>
             <ul>
             	<li><a href="http://www.coke2home.com/Terms.htm" title="Terms and Conditions">Terms and Conditions</a></li>
                 <li><a href="http://www.coke2home.com/Privacy.htm" title="Privacy Policy">Privacy Policy</a></li>
                 <li><a href="http://www.coke2home.com/Disclaimer.htm" title="Disclaimer">Disclaimer</a></li>
 				<li><a href="http://www.coke2home.com/deliveryterms.htm" title="Delivery Terms">Delivery Terms</a></li>
+				<li><a href="http://www.coke2home.com/festive.htm">Festive Offer Terms</a></li>
+				
           </ul>
         </div>
-        <div class="col1">
+        <div class="col1 c2h5">
             <h3>Follow Us On</h3>
             <p>
             	<a class="twitter" href="https://twitter.com/cocacola" target="_blank" title="twitter"><img src="http://www.coke2home.com/images/coke-img/socel-icon_01.png" alt=""></a>
@@ -316,21 +525,26 @@ body p strong{  color: #515151; font-size: 15px; }
             </p>
         </div>
     </div>
+    
         </div>
+        <div class="clear"></div>
 </div>
 <div class="paymentoptions">
 	<div class="main-wepar">
     		<div class="payment_options">
-			  <img src="http://www.coke2home.com/images/coke-img/payment-option.png" alt="">  <img src="http://www.coke2home.com/images/coke-img/process-banks.gif" class="process-banks-img" alt=""></div>
+			  <img src="http://www.coke2home.com/images/coke-img/payment-option.png" alt="" class="payment-for-d">
+              <img src="http://www.coke2home.com/images/coke-img/payment-option-mob.png" class="payment-for-m" alt="">
+              <img src="http://www.coke2home.com/images/coke-img/we-process.png" class="weprocess-for-m" alt="">
+                <img src="http://www.coke2home.com/images/coke-img/process-banks.gif" class="process-banks-img" alt=""></div>
            </div>
 </div>
 <div class="footer_center">
-<p>*** This limited period offer is valid from January 1st, 2014  to  May 31st, 2014, both days included.<br>
+<p>*** This limited period offer is valid from June 1st, 2014  to  October 31st, 2014, both days included.<br>
 HCCBPL retains the right to modify, terminate or extend this offer, at its sole discretion, without giving any prior intimation.</p>
 <p>Coca-Cola, Coke, Dynamic Ribbon and Contour Bottle are the registered trademarks of The Coca-Cola Company.<br>
 Sprite, Limca, Thums Up, Maaza, Fanta, Kinley, Burn and Minute Maid are the registered trademarks of The Coca-Cola Company.<br>
 Schweppes is a registered trademark of Schweppes Holdings Limited.</p>
-<p>© 2013 The Coca-Cola Company. All Rights Reserved.</p>
+<p>© 2014 The Coca-Cola Company. All Rights Reserved.</p>
 </div>
 
 
@@ -348,7 +562,7 @@ padding-left: 10px;}
 
 .top-red-menu ul li a span{ height:8px; width:100%;  float:left; margin:0; display:block; 
 border-bottom-left-radius: 8px;}
-
+.product-weper-box{width: 1004px;}
 
 .top-red-menu ul li a:hover .span-buttom{}
 .top-red-menu ul li a:hover span{}
@@ -363,15 +577,69 @@ float: left;
 margin: -12px -10px;
 padding: 0px 0px 0px 0px;
 }
+
 </style>
 <![endif]-->
+ <!--[if IE 8]>
+<style type="text/css">
+.product-weper-box{width: 100%;}
+.left{ width:100%; float:left; text-align:left!important;  line-height:20px!important;}
+.form-for8{ position:relative; float:left;}
+.for-8{ position:relative; top:-430px;  left:20px; display:block; margin-bottom:20px;}
 
+
+ .tabs-pay li:first-child a.active span{margin-top:-1px;}
+ .addres-li-dc li{width:auto;}  
+</style>
+<![endif]-->
 <!--[if IE 9]>
 <style type="text/css">
+
+.tabs-pay li a.active span{margin-left:-21px;}
+.tabs-pay li a{font-size:15px!important;}
+.error
+{
+	color: #ff0000 !important;
+    float: none;
+    padding-left: 20px;
+    text-align: left !important;
+}
+
+
+.label-for
+{
+	width:100%;
+}
+
+.heading-icon{
+   
+    float: left;
+    font-size:15px;
+}
+
+
+.conti-shopp a{font-size:18px;}
+.addres-li-dc li{width:30%;}
+.save_order{width:95%!important; margin-left:5px;}
+.submit_btn1{width:25%; padding: 0 0px; height:29px;}
+.pament-mod-box .new_total_wrap .new_total_wrap-new{width:100%;}
+.pament-mod-box .new_total_wrap p label{font-size:12px; width:80px;}
+.new_total_wrap p .total_price{ font-size:12px; width:auto;}
+.place-order .check-box{width:100%; text-align:left;font-size:16px;}
+.check-box input{border:none; outline:none;}
+.newadd{right:30px!important;}
+
+
+/* -------------------- end ------------------ */
+
+
+
+
+
 .product-page-header{margin-bottom:20px;}
 .product-weper-box-right .block-box h3{ display:block; height:30px;}
 .product-weper-box-right .block-box h4{display:block; height:30px;}
-.top-red-menu{width: 788px; margin-top:20px;
+.top-red-menu{width: 788px; margin-top:0px;
 float: left;
 padding-left: 10px;}
 .top-red-menu ul{ list-style:none; float:left; width: 788px;  float:left}
@@ -394,9 +662,14 @@ float: left;
 margin: -12px -10px;
 padding: 0px 0px 0px 0px;
 }
+.banner{margin-top:4px!important; display:none;}
 </style>
 <![endif]-->
-<!-- Tag Manager Starts from here --><script type="text/javascript">
+<!-- Tag Manager Starts from here --><!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 996464746;
 var google_custom_params = window.google_tag_params;
@@ -407,8 +680,9 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none; "  alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996464746/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996464746/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript><!-- Tag Manager Starts ends here -->
+</noscript><!-- My CC code is --><script src="//dtxnk7lg3r1lt.cloudfront.net/tt-12bdc9eedc0abc0dc0f5a4c36836d8bac9a5b78de2e10a4747859a305f6d4535.js" async="">
+</script><!-- My CC code is --><!-- Tag Manager Starts ends here -->
 
 </body></html>
