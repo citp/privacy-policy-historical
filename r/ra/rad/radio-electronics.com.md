@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209072832id_/http%3A//www.radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio-electronics.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010040540id_/http%3A//www.radio-electronics.com/rec-information/privacy-policy.php) for the most accurate reproduction.*
 
 # Radio-Electronics.Com :: Privacy Policy
-
-Navigation:: [Home](http://www.radio-electronics.com/) >> Privacy Policy
 
 Adrio Communications Ltd, the owners and operators of the Radio-Electronics.Com aim to offer a service that is free to all and free to use in a manner that will not infringe any privacy.
 
@@ -17,7 +15,17 @@ We have summarised some of the main elements where cookies will be used in assoc
 
 ## Collection of website statistics
 
-For Radio-Electronics.Com, like most standard Web site servers, log files are used to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. In addition to this, similar statistics are collected by Google using their Analytics programme. This information is used to analyse the performance of the Radio-Electronics.Com website: its usage, it is used to administer the site, understand usage and the overall navigation trends, and determine the relevance of content. This information is not linked to any personally identifiable information..
+For Radio-Electronics.Com, like most standard Web site servers, log files are used to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. In addition to this, similar statistics are collected by Google using their Analytics programme. This information is used to analyse the performance of the Radio-Electronics.Com website: its usage, it is used to administer the site, understand usage and the overall navigation trends, and determine the relevance of content. This information is not linked to any personally identifiable information.
+
+The site has implemented the Google Analytics features based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration or Google Analytics Demographics and Interest Reporting).
+
+Using the Ads Settings, visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads. There are also Google Analytics' available opt outs for the web.
+
+This site and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise and serve ads based on someone's past visits to the website.
+
+The Google Analytics Demographics and Interest Reporting, has been implemented. This is used to gain information about the types of visitors (not individuals) that visit the site. It helps us better meet the needs of users and thereby provide a better service.
+
+How you use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics.
 
   
 
