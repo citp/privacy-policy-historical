@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424171015id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010184753id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
-# Privacy | LIBGIG
+# Privacy - LIBGIG
 
 ## Privacy
 
@@ -18,10 +18,10 @@ We take the utmost care to ensure that the personal information we obtain from y
 Information collected on the site may be used to:
 
 \- Register you as a job applicant  
-\- Enter your email in our promotions or sweepstakes  
-\- Send marketing communications or surveys to you  
-\- Respond to your questions or suggestions  
-\- Improve the quality of your visit to the site
+– Enter your email in our promotions or sweepstakes  
+– Send marketing communications or surveys to you  
+– Respond to your questions or suggestions  
+– Improve the quality of your visit to the site
 
 All forms will provide an opt-out button to allow you to choose not to participate in LibGig lists and future online marketing. In deciding whether or not to join such lists, please note that they are only used for LibGig purposes or in joint promotions with a LibGig partner. We do not sell, rent or share any of your personal information with any other party including any third-party joint promoters, nor use it for unapproved commercial purposes. You may request to be removed from our lists at any time. All emails distributed to our lists will contain easy, online access to unsubscribe.
 
