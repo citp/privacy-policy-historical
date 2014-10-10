@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the proto.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625035938id_/http%3A//proto.io/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proto.io privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010225930id_/http%3A//proto.io/en/privacy-policy) for the most accurate reproduction.*
 
-# Proto.io - Privacy Policy
+# Privacy Policy - Proto.io
 
 **Last Revised: November 12, 2013**
 
-This Privacy Policy explains how information about you is collected, used and disclosed by PROTOIO Inc. and its affiliates (collectively, “ **Proto.io** ”, “ **we** ” or “ **us** ”). This Privacy Policy applies to information we collect when you use our website, and other online products and services (collectively, the “ **Services** ”) or when you otherwise interact with us. 
+This Privacy Policy explains how information about you is collected, used and disclosed by PROTOIO Inc. and its affiliates (collectively, " **Proto.io** ", " **we** " or " **us** "). This Privacy Policy applies to information we collect when you use our website, and other online products and services (collectively, the " **Services** ") or when you otherwise interact with us. 
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -19,7 +19,7 @@ We collect information you provide directly to us. For example, we collect infor
 When you access or use our Services, we automatically collect information about you, including:
 
   * **Log Information:** We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
-  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see “Your Choices” below.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
 
 
