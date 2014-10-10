@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesmadesimple.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151251id_/http%3A//www.companiesmadesimple.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesmadesimple.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010034651id_/http%3A//www.companiesmadesimple.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Companies Made Simple
 
@@ -13,7 +13,7 @@ In this Policy the following terms shall have the following meanings:
 **"Content"** | means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;  
 **"Cookie"** | means a small text file placed on your computer by The Made Simple Group Limited when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your. Further details are contained in Clause 10.  
 **"Data"** | means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;  
-**"Name"** | means The Made Simple Group Limited of 145-157 St John Street, London EC1V 4PY;  
+**"Name"** | means The Made Simple Group Limited of 20-22 Wenlock Road, London, N1 7GU;  
 **"Service"** | means collectively any online facilities, tools, services or information that The Made Simple Group Limited makes available through the Web Site either now or in the future;  
 **"System"** | means any online communications infrastructure that The Made Simple Group Limited makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;  
 **"User" / "Users"** | means any third party that accesses the Web Site and is not employed by The Made Simple Group Limited and acting in the course of their employment; and  
