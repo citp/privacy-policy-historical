@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fukitol.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219031238id_/http%3A//www.fukitol.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fukitol.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011003513id_/http%3A//fukitol.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | FUKITOL.com - When Life Just Blows...FUKITOL!
+# Privacy Policy
+
+[](http://www.addthis.com/bookmark.php)
 
 This site is operated by FUKITOL.COM. Our Privacy Policy is designed to tell you about the policies that govern our collection, use, and disclosure of the information that you may provide via our Websites. Before using or submitting information to this site, please read this entire Private Policy. Please be aware that this Privacy Policy generally describes FUKITOL.COM sites, although the particular site you are viewing may not include all the items described. This site is governed solely by applicable Federal, State and Provincial laws and governmental regulations in the United States and Canada. Use of this site constitutes your consent to application of such laws and regulations and to our Privacy Policy.
 
@@ -68,7 +70,7 @@ If you have any questions, comments, or concerns about this Privacy Policy or th
 
 FUKITOL.COM
 
-Email:  [Info@FUKITOL.COM](mailto:Info@FUKITOL.COM)
+Email: [Info@FUKITOL.COM](mailto:Info@FUKITOL.COM)
 
 **Changes to This Privacy Policy**
 
