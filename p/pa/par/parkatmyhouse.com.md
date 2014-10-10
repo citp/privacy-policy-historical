@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the parkatmyhouse.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326175704id_/http%3A//www.parkatmyhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkatmyhouse.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010223120id_/https%3A//www.justpark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | ParkatmyHouse
-
-[Add a parking space or garage to rent](https://web.archive.org/dashboard/parking-spaces/add/)
+# Privacy policy | JustPark
 
   1. ### Introduction
 
-    1. ParkatmyHouse Limited, trading as ParkatmyHouse ("we" or "us") take the privacy of your information very seriously. This policy explains how and for what purposes we use the information collected about you via this site (referred to below as "the Site"). Please read this privacy policy carefully. By using the Site and any services we offer via the Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
-    2. If you have any queries about the policy, please [get in touch](http://help.parkatmyhouse.com/) and we will do our best to answer your questions.
+    1. ParkatmyHouse Limited, trading as JustPark ("we" or "us") take the privacy of your information very seriously. This policy explains how and for what purposes we use the information collected about you via this site (referred to below as "the Site"). Please read this privacy policy carefully. By using the Site and any services we offer via the Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
+    2. If you have any queries about the policy, please [get in touch](http://help.justpark.com//) and we will do our best to answer your questions.
   
 
   2. ### Personal information collected
@@ -29,7 +27,7 @@
       3. make general improvements to our Site and the services we offer;
       4. analyse how customers are making use of the Site;
       5. notify you of certain offers and new products (subject to your right to unsubscribe or opt-out).
-      6. market and advertise relevant products and services. This may include ParkatmyHouse and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent such marketing or communications i.e. opt-out of these uses.
+      6. market and advertise relevant products and services. This may include JustPark and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent such marketing or communications i.e. opt-out of these uses.
   
 
   4. ### Sharing this information
@@ -64,6 +62,6 @@
 
   7. ### Further questions
 
-    1. If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by emailing us at [help@parkatmyhouse.com](mailto:help@parkatmyhouse.com).
+    1. If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by emailing us at [help@justpark.com](mailto:help@justpark.com).
 
 
