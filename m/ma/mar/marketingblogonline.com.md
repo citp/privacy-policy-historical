@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingblogonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131037id_/http%3A//marketingblogonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingblogonline.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010174852id_/http%3A//marketingblogonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Blog Marketing Online | Blogging for Dollars
 
