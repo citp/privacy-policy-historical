@@ -1,30 +1,31 @@
-<!--The following is the downloaded HTML source of the bigml.com privacy policy that was archived on 2014-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140215054144id_/https%3A//bigml.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigml.com privacy policy that was archived on 2014-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141010020919id_/https%3A//bigml.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="bigml" xmlns:fb="http://ogp.me/ns/fb#"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Language" content="en">
-        <meta name="description" content="BigML's goal is to create a machine learning service extremely easy to use and seamless to integrate.">
+        <meta name="description" content="BigML.com's goal is to create a machine learning service extremely easy to use and seamless to integrate.">
         <meta name="keywords" content="big data, machine learning, machine learning as a service, machine learning API, models, decission trees, predictive models, predictions, evaluation, evaluate predictive models, ensembles, random decision forest, easy, model gallery, binding, library">
+        <meta name="site" content="BigML.com">
         
         
         
         
         
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="BigML - Machine Learning Made Easy">
+        <meta property="og:site_name" content="BigML.com - Machine Learning Made Easy">
         <meta property="fb:app_id" content="347587692005723">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@bigmlcom">
-        <title>Privacy Policy | BigML</title>
+        <title>Privacy Policy | BigML.com</title>
         <link type="image/x-icon" href="https://static.bigml.com/static/favicon.ico" rel="shortcut icon">
 
         
 
 
         
-        <link href="https://static.bigml.com/static/compressed/css/d4d9f14d0f0f.css" rel="stylesheet" type="text/css">
-        <link href="https://static.bigml.com/static/compressed/css/472fa13c0594.css" rel="stylesheet" type="text/css">
-        <link href="https://static.bigml.com/static/compressed/css/5971cbf2effb.css" rel="stylesheet" type="text/css">
+        <link href="https://static.bigml.com/static/compressed/css/9a44a2759979.css" rel="stylesheet" type="text/css">
+        <link href="https://static.bigml.com/static/compressed/css/e51150132a38.css" rel="stylesheet" type="text/css">
+        <link href="https://static.bigml.com/static/compressed/css/5b3513a5a848.css" rel="stylesheet" type="text/css">
         <!--[if IE]>
         <link href="https://static.bigml.com/static/css/ie.css" rel="stylesheet" type="text/css"/>
         <![endif]-->
@@ -54,12 +55,15 @@
                 img8 = new Image();
                 img8.src = "https://static.bigml.com/static/img/process_model.gif";
             }
-        </script>
-        <script src="https://static.bigml.com/static/compressed/js/75ade6b625e3.js" type="text/javascript"></script>
-        <script type="text/javascript">
             var STATIC_URL = "https://static.bigml.com/static/",
                 IS_DEV_MODE = false,
-                ACTIVE_SUBSCRIPTION = false;
+                ACTIVE_SUBSCRIPTION = false,
+                SITE_NAME = "BigML.com",
+                BIGML_IO_HOST;
+            var Smoothie = {'baseURL': STATIC_URL, 'paths': ['/js/nodejs/']};
+        </script>
+        <script src="https://static.bigml.com/static/compressed/js/51e046a6962b.js" type="text/javascript"></script>
+        <script type="text/javascript">
             $('html').addClass('js');
             $(function() {
                 $('div.widget_info a').tipsy({gravity: 'n'});
@@ -144,7 +148,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="/"><img src="https://static.bigml.com/static/img/logo_menu.png"></a>
+                        <a class="navbar-brand" href="/"><img src="https://static.bigml.com/static/img/logo_menu.png" alt="BigML.com"></a>
                     </div>
 
                     
@@ -160,6 +164,24 @@
                             <li class=""><a href="/whatsnew">WHAT'S NEW</a></li>
                             <li class=""><a href="/developers">DEVELOPERS</a></li>
                             <li class="login"><a href="/accounts/login/">Login</a></li>
+                            <li class="login github dropdown">
+                                <a rel="nofollow" class="btn tipsy-login-icon dropdown-toggle" href="javascript:void(0);"><i class="icon-chevron-down icon-white"></i></a>
+                                <ul class="dropdown_menu" style="display: none;">
+                                    <li>
+                                        <span>Login with...</span>
+                                    </li>
+                                    <li>
+                                        <a class="amazon" rel="nofollow" href="/login/amazon/">Amazon</a>
+                                    </li>
+                                    <li>
+                                        <a class="github" rel="nofollow" href="/login/github/">Github</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="login australia">
+                                <a href="https://bigml.com.au" class="au tipsy-banner" title="Australia or New Zealand users<br/>Sign in"></a>
+                                <a href="https://bigml.com.au" class="iphone">Australia or New Zealand users Sign in</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -189,6 +211,21 @@
 </div>
 
 
+                <div id="production_mode_required" class="modal hide fade">
+    <div class="modal-header">
+      <a href="#" class="close">×</a>
+      <h3>Production mode is required</h3>
+    </div>
+    <div class="modal-body">
+        We are sorry but you must be in production mode to peform this action.<br>
+        You can change your settings in your <a href="/account">account</a> page.
+    </div>
+    <div class="modal-footer">
+       <button id="close_prod_mode_required" type="submit" class="button btn">Continue</button>
+    </div>
+</div>
+
+
                 
 
 <div class="container_12 document">
@@ -203,7 +240,7 @@
 Your privacy is important to BigML. We have developed a Privacy Policy that covers the information BigML collects and stores, how BigML uses personal information, how BigML shares, transfers or discloses, your information. Please take a moment to familiarize yourself with our privacy&nbsp;practices and let us know if you have any questions.
     	</p>
         <p class="intro">
-This Privacy Policy (the “BigML Privacy Policy”) governs the BigML web site located at BigML.com ("BigML.com"), the BigML API  located at  BigML.io (“BigML.io”), all the software applications developed, hosted and offered via the Internet by BigML, and all associated sites linked to BigML.com by BigML Inc, its subsidiaries and affiliates, including BigML sites around the world (collectively, “the BigML Services”).
+This Privacy Policy (the “BigML Privacy Policy”) governs the BigML web site located at BigML.com ("BigML.com"), the BigML API  located at BigML.io (“BigML.io”), all the software applications developed, hosted and offered via the Internet by BigML, and all associated sites linked to BigML.com by BigML Inc, its subsidiaries and affiliates, including BigML sites around the world (collectively, “the BigML Services”).
         </p>
         <p class="intro">
 This Privacy Policy describes our policies and procedures regarding the collection, use and disclosure of personally identifiable information made available by users of the BigML Services.
@@ -538,6 +575,7 @@ This Privacy Policy describes our policies and procedures regarding the collecti
             
 
         </div>
+        
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -548,6 +586,7 @@ This Privacy Policy describes our policies and procedures regarding the collecti
                 pageTracker._trackPageview();
             } catch(err) {}
         </script>
+        
     
 
 </body></html>
