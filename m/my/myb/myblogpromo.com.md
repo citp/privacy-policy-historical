@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblogpromo.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531121602id_/http%3A//www.myblogpromo.com/p/privacy-policy_5835.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogpromo.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010044053id_/http%3A//www.myblogpromo.com/p/privacy-policy_5835.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
