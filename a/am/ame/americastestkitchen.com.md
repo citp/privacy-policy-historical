@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430152350id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011140803id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - America's Test Kitchen
 
@@ -18,7 +18,7 @@ Some Internet browsers include the ability to transmit Do Not Track signals. Our
 
 ##  Use Of Information About You 
 
-ATK uses the information we collect from site visitors in part to understand site usage and control the content and offerings on our sites. For example, a cookie is used to identify a registrant or member who has logged in, allowing their computer or device to remain logged in for an extended period of time. Demographic information is used for analyzing and understanding site usage and is not used for presentation of ads or offers. We do not sell or rent this information to anyone. 
+ATK uses the information we collect from site visitors in part to understand site usage and control the content and offerings on our sites or present offerings across third party sites. 
 
 From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some of your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party). 
 
