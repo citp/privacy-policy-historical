@@ -1,53 +1,91 @@
-> *The following text is extracted and transformed from the newsle.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030172938id_/http%3A//newsle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsle.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012003908id_/https%3A//newsle.com/privacy) for the most accurate reproduction.*
 
 # newsle: privacy policy
 
-## Privacy Policy
+**Last Updated: November 25, 2013**
 
-We value your privacy. Your password is encrypted before we store and authenticate it, so we don't have access to your original password. We protect any information that is personally-identifying. We will never sell your personal information.
+This Policy explains how your personal information is collected, used, and disclosed by Newsle and its subsidiaries and affiliated companies ("Newsle" or "We"). This privacy policy ("Policy") applies to the websites of Newsle, including Newsle.com, and Newsle’s online services (collectively, "Services"). This Policy does not apply to websites, applications or services that display or link to different privacy statements.
 
-### Website Visitors
+**INFORMATION COLLECTED**
 
-Like most website operators, Newsle collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Newsle's purpose in collecting non-personally identifying information is to better understand how Newsle's visitors use its website. From time to time, Newsle may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We collect information about you in various ways when you use our Services. We collect personal information you provide to us. For example, we collect your name, email address, demographics, photos and other information you provide us through our Services. If you choose to connect your social networking and email accounts to our Service, we may collect your profile data, your photo, the email address you use for those accounts, and your list of connections, including their profile data and photos, and contact information. We also obtain information from other sources and combine that with information we collect through our Services. Because of the nature of our Services we also collect and compile publicly available information about persons that our users follow or may wish to follow, including, for example, news articles, blog posts and public profiles, names and photos.
 
-Newsle also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. Newsle only discloses IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+When you visit our website, some information is automatically collected, for example, we collect information about your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. We also collect information about your usage and activity on our Services. 
 
-### Content in the Service
+**Cookies.** We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Services and your experience. We use cookies to understand usage, to see which areas and features are popular, and to count visits to our website. We also use cookies to remember your website preferences. 
 
-Newsle automatically groups news articles, blog posts, and other publicly-available content based on people who are related to the content. Newsle does not guarantee that the groupings will be correct. There will be circumstances in which content is incorrectly linked to a person.
+**Web Beacons.** We may collect information using Web beacons. Web beacons are electronic images that may be used on our Services or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
-While the content in the Newsle service may reference users by name, Newsle only aggregates content that is publicly available on other websites and indexable by a search engine. We do not search for personal records, criminal records, phone numbers, addresses, or other private information.
+Other parties may collect information including personally identifiable information about your online activities over time and across different websites when you use our Services, some of those activities are described in this Policy.
 
-### Gathering of Personally-Identifying Information
+**ADVERTISING**
 
-Some features of the Newsle service require Newsle to gather personally-identifying information. The amount and type of information that Newsle gathers depends on the nature of the interaction. For example, we gather basic information about a user and his or her contacts if the user chooses to connect his or her account to services such as Facebook, LinkedIn, Twitter, or email. In each case, Newsle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the service. We never store your login credentials to any third party websites. Newsle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain features of the service.
+We may use third parties to serve ads on our Services. Certain third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org.
 
-### Use of Personally-Identifying Information
+**USE OF INFORMATION WE COLLECT**
 
-If you grant Newsle access to your Facebook, LinkedIn, Twitter, or email account, Newsle will collect certain information about you and the people you are connected to on the account. This information is limited by the privacy settings of you and your connections, which you set through your accounts on those services. Newsle uses this information to disambiguate between people with similar names, and will not make public any of the information gathered from these services, with the exception of the name, public photo, and account ID of you and your connections, which are already publicly available.
+We use personal information collected through our Services for purposes described in this Policy or disclosed to you on our Services or in connection with our services. For example, we may use your information and contacts you choose to upload to Newsle to:
 
-If you grant Newsle permission to do so, Newsle may post activity to your Facebook account via Facebook Open Graph that corresponds to actions you take on Newsle. Newsle will not post activity to Facebook except in response to your specific actions on Newsle. By submitting contacts from any service, you authorize Newsle to contact those individuals on your behalf.
+  * create your private and public profile and use your public profile and information including your name, photo, blog posts, and news articles about you to display and send to others, including those who follow you or who we think may wish to follow you; 
+  * for commercial purposes using your name, picture, image, and/or likeness including to let other people, such as your friends, connections, and contacts, know that you are a registered user of Newsle and that you have taken particular action(s) on the Service;
+  * operate and improve our Services;
+  * understand you and your preferences to enhance your experience and enjoyment using our Services;
+  * respond to your comments and questions and provide customer service;
 
-### Aggregated Statistics
 
-Newsle may collect statistics about the behavior of visitors to its websites. For instance, Newsle may monitor the most popular users, news articles, and comments. Newsle may display this information publicly or provide it to others. However, Newsle does not disclose personally-identifying information other than as described below.
+  * provide and deliver services and information you request;
+  * send you information relating to your account, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
 
-### Protection of Certain Personally-Identifying Information
 
-Newsle discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Newsle’s behalf or to provide services available at newsle.com, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Newsle service, you consent to the transfer of such information to them. Newsle will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Newsle discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Newsle believes in good faith that disclosure is reasonably necessary to protect the property or rights of Newsle, third parties or the public at large. If you are a registered user of the Newsle service and have supplied your email address, Newsle may periodically send you an email to tell you about new news articles, solicit your feedback, or just keep you up to date with what’s going on with Newsle and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Newsle takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+  * email you with news about people you are following, people you may wish to follow, upcoming events, and other news about products and services offered by Newsle and our selected partners;
+  * send emails on your behalf to friends and connections you would like to invite to use our service using email addresses in your contacts and email addresses of other users who share common contacts with you and to send email invites for other users who share contacts in common with you using the email addresses of contacts that you uploaded (we never show other users the email addresses of your contacts unless, of course, they already have those);
+  * solicit your feedback about our services;
+  * link or combine your information with other information we get from third parties, to help understand your needs and provide you with better service; and 
+  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
 
-### Deleting Your Account
 
-To delete your account, go to newsle.com/settings and click "Delete My Account" at the bottom of the settings dialog. To revoke Newsle's permission to access your Facebook, LinkedIn, Twitter, or email account, use that service's privacy settings interface for external applications.
 
-### Cookies
+Newsle will store and process personal information in the United States and other countries that may have data protection protections that differ from your home country. 
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Newsle uses cookies to help Newsle identify and track visitors, their usage of Newsle website, and their website access preferences. Newsle visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Newsle’s website, with the drawback that certain features of Newsle’s website may not function properly without the aid of cookies.
+**SHARING OF PERSONAL INFORMATION**
 
-### Ads
+**Information You Share**
 
-Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Newsle and does not cover the use of cookies by any advertisers.
+Our Services allow you to connect and share information such as your name, profile, photos, actions, comments, content, and other information publicly and with other people. You may also connect to, and share your information on, third party websites and services through our Service. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. We are also not responsible for the privacy practices of thrid party websites and services.
 
-### Privacy Policy Changes
+**Information We Share**
 
-Although most changes are likely to be minor, Newsle may change its Privacy Policy from time to time, and in Newsle’s sole discretion. Newsle encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of the Newsle service after any change in this Privacy Policy will constitute your acceptance of such change.
+Because of the nature of our Services we share publicly available information about persons that our users follow or may wish to follow, including, for example, news articles, blog posts, names and photos. We do not share non-public personal information you give us with third parties other than as described in this Policy and as follows:
+
+  * with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
+  * with third party vendors, consultants and other service providers who work for us and need access to your information to do that work;
+  * to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Newsle our agents, customers, and others including to enforce our agreements, policies, and terms of use or (iii) in an emergency to protect the personal safety of Newsle, its customers, or any person;
+  * in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
+
+
+
+We may also share aggregated or deidentified information.
+
+**SECURITY OF YOUR PERSONAL INFORMATION**
+
+Newsle takes reasonable steps to help protect your non-public personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. 
+
+**YOUR INFORMATION CHOICES AND CHANGES**
+
+You may opt out of receiving promotional emails from Newsle by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your non-public personal information with third parties by emailing support@newsle.com. 
+
+Subject to applicable law, you may delete your account by going to newsle.com/settings and selecting "Delete My Account" at the bottom of the settings dialog. You may also request deletion of information and content you post about yourself by contacting Newsle and verifying your identity.    Newsle does not ensure complete or comprehensive removal of the content or information posted on our Site by registered account holders, further deletion of your account will not affect information, content, and news posted about you by others or information, content, and news posted about you and reposted by Newsle.
+
+You can revoke or modify Newsle’s permissions to access social networking accounts you have connected with Newsle by using the privacy settings for those respective services.
+
+Third party service providers, such as analytics service providers, who act on our behalf may track individual consumer’s online activities over time and across third-party websites or online services and may or may not honor any or all Web browser "do not track" signals and other mechanisms that provide consumers the ability to exercise choice. To learn more about some of the analytics service providers we use and choices they may give you about tracking please visit their privacy policies: KISSmetrics ([KISSmetrics Privacy Policy](https://www.kissmetrics.com/) and [Opt-Out](https://www.kissmetrics.com/user-privacy)), Optimizely (https://www.optimizely.com/privacy), and GoogleAnalytics ([Google Analytics Privacy](http://www.google.com/analytics/learn/privacy.html) and Google Analytics [Opt-Out](https://tools.google.com/dlpage/gaoptout) Browser Add-On). Please note that this is not an exhaustive list and we may change these from time to time.
+
+Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove and reject cookies we set directly from Newsle.com servers. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site.  
+
+**CHANGES TO THIS POLICY**  
+
+Newsle may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. 
+
+**QUESTIONS**
+
+If you have any questions about this Policy, please contact us at http://support.newsle.com
