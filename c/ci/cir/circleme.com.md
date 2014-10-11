@@ -1,100 +1,95 @@
-> *The following text is extracted and transformed from the circleme.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleme.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011143032id_/http%3A//circleme.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy, CircleMe
 
-**Go Daddy Respects Your Privacy**
+###### _Date of Last Revision: 4 August 2011_
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+#####  CircleMe was created to make sure anyone can enjoy in real life the things that s/he is interested in. CircleMe is both a management tool for all the things you like, and a way to engage and share all these things. For the system to work appropriately, some personal information is required by the system and will be shared with other individuals. These privacy policies are designed to help you understand how we specifically collect, use and disclose your information.  
+For any queries, doubts or comments, please reach out to us at [privacy@circleme.com](mailto:privacy@circleme.com). This privacy policy covers all of CircleMe. By using or accessing CircleMe, you agree to our privacy practices outlined below. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+##### Our Policy Towards Children
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#####  Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@circleme.com](mailto:privacy@circleme.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. 
 
-**Information Collection and Use**
+#####  What Does This Privacy Policy Cover? 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#####  This Privacy Policy covers CircleMe's treatment of personal information that CircleMe collects while you are on the Site and when you use the Services. This policy also covers CircleMe's treatment of any personal information that CircleMe's business partners share with CircleMe. This policy does not apply to the practices of third parties that CircleMe does not own or control, including but not limited to third party services you access though CircleMe, or to individuals that CircleMe does not employ or manage. As our Services integrates with third-party sites, such as Facebook and other sites and social networks, we assume that you are already aware of their own Privacy Policies when using CircleMe and when you allow CircleMe to interact with these sites on your behalf. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+#####  Information Collection & Use 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+#####  By visiting and interacting with CircleMe or any of CircleMe Services which includes a link to this privacy policy (i.e., CircleMe and Partner Sites, each CircleMe Site), you provide us three types of information: Personal Information (i.e., information that you purposely disclose or that you authorize to be disclosed on your behalf); Content and User Contributed Content (as defined in the CircleMe Terms of Service); and Automatic Information (e.g. your IP address and browser type). 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+#####  Personal Information 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+#####  Information provided at registration and through the ‘Account’ menu. In order to access certain functionality of the Service, you will be required to become a registered user. When you register with us at a CircleMe Site, we collect your name, email address, user name, as well as some other personal information that you may choose to provide to us (e.g., personal picture, location/ IP address, Facebook ‘likes’ preferences, etc). Furthermore, if you connect via CircleMe to a third-party website (e.g., using Facebook connect), CircleMe will receive and might store any information that is made available by such third-party website.   
+To serve a valuable service to all its users, CircleMe allows to search for other users through their first name, last name or username. This information will remain public. Additionally, to facilitate browsing and search functionality, CircleMe does not allow to set privacy on the personal picture (thumbnail and background picture): if you do not feel comfortable in showing these to other users, we advise you to not publish any.  
+While using the CircleMe service, you might express preferences for items present in the system (i.e., “like”) and you might mark some of the items as worth evaluating further (i.e., “to-do”). Any CircleMe ‘like’ and ‘to-do’ could potentially be visible to other users, within or outside of CircleMe. You can establish who can view these items by determining the preferred settings in the Settings page on [www.circleme.com](http://www.circleme.com/) ([www.circleme.com/settings](http://www.circleme.com/settings)).  
+We may occasionally use your name and email address to send you notifications regarding new services offered by CircleMe that we think you may find valuable. We may send you service-related announcements from time to time through the general operation of the Service. For instance, if a user sends you a new message or a new suggestion of an item, you may receive an email alerting you of that fact. Generally, you may opt out of such emails from the Settings page on CircleMe (<http://www.circleme.com/settings>), though we reserve the right to send you important notices about your account even if you opt out of all voluntary email notifications. You can adjust what information is presented back to you and other CircleMe users by adding and removing content from your profile or by adjusting the settings in your CircleMe profile.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Sending invitations and suggestions from CircleMe. If you choose to use our invitation or suggestion services to invite a friend to join CircleMe or to suggest a potential item of interest to a person you know, we will ask you for information needed to send this invitation/message, such as your contact's email address. We will use such information to send your contact(s) an email and reminder e-mails in your name inviting him or her to visit circleme.com, to allow you to see invitations you have sent, and to track the success of our referral program. Your contact may unsubscribe through the link provided with such correspondence, which will prevent your contact from receiving further correspondence, but we may retain your contact's information in our database.  
+Contacting us through a CircleMe Site. If you contact us by email through the site, we may keep a record of your contact information and correspondence and will use your email and correspondence if we decide to respond to you. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+#####  User Contributed Content 
 
-**Security**
+#####  You can create or upload to CircleMe different kinds of content, including text, messages, reviews (i.e., “views”), posts, html, URLs, images, video and other. Furthermore, any user in CircleMe can contribute to the site’s content database by creating items that are not present in its database.  
+This content is the basis through which CircleMe provide its Service, and can be resubmitted to you and to other CircleMe users. This content is collected and retained to be part of an increased user experience. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+#####  Automatic Information 
 
-**Updating Your Information**
+#####  We may receive and store certain types of information whenever you interact with us. CircleMe may automatically receive and record information on our server logs from your browser including your IP address, CircleMe cookie information, and the information you request. CircleMe may use this traffic data to help diagnose problems with its server, analyze trends and administer the Site and Services. Our service may automatically collect usage information, such as the numbers and frequency of visitors to our Site and Services and their components. CircleMe may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data may enable us to figure out how often customers use parts of the Site and Services, so we can make the Site and Services appealing to as many users as possible. As part of this use of information, we may provide aggregate information, not information about you personally, to our partners about how our users, collectively, use our Site and Services. If we share this type of statistical data, we do this so that our partners can understand how often people use their areas of our Site and Service, and can therefore provide you with an optimal CircleMe experience.  
+We use your user contributed Content, Personal Information, and Measured Data and the combination thereof to provide, maintain, and improve our Services, to better understand how you interact with CircleMe, to provide personalized features of the Service, to monitor your use and aggregate users' use of CircleMe, to administer your inquiries, and to enforce our (or our partners' or users') rights. As one example, as you use a CircleMe Site, your profile may be automatically updated to reflect your use of such site including what items you like, which things you might be interested in evaluating, how similar you might be to other users of the site, your expertise in specific fields, and other actions you take.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We also use your user contributed Content, Measured Data, and the aggregated Personal Information of the members of CircleMe or a specific group or demographic, and any combination of such information to deliver custom content and advertising that may be of interest to you. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+##### How will CircleMe use Your Information?
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+##### 
 
-      iii.      You may call us at: (480) 505-8800
+  1. #####  To manage the service: We use the information we collect to provide our services and features to you, to measure and improve those services and features, and to provide you with customer support. We use the information to prevent potentially illegal activities, and to enforce our  _Statement of Rights and Responsibilities_. We also use a variety of technological systems to detect and address anomalous activity and screen content to prevent abuse such as spam. These efforts may on occasion result in a temporary or permanent suspension or termination of some functions for some users. 
 
-       iv.      You may fax us at: (480) 505-8844
+  2. #####  To contact you. We may contact you with service-related announcements from time to time. You may opt out of all communications except essential updates on your  _Account Information_  page. 
 
-**Sending Emails**
+  3. #####  To make you suggestions: our technology automatically uses some of the information you provided to spot and suggest to you items that you might want to ‘like’ or mark as a ‘to-do’. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  4. #####  To find “neighbors”: our technology automatically uses some of the information you provided to find other CircleMe users who might be interesting for you to give a look at, since they might share with you same interests or ‘to-do’ activities (there are potential “like-minded” people). 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+#####  Will CircleMe Share Any of the Information it Receives? 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#####  Information about our users is important to our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+#####  Information Sharing and Disclosure 
 
-**Supplementation of Information**
+#####  We do not disclose your private information except in the limited circumstances described here.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Your Consent: We may share or disclose your information with your consent, such as when you use a third party web client to access your CircleMe account.  
+Service Providers: We engage certain trusted third parties (e.g., Google Analytics, etc.) to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.  
+Law and Harm: We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect CircleMe's rights or property.  
+Business Transfers: In the event that CircleMe is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.  
+Non-Private or Non-Personal Information: We may share or disclose your non-private, aggregated or otherwise non-personal information, such as the number of users who clicked on a particular link (even if only one did). 
 
-**Contests/Surveys**
+#####  Modifying Your Personal Information 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+#####  If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+#####  Deleting Your Account 
 
-**Tell-A-Friend**
+#####  We provide you with a way to delete your account. In this case, CircleMe will delete all personal information related to that account. The comments, reviews, and related activities on CircleMe for that user will not be deleted, but the content generated by this user will be associated with an anonymous source. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+#####  Changes to this Policy 
 
-**What Happens to my Personal Information if I Opt Out?**
+#####  We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <http://www.circleme.com/privacy>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+#####  Contact 
 
-**Transfer of Data Abroad**
+#####  For the purpose of the Data Protection Act 1998 (the Act), the data controller is Cascaad Srl and for any physical correspondence, you can reach us at: 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+#####  Cascaad Srl  
+Privacy Team  
+via Morimondo 26  
+20143 Milano (MI)  
+Italy 
 
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+#####  Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@circleme.com](mailto:privacy@circleme.com). 
