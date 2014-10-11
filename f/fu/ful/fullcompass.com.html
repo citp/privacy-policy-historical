@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fullcompass.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209071314id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fullcompass.com privacy policy that was archived on 2014-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141012003035id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 		<meta name="verify-v1" content="Mpdf3tGiDIfDs2HYOV2uDMy7hoK8m10aanSetJWfyLM=">
@@ -32,10 +32,6 @@
 		<link type="text/css" rel="stylesheet" href="http://www.fullcompass.com/extendedInfo/css/auth.php">
 		<link rel="shortcut icon" href="http://www.fullcompass.com/fullcompass/images/favicon.ico">
 		<link href="https://plus.google.com/107572232610442888817/posts" rel="publisher">
-		<script type="text/javascript">
-		var ids=new Array(
-		);
-		</script>
 		<script type="text/javascript" src="http://www.fullcompass.com/imageIds.js"></script>
 		<script type="text/javascript" src="http://www.fullcompass.com/loadImage.js"></script>
 		<script type="text/javascript" src="http://www.fullcompass.com/common.js"></script>
@@ -45,22 +41,81 @@
 		<script type="text/javascript" src="http://www.fullcompass.com/craigx/js/min/tips.js"></script>
 		<script type="text/javascript" src="http://www.fullcompass.com/craigx/js/common.js"></script>
 		<script type="text/javascript" src="http://www.fullcompass.com/craigx/js/messageCenter.js"></script>
+		<script type="text/javascript">
+				var ids=new Array(
+			);
+			
+			function getCookie(cname) {
+				var name = cname + "=";
+				var ca = document.cookie.split(';');
+				for(var i=0; i<ca.length; i++) {
+					var c = ca[i].trim();
+					if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+				}
+				return "";
+			}
+			
+			function displayAlert(state)
+			{
+				var fullD = "fullAlert";
+				var shortD = "shortAlert"
+
+				if(document.getElementById(fullD) !=null && document.getElementById(shortD) != null)
+				{
+					var msgCookie = getCookie("viewSiteMessage");
+					
+					if(state == "click")
+					{
+						if(msgCookie == "" || msgCookie == null)
+						{
+							msgCookie = "hideMessage";
+						}
+					
+						if(msgCookie == "showMessage")
+						{
+							document.getElementById(fullD).style.display = "block";
+							document.getElementById(shortD).style.display = "none";
+							document.cookie = "viewSiteMessage=hideMessage;path=/;domain=.fullcompass.com;";
+						}
+						else
+						{
+							document.getElementById(fullD).style.display = "none";
+							document.getElementById(shortD).style.display = "block";
+							document.cookie = "viewSiteMessage=showMessage;path=/;domain=.fullcompass.com;";
+						}
+					}
+
+					if(state == "load")
+					{
+						if(msgCookie == "hideMessage" || (msgCookie == "" || msgCookie == null))
+						{
+							document.getElementById(fullD).style.display = "block";
+							document.getElementById(shortD).style.display = "none";
+						}
+						else
+						{
+							document.getElementById(fullD).style.display = "none";
+							document.getElementById(shortD).style.display = "block";
+						}
+					}
+				}
+			}
+			
+			function Blank_TextField_Validator()
+			{
+				var searchtext = document.getElementById("input-search").value
+				if (searchtext == '')
+				{
+				   alert("Please enter keyword(s) or part number. ");
+				   return (false);
+				}
+			}
+		</script>		
 		<!--[if IE 6]>
 		<script type="text/javascript">
 		var bIsIE6 = 1;
 		</script>
 		<![endif]--> 
-		<script language="JavaScript">
-		function Blank_TextField_Validator()
-		{
-			var searchtext = document.getElementById("input-search").value
-			if (searchtext == '')
-			{
-			   alert("Please enter keyword(s) or part number. ");
-			   return (false);
-			}
-		}
-		</script>
 <script type="text/javascript">
 function GetSourceFromUTMZCookie() 
 {
@@ -135,141 +190,201 @@ _gaq.push(['_trackPageview']);
 }
 )();
 </script>
+	
 	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-	<body>
+	<body onload="displayAlert('load');">
 	<div class="adModule">
 		<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=site_notifications&amp;unique[0]=site_notifications&amp;frm=1" scrolling="no" style="border:0;width:100%;height:96px"></iframe></noscript>
 		<div id="site_notifications" class="ad_class"><!-- --></div>
 	</div>
-	<div id="pageWrapper"> 		<div id="masthead" class="inside"> 			<div id="mastheadLogo">
-				<a href="http://www.fullcompass.com" rel="nofollow" title="Full Compass - Pro Audio | Video | A/V | Lighting | Musical Instruments">
-					<img src="http://www.fullcompass.com/fullcompass/images/logo_main.gif" alt="Full Compass - Pro Audio | Video | A/V | Lighting | Musical Instruments" border="0">
-				</a>
+	
+	<div id="header"> 		<div id="cartRow">				<!--[if IE]><iframe id="cart" name="cart"  src="http://www.fullcompass.com/fullcompass/includes/customerBox.php?parent=%2Fnews%2F88.html" width="100%" height="36" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" >
+				<p>Your browser does not support iframes.</p>
+			</iframe><![endif]-->
+			<!--[if !IE]>--><iframe id="cart" name="cart" src="http://www.fullcompass.com/fullcompass/includes/customerBox.php?parent=%2Fnews%2F88.html" width="100%" height="36" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+				<p>Your browser does not support iframes.</p>
+			</iframe><!--<![endif]-->
+		</div>
+		<div class="logoRow">
+						<a href="http://www.fullcompass.com" rel="nofollow"><span class="logo">&nbsp;</span></a>
+						<div class="ad">
+				<div class="adModule">
+					<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=header_1&amp;unique[0]=header_1&amp;frm=1" scrolling="no" frameborder="0" width="315" height="65"></iframe></noscript>
+					<div id="header_1" class="ad_class"><!-- --></div>
+					&nbsp;
+				</div>
 			</div>
-			<table class="mastContent" width="100%" cellpadding="0" cellspacing="0">
-				<tbody><tr valign="bottom">
-					<td class="mastheadSpaceLeft">&nbsp;</td>			
-					<td align="center">
-						<div class="callProWrapper">
-							<div class="callProInner">
-								<span class="callProSales">Call a Sales Pro!</span><br><span class="callProSalesNo">800-356-5844</span><br>
-							<span class="callProHours">M-F 9:00am - 5:30pm Central</span>
-							</div>
-							<div class="callProAltNos">
-								<span>Quick Order</span> <span class="callProAltNosColor" style="color:#660099;">800-476-9886</span><br>
-								<span>Local:</span> <span class="callProAltNosColor">608-831-7330</span><br>
-								<span>Español:</span> <span class="callProAltNosColor">x1164 y x1178</span>
-							</div>
-						</div>
-					</td>
-					<td width="300">
-												<div class="adModule">
-							<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=header_1&amp;unique[0]=header_1&amp;frm=1" scrolling="no" frameborder="0" width="240" height="30"></iframe></noscript>
-							<div id="header_1" class="ad_class"><!-- --></div>
-						</div>
-												<div id="cartTabBlock">	
-							<!--[if IE]><iframe id="cart" name="cart"  src="http://www.fullcompass.com/fullcompass/includes/customerBox.php?parent=%2Fnews%2F88.html" width="100%" height="36" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" >
-								<p>Your browser does not support iframes.</p>
-							</iframe><![endif]-->
-							<!--[if !IE]>--><iframe id="cart" name="cart" src="http://www.fullcompass.com/fullcompass/includes/customerBox.php?parent=%2Fnews%2F88.html" width="100%" height="36" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-								<p>Your browser does not support iframes.</p>
-							</iframe><!--<![endif]-->
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-					<div id="navBar"> 				<div id="navTabs" align="center">
-					<ul>
-						<li class="first"><a id="leftCorner" href="http://www.fullcompass.com/category/Accessories-Parts-Hardware.html" title="Accessories">Accessories</a></li>
-						<li><a href="http://www.fullcompass.com/category/Audio-Sound-Equipment.html" title="Audio &amp; Sound">Audio<br>&amp; Sound</a></li>
-						<li><a href="http://www.fullcompass.com/category/Video-Television-Cameras.html" title="Video, AV, TV &amp; Photo">Video, AV<br>TV &amp; Photo</a></li>
-						<li><a href="http://www.fullcompass.com/category/Lighting-Theatrical-Equipment.html" title="Lighting &amp; Theatrical">Lighting<br>&amp; Theatrical</a></li>
-						<li><a href="http://www.fullcompass.com/category/Computers-Software.html" title="Computers &amp; Software">Computers<br>&amp; Software</a></li>
-						<li><a href="http://www.fullcompass.com/category/Musical-Instruments.html" title="Musical Instruments">Musical<br>Instruments</a></li>
-						<li><a href="http://www.fullcompass.com/category/Books-Instruction-Gifts.html" title="Books, Gifts &amp; Instruction">Books, Gifts<br>&amp; Instruction</a></li>
-						<li class="rebates"><a href="http://www.fullcompass.com/rebates-special-offers/" title="Rebates / Special Offers">Rebates /<br>Special Offers</a></li>
-						<li class="last"><a id="rightCorner" href="http://www.fullcompass.com/specials.php" title="Clearance">Clearance</a></li>
-					</ul>
+							
+			<div class="contactWrapper">
+				<div class="contactInnerOff">
+					<span class="callSalesOff">Pros Available by Phone</span><br>
+					<span class="salesNumberOff">9:00am - 5:30pm Central</span><br>
+					<span class="hours">Monday - Friday</span><br>
+					
 				</div>
-				<div class="mainSearchBar">
-					<form action="http://www.fullcompass.com/search.php" method="GET" id="searchForm" onsubmit="return Blank_TextField_Validator();">
-						<script language="javascript" type="text/javascript">
-							function changeSearchColor()
-							{
-								var str = "";
-								var optionList = document.getElementById('parent').options;
-								var selected = document.getElementById('parent').selectedIndex;
-								str = optionList[selected].text;
-								document.getElementById('out').innerHTML = str;
-							}
-						</script>							
-						<div class="mainSearchDropDown">
-							<select class="mainSearchDropDownList" id="parent" name="parent" onchange="this.blur();changeSearchColor();">
-							  <option value="471">Search All</option>
-							  <option value="9999">Clearance</option>
-							  <option value="1309">Accessories</option>
-							  <option value="473">Audio &amp; Sound</option>
-							  <option value="476">Video, TV &amp; Cameras</option>
-							  <option value="475">Lighting &amp; Theatrical</option>
-							  <option value="819">Computers &amp; Software</option>
-							  <option value="990">Musical Instruments</option>
-							  <option value="1665">Replacement Parts</option>
-							</select>
-							<div id="out" class="out">Search All</div>
-						</div>
-		
-						<div class="mainSearchBox">
-							<input type="hidden" name="search_simple" value="true"><input type="text" name="txtAll" id="input-search" placeholder="Keyword(s) or Part #" title="Keyword(s) or Part #" size="25" autocomplete="off">
-						</div>
-						<div class="mainSearchButton">
-							<input type="submit" value="GO">
-						</div>
-						<div class="shopByBrand">
-							<input type="button" onclick="javascript:document.location='http://www.fullcompass.com/brands_show_all.php'" value="Shop by Brand">
-						</div>
-					</form>
-					<script type="text/javascript">
-					var cx = '009205099740233335274:4f0nrv3owia';
-					var key = 'AIzaSyBsVC-6BjLPg0qmCtkJ9DglRBzLxk146XY';
-
-					var saytParams =
-					{
-						country: 'us',
-						language: 'en',
-						sayt_description_config: 'null',
-						sayt_use_max_thumb_style: 'true',
-						extra_params:
+				<a href="http://www.fullcompass.com/news/77.html" rel="nofollow"><span class="salespro">&nbsp;</span></a>
+			</div>
+		</div>
+				<div id="search">
+			<div id="wrapsearch">
+				<form action="http://www.fullcompass.com/search.php" method="GET" id="searchForm" onsubmit="return Blank_TextField_Validator();">
+					<script language="javascript" type="text/javascript">
+						function changeSearchColor()
 						{
-							safe: false
+							var str = "";
+							var optionList = document.getElementById('parent').options;
+							var selected = document.getElementById('parent').selectedIndex;
+							str = optionList[selected].text;
+							document.getElementById('out').innerHTML = str;
 						}
-					};
-
-					var style_options =
-					{
-						xAlign: 'center',
-						fixedWidth: 600
-					};
-
-					var autoCompletionOptions =
-					{
-						'maxCompletions' : 5,
-						'styleOptions': style_options
-					};
-					var setSaytCallback = function(sayt)
-					{
-						if (sayt != null)
-						{
-							window['__gcs_sayt'] = sayt;
-							completionObject = sayt['completionController'];
-						}
-					};
-					setupSayt(cx, key, 'input-search', 'searchForm',
-					setSaytCallback, autoCompletionOptions, saytParams);
-					</script>
-				</div>
-			</div> 		
+					</script>							
+					<div class="dropdown">
+						<select id="parent" name="parent" onchange="this.blur();changeSearchColor();">
+						  <option value="471">Search All</option>
+						  <option value="9999">Clearance</option>
+						  <option value="1309">Accessories</option>
+						  <option value="473">Audio &amp; Sound</option>
+						  <option value="476">Video, TV &amp; Cameras</option>
+						  <option value="475">Lighting &amp; Theatrical</option>
+						  <option value="819">Computers &amp; Software</option>
+						  <option value="990">Musical Instruments</option>
+						  <option value="1665">Replacement Parts</option>
+						</select>
+						<div id="out" class="out">Search All</div>
+					</div>
+								
+					<div class="keywords">
+						<input type="hidden" name="search_simple" value="true"><input type="text" name="txtAll" id="input-search" placeholder="Keyword(s) or Part #" title="Keyword(s) or Part #" size="25" autocomplete="off">
+					</div>
+					<div class="go">
+						<input type="submit" value="">
+					</div>
+				</form>
+				<script type="text/javascript">
 				
-		</div> 		<div id="outerColumnContainer">
+				var cx = '009205099740233335274:4f0nrv3owia';
+				var key = 'AIzaSyBsVC-6BjLPg0qmCtkJ9DglRBzLxk146XY';
+
+				var saytParams =
+				{
+					country: 'us',
+					language: 'en',
+					sayt_description_config: 'null',
+					sayt_use_max_thumb_style: 'true',
+					extra_params:
+					{
+						safe: false
+					}
+				};
+
+				var style_options =
+				{
+					xAlign: 'center',
+					fixedWidth: 600
+				};
+
+				var autoCompletionOptions =
+				{
+					'maxCompletions' : 5,
+					'styleOptions': style_options
+				};
+				var setSaytCallback = function(sayt)
+				{
+					if (sayt != null)
+					{
+						window['__gcs_sayt'] = sayt;
+						completionObject = sayt['completionController'];
+					}
+				};
+				setupSayt(cx, key, 'input-search', 'searchForm',
+				setSaytCallback, autoCompletionOptions, saytParams);
+				</script>
+				<div id="btnClearance">
+					<a href="http://www.fullcompass.com/specials.php">Clearance</a>
+				</div>
+				<div id="btnShopBrand">
+					<a href="http://www.fullcompass.com/brands_show_all.php">Shop by Brand</a>
+				</div>
+			</div>
+		</div>
+		<div class="navmenu">
+			<div class="wrapnav">
+				<ul class="topmenu">
+									<li id="accessories"><a href="http://www.fullcompass.com/category/Accessories-Parts-Hardware.html"><span></span><span>Accessories</span></a>
+						<!--[if !IE 7]-->
+						<div>
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/Adapters-Adapter-Cables-Splitters.html">Adapters, Adapter Cables, Splitters</a></li><li><a href="http://www.fullcompass.com/category/Cable-Connectors-Wire-Optical.html">Cable, Connectors, Wire, Optical</a></li><li><a href="http://www.fullcompass.com/category/Cases-Bags-Cabinets-Racks.html">Cases, Bags, Cabinets, Racks</a></li><li><a href="http://www.fullcompass.com/category/Furniture.html">Furniture</a></li><li><a href="http://www.fullcompass.com/category/Hardware-Parts-Acoustic.html">Hardware, Parts, Acoustic</a></li><li><a href="http://www.fullcompass.com/category/Media-CDR-DVDR-Memory-Cards-Tape-Tape-Accessories.html">Media, CDR, DVDR, Memory Cards, Tape, Tape Accessories</a></li><li><a href="http://www.fullcompass.com/category/Patchbays-Switchers.html">Patchbays, Switchers</a></li><li><a href="http://www.fullcompass.com/category/Power-Products-Power-Supplies-Power-Conditioners-Batteries.html">Power Products, Power Supplies, Power Conditioners, Batteries</a></li><li><a href="http://www.fullcompass.com/category/Replacement-Service-Parts.html">Replacement/Service Parts</a></li><li><a href="http://www.fullcompass.com/category/Stands-Mounts-Tripods.html">Stands, Mounts, Tripods</a></li><li><a href="http://www.fullcompass.com/category/Test-Equipment-And-Tools.html">Test Equipment and Tools</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+					<li id="audio"><a href="http://www.fullcompass.com/category/Audio-Sound-Equipment.html"><span></span><span>Audio<br>&amp; Sound</span></a>
+						<!--[if !IE 7]-->
+						<div>
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/Audio-Amplifiers.html">Audio Amplifiers</a></li><li><a href="http://www.fullcompass.com/category/CD-Players-Recorders-Duplicators.html">CD Players/Recorders/Duplicators</a></li><li><a href="http://www.fullcompass.com/category/Conference-Systems.html">Conference Systems</a></li><li><a href="http://www.fullcompass.com/category/Consumer-Audio-Players-Boom-Boxes.html">Consumer Audio Players, Boom Boxes</a></li><li><a href="http://www.fullcompass.com/category/Digital-Conversion-Transcoding-A-D-D-A-Sync.html">Digital Conversion, Transcoding, A/D &amp; D/A, Sync.</a></li><li><a href="http://www.fullcompass.com/category/DJ-Club-Equipment.html">DJ/Club Equipment</a></li><li><a href="http://www.fullcompass.com/category/Headphone-Amplifiers-Mixers.html">Headphone Amplifiers, Mixers</a></li><li><a href="http://www.fullcompass.com/category/Headphones-Earphones.html">Headphones/Earphones</a></li><li><a href="http://www.fullcompass.com/category/Headphones-In-Ear-Wireless-Monitor-Systems.html">Headphones/In-Ear Wireless Monitor Systems</a></li><li><a href="http://www.fullcompass.com/category/Hearing-Enhancement-Hard-Of-Hearing-Translation-Tour-Guide.html">Hearing Enhancement, Hard of Hearing, Translation, Tour Guide</a></li><li><a href="http://www.fullcompass.com/category/Intercoms.html">Intercoms</a></li><li><a href="http://www.fullcompass.com/category/Microphones-DI-Boxes.html">Microphones/DI boxes</a></li><li><a href="http://www.fullcompass.com/category/Mixers-Consoles.html">Mixers, Consoles</a></li><li><a href="http://www.fullcompass.com/category/Networked-Digital-Audio-Systems-Snakes.html">Networked Digital Audio Systems &amp; Snakes</a></li><li><a href="http://www.fullcompass.com/category/Preamps-Distribution-Line-Amps.html">Preamps, Distribution, Line Amps</a></li><li><a href="http://www.fullcompass.com/category/Recorders-Copiers-Players.html">Recorders, Copiers, Players</a></li><li><a href="http://www.fullcompass.com/category/Recording-Audio-DAW-Digital-Workstations.html">Recording (Audio) DAW, Digital Workstations</a></li><li><a href="http://www.fullcompass.com/category/Signal-Processing-Audio.html">Signal Processing, Audio</a></li><li><a href="http://www.fullcompass.com/category/Sound-Systems-Packaged.html">Sound Systems, Packaged</a></li><li><a href="http://www.fullcompass.com/category/Speakers.html">Speakers</a></li><li><a href="http://www.fullcompass.com/category/Switchers-Routers-Combiners-Source-Selectors.html">Switchers/Routers/Combiners/Source Selectors</a></li><li><a href="http://www.fullcompass.com/category/Telephone-Interface-Teleconference.html">Telephone Interface, Teleconference</a></li><li><a href="http://www.fullcompass.com/category/Turntables-Phonographs.html">Turntables, Phonographs</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+					<li id="video"><a href="http://www.fullcompass.com/category/Video-Television-Cameras.html"><span></span><span>Video, TV<br>&amp; Photo</span></a>
+						<!--[if !IE 7]-->
+						<div>
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/A-V-Controllers.html">A/V Controllers</a></li><li><a href="http://www.fullcompass.com/category/A-V-Presentation-Equipment.html">A/V Presentation Equipment</a></li><li><a href="http://www.fullcompass.com/category/Camcorders.html">Camcorders</a></li><li><a href="http://www.fullcompass.com/category/Cameras-Still.html">Cameras, Still</a></li><li><a href="http://www.fullcompass.com/category/Cameras-Video-Studio-Presentation.html">Cameras, Video, Studio, Presentation</a></li><li><a href="http://www.fullcompass.com/category/Closed-Circuit-Video-Security-Industrial.html">Closed-Circuit Video, Security, Industrial</a></li><li><a href="http://www.fullcompass.com/category/Delays-Time-Shifters-For-Video.html">Delays, Time Shifters for Video</a></li><li><a href="http://www.fullcompass.com/category/Digital-Signage.html">Digital Signage</a></li><li><a href="http://www.fullcompass.com/category/Digital-Whiteboards.html">Digital Whiteboards</a></li><li><a href="http://www.fullcompass.com/category/Distribution-Video-Amplifiers.html">Distribution/Video Amplifiers</a></li><li><a href="http://www.fullcompass.com/category/DVD-Blu-Ray-Players-Recorders-Duplicators.html">DVD, Blu-Ray Players, Recorders, Duplicators</a></li><li><a href="http://www.fullcompass.com/category/Editors-Non-Linear-Controllers.html">Editors, Non-Linear, Controllers</a></li><li><a href="http://www.fullcompass.com/category/Extenders-Baluns-Transmitters-Receivers-For-Video.html">Extenders, Baluns, Transmitters/Receivers for Video</a></li><li><a href="http://www.fullcompass.com/category/Mixers-Switchers-SEG-S-Titlers-VIDEO.html">Mixers, Switchers, SEG's, Titlers, VIDEO</a></li><li><a href="http://www.fullcompass.com/category/Projection-Screens.html">Projection Screens</a></li><li><a href="http://www.fullcompass.com/category/Projectors-Overhead.html">Projectors, Overhead</a></li><li><a href="http://www.fullcompass.com/category/Projectors-Video-Data.html">Projectors, Video/Data</a></li><li><a href="http://www.fullcompass.com/category/Recorders-Players-Editors-VIDEO.html">Recorders, Players, Editors, VIDEO</a></li><li><a href="http://www.fullcompass.com/category/RF-Cable-CATV-MATV-Amplifiers-Distro-Accessories.html">RF, Cable, CATV, MATV Amplifiers, Distro, Accessories</a></li><li><a href="http://www.fullcompass.com/category/Scalers-Transcoders-Converters-Encoders-Codec-Keyers.html">Scalers, Transcoders, Converters, Encoders, Codec, Keyers</a></li><li><a href="http://www.fullcompass.com/category/Sync-Black-Burst-Pattern-Generators.html">Sync, Black Burst, Pattern Generators</a></li><li><a href="http://www.fullcompass.com/category/Teleprompters.html">Teleprompters</a></li><li><a href="http://www.fullcompass.com/category/TV-Monitors.html">TV, Monitors</a></li><li><a href="http://www.fullcompass.com/category/Video-Capture-Cards-Interfaces.html">Video Capture Cards/Interfaces</a></li><li><a href="http://www.fullcompass.com/category/Video-Wall.html">Video Wall</a></li><li><a href="http://www.fullcompass.com/category/Wireless-Video-Data.html">Wireless Video/Data</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+					<li id="lighting"><a href="http://www.fullcompass.com/category/Lighting-Theatrical-Equipment.html"><span></span><span>Lighting<br>&amp; Theatrical</span></a>
+						<!--[if !IE 7]-->
+						<div>
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/Fog-Atmospheric-Effects.html">Fog/Atmospheric Effects</a></li><li><a href="http://www.fullcompass.com/category/Gel-Filters-Gobos-Frames-Holders.html">Gel, Filters, Gobos, Frames, Holders</a></li><li><a href="http://www.fullcompass.com/category/Grip-Equipment-Scenic-Hardware.html">Grip Equipment, Scenic, Hardware</a></li><li><a href="http://www.fullcompass.com/category/Lamps-Lightbulbs-For-Replacement.html">Lamps, Lightbulbs for Replacement</a></li><li><a href="http://www.fullcompass.com/category/Light-Fixtures-Luminaires.html">Light Fixtures, Luminaires</a></li><li><a href="http://www.fullcompass.com/category/Lighting-Dimmers-And-Controllers.html">Lighting Dimmers and Controllers</a></li><li><a href="http://www.fullcompass.com/category/Lighting-Power-Cables-And-Connectors.html">Lighting/Power Cables and Connectors</a></li><li><a href="http://www.fullcompass.com/category/Rigging-Truss-And-Stage.html">Rigging, Truss and Stage</a></li><li><a href="http://www.fullcompass.com/category/Software-Based-Lighting-Applications.html">Software-Based Lighting Applications</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+					<li id="computers"><a href="http://www.fullcompass.com/category/Computers-Software.html"><span></span><span>Computers<br>&amp; Software</span></a>
+						<!--[if !IE 7]-->
+						<div class="align-right">
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/Computers.html">Computers</a></li><li><a href="http://www.fullcompass.com/category/Software-Plug-Ins.html">Software &amp;  Plug-Ins</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+					<li id="instruments"><a href="http://www.fullcompass.com/category/Musical-Instruments.html"><span></span><span>Musical<br>Instruments</span></a>
+						<!--[if !IE 7]-->
+						<div class="align-right">
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/Accessories-For-Musical-Instruments.html">Accessories for Musical Instruments</a></li><li><a href="http://www.fullcompass.com/category/Bass-Guitar.html">Bass Guitar</a></li><li><a href="http://www.fullcompass.com/category/Drums-And-Percussion.html">Drums and Percussion</a></li><li><a href="http://www.fullcompass.com/category/Guitar.html">Guitar</a></li><li><a href="http://www.fullcompass.com/category/Keyboards-And-MIDI.html">Keyboards and MIDI</a></li><li><a href="http://www.fullcompass.com/category/Music-Software.html">Music Software</a></li><li><a href="http://www.fullcompass.com/category/Orchestra-And-Band.html">Orchestra and Band</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+					<li id="books"><a href="http://www.fullcompass.com/category/Books-Instruction-Gifts.html"><span></span><span>Books, Gifts<br>&amp; Instruction</span></a>
+						<!--[if !IE 7]-->
+						<div class="align-right">
+							<div class="nav-columnLeft">
+								<ul>
+								<li><a href="http://www.fullcompass.com/category/Audio-Sound-Recording-Instruction-Books.html">Audio, Sound, Recording Instruction Books</a></li><li><a href="http://www.fullcompass.com/category/Entertainment-Business-Books.html">Entertainment Business Books</a></li><li><a href="http://www.fullcompass.com/category/Gifts-Featured-Items.html">Gifts / Featured Items</a></li><li><a href="http://www.fullcompass.com/category/Installation-Electrical-Instruction-Books.html">Installation, Electrical Instruction Books</a></li><li><a href="http://www.fullcompass.com/category/Lighting-Television-Instruction-Books.html">Lighting, Television Instruction Books</a></li><li><a href="http://www.fullcompass.com/category/Lighting-Theater-Instruction-Books.html">Lighting, Theater Instruction Books</a></li><li><a href="http://www.fullcompass.com/category/Music-Books.html">Music Books</a></li><li><a href="http://www.fullcompass.com/category/Musical-Equipment-Instrument-Instruction-Books.html">Musical Equipment/Instrument Instruction Books</a></li><li><a href="http://www.fullcompass.com/category/Photography-Instruction-Books.html">Photography Instruction Books</a></li><li><a href="http://www.fullcompass.com/category/Training-Equipment.html">Training Equipment</a></li><li><a href="http://www.fullcompass.com/category/Video-Instruction.html">Video Instruction</a></li>								</ul>								
+							</div>
+						</div>
+						<!--[endif]-->
+					</li>
+				</ul>
+			</div>
+		</div>			
+	</div> 	<div id="pageWrapper"> 		
+		<div id="outerColumnContainer">
 			<div id="innerColumnContainer">			
 				<div id="leftColumn"> 	<div class="inside"> 			
 		
@@ -281,28 +396,16 @@ _gaq.push(['_trackPageview']);
 	<input type="button" onclick="javascript:document.location='http://www.fullcompass.com/news/120.html'" value="DOWNLOAD CATALOG PDFS">
 	<input type="button" onclick="window.open('http://www.fullcompass.com/catalogViewer.php','myWin','scrollbars=no,width=1420,height=820');" value="OTHER PUBLICATIONS">
 </div>		
-		
-<div class="socialMediaBox">
-	<p><strong>Follow Us!</strong></p>
-	<p>
-		<a href="http://www.facebook.com/fullcompass" target="_blank" title="Like us on Facebook!"><img src="http://www.fullcompass.com/images/icon_facebook.png" height="30" width="30" border="0" alt="Like us on Facebook!"></a> 
-		<a href="http://instagram.com/fullcompass#" target="_blank" title="Follow us on Instagram!"><img src="http://www.fullcompass.com/images/icon_instagram.jpg" height="30" width="30" border="0" alt="Follow us on Instagram!"></a> 
-		<a href="http://twitter.com/fullcompass" target="_blank" title="Follow us on Twitter!"><img src="http://www.fullcompass.com/images/icon_twitter.png" height="30" width="30" border="0" alt="Follow us on Twitter!"></a> 
-		<a href="http://www.youtube.com/fullcompass" target="_blank" title="Follow us on YouTube!"><img src="http://www.fullcompass.com/images/icon_youtube.png" height="30" width="30" border="0" alt="Follow us on YouTube!"></a><!--
-	<br />
-		<strong>Follow Us Today!</strong>-->
-	</p>
-</div>		
 				<div class="adModule">
 			<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=featured_events&amp;unique[0]=featured_events&amp;frm=1" scrolling="no" frameborder="0" width="160" height="125"></iframe></noscript>
 			<div id="featured_events" class="ad_class"><!-- --></div>
 		</div>
 				
 				<div class="adModule">
-			<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=featured_services_1&amp;zones[1]=featured_services_2&amp;zones[2]=featured_services_3&amp;unique[0]=featured_services_1&amp;unique[1]=featured_services_2&amp;unique[2]=featured_services_3&amp;frm=1" scrolling="no" frameborder="0" width="160" height="410"></iframe></noscript>
+			<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=featured_offers_2&amp;zones[1]=featured_services_2&amp;zones[2]=featured_services_3&amp;unique[0]=featured_services_1&amp;unique[1]=featured_services_2&amp;unique[2]=featured_services_3&amp;frm=1" scrolling="no" frameborder="0" width="160" height="410"></iframe></noscript>
 			<div id="featured_services_1" class="ad_class"><!-- --></div>
-			<div id="featured_services_2" class="ad_class"><!-- --></div>
 			<div id="featured_services_3" class="ad_class"><!-- --></div>
+			<div id="featured_offers_3" class="ad_class"><!-- --></div>
 		</div>
 				
 				
@@ -316,14 +419,14 @@ _gaq.push(['_trackPageview']);
 		<li><a href="http://www.fullcompass.com/category/Mixers-Consoles-General-Purpose.html">Mixers</a></li>
 		<li><a href="http://www.fullcompass.com/category/Power-Amplifiers.html">Power Amplifiers</a></li>
 		<li><a href="http://www.fullcompass.com/category/Cameras-Remote-Controlled-With-Pan-Tilt.html">PTZ Cameras</a></li>
-		<li><a href="http://www.fullcompass.com/category/Camcorders-Professional.html">Professional<br>Camcorders</a></li>
+		<li><a href="http://www.fullcompass.com/category/Professional-Camcorders.html">Professional<br>Camcorders</a></li>
 		<li><a href="http://www.fullcompass.com/category/Theatrical-Stage-Touring-Lighting-Fixtures.html">Stage Lighting</a></li>
 		<li><a href="http://www.fullcompass.com/category/Hard-Wired-Microphones.html">Wired Microphones</a></li>
 		<li><a href="http://www.fullcompass.com/category/Electric-Guitars.html">Electric Guitars</a></li>
-		<li><a href="http://www.fullcompass.com/category/Drums-Percussion.html">Drums</a></li>
+		<li><a href="http://www.fullcompass.com/category/Drums-And-Percussion.html">Drums</a></li>
 		<li><a href="http://www.fullcompass.com/category/DJ-Software.html">DJ Software</a></li>
 		<li><a href="http://www.fullcompass.com/category/Projectors-Video-Data.html">Projectors</a></li>
-		<li><a href="http://www.fullcompass.com/category/Pedals-Pedalboards.html">Guitar Pedals</a></li>
+		<li><a href="http://www.fullcompass.com/category/Guitar-Effects-And-Pedals.html">Guitar Pedals</a></li>
 		<li><a href="http://www.fullcompass.com/category/Microphone-Stands-Booms.html">Microphone Stands</a></li>
 	</ul>
 </div>
@@ -400,7 +503,7 @@ _gaq.push(['_trackPageview']);
 	<p>Full Compass is committed to providing the best shopping experience in the industry. If you still have questions about Fullcompass.com policies or services, please call us toll-free 800-356-5844 and we'll be glad to help.</p>
 </div>
 				</div> 			</div> 			<div id="rightColumn">
-	<div class="adModule">
+<div class="dailyDeals"><div class="dailyDealsBoxR"><img src="http://www.fullcompass.com/common/header_deal.png" alt="Sold Out!"><div class="dailyDeal"><a href="http://www.fullcompass.com/product/465024.html">Novation<br>Impulse 61 [RETURN / REFURB RESTOCK MODEL]</a><div style="margin: 5px 0;"><a href="http://www.fullcompass.com/product/465024.html"><img src="http://www.fullcompass.com/common/products/lg/192054.jpg" width="115" height="37" alt="Impulse 61 [RETURN / REFURB RESTOCK MODEL]"></a></div><div class="dailyDealRegPrice"><a href="http://www.fullcompass.com/product/465024.html">$499.99</a></div><div class="dailyDealSalePrice"><a href="http://www.fullcompass.com/product/465024.html">$319.99</a></div><div class="dailyDealButton"><a href="http://www.fullcompass.com/product/465024.html">I WANT ONE!</a></div><div class="dailyDealButton"><a href="http://www.fullcompass.com/specials.php">More Great Deals</a></div></div></div></div>	<div class="adModule">
 		<noscript><iframe src="http://www.fullcompass.com/craigx/serve.php?zones[0]=featured_offers_1&amp;zones[1]=featured_offers_2&amp;zones[2]=featured_offers_3&amp;zones[3]=featured_offers_4&amp;zones[4]=featured_offers_5&amp;zones[5]=featured_offers_6&amp;zones[6]=featured_offers_7&amp;frm=1" scrolling="no" frameborder="0" width="160" height="965"></iframe></noscript>
 		<div id="featured_offers_1" class="ad_class"><!-- --></div>
 		<div id="featured_offers_2" class="ad_class"><!-- --></div>
@@ -410,131 +513,113 @@ _gaq.push(['_trackPageview']);
 		<div id="featured_offers_6" class="ad_class"><!-- --></div>
 		<div id="featured_offers_7" class="ad_class"><!-- --></div>
 	</div>
-	<p align="center">
-		<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.fullcompass.com"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/survey/www.fullcompass.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;">
-		</a>
-	</p>
-	<p style="text-align:center;">		
-		<a href="http://www.fullcompass.com/verify.php">
-			<img src="http://www.fullcompass.com/images/ssl_valid_english_vB1_sample.gif" width="61" height="60" border="0" alt="Secured by Thawte">
-		</a>
-	</p>
-	<p align="center">
-		<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-fullcompass" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/c0/4d/c04d550a583b572df7981250f78d892f.png" alt="Full Compass is an Upfront Merchant on TheFind. Click for info."></a>
-		<script type="text/javascript">
-		function doFind ()
-		{
-			var script = document.createElement('script');
-			script.setAttribute('type', 'text/javascript');
-			script.setAttribute('src', document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js");
-			script.setAttribute('text', "thefind.upfront.init('tf_upfront_badge', 'c04d550a583b572df7981250f78d892f')");
-			document.getElementsByTagName('head')[0].appendChild(script);
-		}
-		onContent('doFind();');
-		</script>
-	</p>
 </div>
-		</div> 	</div> 		<table id="footer" class="inside" cellpadding="10" cellspacing="20">
-		<tbody><tr>
-			<td>	
-			<div class="footerBox">
+		</div> 	</div> 	</div> 		<div id="footer">
+		<div id="footerBar">&nbsp;</div>
+		<div id="wrapFooter">
+			<div>
 				<strong>Company Info</strong><br>
-				<ul>
+				<ul id="companyNumbers">
+					<li><strong>Toll Free:</strong> 800-356-5844</li>
+					<li><strong>Quick Order:</strong> 800-476-9886</li>
+					<li><strong>Local:</strong> 608-831-7330</li>
+					<li><strong>Español:</strong> x1164, x1178</li>
+				</ul>
+				<ul id="companyLinks">
 					<li><a href="http://www.fullcompass.com/about.php">About Us</a></li>
 					<li><a href="http://www.fullcompass.com/news/77.html" rel="nofollow">Contact Us</a></li>
 					<li><a href="http://www.fullcompass.com/news/76.html" rel="nofollow">Employment</a></li>
 					<li><a href="http://www.fullcompass.com/pdfs/FCS_Events.pdf" rel="nofollow">Events</a></li>
-					<li><a href="http://www.fullcompass.com/news/123.html" rel="nofollow">Press Releases</a></li>
-					<li><a href="http://www.fullcompass.com/news/75.html" rel="nofollow">Customer Testimonials</a></li>				
-				</ul>	
+					<li><a href="http://www.fullcompass.com/news/123.html" rel="nofollow">Press</a></li>
+					<li><a href="http://www.fullcompass.com/news/75.html" rel="nofollow">Testimonials</a></li>				
+				</ul>
 			</div>
-			</td>
-			<td>
-			<div class="footerBox">
-				<strong>Additional Services</strong><br>
-				<ul>
-					<li><a href="http://www.fullcompass.com/integration.php">Integration</a></li>
+			<div>
+				<strong>Services</strong><br>
+				<ul id="services">
+					<li><a href="http://www.fullcompass.com/integration.php">Computer Integration</a></li>
+					<li><a href="http://www.fullcompass.com/service.php">Factory Authorized Service</a></li>
 					<li><a href="http://www.fullcompass.com/leasing/index.php">Leasing</a></li>
-<li><a href="http://www.fullcompass.com/news/114.html">Lighting Design</a></li><li><a href="http://www.fullcompass.com/news/122.html">Parts</a></li><li><a href="http://www.fullcompass.com/prospass.php">Pro's Pass</a></li><li><a href="http://www.fullcompass.com/rentals.php">Rentals</a></li><li><a href="http://www.fullcompass.com/news/82.html">Sales</a></li>					<li><a href="http://www.fullcompass.com/service.php">Service Center</a></li>
-				</ul>
+<li><a href="http://www.fullcompass.com/news/122.html">Parts</a></li><li><a href="http://www.fullcompass.com/rentals.php">Rentals</a></li>				</ul>
 			</div>
-			</td>
-			<td>
-			<div class="footerBox">
-				<strong>Customer Resources</strong><br>
-				<ul>
-					<li><a href="http://www.fullcompass.com/account.php" rel="nofollow">My Account</a></li>
-					<li><a href="http://www.fullcompass.com/history.php" rel="nofollow">Order History</a></li>
-					<li><a href="http://www.fullcompass.com/packagetrack.php" rel="nofollow">Package Tracking</a></li>
+			<div>
+				<strong>Resources</strong><br>
+				<ul id="resources">
+					<li><a href="http://www.fullcompass.com/account.php" rel="nofollow">My Account</a></li>					
+					<li><a href="http://www.fullcompass.com/catalog_signup.php">Catalog Request</a></li>
+					<li><a href="http://www.fullcompass.com/emaillist_subscribe.php" rel="nofollow">Email Preferences</a></li>
 					<li><a href="http://www.fullcompass.com/news/91.html#international" rel="nofollow">International Orders</a></li>
-					<li><a href="http://www.fullcompass.com/news/147.html" rel="nofollow">Free Shipping</a></li>
-					<li><a href="http://www.fullcompass.com/lower_price.php" rel="nofollow">Low Price Guarantee</a></li>
-					<li><a href="http://www.fullcompass.com/news/91.html#returns">Return Policy</a></li>
-					<li><a href="http://www.fullcompass.com/news/147.html" rel="nofollow">Shipping Policy</a></li>
-					<li><a href="http://www.fullcompass.com/news/88.html#fraud" rel="nofollow">Fraud Policy</a></li>
+					<li><a href="http://www.fullcompass.com/history.php" rel="nofollow">Order History</a></li>
+					<li><a href="http://www.fullcompass.com/packagetrack.php" rel="nofollow">Order Tracking</a></li>
 					<li><a href="http://www.fullcompass.com/rebates-special-offers/">Rebates/Special Offers</a></li>
-					<li><a href="http://www.fullcompass.com/emaillist_subscribe.php" rel="nofollow">Newsletter</a></li>
-					<li><a href="http://www.fullcompass.com/sitemap.php">Site Map</a></li>
+					<li><a href="http://www.fullcompass.com/news/91.html#returns">Returns</a></li>
+					<li><a href="http://www.fullcompass.com/news/147.html" rel="nofollow">Shipping</a></li>
 				</ul>
 			</div>
-			</td>
-			<td>
-			<div class="footerBoxContact">
-				<table width="100%" align="center">
-					<tbody><tr>
-						<td>
-							<p><img src="http://www.fullcompass.com/fullcompass/images/logo_fcs-footer.png" width="150" height="58" border="0" alt="Full Compass Logo"></p>
-							<p style="margin-top:8px;"><strong style="font-size:1.2em;">CALL A SALES PRO!</strong><br><span class="footerBoxNo">800-356-5844</span><br>Mon-Fri 9:00am-5:30pm CST</p>
-							<div class="footerBoxOper"><p><strong>Quick Order<br><span class="footerBoxNoAlt">800-476-9886</span></strong></p></div>
-							<div class="footerBoxLocal"><p><strong>Local<br><span class="footerBoxNoAlt">608-831-7330</span></strong></p></div>
-							<div style="clear:both;"><span class="footerBoxSpanish">Expertos que hablan Español disponibles <strong>800-356-5844 x1178 y x1164</strong>.</span></div>
-						</td>
-					</tr>
-				</tbody></table>
+			<div id="social">
+				<strong>Stay Connected</strong><br>
+				<ul>
+					<li class="facebook"><a href="http://www.facebook.com/fullcompass" target="_blank" title="Like us on Facebook">Facebook</a></li>
+					<li class="twitter"><a href="http://twitter.com/fullcompass" target="_blank" title="Follow us on Twitter">Twitter</a></li>
+					<li class="google"><a href="https://plus.google.com/+fullcompass" target="_blank" title="Follow us on Google+">Google+</a></li>
+					<li class="instagram"><a href="http://instagram.com/fullcompass#" target="_blank" title="Follow us on Instagram">Instagram</a></li>
+					<li class="youtube"><a href="http://www.youtube.com/fullcompass" target="_blank" title="Follow us on YouTube">YouTube</a></li>
+					<li class="pinterest"><a href="http://www.pinterest.com/fullcompass/" target="_blank" title="Follow us on Pinterest">Pinterest</a></li>
+				</ul>
 			</div>
-			</td>
-		</tr>
-	</tbody></table>
-	<table style="padding: 0 20px;margin: 0 0 20px 0;" width="100%">
-		<tbody><tr valign="top">
-			<td width="50%"><p style="margin: 0 0 10px 0;"><strong>Copyright © 2014 
-			 <a href="http://www.fullcompass.com/" rel="nofollow">Full Compass Systems, LTD</a>. All rights reserved.</strong><br>
-			 Please read our <a href="http://www.fullcompass.com/news/91.html" rel="nofollow" title="Read our Terms of Service">Terms of Service</a>, <a href="http://www.fullcompass.com/news/88.html" rel="nofollow" title="Read our Privacy Policy">Privacy Policy</a> and <a href="http://www.fullcompass.com/news/90.html" rel="nofollow" title="Read our Conditions Statement">Conditions Statement</a>.<br>
-			 We are not responsible for typographical errors in pricing or product specification inaccuracies in our catalog or web site. Prices are subject to change without notice.</p>
-						<div class="clear mozclear"></div>
-				<strong>Proud Member of:</strong>
-				<table>
-					<tbody><tr>
-						<td rowspan="2"><a title="Full Compass Systems, Ltd. BBB Business Review" href="http://www.bbb.org/wisconsin/business-reviews/audio-visual-equipment-dealers/full-compass-systems-ltd-in-verona-wi-4017478/#bbbonlineclick" target="_blank"><img alt="Full Compass Systems, Ltd. BBB Business Review" style="border: 0;" src="http://www.fullcompass.com/common/bbb_logo-96x50.png"></a></td>
-						<td rowspan="2"><a href="http://www.aes.org/" target="_blank"><img style="border:none" src="http://www.fullcompass.com/common/aes_logo.gif" width="70" height="29" alt="Logo: AES" title="Member of AES"></a>
-						</td>
-						<td><a href="https://www.gsaadvantage.gov/advantage/s/search.do?q=19:0GS-03F-0047R&amp;searchType=1&amp;db=0" target="_blank"><img style="border:none" src="http://www.fullcompass.com/common/gsa_logo.gif" alt="Logo: GSA Advantage" width="74" height="20" title="Member of GSA Advantage"></a></td>
-						<td><a href="http://www.nab.org" target="_blank" title="Link: National Association of Broadcasters"><img style="border:none" src="http://www.fullcompass.com/common/nab_logo.gif" alt="Logo: National Association of Broadcasters" width="70" height="27" title="Member of the National Association of Broadcasters"></a></td>
-						<td rowspan="2"><a href="http://www.nsca.org/" target="_blank"><img style="border:none" src="http://www.fullcompass.com/common/nsca_logo.gif" alt="Logo: NSCA" width="60" height="15" title="Member of NSCA"></a></td>
-						<td rowspan="2"><a href="http://www.sbe.org/" target="_blank"><img style="border:none" src="http://www.fullcompass.com/common/sbe_logo.gif" alt="Logo: Society of Broadcast Engineers" width="40" height="40" title="Member of Society of Broadcast Engineers"></a></td>
-					</tr>
-					<tr>
-						<td><a href="http://www.infocomm.org/" target="_blank"><img style="border:none" src="http://www.fullcompass.com/common/icia_logo.gif" alt="Logo: InfoCOMM" width="80" height="19" title="Member of InfoCOMM"></a></td>
-						<td><a href="http://www.namm.com/" target="_blank"><img style="border:none" src="http://www.fullcompass.com/common/nammlogo.gif" alt="Logo: NAMM" width="70" height="20" title="Member of NAMM"></a></td>
-					</tr>
-				</tbody></table>
-							</td>
-			<td width="50%">
-			Full Compass is a national leader in Professional Audio, Professional Video, A/V, Lighting and Musical Instrument sales. Since 1977, our goal has been to provide the best possible value with exceptional customer service. We offer over 700 top equipment brands including, <a href="http://www.fullcompass.com/brand/SHU.html" title="Shure products - view all">Shure</a>, 
-			<a href="http://www.fullcompass.com/brand/YAM.html" title="Yamaha products - view all">Yamaha</a>, 
-			<a href="http://www.fullcompass.com/brand/PAN.html" title="Panasonic products - view all">Panasonic</a>, 
-			<a href="http://www.fullcompass.com/brand/SON.html" title="Sony products - view all">Sony</a>, 
-			<a href="http://www.fullcompass.com/brand/JBL.html" title="JBL products - view all">JBL</a>, 
-			<a href="http://www.fullcompass.com/brand/SEN.html" title="Sennheiser products - view all">Sennheiser</a>, 
-			<a href="http://www.fullcompass.com/brand/CNN.html" title="Canon products - view all">Canon</a>, 
-			<a href="http://www.fullcompass.com/brand/QSC.html" title="QSC products - view all">QSC</a>, 
-			<a href="http://www.fullcompass.com/brand/AT.html" title="Audio-Technica products - view all">Audio-Technica</a>, 
-			<a href="http://www.fullcompass.com/brand/CRO.html" title="Crown products - view all">Crown</a> and 
-			<a href="http://www.fullcompass.com/brands_show_all.php" title="View all brands we carry">much more</a>. We also provide services such as computer systems integration, lighting design, and rentals <em>(rentals available in Wisconsin only)</em>. Full Compass is an authorized service center and parts distributor for most of the major manufacturers we carry.
-			</td>
-		</tr>
-	</tbody></table>
-</div> 
+		</div>
+
+	</div>
+	<div id="smallPrintFooter">
+		<div>
+			<ul>
+				<li><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.fullcompass.com"><img width="115" height="32" border="0" src="https://images.scanalert.com/meter/survey/www.fullcompass.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></li>
+				<li><a href="http://www.fullcompass.com/verify.php">
+				<img src="http://www.fullcompass.com/images/thawte_secured.png" width="199" height="39" border="0" alt="Secured by Thawte"></a></li>
+				<li><a class="tf_upfront_badge" href="http://www.thefind.com/store/about-fullcompass" title="TheFind Upfront"><img border="0" src="//upfront.thefind.com/images/badges/r/c0/4d/c04d550a583b572df7981250f78d892f.png" alt="Full Compass is an Upfront Merchant on TheFind. Click for info."></a> 
+				<script type="text/javascript">
+				function doFind ()
+				{
+					var script = document.createElement('script');
+					script.setAttribute('type', 'text/javascript');
+					script.setAttribute('src', document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js");
+					script.setAttribute('text', "thefind.upfront.init('tf_upfront_badge', 'c04d550a583b572df7981250f78d892f')");
+					document.getElementsByTagName('head')[0].appendChild(script);
+				}
+				onContent('doFind();');
+				</script></li>
+				<li><a title="Full Compass Systems, Ltd. BBB Business Review" href="http://www.bbb.org/wisconsin/business-reviews/audio-visual-equipment-dealers/full-compass-systems-ltd-in-verona-wi-4017478/#bbbonlineclick" target="_blank"><img alt="Full Compass Systems, Ltd. BBB Business Review" style="border: 0;" src="http://www.fullcompass.com/common/bbb_logo-96x50.png"></a></li>
+			</ul>
+		</div>
+		<div>
+			<p>© 2014 <a href="http://www.fullcompass.com/" rel="nofollow">Full Compass Systems, LTD</a>&nbsp;&nbsp;9770 Silicon Prairie Parkway, Madison, WI 53593&nbsp;&nbsp;All rights reserved.</p>
+		</div>
+		<div>
+			<ul>
+				<li><a href="http://www.fullcompass.com/news/91.html" rel="nofollow" title="Read our Terms of Service">Terms of Service</a></li>
+				<li><a href="http://www.fullcompass.com/news/90.html" rel="nofollow" title="Read our Conditions of Use">Conditions of Use</a></li>
+				<li><a href="http://www.fullcompass.com/news/88.html" rel="nofollow" title="Read our Privacy Policy">Your Privacy</a></li>
+				<li><a href="http://www.fullcompass.com/news/88.html#fraud" rel="nofollow">Fraud Protection</a>&nbsp;&nbsp;&nbsp;<a href="http://www.fullcompass.com/sitemap.php">Site Map</a></li>
+			</ul>
+			<ul>
+				<li class="payment">Accepted Payments</li>
+			</ul>			
+		</div>
+		<div>
+			<p>We are not responsible for typographical errors in pricing or product specification<br>inaccuracies in our catalog or web site. Prices are subject to change without notice.</p>
+		</div>
+		<div id="footerLogos">
+			<ul>
+				<li class="aes"><a href="http://www.aes.org/" target="_blank">AES</a></li>
+				<li class="gsa"><a href="https://www.gsaadvantage.gov/advantage/s/search.do?q=19:0GS-03F-0047R&amp;searchType=1&amp;db=0" target="_blank">GSA</a></li>
+				<li class="infocomm"><a href="http://www.infocomm.org/" target="_blank">Infocomm</a></li>
+				<li class="nab"><a href="http://www.nab.org" target="_blank" title="Link: National Association of Broadcasters">NAB</a></li>
+				<li class="namm"><a href="http://www.namm.com/" target="_blank">NAMM</a></li>
+				<li class="nsca"><a href="http://www.nsca.org/" target="_blank">NSCA</a></li>
+				<li class="sbe"><a href="http://www.sbe.org/" target="_blank">SBE</a></li>
+			</ul>
+		</div>
+	</div>
   
 <script type="text/javascript">
 	//setTimeout('location.reload(true);', 10000);
