@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeactions.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512004858id_/http%3A//www.chromeactions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeactions.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011081954id_/http%3A//www.chromeactions.com/privacy.html) for the most accurate reproduction.*
 
 # Magic Actions for YouTube™ | Privacy Policy
 
@@ -26,7 +26,7 @@ Any of the information we collect from you may be used to:
 
 ### Do we use cookies and local storage?
 
-Yes. Cookies are small pieces of data that a site or its service provider can save to your computers hard drive through your Web browser, if you allow. [Learn more](https://web.archive.org/web/20140512004858id_/http%3A//www.chromeactions.com/cookie-wiper.html "About Cookies")
+Yes. Cookies are small pieces of data that a site or its service provider can save to your computers hard drive through your Web browser, if you allow. [Learn more](http://www.hotcleaner.com/cookie-wiper.html "About Cookies")
 
 Google, as a third party vendor, uses cookies to serve ads and measure how users interact with website content on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. You may [opt out](http://www.google.com/policies/technologies/ads/) of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
