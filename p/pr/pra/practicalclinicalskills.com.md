@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalclinicalskills.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617195748id_/http%3A//www.practicalclinicalskills.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalclinicalskills.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011022643id_/http%3A//www.practicalclinicalskills.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
