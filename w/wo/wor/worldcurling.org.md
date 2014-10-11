@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612042100id_/http%3A//worldcurling.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurling.org privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011062244id_/http%3A//www.worldcurling.org/privacy-policy) for the most accurate reproduction.*
 
 # World Curling Federation - Privacy Policy
-
-#### Information
 
 **The World Curling Federation makes every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.**
 
@@ -28,7 +26,7 @@ Like most standard web site servers we use log files. This includes internet pro
 
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
-From time to time we partner with outside service providers. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+From time to time we partner with outside service providers. When the user signs up for these services, we will share names, or other [Contact](https://web.archive.org/contact-us) information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 **Links**
 
