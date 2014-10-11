@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getclef.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327101503id_/https%3A//getclef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getclef.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011060351id_/https%3A//getclef.com/privacy) for the most accurate reproduction.*
 
 # Clef
 
