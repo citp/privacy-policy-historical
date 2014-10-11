@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120826id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011202413id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
 
 # Sony Electronics Inc
 
