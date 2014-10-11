@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the forceindiaf1.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315195337id_/http%3A//www.forceindiaf1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forceindiaf1.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011044002id_/http%3A//www.forceindiaf1.com/privacy-policy) for the most accurate reproduction.*
 
 # Sahara Force India - Privacy Policy
-
-###  [ FORMULA 1 GRANDE PRÊMIO DO BRASIL 2013 ](http://www.forceindiaf1.com/results-standings)
-
-#### 22-24 Nov | São Paulo
-
-**Results**  
----  
-(P11) Paul Di Resta | +1 Lap  
-(P13) Adrian Sutil | +1 Lap  
-[View results](http://www.forceindiaf1.com/results-standings)
 
 ### Privacy Policy
 
