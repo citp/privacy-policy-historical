@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberator.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628180239id_/http%3A//www.liberator.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberator.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011121543id_/http%3A//www.liberator.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@
 ** At Liberator, we take great care in safeguarding your privacy by offering discrete packaging and billing. When you submit your information to us, it is encrypted and secure, and you will not receive any promotional materials from us if you do not wish to receive them.
 
 **Discrete Packaging  
-** We ship all of our packages in nondescript brown cardboard boxes that are sealed with reinforced tape. The return address on the label is listed as OneUp Innovations, and there is no indication of the contents of the package. Your privacy is our utmost concern.
+** We ship all of our packages in nondescript brown cardboard boxes that are sealed with reinforced tape. The return address on the label is listed as OneUp Innovations, and there is no indication of the contents of the package. Your privacy is our utmost concern. Please note all APO orders require Customs Documentation, which list the contents of the packages. This list will be visible on the outside of the boxes. The descriptions of the contents must be accurate to ensure deliverability. While the descriptions we use are generic, they will be visible.
 
 **Billing  
 ** If you use an American Express card to make your purchase, the charge will be billed by “OneUp Innovations”. If you use a Visa, Mastercard, or Discover, it will be billed as “OneUp Innov / Liberator”.
