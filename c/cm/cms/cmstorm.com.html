@@ -1,0 +1,604 @@
+<!--The following is the downloaded HTML source of the cmstorm.com privacy policy that was archived on 2014-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011145919id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+<meta name="Specfication" content="1024x768, IE9">
+<title>Cooler Master: Privacy</title>
+<base href="http://www.coolermaster.com/">
+<meta name="keywords" content="coolermaster">
+<meta name="description" content="coolermaster">
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="icon" type="image/png" href="images/favicon.png">
+<link type="text/css" href="css/base.css" rel="stylesheet">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/9289.js?438985" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<!--<script type="text/javascript" src="js/jquery/scrolltopcontrol-min.js"></script>-->
+<script type="text/javascript" src="js/jquery/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="js/default-min.js"></script>
+<!--<script type="text/javascript" src="js/flexdropdown-min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/flexslider/2.1/jquery.flexslider-min.js"></script>-->
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.3/jquery.mousewheel.min.js"></script>
+<!--[if lt IE 7]> 
+<link href="js/highslide/highslide-ie6.css" rel="stylesheet" type="text/css" media="screen, projection" />
+<script type="text/javascript" src="http://letskillie6.googlecode.com/svn/trunk/letskillie6.zh_TW.pack.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js" language="JavaScript"></script>
+<![endif]--> 
+
+
+<script type="text/javascript"> 
+(function($){
+jQuery.fn.setfocus=function(){return this.each(function(){var a=this;setTimeout(function(){try{a.focus()}catch(b){}},0)})};
+})(jQuery);
+
+$(document).ready(function() {
+    var xshopvw_time = 20;
+    var xshopck01 = 0;
+    $.extend({
+        shopvw01_div:function(vct01){
+            //$('#indicator').html(vct01);
+             if(xshopck01 == 1){
+                vct01=0;
+                xshopck01=xshopck01+1;
+            }
+            if(xshopck01 == 3 || vct01 >= 50){
+                vct01=0;
+            }
+            if(vct01 >= xshopvw_time && xshopck01 > 0){
+              vct01=0;
+              $.xshowshop_vw01('close');
+            }
+            setTimeout("$.shopvw01_div("+(vct01+1)+")",1000);
+        }
+    });
+    $.shopvw01_div(0);
+
+  $(document).click(function(e){
+    $.xshowshop_vw01('close');
+	});
+
+  $(document).keypress(function(e){
+    if(e.keyCode == 13) {
+    	if($("#searchkey").attr("value") != "" && $("#searchkey").attr("value") != "Search" ){
+    	  var urlstr = 'http://www.coolermaster.com/search/?q='+$('#searchkey').val();
+    	  window.location = urlstr;
+      }
+    }
+	});
+
+	$("#seachBar ul").click(function(e) {
+	  e.stopPropagation();
+	});
+
+  $("#seachBar ul").mouseenter(function () {
+  	xshopck01 = 3;
+  });
+  $("#seachBar ul").mouseleave(function () {
+  	xshopck01 = 5;
+  });
+
+    $.extend({
+        xshowshop_vw01:function(event01){
+        if($.trim($("#searchkey01").val()) != ''){
+        	var vwstr = $("#seachBar ul").css('display');
+				  if(event01 == "close"){
+				    if(vwstr == "block"){
+				      $("#seachBar ul").slideUp("slow");
+				    }
+				  }else{			  
+					  var urlstr = "http://www.coolermaster.com/product/search_ajvw/"+$.trim($("#searchkey01").val())+".html";
+					  $.ajax({
+					    url: urlstr,
+					    type: "GET",
+					    cache: false,
+					    dataType: "html",
+					    error:function (xhr, ajaxOptions, thrownError){
+					      //alert(xhr.status);
+					      //alert(xhr.responseText);
+					      //alert(thrownError);
+					    },
+					    success : function(var1){
+					      $("#seachBar ul").html(var1);
+					    }
+					  });
+					  if(event01 == "auto"){
+					    if(vwstr == "none"){
+					      xshopck01 = 1;
+					      $("#seachBar ul").slideDown("slow");
+					      $("#seachBar ul").setfocus();
+					    }else{
+					    	if($("#searchkey01").attr("value") == "Search")
+					        $("#seachBar ul").slideUp();
+					    }
+					  }else{
+					    if(vwstr == "none"){
+					      xshopck01 = 1;
+					      $("#seachBar ul").slideDown();
+					      $("#seachBar ul").setfocus();
+					    }
+				    }
+				  }
+				}
+        }
+    });
+/*
+  $("#searchkey01").focus(function () {
+	  if($("#searchkey01").attr("value") == "" || $("#searchkey01").attr("value") == "Search" )
+	    $("#searchkey01").attr("value","");
+  });
+*/
+  $("#searchkey").focus(function () {
+	  if($("#searchkey").attr("value") == "" || $("#searchkey").attr("value") == "Search" )
+	    $("#searchkey").attr("value","");
+  });
+
+  $("#searchkey01").blur(function () {
+  	if($("#searchkey01").attr("value") == "")
+	    $("#searchkey01").attr("value","Search");
+  });
+
+  $('#searchkey01').click(function(e) {
+	  e.stopPropagation();
+  });
+
+  $('#searchkey01').keyup(function(e) {
+    //alert(e.keyCode);
+    //if(e.keyCode == 13) {
+	    e.stopPropagation();
+	    $.xshowshop_vw01('auto');
+    //}
+  });
+
+  $('#searchbtn01').click(function(e) {
+	  e.stopPropagation();
+	  $.xshowshop_vw01('auto');
+  });
+
+		var xm01_delay_speed   = 300;
+    var xm01_ct01_menu     = 0;
+    var xm01_ct01_menu_id  = '';
+
+	  var delay = (function(){
+	    var timer = 0;
+	    return function(callback, ms){
+	      clearTimeout (timer);
+	      timer = setTimeout(callback, ms);
+	    };
+	  })();
+
+	$(document).on('click','.sub2Area .subMenuArea .subMenuList', function() {
+		xm01_ct01_menu_id = $(this).attr('id');
+	  var idx01 = $(this).index();
+	  var class_name = $(this).parent().parent().attr('class');
+	  var urlstr = "http://www.coolermaster.com/00menuajax/"+$(this).attr('id')+"/"+class_name;
+    $('.sub2Area .'+class_name+' .subMenuArea .subMenuList').removeClass("sel");
+    $('.sub2Area .'+class_name+' .subMenuArea .subMenuList').eq(idx01).addClass("sel");
+
+	  $.ajax({
+		  url: urlstr,
+		  type: "GET",
+		  cache: false,
+		  dataType: "html",
+		  error:function (xhr, ajaxOptions, thrownError){
+		    //alert(xhr.status);
+		    //alert(xhr.responseText);
+		    //alert(thrownError);
+		  },
+		  success : function(var1){
+		  var class_name_sub01 = class_name.substr(6,1);
+		  var class_name_sub02 = class_name.substr(5,2);
+
+      $(".ex_flexslider"+class_name_sub02).remove();
+      $("#flexmenu_sub"+class_name_sub01).html(var1);
+
+      $(".ex_flexslider"+class_name_sub02).flexslider({
+        selector: ".ex_items"+class_name_sub02+" > .ex_subMenuArea"+class_name_sub02,
+        slideshow: false,
+        animationLoop: false,
+        controlNav: false,
+        directionNav: false,
+        direction: "vertical",
+        animation: "slide",
+        animationSpeed: 600,
+        mousewheel: true, 
+        after: function() {
+          var tot01 = $(".ex_flexslider"+class_name_sub02).find(".ex_subMenuArea"+class_name_sub02).length;
+          var act01 = $(".ex_flexslider"+class_name_sub02).find(".ex_subMenuArea"+class_name_sub02+".flex-active-slide").index() + 1;
+          if(act01 > 0 && act01 <= tot01){
+            $("#ex_flprev"+class_name_sub02).removeClass("disabled");
+          }
+          if(act01 == tot01){
+            $("#ex_flnext"+class_name_sub02).addClass("disabled");
+          }
+          if(act01 == 1){
+            $("#ex_flprev"+class_name_sub02).addClass("disabled");
+            $("#ex_flnext"+class_name_sub02).removeClass("disabled");
+          }
+        }
+      });
+
+		  }
+	  });
+	});
+
+	$(document).on('mouseenter ','.sub2Area .subMenuArea .subMenuList', function() {
+    xm01_ct01_menu = 1;
+    var idx01 = $(this).index();
+    var id01 = $(this).attr('id');
+	  var class_name = $(this).parent().parent().attr('class');
+	  var urlstr = "http://www.coolermaster.com/00menuajax/"+$(this).attr('id')+"/"+class_name;
+    delay (function () {
+      if( xm01_ct01_menu == 1 && xm01_ct01_menu_id != id01 && xm01_ct01_menu_id != '' ){
+      xm01_ct01_menu_id = id01;
+
+    $('.sub2Area .'+class_name+' .subMenuArea .subMenuList').removeClass("sel");
+    $('.sub2Area .'+class_name+' .subMenuArea .subMenuList').eq(idx01).addClass("sel");
+
+	  $.ajax({
+		  url: urlstr,
+		  type: "GET",
+		  cache: false,
+		  dataType: "html",
+		  error:function (xhr, ajaxOptions, thrownError){
+		    //alert(xhr.status);
+		    //alert(xhr.responseText);
+		    //alert(thrownError);
+		  },
+		  success : function(var1){
+		  var class_name_sub01 = class_name.substr(6,1);
+		  var class_name_sub02 = class_name.substr(5,2);
+
+      $(".ex_flexslider"+class_name_sub02).remove();
+      $("#flexmenu_sub"+class_name_sub01).html(var1);
+
+      $(".ex_flexslider"+class_name_sub02).flexslider({
+        selector: ".ex_items"+class_name_sub02+" > .ex_subMenuArea"+class_name_sub02,
+        slideshow: false,
+        animationLoop: false,
+        controlNav: false,
+        directionNav: false,
+        direction: "vertical",
+        animation: "slide",
+        animationSpeed: 600,
+        mousewheel: true, 
+        after: function() {
+          var tot01 = $(".ex_flexslider"+class_name_sub02).find(".ex_subMenuArea"+class_name_sub02).length;
+          var act01 = $(".ex_flexslider"+class_name_sub02).find(".ex_subMenuArea"+class_name_sub02+".flex-active-slide").index() + 1;
+          if(act01 > 0 && act01 <= tot01){
+            $("#ex_flprev"+class_name_sub02).removeClass("disabled");
+          }
+          if(act01 == tot01){
+            $("#ex_flnext"+class_name_sub02).addClass("disabled");
+          }
+          if(act01 == 1){
+            $("#ex_flprev"+class_name_sub02).addClass("disabled");
+            $("#ex_flnext"+class_name_sub02).removeClass("disabled");
+          }
+        }
+      });
+
+
+		  }
+	  });
+
+
+        xm01_ct01_menu = 0;
+      }
+    }, xm01_delay_speed);
+	});
+
+	$(document).on('mouseleave ','.sub2Area .subMenuArea .subMenuList', function() {
+	  //delay (function () {
+	    xm01_ct01_menu    = 0;
+	    xm01_ct01_menu_id = 'x01';
+	  //}, 100);
+	});
+
+	$(document).on('click','.sub3Area .subMenuArea .subMenuList', function() {
+      $('.jqflexmenu').find('ul').andSelf().hide();
+	});
+
+    
+});
+</script>
+</head>
+
+<body class="other">
+<script type="text/javascript">
+$(document).ready(function() {
+
+	$("#menuMain .c01").mouseover(function () {
+		//alert("1");
+		//$("#menuMain .dropDownDiv").slideDown();
+		//alert("2");
+
+		var idx01 = $("#menuMain .c01").index(this);
+		$("#menuMain ul li").removeClass("sel");
+		$("#menuMain ul li").eq(idx01).addClass("sel");
+	  if(idx01 == 0){
+	    var vwstr = $("#menuMain ul li div").eq(idx01).css('display');
+		  if(vwstr == "block"){
+		    //$("#menuMain ul li div").eq(idx01).slideUp();
+		  }else{
+		    $("#menuMain ul li div").eq(idx01).slideDown();
+		  }
+	  }else{
+	  	//$("#menuMain ul li div.eq(0)").slideUp(800);
+	  }
+
+	});
+
+	$("#menuMain ul li:eq(0)").mouseleave(function () {
+		    $("#menuMain ul li").removeClass("sel");
+		    $("#menuMain ul li div").eq(0).slideUp(800);
+	});
+//
+//	$("#menuMain .c01").mouseover (function () {
+//		    $("#menuMain ul li").removeClass("sel");
+//		    $("#menuMain ul li:eq(0)").addClass("sel");
+//		    $("#menuMain ul li div").eq(0).slideDown(800);
+//	});
+
+  
+						$(".Gaming_vw01").click(function () {
+						  window.location = "http://gaming.coolermaster.com";
+						});
+						$(".Gaming_vw01").mouseenter(function () {
+						  $(this).css("cursor","pointer");
+						});
+						$(".Gaming_vw01").mouseleave(function () {
+						  $(this).css("cursor","auto");
+						});
+    	  
+});
+</script>
+<div style="position: fixed; left: 0; top: 0; width: 100%; z-index: 100;">
+<div id="header">
+	<div class="content">
+    <div class="quickLinks"><a href="http://community.coolermaster.com/" target="_blank">Forum </a> | <a href="http://account.coolermaster.com/" target="_blank"><img src="images/2014/icon/login.gif" alt="Login"> Login</a><a href="http://account.coolermaster.com/Register.aspx" target="_blank"><img src="images/2014/icon/signUp.gif" alt="Sign Up"> Sign Up</a></div>
+	  <a href="http://www.coolermaster.com/" class="logo"><img src="images/2014/logo.gif" alt=""></a>
+
+    <div id="seachBar">
+    	<form action="#" method="post" onsubmit="location.href='/search/?q='+$('#searchkey').val(); return false;">
+    	<input type="text" name="searchkey" id="searchkey" value="Search" class="searchInput"><span><input type="image" src="images/2014/icon/search_submit.jpg" name="searchbtn01" id="searchbtn01" align="absbottom"></span>
+    	</form>
+    	<ul></ul>
+    </div>
+
+    <div id="menuMain">    
+        <ul>
+            <li class="haveDropDown1"><a href="javascript:void(0);" class="c01">PRODUCTS</a>
+            	<div class="dropDownDiv">
+                    <dl>
+                    	<dd style="background-image: none;">
+<div style="height: 230px;">
+<h3>Cooling</h3>
+<a href="http://www.coolermaster.com/product/Lines/cpu-air-cooler/">CPU Air Cooler</a>
+<a href="http://www.coolermaster.com/product/Lines/cpu-liquid-cooler/">CPU Liquid Cooler</a>
+<a href="http://www.coolermaster.com/product/Lines/case-fan/">Case Fan</a>
+<a href="http://www.coolermaster.com/product/Lines/thermal-compound/">Thermal Grease</a>
+<a href="http://www.coolermaster.com/product/Lines/cooling-accessories/">Accessories</a>
+<a href="http://www.coolermaster.com/product/Lines/oem-cooler/">OEM Cooler</a>
+</div>
+</dd>
+<dd>
+<div style="height: 230px;">
+<h3>Case</h3>
+<a href="http://www.coolermaster.com/product/Lines/full-tower/">Full Tower</a>
+<a href="http://www.coolermaster.com/product/Lines/mid-tower/">Mid Tower</a>
+<a href="http://www.coolermaster.com/product/Lines/mini-tower/">Mini Tower</a>
+<a href="http://www.coolermaster.com/product/Lines/mini-itx/">Mini ITX</a>
+<a href="http://www.coolermaster.com/product/Lines/lan-box/">Lan Box</a>
+<a href="http://www.coolermaster.com/product/Lines/test-bench/">Test Bench</a>
+<a href="http://www.coolermaster.com/product/Lines/case-accessories/">Accessories</a>
+</div>
+</dd>
+<dd>
+<div style="height: 230px;">
+<h3>Power Supply</h3>
+<a href="http://www.coolermaster.com/product/Lines/enthusiast-v-series/">V Series</a>
+<a href="http://www.coolermaster.com/product/Lines/v-sm-series/">V Semi-Modular Series</a>
+<a href="http://www.coolermaster.com/product/Lines/gm-series/">GM Series</a>
+<a href="http://www.coolermaster.com/product/Lines/gxii-series/">GXII Series</a>
+<a href="http://www.coolermaster.com/product/Lines/gxii-pro-series/">GXII PRO Series</a>
+<a href="http://www.coolermaster.com/product/Lines/g-series/">G Series</a>
+<a href="http://www.coolermaster.com/product/Lines/b-series/">B Series</a>
+<a href="http://www.coolermaster.com/product/Lines/thunder-series/">Thunder Series</a>
+<a href="http://www.coolermaster.com/product/Lines/elite-series/">Elite Series</a>
+</div>
+</dd>
+<dd>
+<div style="height: 230px;">
+<h3>Mobile</h3>
+<a href="http://www.coolermaster.com/product/Lines/smartphones-series/">Smartphones</a>
+<a href="http://www.coolermaster.com/product/Lines/tablets-series/">Tablets</a>
+<a href="http://www.coolermaster.com/product/Lines/laptops_and_ultrabooks/">Laptops &amp; Ultrabooks</a>
+<a href="http://www.coolermaster.com/product/Lines/notepal-series/">NotePal</a>
+</div>
+</dd>
+
+                        <dd class="Gaming_vw01" style="background-image: url(uploadfile/fileproduct_menu_link01/1_3034f270484ce265bd56cd7c412c8c14_1406159412.png);">
+                            <h3>Gaming</h3>
+                        </dd>
+                          </dl>
+            	</div>
+            </li>
+            <li><a href="/fanzone/" class="c01">FANZONE</a></li>
+            <li><a href="http://support.coolermaster.com" class="c01" target="_blank">SUPPORT</a></li>
+            <li><a href="http://www.coolermaster.com/service/whereToBuy.html" class="c01">WHERE TO BUY</a></li>
+            <!--li><a href="http://community.coolermaster.com" class="c01" target="_blank">FORUM</a></li-->
+        </ul>
+        
+    </div>
+    
+    </div>
+</div>
+</div>
+
+<div id="wrapper" class="company">
+
+	<p class="districtsPic" style="background-image: url(uploadfile/fileadv_privacy01/M1211210001e90b/1_315f3ff42d7595048e135f86f41256a5_1353906850.jpg);">Privacy</p>
+
+  	<p class="breadCrumbs"><a href="http://www.coolermaster.com/">Home</a> / COMPANY / Privacy</p>
+    <div class="mainContent">
+
+		<ul class="subMenu">
+                              <li class="sel">
+          
+                      <a href="company/privacy-Privacy.html">Privacy</a></li>
+          
+                              <li>
+          
+                      <a href="company/privacy-Terms_of_Use.html">Terms of Use</a></li>
+          
+        		</ul>
+
+	  <div class="htmlEditorArea" style="margin-left: 210px; padding: 25px;">
+	    <h5>Effective Date: 2007.07.01</h5>
+
+<p>Cooler Master takes your privacy seriously.<br>
+Please read the following to learn more about our privacy policy.</p>
+
+<h2>What This Privacy Policy Covers</h2>
+
+<ul>
+	<li>This policy covers how Cooler Master treats personal information that Cooler Master collects and receives, including information related to your past use of Cooler Master products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.</li>
+	<li>This policy does not apply to the practices of companies that Cooler Master does not own or control, or to people that Cooler Master does not employ or manage. In addition, certain Cooler Master associated compa　nies have their own privacy statements which can be viewed by clicking the links.</li>
+</ul>
+
+<h2>Information Collection and Use</h2>
+
+<ul>
+	<li>Cooler Master would collect and store your personal information when you register with Cooler Master, when you use Cooler Master products or services, visit Cooler Master pages or the pages of certain Cooler Master partners, and enter promotions or sweepstakes.</li>
+	<li>Cooler Master would ask you to fill up some personal information such as your name, address, email address, birth date, gender, ZIP code, occupation, industry, personal interests, and other information about 　your assets when you register on our website and the aforementioned information would be disclosed to Cooler Master, stored and used by Cooler Master based on your consent. It would be deem to confirm your 　consent if you register successfully on our website. When you register on our website and log in to our services, you would not be anonymous user to us anymore.</li>
+	<li>To enhance the service and hold fine communication with customers, Cooler Master would use the afore mentioned information for the following general purposes:
+	<ul>
+		<li>to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.</li>
+		<li>To collect, store and combine the information and share with Cooler Master's affiliates and trusted partners who work on behalf of or with Cooler Master under confidentiality agreements to establish the public management system of customers. These companies may use your personal information to help Cooler Master communicate with you about offers from Cooler Master and our marketing partners. However, these companies do not have any independent right to share this information. Cooler Master would be able to exactly understand any of your request for customer service to improve and enhance Cooler Master's service and products based on this system.</li>
+		<li>To communicate with you or confirm your request by on-line questionary upon using the information by Cooler Master's business partners or subcontractor to recommend or introduce Cooler Master's product, service and plentiful sale information.</li>
+	</ul>
+	</li>
+</ul>
+
+<p>It would be deemed that you agree to authorize Cooler Master to collect and use the aforementioned information based upon this Privacy Policy, but you still have the right to retreat the authorization. To protect your proper right, you could fax to Cooler Master in writing (not formally) with signature to express your rejection within seven(7) calendar days after you fill up the information on our website. Cooler Master would make reasonably disposal individually to the information. It would be constructive that you agree Cooler Master could collect and use the information based on the Law and Regulation of the Republic of China(Taiwan)</p>
+
+<h2>Non-liability</h2>
+
+<p>This website is owned by Cooler Master, but Cooler Master doesn't warrant any safety, privacy or other relevant contents of the others websites linked by this website and no empoylee, agency, representative, or partnership relationship was created by the links.<br>
+<br>
+Your Ability to Edit and Delete Your Account Information and Preferences</p>
+
+<ul>
+	<li>You can edit your Cooler Master Account Information, including your marketing preferences, at any time.</li>
+	<li>New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.</li>
+	<li>We reserve the right to send you certain communications relating to the Cooler Master service, such as service announcements, administrative messages and the Cooler Master Newsletter, that are considered part of your Cooler Master account, without offering you the opportunity to opt out of receiving them.</li>
+</ul>
+
+<h2>Confidentiality and Security</h2>
+
+<ul>
+	<li>In order to protect your safety and privacy, your information in Cooler Master Account will be protected by a password.</li>
+	<li>In some occassions Cooler Master will use SSL security system to protect information during transmission.</li>
+	<li>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</li>
+	<li>We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.</li>
+	<li>To learn more about security, including the security steps we have taken and security steps you can take, please read Security at Cooler Master.</li>
+</ul>
+
+<h2>Changes to this Privacy Policy</h2>
+
+<p>Cooler Master would reserve the right to solely change or revoke this policy and suggest you to read and study this policy every now and then to handle any new condition. We will place a notice about any significant changes in the way we treat personal information on this website.</p>
+
+<h2>Questions and Suggestions</h2>
+
+<p>Should you have any questions and suggestions, welcome to contact us as following directions:</p>
+
+<p>　1) By email: our email address is <a href="mailto:info@coolermaster.com.tw">info@coolermaster.com.tw</a><br>
+　2) By mail:<br>
+　　‧Receiver - Cooler Master Technology Inc. Privacy Policy Issues<br>
+　　‧Mailing address - 8F., No. 788-1, Zhongzheng Rd., Zhonghe Dist., New Taipei City 23586, Taiwan (R.O.C.).<br>
+　3) By phone: +886-2-2225-3517<br>
+　4) By fax: +886-2-3234-0221</p>
+
+<p>It's not necessary to come in person, please contact us with above information, thank you.</p>
+
+<p class="goto" style="text-align: right; margin: 20px -25px"><a class="goTop" href="#">Top</a></p>
+      </div>
+      
+    </div>
+</div>
+<div id="footer">
+    <div class="otherLink">
+        <ul>
+<li>
+<strong>COMPANY</strong>
+<a href="company/aboutUs.html" target="_self">About us</a>
+<a href="company/newsList.html" target="_self">News</a>
+<a href="company/careersList.html" target="_self">Careers</a>
+<a href="company/privacy.html" target="_self">Privacy policy</a>
+<a href="company/privacy-Terms_of_Use.html" target="_self">Terms of use</a>
+<a href="company/siteMap.html" target="_self">Site Map</a>
+<a href="/microsite/timeline/" target="_blank">Timeline</a>
+</li>
+<li>
+<strong>SOCIAL MEDIA</strong>
+<a href="http://www.facebook.com/coolermaster" target="_blank">Facebook</a>
+<a href="http://twitter.com/coolermaster" target="_blank">Twitter</a>
+<a href="http://www.reddit.com/r/coolermaster" target="_blank">Reddit</a>
+<a href="http://www.youtube.com/coolermasteronline" target="_blank">Youtube</a>
+<a href="http://community.coolermaster.com" target="_blank">Forum</a>
+</li>
+<li>
+<strong>MARKETING</strong>
+<a href="http://channel.coolermaster.com/" target="_blank">Channel Partner Station</a>
+<a href="marketing/wallpaper.html" target="_self">Wallpaper</a>
+<a href="http://www.coolermaster.outervision.com/" target="_blank">PSU Calculator</a>
+<a href="http://goo.gl/xqm5Kn" target="_blank">Mobile e-Catalog</a>
+<a href="http://goo.gl/6MPknZ" target="_blank">Help Us - Take Survey</a>
+</li>
+<li>
+<strong>SERVICE</strong>
+<a href="http://account.coolermaster.com/" target="_blank">Tech Support</a>
+<a href="http://account.coolermaster.com/" target="_blank">Product register</a>
+<a href="service/warranty.html" target="_self">Warranty</a>
+<a href="/service/support.html" target="_self">Discontinued Products</a>
+<a href="service/contactUs.html" target="_self">Contact us</a>
+<a href="https://account.coolermaster.com/b2blogon.aspx" target="_blank">Distributor RMA (B2B)</a>
+</li>
+        </ul>
+    </div>
+   
+    <div class="copyright">
+        <div class="content">
+            <div class="languageArea">
+                <div class="flag"><img src="images/flag/global.jpg" width="16" height="16" alt="Global"></div>
+                <a href="service/language.html"></a>
+            </div>
+            <p>© Cooler Master Corporation</p>
+        </div>
+    </div>
+</div>
+
+<!--a href="http://goo.gl/6MPknZ" target="_blank" class="feedback"></a-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3564273-1']);
+  _gaq.push(['_setDomainName', 'coolermaster.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  !function(){var n=0,i=10,e=$(window),t=$(document),o=function(){return Math.floor((e.height()+e.scrollTop())/t.height()*(100/i))*i},r=function(i){n=i,_gaq.push(["_trackEvent",document.title,"scroll reach",n+"%",n,!0])},a=function(){for(;o()>n;)r(n+i)};a(),e.scroll(a)}();
+</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/9289.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+</body></html>
