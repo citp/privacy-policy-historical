@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081114id_/http%3A//wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtop.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011122430id_/http%3A//wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
 
 # Privacy Policy - WTOP.com
 
