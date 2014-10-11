@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernmarketingpartners.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624053333id_/http%3A//www.modernmarketingpartners.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernmarketingpartners.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011053309id_/http%3A//www.modernmarketingpartners.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Marketing Partners
 
@@ -6,7 +6,7 @@
 
 Modern Marketing Partners has created this Privacy Policy in order to demonstrate our firm commitment to protecting your personal information. The following discloses our information gathering and dissemination practices relating to the following websites and blogs:
 
-[www.ModernMarketingPartners.com](https://web.archive.org/web/20140624053333id_/http%3A//www.modernmarketingpartners.com/)  
+[www.ModernMarketingPartners.com](https://web.archive.org/web/20141011053309id_/http%3A//www.modernmarketingpartners.com/)  
 [www.ModernMarketingUniversity.com](http://www.modernmarketinguniversity.com/)  
 [www.IDeasBIG.com](http://www.ideasbig.com/)  
 [www.HotPotatoSocialMedia.com](http://www.hotpotatosocialmedia.com/)
