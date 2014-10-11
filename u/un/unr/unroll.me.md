@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230926id_/https%3A//unroll.me/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unroll.me privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011201056id_/https%3A//unroll.me/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Unroll.me
+# Privacy Policy | Unroll.Me
 
-_Last updated on April 9, 2013_
+_Last updated on June 26, 2014_
 
 Unrollme Inc. (“Unroll.me”) respects your concerns about privacy. This Privacy Notice applies to information we collect through our websites and services. By using our websites and services you agree to our collection, use, disclosure and transfer of information as described here.
 
 This Privacy Notice describes the types of information we collect or receive, how we may use that information and with whom we may share it. The information we collect includes personal information and non-personal information, as such terms are defined below.
 
-The Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) refrain from sending you email alerts, and (iv) answer any questions you may have about our privacy practices. 
+The Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) refrain from sending you email alerts, and (iv) answer any questions you may have about our privacy practices.
 
 ## Our Collection and Use of Personal Information
 
@@ -30,7 +30,7 @@ Because we directly ask you to provide personal information in these cases, you 
 We collect this information for reasons such as:
 
   * To provide you with access to the site, service or feature you requested
-  * To offer you tailored content, such as ads 
+  * To offer you tailored content, such as ads
   * To provide you with technical support or customer service
   * To communicate with you, respond to your requests, or provide you with updates and information
   * To manage your account
@@ -41,9 +41,11 @@ We collect this information for reasons such as:
 
 ## Our Collection and Use of Non-personal Information
 
-We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. For example, when you use our services, we may collect data from and about the “commercial electronic mail messages” and “transactional or relationship messages” (as such terms are defined in the CAN-SPAM Act (15 U.S.C. 7702 et. seq.) that are sent to your email accounts so that we can better understand the behavior of the senders of such messages, as well as better understand our customer behavior and improve our products, services, and advertising, and if we do disclose such messages, all personal information will be removed prior to any such disclosure.
+We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, sell, and disclose non-personal information for any purpose. For example, when you use our services, we may collect data from and about the “commercial electronic mail messages” and “transactional or relationship messages” (as such terms are defined in the CAN-SPAM Act (15 U.S.C. 7702 et. seq.) that are sent to your email accounts so that we can better understand the behavior of the senders of such messages, and better understand our customer behavior and improve our products, services, and advertising, and we may disclose, distribute, transfer, and sell such messages, and the data that we collect from or in connection with such messages, provided, however, if we do disclose such messages or data, all personal information will be removed prior to any such disclosure.
 
 If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
+
+Aggregated data is considered non-personal information for the purposes of this Privacy Notice.
 
 ## Information Collected by Automated Means
 
@@ -101,7 +103,7 @@ We maintain appropriate administrative, technical and physical safeguards to pro
 
 ## Links to Other Sites
 
-We may provide links to other sites for your convenience and information. These sites may be operated by organizations not affiliated with Unroll.me so we cannot control and are not responsible for their content, operation, or privacy practices. Those organizations may have their own privacy policies, which we strongly suggest you review if you use other sites. This Notice does not apply to those sites, even if we link to them or they link to us. 
+We may provide links to other sites for your convenience and information. These sites may be operated by organizations not affiliated with Unroll.me so we cannot control and are not responsible for their content, operation, or privacy practices. Those organizations may have their own privacy policies, which we strongly suggest you review if you use other sites. This Notice does not apply to those sites, even if we link to them or they link to us.
 
 ## Children’s Privacy
 
