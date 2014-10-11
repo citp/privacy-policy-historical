@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esharesinc.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628100458id_/https%3A//www.esharesinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esharesinc.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011115627id_/https%3A//www.esharesinc.com/privacy) for the most accurate reproduction.*
 
-# eShares - Electronic stock certificates and stock options, subscription 409a valuations, and online cap table management
+# eShares - Cap table management, subscription 409a valuations, ASC 718, and electronic stock certificates and options
 
 ### Data Controller and Owner
 
