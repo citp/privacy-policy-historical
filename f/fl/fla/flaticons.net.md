@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the flaticons.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045954id_/http%3A//flaticons.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flaticons.net privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011101631id_/http%3A//flaticons.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - FlatIcons
 
-**Your Privacy
+Privacy policy 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Privacy of individual users 
 
-**Google Adsense and the DoubleClick DART Cookie**
+FlatIcons.net does not require registration. Your use of this website does not identify you individually. FlatIcons.net uses third-party companies to collect and report detailed statistics about site use, but these statistics do not identify individual users, except to the extent that you may have provided this information to those companies. 
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+Cookies 
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> A Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+As is the case with almost all advertising-supported websites, FlatIcons.net uses browser cookie technology. A browser cookie is a small piece of data stored by a web server on your computer, to be read when you reconnect to that web server. FlatIcons.net includes third-party services which set and read browser cookies. Each third-party company has its own privacy policy. 
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, On the block Blog has no access or control over these cookies that may be used by third party advertisers.
+Google AdSense 
 
-**Collection of Personal Information**
+FlatIcons.net uses Google AdSense, a third-party advertising service operated by Google Inc., to serve ads when you visit FlatIcons.net. Google AdSense may use ["DoubleClick DART cookie"](http://www.doubleclick.com/privacy/faq.aspx) technology to track information about your visits to FlatIcons.net and other websites in order to provide advertisements about goods and services that Google AdSense determines might be of interest to you. Google AdSense does not track your name, address, email address, or telephone number. If you would like more information about this practice, and to know your choices about not having this information used in this way, [click here](http://www.google.com/privacy_ads.html). 
 
-When visiting On the block Blog , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Google Analytics 
 
-**Links to third party Websites**
+FlatIcons.net uses Google Analytics, a third-party website analysis service operated by Google Inc., to collect and report detailed statistics about visits to FlatIcons.net. When you visit FlatIcons.net, Google Analytics servers automatically record and collect Log Data sent by your browser, including your computer’s IP address and the referring HTTP location. Google Analytics’ reporting is private. Google Analytics may place or read cookies. If you would like more information about cookies for Google Analytics, [click here](http://www.google.com/privacy_ads.html) and scroll to "How does Google use cookies for Google Analytics?" 
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+Server logs 
 
-**Changes to this Privacy Statement**
+As is the usual case on web servers, each web transaction (request for HTML code and images) is recorded in a daily log file. This log file includes information such as your IP address, browser type, and operating system. The log does not include your name, address, email address, or telephone number. The log is used as input to produce reports of website statistics. 
 
-The contents of this statement may be altered at any time, at our discretion. 
+Other 
 
-**
+FlatIcons.net reserves the right to add or remove third-party affiliate programs and other links, without updating this privacy statement. FlatIcons.net reserves the right to modify this privacy statement at any time without notice. 
