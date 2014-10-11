@@ -1,33 +1,30 @@
-> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102159id_/http%3A//mlmrehab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012013425id_/http%3A//mlmrehab.com/privacy-policy) for the most accurate reproduction.*
 
 # MLMRehab | Privacy Policy - MLM Rehab
 
-  *   *   * 
-
-
 Thank you for reviewing K2 Collective Inc.’s privacy policy. This site is owned and operated by K2 Collective Inc., a South Carolina Corporation (Hereinafter referred to as “K2 Collective”, “We”, “Our” or “Us”).
 
-##### What information does K2 Collective collect from our users and how do we collect it?
+#### What information does K2 Collective collect from our users and how do we collect it?
 
 K2 Collective only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. K2 Collective collects personally identifying information from our users during online registration and online purchasing.
 
 Generally, this information includes, name, phone number and e-mail address for registration to receive free newsletters and name, postal address and credit card information when purchasing our products. All of this information is provided to us by you.
 
-##### How do we use this information?
+#### How do we use this information?
 
 This information is used for internal marketing purposes only. K2 Collective does not sell, exchange, or release your personal information (name, e-mail, phone, mailing address, credit data, etc.). Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
-##### What are cookies and how do we use them?
+#### What are cookies and how do we use them?
 
 Cookies help track a person’s “session” while online. By showing how and when our visitors use this site, this information can help us to continue to improve our site. We will only use cookies to view information on your hard drive that was put there by a cookie from this site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
 
-##### How do we store your information and how can you unsubscribe?
+#### How do we store your information and how can you unsubscribe?
 
 Your information is stored at the list server that delivers K2 Collective newsletters and updates. Your information is stored at the list server that delivers K2 Collective newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive K2 Collective’s newsletters.
 
 All of the newsletters that are sent to you by K2 Collective include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at support (@) k2collective.com to change your information or to stop receiving direct communications from us at any time.
 
-##### Buy Backs/Guarantees:
+#### Buy Backs/Guarantees:
 
 Private coaching, group coaching, all digital and information products, and all products purchased through mlmrehab.com and its affiliated websites are backed by our associated guarantees. What this means is that within the stated number of days of using a product or participating in a program, if you don’t love the work we’re doing, or the product you purchased, and it’s not giving you the results or experience you purchased it to get, then not only do you not have to continue paying for, participating in, and utilizing the product or service, we’ll happily buy back the product(s) from you for the full purchase price. Refer to each product and its applicable guarantee.
 
@@ -45,7 +42,7 @@ and,
 
 This policy was revised on February 22nd, 2013.
 
-##### DISCLAIMER:
+#### DISCLAIMER:
 
 THIS POLICY MAY BE CHANGED AT ANY TIME AT K2 Collective’S DISCRETION. IF WE SHOULD UPDATE THIS POLICY, WE WILL POST THE UPDATES TO THIS PAGE ON OUR WEBSITE. THIS POLICY WAS REVISED ON FEBRUARY 22ND 2013.
 
