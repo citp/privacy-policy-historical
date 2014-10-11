@@ -1,12 +1,19 @@
-<!--The following is the downloaded HTML source of the nobelprize.org privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326100025id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nobelprize.org privacy policy that was archived on 2014-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011190730id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic" rel="stylesheet" type="text/css">
+
+<!-- Contentshare CSS -->
+<!--<link rel="stylesheet" type="text/css" href="/prog/js/conshare/css/main-style.css" />
+<link rel="stylesheet" type="text/css" href="/prog/js/conshare/css/tooltipster.min.css" />-->
+<!-- /contentshare CSS -->
+
 
 <title>Privacy Policy</title>
 
@@ -15,19 +22,55 @@
 <link href="https://plus.google.com/103477693143895827696" rel="publisher">
 
 <link href="/css/foundation5/normalize.css" rel="stylesheet" type="text/css">
-<link href="/css/foundation5/foundation.css" rel="stylesheet" type="text/css">
+<link href="/css/foundation5/foundation.css?v=20140521" rel="stylesheet" type="text/css">
+
+<!-- komm -->
 <link href="/css/jquery/colorbox/colorbox.css" rel="stylesheet" type="text/css">
 <link href="/css/nobelslide.css" rel="stylesheet" type="text/css">
-<link href="/mediaplayer/css/mediaplayer.css" rel="stylesheet" type="text/css">
+<!-- /komm -->
+
+<link href="/mediaplayer/css/mediaplayer.css?v=20140929" rel="stylesheet" type="text/css">
+
+<!-- komm -->
 <link href="/css/jquery/jquery.multiselect.css" rel="stylesheet" type="text/css">
 <link href="/css/jquery/mselect/jquery-ui-1.8.1.custom.css" rel="stylesheet" type="text/css">
-<link href="/css/nobel_custom.css?v=20140321" rel="stylesheet" type="text/css">
+<!-- /komm -->
 
-<script src="/prog/js/foundation5/vendor/jquery.js"></script>
+<link href="/educational/medicine/bloodtypinggame/css/game_style.css" rel="stylesheet" type="text/css">
+<link href="/css/nobel_custom.css?v=20140929" rel="stylesheet" type="text/css">
+
+
+<script language="javascript" type="text/javascript" src="/prog/js/foundation5/vendor/jquery.js"></script>
 <script language="javascript" type="text/javascript" src="/prog/js/videoplayer/video.js"></script>
 <script language="javascript" type="text/javascript" src="/mediaplayer/include/ajax.js"></script>
 <script language="javascript" type="text/javascript" src="/__utm.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
+
+<!-- komm -->
+<!--<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>-->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/faq_home.js"></script>-->
+<!-- /komm -->
+
+<!-- Contentshare JS -->
+<!--<script type="text/javascript" src="/prog/js/conshare/js/jquery.tooltipster.min.js"></script>                
+<script src="/prog/js/conshare/js/contentshare.js"></script>-->
+<!-- /contentshare JS -->
+
+<!-- komm -->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/jquery.tools.min.js"></script>-->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.colorbox-min.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/standard.js"></script>-->
+<script language="javascript" type="text/javascript" src="/mediaplayer/js/mediaplayer.js?v=20140929"></script>
+<!-- /komm -->
+
+<script language="javascript" type="text/javascript" src="/prog/php/poll/pulse.js"></script>
+
+<!-- komm -->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.clearfield.packed.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.meio.mask.min.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.multiselect.min.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/createform/create.js"></script>-->
+<!-- /komm -->
+
 
 <style>
 /* The Grid ---------------------- */
@@ -226,8 +269,43 @@ right: 0;
 }
 .lt-ie9 .top-bar-section ul.right li .dropdown li .dropdown { right: 100%; }
 </style>
+
+<style>
+.ratingtable {
+	display: none;
+}
+.video_rating_wrapper {
+	display: none;
+}
+</style>
+
+<!-- Akamai new player -->
+<script type="text/javascript" src="/mediaplayer/4.0.0023/amp/amp.min.js?amp-defaults=hans-test-2.xml"></script>
+<script type="text/javascript">
+	var amp;
+	
+	function loadHandler(event)
+	{
+		var config_overrides = 
+		{
+			autoplay: false,
+			media: 
+			{
+				title: "VOD Sample",
+				duration: 108,
+				source:
+				[
+					{src: "http://www.nobelprize.org/mediaplayer/smil.php/movie.smil?id=1994"}
+				] 
+			}
+		};
+		amp = new akamai.amp.AMP("akamai-media-player", config_overrides);
+	}
+</script>
+<!-- /new akamai player -->
+
 <meta class="foundation-mq-small"><meta class="foundation-mq-medium"><meta class="foundation-mq-large"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-xxlarge"><style></style><meta class="foundation-mq-topbar"></head>
-<body style="">
+<body onload="loadHandler(event)" ontouchstart="" style="">
 
 <!-- Logo, search, quick links FOUNDATION 5 -->
 <div class="row" id="top-container">
@@ -239,20 +317,28 @@ right: 0;
     </div>
     <div id="quick-links-container" class="medium-6 columns hide-for-small" style="background-color: none; text-align: right; padding-top: 40px;">
         <ul style="list-style-type: none; margin: 0;">
-            <li style="display: inline;">
-                <a class="quick-link-top quick-link-video" href="/mediaplayer/">Video</a>
+            <li style="display: inline; margin-right: 10px;">
+                <a style="padding-left: 23px; color: #fff;" class="quick-link-video" href="/mediaplayer/">Video</a>
             </li>
-            <li style="display: inline;" class="top-quick-link-list-item">
-                <a class="quick-link-top quick-link-about" href="/nobel_organizations/nobelmedia/nobelprize_org/">About Us</a>
+            <li style="display: inline; margin-right: 10px;">
+            	<a style="padding-left: 23px; color: #fff;" class="quick-link-podcast" href="/podcast/">Podcast</a>
+            </li>
+            <li style="display: inline;">
+                <a style="padding-left: 25px; color: #fff;" class="quick-link-about" href="/nobel_organizations/nobelmedia/nobelprize_org/">About Us</a>
             </li>
         </ul>
     </div>
-    <div id="top-search" class="medium-2 columns hide-for-small" style="text-align: right; padding: 38px 0 0 0;">
+    <div id="top-search" class="medium-2 columns hide-for-small">
     	<form action="http://search.nobelprize.org/search/nobel2013/" method="get" id="searchform" name="search-site-form" style="margin: 0;">
             <input type="hidden" name="i" value="en">
             <input type="hidden" name="charset" value="UTF-8">
             <input type="hidden" name="oenc" value="UTF-8">
-            <input placeholder="Search" type="text" id="searchform" name="q" style="font-size: 0.813em; border: 0; height: 26px; background-color: #e4e4e4; margin: 0; padding: 0 25px 0 5px; border-radius: 3px; background-image: url(/images/icons/icon-search.png); background-repeat: no-repeat; background-position: 97% 50%;">
+            <div style="float: left; width: 80%;">
+            	<input placeholder="Search" type="text" class="search-form-input" id="searchform" name="q">
+            </div>
+            <div style="float: left; width: 20%; text-align: right;">
+            	<input type="submit" value="" class="top-search-button">
+            </div>
     	</form>
     </div>
 </div>
@@ -318,8 +404,6 @@ right: 0;
             </ul>
           </li>
           
-          <li class="divider"></li>
-          
           <!-- Educational -->
           <li class="divider"></li>
           <li class=""><a class="main-navigation-link" href="/educational/">Educational</a></li>
@@ -335,8 +419,11 @@ right: 0;
             	<li><a href="/events/nobel-concert/" class="main-nav-dropdown-link">Nobel Prize Concert</a></li>
                 <li><a href="/events/nobel-museum/" class="main-nav-dropdown-link">Exhibitions at the Nobel Museum</a></li>
                 <li><a href="/events/nobel-peace-center/" class="main-nav-dropdown-link">Exhibitions at the Nobel Peace Center</a></li>
+                <li><a href="/events/calendar/" class="main-nav-dropdown-link">Events Calendar</a></li>
             </ul>
           </li>
+          
+          <li class="quick-link-nav show-for-small"><a href="/podcast/" class="main-navigation-link">Podcast</a></li>
           
           <li class="show-for-small has-form">
             <form action="http://search.nobelprize.org/search/nobel2013/" method="get" id="searchform" name="search-site-form" style="margin: 0;">
@@ -363,7 +450,7 @@ right: 0;
 
 <div class="row">
 	<!-- Left column -->
-	<div id="nobel-left-col" class="large-3 columns" style="margin-top: 10px; padding-top: 15px; padding-bottom: 600px; background-color: #f0f0f0; border-right: 1px solid #d3d3d3;">
+	<div id="nobel-left-col" class="large-3 columns" style="margin-top: 10px; padding-top: 15px; padding-bottom: 600px; background-color: rgb(240, 240, 240); border-right: 1px solid rgb(211, 211, 211); height: 5303px;">
 
 
 
@@ -405,37 +492,10 @@ right: 0;
 
 <script>
 
-var show_more_options = false;
-
-function show_create_list_form() {
-
-	if(show_more_options) {
-		
-		show_more_options = false;
-		$('#create-list-container-yo').css('display', 'inline');
-	}
-	else {
-		
-		show_more_options = true;
-		$('#create-list-container-yo').css('display', 'none');
-	}
-}
-
-function more_options() {
+$(document).ready(function() {
 	
-	/*if(show_more_options) {
-		
-		$('#createList_old').css('display', 'none');
-		show_more_options = false;
-	}
-	else {
-		
-		$('#createList_old').css('display', 'inline');
-		show_more_options = true;
-	}
-	
-	setTimeout(calc_height, 2000);*/
-}
+	setTimeout(calc_height, 1000);
+});
 
 function calc_height() {
 	
@@ -490,13 +550,13 @@ function calc_height() {
         
         <hr>
 
-<ul style="list-style-type: none;"><li><a href="/nobel_organizations/nobelfoundation/">Nobel Foundation</a></li><li><a href="/nobel_organizations/prize_awarders/">The Nobel Prize Awarding Institutions</a></li><li><a href="/nobel_organizations/rights_association/">The Nobel Foundation Rights Association</a></li><li class="selected"><a href="/nobel_organizations/nobelmedia/" class="selected">Nobel Media</a><ul style="list-style-type: none;"><li><a href="/nobel_organizations/nobelmedia/about.html">About Us</a></li><li><a href="/nobel_organizations/nobelmedia/staff/">Staff and Contact</a></li><li><a href="/nobel_organizations/nobelmedia/channels/">Channels and News Services</a></li><li><a href="/nobel_organizations/nobelmedia/live_broadcasts/">Live Broadcasts</a></li><li><a href="/nobel_organizations/nobelmedia/tv_programs/">TV Programs</a></li><li><a href="/nobel_organizations/nobelmedia/nm_archive/">Nobel Media Archive</a></li><li><a href="/nobel_organizations/nobelmedia/concert/">Nobel Prize Concert</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/" class="selected">Nobelprize.org</a></li><li><ul style="list-style-type: none;"><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/">About Nobelprize.org</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/copyright/">Copyright Information</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/disclaimer.html">Disclaimer</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/edu_program.html">Educational Outreach Program</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/edu_committee.html">Educational Outreach Program Committee</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/history.html">History of Nobelprize.org</a></li><li><div class="dot"><a href="/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html" class="selected">Privacy Policy</a></div></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/tech_support/">Technical Support</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/terms_use.html">Terms of Use</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/newsletter/">Nobelprize.org Monthly</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/developer/">Developer Zone</a></li></ul></li><li><a href="/nobel_organizations/nobelmedia/press_releases_archive/">Press Releases Archive</a></li><li><a href="/nobel_organizations/nobelmedia/s_partners/ ">Sponsors and Partners</a></li></ul></li><li><a href="/nobel_organizations/nobelmuseum/">Nobel Museum</a></li><li><a href="/nobel_organizations/nobelpeacecenter/">Nobel Peace Center</a></li><li><a href="/nobel_organizations/education_fund/">Nobel Prize Education Fund</a></li><li><a href="/nobel_organizations/org_structure.html">Organisational Structure</a></li></ul>
+<ul style="list-style-type: none;"><li><a href="/nobel_organizations/nobelfoundation/">Nobel Foundation</a></li><li><a href="/nobel_organizations/prize_awarders/">The Nobel Prize Awarding Institutions</a></li><li><a href="/nobel_organizations/rights_association/">The Nobel Foundation Rights Association</a></li><li class="selected"><a href="/nobel_organizations/nobelmedia/" class="selected">Nobel Media</a><ul style="list-style-type: none;"><li><a href="/nobel_organizations/nobelmedia/about.html">About Us</a></li><li><a href="/nobel_organizations/nobelmedia/staff/">Staff and Contact</a></li><li><a href="/nobel_organizations/nobelmedia/channels/">Channels and News Services</a></li><li><a href="/nobel_organizations/nobelmedia/live_broadcasts/">Live Broadcasts</a></li><li><a href="/nobel_organizations/nobelmedia/tv_programs/">TV Programs</a></li><li><a href="/nobel_organizations/nobelmedia/nm_archive/">Nobel Media Archive</a></li><li><a href="/nobel_organizations/nobelmedia/concert/">Nobel Prize Concert</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/" class="selected">Nobelprize.org</a></li><li><ul style="list-style-type: none;"><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/">About Nobelprize.org</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/copyright/">Copyright Information</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/disclaimer.html">Disclaimer</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/edu_program.html">Educational Outreach Program</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/edu_committee.html">Educational Outreach Program Committee</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/history.html">History of Nobelprize.org</a></li><li><div class="dot"><a href="/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html" class="selected">Privacy Policy</a></div></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/tech_support/">Technical Support</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/terms_use.html">Terms of Use</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/newsletter/">Nobelprize.org Monthly</a></li><li><a href="/nobel_organizations/nobelmedia/nobelprize_org/developer/">Developer Zone</a></li></ul></li><li><a href="/nobel_organizations/nobelmedia/press_releases_archive/">Press Releases Archive</a></li><li><a href="/nobel_organizations/nobelmedia/s_partners/ ">Sponsors and Partners</a></li></ul></li><li><a href="/nobel_organizations/nobelmuseum/">Nobel Museum</a></li><li><a href="/nobel_organizations/nobelhuset/">Nobelhuset</a></li><li><a href="/nobel_organizations/nobelpeacecenter/">Nobel Peace Center</a></li><li><a href="/nobel_organizations/nobel-peace-prize-concert/">Nobel Peace Prize Concert</a></li><li><a href="/nobel_organizations/education_fund/">Nobel Prize Education Fund</a></li><li><a href="/nobel_organizations/org_structure.html">Organisational Structure</a></li></ul>
         
     </div>
     <!-- /left column -->
     
     <!-- Middle column -->
-	<div id="nobel-middle-col" class="large-6 columns" style="padding-top: 15px; padding-bottom: 15px; background-color: #ffffff;">
+	<div id="nobel-middle-col" class="large-6 columns" style="padding-top: 15px; padding-bottom: 15px; background-color: rgb(255, 255, 255); height: 5323px;">
 		
           <div class="row">
             <div class="large-12 columns">
@@ -725,7 +785,7 @@ function calc_height() {
   <h2>Compliance and changes</h2>
 
   <p> Nobel Media regularly reviews its compliance with this Privacy
-    Policy. If we receive written complaints at <a href="mailto:comments@nobelprize.org"> comments@nobelprize.org</a> regarding
+    Policy. If we receive written complaints regarding
     this policy or our processing of personal information, we generally
     try to contact the complainant regarding his or her concerns,
     and will try our best to resolve the complaint.</p>
@@ -740,7 +800,7 @@ function calc_height() {
   
   <p><b> Questions, comments and suggestions </b></p>
   <p> If you have any questions about this policy, or believe that
-    we have not adhered to it, please send your message to <a href="mailto:comments@nobelprize.org"> comments@nobelprize.org</a>. </p>
+    we have not adhered to it, please <a href="/contact/">e-mail us</a>. </p>
   <p> <b>Ordinary mail <br>
   </b>You may also write to us at: <br>
   Nobel Media AB <br>
@@ -754,36 +814,25 @@ function calc_height() {
 <!--eri-no-index-->
 
 
-<div class="tool_area">
-<ul>
-                <li class="first">
-                <!-- ADDTHIS BUTTON BEGIN -->
-        <script type="text/javascript">
-        var addthis_config = {
-                <!-- services_compact: 'email, facebook, twitter, digg, delicious, stumbleupon, technorati, translate, print, more',
--->
-                username: "nobelprize",
-                <!-- ui_cobrand:"Nobelprize.org", -->
-                ui_header_color: "#8A8384",
-                ui_header_background: "#fff",
-                <!-- ui_delay: 500, -->
-                ui_click: true
-        }
-        </script>
-
-                <a href="http://www.addthis.com/bookmark.php?v=250" class="share addthis_button"><img src="/images/general/pixel.gif" alt="Share" width="20" height="13" border="0"></a>
-                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
-        <!-- ADDTHIS BUTTON END --></li>
-                <li><a href="/prog/php/tellfriend/tell.php?head=1&amp;top=1&amp;url=/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html" class="tell_a_friend" target="_blank"><img src="/images/general/pixel.gif" alt="Tell a Friend" width="20" height="13" border="0"></a></li>
-                <li class="last"><a href="/prog/php/comments/showcomment.php?head=1&amp;objectname=/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html&amp;formname=site&amp;top=1" class="comments"><img src="/images/general/pixel.gif" alt="Comments" width="20" height="13" border="0"></a></li>
-              </ul>
-
+<div style="float: left; width: 100%; margin: 20px 0 20px 0; padding: 5px 0 5px 0; border-top: 1px solid #c0c0c0; border-bottom: 1px solid #ccc;">
+    <!-- AddThis Button BEGIN -->
+    <div style="display: inline; float: left;"><h5 style="margin-right: 5px; font-size: 14px; font-weight: normal; font-style: italic; display: inline;">Share this:</h5></div>
+    <div style="display: inline; float: left;" class="addthis_toolbox addthis_default_style addthis_16x16_style">
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_google_plusone_share"></a>
+    <a class="addthis_button_twitter"></a>
+    <a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+    <a class="addthis_button_email"></a>
+    </div>
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=nobelprize"></script>
+    <!-- AddThis Button END -->
 </div>
 
 
 
 <div style="clear:both"></div>
-<div class="mla_cite"> <span class="row1">To cite this page</span><br><span class="row2">MLA style: "Privacy Policy". <i>Nobelprize.org.</i> Nobel Media AB 2013. Web. 25 Mar 2014. &lt;http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html&gt; </span> </div>
+<div class="mla_cite"> <span class="row1">To cite this page</span><br><span class="row2">MLA style: "Privacy Policy". <i>Nobelprize.org.</i> Nobel Media AB 2014. Web. 11 Oct 2014. &lt;http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html&gt; </span> </div>
 
 
 <hr><h2 class="hide-for-print">Recommended:</h2>
@@ -809,26 +858,96 @@ function calc_height() {
     <!-- /middle column -->
     
     <!-- Right column -->
-    <!-- Temporarily changed to large-2 by Andreas, must be changed back to large-3 later -->
-	<div id="nobel-right-col" class="large-3 columns" style="margin-top: 10px; padding-top: 15px; padding-bottom: 15px; background-color: #f0f0f0; border-left: 1px solid #d3d3d3;">
+	<div id="nobel-right-col" class="large-3 columns hide-for-small" style="margin-top: 10px; padding-top: 15px; padding-bottom: 15px; background-color: rgb(240, 240, 240); border-left: 1px solid rgb(211, 211, 211); height: 5303px;">
 <div class="row">
 <div class="large-12 columns">
-<a href="http://www.nobelprize.org/nobel_prizes/lists/year/index.html?year=2013&amp;images=yes"><img src="/images/right-column/2013-nobel-laureates.jpg"></a>
+<a href="http://www.nobelprize.org/index.html"><img src="/images/right-column/live-webcast-2014.jpg"></a>
+</div>
+</div>
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelweekdialogue.org/" target="_blank"><img src="/images/right-column/nwd2014-register-25proc.jpg"></a>
 </div>
 </div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
 <div class="row">
 <div class="large-12 columns">
-<a href="http://www.nobelprize.org/nobel_prizes/nobelquiz/"><img src="/images/right-column/nobel-prize-quiz.jpg"></a>
+<a href="http://www.nobelprize.org/nobel_prizes/who-deserves.html"><img src="/images/right-column/who-do-you-think-deserves-a-nobel-prize.jpg"></a>
 </div>
 </div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_prizes/nobelquiz/nobel-prize-quiz.html"><img src="/images/right-column/quiz-25.jpg"></a>
+</div>
+</div>
+
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
 
 <div class="row">
 <div class="large-12 columns">
 <a href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/"><img src="/images/right-column/monthly05.jpg"></a>
 </div>
 </div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/podcast/index.html"><img src="/images/right-column/explore-the-nobel-prize-talks-podcast.jpg"></a>
+</div>
+</div>
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="https://response.easyresearch.se/s.asp?WID=912920&amp;Pwd=93169995" class="quiz_popup"><img src="/images/right-column/help-improve.gif"></a>
+</div>
+</div>
+
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
 
 
+    </div>
+    
+    <div class="small-12 columns show-for-small" style="background-color: #fff;">
+    	<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/index.html"><img src="/images/right-column/live-webcast-2014.jpg"></a>
+</div>
+</div>
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelweekdialogue.org/" target="_blank"><img src="/images/right-column/nwd2014-register-25proc.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_prizes/who-deserves.html"><img src="/images/right-column/who-do-you-think-deserves-a-nobel-prize.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_prizes/nobelquiz/nobel-prize-quiz.html"><img src="/images/right-column/quiz-25.jpg"></a>
+</div>
+</div>
+
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/"><img src="/images/right-column/monthly05.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/podcast/index.html"><img src="/images/right-column/explore-the-nobel-prize-talks-podcast.jpg"></a>
+</div>
+</div>
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="https://response.easyresearch.se/s.asp?WID=912920&amp;Pwd=93169995" class="quiz_popup"><img src="/images/right-column/help-improve.gif"></a>
+</div>
+</div>
+
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
     </div>
     <!-- /right column -->
 </div>
@@ -841,11 +960,7 @@ function calc_height() {
 	<div class="large-12 columns">
     	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Contact</h3>
         <ul style="color: #ffffff;" class="small-footer-list">
-            <li><a href="/contact/copyright.html">Copyright</a></li>
-            <li><a href="/contact/archive-sales.html">Archive Sales</a></li>
-            <li><a href="/contact/nominations.html">Nominations</a></li>
-            <li><a href="/contact/technical.html">Technical</a></li>
-            <li><a href="/contact/comments-suggestions.html">Comments and Suggestions</a></li>
+        	<li><a href="/contact">E-mail us</a></li>
         </ul>
     	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Press</h3>
         <ul style="color: #ffffff;" class="small-footer-list">
@@ -859,7 +974,7 @@ function calc_height() {
         </ul>
     	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">FAQ</h3>
         <ul style="color: #ffffff;" class="small-footer-list">
-            <li><a href="">Frequently Asked Questions</a></li>
+            <li><a href="/faq">Frequently Asked Questions</a></li>
         </ul>
     	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Terms</h3>
         <ul style="color: #ffffff;" class="small-footer-list">
@@ -871,9 +986,9 @@ function calc_height() {
         </ul>
     	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Follow</h3>
         <ul style="color: #ffffff;" class="small-footer-list">
-            <li><a href="https://twitter.com/Nobelprize_org">Twitter</a></li>
-            <li><a href="https://www.facebook.com/Nobelprize.org">Facebook</a></li>
+        	<li><a href="https://www.facebook.com/Nobelprize.org">Facebook</a></li>
             <li><a href="https://plus.google.com/+NobelPrize/posts">Google+</a></li>
+            <li><a href="https://twitter.com/NobelPrize">Twitter</a></li>
             <li><a href="http://www.youtube.com/thenobelprize">YouTube</a></li>
             <li><a href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/">Nobelprize.org Monthly</a></li>
             <li><a href="/nobel_organizations/nobelmedia/channels/app/index.html">Nobel Prize App</a></li>
@@ -883,20 +998,11 @@ function calc_height() {
 <!-- /small footer -->
 
 <!-- Big footer FOUNDATION 5 -->
-<!--<div class="hide-for-small" id="footer-container" style="width: 100%; position: fixed; bottom: -215px;">-->
-<div class="hide-for-small" id="footer-container" style="width: 100%; position: fixed; bottom: -182px; z-index: 999999;">
+<div class="hide-for-small" id="footer-container" style="width: 100%; position: fixed; bottom: -172px; z-index: 999999;">
     <div style="width: 100%; background-color: #c3d0e1; border-bottom: 1px solid #fff;">
         <div class="row">
             <div class="medium-5 columns" style="padding-top: 9px; padding-bottom: 13px;">
             	<span style="border-radius: 3px; padding: 0 10px 2px 10px; background-color: #fff;"><img id="big-footer-link" src="/images/foundation/arrow-right.png" style="display: inline;"> <a class="footer-top-link" href="#" id="footer-top-link-first" style="font-weight: normal; margin: 0; padding: 0;">Contact&nbsp;&nbsp;|&nbsp;&nbsp;Press&nbsp;&nbsp;|&nbsp;&nbsp;Sitemap&nbsp;&nbsp;|&nbsp;&nbsp;FAQ&nbsp;&nbsp;|&nbsp;&nbsp;Terms</a></span>
-                <!--<ul style="list-style-type: none; margin: 0; padding: 0;">
-                	<li style="display: inline;"><a id="footer-top-link-first" class="footer-top-link" style="padding-left: 15px; background: url(/images/foundation/arrow-right.png); background-repeat: no-repeat;" href="#">CONTACT</a></li>
-                    <li style="display: inline; border-left: 1px solid #285993; margin-left: 10px; padding-left: 10px;"><a class="footer-top-link" href="#">PRESS</a></li>
-                    <li style="display: inline; border-left: 1px solid #285993; margin-left: 10px; padding-left: 10px;"><a class="footer-top-link" href="#">SITEMAP</a></li>
-                    <li style="display: inline; border-left: 1px solid #285993; margin-left: 10px; padding-left: 10px;"><a class="footer-top-link" href="#">FAQ</a></li>
-                    <li style="display: inline; border-left: 1px solid #285993; margin-left: 10px; padding-left: 10px;"><a class="footer-top-link" href="#">TERMS</a></li>
-                    <li style="display: inline; border-left: 1px solid #285993; margin-left: 10px; padding-left: 10px;"><a class="footer-top-link" href="#">FOLLOW</a></li>
-                </ul>-->
             </div>
             <div class="medium-3 columns" style="text-align: right;">
             	<p style="color: #888; margin: 6px 0 0 0; padding: 0;">Copyright © Nobel Media AB 2014</p>
@@ -906,37 +1012,27 @@ function calc_height() {
                     <h2 style="font-weight: normal; margin: 0; margin-top: -20px !important padding: 0; color: #fff; font-style: italic; display: inline; margin-right: 10px;">Follow us:</h2>
                 </div>
                 <div id="footer-follow-us-icon-space" style="float: left; width: 38%; padding-top: 5px; text-align: right;">
-                    <a href="https://plus.google.com/+NobelPrize/posts"><img style="display: inline; margin-right: 5px;" src="/images/icons/g-footer-big.png"></a><a href="https://twitter.com/Nobelprize_org"><img style="display: inline; margin-right: 5px;" src="/images/icons/tw-footer-big.png"></a><a href="https://www.facebook.com/Nobelprize.org"><img style="display: inline; margin-right: 5px;" src="/images/icons/fb-footer-big.png"></a><a href="http://www.youtube.com/thenobelprize"><img style="display: inline;" src="/images/icons/yt-footer-big.png"></a>
+                    <a href="https://www.facebook.com/Nobelprize.org"><img style="display: inline;" src="/images/icons/fb-footer-big.png">
+                    </a><a href="https://plus.google.com/+NobelPrize/posts"><img style="display: inline;" src="/images/icons/g-footer-big.png"></a>
+                    <a href="https://twitter.com/NobelPrize"><img style="display: inline;" src="/images/icons/tw-footer-big.png"></a>
+                    <a href="http://www.youtube.com/thenobelprize"><img style="display: inline;" src="/images/icons/yt-footer-big.png"></a>
                 </div>
             </div>
         </div>
     </div>
     
-    
-    <!--<div class="hide-for-small" id="footer-container" style="width: 100%; margin-top: 50px;">
-        <div style="width: 100%; background-color: #e3e3e3;">
-        	<div class="row">
-            	<div class="large-12 columns" style="text-align: right; font-size: 0.813em; color: #888; padding: 10px 0 10px 0;">
-            		Copyright &copy; Nobel Media AB 2013
-                </div>
-            </div>
-    	</div>
-    </div>-->
-    
     <div style="width: 100%; background-color: #466c99;">
     	<div class="row">
         	<div class="medium-3 columns" style="padding-left: 0;">
-                <ul style="list-style-type: none;">
-                    <li class="footer-list-headline">Contact</li>
-                    <li><a style="color: #fff;" class="footer-link" href="/contact/copyright.html">Copyright</a></li>
-                    <li><a style="color: #fff;" class="footer-link" href="/contact/archive-sales.html">Archive Sales</a></li>
-                    <li><a style="color: #fff;" class="footer-link" href="/contact/nominations.html">Nominations</a></li>
-                    <li><a style="color: #fff;" class="footer-link" href="/contact/technical.html">Technical</a></li>
-                    <li><a style="color: #fff;" class="footer-link" href="/contact/comments-suggestions.html">Comments and Suggestions</a></li>
-                </ul>
-            </div>
-            <div class="medium-3 columns" style="padding-left: 0;">
             	<div class="row">
+                	<div class="large-12 columns">
+                        <ul style="list-style-type: none;">
+                            <li class="footer-list-headline">Contact</li>
+                            <li><a style="color: #fff;" class="footer-link" href="/contact">E-mail Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
                 	<div class="large-12 columns">
                         <ul style="list-style-type: none;">
                             <li class="footer-list-headline">Press</li>
@@ -944,8 +1040,10 @@ function calc_height() {
                             <li><a style="color: #fff;" class="footer-link" href="/press/nobelfoundation/">Newsroom - Nobel Foundation</a></li>
                             <li><a style="color: #fff;" class="footer-link" href="/press/nobelmedia/">Newsroom - Nobel Media</a></li>
                         </ul>
-                	</div>
+                    </div>
                 </div>
+            </div>
+            <div class="medium-3 columns" style="padding-left: 0;">
             	<div class="row">
                 	<div class="large-12 columns">
                     	<ul style="list-style-type: none;">
@@ -954,16 +1052,16 @@ function calc_height() {
                         </ul>
                 	</div>
                 </div>
-            </div>
-            <div class="medium-3 columns" style="padding-left: 0;">
                 <div class="row">
                 	<div class="large-12 columns">
                         <ul style="list-style-type: none;">
                             <li class="footer-list-headline">FAQ</li>
-                            <li><a style="color: #fff;" class="footer-link helplink faqLink">Frequently Asked Questions</a></li>
+                            <li><a href="/faq" style="color: #fff;" class="footer-link">Frequently Asked Questions</a></li>
                         </ul>
                     </div>
                 </div>
+            </div>
+            <div class="medium-3 columns" style="padding-left: 0;">
                 <div class="row">
                 	<div class="large-12 columns">
                     	<ul style="list-style-type: none;">
@@ -980,16 +1078,16 @@ function calc_height() {
         	<div class="medium-3 columns" style="padding-left: 0;">
             	<h2 class="footer-list-headline" style="margin-bottom: 8px;">Follow us:</h2>
                 <div style="float: left; width: 100%; margin-bottom: 4px;">
-            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/twitter-footer.png"></div>
-                <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://twitter.com/Nobelprize_org">Twitter</a></div>
-                </div>
-                <div style="float: left; width: 100%; margin-bottom: 4px;">
             	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/facebook-footer.png"></div>
                 <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://www.facebook.com/Nobelprize.org">Facebook</a></div>
                 </div>
                 <div style="float: left; width: 100%; margin-bottom: 4px;">
             	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/googleplus-footer.png"></div>
                 <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://plus.google.com/+NobelPrize/posts">Google+</a></div>
+                </div>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/twitter-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://twitter.com/NobelPrize">Twitter</a></div>
                 </div>
                 <div style="float: left; width: 100%; margin-bottom: 4px;">
             	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/youtube-footer.png"></div>
@@ -1010,92 +1108,25 @@ function calc_height() {
 <!-- /big footer -->
 
 
-  <!--<script>
-  document.write('<script src=' +
-  ('__proto__' in {} ? '/prog/js/foundation/vendor/zepto' : '/prog/js/foundation/vendor/jquery') +
-  '.js><\/script>')
-  </script>-->
-  
-  <!--<script src="/prog/js/foundation5/vendor/jquery.js"></script>-->
   <script src="/prog/js/foundation5/vendor/modernizr.js"></script>
   
   <script src="/prog/js/foundation5/foundation/foundation.js"></script>
   
-  <!--<script src="/prog/js/foundation5/foundation/foundation.alert.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.clearing.js"></script>-->
-  
-  <!--<script src="/prog/js/foundation5/foundation/jquery.cookie.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.dropdown.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.forms.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.joyride.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.magellan.js"></script>-->
-  
   <script src="/prog/js/foundation5/foundation/foundation.orbit.js"></script>
   
-  <!--<script src="/prog/js/foundation5/foundation/foundation.placeholder.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.reveal.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.section.js"></script>
-  
-  <script src="/prog/js/foundation5/foundation/foundation.tooltips.js"></script>-->
-  
   <script src="/prog/js/foundation5/foundation/foundation.topbar.js"></script>
-  
-	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>-->
-    
-    <!--<script src="/prog/js/jquery/jquery.colorbox-min.js"></script>
-    <script src="/prog/js/standard.js"></script>
-    <script src="/__utm.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
-    <script src="/prog/js/jquery/jquery.clearfield.packed.js"></script>
-    <script src="/prog/js/jquery/jquery.meio.mask.min.js"></script>
-    <script src="/prog/js/jquery/jquery.multiselect.min.js"></script>
-    <script src="/prog/js/createform/create.js"></script>
-    <script src="/prog/js/foundation/vendor/custom.modernizr.js"></script>-->
+
   
 	<script>
       $(document).foundation();
     </script>
   
-  <!--<script src="/prog/js/foundation/foundation.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.alerts.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.clearing.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.cookie.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.dropdown.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.forms.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.joyride.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.magellan.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.orbit.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.placeholder.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.reveal.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.section.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.tooltips.js"></script>
-  
-  <script src="/prog/js/foundation/foundation.topbar.js"></script>-->
   
   <script>
 	var left_height, middle_height, right_height, highest;
 	
 	var footer_visible = false;
-	var filter_year = 2013;
+	var filter_year = 2014;
 	
 	create_list_form_toggled = false;
 	create_list_form_visible = false;
@@ -1144,8 +1175,6 @@ function toggle_create_list_form() {
 	}
 }
 
-
-
 $(document).ready(function() {
 
 	//checkVersion();
@@ -1161,7 +1190,7 @@ $(document).ready(function() {
 		var right_height = Math.round(right_height);
 		
 		if($(window).width() > 780) {
-			
+
 			// Calculate the height of the containers and make it look right
 			highest = left_height;
 			
@@ -1215,6 +1244,9 @@ $(document).ready(function() {
 				//alert($('#nobel-left-col').height());
 				//alert($('#nobel-right-col').height());
 			}
+			else {
+				$('#nobel-left-col').height(left_height-700);
+			}
 		}, 1000);
 	}
 	
@@ -1230,7 +1262,7 @@ $(document).ready(function() {
 	
 	$('#right-arrow').click(function() {
 		
-		if(filter_year < 2013) {
+		if(filter_year < 2015) {
 			filter_year++;
 			$('#year-input').val(filter_year);
 		}
@@ -1256,7 +1288,7 @@ $(document).ready(function() {
 	});
 	
 	/* Goto other biography up-and-down-year */
-	var selected_goto_year = 2013;
+	var selected_goto_year = 2014;
 	selected_goto_year = $('#hidden-the-year').val();
 	var url;
 	var selected_goto_prize;
@@ -1296,7 +1328,7 @@ $(document).ready(function() {
 	
 	// Button tap up
 	$('#goto-prize-tap-up').click(function() {
-		if(parseInt(selected_goto_year) < 2013) {
+		if(parseInt(selected_goto_year) < 2015) {
 			selected_goto_prize = $('#goto-prize-change-prize').find(":selected").val();
 			selected_goto_year++;
 			
@@ -1330,6 +1362,81 @@ $(document).ready(function() {
 			location.href = url;
 		}
 	});
+	
+	
+	<!-- small -->
+	
+	// Dropdown
+	$('#goto-prize-change-prize-small').change(function() {
+		selected_goto_prize = $(this).find(":selected").val();
+		
+		if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+			url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+		}
+		else {
+			url = 'http://www.nobelprize.org';
+			url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+		}
+			
+		location.href = url;
+	});
+	
+	// Button tap down
+	$('#goto-prize-tap-down-small').click(function() {
+		if(parseInt(selected_goto_year) > 1901) {
+			selected_goto_prize = $('#goto-prize-change-prize-small').find(":selected").val();
+			selected_goto_year--;
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	// Button tap up
+	$('#goto-prize-tap-up-small').click(function() {
+		if(parseInt(selected_goto_year) < 2015) {
+			selected_goto_prize = $('#goto-prize-change-prize-small').find(":selected").val();
+			selected_goto_year++;
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				//url = 'http://www.nobelprize.org';
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	$('#goto-prize-change-year-small').keyup(function() {
+		
+		if($(this).val().length == 4) {
+			selected_goto_year = $('#goto-prize-change-year-small').val();
+			selected_goto_prize = $('#goto-prize-change-prize-small').find(":selected").val();
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://'+www.nobelprize.org+'/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	<!-- /small -->
 });
 
 
@@ -1351,7 +1458,7 @@ function show_footer() {
 function hide_footer() {
 
 	$('#footer-container').animate({
-		bottom: '-183px'
+		bottom: '-172px'
 	}, 500, function() {
 	});
 	
@@ -1362,8 +1469,8 @@ function hide_footer() {
 }
 
 
-// POLL
-poll_stats = [];
+// OLD POLL
+/*poll_stats = [];
 poll_stats_percent = [];
 alt_ids = [];
 total_votes = 0;
@@ -1385,19 +1492,13 @@ $(document).ready(function() {
 			
 			alt_ids[alt_counter] = $(this).attr('data-alt-id');
 			
-			if($(this).is(':checked')) {
-				
-				selected_alt_id = $(this).attr('data-alt-id');
-			}
-			
-			
 			alt_counter++;
 			num_alts++;
 		});
 		
 		$.ajax({
 			type: "POST",
-			url: "http://www.nobelprize.org/prog/php/poll/api.php",
+			url: "http:///prog/php/poll/api.php",
 			data: {poll_id: poll_id,
 					alt_id: selected_alt_id},
 			dataType: "json",
@@ -1476,13 +1577,103 @@ $(document).ready(function() {
 			}
 		});
 	});
+});*/
+</script>
+
+
+<script>
+$(document).ready(function() {
+	
+	var el = $('.yes-filler');
+	var originalHeight = el.height();
+	
+	var properties = {
+	   height : originalHeight * 0.9
+	}
+	
+	el.pulse(properties, {duration : 1000, pulses : -1});
+	
+	
+	// Voting
+	$('.ein-poll-alt').change(function() {
+		
+		poll_stats = [];
+		poll_stats_percent = [];
+		alt_ids = [];
+		total_votes = 0;
+		num_alts = 0;
+		alt_counter = 0;
+		
+		ein_poll_id = $(this).data('pollid');
+		ein_alt_id = $(this).data('altid');
+		
+		
+		
+		el.pulse('destroy');
+		
+		$('.poll-'+ein_poll_id+'-alt').each(function() {
+			
+			$(this).attr('disabled',true);
+			alt_ids[alt_counter] = $(this).data('altid');
+			
+			alt_counter++;
+			num_alts++;
+		});
+	
+		// Lets save da vote yao
+		$.ajax({
+			type: "POST",
+			url: "http://www.nobelprize.org/prog/php/poll/api.php",
+			data: {poll_id: ein_poll_id,
+					alt_id: ein_alt_id},
+			dataType: "json",
+			beforeSend:function(){
+				//alert("sending");
+			},
+			error: function(jqXHR, textStatus, errorThrown){
+				//alert("Error: "+errorThrown);
+			},
+			success: function(data){
+				
+				$.each(data, function(index, element) {
+					
+					//self.questions[i]['id'] = element.question_id;
+					poll_stats[element.id] = [];
+					poll_stats[element.id]['votes'] = parseInt(element.votes);
+					total_votes += parseInt(element.votes);
+				});
+	
+				//# Calculate percent % stats
+				var percent_per_vote = 100/total_votes;
+				
+				var tot_percent = 0;
+				
+				for(var per_counter = 0; per_counter < num_alts; per_counter++) {
+					
+					var curr_alt_id = alt_ids[per_counter];
+					poll_stats[curr_alt_id]['percent'] = parseInt(poll_stats[curr_alt_id]['votes'] * percent_per_vote);
+					
+					tot_percent += poll_stats[curr_alt_id]['percent'];
+				}
+				
+				$('#poll-num-votes-'+ein_poll_id).html('<p style="padding: 0; margin: 0;">Answers: <b>'+total_votes+'</b></p>');
+				
+				setTimeout(function() {
+				for(var insta = 0; insta < num_alts; insta++) {
+
+					var curraltid = alt_ids[insta];
+					var curraltpercent = poll_stats[curraltid]['percent'];
+					curraltpercentminus = 100-curraltpercent;
+						
+					$('#filler-'+curraltid).css("height",curraltpercentminus+"px");
+					$('#green-filler-'+curraltid).append('<center><span style="color: #fff; font-size: 12px; font-weight: bold;">'+curraltpercent+'%</span></span>');
+				}
+				},1100);
+			}
+		});
+	});
 });
-
-
-
-  </script>
-
-
+</script>
 
 
 <!--/eri-no-index-->
