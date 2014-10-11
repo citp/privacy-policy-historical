@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the thegridto.com privacy policy that was archived on 2014-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527113851id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegridto.com privacy policy that was archived on 2014-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011221136id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-		<meta charset="utf-8"><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDUFlaAAI="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+		<meta charset="utf-8"><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDUFlaAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:15,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:16,ee:"QJf3ax"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:16,2:15,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:16,2:15,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:16,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:9,2:12,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],12:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],15:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],16:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:15,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 								<title>Privacy Policy | The Grid TO</title>
 
 
@@ -15,7 +15,7 @@
         <meta property="og:url" content="http://www.thegridto.com/connect/privacy-policy/">
          <!-- google web master for schoeffman -->
         <meta name="google-site-verification" content="KDyuiHIH9VH0ZDJ9U4pkNgP8brJ2THbbisK7qBD7CCY">
-        <meta property="og:image" content="/core/images/logo-the-grid.gif?v=41"> 
+        <meta property="og:image" content="/core/images/logo-the-grid.gif?v=39"> 
 	    <script type="text/javascript" src="http://api.pressly.com/510ac20b3d3d9dda1000013f/510ac20c3d3d9dda10000142/redirect.js"></script>
 	    <!-- <script type="text/javascript" src="http://www.thegridto.com/core/js/facebooksdk.js"></script> -->
  			
@@ -221,7 +221,7 @@ var _wpcf7 = { cached: 1 };
          				<div class="pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044258/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044258/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013394;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044258/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391011408;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
 <!-- End of JavaScript Tag --></div>
             
 				<div class="social-links pull-right">
@@ -553,13 +553,13 @@ $(document).ready( function() {
 		                    <div class="nav-headline">
 		                          Featured in City		                    </div>
                             <div class="article-preview main">
-		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/politics/bring-the-paign-tough-talk-from-tory/">
-		                        						            	<img width="277" height="185" src="http://www.thegridto.com/wp-content/uploads/537f5fe285753-CO-ToryAnnouncement03-510x340.jpg" class="attachment-300x185 wp-post-image" alt="Photo: Carlos Osorio/Toronto Star" title="John Tory">		                        </a>
+		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/politics/the-best-we-can-hope-for-rob-ford/">
+		                        						            	<img width="279" height="185" src="http://www.thegridto.com/wp-content/uploads/53b2ebdf3c316-sr-ford-140630-31-514x340.jpg" class="attachment-300x185 wp-post-image" alt="Photograph: Steve Russell/Toronto Star" title="Rob Ford">		                        </a>
                                 <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">11:00</div><span>am</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></span><br>Fri May 23, 2014</div>
-		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/politics/bring-the-paign-tough-talk-from-tory/">Bring the ’Paign: Tough talk from Tory</a></div>
-		                        <p>This week in our election-news digest: John Tory says the city didn't properly coordinate Lake...</p>
+		                        <div class="article-time sprite"><div class="pull-left">12:00</div><span>pm</span></div>
+		                        <div class="article-date"><span><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></span><br>Wed Jul 2, 2014</div>
+		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/politics/the-best-we-can-hope-for-rob-ford/">The best we can hope for Rob Ford…</a></div>
+		                        <p>...is that, post-rehab, he goes back to his old lying, arrogant self again. Because that's the...</p>
 		                    </div>
 		                </div>
 		                <div class="column">
@@ -567,26 +567,26 @@ $(document).ready( function() {
 		                          More headlines 		                    </div>
 		             						                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/podcasts/" title="View all posts in Podcasts" rel="category tag">Podcasts</a></span><br>Thu May 22, 2014_3:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/podcasts/the-keenan-wire-radio-program-may-21-2014-broadcast/">The Keenan Wire Radio Program:...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/local-news/" title="View all posts in Local News" rel="category tag">Local News</a></span><br>Wed Jul 2, 2014_10:30 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/local-news/talking-points-july-2-edition/">Talking points: July 2 edition</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></span><br>Thu May 22, 2014_8:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/places/get-spooked-at-doors-open/">Get spooked at Doors Open</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></span><br>Tue Jul 1, 2014_3:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/people/morgan-baskin-teen-mayoral-hopeful/">Morgan Baskin: Teen mayoral hopeful...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></span><br>Wed May 21, 2014_3:20 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/people/kathleen-wynne-ontario-premier/">Kathleen Wynne: Ontario Premier...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></span><br>Tue Jul 1, 2014_1:30 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/places/what-goes-on-in-there-dovercourt-house/">What Goes on in There?: Dovercourt...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></span><br>Wed May 21, 2014_12:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/">Who’s killing the Leslie Spit...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></span><br>Mon Jun 30, 2014_7:30 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/blog-post/rob-fords-too-little-too-late-campaign-speech-was-an-insult/">Rob Ford: too little, too late</a></div>
 		                        </div>
 		                    </div>
 													 
@@ -632,13 +632,13 @@ $(document).ready( function() {
 		                    <div class="nav-headline">
 		                          Featured in Life		                    </div>
                             <div class="article-preview main">
-		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/">
-		                        						            	<img width="278" height="185" src="http://www.thegridto.com/wp-content/uploads/53839ef4c08fe-537e5207f0d61-DavidSax-511x340.jpg" class="attachment-300x185 wp-post-image" alt="David Sax" title="David Sax">		                        </a>
+		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/life/parenting/kids-a-z-guide-to-summer/">
+		                        						            	<img width="276" height="185" src="http://www.thegridto.com/wp-content/uploads/53b4320059321-01_v1_GRID_0626-508x340.jpg" class="attachment-300x185 wp-post-image" alt="This is the last image uploaded to thegridto.com" title="This is the last image uploaded to thegridto.com">		                        </a>
                                 <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">4:00</div><span>pm</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Mon May 26, 2014</div>
-		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/">How do food trends happen?</a></div>
-		                        <p>In his new book, The Grid's David Sax explains why every restaurant is serving tacos (and pork...</p>
+		                        <div class="article-time sprite"><div class="pull-left">12:15</div><span>pm</span></div>
+		                        <div class="article-date"><span><a href="http://www.thegridto.com/life/parenting/" title="View all posts in Parenting" rel="category tag">Parenting</a></span><br>Wed Jul 2, 2014</div>
+		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/life/parenting/kids-a-z-guide-to-summer/">Kid’s A-Z Guide to Summer</a></div>
+		                        <p>The staff at Bunchfamily.ca help us devise an alphabetized list of 26 kid-friendly ways to fill...</p>
 		                    </div>
 		                </div>
 		                <div class="column">
@@ -646,26 +646,26 @@ $(document).ready( function() {
 		                          More headlines 		                    </div>
 		             						                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Mon May 26, 2014_9:30 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/crumbs/">Crumbs</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Tue Jul 1, 2014_3:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/baby-got-bap/">Baby got bap</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Mon May 26, 2014_9:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-the-east-end/">Burger Week 2014 preview: The...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/fashion/" title="View all posts in Fashion" rel="category tag">Fashion</a></span><br>Tue Jul 1, 2014_3:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/fashion/who-wants-to-be-a-milliner/">Who wants to be a milliner?</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri May 23, 2014_3:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/pink-sip/">Pink sip</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Tue Jul 1, 2014_3:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/choose-your-own-rum-adventure/">Choose your own rum adventure</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri May 23, 2014_2:30 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-downtown/">Burger Week 2014 preview: Downtown...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/real-estate/" title="View all posts in Real Estate" rel="category tag">Real Estate</a></span><br>Tue Jul 1, 2014_1:30 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/real-estate/hawking-real-estate-is-not-a-get-rich-quick-scheme/">Hawking real estate is not a get...</a></div>
 		                        </div>
 		                    </div>
 													 
@@ -709,13 +709,13 @@ $(document).ready( function() {
 		                    <div class="nav-headline">
 		                          Featured in Culture		                    </div>
                             <div class="article-preview main">
-		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/culture/arts/grid-picks-may-22-28/">
-		                        						            	<img width="276" height="185" src="http://www.thegridto.com/wp-content/uploads/537ba802c5175-TAYLOR-KITSCH-061113-PG-24-509x340.jpg" class="attachment-300x185 wp-post-image" alt="PHOTOGRAPH: RODRIGO &amp; LUIS JR. GUERRA/© 2013 RAMEY PHOTO" title="Taylor Kitsch">		                        </a>
+		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/blog-post/the-july-guide-to-music-2014">
+		                        						            	<img width="277" height="185" src="http://www.thegridto.com/wp-content/uploads/53b2e51ee85be-KB_JZ_2-510x340.jpg" class="attachment-300x185 wp-post-image" alt="Jay Z" title="Jay Z">		                        </a>
                                 <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">9:00</div><span>am</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/culture/arts/" title="View all posts in Arts" rel="category tag">Arts</a></span><br>Thu May 22, 2014</div>
-		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/culture/arts/grid-picks-may-22-28/">Grid picks: May 22-28</a></div>
-		                        <p>The Top 25 cultural activities of the week, including Taylor Kitsch's star turn in The Normal Heart...</p>
+		                        <div class="article-time sprite"><div class="pull-left">12:30</div><span>pm</span></div>
+		                        <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Tue Jul 1, 2014</div>
+		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/blog-post/the-july-guide-to-music-2014">The July guide to music</a></div>
+		                        <p>July is here—and that means there's a whole new month of concerts to plan for! Here's our day...</p>
 		                    </div>
 		                </div>
 		                <div class="column">
@@ -723,26 +723,26 @@ $(document).ready( function() {
 		                          More headlines 		                    </div>
 		             						                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Thu May 22, 2014_8:45 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/music/chilly-gonzales-piano-class-pitch/">Chilly Gonzales’ piano-class...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Mon Jun 30, 2014_12:45 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/music/scenes-from-digital-dreams/">Scenes from Digital Dreams</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Thu May 22, 2014_8:30 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/film/inside-out-2014-preview/">Inside Out 2014 preview</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/arts/" title="View all posts in Arts" rel="category tag">Arts</a></span><br>Thu Jun 26, 2014_9:00 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/arts/grid-picks-june-26-july-2/">Grid picks: June 26-July 2</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Thu May 22, 2014_8:15 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/film/adam-sandler/">Is Adam Sandler really the most...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Thu Jun 26, 2014_8:45 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/music/the-antlers-familiars/">The Antlers: Familiars</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/theatre/" title="View all posts in Theatre" rel="category tag">Theatre</a></span><br>Thu May 22, 2014_7:45 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/theatre/watch-mike-daisey-deconstruct-rob-ford/">Watch Mike Daisey deconstruct...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Thu Jun 26, 2014_8:30 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/film/they-came-together-the-anti-rom-com/">They Came Together: the anti-rom...</a></div>
 		                        </div>
 		                    </div>
 													 
@@ -773,7 +773,7 @@ $(document).ready( function() {
 					<ul>
 		            	<li><a href="/contributors">Grid Contributors</a></li>
 		                <li><a href="/issues">Past Issues</a></li>
-		                <li><a href="/issues/156">Current Issue</a></li>
+		                <li><a href="/issues/162">Current Issue</a></li>
 		                <li><a href="mailto:displaysales@thegridto.com">Advertising</a></li>
 					</ul>
 					
@@ -783,11 +783,11 @@ $(document).ready( function() {
 	                	Current issue
 	                </div>
 		            <div class="article-preview main">
-		            	<a href="/issues/156">
-		        			<img class="pull-left" src="http://www.thegridto.com/wp-content/uploads/537d075533bf3-01_v1_GRID_0522.jpg" height="280">
+		            	<a href="/issues/162">
+		        			<img class="pull-left" src="" height="280">
 		        		</a>
 		        		<ul class="pull-right">
-		            		<li><a href="/issues/156">See all issue content</a></li>
+		            		<li><a href="/issues/162">See all issue content</a></li>
 		                </ul>
 					</div>
 				</div>
@@ -947,91 +947,48 @@ $(document).ready( function() {
 				</div>
 							<div id="most-discussed" class="recent-pulls" style="display:none;">
 					<ul class="image-title-description">
-	        <li class="block city ">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-1']);" href="http://www.thegridto.com/city/politics/show-us-the-money/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537b9c925fead-CMC-pd-ford01-c-seqn1881-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Photograph: Colin McConnell/Toronto Star" title="Joe Pennachetti"></a>
-              <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></h3>
-                  <div class="article-date">Tue May 20, 2014_2:30 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-1']);" href="http://www.thegridto.com/city/politics/show-us-the-money/">Show us the money!</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/city/politics/show-us-the-money/#comments">22 COMMENTS</a></div>
-
-              </div>
-          </li>
-	        <li class="block timewasters ">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-2']);" href="http://www.thegridto.com/timewasters/dating-diaries/matthew-and-elizabeth/" class="thumb">
-            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/537b868d7c1d5-54-148x100.jpg" class="attachment-121x71 wp-post-image" alt="ILLUSTRATION: LEEANDRA CIANCI/THE GRID" title="Dating Diaries"></a>
-              <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts in Dating Diaries" rel="category tag">Dating Diaries</a></h3>
-                  <div class="article-date">Wed May 21, 2014_9:00 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-2']);" href="http://www.thegridto.com/timewasters/dating-diaries/matthew-and-elizabeth/">Matthew and Elizabeth</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/timewasters/dating-diaries/matthew-and-elizabeth/#comments">20 COMMENTS</a></div>
-
-              </div>
-          </li>
-	        <li class="block city ">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-3']);" href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537ba3b834858-IMG_5401-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Photographs: Christie Vuong/The Grid" title="Who’s killing the Leslie Spit’s trees?"></a>
-              <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></h3>
-                  <div class="article-date">Wed May 21, 2014_12:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-3']);" href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/">Who’s killing Leslie Spit trees?</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/#comments">19 COMMENTS</a></div>
-
-              </div>
-          </li>
-	        <li class="block timewasters last">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-4']);" href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-davina-and-oliver/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537a3506a2f01-IMG_6968-150x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOS: CHRISTIE VUONG/THE GRID" title="Oliver and Davina"></a>
-              <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts in Dating Diaries" rel="category tag">Dating Diaries</a></h3>
-                  <div class="article-date">Tue May 20, 2014_9:00 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-4']);" href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-davina-and-oliver/">The Hook-Up: Davina and Oliver</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-davina-and-oliver/#comments">13 COMMENTS</a></div>
-
-              </div>
-          </li>
 	</ul>
 				</div>
 							<div id="most-recent" class="recent-pulls" style="display:none;">
 					<ul class="image-title-description">
 			<li class="block life ">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/53839ef4c08fe-537e5207f0d61-DavidSax-150x100.jpg" class="attachment-121x71 wp-post-image" alt="David Sax" title="David Sax">            </a>
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/life/parenting/kids-a-z-guide-to-summer/" class="thumb">
+            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/53b4320059321-01_v1_GRID_0626-149x100.jpg" class="attachment-121x71 wp-post-image" alt="This is the last image uploaded to thegridto.com" title="This is the last image uploaded to thegridto.com">            </a>
             <div class="article-details life">
-                <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
-            	<div class="article-date">Mon May 26, 2014_4:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/">How do food trends happen?</a></p>
+                <h3><a href="http://www.thegridto.com/life/parenting/" title="View all posts in Parenting" rel="category tag">Parenting</a></h3>
+            	<div class="article-date">Wed Jul 2, 2014_12:15 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/life/parenting/kids-a-z-guide-to-summer/">Kid’s A-Z Guide to Summer</a></p>
           
         	</div>
         </li>
-		<li class="block life ">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/life/food-drink/crumbs/" class="thumb">
-            	            	<img width="108" height="71" src="http://www.thegridto.com/wp-content/uploads/52a0e80a60c58-CrumbsCarousel-153x100.jpg" class="attachment-121x71 wp-post-image" alt="CrumbsCarousel" title="CrumbsCarousel">            </a>
-            <div class="article-details life">
-                <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
-            	<div class="article-date">Mon May 26, 2014_9:30 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/life/food-drink/crumbs/">Crumbs</a></p>
+		<li class="block city ">
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/city/politics/the-best-we-can-hope-for-rob-ford/" class="thumb">
+            	            	<img width="107" height="71" src="http://www.thegridto.com/wp-content/uploads/53b2ebdf3c316-sr-ford-140630-31-151x100.jpg" class="attachment-121x71 wp-post-image" alt="Photograph: Steve Russell/Toronto Star" title="Rob Ford">            </a>
+            <div class="article-details city">
+                <h3><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></h3>
+            	<div class="article-date">Wed Jul 2, 2014_12:00 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/city/politics/the-best-we-can-hope-for-rob-ford/">The best we can hope for Rob Ford...</a></p>
           
         	</div>
         </li>
-		<li class="block life ">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-the-east-end/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537cf69aa1a5e-photo-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Photo: Brilynn Ferguson Kim Nursall/Toronto Star" title="photo.JPG">            </a>
-            <div class="article-details life">
-                <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
-            	<div class="article-date">Mon May 26, 2014_9:00 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-the-east-end/">Burger Week preview: The east end</a></p>
+		<li class="block city ">
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/city/local-news/talking-points-july-2-edition/" class="thumb">
+            	            		<span class="gallery-icon-thumb"></span>
+            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/53b2e392dcb66-000024220002-149x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOGRAPHS: ARTHUR MOLA/THE GRID" title="000024220002">            </a>
+            <div class="article-details city">
+                <h3><a href="http://www.thegridto.com/city/local-news/" title="View all posts in Local News" rel="category tag">Local News</a></h3>
+            	<div class="article-date">Wed Jul 2, 2014_10:30 am</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/city/local-news/talking-points-july-2-edition/">Talking points: July 2 edition</a></p>
           
         	</div>
         </li>
 		<li class="block life last">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/pink-sip/" class="thumb">
-            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/537b89fd54329-20_v1_GRID_0508-149x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOGRAPH: LIAM MOGAN/THE GRID" title="Pink sip">            </a>
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/baby-got-bap/" class="thumb">
+            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/53b2f0c506965-BristolYard_Final-149x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOGRAPH: HELEN YOUSIF/THE GRID" title="The Bristol">            </a>
             <div class="article-details life">
                 <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
-            	<div class="article-date">Fri May 23, 2014_3:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/pink-sip/">Pink sip</a></p>
+            	<div class="article-date">Tue Jul 1, 2014_3:00 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/baby-got-bap/">Baby got bap</a></p>
           
         	</div>
         </li>
@@ -1045,7 +1002,7 @@ $(document).ready( function() {
 	<div class="advertisment pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044261/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044261/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013481;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044261/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044261/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044261/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391011509;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044261/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044261/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag --></div>
 
 
@@ -1068,7 +1025,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 				<div class="advertisment pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013483;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391011512;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag --></div>
 
                          
@@ -1082,7 +1039,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 				<div class="advertisment pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013485;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391011514;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag --></div>
 
       
@@ -1098,7 +1055,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                                             <script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044259/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044259/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013487;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044259/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391011516;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
 <!-- End of JavaScript Tag -->				                        </div>
 
                     					<div class="social-links">
@@ -1115,11 +1072,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 				<div class="clear"></div>
 <div class="full-content stuff-ftr">
     <div class="icn icn-stuff"><img src="/core/images/icn-stuff.gif"></div>
-            <a href="http://www.thegridto.com/timewasters/contests/belvederecontest/">
+            <a href="http://www.thegridto.com/timewasters/contests/enter-for-your-chance-to-win-a-second-cup-prize-pack/">
         	<div class="column_1">
         		<img class="pull-left" src="/core/images/grid_contests.gif">
             	<h3>_CONTEST</h3>
-            	<p>Enter For Your Chance To Win A Belvedere Music Lounge Experience at Cabana Pool Bar!</p>
+            	<p>Enter For Your Chance To Win A Second Cup Prize Pack!</p>
              	<div class="visit-article"><span></span></div>
         	</div>	
         </a>
@@ -1131,11 +1088,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                    <div class="visit-article"><span></span></div>
             	</div>
 			</a>
-		    		    <a href="/issues/156">
+		    		    <a href="/issues/162">
         	<div class="column_1 last">
-        		<img class="pull-left" src="http://www.thegridto.com/wp-content/uploads/537d075533bf3-01_v1_GRID_0522.jpg" width="79" height="100">
+        		<img class="pull-left" src="" width="79" height="100">
             	<h3>_THIS ISSUE</h3>
-            	<p>Fourth annual Chefs Guide to Toronto</p>
+            	<p></p>
             	<div class="visit-article"><span></span></div>
         	</div>
 			</a>
@@ -1168,19 +1125,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     </ul>
                      <ul>
                         <li class="list-title">Star Links</li>
-                        <li><a href="http://canadianimmigrant.ca" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://canadianimmigrant.ca']);">Canadianimmigrant.ca</a></li>
-<li><a href="http://homefinder.ca" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://homefinder.ca']);">Homefinder.ca</a></li>
-<li><a href="http://insurancehotline.com" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://insurancehotline.com']);">Insurancehotline.com</a></li>
-<li><a href="http://ourfaves.com" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://ourfaves.com']);">Ourfaves.com</a></li>
-<li><a href="http://www.swaymag.ca" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.swaymag.ca']);">Swaymag.ca</a></li>
-<li><a href="http://thestar.com" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://thestar.com']);">Thestar.com</a></li>
+                        <li><a href="http://thestar.com" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://thestar.com']);">Thestar.com</a></li>
 <li><a href="http://toronto.com" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://toronto.com']);">Toronto.com</a></li>
 <li><a href="http://wheels.ca" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://wheels.ca']);">Wheels.ca</a></li>
  
                      </ul>
 				</section>
 				<div id="ftr-disclaimer" class="pull-left">
-					<p>Copyright 2011 The Grid, a division of Toronto Star Newspapers Limited. All rights reserved.</p>
+            <p>Copyright 2014 The Grid, a division of Toronto Star Newspapers Limited. All rights reserved.</p>
 				</div>
 			</footer>
             <div class="clear"></div>
@@ -1257,7 +1209,7 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 </script>
 <script type="text/javascript" src="http://www.thegridto.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
 
-<!-- Generated in 1.295 seconds. -->
+<!-- Generated in 1.306 seconds. -->
 
 	
 <!-- WP-FB AutoConnect Init v2.2.0 (NEW API) -->
@@ -1283,7 +1235,7 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
   
   <form id="wp-fb-ac-fm" name="jfb_js_login_callback_form" method="post" action="http://www.thegridto.com/wp-content/plugins/wp-fb-autoconnect/_process_login.php">
       <input type="hidden" name="redirectTo" value="/connect/privacy-policy/">
-      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="63fe68ffbc"><input type="hidden" name="_wp_http_referer" value="/connect/privacy-policy/">   
+      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="85d5547acb"><input type="hidden" name="_wp_http_referer" value="/connect/privacy-policy/">   
     </form>
 <script type="text/javascript">//<!--
     function jfb_js_login_callback()
@@ -1309,11 +1261,11 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
         <script type="text/javascript" src="http://www.thegridto.com/core/js/googleplus.js"></script>
         <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
 		
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"9faa45284b","applicationID":"1348873","transactionName":"ZlNVbEcHC0AHBUcMW18ZdltBDwpdSRZSAlE=","queueTime":0,"applicationTime":1308,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"9faa45284b","applicationID":"1348873","transactionName":"ZlNVbEcHC0AHBUcMW18ZdltBDwpdSRZSAlE=","queueTime":0,"applicationTime":1319,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-460.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Content Delivery Network via Amazon Web Services: CloudFront: cdn.thegridto.com
 
-Served from: localhost @ 2014-05-27 07:34:07 --><script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+Served from: localhost @ 2014-10-11 17:50:19 --><script src="https://js-agent.newrelic.com/nr-460.min.js"></script></body></html>
