@@ -1,29 +1,121 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216183905id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011132430id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security | The Perth Mint
 
-**Privacy & Security**
+## Privacy and Security Statement
 
-The Perth Mint does not disclose personal information about any of its customers to any unrelated third party businesses. We do not sell, rent, lease, loan, trade or otherwise divulge the addresses on our lists to unrelated third parties or any unauthorised personnel. 
+**Protecting your privacy**
 
-Information may be disclosed to authorised government and legal authorities, and authorised contractors conducting business on behalf of the Mint and its customers.
+Gold Corporation (trading as The Perth Mint ABN 98 838 298 431) is committed to protecting the privacy of your personal information it collects and receives, in accordance with the Australian Privacy Principles (APPs) in the _Privacy Act_ 1988 (Cth).
 
-The Mint takes privacy very seriously, and only uses ecommerce and internet products endorsed or recommended by the major banking and technology sector organisations. Furthermore, it follows industry recommended best practice procedures and continually upgrades and improves the methods used on this website.
+This Privacy and Security Statement provides information on how we deal with your personal information as customers, and visitors to our website. 
 
- **Collecting Information  
-**  
-Personal information, such as your name and e-mail address, is collected only to record and process your order, and, if you chose to join as a Perth Mint Priority Member, to keep you informed of new product releases and events at the Mint. 
+The term 'personal information' in this document means any information or an opinion about you for which you can be identified or reasonably identified. 
 
-Information about IP addresses, web browsers, and computer operating systems are automatically transmitted to web servers as an integral part of the operation of the internet. This information is used for demographic purposes as a technical resource to better serve web site users. Data is analysed for trends and statistics, and then discarded. Our Web site logs are not personally identifiable and we make no attempt to link them with the individuals that actually browsed the site. For security purposes, network management and to improve our service we use software and third party services to monitor network traffic, detect unauthorised and malicious access of the site, and determine the effectiveness of our site structure.
+**What purposes for handling personal information?**
 
- **Online Transactions  
-**  
-If you place orders on this site, information including your credit card number and contact information is of necessity collected. This information is used solely to record and fulfil your order. Credit card details are not stored on this website. Transactions are processed through the national merchant gateway authorised by the four major Australian banks. **Security  
-**  
-Personal information provided to The Perth Mint Online Shop is encoded using Secure Sockets Layer (SSL) technology, a powerful encryption protocol that protects data as it travels over the Internet. Credit card transactions are processed using the secure EFTPOS network. For enhanced security, we recommend using the latest Netscape Navigator or Microsoft Internet Explorer browsers, which enable SSL. Make sure to set your browser's preferences to accept cookies and enable JavaScript. **Cookies  
-**  
-Our online store uses 'cookies' to store information on the items you place in your shopping cart, and facilitate the online shopping process. Cookies are also used to provide a more efficient and dynamic service to regular customers. **Email Lists  
-**  
-Visitors can request to join a mailing list by completing a form on this site. We maintain this list of Perth Mint Priority Members to inform them of new information on this Web site. We do not sell, rent, lease, loan, trade or otherwise divulge the addresses on our lists to third parties or any unauthorised personnel. **Spam Act 2003  
-**  
-The Perth Mint complies with the Spam Act 2003 and best practice guidelines in relation to the contents of its commercial electronic messages. The Mint only sends e-mail advertising with each addressee's consent, includes its address and contact details in every e-mail promotion, and ensures the inclusion of a functional unsubscribe facility.
+The main purposes for which we collect, hold, use and disclose personal information are to provide products to our customers, and to maintain, retain, extend and grow our customer base. 
+
+**What kinds of personal information we collect and hold?**
+
+The personal information we collect and store may include the following:   
+• your name;  
+• current address;   
+• telephone number;  
+• email addresses;   
+• other forms of identification, i.e. drivers license, passport;  
+• your member login details to The Perth Mint website, i.e. user name details;   
+• purchase records;  
+• correspondence;   
+• your member login details to The Perth Mint website, i.e. password details;   
+• banking and credit card details; and  
+• other information that you may provide. 
+
+We may not be able to provide you with our products or services without your personal information. 
+
+**How we collect personal information?**
+
+We collect personal information directly from you in a number of ways, including:  
+• by email;  
+• over the telephone;  
+• through written correspondence (i.e.  letters, faxes and emails);  
+• from hard copy forms (i.e. Order Forms, competition entry forms and surveys);  
+• in person (i.e. when buying at The Perth Mint shop);  
+• through our website (i.e. subscriptions to our newsletter, member login and registration, and online purchase);  
+• our own records when you visit us online ( i.e. our blog); and  
+• at functions and events (i.e. business cards).
+
+**How we retain personal information?**
+
+We hold personal information in a number of ways, including in electronic databases, email contact lists, and in paper files held in drawers and cabinets, locked where appropriate. Paper files may also be archived in boxes and stored offsite in secure facilities. Our policy is to take responsible steps to:
+
+• make sure that the personal information that we collect, use and disclose is accurate, up to date and complete (and in the case of use and disclosure) relevant; and  
+• protect the information that we hold from misuse, interference and loss and from unauthorised access, modification or disclosure.
+
+The steps we take to secure the personal information we hold include security (such as encryption, firewalls, anti-virus software, and login and password protection), secure office access, personnel security, and training and workplace policies.
+
+You can also help to protect the privacy of your personal information by keeping passwords secret and by ensuring that you log out of the website when you have finished using it. In addition, if you become aware of a security breach, please let us know as soon as possible.
+
+All personal information that has been collected will be kept for an indefinite period of time as reasonably necessary for our functions and activities unless and until you advise us otherwise, or for as long as required by applicable law.
+
+**About our websites, applications, IP addresses and cookies**
+
+Personal information provided to our Online Shop is encoded using Secure Sockets Layer (SSL) technology, a powerful encryption protocol that protects data as it travels over the Internet. Credit card transactions are processed using the secure EFTPOS network. Our policy is to ensure that all transactions processed by us meet industry security standards to ensure payment details are protected.
+
+Like many companies, we use 'cookie' technology on our website. 'Cookies' are small text files held by your internet browser that websites can use to improve the customer experience, for example by: recognising repeat users, storing registration data, and keeping and facilitating the user's online preferences and use of the websites. Most browsers are set to accept cookies. If you prefer not to receive them, you can adjust your browser to reject cookies, or to notify you when they are being used. Rejecting cookies can, however, limit the functionality of our websites (such as preventing members from logging on and making purchases).
+
+Our websites contain links to other webpages. We are not responsible for the privacy policy and contents of such webpages. We recommend you refer to the relevant webpages. 
+
+Visitors to our website can request to join a mailing list by completing a form on this site. We maintain this list of Perth Mint Priority Members to inform them of new information on our websites. We do not sell, rent, lease, loan, trade or otherwise divulge the addresses on our lists to third parties or any unauthorised personnel. We comply with the Spam Act 2003 and best practice guidelines in relation to the contents of its commercial electronic messages. 
+
+If you are concerned about sending your information over the internet, you can contact us directly by the telephone or postal address below.
+
+**How we use personal information?**
+
+The personal information we collect is generally used to process your requests and transactions, to provide you with high quality service, to tell you about products we think will be of interest to you, to customise your experience on our site, and to understand your needs so that we may provide you with the most suitable products.
+
+For example, we may use your personal information to help us:  
+• provide you with information about new products, or product release;  
+• send newsletters, informative emails, or other information which has the nature of business announcements;  
+• create content that is relevant to you;  
+• provide you with special offers that may be of interest to you;  
+• allow you to purchase products, obtain access to your membership;   
+• notify you about changes to our services or products; and  
+• conduct surveys and market research for product and service improvement purposes, and to compile statistics and trends.
+
+To help us carry out these activities and functions, on occasion, we may disclose personal information to other persons including:  
+• organisations that we engage to conduct research or analyse data;  
+• our professional advisors (i.e. auditors and lawyers); and  
+• government and regulatory authorities (as required or authorised by law).
+
+We take reasonable steps to ensure that these third parties are bound by privacy obligations in relation to your personal information.
+
+**Procedures for access, correction, and privacy complaint**
+
+You have the right to request access to your personal information that we hold, and to request its correction if it is inaccurate, incomplete or out of date and we will take reasonable steps to correct it. We ask that you put your request in writing.
+
+You can complain to us in writing about how we have collected or handled your personal information. We will investigate your complaint and we endeavour to respond within 30 days of receiving your written complaint. 
+
+In the event the matter cannot be resolved, you may refer your complaint to the Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)).
+
+We encourage you to contact us by email or send your request or complaint to the postal address below. 
+
+**How to contact us?**
+
+Please contact us if you have any queries about the personal information that we hold about you or the way we handle that personal information. 
+
+The Perth Mint  
+Reply Paid 6297  
+PO Box 6297  
+East Perth WA 6892  
+Australia
+
+E: [info@perthmint.com.au](mailto:info@perthmint.com.au)  
+P:  +61 (08) 9421 7222, Monday to Friday, 8.30am \- 4.00pm (AWST)  
+F:  +61 (08) 9221 2258
+
+**Changes to this policy**
+
+Periodically we will update this privacy policy to reflect changes to privacy legislation, technological changes, company policy and customer feedback. You should refer to our website from time to time to view the current version of this privacy policy.
+
+The Perth Mint Privacy and Security Statement - last updated 17 July 2014
