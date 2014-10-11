@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocbc.com.my privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208024927id_/http%3A//www.ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocbc.com.my privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012005848id_/http%3A//www.ocbc.com.my/personal-banking/security-privacy.html) for the most accurate reproduction.*
 
 # OCBC - Security & Privacy
 
@@ -82,7 +82,7 @@ These are the classes of persons to whom we may need to disclose your personal d
   * the Bank’s data processors or service providers, within and outside Malaysia, engaged with our regulator’s approval, to carry out certain functions and activities of the Bank;
   * the Bank’s related and associated companies, within and outside Malaysia, their assignees or potential assignees, acquirers or potential acquirers and successors-in-title;
   * the organisations, both within and outside Malaysia, which have arrangement or alliance with the Bank, for the purpose of promoting or using these organisations’ products and services (and any agents used by these organisations in administering such arrangement or alliance);
-  * regulatory bodies, government agencies, the police, law enforcement bodies and courts, both within and outside Malaysia;
+  * regulatory bodies, government agencies, tax authorities, the police, law enforcement bodies and courts, both within and outside Malaysia including pursuant to the Foreign Account Tax Compliance Act of the United States; 
   * other banks or financial institutions, both within or outside Malaysia;
   * credit bureaus, credit reporting agencies and corporations set up for the purposes of collecting and providing credit information;
   * your referees and persons who introduce you to the Bank;
@@ -93,7 +93,7 @@ These are the classes of persons to whom we may need to disclose your personal d
   * debt collection agents, lawyers, custodians and nominee companies; 
   * your authorised agents, executor, administrator or legal representative;
   * the Bank’s assignees or potential assignees, acquirers or potential acquirers and successors-in-title; and
-  * such persons or bodies to whom the Bank is legally required to disclose.
+  * such persons or bodies including secondees from OCBC Group Companies to the Bank, to whom the Bank is legally required or permitted to disclose. 
 
 
 
@@ -232,7 +232,7 @@ Ini adalah kelas pihak yang mana kami mungkin perlu untuk dedahkan data peribadi
 
   * organisasi, di dalam dan di luar Malaysia, yang mempunyai perancangan atau perikatan dengan Bank, bagi tujuan mempromosi atau menggunakan produk dan perkhidmatan organisasi-organisasi ini (dan mana-mana ejen yang digunakan oleh organisasi ini dalam mentadbirkan perancangan atau perikatan);
 
-  * badan-badan kawal selia, agensi kerajaan, polis, badan-badan penguatkuasaan undang-undang dan mahkamah, kedua-dua di dalam dan di luar Malaysia;
+  * badan-badan kawalan selia, agensi kerajaan, pihak berkuasa cukai , pihak polis, badan-badan penguat kuasa undang-undang dan mahkamah, kedua-dua di dalam dan di luar Malaysia termasuk Akta Akaun Luar Pematuhan Cukai Amerika Syarikat;
 
   * bank atau institusi kewangan lain, sama ada di dalam atau di luar Malaysia;
 
@@ -254,7 +254,7 @@ Ini adalah kelas pihak yang mana kami mungkin perlu untuk dedahkan data peribadi
 
   * penyerahhak Bank, pembeli, penyerahhak yang berpotensi atau pembeli yang berpotensi dan pengganti dalam hak milik;
 
-  * mana-mana orang atau badan di mana Bank dikehendaki oleh undang-undang untuk mendedahkan.
+  * mana-mana orang atau badan termasuk petugas sementara dari Syarikat Kumpulan OCBC kepada Bank, dan di mana Bank dikehendaki atau dibenarkan oleh undang-undang untuk mendedahkan. 
 
   
 
