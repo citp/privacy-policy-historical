@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jelly.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054312id_/http%3A//jelly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jelly.co privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011075004id_/http%3A//jelly.co/privacy) for the most accurate reproduction.*
 
 # Jelly – Privacy Policy
 
