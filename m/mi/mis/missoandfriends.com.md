@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the missoandfriends.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214091904id_/http%3A//www.missomoms.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missoandfriends.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011163836id_/http%3A//www.missomoms.com/privacy-statement) for the most accurate reproduction.*
 
-# Moms blog privacy statement - Miss O Moms
+# Moms blog privacy statement
 
 Miss O Moms℠  July, 2011
 
-A Division of HDGroup, LLC  
-                                                                                                                                           
+A Division of HDGroup, LLC                                                                                                                           
 
 Terms of Service
 
@@ -107,12 +106,3 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 If you have any questions or concerns about MissOMoms’s Privacy Statement, please contact us: [pbrindak@missoandfriends.com](mailto:pbrindak@missoandfriends.com)
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Miss O Moms staff has their pulse on the moms and kids market. We publish articles we think you'd like to read.
