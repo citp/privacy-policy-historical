@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thephonesupport.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060341id_/http%3A//www.thephonesupport.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephonesupport.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011233944id_/http%3A//thephonesupport.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Phone Support
 
 |  | 
 
-**Need help with your PC?** We’re here for you - Just in one Call tech expert is ready for help.   
+**Need help with your PC?** We’re here for you - Just in one Call tech expert is ready for help.  
   
 ---  
   
