@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the london.edu privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407001850id_/http%3A//www.london.edu/theschool/policiesandlegislation/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london.edu privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011050713id_/http%3A//www.london.edu/theschool/policiesandlegislation/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy statement at London Business School
 
