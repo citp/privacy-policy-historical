@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233108id_/https%3A//www.dwolla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011083620id_/https%3A//www.dwolla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dwolla
 
 ## Dwolla Privacy Policy
 
-#### Last Updated May 9, 2014
+#### Last Updated July 22, 2014
 
 [](https://privacy.truste.com/privacy-seal/Dwolla/validation?rid=b8ff2192-aa52-489a-9cff-09fa78dc481b "TRUSTe online privacy certification")
 
@@ -27,7 +27,7 @@ If you use or access the Dwolla Services, or open a Dwolla account, we may colle
 
 
 
-We also collect the following information (“Web Browser Information”) from your device when you use the Dwolla Services: your IP address, the type of device you use, your device identifier, your operating system version, the type of browser you use, your location, and the URL that you came from and the next URL that you visit.
+We also collect the following information ("Web Browser Information") from your device when you use the Dwolla Services: your IP address, the type of device you use, your device identifier, your operating system version, the type of browser you use, your location, and the URL that you came from and the next URL that you visit. If you have enabled collection of location data in the Dwolla mobile application, you can turn it off within the application's settings on Android, or in your phone settings on iOS.
 
 ### How does Dwolla use the personal information that it collects?
 
