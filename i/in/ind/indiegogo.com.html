@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the indiegogo.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626012132id_/https%3A//www.indiegogo.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiegogo.com privacy policy that was archived on 2014-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011054922id_/https%3A//www.indiegogo.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"52ee8e3327","applicationID":"265213","transactionName":"J1gLEkINVVQDRUkCWgtCEUlAEFBOB1Qf","queueTime":8,"applicationTime":47,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEDVFdACgUFVlBR"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//tags.tiqcdn.com/utag/indiegogo/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"52ee8e3327","applicationID":"265213","transactionName":"J1gLEkINVVQDRUkCWgtCEUlAEFBOB1Qf","queueTime":10,"applicationTime":65,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEDVFdACgUFVlBR"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Privacy Policy | Indiegogo</title>
@@ -24,9 +24,7 @@
 <meta name="title" content="Privacy Policy | Indiegogo">
 <meta name="description" content="Indiegogo is the world's largest global funding platform. Founded on the principles of opportunity, transparency, and action, anyone with an idea – creative, cause-related, or entrepreneurial – can create a campaign, offer perks, and fund their passion.">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="RRuNEnND73BKtYrxiJnie9athFtinLxNcJAYOY7nnZI=" name="csrf-token">
-
-  
+<meta content="qAlTqTgf2RHNDy3yM7M6GU5OEj/yVdlMHZQty+kAjhM=" name="csrf-token">
 
 
 
@@ -34,51 +32,80 @@
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/announcements">
 
-
+  <script type="text/javascript">
+    var utag_data = {"site_name":"www.indiegogo.com","site_country":"us","page_type":null,"logged_in_state":"signed_out","page_name":"Privacy Policy | Indiegogo"};
+  </script>
+  <!-- Loading script asynchronously -->
+  <script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/indiegogo/main/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+  </script>
 
   <link href="https://g3.iggcdn.com/assets/select2/select2-7f31d764925a0a1483809ebc7160e956.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="https://g2.iggcdn.com/assets/site/common-bdb6dbd95c5237c71f8f655c5b85dfc0.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="https://g1.iggcdn.com/assets/site/static-46d638ddf55f6372d6d39fe0a46869c6.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="https://g0.iggcdn.com/assets/site/common-397dbf38752fc7fd8fb5775f78d331ba.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://g0.iggcdn.com/assets/site/static-74e2a095745e4dfd954581026ef5720e.css" media="screen" rel="stylesheet" type="text/css">
 
 
-    <script src="//cdn.optimizely.com/js/216430494.js" type="text/javascript"></script>
   <script type="text/javascript">
-    try {
-        var acct = 'UA-2250010-1';
-
-        var ft_acct = 'UA-2250010-11';
-
-        var _gaq = _gaq || [];
-
-        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['_setAccount', acct]);
-        _gaq.push(['_trackPageview']);
-
-        setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
-
-        _gaq.push(['funnel._setAccount', ft_acct]);
-        _gaq.push(['funnel._trackPageview']);
-    } catch(err) {}
-</script>
-
-<script type="text/javascript">
-    try {
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    } catch(err) {}
-</script>
-
-
-    <script type="text/javascript">
 //<![CDATA[
 window.gon = {};
 //]]>
 </script>
+  <script type="text/javascript">
+  try {
+    var acct = 'UA-2250010-1';
+
+    var ft_acct = 'UA-2250010-11';
+
+    var _gaq = _gaq || [];
+
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', acct]);
+
+
+    _gaq.push(['_trackPageview']);
+
+    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+
+    _gaq.push(['funnel._setAccount', ft_acct]);
+    _gaq.push(['funnel._trackPageview']);
+  } catch(err) {}
+</script>
+
+  <script type="text/javascript">
+    try {
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    } catch(err) {}
+  </script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  </script>
+
+    <script>ga('create', 'UA-53458201-2', 'auto');</script>
+
+<script>ga('require', 'ec', 'ec.js');</script>
+
+    <script>ga('set', 'dimension9', 'Anonymous');</script>
+    <script>ga('set', 'dimension13', '4a6acb96b19b9c84d0804fa215382f6ba53a775120a29ed3b6b03db62b0adf5a');</script>
+    <script>ga('set', 'dimension18', 'en');</script>
+
+  <script>ga('send', 'pageview');</script>
+<!-- Google Analytics End -->
+
+
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -123,9 +150,9 @@ window.gon = {};
     
 <div class="i-page-header">
   <div class="visible-xs">
-    <a class="i-search-button js-search-button"><span class="i-icon i-glyph-icon-30-search"></span></a>
+      <a class="i-search-button js-search-button"><span class="i-icon i-glyph-icon-30-search"></span></a>
 
-    <div class="i-header-bar js-header-bar">
+    <div class="i-header-bar js-header-bar" header-dropdown-link="">
       <span class="i-site-logo">INDIEGOGO</span>
       <span class="i-icon i-glyph-icon-30-downcarrot"></span>
     </div>
@@ -133,7 +160,7 @@ window.gon = {};
       <a href="/">Home</a>
       <a href="/explore">Explore</a>
       <a href="/learn-how-to-raise-money-for-a-campaign">How It Works</a>
-      <a href="/projects/new">Start your campaign</a>
+      <a href="/campaigns/new?simple=1">Start your campaign</a>
         <a href="https://www.indiegogo.com/accounts/sign_up?return_to=https%3A%2F%2Fwww.indiegogo.com%2Fabout%2Fprivacy">Log in or Sign up</a>
     </div>
   </div>
@@ -141,22 +168,22 @@ window.gon = {};
     <div class="container">
         <div class="i-header-links-area pull-right">
           <div class="i-header-links i-header-account-links">
-              <a href="https://www.indiegogo.com/accounts/sign_up?return_to=https%3A%2F%2Fwww.indiegogo.com%2Fabout%2Fprivacy">Sign up</a><a href="https://www.indiegogo.com/accounts/sign_up?return_to=https%3A%2F%2Fwww.indiegogo.com%2Fabout%2Fprivacy">Log in</a>
+                <a href="#" class="js-signup">Sign up</a><a href="#" class="js-login">Log in</a>
           </div>
           <div class="i-header-links i-header-menu-links">
-            <a href="/explore">Explore</a><a href="/learn-how-to-raise-money-for-a-campaign">How It Works</a><a href="/projects/new">Start your campaign</a><a href="#" class="js-search-button i-search-button visible-inline-sm">
+            <a href="/explore">Explore</a><a href="/learn-how-to-raise-money-for-a-campaign">How It Works</a><a href="/campaigns/new">Start your campaign</a><a href="#" class="js-search-button i-search-button visible-inline-sm" ng-class="{'i-active': inSearchMode}" ng-click="toggleSearchMode()">
               <span class="i-icon i-glyph-icon-30-search "></span>
 </a>            <div class="i-inline-search visible-inline-md">
-              <form accept-charset="UTF-8" action="/explore" class="js-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-                <input class="js-search-input i-text-field" id="filter_title" maxlength="300" name="filter_title" type="text">
-                <div class="i-icon i-glyph-icon-30-search"></div>
-                <a class="i-icon i-glyph-icon-30-close i-search-close js-search-close hidden"></a>
+                <form accept-charset="UTF-8" action="/explore" class="js-search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+                  <input class="js-search-input i-text-field" id="filter_title" maxlength="300" name="filter_title" type="text">
+                  <div class="i-icon i-glyph-icon-30-search"></div>
+                  <a class="i-icon i-glyph-icon-30-close i-search-close js-search-close hidden"></a>
 </form>            </div>
           </div>
         </div>
 
       <a href="/" class="i-site-logo">
-          <img alt="Igg_windowlogo_rumi" src="https://images.indiegogo.com/logos/19/image/original/igg_windowlogo_rumi.png?1396384663">
+          <img alt="Igg_windowlogo_godswillbewatching" src="https://images.indiegogo.com/logos/30/image/original/igg_windowlogo_godswillbewatching.png?1396385048">
 </a>    </div>
   </div>
 
@@ -178,17 +205,76 @@ window.gon = {};
       </div>
     </div>
   </div>
+  <div id="session_modal" class="modal i-modal">
+  <div class="modal-dialog">
+    <div class="modal-content auth-modal">
+      <a class="close i-icon i-glyph-icon-30-close" data-dismiss="modal" aria-hidden="true"></a>
+
+       <div class="fb-auth">
+         <a href="https://www.indiegogo.com/accounts/auth/facebook" class="i-cta-1 i-cta-1-facebook">Continue with Facebook</a>
+         <p class="center-text">No automatic posts, ever.</p>
+       </div>
+
+
+      <div class="auth-fields">
+        <div id="loginSession">
+          <p class="sign-up-with-email divider"><span class="divider-line">Or log in with email</span></p>
+          <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/sign_in" class="validated_form" id="login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="qAlTqTgf2RHNDy3yM7M6GU5OEj/yVdlMHZQty+kAjhM="></div>
+    <label class="hide i-error signup"></label>
+    <input class="i-text-field email required nc-email" id="account_email" name="account[email]" placeholder="Email" size="30" type="text">
+    <input autocomplete="off" class="i-text-field password-input required password nc-password" data-typetoggle="#form_login_show_password" id="account_password" name="account[password]" placeholder="Password" size="30" type="password">
+    <div class="i-field-row">
+      <div class="col-sm-6 i-checkbox-with-label">
+        <input name="account[rememberme]" type="hidden" value="0"><input checked="checked" id="account_rememberme" name="account[rememberme]" type="checkbox" value="1">
+        <label for="account_rememberme">Remember Me</label>
+      </div>
+      <div class="col-sm-6 i-forgot">
+        <a href="https://www.indiegogo.com/accounts/password/new" class="i-aqua-link">Forgot Password?</a>
+      </div>
+    </div>
+    <input class="i-cta-1 js-submit-session login" name="commit" type="submit" value="Log in">
+</form>
+          <div class="topborder">
+            New to Indiegogo?  <a href="#" class="toggler">Sign up</a>
+          </div>
+        </div>
+
+        <div id="signUpSession">
+          <p class="sign-up-with-email divider"><span class="divider-line">Or sign up with email</span></p>
+          <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts" class="validated_form" id="signup_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="qAlTqTgf2RHNDy3yM7M6GU5OEj/yVdlMHZQty+kAjhM="></div>
+  <input id="timestamp" name="timestamp" type="hidden" value="1413006561"><input id="spinner" name="spinner" type="hidden" value="49b53ca871383260b82bce34713d1b9e">
+  <input class="i-text-field" id="account_firstname" name="account[firstname]" placeholder="First Name" size="30" type="text">
+  <input class="i-text-field" id="account_lastname" name="account[lastname]" placeholder="Last Name" size="30" type="text">
+  <input class="i-text-field nc-email" id="f886e907e0bf6898920a65b0a2861670" name="f886e907e0bf6898920a65b0a2861670" placeholder="Email" type="text"><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value=""></div>
+  <input autocomplete="off" class="i-text-field nc-password" id="58882729c3536169e18497a17b210491" minlength="6" name="58882729c3536169e18497a17b210491" placeholder="Password" type="password"><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="password" name="password" tabindex="999" type="password" value=""></div>
+
+  <div class="i-field-row i-checkbox-with-label">
+    <input name="account[general_opt_in]" type="hidden" value="0"><input checked="checked" id="account_general_opt_in" name="account[general_opt_in]" type="checkbox" value="1">
+    <label for="account_general_opt_in">Sign me up for the weekly newsletter</label>
+  </div>
+
+  <input class="i-cta-1 js-submit-session" name="commit" type="submit" value="Create an Account">
+</form>
+          <div class="topborder">
+            Already have an account? <a href="#" class="toggler">Log in</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 </div>
 
 
 
 
 
-<div class="container js-flash-container">
+<div class="container js-flash-container" header-flash="">
 </div>
 
 
-          <div class="container i-static-page-title">
+        <div class="container i-static-page-title">
       <div class="row"><div class="col-lg-10 col-lg-offset-1">
       <h1>Privacy Policy</h1>
       </div></div>
@@ -318,31 +404,31 @@ window.gon = {};
     
 
 
-<div class="i-footer js-footer">
+<div class="i-footer js-footer" ng-app="footer">
   <div class="container">
       <div class="visible-xs visible-sm">
         <div class="row">
           <section class="col-sm-8">
             <div class="i-footer-header">Sign Up for Daily Inspiration</div>
-              <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/quick_signup" class="i-flex-fixed-container" data-ajax="false" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="RRuNEnND73BKtYrxiJnie9athFtinLxNcJAYOY7nnZI="></div>
+              <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/quick_signup" class="i-flex-fixed-container" data-ajax="false" footer-newsletter-form="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="qAlTqTgf2RHNDy3yM7M6GU5OEj/yVdlMHZQty+kAjhM="></div>
     <div class="i-flexible-width-cell">
-      <input id="timestamp" name="timestamp" type="hidden" value="1403745693"><input id="spinner" name="spinner" type="hidden" value="cf5bbe34fc311df8bdaf0515c19c019f">
-      <input class="i-footer-text-field" id="93d24d679671255b60e3456d3b0ec22d" name="93d24d679671255b60e3456d3b0ec22d" placeholder="Your email address" type="text"><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value=""></div>
+      <input id="timestamp" name="timestamp" type="hidden" value="1413006561"><input id="spinner" name="spinner" type="hidden" value="49b53ca871383260b82bce34713d1b9e">
+      <input class="i-footer-text-field" id="f886e907e0bf6898920a65b0a2861670" name="f886e907e0bf6898920a65b0a2861670" placeholder="Your email address" type="text"><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value=""></div>
     </div>
     <div class="i-fixed-width-cell">
-      <a href="#" class="i-cta-1 i-footer-btn js-newsletter-signup">Sign up now</a>
+        <a href="#" class="i-cta-1 i-footer-btn js-newsletter-signup">Sign up now</a>
     </div>
 </form>  <div class="i-footer-note">Private, secure, spam-free</div>
 
           </section>
 
-          <section class="col-sm-4 i-top-lined-mobile-only">
-            <div class="i-footer-header">Get the Latest</div>
-            <a href="https://www.facebook.com/Indiegogo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-facebook"></span></a>
-            <a href="https://twitter.com/Indiegogo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-twitter"></span></a>
-            <a href="https://plus.google.com/+indiegogo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-gplus"></span></a>
-            <a href="http://www.youtube.com/user/IndiegogoVideo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-youtube"></span></a>
-          </section>
+            <section class="col-sm-4 i-top-lined-mobile-only">
+              <div class="i-footer-header">Get the Latest</div>
+              <a href="https://www.facebook.com/Indiegogo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-facebook"></span></a>
+              <a href="https://twitter.com/Indiegogo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-twitter"></span></a>
+              <a href="https://plus.google.com/+indiegogo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-gplus"></span></a>
+              <a href="http://www.youtube.com/user/IndiegogoVideo" class="i-footer-icon-button"><span class="i-icon i-glyph-icon-30-youtube"></span></a>
+            </section>
         </div>
 
         <div class="row">
@@ -359,6 +445,7 @@ window.gon = {};
               <div class="col-xs-6">
                 <a href="http://blog.indiegogo.com/" class="i-footer-about-link">Blog</a>
                 <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Playbook</a>
+                <a href="/trust" class="i-footer-about-link">Trust &amp; Safety</a>
                 <a href="http://support.indiegogo.com/hc/en-us" class="i-footer-about-link">Help &amp; Support</a>
                 <a href="/contact/questions" class="i-footer-about-link">Contact Us</a>
               </div>
@@ -368,14 +455,15 @@ window.gon = {};
                 <a href="/about/our-story" class="i-footer-about-link">About Us</a>
                 <a href="/careers" class="i-footer-about-link">Careers</a>
                 <a href="/partners" class="i-footer-about-link">Partner Pages</a>
+                <a href="/about/brand" class="i-footer-about-link">Brand Resources</a>
               </div>
               <div class="col-sm-4">
-                <a href="/about/brand" class="i-footer-about-link">Brand Resources</a>
                 <a href="/contact/press" class="i-footer-about-link">Press</a>
                 <a href="http://blog.indiegogo.com/" class="i-footer-about-link">Blog</a>
+                <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Playbook</a>
+                <a href="/trust" class="i-footer-about-link">Trust &amp; Safety</a>
               </div>
               <div class="col-sm-4">
-                <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Playbook</a>
                 <a href="http://support.indiegogo.com/hc/en-us" class="i-footer-about-link">Help &amp; Support</a>
                 <a href="/contact/questions" class="i-footer-about-link">Contact Us</a>
               </div>
@@ -410,7 +498,7 @@ window.gon = {};
         <section class="row">
           <div class="col-md-3">
             <div class="i-footer-header">Campaigning</div>
-            <a href="/projects/new" class="i-footer-about-link">Start Your Campaign</a>
+            <a href="/campaigns/new" class="i-footer-about-link">Start Your Campaign</a>
             <a href="http://go.indiegogo.com/pricing-fees" class="i-footer-about-link">Pricing</a>
             <a href="http://go.indiegogo.com/playbook/life-cycle-phase/the-basics" class="i-footer-about-link">Campaign Playbook</a>
             <a href="http://support.indiegogo.com/hc/en-us/categories/17706-Creating-a-Campaign" class="i-footer-about-link">Campaign Support</a>
@@ -424,13 +512,13 @@ window.gon = {};
           </div>
           <div class="col-md-6">
             <div class="i-footer-header">Sign Up for Daily Inspiration</div>
-              <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/quick_signup" class="i-flex-fixed-container" data-ajax="false" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="RRuNEnND73BKtYrxiJnie9athFtinLxNcJAYOY7nnZI="></div>
+              <form accept-charset="UTF-8" action="https://www.indiegogo.com/accounts/quick_signup" class="i-flex-fixed-container" data-ajax="false" footer-newsletter-form="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="qAlTqTgf2RHNDy3yM7M6GU5OEj/yVdlMHZQty+kAjhM="></div>
     <div class="i-flexible-width-cell">
-      <input id="timestamp" name="timestamp" type="hidden" value="1403745693"><input id="spinner" name="spinner" type="hidden" value="cf5bbe34fc311df8bdaf0515c19c019f">
-      <input class="i-footer-text-field" id="93d24d679671255b60e3456d3b0ec22d" name="93d24d679671255b60e3456d3b0ec22d" placeholder="Your email address" type="text"><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value=""></div>
+      <input id="timestamp" name="timestamp" type="hidden" value="1413006561"><input id="spinner" name="spinner" type="hidden" value="49b53ca871383260b82bce34713d1b9e">
+      <input class="i-footer-text-field" id="f886e907e0bf6898920a65b0a2861670" name="f886e907e0bf6898920a65b0a2861670" placeholder="Your email address" type="text"><div style="position: absolute; left: -2000px;"><input autocomplete="off" id="email" name="email" tabindex="999" type="text" value=""></div>
     </div>
     <div class="i-fixed-width-cell">
-      <a href="#" class="i-cta-1 i-footer-btn js-newsletter-signup">Sign up now</a>
+        <a href="#" class="i-cta-1 i-footer-btn js-newsletter-signup">Sign up now</a>
     </div>
 </form>  <div class="i-footer-note">Private, secure, spam-free</div>
 
@@ -449,21 +537,22 @@ window.gon = {};
           <div class="col-md-3">
             <div class="i-footer-header">Help</div>
             <a href="http://go.indiegogo.com/playbook" class="i-footer-about-link">Crowdfunding Playbook</a>
+            <a href="/trust" class="i-footer-about-link">Trust &amp; Safety</a>
             <a href="http://support.indiegogo.com/hc/en-us" class="i-footer-about-link">Help &amp; Support</a>
             <a href="/contact/questions" class="i-footer-about-link">Contact Us</a>
           </div>
           <div class="col-md-4">
-            <div class="i-footer-header">Get the Latest</div>
-              <div class="i-footer-social-links">
-                <a href="https://twitter.com/indiegogo" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow
-                  @indiegogo</a><br>
-                <a class="i-youtube" href="http://www.youtube.com/subscription_center?add_user=IndiegogoVideo"><img src="//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_61x23_red.png" alt="Subscribe to me on YouTube"></a>
+              <div class="i-footer-header">Get the Latest</div>
+                <div class="i-footer-social-links" footer-share-icons="">
+                  <a href="https://twitter.com/indiegogo" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow
+                    @indiegogo</a><br>
+                  <a class="i-youtube" href="http://www.youtube.com/subscription_center?add_user=IndiegogoVideo"><img src="//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_61x23_red.png" alt="Subscribe to me on YouTube"></a>
 
-                <div class="g-plusone" data-href="http://www.indiegogo.com" data-annotation="none"></div>
-                <br>
+                  <div class="g-plusone" data-href="http://www.indiegogo.com" data-annotation="none"></div>
+                  <br>
 
-                <div class="fb-like" data-href="https://www.facebook.com/indiegogo" data-layout="standard" data-action="like" data-width="240" data-colorscheme="dark" data-show-faces="true" data-share="false"></div>
-              </div>
+                  <div class="fb-like" data-href="https://www.facebook.com/indiegogo" data-layout="standard" data-action="like" data-width="240" data-colorscheme="dark" data-show-faces="true" data-share="false"></div>
+                </div>
           </div>
           <div class="col-md-2">
             <div class="i-footer-header">Language</div>
@@ -497,8 +586,7 @@ window.gon = {};
         </div>
       </div>
       <div class="hidden-xs">
-          <div class="i-footer-trust-bbb js-trust-bbb">
-          </div>
+          <div class="i-footer-trust-bbb js-trust-bbb" footer-trust-bbb=""></div>
       </div>
     </section>
   </div>
@@ -511,7 +599,9 @@ window.gon = {};
   <script src="https://g3.iggcdn.com/assets/hammerjs/hammer-e8c8a4f40d64f68dd18e093812b9a84b.js" type="text/javascript"></script>
   <!--<![endif]-->
 
-  <script src="https://g0.iggcdn.com/assets/igg/site/common-fbdf6bdf70bb9af32fbb450789cb58ad.js" type="text/javascript"></script>
+    <script src="//cdn.optimizely.com/js/216430494.js"></script>
+
+    <script src="https://g1.iggcdn.com/assets/igg/site/common-9d558d6513840543b641b090793685f1.js" type="text/javascript"></script>
   
 
   <script type="text/javascript">
@@ -520,18 +610,17 @@ window.gon = {};
     $(document).ready(function() {
       igg.site.onDocumentReady();
     });
-      new igg.site.Header({
+        new igg.site.Header({
     el: $(".i-page-header"),
     active_search: false
-  }).start();
-
-  $(".i-flash").each(function() {new igg.site.Flash({el: $(this)}).start();});
-  new igg.site.Footer({
-    el: $(".i-footer"),
-    skipTwitterFooterLoad: false,
-    bbbLink: '<a id="bbblink" class="bbb sehzbus" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-services/indiegogo-in-san-francisco-ca-372843#bbblogo" target="_blank"><img id="bbblinkimg" src="//seal-goldengate.bbb.org/logo/sehzbus/indiegogo-372843.png" width="200" height="38" alt="Read Indiegogo’s Better Business Bureau Review"/></a>',
-    trusteLink: '<div id="f11cda4f-ffd6-4d45-b3c3-dea39f0b8194" class="truste"><a href="//privacy.truste.com/privacy-seal/Indiegogo,-Inc-/validation?rid=6d279abc-bf79-4648-bbc3-ac58bb077a34" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Indiegogo,-Inc-/seal?rid=6d279abc-bf79-4648-bbc3-ac58bb077a34" height="38" alt="TRUSTe European Safe Harbor certification"/></a></div>'
-  }).start();
+    }).start();
+    $(".i-flash").each(function() {new igg.site.Flash({el: $(this)}).start();});
+    new igg.site.Footer({
+      el: $(".i-footer"),
+      skipTwitterFooterLoad: false,
+      bbbLink: '<a id="bbblink" class="bbb sehzbus" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-services/indiegogo-in-san-francisco-ca-372843#bbblogo" target="_blank"><img id="bbblinkimg" src="//seal-goldengate.bbb.org/logo/sehzbus/indiegogo-372843.png" width="200" height="38" alt="Read Indiegogo’s Better Business Bureau Review"/></a>',
+      trusteLink: '<div id="f11cda4f-ffd6-4d45-b3c3-dea39f0b8194" class="truste"><a href="//privacy.truste.com/privacy-seal/Indiegogo,-Inc-/validation?rid=6d279abc-bf79-4648-bbc3-ac58bb077a34" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Indiegogo,-Inc-/seal?rid=6d279abc-bf79-4648-bbc3-ac58bb077a34" height="38" alt="TRUSTe European Safe Harbor certification"/></a></div>'
+    }).start();
 
   </script>
 
@@ -559,4 +648,4 @@ window.gon = {};
   
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
