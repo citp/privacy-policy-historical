@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408152112id_/http%3A//www.clarifai.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011095241id_/http%3A//www.clarifai.com/privacy.html) for the most accurate reproduction.*
 
 # Image Classifier Terms
 
