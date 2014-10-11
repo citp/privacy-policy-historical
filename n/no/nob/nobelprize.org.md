@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326100025id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011190730id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,7 +116,7 @@ You may have the ability to view or edit your personal information online. The a
 
 ## Compliance and changes
 
-Nobel Media regularly reviews its compliance with this Privacy Policy. If we receive written complaints at [ comments@nobelprize.org](mailto:comments@nobelprize.org) regarding this policy or our processing of personal information, we generally try to contact the complainant regarding his or her concerns, and will try our best to resolve the complaint.
+Nobel Media regularly reviews its compliance with this Privacy Policy. If we receive written complaints regarding this policy or our processing of personal information, we generally try to contact the complainant regarding his or her concerns, and will try our best to resolve the complaint.
 
 We will occasionally update this policy to reflect changes in the site and to reflect your feedback. When we post changes to this policy, we will revise the ‘last updated’ date at the top of this document. We will post any policy changes on this page prior to implementing the change. We encourage you to periodically review this policy to be informed of how we are protecting your information.
 
@@ -124,7 +124,7 @@ We will occasionally update this policy to reflect changes in the site and to re
 
 **Questions, comments and suggestions**
 
-If you have any questions about this policy, or believe that we have not adhered to it, please send your message to [ comments@nobelprize.org](mailto:comments@nobelprize.org). 
+If you have any questions about this policy, or believe that we have not adhered to it, please [e-mail us](https://web.archive.org/contact/). 
 
 **Ordinary mail  
 **You may also write to us at:   
@@ -133,7 +133,7 @@ Box 5232
 SE-102 45 Stockholm, Sweden 
 
 To cite this page  
-MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2013. Web. 25 Mar 2014. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
+MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2014. Web. 11 Oct 2014. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
 
 * * *
 
