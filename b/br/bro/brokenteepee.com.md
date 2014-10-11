@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brokenteepee.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043225id_/http%3A//www.brokenteepee.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokenteepee.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011133003id_/http%3A//www.brokenteepee.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Broken Teepee: Disclosure and Privacy Policies
+# Broken Teepee: Disclosure & Privacy Policies
 
 **Disclosure Policy**  
 **  
