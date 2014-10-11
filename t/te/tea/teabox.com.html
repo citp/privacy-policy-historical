@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the teabox.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626015434id_/http%3A//www.teabox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teabox.com privacy policy that was archived on 2014-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011034449id_/http%3A//www.teabox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/8955.js?439016" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KHNDV6"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQYHVV9XGwEDUFVTAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/8955.js?439016" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KHNDV6"></script><script type="text/javascript" async="" src="https://d2r1yp2w7bby2u.cloudfront.net/js/a.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQYHVV9XGwEDUFVTAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:15,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:16,ee:"QJf3ax"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:16,2:15,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:16,2:15,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:16,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:9,2:12,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],12:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],15:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],16:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:15,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Teabox Privacy Policy</title>
-<meta name="description" content="World's freshest teas, handpicked and packed by experts, shipped direct from source. Shop online for loose Black, White, Green, Oolong and Chai teas. ">
+<meta name="description" content="World's freshest teas, handpicked and packed by experts, shipped direct from source. Shop online for loose Black Tea, White Tea, Green Tea, Oolong Tea, Chai teas and more! ">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/favicon.ico" type="image/x-icon">
@@ -18,10 +18,10 @@
 </script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/css/jquery/ui-1.9.2.g.css?version=1.0.10" media="all">
-<link rel="stylesheet" type="text/css" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/css/styles.v69.min.css?version=1.0.10" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/css/styles.v77.min.css?version=1.0.10" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/css/common.min.css?version=1.0.10" media="all">
 <link rel="stylesheet" type="text/css" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/css/print.css?version=1.0.10" media="print">
-<script type="text/javascript" src="http://cdn.teabox.com/js/common/common.v14.min.js?version=1.0.10"></script>
+<script type="text/javascript" src="http://cdn.teabox.com/js/common/common.v18.min.js?version=1.0.10"></script>
 <script type="text/javascript" src="http://cdn.teabox.com/js/jquery/ui-1.9.2.min.g.js?version=1.0.10"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://cdn.teabox.com/skin/frontend/enterprise/teabox/css/styles-ie.css?version=1.0.10" media="all" />
@@ -43,81 +43,7 @@ Mage.Cookies.domain   = '.www.teabox.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script><!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" id="inspectletjs">
-	window.__insp = window.__insp || [];
-	__insp.push(['wid', 1600546893]);
-	(function() {
-		function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
-		if (window.attachEvent){
-			window.attachEvent('onload', __ldinsp);
-		}else{
-			window.addEventListener('load', __ldinsp, false);
-		}
-	})();
-</script>
-<!-- End Inspectlet Embed Code --><!-- Fb Product Like-->
-<!-- Fb Product Like--><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-<body class=" cms-page-view cms-privacy">
-      <div class="notifcenter">
-    <div class="notif-container">
-    <div class="left" style="color:#fff">
-        <a href="http://www.teabox.com/contact-us/">Contact</a> | 
-        <a href="http://support.teabox.com/support/solutions/folders/223863" target="_blank">Cancellation &amp; Returns</a>
-    </div>
-                    <section class="referral_link"></section>
-
-                  <div class="newsletter-notif countryLink" id="countryLink"></div>
-    </div>
-  
-</div>
-
- <script type="text/javascript">
- 
-    document.addEventListener('DOMContentLoaded',function(){
-  
-	jQuery.ajax({ url:  "http://www.teabox.com/core/index/loadheaderajax/"+""+createUUID(),
-            type: 'POST',
-            //dataType : 'json',
-            context: document.body,
-            success: function(data){
-            	
-            	obj = JSON.parse(data);
-            	//For store selector
-            	
-            	if(jQuery("#countryLink") && obj.store_selector){
-	                jQuery("#countryLink").empty();
-					jQuery('#countryLink').html(obj.store_selector);
-				}
-				
-				// For referral 
-				
-				jQuery(obj.referral).appendTo(".referral_link");
-                // can remove these lines
-                if (jQuery("#refferalLoginpopup")){
-                    jQuery( "#refferalLoginpopup" ).click(function() {
-                        jQuery('.loginpopup').trigger('click');
-                    });
-                }
-				
-				// For the ajaxCart Login panel
-				
-				jQuery(obj.add_to_cart).appendTo(".header-topCart");
-	        	if(window.location.hash)
-	        		window.location.href = window.location.hash;
-            }
-        })});
-
-function createUUID() {
-   return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-    var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
-    return v.toString(16);
-});
-}
-        
-</script><!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script>
  var _gaq = _gaq || [];
  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -159,7 +85,104 @@ function createUUID() {
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/25261580" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-<!-- BEGIN Inchoo Facebook Connect -->
+
+<!-- Wizrocket -->
+<script type="text/javascript">
+  var wizrocket = {event:[], profile:[], account:[]};
+  wizrocket.account.push({"id":"47K-WK8-4W4Z"});
+  (function() {
+      var wzrk = document.createElement('script'); wzrk.type = 'text/javascript'; wzrk.async = true;
+      wzrk.src = ('https:' == document.location.protocol ? 'https://d2r1yp2w7bby2u.cloudfront.net' : 'http://static.wizrocket.com') + '/js/a.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wzrk, s);
+  })();
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+	window.__insp = window.__insp || [];
+	__insp.push(['wid', 1600546893]);
+	(function() {
+		function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+		if (window.attachEvent){
+			window.attachEvent('onload', __ldinsp);
+		}else{
+			window.addEventListener('load', __ldinsp, false);
+		}
+	})();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+<!-- Extra tag for demis changes on backend -->
+
+<meta name="google-site-verification" content="Q1FNXUSkDF1akFYLp7LdRxbPOnpHFAphW32Dw64UYxY">
+<meta name="yandex-verification" content="62d90efde5a897be">
+
+<!--End of extra meta tags --><!-- Fb Product Like-->
+<!-- Fb Product Like--><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+<body class=" cms-page-view cms-privacy">
+      <div class="notifcenter">
+    <div class="notif-container">
+    <div class="left" style="color:#fff">
+        <a href="http://www.teabox.com/contact-us/">Contact</a> | 
+        <a href="http://www.teabox.com/shipping_delivery/" target="_blank">Shipping</a> |
+        <a href="http://support.teabox.com/support/solutions/folders/223863" target="_blank">Returns</a>
+         <!--<a href="http://www.teabox.com/corporate-gifts/" target="_blank">Corporate Gifts</a> -->
+    </div>
+                    <section class="referral_link"></section>
+
+                  <div class="newsletter-notif countryLink" id="countryLink"></div>
+    </div>
+  
+</div>
+
+ <script type="text/javascript">
+ 
+    document.addEventListener('DOMContentLoaded',function(){
+  
+	jQuery.ajax({ url:  "http://www.teabox.com/core/index/loadheaderajax/"+""+createUUID(),
+            type: 'POST',
+            //dataType : 'json',
+            context: document.body,
+            success: function(data){
+            	
+            	obj = JSON.parse(data);
+            	//For store selector
+            	
+            	if(jQuery("#countryLink") && obj.store_selector){
+	                jQuery("#countryLink").empty();
+					jQuery('#countryLink').html(obj.store_selector);
+				}
+				
+				// For referral 
+				
+				jQuery(obj.referral).appendTo(".referral_link");
+                // can remove these lines
+                if (jQuery("#refferalLoginpopup")){
+                    jQuery( "#refferalLoginpopup" ).click(function() {
+                        jQuery('.loginpopup').trigger('click');
+                    });
+                }
+				
+				// For the ajaxCart Login panel
+				
+				jQuery(obj.add_to_cart).appendTo(".header-topCart");
+                if(window.location.href.split("friendbuy").length>1){
+                    referralFB();
+                }
+	        	if(window.location.hash)
+	        		window.location.href = window.location.hash;
+            }
+        })});
+
+function createUUID() {
+   return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+    var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
+    return v.toString(16);
+});
+}
+        
+</script><!-- BEGIN Inchoo Facebook Connect -->
 <div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 <script type="text/javascript">
 //<![CDATA[
@@ -188,7 +211,12 @@ document.observe('click', function(e){
 		e.stop();
 		try{
 			FB.login(function(response){
-				if(response.status=='connected') setLocation('https://www.teabox.com/facebook/customer_account/connect/');
+				if(response.status=='connected'){
+					 FB.api('/me', function(userData) { 
+						 wizrocket.profile.push({"Facebook": userData}); 
+					});
+					 setLocation('https://www.teabox.com/facebook/customer_account/connect/');
+				}
 			}, {scope: "email,user_birthday"});
 		}catch(error){}
 	}
@@ -292,6 +320,7 @@ jQuery('#newsletter-validate-detail').submit(function(){
 						});
 					}else{
 						ga('send', 'event', 'Newsletter Registration', 'Newsletter Registration', 'Newsletter Failure');
+						wizrocket.event.push("Registration", {"Source": "Subscribe popup"}); 
 						jQuery("#shownewsletter_message").hide();
 						// jQuery("#return-message").append("thank you");
 						jQuery("#news_dialog").dialog('close');
@@ -336,8 +365,10 @@ function isValidEmailAddress(emailAddress) {
 
 		var signupstring = urli.toString().split(window.location.host)[1];
 		var supresspopup = signupstring.indexOf('signup')
+		if(window.location.pathname == "/"){
+			supresspopup = 1;
+		}
 			// console.log("above" + supresspopup)
-
 		if(search == -1 && supresspopup != 1)
 		{
 			// console.log(supresspopup)
@@ -435,9 +466,10 @@ function isValidEmailAddress(emailAddress) {
      </div>
  </div>
   <nav><div class="nav-container">
+<div style="height: 36px;border-bottom: 1px solid #d1d1ce;box-shadow: 0px 5px 13px #e4e4e1;">
 <ul id="nav">
 <li id="4" class="level0 nav-1 first level-top black"><a class="level-top" href="http://www.teabox.com/black"><span>Black</span></a>
-<ul class="submenu" style="display: none;">
+<ul class="submenu" style="display: none;top: 36px;">
 <li>
 <div class="column_grp">
 <h3>Shop Black Tea</h3>
@@ -449,7 +481,6 @@ function isValidEmailAddress(emailAddress) {
 <li class="item"><a href="http://www.teabox.com/black/assam"><span>Assam</span></a></li>
 <li class="item"><a href="http://www.teabox.com/black/kangra"><span>Kangra</span></a></li>
 <li class="first"><a href="http://www.teabox.com/black/nilgiri"><span>Nilgiri</span></a></li>
-<li class="first"><a href="http://www.teabox.com/black/sikkim"><span>Sikkim</span></a></li>
 <li class="last"><a href="http://www.teabox.com/black/nepal"><span>Nepal</span></a></li>
 <li class="last"><a href="http://www.teabox.com/black/north-east-india"><span>North-East India</span></a></li>
 </ul>
@@ -464,14 +495,16 @@ function isValidEmailAddress(emailAddress) {
 <h3><a href="http://www.teabox.com/black">See All Black Teas »</a></h3>
 </div>
 </div>
-<div class="reviewblock"><!--{{block type="catalog/product" name="callout.products" category_id="4" template="callouts/productinmenu.phtml"}}-->
-<div class="productImg"><a href="http://www.teabox.com/tea/singell-summer-darjeeling-black-tea"><img src="http://syndrome.teabox.com/catalog/product/cache/15/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/l/e/leaf_5_18.jpg" width="170" height="170" alt="Singell" (summer)="" darjeeling="" black="" tea=""></a></div><div class="bottomfly_review"><p>LATEST TEA REVIEW</p><p class="product-name"><a href="http://www.teabox.com/tea/singell-summer-darjeeling-black-tea">Singell (Summer) Darjeeling Black Tea</a></p><span class="reviewby"> by <span class="reviewer">Evgeniy</span></span><span class="reviewdesription">excellent musc. aroma, fresh flavor, medium+  strong. 
-It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabox.com/tea/singell-summer-darjeeling-black-tea"><span style="color: #8cc63e;">..Read More »</span></a></span></div></div>
+<div class="reviewblock">
+<a href="http://www.teabox.com/tea/mangalam-gold-summer-assam-black-tea"><h3 style="margin-bottom: 5px;margin-top: 8px;">  2014 Mangalam Gold (Summer) Assam Black Tea </h3></a>
+<p style="margin-bottom: 8px;"> A full bodied, malty tea with a long and firm finish </p>
+<a href="http://www.teabox.com/tea/mangalam-gold-summer-assam-black-tea"><img src="http://cdn.teabox.com/skin/frontend/enterprise/teabox/images/flyouts/01st_September_2014/mangalam.jpg"></a>
+</div>
 </li>
 </ul>
 </li>
 <li id="19" class="level0 nav-2 level-top green"><a class="level-top" href="http://www.teabox.com/green"><span>Green</span></a>
-<ul class="submenu" style="display: none;">
+<ul class="submenu" style="display: none;top: 36px;">
 <li>
 <div class="column_grp">
 <h3>Shop Green Tea</h3>
@@ -480,9 +513,11 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <p class="bold">by variety</p>
 <ul class="level1">
 <li class="first"><a href="http://www.teabox.com/green/darjeeling"><span>Darjeeling</span></a></li>
+<li class="item"><a href="http://www.teabox.com/green/assam"><span>Assam</span></a></li>
 <li class="item"><a href="http://www.teabox.com/green/nilgiri"><span>Nilgiri</span></a></li>
 <li class="item"><a href="http://www.teabox.com/green/kangra"><span>Kangra</span></a></li>
 <li class="item"><a href="http://www.teabox.com/green/nepal"><span>Nepal</span></a></li>
+<li class="item"><a href="http://www.teabox.com/green/green-north-east-india-teas"><span>North-East India</span></a></li>
 </ul>
 </div>
 <div class="thirdcolumn">
@@ -495,13 +530,16 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <h3><a href="http://www.teabox.com/green">See All Green Teas »</a></h3>
 </div>
 </div>
-<div class="reviewblock"><!--{{block type="catalog/product" name="callout.products" category_id="4" template="callouts/productinmenu.phtml"}}-->
-<div class="productImg"><a href="http://www.teabox.com/tea/sample-of-all-green-teas"><img src="http://cdn.teabox.com/catalog/product/cache/15/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/a/f/afgtgtop-view_2_1.jpg" width="170" height="170" alt="Sample" of="" all="" green="" teas=""></a></div><div class="bottomfly_review"><p>LATEST TEA REVIEW</p><p class="product-name"><a href="http://www.teabox.com/tea/sample-of-all-green-teas">Sample of all Green Teas</a></p><span class="reviewby"> by <span class="reviewer">Yokaze</span></span><span class="reviewdesription">If you don't know what you want to try first, you should definitely get this. You can taste everything, side-by-side and <a href="http://www.teabox.com/tea/sample-of-all-green-teas"><span style="color: #8cc63e;">..Read More »</span></a></span></div></div>
+<div class="reviewblock">
+<a href="http://www.teabox.com/tea/himalayan-relish-blend-summer-north-east-green-tea"><h3 style="margin-bottom: 5px;margin-top: 8px;"> 2014 Himalayan Relish Blend (Summer) North-East Green Tea </h3></a>
+<p style="margin-bottom: 8px;">A fresh green tea with vegetal notes and mild astringency </p>
+<a href="http://www.teabox.com/tea/himalayan-relish-blend-summer-north-east-green-tea"><img src="http://cdn.teabox.com/skin/frontend/enterprise/teabox/images/flyouts/01st_September_2014/himalayn-relish.jpg"></a>
+</div>
 </li>
 </ul>
 </li>
 <li id="22" class="level0 nav-3 level-top white"><a class="level-top" href="http://www.teabox.com/white"><span>White</span></a>
-<ul class="submenu" style="display: none;">
+<ul class="submenu" style="display: none;top: 36px;">
 <li>
 <div class="column_grp">
 <h3>Shop White Tea</h3>
@@ -523,13 +561,17 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <h3><a href="http://www.teabox.com/white">See All White Teas »</a></h3>
 </div>
 </div>
-<div class="reviewblock"><!--{{block type="catalog/product" name="callout.products" category_id="4" template="callouts/productinmenu.phtml"}}-->
-<div class="productImg"><a href="http://www.teabox.com/tea/gopaldhara-wonder-spring-darjeeling-white-tea"><img src="http://flash.teabox.com/catalog/product/cache/15/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/l/e/leaf_11_30.jpg" width="170" height="170" alt="2014" gopaldhara="" wonder="" (spring)="" darjeeling="" white="" tea=""></a></div><div class="bottomfly_review"><p>LATEST TEA REVIEW</p><p class="product-name"><a href="http://www.teabox.com/tea/gopaldhara-wonder-spring-darjeeling-white-tea">2014 Gopaldhara Wonder (Spring) Darjeeling White Tea</a></p><span class="reviewby"> by <span class="reviewer">Sebastien </span></span><span class="reviewdesription">Brewed as recommanded (8-10 minutes), this tea is absolutely awesome. Delicious flowery freshness, very long tasting, an <a href="http://www.teabox.com/tea/gopaldhara-wonder-spring-darjeeling-white-tea"><span style="color: #8cc63e;">..Read More »</span></a></span></div></div>
+<div class="reviewblock">
+<a href="http://www.teabox.com/tea/rose-mist-summer-darjeeling-white-tea"><h3 style="margin-bottom: 5px;margin-top: 8px;"> 2014 Rose Mist (Summer) Darjeeling White Tea </h3></a>
+<p style="margin-bottom: 8px;"> An exotic cuppa combining the fragile flavours of white tea with heady scent of roses </p>
+<a href="http://www.teabox.com/tea/rose-mist-summer-darjeeling-white-tea">
+<img src="http://cdn.teabox.com/skin/frontend/enterprise/teabox/images/flyouts/01st_September_2014/rose-mist.jpg"></a>
+</div>
 </li>
 </ul>
 </li>
 <li id="23" class="level0 nav-4 level-top oolong"><a class="level-top" href="http://www.teabox.com/oolong"><span>Oolong</span></a>
-<ul class="submenu" style="display: none;">
+<ul class="submenu" style="display: none;top: 36px;">
 <li>
 <div class="column_grp">
 <h3>Shop Oolong Tea</h3>
@@ -538,6 +580,8 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <p class="bold">by variety</p>
 <ul class="level1">
 <li class="first"><a href="http://www.teabox.com/oolong/darjeeling"><span>Darjeeling</span></a></li>
+<li class="first"><a href="http://www.teabox.com/oolong/oolong-north-east-india-teas"><span>North-East India</span></a></li>
+<li class="first"><a href="http://www.teabox.com/oolong/nepal"><span>Nepal</span></a></li>
 </ul>
 </div>
 <div class="thirdcolumn">
@@ -550,13 +594,17 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <h3><a href="http://www.teabox.com/oolong">See All Oolong Teas »</a></h3>
 </div>
 </div>
-<div class="reviewblock"><!--{{block type="catalog/product" name="callout.products" category_id="4" template="callouts/productinmenu.phtml"}}-->
-<div class="productImg"><a href="http://www.teabox.com/tea/thurbo-summer-darjeeling-oolong-tea"><img src="http://syndrome.teabox.com/catalog/product/cache/15/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/l/e/leaf_13_49.jpg" width="170" height="170" alt="2014" thurbo="" (summer)="" darjeeling="" oolong="" tea=""></a></div><div class="bottomfly_review"><p>LATEST TEA REVIEW</p><p class="product-name"><a href="http://www.teabox.com/tea/thurbo-summer-darjeeling-oolong-tea">2014 Thurbo (Summer) Darjeeling Oolong Tea</a></p><span class="reviewby"> by <span class="reviewer">Erika</span></span><span class="reviewdesription">The smell is sensational, lively and pungetn. It has a thickness and spicyness that other first flushes lack. Beautiful  <a href="http://www.teabox.com/tea/thurbo-summer-darjeeling-oolong-tea"><span style="color: #8cc63e;">..Read More »</span></a></span></div></div>
+<div class="reviewblock">
+<a href="http://www.teabox.com/tea/thurbo-summer-darjeeling-oolong-tea"><h3 style="margin-bottom: 5px;margin-top: 8px;"> 2014 Thurbo (Summer) Darjeeling Oolong Tea </h3></a>
+<p style="margin-bottom: 8px;"> A full bodied and strong oolong tea with a pleasant aftertaste</p>
+<a href="http://www.teabox.com/tea/thurbo-summer-darjeeling-oolong-tea">
+<img src="http://cdn.teabox.com/skin/frontend/enterprise/teabox/images/flyouts/01st_September_2014/oolongs.jpg"></a>
+</div>
 </li>
 </ul>
 </li>
 <li id="24" class="level0 nav-5 level-top chai"><a class="level-top" href="http://www.teabox.com/chai"><span>Chai</span></a>
-<ul class="submenu" style="display: none;">
+<ul class="submenu" style="display: none;top: 36px;">
 <li>
 <div class="column_grp">
 <h3>Shop Chai Tea</h3>
@@ -572,13 +620,17 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <h3><a href="http://www.teabox.com/chai">See All Chai Teas »</a></h3>
 </div>
 </div>
-<div class="reviewblock"><!--{{block type="catalog/product" name="callout.products" category_id="4" template="callouts/productinmenu.phtml"}}-->
-<div class="productImg"><a href="http://www.teabox.com/tea/tulsi-green-indian-chai-tea"><img src="http://syndrome.teabox.com/catalog/product/cache/15/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/l/e/leaf_5_21.jpg" width="170" height="170" alt="2014" tulsi="" green="" indian="" chai="" tea=""></a></div><div class="bottomfly_review"><p>LATEST TEA REVIEW</p><p class="product-name"><a href="http://www.teabox.com/tea/tulsi-green-indian-chai-tea">2014 Tulsi Green Indian Chai Tea</a></p><span class="reviewby"> by <span class="reviewer">Rajesh</span></span><span class="reviewdesription">I have drunk several types of green tea from India, china which has a little bitter taste but this has a rich aroma whic <a href="http://www.teabox.com/tea/tulsi-green-indian-chai-tea"><span style="color: #8cc63e;">..Read More »</span></a></span></div></div>
+<div class="reviewblock">
+<a href="http://www.teabox.com/tea/cardamom-chai-tea"><h3 style="margin-bottom: 5px;margin-top: 8px;">2014 Cardamom Chai Tea </h3></a>
+<p style="margin-bottom: 8px;"> Experience fresh Assam tea with the heady flavour of cardamom </p>
+<a href="http://www.teabox.com/tea/cardamom-chai-tea">
+<img src="http://cdn.teabox.com/skin/frontend/enterprise/teabox/images/flyouts/01st_September_2014/cardamom-chai.jpg"></a>
+</div>
 </li>
 </ul>
 </li>
 <li id="25" class="level0 nav-6 level-top blend"><a class="level-top" href="http://www.teabox.com/blends"><span>Blends</span></a>
-<ul class="submenu" style="display: none;">
+<ul class="submenu" style="display: none;top: 36px;">
 <li>
 <div class="column_grp">
 <h3>Shop Blend Tea</h3>
@@ -588,6 +640,7 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <ul class="level1">
 <li class="first"><a href="http://www.teabox.com/blends/darjeeling"><span>Darjeeling</span></a></li>
 <li class="item"><a href="http://www.teabox.com/blends/assam"><span>Assam</span></a></li>
+<li class="item"><a href="http://www.teabox.com/blends/north-east-blend-teas"><span>North-East India</span></a></li>
 </ul>
 </div>
 <div class="thirdcolumn">
@@ -599,8 +652,12 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <h3><a href="http://www.teabox.com/blends">See All Tea Blends »</a></h3>
 </div>
 </div>
-<div class="reviewblock"><!--{{block type="catalog/product" name="callout.products" category_id="4" template="callouts/productinmenu.phtml"}}-->
-<div class="productImg"><a href="http://www.teabox.com/tea/darjeeling-special-blend-autumn-black-tea"><img src="http://cdn.teabox.com/catalog/product/cache/15/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/l/e/leaf_7_4.jpg" width="170" height="170" alt="Darjeeling" special="" blend="" (autumn)="" black="" tea=""></a></div><div class="bottomfly_review"><p>LATEST TEA REVIEW</p><p class="product-name"><a href="http://www.teabox.com/tea/darjeeling-special-blend-autumn-black-tea">Darjeeling Special Blend (Autumn) Black Tea</a></p><span class="reviewby"> by <span class="reviewer">Kunuri</span></span><span class="reviewdesription">Taking in the aroma, it was definitely characteristic of a third flush tea: a dry aroma, not very woody so much as husky <a href="http://www.teabox.com/tea/darjeeling-special-blend-autumn-black-tea"><span style="color: #8cc63e;">..Read More »</span></a></span></div></div>
+<div class="reviewblock">
+<a href="http://www.teabox.com/tea/darjeeling-china-blend-spring-black-tea"><h3 style="margin-bottom: 5px;margin-top: 8px;">2014 Darjeeling China Blend (Spring) Black Tea</h3></a>
+<p style="margin-bottom: 8px;"> A perfect pick-me-up tea for the mornings, with a fresh taste and strong finish</p>
+<a href="http://www.teabox.com/tea/darjeeling-china-blend-spring-black-tea">
+<img src="http://cdn.teabox.com/skin/frontend/enterprise/teabox/images/flyouts/01st_September_2014/blend.jpg"></a>
+</div>
 </li>
 </ul>
 </li>
@@ -615,7 +672,31 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <li><a href="http://www.teabox.com/sale"><span>Sale</span></a></li>
 </ul>
 </div>
-</div></nav>
+</div>
+
+<!-- submenu block -->
+<div style="margin-top: 5px;padding: 5px;">
+<ul id="chotu-menu">
+<li><a href="http://www.teabox.com/morning"><span>Breakfast Teas</span></a></li><li><a><span>|</span></a></li>
+<li><a href="http://www.teabox.com/lunchtime"><span>Afternoon Teas</span></a></li><li><a><span>|</span></a></li>
+<li><a href="http://www.teabox.com/teabox-evening-teas"><span>Evening Teas</span></a></li><li><a><span>|</span></a></li>
+<li><a href="http://www.teabox.com/organic-teas"><span>Organic Teas</span></a></li><li><a><span>|</span></a></li>
+<!--<li><a href="http://www.teabox.com/"><span>Diwali Teas</span></a></li>-->
+<li><a href="http://www.teabox.com/corporate-gifts"><span>Corporate Gifts</span></a></li><li><a><span>|</span></a></li>
+<li><a href="http://www.teabox.com/free-samples"><span>Free Samples</span></a></li>
+
+
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+</div>
+<style type="text/css">
+	#chotu-menu li{float: left;padding: 0 15px 5px 15px;text-transform: uppercase;color: #909090;}
+	#chotu-menu li span{color: #909090;font:normal 12px AvenirLTStd95Black;}
+	#chotu-menu li a{text-decoration: none;}
+</style></nav>
   </div>
 </header>
 <!-- Google Tag Manager -->
@@ -684,10 +765,10 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
             </ul>
 </div>
                 <div class="col-main">
-                                            <div class="page-title">
+                    <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                        <div class="page-title">
         <h1>Teabox Privacy Policy</h1>
     </div>
-<div class="std"><p style="font-style: normal; font-weight: normal; page-break-inside: avoid;"><span style="color: #301207; font-size: small;"><br></span><span style="font-size: small;"><span style="color: #301207;"><span style="font-family: arial, helvetica, sans-serif;">Teabox.com is committed to protecting the privacy of visitors to this site (the "Site"). At Teabox.com, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link.</span></span><span style="font-family: arial, helvetica, sans-serif;">&nbsp;</span></span></p>
+<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><p style="font-style: normal; font-weight: normal; page-break-inside: avoid;"><span style="color: #301207; font-size: small;"><br></span><span style="font-size: small;"><span style="color: #301207;"><span style="font-family: arial, helvetica, sans-serif;">Teabox.com is committed to protecting the privacy of visitors to this site (the "Site"). At Teabox.com, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link.</span></span><span style="font-family: arial, helvetica, sans-serif;">&nbsp;</span></span></p>
 <p style="page-break-inside: avoid;"><span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;"><span style="color: #333333;"><span style="font-style: normal;"><span style="font-weight: normal;">Note:</span></span></span></span></span></p>
 <ul style="color: #301207;">
 <li>Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.</li>
@@ -729,14 +810,14 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 				<section>
 					<h3>Connect with us</h3>
 					<ul>
-						<li><a href="https://www.facebook.com/teabox.tea" target="_blank" class="footer-fb" title="Facebook">Facebook</a></li>
-						<li><a href="http://www.twitter.com/TeaBoxInt" target="_blank" class="footer-twitter" title="Twitter">Twitter</a></li>
-						<li><a href="https://plus.google.com/u/2/+TeaboxTeas/about" target="_blank" class="footer-google-plus" title="Google Plus">Google Plus</a></li>
+						<li><a href="https://www.facebook.com/teabox.tea" target="_blank" class="footer-fb" title="Facebook" rel="nofollow">Facebook</a></li>
+						<li><a href="http://www.twitter.com/TeaBoxInt" target="_blank" class="footer-twitter" title="Twitter" rel="nofollow">Twitter</a></li>
+						<li><a href="https://plus.google.com/u/2/+TeaboxTeas/about" target="_blank" class="footer-google-plus" title="Google Plus" rel="nofollow">Google Plus</a></li>
 				<!--li><a href="http://www.flickr.com/" class="footer-flickr"></a></li>
 				<li><a href="#" class="footer-qic"></a></li>
 				<li><a href="http://pinterest.com" class="footer-pinterest"></a></li -->
 				</ul>
-				<div class="fb-like" data-href="https://www.facebook.com/teabox.tea" data-width="47" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+				<div class="fb-like" data-href="https://www.facebook.com/teabox.tea" data-width="47" data-layout="button_count" data-show-faces="false" data-send="false" rel="nofollow"></div>
 			</section>
 		</div>
 	</div>
@@ -751,6 +832,7 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <li><a href="http://www.teabox.com/oolong">Oolong Tea</a></li>
 <li><a href="http://www.teabox.com/white">White Tea</a></li>
 <li><a href="http://www.teabox.com/chai">Chai Tea</a></li>
+<li><a href="http://www.teabox.com/free-samples">Free Samples</a></li>
 </ul>
 <ul class="wid100">
 <li><a href="http://www.teabox.com/estates"><strong>By Region</strong></a></li>
@@ -758,7 +840,7 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <li><a href="http://www.teabox.com/estates/assam">Assam</a></li>
 <li><a href="http://www.teabox.com/estates/nilgiri">Nilgiri</a></li>
 <li><a href="http://www.teabox.com/estates/kangra">Kangra</a></li>
-<li><a href="http://www.teabox.com/estates/sikkim">Sikkim</a></li>
+<li><a href="http://www.teabox.com/estates/north-east-india">North East</a></li>
 </ul>
 <ul class="wid100">
 <li><a><strong>By Speciality</strong></a></li>
@@ -778,6 +860,8 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <li><a href="http://www.teabox.com/testimonial">Testimonials</a></li>
 <li><a href="http://www.teabox.com/blog">Blog</a></li>
 <li><a href="http://www.teabox.com/wholesale">Wholesale</a></li>
+<li><a href="http://www.teabox.com/brewing">Brewing</a></li>
+<li><a href="http://www.teabox.com/careers">Careers</a></li>
 </ul>
 </div>
 <div class="footer-customer-service">
@@ -799,20 +883,36 @@ It's not a "typical 2nd, summer tea", Singell has it's <a href="http://www.teabo
 <li><a href="http://www.teabox.com/privacy">Privacy Policy</a></li>
 </ul>
 </div>					</div>
+	<div class="footer footer-seo">
+					<h4 style="
+		color: grey;
+		padding-bottom: 9px; text-align: left;
+		font-size: 13px;
+		">TEABOX DIRECTORY</h4>
+		<div style="
+		text-align: left; 
+		"><strong><a href="http://www.teabox.com/black">BLACK TEA : </a></strong> <a href="http://www.teabox.com/black/darjeeling"> Darjeeeling Black </a> | <a href="http://www.teabox.com/black/assam"> Assam Black</a> |<a href="http://www.teabox.com/black/nilgiri"> Nilgiri Black</a> |<a href="http://www.teabox.com/black/kangra"> Kangra Black</a> | <a href="http://www.teabox.com/black/north-east-india"> North East India Black</a> | <a href="http://www.teabox.com/black/nepal"> Nepal Black </a> | <a href="http://www.teabox.com/black/first-flush">First Flush Spring Black </a> | <a href="http://www.teabox.com/black/second-flush"> Second Flush Summer Black </a> | <a href="http://www.teabox.com/black/autumn-flush"> Autumn Flush Black </a> </div>
+
+		<div style="text-align: left;"><strong> <a href="http://www.teabox.com/green">GREEN TEA : </a></strong> <a href="http://www.teabox.com/green/darjeeling"> Darjeeeling Green </a> | <a href="http://www.teabox.com/green/green-north-east-india-teas"> North East India Green </a> | <a href="http://www.teabox.com/green/nilgiri"> Nilgiri Green</a> |<a href="http://www.teabox.com/green/kangra"> Kangra Green</a>  | <a href="http://www.teabox.com/green/nepal"> Nepal Green </a> | <a href="http://www.teabox.com/green/first-flush">First Flush Spring Green</a> | <a href="http://www.teabox.com/green/second-flush"> Second Flush Summer Green </a> | <a href="http://www.teabox.com/green/autumn-flush"> Autumn Flush Green </a> </div>
+
+		<div style="text-align: left;"><strong><a href="http://www.teabox.com/white">WHITE TEA : </a></strong> <a href="http://www.teabox.com/white/darjeeling"> Darjeeeling White </a> | <a href="http://www.teabox.com/white/assam"> Assam White </a> |<a href="http://www.teabox.com/white/nilgiri"> Nilgiri White</a>  | <a href="http://www.teabox.com/white/first-flush">First Flush Spring White</a> | <a href="http://www.teabox.com/white/second-flush"> Second Flush Summer White </a>  </div>
+
+		<div style="text-align: left;"><strong> <a href="http://www.teabox.com/oolong"> OOLONG TEA : </a></strong> <a href="http://www.teabox.com/oolong/darjeeling"> Darjeeeling Oolong Tea </a> | <a href="http://www.teabox.com/oolong/oolong-north-east-india-teas"> North-East India Oolong Tea </a> | <a href="http://www.teabox.com/oolong/first-flush">First Flush Spring Oolong Tea</a> | <a href="http://www.teabox.com/oolong/second-flush"> Second Flush Summer Oolong Tea </a> | <a href="http://www.teabox.com/oolong/autumn-flush"> Autumn Flush Oolong Tea </a> </div>
+		
+		<div style="text-align: left;"><strong> <a href="http://www.teabox.com/chai"> CHAI TEA :  </a></strong><a href="http://www.teabox.com/chai"> </a><a href="http://www.teabox.com/chai/black"> Black Chai Tea</a> | <a href="http://www.teabox.com/chai/green"> Green Chai Tea </a> | <a href="http://www.teabox.com/chai/white"> White Chai Tea</a> |<a href="http://www.teabox.com/chai/oolong">  Oolong Chai Tea </a> </div>
+
+		<div style="text-align: left;"><strong><a href="http://www.teabox.com/blends">BLENDS TEA : </a></strong> <a href="http://www.teabox.com/blends/darjeeling"> Darjeeeling Blends Tea </a> | <a href="http://www.teabox.com/blends/assam"> Assam Blends Tea </a> |<a href="http://www.teabox.com/blends/north-east-blend-teas "> North East India Blends</a> | <a href="http://www.teabox.com/blends/first-flush">First Flush Spring Blends Tea</a> | <a href="http://www.teabox.com/blends/second-flush"> Second Flush Summer Blends Tea </a> </div>
+                 
+               <div style="text-align: left;"><strong> <a href="http://www.teabox.com/sitemap"> Sitemap </a></strong> </div>
+		<br>				
+	</div>
 </div>
 <div class="c-footer">
 
-	<div class="c-footer-content" style="color:lightgrey;font-size:11px;">
-		
-		
-
-
-		
-	</div>
 	<div class="c-footer-content">
 		<section>
 			<!-- <div class="f-left countryLink" id="countryLink"></div> -->
-			<address class="copyright f-left">Copyright © 2014 Teabox</address>
+			<address class="copyright f-left">Copyright © 2012-2014 Teabox</address>
 			
 			<div class="f-right payment-method-logo">&nbsp;</div>
 		</section>
@@ -964,8 +1064,17 @@ var contactForm = new VarienForm('contactForm', true);
 		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 }
 
-</script>   <!-- ENDFooterContainer -->
-        <script type="text/javascript">
+</script>
+<style>
+	.footer-seo a{
+		color:grey;
+		font-size:10px;
+		font-family: arial;
+		font-style: normal;
+		font-weight: normal;
+	}
+</style>   <!-- ENDFooterContainer -->
+        <!--{WISHLISTS_c40f368fe8faca13e871b294da0d5c10}--><!--/{WISHLISTS_c40f368fe8faca13e871b294da0d5c10}--><script type="text/javascript">
 document.addEventListener('DOMContentLoaded',function(){
 //<![CDATA[    
     var searchFieldId = 'search';
@@ -980,16 +1089,16 @@ document.addEventListener('DOMContentLoaded',function(){
 </script>
 
 <div id="layerpop">
-	<div id="popup" class="pop signuppop">
+	<div id="popup" class="pop signuppop" style="width:811px;">
 		<div style="" class="ajaxlogin-loader"> </div>
-		<div id="popupLogin">
+		<div id="popupLogin" style="float:left;">
 			<div class="popheader">
 				<a href="javascript:void(0);" class="closePopUp"></a>
-				<h2>Member Sign In</h2>
+				<h2>Already a member? Log in</h2>
 			</div>
-			<div class="popupbody-container">
+			<div class="popupbody-container" style="padding-right: 50px;">
 					<form name="login-formajax" id="login-formajax" method="post" data-target="#secureframe" enctype="multipart/form-data"> 
-						<div class="loginForm popupDeviderRgt pr20">
+						<div class="loginForm popupDeviderRgt pr20" style="padding-right:0px;width: 315px;">
 							<div id="loginerror" style="display:none;"></div>								
 							<dl class="clearfix mt11">
 								<dd>
@@ -1001,8 +1110,8 @@ document.addEventListener('DOMContentLoaded',function(){
 									<input class="input-text required-entry validate-password" type="password" id="password" name="" placeholder="Password">
 								</dd>
 							</dl>
-							<dl class="clearfix" style="border-bottom: 1px solid lightgrey; padding-bottom: 5px;
-margin-right: 15px;">
+							<dl class="clearfix" style="border-bottom: 1px solid lightgrey; padding-bottom: 12px;
+margin-right: 15px;margin-bottom: 15px;">
 							<dd>
 								<span class="f-left">
 								<a href="javascript:void(0);" class="openforgot"> Forgot password?</a>
@@ -1011,14 +1120,14 @@ margin-right: 15px;">
 							</dl>							
 							<dl class="clearfix a-center">
 								<button type="submit" name="submit" class="button">
-									<span><span>Login</span></span>
+									<span><span style="font: 14px/20px Arial,Helvetica,sans-serif;">Login</span></span>
 								</button>
 								<span style="padding-left: 12px;padding-right: 12px;">&nbsp;</span>
-								<button class="facebook_button facebooklBg" title="Connect with Facebook" type="button" rel="facebook-connect"><span></span></button>							
+								<button class="facebook_button facebooklBg" title="Connect with Facebook" type="button" rel="facebook-connect"><span style="font: 14px/20px Arial,Helvetica,sans-serif;"></span></button>							
 							</dl>
 								
 											<dl class="clearfix a-center">
-							<span>Not a member yet? <a href="javascript:void(0)" class="enableRegDiv">Sign Up Now!</a></span>
+							<!--<span>Not a member yet? <a href="javascript:void(0)" class="enableRegDiv">Sign Up Now!</a></span>-->
 						</dl>
 									
 
@@ -1026,18 +1135,19 @@ margin-right: 15px;">
 			<iframe id="secureframe" name="secureframe" style="display:none"></iframe>
 		</div>
 		</div>
-
-		<div id="popupReg" style="display:none">
-			<div class="popheader">
+		<div id="popup-or-block" style="position: absolute;right: 394px;top: 111px;border: solid #A7A7A7 1px;border-radius: 35px;padding: 8px;background: white;"><h3 style="color:#A7A7A7;margin-bottom:0px">OR</h3>
+		</div>
+		<div id="popupReg" style="display:inline-block; border-left:dotted #A7A7A7 1px;width:415px;">
+			<div class="popheader" style=" border-radius: 0 10px 0 0;">
 				<a href="javascript:void(0);" class="closePopUp"></a>
-				<h2>Teabox</h2>
+				<h2>Not a member yet? Sign up!</h2>
 			</div>
-			<div class="popupbody-container">				
+			<div class="popupbody-container" style="padding-left:50px;">				
 						<div class="">
-						<h2 class="mb14 mt11">World's Freshest Teas, Join now!</h2>
+						<!--<h2 class="mb14 mt11">World's Freshest Teas, Join now!</h2>-->
 							<form name="signup-formajax" id="signup-formajax" data-target="#secureframe" method="post" enctype="multipart/form-data"> 
 								<div id="registererror" style="display:none;"></div>
-								<div class="loginForm popupDeviderRgt pr20">
+								<div class="loginForm popupDeviderRgt pr20" style="padding-right:0px;">
 									<dl class="clearfix mt11 mb15">
 										<dd>		<input type="text" class="text required-entry" id="signname" name="name" placeholder="First Name">
 										</dd>
@@ -1055,22 +1165,23 @@ margin-right: 15px;">
 									
 									<dl class="clearfix mb15 a-center">
 										<button type="submit" name="submit" class="button">
-											<span><span>Sign Up</span></span>
+											<span><span style="font: 14px/20px Arial,Helvetica,sans-serif;">Sign Up</span></span>
 										</button>
 										<span style="padding-left: 12px;padding-right: 12px;">&nbsp;</span>
-										<button class="facebook_button facebooklBg" title="Connect with Facebook" type="button" rel="facebook-connect"><span></span></button>
+										<button class="facebook_button facebooklBg" title="Connect with Facebook" type="button" rel="facebook-connect"><span style="font: 14px/20px Arial,Helvetica,sans-serif;"></span></button>
 									</dl>
 								</div>
 							</form>
 						</div>
 						<iframe id="secureframe" name="secureframe" style="display:none"></iframe>
 						<dl class="clearfix mb15 a-center">
-							<span>Already a Member? &nbsp;	<a href="javascript:void(0);" class="enableLoginDiv unitalicized"><span><span>Login</span></span></a>
-							</span>
+							<!--<span>Already a Member? &nbsp;	<a href = "javascript:void(0);" class="enableLoginDiv unitalicized"><span><span>Login</span></span></a>
+							</span>-->
 						</dl>
 
 			</div>
 		</div>
+
 		<div id="popupForgot" style="display:none">
 		<div class="popheader">
 				<a href="javascript:void(0);" class="closePopUp"></a>
@@ -1079,7 +1190,7 @@ margin-right: 15px;">
 			<div class="popupbody-container">
 				<form method="post" id="form-forgot-pass" name="forgot-password-name">
 					<div class="loginForm popupDeviderRgt pr20">
-						<dl>Please enter your email address below. You will receive a link to reset your password.</dl>
+						<dl>Please enter your email address below and we'll send you a link to reset your password.</dl>
 						<dl class="clearfix mt11">
 							<dd>
 								<input type="text" name="email" alt="email" id="email_address" class="input-text required-entry validate-email" value="" placeholder="Email">
@@ -1158,7 +1269,24 @@ margin-right: 15px;">
 				var errmsg = data.substring(11,data.length);
 				jQuery('.closePopUp').trigger('click');
 				document.getElementById('loginerror').innerHTML = "<span class='sucsMsg'>Logged in Successfully</span>";
-				document.getElementById('loginerror').style.display = 'block';					
+				document.getElementById('loginerror').style.display = 'block';		
+				
+				(function() {
+				  var _fbq = window._fbq || (window._fbq = []);
+				  if (!_fbq.loaded) {
+				    var fbds = document.createElement('script');
+				    fbds.async = true;
+				    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				    var s = document.getElementsByTagName('script')[0];
+				    s.parentNode.insertBefore(fbds, s);
+				    _fbq.loaded = true;
+				  }
+				})();
+				window._fbq = window._fbq || [];
+				window._fbq.push(['track', '6013144267622', {'value':'0.00','currency':'SGD'}]);	
+				var image = new Image(1,1);
+				image.src = "//www.facebook.com/offsite_event.php?id=6013144267622&amp;value=0&amp;currency=SGD";		
+				
 				window.location.reload(true);		
 			}
 		}
@@ -1427,6 +1555,7 @@ return false;
 			data: {'email':email,'password':rpwd,'name':uname},
 			xhrFields: {withCredentials: true},
 			success: function(data){
+				wizrocket.event.push("Registration", {"Source": "Popup"}); 
 				jQuery($iframes).contents().find('body').append(data);
 			// 	jQuery('.closePopUp').bind('click',function() {
 			// 		jQuery('#popup').hide(5);
@@ -1595,6 +1724,6 @@ function setGuestCustomer(){
 
         </div>
         
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"75cb555927","applicationID":"2344173","transactionName":"ZVMGYENQWkRUB00MXFwZMUZYHl1ZUQFBS0NaRg==","queueTime":0,"applicationTime":22,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"75cb555927","applicationID":"2344173","transactionName":"ZVMGYENQWkRUB00MXFwZJVdFWFtZGgdUFhxCVwNRHkddUkI=","queueTime":0,"applicationTime":607,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-460.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-460.min.js"></script></body></html>
