@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625173348id_/http%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011091655id_/http%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Lessons Learned in Life | Privacy Policy
 
@@ -55,5 +55,3 @@ If you would like to remove your name and e-mail address from our **Lessons Lear
 #### Who can I ask if I have any additional questions?
 
 If you have any further questions or concerns about **Lessons Learned In Life** ’s privacy policies and use of personal information, please send them to [info@lessonslearnedinlife.com](mailto:%20info@lessonslearnedinlife.com)
-
-3,155 total views, 63 views today
