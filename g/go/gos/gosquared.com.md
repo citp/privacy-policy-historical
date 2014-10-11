@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosquared.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209153749id_/https%3A//www.gosquared.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosquared.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011145755id_/https%3A//www.gosquared.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Legal - GoSquared
 
@@ -136,8 +136,13 @@ The UK's Data Protection Act 1998 (the "Act") may give you the right to access P
 
 ### Contact us
 
-If you have questions or concerns about GoSquared's Privacy Policy or data processing, please contact us at our address below, or via email at [support@gosquared.com](mailto:support@gosquared.com) or call us on 01732 865449. The GoSquared Support Team will respond to your inquiry as soon as possible (usually in a few hours).
+If you have questions or concerns about GoSquared's Privacy Policy or data processing, please contact us at our address below, or via email at [support@gosquared.com](mailto:support@gosquared.com) or call us on +44 (0) 20 8144 0401. The GoSquared Support Team will respond to your inquiry as soon as possible (usually in a few hours).
 
 The address to write to is:
 
-GoSquared Ltd., 3 Barn Hawe, High Street, Edenbridge, Kent, England, TN8 5AQ
+GoSquared Ltd.,  
+3 Barn Hawe, High Street,  
+Edenbridge,  
+Kent,  
+England,  
+TN8 5AQ
