@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145151id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011043458id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - LendUp
 
@@ -12,10 +12,10 @@ LendUp collects two types of information to create the best customer experience:
 
 LendUp uses personal information as required by state and federal regulators to assure we are promoting safe and responsible lending.
 
-When you first apply for a LendUp loan, we ask you to create an account and then ask you to supply certain personal information. We use this information:
+When you first apply for a loan or other service via the LendUp website (www.lendup.com), we ask you to create an account and then ask you to supply certain personal information. We use this information:
 
   * to verify (as much as reasonably possible) that it is you, rather than someone else, that is applying for the loan in your name
-  * to determine your eligibility for the loan under the law and whether you can afford it
+  * to determine your eligibility for the for the requested loan (or other service we provide via our website) under the law and whether you can afford it
   * to maintain your account
   * to communicate with you about your account
   * to securely process the funding and repayment transactions to which you and we might agree
@@ -34,6 +34,8 @@ The types of personal information we collect for these purposes can include:
 LendUp may also obtain more information about applicants from third parties to help us validate this information. We also collect tokens from online services and payment systems.
 
 After you become a customer by taking out a LendUp loan, we use your information for transaction processing and to communicate with you.
+
+After you become a LendUp customer by obtaining a loan or other service we provide via our website, we use your information for transaction processing and to communicate with you.
 
 ### 2\. Website Usage Information
 
@@ -61,7 +63,7 @@ When you enter personally identifiable information on our registration page we u
 
 LendUp uses computer safeguards such as firewalls and data encryption, and authorizes access to personal information only for those employees who require it to fulfill their job responsibilities. Our data is encrypted before, during and after it is submitted to have the best protection of your information. Only authorized employees can access the data and they must submit multiple forms of identity verification before accessing any information.
 
-LendUp does not store payment or related personal data at its office.
+LendUp does not store payment or related personal data at our offices.
 
 Instead of storing payment information on company systems, LendUp stores this information in PCI DSS Level 1 certified secure data centers located only in the United States. This information is protected by physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. Our data is stored in a physically protected environment. Physical access is strictly controlled.
 
@@ -71,11 +73,13 @@ LendUp encrypts and securely transmits user payment information to the banking n
 
 LendUp does not share a user's personal or financial information with other customers or users. It is your responsibility to protect your account access codes, including your username and password, so others can’t access your account.
 
-#### LendUp Does Not Sell Your Info To Third Parties
+#### LendUp Does Not Sell Your Information To Third Parties
 
 LendUp takes your privacy seriously and does not sell your data to third parties.
 
 LendUp may share personal information with partners under contract who help with certain parts of our business operations including application evaluation, customer services, payment, fraud prevention, secure data storage, collections and other similar services.
+
+Regarding Texas customer information, LendUp may share your personal information with the lender with which you apply for a loan or from which you obtain a loan via our website using our credit services. You can find such lender’s privacy policy via hyperlinks on our Consumer Disclosures for CAB Credit Services web page or hyperlinks on your loan agreement.
 
 LendUp will only use personal information in connection with the services LendUp provides. LendUp may share personal information in the event of a merger or acquisition. Should such an event occur, LendUp will seek to require that the new combined entity follow our privacy policy with respect to personal information you have provided.
 
@@ -85,10 +89,10 @@ LendUp will not sell or rent any of your personal information to third parties i
 
 #### LendUp Allows You to Control Your Account
 
-LendUp allows you to manage your account and information on www.lendup.com. Once you login you may update your personal information, assuming your account is in good standing. In that case, we will retain only the personal information required by law or that we deem necessary.
+LendUp allows you to manage your account and information on www.lendup.com. Once you log in you may update your personal information, assuming your account is in good standing. In that case, we will retain only the personal information required by law or that we deem necessary.
 
 #### LendUp Publishes Our Privacy Policy For Everyone To See
 
-You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20140626145151id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
+You can always see the most updated changes to the LendUp Privacy Policy on [www.lendup.com](https://web.archive.org/web/20141011043458id_/https%3A//www.lendup.com/en/www.lendup.com) or by contacting LendUp at [privacy@lendup.com](mailto:privacy@lendup.com). In the event we modify our privacy policy, we may contact you via email and provide you with notice of the change and a link to review the new privacy policy.
 
-Last Updated: 05/19/2015
+Last Updated: 07/10/2014
