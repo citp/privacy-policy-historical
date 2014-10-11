@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209133100id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011192825id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Help | Northern Tool + Equipment
 
@@ -29,6 +29,8 @@ Burnsville, MN 55337-0219
 ## Opting Out of Third-party Services
 
 To learn more about Adobe Site Catalyst, their privacy policies or how to opt-out of their services please go to: [http://www.adobe.com/privacy.html](http://www.adobe.com/privacy/opt-out.html#4)
+
+To learn more about Criteo, their privacy policies or how to opt-out of their services please go to: <http://www.criteo.com/en/privacy-policy>
 
 ## Will Northern Tool + Equipment sell my email address?
 
