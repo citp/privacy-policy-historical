@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfpa.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008223328id_/http%3A//crowdfpa.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfpa.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011062427id_/http%3A//crowdfpa.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdfpa.com - Premium Banner and Link Directory
 
