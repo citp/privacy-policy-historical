@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the datersearch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150152id_/http%3A//members.datersearch.com/doc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datersearch.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013005629id_/http%3A//members.datersearch.com/doc/privacy.php) for the most accurate reproduction.*
 
 # 
 
 ## Privacy Policy
 
-Datersearch.com (‘Website’), owned, managed, and operated by Boss Marketing LLC (‘Company’ or ‘We’ or ‘Our’ or ‘Us’), a company registered in Nevada, is an online platform offering dating services to a mature audience. We give top priority to the online privacy of the users of this Website (‘You’ or ‘Your’). In pursuance thereof, this Privacy Policy (‘Policy’) will inform You about Our general practices pertaining to personal and non-personal information - collection, usage, protection and disclosure.
+Datersearch.com (‘Website’), owned, managed, and operated by Boss Marketing LLC (‘Company’ or ‘We’ or ‘Our’ or ‘Us’), a company registered in Delaware, is an online platform offering dating services to a mature audience. We give top priority to the online privacy of the users of this Website (‘You’ or ‘Your’). In pursuance thereof, this Privacy Policy (‘Policy’) will inform You about Our general practices pertaining to personal and non-personal information - collection, usage, protection and disclosure.
 
 We reserve the right to update, change, and modify this Policy at any time without assigning any reason to anyone and in Our sole discretion. However, We may post any major changes and modifications to this Policy on the Website homepage demanding Your attention. All such modifications shall be posted on this page and shall be effective from the time of such posting. Your continued use of the Website signifies Your implied acceptance of such modified Policy. We, therefore, encourage You to visit this page often to remain updated on all such modifications
 
@@ -77,4 +77,6 @@ No personal information shall be disclosed to anyone, except –
 
 **Contact Us**
 
-Still concerned about Your privacy, please feel free to drop in Your queries [here](mailto:support@star-help.com).
+Still concerned about Your privacy, please feel free to drop in Your queries [here](mailto:support@star-help.com). Physical mailing address: 2915 Ogletown Road, #1792. Newark, DE 19713
+
+To unsubscribe from our mailing list, simply visit our support site at: [star-help.com](http://star-help.com/). From this page you're able to one-click unsubscribe from all future mailings.
