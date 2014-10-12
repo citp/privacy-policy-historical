@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qut.edu.au privacy policy that was archived on 2014-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528174116id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qut.edu.au privacy policy that was archived on 2014-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141012112816id_/https%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -13,6 +13,7 @@
 
 <!-- Global main //-->
 <meta name="DC.Title" content="Privacy">
+<meta name="responsive-title" content="Privacy">
 <meta name="description" content="how your privacy is treated on our website">
 <meta name="DC.Creator.personalname" scheme="qut-ldap" content=" ">
 <meta name="DC.Creator.corporateName" scheme="qut-orgname" content="">
@@ -21,7 +22,7 @@
 <meta name="DC.Type.documentType" scheme="agls-document" content="promotional">
 <meta name="DC.Date.valid" scheme="ISO8601" content="2011-07-15">
 <meta name="DC.Date.created" scheme="ISO8601" content="2011-06-23">
-<meta name="DC.Date.modified" scheme="ISO8601" content="2013-11-06">
+<meta name="DC.Date.modified" scheme="ISO8601" content="2014-06-24">
 <meta name="DC.Publisher" content="Queensland University of Technology">
 <meta name="DC.Identifier" scheme="URI" content="https://www.qut.edu.au/additional/privacy">
 <meta name="robots" content="ALL">
@@ -140,9 +141,9 @@
 <!-- Mobile JS include - only turned on with fun.mobile-design -->
 <script type="text/javascript">
 // Mobile Javascript functions for qut CMS
-// Adam Ware MAY 2014 
+// Adam Ware July 2014 
 
-pageHasMobileMetadata = '';
+pageHasMobileMetadata = 'standard';
 pageIsDebug = null;
 pageIsDebug = getParameterByName('viewMobile');
 
@@ -150,7 +151,7 @@ if (checkIfEasyEdit()) {
     if (isCoursesPages()) {
         globalDoMobile();
     } else if (pageIsDebug == 'true') {
-        globalDoMobile('debug');
+        globalDoMobile('section-home');
     } else if (pageHasMobileMetadata && pageHasMobileMetadata == 'standard') {
         globalDoMobile();
     } else if (pageHasMobileMetadata && pageHasMobileMetadata == 'corpsite-home') {
@@ -165,7 +166,7 @@ if (checkIfEasyEdit()) {
         globalDoMobile('corpsite-home-new');
     } else if (pageHasMobileMetadata == '' || pageHasMobileMetadata == 'no') {
         $(function() {
-            $('header, footer').css({width:'100%','min-width':'1024px'});
+            $('header, footer').css({width:'100%','min-width':'1100px'});
         });
     }
 }
@@ -203,8 +204,10 @@ function globalDoMobile(actions) {
                 $(significantDescriptionEmbiggen);
                 break;
             case 'debug':
-                $('head').append('<link rel="stylesheet" media="screen and (min-width:0px) and (max-width:640px)" href="https://dev-external-apps.qut.edu.au/mobile/test.css" />');
-                $(testNew);
+                $('head').append('<link rel="stylesheet" media="screen and (min-width:0px) and (max-width:640px)" href="/?a=348719"/>');
+                $('head').append('<link rel="stylesheet" media="screen and (min-width:0px) and (max-width:640px)" href="/?a=347542"/>');
+                $(givingMobile);
+                $(significantDescriptionEmbiggen);
                 break;
             case 'corpsite-home-new':
                 $('head').append('<link rel="stylesheet" media="screen and (min-width:0px) and (max-width:1024px)" href="/?a=355988" />');
@@ -221,27 +224,24 @@ function globalDoMobile(actions) {
     } else {
         $(function() {
             $('header, footer').css({width:'100%','min-width':'1024px'});
+            $('#footer-supplementary-wrapper').css('min-width','1060px');
+            $('#footer-supplementary-2').append('<p id="mobile-desktop-view-desktop"><a href="#" id="change-view" alt="View as Mobile">View as Mobile</a></p>');
+
+            $('#change-view').click(function() {
+                if (readCookie('desktop') === 'true') {
+                    eraseCookie('desktop');
+                    trace('deleting cookie');
+                }
+                location.reload();
+            });
         });
     }
 }
 
-function testNew() {
-    if ($('#mobile-menu').length == 0) {
-        $('#mobile-body').after('<div id="mobile-dropdown"><ul></ul></div>');
-        $('#mobile-dropdown ul').append('<li><a id="qut-home" href="//www.qut.edu.au">QUT Home</a></li>');
-        $('#portal-links').children().clone().appendTo('#mobile-dropdown ul');
-        $('#menu').children().clone().appendTo('#mobile-dropdown ul');
-    }
-    $('#portal-links').off('click');
-    $('#portal-links').click( function() {
-        $('#mobile-dropdown').toggle();
-        $(this).toggleClass('menu-active');
-    });
-}
 
 function newMobileMenu() {
-    $('#mobile-body').after('<div id="mobile-dropdown"><ul></ul></div>');
-    // $('#mobile-dropdown ul').append('<li><a id="qut-home" href="//www.qut.edu.au">QUT Home</a>');
+    // $('#mobile-body').after('<div id="mobile-dropdown"><ul></ul></div>');
+    $('body').append('<div id="mobile-dropdown"><ul></ul></div>');
     $('#top-nav ul').children('li').slice(0,7).clone().appendTo('#mobile-dropdown ul');
     $('#mobile-dropdown ul').append('<li><a id="students" href="http://www.student.qut.edu.au">Current students</a></li><li><a id="staff" href="http://www.intranet.qut.edu.au/">Current staff</a></li>');
     $('#top-nav').click( function() {
@@ -259,30 +259,36 @@ function newMobileMenu() {
 
 }
 
+function mobileEverything() {
+    trace('mobileEverything');
+}
+
 // ************************************** // 
 // *****         Mobile INT       ******* //
 // ************************************** // 
 function mobileInit() {
-    if ($('#mobile-links').css('display') != 'none') {
+    // if ($('#mobile-links').css('display') != 'none') {
 
-        if ($('#mobile-body').length == 0) {
-            $('body script').remove();
-            $('body').children().wrapAll("<div id='mobile-body'></div>");
-        }
-    }
-    $('#portal-links').click(function() {
-        if ($('#mobile-links').css('display') != 'none') {
-            if (($('#mobile-menu').length == 0 || $('#mobile-menu.menu').length == 0) && $(window).width() <= 640) {
-                slideMenuIn();
-            } else {
-                slideMenuOut();
-            }
-            return false;
-        }
-    });
+    //     if ($('#mobile-body').length == 0) {
+    //         // Do not remove, wrapping the body causes everything to be re-run
+    //         $('body script').remove();
+    //         $('body').children().wrapAll("<div id='mobile-body'></div>");
+    //     }
+    // }
+    // $('#portal-links').click(function() {
+    //     if ($('#mobile-links').css('display') != 'none') {
+    //         if (($('#mobile-menu').length == 0 || $('#mobile-menu.menu').length == 0) && $(window).width() <= 640) {
+    //             slideMenuIn();
+    //         } else {
+    //             slideMenuOut();
+    //         }
+    //         return false;
+    //     }
+    // });
 
     $('#footer-supplementary-2')
         .append('<p id="mobile-desktop-view"><a href="#" id="change-view" alt="View as Desktop">View as Desktop</a></p>');
+    $('mobile-desktop-view').show();
     $('#change-view').click(function() {
         if (readCookie('desktop') === null) {
             createCookie('desktop', 'true', 365);
@@ -566,30 +572,29 @@ function doRightMove(e, item) {
         }
     }
 }
-function slideMenuIn() {
-    if ($('#mobile-body').length == 0) {
-        $('body script').remove();
-        $('body').children().wrapAll("<div id='mobile-body'></div>");
-    }
-    if ($('#mobile-menu').length == 0) {
-        $('#mobile-body').after('<div id="mobile-menu"><ul></ul></div>');
-        $('#mobile-menu ul').append('<li><a id="qut-home" href="//www.qut.edu.au">QUT Home</a></li>');
-        $('#portal-links').children().clone().appendTo('#mobile-menu ul');
-        $('#menu').children().clone().appendTo('#mobile-menu ul');
-    }
-    $('#mobile-menu').addClass('menu');
-    $('#mobile-body').addClass('menu');
-    $('#mobile-menu').removeAttr('style'); // reset any height modifications of the menu
-    if ($('#mobile-menu').height() < $(window).height()) {
-        $('#mobile-menu').height($(window).height());
-    }
-}
+// function slideMenuIn() {
+//     if ($('#mobile-body').length == 0) {
+//         $('body').children().wrapAll("<div id='mobile-body'></div>");
+//     }
+//     if ($('#mobile-menu').length == 0) {
+//         $('#mobile-body').after('<div id="mobile-menu"><ul></ul></div>');
+//         $('#mobile-menu ul').append('<li><a id="qut-home" href="//www.qut.edu.au">QUT Home</a></li>');
+//         $('#portal-links').children().clone().appendTo('#mobile-menu ul');
+//         $('#menu').children().clone().appendTo('#mobile-menu ul');
+//     }
+//     $('#mobile-menu').addClass('menu');
+//     $('#mobile-body').addClass('menu');
+//     $('#mobile-menu').removeAttr('style'); // reset any height modifications of the menu
+//     if ($('#mobile-menu').height() < $(window).height()) {
+//         $('#mobile-menu').height($(window).height());
+//     }
+// }
 
-function slideMenuOut() {
-    $('#mobile-menu').removeClass('menu');
-    $('#mobile-body').removeClass('menu');
+// function slideMenuOut() {
+//     $('#mobile-menu').removeClass('menu');
+//     $('#mobile-body').removeClass('menu');
 
-}
+// }
 
 function shouldMoveMenu() {
     return $('.content-tabs').width() >= $(window).width();
@@ -676,25 +681,7 @@ function studyAreaExpander() {
         }
 
     }
-    // if ($('#right-col .section-heading').length) {
-    //     $(window).on('load resize', function() { 
-    //          if ($(window).width() <= 640) { 
-    //             if (!arrow_showing) {
-    //                 $('#landing-menu').hide();
-    //                 $('.section-heading').toggleClass('extra-margin-for-the-pushing');
-    //                 $('#right-col .section-heading').append('<div class="research-expander-menu"></div>').click(function() {
-    //                     $('#content #middle-col #right-col #landing-menu').slideToggle('fast');
-    //                     $('.research-expander-menu').toggleClass('ul-showing2 ');
-    //                     $('.section-heading').toggleClass('extra-margin-for-the-pushing');
-    //                 });
-    //                 arrow_showing = true;
-    //             }
-    //          } else {
-    //             arrow_showing = false;
-    //              $('#landing-menu').show();
-    //          }
-    //     });
-    // }
+
 }
 // Where am I breadcrumb backgrounds 
 function apply_breadcrumb_colours() {
@@ -809,19 +796,7 @@ function givingMobile() {
     }
 
 }
-// function addMobileLink() {
-//     if (readCookie('desktop') === 'true') {
-//         $('#footer-supplementary ul').append('<li id="change-view"><a>Mobile View</a></li>');
-//         $('#change-view').click(function() {
-//             if (readCookie('desktop') === null) {
-//                 createCookie('desktop', 'true', 365);
-//             } else if (readCookie('desktop') === 'true') {
-//                 eraseCookie('desktop');
-//             }
-//             location.reload();
-//         });
-//     }
-// }
+
 // QUT homepage scripts - dom moves etc
 function QUThomepage() {
     // custom functions to test homepage design
@@ -877,7 +852,17 @@ function sectionHomepage() {
     // custom functions to test homepage design
     var textFromPromo = $('.promo-content').filter(':first').html();
     var textFromTitle = 'QUT Corporate Site';
-    $('#promo-area').after('<div id="after-promo-mobile-text">' + textFromPromo + '</div>');
+
+    if(!typeof textFromPromo === 'undefined'){
+        $('#promo-area').after('<div id="after-promo-mobile-text">' + textFromPromo + '</div>');
+     } else {
+        $('#promo-area').css('margin-top','3px');
+        $('#search-and-links .col h3 a').css('padding-top','10px');
+        $('#search-and-links .col p').css('margin-top','3px');
+        $('#search-and-links .col-1').css('margin-top','20px');
+        $('.carousel').carousel('pause');
+     }
+
     runHomePageMobile = null;
     if ($(window).width() <= 640) {
         runHomePageMobile = true;
@@ -947,7 +932,7 @@ function sectionHomepage() {
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 28 May 2014 10:37:36
+  Page generated: 12 October 2014 21:11:20
 -->
 
 
@@ -1033,7 +1018,7 @@ var isNewDesign = true;
             <h3><a href="https://www.qut.edu.au/study/events">Events</a></h3>
             <p>Discover our campuses, courses and entry requirements.</p>
             <h3>Contact</h3>
-            <p class="last" style="line-height: 1.3em;">Email: <a href="mailto:askqut@qut.edu.au">askqut@qut.edu.au</a><br> Phone: +61 7 3138 2000<br> Mon - Fri, 8.30am-5pm</p>
+            <p class="last" style="line-height: 1.3em;">Email: <a href="mailto:askqut@qut.edu.au">askqut@qut.edu.au</a><br> Phone: +61 7 3138 2000<br> Mon-Fri, 8.30am-5pm</p>
         </div>
     </div>
 </div>  
@@ -1131,7 +1116,7 @@ var isNewDesign = true;
         <h3><a href="https://www.qut.edu.au/about/jobs">Jobs at QUT</a></h3>
         <p>Want to work with us? See available jobs.</p>
         <h3>Contact</h3>
-        <p class="last" style="line-height: 1.3em;">Email: <a href="mailto:askqut@qut.edu.au">askqut@qut.edu.au</a><br> Phone: +61 7 3138 2000<br> Mon - Fri, 8.30am-5pm</p>
+        <p class="last" style="line-height: 1.3em;">Email: <a href="mailto:askqut@qut.edu.au">askqut@qut.edu.au</a><br> Phone: +61 7 3138 2000<br> Mon-Fri, 8.30am-5pm</p>
       </div>
     </div>
   </div>
@@ -1168,14 +1153,14 @@ var isNewDesign = true;
           <li><a href="https://www.qut.edu.au/alumni/global-engagement">Alumni around the globe</a></li>
         </ul>
         <h3>Contact</h3>
-        <p class="last" style="line-height: 1.3em;">Email: <a href="mailto:alumni@qut.edu.au">alumni@qut.edu.au</a><br> Phone: +61 7 3138 4778<br> Mon - Fri, 8.30am - 5pm</p>            
+        <p class="last" style="line-height: 1.3em;">Email: <a href="mailto:alumni@qut.edu.au">alumni@qut.edu.au</a><br> Phone: +61 7 3138 4778<br> Mon-Fri, 8.30am-5pm</p>            
       </div>
       <div class="col-regular last">
         <h3>Alumni profiles</h3>
-        <img alt="" src="https://www.qut.edu.au/_designs/css/corpsite/corpsite-home-page.css/outstanding-alumni-john-barrow-rod-sheard.jpg">
-        <p>John Barrow and Rod Sheard won the 2013 Outstanding Alumni Award for their contributions to architecture.</p>
+        <img alt="" src="https://cms.qut.edu.au/__data/assets/image/0006/384369/greg-creed-megamenu.jpg">
+        <p>Greg Creed won the 2014 QUT Alumnus of the Year Award for his achievements in business.</p>
         <ul>
-          <li><a href="https://www.qut.edu.au/alumni/alumni-achievers/outstanding-alumni/2013-winners">All 2013 Outstanding Alumni Award winners</a></li>
+          <li><a href="https://www.qut.edu.au/alumni/alumni-achievers/outstanding-alumni/2014-winners">All 2014 Outstanding Alumni Award winners</a></li>
         </ul>
       </div>
     </div>
@@ -1216,17 +1201,17 @@ var isNewDesign = true;
         <div class="col-narrow">
           <h3><a href="https://www.qut.edu.au/international/qut-and-brisbane">QUT and Brisbane</a></h3>
           <p>Find out more about living and studying in Brisbane.</p>
-          <h3><a href="https://www.qut.edu.au/international/preparing-to-travel-to-brisbane">Preparing to travel</a></h3>
-          <p>Things you need to know before you come to Australia.</p>
           <h3><a href="https://www.qut.edu.au/international/student-support-and-orientation">Support and orientation</a></h3>
-          <p class="last">While you're studying here, you can access a range of support services to help you adjust to life in Brisbane.</p>
+          <p>While you're studying here, you can access a range of support services to help you adjust to life in Brisbane.</p>
+          <h3><a href="https://www.qut.edu.au/international/study-abroad-and-exchange">Study abroad and exchange</a></h3>
+          <p class="last">Come to QUT for one or two semesters.</p>
         </div>
         <div class="col-narrow last">
           <h3>Contact</h3>
           <p style="border: none; padding: 0 0 5px 0;">Online: <a href="https://www.qut.edu.au/international/enquire">Enquiry form for international students</a></p>
           <p style="border: none; padding: 0 0 5px 0;">Freecall: 1800 181 848<br> (within Australia)</p>
           <p style="border: none; padding: 0 0 5px 0;">Phone: +61 3 9627 4853<br> (outside Australia)</p>
-          <p class="last">Mon - Fri, 8.30am-5pm</p>
+          <p class="last">Mon-Fri, 8.30am-5pm</p>
         </div>
       </div>
   </div>
@@ -1257,12 +1242,12 @@ var isNewDesign = true;
         </div>
         <div class="col-regular">
           <h3>Events</h3><ul class="event-listing">
-    <li><a href="/about/events/events?news-id=68376">WOOD: art design architecture @ QUT Art Museum</a></li>
-<li><a href="/about/events/events?news-id=73119">Grand Challenge Lecture @ QUT Gardens Point</a></li>
-<li><a href="/about/events/events?news-id=73116">Game Tech Brisbane Meetup @ QUT Gardens Point</a></li>
-<li><a href="/about/events/events?news-id=73120">Plant Anatomy short course @ QUT Gardens Point</a></li>
-<li><a href="/about/events/events?news-id=72538">Essentially Dance featuring QUT Dance students</a></li>
-<li><a href="/about/events/events?news-id=72317">QUT actors star in Mnemonic @ The Loft</a></li>
+    <li><a href="/about/events/events?news-id=77535">Nick Parnell: Vibes Virtuoso</a></li>
+<li><a href="/about/events/events?news-id=76875">Learning Potential Fund Breakfast with Josie Thomson @ Room Three Sixty</a></li>
+<li><a href="/about/events/events?news-id=79995">2014 QUT Alumni Volunteer &amp; Donor Reception @ Gardens Point</a></li>
+<li><a href="/about/events/events?news-id=79504">QUT bluebox innovation challenge @ Gardens Point </a></li>
+<li><a href="/about/events/events?news-id=78441">Postgraduate Options Online Evening @ your place!</a></li>
+<li><a href="/about/events/events?news-id=80015">Steve Nevey “The difference between success and failure” @ Science and Engineering Centre</a></li>
 
 </ul>
 <script type="text/javascript">
@@ -1280,15 +1265,7 @@ $('.event-listing span.newsdate').each(function(){
           </ul>
         </div>
         <div class="col-regular last">
-          <h3>Find an expert</h3><form method="get" name="search" action="/about/news/expert-guide">
-    <label class="hide" for="news-mm-search-query">Search for an expert</label>
-    <input type="text" id="news-mm-search-query" class="search-input" name="keywords">
-    <input name="sq_content_src" type="hidden" value="%2BdXJsPWh0dHAlM0ElMkYlMkZjbXMtYXBwcy5xdXQuZWR1LmF1JTJGZXhwZXJ0Z3VpZGUlMkZndWlkZSUyRmluZGV4LmpzcCZhbGw9MQ%3D%3D">
-    <input name="expertAreaId" type="hidden" value="0">
-    <input name="search" type="hidden" value="search">
-    <input name="submitted" type="hidden" value="true">
-    <input type="submit" value="Submit" class="search-submit">
-</form>          <h3>Contact our media team</h3>
+          <h3>Find an expert</h3><form method="get" name="search" action="https://www.qut.edu.au/about/news/expert-guide">	<label class="hide" for="news-mm-search-query">Search for an expert</label> 	<input type="text" id="news-mm-search-query" class="search-input" name="keywords">	<input type="submit" value="Submit" class="search-submit">		<div style="display:block; width: 240px; margin: 4px 0 10px 3px">		<strong><label style="margin-left: 3px; margin-bottom: 3px" for="news-mm-search-expert-area" class="">Area of Expertise</label></strong>		<select style="width: 240px" name="expertAreaId" id="news-mm-search-expert-area"><option value="0">All</option><option value="37">Aboriginal &amp; Indigenous Issues</option><option value="32">Advertising, Marketing &amp; PR</option><option value="4">Aerospace &amp; Aviation</option><option value="3">Agriculture &amp; Farming</option><option value="1">Animals &amp; Veterinary Science</option><option value="39">Archaeology &amp; Anthropology</option><option value="2">Arts &amp; Culture</option><option value="45">Astronomy &amp; Space</option><option value="47">Beach, Reef &amp; Marine Issues</option><option value="35">Building &amp; Construction</option><option value="5">Business &amp; Management</option><option value="49">Children &amp; Childcare</option><option value="38">Defence</option><option value="57">Dentistry</option><option value="6">Design, Architecture &amp; Planning</option><option value="42">Drugs</option><option value="7">Economics &amp; Finance</option><option value="8">Education</option><option value="9">Employment &amp; IR</option><option value="10">Engineering</option><option value="11">Entertainment &amp; Media</option><option value="12">Environment</option><option value="41">Ethics</option><option value="48">Fashion</option><option value="56">Fertility &amp; Reproduction</option><option value="43">Foreign Countries &amp; People</option><option value="34">Foreign Language &amp; Culture</option><option value="62">Forensic Accounting</option><option value="63">Gender Issues</option><option value="27">History</option><option value="14">Human Rights &amp; Civil Liberties</option><option value="61">Information Management</option><option value="15">Information Technology</option><option value="50">Insurance</option><option value="16">International Relations </option><option value="54">Language &amp; Literacy</option><option value="17">Law, Crime &amp; Justice</option><option value="30">Literature &amp; Publishing</option><option value="29">Mathematics &amp; Statistics</option><option value="33">Media &amp; Journalism</option><option value="18">Medicine &amp; Medical Research</option><option value="19">Mining &amp; Energy</option><option value="31">Music</option><option value="36">Palaeontology</option><option value="22">Politics &amp; Government</option><option value="58">Population &amp; Demography</option><option value="23">Psychology &amp; Psychiatry</option><option value="53">Real Estate</option><option value="21">Religion &amp; Theology</option><option value="20">Road Safety &amp; Motoring</option><option value="24">Science &amp; Technology</option><option value="46">Social Issues &amp; Public Policy</option><option value="26">Sociology</option><option value="25">Sport</option><option value="44">Telecommunications</option><option value="28">Tourism</option><option value="55">Transport</option><option value="59">Wine &amp; Viticulture</option></select>	</div>		<input name="search" type="hidden" value="search"> 	<input name="submitted" type="hidden" value="true"></form><br>          <h3>Contact our media team</h3>
           <p style="border: none; line-height: 1.3em;">Email: <a href="mailto:media@qut.edu.au">media@qut.edu.au</a><br> Phone: +61 7 3138 2361</p>
         </div>
       </div>
@@ -1628,7 +1605,7 @@ Brisbane QLD 4001
             <ul id="last-modified">
                 <li><abbr title="Commonwealth Register of Institutions and Courses for Overseas Students">CRICOS</abbr> No. 00213J</li>
                 <li><abbr title="Australian Business Number">ABN</abbr> 83 791 724 622</li>
-                <li class="modified"> Last modified: 22 May 2014</li>
+                <li class="modified"> Last modified: 16 July 2014</li>
             </ul>
             <ul class="supplementary-links">
                 <li><a href="https://www.qut.edu.au/additional/accessibility">Accessibility</a></li>
@@ -1643,20 +1620,25 @@ Brisbane QLD 4001
             </div>
         </div>
         <div id="footer-supplementary-2">
-            <h3>Get in touch</h3>
-            <ul>
-                <li><a href="https://www.qut.edu.au/about/contact">Contact us</a></li>
-                <li><a href="https://www.qut.edu.au/about/contact/leave-feedback">Leave feedback</a></li>
-                <li><a href="https://www.qut.edu.au/additional/stay-connected">Sign up for email updates</a></li>
-            </ul>
-            <ul id="footer-social-media-links">
-                <li id="facebook-footer-icon"><a href="http://www.facebook.com/QUTBrisbane"><img src="https://cms.qut.edu.au/__data/assets/image/0003/5826/facebook-icon-footer.png" alt="QUT on Facebook"></a></li>
-                <li id="twitter-footer-icon"><a href="http://twitter.com/qut"><img src="https://cms.qut.edu.au/__data/assets/image/0004/5827/twitter-icon-footer.png" alt="QUT on Twitter"></a></li>
-                <li id="youtube-footer-icon"><a href="http://www.youtube.com/user/TheQUTube"><img src="https://cms.qut.edu.au/__data/assets/image/0005/5828/youtube-icon-footer.png" alt="The QUTube"></a></li>
-                <li id="itunesu-footer-icon"><a href="http://itunes.apple.com/au/institution/queensland-university-of-technology/id456443622"><img src="https://cms.qut.edu.au/__data/assets/image/0006/5829/itunesu-icon-footer.png" alt="QUT on iTunes U"></a></li>
-                <li id="linkedin-footer-icon"><a href="http://www.linkedin.com/company/165624"><img src="https://cms.qut.edu.au/__data/assets/image/0016/30814/linkedin-icon-footer.png" alt="QUT on LinkedIn"></a></li>
-            </ul>
-            <p><a href="https://www.qut.edu.au/about/social-media">Connect on social media</a></p>  
+            <div id="mobile-footer-in-touch">
+                <h3>Get in touch</h3>
+                <ul>
+                    <li><a href="https://www.qut.edu.au/about/contact">Contact us</a></li>
+                    <li><a href="https://www.qut.edu.au/about/contact/leave-feedback">Leave feedback</a></li>
+                    <li><a href="https://www.qut.edu.au/additional/stay-connected">Sign up for email updates</a></li>
+                </ul>
+            </div>
+            <div id="mobile-footer-social-media">
+                <ul id="footer-social-media-links">
+                    <li id="facebook-footer-icon"><a href="http://www.facebook.com/QUTBrisbane"><img src="https://cms.qut.edu.au/__data/assets/image/0003/5826/facebook-icon-footer.png" alt="QUT on Facebook"></a></li>
+                    <li id="twitter-footer-icon"><a href="http://twitter.com/qut"><img src="https://cms.qut.edu.au/__data/assets/image/0004/5827/twitter-icon-footer.png" alt="QUT on Twitter"></a></li>
+                    <li id="youtube-footer-icon"><a href="http://www.youtube.com/user/TheQUTube"><img src="https://cms.qut.edu.au/__data/assets/image/0005/5828/youtube-icon-footer.png" alt="The QUTube"></a></li>
+                    <li id="itunesu-footer-icon"><a href="http://itunes.apple.com/au/institution/queensland-university-of-technology/id456443622"><img src="https://cms.qut.edu.au/__data/assets/image/0006/5829/itunesu-icon-footer.png" alt="QUT on iTunes U"></a></li>
+                    <li id="linkedin-footer-icon"><a href="http://www.linkedin.com/company/165624"><img src="https://cms.qut.edu.au/__data/assets/image/0016/30814/linkedin-icon-footer.png" alt="QUT on LinkedIn"></a></li>
+                </ul>
+                <p><a href="https://www.qut.edu.au/about/social-media">Connect on social media</a></p>  
+                
+            </div>
         </div>
       </div>
     </div>
