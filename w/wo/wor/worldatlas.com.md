@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629084318id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012024357id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # worldatlas.com and graphic maps privacy policy
 
@@ -7,9 +7,9 @@
 We created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for our web site 
 
 **Advertising Cookies**   
-This site has contracted with MediaShift.com to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website.   
+This site has contracted with advertising partners to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website.   
   
-Where authorized by us, MediaShift.com may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser.   
+Where authorized by us, our advertising partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser.   
   
 **Order Forms**   
 Our site uses an order form for customers to request information, products, and services. We collect contact information ( _like their email address_ ). 
@@ -32,10 +32,9 @@ This site contains links to other sites. Graphicmaps.com is not responsible for 
 **Choice/Opt-Out**   
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us 
 
-  1. You can send email to [jm@worldatlas.com](mailto:jm@worldatlas.com)
-  2. You can send mail to the following postal address:  2724 61st Street, Suite B, #107, Galveston, Texas 77551 
+  1. You can send email to [info@worldatlas.com](mailto:info@worldatlas.com)
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you should contact: [jm@worldatlas.com](mailto:jm@worldatlas.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you should contact:[info@worldatlas.com](mailto:info@worldatlas.com)
 
 worldatlas.com web hosting by [**TVCNet.com**](http://www.tvcnet.com/)
