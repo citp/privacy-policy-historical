@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012074119id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
+
+# The Zebra - Privacy Policy
+
+## WHAT INFORMATION DOES THE ZEBRA COLLECT?
+
+"Personal Information" means any information that may be used to identify an individual or your account, including, but not limited to, first and last name, home or other physical address, email address and password, phone number, age information, social security number, tax identification number, policy and/or driving record information, credit information, and credit card or other payment information. We may ask you to provide Personal Information that will enable us to enhance your use of the Service, for purposes such as facilitating correspondence with you, registering your entitlement to access certain special features, or to complete transactions. It is always your choice whether or not to provide that Personal Information. If you choose not to provide requested Personal Information, you may not be able to use certain features of the Service.
+
+Technical Information. We may collect and use technical data and related information—including but not limited to technical information about your device(s), system and application software, and peripherals—that is gathered periodically to facilitate the provision of software updates, product support, and other services to you (if any) related to the Service. We may also automatically receive and record information on our server logs from your browser, which could include your IP address, cookie information, browser information, and the page you request. We do not deem this information to constitute Personal Information and while we will not use it in a way that associates such information with you, such information may be aggregated and used. The Zebra owns this information and may use it in any manner it deems appropriate.
+
+Location Based Information. You also acknowledge and agree that The Zebra may collect location-based data from you through the Service ("Location Based Information").
