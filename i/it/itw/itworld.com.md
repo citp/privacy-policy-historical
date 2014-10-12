@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627051909id_/http%3A//www.itworld.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012231701id_/http%3A//www.itworld.com/about/privacy-policy) for the most accurate reproduction.*
 
 # ITworld | IT news, technology analysis and how-to resources
 
-## **ONLINE PRIVACY POLICY**
+**ITworld, Inc.**
 
-This website (“Website”) and associated websites are maintained by:
+**492 Old Connecticut Path**
 
-**ITworld, Inc.**  
-**5 Speen Street**  
 **Framingham, MA 01701-9192**
 
 The publisher of this Website (“Publisher”) collects personally identifying information and data about individuals, their company, and their company's demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with the Publisher, (ii) when you register or sign up on one of our Websites, or when you register for any other IDG Publishing Network products individually or through auto register, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
@@ -34,7 +32,7 @@ The aggregated information we collect is used for a number of purposes including
 
 4\. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit <http://www.google.com/doubleclick/>.
 
-5\. The Publisher has contracted with DoubleClick to serve all advertising on our Website itself and through its e-mail newsletters and other products. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on our Website aren't connected with personally identifiable information collected either on our Website or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit http://www.google.com/doubleclick/. We use web metric vendors to gather information to help us understand how users utilize our Website and other electronic products. 
+5\. The Publisher has contracted with DoubleClick to serve all advertising on our Website itself and through its e-mail newsletters and other products. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on our Website aren't connected with personally identifiable information collected either on our Website or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit <http://www.google.com/doubleclick/>. We use web metric vendors to gather information to help us understand how users utilize our Website and other electronic products. 
 
 6\. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of the Publisher, its sister IDG companies, or select organizations. 
 
@@ -50,7 +48,7 @@ E-mail addresses may be collected from our online users (and as applicable, our 
 
 (*If, however, you are a registered user and have indicated, either in response to a question asked during the registration process in place prior to the date this policy was last updated (see the date posted at the end of the policy), or otherwise, that you do not wish to allow your email address to be rented and/or licensed for use by outside firms, your email address will not be rented and/or licensed for use.)
 
-Users who later decide they want to change any of their preferences may do so at <http://www.itworld.com/newsletters> and http://optouts.itworld.com/index.html?dept_id=43
+Users who later decide they want to change any of their preferences may do so at <http://www.itworld.com/newsletters> and <http://optouts.itworld.com/index.html?dept_id=43>
 
 Online users who are also print subscribers should refer to the print subscriber section of this policy which contains information on how to remove your name from our promotion list). 
 
@@ -100,9 +98,12 @@ We may use or disclose personally identifying information if we have a good-fait
 
 Print subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
 
-**IDG Enterprise**  
-**Circulation Department**  
-**PO Box 9208**  
+**IDG Enterprise**
+
+**Circulation Department**
+
+**PO Box 9208**
+
 **Framingham, MA 01701**
 
 (Print subscribers who are also online users should refer to the online section of this policy which contains information on changing your online preferences). 
@@ -113,7 +114,7 @@ Below is the current policy regarding the usage of personally identifying inform
 
 **About the IDG Publishing Network**
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, InfoWorld, Computerworld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, computerworld.com, infoworld.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at www.idg.com.
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, InfoWorld, Computerworld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, computerworld.com, infoworld.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/ "www.idg.com").
 
 To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and, to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time.
 
@@ -121,10 +122,12 @@ You can "opt-out" of receiving further email by clicking the appropriate links t
 
 The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
 
-If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to postmasterhelp@idgcommunications.com or write to us at:
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [postmasterhelp@idgcommunications.com](mailto:postmasterhelp@idgcommunications.com) or write to us at:
 
-**IDG Communications, Inc.**  
-**Customer Service, TSG Department**  
+**IDG Communications, Inc.**
+
+**Customer Service, TSG Department**
+
 **5 Speen St., Framingham MA 01701**
 
 **Last updated** : January 11, 2011
