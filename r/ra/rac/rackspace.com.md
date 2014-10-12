@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229031513id_/http%3A//www.rackspace.com/information/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012221849id_/http%3A//www.rackspace.com/information/legal/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | Rackspace Legal | Rackspace Hosting
 
@@ -25,7 +25,7 @@ Generally, we may collect information about you in the following manners: 
 
 You may visit our Websites in any of the following ways:
 
-  * By using your browser to navigate to our Websites including (but not limited to) [www.rackspace.com](http://www.rackspace.com/); [www.rackspace.co.uk](http://www.rackspace.co.uk/); [www.rackspace.nl](http://www.rackspace.nl/); [www.rackspace.hk](http://www.rackspace.hk/); [www.jungledisk.com](http://www.jungledisk.com/); [www.rackspacecloud.com](http://www.rackspacecloud.com/); [www.my.rackspace.com](http://www.my.rackspace.com/); [www.go.mosso.com](http://www.go.mosso.com/); [www.slicehost.com](http://www.slicehost.com/);[www.manage.slicehsot.com](http://www.manage.slicehsot.com/); [ www.api.slicehost.com](http://www.api.slicehost.com/).
+  * By using your browser to navigate to our Websites including (but not limited to) [www.rackspace.com](http://www.rackspace.com/); [www.rackspace.co.uk](http://www.rackspace.co.uk/); [www.rackspace.nl](http://www.rackspace.nl/); [www.rackspace.hk](http://www.rackspace.hk/); [www.jungledisk.com](http://www.jungledisk.com/); [www.rackspacecloud.com](http://www.rackspacecloud.com/); [my.rackspace.com](http://my.rackspace.com/); [www.slicehost.com](http://www.slicehost.com/).
   * By viewing an advertisement displayed on a third party website that is served content by our web server; 
   * By viewing an email that is served content by our or a third party web server.
 
