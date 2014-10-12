@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the salesuperstore.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012054553id_/http%3A//salesuperstore.com/privacy-policy) for the most accurate reproduction.*
+
+# SaleSuperStore
+
+We, at Salesuperstore, respect your privacy and understand the importance of protecting your personal information, and we stand behind the trust that our customers have placed in us. Maintaining your privacy and trust is very important to us. We reserve the right to modify, alter or otherwise update this policy at any time, so we encourage you to check back periodically so that you are always aware of our most current policies regarding your privacy. 
+
+We may collect personally identifiable information from you, such as your name, email address, physical address, phone number…We may use information you provide to us for a variety of purposes, including to help us learn about your shopping preferences; to help us improve our websites, stores, products and services; and to enhance your shopping experience. All personally identifiable and non-personally identifiable information we collect about you may be shared with our affiliates and subsidiaries. We may also share personally identifiable and non-personally identifiable information about you with unaffiliated third parties for purposes of providing services to us. 
+
+Like most websites, we may place cookies on your computer to collect information about how you use our websites. The information that we collect about you through cookies is not personally identifiable. We use cookies for a variety of purposes, such as to improve the quality of our services and the design and content of our websites; to track user trends; to enable us to provide a more personalized experience when you browse our website. 
+
+Please be aware that our websites contains links to other websites hosted by third parties. We do not control, and are not responsible for, the content or privacy practices and policies of such third party websites. This Privacy Policy does not describe the information collection and disclosure practices of such third parties. We encourage you to review the privacy policies of such third party websites.
