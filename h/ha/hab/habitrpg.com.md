@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitrpg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625003204id_/https%3A//habitrpg.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitrpg.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013001027id_/https%3A//habitrpg.com/static/privacy) for the most accurate reproduction.*
 
 # HabitRPG | Privacy
 
