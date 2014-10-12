@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyshares.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330215036id_/https%3A//www.realtyshares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyshares.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012230057id_/https%3A//www.realtyshares.com/privacy) for the most accurate reproduction.*
 
 # RealtyShares - Privacy Policy
 
@@ -161,7 +161,7 @@ RealtyShares does not knowingly collect Personal Information from children under
 
 #### Other Terms and Conditions
 
-Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/web/20140330215036id_/https%3A//www.realtyshares.com/terms-of-service).
+Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/web/20141012230057id_/https%3A//www.realtyshares.com/terms-of-service).
 
 * * *
 
