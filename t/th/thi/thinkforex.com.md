@@ -1,35 +1,234 @@
-> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406145002id_/http%3A//www.thinkforex.com/why-thinkforex/regulation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012031328id_/http%3A//www.thinkforex.com/why-thinkforex/regulation/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | ThinkForex
 
-At ThinkForex, protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. ThinkForex employs leading security software, systems, and procedures to offer our clients a safe and secure trading environment, while protecting your personal, financial, and trading information. The following statement explains how ThinkForex collects and protects your information. By opening a ThinkForex account or by using ThinkForex.com and its related website(s), you give your consent to the collection of personal information by ThinkForex as outlined in this privacy statement.
+  1. **INTRODUCTION**
 
-## The Collection of Personal Information
 
-ThinkForex collections information required to open an account, transact business effectively, and to safeguard your privacy. To do this, ThinkForex gathers information to help us assess your needs and gauge your preferences. The information ThinkForex collects directly from you is required to communicate with you, including your name, mailing address, telephone number, email address; and as required by law, valid credentials to verify your identity such as a passport, government issued ID, and address verification documents. ThinkForex also collects demographic information that our clients supply upon initiating a ThinkForex account including gender, date of birth, level of education, and occupation, among others.
 
-You voluntarily provide ThinkForex with the majority of the information that we collect whenever you complete an account application with the related documentation, place a trade, send ThinkForex an email, or submit information in response to a promotion/special offer. Other ways ThinkForex obtains information is by (1) observing your usage of ThinkForex.com, and (2) providing products and services to you. This information enables ThinkForex to offer you products and services that should be of interest to you. The information ThinkForex collects indirectly from our clients includes your Internet Protocol (IP) address, browser type, operating system, Internet Service Provider (ISP), time stamps, transactions placed, and banner ads you may click. ThinkForex does this through the use of cookies, which are small text files sent from the web server to your computer. Cookies help ThinkForex to get to know you better by providing operational data ThinkForex used to aid in your interaction with ThinkForex.com, by improving navigation and usability. Additionally, to administer and improve ThinkForex.com, we may also use a third party to track and analyze usage and volume statistical information such as page requests, form requests, and click paths. The third party may use cookies to track behavior and may set cookies on behalf of ThinkForex.com. These cookies do not contain any personally identifiable information.
+Your privacy is important to us. TF Global Markets (Aust) Pty Ltd (ABN 69 158 361 561) (referred to as ‘TF Global’, ‘we’, ‘our’, ‘us’) is bound by the Privacy Act 1988 ('Privacy Act'), including the Australian Privacy Principles ('APPs') and recognises the importance of ensuring the confidentiality and security of your personal information. 
 
-* * *
+All third parties (including clients, suppliers, sub-contractors, or agents) that have access to or use personal information collected and held by TF Global must abide by this Policy.
 
-### The Usage of Your Personal Information
+**In this Policy:**
 
-ThinkForex only uses your personal information appropriately to provide you with quality service and security. When you open an account with ThinkForex, you are issued a unique account number, User ID and password. There are only a limited number of ThinkForex employees who have a need to know your account information, and we urge that you not disclose this information. Should you close your ThinkForex account, we will retain your information, but only use it comply with regulatory requirements, and to periodically contact you to offer you the opportunity to reactivate your account or to participate in other valuable offers. ThinkForex does not sell, license, lease or otherwise disclose your personal information to any third-party, for any reason, except as already expressed.
+  * ‘Disclosing’ information means providing information to persons outside TF Global;
+  * ‘Our services’ means our financial, educational and other services associated with trading in derivatives and foreign exchange contracts;
+  *  ‘Personal information’ means information or an opinion relating to an individual, which can be used to identify that individual;
+  * ‘Privacy Officer’ means the contact person within TF Global for questions or complaints regarding TF Global’s handling of personal information;
+  * ‘Sensitive information’ is personal information that includes information relating to a person's racial or ethnic origin, political opinions, religion, trade union or other professional or trade association membership, sexual preferences and criminal record, and also includes health information; and
+  * ‘Use’ of information means use of information within TF Global.
 
-* * *
 
-#### Re-targeting
+  1. **WHAT KINDS OF PERSONAL INFORMATION DO WE COLLECT AND HOLD?**
 
-Google, a third-party vendor, makes use of cookies to serve ads based on a user's prior visits to this website. Ads for this website will be displayed to users on third-party websites when the users are included in the retargeting audience. For more information on Google's use of cookies for this purpose and how it may affect your privacy, or to opt out of receiving cookies from Google, please visit: [http://www.google.com/policies/privacy/ads/.](http://www.google.com/policies/privacy/ads/)
 
-##### Opt-Out Information
 
-You have the right to request a copy of the data that ThinkForex collects about you, and to have any inaccurate data about you corrected. For assistance, please contact our [Compliance](mailto:compliance@thinkforex.com) department. You are not necessarily required to supply any of the personal information that ThinkForex may request; however, failure to do so may result in ThinkForex not being able to open or maintain your client account.
+We may collect and hold a range of information about you to provide you with our services, including:
 
-You may opt-out of promotional emails from ThinkForex by contacting the [Compliance](mailto:compliance@thinkforex.com) department with your opt-out request, and your email address will then be removed from future promotional emails. ThinkForex may also provide a third-party with client information from our internal database to help us to analyze and identify client needs, and to notify our clients of product and service offerings. Use of the information shared is strictly limited to the performance of the task requested, and for no other purpose. All third parties with which we share personal information are required to protect personal information in a manner similar to the way ThinkForex protects personal information. You may direct ThinkForex not to disclose non-public personal information to certain non-affiliated third parties by contacting a client service representative. An opt-out election made by one account holder of a joint account is applicable to all of the account holders, but opt-out elections must be made for each account that you hold with ThinkForex.
+  * your full name;
+  * contact details;
+  * date of birth;
+  * employment details;
+  * country of residency;
+  * financial and trading information;
+  * identification details such as passport or driver’s licence details;
+  * proof of address such as utility bills and banks statements;
+  * trading preferences;
+  * banking details; and
+  * other personal information we require to meet your needs and provide our services to you.
 
-ThinkForex may share ThinkForex.com usage information about our website visitors to reputable advertising companies to target our internet banner advertisements on ThinkForex.com and other sites. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you have visited, and the information collected by the advertising company through the use of these pixel tags is not personally identifiable.
+ 
+  1. **HOW DO WE COLLECT PERSONAL INFORMATION?**
 
-ThinkForex is not responsible for the privacy policies or the content of sites that ThinkForex.com may link to, and therefore, have no control over the use or protection of information provided by you or collected by those sites. Whenever you elect to link to a co-branded or linked website, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party and you should familiarize yourself with the privacy policy provided by therein.
 
-If ThinkForex proposes to share information in a manner not covered in this Privacy Statement, we will notify you of this change by posting an addendum on ThinkForex.com as a notice in the "About Us" section, and if appropriate, provide you an opportunity to opt out of such use. You agree to accept posting of a revised Privacy Statement electronically on ThinkForex.com as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and the ThinkForex [Terms of Business](http://www.thinkforex.com/why-thinkforex/regulation/legal). If you still have questions that this statement does not address, feel free to contact a client services representative.
+
+We generally collect personal information directly from you. For example, personal information will be collected through our application processes, forms and other interactions with you in the course of providing you with our services, including when you visit our website, call us or send us correspondence.  
+We may also collect personal information about you from a third party, such as identity verification services, your introducing broker or marketing agencies. If so, we will take reasonable steps to ensure that you are made aware of this Policy if we have not done so previously. We may also use third parties to analyse traffic at our website, which may involve the use of cookies. Information collected through such analysis is anonymous.
+
+TF Global will not collect sensitive information about you without your consent unless an exemption in the APPs applies. These exceptions include if the collection is required or authorised by law or necessary to take appropriate action in relation to suspected unlawful activity or serious misconduct.
+
+If you do not provide us with the personal information we request, we may not be able to provide you with our products or services, or meet your needs appropriately.
+
+TF Global does not give you the option of dealing with us anonymously, or using a pseudonym. This is because the nature of services and the associated regulatory obligations mean that it is illegal or impractical for TF Global to deal with individuals who are not identified.
+
+ 
+
+  1. **UNSOLICITED PERSONAL INFORMATION**
+
+
+
+TF Global may receive unsolicited personal information about you.  We do our best to destroy or de-identify all unsolicited personal information we receive, unless it is relevant to TF Global’s purposes for collecting personal information, as set out in this Policy. We may retain additional information we receive about you if it is combined with other information we are required or entitled to collect. If we do this, we will retain the information in the same way we hold your other personal information.
+
+ 
+
+  1. **WHO DO WE COLLECT PERSONAL INFORMATION ABOUT?**
+
+
+
+The personal information we may collect and hold includes (but is not limited to) personal information about the following individuals:
+
+  * clients;
+  * potential clients;
+  * visitors to our website;
+  * introducing brokers; and
+  * service providers or suppliers.
+
+ 
+  1. **WHY DOES TF GLOBAL COLLECT PERSONAL INFORMATION?**
+
+
+
+We collect and hold personal information about you so that we may: 
+
+  * provide you with our services;
+  * review and meet your needs;
+  * provide you with information relating to derivatives and foreign exchange contracts that we believe may be relevant or of interest to you;
+  * let you know about other products or services we offer, send you information about our special offers or invite you to events;
+  * consider any concerns or complaints you may have;
+  * comply with relevant local and overseas laws, regulations and other legal obligations, such as the _Anti-Money Laundering and Counter-Terrorism Act 2006_ and the _Corporations Act 2001;_  and
+  * help us improve the products and services offered to our clients and enhance our overall business.
+
+
+
+  
+We may use and disclose your personal information for any of these purposes. We may also use and disclose your personal information for secondary purposes which are related to the primary purposes set out above, or in other circumstances authorised by the Privacy Act.   
+Sensitive information will be used and disclosed only for the purpose for which it was provided (or a directly related secondary purpose), unless you agree otherwise or an exemption in the Privacy Act applies.
+
+ 
+
+  1. **WHO DO WE DISCLOSE PERSONAL INFORMATION TO?**
+
+
+
+We may disclose personal information to:
+
+  * a related entity of TF Global;
+  * an agent, professional advisor or service provider  we engage to provide us with administrative, marketing, financial, insurance, research and other services such as our counterparty banks, liquidity providers, marketing agencies and IT service providers;
+  * your introducing broker or money manager;
+  * organisations involved in a transfer or sale of our assets or business;
+  * financial institutions involved in managing our payments, such as banks;
+  * regulatory bodies, government agencies, law enforcement bodies and courts; and
+  * anyone whom you authorise us to disclose it to.
+
+
+
+  
+If we disclose your personal information to service providers that perform business activities for us, they may only use your personal information for the specific purpose for which we supply it. We will take steps to ensure that all contractual arrangements with third parties adequately address privacy issues and will make third parties aware of this Policy.
+
+ 
+
+  1. **SENDING INFORMATION OVERSEAS**
+
+
+
+We are likely to disclose your personal information to our affiliates located in the United Kingdom and Germany. We also use cloud data storage providers, which means your personal information will be stored on servers that may be located overseas in countries such as Hong Kong, the United Kingdom and the United States.
+
+We will not disclose your personal information to overseas recipients without your consent unless:
+
+  * we have taken reasonable steps to ensure that the recipient does not breach the Privacy Act, or the APPs; or
+  * the recipient is subject to a similar information privacy regime.
+
+ 
+  1. **MANAGEMENT OF PERSONAL INFORMATION**
+
+
+
+TF Global recognises the importance of securing the personal information of our clients. We will take steps to ensure your personal information is protected from misuse, interference or loss, and unauthorised access, modification or disclosure.
+
+Your personal information is generally stored in our computer database. Any paper files are stored in secure areas. In relation to information that is held on our computer database, we apply the following guidelines:
+
+  * passwords are required to access the system and passwords are routinely checked;
+  * data ownership is clearly defined;
+  * we change employees’ access capabilities when they are assigned to a new position;
+  * employees have restricted access to certain sections of the system;
+  * the system automatically logs and reviews all unauthorised access attempts;
+  * unauthorised employees are barred from updating and editing personal information;
+  * all computers which contain personal information are secured both physically and electronically;
+  * data is encrypted during transmission over the network; and
+  * print reporting of data containing personal information is limited.
+
+ 
+  1. **DIRECT MARKETING**
+
+
+
+TF Global may only use personal information we collect from you for the purposes of direct marketing without your consent if:
+
+  * the personal information does not include sensitive information; and
+  * you would reasonably expect us to use or disclose the information for the purpose of direct marketing; and
+  * we provide a simple way of opting out of direct marketing; and
+  * you have not requested to opt out of receiving direct marketing from us.
+
+
+
+  
+If we collect personal information about you from a third party, we will only use that information for the purposes of direct marketing if you have consented (or it is impracticable to obtain your consent), and we will provide a simple means by which you can easily request not to receive direct marketing communications from us. We will draw your attention to the fact you may make such a request in our direct marketing communications.
+
+You have the right to request us not to use or disclose your personal information for the purposes of direct marketing, or for the purposes of facilitating direct marketing by other organisations. We must give effect to the request within a reasonable period of time. You may also request that we provide you with the source of their information. If such a request is made, we must notify you of the source of the information free of charge within a reasonable period of time.
+
+ 
+
+  1. **IDENTIFIERS**
+
+
+
+We do not adopt identifiers assigned by the Government (such as driver’s licence numbers) for our own file recording purposes, unless one of the exemptions in the Privacy Act applies.
+
+ 
+
+  1. **HOW DO WE KEEP PERSONAL INFORMATION ACCURATE AND UP-TO-DATE?**
+
+
+
+We are committed to ensuring that the personal information we collect, hold, use and disclose is relevant, accurate, complete and up-to-date. 
+
+We encourage you to contact us if any personal information we hold about you needs to be updated.  If we correct information that has previously been disclosed to another entity, we will notify the other entity of the correction within a reasonable period. Where we are satisfied information is inaccurate, we will take reasonable steps to correct the information within 30 days, unless you agree otherwise. We will not charge you for correcting your personal information.
+
+ 
+
+  1. **ACCESSING YOUR PERSONAL INFORMATION**
+
+
+
+Subject to exceptions in the Privacy Act, you can access the personal information that we hold about you by contacting the Privacy Officer. We will generally provide access within 30 days of your request.   If we refuse to provide you with access to the information, we will provide reasons for the refusal.
+
+We will require identity verification and specification of what information is required. An administrative fee for search and photocopying costs may be charged.
+
+ 
+
+  1. **UPDATES TO THIS POLICY**
+
+
+
+This Policy will be reviewed from time to time to take account of new laws and technology, and changes to our operations and the business environment. In case of doubt, personal information we collect and hold is governed by the current version of this Privacy Policy on our website at the relevant time.
+
+ 
+
+  1. **OUR RESPONSIBILITIES**
+
+
+
+It is the responsibility of management to inform employees and other relevant third parties about this Policy.  Management must ensure that employees and other relevant third parties are advised of any changes to this Policy. All new employees are to be provided with timely and appropriate access to this Policy, and all employees are provided with training in relation to appropriate handling of personal information. Employees or other relevant third parties that do not comply with this Policy may be subject to disciplinary action.
+
+ 
+
+  1. **MAKING A COMPLAINT**
+
+
+
+If you have any questions about this Policy, or wish to make a complaint about how we have handled your personal information, you can lodge a complaint with us by:
+
+  * telephoning – 1300 390 515 
+  * writing – TF Global Privacy Officer, Level 11, 636 St Kilda Rd, Melbourne VIC 3004
+  * emailing – compliance@thinkforex.com
+
+
+
+If you are not satisfied with our response to your complaint, you can also refer your complaint to the Office of the Australian Information Commissioner by:
+
+  * telephoning - 1300 363 992
+  * writing - Director of Complaints, Office of the Australian Information Commissioner, GPO Box 5218, SYDNEY NSW 2001
+  * emailing - [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+
+
