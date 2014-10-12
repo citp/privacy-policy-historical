@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifecruiser.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119095850id_/http%3A//lifecruiser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecruiser.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012125442id_/http%3A//lifecruiser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lifecruiser
 
@@ -10,9 +10,7 @@ We collect some information about you when you visit our blog and because of tha
 
 Anonymous Information
 
-We collect anonymous information from our visitors that cannot be associated with a specific individual. For example, we know how many people visit Lifecruiser Travel Blog, but we don’t know their names or any other personal information about them. We collect this type of anonymous data in order to track overall Web site traffic and the specific pages that people visit most often. 
-
-This anonymous tracking information is used to build a better service and enhance the content in our popular blog. Some of this anonymous tracking information may be shared with third parties such as sponsors, but still remains totally anonymous.
+We collect anonymous information from our visitors that cannot be associated with a specific individual. For example, we know how many people visit Lifecruiser Travel Blog, but we don’t know their names or any other personal information about them. We collect this type of anonymous data in order to track overall Web site traffic and the specific pages that people visit most often. This anonymous tracking information is only used to build a better service and enhance the content in our popular blog. 
 
 Comment Information
 
@@ -20,19 +18,19 @@ We store the comments you leave on a blog when responding to a bloggers post. Th
 
 Personal Information
 
-We collect personal information when you voluntarily register to receive our blog posts by email (coming feature), but the only personal information collected upon signing up for the notification is a working email address.
+We never collect any personal information other than the personal information collected upon signing up for the notification: a working email address.
 
 The Way We Use Information
 
-We use your email address to send a confirmation email when you sign up for the notification email (coming feature). We might send you an email if circumstances warrant it. No other use is now or ever will be made of this email address. We will not send you any other email unless you contact us first and specifically request information or other administrative assistance. We do not sell this address or link it to any other personal information.
+We use your email address to send a confirmation email when you sign up for the notification email. We might send you an email if circumstances warrant it. No other use is now or ever will be made of this email address. We will not send you any other email unless you contact us first and specifically request information or other administrative assistance. We do not sell this address or link it to any other personal information.
 
-Occasionally Lifecruiser Travel Blog or its potentially sponsors may need to place a cookie on your computer. A cookie serves only to preserve a history of your previous visits to Lifecruiser Travel Blog, such as your name, email, and URL when leaving comments. Cookies do not usually create any problems for you or your computer and are generally silent, primarily used to create a unique user experience based on your previous activity on Lifecruiser Travel Blog. 
+Occasionally Lifecruiser Travel Blog may need to place a cookie on your computer. A cookie serves only to preserve a history of your previous visits to Lifecruiser Travel Blog, such as your name, email, and URL when leaving comments. Cookies do not usually create any problems for you or your computer and are generally silent, primarily used to create a unique user experience based on your previous activity on Lifecruiser Travel Blog. 
 
 These cookies are not used to track you online as has become a popular misconception. The cookie on your computer is only readable by Lifecruiser Travel Blog and you are free to delete it at any time. You can elect to refuse cookies and/or delete cookies. If you choose to do so, any information that was collected on past visits to Lifecruiser Travel Blog, will not be stored. The choice is always yours and we in no way discourage you from taking your privacy into your own hands.
 
 Links to Other Sites
 
-Lifecruiser Travel Blog contains links to other blogs that are not hosted by Lifecruiser Travel Blog. We are not responsible for the privacy policies of such other blogs. Links to third party sites and products may or may not include affiliate links which might be used to identify your purchase as originating from this site. Such links are used sparingly and only to keep this blog hosted or to enhance the travel posts to be able to offer our readers more quality content. 
+Lifecruiser Travel Blog contains links to other blogs/sites that are not hosted by Lifecruiser Travel Blog. We are not responsible for the privacy policies of such other blogs. Such links are used as sparingly as possible and only to enhance the travel posts to be able to offer our readers more quality content. 
 
 Changes in this Privacy Statement
 
