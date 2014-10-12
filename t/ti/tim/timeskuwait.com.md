@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeskuwait.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102928id_/http%3A//www.timeskuwait.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeskuwait.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012172502id_/http%3A//www.timeskuwait.com/Privacy) for the most accurate reproduction.*
 
 # The Times Kuwait
 
@@ -51,9 +51,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 By using our site, you consent to the privacy policy of t **imeskuwait.com**.
 
 This policy was last modified on 1st October, 2011 [http://www. **timeskuwait.com**](http://www.timeskuwait.com/)
-
-"It's by one's own actions that we clearly define our existence, our reality and ultimately the outcome. Seek truth, build character, find happiness and most of all share and be grateful to those that encouraged you to never give up!"
-
-Take yourself seriously. You can't make any real progress, for as long as you keep belittling your own accomplishments.
-
-Photo Gallery
