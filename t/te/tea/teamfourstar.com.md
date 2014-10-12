@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamfourstar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045952id_/http%3A//teamfourstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamfourstar.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012111152id_/http%3A//teamfourstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Team Four Star
 
