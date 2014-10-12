@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d.pr privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232747id_/http%3A//help.droplr.com/customer/portal/articles/989947-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d.pr privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012051514id_/http%3A//help.droplr.com/customer/portal/articles/989947-privacy-policy) for the most accurate reproduction.*
 
 # Droplr | Privacy Policy
 
