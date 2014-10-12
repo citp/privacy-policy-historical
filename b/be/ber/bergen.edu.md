@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergen.edu privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210033550id_/http%3A//www.bergen.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergen.edu privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012073838id_/http%3A//www.bergen.edu/privacy) for the most accurate reproduction.*
 
 # Bergen Community College > Home
 
@@ -44,4 +44,4 @@ Bergen Community College will occasionally update this Statement of Privacy to r
 
 Contact Information
 
-Bergen Community College welcomes your comments regarding this Statement of Privacy. If you believe that Bergen Community College has not adhered to this Statement, please contact Bergen Community College at [helpdesk@bergen.edu](mailto:helpdesk@bergen.edu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Bergen Community College welcomes your comments regarding this Statement of Privacy. If you believe that Bergen Community College has not adhered to this Statement, please contact Bergen Community College at [psoto@bergen.edu](mailto:psoto@bergen.edu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
