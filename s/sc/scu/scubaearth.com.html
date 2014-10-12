@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scubaearth.com privacy policy that was archived on 2014-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140604112638id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scubaearth.com privacy policy that was archived on 2014-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141013000310id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_ctl00_Head1"><title>
 	Research, plan and share your scuba diving experiences in ScubaEarth
@@ -17,7 +17,7 @@ filter: none;
         googletag.cmd = googletag.cmd || [];
     </script>
     
-    <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_ITP5PSptxtNTQwULZIa-4E0-12Q5LD2hyI_8um0t9oNZBw6IxkXR2M90RZSH-wfs"></script>
+    <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_xMe29bgAwygn_BYJ_XlNmNhhznFKLhLaE3kQDTtBKPB4xZrK4fHJDQGURYkvdWN0"></script>
     <script type="text/javascript" language="javascript" src="/content/scripts/includes.js"></script>
     <script type="text/javascript" language="javascript" src="/content/scripts/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" language="javascript" src="/content/scripts/jquery-ui-1.9.2.custom.min.js"></script>
@@ -61,291 +61,7 @@ filter: none;
         }
 
     </script><script async="" type="text/javascript" src="https://web.archive.org/web/20141026150004/https://partner.googleadservices.com/gampad/google_ads_gpt.js"></script>
-    <script type="text/javascript">
-
-        function SubmitCopyContent(frmDialog) {
-
-            $('#showFormProgress').show();
-
-            var remark1 = $("textarea#txtRemarkC").text();
-            var desc1 = $("#lblDescription").text();
-            var formtitle1 = $("#lblTitle").text();
-            var nme1 = $('#lblName').text();
-            var emp1 = $('textarea#txtEmployerC').text();
-            //var who1 = $('#ddlWhoYouAreC option:selected').text();
-
-            var who1 = "";
-            who1 = $('#ddl option:selected').text();
-
-            var addr1 = $('textarea#txtMailingAddressC').text();
-            var city1 = $('textarea#txtMailingCityC').text();
-            var zip1 = $('textarea#txtMailingPostalCodeC').text();
-            var ctry1 = $('textarea#txtMailingCountryC').text();
-            var phone1 = $('textarea#txtPhoneNumberC').text();
-
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailCopyContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc1, formtitle: formtitle1, nme: nme1, emp: emp1, who: who1, addr: addr1, city: city1, zip: zip1, ctry: ctry1, phone: phone1 }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-
-        }
-
-        function SubmitTradeContent(frmDialog) {
-
-            $('#showFormProgress').show();
-            var remark1 = $('textarea[id$=txtRemark]').text();
-            var desc = $("#lblDescription").text();
-            var formtitle = $("#lblTitle").text();
-            var nme = $('#lblName').text();
-            var emp = $('textarea#txtEmployer').text();
-            var who = $('#ddlWhoYouAre option:selected').text();
-            var addr = $('textarea#txtMailingAddress').text();
-            var city = $('textarea#txtMailingCity').text();
-            var zip = $('textarea#txtMailingPostalCode').text();
-            var ctry = $('textarea#txtMailingCountry').text();
-            var phone = $('textarea#txtPhoneNumber').text();
-            var tradectry = $('textarea#txtTrademarkRegistrationCountry').text();
-            var tradenumber = $('textarea#txtTrademarkRegistrationNumber').text();
-            var tradecat = $('textarea#txtTrademarkCategories').text();
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailTradeContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle, nme: nme, emp: emp, who: who, addr: addr, city: city, zip: zip, ctry: ctry, phone: phone, tradectry: tradectry, tradenumber: tradenumber, tradecat: tradecat }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitICContent(remark1) {
-
-            //$('#showFormProgress').show();
-            //var remark1 = $('textarea[id$=txtICRemark]').text();
-            var desc = 'Inappropriate Content';
-            var formtitle = 'Inappropriate Content';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailInAppropContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle }),
-                dataType: "json",
-                success: function (data) {
-                    //window.location = "/default.aspx";                   
-                    $(frmDialog).dialog('close');
-                    //$('#'+datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitMessageContent(msgText, subjectMatter, recipient) {
-
-            //var remark1 = $('textarea[id$=txtMsgRemark]').text(); 
-            var remark1 = msgText;
-            var subj = subjectMatter;
-            var desc = 'Message Content';
-            var formtitle = 'Message Content';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/SendMessageContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle, recipient: recipient, subj: subj }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitCSContent(remark1) {
-
-            //$('#showFormProgress').show();
-            //var remark1 = $('textarea[id$=txtCSRemark]').text();
-            var desc = 'Customer Support';
-            var formtitle = 'Customer Support';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailInAppropContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitIdeasContent(remark1) {
-
-            //$('#showFormProgress').show();
-            //var remark1 = $('textarea[id$=txtIdeasRemark]').text();
-            //if (remark1 == '') {
-            //    alert("Please enter a remark.")
-            //    return false;
-            //}
-            var desc = 'Ideas';
-            var formtitle = 'Ideas';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailInAppropContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitQMContent(remark1) {
-
-            //$('#showFormProgress').show();
-            //var remark1 = $('textarea[id$=txtQMRemark]').text();
-            var desc = 'Quality Management';
-            var formtitle = 'Quality Management';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailInAppropContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitSpamContent(remark1) {
-
-            //$('#showFormProgress').show();
-            //var remark1 = $('textarea[id$=txtSpamRemark]').text();
-            var desc = 'Spam Or Scam';
-            var formtitle = 'Spam Or Scam';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailInAppropContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-        function SubmitTSContent(remark1) {
-
-            //$('#showFormProgress').show();
-            //var remark1 = $('textarea[id$=txtTSRemark]').text();
-            var desc = 'Technical Support';
-            var formtitle = 'Technical Support';
-            remark1 = remark1.replace("'", '');
-            remark1 = remark1.replace('&', '');
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "/common/ActionWidgetCogWheelProcessing.aspx/EmailInAppropContent",
-                data: JSON.stringify({ remark1: remark1, desc: desc, formtitle: formtitle }),
-                dataType: "json",
-                success: function (data) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                },
-                error: function (result) {
-                    $(frmDialog).dialog('close');
-                    //$('#' + datadiv.id).hide();
-                    return true;
-                }
-            });
-        }
-
-    </script>
+    <script type="text/javascript" src="/content/scripts/formsubmission.js"></script>
     
 	
 	
@@ -407,11 +123,12 @@ MAIN CONTENT ROW STYLE
 <body style="margin: 0px; padding: 0px;">
     <form method="post" action="about-scubaearth.aspx?pagetype=privacy" id="form1">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE1ODc2ODg2MQ9kFgJmD2QWAmYPZBYCZg9kFgICAw9kFgICAw9kFgYCAQ9kFgICAQ9kFgICAQ9kFgwCAQ8WAh4EaHJlZmRkAgMPFgIfAAUNL2RlZmF1bHQuYXNweGQCBQ8WAh8ABR8vZGl2ZS1kZXN0aW5hdGlvbnMvZGVmYXVsdC5hc3B4ZAIHDxYCHwAFKC9kaXZlLXNpdGUvZGl2ZS1zaXRlLXByb2ZpbGUtc2VhcmNoLmFzcHhkAgkPFgIfAAUoL2RpdmUtc2hvcC9kaXZlLXNob3AtcHJvZmlsZS1zZWFyY2guYXNweGQCCw8WAh8ABRYvY3JpdHRlcnMvZGVmYXVsdC5hc3B4ZAIDD2QWBgIDD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9kFgJmDxYCHgRUZXh0BZECPGRpdiBpZD0iZGl2LWdwdC1hZC0xMzQzMjM2MzEzMjU4LTAiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTsgbGVmdDo1MCU7IG1hcmdpbi1sZWZ0Oi02MHB4OyB3aWR0aDoxMjBweDsgaGVpZ2h0OjI0MHB4OyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJqYXZhc2NyaXB0Ij5nb29nbGV0YWcuY21kLnB1c2goZnVuY3Rpb24gKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xMzQzMjM2MzEzMjU4LTAnKTsgfSk7PC9zY3JpcHQ+PC9kaXY+ZAIFD2QWAgIBDw8WBh4FVGl0bGUFB1ByaXZhY3keE0NhdGFsb2dJY29uSW1hZ2VVcmwFLi9Xb3JrQXJlYS9pbWFnZXMvYXBwbGljYXRpb24vaWNvbl9kb2N1bWVudC5naWYeEVRpdGxlSWNvbkltYWdlVXJsZWRkAgkPZBYCAgEPDxYCHwEFFmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9kFgJmDxYCHwIFkQI8ZGl2IGlkPSJkaXYtZ3B0LWFkLTEzNDMyMzYzMTMyNTgtMSIgc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyBsZWZ0OjUwJTsgbWFyZ2luLWxlZnQ6LTYwcHg7IHdpZHRoOjEyMHB4OyBoZWlnaHQ6MjQwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiPmdvb2dsZXRhZy5jbWQucHVzaChmdW5jdGlvbiAoKSB7IGdvb2dsZXRhZy5kaXNwbGF5KCdkaXYtZ3B0LWFkLTEzNDMyMzYzMTMyNTgtMScpOyB9KTs8L3NjcmlwdD48L2Rpdj5kAgUPZBYIAgcPZBYCAgEPDxYCHgdWaXNpYmxlZ2QWBAIBDw9kFgIeB29uY2xpY2sFrAVpZiAodHlwZW9mIElzY3RsMDBfY3RsMDBfY3RsMDBfY3BoTWFpbl9jcGhCb3R0b21fdWNJZGVhc19kaXZJZGVhc0Zvcm1TZXQgPT0gJ3VuZGVmaW5lZCcpeyAgICQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0lkZWFzX2RpdklkZWFzRm9ybScpLmRpYWxvZyh7IGF1dG9PcGVuOmZhbHNlLCBtb2RhbDp0cnVlLCB3aWR0aDo2MDAsIGhlaWdodDo0NTAsIG9wZW46ZnVuY3Rpb24gKCkgeyAkKHRoaXMpLmNzcyh7J3Bvc2l0aW9uJzoncmVsYXRpdmUnLCAndmlzaWJpbGl0eSc6J3Zpc2libGUnfSk7ICQodGhpcykucGFyZW50KCkuYXBwZW5kVG8oJ2Zvcm0nKTsgfSwgY2xvc2U6ZnVuY3Rpb24gKCkgeyAvKm1vZGFsRGlhbG9nLmRpYWxvZygnd2lkZ2V0JykuaW5zZXJ0QmVmb3JlKG1vZGFsUGxhY2Vob2xkZXIpOyovIH0gfSk7ICAgJCgnI2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjSWRlYXNfZGl2SWRlYXNGb3JtJykuZGlhbG9nKCdvcHRpb24nLCAndGl0bGUnLCAnJyk7ICAgSXNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0lkZWFzX2RpdklkZWFzRm9ybVNldCA9IHRydWU7fSQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0lkZWFzX2RpdklkZWFzRm9ybScpLmRpYWxvZygnb3BlbicpO3JldHVybiBmYWxzZTtkAgMPZBYEAgEPDxYCHwIFBUlkZWFzZGQCAw8PFgIfAgUFSWRlYXNkZAIJD2QWAgIBDw8WAh8GZ2QWBAIBDw9kFgIfBwXPBWlmICh0eXBlb2YgSXNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm1TZXQgPT0gJ3VuZGVmaW5lZCcpeyAgICQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm0nKS5kaWFsb2coeyBhdXRvT3BlbjpmYWxzZSwgbW9kYWw6dHJ1ZSwgd2lkdGg6NjAwLCBoZWlnaHQ6NDUwLCBvcGVuOmZ1bmN0aW9uICgpIHsgJCh0aGlzKS5jc3Moeydwb3NpdGlvbic6J3JlbGF0aXZlJywgJ3Zpc2liaWxpdHknOid2aXNpYmxlJ30pOyAkKHRoaXMpLnBhcmVudCgpLmFwcGVuZFRvKCdmb3JtJyk7IH0sIGNsb3NlOmZ1bmN0aW9uICgpIHsgLyptb2RhbERpYWxvZy5kaWFsb2coJ3dpZGdldCcpLmluc2VydEJlZm9yZShtb2RhbFBsYWNlaG9sZGVyKTsqLyB9IH0pOyAgICQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm0nKS5kaWFsb2coJ29wdGlvbicsICd0aXRsZScsICcnKTsgICBJc2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjQ3VzdG9tZXJTdXBwb3J0X2RpdkNTRm9ybVNldCA9IHRydWU7fSQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm0nKS5kaWFsb2coJ29wZW4nKTtyZXR1cm4gZmFsc2U7ZAIDD2QWBAIBDw8WAh8CBRBDdXN0b21lciBTdXBwb3J0ZGQCAw8PFgIfAgUQQ3VzdG9tZXIgU3VwcG9ydGRkAgsPZBYCAgEPDxYCHwZnZBYEAgEPD2QWAh8HBdQFaWYgKHR5cGVvZiBJc2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjVGVjaG5pY2FsU3VwcG9ydF9kaXZUU0Zvcm1TZXQgPT0gJ3VuZGVmaW5lZCcpeyAgICQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y1RlY2huaWNhbFN1cHBvcnRfZGl2VFNGb3JtJykuZGlhbG9nKHsgYXV0b09wZW46ZmFsc2UsIG1vZGFsOnRydWUsIHdpZHRoOjYwMCwgaGVpZ2h0OjQ1MCwgb3BlbjpmdW5jdGlvbiAoKSB7ICQodGhpcykuY3NzKHsncG9zaXRpb24nOidyZWxhdGl2ZScsICd2aXNpYmlsaXR5JzondmlzaWJsZSd9KTsgJCh0aGlzKS5wYXJlbnQoKS5hcHBlbmRUbygnZm9ybScpOyB9LCBjbG9zZTpmdW5jdGlvbiAoKSB7IC8qbW9kYWxEaWFsb2cuZGlhbG9nKCd3aWRnZXQnKS5pbnNlcnRCZWZvcmUobW9kYWxQbGFjZWhvbGRlcik7Ki8gfSB9KTsgICAkKCcjY3RsMDBfY3RsMDBfY3RsMDBfY3BoTWFpbl9jcGhCb3R0b21fdWNUZWNobmljYWxTdXBwb3J0X2RpdlRTRm9ybScpLmRpYWxvZygnb3B0aW9uJywgJ3RpdGxlJywgJycpOyAgIElzY3RsMDBfY3RsMDBfY3RsMDBfY3BoTWFpbl9jcGhCb3R0b21fdWNUZWNobmljYWxTdXBwb3J0X2RpdlRTRm9ybVNldCA9IHRydWU7fSQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y1RlY2huaWNhbFN1cHBvcnRfZGl2VFNGb3JtJykuZGlhbG9nKCdvcGVuJyk7cmV0dXJuIGZhbHNlO2QCAw9kFgQCAQ8PFgIfAgURVGVjaG5pY2FsIFN1cHBvcnRkZAIDDw8WAh8CBRFUZWNobmljYWwgU3VwcG9ydGRkAg0PFgIfAgUIdjEuMS4wLjBkZCc9shgHMoCAh8dg9/L0wS3izF71brKAXocF/ivDDGj4">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE1ODc2ODg2MQ9kFgJmD2QWAmYPZBYCZg9kFgICAw9kFgICAw9kFgYCAQ9kFgICAQ9kFgICAQ9kFgwCAQ8WAh4EaHJlZmRkAgMPFgIfAAUNL2RlZmF1bHQuYXNweGQCBQ8WAh8ABR8vZGl2ZS1kZXN0aW5hdGlvbnMvZGVmYXVsdC5hc3B4ZAIHDxYCHwAFKC9kaXZlLXNpdGUvZGl2ZS1zaXRlLXByb2ZpbGUtc2VhcmNoLmFzcHhkAgkPFgIfAAUoL2RpdmUtc2hvcC9kaXZlLXNob3AtcHJvZmlsZS1zZWFyY2guYXNweGQCCw8WAh8ABRYvY3JpdHRlcnMvZGVmYXVsdC5hc3B4ZAIDD2QWBgIDD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9kFgJmDxYCHgRUZXh0BZECPGRpdiBpZD0iZGl2LWdwdC1hZC0xMzQzMjM2MzEzMjU4LTAiIHN0eWxlPSJwb3NpdGlvbjpyZWxhdGl2ZTsgbGVmdDo1MCU7IG1hcmdpbi1sZWZ0Oi02MHB4OyB3aWR0aDoxMjBweDsgaGVpZ2h0OjI0MHB4OyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJqYXZhc2NyaXB0Ij5nb29nbGV0YWcuY21kLnB1c2goZnVuY3Rpb24gKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xMzQzMjM2MzEzMjU4LTAnKTsgfSk7PC9zY3JpcHQ+PC9kaXY+ZAIFD2QWAgIBDw8WBh4FVGl0bGUFB1ByaXZhY3keE0NhdGFsb2dJY29uSW1hZ2VVcmwFLi9Xb3JrQXJlYS9pbWFnZXMvYXBwbGljYXRpb24vaWNvbl9kb2N1bWVudC5naWYeEVRpdGxlSWNvbkltYWdlVXJsZWRkAgkPZBYCAgEPDxYCHwEFFmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9kFgJmDxYCHwIFkQI8ZGl2IGlkPSJkaXYtZ3B0LWFkLTEzNDMyMzYzMTMyNTgtMSIgc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlOyBsZWZ0OjUwJTsgbWFyZ2luLWxlZnQ6LTYwcHg7IHdpZHRoOjEyMHB4OyBoZWlnaHQ6MjQwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiPmdvb2dsZXRhZy5jbWQucHVzaChmdW5jdGlvbiAoKSB7IGdvb2dsZXRhZy5kaXNwbGF5KCdkaXYtZ3B0LWFkLTEzNDMyMzYzMTMyNTgtMScpOyB9KTs8L3NjcmlwdD48L2Rpdj5kAgUPZBYIAgcPZBYCZg8PFgIeB1Zpc2libGVnZBYEAgEPD2QWAh4Hb25jbGljawWsBWlmICh0eXBlb2YgSXNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0lkZWFzX2RpdklkZWFzRm9ybVNldCA9PSAndW5kZWZpbmVkJyl7ICAgJCgnI2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjSWRlYXNfZGl2SWRlYXNGb3JtJykuZGlhbG9nKHsgYXV0b09wZW46ZmFsc2UsIG1vZGFsOnRydWUsIHdpZHRoOjYwMCwgaGVpZ2h0OjQ1MCwgb3BlbjpmdW5jdGlvbiAoKSB7ICQodGhpcykuY3NzKHsncG9zaXRpb24nOidyZWxhdGl2ZScsICd2aXNpYmlsaXR5JzondmlzaWJsZSd9KTsgJCh0aGlzKS5wYXJlbnQoKS5hcHBlbmRUbygnZm9ybScpOyB9LCBjbG9zZTpmdW5jdGlvbiAoKSB7IC8qbW9kYWxEaWFsb2cuZGlhbG9nKCd3aWRnZXQnKS5pbnNlcnRCZWZvcmUobW9kYWxQbGFjZWhvbGRlcik7Ki8gfSB9KTsgICAkKCcjY3RsMDBfY3RsMDBfY3RsMDBfY3BoTWFpbl9jcGhCb3R0b21fdWNJZGVhc19kaXZJZGVhc0Zvcm0nKS5kaWFsb2coJ29wdGlvbicsICd0aXRsZScsICcnKTsgICBJc2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjSWRlYXNfZGl2SWRlYXNGb3JtU2V0ID0gdHJ1ZTt9JCgnI2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjSWRlYXNfZGl2SWRlYXNGb3JtJykuZGlhbG9nKCdvcGVuJyk7cmV0dXJuIGZhbHNlO2QCAw9kFgRmDw8WAh8CBQVJZGVhc2RkAgEPDxYCHwIFBUlkZWFzZGQCCQ9kFgJmDw8WAh8GZ2QWBAIBDw9kFgIfBwXPBWlmICh0eXBlb2YgSXNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm1TZXQgPT0gJ3VuZGVmaW5lZCcpeyAgICQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm0nKS5kaWFsb2coeyBhdXRvT3BlbjpmYWxzZSwgbW9kYWw6dHJ1ZSwgd2lkdGg6NjAwLCBoZWlnaHQ6NDUwLCBvcGVuOmZ1bmN0aW9uICgpIHsgJCh0aGlzKS5jc3Moeydwb3NpdGlvbic6J3JlbGF0aXZlJywgJ3Zpc2liaWxpdHknOid2aXNpYmxlJ30pOyAkKHRoaXMpLnBhcmVudCgpLmFwcGVuZFRvKCdmb3JtJyk7IH0sIGNsb3NlOmZ1bmN0aW9uICgpIHsgLyptb2RhbERpYWxvZy5kaWFsb2coJ3dpZGdldCcpLmluc2VydEJlZm9yZShtb2RhbFBsYWNlaG9sZGVyKTsqLyB9IH0pOyAgICQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm0nKS5kaWFsb2coJ29wdGlvbicsICd0aXRsZScsICcnKTsgICBJc2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjQ3VzdG9tZXJTdXBwb3J0X2RpdkNTRm9ybVNldCA9IHRydWU7fSQoJyNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y0N1c3RvbWVyU3VwcG9ydF9kaXZDU0Zvcm0nKS5kaWFsb2coJ29wZW4nKTtyZXR1cm4gZmFsc2U7ZAIDD2QWBGYPDxYCHwIFEEN1c3RvbWVyIFN1cHBvcnRkZAIBDw8WAh8CBRBDdXN0b21lciBTdXBwb3J0ZGQCCw9kFgJmDw8WAh8GZ2QWBAIBDw9kFgIfBwXUBWlmICh0eXBlb2YgSXNjdGwwMF9jdGwwMF9jdGwwMF9jcGhNYWluX2NwaEJvdHRvbV91Y1RlY2huaWNhbFN1cHBvcnRfZGl2VFNGb3JtU2V0ID09ICd1bmRlZmluZWQnKXsgICAkKCcjY3RsMDBfY3RsMDBfY3RsMDBfY3BoTWFpbl9jcGhCb3R0b21fdWNUZWNobmljYWxTdXBwb3J0X2RpdlRTRm9ybScpLmRpYWxvZyh7IGF1dG9PcGVuOmZhbHNlLCBtb2RhbDp0cnVlLCB3aWR0aDo2MDAsIGhlaWdodDo0NTAsIG9wZW46ZnVuY3Rpb24gKCkgeyAkKHRoaXMpLmNzcyh7J3Bvc2l0aW9uJzoncmVsYXRpdmUnLCAndmlzaWJpbGl0eSc6J3Zpc2libGUnfSk7ICQodGhpcykucGFyZW50KCkuYXBwZW5kVG8oJ2Zvcm0nKTsgfSwgY2xvc2U6ZnVuY3Rpb24gKCkgeyAvKm1vZGFsRGlhbG9nLmRpYWxvZygnd2lkZ2V0JykuaW5zZXJ0QmVmb3JlKG1vZGFsUGxhY2Vob2xkZXIpOyovIH0gfSk7ICAgJCgnI2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjVGVjaG5pY2FsU3VwcG9ydF9kaXZUU0Zvcm0nKS5kaWFsb2coJ29wdGlvbicsICd0aXRsZScsICcnKTsgICBJc2N0bDAwX2N0bDAwX2N0bDAwX2NwaE1haW5fY3BoQm90dG9tX3VjVGVjaG5pY2FsU3VwcG9ydF9kaXZUU0Zvcm1TZXQgPSB0cnVlO30kKCcjY3RsMDBfY3RsMDBfY3RsMDBfY3BoTWFpbl9jcGhCb3R0b21fdWNUZWNobmljYWxTdXBwb3J0X2RpdlRTRm9ybScpLmRpYWxvZygnb3BlbicpO3JldHVybiBmYWxzZTtkAgMPZBYEZg8PFgIfAgURVGVjaG5pY2FsIFN1cHBvcnRkZAIBDw8WAh8CBRFUZWNobmljYWwgU3VwcG9ydGRkAg0PFgIfAgUIdjEuMS4wLjNkZDqF65f3uznnCdV8BR1Ofvf69zgTJLktN24NAeym5XYB">
 
 
-<script src="/ScriptResource.axd?d=o3OtgvKVy2ZNuLS_1L1BKc5fYkCM84yIJN_R8enfPaEt0mfQXB7ntOSuQCCjhTMNclWov4iemIq5JmPhg8xx1wAkWxVuRRkHr9leMgtXieL2sk3lWYmMtoQDevVoToPZ0&amp;t=7f16157c" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAeNgLYS6iALONIj9Ht1URIk7+rlV8FN7DOi8OGG5z5cgIDdkQK56jSx2DBI2Xtb+xy2BPUNv0UBnsqXDQlIRqhR6Pp6uMWi4S0DtFklYTxfm04cN5nc+rhEHceAuVT0tWzcr+hQ/Khde9GL+U7hChQtEPP+zv1zDjEcmiAnI8dD6LmSM97Oy63R9eNsRMXauus=">
+<script src="/ScriptResource.axd?d=GS2ZuyuhkGvsKW7U5QqAygmPD5N4A_rdAie8Z8qnc9jPjpIpVaUj3tFUas5jTKr39O617Pk2cBf4fN7xFBBb8AnYspwsPD_p3quXmg3OfUxfhWJ7KX4apnpQHSicXMWT0&amp;t=7f16157c" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="84CF9CF9">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAARbVs8CxwWjzJPebR81h5aX7+rlV8FN7DOi8OGG5z5cgLYE9Q2/RQGeypcNCUhGqFFOHDeZ3Pq4RB3HgLlU9LVs6vVXno5P9hAlx7zKNVP8qcYoBO0pD8Y0skpr27fPcTQ=">
         
 
         
@@ -563,23 +280,7 @@ MAIN CONTENT ROW STYLE
 					<a id="ctl00_ctl00_ctl00_cphMain_cphBottom_hlAdvertising" href="/about-scubaearth.aspx?pagetype=advertising">Advertising</a>
 				</li>
 				<li>
-					
-
-<script type="text/javascript">
-
-    function CallIdeas() {
-        var remark1 = $("#txtIdeasRemark").text();
-        //alert(remark1);
-        if (remark1.length == 0)
-        {
-            alert("Please enter remark.")
-            return false;
-        }
-        return SubmitIdeasContent(remark1);
-    }
-</script>
-
-<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_pnlForm">
+					<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_pnlForm">
 	
 	<a id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_hlForm" onclick="if (typeof Isctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasFormSet == 'undefined'){   $('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasForm').dialog({ autoOpen:false, modal:true, width:600, height:450, open:function () { $(this).css({'position':'relative', 'visibility':'visible'}); $(this).parent().appendTo('form'); }, close:function () { /*modalDialog.dialog('widget').insertBefore(modalPlaceholder);*/ } });   $('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasForm').dialog('option', 'title', '');   Isctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasFormSet = true;}$('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasForm').dialog('open');return false;" href="UserControls/forms/#"></a>
 	<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasForm" style="overflow: hidden; display: none;">
@@ -605,32 +306,21 @@ MAIN CONTENT ROW STYLE
 					<td>
 						Remark:</td>
 					<td>
-						<textarea name="ctl00$ctl00$ctl00$cphMain$cphBottom$ucIdeas$txtIdeasRemark" rows="4" cols="40" id="txtIdeasRemark"></textarea></td>
+						<textarea name="ctl00$ctl00$ctl00$cphMain$cphBottom$ucIdeas$txtIdeasRemark" rows="4" cols="40" id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_txtIdeasRemark"></textarea>
+                        </td>
 				</tr>
 			</tbody></table>
 			<p class="big-btn-wrapper register-btn">
-				<a id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_btnSubmit" href="javascript:__doPostBack('ctl00$ctl00$ctl00$cphMain$cphBottom$ucIdeas$btnSubmit','')">Submit</a></p>
+                <a href="javascript:void(0)" onclick="SubmitIdeasContent(ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_divIdeasForm);" id="btnSub">Submit</a>
+				</p>
 		</div>
 	</div>
-    <span id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_lbIdeasScript"></span>
 
 </div>
-
+<span id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucIdeas_lbIdeasScript"></span>
 				</li>
 				<li>
-					
-<script type="text/javascript">
-
-    function CallCS() {
-        var remark1 = $("#txtCSRemark").text();
-        if (remark1.length == 0) {
-            alert("Please enter remark.")
-            return false;
-        }
-        return SubmitCSContent(remark1);
-    }
-</script>
-<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_pnlForm">
+					<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_pnlForm">
 	
 	<a id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_hlForm" onclick="if (typeof Isctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSFormSet == 'undefined'){   $('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSForm').dialog({ autoOpen:false, modal:true, width:600, height:450, open:function () { $(this).css({'position':'relative', 'visibility':'visible'}); $(this).parent().appendTo('form'); }, close:function () { /*modalDialog.dialog('widget').insertBefore(modalPlaceholder);*/ } });   $('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSForm').dialog('option', 'title', '');   Isctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSFormSet = true;}$('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSForm').dialog('open');return false;" href="UserControls/forms/#"></a>
 	<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSForm" style="overflow: hidden; display: none;">
@@ -656,32 +346,20 @@ MAIN CONTENT ROW STYLE
 					<td>
 						Remark:</td>
 					<td>
-						<textarea name="ctl00$ctl00$ctl00$cphMain$cphBottom$ucCustomerSupport$txtCSRemark" rows="3" cols="40" id="txtCSRemark"></textarea></td>
+						<textarea name="ctl00$ctl00$ctl00$cphMain$cphBottom$ucCustomerSupport$txtCSRemark" rows="3" cols="40" id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_txtCSRemark"></textarea></td>
 				</tr>
 			</tbody></table>
 			<p class="big-btn-wrapper register-btn">
-				<a id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_btnCSSubmit" href="javascript:__doPostBack('ctl00$ctl00$ctl00$cphMain$cphBottom$ucCustomerSupport$btnCSSubmit','')">Submit</a></p>
+				<a href="javascript:void(0)" onclick="SubmitCSContent(ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_divCSForm)" id="btnSub">Submit</a></p>
 		</div>
 	</div>
-    <span id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucCustomerSupport_lbCSScript"></span>
+
 
 </div>
 
 				</li>
 				<li>
-					
-<script type="text/javascript">
-
-    function CallTS() {
-        var remark1 = $("#txtTSRemark").text();
-        if (remark1.length == 0) {
-            alert("Please enter remark.")
-            return false;
-        }
-        return SubmitTSContent(remark1);
-    }
-</script>
-<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_pnlForm">
+					<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_pnlForm">
 	
 	<a id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_hlForm" onclick="if (typeof Isctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSFormSet == 'undefined'){   $('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSForm').dialog({ autoOpen:false, modal:true, width:600, height:450, open:function () { $(this).css({'position':'relative', 'visibility':'visible'}); $(this).parent().appendTo('form'); }, close:function () { /*modalDialog.dialog('widget').insertBefore(modalPlaceholder);*/ } });   $('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSForm').dialog('option', 'title', '');   Isctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSFormSet = true;}$('#ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSForm').dialog('open');return false;" href="UserControls/forms/#"></a>
 	<div id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSForm" style="overflow: hidden; display: none;">
@@ -707,14 +385,13 @@ MAIN CONTENT ROW STYLE
 					<td>
 						Remark:</td>
 					<td>
-						<textarea name="ctl00$ctl00$ctl00$cphMain$cphBottom$ucTechnicalSupport$txtTSRemark" rows="3" cols="40" id="txtTSRemark"></textarea></td>
+						<textarea name="ctl00$ctl00$ctl00$cphMain$cphBottom$ucTechnicalSupport$txtTSRemark" rows="3" cols="40" id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_txtTSRemark"></textarea></td>
 				</tr>
 			</tbody></table>
 			<p class="big-btn-wrapper register-btn">
-                <a id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_btnTSSubmit" href="javascript:__doPostBack('ctl00$ctl00$ctl00$cphMain$cphBottom$ucTechnicalSupport$btnTSSubmit','')">Submit</a></p>
+                <a href="javascript:void(0)" onclick="SubmitTSContent(ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_divTSForm)" id="btnSub">Submit</a></p>
 		</div>
 	</div>
-    <span id="ctl00_ctl00_ctl00_cphMain_cphBottom_ucTechnicalSupport_lbTSScript"></span>
 
 </div>
 
@@ -724,7 +401,7 @@ MAIN CONTENT ROW STYLE
 		</div>
 		<div class="colophon">
 			<p class="copyright">
-				<a href="#">© 2012 PADI | ScubaEarth® is a trademark of PADI</a> | v1.1.0.0</p>
+				<a href="#">© 2012 PADI | ScubaEarth® is a trademark of PADI</a> | v1.1.0.3</p>
 			<p class="privacy-terms">
 				<a href="/about-scubaearth.aspx?pagetype=privacy">Privacy</a> | <a href="/about-scubaearth.aspx?pagetype=terms">Terms</a></p>
 		</div>
@@ -1017,7 +694,9 @@ MAIN CONTENT ROW STYLE
                 });
 
             });
+
         </script>
+        <script type="text/javascript" src="/content/scripts/getsearchitemselected.js"></script>
     </form>
 
 
