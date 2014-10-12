@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveilzone.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118181300id_/http%3A//www.surveilzone.com/helpinfo%3Ffaqs_id%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveilzone.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012052425id_/http%3A//www.surveilzone.com/helpinfo%3Ffaqs_id%3D19) for the most accurate reproduction.*
 
-# Privacy Policy TITLE
+# Privacy Policy
 
   At **[SurveilZone.com](http://www.surveilzone.com/)** , your privacy is very important to us, we take extensive measures to ensure that your shopping experience with us is safe and secure. We will not sell, share, or rent this information to any outside parties, except as outlined in this policy.
 
