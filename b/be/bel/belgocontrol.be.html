@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the belgocontrol.be privacy policy that was archived on 2014-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140403231637id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belgocontrol.be privacy policy that was archived on 2014-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141012125359id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -172,6 +172,87 @@ var send = "true";
 		send = "false";}
 	if (Feedback.FirstName.value== "") 
 		{msg = msg + "- prénom\n"
+		send = "false";}
+	if (Feedback.Email.value== "") 
+		{msg = msg + "- email\n"	
+		send = "false";}
+ 
+	if (send=="true")
+		{Feedback.submit();}
+	else
+		{alert ("Veuillez remplir les champs suivants:" + "\n\n" + msg);}
+}
+
+function check_feedback_ans_course_EN()
+{
+var msg = "";	
+var send = "true";
+
+	if (Feedback.LastName.value== "") 
+		{msg = msg + "- last name\n"
+		send = "false";}
+	if (Feedback.FirstName.value== "") 
+		{msg = msg + "- first name\n"
+		send = "false";}
+	if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
+		{msg = msg + "- address\n"
+		send = "false";}
+	if (Feedback.Phone.value== "") 
+		{msg = msg + "- phone\n"
+		send = "false";}
+	if (Feedback.Email.value== "") 
+		{msg = msg + "- email\n"	
+		send = "false";}
+ 
+	if (send=="true")
+		{Feedback.submit();}
+	else
+		{alert ("Please fill out the below fields:" + "\n\n" + msg);}
+}
+
+function check_feedback_ans_course_NL()
+{
+var msg = "";	
+var send = "true";
+
+	if (Feedback.LastName.value== "") 
+		{msg = msg + "- naam\n"
+		send = "false";}
+	if (Feedback.FirstName.value== "") 
+		{msg = msg + "- voornaam\n"
+		send = "false";}
+	if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
+		{msg = msg + "- adres\n"
+		send = "false";}
+	if (Feedback.Phone.value== "") 
+		{msg = msg + "- telefoon\n"
+		send = "false";}
+	if (Feedback.Email.value== "") 
+		{msg = msg + "- email\n"	
+		send = "false";}
+ 
+	if (send=="true")
+		{Feedback.submit();}
+	else
+		{alert ("Gelieve onderstaande velden in te vullen:" + "\n\n" + msg);}
+}
+
+function check_feedback_ans_course_FR()
+{
+var msg = "";	
+var send = "true";
+
+	if (Feedback.LastName.value== "") 
+		{msg = msg + "- nom\n"
+		send = "false";}
+	if (Feedback.FirstName.value== "") 
+		{msg = msg + "- prénom\n"
+		send = "false";}
+	if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
+		{msg = msg + "- adresse\n"
+		send = "false";}
+	if (Feedback.Phone.value== "") 
+		{msg = msg + "- téléphone\n"
 		send = "false";}
 	if (Feedback.Email.value== "") 
 		{msg = msg + "- email\n"	
@@ -458,7 +539,8 @@ var send = "true";
 	else
 		{alert ("Veuillez remplir les champs suivants:" + "\n\n" + msg);}
 }
-</script><script language="JavaScript">
+</script>
+<script language="JavaScript">
 
 function check_feedback_web_feedback_EN()
 {
