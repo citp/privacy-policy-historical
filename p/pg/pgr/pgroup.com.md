@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124406id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012043641id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy/Your California Privacy Rights | NVIDIA
 
-This policy was last updated on April 2, 2014.
+This policy was last updated on July 15, 2014.
 
 NVIDIA ("Nvidia", "we" or "us") is committed to respecting your privacy. This Privacy Policy applies to our world-wide family of NVIDIA-owned websites, mobile apps and products including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](http://www.geforce.com/), [GTC](http://www.gputechconf.com/page/home.html), [TegraZone.com](http://www.tegrazone.com/), and [shield.nvidia.com](http://shield.nvidia.com/) as well as to our mobile apps and internet-connected devices (collectively, our "Services").
 
