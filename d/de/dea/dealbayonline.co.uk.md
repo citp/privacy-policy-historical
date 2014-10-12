@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealbayonline.co.uk privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513004434id_/http%3A//www.dealbayonline.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealbayonline.co.uk privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012155213id_/http%3A//dealbayonline.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20140513004434id_/http%3A//www.dealbayonline.co.uk/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20141012155213id_/http%3A//dealbayonline.co.uk/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
 
 © 2014 dealbayonline.co.uk 
 
