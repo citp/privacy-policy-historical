@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qoinpro.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020757id_/http%3A//qoinpro.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoinpro.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012205406id_/https%3A//qoinpro.com/info/privacy) for the most accurate reproduction.*
 
 # Free Bitcoins, free Litecoins, free Feathercoins - QoinPro.com
 
