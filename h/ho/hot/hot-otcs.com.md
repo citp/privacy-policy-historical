@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-otcs.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903070736id_/http%3A//www.hot-otcs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-otcs.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012022303id_/http%3A//hot-otcs.com/privacy.html) for the most accurate reproduction.*
 
 # Daily Penny Stocks Alerts, Get Hot Penny Stock Alerts
 
