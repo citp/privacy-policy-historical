@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031852id_/http%3A//business.usa.gov/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012205304id_/http%3A//business.usa.gov/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | BusinessUSA
 
@@ -49,4 +49,5 @@ The information posted on the Business.USA.gov website includes hypertext links 
   * GSA and Business.USA.gov are not responsible for transmissions users receive from linked websites.
   * GSA and Business.USA.gov do not guarantee that outside websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
 
+  
 
