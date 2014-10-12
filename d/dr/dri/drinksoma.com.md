@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drinksoma.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074250id_/https%3A//www.drinksoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinksoma.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012073045id_/https%3A//www.drinksoma.com/privacy) for the most accurate reproduction.*
 
-# Water Filter Pitcher | Natural, Beautiful & Sustainable | Soma®
+# Soma: Beautifully Innovative, All-Natural Water Filters
 
 * * *
 
