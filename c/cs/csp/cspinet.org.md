@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073729id_/http%3A//cspinet.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013090747id_/http%3A//cspinet.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Center for Science in the Public Interest
 
