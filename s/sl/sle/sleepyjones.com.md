@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleepyjones.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108134530id_/http%3A//sleepyjones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepyjones.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013100726id_/http%3A//sleepyjones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sleepy Jones
+# Privacy Policy - Sleepy Jones
 
 ### **Privacy Policy**
 
