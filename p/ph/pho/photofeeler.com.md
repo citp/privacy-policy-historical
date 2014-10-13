@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photofeeler.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034508id_/https%3A//www.photofeeler.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photofeeler.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013071708id_/https%3A//www.photofeeler.com/privacy-policy) for the most accurate reproduction.*
 
-# PhotoFeeler - Discovering how our photos speak for us
+# PhotoFeeler - Profile photo testing for social, professional, and online dating profiles.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
