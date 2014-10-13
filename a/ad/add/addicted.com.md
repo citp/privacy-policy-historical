@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607060853id_/http%3A//addicted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013110542id_/http%3A//addicted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,27 @@ If you have any questions about this Policy, our privacy practices related to th
     2. 4.2 Lost or Stolen Information 
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. 
+
+
+
+
+  * ### Find Help Now
+
+Enter your ZIP to find help nearest you:
+
+[Search](http://www.addicted.com/lander "Find Addiction Recovery Help Now!")
+
+  * ### Contact Us For Support
+
+  * ### How Is Obamacare Affecting Addiction?
+
+[ ](http://addicted.com/obamacare-addiction-in-america/)
+
+  * ### Did You Know?
+
+"60 percent of seniors don’t see regular marijuana use as harmful, but THC (the active ingredient in the drug that causes addiction) is nearly five times stronger than it was 20 years ago." — [http://www.dosomething.org](http://www.dosomething.org/)
+
+Next »
 
 
 
