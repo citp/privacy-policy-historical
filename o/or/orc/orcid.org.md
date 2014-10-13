@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092332id_/http%3A//orcid.org/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013043457id_/http%3A//orcid.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # ORCID Privacy Policy | ORCID
 
