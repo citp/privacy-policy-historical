@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bjorn3d.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035823id_/http%3A//www.bjorn3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjorn3d.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013095419id_/http%3A//www.bjorn3d.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bjorn3D.com
+# Privacy Policy - Bjorn3D.com
 
 This website does not collect any personal information about you except for the information you voluntarily provide when you for example register on our forum. We do set cookies for pure statistical reasons and no personal information is collected through these cookies.
 
