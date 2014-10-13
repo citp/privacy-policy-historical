@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetside2.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313031555id_/http%3A//www.soe.com/privacy%3Flocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetside2.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013212643id_/http%3A//www.soe.com/privacy%3Flocale%3Den_US) for the most accurate reproduction.*
 
 # Sony Online Entertainment - Privacy Policy
 
