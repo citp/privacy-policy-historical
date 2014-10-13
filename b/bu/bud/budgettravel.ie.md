@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettravel.ie privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604143058id_/http%3A//www.budgettravel.ie/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.ie privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013045344id_/http%3A//www.budgettravel.ie/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Budget Travel
 
