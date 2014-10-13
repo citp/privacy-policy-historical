@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigpondmovies.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104939id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fred%3D/privacy/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpondmovies.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013082226id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fred%3D/privacy/privacy_statement.html) for the most accurate reproduction.*
 
-# Telstra - Privacy statement (including credit reporting policy - Privacy
+# Telstra - Privacy statement (including Credit Reporting Policy)
 
 This statement is our privacy policy which sets out how we manage your personal information and other information. Before we go into the detail, we need to define a few terms. This bit can get a bit technical, so please bear with us:
 
