@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photographyonlinetutorials.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614004421id_/http%3A//www.photographyonlinetutorials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyonlinetutorials.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013025710id_/http%3A//www.photographyonlinetutorials.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | POT
+# Privacy Policy | Photography Online Tutorials
 
 At Photography Online Tutorials, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information (as defined below). This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information and other information that we collect on the Website.
 
