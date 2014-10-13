@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omgchrome.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311022229id_/http%3A//www.omgchrome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgchrome.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013135830id_/http%3A//www.omgchrome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OMG! Chrome!
+# Privacy Policy - OMG! Chrome!
 
 ## **Privacy Policy for omgchrome.com**
 
