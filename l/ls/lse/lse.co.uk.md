@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216155852id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013091953id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
 
 # London South East - Data Protection and Privacy Statement
 
@@ -22,7 +22,7 @@ We collect information you give us when completing the 'Contact' section. Where 
 
 Cookies are small text files which are often stored on your computer's hard drive by websites you visit to enable the site to remember who you are. These cookies store your unique ID but do not contain any information that personally identifies you, such as a name or address. We use cookies when you log onto our site to stop you having to re-type information and they remain on your computer until you delete them.
 
-Without cookies you cannot login to LSE.co.uk. We use cookies to enhance the functionality of the website by storing your preferences/settings, as well as using cookies to help us to improve the performance of our website and to provide you with a better user experience.
+Without cookies you cannot login to London South East. We use cookies to enhance the functionality of the website by storing your preferences/settings, as well as using cookies to help us to improve the performance of our website and to provide you with a better user experience.
 
 Most browsers are automatically set to accept cookies and you should be able to restrict or disable them if you wish by adjusting the settings on your browser. This will however alter your use of the areas of our website that use cookies, such as the login areas. We do not use 'spyware', that is web bugs or hidden identifiers or other similar devices to gain access to information or to trace your activities. For more information about cookies and instructions on how to adjust your browser settings or restrict or disable cookies, see the IAB website at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Contact us or view our dedicated Cookie page on the site for specific information on the cookies we use.
 
@@ -46,7 +46,7 @@ We disclose your information to third parties in certain circumstances but we wi
 
 We may share your information with any group of companies of ours as defined under the Companies Act 2006 so that they can provide any products and services to you where you have personally requested them or where we feel such information is necessary to keep you informed of any products or services that they believe will be of interest to you. We may provide anonymous aggregated data to reputable third parties on a commercial basis.
 
-We will give third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. We will disclose your information to enforcement authorities if asked to do so, or to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
+We may give third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. We will disclose your information to enforcement authorities if asked to do so, or to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
 
 **Personal Data Requested**  
 To contribute to the content on this website (either forum posts or website articles/links) all we require is that when registering you confirm you are 16 or over, you choose a unique username, a personal password and you enter your valid email address so you can collect your account activation code by email. You should not use any personally identifiable information (such as your real name) as your username.
@@ -67,15 +67,15 @@ If you have any questions about our privacy statement or the information we hold
 
 Further information about data protection issues can be found at the Information Commissioners Office.
 
-## Exclusion and Limitation of LSE's Liability - Important
+## Exclusion and Limitation of London South East's Liability - Important
 
-LSE does not make any warranty or representation as to the accuracy or fitness for purpose of any material on this website or the reliability of any information contained herein.
+London South East does not make any warranty or representation as to the accuracy or fitness for purpose of any material on this website or the reliability of any information contained herein.
 
-Under no circumstances, including but not limited to negligence, shall LSE be liable to you for direct, indirect, incidental, consequential loss or damages arising from use or inability to use this website or any links to the same.
+Under no circumstances, including but not limited to negligence, shall London South East be liable to you for direct, indirect, incidental, consequential loss or damages arising from use or inability to use this website or any links to the same.
 
-Information on this website will be updated from time to time and may at times be out of date and LSE accepts no responsibility for keeping the information on this website up to date or accepts any liability for any failure so to do.
+Information on this website will be updated from time to time and may at times be out of date and London South East accepts no responsibility for keeping the information on this website up to date or accepts any liability for any failure so to do.
 
-This website contains materials submitted and created by third parties. LSE excludes all liability for any legality arising from an error, omission or inaccuracy in any such material and LSE takes no such responsibility for such material.
+This website contains materials submitted and created by third parties. London South East excludes all liability for any legality arising from an error, omission or inaccuracy in any such material and London South East takes no such responsibility for such material.
 
 ## Law and Jurisdiction
 
@@ -83,4 +83,4 @@ Use of this website and these terms shall be subject only to the laws of England
 
 The Courts of England and Wales shall have exclusive jurisdiction over all claims or disputes arising in relation to, out of or in connection with this website, its use and these terms.
 
-These terms and conditions constitute the entire agreement between you and LSE relating to the subject herein.
+These terms and conditions constitute the entire agreement between you and London South East relating to the subject herein.
