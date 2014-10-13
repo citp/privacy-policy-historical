@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the millionairemindspro.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508090557id_/http%3A//www.millionairemindspro.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairemindspro.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013194618id_/http%3A//www.millionairemindspro.com/english/privacy_en.html) for the most accurate reproduction.*
 
-# Millionaire Minds Pro
+# None
 
-**PRIVACY POLICY**
+Welcome to our site: 
 
-Your privacy is very important to us. I want to make your experience on the Internet as enjoyable and rewarding as possible, and I want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
+Your privacy is very important to us. I want to make your experience on the Internet as enjoyable and rewarding as possible, and I want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future. 
+This privacy policy (the â€œPrivacy Policyâ€) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future. 
 
 By visiting my site or sending us information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to continue operating this website, including the variety of information and services it contains. Similarly, I need you to provide accurate personal information so that you can be contacted and, if you purchase anything, so that I can complete the transaction. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information, product, and/or service you are requesting.
 
@@ -26,7 +26,6 @@ I do not knowingly collect personally identifiable information from children und
 
 Contact us at the address below if you want me to change or delete any information that we have about you. I will respond to your request to access, update, or delete your information within ten (10) business days. Before I am able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
 
-This website is owned and operated, or operated under agreement, by:  
-Rui João Marques Ludovino, Rua General Ferreira Martins, Nº1, 1º, Alges, Portugal
+This website is owned and operated, or operated under agreement, by: MillionaireMindsPro.com
 
-This privacy policy is effective as of January 1, 2011.
+This privacy policy is effective as of March 2011.
