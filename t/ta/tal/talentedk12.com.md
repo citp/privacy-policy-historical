@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510122040id_/http%3A//www.netchemia.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013034500id_/http%3A//www.netchemia.com/privacy-statements) for the most accurate reproduction.*
 
 # Privacy Statements
 
