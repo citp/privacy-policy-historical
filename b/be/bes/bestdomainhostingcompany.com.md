@@ -1,100 +1,43 @@
-> *The following text is extracted and transformed from the bestdomainhostingcompany.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdomainhostingcompany.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013040139id_/http%3A//my.ddos-sentry.org/knowledgebase/4/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Knowledgebase - DDoS-Sentry
 
-**Go Daddy Respects Your Privacy**
+DDoS Sentry have written up this privacy statement to display our commitment in keeping our clients and visitors sensitive data safe and ensuring all ethical business practices are followed.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**What's Collected?**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+DDoS Sentry uses and collects various kinds of data to help do various things. The main reasons include:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * Support Clients
+  * Improve Products and Services
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+In order to do this the following information may be collected from visitors and clients:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * Contact Information (Particularly Clients)
+  * Financial Information (Credit and Debit Card Numbers)
+  * IP Addresses
+  * How Secure Is The Information Collected?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+DDoS Sentry strive in maintaining a persistently high security level on all the servers they own and their website. Any of the information that is collected is transmitted through SSL (Secure Socket Layer) and encrypted along the way to help prevent any third party interception. Any of the databases that collected data is stored in is only accessible by DDoS Sentry Administrator. No other employee or third party have access to these databases. We ensure any information collected is secured by DDoS Sentry and sensitive information like passwords are encrypted.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Why Do We Need This Information?**
 
-**Security**
+The main reason that this information is collected is to contact you when necessary. Particularly clients who will need invoicing regular and informed of any server related issues etc. We also require this information to identify you when you need support. We may use the information to help identify you and verify that you own the account you need help with to prevent being misled.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Financial Information**
 
-**Updating Your Information**
+If you choose to purchase a product through the use of credit or debit card DDoS Sentry will collect banking information in order to debit your account and enable your hosting services. All of the banking information that is requested is optional but may be required to complete the purchase. Failing to provide all information may result in the order not being completed. All banking information that is collected through DDoS Sentry website is securely protected using SSL (Secure Sockets Layer) encryption to help enhance security. Any banking information that is collected by DDoS Sentry on a transaction by transaction basis and we will never authorize the release of this information to any third parties that are not directly involved in the processing of the transaction. Any banking information that is collected may be stored for reference at a later date.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**IP Addresses**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+DDoS Sentry may collect clients and visitors and clients IP addresses to help diagnose web server related issues and may use them as a unique identifier for clients when helping diagnose any issues through any support methods that are not linked to support tickets such as MSN or Skype.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Linked Websites**
 
-      iii.      You may call us at: (480) 505-8800
+DDoS Sentry's website may contain links to external websites. DDoS Sentry is in no way responsible for the privacy practices and the content which is listed on these websites. Any of the websites that is listed will be regularly visited and monitored by DDoS Sentry to ensure as much client and visitor safety as possible. DDoS Sentry strive in maintaining a persistently high level of privacy and will consider removal of any linked website those posses as a privacy threat upon request of any visitor or client.
 
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Copyright © 2014 DDoS-Sentry. All Rights Reserved.
