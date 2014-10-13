@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chop.edu privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430151946id_/http%3A//www.chop.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chop.edu privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013191643id_/http%3A//www.chop.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Children's Hospital of Philadelphia
 
@@ -30,7 +30,7 @@ Our privacy policies apply only to your use of the Service. The Service contains
 
 ## E-mail Communications, Newsletters and Related Services
 
-The Service provides you with the opportunity to receive communications from us. Once you have decided to receive such communications, you may later decide to stop receiving them. If you are a member of our Online Community and want to stop receiving communications, you may go to [www.chop.edu/newsletter-unsubscribe.jsp](https://web.archive.org/newsletters/newsletter-unsubscribe.jsp), log in as you normally would, and change or deselect your subscription options. You may also send a message to our [Web Access Center](https://web.archive.org/contact-us/general-contact-form.html) or send mail to the following postal address: Web Access Center, The Children’s Hospital of Philadelphia, Web Center, 34th Street and Civic Center Boulevard, Philadelphia, PA 19104.
+The Service provides you with the opportunity to receive communications from us. Once you have decided to receive such communications, you may later decide to stop receiving them. If you are a member of our Online Community and want to stop receiving communications, you may [unsubscribe here](http://chop.us2.list-manage1.com/unsubscribe?u=9ca30ff029816ed8ee975696d&id=a85baa9ddd). You may also send a message to our [Web Access Center](https://web.archive.org/contact-us/general-contact-form.html) or send mail to the following postal address: Web Access Center, The Children’s Hospital of Philadelphia, Web Center, 34th Street and Civic Center Boulevard, Philadelphia, PA 19104.
 
 ## Passwords
 
