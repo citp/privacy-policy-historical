@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectfreelink.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831132625id_/http%3A//www.projectfreelink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectfreelink.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013073144id_/http%3A//www.projectfreelink.com/%3Fpage_id%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
