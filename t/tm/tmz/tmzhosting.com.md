@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622051736id_/https%3A//www.tmzhosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013075141id_/https%3A//www.tmzhosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TMZHosting
 
