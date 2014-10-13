@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402191446id_/http%3A//thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013032953id_/http%3A//www.thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
 
 # The Traffic Goldrush | Web Traffic Targeted | Free Marketing Email | Email Marketing Direct
 
-[](http://thetrafficgoldrush.com/banclick.php?code=536a76f94cf7535158f66cfbd4b113b6)  
+[](http://thetrafficgoldrush.com/banclick.php?code=f7a82ce7e16d9687e7cd9a9feb85d187)  
 
 
 The Traffic Goldrush Privacy Policy
