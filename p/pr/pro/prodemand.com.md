@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodemand.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229032831id_/http%3A//mitchell1.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodemand.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013131102id_/http%3A//mitchell1.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Mitchell Repair Information Company, LLC Legal Notices
 
