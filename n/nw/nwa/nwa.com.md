@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwa.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426132807id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwa.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013083247id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security | Delta Air Lines
 
