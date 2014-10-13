@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogpig.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820233446id_/http%3A//blogpig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpig.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013022906id_/http%3A//blogpig.com/privacy) for the most accurate reproduction.*
 
 # 
 
