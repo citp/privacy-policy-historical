@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074029id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013025433id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy :: Wholesale Flowers :: Wedding Flowers :: Wholesale Flowers Overnight
+# Privacy ::Online Wholesaler Of Flowers. Buy Bulk Flowers Online
 
-_**WFO Privacy Policy**_ We have established this privacy policy so that you can understand how we intend to treat your personal information. We strive to comply with all applicable laws around the globe that are designed to protect your privacy.
+_**WFO Privacy Policy**_
+
+We have established this privacy policy so that you can understand how we intend to treat your personal information. We strive to comply with all applicable laws around the globe that are designed to protect your privacy.
 
 Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit the without telling us who you are or revealing any personal information about yourself.
 
