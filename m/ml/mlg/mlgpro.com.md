@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlgpro.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325230604id_/http%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlgpro.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013040235id_/http%3A//accounts.majorleaguegaming.com/privacy_policy) for the most accurate reproduction.*
 
 # MLG Account Management - MLG - Major League Gaming
 
