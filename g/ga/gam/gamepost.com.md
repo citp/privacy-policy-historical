@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520201444id_/http%3A//www.gamepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015002441id_/http%3A//www.gamepost.com/privacy) for the most accurate reproduction.*
 
 # GAMEPOST.com - Privacy Policy
 
