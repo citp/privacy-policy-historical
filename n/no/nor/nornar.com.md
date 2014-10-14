@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nornar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112835id_/http%3A//nornar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nornar.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015002454id_/http%3A//nornar.com/privacy.html) for the most accurate reproduction.*
 
-# Nornar.com - כותרת עמוד
+# Nornar.com - Easy way to share your files
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by **nornar.com** for measuring usage.
