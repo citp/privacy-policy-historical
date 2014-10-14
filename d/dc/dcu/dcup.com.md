@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112421id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015014205id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HTTP Electronic Publishing, Inc.
 
