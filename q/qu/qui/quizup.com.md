@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizup.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307070846id_/http%3A//quizup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizup.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014075215id_/http%3A//www.quizup.com/en/privacy) for the most accurate reproduction.*
 
 # QuizUp
 
@@ -6,7 +6,7 @@
 
 **Last Updated: 7 November 2013**
 
-Your privacy is important to Plain Vanilla. This Privacy Policy covers how we collect, use, disclose, transfer, and store information that we receive when you use our Services (as defined in our Terms of Service, accessible at [“Terms of use”](https://web.archive.org/terms-of-use)). Please take a moment and read over our privacy policy and let us know if you have any questions. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
+Your privacy is important to Plain Vanilla. This Privacy Policy covers how we collect, use, disclose, transfer, and store information that we receive when you use our Services (as defined in our Terms of Service, accessible at [“Terms of use”](https://web.archive.org/en/terms-of-use)). Please take a moment and read over our privacy policy and let us know if you have any questions. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
 ### Collection and Use of PII
 
@@ -23,9 +23,9 @@ Here are some examples of the types of PII we may collect and how we may use it.
 
 #### How we use your PII
 
-  * The PII we collect allows us to keep you posted on Plain Vanilla‘s latest Services and updates. Plain Vanilla and its affiliates may share PII with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our Services. 
+  * The PII we collect allows us to keep you posted on Plain Vanilla‘s latest Services and updates. Plain Vanilla and its affiliates may share PII with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our Services.
   * We also use PII to help us develop, deliver, and improve our Services.
-  * From time to time, we may use your PII to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. If you don’t want to be on our mailing list, you can opt out anytime by unregistering at [unsubscribe@plainvanillagames.com](mailto:unsubscribe@plainvanillagames.com)
+  * From time to time, we may use your PII to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. If you don’t want to be on our mailing list, you can opt out anytime by unregistering at [unsubscribe@plainvanillagames.com](mailto:unsubscribe@plainvanillagames.com)
   * We may also use PII for internal purposes such as auditing, data analysis, and research to improve Plain Vanilla’s Services and customer communications.
 
 
