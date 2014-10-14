@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502230437id_/http%3A//www.salesforcemarketingcloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014080419id_/http%3A//www.radian6.com/privacy-policy) for the most accurate reproduction.*
 
-# Salesforce.com Marketing Cloud – Privacy - Salesforce Marketing Cloud
+# ExactTarget Privacy Policy | ExactTarget
 
-##### Last Updated February 26, 2013
+  1. [Home](https://web.archive.org/)
+  2. Privacy Policy
 
-* * *
+
 
 Salesforce.com Inc. and its affiliates (“salesforce.com” or the “Company,”) are committed to responsible information-handling practices in relation to its Marketing Cloud business.
 
 The following privacy statements describe the different types of personal information the Company handles relating to the Marketing Cloud Web sites and the Marketing Cloud Services and the Company’s privacy practices with respect to such personal information:
 
-The [Web Site Privacy Statement](http://www.salesforcemarketingcloud.com/privacy-policy/website-privacy-statement/) addresses the Company’s handling of personal information collected by visitors to the Marketing Cloud Web sites and users of the Marketing Cloud Services.
+The [Web Site Privacy Statement](http://www.exacttarget.com/privacy-policy/website-privacy-statement) addresses the Company’s handling of personal information collected by visitors to the Marketing Cloud Web sites and users of the Marketing Cloud Services.
 
-The [Indexed Content Privacy Statement](http://www.salesforcemarketingcloud.com/privacy-policy/indexed-content-privacy-statement/) addresses the Company’s handling of information, including personal information, obtained from the Internet through the Marketing Cloud Services.
+The [Indexed Content Privacy Statement](http://www.exacttarget.com/privacy-policy/indexed-content-privacy-statement) addresses the Company’s handling of information, including personal information, obtained from the Internet through the Marketing Cloud Services.
 
 Questions about the Company’s information-handling practices as they relate to the Marketing Cloud Web sites and Marketing Cloud Services should be directed to salesforce.com Privacy Office:
 
-E-mail address: [privacy@salesforce.com](mailto:privacy@salesforce.com)
+E-mail address: [privacy@exacttarget.com](mailto:privacy@exacttarget.com)
 
-Mail:  The Landmark @ One Market Street, Suite 300, San Francisco, CA 94105.
+Mail: The Landmark @ One Market Street, Suite 300, San Francisco, CA 94105.
