@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funherd.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217143618id_/http%3A//www.funherd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funherd.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014124730id_/http%3A//www.funherd.com/privacy.html) for the most accurate reproduction.*
 
 # Free Online FunGames to Play at funherd.com
 
