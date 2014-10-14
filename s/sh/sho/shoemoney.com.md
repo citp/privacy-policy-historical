@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoemoney.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215032833id_/http%3A//shoemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemoney.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014085629id_/http%3A//www.shoemoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ShoeMoney
 
@@ -57,5 +57,3 @@ Unfortunately, no security system can be guaranteed to be 100% secure. According
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please email info@ShoeMoney.com.
 
 Our address is 1316 N. Street, Lincoln, NE  68508, Attention: ShoeMoney Counsel.
-
-_[full disclosure](https://web.archive.org/important-shoemoney-disclaimer-disclosure-policy)_
