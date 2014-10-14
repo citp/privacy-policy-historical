@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ycharts.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625141118id_/http%3A//ycharts.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ycharts.com privacy policy that was archived on 2014-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141014073855id_/http%3A//ycharts.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="ng-app" ng-app="baseApp"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,7 +20,7 @@
 
 
 
-<link href="//d3ts3pbkmjhdi3.cloudfront.net/compressed_css/main.ecae87b91250.css" rel="stylesheet" type="text/css">
+<link href="//d3ts3pbkmjhdi3.cloudfront.net/compressed_css/main.93df3de66a3f.css" rel="stylesheet" type="text/css">
 
 
 <!-- Start ChartBeat tag -->
@@ -31,9 +31,9 @@
 
 <script>window.jQuery || document.write(unescape('%3Cscript src="//d3ts3pbkmjhdi3.cloudfront.net/main/js/vendors/jquery-1.9.1.663628f795cb.js"%3E%3C/script%3E'))
 </script><script src="//d3ts3pbkmjhdi3.cloudfront.net/main/js/vendors/jquery-1.9.1.663628f795cb.js"></script>
-<!--[if lt IE 9]><script   type="text/javascript" src="//d3ts3pbkmjhdi3.cloudfront.net/compressed_js/excanvas.c5c8f19026a2.js" charset="utf-8"></script><![endif]-->
+<!--[if lt IE 9]><script   type="text/javascript" src="//d3ts3pbkmjhdi3.cloudfront.net/compressed_js/ie8_polyfill.9b46d1085a9f.js" charset="utf-8"></script><![endif]-->
 
-<script type="text/javascript" src="//d3ts3pbkmjhdi3.cloudfront.net/compressed_js/main.9cd1210e9cbd.js" charset="utf-8"></script>
+<script type="text/javascript" src="//d3ts3pbkmjhdi3.cloudfront.net/compressed_js/main.f074c6a1236e.js" charset="utf-8"></script>
 
 
 
@@ -118,7 +118,7 @@ googletag.enableServices();
             <div id="search" ng-controller="SearchAcCtrl">
                 <form method="get" action="/search/">
                     <div class="searchWrap">
-                        <div yc-autocomplete="" block-invalid-input="true" input-class="txt search" input-placeholder="Search for Stocks, Indexes, or Economic Data" show-more-results-url="true" on-submit-handler="onSubmit(object, input)" result-class="searchAutoComp base" result-type="categories" search-type="main" select-first="true" submit-label="" submit-class="sbmt" wrapper-class="mainSearch"></div>
+                        <div yc-autocomplete="" block-invalid-input="true" input-class="txt search" input-placeholder="Search for Stocks, Mutual Funds, Indexes, or Economic Data" show-more-results-url="true" on-submit-handler="onSubmit(object, input)" result-class="searchAutoComp base" result-type="categories" search-type="main" select-first="true" submit-label="" submit-class="sbmt" wrapper-class="mainSearch"></div>
                     </div>
                 </form>
             </div>
@@ -127,9 +127,9 @@ googletag.enableServices();
         <div class="userCol">
         
             <ul id="svcInfo">
+                <li><a href="/store/start_trial">Plans and Pricing</a></li>
+                <li class="hot"><a class="hot" href="/store/start_trial_register">Start Your Free Trial</a></li>
                 <li><a href="/login?next=/about/privacy" rel="nofolow">Sign in</a></li>
-                <li><a href="/store/choose/pro">Plans and Pricing</a></li>
-                <li class="hot"><a class="hot" href="http://info.ycharts.com/Professional.html">Request a Demo</a> (866) 965 7552</li>
             </ul>
         
         </div>
@@ -187,7 +187,7 @@ googletag.enableServices();
 <script type="text/javascript">
 var baseApp = angular.module('baseApp', ['base']);
 
-// Set the user object for the AppDataProvider -- used by yc-login-required
+// Set the user object for the AppDataProvider -- used by yc-feature-needed directive and HasFeature Factory
 baseApp.config(function($httpProvider, AppDataProvider){
     if (!$httpProvider.defaults.headers.get) {
         $httpProvider.defaults.headers.get = {};
@@ -199,6 +199,7 @@ baseApp.config(function($httpProvider, AppDataProvider){
         features : [],
         possibleFeatures : []
     };
+
     user.hasFeature = function(feature){
         if (feature === ''){
             return true;
@@ -274,31 +275,27 @@ Last Updated June 16, 2009.
 
 <div id="angularUpsellPopupFormFrame" ng-cloak="" ng-show="root.upsell.show">
     <div class="overlay"></div>
-    <div id="productUpsellRegister" class="lbPopupForm" style="z-index: 1000; position: fixed;">
+    <div id="productUpsellRegister" class="lbPopupForm">
         <a href="" class="popupXClose" id="closePopupForm" ng-click="root.upsell.show=false"></a>
-        <div id="productUpsellContainer">
-            <h3 class="lbHedLrg">
-                {{root.upsell.info.feature_headline}}.<br>
-                <span ng-if="root.upsell.info.is_upgrade">Upgrade to {{root.upsell.info.tier_name}}.</span>
-                <span ng-if="root.upsell.info.is_upgradeable">Start Your YCharts Membership.</span>
-                <span ng-if="!root.upsell.info.is_upgrade &amp;&amp; !root.upsell.info.is_upgradeable">Start your {{root.upsell.info.tier_name}} Membership</span>
-            </h3>
 
-            <p class="lbIntro">{{root.upsell.info.feature_description}}</p>
+        <h3 class="lbHedLrg">{{root.upsell.info.feature_headline}}.</h3>
+        <h4 class="lbSubHedLrg">{{root.upsell.info.feature_description}}<br>
+            <span ng-if="!root.upsell.info.is_upgrade &amp;&amp; !root.upsell.info.is_activate">Start your free 14 Day Trial.</span>
+        </h4>
 
-            <a id="productUpsellSubmit" class="greenButAuto" href="{{root.upsell.info.feature_payment_url}}">
-                <span class="endCap"></span><span class="type">{{root.upsell.info.is_upgrade ? "Upgrade Now" : "Get Started Now"}}</span>
-            </a>
-            <div ng-if="!root.upsell.info.is_upgrade">
-                <div class="clear"></div>
-                <p class="postSubmitLine">
+        <a class="butSolid blue" href="{{root.upsell.info.feature_payment_url}}">
+            {{root.upsell.info.button_text}}
+        </a>
 
-                    <span ng-if="root.upsell.info.is_upgradeable">Already a YCharts Member?</span>
-                    <span ng-if="!root.upsell.info.is_upgradeable">Already a {{root.upsell.info.tier_name}} Member?</span>
-                    <a href="{{root.upsell.info.login_url}}">Sign in here</a>.
-                </p>
-            </div>
+        <span ng-if="!root.upsell.info.is_upgrade &amp;&amp; !root.upsell.info.is_activate" class="noCreditReq">No credit card required.</span>
+
+        <div ng-if="!root.upsell.info.is_upgrade &amp;&amp; !root.upsell.info.is_activate">
+            <p class="signinLine">
+                <span>Already a subscriber?</span>
+                <a href="{{root.upsell.info.login_url}}">Sign in</a>.
+            </p>
         </div>
+
     </div>
 </div>
 
