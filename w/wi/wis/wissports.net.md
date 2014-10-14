@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410112535id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014150420id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Sport Ngin
 
