@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092235id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014122146id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
 
-# Amped Asia | Asian Lifestyle & Entertainment Magazine
-
-**PAGES ON AMPED ASIA**
+# Amped Asia | Lifestyle Magazine For the Modern Asian Gentleman
 
 At Amped Asia, we take your privacy seriously. This page outlines our policies regarding any information that you may send us. 
 
@@ -19,8 +17,3 @@ Cookies are set when you login to the forums, also third-party cookies are set b
 
 
 If you have any questions, [contact us at mail[@]ampedasia.com](mailto:%20mail@ampedasia.com). Thank you. 
-
-**AMPED ASIA TV**
-
-  
-
