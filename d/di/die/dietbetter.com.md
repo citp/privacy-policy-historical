@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietbetter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105118id_/http%3A//www.dietbetter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietbetter.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014070902id_/http%3A//www.dietbetter.com/privacy) for the most accurate reproduction.*
 
-# DietBet | Privacy Policy
+# Privacy Policy - DietBet
 
 Here at DietBet, we are strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for all of our players. The purpose of our privacy policy is to outline the information we gather when you visit our site and how we may use that information. By visiting our website (and any others we control), you are signifying your agreement with the practices outlined in this policy.
 
