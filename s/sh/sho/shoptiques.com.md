@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331064411id_/http%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014085414id_/http%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Shoptiques — Privacy Policy
+# Privacy Policy — Shoptiques
 
 This privacy statement and policy applies to the online electronic commerce services of:
 
