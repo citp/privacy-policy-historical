@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624024254id_/http%3A//www.justia.com/marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014154016id_/https%3A//www.justia.com/marketing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Justia Legal Marketing
 
