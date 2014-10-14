@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sequencehome.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230055id_/http%3A//www.sequencehome.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sequencehome.co.uk privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015002626id_/http%3A//www.sequencehome.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Sequence
 
