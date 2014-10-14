@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the videoblocks.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513051430id_/http%3A//privacy-policy.truste.com/verified-policy/www.videoblocks.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoblocks.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015013656id_/http%3A//www.videoblocks.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for www.videoblocks.com
+# Privacy Policy - Video Blocks
 
-Effective on October 11, 2010 
+Effective on July 23, 2014
 
-This privacy statement describes how Footage Firm, Inc. collects and uses the personal information you provide on our Web site: [www.videoblocks.com ](https://www.videoblocks.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-Footage Firm, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [support@videoblocks.com ](mailto:support@videoblocks.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+This privacy statement describes how Video Blocks collects and uses the personal information you provide on our Web site: [www.videoblocks.com](http://www.videoblocks.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
@@ -21,12 +13,13 @@ We collect the following personal information from you
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
   * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
 
 
 We also collect the following information from you
 
-  * Information about your business such as company name, company size, business type
+  * Demographic information such as age, education, gender, interests and zip code
 
 
 
@@ -54,36 +47,43 @@ We use this information to
 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@videoblocks.com ](mailto:support@videoblocks.com).
 
+To opt-out of VideoBlocks data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.videoblocks.com/optout.html).
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
 ## Information Sharing
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
+If you provide the name of your company, we may use the name of your company (but not other personal information) on a list of current or former customers for promotional purposes.
+
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Footage Firm, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Video Blocks is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@videoblocks.com ](mailto:support@videoblocks.com). 
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@videoblocks.com](mailto:support@videoblocks.com).
 
 ## Cookies and Other Tracking Technologies
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+The Site may automatically collect information as you browse, such as Internet Service Provider, browser type and version, operating system and device type, average time spent on our site(s), pages viewed, information accessed, the Internet Protocol (IP) address used to connect your computer to the Internet and other relevant statistics. Such information is sometimes referred to as web analytics and/or clickstream data. 
 
-_Web beacons_
+We and our partners may use cookies and action tags to keep track of your visits, preferences and profile information. 
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+  * A cookie is a small, unique text file that a website can send to your computer when you visit a site. We may use session cookies, which terminate when a user closes his or her browser, and/or persistent cookies, which remain on the user's computer until manually deleted. Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you do not want us to deploy cookies to your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie on your computer. Rejecting cookies may affect your ability to use the Site.
+  * An action tag is similar to a cookie. Action tags help us identify and track the performance of web pages on the Site, allowing us to measure the performance and quality of the Site and to manage Site content. In addition, we may use action tags in emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of marketing campaigns by showing, for example, how many emails have been opened.
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-_Links to Other Web Sites_
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Footage Firm, Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Electronic tracking technologies are used to enhance your experience on the Site, including allowing you to remain logged in on the Site. Cookies and pixel tags may also be used to collect general usage and aggregated statistical information that does not identify you personally. However, we and our third party partners may use cookies to store some of your preferences (including limited Personal Information) or to display relevant content based upon what you view on our site. 
 
 ## Security
 
@@ -91,15 +91,17 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [support@videoblocks.com ](mailto:support@videoblocks.com)
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@videoblocks.com](mailto:support@videoblocks.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+If you have any questions about security on our Web site, you can contact us at [support@videoblocks.com](mailto:support@videoblocks.com)
 
 ## Additional Policy Information
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [support@videoblocks.com ](mailto:support@videoblocks.com).
+To review and update your personal information to ensure it is accurate, contact us at [support@videoblocks.com](mailto:support@videoblocks.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -107,10 +109,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Footage Firm, Inc. 
+Video Blocks
 
-11160-C1 South Lakes Dr. Suite 262 
+10780 Parkridge Blvd Suite 70
 
-Reston, VA, United States 20191
-
-Phone: (866) 282-5360
+Reston,VA,United States 20191
