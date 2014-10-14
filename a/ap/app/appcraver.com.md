@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191922id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014173220id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - iPhone Applications
 
