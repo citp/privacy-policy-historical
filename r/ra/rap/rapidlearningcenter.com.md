@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302004050id_/https%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014163706id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
@@ -12,7 +12,7 @@ US Direct: (714) 692-2900
 Int'l: 001-714-692-2900 
 
 24/7 Technical Support:  
-[The Rapid Support Center](https://web.archive.org/web/20140302004050id_/https%3A//www.rapidlearningcenter.com/contact.html)
+[The Rapid Support Center](https://web.archive.org/web/20141014163706id_/http%3A//www.rapidlearningcenter.com/contact.html)
 
 Secure Online Order:
 
@@ -71,4 +71,4 @@ Rapid Learning Center
 Yorba Linda, CA 92887  
 [TheWebmaster@RapidLearningCenter.com](mailto:TheWebmaster@RapidLearningCenter.com)
 
-[](https://web.archive.org/web/20140302004050id_/https%3A//www.rapidlearningcenter.com/smart-learning.html)
+[](https://web.archive.org/web/20141014163706id_/http%3A//www.rapidlearningcenter.com/smart-learning.html)
