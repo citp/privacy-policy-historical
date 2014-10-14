@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215005557id_/https%3A//secure.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014204624id_/https%3A//secure.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Innocence Project, Inc
 
