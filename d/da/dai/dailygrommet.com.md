@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627010145id_/http%3A//www.thegrommet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014094042id_/https%3A//www.thegrommet.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@ Last updated November 9, 2012
 
 ## What This Privacy Policy Covers
 
-The Grommet values your privacy. This notice describes what information we collect, how we use it, and, if necessary, those with whom we share it. **By visiting The Grommet, you are accepting the practices described in this Privacy Policy.** Your use of the Website is also subject to our Terms of Use, available at [Terms of Use](http://www.thegrommet.com/terms-of-use).
+The Grommet values your privacy. This notice describes what information we collect, how we use it, and, if necessary, those with whom we share it. **By visiting The Grommet, you are accepting the practices described in this Privacy Policy.** Your use of the Website is also subject to our Terms of Use, available at [Terms of Use](https://www.thegrommet.com/terms-of-use).
 
 ## Types of Information Gathered
 
