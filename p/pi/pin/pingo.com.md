@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061427id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014135858id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,6 +64,9 @@ Visitor Retargeting Program - We work with Google to display retargeted ads to V
 
   * **Google opt out section:  
 [Google: http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)**
+
+  * **Banner retargeting ads:  
+[MyThings: http://www.mythings.com/respecting-your-privacy/](http://www.mythings.com/respecting-your-privacy/)**
 
 
 
