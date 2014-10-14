@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the frugalwashingtonmommy.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324002759id_/http%3A//frugalwashingtonmommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalwashingtonmommy.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014035913id_/http%3A//frugalwashingtonmommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Frugal Washington MommyPrivacy Policy - Frugal Washington Mommy
+# Privacy Policy - Frugal Washington Mommy
+
+[Frugal Washington Mommy](http://frugalwashingtonmommy.com/)
+
+For the every day mom who wants true reviews and great giveaways! Because who doesn't love the truth and a freebie!
+
+You are here: [Home](http://frugalwashingtonmommy.com/) / Privacy Policy
 
 ## Privacy Policy
 
