@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leavetrip.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621014247id_/http%3A//www.leavetrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leavetrip.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014135953id_/http%3A//www.leavetrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « leavetrip.
 
@@ -15,15 +15,15 @@ As you explore our website, you will come across places in which we ask you to p
 
 ###  This Week In Photos
 
-[ ](http://www.leavetrip.com/nashville/)
+###  Hosts Exposed
 
-####  [Nashville](http://www.leavetrip.com/nashville/)
+[ ](http://www.leavetrip.com/orlando/)
 
-Join Sam as she looks for her break in Music City and...
+####  [Orlando](http://www.leavetrip.com/orlando/)
+
+Sam and the crew enjoy Orlando and stop by a locals-only...
 
 ... 
-
-###  Hosts Exposed
 
 ###  Video Spotlight
 
@@ -35,33 +35,33 @@ Join Sam as she looks for her break in Music City and...
 
 ###  Community
 
-[Best Destination Wedding Hotels](http://www.leavetrip.com/best-destination-wedding-hotels/)  
----  
-[Editors’ Picks: Our Bucket List](http://www.leavetrip.com/editors-picks-our-bucket-list/)  
-[World’s Best Surf Destinations](http://www.leavetrip.com/worlds-best-surf-destinations/)  
-[Sand Masters: Monster Jam Pictures](http://www.leavetrip.com/sand-masters-monster-jam-pictures/)  
-[Ghost Adventures: King’s Tavern Pictures](http://www.leavetrip.com/ghost-adventures-king%e2%80%99s-tavern-pictures/)  
-[Signs of the City: New York](http://www.leavetrip.com/signs-of-the-city-new-york/)  
-[arre Foods America: Third Coast Pictures](http://www.leavetrip.com/arre-foods-america-third-coast-pictures/)  
-[New York City’s Best Business Hotels](http://www.leavetrip.com/new-york-citys-best-business-hotels/)  
-[Singapore](http://www.leavetrip.com/singapore/)  
-[Dangerous Grounds: Ethiopia Pictures](http://www.leavetrip.com/dangerous-grounds-ethiopia-pictures/)  
-[Best Southern US Islands](http://www.leavetrip.com/best-southern-us-islands/)  
-[Food Paradise: Drive Thru Pictures](http://www.leavetrip.com/food-paradise-drive-thru-pictures/)  
-[Fandemonium: Redneck Yacht Club Pictures](http://www.leavetrip.com/fandemonium-redneck-yacht-club-pictures/)  
-[Travel’s Best Halloween Attractions 2013](http://www.leavetrip.com/travels-best-halloween-attractions-2013/)  
-[The majestic Caribbean](http://www.leavetrip.com/the-majestic-caribbean/)  
-[Man v. Food Nation: Jackson Pictures](http://www.leavetrip.com/man-v-food-nation-jackson-pictures/)  
-[Sand Masters Sneak Peek](http://www.leavetrip.com/sand-masters-sneak-peek/)  
-[Mystery Revealed: Space Mirror Memorial](http://www.leavetrip.com/mystery-revealed-space-mirror-memorial/)  
-[Andrew’s 10 Favorite Bizarre Foods Dishes](http://www.leavetrip.com/andrews-10-favorite-bizarre-foods-dishes/)  
-[Travel Bowl: Green Bay vs. Pittsburgh](http://www.leavetrip.com/travel-bowl-green-bay-vs-pittsburgh/)  
-[Dangerous Grounds: Ethiopia Pictures](http://www.leavetrip.com/dangerous-grounds-ethiopia-pictures/)  
-[Best Southern US Islands](http://www.leavetrip.com/best-southern-us-islands/)  
-[Sexy Hotel Bars for First Dates](http://www.leavetrip.com/sexy-hotel-bars-for-first-dates/)  
 [Exclusive Hotels](http://www.leavetrip.com/exclusive-hotels/)  
-[Gem Hunt Sneak Peek Pictures](http://www.leavetrip.com/gem-hunt-sneak-peek-pictures/)  
-[Ghost Adventures: King’s Tavern Pictures](http://www.leavetrip.com/ghost-adventures-king%e2%80%99s-tavern-pictures/)  
+---  
+[Ghost Adventures: Glen Tavern Inn Pictures](http://www.leavetrip.com/ghost-adventures-glen-tavern-inn-pictures/)  
+[Things to Do in Jamaica](http://www.leavetrip.com/things-to-do-in-jamaica/)  
+[SkyMall Products](http://www.leavetrip.com/skymall-products/)  
+[Plane Sexy: Flying in the Jet Age](http://www.leavetrip.com/plane-sexy-flying-in-the-jet-age/)  
+[Niagara Falls Weekend Guide](http://www.leavetrip.com/niagara-falls-weekend-guide/)  
+[Food Paradise: Sausage](http://www.leavetrip.com/food-paradise-sausage/)  
+[2013 Photo Contest Winners](http://www.leavetrip.com/2013-photo-contest-winners/)  
+[Take a Stroll Through New Orleans](http://www.leavetrip.com/take-a-stroll-through-new-orleans/)  
+[World’s Wackiest Races](http://www.leavetrip.com/worlds-wackiest-races/)  
+[Editors’ Picks: Our Favorite Food Cities](http://www.leavetrip.com/editors-picks-our-favorite-food-cities/)  
+[Man v. Food Nation: Jackson Pictures](http://www.leavetrip.com/man-v-food-nation-jackson-pictures/)  
+[Experience Puerto Vallarta](http://www.leavetrip.com/experience-puerto-vallarta/)  
+[Monumental Mysteries: American Venus Pictures](http://www.leavetrip.com/monumental-mysteries-american-venus-pictures-2/)  
+[Bizarre Foods America: Pittsburgh:Catfish & Kishka](http://www.leavetrip.com/bizarre-foods-america-pittsburghcatfish-kishka/)  
+[Tour Transylvania’s Castles](http://www.leavetrip.com/tour-transylvanias-castles/)  
+[Singapore](http://www.leavetrip.com/singapore/)  
+[Top 10 Treasure-Hunting Hot Spots](http://www.leavetrip.com/top-10-treasure-hunting-hot-spots/)  
+[Top Spot: Las Vegas Pictures](http://www.leavetrip.com/top-spot-las-vegas-pictures/)  
+[Halloween and Witches](http://www.leavetrip.com/halloween-and-witches/)  
+[North Carolina’s Best Festivals](http://www.leavetrip.com/north-carolinas-best-festivals/)  
+[Dangerous Grounds: Haiti Pictures](http://www.leavetrip.com/dangerous-grounds-haiti-pictures/)  
+[Best Mayan Riviera Beaches](http://www.leavetrip.com/best-mayan-riviera-beaches/)  
+[SkyMall Products](http://www.leavetrip.com/skymall-products/)  
+[Best American Beaches](http://www.leavetrip.com/best-american-beaches/)  
+[Sand Masters: Machine Gun Pictures](http://www.leavetrip.com/sand-masters-machine-gun-pictures/)  
   
 [ ](https://web.archive.org/pacific-coast-highway-road-trip)
 
