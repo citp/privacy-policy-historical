@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222093533id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014060406id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
 
@@ -10,11 +10,13 @@ We may make email and mailing addresses of registrants available to carefully sc
 
 _Healthcare IT News_ will NEVER share your phone or fax number with ANY third party. You may receive email, telephone or fax communications from _Healthcare IT News_ regarding your subscription or for research purposes. Please see our registration page (<http://healthcareitnews.com/register?return2url=%2F>) for further details.
 
+All email sent by HIMSS Media includes a clear opt-out button in the footer of the email. If you want to opt-out of receiving email from HIMSS Media, please click that link and complete the process.
+
 _Healthcare IT News_ does assign a cookie to each site visitor so we can identify users who return to the website. This cookie is used only to track unique visitors to the site and to assist in making more accurate content recommendations.
 
 **Third Party Advertising**
 
-The ads appearing on this site are delivered to you by adConductor, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about adConductor, please [click here](http://www.burstmedia.com/isl/privacy.asp). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+The ads appearing on this site are delivered to you by 24/7 RealMedia's Open AdStream, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 **Surveys or Contests**
 
