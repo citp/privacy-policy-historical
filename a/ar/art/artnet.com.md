@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artnet.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516141915id_/http%3A//www.artnet.com/about/privacy-formal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artnet.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014224228id_/http%3A//www.artnet.com/about/privacy-formal.asp) for the most accurate reproduction.*
 
 # artnet - Privacy Policy
 
@@ -13,6 +13,8 @@ artnet has been awarded TRUSTe's Privacy Seal, signifying that this Privacy Poli
 artnet complies with the US–EU Safe Harbor framework and the US–Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. 
 
 artnet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the certification for artnet, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
+
+### Collection and Use of Personal and Non-Personal Information
 
 You can browse artnet websites without revealing any personal information. Personal data are collected if you choose to provide them. In compliance with applicable law, artnet collects information from different points on its sites, and is the sole owner of the information collected. 
 
@@ -62,15 +64,25 @@ artnet may use this information in the following ways:
 
 
 
+#### Choice/Opt-Out 
+
 You may choose to stop receiving artnet newsletters or marketing emails at any time by following the unsubscribe instructions included in those communications, or you can contact us. 
+
+#### Request Information
 
 You may at several different points on the artnet websites request information (e.g., how to become an advertiser, or how to become a member gallery). To submit a request using the forms provided on the website, you must supply contact information (e.g., name, email, phone number). This information is used by artnet to provide the information requested. 
 
+#### Testimonials
+
 artnet posts customer testimonials that may contain personally identifiable information, such as the customer's name. artnet obtains customer consent to post names prior to posting the testimonial. If you want to remove personal information that is being publicly displayed on an artnet website, contact us. 
+
+#### Information Obtained from Third Parties
 
 artnet obtains credit information about you from an outside credit reporting agency to help us with customer authentication and credit-related decisions. 
 
 If you provide personal information about others, or if others give us your information, artnet will only use that information for the specific reason for which it was provided. 
+
+#### Information Sharing
 
 artnet will share your personal information with third parties only in the ways that are described in this Privacy Policy. artnet does not sell your personal information to third parties. 
 
@@ -90,6 +102,8 @@ artnet shares your personal information with other companies so that they can ma
 
 artnet makes your contact information available to other users that you interact to help complete the transaction. 
 
+### Cookies and Other Tracking Technologies
+
 A cookie is a piece of data stored on the user's hard drive containing information about the user. artnet uses cookies on certain pages to help analyze webpage flow, customize services, content, and advertising, and measure promotional effectiveness. artnet may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
 Important things to know about cookies: 
@@ -107,38 +121,64 @@ artnet uses Google Analytics, a web analytics service provided by Google, Inc. (
 
 artnet also uses Google Analytics Demographics Reports and Remarketing to advertise online. Third-party vendors, including Google, may show artnet ads on sites across the Internet. artnet and third-party vendors, including Google, use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on past visits to the artnet website. You may opt-out of the use of cookies by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>. 
 
+#### Log Files
+
 artnet uses your IP address to help diagnose server problems, and to administer our website. artnet uses your IP addresses to analyze trends and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 Every time you access an artnet website, some data are temporarily stored and processed in a log file, such as anonymous IP addresses, the browser types, the recalled page, or the date and time of the recall. These data are only evaluated for statistical purposes, to help us diagnose problems with our servers, to administer our sites, or to improve our offer. 
 
+#### Web beacons
+
 artnet webpages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how the websites are used, and may be used in some emails to let us know which emails and links have been opened by recipients. This allows artnet to gauge the effectiveness of our customer communications and marketing campaigns. 
+
+#### Links to Other Websites
 
 The artnet websites include links to other websites whose privacy practices may differ from that of artnet. If you submit personal information to any of those sites, your information is governed by their privacy statements. artnet encourages you to carefully read the Privacy Policy of any website you visit. 
 
+#### Like button
+
 When you choose the Facebook "Like" button on an artnet website, you will not be directed to another site, you will remain on artnet.com, artnet.de, or artnet.fr. 
 
+#### Data Retention
+
 artnet retains your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that artnet no longer use your information to provide you services, contact us. artnet will retain and use your information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements. 
+
+#### Storage of Information; Transmission to the United States
 
 The data that artnet collects from you are transferred and stored on servers in the United States. The data may also be processed by staff operating outside European Economic Area ("EEA"), who work for artnet or one of its suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details, and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. artnet will take all steps reasonably necessary to ensure that your data are treated securely and in accordance with this Privacy Policy. 
 
 All information you provide is stored on a secure server. Any payment transactions will be encrypted using SSL technology. Where artnet has given you (or where you have chosen) a password that enables you to access certain parts of the site, you are responsible for keeping this password confidential. artnet asks you not to share a password with anyone. 
+
+#### Monitoring of Communications
 
 artnet may review correspondence between users which is sent via an artnet website, mobile application, or services in order to investigate violations of the artnet Auctions Terms of Use. artnet will only access such correspondence if it has a basis to believe that such terms are being violated. See the artnet Auctions Terms of Use for further information. 
 
 Gallery Clients:   
 As a member of artnet Galleries, you can ask artnet to review or retrieve emails sent to your gallery. artnet will access these emails only to provide these services for you. 
 
+### Security
+
 When artnet collects personal information directly from you, it follows generally accepted industry standards to protect the personal information submitted: both during transmission and once received it is encrypted using secure socket layer technology (SSL). artnet does its best to protect your personal data. Once your information is received, artnet uses strict procedures and security features to try to prevent unauthorized access. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore its absolute security cannot be guaranteed; any transmission is at your own risk. If you have any questions about security on the artnet websites, contact us. 
 
 artnet has a companywide commitment to your privacy. To make sure your personal information is secure, please check that you are visiting an artnet authorized website. artnet authorized websites are posted only on the domains [www.artnet.com](http://www.artnet.com/ "www.artnet.com"), [www.artnet.de](http://www.artnet.de/ "www.artnet.de"), [www.artnet.fr](http://www.artnet.fr/ "www.artnet.fr"). artnet emails will only come from these three domains. artnet does not permit our employees to send or receive work-related emails from personal accounts or any other address. Do not share your username or password with anyone. 
 
+### Additional Policy Information
+
 artnet websites include widgets, which are interactive mini-programs that run on artnet websites to provide specific services from another company (e.g., displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through a widget. Cookies may also be set by a widget to enable it to function properly. Information collected by this widget is governed by the Privacy Policy of the company that created it. 
+
+#### Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer desire artnet services, you may correct, update, amend, delete/remove, or deactivate it by making the change on the member information page for artnet, <https://www.artnet.com/services/memberservices.aspx>, or artnet Auctions <https://www.artnet.com/auctions/pages/customer/buyer/myaccount.aspx>, or by emailing artnet Customer Support, or by contacting artnet via telephone (US: +1-800-4-ARTNET or +1-212-497-9700, option 4; for European numbers, visit the [Contact Us page](http://www.artnet.com/aboutus/contact_us.aspx)). artnet Customer Support is available Monday through Friday, 9 a.m.–5 p.m. (EST), and Saturday, 10 a.m.–6 p.m. (EST). Users have a right to access, object to, or oppose, for legitimate reasons, the processing of their personal data in accordance with this Privacy Policy. Users may enforce their rights by contacting [safeharbor@artnet.com](mailto:safeharbor@artnet.com). artnet will respond to your request to access within 30 days. 
 
+#### Note to Parents or Guardians
+
 Minors may want to visit artnet on the Internet. However, the site is not directed at children under the age of 18, and those under the age of 18 should not provide personal data on the site unless they have received permission from their parents before submitting any personal information. artnet believes parents should be responsible for supervising the online activities of their children, and take into account various tools that allow them to provide their children with a controlled, child-friendly Internet. These tools are designed to preclude children from releasing personal information online without the permission of their parents. If artnet becomes aware that a minor has submitted information on its site, artnet reserves the right to request proof that the parent or guardian has permitted use by the minor of the site; otherwise artnet reserves the right to delete the relevant information and the minor's registration on the site. 
 
+#### Notification of Privacy Policy Changes 
+
 We may update this Privacy Policy to reflect changes to artnet information practices. If any material changes are made artnet will notify you on the websites prior to the change becoming effective. You are encouraged to periodically review this page for the latest information to this Privacy Policy and artnet practices. 
+
+#### How to Contact Us
 
 artnet is responsible for the personal data collected from users of this website and determines the purposes and means by which such personal data are used, subject to applicable law. 
 
@@ -149,6 +189,8 @@ Artnet Worldwide Corporation
 New York, NY 10279   
 USA   
 Email
+
+#### California Residents: Your California Privacy Rights
 
 Under California law, artnet customers residing in California may request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. As detailed above, artnet does not share customers' personal information with unaffiliated third parties for direct marketing purposes without their approval. 
 
