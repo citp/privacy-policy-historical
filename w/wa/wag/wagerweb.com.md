@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerweb.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609052459id_/http%3A//www.wagerweb.ag/casino/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerweb.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015131239id_/http%3A//www.wagerweb.ag/casino/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Casino Wagering
 
