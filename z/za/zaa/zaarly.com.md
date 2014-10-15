@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaarly.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041311id_/https%3A//www.zaarly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaarly.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015230048id_/https%3A//www.zaarly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zaarly
 
