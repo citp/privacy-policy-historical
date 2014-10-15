@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wheels.ca privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629001333id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wheels.ca privacy policy that was archived on 2014-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015220953id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="js"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-    <script type="text/javascript" async="" src="//o2.eyereturn.com/?site=4166&amp;page=generic"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://my.thestar.com/assets/mystar.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=ILWkRCxy"></script><script>var _sf_startpt = (new Date()).getTime();</script>
+    <script type="text/javascript" async="" src="//o2.eyereturn.com/?site=4166&amp;page=generic"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://my.thestar.com/assets/mystar.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="http://player.mediabong.net/se/26.js?url=http%3A%2F%2Fwww.thestar.com%2Fabout%2Fprivacy.html" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=ILWkRCxy"></script><script>var _sf_startpt = (new Date()).getTime();</script>
 
     
     <script>
@@ -31,10 +31,12 @@
 
     
 
+    <script type="text/javascript">document.liveUrl="http://www.thestar.com/about/privacy.html";</script>
+
     
     
     <meta name="__sync_contentCategory" content="thestar">
-    <meta name="__star_contentCategory" content="article_about">
+    <meta name="__star_contentCategory" content="article_Free">
 
     
     <script>
@@ -59,18 +61,21 @@
         var mystar_domain = 'http://my.thestar.com';
         var mystar_secure_domain = 'https://my.thestar.com';
         var mobile_domain = 'm.thestar.com';
+        var tablet_domain = 't.thestar.com';
         
             var localprefix = "";
         
     
     </script>
 
+    
+    
 
     
 
     <script src="/etc/designs/thestar/mainlib/js/libs/redirection-mobile.js"></script>
 
-    <script type="text/javascript" src="//service.maxymiser.net/cdn/torontostar/js/mmcore.js"></script>
+    <script type="text/javascript" src="//service.maxymiser.net/cdn/torontostar/js/mmcore.js"></script>  
 
     <script>
 
@@ -80,16 +85,35 @@
 
     
     var queryString = window.location.search;
-    var mobileDesktopLink = getCookie('deskTop');
-    
+    var stopMobileRedirect = false;
+
+    //if the cookie exists set too true
+    if (getCookie('deskTop')) {
+    	stopMobileRedirect = true
+    }
+
+     
      
         
-         if (queryString.indexOf("app=noRedirect") == -1 || !(mobileDesktopLink =='1') ) {
-        var urlhash = window.location.hash;
-        var redirect_url= mobile_domain;
+
+        //Do not redirect if we have the cookie to not redirect or if the query parameter was passed in
+        if (queryString.indexOf("app=noRedirect") == -1 && stopMobileRedirect == false) {
+
+        var urlhash = window.location.hash;                                                  // Store for multiple accesses
+        var redirect_url = mobile_domain;                                                    // Mobile url
+        var t_redirect_url = tablet_domain;                                                  // Tablet url
+        var queryParameter = "";
+        if (urlhash.lastIndexOf('?') > 0) {
+        	queryParameter = urlhash.substring(urlhash.lastIndexOf('?'));                    // Get first parameter after a hash
+        }
+        var currentPathName = window.location.pathname;                                      // Store for multiple accersses
+        var currentHref = window.location.href;                                              // Current url with parameters
+        var sponsoredStoryParam = "";
+        if (currentHref.indexOf('?') > 0) {
+        	sponsoredStoryParam = currentHref.substring(currentHref.lastIndexOf('?'));  // Store all url params
+        }
+
         if (urlhash.indexOf("#mystars/") >= 0) {
-            var queryParameter=urlhash.substring(urlhash.lastIndexOf('?'));
-            console.log(queryParameter);
             if (urlhash.indexOf("password")>=0) {
                 hash_path = "password";
             }
@@ -97,23 +121,39 @@
                 hash_path = "confirm";
             }
             redirect_url = mobile_domain + '/#/' + hash_path + queryParameter;
+            t_redirect_url = tablet_domain + '/#/' + hash_path + queryParameter;
         }
         else if (getURLParameter('confirmation_token') || getURLParameter('reset_password_token')) {
             redirect_url =  mobile_domain + "/#/settings";
+            t_redirect_url =  tablet_domain + "/#/settings";
         }
-        else if (window.location.pathname === "/" ||  window.location.pathname === "/index.html") {
+        else if (currentPathName === "/" || currentPathName === "/content/thestar" || currentPathName === "/index.html") {
             redirect_url =  mobile_domain;
+            t_redirect_url =  tablet_domain;
+        }
+        //if on an authors page go here
+        else if (currentPathName.indexOf('authors.') !== -1 ) {
+
+             var newpath = '';
+             //remove content thestar if exists
+             newPath = currentPathName.replace( /content\/thestar/,'');
+             //change from /authors.cohn_martin_regg.html to http://mobile.smgdigitaldev.com/#/author/cohn_martin_regg.html
+             newPath = newPath.replace( /\/authors./,'#/author/');
+
+             redirect_url= mobile_domain + newPath + sponsoredStoryParam;
+             t_redirect_url= tablet_domain + newPath + sponsoredStoryParam ;
         }
         else  {
             var path = window.location.pathname;
-             redirect_url= mobile_domain + '/#/article' + path
+             redirect_url= mobile_domain + '/#/article' + path + sponsoredStoryParam ;
+             t_redirect_url= tablet_domain + '/#/article' + path + sponsoredStoryParam ;
         }
         SA.redirection_mobile ({
-            mobile_url: redirect_url
+            mobile_url: redirect_url,
+            tablet_url: t_redirect_url
         });
-
+         }
         
-    }
     
     
     </script>
@@ -165,12 +205,7 @@
 
     
 
-    
-    <script src="http://read.thestar.com/redirect.js"></script>
-
-    
-
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib.css?v=3">
+    <link rel="stylesheet" href="/etc/designs/thestar/mainlib.css?v=19">
 
     <!--[if gte IE 9]>
     <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/pinable.css"/>
@@ -187,6 +222,8 @@
     <!--[if IE 9]>
     <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/hacks-ie9.css"/>
     <![endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
     
     
@@ -221,12 +258,13 @@
 
     
     <!-- TODO: additional header content go here -->
+
 </head>
 
 
 <body class="articlepage type-story level1-about">
 <!--
-Begin render at 2014/06/28 04:57:57  Server: pub10.thestar.com
+Begin render at 2014/10/14 12:17:12  Server: publish6
 -->
 
 <script>var paymeterEndpoint="https://www.syncaccess.net/po/tstar/api/svcs/meter/standard?format=json";</script>
@@ -247,6 +285,7 @@ Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
 
 <script>
+if (typeof s=='object'){
 s.pageName = 'About|privacy';
 s.prop4 = '';
 s.prop7 = s.eVar7 = 'Story';
@@ -262,16 +301,14 @@ s.prop18 = '';
 s.prop33 = s.eVar33 = '';
 s.prop37 = s.eVar37 = '';
 s.prop50 = '';
-<!-- s.prop38 = s.eVar38 = '    videoId   '; -->
-</script>
+}
 
-<script>
 var SiteCatalyst = {};
-SiteCatalyst.reportSuite = 'reportSuite';
+s_account = SiteCatalyst.reportSuite = 'thestartsprod';
+
 SiteCatalyst.registerEvent = function(eventDetails){
     //in case the s_code library was not included
-    if (s === undefined)
-        return;
+    if (typeof s_gi != 'function' || !s_account) return;
     s=s_gi(s_account);
     var linkTrackVars = [];
     if (eventDetails.events !== undefined && eventDetails.events.length > 0)
@@ -302,9 +339,9 @@ SiteCatalyst.registerEvent = function(eventDetails){
 	s.events='';
     return;
 };
-</script>
 
-<script>
+if (typeof s!='object' || !s.t) s={t:function(){return false;}};
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code = s.t();
 if (s_code) document.write(s_code);
@@ -325,9 +362,8 @@ if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + 
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327862;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664483/0/-1/ADTECH;loc=300;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664483/0/-1/ADTECH;loc=300;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;width=728;height=90" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329611;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;width=728;height=90" alt=""></a>
 </noscript>
 
 	
@@ -342,9 +378,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327864;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664481/0/-1/ADTECH;loc=300;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664481/0/-1/ADTECH;loc=300;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;width=237;height=90" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329612;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;width=237;height=90" alt=""></a>
 </noscript>
 
 	
@@ -359,7 +394,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
   
 
 
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDVFRWBAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDVFRWBAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 
 
 
@@ -376,8 +411,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
   <div class="masthead float-clear">
     <div class="date-time">
-      <p class="globalDate">Saturday, June 28, 2014</p>
-      <p class="globalTime">4:57 AM EDT</p>
+      <p class="globalDate">Tuesday, October 14, 2014</p>
+      <p class="globalTime">12:17 PM EDT</p>
       <ul class="social-links float-clear">
 
         <li id="fb-top-wrap"><iframe id="fb-top-frame" data-omni-source="FBLikeButton" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ftorontostar&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" allowtransparency="true" frameborder="0" scrolling="no"></iframe><div class="mask"></div></li>
@@ -416,19 +451,6 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 <div class="parbase digitalaccessbanner">
 
 
-
-
-<div class="digital-access-top">
-
-	<a href="https://www.syncaccess.net/po/tstar/account/availablesubscriptions?planFilter=15&amp;op=subscribe">
-
-		
-			<img alt="Save 90% off thestar.com DIGITAL ACCESS for the first month. GET IT NOW" class="cq-dd-image" src="/etc/designs/thestar/images/general/blank.gif" data-original="/content/thestar/jcr:content/digitalaccessbanner.img.jpg/1403861176833.jpg">
-
-	</a>
-
-</div>
-
 </div>
 
 
@@ -456,8 +478,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 <div class="article-body float-clear">
 
   
-    <div class="left-nav">
-      
+	<div class="left-nav">
+	  
 
 
 
@@ -675,6 +697,15 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/autos.html">
+			<span><a href="http://www.thestar.com/autos.html">Autos</a></span>
+
+			
+
+		</li>
+
+	
+
 		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/photos.html">
 			<span><a href="http://www.thestar.com/photos.html">Photos</a></span>
 
@@ -699,13 +730,13 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	</ul>
 </nav>
-      
-      <div class="parsys insidethestar iparsys"><div class="section"><div class="new"></div>
+	  
+	  <div class="parsys insidethestar iparsys"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys insidethestar iparsys"></div>
 </div></div>
 
-      
-        <div class="insidethestar">
+	  
+		<div class="insidethestar">
 
 
 
@@ -719,43 +750,37 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 	
 
 	<div class="inside-thestar" data-comp-path="insidethestar">
-	  <h2 class="heading">Inside thestar.com</h2>
+	  <h2 class="heading">Inside the Star</h2>
 	  <ul>
 		
 						<li>
 							
-		              				<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html" class="thumbnail icon-overlay">
+		              				<a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html" class="thumbnail icon-overlay">
 		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/uploads/2014/6/27/1403879709469.jpg.size.xsmall.promo.jpg" alt="The story of an immigrant's future destroyed">
+										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service/doug_ford.jpg.size.xsmall.promo.jpg" alt="Did Doug Ford really win an award for outstanding community service?">
 									</a>
 							 
-							  <p class="headline">
-							  	<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html">The story of an immigrant's future destroyed</a>
-							  </p> 
+							<p class="headline"><a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html">Did Doug Ford really win an award for outstanding community service?</a></p>
 						</li>
 					
 						<li>
 							
-		              				<a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_kevin_mcgran_mocks_the_top_10.html" class="thumbnail icon-overlay">
+		              				<a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html" class="thumbnail icon-overlay">
 		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/sports/leafs/2014/06/27/nhl_draft_kevin_mcgran_mocks_the_top_10/aaron_ekblad.jpg.size.xsmall.promo.jpg" alt="Kevin McGran mocks the NHL draft top 10">
+										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says/generic_drugs.jpg.size.xsmall.promo.jpg" alt="Canada paying more than double for common generic drugs, study says">
 									</a>
 							 
-							  <p class="headline">
-							  	<a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_kevin_mcgran_mocks_the_top_10.html">Kevin McGran mocks the NHL draft top 10</a>
-							  </p> 
+							<p class="headline"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html">Canada paying more than double for common generic drugs, study says</a></p>
 						</li>
 					
 						<li>
 							
-		              				<a href="http://www.thestar.com/news/gta/2014/06/27/weekend_road_closures_for_canada_day_and_pride_festivities.html" class="thumbnail icon-overlay">
-		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/gta/2014/06/27/weekend_road_closures_for_canada_day_and_pride_festivities/canada_day.jpg.size.xsmall.promo.jpg" alt="Weekend road closures for Canada Day and Pride festivities ">
+		              				<a href="http://www.thestar.com/news/gta/2014/10/14/bigtruck_licensing_mills_put_public_at_risk.html" class="thumbnail icon-overlay">
+		              					<span class="icon icon-type-video-small icon-style-overlay">Video</span>
+										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/2014/10/09/lax_rules_allow_big_rig_drivers_to_get_licence_without_highway_testing/3830864390001_videoStillImage.jpg.size.xsmall.promo.jpg" alt="Big-truck ‘licensing mills’ put public at risk">
 									</a>
 							 
-							  <p class="headline">
-							  	<a href="http://www.thestar.com/news/gta/2014/06/27/weekend_road_closures_for_canada_day_and_pride_festivities.html">Weekend road closures for Canada Day and Pride festivities </a>
-							  </p> 
+							<p class="headline"><span class="icon icon-type-unlock"></span><a href="http://www.thestar.com/news/gta/2014/10/14/bigtruck_licensing_mills_put_public_at_risk.html">Big-truck ‘licensing mills’ put public at risk</a></p>
 						</li>
 					
 		</ul>
@@ -763,68 +788,81 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 </div>
 
-      
+	  
 
-    </div>
+	</div>
   
   
   <div class="feature">
-    
+	
 
-    
-     	<div class="article-breadcrumbs"> 
+	
+	 	<div class="article-breadcrumbs"> 
   		
-        <a href="http://www.thestar.com/about.html">About</a> 
-  	     
-  	    
-     	</div>
-    
+		<a href="http://www.thestar.com/about.html">About</a> 
+  		 
+  		
+	 	</div>
+	
 
-    <div class="article-headline">
+	<div class="article-headline">
    		
-      <h1>Privacy Code</h1>
-      
-    </div>
+	  <h1>Privacy Code</h1>
+	  
+	</div>
 
-      
+	  
 
-    <div class="article-artwork">
-      <div class="parsys mainart"></div>
+	<div class="article-artwork">
+	  <div class="parsys mainart"></div>
 
-    </div>
+	</div>
+
+	<div id="mb_container">
+	<script type="text/javascript">
+	(function(){
+		var sc = document.createElement('script');
+		sc.src = 'http://player.mediabong.net/se/26.js?url='+encodeURIComponent(document.liveUrl);
+		sc.type = 'text/javascript';
+		sc.async = true;
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+	})();
+	</script>
+	</div>
 
 		<div class="article-authors" role="contentinfo">
 		
 		
-      
-      <span class="published-date"> Published on Thu Mar 27 2014</span>
-      
+	  
+	  <span class="published-date"> Published on Thu Mar 27 2014</span>
+	  
+
    	</div>
 
-    <div class="article-story float-clear">
-    <div id="policard-modal">
+	<div class="article-story float-clear">
+	<div id="policard-modal">
 		<iframe id="policard" frameborder="0" height="0" src=""></iframe>
 	</div>
 
 <div class="policard-wrap">
-            <div class="policard-gallery">
-            </div>
+			<div class="policard-gallery">
+			</div>
 
-            <div class="policard-nav clearfix">
-                <div id="policard-next">
-                    <img src="/etc/designs/thestar/images/policard/next.png">
-                </div>
-                <div id="policard-back">
-                    <img src="/etc/designs/thestar/images/policard/back.png">
-                </div>
-            </div>
+			<div class="policard-nav clearfix">
+				<div id="policard-next">
+					<img src="/etc/designs/thestar/images/policard/next.png">
+				</div>
+				<div id="policard-back">
+					<img src="/etc/designs/thestar/images/policard/back.png">
+				</div>
+			</div>
 </div>
 	
-      
-      
+	  
+	  
 
-      <div class="article-story-body">
-        <div class="body parsys"><div class="articlerelatedphotogallery section">
+	  <div class="article-story-body">
+		<div class="body parsys"><div class="articlerelatedphotogallery section">
 
 
 
@@ -1145,19 +1183,26 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 </div>
 </div>
 
-      </div>
+	  </div>
 
-    	<div class="story-footer float-clear">
-        
-          
-    		
-        <div class="articlekeywords">
+<noscript class="splitbox" src="http://static.freeskreen.com/publisher/52/freeskreen.min.js"></noscript>
+
+
+
+<!-- EXCEPTION, SIR! -->
+
+
+		<div class="story-footer float-clear">
+		
+		  
+			
+		<div class="articlekeywords">
 
 
 </div>
 
-        
-        <div class="articleaamfooter">
+		
+		<div class="articleaamfooter">
 
 
 
@@ -1177,66 +1222,65 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 	</div>
 
 
-        
+		
 
-        
+		
 
 
-    	</div>
+		</div>
 
-    </div>
+	</div>
 
   </div>
 
   
 	  <div class="right-rail">
-      <div class="rightrailtop1 parsys iparsys"><div class="section"><div class="new"></div>
+	  <div class="rightrailtop1 parsys iparsys"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="rightrailtop1 parsys iparsys"></div>
 </div></div>
 
-      <div class="rightrailtop2 parsys iparsys"><div class="section"><div class="new"></div>
+	  <div class="rightrailtop2 parsys iparsys"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="rightrailtop2 parsys iparsys"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop3"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop3"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop3"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop4"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop4"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop4"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop5"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop5"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop5"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop6"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop6"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop6"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop7"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop7"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop7"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop8"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop8"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop8"></div>
 </div></div>
 
-      <div class="parsys iparsys rightrailtop9"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys rightrailtop9"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop9"></div>
 </div></div>
 
 
-      <div class="parsys iparsys toprightrail"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys toprightrail"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys toprightrail"><div class="section"><div class="adtech">
 
 
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327936;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664482/0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664482/0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329722;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
 </noscript>
 
 	
@@ -1247,69 +1291,69 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 	<div class="from-the-homepage star-box float-clear" data-comp-path="about/toprightrail/fromthehomepage">
-        <div class="star-box-heading float-clear">
-            <h2 class="heading">Top News</h2>
-        </div>
+		<div class="star-box-heading float-clear">
+			<h2 class="heading">Top News</h2>
+		</div>
 		
 		<div class="container float-clear">
 			<ul>
 			
 						<li>
-							<a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/world/2014/10/14/ebolas_spread_raises_fears_for_global_security.html">
 								
-								
-								Leafs' draft pick Nylander has 'NHL speed, hands and shot right now'</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html">comments</a></span>
+								<span>NEW</span>
+								Ebola’s spread raises fears for global security</a>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/news/city_hall/2014/06/27/how_rob_ford_can_get_his_second_chance.html">
+							<a href="http://www.thestar.com/life/health_wellness/2014/10/14/toronto_hospital_implants_canadas_first_prosthetic_eye.html" class="with-comment-icon">
 								
-								
-								How Toronto Mayor Rob Ford can get his second chance</a>
+								<span>NEW</span>
+								Toronto hospital implants Canada's first prosthetic eye</a><span class="comment-icon"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/toronto_hospital_implants_canadas_first_prosthetic_eye.html">comments</a></span>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/news/gta/2014/06/27/when_sex_just_isnt_your_cup_of_tea_mallick.html">
+							<a href="http://www.thestar.com/news/queenspark/2014/10/14/liberal_mpps_block_public_release_of_mars_details.html" class="with-comment-icon">
 								
-								
-								When sex just isn’t your cup of tea: Mallick</a>
+								<span>NEW</span>
+								Liberal MPPs block public release of MaRS details</a><span class="comment-icon"><a href="http://www.thestar.com/news/queenspark/2014/10/14/liberal_mpps_block_public_release_of_mars_details.html">comments</a></span>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html" class="with-comment-icon">
 								
 								
-								Immigration experts say Bill C-24 is discriminatory</a><span class="comment-icon"><a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html">comments</a></span>
+								Canada 'stupidity' means we're paying double for generic drugs</a><span class="comment-icon"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/canada_paying_more_than_double_for_common_generic_drugs_study_says.html">comments</a></span>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/canada/2014/10/14/ndp_proposes_15aday_national_childcare_program.html" class="with-comment-icon">
 								
-								
-								Why the Sugar Beach umbrellas cost $12,000 each</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html">comments</a></span>
+								<span>NEW</span>
+								NDP proposes $15 a day national child care program </a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2014/10/14/ndp_proposes_15aday_national_childcare_program.html">comments</a></span>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/news/gta/2014/06/27/winners_of_the_toronto_star_photo_awards_announced.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html" class="with-comment-icon">
 								
 								
-								Winners of the Toronto Star photo awards announced</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/winners_of_the_toronto_star_photo_awards_announced.html">comments</a></span>
+								Did Doug Ford really win award for community service?</a><span class="comment-icon"><a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/the_smell_test_did_doug_ford_really_win_an_award_for_outstanding_community_service.html">comments</a></span>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/canada/2014/10/14/senator_brazeau_arrested_again.html">
 								
-								
-								How a dream dies: The story of an immigrant's future destroyed</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html">comments</a></span>
+								<span>Updated</span>
+								Senator Brazeau arrested again</a>
 						</li>
-			      
+				  
 						<li>
-							<a href="http://www.thestar.com/business/2014/06/27/bully_bid_wins_two_tony_toronto_properties.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html" class="with-comment-icon">
 								
 								
-								Bully bid wins two tony Toronto properties </a><span class="comment-icon"><a href="http://www.thestar.com/business/2014/06/27/bully_bid_wins_two_tony_toronto_properties.html">comments</a></span>
+								Ex-Dragon’s Den star tweets that his cancer is back</a><span class="comment-icon"><a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html">comments</a></span>
 						</li>
-			      
+				  
 			</ul>
 		</div>
 		
@@ -1361,46 +1405,46 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 		
 
 			<li class="top-story">
-				<a href="http://www.thestar.com/partner_content/breakingground/2014/05/20/growing-family-finds-a-home-in-markham.html" class="icon-overlay">
-		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/breakingground/MichaelPongan_NickKozak_032614-5.jpg.size.large.promo.jpg" alt="Growing family finds a home in Markham ">
-		            <!--<p class="caption"><span>Partner Content</span>Growing family finds a home in Markham </p>-->
-			        <div class="bottom"><p class="label"><span>Partner Content</span></p><p class="caption">Growing family finds a home in Markham </p></div>
+				<a href="http://www.thestar.com/partner_content/roomswithaview/2014/09/05/beyond-the-bricks-and-mortar.html" class="icon-overlay">
+					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/roomswithaview/bricks_localart.jpg.size.large.promo.jpg" alt="Beyond the bricks and mortar">
+					<!--<p class="caption"><span>Partner Content</span>Beyond the bricks and mortar</p>-->
+					<div class="bottom"><p class="label"><span>Partner Content</span></p><p class="caption"><span class="icon icon-type-unlock"></span>Beyond the bricks and mortar</p></div>
 				</a>
 			</li>
 
 			
 			<li>
-				<a href="http://www.toronto.com/things-to-do/articles/this-weekend-things-to-do-in-toronto/" class="twin icon-overlay">
-		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/torontodotcom/toronto_pride.jpg.size.medium2.promo.jpg" alt="Toronto.com This Weekend: Things to Do in Toronto">
-		            <!--<p class="caption">Toronto.com This Weekend: Things to Do in Toronto</p>-->
-			        <div class="bottom"><p class="caption">Toronto.com This Weekend: Things to Do in Toronto</p></div>
+				<a href="http://www.thestar.com/partner_content/starbusinessclub/2014/09/30/doubling-down-on-the-digital-office.html" class="twin icon-overlay">
+					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/uploads/2014/9/29/1412009722606.jpg.size.medium2.promo.jpg" alt="Doubling down on the digital office">
+					<!--<p class="caption">Doubling down on the digital office</p>-->
+					<div class="bottom"><p class="label"><span>Partner Content</span></p><p class="caption"><span class="icon icon-type-unlock"></span>Doubling down on the digital office</p></div>
 				</a>
 			</li>
 
 			
 			<li class="last">
-				<a href="http://www.thestar.com/business/sportonomics/2014/06/12/sportonomics_the_evolution_of_rohan_marley.html" class="twin icon-overlay video">
-		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/business/sportonomics/2014/06/12/sportonomics_the_evolution_of_rohan_marley/3619404913001_videoStillImage.jpg.size.medium2.promo.jpg" alt="Sportonomics: The evolution of Rohan Marley">
-		            <!--<p class="caption">Sportonomics: The evolution of Rohan Marley</p>-->
-			        <div class="bottom"><p class="caption">Sportonomics: The evolution of Rohan Marley</p></div>
+				<a href="http://www.thestar.com/life/food_wine/2014/10/02/fresh_bites_butternut_squash_brownies_are_a_revelation.html" class="twin icon-overlay">
+					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/food_wine/2014/10/02/fresh_bites_butternut_squash_brownies_are_a_revelation/squash_brownies.jpg.size.medium2.promo.jpg" alt="Fresh bites: Butternut squash brownies are a revelation">
+					<!--<p class="caption">Fresh bites: Butternut squash brownies are a revelation</p>-->
+					<div class="bottom"><p class="caption">Fresh bites: Butternut squash brownies are a revelation</p></div>
 				</a>
 			</li>
 
 			
 			<li>
-				<a href="http://www.thestar.com/sponsored_sections/dailyhealth/2014/06/09/five-healthy-habits-for-summer.html" class="twin icon-overlay">
-		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/dailyhealth/daily_health_photo3_habits.jpg.size.medium2.promo.jpg" alt="Five healthy habits for summer">
-		            <!--<p class="caption">Five healthy habits for summer</p>-->
-			        <div class="bottom"><p class="caption"><span class="icon icon-type-unlock"></span>Five healthy habits for summer</p></div>
+				<a href="http://www.thestar.com/life/further_education/2014/10/02/further_education_brimming_with_opportunity.html" class="twin icon-overlay">
+					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/further_education/2014/10/02/further_education_brimming_with_opportunity/humber1jpg.jpg.size.medium2.promo.jpg" alt="Further education brimming with opportunity">
+					<!--<p class="caption">Further education brimming with opportunity</p>-->
+					<div class="bottom"><p class="caption"><span class="icon icon-type-unlock"></span>Further education brimming with opportunity</p></div>
 				</a>
 			</li>
 
 			
 			<li class="last">
-				<a href="http://www.thestar.com/life/food_wine/2014/06/26/butter_tarts_inspire_patriotic_devotion_in_canadians.html" class="twin icon-overlay">
-		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/food_wine/2014/06/26/butter_tarts_inspire_patriotic_devotion_in_canadians/kyla_eaglesham1.jpg.size.medium2.promo.jpg" alt="Butter tarts inspire patriotic devotion in Canadians">
-		            <!--<p class="caption">Butter tarts inspire patriotic devotion in Canadians</p>-->
-			        <div class="bottom"><p class="caption">Butter tarts inspire patriotic devotion in Canadians</p></div>
+				<a href="http://www.toronto.com/things-to-do/articles/toronto-attractions-to-visit-this-fall/" class="twin icon-overlay">
+					<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/torontodotcom/necropolis-16.jpg.size.medium2.promo.jpg" alt="Toronto.com: Fall Attractions">
+					<!--<p class="caption">Toronto.com: Fall Attractions</p>-->
+					<div class="bottom"><p class="caption">Toronto.com: Fall Attractions</p></div>
 				</a>
 			</li>
 
@@ -1418,9 +1462,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327948;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1//0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1//0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329728;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
 </noscript>
 
 	
@@ -1445,86 +1488,86 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 			<ul>
 
 				
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2014/06/27/why_ontarios_only_venomous_snake_is_more_scared_of_us.html" class="with-comment-icon"> Why Ontario's only venomous snake is more scared of us</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/why_ontarios_only_venomous_snake_is_more_scared_of_us.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html" class="with-comment-icon"> Maple Leafs draft William Nylander: ‘NHL speed, NHL hands and an NHL shot right now</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/sports/hockey/2014/06/27/canucks_trade_ryan_kesler_jason_garrison_in_predraft_flurry.html" class="with-comment-icon"> Canucks trade Ryan Kesler, Jason Garrison in pre-draft flurry</a><span class="comment-icon"><a href="http://www.thestar.com/sports/hockey/2014/06/27/canucks_trade_ryan_kesler_jason_garrison_in_predraft_flurry.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2014/06/27/when_sex_just_isnt_your_cup_of_tea_mallick.html"> When sex just isn’t your cup of tea: Mallick</a>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/sports/raptors/2014/06/26/raptors_gamble_on_unknown_project_bruno_caboclo_in_nba_draft.html" class="with-comment-icon"> Raptors gamble on unknown project Bruno Caboclo in NBA draft</a><span class="comment-icon"><a href="http://www.thestar.com/sports/raptors/2014/06/26/raptors_gamble_on_unknown_project_bruno_caboclo_in_nba_draft.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html" class="with-comment-icon"> Sugar Beach pink umbrellas deconstructed</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_maple_leafs_pick_william_nylander.html" class="with-comment-icon"> NHL draft: Maple Leafs pick William Nylander</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_maple_leafs_pick_william_nylander.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/news/city_hall/2014/06/27/how_rob_ford_can_get_his_second_chance.html"> Expert advice on how Rob Ford can get his second chance</a>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html" class="with-comment-icon"> Immigration experts say Bill C-24 discriminatory and weakens citizenship</a><span class="comment-icon"><a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
-		
-										<li class="float-clear"> 
-              				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html" class="with-comment-icon"> Construction worker who fell to death was refugee from Iraq</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html">comments</a></span>
-											</p>
-									  </li>
-		
-									
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/canada/2014/10/14/suspect_in_bc_shootout_is_dead_rcmp_say.html" class="with-comment-icon"> Suspect in B.C. shootout is dead, RCMP say</a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2014/10/14/suspect_in_bc_shootout_is_dead_rcmp_say.html">comments</a></span>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/toronto_mayoral_campaign_intensity_only_grows_in_last_two_weeks.html" class="with-comment-icon"> Toronto mayoral campaign intensity only grows in last two weeks</a><span class="comment-icon"><a href="http://www.thestar.com/news/city_hall/toronto2014election/2014/10/14/toronto_mayoral_campaign_intensity_only_grows_in_last_two_weeks.html">comments</a></span>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/world/2014/10/14/ebola_exposure_70_hospital_staff_cared_for_first_dallas_patient.html" class="with-comment-icon"><span class="icon icon-style-text icon-type-unlock"></span><span class="icon icon-type-video-xsmall icon-style-text">Video</span> Ebola exposure: 70 hospital staff cared for first Dallas patient</a><span class="comment-icon"><a href="http://www.thestar.com/news/world/2014/10/14/ebola_exposure_70_hospital_staff_cared_for_first_dallas_patient.html">comments</a></span>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/world/2014/10/13/kim_jong_un_reappears_with_cane.html"><span class="icon icon-style-text icon-type-unlock"></span><span class="icon icon-type-video-xsmall icon-style-text">Video</span> Kim Jong Un reappears with cane</a>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html" class="with-comment-icon"> Former Dragon’s Den star W. Brett Wilson tweets that his cancer is back</a><span class="comment-icon"><a href="http://www.thestar.com/entertainment/2014/10/14/former_dragons_den_star_w_brett_wilson_tweets_that_his_cancer_is_back.html">comments</a></span>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/gta/2014/10/13/youth_pastor_dies_hours_after_writing_his_life_goals.html" class="with-comment-icon"> Youth pastor dies hours after writing his life goals</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/10/13/youth_pastor_dies_hours_after_writing_his_life_goals.html">comments</a></span>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/canada/2014/10/14/senator_brazeau_arrested_again.html"> Senator Brazeau arrested again</a>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/news/world/2014/10/13/dallas_nurse_with_ebola_received_plasma_from_doctor_who_survived_disease.html"> Dallas nurse with Ebola received plasma from doctor who survived disease</a>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/business/personal_finance/2014/10/14/for_some_its_still_a_good_time_to_buy_a_house_in_the_gta.html" class="with-comment-icon"> For some, it’s still a good time to buy a house in the GTA</a><span class="comment-icon"><a href="http://www.thestar.com/business/personal_finance/2014/10/14/for_some_its_still_a_good_time_to_buy_a_house_in_the_gta.html">comments</a></span>
+					</p>
+				</li>
+
+
+
+				<li class="float-clear">
+					<p class="headline">
+						<a href="http://www.thestar.com/life/health_wellness/2014/10/14/reality_check_are_fruit_and_vegetable_juices_a_healthy_alternative_to_the_real_thing.html" class="with-comment-icon"> Reality check: Are fruit and vegetable juices a healthy alternative to the real thing? </a><span class="comment-icon"><a href="http://www.thestar.com/life/health_wellness/2014/10/14/reality_check_are_fruit_and_vegetable_juices_a_healthy_alternative_to_the_real_thing.html">comments</a></span>
+					</p>
+				</li>
+
+
 
 			</ul>
 
@@ -1574,6 +1617,8 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
         </div>
+        
+        
 
 	
 
@@ -1581,11 +1626,28 @@ google_ad_height = 250;
 </div></div>
 </div></div>
 
-      <div class="parsys ofinterestrightrail iparsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="parsys ofinterestrightrail iparsys"></div>
+	  <div class="parsys ofinterestrightrail iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys ofinterestrightrail iparsys"><div class="section"><div class="HTML5">
+
+
+
+
+	
+
+		<div class="html5-container">
+             <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="SB_1" data-ob-template="TorontoStar"></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script> 
+        </div>
+        
+        
+
+	
+
+</div>
+</div></div>
 </div></div>
 
-      <div class="parsys iparsys bottomrightrail"><div class="section"><div class="new"></div>
+	  <div class="parsys iparsys bottomrightrail"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys bottomrightrail"></div>
 </div></div>
 
@@ -1618,9 +1680,6 @@ google_ad_height = 250;
   
     <div class="sponsoredlisting sponsoredlistings">
 
-
-
-
 <div class="sponsored-listings float-clear">
 
   <strong class="heading"> </strong>
@@ -1631,9 +1690,8 @@ google_ad_height = 250;
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327952;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664486/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664486/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329733;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
 
 	
@@ -1648,9 +1706,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327954;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664485/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664485/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329733;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
 
 	
@@ -1665,9 +1722,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327954;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664487/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664487/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329734;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
 
 	
@@ -1682,9 +1738,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327955;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664484/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664484/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329736;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
 
 	
@@ -1699,9 +1754,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327972;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664488/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664488/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329738;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
 
 	
@@ -1716,9 +1770,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=589;misc=1580396327972;aduho=0;rdclick="></script>
-<noscript>
-<a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664489/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664489/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
+</script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=252;misc=1580396329739;aduho=0;rdclick="></script><noscript>
+<a href="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
 
 	
@@ -1727,7 +1780,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
   </div>
 
-</div></div>
+</div>
+</div>
 
   
 
@@ -1827,8 +1881,6 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
     
     <li><a href="http://www.thestar.com/about/subscribe.html">Get Home Delivery</a></li>
     
-    <li><a href="https://www.syncaccess.net/po/tstar/account/availablesubscriptions?planFilter=15;16&amp;op=subscribe">Get Digital Access</a></li>
-    
     <li><a href="https://secure.thestar.com/CSSApp/login.jsp">My Subscription</a></li>
     
     <li><a href="http://www.thestar.com/about/contactus.html">Contact Us</a></li>
@@ -1857,15 +1909,9 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
         
         	<li class="list" data-enable-track-click="true" data-source="Mediakit" data-url="http://mediakit.thestar.ca"><a href="http://mediakit.thestar.ca">Mediakit</a></li>
         
-        	<li class="list" data-enable-track-click="false" data-source="Online Advertising" data-url="http://mediakit.thestar.ca/index42368.htm"><a href="http://mediakit.thestar.ca/index42368.htm">Online Advertising</a></li>
+        	<li class="list" data-enable-track-click="false" data-source="Online Advertising" data-url="http://mediakit.thestar.ca/online.html"><a href="http://mediakit.thestar.ca/online.html">Online Advertising</a></li>
         
-        	<li class="list" data-enable-track-click="false" data-source="Print Advertising" data-url="http://mediakit.thestar.ca/index47285.htm"><a href="http://mediakit.thestar.ca/index47285.htm">Print Advertising</a></li>
-        
-        	<li class="list" data-enable-track-click="false" data-source="Special Sections" data-url="http://mediakit.thestar.ca/details25624.htm"><a href="http://mediakit.thestar.ca/details25624.htm">Special Sections</a></li>
-        
-        	<li class="list" data-enable-track-click="false" data-source="Sponsored Sections" data-url="/content/thestar/sponsored_sections"><a href="/content/thestar/sponsored_sections">Sponsored Sections</a></li>
-        
-        	<li class="list" data-enable-track-click="false" data-source="Partner Content" data-url="/partner_content.html"><a href="/partner_content.html">Partner Content</a></li>
+        	<li class="list" data-enable-track-click="false" data-source="Print Advertising" data-url="http://mediakit.thestar.ca/print.html"><a href="http://mediakit.thestar.ca/print.html">Print Advertising</a></li>
         
         	<li class="list" data-enable-track-click="false" data-source="Special Features" data-url="/special_features.html"><a href="/special_features.html">Special Features</a></li>
         
@@ -1887,6 +1933,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
     <li><a href="http://www.classroomconnection.ca">Classroom Connection</a></li>
     
     <li><a href="http://pagesofthepast.ca">Pages of the Past</a></li>
+    
+    <li><a href="http://www.thestar.com/initiatives/2013_report_on_community_giving.html">Report on Community Giving</a></li>
     
     </ul>
   </div>
@@ -1922,10 +1970,9 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
       <li><a href="http://www.thestar.com/about/terms.html">Terms and Conditions</a></li>
       <li class="last"><a href="http://www.thestar.com/about/privacy.html">Privacy Policy</a></li>
     </ul>
-    </div>
-  </footer></div>
+  </div>
 
-
+</footer>
 
 
 
@@ -1938,7 +1985,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1305432","applicationTime":275,"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"9faa45284b","transactionName":"ZlNVbEcHC0AHBUcMW18ZZV1EEwBAEidHEUZYVEJMUEk1UgEDZxxEVBYaGGYSCkEf","agent":"js-agent.newrelic.com\/nr-411.min.js","errorBeacon":"bam.nr-data.net"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1305432","applicationTime":344,"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"9faa45284b","transactionName":"ZlNVbEcHC0AHBUcMW18ZZV1EEwBAEidHEUZYVEJMUEk1UgEDZxxEVBYaGGYSCkEf","agent":"js-agent.newrelic.com\/nr-476.min.js","errorBeacon":"bam.nr-data.net"}</script>
 
 
   <div class="adsettings">
@@ -1946,6 +1993,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 </div>
 
   
+</div>
 
 
 
@@ -1955,11 +2003,12 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 <script src="//www.google-analytics.com/cx/api.js?experiment=Eyv5i1bZTCii9Dx039pVyw"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="/etc/designs/thestar/mainlib.js"></script>
 
 <script src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 <script src="http://admin.brightcove.com/js/APIModules_all.js"> </script>
+
+<script src="/etc/designs/thestar/mainlib.js" type="text/javascript" charset="UTF-8"></script>
+
 
 <script>
 function exec_star_component_init(wait) {
@@ -1998,10 +2047,11 @@ $(document).ready(exec_star_component_init);
 
 <div id="fb-root"></div>
 <script>
-if ($('html.lt-ie8').length == 0) {
+if ($('html.lt-ie8').length==0){
   window.fbAsyncInit = function() {
+    if (typeof FB!='object') return;
     FB.init({
-      appId: 448801065136087,
+      appId: '448801065136087',
       status: true,
       cookie: true,
       logging: false,
@@ -2064,7 +2114,8 @@ window.twttr = (function(d, s, id) {
 
 <script src="http://b.scorecardresearch.com/beacon.js"></script>
 <script>
-$(document).ready(function(){
+$(function(){
+	if (typeof COMSCORE=='object' && typeof COMSCORE.beacon=='function'){
 	COMSCORE.beacon({
 		c1: 2,
 		c2: '3005674',
@@ -2074,6 +2125,7 @@ $(document).ready(function(){
 		c6: '',
 		c15: ''
 	});
+	}
 });
 </script>
 
@@ -2085,7 +2137,7 @@ var _sf_async_config = { uid: '16909', domain: 'thestar.com' };
 <!--[if gte IE 9]>
 <script src="/etc/designs/thestar/mainlib/js/libs/jquery.pinable.js"></script>
 <script>
-$(document).ready(function() { $('body').pinable(); });
+$(function() { if ('pinable' in $.fn) $('body').pinable(); });
 </script>
 <![endif]-->
 
@@ -2113,6 +2165,24 @@ s.src = 'http://a.visualrevenue.com/vrs.js'; x.parentNode.insertBefore(s, x);
 </script>
 <!-- End of VR RR Tracking Script - All rights reserved -->
 
+<script type="text/javascript">
+    try {
+        if ($('div.article-story-body a[data-councillor]').length > 0) {
+            $('div.article-story-body a[data-councillor]').each(function () {
+                var linkContent = $(this).text();
+                var res = linkContent.replace("poilcard", "policard");
+                $(this).text(function (n) {
+                    return res;
+                });
+            });
+        }
+    }catch(err){
+        console.log("policard" + err);
+    }
+</script>
+
+
+<script src="https://www.syncaccess.net/po/tstar/api/scripts/syncwall"></script>
 
 
 
@@ -2121,4 +2191,4 @@ s.src = 'http://a.visualrevenue.com/vrs.js'; x.parentNode.insertBefore(s, x);
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
