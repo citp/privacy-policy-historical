@@ -1,18 +1,23 @@
-> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030154714id_/http%3A//rekhta.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015041853id_/http%3A//rekhta.org/cms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
+
+  
+
+
+* * *
 
 Rekhta’s privacy policy explains how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that Rekhta can collect, retain and use such data in accordance with our privacy policy.
 
-**Privacy Policy Statement**
+ **Privacy Policy Statement**
 
-Rekhta Foundation is a public charitable trust established with the objective of promotion, development and advancement of Urdu and Hindustani languages through various media. Our contact details are available at the [**Contact Us**](http://rekhta.org/contactus) page **.** We are committed to protecting your privacy and the privacy of any personally identifiable information that we collect. ****
+Rekhta Foundation is a public charitable trust established with the objective of promotion, development and advancement of Urdu and Hindustani languages through various media. Our contact details are available at the **Contact Us** page **.** We are committed to protecting your privacy and the privacy of any personally identifiable information that we collect. ****
 
 **Information That We Collect**
 
-Our web server might automatically recognize your domain name, IP address and other ascertainable electronic information. We also collect any personal information, including any sensitive personal information, as volunteered by you as per the [**Terms of Service**](http://rekhta.org/Disclaimer).
+Our web server might automatically recognize your domain name, IP address and other ascertainable electronic information. We also collect any personal information, including any sensitive personal information, as volunteered by you as per the [**Terms of Service**](http://rekhta.org/cms/disclaimer).
 
-**Use of This Information**
+ **Use of This Information**
 
 The information we collect is used to improve the content of our website and your experience. We do not rent, sell, or share your personal information with any unaffiliated third party or organization.
 
@@ -20,7 +25,7 @@ If you supply us with your telephone, postal and/or email address online you may
 
 However, we might have to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on us.
 
-**Correcting This Information**
+ **Correcting This Information**
 
 Upon a reasonable and genuine request we can provide you access to the personally identifiable information that we maintain about you. Upon request we also offer you the ability to have inaccuracies corrected in the information. You can access this information and/or have inaccuracies corrected in the information by emailing us at the above address, calling us at the phone number, or writing to us at our address. 
 
@@ -28,11 +33,11 @@ Upon a reasonable and genuine request we can provide you access to the personall
 
 We might use cookies to store preferences and to record session information.
 
-**Opting Out**
+ **Opting Out**
 
 If you do not want to receive communications from us in the future, please let us know.
 
-**Updates to This Policy**
+ **Updates to This Policy**
 
 If our privacy practices change at some time in the future we will post the policy changes to our website. 
 
