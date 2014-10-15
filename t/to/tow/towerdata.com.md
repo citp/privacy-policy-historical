@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519105117id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015035351id_/http%3A//www.towerdata.com/company/privacy_policy) for the most accurate reproduction.*
 
-# TowerData | Privacy Policy
-
-For TowerData's Safe Harbor Privacy Policy, [click here](http://www.towerdata.com/company/eu_privacy_policy.html "click here").
+# Privacy Policy
 
 The TowerData Privacy Policy is our way of ensuring the safety and accuracy of Internet users' personal information, whether gathered on this site, by our clients, or by our partners.
 
 We are in the email business and understand the importance of personal information security. We only work with companies that protect the personal information they collect from their existing or potential customers.  We respect your privacy and are committed to safeguarding your privacy.  This “Privacy Policy” discloses how we gather and use personal information.
 
+For TowerData's Safe Harbor Privacy Policy, [click here](https://web.archive.org/eu_privacy_policy "click here").
+
 ## **How We Gather Information**
 
 TowerData is in the business of intermediating between consumers who wish to receive highly valuable promotions, goods and services and companies who offer those promotions, goods and services.
 
-When you visit our website, [www.towerdata.com](http://www.towerdata.com/ "www.towerdata.com"), we collect the information you voluntarily give us when you register on our site. Additionally, like most websites, our servers use log files to list requests made by users to the server.  We use log files to store information such as internet protocol addresses, browser type, internet service provider, visited pages, date and time used and we also gather broad demographic information. This information is not linked to any personally identifiable information.   
+When you visit our website, [www.towerdata.com](https://web.archive.org/ "www.towerdata.com"), we collect the information you voluntarily give us when you register on our site. Additionally, like most websites, our servers use log files to list requests made by users to the server.  We use log files to store information such as internet protocol addresses, browser type, internet service provider, visited pages, date and time used and we also gather broad demographic information. This information is not linked to any personally identifiable information.   
 
 We also receive data through aggregating personal information received from websites and compilers of websites (data providers) where people have opted-in to receive third party offers through web sites or email. The data we receive is maintained in our database and may be shared with clients who use our data enhancement services. We mandate that any company that provides us with data certify that the data represents permissible email data that they are allowed to share with us and that we are allowed to use. If we become aware that the data is not in compliance, we will terminate our relationship with that company immediately and destroy that data.
 
@@ -32,7 +32,7 @@ We may disclose personal information received directly from you or from our data
 
 At any time, you have the right to choose not to receive offers from any of our clients. You can do this by clicking the unsubscribe link in the email you received.
 
-As mentioned above, TowerData maintains a database used for the services we provide to our clients. When asked by clients to validate or enhance data that our clients have, we access that database. If you do not wish your data to be used as part of that database or if you do not want to receive any future emails from TowerData, contact us by sending an email to [privacy@towerdata.com](mailto:privacy@towerdata.com) [privacy@towerdata.com](mailto:privacy@towerdata.com) and letting us know you want to opt out of our enhancement database. Be sure to include your name and the email address you want us to remove so that we can correctly identify you in our database. ** **
+As mentioned above, TowerData maintains a database used for the services we provide to our clients. When asked by clients to validate or enhance data that our clients have, we access that database. If you do not wish your data to be used as part of that database or if you do not want to receive any future emails from TowerData, contact us by sending an email to [privacy@towerdata.com](mailto:privacy@towerdata.com) and letting us know you want to opt out of our enhancement database. Be sure to include your name and the email address you want us to remove so that we can correctly identify you in our database. ** **
 
 ## **General**  
 
