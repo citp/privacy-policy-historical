@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statshow.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614175329id_/http%3A//www.statshow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statshow.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015104003id_/http%3A//www.statshow.com/privacy.html) for the most accurate reproduction.*
 
 # StatShow - Privacy
 
