@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163631id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015230521id_/https%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
-# Optimizely: Privacy Policy
+# Privacy Policy
 
 ### Optimizely, Inc.
 
@@ -76,8 +76,6 @@ We use an outside help platform, and a credit card processing company to bill yo
 #### Safe Harbor
 
 Optimizely, has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-[](https://privacy.truste.com/privacy-seal/Optimizely,-Inc-/validation?rid=0bdb2189-3733-467e-a7e8-5a5f3b5459b2 "TRUSTe European Safe Harbor certification")
 
 The TRUSTe program covers our collection, use and disclosure of information we collect through our website, www.optimizely.com and our Platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Optimizely.
 
