@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jossandmain.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629045434id_/https%3A//www.jossandmain.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jossandmain.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016000202id_/https%3A//www.jossandmain.com/p/privacy_policy) for the most accurate reproduction.*
 
-# Joss and Main
+# Joss and Main - Curated Flash Sales for Furniture and Décor
 
 This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss & Main, DwellStudio, AllModern and Wayfair Supply ("Joss and Main", "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service"). 
 
@@ -140,8 +140,8 @@ If you have questions about this Privacy Policy or Wayfair generally, please con
 
 Wayfair LLC  
 Attention: Legal Department  
-177 Huntington Avenue, Suite 6000  
-Boston, MA 02115 
+4 Copley Place, Floor 7  
+Boston, MA 02116 
 
 Joss and Main Giveaway Sweepstakes Official Rules 
 
@@ -197,13 +197,13 @@ _*For the Prize, the home goods products style, color and size are subject to in
 
 **CHOICE OF LAW AND JURISDICTION:** Except where prohibited, all issues and questions concerning the construction, validity, interpretation, and enforceability of these Official Rules, or the rights and obligations of entrants or winner, shall be governed by, and construed in accordance with, the laws of the Commonwealth of Massachusetts, without giving effect to any choice of law or conflict of law rules or provisions, which might otherwise cause the application of the laws of any jurisdiction other than the Commonwealth of Massachusetts. Any action seeking legal or equitable relief arising out of or relating to the Promotion or these Official Rules shall be brought only in the courts of the Commonwealth of Massachusetts. Entrants and/or winner (and their parent(s)/legal guardian(s) if entrant/winner is a minor) hereby irrevocably consent to the personal jurisdiction of said courts and waive any claim of forum non-convenience or lack of personal jurisdiction they may have. 
 
-**WINNER'S LIST:** Entrants are responsible for complying with these Official Rules. To receive the winner's list for a specific Promotion, send a self-addressed stamped envelope to: Jossandmain.com Giveaway Winner List Request, c/o Joss and Main, 177 Huntington Avenue, Suite 6000, Boston, MA 02115. Please reference the dates of the Promotion Period and Prize with your request. 
+**WINNER'S LIST:** Entrants are responsible for complying with these Official Rules. To receive the winner's list for a specific Promotion, send a self-addressed stamped envelope to: Jossandmain.com Giveaway Winner List Request, c/o Joss and Main, 4 Copley Place, Floor 7, Boston, MA 02116. Please reference the dates of the Promotion Period and Prize with your request. 
 
-**SPONSOR:** Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115 
+**SPONSOR:** Wayfair LLC, 4 Copley Place, Floor 7, Boston, MA 02116 
 
 Corporate Address:
 
-177 Huntington Avenue, Suite 6000  
-Boston, MA 02115  
+4 Copley Place, Floor 7  
+Boston, MA 02116  
 USA  
 (800) 632-8158 
