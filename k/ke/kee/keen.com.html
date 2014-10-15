@@ -1,15 +1,32 @@
-<!--The following is the downloaded HTML source of the keen.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208133536id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keen.com privacy policy that was archived on 2014-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015224601id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/HelpPgNoFootTemplate.dwt" --><!-- DW6 --><!--  ASHWEB01  --><head>
+<html><!-- #BeginTemplate "/Templates/HelpPgNoFootTemplate.dwt" --><!-- DW6 --><!--  SAC-PROD-WEB7  --><head>
 	<!-- #BeginEditable "doctitle" -->
 	<title>Ingenio Privacy Policy</title>
 	<!-- #EndEditable -->
 	
-	<link rel="stylesheet" href="/StyleSheets/platform.css">
-	<link rel="stylesheet" href="/StyleSheets/family.css">
-	<link rel="stylesheet" href="/StyleSheets/domain.css">
-	<link rel="stylesheet" href="/StyleSheets/ingenio-header.css">
+			<link rel="stylesheet" href="/StyleSheets/platform.css?ver=1">
+			<link rel="stylesheet" href="/StyleSheets/family.css">
+			<link rel="stylesheet" href="/StyleSheets/domain.css">
+			<link rel="stylesheet" href="/StyleSheets/ingenio-header.css">
+			
+			<script src="https://dalit6msb4eer.cloudfront.net/scripts/feedback/sfb_init.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1347088-2']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+
+<script src="//cdn.optimizely.com/js/1463020253.js"></script>
+			<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600" rel="stylesheet" type="text/css">
 
 	<link rel="stylesheet" href="/StyleSheets/master.css">
 </head>
@@ -17,262 +34,113 @@
 <body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
 <!-- #BeginEditable "makeheader" -->
 
-				<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.min.js"></script>
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+				<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+				<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
 				<script language="Javascript">
 					$(function () {
-						if ($("#getAdviceTab").hasClass("tab")) {
-							$("#getAdviceTab").mouseover(function () {
-								$("#getAdviceTab").removeClass("tab");
-								$("#getAdviceTab").addClass("tabHover");
-							});
-							$("#getAdviceTab").mouseleave(function () {
-								$("#getAdviceTab").removeClass("tabHover");
-								$("#getAdviceTab").addClass("tab");
-							});
-						}
-						if ($("#provideAdviceTab").hasClass("tab")) {
-							$("#provideAdviceTab").mouseover(function () {
-								$("#provideAdviceTab").removeClass("tab");
-								$("#provideAdviceTab").addClass("tabHover");
-							});
-							$("#provideAdviceTab").mouseleave(function () {
-								$("#provideAdviceTab").removeClass("tabHover");
-								$("#provideAdviceTab").addClass("tab");
-							});
-						}
-						if ($("#myAccountTab").hasClass("tab")) {
-							$("#myAccountTab").mouseover(function () {
-								$("#myAccountTab").removeClass("tab");
-								$("#myAccountTab").addClass("tabHover");
-							});
-							$("#myAccountTab").mouseleave(function () {
-								$("#myAccountTab").removeClass("tabHover");
-								$("#myAccountTab").addClass("tab");
-							});
-						}
-						
-						$("#useravailability").change($.proxy(headerUserAvailabilityDropdownHandler, "changeAvailability"));
-						$("#userPhone").change($.proxy(headerPhoneHandler, "changePhone"));
-					});
-					
-					var headerUserAvailabilityDropdownHandler = {
-					    changeAvailability: function () {
-					        //availability dropdown was changed
-					        var userId = $("#userIdHiddenField").val();
-					        var contextId = $("#contextIdHiddenField").val();
-
-					        var url = "/ws/UpdateUserAvailability.asp?selectedAvailabilityId=" + $("#useravailability").val() + "&userId=" + userId + "&contextId=" + contextId;
-					        //var data = "{'selectedAvailabilityId': " + $("#userAvailability").val() + ", 'userId': " + userId + ", 'contextId': " + contextId + " }";
-					        var data = "";
-
-					        var res = $.ajax({
-					            type: 'GET',
-					            url: url,
-								cache : false,
-					            success: function (data) {
-					                if (data == "true") {
-					                    location.reload(true);
-					                }
-					                else {
-					                    alert('We\'re sorry, we could not change your availability.  Please try again.');
-					                    location.reload(true);
-					                }
-					            },
-					            error: function (data) {
-					                alert('We\'re sorry, we could not change your availability.  Please try again.');
-					                location.reload(true);
-					            }
-					        });
-					        /*res.success(function (obj) {
-					        location.reload(true);
-					        });
-					        res.error(function (obj) {
-					        alert('We\'re sorry, we could not change your availability.  Please try again.');
-					        });*/
-					    }
-					};
-					
-					var headerPhoneHandler = {
-						changePhone: function () {
-							//phone dropdown was changed
-							var userId = $("#userIdHiddenField").val();
-
-							var url = "/Newlook/Header/UpdatePhoneNumber/?selectedPhoneNumberId=" + $("#userPhone").val() + "&userId=" + userId;
-							//var data = "{'selectedPhoneNumberId': '" + $("#userPhone").val() + "', 'userId': '" + userId + "' }";
-							var data = "";
+						$('html').click(function (e) {
+							//if target of the click is not the source or its content AND not inside the opened modal, hide it
+							if ( ! $(e.target).is('#headerUserContainerSource, #headerUserContainerSource *, #headerUserContainerModalSpacer, #headerUserContainerModalSpacer *, #headerUserContainerModal, #headerUserContainerModal *') ) {
+								if ($("#headerUserContainerModal").is(':visible')) {
+									$("#headerUserContainerSource").removeClass("headerUserContainerSourceHover");
+									$("#headerUserContainerModalSpacer").hide();
+									$("#headerUserContainerModal").hide();
+								}
+							}
 							
-							var res = $.post(url, data);
-							res.success(function (obj) {
-								location.reload(true);
-							});
-							res.error(function (obj) {
-								alert('We\'re sorry, we could not change your primary phone number.  Please try again.');
-							});
-						}
-					};
-					
-					function displayWelcomeBackMenu() {
-						var welcomeBackHeaderSectionDiv = $("#welcomeBackHeaderSectionDiv");
-						var welcomeBackMenuPadding = $("#welcomeBackMenuPadding");
-						var welcomeBackMenuDiv = $("#welcomeBackMenuDiv");
-						var welcomeBackTextDiv = $("#welcomeBackTextDiv");
-						var isMacintosh = (navigator.userAgent.toLowerCase().indexOf("macintosh") != -1) ? true : false;
-						var isSafari = (navigator.userAgent.toLowerCase().indexOf("safari") != -1) ? true : false;
-						var isChrome = (navigator.userAgent.toLowerCase().indexOf("chrome") != -1) ? true : false;
-						var isFF = (navigator.userAgent.toLowerCase().indexOf("firefox") != -1) ? true : false;
-						
-						welcomeBackMenuPadding.css("width", welcomeBackTextDiv.width() + 20 + "px");
-						welcomeBackMenuPadding.css("left", welcomeBackTextDiv.offset().left - 10 + "px");
-						welcomeBackMenuDiv.css("width", welcomeBackTextDiv.width() + 20 + "px");
-						welcomeBackMenuDiv.css("left", welcomeBackTextDiv.offset().left - 10 + "px");
-						
-						if (isMacintosh && (isSafari || isChrome)) {
-							welcomeBackMenuPadding.css("top", "39px");
-							welcomeBackMenuDiv.css("top", "43px");
-						}
-						else if (isMacintosh && isFF) {
-							welcomeBackMenuPadding.css("top", "39px");
-							welcomeBackMenuDiv.css("top", "43px");
-						}
-						else {
-							welcomeBackMenuPadding.css("top", "40px");
-							welcomeBackMenuDiv.css("top", "44px");
-						}
-
-						welcomeBackMenuPadding.show();
-						welcomeBackMenuDiv.show();
-					}
-					
-					function hideWelcomeBackMenu() {
-						var welcomeBackMenuPadding = $("#welcomeBackMenuPadding");
-						welcomeBackMenuPadding.hide();
-						
-						var welcomeBackMenuDiv = $("#welcomeBackMenuDiv");
-						welcomeBackMenuDiv.hide();
-					}
-					
-					function displayAvailabilityMenu() {
-						var availabilityHeaderSectionDiv = $("#availabilityHeaderSectionDiv");
-						var availabilityMenuPadding = $("#availabilityMenuPadding");
-						var availabilityMenuDiv = $("#availabilityMenuDiv");
-						var availabilityTextDiv = $("#availabilityTextDiv");
-						var availabilityMenuContent = $("#availabilityMenuContent");
-						var isMacintosh = (navigator.userAgent.toLowerCase().indexOf("macintosh") != -1) ? true : false;
-						var isSafari = (navigator.userAgent.toLowerCase().indexOf("safari") != -1) ? true : false;
-						var isChrome = (navigator.userAgent.toLowerCase().indexOf("chrome") != -1) ? true : false;
-						var isFF = (navigator.userAgent.toLowerCase().indexOf("firefox") != -1) ? true : false;
-						
-						availabilityMenuPadding.css("width", availabilityTextDiv.width() + 20 + "px");
-						availabilityMenuPadding.css("left", availabilityTextDiv.offset().left - 10 + "px");
-						availabilityMenuDiv.css("width", availabilityMenuContent.width() + 20 + "px");
-						availabilityMenuDiv.css("left", availabilityTextDiv.offset().left - 10 + "px");
-						
-						if (isMacintosh && (isSafari || isChrome)) {
-							availabilityMenuPadding.css("top", "39px");
-							availabilityMenuDiv.css("top", "43px");
-						}
-						else if (isMacintosh && isFF) {
-							availabilityMenuPadding.css("top", "39px");
-							availabilityMenuDiv.css("top", "43px");
-						}
-						else {
-							availabilityMenuPadding.css("top", "40px");
-							availabilityMenuDiv.css("top", "44px");
-						}
-						
-						availabilityMenuPadding.show();
-						availabilityMenuDiv.show();
-						
-						$('body').bind('mousemove', function(e) { 
-							hideAvailabilityMenu(e);
+							//header more modal
+							if ( ! $(e.target).is('#headerMoreLink, #headerMoreLink *, #headerMoreModal, #headerMoreModal *') ) {
+								if ($("#headerMoreModal").is(':visible')) {
+									$("#headerMoreModal").hide();
+								}
+							}
 						});
-					}
-					
-					function hideAvailabilityMenu(e) {
-						var availabilityHeaderSectionDiv = $("#availabilityHeaderSectionDiv");
-						var availabilityMenuPadding = $("#availabilityMenuPadding");
-						var availabilityMenuDiv = $("#availabilityMenuDiv");
-						var isHide = true;
-						
-						var leftBegin1 = availabilityHeaderSectionDiv.offset().left;
-						var leftEnd1 = leftBegin1 + availabilityHeaderSectionDiv.get(0).offsetWidth;
-						var topBegin1 = availabilityHeaderSectionDiv.offset().top;
-						var topEnd1 = topBegin1 + availabilityHeaderSectionDiv.get(0).offsetHeight;
-						if ((e.pageX >= leftBegin1 && e.pageX <= leftEnd1) && (e.pageY >= topBegin1 && e.pageY <= topEnd1))
-							isHide = false;
-						
-						var leftBegin2 = availabilityMenuDiv.offset().left;
-						var leftEnd2 = leftBegin2 + availabilityMenuDiv.get(0).offsetWidth;
-						var topBegin2 = availabilityMenuPadding.offset().top;
-						var topEnd2 = topBegin2 + availabilityMenuPadding.get(0).offsetHeight + availabilityMenuDiv.get(0).offsetHeight + 40;
-						if ((e.pageX >= leftBegin2 && e.pageX <= leftEnd2) && (e.pageY >= topBegin2 && e.pageY <= topEnd2))
-							isHide = false;
-						
-						if (isHide) {
-							var availabilityMenuPadding = $("#availabilityMenuPadding");
-							availabilityMenuPadding.hide();
-							
-							var availabilityMenuDiv = $("#availabilityMenuDiv");
-							availabilityMenuDiv.hide();
-							
-							$('body').unbind('mousemove');
-						}
-					}
+
+						$("#headerUserContainerSource").click(function () {
+							var modal = $("#headerUserContainerModal");
+							var modalSpacer = $("#headerUserContainerModalSpacer");
+
+							if (modal.is(':visible')) {
+								$("#headerUserContainerSource").removeClass("headerUserContainerSourceHover");
+								modalSpacer.hide();
+								modal.hide();
+							}
+							else {
+								$("#headerUserContainerSource").addClass("headerUserContainerSourceHover");
+								modalSpacer.show();
+								modal.show();
+							}
+						});
+
+						$("#registerButton").hover(
+							function () {
+								$("#ingStatusBar").html("https://www.ingenio.com/Registration/LoginStarter.aspx?Mode=StartWithReg&returnUrl=http://www.ingenio.com/documents/help/privacypolicy.asp").show();
+							},
+							function () {
+								$("#ingStatusBar").hide();
+							}
+						);
+
+						$("#registerButton").click(function () {
+							window.location = "https://www.ingenio.com/Registration/LoginStarter.aspx?Mode=StartWithReg&returnUrl=http://www.ingenio.com/documents/help/privacypolicy.asp";
+						});
+
+						$("#headerMoreLink").click(function () {
+							var modal = $("#headerMoreModal");
+							if (modal.is(':visible')) {
+								modal.hide();
+							}
+							else {
+								modal.show();
+							}
+						});
+					});
 				</script>
+
+					<div class="headerBg">
+						<div class="headerContainer">
+
+								<div class="floatRight headerUserContainer">
+									<div id="registerButton" class="floatRight registerButton" style="margin-left:20px;">Sign up</div>
+									<div class="floatLeft link"><a href="https://www.ingenio.com/Registration/LoginStarter.aspx?Mode=StartWithLogin&amp;returnUrl=http://www.ingenio.com/documents/help/privacypolicy.asp">Log in</a></div>
+									<br class="clear">
+								</div>
+
+							<div class="floatLeft" style="padding-top:10px;"><a href="http://www.ingenio.com"><img src="http://i.keen.com/D5_ingeniologowhite_V1.png" alt="Ingenio" title="Ingenio" border="0"></a></div>
+							<div class="floatLeft headerLinksContainer">
+								<div class="floatLeft link"><a href="http://www.ingenio.com/relationship-coaching/17001">Relationship Coaching</a></div>
+								<div class="floatLeft separator"></div>
+								<div class="floatLeft link"><a href="http://www.ingenio.com/life-coaching/17002">Life Coaching</a></div>
+								<div class="floatLeft separator"></div>
+								<div class="floatLeft link"><a href="http://www.ingenio.com/family-coaching/17000">Family Coaching</a></div>
+								<div class="floatLeft separator"></div>
+								<div class="floatLeft" style="position:relative;">
+									<div class="link"><a id="headerMoreLink" href="javascript:void(0);">More &gt;</a></div>
+									<div id="headerMoreModal" class="headerMoreModal" style="display:none;">
+										<div class="item">
+											<div><a href="http://www.ingenio.com/love-advice/768">Love Advice</a></div>
+											<div><a href="http://www.ingenio.com/personal-advice/718">Personal Advice</a></div>
+											<div><a href="http://www.ingenio.com/career-advice/791">Career Advice</a></div>
+											<div><a href="http://www.ingenio.com/health-wellness/136">Health &amp; Wellness</a></div>
+											<div><a href="http://www.ingenio.com/education-tutoring/29">Education &amp; Tutoring</a></div>
+											<div><a href="http://www.ingenio.com/counseling-therapy/583">Counseling &amp; Therapy</a></div>
+											<div><a href="http://www.ingenio.com/legal/833">Legal Advice</a></div>
+											<div><a href="http://www.ingenio.com/business/680">Business Advice</a></div>
+											<div><a href="http://www.ingenio.com/tech-help/58">Technical Help</a></div>
+										</div>
+									</div>
+								</div>
+								<div class="floatLeft spacer">&nbsp;</div>
+								<div class="floatLeft link"><a href="http://www.ingenio.com/articles">Articles</a></div>
+								<br class="clear">
+							</div>
+							<br class="clear">
+						</div>
+					</div>
+
 				
-				<div class="headerBg">
-					<div class="headerContainer">
-						<div class="floatRight" style="width:560px;">
-							<table border="0" cellpadding="0" cellspacing="0" align="right">
-								<tbody><tr valign="top">
-
-			<td style="padding-right:2px;">
-				<div class="headerSection">
-					<div class="headerLinks" style="padding-top:17px;">
-						<a href="https://www.ingenio.com/secure/login/xt_force_login.asp?Join=1" rel="nofollow">Register</a>
-					</div>
-				</div>
-			</td>
-			<td style="padding-right:2px;">
-				<div class="headerSection">
-					<div class="headerLinks" style="padding-top:17px;">
-						<a href="https://www.ingenio.com/secure/login/xt_force_login.asp?Join=2" rel="nofollow">Sign In</a>
-					</div>
-				</div>
-			</td>
-
-	<td style="padding-right:2px;">
-		<div class="headerSection">
-			<div class="headerLinks" style="padding-top:17px;">
-				<a href="http://www.ingenio.com/documents/help/menu.asp">Help</a>
-			</div>
-		</div>
-	</td>
-	<td style="padding-right:2px;">
-		<div class="headerSection">
-			<div class="headerLinks" style="padding-top:17px;">
-				<a href="http://www.ingenio.com/help/support.aspx">Contact Us</a>
-			</div>
-		</div>
-	</td>
-
-								</tr>
-							</tbody></table>
-						</div>
-						<br class="clear" style="padding-top:10px;">
-						<div class="logo">
-		<a href="http://www.ingenio.com"><img src="http://i.yellowpages.com/D5_ingeniologo_V2.png" alt="Ingenio" border="0"></a>
-</div>
-					</div>
-					<div class="headerBar">&nbsp;</div>
-					<div class="headerTabs">
-						<div class="tabsContainer">
-							<div id="getAdviceTab" class="floatLeft tab"><div style="padding-top:5px;"><a href="http://www.ingenio.com/get-advice">Get Advice</a></div></div>
-							<div id="provideAdviceTab" class="floatLeft tab"><div style="padding-top:5px;"><a href="http://www.ingenio.com/give/advice.asp">Provide Advice</a></div></div>
-							<div id="myAccountTab" class="floatLeft tab"><div style="padding-top:5px;"><a href="http://www.ingenio.com/MyAccount/default.asp">My Account</a></div></div>
-						</div>
-					</div>
-				</div>
+				<div id="ingStatusBar" class="ingStatusBar" style="display:none;"></div>
 
 	<div style="width:760px;margin:0px auto;padding:0px 20px;">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -438,7 +306,7 @@ Ingenio may communicate with you in a variety of different ways. The following d
 	<div class="ed-footerBg ed-footerBgAccent">
     	<!-- start ed-footer -->
    		<div class="ed-footer" id="ed-footer">
-			<a href="/documents/help/about-ingenio.asp">About Ingenio</a><span class="ed-footerpipe">|</span><a href="/documents/help/satisfaction.asp">Satisfaction Guarantee</a><span class="ed-footerpipe">|</span><a href="/Help/Support.aspx">Customer Support</a><span class="ed-footerpipe">|</span><a href="http://www.ingenio.com/give/advice.asp">Provide Advice</a><span class="ed-footerpipe">|</span><a href="/Help/Support.aspx">Partner with Us</a><span class="ed-footerpipe">|</span><a href="/documents/help/memberagreement.asp?TF=1">Member Agreement</a><span class="ed-footerpipe">|</span><a href="/documents/help/sitemap.asp">Site Map</a>
+			<a href="/documents/help/about-ingenio.asp">About Ingenio</a><span class="ed-footerpipe">|</span><a href="/documents/help/satisfaction.asp">Satisfaction Guarantee</a><span class="ed-footerpipe">|</span><a href="/give/advice.asp">Provide Advice</a><span class="ed-footerpipe">|</span><a href="/Help/Support.aspx">Partner with Us</a><span class="ed-footerpipe">|</span><a href="/documents/help/memberagreement.asp?TF=1">Member Agreement</a><span class="ed-footerpipe">|</span><a href="/Help/Support.aspx">Contact Us</a><span class="ed-footerpipe">|</span><a href="/documents/help/menu.asp">Help</a><span class="ed-footerpipe">|</span><a href="/documents/help/sitemap.asp">Site Map</a>
     	</div>
         <!-- end ed-footer -->
     </div>
@@ -447,13 +315,12 @@ Ingenio may communicate with you in a variety of different ways. The following d
     <div class="ed-footer2">
     	<!-- start footerSecurity -->
         <div id="footerSecurity">
-        	<!-- Begin DigiCert/ClickID site seal HTML and JavaScript -->
-            <div id="DigiCertClickID_ryAzHylK" data-language="en_US"><a href="http://www.digicert.com/ssl-certificate.htm"></a></div>
-            <script type="text/javascript">
-				var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_ryAzHylK", "3", "s", "black", "ryAzHylK"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
-
-            </script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
-            <!-- End DigiCert/ClickID site seal HTML and JavaScript -->
+			<!-- Begin DigiCert site seal HTML and JavaScript -->
+			<div id="DigiCertClickID_Zstm29UK" data-language="en_US"><a href="http://www.digicert.com/unified-communications-ssl-tls.htm"></a></div>
+			<script type="text/javascript">
+				var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_Zstm29UK", "3", "s", "black", "Zstm29UK"]); (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); } ());
+			</script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+			<!-- End DigiCert site seal HTML and JavaScript -->
         </div>
         <!-- end footerSecurity -->
         <!-- start footerDisclaimer -->
@@ -475,18 +342,33 @@ Ingenio may communicate with you in a variety of different ways. The following d
 </div>
 <!-- end Footer -->
 
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1060820571;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060820571/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<!--- start: simplefeedback.com --->
+<script type="text/javascript">
+var sfb_params = { "host": (("https:" == document.location.protocol) ? "https://" : "http://"), "site": "2C9BAEA38488B23D572875080939B4CB778835B8", "id": "851" };
+(function(d, t) { var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = sfb_params.host+'dalit6msb4eer.cloudfront.net/scripts/feedback/sfb_init.js'; s.parentNode.insertBefore(g, s); }(document, 'script'));
+</script>
+<!--- end: simplefeedback.com --->
+
+
 
 </div>
 
-<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-<script type="text/javascript">
-	try{ 
-		var pageTracker = _gat._getTracker('UA-1347088-2');
-		pageTracker._trackPageview();
-	}
-	catch(err){
-	} 
-</script>
 
 
 
