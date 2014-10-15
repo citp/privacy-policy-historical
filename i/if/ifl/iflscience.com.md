@@ -1,99 +1,118 @@
-> *The following text is extracted and transformed from the iflscience.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608041845id_/http%3A//www.iflscience.com%3Fhome.privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflscience.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015200600id_/http%3A//www.iflscience.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | IFLScience
 
-Your online privacy is important to us at _IFLScience Inc._ ("IFLS" or "we"). _IFLS_ is dedicated to delivering high-quality editorial and advertising content that meets your specific needs. At the same time, we recognize the importance of protecting selected information which we may collect from -- and about -- you. Consequently, _IFLS_ has developed our privacy policy to help balance:
+We take your privacy very seriously and are committed to being transparent with how we use your information. This website, software, applications, and any services linked by this Privacy Policy are controlled by IFLS, Inc. (collectively “We” or “us”).
 
-Our legitimate business interests in collecting and using information, and your reasonable expectations of privacy for the personal information you provide to us while visiting any of our web sites.
+Our Privacy Policy explains:
 
-Please review the following policy in its entirety. Feel free to contact us if you have any questions or concerns about its contents. We will not disclose your information to anyone outside of LabX Media Group of _IFLS_ , except as described in the following sections.
-
-_IFLS_ may, from time to time, revise this Privacy Policy. Therefore, you should periodically visit this page to determine the then-current Privacy Policy. Your continued use after the posting of any revisions to the Privacy Policy will constitute your agreement to be bound by such revisions.
-
-##  Overview
-
-This Privacy Policy describes the policies of _IFLS_ regarding the collection, use, disclosure, and protection of the following types of information:
-
-Information obtained when you and other users ("you" or "Users") visit the _IFLS_ web site (the "Site").
-
-information obtained through e-mail communications with you related to the Site.
-
-This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.
-
-##  Collecting Information
-
-**General**
-
-_IFLS_ may require you to provide us with certain information about yourself when you request certain products and services. We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback, and when you submit postings to public areas of this Site.
-
-The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as your name, postal address, telephone number, fax number and e-mail address. It also may include certain business information, such as employer name, occupation, job function, job title, and buying information.
-
-This Site only collects Personally Identifiable Information with your knowledge.
-
-**Automatic Data Collection**
-
-When you visit this Site, _IFLS_ may collect the IP address of your computer.  We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
-
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties.
-
-##  How We Use Your Information
-
-**General**
-
-**IFLS** uses Personally Identifiable Information that we collect on this Site for the following purposes:
-
-  * to provide you with this Site and other products and services (such as electronic and print publications and newsletters)
-  * to respond to your inquiries and contact you about changes regarding the Site.
-  * to provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-  * for any other purpose disclosed at the time the information is collected or to which you consent.
-  * as otherwise specifically described in this Privacy Policy.
+  * What information we collect and why we collect it.
+  * How we use that information.
+  * The choices we offer, including how to access and update information.
 
 
 
-_IFLS_ also may use your information to better understand the needs of our Users and to improve our Site.  For example, to help determine which sections of the Site are most popular and the general demographics of our Users. Cookies and other User information also enable us to customize your Site experience.
+If you have any questions about this Privacy Policy, please contact us at: _[termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com)_.
 
-We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
+## Information we collect
 
-**Newsletters and Offers**
+We collect information to provide better services to our users and improve our business.
 
-_IFLS_ may use the information you provide us to send you e-mail, fax, and other communications. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other _LabX Media Group_ or _IFLS_ products and services. These communications will include instructions explaining how you can "opt out" of future communications of the same type.
+We collect information in two ways:
 
-We also may use your information to send you e-mail and other communications on behalf of unaffiliated third parties. When you provide information to this Site, you will be given an opportunity to "opt out" of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time on the registration page of this Site or by sending an e-mail.
+  * **Information you give us or information provided through a social network.**  For example, some of our services require you to sign up for an account, provide information for a contest or award, or link an account through a social network. We work with social networks including, but not limited to Facebook, Twitter, Google Plus, and LinkedIn. We have access to information you directly provide and information through those social networking services based on your privacy settings on those networks.
 
-##  Our Disclosure of Your Information
+  * **Information we get from your use of our services.**  We may collect information about the services that you use and how you use them, like when you visit different parts of our site or applications and what selections you make on the services. We may also automatically collect certain technical information such as:
 
-We will not disclose your information to anyone outside of _LabX Media Group_ or _IFLS_ , except as described in this section.
+    * **Device information**  
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile information if you use a mobile device to access the site).
 
-We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers, and other affiliated and unaffiliated companies.
+    * **Log information**  
+When you use our services or view content provided by us, we may automatically collect and store certain information in server logs. This information may include:
 
-We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.
-
-We also may disclose your information to third parties that wish to market products or services that may be of interest to you. We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval. When you register with and provide information to this Site, you will be given an opportunity to "opt out" of our disclosing your Personally Identifiable Information as described in this paragraph. You may also opt out of such disclosures at any time on the registration page of this Site or by sending an e-mail.
-
-The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:
-
-  * In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving _IFLS_ or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.
-  * We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property.
-  * We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the 'Reader Services' section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.
-
+      * details of how you used our service, such as your navigation paths and search queries.
+      * mobile related information if you access our website using your mobile device.
+      * internet protocol address.
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
+      * cookies that may uniquely identify your browser, mobile device, or your account.
+      * Browser type, operating system, and other technical information
 
 
-##  Security
 
-_IFLS_ uses reasonable security safeguards to protect the Personally Identifiable information we collect on this Site from unauthorized access, use, modification, or disclosure. However, due to the design of the Internet and other factors outside of our control, _IFLS_ cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+## How we use information we collect
 
-##  "Opt Out"
+We use the information we collect from all of our services to provide, maintain, protect and improve our services, to develop new services and offerings and to protect us and our users. We also use this information to offer you tailored content like giving you more relevant search results and ads.
 
-This Privacy Policy describes certain opportunities you will have to "opt out" of our using or disclosing your Personally Identifiable Information.
+When you contact us, we may keep a record of your communication as well as the other information in this Privacy Policy to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 
-Typically, an "opt out" request will be specific to a particular service or product. For example, if you opt out of receiving third party offers from this Site, you may continue to receive third party offers from other LabX Media Group web sites or from publications not associated with this Site. Similarly, opting out of our disclosing Personally Identifiable Information collected on this Site will not apply to information collected on other LabX Media Group or IFLS web sites. We cannot guarantee that we will be able to accommodate "opt out" requests that apply to multiple web sites, products, or services, but we will try to do so to a reasonable extent. If you wish to opt out of the use or disclosure of Personally Identifiable Information collected by more than one LabX Media Group or IFLS web site, the best way to do this is to provide a separate "opt out" request for each web site, product, or service.
+We use aggregated and demographic information to support our advertising needs so we can continue to provide many services for free. Your personally identifiable information is never disclosed to these parties, unless you are notified or consent.
 
-Any "opt out" request will only be effective after a reasonable period of time for processing.
+Please keep in mind that comments sections, forums, and other similar areas of our services are public. Any information posted in those areas is viewable and usable by anyone that has access.
 
-##  Links
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
 
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
+## Choice
 
-##  Changes to this Privacy Policy
+If we provide you with any mailings or other communication, you can always opt out of that communication.
 
-_IFLS_ may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the e-mail account you provided when subscribing and/or by placing a notice within the magazine itself.
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled.
+
+You have the right to remove your personal information from our databases. To do this, please delete your Company account. If you have any problems or questions, please let us know by contacting us here _[termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com)_ and we will assist you with the process.
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information in your account. If that information is wrong, we strive to give you ways to update it quickly or to delete it unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+
+## Do Not Track Signals
+
+Some web browsers have settings that include “do not track signals.” Our services are not currently engineered to respond to those signals from browsers.
+
+## Information we share
+
+We do not share personal information with companies, outside organizations and individuals unless one of the following circumstances apply:
+
+  * **With your consent**  
+We will share personal information with companies, outside organizations or individuals if we have your consent to do so.
+
+  * **For external processing**  
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+  * **For legal reasons**  
+We will share personal information with companies, outside organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process or enforceable governmental request, detect, prevent, or otherwise address fraud, security or technical issues or protect against harm to the rights, property or safety of our users or the public as required or permitted by law.
+
+  * **In case of a sale or asset transfer**  
+If we become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, user information, including personal information collected from you through your use of our services, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the services.
+
+
+
+  * **In aggregated form for business purposes**  
+We may share aggregated, non-personally identifiable information publicly and with our partners we have a relationship with, advertisers or connected sites. For example, we may share information to show trends about the general use of our services.
+
+
+
+
+## Information security
+
+We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold however no website is entirely secure. You should protect the account information in your possession as well.
+
+## Third-Party Sites
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on this site. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks.
+
+## Enforcement
+
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up.
+
+## Children Under 13
+
+Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at _[termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com)_.
+
+## Our Services are Located in the United States
+
+Our website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such processing and storage.
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
+
+This Privacy Policy was last updated on August 5th, 2014.
