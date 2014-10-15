@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacockgapclubhouse.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615134053id_/http%3A//peacockgapclubhouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacockgapclubhouse.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015122514id_/http%3A//peacockgapclubhouse.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
