@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanlee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135533id_/http%3A//ryanlee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanlee.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015171104id_/http%3A//ryanlee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ryan Lee | Continuity Income | Internet Marketing
 
