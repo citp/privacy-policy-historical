@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joules.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629023058id_/http%3A//www.joules.com/Privacy/Static.raction) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joules.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015204440id_/http%3A//www.joules.com/Privacy/Static.raction) for the most accurate reproduction.*
 
 # Privacy | Joules UK
 
@@ -6,7 +6,7 @@
 
 Joules Limited ("We") are committed to protecting and respecting your privacy. For the purposes of the Data Protection Act 1998, the data controller is Joules Limited of 16 The Point, Rockingham Road, Market Harborough, Leicestershire LE16 7QU. Our company number is 02934327.
 
-This policy (together with our [Terms of Use](https://web.archive.org/terms_of_use/Static.raction "Terms of Use") and [Acceptable Use Policy](https://web.archive.org/acceptable_use/Static.raction "Acceptable Use")) ] is presented to you in order to help you make an informed decision about using this website and to explain to you what information we collect, how we store that information, and how we may use it. By using www.Joules.com (“our site”), you are consenting to this Privacy Policy and to have your personal data we collect from you, or that you provide to us, processed in accordance with the terms of this Privacy Policy. Please do not use our site or purchase any products over the phone with our customer services team unless you agree with this Privacy Policy and any other policies listed on our site. 
+This policy (together with our [Terms of Use](https://web.archive.org/terms_of_use/Static.raction "Terms of Use") and [Acceptable Use Policy](https://web.archive.org/acceptable_use/Static.raction "Acceptable Use")) is presented to you in order to help you make an informed decision about using this website and to explain to you what information we collect, how we store that information, and how we may use it. By using www.Joules.com (“our site”), you are consenting to this Privacy Policy and to have your personal data we collect from you, or that you provide to us, processed in accordance with the terms of this Privacy Policy. Please do not use our site or purchase any products over the phone with our customer services team unless you agree with this Privacy Policy and any other policies listed on our site. 
 
 **A. INFORMATION WE COLLECT**
 
