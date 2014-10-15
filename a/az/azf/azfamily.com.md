@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126145629id_/http%3A//www.azfamily.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015232727id_/http%3A//www.azfamily.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # azfamily.com | Privacy Policy
 
-## Last Updated: December 23, 2013
+## Last Updated: July 7, 2014
 
-Welcome! This Privacy Policy governs the use and collection of information from you by Sander Holdings Company and its affiliated companies (collectively, "Sander Holdings Company," "we" or "us") through your use of Web sites, interactive services and mobile applications that display an authorized link to this Privacy Policy (collectively, the "Services"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our stations or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest. Please read this Privacy Policy carefully so that you understand our online privacy practices. By using any of our Services, you agree that your use, and any dispute over our privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use). Understanding that technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
+Welcome! This Privacy Policy governs the use and collection of information from you by KTVK and its affiliated companies (collectively, "KTVK," "we" or "us") through your use of Web sites, interactive services and mobile applications that display an authorized link to this Privacy Policy (collectively, the "Services"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our stations or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest. Please read this Privacy Policy carefully so that you understand our online privacy practices. By using any of our Services, you agree that your use, and any dispute over our privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use). Understanding that technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
 
 ### This Privacy Policy explains the following:
 
@@ -40,11 +40,11 @@ Much of the information we collect is compiled in the form of aggregated statist
 
 #### Information We Collect Automatically When You Use Our Services
 
-Sander Holdings Company or third-party vendors and service providers acting on our behalf may collect certain information automatically when you use our Services, including:
+KTVK or third-party vendors and service providers acting on our behalf may collect certain information automatically when you use our Services, including:
 
   1. Your browser type, browser identifiers, language, plug-ins, Internet domain and operating system;
   2. Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
-  3. The site you visited before visiting a Sander Holdings Company Service and the site you visited after leaving our Service;
+  3. The site you visited before visiting a KTVK Service and the site you visited after leaving our Service;
   4. Content and advertisements you view and links you click on while navigating within our Services;
   5. Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
   6. Information collected through cookies, scripts, web beacons and other tracking technologies (see additional descriptions of these terms below);
@@ -64,7 +64,7 @@ With your consent, we may also collect information about the exact real-time loc
 
 Cookies are alphanumeric identifiers stored within your browser. Cookies are accessed and recorded by the Web sites you visit, and by the companies that deliver the advertisements you see on Web sites, so they can recognize the same browser navigating online. We use cookies for the following general purposes:
 
-  1. To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while you visited one of our Web sites. For example, if you register for a Sander Holdings Company Service, we may save your username and password, so you do not have to re-enter them each time you visit.
+  1. To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while you visited one of our Web sites. For example, if you register for a KTVK Service, we may save your username and password, so you do not have to re-enter them each time you visit.
   2. To help control the display of advertisements and customize the content and advertisements you see while using our Services. 
   3. To help us measure and analyze visitor traffic and usage patterns and to improve the quality and effectiveness of our content, features, advertisements, and other communications.
 
@@ -85,7 +85,7 @@ We may match Personal Information we collect through our Services with other inf
 
 #### Our Affiliated Companies
 
-We may share any information, including Personal Information, that we collect through the Services with any company that is directly or indirectly owned, controlled or operated by Sander Holdings Company so that we and they can communicate with you about products and services that we believe may be of interest to you. The use and further disclosure of the information collected on our Services by our affiliated companies will be governed by this Privacy Policy, as it may be amended from time to time.
+We may share any information, including Personal Information, that we collect through the Services with any company that is directly or indirectly owned, controlled or operated by KTVK so that we and they can communicate with you about products and services that we believe may be of interest to you. The use and further disclosure of the information collected on our Services by our affiliated companies will be governed by this Privacy Policy, as it may be amended from time to time.
 
 #### Vendors, Service Providers and Provider Partners
 
@@ -95,7 +95,7 @@ To make our Services more valuable to our visitors, we may offer some features o
 
 #### Other Disclosures
 
-Notwithstanding anything to the contrary stated in this policy or within our Services, we reserve the right to release Personal Information about our users when we deem such release to be appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use), or protect the rights, property or safety of our users, the public, Sander Holdings Company, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or within our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Sander Holdings Company or our affiliates.
+Notwithstanding anything to the contrary stated in this policy or within our Services, we reserve the right to release Personal Information about our users when we deem such release to be appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use), or protect the rights, property or safety of our users, the public, KTVK, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or within our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of KTVK or our affiliates.
 
 ### What Other Parties Might Be Collecting Information When You Use Our Services?
 
@@ -116,30 +116,30 @@ We participate in the News Registry, a service operated by the NewsRight, LLC (N
 
 #### Blogs, Discussion Forums and Community or Social Networking Areas
 
-This Privacy Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services or promotions offered on or through the Services, or through other Web sites throughout the Internet, different policies will apply and Sander Holdings Company will not be responsible for the use or dissemination of such information. Our Services may offer social network tools, message boards, chat rooms or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like). If you disclose Personal Information in one of these forums, this information can be viewed, collected, and used by others. Sander Holdings Company is not responsible for the use of information you disclose in these forums or areas. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use) regarding the policies and procedures that apply to that portion of our Services.
+This Privacy Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services or promotions offered on or through the Services, or through other Web sites throughout the Internet, different policies will apply and KTVK will not be responsible for the use or dissemination of such information. Our Services may offer social network tools, message boards, chat rooms or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like). If you disclose Personal Information in one of these forums, this information can be viewed, collected, and used by others. KTVK is not responsible for the use of information you disclose in these forums or areas. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use) regarding the policies and procedures that apply to that portion of our Services.
 
 #### Co-branded Sites and Services
 
-Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use Sander Holdings Company's name, or the name of one of Sander Holdings Company's affiliated companies or Services. SinceSander Holdings Company does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and Sander Holdings Company shall not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
+Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use KTVK's name, or the name of one of KTVK's affiliated companies or Services. Since KTVK does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and KTVK shall not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
 
 ### How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?
 
 You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features of the Services, you can choose whether to share optional Personal Information in connection with the feature. If you receive e-mail, phone or mail communications from one of our Web sites that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information?," below.  
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from any Sander Holdings Company Service that contacts you by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to [Customer Service](https://web.archive.org/on-tv/contact), or by postal mail to:
+In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from any KTVK Service that contacts you by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to [Customer Service](https://web.archive.org/on-tv/contact), or by postal mail to:
 
-Sander Holdings Company  
+KTVK  
 Attn: Opt-Out Request  
 5555 N. 7th Ave  
 Phoenix, AZ 85013
 
 Please note that changing the contact preference options described above will not affect your receipt of any wireless text message communications you may have registered to receive. To unsubscribe from wireless text communications, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list to [Customer Service](https://web.archive.org/on-tv/contact), or by sending postal mail to:
 
-Sander Holdings Company  
+KTVK  
 Attn: Opt-Out Request  
 5555 N. 7th Ave  
 Phoenix, AZ 85013
 
-You may "opt-out" altogether from providing Personal Information to us by not registering on the Services, or not registering for any Sander Holdings Company-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information?."
+You may "opt-out" altogether from providing Personal Information to us by not registering on the Services, or not registering for any KTVK-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information?."
 
 ### How Can You Update Your Personal Information or Registration Information?
 
@@ -156,12 +156,12 @@ You may also at any time choose to change or delete your profile from our databa
 
 ### What Safeguards Do We Put in Place to Protect Your Personal Information?
 
-Sander Holdings Company maintains reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database. Nor can we guarantee that the information you supply won't be intercepted while being transmitted to us over the Internet.  
+KTVK maintains reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database. Nor can we guarantee that the information you supply won't be intercepted while being transmitted to us over the Internet.  
 For the purposes described in this policy, Personal Information may be transferred to, processed, stored and accessed by us, our affiliates and our service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. By using the Services, you consent to this transfer, processing, storage and access of your Personal Information in and/or outside of the jurisdiction in which you reside. 
 
 ### What Should You Know About Third-Party Sites and Advertising?
 
-Our Services include links to many other Web sites, and provide access to products and services offered by third parties whose privacy policies we don't control. When you access another site, purchase products or services, or conduct other transactions through links on our Services, use of any information you provide will be governed by the privacy policy of the operator of the site you're visiting or of the provider of such products or services. Sander Holdings Company assumes no responsibility or liabilities whatsoever for the content or privacy practices of the operators of any such linked sites or of any link or linking program. Sander Holdings Company does not necessarily endorse companies (or related products or services) promoted on the pages to which our Services are linked. If you decide to access any of the third-party sites linked to the Services, you do so entirely at your own risk.
+Our Services include links to many other Web sites, and provide access to products and services offered by third parties whose privacy policies we don't control. When you access another site, purchase products or services, or conduct other transactions through links on our Services, use of any information you provide will be governed by the privacy policy of the operator of the site you're visiting or of the provider of such products or services. KTVK assumes no responsibility or liabilities whatsoever for the content or privacy practices of the operators of any such linked sites or of any link or linking program. KTVK does not necessarily endorse companies (or related products or services) promoted on the pages to which our Services are linked. If you decide to access any of the third-party sites linked to the Services, you do so entirely at your own risk.
 
 ### Do We Knowingly Collect Personal Information of Children Under 13?
 
@@ -182,4 +182,4 @@ We do not and will not, at any time, request your credit card information, login
 
 ### When is this Privacy Policy Effective? How Do We Post Changes to the Privacy Policy?
 
-This Privacy Policy is effective as of December 23, 2013. Sander Holdings Company reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Service. Your continued viewing, browsing, use or access of a Sander Holdings Company Service following our posting of a change notice will constitute your binding acceptance of those changes.
+This Privacy Policy is effective as of December 23, 2013. KTVK reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Service. Your continued viewing, browsing, use or access of a KTVK Service following our posting of a change notice will constitute your binding acceptance of those changes.
