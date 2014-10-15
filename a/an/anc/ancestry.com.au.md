@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163907id_/http%3A//www.ancestry.com.au/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015114512id_/http%3A//www.ancestry.com.au/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
-# Our Privacy Philosophy
+# Ancestry Privacy Centre
 
 Ancestry.com.au is the world’s largest online family history resource. Our mission is to help everyone discover, preserve, and share their family history. We recognise that your family history includes personal information about you and your family, so protecting your privacy is at the core of what we do. 
 
