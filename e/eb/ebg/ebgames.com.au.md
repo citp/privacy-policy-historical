@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112038id_/https%3A//www.ebgames.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015122501id_/https%3A//ebgames.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy - EB Games Australia
 
@@ -119,7 +119,7 @@ The primary reasons we collect personal information from you are:
 
   * To complete a sales transaction with you
   * To place pre-orders on your behalf
-  * To fulfill your requests for products, services or information
+  * To fulfil your requests for products, services or information
   * To limit the possibility of fraud or error when we process your transactions, refunds and/or exchanges
   * To administer rebates
   * To conduct contests, promotions or surveys
