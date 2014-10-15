@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxient.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505104839id_/http%3A//www.maxient.com%3Fpage_id%3D193) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxient.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016003055id_/http%3A//www.maxient.com%3Fpage_id%3D193) for the most accurate reproduction.*
 
 # Privacy Policy « Maxient
 
