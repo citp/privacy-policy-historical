@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youthheaven.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605195330id_/http%3A//youthheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthheaven.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015060043id_/http%3A//youthheaven.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | youthheaven.com
+# Privacy policy - youthheaven.com
 
 ## **Privacy Policy**
 
@@ -22,9 +22,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 ## **How We Use Collected Informations?**
 
 **www.youthheaven.com**  collects and uses Users personal information for the following purposes:  
-\- To improve our Site  
+– To improve our Site  
 We continuously strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To improve customer service  
+– To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.
 
 ## **How We Protect Your Information?**
