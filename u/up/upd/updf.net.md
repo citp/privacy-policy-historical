@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updf.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209230208id_/http%3A//updf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updf.net privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016001800id_/http%3A//www.updf.net/privacy.php) for the most accurate reproduction.*
 
 # uPDF Converter | PRIVACY POLICY
 
