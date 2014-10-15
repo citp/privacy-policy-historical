@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502090928id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathselect.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015073723id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
-| 
-
-(24 Hours a day / 7 Days a week)  
-Serving the Bath Industry since 1991  
-Please call 1-800-856-BATH(2284) to place your order 
-
-(Your shopping cart contains 12 items for a total cost of $2,647.00) [View My Cart](https://web.archive.org/ShoppingCart.asp)
-
-**Security & Privacy Policy for shopping bathroom fixtures & accessories online at BathSelect**  
-_Bathselect online supplier of Faucets, Shower Massage Panels, Led Showers, Sauna, LED Massage Showers, Whirlpool, Sensor Faucets, Shower Sets and more._
-
 ## Our Commitment to Security/Privacy
 
-We at BathSelect understand the importance of protecting your personally identifiable information;  
+We at BathSelect understand the importance of protecting your personally identifiable information;   
 We've done our best to ensure your transactions with us are treated with the highest standards of safety, security features, and confidentiality.   
 
 
@@ -39,7 +28,7 @@ We keep confidential any information entered during purchases and registration.
 
 
 
-How do we use your information?
+How do we use your information? 
 
 We may use the information we collect from you when you register, purchase products, respond to a survey or marketing communication, or use certain other site features in the following ways: 
 
@@ -50,7 +39,7 @@ We may use the information we collect from you when you register, purchase produ
   * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
   
-How do we protect visitor information?
+How do we protect visitor information? 
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
@@ -60,13 +49,12 @@ Cookies are small files that a site or its service provider transfers to your co
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
-
-tDo we disclose the information we collect to outside parties?
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.   
+Do we disclose the information we collect to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
 How can you opt-out, remove or modify information you have provided to us?
 
@@ -82,17 +70,17 @@ Changes to our policy
 
 If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on August 6, 2008.
 
-Questions and feedback
+Questions and feedback 
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-Online Policy Only
+Online Policy Only 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140502090928id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20141015073723id_/http%3A//www.bathselect.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
