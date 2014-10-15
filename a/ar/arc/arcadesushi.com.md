@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadesushi.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627001751id_/http%3A//arcadesushi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesushi.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015234844id_/http%3A//arcadesushi.com/privacy) for the most accurate reproduction.*
 
 # Arcade Sushi
 
