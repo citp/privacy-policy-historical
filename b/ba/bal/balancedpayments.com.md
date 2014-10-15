@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033125id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015053342id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
 
 # Balanced - Payments processing, escrow, and payouts in one simple API | Privacy policy
 
 #### Last Updated: 4/09/2012
 
-This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Balanced and its subsidiaries and affiliated companies ("Balanced"). This Policy applies to the websites of Balanced, including [](https://balancedpayments.com/)[https://balancedpayments.com](https://balancedpayments.com/) ("Sites") and Balanced's other products, services or any other features, technologies or functionalities offered by us on our Sites or through any other means (collectively, "Services"). This Policy does not apply to information you provide directly to third party websites or third party applications that use Balanced's Services. We do not control the activities of such third parties and advise you to consult their privacy policies before you share your personal information.
+This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Balanced and its subsidiaries and affiliated companies ("Balanced"). This Policy applies to the websites of Balanced, including [https://balancedpayments.com](https://balancedpayments.com/) ("Sites") and Balanced's other products, services or any other features, technologies or functionalities offered by us on our Sites or through any other means (collectively, "Services"). This Policy does not apply to information you provide directly to third party websites or third party applications that use Balanced's Services. We do not control the activities of such third parties and advise you to consult their privacy policies before you share your personal information.
 
 ### PERSONAL INFORMATION COLLECTED
 
