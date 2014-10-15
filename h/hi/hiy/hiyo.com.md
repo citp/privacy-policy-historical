@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiyo.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927071808id_/http%3A//hiyo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiyo.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015111631id_/http%3A//hiyo.com/privacy.aspx) for the most accurate reproduction.*
 
 # HiYo - Privacy Policy
 
