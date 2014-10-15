@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estimatedwebsite.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527160015id_/http%3A//www.estimatedwebsite.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estimatedwebsite.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015030838id_/http%3A//www.estimatedwebsite.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
