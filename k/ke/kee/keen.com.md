@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208133536id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015224601id_/http%3A//www.ingenio.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Ingenio Privacy Policy
 
