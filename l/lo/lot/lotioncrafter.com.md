@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotioncrafter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625032003id_/http%3A//www.lotioncrafter.com/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotioncrafter.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015224823id_/http%3A//www.lotioncrafter.com/privacy_policies.html) for the most accurate reproduction.*
 
 # Privacy Policies - Lotioncrafter
 
