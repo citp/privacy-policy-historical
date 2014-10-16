@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacknight.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531201349id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacknight.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016085841id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Hosting and Domains
 
