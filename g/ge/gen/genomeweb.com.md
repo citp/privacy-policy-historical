@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145426id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017002309id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
 
-# GenomeWeb's Privacy Policy | GenomeWeb | GenomeWeb
+# GenomeWeb | GenomeWeb
 
 GenomeWeb values your privacy. This statement explains what information GenomeWeb gathers from you through our website and how we may use it. By using genomeweb.com you indicate your acceptance of GenomeWeb's privacy policy.
 
