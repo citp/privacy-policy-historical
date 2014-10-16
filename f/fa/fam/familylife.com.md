@@ -1,83 +1,76 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111193220id_/http%3A//www.familylife.com/site/c.dnJHKLNnFoG/b.3842865/k.B11E/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016062751id_/http%3A//www.familylife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - FamilyLife.com
+# Privacy Policy
 
-This is the website of **FamilyLife** , a subsidiary of Campus Crusade for Christ. 
+**Table of Contents**
 
-Our postal address is:  
-**5800 Ranch Drive  
-Little Rock, AR 72222**
-
-We can be reached via e-mail from our [Contact Us](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/) page or you can reach us by telephone at 1-800-358-6329. 
-
-**SECURITY**   
-With respect to security: 
-
-    * We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
-    * Familylife.com is a [VeriSign Secure Site](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=1&dn=WWW.FAMILYLIFE.COM&lang=en). 
-
-
-
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-**INFORMATION WE COLLECT**  
-For each visitor to our website, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only: 
-
-    * The domain name, but not the e-mail address of visitors to our website, 
-    * The address and/or e-mail addresses of those who post messages to our bulletin board, 
-    * The e-mail addresses of those who communicate with us via e-mail, 
-    * Aggregate information on what pages consumers access or visit, 
-    * User-specific information on what pages consumers access or visit. 
-    * Information volunteered by the consumer through online transactions (registrations, donations, store), online surveys, forms to access free downloads or materials, and e-mail subscriptions. 
+  * Introduction
+  * Changes to Our Policies
+  * Your Personal Information
+  * Collection and Use of Personal Information
+  * Creating an Account on our Websites
+  * Opt-In/Opt-Out Communications
+  * Special Rules for Children
+  * Public Forums and User-Submitted Content
+  * Third-Party Websites and Information
+  * Cookies and Technology
+  * Security
+  * Your California Privacy Rights
 
 
 
-This information we collect is used to improve the content of our website, used to notify consumers about updates to our website or to send e-mail or direct mail regarding special FamilyLife promotions, products or donation opportunities. 
+**Introduction**
 
-    * If you do not want to receive direct mail or e-mail from FamilyLife, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+Thank you for visiting FamilyLife® online!  This website and other related websites are owned and operated by FLTI, dba FamilyLife®, an Arkansas nonprofit corporation ( **“FamilyLife”** , **“we”** , **“us”, “our”,** etc.). We are a wholly-owned subsidiary of Campus Crusade for Christ®, Inc. (also known as **“Cru”** ), a California religious nonprofit corporation.  Our websites and services are designed to promote and accomplish our mission of effectively developing godly marriages and families who change the world one home at a time.  Some of the websites we own and operate include, but are not limited to the following: [www.familylife.com](http://www.familylife.com/), [www.familylifetoday.com](http://www.familylifetoday.com/), [www.artofmarriage.com](http://www.artofmarriage.com/), [www.mensteppingup.com](http://www.mensteppingup.com/), [www.weekendtoremember.com](http://www.weekendtoremember.com/), [www.vidaenfamilia.com](http://www.vidaenfamilia.com/), [www.momlifetoday.com](http://www.momlifetoday.com/), [www.istilldo.com](http://www.istilldo.com/),[ www.everthinehome.com](http://www.everthinehome.com/), and others, including various social networking pages (collectively, **“our Websites”** ).  Please read our [Terms of Use](https://web.archive.org/terms-of-use) to find out more about our requirements for your use of our Websites and Services. 
 
+**Changes to our Policies**
 
+We reserve the right to make changes to these [Terms of Use](https://web.archive.org/terms-of-use), Privacy Policy, and other terms, policies and information at any time and without notice.  Any changes we make to our Terms of Use or Privacy Policy shall become effective immediately upon posting to our Websites.  You should review our Terms of Use and Privacy Policy from time to time so that you will remain informed about any material changes that may affect you.  Your use and continued use of our Websites and Services shall be deemed to mean that you agree to our Terms of Use and Privacy Policy.  If you do not agree with the Terms of Use or our Privacy Policy, then you must cease all use of our Websites and Services.
 
-If you make a donation on FamilyLife.com, your information will be shared with our parent organization, Campus Crusade for Christ. Campus Crusade for Christ may send you direct mail or e-mail about their ministry. 
+**Your Personal Information**
 
-    * If you do not want to receive information from Campus Crusade for Christ, please contact Campus Crusade at 100 Lake Hart Drive, Orlando, FL 32832 or by calling (407) 826-2000 
+We want to assure you that we are committed to respecting, protecting, and appropriately handling the private and personal information of our Website users and visitors. Your **“Personal Information”** includes the specific, personally identifiable items used to identify and/or contact you - such as your name, mailing address, email address, and phone numbers.  We are providing you with this privacy statement ( **“Privacy Policy”** ) so that you will know how we handle your Personal Information on our Websites. 
 
+**Collection and Use of Personal Information**
 
+We take your privacy very seriously.  We will not collect your Personal Information without your knowledge during your visit to our Websites. We may ask for your Personal Information, so that we can use it to provide you with various features, services, or products.  When you provide such Personal Information to us, you are acknowledging your consent to our collection and use of such Personal Information. You can also choose not to provide it; however, in some cases this may limit the features available to you on our Websites. We may also receive information about you from other outside sources.  The data we collect from you and others helps us to provide you with relevant and timely communication as we seek to improve your experience on our Websites. 
 
-Persons who supply FamilyLife with their telephone numbers online may receive telephone contact from us with information regarding new products and services, upcoming events or donation opportunities. 
+We will not sell, lease, or rent our mailing list or any of your Personal Information to any outside organization or individual.  We will not disclose or share your Personal Information with anyone outside of our organization without your permission. However, we may need to use or share your Personal Information with certain parties who are providing you with goods and services on our behalf.  We may also need to share your Personal Information with other parts of our organization to service your requests or provide you with information or other ministry opportunities.  Lastly, we may use your Personal Information to comply with legal requirements pertaining to your Personal Information or activities, or to enforce our rights as agreed upon under the [Terms of Use](https://web.archive.org/terms-of-use).  In all such efforts we will take steps to safeguard your Personal Information. By submitting Personal Information to our Websites, you understand, agree, and freely consent to allow us to use, store, publish, transmit and process your Personal Information at our discretion in order to provide you with the goods and services you request and to operate our Websites and Services.
 
-    * If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+**Creating an Account on our Websites**
 
+On our Websites, you will often be able to create an account and/or provide contact information so that you can receive updates, newsletters, opportunities for personal ministry and financial involvement, and promotional information.  Creating an account may also be required to enable you to engage in certain transactions and activities on our Websites, such as purchasing products, accessing and downloading content, registering to attend events, making donations, volunteering, and interacting in public forums. 
 
+**Updating Your Account and Preferences / “Opt In/Out”**
 
-**CHANGING INFORMATION** **  
-** Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information, or communications that the customer/visitor has directed to the site. Customers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+We may provide you with the option to sign up for newsletters, emails, updates, promotions, and other such items. You are not obligated to sign up, however, and you can unsubscribe from any of our electronic communications. Please update your account preferences and/or follow the “unsubscribe” instructions provided in the email received. **Please allow 14 days for an “unsubscribe” request to be processed.  **Of course, you can also [contact us](https://web.archive.org/contact-us) and we’ll be glad to assist you with any questions you may have about your account or preferences.
 
-**COOKIES** **  
-** With respect to cookies: 
+**Special Rules for Children**
 
-    * We use cookies to record session information, such as items that consumers add to their shopping cart, 
-    * Record user-specific information on what pages users access or visit, 
-    * Record past activity at a site in order to provide better service when visitors return to our site. 
+On some of our Websites, we may occasionally host or offer access or activities where no Personal Information is collected or posted, and thus children may engage without our knowledge.  However, we do not intentionally or knowingly allow Personal Information (name, address, telephone number, or email address) to be collected from anyone under the age of 18. If you believe that we might have any Personal Information from or about anyone under the age of 18, please contact us immediately. In the event we learn that we collected Personal Information from anyone under the age of 18, we will delete that Personal Information as quickly as possible. 
 
+**Public Forums and User-Submitted Content**
 
+As a user of our Websites, you will have opportunities to interact with us and other users through providing “User-Submitted Content.”  For example, you may wish to participate in a social networking discussion (subject to the terms of use of the specific website/forum); comment on an article or blog; share a personal anecdote or testimony; provide a product review; or upload special material, such as photos.  These forums may be operated by us or by an outside group, but we maintain the right to monitor, edit, remove, and/or refuse User-Submitted Content at our sole discretion and in accordance with our [Terms of Use](https://web.archive.org/terms-of-use) and this Privacy Policy.
 
-**ADS  
-**With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+It is important for you to understand that whatever you post may be accessible to the public. Please exercise caution and do not include Personal Information when you choose to provide User-Submitted Content on our Websites.  We are not responsible for any unsolicited messages you receive from other parties as a result of your posts. When you provide User-Submitted Content, you are granting us an unlimited, perpetual, royalty-free, and worldwide license and all necessary rights to use or modify your User-Submitted Content for our ministry and promotional purposes, at our sole discretion. 
 
-**FORUMS**   
-FamilyLife makes forums available to its users. FamilyLife is not responsible for the content of forums. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+**Third Party Websites and Information** ****
 
-**OPT-OUT**  
-If you do not want to receive e-mail from FamilyLife in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+Our Websites may contain links to other websites that are run by third parties - such as other organizations, sponsors, content providers, and advertisers.  Once you've clicked on a link or button activator for an outside website, you will leave our Websites and be taken to sites that we do not control. This means that your activity on such sites is subject to the privacy policies and terms of use of the third parties.  We are not responsible for the privacy practices or the content of such third-party websites.
 
-**POLICY CHANGES**  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. We will use for these new purposes only data collected from the time of the policy change forward. 
+**Cookies and Technology**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+Our Websites may use cookies to keep track of website activities, save your password or deliver content specific to your interests.  A cookie is a small data file that certain websites write to your hard drive when you visit them.  A cookie file can contain information such as a user ID that the site uses to track the pages you've visited.  You can refuse cookies by turning them off in your browser.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.  If you choose to decline cookies, you may not be able to fully experience certain interactive features of our Websites or access all of the services provided through our Websites. 
 
-**OTHER  
-**If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+Our Websites may collect some information (such as your IP address) that may not be readily apparent to you that it is being collected.  We may use your IP address for geo-targeted campaigns to notify you of events occurring in your city, state, or surrounding areas.  We do keep track of the domains from which people visit us.  We analyze this data for trends and statistics, but we do not keep it in a personally identifiable manner.  Demographic and profile data may also be collected at our Websites. 
 
-**LINKS TO OTHER SITES**  
-FamilyLife, a division of Campus Crusade for Christ, Inc., sometimes recommends, references, and/or provides links to various other parties or organizations (collectively, "third parties") and/or third party Web sites. Such recommendations, referrals, and links should not be seen as endorsement, approval or agreement with any/all information or resources offered by such third parties or at any of their Web sites that can be accessed through FamilyLife Web sites. FamilyLife is not in any way responsible or liable for the content, practices, services, or failures of any third parties or Web sites that may be linked to FamilyLife Web sites. When FamilyLife provides links or references to third parties and/or third party Web sites, no inference or assumption should be made and no representation should be inferred that FamilyLife endorses or controls such third parties and/or third party Web sites; nor should it infer or represent that any partnership, employment relationship, or joint venture exists between FamilyLife and such third parties and third party Web sites. FamilyLife's recommendations, references, and links do not represent in any way, either explicitly or by implication, that you have received the endorsement, sponsorship, or support of the ministry and/or Web sites of FamilyLife, including its respective employees, agents, directors, or executives.
+**Security**
+
+When we collect your Personal Information, we employ industry-standard security measures, including technical, administrative, and physical security steps to protect the loss, misuse and alteration of Personal Information under our control.  For example, our Websites may use a Secured Socket Layer (SSL) server, which enables us to protect the Personal Information you provide during transactions (such as when you download materials, participate in certain programs, purchase resources, register for events, make donations, etc). We also use technology to protect your credit card number when we store your order and whenever we transfer that Personal Information to participating merchants or service providers (including your financial institution). We cannot guarantee that the security measures we implement in connection with the operation of our Websites will absolutely prevent others from accessing or acquiring any Personal Information that you provide to us when you are visiting our Websites. 
+
+You can also do some things to help protect the security of your Personal Information.  For instance, you should never give out your account information (user ID, password) since this provides access to your account Personal Information.  Also, remember to sign out of your account and close your browser window when you finish visiting our Website, so that other people using the same computer will not have access to your Personal Information.
+
+**Your California Privacy Rights**
+
+Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide Personal Information in obtaining products or services for personal, family or household use are entitled to one request per calendar year for details concerning Personal Information that we shared, if any, with other businesses for their own direct marketing uses. If applicable, these details would include the categories of Personal Information shared, as well as the names and addresses of those businesses with which it was shared during the PREVIOUS calendar year. _(For example, requests made in 2013 will receive information regarding 2012 sharing activities.)   _Please be aware that not all information sharing is covered by the "Shine the Light" requirements.
