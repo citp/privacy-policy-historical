@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarflash.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203021142id_/http%3A//www.gamesx.com.br/terms/privacy_en.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarflash.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016054507id_/http%3A//www.gamesx.com.br/terms/privacy_en.asp) for the most accurate reproduction.*
 
 # Política de privacidade - gamesX
 
