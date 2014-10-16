@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ooomf.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141241id_/https%3A//ooomf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooomf.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016133145id_/https%3A//pickcrew.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ooomf
+# Privacy Policy | Crew
 
-###### Published 10 months, 3 weeks, 1 day ago; updated 2 months, 1 week, 1 day ago
+At 7943067 Canada Inc. (dba Crew) ( **“Crew”** or **“we”** ), we recognize the need to protect the privacy of the personal information we collect or you provide to us when you access and use our website ([www.pickcrew.com](https://pickcrew.com/)) (the **“Website”** ).
 
-At 7943067 Canada Inc. (dba ooomf) ( **“ooomf”** or **“we”** ), we recognize the need to protect the privacy of the personal information we collect or you provide to us when you access and use our website ([www.ooomf.com](https://ooomf.com/)) (the **“Website”** ).
+Therefore, we have adopted this privacy policy (the “Privacy Policy”), which sets forth, among other things, the type of information that will be collected, the purpose and use of the collected information, and your rights with regard to the collected information. By accessing the Website, you are consenting to the collection and the use of your information by Crew, but only to the extent described herein. Should you wish to revoke your consent, you may do so in accordance with the provisions of Section 4 below.
 
-Therefore, we have adopted this privacy policy (the “Privacy Policy”), which sets forth, among other things, the type of information that will be collected, the purpose and use of the collected information, and your rights with regard to the collected information. By accessing the Website, you are consenting to the collection and the use of your information by ooomf, but only to the extent described herein. Should you wish to revoke your consent, you may do so in accordance with the provisions of Section 4 below.
-
-We reserve the right at any time, at our sole discretion, to change or otherwise modify this Privacy Policy, and your continued access or use of the Website signifies your acceptance of such updated or modified Privacy Policy. Please periodically revisit the Website to review such updates. Please note that the last update was performed on December 1st, 2013. If the modified terms are not acceptable, please do not access or use the Website.
+Crew may make modifications, deletions and/or additions to this Privacy Policy (“Changes”) at any time. Changes will be effective: (i) thirty (30) days after Crew provides notice of the Changes, whether such notice is provided through the Website user interface, is sent to the email address associated with your account or otherwise; or (ii) when you opt-in or otherwise expressly agree to the Changes or a version of this Privacy Policy incorporating the Changes, whichever comes first. Please note that the last update was performed on August 11, 2014. If the modified terms are not acceptable, please do not access or use the Website.
 
 **1\. Protection of Your Information.** We are accountable for the information in our custody. Therefore, when we collect or use your information, we will utilize commercially reasonable safeguards to ensure its protection. It should be noted that no security procedure is currently 100% effective. Should any breach of your Personal Information occur, we will inform you as soon as reasonably possible, as required by applicable law.
 
@@ -38,9 +36,9 @@ We reserve the right at any time, at our sole discretion, to change or otherwise
 
 
 
-**3\. Right to Examine Information.** You have the right to examine any of your Personal Information that we collect. Should you wish to examine such information, please send us a written request to [support@ooomf.us](mailto:support@ooomf.us). We reserve the right to charge you a reasonable administrative fee to access your information, as permitted by applicable law. In certain cases we may not be able to provide you with access to all of your Personal Information (ex: if the information also pertains to the Personal Information of another user)
+**3\. Right to Examine Information.** You have the right to examine any of your Personal Information that we collect. Should you wish to examine such information, please send us a written request to [support@pickcrew.com](mailto:support@pickcrew.com). We reserve the right to charge you a reasonable administrative fee to access your information, as permitted by applicable law. In certain cases we may not be able to provide you with access to all of your Personal Information (ex: if the information also pertains to the Personal Information of another user)
 
-**4\. Withdrawal of Consent.** You may withdraw your consent to the collection of Personal Information at any time by sending a written request to [support@ooomf.us](mailto:support@ooomf.us). Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your experience on the Website may be diminished, or your ability to choose some of the options on the Website or the services provided therein may be limited.
+**4\. Withdrawal of Consent.** You may withdraw your consent to the collection of Personal Information at any time by sending a written request to [support@pickcrew.com](mailto:support@pickcrew.com). Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your experience on the Website may be diminished, or your ability to choose some of the options on the Website or the services provided therein may be limited.
 
 **5\. Sharing Information.** We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
 
@@ -61,8 +59,8 @@ We reserve the right at any time, at our sole discretion, to change or otherwise
 
 **7\. International Transfer.** Your information may be transferred to and maintained on computers located outside of your jurisdiction, where privacy laws may not be as protective as your jurisdiction. Your consent to this Privacy Policy represents your consent to any such transfer.
 
-**8\. Terms of Use.** This Privacy Policy is incorporated into and forms part of the Terms of Use, which outlines the terms and conditions you agree to when accessing and using the Website, and which can be found here: (<https://ooomf.com/terms)[ooomf.com/terms>].
+**8\. Terms of Use.** This Privacy Policy is incorporated into and forms part of the Terms of Use, which outlines the terms and conditions you agree to when accessing and using the Website, and which can be found here: (<https://pickcrew.com/terms)[pickcrew.com/terms>].
 
-**9\. Persons Under 18.** The Website is not marketed toward persons under the age of 18. If ooomf discovers that it has inadvertently collected Personal Information about individuals under the age 18, it will promptly delete such information.
+**9\. Persons Under 18.** The Website is not marketed toward persons under the age of 18. If Crew discovers that it has inadvertently collected Personal Information about individuals under the age 18, it will promptly delete such information.
 
-_Should you have any questions or comments concerning this Privacy Policy, please do not hesitate to contact us at[support@ooomf.us](mailto:support@ooomf.us)._
+_Should you have any questions or comments concerning this Privacy Policy, please do not hesitate to contact us at[support@pickcrew.com](mailto:support@pickcrew.com)._
