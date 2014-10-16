@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the collegefashion.net privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213085033id_/http%3A//www.collegefashion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefashion.net privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016223119id_/http%3A//www.collegefashion.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – College Fashion
-
-## [Privacy Policy](http://www.collegefashion.net/uncategorized/privacy-policy/)
 
 Your online privacy is very important to us, and therefore the uses of your personal information on College Fashion are disclosed here. Your use of this website is based on the assumption of your acceptance of how College Fashion operates, as indicated in this Privacy Policy. Here is a list of what information is collected about you when you visit this site.
 
@@ -30,6 +28,6 @@ We reserve the right to change this privacy policy at any time. If you have any 
 
 [](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.collegefashion.net%2Funcategorized%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
-Posted on on August 17, 2007 / Filed Under: [Miscellaneous](http://www.collegefashion.net/category/uncategorized/ "View all posts in Miscellaneous") /
+Posted on on August 17, 2007 / Filed Under: [Miscellaneous](http://www.collegefashion.net/category/uncategorized/) /
 
 [](http://www.linkwithin.com/)
