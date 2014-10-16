@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrst.me privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331104646id_/https%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrst.me privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016151950id_/https%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
 
 # Forrst | Forrst is a community for developers and designers
 
