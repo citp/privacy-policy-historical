@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lindstromtools.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207014457id_/http%3A//www.bahco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindstromtools.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016111622id_/http%3A//www.lindstromtools.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lindström precision tools
 
 The privacy practices set forth in this Privacy Policy are for this site only. Other SNA Europe affiliate Web sites may have different practices. If you link to or otherwise visit these or any other Web sites, please review the privacy policies posted at those sites.
 
@@ -19,9 +19,9 @@ We might also enable you to submit information about other people. For example, 
 
 **The Way We Use Information**
 
-We use the information you provide to communicate with you, for example, to answer the e-mail and correspondence we receive. We may use your information to make recommendations for products or special offers, and to provide you with updates on new products that we believe may be of interest to you. If you do not want to receive this information in the future, please contact us at [info@bahco.com](mailto:info@bahco.com).
+We use the information you provide to communicate with you, for example, to answer the e-mail and correspondence we receive. We may use your information to make recommendations for products or special offers, and to provide you with updates on new products that we believe may be of interest to you. If you do not want to receive this information in the future, please contact us [here](https://web.archive.org/web/20141016111622id_/http%3A//www.lindstromtools.com/contact.php).
 
-From time to time, we may share certain information with select third parties including distributors or dealers in your area to enable them to process orders, fulfill your requests or to offer products or services that may be of interest to you. If you do not want us to share your information, please contact us at [info@bahco.com](mailto:info@bahco.com).
+From time to time, we may share certain information with select third parties including distributors or dealers in your area to enable them to process orders, fulfill your requests or to offer products or services that may be of interest to you. If you do not want us to share your information, please contact us [here](https://web.archive.org/web/20141016111622id_/http%3A//www.lindstromtools.com/contact.php).
 
 We may disclose personally identifiable information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency's request.
 
