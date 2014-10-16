@@ -1,79 +1,108 @@
-> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331002206id_/http%3A//www.athenahealth.com/our-company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athenahealth.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016190620id_/http%3A//www.athenahealth.com/our-company/privacy-policy.php) for the most accurate reproduction.*
 
 # athenahealth :: Privacy Policy
 
-## Note to Minors
+  
 
-athenahealth, Inc. values the privacy of those under the age of 18 and does not wish to obtain any information from or about them via this site. If you are under 18 and are not supervised by an adult, please do not use this site. Parents are urged to monitor and supervise their children's on-line activity.
+
+This Policy is Effective as of July 25, 2014
 
 ## Scope and Purpose
 
-This privacy policy describes the practices of athenahealth, Inc. in regard to information that we obtain via this web site, either directly or through third-party vendors. It does not describe practices with respect to other web sites that we operate, information that we obtain through other means, or the practices of web sites of third parties to which we provide links. We do not control and are not responsible for the privacy practices of, or the data available on, the web sites of third parties, and we urge you to evaluate the soundness of these practices and data for yourself.
+This privacy policy describes the practices of athenahealth, Inc. (“we” or “athenahealth”) with regard to information about you that we obtain, either directly or indirectly through third-party vendors, through [www.athenahealth.com](http://www.athenahealth.com/) (“the site”). This policy does not apply to other athenahealth platforms (e.g., athenaCollector, athenaClinicals, athenaCommunicator, athenaCoordinator, etc.), or to other websites that we operate, information that we obtain outside of the site, or websites of third parties to which we provide links. We do not control and are not responsible for the privacy practices of, or the data available on, the websites of third parties, and we urge you to evaluate the soundness of these practices for yourself.
 
-In a separate section below entitled Statement of E-Mail Privacy Practices we also provide information about our collection and use of e-mail addresses, both in connection with this web site and otherwise, subject to the limitations of scope contained in that section.
+Please also note that this policy does **not** apply when:
 
-There are general exceptions to this policy: when you have given us your consent to share or use information about you, when we believe that we need to share information about you to provide a service that you have requested from us or from others, when we are required by law to disclose information, or when we believe that it is necessary to protect our rights or to avoid liability or violations of law.
-
-We reserve the right to change this policy at any time without prior notice by publishing changes on this page. Please be sure to check this page periodically for updates to this policy.
-
-If you have any questions about this policy, or any other aspects of your privacy with respect to athenahealth, Inc., our mailing address is: 311 Arsenal Street, Watertown, MA 02472, Attention: Chief Privacy Officer.
-
-## Privacy of Information Collected on This Site
-
-athenahealth, Inc. actively seeks to maintain the privacy of our on-line visitors, and we have constructed and administer this web site accordingly. Unless personally identifiable information such as name, address, telephone number, or e-mail address is voluntarily submitted by you on the site, we do not collect such information in connection with use of this site or associate or link it to information that we collect using cookies or web beacons as described below. We use such personally identifiable information that you submit for our internal business purposes only, and we do not sell or trade it. We do share such personally identifiable information with our contract partners who provide marketing and website-related services to us, but we do this under contracts that prohibit our partners' disclosure and use of that information except as necessary to provide those services to us.
-
-We use both "cookie" and "web beacon" technology with respect to this site (for explanation of these terms, see the section More About Cookies and Beacons below). We use this technology to obtain information from on-line visitors that we believe is necessary to permit convenient functionality of this site, to enhance the user's on-line experience on this site, to assess the effectiveness and design of site features, and to understand and assess the effectiveness of our advertising. For example, we track the number of visitors using portions or features of this site in order to make changes that we believe will improve the site, we track the popularity and use of features on this site to guide development of new ones, and we assess ways in which this site has become known to and accessed by users in order to gauge the quality and methods of our advertising. The information that we use may include, for example, IP address and other data about the equipment used to visit this site, the pattern of searching and browsing that preceded viewing our site, and the behavior of viewers on this site, and we do not consider this type of information personally identifiable.
-
-We engage certain service vendors for purposes of tracking and associating internet search and browsing behavior with our advertisements and to provide functionality on this site, and, in that connection, we enable them, among other things, to use cookies and web beacons on or in conjunction with this site. The use and collection of information by these vendors is governed by their respective privacy statements and is not covered by this policy. For a listing of these vendors and links to their on-line privacy statements, see the Vendors' Use of Information section below. Where our vendors provide additional functionality on this site, we use any information they may collect on our behalf as described in the interface for that functionality, or, if not described there, as described below:
-
-  * We use Google's DoubleClick technology to enable "tell-a-friend" social media functionality. Users may post information from our site to their Facebook, LinkedIn, or Twitter accounts or send a specified recipient an email regarding our services. Information provided to us in the course of using the email function includes the user's email address, a recipient's email address, and email message text; no information is collected with regard to the other social media types. The email-related information is used solely for the email function and is not stored by us.
-  * We also use Google's DoubleClick technology to provide us with the contact information of users who view a click-through advertisement on this site and then submit a request for additional information about our services. The information provided includes the requestor's contact information and information about his or her medical practice. This information is stored in our internal databases and is used solely to contact the requestor and, if the requestor chooses to receive news regarding our services, to send such news items to the requestor.
-  * We use ePrize to provide online contest services as a means to deliver educational materials to our employees, partners, clients, and the medical community. Information collected includes user contact information (and age, to the extent needed to screen for minors); the first name and email address of those to whom a user may send an email regarding a contest or our services; information regarding the user's medical practice (as applicable); users' answers to contest questions. This information is stored in our internal databases and is used solely for administration of the applicable contest and, if requested by the user, to send news regarding our services to the user.
+  * You have given us your consent to share or use information about you;
+  * We believe that we need to share information about you to provide a service that you have requested from us or from others;
+  * We are required by law to disclose information; or
+  * We believe that it is necessary to protect our rights or to avoid liability or violations of the law.
 
 
 
-## Statement of E-Mail Privacy Practices
+RETURN TO TOP
 
-This statement about e-mail does not apply to collection and use of e-mail addresses:
+If you have any questions about this policy, or any other aspects of your privacy with respect to athenahealth, please contact us at: athenahealth, Inc, Attn: Chief Compliance Officer, 311 Arsenal Street, Watertown, MA 02472.
 
-  * In communications to and from our clients or their personnel, since e-mail addresses and data exchanged in those relationships are governed by the confidentiality and other provisions of our client contracts;
-  * In our Outlook® or equivalent address book, contact, or business e-mail systems designed or used to enable day-to-day communications between individuals known to each other or engaging in business/personal communications; or
-  * For disclosure to ISPs and other data carriers in the course of transmission of e-mails otherwise permitted by this Statement.
+**California Residents:** Pursuant to California’s Shine the Light law, you have the right to request information regarding how athenahealth shares your information with third party vendors, if at all, for their marketing purposes. Please use the above contact address to submit a request.
+
+RETURN TO TOP
+
+## SPECIAL NOTE FOR MINORS
+
+athenahealth values the privacy of those under the age of 18 and does not wish to obtain any information from or about them through the site. Parents are urged to monitor and supervise their children’s online activity. If you are under 18 and are not supervised by an adult, please do not use the site.
+
+RETURN TO TOP
+
+## WHAT INFORMATION DO WE COLLECT?
+
+The following types of information may be collected on the site:
+
+  * We may access cookie and web beacon technologies on your computer.
+  * We may collect your IP address and other data about the equipment used to visit the site, the patterns of searching and browsing that preceded access to the site, and the patterns of searching and browsing on the site.
 
 
 
-You will not receive e-mail as a result of visiting this site unless you request or consent to it or have voluntarily filled out a form on this site that contains your e-mail address. All such e-mail will include capability to opt-out of receiving further e-mails from us, if you wish to do so, and that capability will be consistent with applicable laws and regulations.
+The site does not respond to web browsers’ Do Not Track signals.
 
-With respect to e-mail not resulting from visiting this site, we divide the e-mail that we send or initiate into two categories for privacy purposes: "Patient E-mail" and "Other E-mail."
+athenahealth will not collect personal information, nor will we associate or link such information using cookies or web beacons, unless you voluntarily submit this information.
 
-**Patient E-Mail:** E-mail that we send or arrange with our service providers to send on behalf of our medical practice clients to the patients of those clients in order to perform, complete, or confirm services that those patients have requested from clients and e-mail that is generated through patients' use of our clients' patient web portals is classified by us as transactional and/or relationship content e-mail that is integral to our client services. We do not provide a means of opt-out from such e-mail. In those cases in which we believe patient e-mail is not primarily for transactional/relationship purposes, the e-mail will include capability to opt-out of receiving further e-mails from us, if the patient wishes to do so, and that capability will be consistent with applicable laws and regulations.
+**Note:** if you are interested in learning more about athenahealth and the services and products we offer, we’ll ask for your name, practice name and size, email address, telephone number, and state. 
 
-We consider the e-mail addresses of our clients' patients that are provided to us by our clients, by those patients themselves via a client's patient web portal, or by others in the course of our providing client services to be private information that is protected under the privacy and security provisions of the Health Insurance Portability and Accountability Act of 1996, as amended (HIPAA), and other applicable federal and state privacy and security laws. These laws include strict limitations on the use to which this information may be put. We disclose and use such addresses only for legitimate business purposes as permitted by HIPAA and such laws and regulations. We do not use such addresses to market or promote ourselves. We require all contractors (other than ISPs and other carriers) who we retain to aid us in sending, receiving, or tracking patient e-mails using such addresses to agree to confidentiality provisions in business associate agreements as required under HIPAA.
+RETURN TO TOP
 
-**Other e-mail:** We also send or initiate e-mail to other individuals that is not transactional/relationship content e-mail (including, for example, e-mail to sales prospects, investors, job-seekers, and members of the public who have requested communications or information from us). All such e-mail will include capability to opt-out of receiving further e-mails from us, if the recipient wishes to do so, and that capability will be consistent with applicable laws and regulations.
+## HOW DO WE USE YOUR INFORMATION?
 
-We collect addresses for such messages from a number of sources, such as this web site (subject to the Privacy Policy above) and from various vendors, business data bases, sign up promotions, meetings, and similar sources. We use these addresses for our own marketing, promotional, and informational communications including solicitations, invitations, newsletters, awareness campaigns, announcements, and similar activities. In some cases, we disclose these addresses to our contract partners who support or enable our activities (for example, by sending and tracking e-mails). However, we do not permit use or further disclosure of such addresses for the use of sending e-mail other than our own e-mail or e-mail on behalf of our clients.
+We use information collected through cookies and web beacons to improve upon the functionality of the site. For example:
 
-Our outgoing e-mail may include web beacons (for explanation of web beacons, see the section More About Cookies and Beacons below). We may also arrange for the capability to track when a URL (or web link) has been clicked inside of an e-mail message sent by our system or by a vendor on our behalf. We use this functionality to track which links were clicked and in what quantity, as well as the aggregate number of links clicked. This click-tracking functionality does not collect personally identifiable information such as name, address, telephone number, or e-mail address; but, it may collect information on IP address, browsing history or path and other data about the equipment of the user.
+  * We track the number of visitors using certain portions or features of the site to make changes that may be necessary to improve the site’s functionality;
+  * We track the popularity of features on the site to guide the development of new ones;
 
-## More About Cookies and Web Beacon
 
-"Cookies" are files stored on a user's computer by a server or web site in connection with a session, visit, viewing of a web page, or user action on a web page. They can be read or retrieved by the same or another server or website when additional sessions, visits, viewings, or user actions occur and can be used to provide information about the session, visit, viewing, or action when they were stored. Most browsers contain various controls for accepting, rejecting, or notifying users about cookies. Users who wish to administer acceptance and storage of cookies should refer to browser instructions and compare the administrative capabilities of different browsers to determine what is appropriate for them. Administrative settings that refuse to accept or store cookies may adversely affect access to features of this site or your ability to view or navigate within this site.
 
-"Web beacons" are mechanisms in email messages and on web pages that cause the viewer's computer to browse to one or more specified servers and/or to request images or files from one or more web sites. They are also variously known as "Internet tags," "pixel tags," and "clear GIFs" and permit collection of information by the contacted servers or sites, such as the IP address of the computer that downloaded the page or viewed the message on which the beacon appears, information in cookies stored on that computer, the time the page or message containing the beacon was viewed, and the type of software used to view the page or message. The ability to collect this information enables us, among other things, to assess whether a message recipient has the ability to receive HTML format messages and has received and viewed a message and to assess which advertisements, messages, or websites may have led viewers to a web page. Beacons on web pages are activated then the page is viewed, and beacons in e-mail messages are activated when an HTML e-mail is viewed. In each case, the beacon causes the viewer's computer to request one or more images from our server or the servers of our vendors. If you do not want to receive e-mail messages with self-activating web beacons, you can choose to receive e-mails in non-HTML format by administering settings in the e-mail software in your computer.
+If you choose to provide athenahealth with personally identifiable information, we will use that information for our internal business purposes only. For example:
 
-Neither the beacons nor the cookies we use collect personally identifiable information such as name, address, telephone number, or e-mail address.
+  * If you provide us with your email address, we may use it for our own marketing, promotional, and informational purposes, including solicitations, invitations, newsletters, awareness campaigns, and announcements.
 
-## Vendors' Use of Information
 
-We have engaged the services of the following service vendors who may acquire, use, and disclose information in the manner and for purposes set forth in their respective privacy statements. We do not take responsibility for the accuracy and completeness of these statements, and we rely on the respective vendors for that accuracy and completeness.
 
-We use Ion Interactive, a third-party marketing services provider, to track and associate internet search and browsing behavior of visitors to this site with our advertisements.
+RETURN TO TOP
 
-We use Google's AdWords Conversion, DART, and Google Analytics tracking for tracking queries submitted to its search engine. We also use Google's DoubleClick technology for tracking our advertisements, enabling "tell-a-friend" social media functionality, and providing us with the contact information of users who submit a request for additional information about our services via click-through advertisements. For more information on Google's privacy policy, [click here](http://www.google.com/privacy.html).
+## SHARING YOUR INFORMATION
 
-We use Marketo and SalesForce tracking tags to enable the tracking of web activity of cookied visitors. For more information on Marketo's privacy policy, [click here](http://www.marketo.com/privacy.php) and for more information on SalesForce's privacy policy, [click here](http://www.salesforce.com/company/privacy.jsp).
+We engage certain service vendors for purposes of tracking and associating internet search and browsing behavior with our advertisements and to provide functionality on the site. We enable them to use cookies and web beacons on or in conjunction with the site. The use and collection of information by these vendors is governed by their respective privacy statements and thus is not covered by this policy.
 
-We use Omniture for tracking and associating internet search and browsing behavior with our advertisements. For more information on Omniture's privacy policy, [click here](http://www.omniture.com/en/privacy).
+These vendors include:
 
-We use Demandbase to measure the effectiveness of our marketing campaigns by identifying and counting the businesses that visit our website.For more information on Demandbase's privacy policy, [click here](http://www.demandbase.com/who-is-demandbase/about-demandbase/privacy/).
+  * **Ion Interactive:** used to track and associate internet search and browsing behavior of visitors to the site with our advertisements. Please [click here](http://www.ioninteractive.com/privacy-policy/) to view Ion Interactive’s privacy policy.
+  * **Google’s AdWords, Conversion, DART,** and **Google Analytics:** used for tracking queries submitted to their search engines. We also use Google’s DoubleClick technology for tracking our advertisements, enabling “tell-a-friend” social media functionality, and providing us with the contact information of users who submit a request for additional information about our services via click-through advertisements. Please [click here](http://www.google.com/policies/privacy/) to view Google’s privacy policy.
+  * **Marketo, Eloqua,** and **SalesForce:** we use their tracking tags to enable the tracking of web activity of cookied visitors. athenahealth uses these tools to generate additional interest in the company and to provide insights to our Sales team. Please [click here](http://www.marketo.com/trust/legal/privacy/) to view Marketo’s privacy policy. Please [click here](http://www.oracle.com/us/legal/privacy/services-privacy-policy/index.html) to view Eloqua’s privacy policy. Please [click here](http://www.salesforce.com/company/privacy/) to view SalesForce’s privacy policy.
+  * **Omniture** (also known as **Adobe Analytics):** used for tracking and associating internet search and browsing behavior with our advertisements. We collect usage information, such as the number and frequency of visitors to the site, and use this information to make informed decisions about where to place content on the site. Please [click here](http://www.adobe.com/privacy.html) to view Omniture’s privacy policy.
+  * **MixPanel:** athenahealth uses MixPanel in a similar manner as it uses Google Analytics to conduct web analytics investigations about users’ online activities. Please [click here](https://mixpanel.com/privacy/) to view MixPanel’s privacy policy.
+  * **RocketFuel-Demand Side Platform (DSP):** uses machine learning and cookies to optimize and target display advertising after users leave athenahealth.com. athenahealth also uses RocketFuel-DSP to monitor submissions and conversions. Please [click here](http://rocketfuel.com/privacy-policy) to view RocketFuel-DSP’s privacy policy. 
+  * **Optimizely:** athenahealth uses Optimizely code to enable our site to serve different versions of content to different audiences (i.e. landing page testing). Please [click here](https://www.optimizely.com/privacy) to view Optimizely’s privacy policy.
+  * **AdRoll:** athenahealth uses Adroll’s services to serve advertisements on Facebook. AdRoll accesses athenahealth cookies stored on your browser and populates Facebook advertisement spaces with athenahealth advertisements. Please [click here](https://www.adroll.com/about/privacy) to view AdRoll’s privacy policy.
+  * **Demandbase:** used to measure the effectiveness of our marketing campaigns by identifying and counting the businesses that visit the site. Please [click here](http://www.demandbase.com/company/privacy-policy/) to view Demandbase’s privacy policy.
+  * **Doubleclick Floodlight:** used to capture and report on the actions of users after clicking on one of our ads. DoubleClick is a division of Google and is subject to Google’s privacy policy. Please [click here](https://www.google.com/intl/en/policies/privacy/) to view Google’s privacy policy.
+  * **HelloWorld, Inc.** (formerly known as **“ePrize”** ): used to provide online contest services as a means to deliver educational materials to our employees, partners, clients, and the medical community. This information is stored in our internal databases and is used solely for administration of the applicable contest and, if requested by the user, to send news regarding our services to the user. Please [click here](http://www.helloworld.com/privacy-policy) to view HelloWorld, Inc.’s privacy policy.
+
+
+
+RETURN TO TOP
+
+## UPDATES TO THIS PRIVACY POLICY
+
+athenahealth reserves the right to make periodic updates and revisions to our Privacy Policy. Any changes will be posted on this page. Please check this page to review whether any changes have been made to the policy.
+
+RETURN TO TOP
+
+## KEY TERMS
+
+  * **COOKIES:** Cookies are small amounts of text files that are sent from a website to your computer’s browser when you visit the site. These cookies are then stored in files within your computer’s browser. Web sites can access only the cookies that they have stored on your computer. For example, if the Acme Computer Company stores a cookie on your browser, Acme may access its own cookie to improve the user’s online experience, but it could not access any cookies belonging to another company. For every future time you access the website, your browser sends the cookie back to the server, which notifies the website of the user’s previous activities on the website. Thus, cookies serve several useful purposes, like letting you navigate between pages more efficiently, saving your preferences, and enhancing your user experience with the website.
+  * **WEB BEACONS:** Web beacons (also called transparent GIFs, web bugs, pixels, or action tags) are strings of code that deliver a tiny graphic image on a web page or in an email which is used to monitor the behavior of the user visiting the website or sending the email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page on which the web beacon is placed. In general, any file served as part of a web page can act as a web beacon. We use web beacons for various tracking purposes, like determining whether or not you are logged into the site and whether or not you are connected to a third-party service.
+  * **INTERNET PROTOCOL (IP) ADDRESS:** A numerical label separated by periods that identifies every device (e.g., computer, printer) that participates in a network. IP addresses allow these devices to communicate with one another and transmit relevant information.
+  * **PERSONALLY IDENTIFIABLE INFORMATION (PII):** PII includes: first and last name; physical mailing address including street name and city/town; email; telephone number; Social Security Number; and any other identifier that permits the physical or online contacting of a specific individual. 
+
+
+
+RETURN TO TOP
