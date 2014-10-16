@@ -1,83 +1,106 @@
-> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052818id_/http%3A//spydialer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydialer.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016153912id_/http%3A//www.spydialer.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Spy Dialer - Whose cell phone is it?
+# Privacy Policy | Spy Dialer
 
-Spy Dialer, Inc. has created a privacy policy that lets you know what information we collect, why we collect it and how it might used. 
+Privacy Policy Statement 
 
-OPT OUT: 
+Effective Date: August 6, 2014 
 
-You may opt your cell phone number out of being spy dialed, free of charge, by [visiting our optout page.](https://web.archive.org/web/20140625052818id_/http%3A//spydialer.com/OptOut.aspx)
+1\. INTRODUCTION 
 
-INFORMATION WE STORE: 
+1.1. PURPOSE OF POLICY. SpyDialer.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of users of http://www.spydialer.com (the “Site”). We created this Privacy Policy (this “Policy”) so you can understand our information collection, storage and use policies. 
 
-From Free Users: 
+1.2. OPT OUT. You may opt your cell phone out of being spy dialed, free of charge, by visiting out [opt-out page](http://spydialer.com/OptOut.aspx). 
 
-IP address used for login, browser type and settings, device ID number, if smartphone; date and time of request, phone number(s) spy dialed. 
+1.3. NOTICE CONCERNING CHILDREN. This Site is not targeted towards children under the age of 13 nor intended to be used by them in any manner whatsoever. Should you be aware of any child under 13 using the Site, please contact us so that we may terminate their account. 
 
-From Subscribers: 
+2\. INFORMATION COLLECTION PRACTICES 
 
-Subscribers contact and payment information including name, email address, phone number, IP address used for login, browser type and settings,  device ID number, if smartphone, date and time of request, phone numbers spy dialed. 
+2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DOES THE COMPANY COLLECT FROM SITE USERS? 
 
-From Cell Phones that are Spy Dialed: 
+A. Categories of Personally Identifiable Information. We do not collect personally identifiable information for visitors that simply browse the Site. You may, however, seek to use certain services on the site. If so, we collect the following information as follows: 
 
-The date and time of request, phone number spy dialed, recording of spy dialed number's outgoing voicemail message. 
+i. Free Unregistered Users 
 
-From Address Book Sharing: 
+• IP Address, ISP, geolocation  
+• Browser type  
+• Device ID number (if smartphone app user)  
+• Phone numbers spy dialed  
+• Date/time of phone numbers spy dialed 
 
-If you chose the "share your address book to keep spy dialing" option, we'll store the contacts in your address book indefinitely (as provided at the time of sharing only- no automatic updates are made) and that you were the provider of the contacts. 
+ii. Address Book Submission Users 
 
-All users: 
+• Your email address  
+• The content of your address book at time of submission  
+• IP Address, ISP, geolocation  
+• Browser type  
+• Phone numbers spy dialed  
+• Date/time of phone numbers spy dialed 
 
-We use cookies to validate logins, recognize our customers and to otherwise provide this service. 
+iii. Paid Subscription Users 
 
-Customer service email requests are stored indefinitely. This information is not reviewable or editable once submitted and cannot be deleted by the sender. In this case, the consumers name and email address are stored as part of a received email. We do not spam, trade or sell email addresses used in correspondence to us.
+• First Name  
+• Last Name  
+• Email Address:  
+• Password:  
+• Address  
+• Cell Phone Number  
+• IP Address  
+• Browser type  
+• Device ID number (Smartphone app users)  
+• Phone numbers spy dialed  
+• Date and time of phone numbers spy dialed 
 
-Spy Dialer discloses that customer’s IP address or other identifying information, such as Internet provider name, will be logged and stored as record of customer’s use of service. Further, we may utilize first or third party cookies to track customers use of our service.
+iv. 3rd Party Cell Phones Spy Dialed by Site Users 
 
-CHANGING YOUR INFORMATION:
+• Date and time of request  
+• Phone number spy dialed  
+• Recording of outbound voicemail message from number spy dialed 
 
-Existing customers may view, edit or delete their personal information on file at any time by logging into their account. However, older versions of the information may be stored internally as a customer service record by Spy Dialer, Inc. and cannot be viewed, edited or deleted by the customer. Phone numbers previously spy dialed cannot be deleted.
+We also store email messages you send to us. This information may not be edited or deleted once submitted. 
 
-LENGTH OF TIME WE STORE FREE USER AND SUBSCRIBER INFORMATION: 
+B. Credit Card Information. We do not store credit card information you provide with orders. However, our credit card processing company authorize.net does. Their privacy policy can be seen at <http://www.authorize.net/company/privacy/>
 
-We have no minimum or maximum storage period. You should assume the data will be stored indefinitely. 
+C. Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please login to your account and do so. Cell phone numbers previously spy dialed cannot be edited or removed. Said information in older data backups may not be deleted or modified. If you wish to remove your cell phone number from being spy dialed, visit our [opt-out page](http://spydialer.com/OptOut.aspx). 
 
-USE OF INFORMATION WE STORE: 
+D. Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will notify you by posting a notice on the Site for 30 days. 
 
-Call Information: 
+E. Effective Date: The effective date of this Policy shall be August 6, 2014. 
 
-IP addresses, phone numbers spy dialed, date and times of spy dials and recorded outgoing voicemail messages are used for system operation, system maintenance, and are the sole property of Spy Dialer, Inc. Spy Dialer, Inc. reserves the right to store and re-use this data at Spy Dialer and in future applications and share this data with affiliated companies, services and organizations. 
+F. Browser Do Not Track Signals: California law requires that we disclose whether we acknowledge do not track signals issued by browsers should you designate such a choice with said browsers. We do not do so. 
 
-Subscriber Contact Information: 
+G. Third Party Cumulative Tracking: California law requires us to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google, Facebook, Yahoo and Twitter can track you through this Site as we use their services for social media and internal tracking purposes. Google participates in the NIA opt out program. You can visit this [link](http://www.networkadvertising.org/choices/#completed) to view all companies including Google that track you and choose to no longer be tracked. You can visit the Facebook privacy page [here](https://www.facebook.com/about/privacy/), the privacy policy for Yahoo [here](https://info.yahoo.com/privacy/us/yahoo/details.html) and Twitter privacy page [here](https://twitter.com/privacy) to learn more about how these companies track you and use your information. To block parties from tracking you, try services such as the [Privacy Badger](https://www.eff.org/privacybadger) offered by the Electronic Frontier Foundation. 
 
-Subscriber contact (name, phone number, address, email address, device ID number, if smartphone) app user will be shared with trusted third parties like our credit card processor and with or any other person or entity to protect ours or others rights, property, or safety . 
+H. California Eraser Law. We do not allow for the posting of user generated content on the Site. As such, the California "eraser law" does not apply to this Site. 
 
-Customer Service Inquiries: 
+2.2 WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT? 
 
-We do not share, trade, spam or provide email addresses and names provided to us through customer service inquiries. 
+A. AUTOMATIC COLLECTION. Our servers automatically recognize and collect your IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. We do, however, track how long you are on the Site, the pages you visit, your IP address, the results of actions you undertake, the keywords you use to find the Site and other information detailing your use of the Site. The Site may also gather anonymous aggregate data for all visitors that does not personally identify you, but that may be helpful for marketing purposes or for improving the goods services we offer. 
 
-Opt out Information: 
+B. COOKIES. We may use standard first and third party cookies. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Site may be diminished and some features may not work as they were intended. 
 
-We store the following information indefinitley when an opt out request is made: Telephone number to opt-out, date of opt-out request, IP address of opt-out request. Spy Dialer Inc reserves the right to re-use this data in future applications and share this data with affiliated companies, services and organizations. 
+3\. USE AND SHARING OF INFORMATION 
 
-Address Book Information: 
+3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION? 
 
-If you chose the "share your address book to keep spy dialing" option, we will store your address book information indefinitely and our use of the information is not cancellable. We will use the contact information in the results of other users at Spy Dialer and other associated people search websites. We will never allow your address book information to be used for spam or marketing. 
+A. PERSONAL INFORMATION. We use the personally identifiable information you submit to monitor and improve our site. We do not share your personal information with third parties with the exception of third party services that we use to run, maintain and analyze the Site. These parties do not market to you. We may use your personal information to track, identify and investigate illegal activity or violations of our terms of use. 
 
-All Users:
+B. ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. We may use anonymous information in combination with personal information to track, identify and to investigate fraud or violations of our terms of use. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. 
 
-We reserve the right to share information with any other person or entity to protect ours or others rights, property, or safety such as for investigation of fraud, harrassment or stalking.
+C. DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect ours or others rights, property or safety, or (3) act under exigent circumstances to protect the safety of the public or users of the Site. 
 
-MODIFICATION OF PRIVACY POLICY: 
+D. ADDRESS BOOK INFORMATION. When a user submits their address book, we add the information to our website database to provide search results to other users. By submitting your address book to us, you transfer any and all legal rights to said information in consideration of being allowed to make additional spy dials. We reserve the right to store, use, rent, lease, and sell this information in our sole discretion to associated people/phone search services including SkipSmasher.com. At no time will the address book information be used for marketing or spam. 
 
-Spy Dialer, Inc. reserves the right to modify its privacy policy at any time. Sole notice of change in our privacy policy will be made at this page. We will not make any other notification directly to free users or subscribers of changes to this policy unless specifically required to do so by law. We suggest you visit this page often to stay up to date on changes. 
+4\. SECURITY 
 
-PRIVACY CONCERNS: 
+4.1. SITE SECURITY. The Site has reasonable security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you. The Site utilizes a multi-tiered security system to prevent unauthorized access by third parties. Our servers are located in a high security, state-of-the-art facility with 24 hour per day monitoring. The site uses SSL security to assure secure transactions. 
 
-Please direct any questions or concerns over our privacy policy to us by using the contact form on this website. 
+5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL 
 
-YOUR CONSENT: 
+5.1. THIRD PARTY WEBSITES. The Site contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before providing personal information to said sites. 
 
-By using Spy Dialer, you consent to its privacy policy as published on this page. 
+6\. CONTACT INFORMATION 
 
-This privacy policy was last updated May 29, 2014. 
+6.1. CONTACTING US. If you have any questions about this Policy or our practices related to this Site please contact us by accessing the “Contact” link at the bottom of each Site page. 
+
+6.2 LEGAL NOTICES. Any legal notices must be sent to Skip Smasher, Inc., Attn: Legal Dept., PO Box 890370, Temecula, CA 92589 
