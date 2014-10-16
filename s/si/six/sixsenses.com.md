@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052014id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016205849id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Six Senses Hotels Resorts Spas
 
-Six Senses Resorts & Spas, which operates resorts and spas throughout the world under both the “Six Senses” and “Evason” brands, is comprised of a family of companies (collectively referred to as "Six Senses", "we", "our" or "us"), including Sustainable Luxury Mauritius Limited, which owns the sixsenses.com site (the “Site”).   This privacy policy contains information on how Six Senses collects, uses, and shares information collected from you as well as how such information is protected from unauthorized access.  This privacy policy only covers the Site.   By using the Site, you agree that Six Senses may collect, use, and share information consistent with this privacy policy. 
+Six Senses Hotels Resorts Spas, which operates resorts and spas throughout the world under both the “Six Senses” and “Evason” brands, is comprised of a family of companies (collectively referred to as "Six Senses", "we", "our" or "us"), including Sustainable Luxury Mauritius Limited, which owns the sixsenses.com site (the “Site”).   This privacy policy contains information on how Six Senses collects, uses, and shares information collected from you as well as how such information is protected from unauthorized access.  This privacy policy only covers the Site.   By using the Site, you agree that Six Senses may collect, use, and share information consistent with this privacy policy. 
 
 **Effective Date of Privacy Policy**
 
-The effective date of this privacy policy is March 1st 2013. 
+The effective date of this privacy policy is March 1, 2013. 
 
 **Changes To Privacy Policy**
 
@@ -68,6 +68,6 @@ If you need to contact Six Senses for any reason, including If at any time you b
 
 Name:                               Web Master
 
-Email:                                [webmaster@sixsenses.com](mailto:%20webmaster@sixsenses.com)
+Email:                               [webmaster@sixsenses.com](mailto:%20webmaster@sixsenses.com)
 
-Telephone:                         +66 (0) 2631 9777
+Telephone:                       +66 2631 9777
