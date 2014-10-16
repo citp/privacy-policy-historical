@@ -1,0 +1,173 @@
+<!--The following is the downloaded HTML source of the mytalkdesk.com privacy policy that was archived on 2014-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141016231051id_/https%3A//www.mytalkdesk.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<script type="text/javascript" async="" src="https://static.intercomcdn.com/intercom.v1.js"></script><script src="//beacon.errorception.com/513fcab7f99de33f5d0000b4.js" async=""></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/zb09quffxg/analytics.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"a2d3f3a0c7","applicationID":"526609","transactionName":"cQ1eFxNXWwkBS0wJC18HHxMTUUEEB0A=","queueTime":13,"applicationTime":22,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwUDUlFADQEGUlFb"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <link href="/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	<title>Talkdesk</title>
+<link rel="shortcut icon" href="https://dmtddok3l1csr.cloudfront.net/assets/mytalkdesk.com/favicon-9bd0e7dc6b45e1b3c36f9f77fa9d4578.ico" type="image/x-icon">
+
+<script>
+    (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
+    c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
+    c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
+    _.addEventListener?_.addEventListener("load",b,!1):_.attachEvent("onload",b)})
+    (window,document,"script","513fcab7f99de33f5d0000b4");
+</script>
+
+<link href="https://dmtddok3l1csr.cloudfront.net/assets/application-20c4be2a65b536b2abcf5173938cddba.css" media="screen" rel="stylesheet" type="text/css">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="MxiNV7J9rXcV8OVLBzkRcVe+R7FVFvh+T8Tl+FfxZJA=" name="csrf-token">
+
+
+
+
+  <script src="https://s3.amazonaws.com/plivosdk/web/plivo.min.js" type="text/javascript"></script>
+  <script src="//static.twilio.com/libs/twiliojs/1.2-beta/twilio.min.js" type="text/javascript"></script>
+  <script src="https://dmtddok3l1csr.cloudfront.net/assets/application-62737c1aa39d989c0890c8799e49248a.js" type="text/javascript"></script>
+  <script src="https://dmtddok3l1csr.cloudfront.net/assets/libs-8e22f503e971a99a0b3787b7a19f9358.js" type="text/javascript"></script>
+
+</head>
+
+<body style="min-width: 1020px;">
+
+  <div class="wrapper">
+    <div id="innerTopMenu">
+      <div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container-fluid">
+
+      <div class="nav-collapse">
+        <ul class="nav pull-right">
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+    </div>
+
+    <div class="bgwhite group span-24 prepend-top append-bottom last mt40 pt40">
+
+	<div class="choose_admin prepend-top span-24 append-bottom">
+	<div class="p20 rounded append-1 prepend-1">
+		<h2 class="pbottom">Talkdesk Privacy Policy</h2>
+
+		<p>When You register for a Talkdesk account you can be certain that we have implemented comprehensive security practices to  ensure that only You and those people You provide authorized access to can see your account information. We respect your right to privacy and feel it is important for You to know how we handle the information we receive from  You via our website at www.talkdesk.com (the “Site”) and through our on-demand support platform, tools and services offered on the Site (the  “Service”).</p>
+
+			<h3>Information You Provide</h3>
+			<p>When You register for the Service, we ask for information such as your name, company name and address and e-mail address.  When you register, You are  not required to enter your credit card information until You decide to  continue with a paid plan. Talkdesk uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to  store, retain, or use your billing information except for the sole purpose of credit card processing on Talkdesk’s behalf.</p>
+			<p>You can modify your account information at anytime by clicking on the Admin link in the global navigation bar at the top of the screen. Talkdesk’s practice is not to use such personal information for marketing purposes. Talkdesk may use the collected personal information and other information Talkdesk collects about your use of the Service to operate and make the Service available to You, for billing, identification and  authentication, to contact You about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site.</p>
+			<p>Talkdesk may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require  that your personal information be transferred from Your current  location to the offices and servers of Talkdesk and the authorized third parties referred to here. Although Talkdesk owns the software, code, databases, all rights to the Talkdesk application, You retain all rights to your data.</p>
+
+			<h3>Cookies</h3>
+			<p>When You visit the Site or use the Service, we use session “cookies” – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while You are logged in and to enable Talkdesk to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the  Service. Talkdesk uses persistent cookies that only Talkdesk can read and use, to identify You as a Talkdesk customer and make it easier for You to log in to the Service. Users who disable their web browsers’ ability  to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.</p>
+			<p>As You browse Talkdesk, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, <a href="https://app.adroll.com/" target="_blank">AdRoll</a>, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Talkdesk. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit <a href="http://www.networkadvertising.org/choices/" target="_blank">this page</a> to opt out of AdRoll and their partners’ targeted advertising.</p>
+
+			<h3>Information Sharing</h3>
+			<p>Except as described in this policy, Talkdesk will not give, sell, rent, or loan any identifiable personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or  defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action  regarding illegal activities, suspected fraud, situations involving  potential threats to the physical safety of any person, violations of  our Terms of Service, or as otherwise required by law. Talkdesk may also  provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personally identifying information.</p>
+
+			<h3>Children’s Personal Information</h3>
+			<p>The Service and Site are not intended for, nor does Talkdesk knowingly collect any personally identifiable information from children under the age of 13.</p>
+
+			<h3>Protection of Information</h3>
+			<p>Talkdesk maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to You and to those You provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure.</p>
+
+			<h3>Changes to Privacy Policy</h3>
+			<p>Talkdesk may update this policy from time to time. You can review the most current version of this privacy policy at any time at  http://www.talkdesk.com/privacy. Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the  privacy policy. Your only remedy, if You do not accept the terms of  this privacy policy, is to discontinue use of the Site and Service.</p>
+
+			<h3>Business Transactions.</h3>
+			<p>Talkdesk may assign or transfer this privacy policy, and your user account and related information and data, to any person or entity that acquires or is merged with Talkdesk.</p>
+
+			<h3>Terms of Service.</h3>
+			<p>When You access and use the Service, You are subject to the <a href="/terms">Talkdesk Terms of Service</a>.</p>
+
+			<h3>Contact Us</h3>
+			<p>If You have questions regarding this privacy policy or about the security practices of Talkdesk, please contact us by email at hello@talkdesk.com.</p>
+
+
+	</div>
+	</div>
+
+</div>
+
+<script>
+	$(document).ready(function(){
+	   	 $('body').attr("class", "terms");
+	 });
+</script>
+
+    <div class="push"></div>
+  </div>
+
+  <div id="footer">
+    <div class="wrapper">Talkdesk, Inc © All Rights Reserved.
+        <a href="mailto:welcome@talkdesk.com">Contact Us</a> |
+        <a href="/terms">Terms of Service</a> |
+        <a href="/privacy">Privacy Policy</a>
+        <div id="allow_reminder_ph"></div>
+        <div id="popups_ph"></div>
+    </div>
+</div>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+<script>
+$(document).ready(function(){
+  //redirect to sign_in if request is not allowed
+  $(document).ajaxError( function(e, xhr, options){
+    if(xhr.status == 401){
+      document.location.href = '/users/sign_in';
+    }
+  });
+});
+</script>
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-28375222-1']);
+_gaq.push(['_setDomainName', 'mytalkdesk.com']);
+
+_gaq.push(['_setCustomVar', 1, 'Account', '', 2]);
+_gaq.push(['_setCustomVar', 2, 'User', '', 2]);
+
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+<script type="text/javascript">
+  var analytics=analytics||[];(function(){var e=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group"],t=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var n=0;n<e.length;n++)analytics[e[n]]=t(e[n])})(),analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)};
+  analytics.load("zb09quffxg");
+</script>
+
+
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://static.intercomcdn.com/intercom.v1.js';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}};})()</script>
+
+<script>
+function startChat() {
+  Intercom('show');
+}
+</script>
+
+
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+</style>
+
+
+
+
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
