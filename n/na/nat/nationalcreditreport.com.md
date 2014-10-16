@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031419id_/http%3A//www.nationalcreditreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcreditreport.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016020249id_/http%3A//www.nationalcreditreport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # .:: NationalCreditReport ::.
 
@@ -6,7 +6,7 @@
 
 _Last Updated:   July 23, 2013_
 
-We use the terms 'you' and 'your' to include any person who accesses the Sites or purchases the any product or service offered on the Sites (the 'Services') for any amount of time. We use the terms 'we', 'us' and 'our' to refer to One Technologies, L.P. (the 'Company'), which owns and/or operates this website, and our employees, members, officers, partners, affiliated entities, representatives, attorneys, and agents.
+We use the terms 'you' and 'your' to include any person who accesses the Sites or purchases any product or service offered on the Sites (the 'Services') for any amount of time. We use the terms 'we', 'us' and 'our' to refer to One Technologies, L.P. (the 'Company'), which owns and/or operates this website, and our employees, members, officers, partners, affiliated entities, representatives, attorneys, and agents.
 
 We understand how important your privacy is to you, so we are committed to assuring your privacy. This page outlines all of the steps we take to protect your privacy and what we do with your information that you provide to us through our web site.
 
@@ -40,7 +40,7 @@ Occasionally we may be required by law enforcement or judicial authorities to pr
 
 We also allow some of our employees and independent contractors access to both Personally Identifiable Information and Non-Personally Identifiable Information to enable us to assist us with our business and provide the services and products that we offer to you. We endeavor to have all such employees and contractors sign non-disclosure or confidentiality agreements with us in order to protect your information.
 
-From time to time, we make the e-mail addresses of those who provide them to us available to other reputable organizations whose products or services we think you might find interesting. If you supply us with your postal address on-line you may receive mailings from other reputable companies.
+From time to time, we make the email addresses of those who provide them to us available to other reputable organizations whose products or services we think you might find interesting. If you supply us with your postal address on-line you may receive mailings from other reputable companies.
 
 **Privacy Policies of Third Parties**
 
@@ -48,7 +48,7 @@ When you sign-up for services through our site, keep in mind you will be interac
 
 **Updating your account information**
 
-Corrections or updates to your account information, including your email address, mailing address or credit card information can be made through the 'Account Info' section of your ScoreSense account. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 888-550-1945.
+Corrections or updates to your account information, including your email address, mailing address or credit card information can be made through the 'Account Info' section of your NationalCreditReport account. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 888-550-1945.
 
 **Business transitions**
 
@@ -73,7 +73,7 @@ Attn: Customer Care
 4447 North Central Expressway, Suite 110, PMB 406  
 Dallas, TX 75205
 
-**The ScoreSense team is available to answer your questions via phone seven days a week.**  
+**The NationalCreditReport team is available to answer your questions via phone seven days a week.**  
 
 
 Live representatives are available at 888-550-1945 during the following hours: Monday through Friday, 8AM to 8PM CST  
