@@ -1,46 +1,108 @@
-> *The following text is extracted and transformed from the buyinvite.com.au privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213132440id_/http%3A//www.buyinvite.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyinvite.com.au privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016043652id_/http%3A//www.buyinvite.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # buyinvite.com.au - Womens Fashion Clothing in Australia
 
 ## 
 
-BUYINVITE.COM.AU, referred to below as buyinvite, is an online retailer of consumer goods owned and operated by Ozsale Pty Ltd..
+Privacy Policy
 
-Buyinvite values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page.
+Buyinvite.com.au, referred to below as Buyinvite, is an online retailer of consumer goods. 
 
-Buyinvite's Commitment to Online Security
+Buyinvite values our relationship with you and the other users of this website. We recognize that you may be concerned about how we collect, hold, use, and disclose your personal information. We have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect and hold this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via privacy@buyinvite.com.au or call 1300304699
 
-Your personal information is treated with the greatest of care. Sensitive payment information such as credit card details are NEVER stored on the Internet with our system.
+Buyinvite is located at Unit 5, 111 Old Pittwater Road, Brookvale NSW 2100
 
-How Your Information May Be Shared
+Personal information that we collect and how.
 
-We never sell or rent your personal information. buyinvite may release personal information under the following circumstances:
+The personal information we collect from you and hold includes information that is necessary in order for us to offer goods or services to you and to delivery these goods and services.  This includes your Name, Address, Telephone Number and E-mail address.  
 
-o    Where release is required by law (for example, a subpoena) or regulation or is requested by a government agency;
+We collect personal information directly from you and very occasionally via 3rd Party Suppliers. In other instances, we may collect personal information directly from you when you contact us (for example, when you make a telephone enquiry) and when you use our Web Site or use our mobile Apps. 
 
-o    Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;
+Personal information is also collected directly from you via a series of forms which you complete including:
 
-o    To appropriate persons, where your communication suggests possible harm to others.
+a) Membership Registration
+
+Our site's registration form requires you to provide us contact information (email address) and may occasionally require demographic information. At this time you may withhold certain information if you so wish such as your real name and act under a pseudonym.  We do not require any other personal information at this stage.
+
+b) Passwords
+
+You are responsible for all actions taken with your user name, email address and password. Therefore we do not recommend that you disclose your password to any third parties. If you choose to share your user name, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy.
+
+c) Address and telephone number
+
+When you place an order on our website or via our mobile Apps we will require you to insert your, address and telephone number and any other information relevant to your order, including your payment information and information on your payment method.  At this time we may require you to provide us with your full name and not rely on any pseudonym you may have used to access the website.  We will require your full postal address and in some circumstances we are unable to rely on or delivery to a P.O. Box.  We also require your telephone number in order to contact you regarding the order or service that you have purchased or for other reasons. 
+
+Personal information that we collect via a 3rd party and how.
+
+Personal information that we collect via a 3rd Party is information that you have opted in to share with us.  For example if you choose to login to our website using a third party login service such as “login with Facebook” then you opt in to share your basic information with us.  This basic information includes your name, e-mail address, gender and date of birth.
+
+We may require further personal information and will prompt you to supply us with that information such as your address and contact details when you place an order as  detailed above.
+
+How we hold your personal information.
+
+Information that we hold about you is held in a firewall protected, restricted user access database.  We carry out regular user access audits, access logging and daily PCI scanning.
+
+How we ensure we have accurate information.
+
+We rely upon you to correctly insert your personal information and provide you with the ability both to view and to amend that personal information as detailed below. 
+
+To view and amend the information we store.
+
+We enable you to view and amend the personal information we store via the My Account Section of the website or App. Here you can edit any of your personal details including your registered username, password, email address or date of birth.  We also enable you to store and amend up to three addresses for the effective delivery of goods.
+
+If you would like to access any other personal information which we hold about you or if you would like to seek the correction of that information, you can do so by Amending the information via the My Account Section, contacting us via our contact us page, email us via privacy@buyinvite.com.au or call 1300304699
+
+The purposes for which we collect, hold, use and disclose your personal information
+
+We collect, hold, use and disclose personal information for the following purposes:
+
+o In order to send you offers of goods and services that you have opted in to receive from us via e-mail. You can choose to opt out of us using your personal information for future direct marketing by selecting the unsubscribe option on any of the e-mails that we send to you.  You can also select unsubscribe on our website or apps, contact us via our Contact page, email us via privacy@buyinvite.com.au or call 1300 30 4699 and request to be unsubscribed. 
+
+o In order to allow you to access our website and view the offers that we have made.
+
+o In order to contact you via reasonable means to verify and confirm or discuss purchases for goods or services that you have made. 
+
+o In order to complete or fulfil via any reasonable means an order of goods or services that you have made from us.
+
+o In order to respond to your enquiries and to do the things you have asked us to do. 
+
+o We may need to disclose your personal information to third parties in order to deliver goods or services that you have purchased from our website.   We disclose this personal information only to ensure that we complete the primary purpose for holding your personal information and for no other reason.  The list of potential recipients of your personal information includes the following, some of which may include overseas disclosure (also detailed subsequently); 
+
+o A supplier who requires your personal information to complete a delivery or service where that supplier is delivering the goods or providing a service to you on our behalf. 
+
+o Postal and Courier companies who are contracted to complete a delivery service on our behalf receive a manifest which includes names, addresses and where necessary telephone numbers in order to contact you to complete delivery.
+
+o Customs documents must also contain your personal details when you are purchasing from a sale that is fulfilled from overseas.
+
+In addition we also print your personal information on the parcels but we do not publish this information or make it available for any other purpose other than to ensure the delivery of goods. 
+
+Overseas Use or Disclosure of information
+
+Buyinvite is part of The APACSALE Group and we have offices in Australia, New Zealand, Singapore, Malaysia, The Philippines, Thailand, China, USA, and the European Union.
+
+We are likely to disclose your personal information internally in any of the aforementioned countries or regions for internal purposes such as the following reasons: 
+
+o marketing goods or services to you that you have opted in to
+
+o to contact you regarding a specific order you have made 
+
+o to respond to a request you have made to be contacted by us. 
+
+As an international organisation, we also may disclose your information to overseas entities or contractors who we engage in order to send you goods as detailed in the section above “How your information is disclosed and why.” These entities or contractors are likely to be located in the aforementioned countries and regions. 
+
+ Allowed exceptions to the aforementioned disclosure limitations
+
+We never sell, rent or use your personal information or disclose any personal information other than for the above reasons or other than where we are required or authorised by or under an Australian law or a court/tribunal order to do so. 
 
 Invite a friend
 
-Buyinvite provides facilities throughout the site to refer friends to buyinvite. You may not use the "Invite a friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our privacy policy or Terms and Conditions. We do not permanently store, sell, or rent these email messages or the email addresses.
-
-Membership Registration
-
-Our site's registration form requires you to provide us contact information and may also require demographic information. We may use your contact information from the registration form to send you information about our company. Your contact information is also used to contact you when necessary.
-
-Passwords
-
-You are responsible for all actions taken with your user name, email address and password. Therefore we do not recommend that you disclose your Buyinvite password to any third parties. If you choose to share your user name, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy.
+Buyinvite provides facilities throughout the site for you to send invitations to friends, referring them to buyinvite. Buyinvite does not collect personal information about your friends through these facilities but may collect personal information about them if they contact us. You may not use the "Invite a friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our Privacy Policy or Terms and Conditions. We do not permanently store, sell, or rent these email messages or the email addresses.
 
 Security
 
-Buyinvite uses NAB Transact to provide a secure environment for the authorisation of credit card and charge card transactions. Confidential information including card details are encrypted  using industry standard SSL 128-bit encryption technology.
+OZSALE PTY LIMITED uses MasterCard Integrated Gateway System (MIGS) to provide a secure environment for the authorisation of credit card and charge card transactions. Confidential information including card details are encrypted using industry standard SSL 128-bit encryption technology.
 
-Our payment page is also fully PCI DSS compliant please visit 
-
-[https://www.pcisecuritystandards.org/tech/](https://www.pcisecuritystandards.org/tech/) for more information.
+Our payment page is also fully PCI DSS compliant please visit https://www.pcisecuritystandards.org/tech/ for more information.
 
 Cookies
 
@@ -54,9 +116,10 @@ Membership Removal
 
 If you wish to be removed from our database for any reason, simply send us an email requesting to be removed via our contact us page.
 
+Complaints
+
+If you would like to make a complaint about a breach of the Australian Privacy Principles, please contact us via our contact us page, email us via privacy@buyinvite.com.au or call 1300 30 4699.   Once we receive your complaint, we will endeavour to respond to your complaint within a reasonable period of time. If you are unhappy with the outcome of your complaint, you can take your complaint to the Office of the Australian Information Commissioner (OAIC). For more information on how to contact the OAIC, please visit their website at: http://www.oaic.gov.au/about-us/contact-us-page.
+
 Updates to our information practices
 
 Buyinvite reserves the right to add to, delete or change these terms because of frequent changes in Internet technology and applicable law. As such, you should check this privacy policy from time to time for such changes.
-
-**  
-**
