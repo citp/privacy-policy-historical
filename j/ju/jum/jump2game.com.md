@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jump2game.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815060558id_/http%3A//jump2game.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jump2game.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016072021id_/http%3A//www.jump2game.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Jump2Game
 
