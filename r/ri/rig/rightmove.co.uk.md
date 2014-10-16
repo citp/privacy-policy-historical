@@ -1,32 +1,38 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622094856id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016032809id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
-# Rightmove.co.uk
+# Terms of use and privacy policy
 
 ### Who we are
 
-'We' are Rightmove Group Limited, Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents, letting agents, new homes developers and overseas property owners to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](https://web.archive.org/rightmoveplc/about-us.html).
+We are Rightmove Group Limited (company number 03997679) and our address is Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE (referred to as "we" or "us" or "our"). We are the providers of the website [www.rightmove.co.uk](https://web.archive.org/) (referred to as the "Site"). Our VAT number is GB 745 8441 10. We are notified as a data controller with the Information Commissioner's Office with registration number Z4726900.
+
+We provide this Site to subscribing estate agents, letting agents, new homes developers and overseas property owners to display properties they are marketing. We are not estate agents ourselves.
+
+A reference to "you" or "your" is a reference to a user of the Site or any of our services.
 
 ### Introduction
 
-We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via www.rightmove.co.uk (referred to below as "this Site"). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
+We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you. Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information that we collect about you.
 
-If you have any queries or comments about the policy, our use of your personal information or wish to unsubscribe from messages from us, please get in touch by [emailing here](https://web.archive.org/rightmoveplc/rightmove-contacts.html) or writing to The Privacy Manager at Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE.
+If you have any queries or comments about the policy, our use of your personal information or wish to unsubscribe from messages from us, please get in touch by [emailing here](https://web.archive.org/rightmoveplc/rightmove-contacts.html) or writing to The Privacy Manager at the address provided at the beginning of this policy.
 
-In general, we use the information we collect about you to:
+We use the information we collect about you to:
 
-  * pass your messages on to our advertisers and help them provide more personalised services to you
-  * provide information services to relevant third parties
-  * improve the features and services we offer
-  * support our own marketing and promotion efforts
-  * keep you informed with information relevant to your interests.
+  * pass your messages on to our advertisers including estate agents, developers or landlords to help them provide a more personalised service to you;
+  * provide information services to third parties;
+  * improve the features and services we offer;
+  * support our own marketing and promotion efforts;
+  * allow you to participate in our interactive services;
+  * provide you with information and services that we feel may interest you where you have consented to be contacted for such purposes;
+  * enforce our Terms of Use located here
 
 
 
 ### Personal information collected
 
-When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about how you use this Site including your searches, the properties and pages you look at, the advertisers or partners you contact and the contents of the emails you send to them. Finally, we may also collect information from any correspondence that you have with us. Collectively, we refer to this as "Your Information".
+When you visit or use the Site or use our services, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about how you use this Site including your searches, the properties and pages you look at, the advertisers or partners you contact and the contents of the emails you send to them. Finally, we may also collect information from any correspondence that you have with us. Collectively, we refer to this as "Your Information".
 
-All of the forms where you might enter personal information on our Site have tick box options to enable you to specify your consent (or otherwise) to our use of Your Information. We always use the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won't be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
+All of the forms where you might enter personal information on our Site have tick box options to enable you to accept or decline to our use of Your Information for marketing purposes. We always use the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won't be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
 
 ## How we use Your Information
 
@@ -50,25 +56,25 @@ When you use the email a friend feature of this Site we record which properties 
 
 ## Registering with us
 
-If you [register](https://web.archive.org/register.html) with us, we save the details you provide and use them to enable us to personalise the service we offer to you. You can update [your details](https://web.archive.org/user/details.html) at any time via the site. When you are signed in, we automatically pre-populate your saved details on contact forms.
+If you [register](https://www.rightmove.co.uk/register.html) with us, we save the details you provide and use them to enable us to personalise the service we offer to you. You can update [your details](https://web.archive.org/user/details.html) at any time via the Site. When you are signed in, we automatically pre-populate your saved details on contact forms.
 
 ## Saving properties
 
-If you [register](https://web.archive.org/register.html) with us and [save properties](https://web.archive.org/user/shortlist/redirect.html) you are interested in, we can identify which properties you have saved. We may anonymously aggregate these details to indicate how many users have saved a particular property, but we will not make available to third parties any personal data relating to which users have saved which properties.
+If you [register](https://www.rightmove.co.uk/register.html) with us and [save properties](https://web.archive.org/user/shortlist/redirect.html) you are interested in, we can identify which properties you have saved. We may anonymously aggregate these details to indicate how many users have saved a particular property, but we will not make available to third parties any personal data relating to which users have saved which properties.
 
 ## Using the property alerts and saved searches
 
-If you [register](https://web.archive.org/register.html) with us, save searches and/or use the [property alerts](https://web.archive.org/user/saved-searches/redirect.html) feature to receive notification when new properties matching your criteria are added to this Site, we record the settings you use and which properties have been sent to you. We do not make any information about any property that has been sent to you available to our advertisers or third parties.
+If you [register](https://www.rightmove.co.uk/register.html) with us, save searches and/or use the [property alerts](https://web.archive.org/user/saved-searches/redirect.html) feature to receive notification when new properties matching your criteria are added to this Site, we record the settings you use and which properties have been sent to you. We do not make any information about any property that has been sent to you available to our advertisers or third parties.
 
 ### Who has access to the information you provide or we collect
 
 We retain access to all personal information that we have collected from you.
 
-When our service is available via the websites of our partners, those partners may have access to Your Information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
+When our service is available via the websites of our partners, those partners may have access to Your Information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each Site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
 
-If our business enters into a joint venture with or is sold to or merged with another business entity, Your Information may be disclosed to our new business partners or owners.
+If our business enters into a joint venture with or is sold to or merged with another business entity, Your Information may be disclosed and ultimately transferred to our new business partners or owners.
 
-If we offer or supply a service to you that is provided on our behalf by a third party we may have to pass Your Information to them in order to deliver the service. By using this site you consent to us providing Your Information to the third parties licensed by us to provide such services. We may also use third parties to provide services on our behalf which may include processing (but not using themselves) Your Information e.g. to complete partial addresses or to augment the information we hold about you. In either case, we will not pass your data to anyone who is not also registered with the Data Protection Act or is not subject to these or similar provisions in our contract with them and we will not allow the third party to use Your Information commercially without your consent.
+If we offer or supply a service to you that is provided on our behalf by a third party we may have to pass Your Information to them in order to deliver the service. By using this Site you consent to us providing Your Information to the third parties licensed by us to provide such services. We may also use third parties to provide services on our behalf which may include processing (but not using themselves) Your Information e.g. to complete partial addresses or to augment the information we hold about you. In either case, we will not pass Your Information to anyone who is not also notified with the Information Commissioner's Office as a data controller or is not subject to these or similar provisions in our contract with them and we will not allow the third party to use Your Information commercially without your consent.
 
 We will not otherwise disclose, sell or distribute Your Information to any third party without your permission unless we are required to do so by law.
 
@@ -76,13 +82,13 @@ We will not otherwise disclose, sell or distribute Your Information to any third
 
 Registered users of this Site can update their information, change settings or deactivate their account in the [My Details section of My Rightmove](https://web.archive.org/user/details.html) page once signed in.
 
-Users of this Site can request we provide them with a copy of the personally identifiable information we hold via [contact us](https://web.archive.org/rightmoveplc/rightmove-contacts.html). You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery.
+Users of this Site can request we provide them with a copy of the personally identifiable information we hold via [contact us](https://web.archive.org/rightmoveplc/rightmove-contacts.html). We may charge a small administration fee to cover the data search, preparation and delivery. You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date.
 
 ### Cookies and tracking
 
-Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Further information about the cookies we use is stored [here.](https://web.archive.org/this-site/cookies.html)
+Like many websites, we use "cookies" to enable us to personalise your visits to this Site, simplify the signing-in procedure, keep track of your preferences and to track the usage of this Site. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Further information about the cookies we use can be found [here.](https://web.archive.org/this-site/cookies.html)
 
-Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files.
+Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our Site traffic e.g. IP address, numbers of pages viewed, length of time spent on Site. We use log files to build pictures of how our Site is used that help us to monitor and improve the service. We cannot identify you from your log files.
 
 ## Security, storage and transfer of information
 
@@ -96,9 +102,9 @@ We will retain Your Information for a reasonable period or for as long as is req
 
 ### Property Details Displayed on Rightmove
 
-Rightmove does not accept UK property listings directly from consumers. If you are the owner of a property being displayed for sale or for rent on our website this is because the agent you have chosen to use for the sale or the letting of your property has a contract with us to display the details of your property on our website and thereby place the information about your property fully in the public domain. 
+Rightmove does not accept UK property listings directly from consumers. If you are the owner of a property being displayed for sale or for rent on our website this is because the agent you have chosen to use for the sale or the letting of your property has a contract with us to display the details of your property on our Site and thereby place the information about your property fully in the public domain. 
 
-Details held by us about a property do not comprise personal data as defined by the Data Protection Act 1998. Rightmove may use the data which we hold about properties advertised to provide professional valuation services and other data services to third parties. If your property is listed for sale or rent on Rightmove you may ask us not to use some or all of the details of your property to provide such data services. In this event please write to the Data Controller, Rightmove Group Limited, 33 Soho Square, London W1D 3QU stating your full name and address, confirmation that you are the owner of the property upon whose instructions we are entitled to act, the full postal address of your property, the date it was placed on the market for sale or rent, and the name address and telephone number of the agent you have instructed to market the property.
+Details held by us about a property do not comprise personal data as defined by the Data Protection Act 1998. Rightmove may use the data which we hold about properties advertised to provide professional valuation services and other data services to third parties. If your property is listed for sale or rent on Rightmove you may ask us not to use some or all of the details of your property to provide such data services. In this event please write to the Data Controller, Rightmove Group Limited, 33 Soho Square, London W1D 3QU stating your full name and address, confirmation that you are the owner of the property upon whose instructions we are entitled to act, the full postal address of your property, the date it was placed on the market for sale or rent, and the name address and telephone number of the agent you have instructed to market the property. We will consider your request but are not under an obligation to take any action in this regard (e.g. taking your property off of our Site); this is ultimately a matter to be dealt with between you and your estate agent.
 
 ### Changes to the policy
 
