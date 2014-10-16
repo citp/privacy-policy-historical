@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065400id_/http%3A//playlists.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016223811id_/http%3A//playlists.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
