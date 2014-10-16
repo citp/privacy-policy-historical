@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northampton.gov.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045110id_/http%3A//www.northampton.gov.uk/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.gov.uk privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016130506id_/http%3A//www.northampton.gov.uk/terms) for the most accurate reproduction.*
 
 # Terms and disclaimer | Northampton Borough Council
 
@@ -12,7 +12,7 @@
 The text and graphic content of this web site may be used, printed and distributed ONLY under the following conditions: 
 
   * The content of the site is used for non-commercial purposes only
-  * Copyright information is displayed (© Copyright 2004 Northampton Borough Council)
+  * Copyright information is displayed (© Copyright [year] Northampton Borough Council)
   * The content is not modified
 
 
