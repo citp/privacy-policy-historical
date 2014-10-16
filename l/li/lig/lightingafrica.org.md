@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109230711id_/http%3A//lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017005204id_/http%3A//lightingafrica.org/privacy-policy) for the most accurate reproduction.*
 
-# Lighting Africa - Privacy Policy
+# Privacy Policy | Lighting Africa
 
-Your privacy when using [www.lightingafrica.org](http://www.lightingafrica.org/) (the “Site”), is of the utmost importance to us. This Privacy Policy describes the ways in which the operator of this Site, the International Finance Corporation (“we,” “our,” or “us”), collects, uses, and discloses information about you through the Site. By using the Site, you consent to the processing of your information as set forth in this Privacy Policy. ****
+Your privacy when using www.lightingafrica.org (the “Site”), is of the utmost importance to us.This Privacy Policy describes the ways in which the operator of this Site, the International Finance Corporation (“we,” “our,” or “us”), collects, uses, and discloses information about you through the Site. By using the Site, you consent to the processing of your information as set forth in this Privacy Policy. ****
 
 **What information do we collect?**
 
-**Information You Provide** ********
+**Information You Provide** **** ****
 
 We and our service providers collect any information that you provide when you use the Site, including when you create an account, rate a publication, participate in our message boards or forums, sign up to receive our electronic newsletters, participate in polls and surveys, or otherwise contact us with a question, comment, or request. This can include, but is not limited to (a) your name, contact information, and other registration information; (b) information you post to public forums on the Site; and (c) information you provide us when you contact us. ****
 
 **Information Automatically Collected From You** ****
 
-We and our service providers may automatically collect certain technical information from your computer when you use the Site, such as your Internet Protocol address, your browser type, your operating system, the pages you view on the Site, the pages you view immediately before and after you access the Site, and the search terms you enter on the Site. For example, we collect information and compile statistics about the most and least popular pages on the Site. ****
+We and our service providers may automatically collect certain technical information from your computer when you use the Site, such as your Internet Protocol address, your browser type, your operating system, the pages you view on the Site, the pages you view immediately before and after you access the Site, and the search terms you enter on the Site. For example, we collect information and compile statistics about the most and least popular pages on the Site. ****
 
-This information allows us to recognize you and personalize your experience if you return to the Site using the same computer or mobile device **** and to improve the Site and the services we provide. We and our service providers may collect this information using “cookies,” which are small text files that the Site saves on your computer using your web browser and accesses when you return, or similar technologies.
+This information allows us to recognize you and personalize your experience if you return to the Site using the same computer or mobile device ** ** and to improve the Site and the services we provide. We and our service providers may collect this information using “cookies,” which are small text files that the Site saves on your computer using your web browser and accesses when you return, or similar technologies.
 
 **How do we use this information?**
 
@@ -37,7 +37,7 @@ We also may combine or aggregate any of the information we collect through the S
 
 We may disclose the information we collect from you through the Site: ****
 
-  * to service providers who work on our behalf, including, but not limited to, service providers who help us gather and analyze information about usage of the Site; and deliver marketing communications, promotional materials, or announcements that may be of interest to you; 
+  * to service providers who work on our behalf, including, but not limited to, service providers who help us gather and analyze information about usage of the Site; and deliver marketing communications, promotional materials, or announcements that may be of interest to you;
   * to business partners who may deliver marketing communications, promotional materials, or announcements that may be of interest to you;
   * as required by law, such as to comply with a subpoena or other legal process, or to comply with government reporting obligations;
   * when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of the Site, or your safety or the safety of others, or (b) to detect, prevent, or respond to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Site;
@@ -48,7 +48,7 @@ We may disclose the information we collect from you through the Site: ****
 
 In addition, we may share aggregate reports on user demographics and traffic patterns, as well as de-identified information, with third parties.
 
-The Site also may contain links to websites published by third parties.  You acknowledge and agree that we are not responsible for the collection and use of your information by such websites that are not under our control. We encourage you to review the privacy policies of each website you visit.
+The Site also may contain links to websites published by third parties.  You acknowledge and agree that we are not responsible for the collection and use of your information by such websites that are not under our control. We encourage you to review the privacy policies of each website you visit.
 
 **Where is this information stored?**
 
@@ -56,20 +56,20 @@ Information collected through the Site may be processed and stored outside of yo
 
 **How is your information secured?**
 
-We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected by the Site. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Moreover, we are not responsible for the security of information you transmit to the Site over networks that we do not control, including the internet and wireless networks. ****
+We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected by the Site. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Moreover, we are not responsible for the security of information you transmit to the Site over networks that we do not control, including the internet and wireless networks. ****
 
 **Your choices**
 
-If **** your contact information changes, if you no longer wish to receive marketing communications from us or to have us share your information with third parties for marketing purposes, or if you wish to change or inquire about the information that you have provided to us through the Site, please submit a request through  [info@lightingafrica.org](mailto:info@lightingafrica.org).
+If ** ** your contact information changes, if you no longer wish to receive marketing communications from us or to have us share your information with third parties for marketing purposes, or if you wish to change or inquire about the information that you have provided to us through the Site, please submit a request through  [info@lightingafrica.org](mailto:info@lightingafrica.org).
 
-If you do not want the Site to collect this information through the use of cookies, you can set your web browser to reject cookies from the Site. Each browser is different, so you should check your browser’s “Help” menu to learn how to change your cookie preferences. If you reject or block cookies from the Site, however, the Site may not function as intended.
+If you do not want the Site to collect this information through the use of cookies, you can set your web browser to reject cookies from the Site. Each browser is different, so you should check your browser’s “Help” menu to learn how to change your cookie preferences. If you reject or block cookies from the Site, however, the Site may not function as intended.
 
 **Changes to this Privacy Policy**
 
-We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If we make any revisions that materially change the ways in which we use or share the information previously collected from you through the Site, we will give you the opportunity to consent to such changes before applying them to that information. ****
+We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If we make any revisions that materially change the ways in which we use or share the information previously collected from you through the Site, we will give you the opportunity to consent to such changes before applying them to that information. ****
 
 **Contact us**
 
-If you have any questions or concerns about this Privacy Policy or our use of your information collected through the Site, please contact us at  [info@lightingafrica.org](mailto:info@lightingafrica.org).
+If you have any questions or concerns about this Privacy Policy or our use of your information collected through the Site, please contact us at [info@lightingafrica.org](mailto:info@lightingafrica.org).
 
-This Privacy Policy was last updated on **12 September, 2013**.
+This Privacy Policy was last updated on  **12 September, 2013**.
