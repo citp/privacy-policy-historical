@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094601id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016055727id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SquishyCash - privacy_policy
 
