@@ -1,22 +1,36 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031082240id_/http%3A//www.yashi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016171409id_/http%3A//yashi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Yashi Media Video Ad Network
+# Privacy Policy | Yashi
 
 Privacy Policy Statement
 
 This is the web site of Yashi, Inc.
 
 Our postal address is:  
-81 East Water Street  
+1433 Hooper Avenue  
 Toms River, NJ 08753
 
-We can be reached through [our contact form](http://www.yashi.com/contact/ "Contact") or you can reach us by telephone at (800) 979-1262. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+We can be reached through [our contact form](http://yashi.com/contact-yashi/ "Contact Yashi") or you can reach us by telephone at (800) 979-1262. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site please find a list of the individual privacy policy links below:
+
+http://exelate.com/privacy/services-privacy-policy/
+
+http://www.spotxchange.com/privacy-policy/
+
+http://www.brightroll.com/privacy/
+
+http://www.adap.tv/privacy
+
+http://www.liverail.com/privacy-policy/
+
+http://www.nexage.com/privacy-policy
+
+These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. Click [here](http://yashi.com/privacy-settings/ "here") if you would like to opt-out of Yashi behavioral advertising.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
 
 The NAI (Network Advertising Initiative) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to provide consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit http://www.networkadvertising.org/index.asp
 
@@ -34,9 +48,6 @@ For further information, consult the privacy policies of: http://www.adjuggler.c
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
