@@ -1,100 +1,49 @@
-> *The following text is extracted and transformed from the talkdesk.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkdesk.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016231051id_/https%3A//www.mytalkdesk.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Talkdesk
 
-**Go Daddy Respects Your Privacy**
+## Talkdesk Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+When You register for a Talkdesk account you can be certain that we have implemented comprehensive security practices to ensure that only You and those people You provide authorized access to can see your account information. We respect your right to privacy and feel it is important for You to know how we handle the information we receive from You via our website at www.talkdesk.com (the “Site”) and through our on-demand support platform, tools and services offered on the Site (the “Service”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Information You Provide
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+When You register for the Service, we ask for information such as your name, company name and address and e-mail address. When you register, You are not required to enter your credit card information until You decide to continue with a paid plan. Talkdesk uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on Talkdesk’s behalf.
 
-**Information Collection and Use**
+You can modify your account information at anytime by clicking on the Admin link in the global navigation bar at the top of the screen. Talkdesk’s practice is not to use such personal information for marketing purposes. Talkdesk may use the collected personal information and other information Talkdesk collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact You about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Talkdesk may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your personal information be transferred from Your current location to the offices and servers of Talkdesk and the authorized third parties referred to here. Although Talkdesk owns the software, code, databases, all rights to the Talkdesk application, You retain all rights to your data.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### Cookies
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+When You visit the Site or use the Service, we use session “cookies” – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while You are logged in and to enable Talkdesk to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the Service. Talkdesk uses persistent cookies that only Talkdesk can read and use, to identify You as a Talkdesk customer and make it easier for You to log in to the Service. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+As You browse Talkdesk, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](https://app.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with Talkdesk. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### Information Sharing
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Except as described in this policy, Talkdesk will not give, sell, rent, or loan any identifiable personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. Talkdesk may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### Children’s Personal Information
 
-**Security**
+The Service and Site are not intended for, nor does Talkdesk knowingly collect any personally identifiable information from children under the age of 13.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Protection of Information
 
-**Updating Your Information**
+Talkdesk maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to You and to those You provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Changes to Privacy Policy
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Talkdesk may update this policy from time to time. You can review the most current version of this privacy policy at any time at http://www.talkdesk.com/privacy. Your continued use of the Site or Service constitutes your agreement to be bound by such changes to the privacy policy. Your only remedy, if You do not accept the terms of this privacy policy, is to discontinue use of the Site and Service.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Business Transactions.
 
-      iii.      You may call us at: (480) 505-8800
+Talkdesk may assign or transfer this privacy policy, and your user account and related information and data, to any person or entity that acquires or is merged with Talkdesk.
 
-       iv.      You may fax us at: (480) 505-8844
+### Terms of Service.
 
-**Sending Emails**
+When You access and use the Service, You are subject to the [Talkdesk Terms of Service](https://web.archive.org/terms).
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+### Contact Us
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If You have questions regarding this privacy policy or about the security practices of Talkdesk, please contact us by email at hello@talkdesk.com.
