@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030626id_/http%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016094335id_/http%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
 
 # UserTesting Privacy Policy
 
@@ -133,11 +133,11 @@ For any changes to this privacy policy for which you are required to provide pri
 
 You can enable your browser to refuse cookies, but doing so may disable access to our services. Refer to your [web browser’s configuration documentation](http://www.aboutcookies.org/Default.aspx?page=1) to learn how to do this. Enabling cookies ensures a smoother experience when using our websites. By using our websites and agreeing to this privacy policy, you expressly consent to the use of cookies as described in this policy. 
 
-    * **Blogs and Forums.** Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site. To request removal of your personal information from our blog or community forum, contact us at [support at usertesting dot com](mailto:support@usertesting.com). In some cases, we may not be able to fulfill your request and we will let you know why. 
+    * **Blogs and Forums.** Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site. To request removal of your personal information from our blog or community forum, contact us at [support@usertesting.com](mailto:support@usertesting.com). In some cases, we may not be able to fulfill your request and we will let you know why. 
 
     * **Social Media Features.** Our websites may include social media features or widgets, such as the Facebook Like button. Use of these features may allow them to collect your IP address, detect which page you are visiting on our site, and set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the third party providing it. 
 
-    * **Safety of Minors and COPPA.** Our services are not intended for and may not be used by those under the age of 18. Usertesting does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at [support at usertesting dot com](mailto:support@usertesting.com). 
+    * **Safety of Children and COPPA.** Our services are not intended for and may not be used by those under the age of 13. UserTesting.com does not knowingly collect personal data from minors under 13 or allow them to register. If it comes to our attention that we have collected personal data from a minor under 13, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at [support@usertesting.com](mailto:support@usertesting.com). 
 
   6. Additional Information for European Union users
 
@@ -145,7 +145,7 @@ UserTesting provides some of its services to users in the EU.
 
     * **"Personal data".** For users located in the EU, references to "personal information" in this policy are equivalent to what is commonly referred to as "personal data" in the EU. 
 
-    * **Accessing and correcting your personal data.** You have the right to access and correct the personal information that Usertesting holds about you. This right may be exercised by emailing [support at usertesting dot com](mailto:support@usertesting.com). 
+    * **Accessing and correcting your personal data.** You have the right to access and correct the personal information that Usertesting holds about you. This right may be exercised by emailing [support@usertesting.com](mailto:support@usertesting.com). 
 
 
 
@@ -169,6 +169,6 @@ By clicking "I Agree" or any other button indicating your acceptance of this pri
 
 
 
-If you have any questions about our privacy policy, please contact us at [support at usertesting dot com](mailto:support@usertesting.com). 
+If you have any questions about our privacy policy, please contact us at [support@usertesting.com](mailto:support@usertesting.com). 
 
-Last updated: October 3, 2013
+Last updated: July 11, 2014
