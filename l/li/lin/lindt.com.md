@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindt.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429080844id_/http%3A//www.lindt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindt.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017072751id_/http%3A//www.lindt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy > Lindt & Sprüngli, Maître chocolatier suisse depuis 1845
 
