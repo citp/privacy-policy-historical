@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classictravel.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006074113id_/http%3A//www.classictravel.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classictravel.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017091644id_/http%3A//www.classictravel.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Policy - Your Privacy is Important to Us
 
