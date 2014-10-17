@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124232id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurosciencenews.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017034656id_/http%3A//neurosciencenews.com/neuroscience-news-privacy-policy) for the most accurate reproduction.*
 
 # Neuroscience News Privacy Policy | Neuroscience News Research Articles | Neuroscience Social Network
 
