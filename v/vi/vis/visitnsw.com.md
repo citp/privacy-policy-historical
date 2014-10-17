@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506144721id_/http%3A//www.visitnsw.com/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017103314id_/http%3A//www.visitnsw.com/privacy) for the most accurate reproduction.*
 
-# Privacy | VisitNSW.com | VisitNSW.com
+# Visit NSW Privacy Policy | VisitNSW.com
 
 Destination NSW is committed to maintaining your privacy.
 
@@ -22,7 +22,7 @@ There are risks associated with the transmission of information over the Interne
 
 Destination NSW can of course provide you with an alternative means of dealing with it, or transacting business with it, if you feel uncomfortable with the electronic transmission of information.
 
-Destination NSW and its tourism and event partners may use "Cookies" to store your preferences, record usage patterns and information and collect various other information on how you visit and access Destination NSWâs web pages, newsletters and other digital assets. 
+Destination NSW and its tourism and event partners may use "Cookies" to store your preferences, record usage patterns and information and collect various other information on how you visit and access Destination NSW's web pages, newsletters and other digital assets. 
 
 This information allows Destination NSW to update various digital assets for your continued use and benefit. 
 
@@ -32,7 +32,7 @@ Cookies can make the web more useful by storing information about your preferenc
 
 The use of cookies is an industry standard and many websites use them to provide useful features for you such as tailored advertising. Cookies do not personally identify you, only your computer.
 
-If you wish not to use Cookies, actions can be undertaken to delete Cookies from your computer at any time. Please see your internet browser's help menu for more information or visit your control panel â ânetwork and internetâ.
+If you wish not to use Cookies, actions can be undertaken to delete Cookies from your computer at any time. Please see your internet browser's help menu for more information or visit your control panel network and internet.
 
 ### How you can access your personal information
 
@@ -56,7 +56,7 @@ These sections cover Accommodation, Tours, Attractions, Events, and Hire. Destin
 
 ### E-newsletters
 
-Destination NSW collects your personal information in order to send you the free âEscapesâ and âViva Sydney Clubâ e-newsletters that contain new and exciting information about travel, events, and special offers. The provision of your personal information is voluntary. Should you not wish to provide your personal information we will be unable to send you the newsletters. Any personal information that you provide to us can be deleted at any time by unsubscribing. At no point will Destination NSW divulge this information to third parties. Destination NSW also collects your information for specific market research and to determine if there are any demographic trends in the way the consumers use the travel information and book travel products. This information is aggregated as statistical information and the analysis allows us to deliver more exciting and competitive holiday destinations that in turn allow the tourism industry in this state to grow.
+Destination NSW collects your personal information in order to send you the free Escapes and Viva Sydney Club e-newsletters that contain new and exciting information about travel, events, and special offers. The provision of your personal information is voluntary. Should you not wish to provide your personal information we will be unable to send you the newsletters. Any personal information that you provide to us can be deleted at any time by unsubscribing. At no point will Destination NSW divulge this information to third parties. Destination NSW also collects your information for specific market research and to determine if there are any demographic trends in the way the consumers use the travel information and book travel products. This information is aggregated as statistical information and the analysis allows us to deliver more exciting and competitive holiday destinations that in turn allow the tourism industry in this state to grow.
 
 Should you wish to unsubscribe to the Escapes or Viva Sydney Club newsletter, click on the link at the bottom of an Escapes or Viva Sydney Club e-newsletter and we will not send any further material to you. Should you wish to unsubscribe, the date of unsubscription is retained against your e-mail address as evidence of our compliance with the Spam Act.
 
