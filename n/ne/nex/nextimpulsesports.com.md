@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextimpulsesports.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120119id_/http%3A//nextimpulsesports.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextimpulsesports.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017070459id_/http%3A//nextimpulsesports.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,3 +40,5 @@ Conditions of Use
 If you decide to visit NextImpulseSports.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.  
 Effective Date of this Privacy Policy  
 This Privacy Policy is effective as of September, 2010 and last updated October 28, 2010.
+
+[Powered by Sidelines](http://sidelinesapp.com/)
