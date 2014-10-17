@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frompo.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612065655id_/http%3A//frompo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frompo.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017050011id_/http%3A//frompo.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
