@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619023422id_/http%3A//whova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018005316id_/http%3A//www.whova.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ Whova Inc provides Services through whova.com web pages and Whova apps to you su
 
 #### 1\. Information Available in Whova Services
 
-Whova aggregates publicly available information from company web pages, university web pages, news pages, public social network profiles, publication databases, patent databases, and other public sources (“Public Information”). This Public Information is available to public directly from those sources (even without Whova). Whova does not verify and cannot guarantee the accuracy of this Public Information. For certain social network websites, such as linkedin.com, Whova will only get and show information if users provided corresponding login credentials. 
+Whova aggregates publicly available information from company web pages, university web pages, news pages, public social network profiles, publication databases, patent databases, and other public sources (“Public Information”). This Public Information is available to public directly from those sources (even without Whova). Whova does not verify and cannot guarantee the accuracy of this Public Information. For certain social network websites, Whova will only get and show information if users provided corresponding login credentials. It is user's responsibility to validate and revise his own profile information in the Whova app. 
 
 #### 2\. Remove your information from Whova Services
 
-You have a choice to remove your information from Whova services by contacting us at support@whova.com. After verification (we will need you to verify that you are removing your own information instead of others), we remove your information from Whova Service. Note that since Whova collects information from Internet, having information removed from Whova Service does not mean that it is removed from its original data sources. 
+You have a choice to remove your information from Whova services by contacting us at support@whova.com. After verification (we will need you to verify that you are removing your own information instead of others), we remove your information from Whova Service. Note that since Whova collects information from Internet, having information removed from Whova Service does not mean that it is removed from its original data sources. In the Whova app, user can also validate and revise his own profile. 
 
 #### 3\. Personal Information Whova Collects
 
