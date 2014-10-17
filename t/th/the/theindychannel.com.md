@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074401id_/http%3A//www.theindychannel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017061555id_/http%3A//www.theindychannel.com/about/privacy-policy) for the most accurate reproduction.*
 
-# RTV6 - Privacy Policy - Story
+# Privacy Policy - TheIndyChannel.com
 
 PRIVACY POLICY  
 (Last Modified & Effective July 18, 2013)
@@ -75,5 +75,3 @@ We will respond to your request and, if applicable and appropriate, make the req
 J. SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
-
-Copyright 2012 Scripps Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. 
