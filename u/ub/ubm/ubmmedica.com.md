@@ -1,37 +1,44 @@
-> *The following text is extracted and transformed from the ubmmedica.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418085209id_/http%3A//www.ubmmedica.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubmmedica.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017181316id_/http%3A//www.ubm.com/site-services/privacy.aspx) for the most accurate reproduction.*
 
-# UBM Medica : Privacy Policy
+# UBM - Privacy policy
 
-Thank you for using www.ubmmedica.com **(the "Website")**. We are committed to protecting your right to privacy as a consumer of our online services. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us. By using and continuing to use this Website, you consent to the collection, use and transfer of your information under the terms of this Privacy Policy. 
+Skip to main content
 
-If you do not agree to this Privacy Policy, please do not provide your personal details to us. We may need to update this Privacy Policy from time to time and when we do so we will place a notice on the Website to indicate this has happened. We recommend that you regularly check this page to ensure that you have read the most recent version. 
+## Use of information
 
-In this Privacy Policy, " **UBM Medica** " means UBM Medica Limited (registered company number:00370721). The address from which we provide these online services is: UBM Medica, Ludgate House, 245 Blackfriars Road, London SE1 9UY. 
+The pages on the website (“the website”) are published by Investis Limited (“us” or “we”) on behalf of UBM plc. 
 
-The information you provide to us will be held on [UBM Medica](http://www.ubmmedica.com/) computers that are based in the UK. [UBM Medica](http://www.cmpedica.com/) processes personal data in accordance with the Data Protection Act 1998. This Privacy Policy only relates to the Website service and does not extend to your use of the Internet outside of the Website. 
+Investis Limited (“us” or “we”) will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are: 
 
-**DataCollection**
-
-**What data do we collect?**
-
-The data we collect within the Website is to enable us to communicate directly with you about your specific business requirements. This includes your name, contact details. This is your personal information. 
-
-We will collect, use or disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend us or other third parties against error, negligence, breach of contract, theft fraud and other illegal or harmful activity, to comply with our audit and security requirements, and to audit compliance with our corporate policies, procedures, legal and contractual obligations. Your personal card data will not be stored alongside your other personal data and will only be accessed for the purpose of processing refunds in a secure and controlled basis. 
-
-**What do we do with it?**
-
-The personal information you provide within the Website is used as follows: 
-
-  * to communicate with you about all UBM Medica services 
-  * to provide you with access to all parts of our Website and to supply the goods or services you have requested 
-  * to tell you about changes in our services or about features we think you may find interesting 
+  * Your name 
+  * Your mobile telephone number 
+  * Your email address 
+  * Your occupation
 
 
 
-In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us. In addition, to maintaincustomer service standards and to assist staff training, we may record and monitor incoming calls. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent. 
+The information collected will be used to send you the information you have requested and to provide information that may be useful to you.
 
-**Our commitment to security**
+We may share non-personal aggregate statistics (group) data about our site visitors’ traffic patterns with partners or other parties. However, we do not sell or share any information about individual users. 
 
-We have taken all appropriate action to safeguard and prevent unauthorised access to personal data, to maintain data security and to ensure that the information we collect online is used only in accordance with the Data Protection Act 1998 and for the purpose(s) outlined above. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties. 
+## ‘Cookies’
 
-For further information or to edit your personal information please contact: [phill.callow@ubm.com](http://www.ubmmedica.com/#mce_temp_url#)
+We use cookies on this site when users first enter the site. This ensures that on subsequent visits, if the cookie has not been deleted, users will not be asked to re-register. Cookies are small pieces of information that are stored on your computer by the server maintaining and operating the site. They do not compromise your privacy or security as they store a randomly generated identifying tag on your computer.
+
+The cookie information does not include personal data such as name, age, phone number, email address or mailing address. In addition, we do not link cookies to personal data such as name, age, phone number, email address or mailing address. Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to stop cookies being placed on your terminal equipment – please refer to your specific Internet browser for instructions.
+
+## Google analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browse. However, please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+## Your rights
+
+In addition to the company’s safeguards, your personal data is protected in the UK by the Data Protection Act. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and correct any inaccuracies online. You can do this by using the “login” link at the beginning of the Alerting Service page. 
+
+## Policy changes
+
+Any changes to this policy will be posted here. 
+
+## Security
+
+Investis Limited treats all the data held with the utmost care and security. Any details you give will remain completely confidential. 
