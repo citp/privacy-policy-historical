@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517173806id_/http%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017182546id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Westminster City Council
 
@@ -14,7 +14,7 @@ There are various reasons that we need to collect personal data. For example, we
 
 ### Allowing your details to be used across other council services
 
-We're in the process of transforming our services in line with the Council's One City Vision. This is part of our commitment to improve the quality of people's experience when they contact us.
+We're in the process of transforming our services in line with the[ Better City, Better Lives](https://www.westminster.gov.uk/better-city-better-lives) 5 year programme. This is part of our commitment to improve the quality of people's experience when they contact us.
 
 We all get frustrated on occasion when we have to repeat the same basic information over and over again. Because of this, we're focussing on making it easy for people to do business with us, whenever and however they choose, all through a single contact, which should remember the relevant information.
 
@@ -40,7 +40,12 @@ Other Cookies - we use Google Analytics on our site in order to know what is of 
 
 ### Cookies - Further Information
 
-Some independent information about cookies is available here: <http://www.allaboutcookies.org/>  or <http://www.aboutcookies.org/>  
+Some independent information about cookies is available below: 
+
+  * [All about cookies](http://www.allaboutcookies.org/)
+  * [About cookies](http://www.aboutcookies.org/)
+
+
 
 ### Access to Information - Data Protection and You
 
