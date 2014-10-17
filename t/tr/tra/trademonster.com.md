@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015093237id_/https%3A//www.trademonster.com/Privacy-Policy/Privacy-Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017135559id_/https%3A//www.trademonster.com/security/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Secure Trading & Privacy - tradeMONSTER
 
-We want to make sure you are aware of our privacy policy.
-
-[](https://web.archive.org/Contact-Us/Leadership-Team.jsp)[](https://web.archive.org/Contact-Us/trademonster-Press-Coverage.jsp)[](https://web.archive.org/Contact-Us/Press-Releases.jsp)[](https://web.archive.org/Contact-Us/Contact-Us.jsp)[](https://web.archive.org/Contact-Us/Service.jsp)
-
-THIS AGREEMENT WAS LAST UPDATED ON August 11, 2011.
+We want to make sure you are aware of our updated [Privacy Policy](https://web.archive.org/forms/OMS_privacy_notice.pdf).
 
 OM Securities LLC® (www.trademonster.com) shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for your privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes OM Securities LLC's policies concerning the use of personal information of all users collected via this web site. 
 
@@ -80,14 +76,14 @@ OM Securities LLC may change this policy from time to time without notice. Any c
 
 About Us
 
-optionMONSTER® Holdings, Inc is a leading provider of market intelligence and analytical commentary on the options markets. OM Securities LLC is a wholly owned subsidiary of optionMONSTER® Holdings, Inc. Our shared vision is to empower retail traders by narrowing the information gap between individuals and professionals, providing comprehensive free educational materials and a state of the art trading platform. 
+tradeMONSTER Group Inc., Inc is a leading provider of market intelligence and analytical commentary on the options markets. OM Securities LLC is a wholly owned subsidiary of tradeMONSTER Group Inc., Inc. Our shared vision is to empower retail traders by narrowing the information gap between individuals and professionals, providing comprehensive free educational materials and a state of the art trading platform. 
 
-Founded in 2006 and based in Chicago, the heart of the options industry, optionMONSTER® Holdings, Inc.'s unique perspective marries high-tech analysis of the day's market activity to the traditional floor trader's savvy. 
+Founded in 2006 and based in Chicago, the heart of the options industry, tradeMONSTER Group Inc.'s unique perspective marries high-tech analysis of the day's market activity to the traditional floor trader's savvy. 
 
 Founded in 2007 and also based in Chicago, OM Securities LLC offers discount brokerage services via a fully disclosed clearing arrangement with Apex Clearing Corporation via the website www.trademonster.com. 
 
 Risk and Disclosure Information
 
-The products and services offered by OM Securities inherently have risk and no warrantee against loss can be provided. All account holders are responsible for understanding the systems, products and limitations of trading. System response and account access times may vary due to a variety of factors, including trading volumes, market volatility, system performance, and other factors. Customers should consider all risk factors including their personal financial situation before trading. Options involve risk and may not be suitable for all investors.
+The products and services offered by OM Securities inherently have risk and no warranty against loss can be provided. All account holders are responsible for understanding the systems, products and limitations of trading. System response and account access times may vary due to a variety of factors, including trading volumes, market volatility, system performance, and other factors. Customers should consider all risk factors including their personal financial situation before trading. Options involve risk and may not be suitable for all investors.
 
-[](https://web.archive.org/am/GettingStarted.action)[](https://web.archive.org/am/GettingStarted.action)
+[ ](https://web.archive.org/accounts/new-account-application.jsp)
