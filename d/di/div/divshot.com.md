@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divshot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073644id_/http%3A//www.divshot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divshot.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017132513id_/https%3A//divshot.com/privacy-policy) for the most accurate reproduction.*
 
 # Divshot - Privacy Policy
 
@@ -32,7 +32,7 @@ We collect anonymous information to make Divshot better.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Divshot’s websites choose to interact with Divshot in ways that require Divshot to gather personally-identifying information. The amount and type of information that Divshot gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Divshot.com](http://www.divshot.com/) to provide a username and email address. Divshot collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Divshot. Divshot does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Divshot’s websites choose to interact with Divshot in ways that require Divshot to gather personally-identifying information. The amount and type of information that Divshot gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Divshot.com](https://divshot.com/) to provide a username and email address. Divshot collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Divshot. Divshot does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ##### Basically,
 
