@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgadgetsweb.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325072532id_/http%3A//www.techgadgetsweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgadgetsweb.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017051042id_/http%3A//www.techgadgetsweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
