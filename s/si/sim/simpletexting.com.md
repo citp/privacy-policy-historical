@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612022502id_/http%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017075335id_/http%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - SimpleTexting.com
 
 The following Privacy Statement sets forth the policies for, the collection and use of personally identifiable information (“Information”) by Made Simple Ventures LLC (“SimpleTexting”). This Statement covers the operation of its Web Site http://www.simpletexting.com (the “Site”) and its private label message services, operated on behalf of third parties (its “Clients”) and supersedes any previous statement of such policies. (The Site and private label service, are referred to collectively as the “Business” in this Statement.) SimpleTexting takes its obligations regarding privacy very seriously, and it wants to ensure Clients’ are fully informed about the Information they are providing. “Personally identifiable Information” refers to information that can identify an individual such as a name, or email address. Please address your questions about this Site, or Privacy Statement to privacy@simpletexting.com.
 
