@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415002148id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017034353id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
 
 # Laser Spine Institute Privacy policy
 
