@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dormsmart.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414005552id_/http%3A//www.dormsmart.com/DormSmartcom-Privacy-Policy_ep_56-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dormsmart.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017174525id_/http%3A//www.dormsmart.com/DormSmart-Privacy-Policy.html) for the most accurate reproduction.*
 
 # DormSmart.com Privacy Policy & Security
 
@@ -86,14 +86,14 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on March 12, 2012
+This policy was last modified on May 21, 2014.
 
 Contact Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 DormSmart.com, L.L.C.  
-1401 S. Walton Blvd., Suite 9-143  
+609 SW 8th Street, Suite 600  
 Bentonville, AR 72712  
 United States  
 [customerservice@dormsmart.com](mailto:customerservice@dormsmart.com)  
