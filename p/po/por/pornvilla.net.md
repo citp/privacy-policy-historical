@@ -1,52 +1,67 @@
-> *The following text is extracted and transformed from the pornvilla.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209013054id_/http%3A//pornvilla.tv/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornvilla.net privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017075608id_/http%3A//pornvilla.tv/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Pornvilla | Real Homemade Porn Videos
 
- This document details important information regarding the use and disclosure of User Data collected on Pornvilla.tv
+What information do we collect? 
 
-The security of your Data is very important to Pornvilla.tv and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
 
-DATA COLLECTED
+What do we use your information for? 
 
-  * Personal Information: 
+Any of the information we collect from you may be used in one of the following ways: 
 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-  * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+; To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+; To send periodic emails  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.Cookies: When you visit Pornvilla.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Pornvilla.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.Log File Information: When you visit Pornvilla.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.Emails: If you contact us, we may keep a record of that correspondence. 
+How do we protect your information? 
 
-USES
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-  * Your Personally identifiable information submitted to Pornvilla.com is used to provide to the user the website's features and special personalized features. 
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Pornvilla.com private mail, etc. Other Users can contact you through, private messages. 
-  * Any videos that you submit to Pornvilla.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
-  * OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
-  * OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Pornvilla.com user-experience. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
+Do we use cookies? 
 
-DISCLOSURE OF INFORMATION
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-  * if under duty to do so Pornvilla.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Pornvilla.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Pornvilla.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
-  * Should you deliberately upload any illegal material PormHub.com shall forward all available information to all relevant authorities and this without notice.   
-\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+Do we disclose any information to outside parties? 
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-SECURITY
+Third party links 
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Pornvilla.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pornvilla.com and you do so at your own risk. 
+Childrens Online Privacy Protection Act Compliance 
 
-YOUR RIGHTS
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@Pornvilla.tv.
+Online Privacy Policy Only 
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Your Consent 
+
+By using our site, you consent to our privacy policy.
+
+Changes to our Privacy Policy 
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+pornvilla.tv
+
+This policy is powered by Free Privacy Policy and Rhino Support help desk software.
