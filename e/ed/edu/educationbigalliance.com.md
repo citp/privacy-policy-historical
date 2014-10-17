@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationbigalliance.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525171500id_/http%3A//www.educationbigalliance.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationbigalliance.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017041644id_/http%3A//educationbigalliance.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,4 +94,4 @@
 
     You may direct enquiries to:
 
-    [Contact Form](http://www.educationbigalliance.com/index.php/contact-us)
+    [Contact Form](http://educationbigalliance.com/index.php/contact-us)
