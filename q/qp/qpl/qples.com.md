@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414093419id_/http%3A//www.qples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017045128id_/http%3A//qples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##### **Updated: July 2012**
-
-##### **Qples, Inc. (Qples) and your Privacy**
+**Qples, Inc. (Qples) and your Privacy**
 
 This privacy statement covers the site [www.Qples.com](http://www.qples.com/) and its related websites, services, software applications and products (“Sites”), as well as our clients, advertisers and affiliates (collectively, “Affiliates”). Qples is committed to our users' privacy.  This Privacy Policy is intended to help you understand what personal and non-personal information we collect, how it is protected and used, and how you can control it.
 
