@@ -1,29 +1,35 @@
-> *The following text is extracted and transformed from the niche-articledirectory.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408151547id_/http%3A//www.niche-articledirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niche-articledirectory.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017090208id_/http%3A//www.niche-articledirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Niche-ArticleDirectory.cOm
+# Privacy Policy | Niche Articles Directory
 
-## [Privacy Policy](http://www.niche-articledirectory.com/privacy-policy)
+This following document sets forth the Privacy Policy for the website http://www.niche-articledirectory.com/
 
-**Niche-ArticleDirectory.cOm** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+Niche-Articledirectory.com  is committed to providing you with the best possible customer service experience. Niche-articledirectory.com is bound by the Privacy Act 1988 (Crh), which sets out a number of principles concerning the privacy of individuals.
 
-## Routine Information Collection
+### Collection of your personal information
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+There are many aspects of the site which can be viewed without providing personal information, however, for access to future Niche-articledirectory.com  customer support features you are required to submit personally identifiable information. This may include but not limited to a unique username and password, or provide sensitive information in the recovery of your lost password.
 
-## Cookies and Web Beacons
+### Sharing of your personal information
 
-Where necessary, Niche-ArticleDirectory.cOm uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support enquiries, processing transactions or customer freight shipping. Those companies will be permitted to obtain only the personal information they need to deliver the service. Niche-Articledirectory.com takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+### Use of your personal information
 
-## Controlling Your Privacy
+For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalized content to you while you are at this Site.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
 
-## Contact Information
+### Changes to this Privacy Policy
 
-Concerns or questions about this privacy policy can be directed to yada_yada@live.com for further clarification.
+Niche-Articledirectory.com reserves the right to make amendments to this Privacy Policy at any time. If you have objections to the Privacy Policy, you should not access or use the Site.
 
-This privacy policy was generated by the [Privacy Policy for WordPress](http://www.synclastic.com/plugins/privacy-policy/) plugin.
+### Accessing Your Personal Information
 
-This entry was posted on Wednesday, March 3rd, 2010 at 4:14 pm and is filed under [Articles](http://www.niche-articledirectory.com/category/articles "View all posts in Articles"). You can follow any responses to this entry through the [RSS 2.0](http://www.niche-articledirectory.com/privacy-policy/feed) feed. You can leave a response, or [trackback](http://www.niche-articledirectory.com/privacy-policy/trackback) from your own site. 
+You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. Niche-Articledirectory.com reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
+
+### Contacting us
+
+Niche-Articledirectory.com  welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us by any of the following means during business hours Monday to Friday.
+
+E-mail: privacy-policy@Niche-Articledirectory.com
