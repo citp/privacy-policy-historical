@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thetypingcat.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319192313id_/http%3A//thetypingcat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetypingcat.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017043520id_/http%3A//thetypingcat.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Typing Cat
+# Privacy Policy - The Typing Cat
+
+## Privacy Policy
 
 ### Does application collect information about you?
 
