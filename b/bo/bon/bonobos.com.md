@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonobos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061127id_/http%3A//bonobos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonobos.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017151214id_/http%3A//www.bonobos.com/privacy) for the most accurate reproduction.*
 
 # Bonobos Men's Clothes - Pants, Shirts and Suits
 
