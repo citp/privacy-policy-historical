@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235115id_/http%3A//ubm.com/site-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubm.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017181316id_/http%3A//www.ubm.com/site-services/privacy.aspx) for the most accurate reproduction.*
 
 # UBM - Privacy policy
 
