@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotmed.com privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204013620id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmed.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017100939id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.*
 
 # Legal Information
 
@@ -50,6 +50,10 @@ DOTmed may revise this Privacy Notice from time to time. Any material amendments
 
 Non-Personal Information, such as business or commercial information, is not subject to any protection by DOTmed except, where DOTmed has executed and delivered a separate confidentiality agreement. 
 
+DOTmed and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to your website. 
+
+To opt out of cookie tracking on this website (and others using Google Analytics), please visit: <https://tools.google.com/dlpage/gaoptout/>
+
 Should you have any questions, concerns or requests about our privacy policy, please contact us via e-mail at [info@dotmed.com](mailto:info@dotmed.com) with the term "Privacy Policy" in the subject line. 
 
-Last updated January, 2012
+Last updated July, 2014
