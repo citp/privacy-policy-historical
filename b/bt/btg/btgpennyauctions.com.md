@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btgpennyauctions.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521211913id_/http%3A//btgpennyauctions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btgpennyauctions.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017102741id_/http%3A//www.btgpennyauctions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - BTGPennyAuctions
 
