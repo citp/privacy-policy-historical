@@ -1,127 +1,85 @@
-> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151502id_/http%3A//www.newtechnetwork.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018114707id_/http%3A//www.newtechnetwork.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | New Tech Network
+# Privacy Policy | New Tech Network
 
-Updated August 1, 2009
+**PRIVACY POLICY**  
+ _(Effective & Last Modified August 20, 2014)_
 
-###  **Background**
+  **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE OR OTHER SERVICES THAT WE PROVIDE. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY.**
 
-At New Tech Network (“NTN”), we take the privacy of the participants in our ground-breaking 21st century educational services seriously. Please read this Privacy Statement to learn more about how we treat personally identifiable information. We provide this Privacy Statement because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Statement, please contact our Privacy Director at privacydirector@newtechnetwork.org, or in writing at: Privacy Director, New Tech Network 1040 Main Street Suite 302 Napa, CA 94559
+  The New Technology Networks, LLC and its subsidiaries (“NTN,” “us,” “we,” or “our”) offers you access to its interactive online websites, applications and services. This Privacy Policy, together with our [Terms of Use](http://www.newtechnetwork.org/about/terms-of-service) and any additional terms which might apply to certain products or services, govern your use of our websites and any other online services we provide you (collectively, “Website”).
 
-###  **Online Privacy Standards**
+  We respect your privacy and are committed to protecting the personally identifiable information you provide us through our Website.  We have adopted this Privacy Policy to detail the types of information we collect when you use our Website, how we use the information we collect from you, the instances in which we may share your information with others, and the choices and options you have to restrict our collection and/or sharing of your information.
 
-While there are no official standards governing privacy practices on the internet, we follow the principles supported by the Federal Trade Commission's Fair Information Practices Principles, currently available at http://www.ftc.gov/reports/privacy3/fairinfo.shtm.
+  ** _Special Note for Member School Employees, Agents, and Students:_**  If you are a or student of a Member School (as defined in the Terms of Use) or accessing our Website in connection with your work for a Member School, please note:
 
-###  **What This Statement Covers**
+  ·      The terms set forth in this Privacy Policy are subject to all rights, limitations and restrictions set forth in the Member School Agreement (as defined in the Terms of Use).  We will not use or share any of your information in a manner restricted by the terms of Member School Agreement.  
 
-This Statement covers NTN’s treatment of personally identifiable information that we obtain when you visit our website, www.newtechnetwork.org, and when you become a user of our services through one of our school or school district alliances. We regard personally identifiable information as information that can be used to identify or contact you in person, such as your real name, telephone number, birth date, email address, or physical mailing address.
+  ·      If any of the terms in this Privacy Policy conflict with the terms of the Member School Agreement, the terms in the Member School Agreement will govern.
 
-###  **What This Statement Does Not Cover**
+  ·      We may share your personally identifiable information, Non-PII and any other information we obtain from you via the Website with the applicable Member School.
 
-A key feature of NTN’s services is provided through alliances with partner schools and school districts (“Network Schools”). Please note that this Statement does not cover the privacy practices of third parties that we do not own or control, such as the Network Schools. In addition, we may provide links to other third-party websites that may interest our users. All of these third-party sites, including the Network School sites, operate independently of NTN and they have their own privacy or security practices. For your best on-line experience, we encourage you to review their policies before submitting any personal information to them.
+  **A.         INFORMATION WE COLLECT**
 
-* * *
+Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us.
 
-##  **HOW AND WHAT INFORMATION IS COLLECTED**
+  **(1)   Personally Identifiable Information:  **Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.  For instance, you may provide your name, address, email address, and phone number when registering with our Website, sending us an email, participating in a survey using, or posting a general comment and/or recommendation on our Website.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website. 
 
-###  **Information Provided By Network Schools**
+  **(2)   Non-Personally Identifiable Information:**  Our definition of non-personally identifiable information is any information that does not personally identify you (“Non-PII”).  Non-PII can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain Non-PII about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain Non-PII from you when you access our Website.  This information can include, among other things, IP addresses, the type of browser you are using, the third party website from which your visit originated, the operating system you are using, the domain name of your Internet service provider, the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
-Network Schools provide NTN with information that is necessary for NTN’s system to work for each Network School enrolled in the service. The information provided by Network Schools is limited to faculty name, faculty email address, student name, student email address, student graduation year and, of course, the identity of the Network school itself. Some Network Schools also elect to provide a student identification number to NTN, however, this information is not a requirement of using the NTN services. The information provided by the Network School may be updated from time to time over the course of the program services. 
+  **B.         HOW WE USE & SHARE THE INFORMATION COLLECTED **
 
-###  **Information Provided In Discussion Boards**
+  **(1)   Personally Identifiable Information:** The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products, or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us. 
 
-Information may be provided in a discussion board operated through the service. This information may be collected by NTN. Discussion boards are open forums in which users of the service participate. The information provided in the discussion boards is open for other registered users of the service from a particular Network School depending on the user’s access level. For example, a teacher can view the discussion board activity of all students in that particular teacher’s Network School.
+  In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  
 
-###  **Information Provided In The NTN Resource Library**
+  Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval. 
 
-NTN also maintains an online document library featuring articles and other documents. This library is freely available online, even to those without user accounts, and may be viewed globally by anyone with Internet access. You may submit articles or other documents for inclusion in this library by sending an email. Because of the open nature of the document library, NTN does not advise that you include any personally identifiable information in any submission to the document library.
+  **(2)   Non-PII:** We use Non-PII in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your Non-PII by itself or aggregate it with information we have obtained from others. We may share your Non-PII with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
-###  **Information Provided In A Survey**
+  **C.         COOKIES AND PREFERENCE BASED ADVERTISING**
 
-On occasion, NTN conducts surveys to help evaluate our services and improve the services we provide. The information collected through surveys is voluntary and is treated according to the terms of any particular survey issued by NTN.
+  We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use “cookies” and “web beacons” (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.  “Cookies” are small files that we transfer to your computer's hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. “Web beacons” are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information. 
 
-###  **We Do Not Collect Information Directly Through Our Website**
+Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your activities our Website, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our Website or not); and cookie number. It is important to note that the cookies and Web beacons that we use do not contain and are not tied to personally identifiable information about you. 
 
-Any user can visit our website at www.newtechnetwork.org without providing any identifying information. If you would like to customize your experience and take advantage of many of the features of the NTN service, however, you will first need to be registered through one of our Network Schools.
+If you are concerned about cookies, you may be able to reject or delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. 
 
-* * *
+  **D.         OTHER USES & INFORMATION **
 
-##  **INFORMATION WE DO NOT COLLECT**
+  ( **1)   IP Addresses:** An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.  IP addresses are considered Non-PII and may also be shared as provided above.  It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
 
-###  **Children Between the Ages of 13 and 18**
+  **(2) Email Communications:   **If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.  However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
 
-We recommend that minors over the age of thirteen (13) ask their parents for permission before sending any information about themselves to anyone over the internet. Social Security Number, Physical Address, Birth date. We do not ask for or require your social security number, your physical (real world) address, or your birth date to use any of our services or to access our site. Log Files, Cookies, And The Like. We do not use log files, cookies, clear gifs, web beacons, or other analytic tools to gather information about visitors to our site.
+  **(3) Transfer of Assets:**   As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and Non-PII we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-* * *
+  **(4) Other:** Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or Non-PII about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.
 
-##  **HOW INFORMATION IS USED**
+  **(5) Your California Privacy Rights:   **Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section I.
 
-###  **In NTN Communications**
+                                                                        **E.          PUBLIC FORUMS **
 
-We use emails and/or prominent notifications on our website as our primary means to inform our users of important announcements and to distribute occasional newsletters.
+  We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and Non-PII about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
 
-###  **System-related Announcements**
+  **F.          CHILDREN **
 
-We use your email address to deliver important system-related announcements. Some examples of system-related announcements include: requests to reset a password, important security or server maintenance updates, or changes to this Privacy Statement. These service-related announcements are considered a fundamental part of NTN’s service, and users cannot opt-out of these email announcements. 
+  The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children, unless you are a student of Member School and have been granted a Membership.  We do not knowingly collect personally identifiable information from children under the age of 13 who do not have a Membership.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information that you wish to have deleted or modified, please contact us at as provided in Section I.
 
-###  **Newsletters**
+  **G.         KEEPING YOUR INFORMATION SECURE **
 
-From time to time, NTN also communicates with users through a periodic newsletter (typically on a quarterly basis). These newsletters are sent by email and include a link back to our website where the newsletter appears. These newsletters are not a mandatory part of NTN’s services. If you do not wish to receive emails containing our newsletter link, please contact our Privacy Director at privacydirector@newtechnetwork.org.
+  We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
-###  **Through Our Websites. Identification Of Users By Username**
+  **H.         OTHER SITES/LINKS **
 
-When using the NTN services through a Network School, users may upload information, such as a homework assignment, to the site. In these circumstances we will identify you by your username. This information is visible only to other users with the appropriate network access level and cannot be viewed system wide.
+  Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
 
-###  **On Our Websites. Messages in Discussion Boards**
+  **I.           CONTACT & OPT-OUT INFORMATION **
 
-Some of our features allow you to communicate with other users involved in your particular project by posting messages to a discussion board. Please be aware that what you write in these discussion boards can be viewed, collected or used by other users who are participating in your particular project . We are not responsible for any personally identifiable information that you submit or permit others to submit through discussion board messages. We strongly encourage you not to post such personally identifiable information to any discussion board.
+  You may contact us as at privacydirector@newtechnetwork.org, or in writing at Privacy Director, New Tech Network 1040 Main Street, Suite 302, Napa, CA 94559, if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
-###  **The NTN Resource Library**
+  We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. 
 
-As noted above, NTN also maintains the online NTN Resource Library featuring articles and other documents. Please be aware that this document library is freely available online, even to those without user accounts, and may be viewed globally by anyone with Internet access. NTN is not responsible for any personally identifiable information that you submit or permit others to submit to the NTN Resource Library. Because of the open nature of the resource library, NTN strongly encourages you not to post personally identifiable information to the NTN Resource Library.
+  **J.**          **SOLE STATEMENT**
 
-###  **With Your School Or School District, Students, and Staff**
-
-While NTN does not share your information with third parties, you should be aware that, at the direction of your Network School, NTN may share your information with your Network School’s employees, staff, and students
-
-###  **With Third Parties. Sharing, Renting, And Selling Information We Collect.**
-
-We do not share, rent or sell personally identifiable information we collect about our users or our user base. Occasionally we share anonymous, non-personal, aggregate information about our user base with NTN’s Partners and in order to promote our service to others. We do not tie this data to your personally identifiable information.
-
-###  **As Necessary In Certain Legal Circumstances. Legal Requirements.**
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
-
-###  **Acquisition or Other Transfer**
-
-If NTN is acquired, all of its assets, including user information, may be transferred to the acquiring company. At that time, your user information, including personally identifiable information, may become subject to the acquiring company’s Privacy Statement. In addition, in the event that we must liquidate our assets due to bankruptcy or other event, we will consider our subscriber and membership information, including personally identifiable information, as a unique asset subject to sale or other transfer. Before we transfer your information under any of these scenarios, we will notify you either by email or by posting a notice on our site.
-
-* * *
-
-##  **HOW INFORMATION IS KEPT SECURE**
-
-###  **Security of User Information**
-
-Your user information is password-protected. We will not share your password with anyone. Please do not share your password with anyone, and remember to change your password from time to time, to keep your user information secure.
-
-###  **Network Security**
-
-We have implemented a variety of commercially standard encryption and security technologies and procedures to protect information, including your personal information, stored in our computer systems from unauthorized access. Please be aware that no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. While we strive to use the most reliable commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-###  **Management Procedures**
-
-We also maintain standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (including people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.
-
-###  **Your Personal Choices**
-
-Sharing Information With Other Users. Your Network School has identified a system administrator who has access to control what personal information about you is shared with other users and what personal information is kept private. Your Network School can add, edit, and delete information stored in your user background. You must contact your Network School’s system administrator to add, edit, and/or delete information in your user background.
-
-###  **Editing, Updating, or Deleting User Profile Information**
-
-You can request changes to or the deletion of your personally identifiable information, by contacting your particular Network School administrator. If you are not sure who to contact at your Network School, please contact our Privacy Director at privacydirector@newtechnetwork.org and/or the mailing address noted in the opening paragraph of this Privacy Statement.
-
-* * *
-
-##  **Updates to Our Privacy Statement**
-
-NTN’s services are evolving and developing. From time to time, we will review and make changes to our Privacy Statement. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our Privacy Statement is always available from a link on our homepage at www.newtechnetwork.org. We encourage you to visit this site frequently to stay up to date on our current Privacy Statement.
+  This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.  
+0013734.0565997   4847-9790-8252v1
