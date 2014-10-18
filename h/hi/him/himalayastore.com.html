@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the himalayastore.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626151133id_/https%3A//www.himalayastore.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the himalayastore.com privacy policy that was archived on 2014-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141018060059id_/http%3A//www.himalayastore.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="csstransforms csstransforms3d csstransitions js"><!-- InstanceBegin template="/Templates/HH-INNER.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<meta http-equiv="expires" content="Thu, 19 Oct 2000 00:00:00 GMT"> 
@@ -20,10 +20,13 @@
 		<link rel="stylesheet" href="css/mediaelementplayer.min.css" media="screen">
         <link rel="stylesheet" type="text/css" href="css/accordin.css">
     	<link rel="stylesheet" href="css/print.css" type="text/css" media="print">
-        <link rel="stylesheet" href="css/Magnific.css" type="text/css">
+	    <link rel="stylesheet" href="css/colorbox.css" type="text/css">
+        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+        
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N4TCRM"></script><script src="js/modernizr.custom.js"></script>
 		<script src="js/jquery-1.7.1.min.js"></script>
-        <script type="text/javascript" src="js/js-shop/CommonFunc.js"></script>
+        <script type="text/javascript" src="js/js-shop/commonfunc.js"></script>
+        <script language="javascript" src="js/js-shop/Optimized.js"></script>  
 	<!--<![endif]-->
     <!--[if lt IE 9]>
 		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
@@ -38,9 +41,11 @@
     </style>
     <!-- InstanceEndEditable -->
 </head>
-<body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 20px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width:0; height:0; overflow:hidden" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
     <script type="text/javascript">
-		IP2Location_Validate_HTML();
+		LoadStaticData();
+		/*CAModule();
+		IP2Location_Validate_HTML();*/
         var dataLayer = [];
     </script>
     
@@ -54,14 +59,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-N4TCRM');</script>
 <!-- End Google Tag Manager -->
 <script type="text/javascript">
-        window.onLoad = InitializeFunc_v1();
 		GetShippingCharge(); 
 		GetCoDCharges();  
 </script>
 <input type="hidden" name="hidproductdiv" id="hidproductdiv">
 <header id="header" class="container" style="z-index:1000;">
 <div id="topfloatinglinks" width="100%" style="z-index:999999999;">
-<div class="floatleft"><img src="images/top-information.gif" border="0" alt="Welcome to the new official online store of The Himalaya Drug Company"></div>
 <div class="floatright">
 	<ul>
     	 <li class="phone">1-800-425-1930</li>
@@ -95,11 +98,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="floatright" style="width:100%;margin-top:-6px;margin-right:-10px;" align="right" id="cartdiv">
 			<div class="floatleft" style="width:98%; height:3em;" align="right">
 			<form id="searchform" method="get" action="#">
-                <fieldset>
-                <div class=" floatleft" style="margin-left:310px;"><a style="cursor:pointer;" class="test-popup-link"><img src="images/icons/video-icon.gif" border="0"></a></div>
+                <fieldset>                
                 <input id="s" type="text" name="s" value="Product Search / Pincode Service Search" onkeyup="return Search_aspx(this.value);" onfocus="return ChangeSearchMode(this.id);" onblur="return ChangeBackSearchMode(this.id);">
                     <div id="divShowSearchResult">
-                        <div style="text-align: center; padding-top: 100px; width:100%;"><img src="images/processing.gif"></div>
+                        <div style="text-align: center; padding-top: 100px; width:100%;"><i class="fa fa-spinner fa-spin"></i></div>
                     </div>
                 </fieldset>
             </form>
@@ -115,7 +117,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<li><a href="allproducts.htm">All Products</a></li>
         <li><img src="img/himalaya/orange-line.jpg" alt="-"></li>
         
-        <li><a href="pureherbs/index.htm">Pure Herbs</a></li>
+       <li><a href="pharmaceuticals/index.htm">Pharmaceuticals</a>
+            <ul>
+                <li><a href="pharmaceuticals/childrens-health.htm">Children's Health</a></li>
+                <li><a href="pharmaceuticals/womens-health.htm">Women's Health</a></li>
+                <li><a href="pharmaceuticals/mens-health.htm">Men's Health</a></li>
+                <li><a href="pharmaceuticals/general-health.htm">General Health</a></li>
+                <li><a href="pureherbs/index.htm">Pure Herbs</a></li>
+                <li><a href="pharmaceuticals/oral-health.htm">Oral Health</a></li>
+                <li><a href="pharmaceuticals/derma-care.htm">Derma Care</a></li>
+            </ul>
+        </li> 
+                        
         <li><img src="img/himalaya/orange-line.jpg" alt="-"></li>
 		<li><a href="personal-care.htm">Personal Care</a>
             <ul>
@@ -134,6 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="babycare/bath.htm">Bath</a></li>
 				<li><a href="babycare/pre-bath.htm">Pre-Bath</a></li>
 				<li><a href="babycare/post-bath.htm">Post-Bath</a></li>
+                <li><a href="babycare/baby-diapers.htm">Baby Diapers</a></li>
             </ul>
             </li>
         <li><img src="img/himalaya/orange-line.jpg" alt="-"></li>
@@ -143,33 +157,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	     </ul>
 	   </li>
         <li><img src="img/himalaya/orange-line.jpg" alt="-"></li>
-  		<li><a href="specials/index.htm">Specials</a></li>
+  		<li><a href="http://himalaya.giftbig.com" target="_blank">e-Gift Card</a></li>
         <li><img src="img/himalaya/orange-line.jpg" alt="-"></li>
   		<li><a href="offers.htm">Offers</a></li>
         <li><img src="img/himalaya/orange-line.jpg" alt="-"></li>
   		<li class="orangetext"><a href="quickorder.aspx">Shop</a></li>
-	</ul><select class="responsive-nav"><option value="" selected="">Navigate...</option><option value="skincare/index.htm">-- Skin Care</option><option value="haircare/index.htm">-- Hair Care</option><option value="oralcare/index.htm">-- Oral Care</option><option value="herbalteas/index.htm">-- Herbal Teas</option><option value="speciality/index.htm">-- Speciality</option><option value="menscare/index.htm">-- Men's Care</option><option value="babycare/baby-kits.htm">-- Baby Kits</option><option value="babycare/bath.htm">-- Bath</option><option value="babycare/pre-bath.htm">-- Pre-Bath</option><option value="babycare/post-bath.htm">-- Post-Bath</option><option value="animalcare/companion.htm">-- Companion</option></select>
+	</ul><select class="responsive-nav"><option value="" selected="">Navigate...</option><option value="pharmaceuticals/childrens-health.htm">-- Children's Health</option><option value="pharmaceuticals/womens-health.htm">-- Women's Health</option><option value="pharmaceuticals/mens-health.htm">-- Men's Health</option><option value="pharmaceuticals/general-health.htm">-- General Health</option><option value="pureherbs/index.htm">-- Pure Herbs</option><option value="pharmaceuticals/oral-health.htm">-- Oral Health</option><option value="pharmaceuticals/derma-care.htm">-- Derma Care</option><option value="skincare/index.htm">-- Skin Care</option><option value="haircare/index.htm">-- Hair Care</option><option value="oralcare/index.htm">-- Oral Care</option><option value="herbalteas/index.htm">-- Herbal Teas</option><option value="speciality/index.htm">-- Speciality</option><option value="menscare/index.htm">-- Men's Care</option><option value="babycare/baby-kits.htm">-- Baby Kits</option><option value="babycare/bath.htm">-- Bath</option><option value="babycare/pre-bath.htm">-- Pre-Bath</option><option value="babycare/post-bath.htm">-- Post-Bath</option><option value="babycare/baby-diapers.htm">-- Baby Diapers</option><option value="animalcare/companion.htm">-- Companion</option></select>
 </nav><!-- end #main-nav -->
 </header><!-- end #header -->
 <!--mobile header start-->
 <div id="mheader" style="z-index:100000;">
-			<div class="menu"><a href="#" id="slide"><img src="images/icons/Menu.png" alt="Open Menu"></a></div>
+			<div class="menu"><a href="#" id="slide"><i class="fa fa-bars fa-3x" title="menu"></i></a></div>
 			<div class="logo"><a href="index.htm"><img src="img/himalaya/hlogo-mobile.jpg" alt="Logo"></a></div>
-			<div class="cart"><a href="quickorder.aspx"><img src="images/icons/shoppingcart.png" alt="Shopping Cart"></a></div>
+			<div class="cart"><a href="quickorder.aspx"><i class="fa fa-shopping-cart fa-3x" title="Shopping Cart"></i></a></div>
 			<div class="cart" style="display:none;" id="MyAccount"> </div>
-            <div class="cart"><a href="#" id="LinkLoginLogout"> <img id="imgLoginLogout" src="images/icons/login.png" alt="Login"> </a></div>
+            <div class="cart"><a href="#" id="LinkLoginLogout"> <i class="fa fa-power-off fa-3x" id="LinkLoginLogout-style" title="Login"></i> </a></div>
 </div>
 <div style="clear: both;"></div>
 <div class="menunav-hidden">
-<div align="right"><p><a href="#" id="slide2"><img src="images/icons/Close.png" alt="Close Menu" width="20px" height="20px"></a></p></div>
-<div class="mobile-cat">
-	<span class="icon"></span>
-	<span class="desc"><a href="pureherbs/index.htm">Pure Herbs</a></span>
+<div align="right"><p><a href="#" id="slide2"><i class="fa fa-times-circle fa-4x" title="Close"></i></a></p></div>
+
+<div class="mobile-cat" id="dhtmlgoodies_q1">
+    <span class="icon"></span>
+    <span class="desc">Pharmaceuticals</span>
 </div>
-<div class="mobile-subcat">
-	<div>
-	</div>	
+<div class="mobile-subcat" id="dhtmlgoodies_a1" style="display: none; height: 1px;">
+    <div class="mobile-subcat_content" id="dhtmlgoodies_ac1" style="top: -294px;">
+        <ul class="arrow">
+                <li><a href="pharmaceuticals/childrens-health.htm">Children's Health</a></li>
+                <li><a href="pharmaceuticals/womens-health.htm">Women's Health</a></li>
+                <li><a href="pharmaceuticals/mens-health.htm">Men's Health</a></li>
+                <li><a href="pharmaceuticals/general-health.htm">General Health</a></li>
+                <li><a href="pureherbs/index.htm">Pure Herbs</a></li>
+                <li><a href="pharmaceuticals/oral-health.htm">Oral Health</a></li>
+                <li><a href="pharmaceuticals/derma-care.htm">Derma Care</a></li>
+            </ul>
+    </div>
 </div>
+
+
 <div class="mobile-cat" id="dhtmlgoodies_q2">
 	<span class="icon"></span>
 	<span class="desc">Personal Care</span>
@@ -190,12 +216,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<span class="desc">Baby Care</span>
 </div>
 <div class="mobile-subcat" id="dhtmlgoodies_a3" style="display: none; height: 1px;">
-	<div class="mobile-subcat_content" id="dhtmlgoodies_ac3" style="top: -168px;">
+	<div class="mobile-subcat_content" id="dhtmlgoodies_ac3" style="top: -210px;">
 		<ul class="arrow">
 			<li><a href="babycare/baby-kits.htm">Baby Kits</a></li>
 			<li><a href="babycare/bath.htm">Bath</a></li>
 			<li><a href="babycare/pre-bath.htm">Pre-Bath</a></li>
 			<li><a href="babycare/post-bath.htm">Post-Bath</a></li>
+            <li><a href="babycare/baby-diapers.htm">Baby Diapers</a></li>
 		</ul>		
 	</div>	
 </div>
@@ -212,7 +239,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="mobile-cat" id="dhtmlgoodies_q5">
 	<span class="icon"></span>
-	<span class="desc"><a href="specials/index.htm">Specials</a></span>
+	<span class="desc"><a href="http://himalaya.giftbig.com" target="_blank">e-Gift Card</a></span> 
 </div>
 <div class="mobile-subcat" id="dhtmlgoodies_a5" style="display: none; height: 1px;">
 	<div class="mobile-subcat_content" id="dhtmlgoodies_ac5" style="top: 0px;">
@@ -253,22 +280,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="mheader1">
            <form id="searchform-m" method="get" action="#">
                 <fieldset>
-                <div class="floatleft video-img"><a class="test-popup-link" style="cursor:pointer;"><img src="images/icons/video-icon.gif" border="0"></a></div>
                 <input id="Text1" type="text" name="Text1" value="Product Search / Pincode Service Search" onkeyup="return Search(this.value);" onfocus="return ChangeSearchMode(this.id);" onblur="return ChangeBackSearchMode(this.id);">
                     <div id="divShowMobileSearchResult">
-	                    <div style="text-align: center; padding-top: 100px; width:100%;"><img src="images/processing.gif"></div> 
+	                    <div style="text-align: center; padding-top: 100px; width:100%;"><i class="fa fa-spinner fa-spin"></i></div> 
                     </div>
                 </fieldset>
 		</form>
 </div>
 <div class="clearfix"></div> 
 <div class="floatleft" style="width: 100%; margin-left: 1px;">
-            <div class="floatleft quotesimg">
-                <img src="images/icons/consumer-speak1.png">
-            </div>
-            <div id="quotes">
-            </div>
-            <div class="floatleft wishes"></div>
+   <div class="floatleft quotesimg"></div>
+	<div class="wishes"></div>                        
 </div>    
     <div class="clearfix"></div> 
 <!-- InstanceBeginEditable name="image content" -->
@@ -320,6 +342,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
                 <div class="floatleft" style="width: 20%">&nbsp;</div>
                 <div class="floatright" style="width:55%">
+                <div class="floatleft">
                 <form action="http://himalayahealthcare.us2.list-manage2.com/subscribe/post?u=6bdf30585988b3f81fadff4d9&amp;id=325e4ef9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
                     <div class="floatright">
                     <label for="mce-EMAIL">Subscribe to our mailing list</label>
@@ -331,14 +354,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <input type="text" name="b_6bdf30585988b3f81fadff4d9_325e4ef9f8" value="">
                     </div>
                    </form>
-                        
-            <div style="width:20%;height:10px;position:relative;float:left">&nbsp;&nbsp;</div>            
-            <div>
-            	<div class="alignright">
-                	<a href="javascript:openLogo('M_TheHDC_9821')"><img border="0" src="https://www.ccavenue.com/images/460.gif"></a>
-                </div>
-    			<div class="alignright"><img border="0" src="images/icons/COD-footer.jpg" title="Cash on Delivery" alt="Cash on Delivery"></div>
-            </div>
+                   </div>
+                   
+                <div class="clearfix"></div>
+                <div class="floatleft">
+                    <div class="quotesimg"><i class="fa fa-comment-o fa-3x"></i></div>
+                    <div id="quotes" style="margin-top:20px;"><div class="floatleft quotestext"><span class="customername">Mr.&nbsp;Madan Agarwal</span> says - <em>Excellent products
+Excellent service
+God bless you</em> - <a href="consumerspeak.aspx">read more...</a></div></div>
+                </div> 
+                
+            <div style="width:20%;height:10px;position:relative;float:left">&nbsp;&nbsp;</div>                        
         </div>
          <div class="copyright" style="width: 98%">
                 <div class="copy1">Copyright © 2014 The Himalaya Drug Company.</div>
@@ -387,6 +413,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
                 <div class="floatleft" style="width: 20%">&nbsp;</div>
                 <div class="floatleft" style="width: 100%">
+	                <div class="floatleft">
                     <form action="http://himalayahealthcare.us2.list-manage2.com/subscribe/post?u=6bdf30585988b3f81fadff4d9&amp;id=325e4ef9f8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
                         <label for="mce-EMAIL">Subscribe to our mailing list</label>
                         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email" required="">
@@ -396,12 +423,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div><br>
                             <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="smallbutton"></div>
                     </form>
+                    </div>
+                        <div class="clearfix"></div>
+                        <div class="floatleft" id="mquotes"><div class="floatleft quotestext"><i class="fa fa-comment-o fa-3x"></i>&nbsp;&nbsp;<span class="customername">Mr.&nbsp;Madan Agarwal</span> says - <em>Excellent products
+Excellent service
+God bless you</em> - <a href="consumerspeak.aspx">read more...</a></div></div>
+                                          
                 </div>                      
-                <div class="aligncenter">
-                	<a href="javascript:openLogo('M_TheHDC_9821')"><img border="0" src="https://www.ccavenue.com/images/460.gif"></a>
-                </div>
-    			<div class="aligncenter"><img border="0" src="images/icons/COD-footer-mobile.jpg" title="Cash on Delivery" alt="Cash on Delivery"></div>
-                                
 			</div>
 	</div>	
      <div class="copyright" style="width: 98%">
@@ -433,7 +461,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script src="js/process.js"></script>
 	<script type="text/javascript" src="js/accordin.js"></script>
     <script type="text/javascript" src="js/jquery.collapse.js"></script> 	
-	<script type="text/javascript" src="js/js-shop/Magnific.js"></script>        
+    <script type="text/javascript" src="js/jquery.colorbox.js"></script>
+        
             <script>
 			$(document).ready(function(){				
 				$('#slide').click(function(){
@@ -472,19 +501,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 }
             }); 
 			});	
-			$('.test-popup-link').magnificPopup({
-                items: {
-                    src: 'https://www.youtube.com/watch?v=Du5fL9JrbzM',
-                    type: 'iframe'
-                }
-                // (optionally) other options
-            });
-			function openLogo(ClientID)
-			{
-				var attributes = 'toolbar=0,location=0,directories=0,status=0, menubar=0,scrollbars=1,resizable=1,width=550,height=600,left=0,top=0';
-				sealWin=window.open('https://www.ccavenue.com/verifySeal.jsp?ClientID='+ClientID ,'win',attributes);
-				self.name = 'mainWin';
-			}					
+			
 	</script>
 	<!-- InstanceBeginEditable name="Extra-javascript" -->
     <!-- InstanceEndEditable --><!--<![endif]-->
