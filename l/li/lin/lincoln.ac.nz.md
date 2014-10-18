@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081328id_/http%3A//www.lincoln.ac.nz/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019013820id_/http%3A//www.lincoln.ac.nz/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -6,7 +6,7 @@ The collection, use, storage, disclosure and correction of personal information 
 
 It collects, stores, uses and discloses personal information about individuals in the following circumstances:
 
-## Collection of iformation
+## Collection of information
 
 **Automatically logged information**
 
@@ -34,7 +34,7 @@ The University takes all reasonable precautions to guard against unauthorised ac
 
 A cookie is a very small text file that is sent to your browser from our web server and stored on your computer hard drive. The text file is sent back to the server each time the browser requests a page from the server. Cookies help us to provide the user with a customised experience without having to remind us of his/her preferences each time he/she returns to our web pages. Cookies cannot damage files, nor can they read information from the hard drive of a computer. It is possible to disable the acceptance of cookies by your web browser. However, doing so may restrict your ability to access some web pages.
 
-## Use ofpersonal information
+## Use of personal information
 
 Personal information you supply to us through the use of online forms, email, online surveys and feedback will be used for the purposes of the University including student administration matters, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates.
 
