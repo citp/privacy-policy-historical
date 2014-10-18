@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209171804id_/http%3A//www.skis.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018103640id_/http%3A//www.skis.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Skis.com Privacy Policies
 
@@ -34,7 +34,7 @@ This section describes how we use and disclose the information we collect.
 
 We use aggregate information about your behavior and equipment to improve the performance of our Web site, and to evaluate your reaction to the content and design of our Web site. We may use personally identifiable information to customize the content and layout of our Web site's pages for you, to store your Skis.com account information, to record Skis.com Web site session information (such as items you have added to your shopping cart) order status, and to store your purchase history.
 
-We also use personally identifiable and aggregate information for a variety of marketing and promotional purposes. For instance, we use what we have learned about your preferences to alert you to new areas when you return to our Web site, or to help us or our business partners target advertising or product placements to your particular interests. 
+We also use personally identifiable and aggregate information for a variety of marketing and promotional purposes. For instance, we use what we have learned about your preferences to alert you to new areas when you return to our Web site, or to help us or our business partners target advertising or product placements to your particular interests. Some analytics regarding shopping patterns may be used for remarketing campaigns and reporting but none of this data will personally identify shoppers and will not be sold to a third party. 
 
 From time to time we will send you emails related to the Skis.com Web site. At various points during your visits to Skis.com, you are provided opportunities to indicate an interest in receiving email about special offers and other promotional information. If you do not wish to receive special offers and promotional information emails from us, please let us know by unchecking the "email notification" request box on the Skis.com Web site. You may also opt out of this promotional email list after you have registered by contacting us, or by following the "opt out" instructions that may be included in the emails you receive. 
 
