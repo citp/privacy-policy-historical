@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924140253id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018202012id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -6,24 +6,24 @@
 
 [ ](http://healthypeople.gov/2020/badges/People_Square/People_Square.aspx?WT.mc_id=PEOPLESQUARE "We Support a Healthier Future - Healthy People 2020")
 
-healthfinder.gov is a government Web site offering reliable information and tools to help you and those you care about stay healthy. When you visit our Web site, we do not collect any personal information about you unless you choose to provide that information to us. 
+healthfinder.gov is a government website offering reliable information and tools to help you and those you care about stay healthy. When you visit our website, we do not collect any personal information about you unless you choose to provide that information to us. 
 
-healthfinder.gov links to other Web sites. Once you leave the healthfinder.gov site to visit a linked site, the privacy policy of that site applies. 
+healthfinder.gov links to other websites. Once you leave the healthfinder.gov site to visit a linked site, the privacy policy of that site applies. 
 
 ## Personal Information
 
-You do not have to give any personal information to visit this Web site.
+You do not have to give any personal information to visit this website.
 
 If you choose to give information about yourself in an e-mail message, form, or survey, we will only keep the information as long as needed to respond to your question. 
 
 ## Information Automatically Collected and Stored in Web Server Logs
 
-When you browse through any Web site, some information about you can be collected. Our Web server software automatically collects and temporarily stores the following information about each visit: 
+When you browse through any website, some information about you can be collected. Our Web server software automatically collects and temporarily stores the following information about each visit: 
 
   * the name of the domain you use to access the Internet (for example, aol.com, if you are using an America Online account, or stanford.edu, if you are connecting from Stanford University's domain ? we do not collect your full email address); 
   * the date and time of the visit; 
   * the pages visited; and
-  * the address of the Web site you came from when you came to visit.
+  * the address of the website you came from when you came to visit.
 
 
 
@@ -31,7 +31,7 @@ We use this information for statistical purposes and to help us make our site mo
 
 ## Disclosure
 
-The [U.S. Department of Health and Human Services](http://www.hhs.gov/), of which the healthfinder.gov Web site is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by law. 
+The [U.S. Department of Health and Human Services](http://www.hhs.gov/), of which the healthfinder.gov website is a part, does not disclose, give, sell, or transfer any personal information about visitors, unless required for law enforcement or by law. 
 
 ## Intrusion Detection
 
@@ -43,4 +43,4 @@ For site security purposes and to ensure that this service remains available to 
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
 
-You may also wish to review our [disclaimers](https://web.archive.org/web/20130924140253id_/http%3A//www.healthfinder.gov/aboutus/Disclaimer.aspx).
+You may also wish to review our [disclaimers](https://web.archive.org/web/20141018202012id_/http%3A//www.healthfinder.gov/aboutus/Disclaimer.aspx).
