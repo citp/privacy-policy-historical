@@ -1,0 +1,1707 @@
+<!--The following is the downloaded HTML source of the wallbuilders.com privacy policy that was archived on 2014-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141018220118id_/http%3A//wallbuilders.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+		<title>WallBuilders - Privacy Policy</title>
+				<link href="style.css" rel="stylesheet" type="text/css">
+		  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	window.onload = function(){
+		if (self.init)
+			init();
+	}
+  
+	/*
+	function menuOver(divID) {
+		var theDiv = document.getElementById(divID + "SUB");
+		var theA = document.getElementById(divID);
+		theDiv.style.zIndex = 99;
+		theDiv.style.display = "";
+		theA.style.backgroundColor = "#F0F0F0";
+	}
+	function menuOut(divID) {
+		var theDiv = document.getElementById(divID + "SUB");
+		var theA = document.getElementById(divID);
+		theDiv.style.zIndex = -1;
+		theDiv.style.display = "none";
+		theA.style.backgroundColor = "";
+	}
+	*/
+	function menuOverTab(divID) {
+		/*if (!e) var e = window.event;
+		var tg = (window.event) ? e.srcElement : e.target;
+		if (tg.id != divID && tg.id != (divID + "SUB")) return;
+		*/
+		var theDiv = document.getElementById(divID + "SUB");
+		var theA = document.getElementById(divID);
+		theDiv.style.zIndex = 1;
+		theDiv.style.visibility = "visible";
+		//theDiv.style.display = "";
+		theA.src = "images/btn" + divID + "-over.gif";
+	}
+	function menuOutTab(divID) {
+		/*if (!e) var e = window.event;
+		var tg = (window.event) ? e.srcElement : e.target;		
+		if (tg.id != divID && tg.id != (divID + "SUB")) return;
+		*/
+		var theDiv = document.getElementById(divID + "SUB");
+		var theA = document.getElementById(divID);
+		theDiv.style.zIndex = -1;
+		theDiv.style.visibility = "hidden";
+		//theDiv.style.display = "none";
+		theA.src = "images/btn" + divID + ".gif";
+	}
+	function menuOverTabSub(divID,divIDSub,rowCnt){
+		menuOverTab(divID)
+		var theDiv = document.getElementById(divIDSub);
+		var theA = document.getElementById(divIDSub + "A");
+		if(theA){theA.className = "subDivTab2Over"}
+		theDiv.style.zIndex = 1;
+		theDiv.style.visibility = "visible";
+		theDiv.style.top = "0px" //(24 * rowCnt) + "px";
+		menuOverFlag = 1
+	}
+	function menuOutTabSub(divID,divIDSub,rowCnt) {
+		menuOutTab(divID)
+		var theDiv = document.getElementById(divIDSub);
+		var theA = document.getElementById(divIDSub + "A");
+		if(theA){theA.className = "subDivTab2Out"}
+		theDiv.style.zIndex = -1;
+		theDiv.style.visibility = "hidden";
+		theDiv.style.top = "-1000px";
+		menuOverFlag = 0
+	}
+	function menuOverTabSubL(divIDSub){
+		var theDiv = document.getElementById(divIDSub);
+		var theA = document.getElementById(divIDSub + "A");
+		if(theA){theA.className = "subDivTab2OverL"}
+		theDiv.style.zIndex = 1;
+		theDiv.style.visibility = "visible";
+		theDiv.style.top = "0px" //(24 * rowCnt) + "px";
+		menuOverFlag = 1
+		captureEventY = 263
+	}
+	function menuOutTabSubL(divIDSub) {
+		var theDiv = document.getElementById(divIDSub);
+		var theA = document.getElementById(divIDSub + "A");
+		if(theA){theA.className = "subDivTab2OutL"}
+		theDiv.style.zIndex = -1;
+		theDiv.style.visibility = "hidden";
+		theDiv.style.top = "-1000px";
+		menuOverFlag = 0
+	}
+	var scrollTimer
+	var freeze = 0
+	var count = 0
+	var startY = 0
+	var elemTop = 0
+	
+	var scrollTop = 0
+	var top = 0
+	var bottom = 0
+	var windowHeight = 0
+	var y = 0
+	var y2 = 0
+	var testElem
+	var testElem2
+	var bottomLimit
+	var captureEventY
+	var captureEventYB
+	var captureEventYBC
+	
+	function init(){		
+		setGValues()
+		
+		testElem = document.getElementById("data")
+		testElem2 = document.getElementById("dataB")
+	
+		document.body.onmousemove = movemenu3;
+		window.onmousemove = movemenu3;
+		
+		if(document.getElementById("LibrarySUBhd")){
+			document.getElementById("LibrarySUBhd").onmousemove = movemenu;
+			document.getElementById("LibrarySUBhw").onmousemove = movemenu;
+			document.getElementById("LibrarySUBia").onmousemove = movemenu;
+			document.getElementById("LibrarySUBn").onmousemove = movemenu;
+		}
+		if(document.getElementById("LLibrarySUBhd")){
+			document.getElementById("LLibrarySUBhd").onmousemove = movemenu;
+			document.getElementById("LLibrarySUBhw").onmousemove = movemenu;
+			document.getElementById("LLibrarySUBia").onmousemove = movemenu;
+			document.getElementById("LLibrarySUBn").onmousemove = movemenu;
+		}
+		
+		statusUpdate()
+	}
+	function setGValues(){
+		windowHeight = (self.innerHeight) ? self.innerHeight : document.body.clientHeight + document.documentElement.clientHeight;
+		top = 50
+		bottom = windowHeight - 50
+		scrollTop = (self.innerHeight) ? window.pageYOffset : document.body.scrollTop;
+		
+		setGValuesTimer = setTimeout("setGValues()",3000)
+	}
+	function statusUpdate(){
+		if(testElem2){
+		testElem2.style.top = y2 + "px"
+		testElem2.innerHTML = "" +
+		"Timer: " + scrollTimer + "<br />" +
+		"OverFlag: " + menuOverFlag + "<br />" + 
+		"Freeze: " + freeze + "<br />" + 
+		"Top: " + top + "<br />" + 
+		"Bottom: " + bottom + "<br />" + 			
+		"Y: " + y + "<br />" + 
+		"WinHeight: " + windowHeight + "<br />" +
+		"ScrollTop: " + scrollTop + "<br />" +
+		"bottLimit: " + bottomLimit + "<br />" +
+		"captEventY: " + captureEventY + "<br />" +
+		"captEventYB: " + captureEventYB + "<br />" +
+		"captEventYBC: " + captureEventYBC + "<br />"
+		}
+		
+		scrollTop = (self.innerHeight) ? window.pageYOffset : document.body.scrollTop;
+		bottomLimit = captureEventYB + captureEventY - windowHeight
+		
+		statusTimer = setTimeout("statusUpdate()",50)
+	}
+	
+	function movemenu2(e){
+		if (!e) var e = window.event;
+		var testElem = document.getElementById("data")
+		//testElem.innerHTML = windowHeight + "|" + e.clientY + "|" + top + "|" + bottom
+	}
+	
+	function movemenu3(e){
+		if (!e) var e = window.event;
+		y2 = (e.pageY) ? (e.pageY - 50) : (e.clientY + scrollTop - 50);
+	}
+	
+	function movemenu(e){
+		if (!e) var e = window.event;
+		y = (e.pageY) ? (e.pageY - scrollTop) : e.clientY;
+		
+		if(y < top){
+			if(freeze == 0){
+				freeze = 1
+				movemenuScroll(-5)
+			}
+		}else if(y > bottom){
+			if(freeze == 0){
+				freeze = 1
+				movemenuScroll(5)
+			}
+		}else{
+			movemenuStopScroll()
+		}
+	}
+	
+	function movemenuStopScroll(){
+		freeze = 0
+		clearTimeout(scrollTimer)
+		scrollTimer = undefined
+	}
+	
+	function movemenuScroll(yScroll){		
+		if(scrollTop <= captureEventY && yScroll < 0){}
+		else if(scrollTop >= bottomLimit && yScroll > 0){}
+		else if(menuOverFlag == 0){}
+		else{	
+			window.scrollBy(0,yScroll)
+			scrollTimer = setTimeout("movemenuScroll(" + yScroll + ")",100)
+		}
+	}
+	var captureEventY = 0
+	var captureEventYB = 0
+	var captureElement = ""
+	var menuOverFlag = 0
+	function captureEvent(e,elemId){
+		//GET target event
+		if (!e) var e = window.event;
+		var tg = (window.event) ? e.srcElement : e.target;		
+		captureElement = tg.id
+		if (tg.id != elemId) return;
+		
+		/*
+		if (tg.nodeName != 'DIV') return;
+		captureElement = tg.nodeName
+		var reltg = (e.relatedTarget) ? e.relatedTarget : e.toElement;
+		while (reltg != tg && reltg.nodeName != 'BODY')
+			reltg = reltg.parentNode
+		if (reltg == tg) return;
+		*/
+		
+		//if(captureEventY != 0) return
+		//GET MOUSE X AND Y
+		var posx = 0;
+		var posy = 0;
+		if (!e) var e = window.event;
+		if (e.pageX || e.pageY) {
+			posx = e.pageX;
+			posy = e.pageY;
+		}
+		else if (e.clientX || e.clientY) {
+			posx = e.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			posy = e.clientY + document.body.scrollTop + document.documentElement.scrollTop;
+		}
+		captureEventY = posy
+	}
+	function getMenuHeight(elem){
+		var elemNodes = elem.childNodes
+		var elemCnt = elem.getElementsByTagName("A").length
+		captureEventYB = (elemCnt * 24)
+		captureEventYBC = elemCnt
+		
+		//for (y=0;y<=elemCnt;y++){	
+		//	elemNodes[y].className = elemNodes[y].className.replace(replaceText,replaceWith)
+		//}
+				
+		/*if(BrowserDetect.browser == "Explorer"){//Explorer
+			for (y = 0;y <= elemCnt;y++){
+				elemNodes[y].className = elemNodes[y].className.replace(replaceText,replaceWith)
+			}
+		*/
+		/*
+		}else{//Safari and Mac
+			for (y = 0;y <= elemCnt;y++){
+				if(elemNodes[y].valueOf() == "[object HTMLTableCellElement]"){elemNodes[y].className = elemNodes[y].className.replace(replaceText,replaceWith)}
+			}
+		}
+		*/
+	}
+	function unloadEvent(e){
+		//GET target event
+		if (!e) var e = window.event;
+		var tg = (window.event) ? e.srcElement : e.target;
+		if (tg.nodeName != 'DIV') return;
+		var reltg = (e.relatedTarget) ? e.relatedTarget : e.toElement;
+		while (reltg != tg && reltg.nodeName != 'BODY')
+			reltg = reltg.parentNode
+		if (reltg == tg) return;
+		//if(document.getElementById("data")) document.getElementById("data").innerHTML = "reset"
+		//captureEventY = 0
+	}
+	function searchGo() {
+		var varSearchField = document.getElementById("searchBox");
+		if (varSearchField.value != varSearchField.defaultValue && varSearchField.value != "") {
+		//	document.searchform.action = "http://www.google.com/search";
+			document.searchform.action = "searchResults.asp"; //?q=" + varSearchField.value;
+			document.searchform.submit();
+		}
+	}
+	
+	function validateEmail(xEmail) {
+		var emailField = document.getElementById(xEmail);
+		
+		if (emailField.value.length == 0 || emailField.value.indexOf("@") == -1 || emailField.value.indexOf(".") == -1) {
+			alert("Email address is invalid.");
+			emailField.focus();
+			return false;
+		} else {
+			return true;
+		}
+	}
+		
+	function emailFrmFirst() {
+	  	var emailDiv1 = document.getElementById("emailBox1");
+		var emailDiv2 = document.getElementById("emailBox2");
+		var emailField1 = document.getElementById("emailSignUp1");
+		var emailField2 = document.getElementById("emailSignUp2");
+		var varPrevEmail = document.getElementById("prevEmail");
+		
+		if (validateEmail("emailSignUp1") == true && emailField2.value.length == 0) {
+			varPrevEmail.innerHTML = emailField1.value;
+			emailDiv1.style.display = "none";
+			emailDiv2.style.display = "";
+			emailField2.focus();
+			}
+		if (emailField2.value.length > 0) {
+			emailFrmSubmit();
+		}
+	}
+	
+	function changeEmail() {
+		var emailDiv2 = document.getElementById("emailBox2");
+		var emailDiv1 = document.getElementById("emailBox1");
+		var emailField1 = document.getElementById("emailSignUp1");
+		
+		emailDiv2.style.display = "none";
+		emailDiv1.style.display = "";
+		emailField1.focus();
+	}
+	
+	function emailFrmSubmit() {
+		var emailDiv2 = document.getElementById("emailBox2");
+		var emailDiv3 = document.getElementById("emailBox3");
+		var emailField1 = document.getElementById("emailSignUp1");
+		var emailField2 = document.getElementById("emailSignUp2");
+		var varFinalEmail = document.getElementById("finalEmail");
+		
+		if (validateEmail("emailSignUp2") == true) {
+			if (emailField2.value.toLowerCase() == emailField1.value.toLowerCase()) {
+				document.emailSignUpForm.action = "emailSubmit.asp";
+				document.emailSignUpForm.submit();
+			} else {
+				alert("The email addresses did not match!");
+				emailField2.focus();
+			}
+		}
+	}
+	
+	function emailSuccess() {	
+		var emailDiv2 = document.getElementById("emailBox2");
+		var emailDiv3 = document.getElementById("emailBox3");
+		var emailField2 = document.getElementById("emailSignUp2");
+		var varFinalEmail = document.getElementById("finalEmail");
+		
+		varFinalEmail.innerHTML = emailField2.value;
+		emailDiv2.style.display = "none";
+		emailDiv3.style.display = "";
+	}
+	
+	function clearField(fId,fTxt) {
+		if (fId.value == fTxt) {
+			fId.value = "";
+		}
+	}
+	
+	function fillField(fId,fTxt) {
+		if(fId.value == "") {
+			fId.value = fTxt;
+		}
+	}
+	
+	//ADMIN FUNCTIONS
+	function validateLength(elem,maxLen) {
+		if(elem.value.length > maxLen) {
+			alert("You have " + elem.value.length + " characters. The maximum number of characters is " + maxLen + ". To continue, please make it " + maxLen + " characters or less.");
+			elem.select();
+		}
+	}
+	
+  </script><link rel="stylesheet" href="sIFR/all.css" type="text/css" media="all">
+<link rel="stylesheet" href="sIFR/sIFR-screen.css" type="text/css" media="screen">
+<link rel="stylesheet" href="sIFR/sIFR-print.css" type="text/css" media="print">
+<script src="sIFR/sifr.js" type="text/javascript"></script>
+<script src="sIFR/sifr-addons.js" type="text/javascript"></script><script language="javascript">
+			function showBuddyWindow(kc,x,y) {
+				var top;
+				if (self.innerHeight) // all except Explorer 
+				{top = window.pageYOffset} 
+				else if (document.documentElement && document.documentElement.clientHeight) // Explorer 6 Strict Mode 
+				{top = document.documentElement.scrollTop} 
+				else if (document.body) // other Explorers 
+				{top = document.body.scrollTop}
+				
+				var buddyWindow = document.getElementById("buddyWindow");
+				if(kc == 96) {
+					if(buddyWindow.style.left == "0px") {
+						buddyWindow.style.left = "-5000px";
+					}else{
+						buddyWindow.style.left = "0px";
+						buddyWindow.style.top = (50 + top) + "px";
+						buddyWindow.style.width = "500px";
+						buddyWindow.style.height = "400px";
+					}
+				}
+			}
+			
+			function buddyClick(code,mode,x,y){
+				var buddyWindow = document.getElementById("buddyWindow");
+				buddyWindow.src="buddy/process.asp?code=" + code + "&mode=" + mode
+				showBuddyWindow(96,x,y);
+			}
+			function buddyImageClick(id,mode,code,comments,x,y){
+				var buddyWindow = document.getElementById("buddyWindow");
+				buddyWindow.src="buddy/process.asp?id=" + id + "&mode=" + mode + "&code=" + code + "&comments=" + comments
+				showBuddyWindow(96,x,y);
+			}
+			
+			function ecBuddyClick(field,id,x,y){
+				var buddyWindow = document.getElementById("buddyWindow");
+				buddyWindow.src="buddy/ecProcess.asp?field=" + field + "&id=" + id
+				showBuddyWindow(96,x,y);
+			}
+</script>
+<script language="javascript" src="dragiframe.js"></script>
+
+	</head>
+	<body>
+		<table align="center" border="0" cellspacing="0" cellpadding="0" width="767" height="500" class="mainTbl" id="Table4">
+			
+<tbody><tr>
+	<td colspan="3" class="headerTD2" onclick="location.href = 'default.asp';" title="Home"><div style="width: 100%; height: 100%;"></div></td>
+</tr>
+<tr>
+	<td colspan="2" class="spaceTD" valign="bottom">
+		<table border="0" cellpadding="0" cellspacing="0" width="758" height="30" id="Table1" align="center">
+			<tbody><tr>
+				<td>
+					<a href="http://shop.wallbuilders.com/"><img id="Store" src="/images/btnStore.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="StoreSUB" class="subDivTab" onmouseover="menuOverTab('Store');" onmouseout="menuOutTab('Store');">
+						<!--
+
+
+-->
+<a href="http://shop.wallbuilders.com/browse-all">Browse All</a>
+<a href="http://shop.wallbuilders.com/bargain-bin">Bargain Bin</a>
+<a href="http://shop.wallbuilders.com/black-history">Black History</a>
+<a href="http://shop.wallbuilders.com/books">Books</a>
+<a href="http://shop.wallbuilders.com/cds">CDs</a>
+<a href="http://shop.wallbuilders.com/cd-roms">CD ROMs</a>
+
+<a href="http://shop.wallbuilders.com/curriculum">Curriculum</a>
+
+<a href="http://shop.wallbuilders.com/documents">Documents</a>
+<a href="http://shop.wallbuilders.com/donations">Donations</a>
+
+<a href="http://shop.wallbuilders.com/downloads">Downloads</a>
+
+<a href="http://shop.wallbuilders.com/dvds">DVDs</a>
+<a href="http://shop.wallbuilders.com/mouse-pads">Mouse Pads</a>
+
+<a href="http://shop.wallbuilders.com/new-products">New Products</a>
+<a href="http://shop.wallbuilders.com/pamphlets-tracts">Pamphlets &amp; Tracts</a>
+<a href="http://shop.wallbuilders.com/posters">Posters</a>
+<a href="http://shop.wallbuilders.com/prints">Prints</a>
+
+<a href="http://shop.wallbuilders.com/puzzles">Puzzles</a>
+<a href="http://shop.wallbuilders.com/spanish-resources">Spanish Resources</a>
+<a href="http://shop.wallbuilders.com/other">Other</a>
+
+					</div>
+				</td>
+				<td>
+					<a href="/LIBdefault.asp"><img id="Library" src="/images/btnLibrary.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="LibrarySUB" class="subDivTab" onmouseover="menuOverTab('Library');" onmouseout="menuOutTab('Library');">
+						
+<a href="/LIBissuesArticles.asp?id=88" onmouseover="captureEvent(event,this.id)">Black History</a>
+<a href="/LIBissuesArticles.asp?id=100766">Frequently Asked Questions</a>
+<a href="/links.asp">Helpful Links</a>
+<div onmouseover="menuOverTabSub('Library','LibrarySUBhd',2);" onmouseout="menuOutTabSub('Library','LibrarySUBhd',2);"><a id="LibrarySUBhdA" href="/LIBissuesArticles.asp?cat=HD">Historical Documents</a></div>
+<div id="LibrarySUBhd" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBhd',2);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBhd',2)">
+	
+	<a href="/LIBissuesArticles.asp?id=146142">The 104th Psalm by John Quincy Adams</a>
+	
+	<a href="/LIBissuesArticles.asp?id=142673">Abigail Adams' Letter</a>
+	
+	<a href="/LIBissuesArticles.asp?id=46">Aitken Bible </a>
+	
+	<a href="/LIBissuesArticles.asp?id=47">American Bible Society Certificate Signed by John Jay </a>
+	
+	<a href="/LIBissuesArticles.asp?id=152981">Andrew Carnegie Letter</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147624">Battle of Trenton</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147441">Benjamin Rush Letter to Elisha Boudinot</a>
+	
+	<a href="/LIBissuesArticles.asp?id=48">Benjamin Rush Personal Bible Study </a>
+	
+	<a href="/LIBissuesArticles.asp?id=49">Charles Carroll Letter </a>
+	
+	<a href="/LIBissuesArticles.asp?id=36438">The Constitution of the United States of America</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144635">D-Day Prayer</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151266">Daniel Webster's Letter to the American Bible Society</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147623">The Death of General Braddock</a>
+	
+	<a href="/LIBissuesArticles.asp?id=25685">The Declaration of Independence</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147036">A Defence of the Use of the Bible in Schools</a>
+	
+	<a href="/LIBissuesArticles.asp?id=148587">Dwight D. Eisenhower's Inaugural Prayer</a>
+	
+	<a href="/LIBissuesArticles.asp?id=50">Election Sermon </a>
+	
+	<a href="/LIBissuesArticles.asp?id=151630">The Four Chaplains Card</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144598">Gen. Eisenhower's D-Day Message</a>
+	
+	<a href="/LIBissuesArticles.asp?id=51">General Order Respecting the Observance of the Sabbath </a>
+	
+	<a href="/LIBissuesArticles.asp?id=52">Jacob Broom Letter </a>
+	
+	<a href="/LIBissuesArticles.asp?id=53">James Garfield Letter </a>
+	
+	<a href="/LIBissuesArticles.asp?id=59755">John Adams Letter to Benjamin Rush</a>
+	
+	<a href="/LIBissuesArticles.asp?id=132083">John Hancock - A Brief - 1788</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144135">John Hart Document</a>
+	
+	<a href="/LIBissuesArticles.asp?id=145168">July 4th Prayer</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153650">Lew Wallace</a>
+	
+	<a href="/LIBissuesArticles.asp?id=152095">Manumission - Christopher Johnson - 1782</a>
+	
+	<a href="/LIBissuesArticles.asp?id=152093">Manumission - Dorcas - 1837</a>
+	
+	<a href="/LIBissuesArticles.asp?id=152097">Manumission - Quaker - 1774</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144363">Noah Webster &amp; The Bible</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144365">Noah Webster Letters</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144359">Noah Webster's Dictionary</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144469">Noah Webster's "The Peculiar Doctrines of the Gospel Explained and Defended"</a>
+	
+	<a href="/LIBissuesArticles.asp?id=146444">Paying Off the Barbary Pirates</a>
+	
+	<a href="/LIBissuesArticles.asp?id=3595">Proclamation - Lincoln Day - 1919, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=106891">Robert Smalls Honored with Medal</a>
+	
+	<a href="/LIBissuesArticles.asp?id=22348">Samuel Chase Document</a>
+	
+	<a href="/LIBissuesArticles.asp?id=22345">Thomas Jefferson Document</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144579">War Bond Posters</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147619">Washington Reading Prayers in His Camp</a>
+	
+	<a href="/LIBissuesArticles.asp?id=137962">Webster Regiment</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147979">Will of Richard Stockton</a>
+	
+	<a href="/LIBissuesArticles.asp?id=19484">Woodrow Wilson on the Christian Men's Association</a>
+	
+</div>
+<div onmouseover="menuOverTabSub('Library','LibrarySUBhw',3)" onmouseout="menuOutTabSub('Library','LibrarySUBhw',3);"><a id="LibrarySUBhwA" href="/LIBissuesArticles.asp?cat=HW">Historical Writings</a></div>
+<div id="LibrarySUBhw" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBhw',3);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBhw',3)">
+	
+	<a href="/LIBissuesArticles.asp?id=284">Abraham Lincoln's Second Inaugural Address</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151578">Address - Historical - 1835</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151762">Address - July 4th - 1822, Connecticut </a>
+	
+	<a href="/LIBissuesArticles.asp?id=154472">Address - Why Are You A Christian - 1795</a>
+	
+	<a href="/LIBissuesArticles.asp?id=58">Benjamin Franklin's letter to Thomas Paine </a>
+	
+	<a href="/LIBissuesArticles.asp?id=153972">Discourse - The Birthday of George Washington - February, 1852</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151803">Discourse - July 4th - 1796, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151793">Discourse - July 4th - 1798, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157451">Discourse - Settlement of Cape Cod - 1839</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153215">Dissertation - Right &amp; Obligation of Civil Magistrate - 1804</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147488">Elias Boudinot's Age of Revelation</a>
+	
+	<a href="/LIBissuesArticles.asp?id=78">The Founders As Christians </a>
+	
+	<a href="/LIBissuesArticles.asp?id=79">The Founders on Gambling </a>
+	
+	<a href="/LIBissuesArticles.asp?id=62">George Washington's Farewell Address </a>
+	
+	<a href="/LIBissuesArticles.asp?id=54">"Give Me Liberty Or Give Me Death" </a>
+	
+	<a href="/LIBissuesArticles.asp?id=63">Importance of Morality and Religion in Government </a>
+	
+	<a href="/LIBissuesArticles.asp?id=80">The Importance of Voting and Christian Involvement in the Political Arena </a>
+	
+	<a href="/LIBissuesArticles.asp?id=64">John Jay on the Biblical View of War </a>
+	
+	<a href="/LIBissuesArticles.asp?id=65">Letters Between the Danbury Baptists and Thomas Jefferson </a>
+	
+	<a href="/LIBissuesArticles.asp?id=158412">Oration - Anniversary of Continental Congress - 1874</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151836">Oration - July 4th - 1787, New York</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151801">Oration - July 4th - 1796, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151797">Oration - July 4th - 1801, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151750">Oration - July 4th - 1804</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151752">Oration - July 4th - 1808</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151754">Oration - July 4th - 1810</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151756">Oration - July 4th - 1810, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151758">Oration - July 4th - 1812, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159418">Oration - July 4th - 1822</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157449">Oration - July 4th - 1825, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=25616">Oration - July 4th - 1826</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159421">Oration - July 4th - 1826, Cambridge</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151760">Oration - July 4th - 1826, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159423">Oration - July 4th - 1827, Boston</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159426">Oration - July 4th - 1831, Boston</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159424">Oration - July 4th - 1831, Quincy</a>
+	
+	<a href="/LIBissuesArticles.asp?id=9717">Oration - July 4th- 1837</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159420">Oration - July 5th - 1824, Quincy</a>
+	
+	<a href="/LIBissuesArticles.asp?id=69">Proclamation - Humiliation and Prayer - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=68">Qualifications for Public Office </a>
+	
+	<a href="/LIBissuesArticles.asp?id=158414">Sermon - American Institutions &amp; the Bible - 1876</a>
+	
+	<a href="/LIBissuesArticles.asp?id=57">Sermon - Artillery - Boston, 1809</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160530">Sermon - Artillery Election - 1808</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157441">Sermon - Artillery-Election - 1792</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158407">Sermon - Atlantic Telegraph - 1858</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156677">Sermon - Battle of Lexington - 1776</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156697">Sermon - Battle of Lexington - 1778</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157386">Sermon - Before Judges - 1681</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156775">Sermon - Bridge Opening - 1805</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156110">Sermon - Bridge Opening - 1808</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151571">Sermon - Century - 1801</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151573">Sermon - Century - 1801</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151742">Sermon - Century - 1801</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156679">Sermon - Century Church Anniversary - 1814</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158416">Sermon - Christianity &amp; Infidelity - 1880</a>
+	
+	<a href="/LIBissuesArticles.asp?id=143321">Sermon - Christian Love - 1773</a>
+	
+	<a href="/LIBissuesArticles.asp?id=74">Sermon - Christian Patriot - Boston, 1840 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=154401">Sermon - Christmas - 1788</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156118">Sermon - Christmas - 1838</a>
+	
+	<a href="/LIBissuesArticles.asp?id=150867">Sermon - Christmas - 1841</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156121">Sermon - Christmas - 1843</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4652">Sermon - Christmas - 1844</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159430">Sermon - Church and Country - 1891</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157363">Sermon - Civil War - 1861</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156116">Sermon - Commercial Distress - 1837</a>
+	
+	<a href="/LIBissuesArticles.asp?id=138650">Sermon - Communism in Churches - c. 1960</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154828">Sermon - Death of George Washington - 1800</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156791">Sermon - Dueling - 1805</a>
+	
+	<a href="/LIBissuesArticles.asp?id=72">Sermon - Dueling - Albany, 1838</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156651">Sermon - Earthquakes - 1755</a>
+	
+	<a href="/LIBissuesArticles.asp?id=7488">Sermon - Easter - 1910</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160446">Sermon - Election - 1769</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160398">Sermon - Election - 1771</a>
+	
+	<a href="/LIBissuesArticles.asp?id=118514">Sermon - Election - 1775</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160403">Sermon - Election - 1778</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4139">Sermon - Election - 1783</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160405">Sermon - Election - 1784</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160401">Sermon - Election - 1785</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160428">Sermon - Election - 1786</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160431">Sermon - Election - 1787</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160433">Sermon - Election - 1788</a>
+	
+	<a href="/LIBissuesArticles.asp?id=59">Sermon - Election - 1788</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160435">Sermon - Election - 1789</a>
+	
+	<a href="/LIBissuesArticles.asp?id=60">Sermon - Election - 1790 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=4157">Sermon - Election - 1791</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160651">Sermon - Election - 1791</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160653">Sermon - Election - 1791</a>
+	
+	<a href="/LIBissuesArticles.asp?id=96972">Sermon - Election - 1792</a>
+	
+	<a href="/LIBissuesArticles.asp?id=13044">Sermon - Election - 1792</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160527">Sermon - Election - 1793</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160528">Sermon - Election - 1794</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160655">Sermon - Election - 1796</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160448">Sermon - Election - 1796</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4149">Sermon - Election - 1796</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160657">Sermon - Election - 1797</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160660">Sermon - Election - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160662">Sermon - Election - 1799</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160664">Sermon - Election - 1800</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4153">Sermon - Election - 1800</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160665">Sermon - Election - 1801</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160677">Sermon - Election - 1802</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4133">Sermon - Election - 1803</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160680">Sermon - Election - 1804</a>
+	
+	<a href="/LIBissuesArticles.asp?id=116594">Sermon - Election - 1805</a>
+	
+	<a href="/LIBissuesArticles.asp?id=61">Sermon - Election - 1812 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=4128">Sermon - Election - 1814</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4145">Sermon - Election - 1816</a>
+	
+	<a href="/LIBissuesArticles.asp?id=118504">Sermon - Election - 1818 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=159944">Sermon - Establishing Public Happiness - 1795</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157057">Sermon - Eulogy - 1854</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153951">Sermon - Execution - 1770</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153969">Sermon - Execution - 1796</a>
+	
+	<a href="/LIBissuesArticles.asp?id=76">Sermon - Execution - 1797 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=154062">Sermon - Execution - 1848</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160804">Sermon - Fasting - 1783, Massachusetts </a>
+	
+	<a href="/LIBissuesArticles.asp?id=143507">Sermon - Fasting - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153891">Sermon - Fasting - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153864">Sermon - Fasting - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153871">Sermon - Fasting - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=143619">Sermon - Fasting - 1798, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160807">Sermon - Fasting - 1799</a>
+	
+	<a href="/LIBissuesArticles.asp?id=143607">Sermon - Fasting - 1799</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160806">Sermon - Fasting - 1799, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160830">Sermon - Fasting - 1801, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160831">Sermon - Fasting - 1805, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160833">Sermon - Fasting - 1805, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160835">Sermon - Fasting - 1808, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160869">Sermon - Fasting - 1809, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160870">Sermon - Fasting - 1810, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154106">Sermon - Fasting - 1810, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154122">Sermon - Fasting - 1810, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160871">Sermon - Fasting - 1811, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153803">Sermon - Fasting - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153805">Sermon - Fasting - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=143575">Sermon - Fasting - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160872">Sermon - Fasting - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160874">Sermon - Fasting - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154100">Sermon - Fasting - 1812, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160875">Sermon - Fasting - 1814, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160877">Sermon - Fasting - 1815</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157046">Sermon - Fasting - 1832, MA</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157048">Sermon - Fire - 1840</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157049">Sermon - Fire - 1840</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158403">Sermon - Fugitive Slave Bill - 1851</a>
+	
+	<a href="/LIBissuesArticles.asp?id=6718">Sermon - George Washington's Birthday - 1863</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157365">Sermon - Giving - 1877</a>
+	
+	<a href="/LIBissuesArticles.asp?id=71">Sermon - Great Fire in Boston - 1760</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154819">Sermon - Hampshire Missionary Society - 1802</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153939">Sermon - House of Representatives - 1822</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153877">Sermon - House of Representatives - 1822</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153941">Sermon - House of Representatives - 1854</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158405">Sermon - House of Representatives - 1858</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153869">Sermon - House of Representatives - 1860</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153942">Sermon - House of Representatives - 1864</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157380">Sermon - In Boston - 1814</a>
+	
+	<a href="/LIBissuesArticles.asp?id=75">Sermon - The Infirmities and Comforts of Old Age - 1805 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=156114">Sermon - Influence of the Gospel upon Intellectual Powers - 1835</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151798">Sermon - July 4th - 1794</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157447">Sermon - July 4th - 1825, Pennsylvania</a>
+	
+	<a href="/LIBissuesArticles.asp?id=73">Sermon - Liberty - 1775 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=157367">Sermon - Life &amp; Character of Joseph Smith - 1877</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154824">Sermon - Living Faith - 1801</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157054">Sermon - Loss of Children - 1832</a>
+	
+	<a href="/LIBissuesArticles.asp?id=66">Sermon - Marriage - 1837</a>
+	
+	<a href="/LIBissuesArticles.asp?id=9105">Sermon - Memorial Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=9147">Sermon - Memorial Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144472">Sermon - Memorial Day - 1875</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158401">Sermon - Mexican War - 1848</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153200">Sermon - Modern Emigrant - 1832</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156123">Sermon - Moral Uses of the Sea - 1845</a>
+	
+	<a href="/LIBissuesArticles.asp?id=67">Sermon - Moral View of Rail Roads - 1851</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157056">Sermon - New Planet - 1847</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154477">Sermon - New Year - 1799</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158409">Sermon - New Year - 1861/ 1862 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=157042">Sermon - Old Age Improved - 1811</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154381">Sermon - Ordination - 1779</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154406">Sermon - Ordination - 1790</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154479">Sermon - Ordination - 1793</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156675">Sermon - Ordination - 1817</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154826">Sermon - Overcoming Evil With Good - 1801</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153209">Sermon - People Responsible for Character of Rulers - 1895</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157044">Sermon - Perjury - 1813</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160805">Sermon - Prayer - 1799</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157382">Sermon - Property Tax - 1816</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154481">Sermon - Protestant Episcopal Church Convention - 1792</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154475">Sermon - Protestant Episcopal Church Convention - 1799</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154822">Sermon - Sabbath Day - 1803</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154818">Sermon - Saul Consulting Witch of Endor - 1806</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156700">Sermon - Slavery - 1791</a>
+	
+	<a href="/LIBissuesArticles.asp?id=157058">Sermon - Snow and Vapor - 1856</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154823">Sermon - Society in Cambridge - 1802</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154821">Sermon - Society in Saybrook - 1803</a>
+	
+	<a href="/LIBissuesArticles.asp?id=70">Sermon - Solar Eclipse - 1806</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154378">Sermon - Stamp Act Repeal - 1766</a>
+	
+	<a href="/LIBissuesArticles.asp?id=156112">Sermon - State Prison - 1812</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160113">Sermon - Succes Failure in Life - 1833</a>
+	
+	<a href="/LIBissuesArticles.asp?id=149003">Sermon - Thanksgiving - 1783 Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160703">Sermon - Thanksgiving - 1785</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160706">Sermon - Thanksgiving - 1794</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160708">Sermon - Thanksgiving - 1795</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160710">Sermon - Thanksgiving - 1795</a>
+	
+	<a href="/LIBissuesArticles.asp?id=18263">Sermon - Thanksgiving - 1795 Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133183">Sermon - Thanksgiving - 1795 Pennsylvania</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133311">Sermon - Thanksgiving - 1795 Philadelphia</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160712">Sermon - Thanksgiving - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160713">Sermon - Thanksgiving - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133203">Sermon - Thanksgiving - 1798 Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=149020">Sermon - Thanksgiving - 1803 Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160730">Sermon - Thanksgiving - 1804</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160732">Sermon - Thanksgiving - 1804</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160734">Sermon - Thanksgiving - 1808</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160736">Sermon - Thanksgiving - 1814</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160737">Sermon - Thanksgiving - 1815</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133275">Sermon - Thanksgiving - 1850 New York</a>
+	
+	<a href="/LIBissuesArticles.asp?id=148965">Sermon - Thanksgiving - 1852 Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133348">Sermon - Thanksgiving - 1864 Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153197">Sermon - The Voice of Warning to Christians - 1800</a>
+	
+	<a href="/LIBissuesArticles.asp?id=77">Should Christians - Or Ministers - Run For Office? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=153948">Speech - House of Representatives - 1881</a>
+	
+	<a href="/LIBissuesArticles.asp?id=81">Thomas Paine Criticizes the Current Public School Science Curriculum </a>
+	
+</div>
+<div onmouseover="menuOverTabSub('Library','LibrarySUBv',4)" onmouseout="menuOutTabSub('Library','LibrarySUBv',4);"><a id="LibrarySUBvA" href="/LIBissuesArticles.asp?cat=V">History Vignettes</a></div>
+<div id="LibrarySUBv" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBv',4);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBv',4)">
+	
+	<a href="/LIBissuesArticles.asp?id=157473"> Thomas Jefferson, Andrew Carnegie &amp; the US Congress </a>
+	
+	<a href="/LIBissuesArticles.asp?id=157453">A Look at the Spiritual History Surrounding D-Day</a>
+	
+</div>
+<div onmouseover="menuOverTabSub('Library','LibrarySUBia',5)" onmouseout="menuOutTabSub('Library','LibrarySUBia',4);"><a id="LibrarySUBiaA" href="/LIBissuesArticles.asp?cat=IA">Issues &amp; Articles</a></div>
+<div id="LibrarySUBia" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBia',4);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBia',4)">
+	
+	<a href="/LIBissuesArticles.asp?id=78957">The 2010 Election: The News Inside the News</a>
+	
+	<a href="/LIBissuesArticles.asp?id=82">4th of July Article </a>
+	
+	<a href="/LIBissuesArticles.asp?id=44785">Advancing the Sanctity of the Unborn Life in the Ft. Hood Massacre</a>
+	
+	<a href="/LIBissuesArticles.asp?id=87">Affidavit in Support of the Ten Commandments </a>
+	
+	<a href="/LIBissuesArticles.asp?id=88">African American History Resources </a>
+	
+	<a href="/LIBissuesArticles.asp?id=112866">The Aitken Bible and Congress</a>
+	
+	<a href="/LIBissuesArticles.asp?id=19942">America's Religious Heritage As Demonstrated in Presidential Inaugurations</a>
+	
+	<a href="/LIBissuesArticles.asp?id=106938">America’s Most Biblically-Hostile U. S. President</a>
+	
+	<a href="/LIBissuesArticles.asp?id=24548">The American Revolution: Was it an Act of Biblical Rebellion?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=6449">American Voters and the Abortion Issue</a>
+	
+	<a href="/LIBissuesArticles.asp?id=89">Analyzing Legislation </a>
+	
+	<a href="/LIBissuesArticles.asp?id=157444">An Article V Convention of the States</a>
+	
+	<a href="/LIBissuesArticles.asp?id=10152">Benjamin Rush Dream about John Adams and Thomas Jefferson</a>
+	
+	<a href="/LIBissuesArticles.asp?id=119">The Bible and Taxes </a>
+	
+	<a href="/LIBissuesArticles.asp?id=120">The Bible, Slavery, and America's Founders </a>
+	
+	<a href="/LIBissuesArticles.asp?id=20990">A Black Patriot: Wentworth Cheswell</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160386">Bob Barr Crosses the Line</a>
+	
+	<a href="/LIBissuesArticles.asp?id=39133">Calling Muslims to the Capitol?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=17984">Celebrating Thanksgiving In America</a>
+	
+	<a href="/LIBissuesArticles.asp?id=7872">A Christian Voter Intimidation Letter from Americans United for Separation of Church and State</a>
+	
+	<a href="/LIBissuesArticles.asp?id=19192">Christmas With the Presidents</a>
+	
+	<a href="/LIBissuesArticles.asp?id=80560">Christmas-As Celebrated by the Presidents</a>
+	
+	<a href="/LIBissuesArticles.asp?id=90">Church in the U.S. Capitol </a>
+	
+	<a href="/LIBissuesArticles.asp?id=91">Churches And Elections - What Is The Law? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=92">Confronting Civil War Revisionism: Why The South Went To War </a>
+	
+	<a href="/LIBissuesArticles.asp?id=3930">Congress, the Culture, and Christian Voting</a>
+	
+	<a href="/LIBissuesArticles.asp?id=83">A Constitutional Amendment Restoring Religious Freedom </a>
+	
+	<a href="/LIBissuesArticles.asp?id=160384">David Barton &amp; the ADL</a>
+	
+	<a href="/LIBissuesArticles.asp?id=20987">David Barton on President's Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=95644">Deconstructionism and the Left</a>
+	
+	<a href="/LIBissuesArticles.asp?id=138078">Defending The Jefferson Lies: David Barton Responds to his Conservative Critics</a>
+	
+	<a href="/LIBissuesArticles.asp?id=102750">Did George Washington Actually Say "So Help Me God" During His Inauguration?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=7128">Echoes of 1860: Is "Life" a Question of State's Rights?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=93">Election 2004: A Moral Mandate? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=94">Election Resources and Information </a>
+	
+	<a href="/LIBissuesArticles.asp?id=95">Electoral College: Preserve or Abolish? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=96">Ensuring Judicial Accountability For State Judges </a>
+	
+	<a href="/LIBissuesArticles.asp?id=97">Evolution and the Law: “A Death Struggle Between Two Civilizations” </a>
+	
+	<a href="/LIBissuesArticles.asp?id=1464">Five Judicial Myths</a>
+	
+	<a href="/LIBissuesArticles.asp?id=121">The Founders And Public Religious Expressions </a>
+	
+	<a href="/LIBissuesArticles.asp?id=7846">The Founding Fathers on Creation and Evolution</a>
+	
+	<a href="/LIBissuesArticles.asp?id=8755">The Founding Fathers on Jesus, Christianity and the Bible</a>
+	
+	<a href="/LIBissuesArticles.asp?id=122">The Founding Fathers and Slavery </a>
+	
+	<a href="/LIBissuesArticles.asp?id=98">Franklin’s Appeal for Prayer at the Constitutional Convention </a>
+	
+	<a href="/LIBissuesArticles.asp?id=100766">Frequently Asked Questions</a>
+	
+	<a href="/LIBissuesArticles.asp?id=6560">Futile Intimidation Attempts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=99">George Washington, Thomas Jefferson &amp; Slavery in Virginia </a>
+	
+	<a href="/LIBissuesArticles.asp?id=100">God: Missing in Action from American History </a>
+	
+	<a href="/LIBissuesArticles.asp?id=84">A Godless Constitution?: A Response to Kramnick and Moore </a>
+	
+	<a href="/LIBissuesArticles.asp?id=138688">Guns, Kids and Critics</a>
+	
+	<a href="/LIBissuesArticles.asp?id=5799">H.RES. 888</a>
+	
+	<a href="/LIBissuesArticles.asp?id=49126">Health Care and the Constitution</a>
+	
+	<a href="/LIBissuesArticles.asp?id=119817">Hobby Lobby - They Got It Right</a>
+	
+	<a href="/LIBissuesArticles.asp?id=101">Homosexuals in the Military </a>
+	
+	<a href="/LIBissuesArticles.asp?id=102">Houses of Worship Free Speech Restoration Act </a>
+	
+	<a href="/LIBissuesArticles.asp?id=103">How You Can Be Involved </a>
+	
+	<a href="/LIBissuesArticles.asp?id=104">Impeachment of Federal Judges </a>
+	
+	<a href="/LIBissuesArticles.asp?id=5026">In Hoc Anno Domini</a>
+	
+	<a href="/LIBissuesArticles.asp?id=23909">Is President Obama Correct: Is America No Longer a Christian Nation?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105">James Madison and Religion in Public </a>
+	
+	<a href="/LIBissuesArticles.asp?id=118208">The Jefferson Lies: Taking on the Critics</a>
+	
+	<a href="/LIBissuesArticles.asp?id=89988">John Adams: Was He Really an Enemy of Christians? Addressing Modern Academic Shallownes</a>
+	
+	<a href="/LIBissuesArticles.asp?id=99156">John Locke – A Philosophical Founder of America</a>
+	
+	<a href="/LIBissuesArticles.asp?id=106">John Locke: Deist or Theologian? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=107">Judges: Should they be Elected or Appointed? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=146305">Letter to Pastors about Welfare Comment on Beck Radio Show</a>
+	
+	<a href="/LIBissuesArticles.asp?id=46525">Limiting an Overreaching Federal Government: Is State Nullification the Solution?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=149885">The Meaning of Thanksgiving</a>
+	
+	<a href="/LIBissuesArticles.asp?id=108">Meet The ACLU </a>
+	
+	<a href="/LIBissuesArticles.asp?id=19941">MexicoPolicyLetter</a>
+	
+	<a href="/LIBissuesArticles.asp?id=99351">"One Nation Under God"</a>
+	
+	<a href="/LIBissuesArticles.asp?id=109">Political Parties and Morality </a>
+	
+	<a href="/LIBissuesArticles.asp?id=46096">Potential Constitutional Problems With H.R. 3590</a>
+	
+	<a href="/LIBissuesArticles.asp?id=1099">Private Property Rights Resolution</a>
+	
+	<a href="/LIBissuesArticles.asp?id=110">Recommended Reading List </a>
+	
+	<a href="/LIBissuesArticles.asp?id=44141">Religious Acknowledgments in the Capitol Visitor Center</a>
+	
+	<a href="/LIBissuesArticles.asp?id=111">Republic v. Democracy </a>
+	
+	<a href="/LIBissuesArticles.asp?id=85">A Review of A&amp;E’s "The Crossing"</a>
+	
+	<a href="/LIBissuesArticles.asp?id=112">Revisionism: How to Identify It In Your Children's Textbooks </a>
+	
+	<a href="/LIBissuesArticles.asp?id=113">Sample Letters to the Editor </a>
+	
+	<a href="/LIBissuesArticles.asp?id=123">The Separation of Church and State </a>
+	
+	<a href="/LIBissuesArticles.asp?id=114">Solving the Pledge of Allegiance Controversy </a>
+	
+	<a href="/LIBissuesArticles.asp?id=120472">Statement: David Barton on The Jefferson Lies</a>
+	
+	<a href="/LIBissuesArticles.asp?id=8803">Steps for Viewing Candidates Scorecards</a>
+	
+	<a href="/LIBissuesArticles.asp?id=9954">The Story of the Star Spangled Banner</a>
+	
+	<a href="/LIBissuesArticles.asp?id=115">Taking On The Critics </a>
+	
+	<a href="/LIBissuesArticles.asp?id=86">A Tale of Two Constitutions </a>
+	
+	<a href="/LIBissuesArticles.asp?id=116">Ten Commandments Displays </a>
+	
+	<a href="/LIBissuesArticles.asp?id=117">Ten Steps To Change America </a>
+	
+	<a href="/LIBissuesArticles.asp?id=69934">Tea Parties- Same Song, Second Verse</a>
+	
+	<a href="/LIBissuesArticles.asp?id=7586">Testimony of David Barton on Global Warming</a>
+	
+	<a href="/LIBissuesArticles.asp?id=7441">Testimony on Global Warming</a>
+	
+	<a href="/LIBissuesArticles.asp?id=118">Thanksgiving in America </a>
+	
+	<a href="/LIBissuesArticles.asp?id=21076">Thomas Jefferson and Religion at the University of Virginia</a>
+	
+	<a href="/LIBissuesArticles.asp?id=124">Thomas Jefferson and Sally Hemings: The Search for Truth </a>
+	
+	<a href="/LIBissuesArticles.asp?id=125">Treaty of Tripoli </a>
+	
+	<a href="/LIBissuesArticles.asp?id=134170">Unconfirmed Quotation: Franklin Principles of  Primitive Christianity</a>
+	
+	<a href="/LIBissuesArticles.asp?id=138585">Unconfirmed Quotations</a>
+	
+	<a href="/LIBissuesArticles.asp?id=14242">War on God in America</a>
+	
+	<a href="/LIBissuesArticles.asp?id=127">Was George Washington a Christian? </a>
+	
+	<a href="/LIBissuesArticles.asp?id=23592">The White House Attack on Religion Continues: Repealing Conscience Protection</a>
+	
+	<a href="/LIBissuesArticles.asp?id=129">Why Christians Must Vote in This Election </a>
+	
+	<a href="/LIBissuesArticles.asp?id=6498">Your Vote Counts Video</a>
+	
+</div>
+<div onmouseover="menuOverTabSub('Library','LibrarySUBn',6)" onmouseout="menuOutTabSub('Library','LibrarySUBn',5);"><a id="LibrarySUBnA" href="/LIBissuesArticles.asp?cat=N">Newsletter Archives</a></div>
+<div id="LibrarySUBn" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBn',5);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBn',5)">
+	
+	<a href="/LIBissuesArticles.asp?id=130">Black History Issue 1998 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=132">Black History Issue 2001 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=133">Black History Issue 2002 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=134">Black History Issue 2003 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=135">Black History Issue 2004 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=136">Black History Issue 2005 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=137">Black History Issue 2006 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=148934">Dwight D. Eisenhower - A Presidential Profile</a>
+	
+	<a href="/LIBissuesArticles.asp?id=138">Fall 1996 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=139">Fall 1998 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=140">Fall 1999 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=141">Fall 2002 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=142">January 2002 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=143">Late Summer 1998 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=144">SPECIAL EDITION September 11, 2001 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=145">Spring 1996 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=146">Spring 1997 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=147">Spring 1998 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=148">Spring 1999 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=149">Spring 2000 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=150">Spring 2001 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=151">Spring 2002 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=152">Spring 2003 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=153">Spring 2006 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=384">Spring 2007 Newsletter</a>
+	
+	<a href="/LIBissuesArticles.asp?id=154">Summer 1996 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=155">Summer 1997 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=156">Summer 1998 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=157">Summer 1999 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=158">Summer 2000 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=159">Summer 2005 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=160">Summer 2006</a>
+	
+	<a href="/LIBissuesArticles.asp?id=161">Winter 1996 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=162">Winter 1997 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=163">Winter 1999 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=164">Winter 2000 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=131684">Winter 2001</a>
+	
+	<a href="/LIBissuesArticles.asp?id=166">Winter 2003 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=167">Winter 2004 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=168">Winter 2005 </a>
+	
+	<a href="/LIBissuesArticles.asp?id=374">Winter 2006</a>
+	
+</div>
+
+<div onmouseover="menuOverTabSub('Library','LibrarySUBproc',7)" onmouseout="menuOutTabSub('Library','LibrarySUBproc',6);"><a href="/LIBproclamations.asp">Proclamations</a>
+</div>
+<div id="LibrarySUBproc" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBproc',4);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBproc',6)">
+	
+</div>
+
+<div onmouseover="menuOverTabSub('Library','LibrarySUBu',8)" onmouseout="menuOutTabSub('Library','LibrarySUBu',7);"><a id="LibrarySUBuA" href="/LIBissuesArticles.asp?cat=U">Updates from WallBuilders</a></div>
+
+<div id="LibrarySUBu" class="subDivTab2" style="padding:2px;" onmouseover="menuOverTabSub('Library','LibrarySUBu',6);getMenuHeight(this)" onmouseout="menuOutTabSub('Library','LibrarySUBu',7)">
+	
+	<a href="/LIBissuesArticles.asp?id=149125"> A Soldier and a President</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105446">2011 Election Information</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105435">2011 ProFamily Legislators Conference</a>
+	
+	<a href="/LIBissuesArticles.asp?id=136629">Addressing Mass Murder and Violent Crime</a>
+	
+	<a href="/LIBissuesArticles.asp?id=104947">American History: Bachmann v. Stephanopoulos</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153216">Are You Smarter Than a Fourth Grader?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=146671">The Barbary Powers Wars</a>
+	
+	<a href="/LIBissuesArticles.asp?id=161148">The Battle of Baltimore</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105613">A Call to Action</a>
+	
+	<a href="/LIBissuesArticles.asp?id=102148">Celebrate Columbus Day!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105392">Celebrate Constitution Day!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=114394">Celebrate with Prayer!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=143045">Celebrating Abigail Adams</a>
+	
+	<a href="/LIBissuesArticles.asp?id=138809">Celebrating Black History Month: The Rev. Francis J. Grimke</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105603">Christmas Resolutions (2007)</a>
+	
+	<a href="/LIBissuesArticles.asp?id=104948">Congressional Prayer Caucus</a>
+	
+	<a href="/LIBissuesArticles.asp?id=106161">Conscience Protection Amendment - Call Your Senator Today!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=106280">Conscience Protection Amendment Update</a>
+	
+	<a href="/LIBissuesArticles.asp?id=161375">The Constitution and a Duel - What do they have in Common?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133197">The Constitution and the Minority - What Does it All Mean?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144213">The Cost of Signing the Declaration of Independence</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151401">Daniel Webster: The Defender of the U.S. Constitution</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105538">Deconstructionism</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147218">Dr. Benjamin Rush</a>
+	
+	<a href="/LIBissuesArticles.asp?id=159388">Draftsman of the Declaration</a>
+	
+	<a href="/LIBissuesArticles.asp?id=158776">The Finger of God on the Constitutional Convention</a>
+	
+	<a href="/LIBissuesArticles.asp?id=137485">The Founders on the Second Amendment</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144096">Founding Fathers on Prayer</a>
+	
+	<a href="/LIBissuesArticles.asp?id=151956">The Four Chaplains</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105537">Free to Speak</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105612">George Washington's Birthday</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105534">Getting Out the Vote</a>
+	
+	<a href="/LIBissuesArticles.asp?id=111655">A God-Given Inalienable Right</a>
+	
+	<a href="/LIBissuesArticles.asp?id=111654">A God-Given Inalienable Right Under Direct Attack</a>
+	
+	<a href="/LIBissuesArticles.asp?id=161662">A Great Price Paid</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133193">Happy Fourth of July!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=102346">Happy Thanksgiving!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153220">Happy Thanksgiving!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105606">An Historic Look at Easter</a>
+	
+	<a href="/LIBissuesArticles.asp?id=102284">Honor a Veteran!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160918">How much do you know about the Constitution?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105531">The Jefferson Lies</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105213">Join the Black Robe Regiment today!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147519">The Lesser Known Boudinot</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133494">The Mayflower and Presidents - What do they have in common?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105596">National Bible Week 2007</a>
+	
+	<a href="/LIBissuesArticles.asp?id=134130">NBC's "George Washington" and Spielberg's "Lincoln"</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144548">Noah Webster</a>
+	
+	<a href="/LIBissuesArticles.asp?id=161423">The Power of the Pulpit</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105586">President Eisenhower's One Nation Under God</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105388">The Pulpit Initiative</a>
+	
+	<a href="/LIBissuesArticles.asp?id=116302">The Real Story Behind Old Glory</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105532">Register Congregations to Vote!</a>
+	
+	<a href="/LIBissuesArticles.asp?id=134012">Remember the "date which will live in infamy" this Christmas Season</a>
+	
+	<a href="/LIBissuesArticles.asp?id=153218">Remembering Pearl Harbor</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105533">Remembering the Reason for Christmas</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105143">The Response: A Call to Prayer For a Nation in Crisis</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105214">The Response: An Historic Event</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105144">Restoring Courage: Standing in Solidarity With Israel</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105614">Sanctity of Human Life Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160649">Secretary of the Continental Congress Charles Thomson</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105536">A Secular Oath?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=152089">A Southern View of Black History?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105597">Thanksgiving 2007</a>
+	
+	<a href="/LIBissuesArticles.asp?id=148070">Their Lives, Fortunes and Sacred Honor: Richard Stockton</a>
+	
+	<a href="/LIBissuesArticles.asp?id=144711">This Day in History:  D-Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=133200">The Tomb of the Unknown Soldier - A Forgotten History?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=104945">Vindicating American Exceptionalism</a>
+	
+	<a href="/LIBissuesArticles.asp?id=143610">The Webster Regiment</a>
+	
+	<a href="/LIBissuesArticles.asp?id=146318">Which President earned the nickname "Old Man Eloquent"?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=161521">Who was the "Father of the Revolution"?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=147911">Who was known as “First in war, First in peace, First in the hearts of his countrymen”?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=105191">World Trade Center Cross</a>
+	
+</div>
+
+
+<a href="/LIBissuesArticles.asp?id=94">Voter Resources</a>
+
+					</div>
+				</td>
+				<td>
+					<a href="/ABTOverview.asp"><img id="Aboutus" src="/images/btnAboutus.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="AboutusSUB" class="subDivTab" onmouseover="menuOverTab('Aboutus');" onmouseout="menuOutTab('Aboutus');">
+						<a href="/ABTOverview.asp">About Us</a> 
+<a href="/ABTbeInvolved.asp">Partner with Us</a>
+<a href="/ABTbios.asp">Speaker Bios</a> 
+<a href="/ABTcontact.asp">Contact Us</a>
+<a href="/ABTsignup.asp">Mailing List</a>
+ 
+					</div>
+				</td>
+				<td>
+					<a href="http://www.wallbuilders.com/donate.aspx">
+
+<!-- <a href="http://shop.wallbuilders.com/store/donations.html">--><img id="Contribute" src="/images/btnContribute.gif" alt="contribute" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="ContributeSUB" class="subContTD" onmouseover="menuOverTab('Aboutus');" onmouseout="menuOutTab('Contribute');"></div>
+				</td>	
+				<td>
+					<a href="/links.asp"><img id="Links" src="/images/btnLinks.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="LinksSUB" class="subDivTab" onmouseover="menuOverTab('Links');" onmouseout="menuOutTab('Links');">
+								<a href="/links.asp#aahistory">Black History</a>
+		<a href="/links.asp#creationism">Creationism</a>
+		<a href="/links.asp#educational">Educational Groups</a>
+		<a href="/links.asp#evissues">Environmental Issues</a>
+		<a href="/links.asp#congressman">Find Your Congressman</a>
+		<a href="/links.asp#homes">Founders' Homes</a>
+		<a href="/links.asp#histordocs">Historical Documents</a>
+		<a href="/links.asp#historgs">Historical Groups</a>
+		<a href="/links.asp#products">Historical Products</a>
+		<a href="/links.asp#legal">Legal Organizations</a>
+		<a href="/links.asp#prayer">Prayer Organizations</a>
+		<a href="/links.asp#family">Pro-Family Groups</a>
+		<a href="/links.asp#prolife">Pro-Life Groups</a>
+		<a href="/links.asp#worldview">Worldview</a>
+		<a href="/links.asp#youth">Youth Organizations</a>
+
+					</div>
+					
+				</td>
+				<td>
+					<a href="/MEDwelcome.asp"><img id="Media" src="/images/btnMedia.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="MediaSUB" class="subDivTab" onmouseover="menuOverTab('Media');" onmouseout="menuOutTab('Media');">
+						<a href="/MED_ahs.asp">American Heritage TV Series</a>
+<a href="/MEDSchedule.asp">Broadcast Schedule</a>
+<a href="http://www.wallbuilderslive.com/" target="_blank">WallBuilders Live! Daily Radio</a>
+					</div>
+				</td>
+				<td>
+					<a href="/SCHwelcome.asp"><img id="Scheduling" src="/images/btnScheduling.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="SchedulingSUB" class="subDivTab" onmouseover="menuOverTab('Scheduling');" onmouseout="menuOutTab('Scheduling');">
+						<div class="subDivTabNew">
+	<a href="/SCHbios.asp">Speaker Bios</a>
+	<a href="/SCHcalendar.asp">Events Calendar</a>
+	<a href="/PBOverview.asp">Pastors' Briefings</a>
+	<a href="/SCHrequest.asp">Schedule an Event</a>
+</div>
+					</div>
+				</td>
+				<td>
+					<a href="http://www.profamily.com" target="_blank"><img id="PFLN" src="/images/btnPFLN.gif" alt="" onmouseover="menuOverTab(this.id);" onmouseout="menuOutTab(this.id);" border="0"></a><br>
+					<div id="PFLNSUB" class="subDivTab" onmouseover="menuOverTab('PFLN');" onmouseout="menuOutTab('PFLN');">
+						<a href="http://profamily.com/pfln" target="_blank">About PFLN</a>
+<a href="http://profamily.com" target="_blank">Legislators Conference</a>
+<a href="http://shop.wallbuilders.com/index/page/product/product_id/77/category_id/9/category_chain/9/product_name/Legislators+Conference+Scholarship" target="_blank">Sponsor a Legislator</a>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>
+		
+		<tr>
+			
+
+<td class="menuTD2">
+<form id="searchbox_017913191964562303374:p_grmfhrw8c" action="searchResults.asp">
+<input type="hidden" name="cx" value="017913191964562303374:p_grmfhrw8c">
+<input type="hidden" name="cof" value="FORID:11">
+	<table border="0" cellpadding="0" cellspacing="0" id="Table2" width="100%" align="center">
+		<tbody><tr>
+			<td valign="top" height="18px" colspan="1" align="center">
+				<input name="q" type="text" class="searchBX" value="Site Search..." onclick="clearField(this,'Site Search...');" onblur="fillField(this,'Site Search...');" id="Text1">
+			</td>
+			<td align="center"><input type="image" src="images/btngo.gif" id="sa" name="sa"></td>		
+		</tr>
+		
+		<tr>
+			<td colspan="2">
+				
+				<table border="0" width="100%" id="Table1" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td colspan="2">
+							<div><a href="default.asp"><span style="font-size: 8px; margin: 10px;">»HOME</span></a></div>
+						</td>
+					</tr>
+					<tr>
+						<td class="leftNavBulletTD" width="1%">&nbsp;</td><td class="MenuHeaders" width="99%" colspan="1">About Us</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+							<div class="leftMenuItems">
+								<a href="ABTOverview.asp">ABOUT US</a>
+								<a href="ABTbeInvolved.asp">PARTNER WITH US</a>
+								<a href="ABTbios.asp">SPEAKER BIOS</a>
+							</div>
+							
+							<div class="leftMenuItems">
+								<a href="ABTcontact.asp">CONTACT US</a>
+								<a href="ABTsignup.asp">MAILING LIST</a>
+							</div>	
+						</td>
+					</tr>
+				</tbody></table>
+				
+			</td> 
+		</tr>
+	</tbody></table>
+	</form>
+	<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_017913191964562303374%3Ap_grmfhrw8c&amp;lang=en"></script>
+ </td>
+
+			<td valign="top">
+			<form name="emailSignUpForm" action="ABTsignup.asp" method="post" id="emailSignUpForm" onsubmit="return validateEmail('homeEmail')" style="padding: 0px; margin: 0px;">
+	<div align="right" style="background-color: #1f1d5a; border-left: solid 1px #FFF; border-top: solid 1px #FFF; padding-right:25px;"> 
+		<table border="0" id="Table7">
+			<tbody><tr>
+				<td align="right" class="emailLabelTxt">Sign up for our Mailing List!</td>
+				<td align="center"><input type="text" name="homeEmail" id="homeEmail" value="Enter Email Address" onclick="clearField(this,this.defaultValue);" onblur="fillField(this,this.defaultValue);" class="emailSignUpSub"></td>
+				<td align="center"><input type="image" src="images/btngoG.gif" id="Image1" name="Image1"></td>
+			</tr>
+		</tbody></table>
+	</div>
+</form>
+				<table class="middleTD" border="0">
+					<tbody><tr>
+						<td colspan="1" class="CenteredHeaders">
+							Privacy Policy
+						</td>
+					</tr>
+					<!--<tr>
+						<td colspan="1" class="MainHeaders" style="padding-top:15px;">
+							Last updated: June 18, 2014
+						</td>
+					</tr>-->
+					<tr>
+						<td class="middleTD">
+						<!-- START PRIVACY POLICY CODE --><div style="font-family:arial"><strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or Sample Customer. You may, however, visit our site anonymously.<br><br>Google, as a third party vendor, uses cookies to serve ads on your site.
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>; To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>; To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>; To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>; To process transactions<br><blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</blockquote><br>; To administer a contest, promotion, survey or other site feature<br><br><br>; To send periodic emails<br><blockquote>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</blockquote>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br><br><br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.<br><br>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to process certain types of follow-up transactions and for risk management.<br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the WallBuilders' store and going to the 'My Account' page.<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><strong>Terms and Conditions</strong> <br><br>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://wallbuilders.com/TermsAndConditions.asp">http://wallbuilders.com/TermsAndConditions.asp</a><br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our <a style="text-decoration:none; color:#3C3C3C;" href="http://www.freeprivacypolicy.com/" target="_blank">privacy policy</a>.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://wallbuilders.com<br>PO Box 397<br>Aledo, TX 76008<br>United States<br>wbcustomerservice@wallbuilders.com<br><br><span></span><span></span>This policy is powered by Trust Guard, your <a rel="nofollow" style="color:#000; text-decoration:none;" href="http://www.trust-guard.com/PCI-Compliance-s/65.htm" target="_blank">PCI compliance</a> authority.<span></span><span></span><span></span><!-- END PRIVACY POLICY CODE -->
+						</div></td>
+					</tr>
+					
+				</tbody></table>
+			</td>
+		</tr><tr>
+    <td colspan="2" class="footerTD" align="center">
+        This site belongs to WallBuilders, LLC, a Texas Limited Liability Corporation | PO Box 397 | Aledo, Texas | 76008 | <a href="ABTcontact.asp">Contact Us</a>
+        <br>
+        <span style="font-size: 8px;">
+			powered by <a href="http://ChaseComputerServices.com" style="font-size: 8px;">ChaseComputerServices.com</a> &nbsp; 
+		    | &nbsp; design by <a href="http://blepo.com" style="font-size: 8px;">Blepo</a>. &nbsp; <a href="http://wallbuilders.com/TermsAndConditions.asp" style="font-size: 8px;">Terms and Conditions</a>&nbsp; <a href="http://wallbuilders.com/PrivacyPolicy.asp" style="font-size: 8px;">Privacy Policy</a></span>
+    </td>
+</tr>
+
+		</tbody></table>
+		<script type="text/javascript">
+	//var buddyDisplay = "none";
+	function showBuddy(e){
+	var kc = (e.keyCode) ? e.keyCode : e.which;
+
+	}
+</script>	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12597643-1']);
+  _gaq.push(['_setDomainName', '.wallbuilders.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+	<script type="text/javascript">
+//<![CDATA[
+/* Replacement calls. Please see documentation for more information. */
+
+if(typeof sIFR == "function"){
+
+// This is the preferred "named argument" syntax
+	//sIFR.replaceElement(named({sSelector:"body h1", sFlashSrc:"sIFR/WalkwayExpandedSemiBold.swf", sColor:"#000000", sLinkColor:"#000000", sBgColor:"#FFFFFF", sHoverColor:"#e0e0e0", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"textalign=center&offsetTop=6"}));
+//	sIFR.replaceElement(named({sSelector:".FlashNav", sFlashSrc:"sIFR/eurostyle.swf", sColor:"#666666", sLinkColor:"#000000", sBgColor:"#FFFFFF", sHoverColor:"#e0e0e0", sFlashVars:"textalign=left"}));
+	sIFR.replaceElement(named({sSelector:".leftNavBulletTD", sFlashSrc:"sIFR/font140.swf", sWmode:"transparent", sColor:"#990000", sLinkColor:"#000000", sBgColor:"#FFFFFF", sHoverColor:"#e0e0e0", sFlashVars:"textalign=left"}));
+	sIFR.replaceElement(named({sSelector:".MainHeaders", sFlashSrc:"sIFR/font140.swf", sWmode:"transparent", sColor:"#1b386c", sLinkColor:"#666666", sBgColor:"#FFFFFF", sHoverColor:"#ffffff", nPaddingLeft:0, sFlashVars:"textalign=left&offsetTop=3"}));
+	sIFR.replaceElement(named({sSelector:".emailLabelTxt", sFlashSrc:"sIFR/font140.swf", sWmode:"transparent", sColor:"#FFFFFF", sLinkColor:"#666666", sBgColor:"#FFFFFF", sHoverColor:"#ffffff", nPaddingLeft:0, sFlashVars:"textalign=right&offsetTop=4"}));
+//	sIFR.replaceElement(named({sSelector:".MenuSIFR", sFlashSrc:"sIFR/eurostyle.swf", sWmode:"transparent", sColor:"#ffffff", sLinkColor:"#ffffff", sBgColor:"#FFFFFF", sHoverColor:"#cccccc", nPaddingLeft:0, sFlashVars:"textalign=left&offsetTop=3"}));
+	sIFR.replaceElement(named({sSelector:".MenuHeaders", sFlashSrc:"sIFR/font140.swf", sWmode:"transparent", sColor:"#ffffff", sLinkColor:"#ffffff", sBgColor:"#FFFFFF", sHoverColor:"#cccccc", nPaddingLeft:0, sFlashVars:"textalign=left&offsetTop=3"}));
+
+	sIFR.replaceElement(named({sSelector:".MenuHome", sFlashSrc:"/sIFR/font140.swf", sWmode:"transparent", sColor:"#ffffff", sLinkColor:"#ffffff", sBgColor:"#FFFFFF", sHoverColor:"#cccccc", nPaddingLeft:0, sFlashVars:"textalign=left&offsetTop=3"}));
+
+	sIFR.replaceElement(named({sSelector:".CenteredHeaders", sFlashSrc:"sIFR/font140.swf", sWmode:"transparent", sColor:"#1b386c", sLinkColor:"#666666", sBgColor:"#FFFFFF", sHoverColor:"#cccccc", nPaddingLeft:0, sFlashVars:"textalign=center&offsetTop=3"}));
+
+	sIFR.replaceElement(named({sSelector:".cmasCenteredHeaders", sFlashSrc:"/sIFR/font140.swf", sWmode:"transparent", sColor:"#336633", sLinkColor:"#666666", sBgColor:"#FFFFFF", sHoverColor:"#cccccc", nPaddingLeft:0, sFlashVars:"textalign=center&offsetTop=3"}));
+        sIFR.replaceElement(named({sSelector:".cmasCenteredHeadersSUB", sFlashSrc:"/sIFR/font140.swf", sWmode:"transparent", sColor:"#990000", sLinkColor:"#666666", sBgColor:"#FFFFFF", sHoverColor:"#cccccc", nPaddingLeft:0, sFlashVars:"textalign=center&offsetTop=0"}));
+
+
+// This is the older, ordered syntax
+//	sIFR.replaceElement("div#FlashNav", "sIFR/sIFR.swf", "#000000", "#000000", "#FFFFFF", "#FFFFFF", 0, 0, 0, 0);
+	sIFR.replaceElement("h5#pullquote", "sIFR/sIFR.swf", "#000000", "#000000", "#FFFFFF", "#FFFFFF", 0, 0, 0, 0);
+	sIFR.replaceElement("h2", "sIFR/tradegothic.swf", "#000000", null, null, null, 0, 0, 0, 0);
+	sIFR.replaceElement("h4.subhead", "sIFR/tradegothic.swf", "#660000", null, null, null, 0, 0, 0, 0);
+	sIFR.replaceElement("h3.sidebox","sIFR/tradegothic.swf","#000000", "#000000", "#DCDCDC", "#DCDCDC", 0, 0, 0, 0, null);
+	sIFR.replaceElement("h3", "sIFR/tradegothic.swf", "#000000", null, null, null, 0, 0, 0, 0, null);
+
+};
+
+//]]>
+</script>
+
+
+</body></html>
