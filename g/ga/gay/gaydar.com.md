@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529170748id_/http%3A//gaydar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018132120id_/http%3A//gaydar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
