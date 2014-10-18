@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailingtoday.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140639id_/http%3A//www.retailingtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailingtoday.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018152054id_/http%3A//www.retailingtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RetailingToday.com
 
