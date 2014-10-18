@@ -1,32 +1,76 @@
-> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409165158id_/http%3A//www.redwingheritage.com/heritage-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018212641id_/http%3A//www.redwingheritage.com/USD/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Red Wing Heritage
 
-**
+This Red Wing Heritage Privacy Policy (this or the **"Privacy Policy")** explains our practices, defines our users' (" **you** " or " **your** ") privacy options and describes how your information is collected and used by Red Wing Shoe Company, Inc. (" **we** ," " **us** ," " **our** ," or " **Red Wing** "). 
 
-Red Wing Shoes Privacy and Site Use Policy
+**By using the Red Wing Heritage website or any of our products, services, features, tools, or resources you agree to the terms of this Privacy Policy and our Terms of Use.**
 
-**
+We reserve the right to modify this policy from time to time and will mark new versions with a corresponding effective date. We recommend you visit the Site to review any changes in our practices.
 
-Respecting our customer's privacy has never been an issue with us. You can visit this site without telling us who you are or revealing any information about yourself. We value your business and trust, which is why you never have to worry about Red Wing Shoes using your name or personal information inappropriately. We will not sell, exchange, rent or loan this information. 
+This Privacy Policy, along with our **Terms of Use** , governs your use of the Red Wing Heritage website at [www.redwingheritage.com](http://www.redwingheritage.com/) (" **Site** ") and any other links through social media platforms such as Facebook or Twitter. For the purposes of this Privacy Policy, we will refer to all of these access points as the Red Wing Heritage system (" **System** "). 
 
-Red Wing does continue to gather information from our customers on a voluntary basis. This data is very critical in helping us learn more about what our customers expect and demand from their Red Wing products and services. This means that any information we receive from a customer implies consent for our use of their information. Red Wing Shoes honors and follows the international guidelines of the Direct Marketing Association for Privacy Practices. We thank our customers for their trust. 
+Our Site may contain links to other websites. Except for direct links to our suppliers when clicking the "Where to Buy" link, these links are not endorsements of any products or services on such websites. These websites may have privacy policies different than our Privacy Policy.
 
-The site is not directed at children, and Red Wing will not knowingly collect any personal information from any person under age 13. Red Wing complies with the Children’s Online Privacy Protection Act and does not knowingly permit submission of Personal Information by anyone under 13 years of age. You must be over age 13 to use the site. 
+**What Information is Collected?**  
+We may collect personal information from you on our Site or through any other digital or personal communication with you in the System. Information collected by us is voluntarily provided by you and may include information such as your name, email address, and physical address. **** Our Site may also collect general information about your technology interface or preferences (such as the type of browser used or the files requested). Additionally, we may collect information regarding the retailers you visit and other information, as described in this Privacy Policy.
 
-Red Wing acknowledges and supports our customer's right to direct the use of their personal data and will maintain an "opt-out" option, which allows you to request the removal of your name from any mailing or telephone list. To remove your name, you can [email us](mailto:customerservice@redwingshoes.com) from our website or write to us at: 
+The information we may collect includes, but may not be limited to:
 
-Red Wing Shoe Co.  
-Attn: Internet Privacy  
-314 Main Street  
-Red Wing, MN 55066-2337
+  * Your contact information to register to receive updates, promotions and catalogues from us, such as your first name, last name, and email address;
+  * Your transaction history relating to the use of our products and services ;
+  * Information regarding your browser and other technical specifications required to use our Site;
+  * If we offer alternative sign ins, we may collect certain sign on information you have provided to third parties, such as Facebook or Twitter, when you sign on to use our Site or System through these third parties **;**
+  * Computer data or files, often called "cookies," which may be sent by your web browser and stored on an individual computer to allow our server to "recognize" you through the navigation of the Site and for us to credit your account for various online transactions;
+  * Computer data files, often called "web beacons" that are collected from emails or links on third-party sites that allow our server to evaluate the popularity of those links or the information contained in emails or on third-party sites; and
+  * Your IP address to measure our website traffic and to help provide a more personalized experience.
 
-Before we use your email address or other personal information to send you information or otherwise communicate with you, whether on behalf of Red Wing or our Red Wing partners, we ask that you indicate you wish to receive such communication by “opting in” to inclusion on our mailing lists. You can “opt in” at the time you register for membership or otherwise provide your contact information, or by sending an email to customer.service@redwingshoes.com 
 
-You may also change or revoke your consent or “opt-in” by giving Red Wing written notice at the above address provided doing so does not breach any legal duty or commitment you may have to Red Wing. Also, if you do revoke your consent, keep in mind that you will no longer receive information relating to our products and services. 
 
-Red Wing attempts to ensure that product descriptions and other information on the Site are as accurate as possible. However, Red Wing does not warrant that any information on the Site is accurate, complete or error-free. Red Wing may modify the Site, in whole or in part, at any time and without prior notice. 
+**Children Under the Age of 13**  
+Our Site and System are not designed for children and we do not knowingly collect information from any person we know is under the age of 13. ****
 
-You are solely responsible for obtaining and maintaining all computer hardware, software, internet connection, and other equipment necessary to access and use the Site, including all related expenses. You agree not to use the site in any manner so as to (a) adversely affect the site’s resources or the availability of the site to others; (b) violate any local, state, national or international law, including without limitation laws regarding the export of data from the United States or the country in which you reside; or (c) delete or revise any content on the site. You further agree not to use the site to harass any other person or to collect or store personal information about other visitors. Disclaimer: Your use of this site is at your own risk. 
+**How is User Information Used and Shared?**  
+We collect information about you in order to provide you with services and products and also collect information that is necessary for our Site to work properly. We use personal information about our users for a variety of purposes related to our business, including but not limited to:
 
-Copyright Notice: All images and editorial content contained within this web site have been copyrighted. No express or implied license for use exists. All rights to these images and text are reserved by Red Wing Shoe Company, Inc. Use of these images and/or editorial content may result in civil and criminal prosecution. Copyright ©2011 Red Wing Shoe Company, Inc. No part of this site may be distributed, reproduced, republished, or stored in a retrieval system, or re-transmitted in any form or by any means--electronic, mechanical, photocopying, recording or otherwise--without the express written permission of Red Wing Shoe Company, Inc. 
+  * Allowing you to receive information from us regarding Red Wing Heritage products;
+  * Adding information from social media platforms to our Site where you discuss our products or use a hashtag related to our products;
+  * Tracking information about your visits to our Site to allow us to provide better service;
+  * Using certain online preferences in the aggregate across all users to evaluate our Site and develop additional products and services to offer;
+  * Sending or initiating direct marketing programs, such as newsletters or information about new products or services we (or any of our affiliated companies) are offering;
+  * Contacting you regarding an inquiry on our Site that you have initiated;
+  * Providing information about your usage or preferences to our third-party vendors and providers; and
+  * Other purposes necessary to carry out our obligations under the Terms of Use.
+
+
+
+We may share information, in the aggregate, regarding your online browsing preferences to evaluate our products or allow third parties we work with to better serve our users. We will not share personally identifiable information in these instances, other than described in this Privacy Policy. ****
+
+We may provide user information to third-party service providers or vendors for purposes of, including without limitation, initiating direct marketing programs on our behalf, data tracking, maintenance or development of our System, development of online products and services or customer service or new product development, or other contracted promotional opportunities provided to our users. We will not share your information with third parties to directly market their products to you. We may share this information with any subsidiaries, licensees, suppliers, distributors, affiliates, assigns, successors, or other related entities and their respective owners. We may also share your personal information in connection with law enforcement requests or in response to investigations, subpoenas, court orders, or other legal process to establish or exercise our legal rights or defend against legal claims or as otherwise required by law.
+
+**Behavioral Advertising**  
+We may also use third-party vendors, such as Google Analytics, to advertise to our users online. These third-party vendors may display Red Wing Heritage or other Red Wing product advertisements on other websites based on your internet usage. More specifically, these vendors use first-party cookies (such as the Google Analytic cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the Site or another site affiliated with Red Wing products. Any information that these third parties collect via cookies is not linked to any personally identifiable information (name, address, email address, or phone number) we collect or you provide on the website. You can opt-out of Google Analytics for Display Advertising by using Google's Ads Settings.
+
+**How is User Information Protected?**  
+We maintain administrative, physical, and technical safeguards for all user information collected in our System. All Red Wing Heritage products you purchase are from third-party sites, so we do not receive your financial account information for purchases from online retailers made in connection with our products.
+
+**How Can Users Limit Information Collected?**  
+By providing information to us or browsing our Site, you are consenting to our use of your data as outlined in this Privacy Policy.
+
+While we work hard to use and disclose our users' personal information only for the purposes identified above, you can choose not to provide personal information or limit the personal information obtained by us as follows:
+
+  * You may have your contact information removed from our marketing lists that are used to inform users of new or relevant products, services, and special offers by clicking on the unsubscribe link in any communication received from us or by emailing us at [customer.service@redwingshoes.com](mailto:customer.service@redwingshoes.com);
+  * You may limit the collection of "cookies" from your Site usage through your browser settings. However, this may disable our ability to provide you with the most relevant products or information regarding the System; and
+  * You may limit the ability of Google Analytics to track your online activity, as outlined in the "Behavioral Advertising" section.
+
+
+
+**Your California Privacy Rights**  
+California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us via the Site.
+
+**Contacting Us**  
+For additional information pertaining to our Privacy Policy, please contact: 
+
+**Red Wing Shoe Company, Inc.**  
+**314 Main St  
+Red Wing MN 55066**
