@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinafirstwholesale.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117005433id_/http%3A//www.chinafirstwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinafirstwholesale.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018061035id_/http%3A//www.chinafirstwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Wholesale Electronics & Jewelry - China Wholesale - Dropship From China
 
@@ -36,6 +36,6 @@ Replica-Watches-Mall.COM containing the latest order information, identifiable p
 
 GIF89; **Indonesiancoder
 
-Linux hk02.mazentop.com 2.6.32-279.14.1.el6.x86_64 #1 SMP Tue Nov 6 23:43:09 UTC 2012 x86_64
+Linux localhost.localdomain 2.6.32-279.el6.x86_64 #1 SMP Fri Jun 22 12:19:21 UTC 2012 x86_64
 
 **
