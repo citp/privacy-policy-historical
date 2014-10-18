@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104300id_/http%3A//www.dupont.com/global-links/utility-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018101759id_/http%3A//www.dupont.com/global-links/utility-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -209,10 +209,10 @@ If you have any questions about this Privacy Statement, please contact DuPont at
 
 **DuPont Inquiry Management Center**
 
-Chestnut Run Plaza 730  
+Chestnut Run Plaza 735  
 974 Centre Road  
 Wilmington, DE 19805    
-Telephone: 302.992.6565  
-E-mail:  Privacy-Office@dupont.com
+Toll-free: 855-569-0964  
+E-mail: Privacy-Office@dupont.com
 
 rev. March 17, 2014
