@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the crf-usa.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061633id_/http%3A//www.crf-usa.org/web-site-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crf-usa.org privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018202511id_/http%3A//www.crf-usa.org/web-site-privacy-policy.html) for the most accurate reproduction.*
 
-# Web Site Privacy Policy - Constitutional Rights Foundation
+# Website & Donor Privacy Policy - Constitutional Rights Foundation
 
+Website & Donor Privacy Policy   
+  
 **What Our Policy Covers  
-** This site is owned and operated by Constitutional Rights Foundation (“CRF” or “We”). We take your online privacy seriously and understand the importance of safe and secure information. This policy statement describes how CRF may collect, use, and protect information provided on this website.  What Information CRF May Collect 
+** This site is owned and operated by Constitutional Rights Foundation (“CRF” or “We”). We take your privacy seriously and understand the importance of safe and secure information. This policy statement describes how CRF may collect, use, and protect information provided to us on this website and by other means.  
 
-We collect only the following information that you provide to us voluntarily online:  
+**What Information CRF May Collect**  
+We collect only the following information that you provide to us voluntarily: 
 
 Basic Information Necessary For Use of Our Services. When you register to use the website, we collect your name, email address, and your online user ID and passcode. For teachers to be able to access PDF files of any lessons or other materials, we also collect the name of your school and the subject(s) you teach.
 
@@ -21,8 +24,8 @@ Cookies. Cookies are pieces of information that are transferred to your computer
 
 User Communications. When you contact CRF through this website, we retain a copy of your communication in order to properly respond to you and to improve our services.
 
-**  How and When We Use Your Information  
-**The information we collect is used for administering our business activities. From time-to-time, we may contact you to request voluntary financial support of the Constitutional Rights Foundation, notify you of important changes to the website, or notify you about new services. In all cases, we will do our best to honor any user request not to receive such notifications.
+**How and When We Use Your Information  
+** The information we collect is used for administering our business activities. From time-to-time, we may contact you to request voluntary financial support of the Constitutional Rights Foundation, notify you of important changes to the website, or notify you about new services. In all cases, we will do our best to honor any user request not to receive such notifications.
 
 **How We Protect Your Information  
 ** We are a nonprofit organization that does not sell advertising. We may share aggregate statistics about site usage with our business partners. However, we will not sell, rent, license, or provide your information to any third party without your permission or unless we are required to do so by judicial, legal, or other government proceeding.   We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of information. Financial transactions are handled through the secure server of our shopping cart service. Your access to many services is passcode-protected. We advise that you do not disclose your passcode to anyone, and that you sign out at the end of your session on the website. **Privacy of Children**   
