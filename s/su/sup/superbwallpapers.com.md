@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbwallpapers.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213060639id_/http%3A//www.superbwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbwallpapers.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018155954id_/http%3A//www.superbwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last updated: 12/9/2012
 
-superbwallpapers.com respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. superbwallpapers.com has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this superbwallpapers.com Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
+Superbwallpapers.com respects the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. superbwallpapers.com has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this superbwallpapers.com Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website.
 
 We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.
 
@@ -29,6 +29,9 @@ We also collect information about your activities on and through this Website fr
 
 You may choose not to provide us with any personal information. In such event, you can still access and use many portions of this Website; however, you will not be able to access and use those portions of this Website or the services available on or through this Website that require your personal information.
 
+  
+
+
 ## Using Information
 
 We may use the information we collect to:
@@ -42,6 +45,7 @@ We may use the information we collect to:
   7. Provide technical support to you;
   8. Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.
 
+  
 
 
 ## Sharing Information
@@ -58,6 +62,9 @@ We also may disclose personal information about you upon request by the governme
 
 We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.
 
+  
+
+
 ## Protecting Your Information
 
 We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information. Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential. Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.
@@ -65,6 +72,9 @@ We use commercially reasonable efforts to safeguard and secure your personal inf
 We use commercially reasonable efforts to safeguard and secure the transmission of your personal information from your computer to our computers. When you place orders or access your personal information, we offer the use of a secure server. To the extent you select the secure server method and your browser supports such functionality, all credit card information you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.
 
 To help protect your computer and personal information, make sure you have current anti-virus and firewall software installed on your computer and update such software on a regular basis. Also, please review your credit card statement carefully and verify that all transactions are authorized and report any discrepancies immediately to your credit card company.
+
+  
+
 
 ## Cookies
 
@@ -82,11 +92,17 @@ You can choose to have your computer warn you each time a cookie is being sent o
 
 If you turn cookies off, you won't have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.
 
+  
+
+
 ## Children's Online Privacy
 
 We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information.
 
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](https://web.archive.org/contact/). 
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](https://web.archive.org/contact/).
+
+  
+
 
 ## Email Marketing Practices
 
@@ -94,13 +110,22 @@ When you submit any personal information, you understand and agree that superbwa
 
 superbwallpapers.com and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional. superbwallpapers.com may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey.
 
+  
+
+
 ## Chat Rooms and Forums
 
 This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. superbwallpapers.com cannot safeguard the privacy of personal information that is disclosed online in this manner.
 
+  
+
+
 ## Other Websites
 
 When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though superbwallpapers.com may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. superbwallpapers.com is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk.
+
+  
+
 
 ## Unsubscribing, Removing or Modifying Your Information
 
@@ -114,15 +139,24 @@ In some limited circumstances, such as to resolve disputes, troubleshoot problem
 
 We reserve the right to send you certain communications related to this Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
+  
+
+
 ## Terms and Conditions of Use
 
 superbwallpapers.com has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [superbwallpapers.com/terms-and-conditions](https://web.archive.org/terms-and-conditions/).
+
+  
+
 
 ## Questions and Feedback
 
 We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with superbwallpapers.com or this Website.
 
 You may contact us using the contact form located at [superbwallpapers.com/contact](https://web.archive.org/contact/).
+
+  
+
 
 ## Third parties and their privacy policies
 
