@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102051514id_/http%3A//www.astro.com.my/portal/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018082141id_/http%3A//www.astro.com.my/portal/privacy-policy-2/index.html) for the most accurate reproduction.*
 
 # Astro.com.my Portal - Privacy Policy
 
@@ -8,19 +8,19 @@
 
 **1\. STATEMENT**
 
-1.1 The following statement explains Astro's Privacy Policy ("this Policy") regarding the personal information collected by Astro about you. Upon registration and from time to time, you will be asked to submit personal information about yourself (eg name and email address etc.) in order to use the  Astro Website. By providing Astro with your details in the fields requested, you enable Astro to provide you with its services located at [www.astro.com.my](http://www.astro.com.my/) and its related channels (" Astro Service"). We will treat such personal information in accordance with this Policy. This privacy policy covers Astro and its website [www.astro.com.my](http://www.astro.com.my/) and its related channels.
+1.1 The following statement explains Astro's Privacy Policy ("this Policy") regarding the personal information collected by Astro about you. Upon registration and from time to time, you will be asked to submit personal information about yourself (eg name and email address etc.) in order to use the  Astro Website. By providing Astro with your details in the fields requested, you enable Astro to provide you with its services located at [www.astro.com.my](https://web.archive.org/) and its related channels (" Astro Service"). We will treat such personal information in accordance with this Policy. This privacy policy covers Astro and its website [www.astro.com.my](https://web.archive.org/) and its related channels.
 
-1.2 The Astro Service is provided to you subject to the Astro [Website Terms of Use & Notices](http://www.astro.com.my/portal/indices/index_103.html) and in accordance with the laws of Malaysia. Astro will act in accordance with current Malaysian legislation on personal information protection in this Policy and as far as practicable, aim to meet current Internet best practice.
+1.2 The Astro Service is provided to you subject to the Astro [Website Terms of Use & Notices](https://web.archive.org/portal/indices/index_103.html) and in accordance with the laws of Malaysia. Astro will act in accordance with current Malaysian legislation on personal information protection in this Policy and as far as practicable, aim to meet current Internet best practice.
 
 1.3 The term Authorised Third Parties describes the contractors, agents and third party suppliers with whom Astro or other members of the Astro Group enter into agreements from time to time and persons with whom they may contract in order to provide the Astro Services.
 
-For the purposes herein, all words and expressions shall have the same meaning as in the Astro [Website Terms of Use & Notices](http://www.astro.com.my/portal/indices/index_103.html), except where otherwise expressly stated.
+For the purposes herein, all words and expressions shall have the same meaning as in the Astro [Website Terms of Use & Notices](https://web.archive.org/portal/indices/index_103.html), except where otherwise expressly stated.
 
 By submitting your information, you consent to the use of your personal information collected by us, in the manner as set out in this Policy.
 
 **2\. CHANGES TO THIS POLICY**
 
-2.1 Astro may revise and update this Policy at any time by posting such revised Policy at [http://www.astro.com.my/privacy_policy.asp](http://www.astro.com.my/portal/indices/index_102.html). When Astro posts changes to this Privacy Policy, you will see the word "updated" next to the Privacy Policy link on the Home page of the Astro Website. You should periodically review this Policy for changes. Your continued use and access of the Astro Service and Website will mean you accept those changes.
+2.1 Astro may revise and update this Policy at any time by posting such revised Policy at [http://www.astro.com.my/privacy_policy.asp](https://web.archive.org/portal/indices/index_102.html). When Astro posts changes to this Privacy Policy, you will see the word "updated" next to the Privacy Policy link on the Home page of the Astro Website. You should periodically review this Policy for changes. Your continued use and access of the Astro Service and Website will mean you accept those changes.
 
 **3\. USERS UNDER 18**
 
@@ -28,55 +28,55 @@ By submitting your information, you consent to the use of your personal informat
 
 **4\. THE TYPE OF INFORMATION WE COLLECT**
 
-4.1 Personal Information Collection
+4.1 Personal Information Collection 
 
 4.1.1 Astro collects and uses your personal information (i.e. personal information which identifies you, e.g., your name and postal address, date of birth, gender, telephone and fax numbers, email address, and credit/debit card information; lifestyle) only with your knowledge and consent when you use the Astro Website, the Astro Services, make use of our product and service enquiries, or when you respond to communications from Astro (such as contests, questionnaires or surveys) and other information collected on registration or through surveys.
 
 4.1.2 When you request pages from the Astro Website server, it automatically collects some information about your preferences, including your IP address. Astro uses this for online-billing and to help diagnose problems with the Astro Website and server, to administer the Astro Website and for the purposes set out in Section 5 below.
 
-4.2 Non-personally Identifying Information
+4.2 Non-personally Identifying Information 
 
 4.2.1 Astro automatically collects aggregate and demographic information about the use of the Astro Website, including which pages are most frequently visited, how many visitors the Astro Website receives daily, how long visitors stay on each page, your preferences and other similar sites based on your browsing (click-stream) activities. This information may include the pages you browse and products and services viewed or ordered for example. This helps Astro to better provide you with a more enjoyable, customised service and experience in the future.
 
 4.2.2 Astro uses the information available to create profiles of the Astro Website user base. Astro may provide aggregate profile information of its users to advertisers to help tailor information from the advertisers to your interests. For example, Astro may inform advertisers that it has a certain number of Astro Membership users that have an interest in a topic and are interested in receiving information about the topic. 
 
-4.3 Third Party Information.
+4.3 Third Party Information. 
 
 4.3.1 Astro does not monitor or permanently store third party information save for the purpose of accounting, billing or record keeping, or unless required by law.
 
 **5\. USE OF YOUR PERSONAL INFORMATION**
 
-5.1 Your personal information will be used by Astro, the Astro Group or Authorised Third Parties, in support of the purposes stated at the time at which it was given or sought, and/or for the following reasons:
+5.1 Your personal information will be used by Astro, the Astro Group or Authorised Third Parties, in support of the purposes stated at the time at which it was given or sought, and/or for the following reasons: 
 
-5.1.1 For the purposes of technical administration of the Astro Website.
+5.1.1 For the purposes of technical administration of the Astro Website. 
 
-5.1.2 For research and development.
+5.1.2 For research and development. 
 
-5.1.3 Statistical analysis.
+5.1.3 Statistical analysis. 
 
-5.1.4 Customer administration.
+5.1.4 Customer administration. 
 
-5.1.5 Profiling service preferences.
+5.1.5 Profiling service preferences. 
 
-5.1.6 Finance and marketing operations and activities and/or as required in the provision of our services including but not limited to credit control services.
+5.1.6 Finance and marketing operations and activities and/or as required in the provision of our services including but not limited to credit control services. 
 
-5.1.7 In compliance with any regulatory, statutory or legal obligation imposed on us by any relevant authority.
+5.1.7 In compliance with any regulatory, statutory or legal obligation imposed on us by any relevant authority. 
 
-5.1.8 To service your Astro subscription account/s ("Astro Account") and otherwise operate and provide the Astro Service to you including but not limited to creating an Astro Membership and an optional wallet account;
+5.1.8 To service your Astro subscription account/s ("Astro Account") and otherwise operate and provide the Astro Service to you including but not limited to creating an Astro Membership and an optional wallet account; 
 
-5.1.8.1 To support your questions about billing or use of the Astro Service.
+5.1.8.1 To support your questions about billing or use of the Astro Service. 
 
-5.1.8.2 To detect and prevent fraudulent activity.
+5.1.8.2 To detect and prevent fraudulent activity. 
 
-5.1.9 To provide other goods and services by Astro or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto;
+5.1.9 To provide other goods and services by Astro or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto; 
 
-5.1.10 To verify and process payment when you use the Astro Website and/or the Astro Service or purchase goods and services from Astro;
+5.1.10 To verify and process payment when you use the Astro Website and/or the Astro Service or purchase goods and services from Astro; 
 
-5.1.11 To verify and record your personal particulars including comparing it with information from other sources and using the information to communicate with you;
+5.1.11 To verify and record your personal particulars including comparing it with information from other sources and using the information to communicate with you; 
 
-5.1.12 To conduct market research of the users of the Astro Website and Astro Service including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad aggregate terms to third parties who have or propose to have business dealings with Astro;
+5.1.12 To conduct market research of the users of the Astro Website and Astro Service including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad aggregate terms to third parties who have or propose to have business dealings with Astro; 
 
-5.1.13 To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by Astro;
+5.1.13 To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by Astro; 
 
 5.1.14 To comply with any order of court or directive from authorities investigating any alleged offence, misdeed and/or abuse or to enforce any of the terms in the Astro Website Terms of Use & Notices or, where such action is necessary to protect and defend the rights or property of Astro.
 
@@ -105,23 +105,23 @@ What is a Cookie?
 8.1 When you enter a website your computer will automatically be issued with a cookie. Cookies are text files that are placed in your computer's hard drive to identify your computer to our server. Generally, cookies themselves only record those areas of the site that have been visited by the computer in question, and the duration. Many websites do this whenever a user visits their site in order to track traffic flow.   
 8.2 Depending upon the type of browser you are using, you may set your computers to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to you.
 
-Astro Cookies
+Astro Cookies 
 
 8.3 Astro uses "cookies" to store and track information about you and your use of the Astro Website. Unless you have an Astro Membership, Astro cookies in themselves do not identify the individual user, just the computer used. You may browse the Astro Website anonymously until such registration.
 
-8.4 The Astro cookie and information retrieved from the Astro cookie is used in line with the uses set out in Section 5 above and more specifically:
+8.4 The Astro cookie and information retrieved from the Astro cookie is used in line with the uses set out in Section 5 above and more specifically: 
 
-8.4.1 To help save and retrieve passwords used on the Astro Website. This way, you will not have to re-enter information upon every new visit to the Astro Website.
+8.4.1 To help save and retrieve passwords used on the Astro Website. This way, you will not have to re-enter information upon every new visit to the Astro Website. 
 
-8.4.2 To track information such as the frequency and duration of your use of the Astro Website, your click-stream as you go through the Astro Website, your preferred sites, and help us determine whether you came to the Astro Website from a particular Internet link or banner advertisement.
+8.4.2 To track information such as the frequency and duration of your use of the Astro Website, your click-stream as you go through the Astro Website, your preferred sites, and help us determine whether you came to the Astro Website from a particular Internet link or banner advertisement. 
 
-8.4.3 To analyse the profile of the Astro Website visitors and users to helps Astro provide you with better service and to enhance our service.
+8.4.3 To analyse the profile of the Astro Website visitors and users to helps Astro provide you with better service and to enhance our service. 
 
-8.4.4 To personalize the content, banners and promotions that you will see on the Astro Website.
+8.4.4 To personalize the content, banners and promotions that you will see on the Astro Website. 
 
 8.5 Most cookies are "session cookies," meaning that they are automatically deleted from your computer's hard drive at the end of a session. You are always free to decline the Astro Website cookies if your browser permits, although in that case you may not be able to use certain features on the Astro Website and you may be required to re-enter your password more frequently during a session. 
 
-Third Party Cookies
+Third Party Cookies 
 
 8.6 Astro uses other third-party advertising companies to serve ads when you visit the Astro Website. In the course of serving advertisements to the Astro Website, our third-party advertisers may place or recognize a unique cookie in your computer. These companies may use information retrieved from their cookies to provide advertisements on the Astro Website and other websites about goods and services that may be of interest to you.
 
@@ -146,7 +146,7 @@ Please quote your name, address, user ID and Astro Account/Astro Membership numb
 
 **11\. SECURITY**
 
-11.1 The Internet is not a secure medium, and communications over the Internet may be subject to third-party interception. Astro cannot accept responsibility for any unauthorised access or loss of personal information, save in accordance with the Astro [Website Terms of Use & Notices](http://www.astro.com.my/portal/indices/index_103.html).
+11.1 The Internet is not a secure medium, and communications over the Internet may be subject to third-party interception. Astro cannot accept responsibility for any unauthorised access or loss of personal information, save in accordance with the Astro [Website Terms of Use & Notices](https://web.archive.org/portal/indices/index_103.html).
 
 11.2 Astro has implemented security policies, rules and technical measures to protect your Astro Membership information from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All our employees and data processors, who have access to and are associated with the processing of personal information, are obliged to respect the confidentiality of your Astro Membership information.
 
@@ -163,6 +163,6 @@ Please quote your name, address, user ID and Astro Account/Astro Membership numb
 **13\. CONTACTING THE ASTRO WEBSITE**
 
 13.1 If you have any questions about this Policy or your dealings with the Astro Web site, please write to:   
-[Webmaster Account](mailto:webmaster@astro.com.my)  
-or send an email through our Customer Care section:  
-[http://www.astro.com.my/customer/contact.asp](https://www.astro.com.my/astro/we_care.php?id_topic=1)
+[Webmaster Account](mailto:webmaster@astro.com.my)   
+or send an email through our Customer Care section:   
+<http://support.astro.com.my/HelpCenter/ContactUs.aspx>
