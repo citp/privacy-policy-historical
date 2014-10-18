@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327063023id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018025810id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
 
@@ -83,7 +83,7 @@ You can find out more about cookies by visiting <http://www.aboutcookies.org/> o
 
 3.3 If you enter a competition, we may use your personal information to manage any competition entries you submit, validate such competition entries, and send you any prizes you may win.
 
-3.4 If you sign up for our reminders service, we may use your personal information to send you email reminders regarding the renewal or expiry of your insurance policies or the expiry of an introductory offer on a financial product you hold. If you give your consent, we may also provide this information to third parties to enable them to notify you of suitable products and services at the appropriate time.
+3.4 If you sign up for our comparison table email service, we may use your personal information to send you emails regarding the comparison tables you requested. If you give your consent, we may also provide this information to third parties to enable them to notify you of suitable products and services at the appropriate time.
 
 3.5 If you sign up to receive our newsletters, we will use your personal information to send you the newsletter and manage your subscription.
 
@@ -106,6 +106,8 @@ You can find out more about cookies by visiting <http://www.aboutcookies.org/> o
 (g) send you email notifications when there has been activity on posts that you have interacted with in the money.co.uk community.
 
 (h) send you other periodic emails that you will have the ability to control the frequency of or unsubsribe from at any time.
+
+(i) share reviews added to money.co.uk with third parties (personal information will not be used to identify any individual user).
 
 3.9 We will not without your express consent provide your personal information to any third parties for the purposes of direct marketing.
 
