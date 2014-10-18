@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurance.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413183928id_/https%3A//www.esurance.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurance.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018120625id_/http%3A//www.esurance.com/legal/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Esurance
 
@@ -9,7 +9,7 @@ Esurance values its relationship with you. Protecting the privacy of your inform
   * Whether you are a current, former, or potential customer, Esurance treats your personal information with the same high level of confidentiality and security.
   * We never sell your personal information.
   * We only share your personal information as necessary to provide the insurance products and services you have requested or to contact you about Esurance's products and services.
-  * We **do not** share information with third parties for marketing purposes unless we have your prior permission to do so. This is our pledge to you.
+  * We do not share information with third parties for marketing purposes unless we have your prior permission to do so. This is our pledge to you.
 
 
 
@@ -49,7 +49,7 @@ All of the unaffiliated entities with which we may share your information are re
 
 ### Esurance communications
 
-As an Esurance policyholder, you may be contacted by Esurance regarding your policy and our products and services, such as billing notices, confirmations of changes, changes to our products, and other Esurance-specific communications. You may **not** unsubscribe from Esurance-specific communications that relate to your primary usage of our service and products and you agree to receive these if you make a purchase.
+As an Esurance policyholder, you may be contacted by Esurance regarding your policy and our products and services, such as billing notices, confirmations of changes, changes to our products, and other Esurance-specific communications. You may not unsubscribe from Esurance-specific communications that relate to your primary usage of our service and products and you agree to receive these if you make a purchase.
 
 From time to time, Esurance may contact you about third-party promotions. In addition, prior to purchasing a policy or after canceling your policy, Esurance may contact you to confirm your quote or invite you to come back and get a new quote or purchase a policy. You will have the ability to unsubscribe from whichever type of communication you received.
 
@@ -63,22 +63,23 @@ The Esurance website contains links to our business partners and links to other 
 
 ### Reviewing or correcting your information
 
-As a policyholder, you can always review and update your information through your account on our website at [www.esurance.com](https://web.archive.org/) or by calling our customer service center at 1-800-ESURANCE (1-800-378-7262). All consumers have the right to know the personal information that Esurance has about them, to make changes to that information, and to know the identity of any entity that Esurance has disclosed that information to within the previous 2 years. To make such an inquiry, please call our customer service center or write to the address listed below and identify the information you would like. You will be required to provide certain personal information for identity verification purposes. If your information is immediately accessible when you call, the customer service representative will review it with you and you may make changes to it at that time. If your information is not immediately accessible when you contact us, Esurance will inform you of the types of information we have about you within 30 business days. If you would like to further review the information, you may review and copy the information in person at our customer service center or request a copy be sent to you by mail. Esurance may charge a fee for providing a copy by mail. 
+As a policyholder, you can always review and update your information through your account on our website at www.esurance.com or by calling our customer service center at 1-800-ESURANCE (1-800-378-7262). All consumers have the right to know the personal information that Esurance has about them, to make changes to that information, and to know the identity of any entity that Esurance has disclosed that information to within the previous 2 years. To make such an inquiry, please call our customer service center or write to the address listed below and identify the information you would like. You will be required to provide certain personal information for identity verification purposes. If your information is immediately accessible when you call, the customer service representative will review it with you and you may make changes to it at that time. If your information is not immediately accessible when you contact us, Esurance will inform you of the types of information we have about you within 30 business days. If you would like to further review the information, you may review and copy the information in person at our customer service center or request a copy be sent to you by mail. Esurance may charge a fee for providing a copy by mail.
 
 Information Request  
 Esurance Customer Service  
 P.O. Box 5250  
-Sioux Falls, SD 57117-5250
+Sioux Falls, SD 57117-5250  
+
 
 ### Contact information
 
-For questions about our privacy policy, please contact us at the address below, or send an email to:  
-[privacy@esurance.com](mailto:privacy@esurance.com)
+For questions about our privacy policy, please contact us at the address below, or send an email to: [privacy@esurance.com](mailto:privacy@esurance.com)
 
 Privacy  
 Esurance Customer Service  
 P.O. Box 5250  
-Sioux Falls, 57117-5250
+Sioux Falls, 57117-5250  
+
 
 Esurance Insurance Services, Inc.  
 Esurance Insurance Company  
@@ -86,4 +87,4 @@ Esurance Insurance Company of New Jersey
 Esurance Property and Casualty Insurance Company  
 Home State County Mutual Insurance Company (for Esurance-Home State Customers)
 
-Esurance may modify this policy from time to time. The current policy is always available at [www.esurance.com](https://web.archive.org/). If significant changes are made to the policy, Esurance will notify its policyholders.
+Esurance may modify this policy from time to time. The current policy is always available at [www.esurance.com](https://www.esurance.com/). If significant changes are made to the policy, Esurance will notify its policyholders.
