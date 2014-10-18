@@ -1,12 +1,38 @@
-<!--The following is the downloaded HTML source of the gigmasters.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626003555id_/http%3A//www.gigmasters.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gigmasters.com privacy policy that was archived on 2014-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141018125243id_/http%3A//www.gigmasters.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="dyn detail-page contents wf-loading" xmlns:ng="http://angularjs.org" id="ng-app" ng-app="gmPublicApp"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580404200000/189324.js"></script><script src="//use.typekit.net/eus6dyd.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PH3CS6"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"9fe2a6dfe2","applicationID":"2331303","transactionName":"NFVbZkBVWUQABUddDg0ffV1GelJDIgldQBMMXFVXQBt+QwQLHHAIEEBVU0s=","queueTime":0,"applicationTime":53,"ttGuid":"97805C638AD3A2AA","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAOU15VGwEDV1BRBwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html lang="en-us" class="dyn wf-loading" xmlns:ng="http://angularjs.org" id="ng-app" ng-app="gmPublicApp"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580404200000/189324.js"></script><script src="//use.typekit.net/eus6dyd.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PH3CS6"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"9fe2a6dfe2","applicationID":"3447645","transactionName":"NFVbZkBVWUQABUddDg0ffV1GelJDIgldQBMMXFVXQBtnRQgQUlcYTHlXVldM","queueTime":0,"applicationTime":12,"ttGuid":"A089CA25A7E7F6EB","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
     <meta charset="utf-8">
     <title>Privacy Policy</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <link rel="icon" type="image/x-icon" href="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/images/favicon.ico">
+    <link href="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/select2.css" rel="stylesheet" type="text/css">
+    <link href="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/bootstrap.css" rel="stylesheet" type="text/css">
+
+    <!--[if lte IE 8]>
+    <link href="https://dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 9]>
+    <link href="https://dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/ie-tail.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+    <link href="https://dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/css/grid-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/scripts/gmLessThanIE9.js" type="text/javascript"></script>
+    <![endif]-->
+    <!--[if lte IE 9]>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/scripts/gmLessThanOrEqualToIE9.js" type="text/javascript"></script>
+    <![endif]-->
+
+
 
     <script type="text/javascript">
         (function (i, s, o, g, r, a, m) {
@@ -16,38 +42,13 @@
             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-3194344-1', '.gigmasters.com');
+        ga('create', 'UA-3194344-1',
+            '.gigmasters.com');
         ga('require', 'displayfeatures');
         ga('send', 'pageview');
     </script>
-
-
-    <link href="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/select2.css" rel="stylesheet" type="text/css">
-<link href="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/bootstrap.css" rel="stylesheet" type="text/css">
-<!--[if lte IE 8]>
-<link href="https://dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/bootstrap.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if lte IE 9]>
-<link href="https://dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/ie-tail.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 8]>
-<link href="https://dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/ie8.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 7]>
-<link href="https://dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/ie7.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 7]>
-<link href="https://dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/css/grid-ie7.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if lt IE 9]>
-<script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/scripts/gmLessThanIE9.js" type="text/javascript"></script>
-<![endif]-->
-<!--[if lte IE 9]>
-<script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/scripts/gmLessThanOrEqualToIE9.js" type="text/javascript"></script>
-<![endif]-->
-<meta content="Orchard" name="generator">
-
-
+    
+    
     <!--[if lte IE 8]>
         <script>
             document.createElement('ng-include');
@@ -59,7 +60,7 @@
             document.createElement('ng:pluralize');
             document.createElement('ng:view');
         </script>
-        <link href="https://dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/html/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+        <link href="https://dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/html/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
         <link href="/Static/respondjs/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
         <script src="/Static/respondjs/respond.proxy.js"></script>
     <![endif]-->
@@ -72,12 +73,12 @@
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PH3CS6');</script>
+})(window, document, 'script', 'dataLayer', 'GTM-PH3CS6');</script>
     <!-- End Google Tag Manager -->
 
-    <img src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/images/gm-logo-print-277x72.png" class="visible-print" width="277" height="72" alt="GigMasters">
+    <img src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/images/gm-logo-print-277x72.png" class="visible-print" width="277" height="72" alt="GigMasters">
 
-    <div id="header-wrapper" ng-controller="HeaderCtrl" class="hidden-print">
+<div id="header-wrapper" ng-controller="HeaderCtrl" class="hidden-print">
 
     <!-- sticky nav -->
     <div class="hidden-xs hidden-sm">
@@ -90,7 +91,6 @@
                 <ul class="header-sticky-nav hidden-md">
                     <li id="plan-an-event-btn"><a href="#">PLAN AN EVENT</a></li>
                     <li id="find-vendors-btn"><a href="#">FIND VENDORS</a></li>
-                    <li id="event-concierge-btn"><a href="/concierge">EVENT CONCIERGE</a></li>
                 </ul>
             </div>
         </div>
@@ -118,7 +118,7 @@
                             <ul class="list-inline member-list">
                                 <li class="col-sm-6" ng-repeat="member in favorites">
                                     <div class="member">
-                                        <a ng-href="{{member.profileUri}}" rel="nofollow" class="pull-left"><span ng-bind="member.profileName"></span></a>
+                                        <a ng-href="{{member.profileUrl}}" rel="nofollow" class="pull-left"><span ng-bind="member.profileName"></span></a>
                                         <a href="#" ng-click="removeFromFavorites(member.id)" class="pull-right"><span class="sp-master sp-nav-close"></span></a>
                                     </div>
                                 </li>
@@ -151,7 +151,7 @@
 
                 <div class="col-sm-6 col-md-3 col-md-offset-1">
 
-                    <div class="contact-item">
+                    <div ng-hide="hideOnHome()" class="contact-item">
                         <span class="sp-master sp-call contact-icon"></span>
                         <span class="contact-text">
                             Call An Event Specialist <a>1-866-342-9794</a>
@@ -244,7 +244,6 @@
                             <ul class="header-nav">
                                 <li id="plan-an-event-btn"><a href="#">PLAN AN EVENT</a></li>
                                 <li id="find-vendors-btn"><a href="#">FIND VENDORS</a></li>
-                                <li id="event-concierge-btn"><a href="/concierge">EVENT CONCIERGE</a></li>
                             </ul>
                         </div>
                     </div>
@@ -313,11 +312,11 @@
                 <div class="nav-category first">
                     <p><a href="/events/weddings" class="gm-purple">Weddings</a></p>
                     <ul>
-                        <li><a href="/events/Wedding-Reception">Wedding Reception</a></li>
-                        <li><a href="/events/Wedding-Ceremony">Wedding Ceremony</a></li>
-                        <li><a href="/events/Wedding-Cocktail-Hour">Wedding Cocktail Hour</a></li>
-                        <li><a href="/events/Bridal-Shower">Engagement Party</a></li>
-                        <li><a href="/events/Bachelorette-Party">Bachelorette Party</a></li>
+                        <li><a href="/events/wedding-reception">Wedding Reception</a></li>
+                        <li><a href="/events/wedding-ceremony">Wedding Ceremony</a></li>
+                        <li><a href="/events/wedding-cocktail-hour">Wedding Cocktail Hour</a></li>
+                        <li><a href="/events/bridal-shower">Engagement Party</a></li>
+                        <li><a href="/events/bachelorette-party">Bachelorette Party</a></li>
                         <li><a href="/events/weddings" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
@@ -326,11 +325,11 @@
                 <div class="nav-category">
                     <p><a href="/events/kids-parties" class="gm-pink">Kids’ Parties</a></p>
                     <ul>
-                        <li><a href="/events/Childrens-Birthday-Party">Birthday Party</a></li>
-                        <li><a href="/events/Sweet-16-Party">Sweet 16 Party</a></li>
-                        <li><a href="/events/Quinceanera">Quinceanera</a></li>
-                        <li><a href="/events/Bar-Mitzvah">Bar Mitzvah</a></li>
-                        <li><a href="/events/Bat-Mitzvah">Bat Mitzvah</a></li>
+                        <li><a href="/events/childrens-birthday-party">Birthday Party</a></li>
+                        <li><a href="/events/sweet-16-party">Sweet 16 Party</a></li>
+                        <li><a href="/events/quinceanera">Quinceanera</a></li>
+                        <li><a href="/events/bar-mitzvah">Bar Mitzvah</a></li>
+                        <li><a href="/events/bat-mitzvah">Bat Mitzvah</a></li>
                         <li><a href="/events/kids-parties" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
@@ -339,25 +338,25 @@
                 <div class="nav-category">
                     <p><a href="/events/corporate-events" class="gm-teal-light">Corporate</a></p>
                     <ul>
-                        <li><a href="/events/Corporate-Function">Corporate Function</a></li>
-                        <li><a href="/events/Fundraiser">Fundraiser</a></li>
-                        <li><a href="/events/Grand-Opening-Party">Grand Opening</a></li>
-                        <li><a href="/events/Cocktail-Party">Cocktail Party</a></li>
-                        <li><a href="/events/Convention">Convention</a></li>
+                        <li><a href="/events/corporate-function">Corporate Function</a></li>
+                        <li><a href="/events/fundraiser">Fundraiser</a></li>
+                        <li><a href="/events/grand-opening-party">Grand Opening</a></li>
+                        <li><a href="/events/cocktail-party">Cocktail Party</a></li>
+                        <li><a href="/events/convention">Convention</a></li>
                         <li><a href="/events/corporate-events" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a class="gm-green" href="/events/family-happenings">Family Events</a></p>
+                    <p><a class="gm-green" href="/events/family-events">Family</a></p>
                     <ul>
-                        <li><a href="/events/Birthday-Party">Birthday Party</a></li>
-                        <li><a href="/events/Private-Party">Private Party</a></li>
-                        <li><a href="/events/Anniversary-Party">Anniversary Party</a></li>
-                        <li><a href="/events/Picnic">Picnic</a></li>
-                        <li><a href="/events/Christening">Christening</a></li>
-                        <li><a href="/events/family-happenings" rel="nofollow">More ‣</a></li>
+                        <li><a href="/events/birthday-party">Birthday Party</a></li>
+                        <li><a href="/events/private-party">Private Party</a></li>
+                        <li><a href="/events/anniversary-party">Anniversary Party</a></li>
+                        <li><a href="/events/picnic">Picnic</a></li>
+                        <li><a href="/events/christening">Christening</a></li>
+                        <li><a href="/events/family-events" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
@@ -365,24 +364,24 @@
                 <div class="nav-category">
                     <p><a class="gm-red" href="/events/seasonal-events">Seasonal</a></p>
                     <ul>                      
-                        <li><a href="/events/World-Cup-Party">World Cup Party</a></li>
-                        <li><a href="/events/July-4th-Party">July 4th Party</a></li>
-                        <li><a href="/events/Labor-Day-Party">Labor Day Party</a></li>
-                        <li><a href="/events/Halloween-Party">Halloween Party</a></li>
-                        <li><a href="/events/Election-Day-Party">Election Day Party</a></li>
+                        <li><a href="/events/halloween-party">Halloween Party</a></li>
+                        <li><a href="/events/election-day-party">Election Day Party</a></li>
+                        <li><a href="/events/veterans-day-party">Veteran's Day Party</a></li>
+                        <li><a href="/events/thanksgiving-celebration">Thanksgiving Celebration</a></li>
+                        <li><a href="/events/hanukkah-celebration">Hanukkah</a></li>
                         <li><a href="/events/seasonal-events" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a class="gm-orange" href="/events/special-events">Special Events</a></p>
+                    <p><a class="gm-orange" href="/events/special-events">Special</a></p>
                     <ul>
-                        <li><a href="/events/school-functions" rel="nofollow">School Functions</a></li>
-                        <li><a href="/events/venue-events" rel="nofollow">Venue Events</a></li>
-                        <li><a href="/events/Community-Event">Community Event</a></li>
-                        <li><a href="/events/Celebration">Celebration</a></li>
-                        <li><a href="/events/Graduation-Party">Graduation Party</a></li>
+                        <li><a href="/events/community-event">Community Event</a></li>
+                        <li><a href="/events/celebration">Celebration</a></li>
+                        <li><a href="/events/graduation-party">Graduation Party</a></li>
+                        <li><a href="/events/private-party">Private Party</a></li>
+                        <li><a href="/events/cocktail-party">Cocktail Party</a></li>
                         <li><a href="/events/special-events" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
@@ -392,79 +391,79 @@
         <div id="find-vendors-drawer" class="row nav-drawer" style="display:none">
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category first">
-                    <p><a href="/Musical-Entertainment" class="gm-purple">Musical Entertainment</a></p>
+                    <p><a href="/musical-entertainment" class="gm-purple">Musical Entertainment</a></p>
                     <ul>
                         <li><a href="/liveband">Live Bands</a></li>
                         <li><a href="/soloists">Soloists</a></li>
                         <li><a href="/ensemble">Ensembles</a></li>
                         <li><a href="/dj">DJs</a></li>
-                        <li><a href="/services/Jazz-Music">Jazz</a></li>
-                        <li><a href="/Musical-Entertainment" rel="nofollow">More ‣</a></li>
+                        <li><a href="/services/jazz-music">Jazz</a></li>
+                        <li><a href="/musical-entertainment" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a href="/Variety-Act-Landing" class="gm-pink">Variety Acts</a></p>
+                    <p><a href="/variety-act-landing" class="gm-pink">Variety Acts</a></p>
                     <ul>
-                        <li><a href="/services/Face-Painting">Face Painter</a></li>
-                        <li><a href="/services/Balloon-Twister">Balloon Twister</a></li>
-                        <li><a href="/services/Clown">Clown</a></li>
-                        <li><a href="/services/Magician">Magician</a></li>
-                        <li><a href="/services/Costumed-Character">Costumed Character</a></li>
-                        <li><a href="/Variety-Act-Landing" rel="nofollow">More ‣</a></li>
+                        <li><a href="/services/face-painting">Face Painter</a></li>
+                        <li><a href="/services/balloon-twister">Balloon Twister</a></li>
+                        <li><a href="/services/clown">Clown</a></li>
+                        <li><a href="/services/magician">Magician</a></li>
+                        <li><a href="/services/costumed-character">Costumed Character</a></li>
+                        <li><a href="/variety-act-landing" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a href="/Speakers" class="gm-teal-light">Speakers</a></p>
+                    <p><a href="/speakers" class="gm-teal-light">Speakers</a></p>
                     <ul>
-                        <li><a href="/services/Motivational-Speaker">Motivational Speaker</a></li>
-                        <li><a href="/services/Inspirational-Speaker">Inspirational Speaker</a></li>
-                        <li><a href="/services/Keynote-Speaker">Keynote Speaker</a></li>
-                        <li><a href="/services/Corporate-Speaker">Corporate Speaker</a></li>
-                        <li><a href="/services/Business-Speaker">Business Speaker</a></li>
-                        <li><a href="/Speakers" rel="nofollow">More ‣</a></li>
+                        <li><a href="/services/motivational-speaker">Motivational Speaker</a></li>
+                        <li><a href="/services/inspirational-speaker">Inspirational Speaker</a></li>
+                        <li><a href="/services/keynote-speaker">Keynote Speaker</a></li>
+                        <li><a href="/services/corporate-speaker">Corporate Speaker</a></li>
+                        <li><a href="/services/business-speaker">Business Speaker</a></li>
+                        <li><a href="/speakers" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a href="/Party-Rental" class="gm-green">Party Rentals</a></p>
+                    <p><a href="/party-rental" class="gm-green">Party Rentals</a></p>
                     <ul>
-                        <li><a href="/services/Photo-Booths">Photo Booth</a></li>
-                        <li><a href="/services/Bounce-House">Bounce House</a></li>
-                        <li><a href="/services/Party-Tent-Rentals">Party Tent Rentals</a></li>
-                        <li><a href="/services/Animals-For-Parties">Animals For Parties</a></li>
-                        <li><a href="/services/Dunk-Tank">Dunk Tank</a></li>
-                        <li><a href="/Party-Rental" rel="nofollow">More ‣</a></li>
+                        <li><a href="/services/photo-booths">Photo Booth</a></li>
+                        <li><a href="/services/bounce-house">Bounce House</a></li>
+                        <li><a href="/services/party-tent-rentals">Party Tent Rentals</a></li>
+                        <li><a href="/services/animals-for-parties">Animals For Parties</a></li>
+                        <li><a href="/services/dunk-tank">Dunk Tank</a></li>
+                        <li><a href="/party-rental" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a href="/Transportation" class="gm-red">Transportation</a></p>
+                    <p><a href="/transportation" class="gm-red">Transportation</a></p>
                     <ul>
-                        <li><a href="/services/Party-Bus">Party Bus</a></li>
-                        <li><a href="/services/Party-Limo">Party Limo</a></li>
-                        <li><a href="/services/Wedding-Limo">Wedding Limo</a></li>
-                        <li><a href="/services/Event-Bus">Event Bus</a></li>
-                        <li><a href="/services/Event-Limo">Event Limousine</a></li>
-                        <li><a href="/Transportation" rel="nofollow">More ‣</a></li>
+                        <li><a href="/services/party-bus">Party Bus</a></li>
+                        <li><a href="/services/party-limo">Party Limo</a></li>
+                        <li><a href="/services/wedding-limo">Wedding Limo</a></li>
+                        <li><a href="/services/event-bus">Event Bus</a></li>
+                        <li><a href="/services/event-limo">Event Limousine</a></li>
+                        <li><a href="/transportation" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 col-md-2">
                 <div class="nav-category">
-                    <p><a href="/Event-Services-Landing" class="gm-orange">Event Services</a></p>
+                    <p><a href="/event-services-landing" class="gm-orange">Event Services</a></p>
                     <ul>
                         <li><a href="/event-services?service=event-planning">Event Planning</a></li>
                         <li><a href="/event-services?service=event-staffing">Event Staffing</a></li>
-                        <li><a href="/services/Photographer">Photographer</a></li>
+                        <li><a href="/services/photographer">Photographer</a></li>
                         <li><a href="/event-services?service=personal-style">Personal Style</a></li>
-                        <li><a href="/services/Videographer">Videographer</a></li>
-                        <li><a href="/Event-Services-Landing" rel="nofollow">More ‣</a></li>
+                        <li><a href="/services/videographer">Videographer</a></li>
+                        <li><a href="/event-services-landing" rel="nofollow">More ‣</a></li>
                     </ul>
                 </div>
             </div>
@@ -478,12 +477,11 @@
     </div>  
 </div>
 
+    
 
-    <div class="page-header">
+<div class="page-header">
     <div class="content">
-        
-
-<h1>Privacy Policy</h1>
+        <h1>Privacy Policy</h1>
     </div>
 </div>
 <div class="content">
@@ -492,100 +490,116 @@
             <div class="section">
                 <div id="20a0a775-5e33-4ee3-8f74-5459b6b5579b">
                     <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Gigmasters-com,-Inc-/asc?rid=20a0a775-5e33-4ee3-8f74-5459b6b5579b"></script>
-                    <a href="//privacy.truste.com/privacy-seal/Gigmasters-com,-Inc-/validation?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b" title="TRUSTe online privacy certification" target="_blank">
-                        <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Gigmasters-com,-Inc-/seal?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b" alt="TRUSTe online privacy certification">
-                    </a>
+                    <a href="//privacy.truste.com/privacy-seal/Gigmasters-com,-Inc-/validation?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Gigmasters-com,-Inc-/seal?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b" alt="TRUSTe online privacy certification"></a>
                 </div>
-                <div class="zone zone-content">
-<article class="page content-item">
-    <header>
-        
-
-
-    </header>
-    <div id="20a0a775-5e33-4ee3-8f74-5459b6b5579b" style="margin: 0px; padding: 0px; border: 0px; color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;"><span style="font-size: 2em; color: #c7492a;">GigMasters Privacy Policy</span></div>
-<p><em style="color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;">Effective June 14th, 2013</em><span style="color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;"></span></p>
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both; color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;">This privacy policy applies to www.gigmasters.com owned and operated by GigMasters.com, Inc. This privacy policy describes how Gigmasters.com, Inc. collects and uses the personal information you provide on our web site: www.gigmasters.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both; color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;">GigMasters.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with<a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" style="color: #c7492a;">TRUSTe's program requirements</a>&nbsp;including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.&nbsp;</p>
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both; color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;">If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by e-mail<a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a>, by telephone 866-342-9794, by postal mail GigMasters.com, Inc., 33 South Main Street, Norwalk, CT 06854. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the&nbsp;<a href="http://www.truste.org/consumers/watchdog_complaint.php" style="color: #c7492a;">TRUSTe Watchdog Dispute Resolution Process</a>&nbsp;<a href="http://www.truste.org/consumers/watchdog_complaint.php" style="color: #c7492a;">http://www.truste.org/consumers/watchdog_complaint.php</a>&nbsp;TRUSTe will serve as a liaison with the Web site to resolve users concerns.</p>
-<dl style="margin: 0px; padding: 0px; border: 0px; color: #333333; font-family: verdana, arial, helvetica, sans-serif; font-size: 11px; line-height: 14px;"><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Log Files</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are linked to personally identifiable information to help identify you and your shopping cart.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Cookies</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. These cookies are not linked to any personally identifiable information. The use of cookies by our partners is covered by our privacy policy. We do not have access and control over these cookies. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs images, and scripts that help them better manage content on our site. We do tie the information gathered to our Customers’ or Users’ personally identifiable information.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Behavioral Targeting/ Re-Targeting</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking&nbsp;<a href="http://preferences-mgr.truste.com/" style="color: #c7492a;">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Social Media Widgets</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Contact Information</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">Our site's registration form requires users to give us contact information such as their name and e-mail address. We use this information to initially enable our Gigmasters Booking Service. This will mean your contact information could eventually be shared with potential bands/event organizers who are interested in hiring you. We also use customer contact information from the registration form to send the user promotional material on behalf of some of our partners. The customer's contact information is also used to contact the visitor when necessary for following up with their account. Users may opt-out of receiving future promotional mailings; see the choice/opt-out section below. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Legal Disclaimer</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both;">This site contains links to other sites.<strong>&nbsp;Gigmasters.com</strong>&nbsp;is not responsible for the privacy practices or the content of such Web sites.</p>
-</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Email this site to a Friend</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address.We will automatically send the friend a one-time e-mail inviting them to visit the site. We do not store this information except to send this one-time e-mail</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Public Forums</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Security</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link<a href="http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html" style="color: #c7492a;">http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html</a>
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both;">We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both;">If you have any questions about security on our Web site, you can email us by clicking&nbsp;<a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a></p>
-</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Data Retention</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@gigmasters.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Choice/Opt-Out</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both;">This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
-<ol style="margin-top: 5px; margin-bottom: 10px;">
-<li style="margin: 0px; padding: 0px; border: 0px;">You can send email by clicking&nbsp;<a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">You can visit the following URL:&nbsp;<a href="https://www.gigmasters.com/unsubscribe" style="color: #c7492a;">http://www.gigmasters.com/unsubscribe</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">You can call the following telephone number: 866-342-9794</li>
-</ol></dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Correct/Update</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">This site gives users the following options for changing and modifying information previously provided.<ol style="margin-top: 5px; margin-bottom: 10px;">
-<li style="margin: 0px; padding: 0px; border: 0px;">email&nbsp;<a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">users can go to their control panel once logged in and update their profile.&nbsp;<a href="http://www.gigmasters.com/login" style="color: #c7492a;">http://www.gigmasters.com/login</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">call the following telephone number: 866-342-9794</li>
-</ol></dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Removal From Directory</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">This site gives users the following options for removing their listing from our directory.<ol style="margin-top: 5px; margin-bottom: 10px;">
-<li style="margin: 0px; padding: 0px; border: 0px;">email&nbsp;<a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">visit&nbsp;<a href="http://www.gigmasters.com/login" style="color: #c7492a;">http://www.gigmasters.com/login</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">call the following telephone number: 866-342-9794</li>
-</ol></dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Company Testimonials/Notable Quotes</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<a href="http://www.gigmasters.com/testimonials" style="color: #c7492a;">http://www.gigmasters.com/testimonials</a>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways:<ol style="margin-top: 5px; margin-bottom: 10px;">
-<li style="margin: 0px; padding: 0px; border: 0px;">email&nbsp;<a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a></li>
-<li style="margin: 0px; padding: 0px; border: 0px;">call the following telephone number: 866-342-9794</li>
-</ol></dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Service Providers</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Notification of Changes</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both;">If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via e-mail and/or by posting a notice on our Web site for 30 days prior to the change becoming effective.</p>
-</dd><dt style="margin: 0px; padding: 0px; border: 0px; font-weight: bold;">Contacting the Web Site</dt><dd style="margin: 0px 0px 0.5em; padding: 0px; border: 0px;">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-<p style="margin: 0px 0px 10px; padding: 0px; border: 0px; clear: both;">Michael Caldwell<br>GigMasters.com, Inc.<br>33 South Main Street<br>Norwalk, CT 06854<br><a href="http://www.gigmasters.com/contact" style="color: #c7492a;">http://www.gigmasters.com/contact</a></p>
-</dd></dl>
-</article></div>
+                <h3>GigMasters Privacy Policy</h3>
+                <p><em>Effective October 7th, 2014</em></p>
+<p>This privacy policy applies to www.gigmasters.com owned and operated by GigMasters.com, Inc. This privacy policy describes how Gigmasters.com, Inc. collects and uses the personal information you provide on our web site: www.gigmasters.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
+<p>GigMasters.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with&nbsp;<a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a>&nbsp;including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software.&nbsp;The TRUSTe program covers only information that is collected through this Web site,&nbsp;<a href="http://www.gigmasters.com/">www.gigmasters.com</a>.&nbsp;TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.&nbsp;</p>
+<p>If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by&nbsp;<a href="http://www.gigmasters.com/contact">e-mail</a>, by telephone 866-342-9794, by postal mail GigMasters.com, Inc., 33 South Main Street, Norwalk, CT 06854. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through&nbsp;<a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.&nbsp;TRUSTe will serve as a liaison with the Web site to resolve users concerns.</p>
+<p><strong>Log Files<br></strong>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are linked to personal&nbsp;information to help identify you and your shopping cart.</p>
+<p><strong>Cookies and Other Tracking Technologies<br></strong>Technologies such as: cookies, beacons, tags and scripts are used by&nbsp;Gigmasters.com&nbsp;and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers&nbsp; [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+<p>We use Local Storage Objects (LSOs) such as HTML5 [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.</p>
+<p><strong>Behavioral Targeting/ Re-Targeting<br></strong>We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking&nbsp;<a href="http://preferences-mgr.truste.com/">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+<p><strong>Social Media Widgets<br></strong>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p><strong>Contact Information<br></strong>Our site's registration form requires users to give us contact information such as their name and e-mail address. We use this information to initially enable our Gigmasters Booking Service. This will mean your contact information could eventually be shared with potential bands/event organizers who are interested in hiring you. We also use customer contact information from the registration form&nbsp;when you request for a quote for any kind of services you may need or when you sign up as one of our vendors or for us&nbsp;to send the user promotional material on behalf of some of our partners. The customer's contact information is also used to contact the visitor when necessary for following up with their account.&nbsp;The customer’s billing information such as credit card information will also be used when you sign up for an account.&nbsp;Users may opt-out of receiving future promotional mailings; see the choice/opt-out section below. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.</p>
+<p><strong>Legal Disclaimer<br></strong>Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.</p>
+<p>If Gigmaster.com&nbsp;is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+<p>This site contains links to other sites.<strong>&nbsp;Gigmasters.com</strong>&nbsp;is not responsible for the privacy practices or the content of such Web sites.</p>
+<p><strong>Email this site to a Friend<br></strong>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address.We will automatically send the friend a one-time e-mail inviting them to visit the site. We do not store this information except to send this one-time e-mail.</p>
+<p><strong>Public Forums<br></strong>This site makes chat rooms, forums, message boards, blogs and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+<p>Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.</p>
+<p><strong>Security<br></strong>The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link:&nbsp;<a href="http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html">http://www.verisign.com/products-services/security-services/ssl/ssl-information-center/how-ssl-security-works/index.html</a>]</p>
+<p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
+<p>If you have any questions about security on our Web site, you can email us by clicking&nbsp;<a href="http://www.gigmasters.com/contact">http://www.gigmasters.com/contact</a><a href="http://www.gigmasters.com/contact"></a></p>
+<p><strong>Data Retention<br></strong>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@gigmasters.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p><strong>Choice/Opt-Out<br></strong>Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.</p>
+<p>This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
+<ol>
+<li>You can send email by clicking&nbsp;<a href="http://www.gigmasters.com/contact">http://www.gigmasters.com/contact</a></li>
+<li>You can visit the following URL:&nbsp;<a href="/unsubscribe">http://www.gigmasters.com/unsubscribe</a></li>
+<li>You can call the following telephone number: 866-342-9794</li>
+</ol>
+<p><strong>Correct/Update/Delete<br></strong>This site gives users the following options for changing, modifying or deleting information previously provided.</p>
+<ol>
+<li>email&nbsp;<a href="http://www.gigmasters.com/contact">http://www.gigmasters.com/contact</a></li>
+<li>users can go to their control panel once logged in and update their profile.&nbsp;<a href="http://www.gigmasters.com/login">http://www.gigmasters.com/login</a></li>
+<li>call the following telephone number: 866-342-9794</li>
+</ol>
+<p><strong>Removal From Directory<br></strong>This site gives users the following options for removing their listing from our directory.</p>
+<ol>
+<li>email&nbsp;<a href="http://www.gigmasters.com/contact">http://www.gigmasters.com/contact</a></li>
+<li>visit&nbsp;<a href="http://www.gigmasters.com/login">http://www.gigmasters.com/login</a></li>
+<li>call the following telephone number: 866-342-9794</li>
+</ol>
+<p><strong>Company Testimonials/Notable Quotes<br></strong>We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<a href="http://www.gigmasters.com/testimonials">http://www.gigmasters.com/testimonials</a>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways:</p>
+<ol>
+<li>email&nbsp;<a href="http://www.gigmasters.com/contact">http://www.gigmasters.com/contact</a></li>
+<li>call the following telephone number: 866-342-9794</li>
+</ol>
+<p><strong>Service Providers<br></strong>We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.</p>
+<p><strong>Notification of Changes<br></strong>If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.</p>
+<p>If, however, we are going to use users’ personal information in a manner different from that stated at the time of collection we will notify users via e-mail and/or by posting a notice on our Web site for 30 days prior to the change becoming effective.</p>
+<p><strong>Contacting the Web Site<br></strong>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact</p>
+<p>Michael Caldwell<br>GigMasters.com, Inc.<br>33 South Main Street<br>Norwalk, CT 06854<br><a href="http://www.gigmasters.com/contact">http://www.gigmasters.com/contact</a></p>
             </div>
         </div>
-        <div class="col-md-5 contact-info clearfix">
-    <div class="col-md-12 col-xs-4 contact-info-item">
-        <a href="tel:866-342-9794">
-            <span class="sp-contact-us sp-live-support hidden-xs"></span>
-            <span class="sp-contact-us sp-live-support-small visible-xs"></span>
-        </a>
-        <div>
-            <h4>Live Support</h4>
-            <p class="visible-md visible-lg">
-                9am - 8:30pm EST (M-W)<br>
-                9am - 5:30pm EST (Th-F)<br>
-                (866) 342-9794
-            </p>
+        <div class="col-md-4">
+    <div class="contact-us-info">
+        <div class="col-md-12 col-xs-4 contact-us-class">
+            <a href="tel:866-342-9794">
+                <span class="sp-contact-us sp-live-support hidden-xs"></span>
+                <span class="sp-contact-us sp-live-support-small visible-xs"></span>
+            </a>
+            <div>
+                <a href="tel:866-342-9794">
+                    <h4>Live Support</h4>
+                </a>
+                <p class="visible-md visible-lg">
+                    9am - 8:30pm EST (M-W)<br>
+                    9am - 5:30pm EST (Th-F)<br>
+                    (866) 342-9794
+                </p>
+            </div>
         </div>
-    </div>
-    <div class="col-md-12 col-xs-4 contact-info-item">
-        <a href="/help/">
-            <span class="sp-contact-us sp-help-center hidden-xs"></span>
-            <span class="sp-contact-us sp-help-center-small visible-xs"></span>
-        </a>
-        <div>
-            <h4>Help Center (FAQs)</h4>
-            <p class="visible-md visible-lg">
-                Visit our <a href="/help/">Help Center</a> where you'll find answers to
-                common questions about our event booking service.
-            </p>
+        <div class="col-md-12 col-xs-4 contact-us-class">
+            <a href="/help">
+                <span class="sp-contact-us sp-help-center hidden-xs"></span>
+                <span class="sp-contact-us sp-help-center-small visible-xs"></span>
+            </a>
+            <div>
+                <a href="/help">
+                    <h4>Help Center (FAQs)</h4>
+                </a>
+                <p class="visible-md visible-lg">
+                    Visit our <a href="/help">Help Center</a> where you'll find answers to
+                    common questions about our event booking service.
+                </p>
+            </div>
         </div>
-    </div>
-    <div class="col-md-12 col-xs-4 contact-info-item">
-        <a href="https://maps.google.com/maps?q=33+South+Main+Street,+Norwalk,+CT+06854&amp;hnear=33+S+Main+St,+Norwalk,+Connecticut+06854" target="_blank">
-            <span class="sp-contact-us sp-gig-hq hidden-xs"></span>
-            <span class="sp-contact-us sp-gig-hq-small visible-xs"></span>
-        </a>
-        <div>
-            <h4>GigMasters HQ</h4>
-            <p class="visible-md visible-lg">
-                33 South Main Street<br>
-                Norwalk, CT 06854
-            </p>
+        <div class="col-md-12 col-xs-4 contact-us-class">
+            <a href="" target="_blank">
+                <span class="sp-contact-us sp-gig-hq hidden-xs"></span>
+                <span class="sp-contact-us sp-gig-hq-small visible-xs"></span>
+            </a>
+            <div>
+                <a href="" target="_blank">
+                    <h4>GigMasters HQ</h4>
+                </a>
+                <p class="visible-md visible-lg">
+                    33 South Main Street<br>
+                    Norwalk, CT 06854
+                </p>
+            </div>
         </div>
-    </div>
-</div>
-<div class="clearfix"></div>
+        <div class="clearfix"></div>
     </div>
 </div>
 
+    </div>
+</div>
 
-    <div id="footer" class="hidden-print">
+<div id="footer" class="hidden-print">
 
 	<!-- Full Site Footer -->
 	<div class="hidden-xs">
@@ -627,11 +641,11 @@
 				<div class="col-md-4 col-sm-4 footer-trust">
 					<div>
                         <a href="/buyer-protection"><span class="sp-master sp-buyer-protection"></span></a>
-                        <a href="http://www.bbb.org/connecticut/business-reviews/entertainers/gigmasters-com-inc-in-norwalk-ct-87004338/"><span class="sp-master sp-accredited"></span></a>
+                        <a href="http://www.bbb.org/connecticut/business-reviews/entertainers/gigmasters-com-inc-in-norwalk-ct-87004338/" target="_blank"><span class="sp-master sp-accredited"></span></a>
 					</div>
 					<div>
-                        <a href="http://privacy.truste.com/privacy-seal/Gigmasters-com,-Inc-/validation?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b"><span class="sp-master sp-truste"></span></a>
-                        <a href="https://www2.mcafeesecure.com/verify?host=www.gigmasters.com"><span class="sp-master sp-mcafee"></span></a>
+                        <a href="http://privacy.truste.com/privacy-seal/Gigmasters-com,-Inc-/validation?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b" target="_blank"><span class="sp-master sp-truste"></span></a>
+                        <a href="https://www2.mcafeesecure.com/verify?host=www.gigmasters.com" target="_blank"><span class="sp-master sp-mcafee"></span></a>
 					</div>
 					<div>
                         <a href="/user-agreement">USER AGREEMENT</a>
@@ -645,9 +659,10 @@
 							<ul>
 								<li><a href="/about">ABOUT</a></li>
                                 <li><a href="/advertise-with-us">ADVERTISE</a></li>
-								<li><a href="http://blog.gigmasters.com">BLOGS</a></li>
+								<li><a href="http://itg.gigmasters.com">BLOG</a></li>
 								<li><a href="/careers">CAREERS</a></li>
 								<li><a href="/contact">CONTACT</a></li>
+                                <li><a href="/free-guides">FREE GUIDES</a></li>
 								<li><a href="/press-center">PRESS</a></li>
                                 <li><a href="/rising-star">RISING STAR</a></li>
 								<li><a href="/signup/landing">SIGNUP</a></li>
@@ -657,11 +672,9 @@
 							<ul>
                                 <li><a href="/events/corporate-events">CORPORATE</a></li>
                                 <li><a href="/events/kids-parties">KIDS’ PARTIES</a></li>
-                                <li><a href="/events/family-happenings">FAMILY EVENTS</a></li>
-                                <li><a href="/events/school-functions">SCHOOL FUNCTIONS</a></li>
+                                <li><a href="/events/family-events">FAMILY</a></li>
                                 <li><a href="/events/seasonal-events">SEASONAL</a></li>
-                                <li><a href="/events/special-events">SPECIAL EVENTS</a></li>
-                                <li><a href="/events/venue-events">VENUE EVENTS</a></li>
+                                <li><a href="/events/special-events">SPECIAL</a></li>
                                 <li><a href="/events/weddings">WEDDINGS</a></li>
 							</ul>
 						</div>
@@ -731,19 +744,19 @@
 	</div>
 
 </div>
-
     <!-- Global Script Includes -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/scripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/scripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular.min.js" type="text/javascript"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-resource.min.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/js/ui-bootstrap-tpls.min.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/js/ng-infinite-scroll.js"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/scripts/jquery.cookie.min.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/js/angular-slider.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/js/select2.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/js/ng/gmPublic.js" type="text/javascript"></script>
-    <script src="//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/js/drawer.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/js/ui-bootstrap-tpls.min.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/js/ng-infinite-scroll.js"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/scripts/jquery.cookie.min.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/js/angular-slider.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/js/select2.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/scripts/angular-debounce.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/js/ng/gmPublic.js" type="text/javascript"></script>
+    <script src="//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/js/drawer.js" type="text/javascript"></script>
     <script> (function (d) { d.className = "dyn" + d.className.substring(6, d.className.length); })(document.documentElement);</script>
     <script type="text/javascript">
         (function () {
@@ -754,7 +767,6 @@
             var h = document.getElementsByTagName("html")[0]; h.className += " wf-loading"; var t = setTimeout(function () { h.className = h.className.replace(/(\s|^)wf-loading(\s|$)/g, " "); h.className += " wf-inactive" }, config.scriptTimeout); var tk = document.createElement("script"), d = false; tk.src = '//use.typekit.net/' + config.kitId + '.js'; tk.type = "text/javascript"; tk.async = "true"; tk.onload = tk.onreadystatechange = function () { var a = this.readyState; if (d || a && a != "complete" && a != "loaded") return; d = true; clearTimeout(t); try { Typekit.load(config) } catch (b) { } }; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(tk, s)
         })();
     </script>
-    
 
     <script type="text/javascript">
         $(document).ready(function () {
@@ -762,7 +774,7 @@
                 var liveperson = document.createElement('script');
                 liveperson.type = 'text/javascript';
                 liveperson.async = true;
-                liveperson.src = '//dd86mil3sc3or.cloudfront.net/5.1.0.293/Content/scripts/LivePersonMonitor.js';
+                liveperson.src = '//dd86mil3sc3or.cloudfront.net/5.1.1.292/Content/scripts/LivePersonMonitor.js';
                 var s = document.getElementsByTagName('script')[0];
                 s.parentNode.insertBefore(liveperson, s);
             }
@@ -779,19 +791,20 @@
         })(document, "script", "hs-analytics", 300000);
     </script>
     <!-- End of Async HubSpot Analytics Code -->
+    
+    <!--[if lte IE 8]>
+        <script type="text/javascript">
+            var $buoop = {};
+            $buoop.ol = window.onload;
+            window.onload = function () {
+                try { if ($buoop.ol) $buoop.ol(); } catch (e) { }
+                var e = document.createElement("script");
+                e.setAttribute("type", "text/javascript");
+                e.setAttribute("src", "//browser-update.org/update.js");
+                document.body.appendChild(e);
+            }
+        </script> 
+    <![endif]-->
+    
 
-    <!-- browser-upgrade banner-->
-    <script type="text/javascript">
-        var $buoop = {};
-        $buoop.ol = window.onload;
-        window.onload = function () {
-            try { if ($buoop.ol) $buoop.ol(); } catch (e) { }
-            var e = document.createElement("script");
-            e.setAttribute("type", "text/javascript");
-            e.setAttribute("src", "//browser-update.org/update.js");
-            document.body.appendChild(e);
-        }
-    </script> 
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script type="text/javascript" src="//browser-update.org/update.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
