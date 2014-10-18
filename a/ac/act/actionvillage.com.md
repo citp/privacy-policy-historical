@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionvillage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074736id_/http%3A//actionvillage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionvillage.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018235034id_/http%3A//actionvillage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
