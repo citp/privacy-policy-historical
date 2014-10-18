@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redenergy.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629190937id_/http%3A//www.redenergy.com.au/page.html%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redenergy.com.au privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018023834id_/http%3A//www.redenergy.com.au/page.html%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Energy
 
@@ -6,8 +6,8 @@ We understand that your privacy is important to you. Red Energy is committed to 
 
 This policy sets out how and when Red Energy collects, uses and discloses your personal information and credit information and how you may request access to your personal and credit information. 
 
-[View Red Energy Privacy Policy](https://web.archive.org/web/20140629190937id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Privacy-Policy.pdf "Red Energy Privacy Policy")  
-[View Red Energy Privacy Collection Statement – Customer and Potential Customers](https://web.archive.org/web/20140629190937id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Privacy-Collection-Statement-Customer-and-Potential-Customers.pdf "View Red Energy Privacy Collection Statement  – Customer and Potential Customers")  
-[View Red Energy Credit Reporting Collection Statement – Notifiable Matters for Customers](https://web.archive.org/web/20140629190937id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Credit-Reporting-Collection-Statement-Notifiable-Matters-to-Customer.pdf "View Red Energy Credit Reporting Collection Statement – Notifiable Matters for Customers")  
-[View Red Energy Privacy and Collection Statement – Commercial and Industrial](https://web.archive.org/web/20140629190937id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Privacy-Collection-Commercial-and-Industrial.pdf "View Red Energy Privacy and Collection Statement – Commercial and Industriall")  
+[View Red Energy Privacy Policy](https://web.archive.org/web/20141018023834id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Privacy-Policy.pdf "Red Energy Privacy Policy")  
+[View Red Energy Privacy Collection Statement – Customer and Potential Customers](https://web.archive.org/web/20141018023834id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Privacy-Collection-Statement-Customer-and-Potential-Customers.pdf "View Red Energy Privacy Collection Statement  – Customer and Potential Customers")  
+[View Red Energy Credit Reporting Collection Statement – Notifiable Matters for Customers](https://web.archive.org/web/20141018023834id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Credit-Reporting-Collection-Statement-Notifiable-Matters-to-Customer.pdf "View Red Energy Credit Reporting Collection Statement – Notifiable Matters for Customers")  
+[View Red Energy Privacy and Collection Statement – Commercial and Industrial](https://web.archive.org/web/20141018023834id_/http%3A//www.redenergy.com.au/docs/Red-Energy-Privacy-Collection-Commercial-and-Industrial.pdf "View Red Energy Privacy and Collection Statement – Commercial and Industriall")  
 
