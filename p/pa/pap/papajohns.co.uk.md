@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006041048id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018063035id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Papa John's - Better Ingredients, Better Pizza - Papa John's : Privacy Statement
-
-**Offers may not be available in NI.  
-Please check with your local stores or visit [www.papajohns.ie](http://www.papajohns.ie/)**
-
-## Papa John's : Privacy Statement
+# Pizza Delivery | Order Quality Pizza Online With Papa Johns - Papa John's : Privacy Statement
 
 Papa John's has created this privacy statement in order to demonstrate our strong commitment to protecting the privacy of all visitors to our site. If you have any questions or comments about this Privacy Statement, they can be directed to [webmaster@papajohns.co.uk](mailto:web_master@papajohns.co.uk) or in writing to the address supplied at the bottom of this page. 
 
