@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carolinahuddle.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214050605id_/http%3A//www.carolinahuddle.com/boards/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolinahuddle.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019005251id_/http%3A//www.carolinahuddle.com/boards/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Carolina Huddle
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
