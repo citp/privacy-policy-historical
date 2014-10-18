@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611084256id_/http%3A//www.hairsprayandhighheels.net/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018210730id_/http%3A//www.hairsprayandhighheels.net/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hairspray and Highheels
 
@@ -30,7 +30,7 @@ Any of the information we collect from you may be used in one of the following w
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-**NOTE:  **If at anytime you would like to unsubscribe from receiving fute emails, we include detailed unsubscribe instructions at the bottom of each email.
+**NOTE:  **If at anytime you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **HOW DO WE PROTECT YOUR INFORMATION?**
 
@@ -94,8 +94,8 @@ Hi, I'm Ange! I'm a fun loving Jersey girl married to my best friend and trying 
 
 #### Latest posts by Angela Peters ([see all](http://www.hairsprayandhighheels.net/author/angela/))
 
-  * [Color Crush: Neon Must Haves](http://www.hairsprayandhighheels.net/2014/06/color-crush-neon-must-haves/) \- June 11, 2014
-  * [Love Your Glasses](http://www.hairsprayandhighheels.net/2014/06/love-glasses/) \- June 10, 2014
-  * [The Best Makeup Primers](http://www.hairsprayandhighheels.net/2014/06/best-makeup-primers/) \- June 9, 2014
+  * [Paypal Cash Giveaway](http://www.hairsprayandhighheels.net/2014/10/paypal-cash-giveaway/) \- October 18, 2014
+  * [Dove Pure Care Dry Oil](http://www.hairsprayandhighheels.net/2014/10/dove-pure-care-dry-oil/) \- October 17, 2014
+  * [Chic Ponytail Tutorial](http://www.hairsprayandhighheels.net/2014/10/chic-ponytail-tutorial/) \- October 16, 2014
 
 
