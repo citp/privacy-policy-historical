@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedapartments.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212173255id_/http%3A//www.ratedapartments.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedapartments.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018213643id_/http%3A//www.ratedapartments.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RatedApartments.com
 
