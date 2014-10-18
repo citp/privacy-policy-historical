@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scoopnyc.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325022623id_/http%3A//www.scoopnyc.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scoopnyc.com privacy policy that was archived on 2014-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141018060057id_/http%3A//www.scoopnyc.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -73,15 +73,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <meta name="p:domain_verify" content="ec326e454c0c6fcab7602876f1550d99">
 </head>
 <body class=" cms-page-view cms-privacy-policy">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-3VGP"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-3VGP');</script>
-<!-- End Google Tag Manager -->
 <script type="text/javascript">
     default_product_marketing_text = '';
 </script><div class="subscribe-popup dd">
@@ -89,8 +80,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <h2>Let’s Stay in Touch…</h2>
     <p>Enter your email and be the first to know about new arrivals and online exclusives.</p>
-
-    <form action="" id="signup-form" method="post">
+    <p class="discount">ENJOY <strong>20% OFF</strong> YOUR NEXT FULL PRICE PURCHASE FOR SIGNING UP.</p>
+    
+    <form action="http://www.scoopnyc.com/newsletter/subscriber/new/" id="signup-form" method="post">
+        <input type="hidden" name="snewsletter_location" value="newsletter_page">
         <div class="form-row cf">
             <div class="form-field wide-form-field">
                 <label for="subscribe-email">Email<span class="req">*</span></label>
@@ -175,51 +168,82 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div id="signup_message_page" style=""></div>
         <input type="submit" value="Submit" id="submitSignup" onclick="dataLayer.push({event: 'PopUpEmail'})" class="btn">
 
-
     </form>
 </div> <!-- /.popup subscribe-popup -->
 <!-- End Signups -->
 <script type="text/javascript">
-    var form = new VarienForm('signup-form', true);
-
-    function show_message_top(message, good) {
-        if (good) {
-            $j('#signup_message_page').css('color', '#ed1c24');
-        } else {
-            $j('#signup_message_page').css('color', '#a00');
-        }
-
-        $j('#signup_message_page').html(message);
+//<[CDATA[
+var form = new VarienForm('signup-form', true);
+function show_message_top(message, good) {
+    if (good) {
+        $j('#signup_message_page').css('color', '#ed1c24');
+    } else {
+        $j('#signup_message_page').css('color', '#a00');
     }
 
-    var working = false;
+    $j('#signup_message_page').html(message);
+}
 
-    $j(document).on('click','#submitSignup', function(e) {
-        e.preventDefault();
-        if (form.validator.validate()) {
-            show_message_top('Signing up...', true);
+var working = false;
 
-            jQuery.ajax({
-                url: '/newsletter/subscriber/new',
-                type: 'post',
-                data: form.form.serialize(),
-                success: function(data, textStatus) {
-                    show_message_top(data.message, data.success);
-                    working = false;
-                    setTimeout(function(){
-                        $j('.subscribe-popup:visible').removeClass('loaded').stop(true,true).fadeOut(300);
-                        $j('#overlay:visible').stop(true,true).fadeOut(500);
-                    },4000);
-                    if (data.message.match(/Thank you/)) {
-                        _gaq.push(['_trackEvent', 'Email', 'Sign Up ', 'Email Sign Up']);
-                    }
-                }
-            });
-        }
+$j(document).on('click','#submitSignup', function(e) {
 
-        return false;
-    });
+    e.preventDefault();
+    if (form.validator.validate()) {
+    
+        show_message_top('Signing up...', true);
+        $j('#submitSignup').attr('disabled', 'disabled');        
+        $j.ajax({
+            url: $j('#signup-form').attr('action'),
+            data: $j('#signup-form').serialize(),
+            type: 'post',
+            success: function(data, textStatus) {
+            
+                show_message_top(data.message, data.success);
+                working = false;
+                setTimeout(function(){
+                    $j('.subscribe-popup:visible').removeClass('loaded').stop(true,true).fadeOut(300);
+                    $j('#overlay:visible').stop(true,true).fadeOut(500);
+                },4000);
+                
+                if ((typeof data.message != 'undefined') && data.message.match(/Thank you/)) {
+                                            dataLayer.push({event: 'EmailThankYou'});
+                                    }
+            }
+        });
+    }
+    return false;
+});
+//]]>
 </script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+------------------------------------------------- -->
+<script type="text/javascript">
+var google_tag_params = {
+    ecomm_prodid: '',
+    ecomm_pagetype: 'siteview',
+    ecomm_totalvalue: ''
+};
+</script>
+<script>
+    dataLayer = [{
+      'google_tag_params': window.google_tag_params
+    }];
+    </script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-3VGP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-3VGP');</script>
+<!-- End Google Tag Manager -->
+
 <div id="wrapper">
 
         <noscript>
@@ -234,17 +258,323 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     <div class="header">
     <div class="header-top cf">
+        <p>
+            </p><div style="padding-top: 3px; margin-left: -15px;"><p><a onclick="window.open('/homepage-promo-popup', 'Enjoy', 'height=400,width=350,scrollbars=no,status=no,toolbar=no,location=no')" href="#"><img src="http://www.scoopnyc.com/media/wysiwyg/FFP2.jpg" alt="promo"></a></p></div>        <p></p>
         <div class="shipping-box left">
-            <a href="mailto:customerservice@scoopnyc.com" onclick="dataLayer.push({event: 'HeaderEmail'})" class="email notext"></a>
-            <p>
-                </p><div style="float: left; padding-top: 3px; margin-left: -15px;"><p><a onclick="window.open('/homepage-promo-popup', 'Enjoy', 'height=400,width=350,scrollbars=no,status=no,toolbar=no,location=no')" href="#"><img src="http://www.scoopnyc.com/media/wysiwyg/freeshippingover200.jpg" alt=""></a></p></div>            <p></p>
+            <a href="mailto:customerservice@scoopnyc.com" onclick="dataLayer.push({event: 'HeaderEmail'})" class="email notext" id="mail-icon"></a>
+            
         </div><!-- /.shipping-box -->
 
         <a href="http://www.scoopnyc.com/" class="logo notext">Scoop NYC</a>
+    </div> <!-- /.header-top -->
+</div> <!-- /.header -->
+<div class="navigation dd-holder">
+    
+<ul style="margin-left: 36px;">
+	<li>
+		<a href="http://www.scoopnyc.com/new-arrivals/women.html">New Arrivals</a>
+		<div class="inner dd">
+			<div class="shell cf">
+				<div class="listing long-listing left">
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/new-arrivals/women.html">Women</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/new-arrivals/shoes-handbags.html">Shoes &amp; Handbags</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/new-arrivals/accessories.html">Accessories</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/new-arrivals/jewelry.html">Jewelry</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/new-arrivals/sunglasses.html">Sunglasses</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/new-arrivals/men.html">Men</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+			</div>
+		</div>
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/women/clothing.html">Women</a>
+		<div class="inner dd">
+			<div class="shell cf">
+				<div class="listing long-listing left">
+					<h4>
+						<a href="http://www.scoopnyc.com/women/clothing.html">Clothing</a>
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/women/blazers-jackets.html">Blazers &amp; Jackets</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/blouses-tops.html">Blouses &amp; Tops</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/denim.html">Denim</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/dresses.html">Dresses</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/intimates.html">Intimates</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/clothing/jumpsuits-and-rompers.html">Jumpsuits &amp; Rompers</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/loungewear.html">Loungewear</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/outerwear.html">Outerwear</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/pants-leggings.html">Pants &amp; Leggings</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shorts.html">Shorts</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/skirts.html">Skirts</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/sweaters.html">Sweaters</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/swim.html">Swim</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/tanks-tees.html">Tanks &amp; Tees</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+				<div class="listing left">
+					<h4>
+						<a href="http://www.scoopnyc.com/women/shoes.html">Shoes</a>
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes-and-handbags/shoes/boots.html">Boots</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes-and-handbags/shoes/flats.html">Flats</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes-and-handbags/shoes/heels.html">Heels</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes/sneakers.html">Sneakers</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+				<div class="listing left">
+					<h4>
+						<a href="http://www.scoopnyc.com/women/handbags.html">Handbags</a>
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes-and-handbags/handbags/clutches.html">Clutches</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes-and-handbags/handbags/shoulder-bags.html">Shoulder Bags</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/shoes-and-handbags/handbags/totes.html">Totes</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+				<div class="listing long-listing left">
+					<h4>
+						<a href="http://www.scoopnyc.com/women/accessories.html">Accessories</a>
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/belts.html">Belts</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/bracelets.html">Bracelets</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/earrings.html">Earrings</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/hats.html">Hats</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/hosiery.html">Hosiery</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/necklaces.html">Necklaces</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/rings.html">Rings</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/scarves-gloves.html">Scarves &amp; Gloves</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/sunglasses.html">Sunglasses</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/tech-accessories.html">Tech Accessories</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/women/accessories/umbrellas.html">Umbrella</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+			</div>
+			<!-- /.shell -->
+		</div>
+		<!-- /.subnav-box -->
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/men/clothing.html">Men</a>
+		<div class="inner dd">
+			<div class="shell cf">
+				<div class="listing long-listing left">
+					<h4>
+						<a href="http://www.scoopnyc.com/men/clothing.html">Clothing</a>
+					</h4>
+					<ul style="margin-left: 38px;">
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/activewear.html">Activewear</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/blazers-jackets.html">Blazers &amp; Jackets</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/denim.html">Denim</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/outerwear.html">Outerwear</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/pants.html">Pants</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/shirts-tops.html">Shirts</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/shorts.html">Shorts</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/socks-underwear.html">Socks &amp; Underwear</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/sweaters.html">Sweaters</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/swim.html">Swim</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/clothing/tees.html">Tees &amp; Polos</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+				<div class="listing left">
+					<h4>
+						<a href="http://www.scoopnyc.com/men/shoes-and-accessories.html">Shoes &amp; Accessories</a>
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/bags-wallets.html">Bags &amp; Wallets</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/belts-ties.html">Belts &amp; Ties</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/hats-gloves-scarves.html">Hats, Gloves &amp; Scarves</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/shoes.html">Shoes</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/sunglasses.html">Sunglasses</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/tech-accessories.html">Tech Accessories</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/men/shoes-and-accessories/watches-jewelry.html">Watches &amp; Jewelry</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+			</div>
+			<!-- /.shell -->
+		</div>
+		<!-- /.subnav-box -->
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/the-ultimate-closet.html">The Ultimate Closet</a>
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/designers/">Designers</a>
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/giftcards/">Gifts</a>
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/sale/" style="color: #d70036;">Sale</a>
+		<div class="inner dd">
+			<div class="shell cf">
+				<div class="listing long-listing left">
+					<h4>
+						Women
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/sale/women/clothing/view-all.html">Clothing</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/sale/women/shoes/view-all.html">Shoes</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/sale/women/handbags/view-all.html">Handbags</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/sale/women/accessories/view-all.html">Accessories</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+				<div class="listing left">
+					<h4>
+						Men
+					</h4>
+					<ul>
+						<li>
+							<a href="http://www.scoopnyc.com/sale/men/clothing/view-all.html">Clothing</a>
+						</li>
+						<li>
+							<a href="http://www.scoopnyc.com/sale/men/shoes-and-accessories/view-all.html">Shoes &amp; Accessories</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.listing -->
+			</div>
+		</div>
+	</li>
+	<li>
+		<a href="http://www.scoopnyc.com/blog">Blog</a>
+	</li>
+</ul></div> <!-- /.navigation -->
 
-        <div class="account right dd-holder">
-            <ul class="cf">
-                
+<div class="account right dd-holder">
+    <ul class="cf">
+        
 <li class="cart"><a href="http://www.scoopnyc.com/checkout/cart/"><span id="cart_cnt_num">0</span></a>
     <div class="cart-dropdown dd">
                     <div class="cart-item">
@@ -260,23 +590,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div> <!-- /.procede -->
     </div> <!-- /.cart-dd -->
 </li>
-                <li><a href="https://www.scoopnyc.com/customer/account/">My Account</a></li>
-                <li><a href="https://www.scoopnyc.com/customer/account/login/">Log In</a></li>
-            </ul>
+        <li><a href="https://www.scoopnyc.com/customer/account/">My Account</a></li>
+        <li><a href="https://www.scoopnyc.com/customer/account/login/">Log In</a></li>
+    </ul>
 
-            
+    
 <form id="search_mini_form" action="http://www.scoopnyc.com/catalogsearch/result/" method="get" class="search-field cf">
     <input type="text" class="field left" value="" id="search_box" title="Search" name="q" maxlength="128">
     <input type="submit" class="submit notext go-btn right" value="Go">
 </form>
 
 
-        </div>
-    </div> <!-- /.header-top -->
-</div> <!-- /.header -->
-<div class="navigation dd-holder">
-    
-<ul style="margin-left: 45px;"><li><a href="http://www.scoopnyc.com/new-arrivals/women.html">New Arrivals</a><div class="inner dd"><div class="shell cf"><div class="listing long-listing left"><ul><li><a href="http://www.scoopnyc.com/new-arrivals/women.html">Women</a></li><li><a href="http://www.scoopnyc.com/new-arrivals/shoes-handbags.html">Shoes &amp; Handbags</a></li><li><a href="http://www.scoopnyc.com/new-arrivals/accessories.html">Accessories</a></li><li><a href="http://www.scoopnyc.com/new-arrivals/men.html">Men</a></li></ul></div><!-- /.listing --></div></div></li><li><a href="http://www.scoopnyc.com/women/clothing.html">Women</a><div class="inner dd"><div class="shell cf"><div class="listing long-listing left"><h4><a href="http://www.scoopnyc.com/women/clothing.html">Clothing</a></h4><ul><li><a href="http://www.scoopnyc.com/women/blazers-jackets.html">Blazers &amp; Jackets</a></li><li><a href="http://www.scoopnyc.com/women/blouses-tops.html">Blouses &amp; Tops</a></li><li><a href="http://www.scoopnyc.com/women/denim.html">Denim</a></li><li><a href="http://www.scoopnyc.com/women/dresses.html">Dresses</a></li><li><a href="http://www.scoopnyc.com/women/intimates.html">Intimates</a></li><li><a href="http://www.scoopnyc.com/women/loungewear.html">Loungewear</a></li><li><a href="http://www.scoopnyc.com/women/outerwear.html">Outerwear</a></li><li><a href="http://www.scoopnyc.com/women/pants-leggings.html">Pants &amp; Leggings</a></li><li><a href="http://www.scoopnyc.com/women/shorts.html">Shorts</a></li><li><a href="http://www.scoopnyc.com/women/skirts.html">Skirts</a></li><li><a href="http://www.scoopnyc.com/women/sweaters.html">Sweaters</a></li><li><a href="http://www.scoopnyc.com/women/swim.html">Swim</a></li><li><a href="http://www.scoopnyc.com/women/tanks-tees.html">Tanks &amp; Tees</a></li></ul></div><!-- /.listing --><div class="listing left"><h4><a href="http://www.scoopnyc.com/women/shoes.html">Shoes</a></h4><ul><li><a href="http://www.scoopnyc.com/women/shoes-and-handbags/shoes/flats.html">Flats</a></li><li><a href="http://www.scoopnyc.com/women/shoes-and-handbags/shoes/heels.html">Heels</a></li><li><a href="http://www.scoopnyc.com/women/shoes-and-handbags/shoes/boots.html">Boots</a></li></ul></div><!-- /.listing --><div class="listing left"><h4><a href="http://www.scoopnyc.com/women/handbags.html">Handbags</a></h4><ul><li><a href="http://www.scoopnyc.com/women/shoes-and-handbags/handbags/clutches.html">Clutches</a></li><li><a href="http://www.scoopnyc.com/women/shoes-and-handbags/handbags/shoulder-bags.html">Shoulder Bags</a></li><li><a href="http://www.scoopnyc.com/women/shoes-and-handbags/handbags/totes.html">Totes</a></li></ul></div><!-- /.listing --><div class="listing long-listing left"><h4><a href="http://www.scoopnyc.com/women/accessories.html">Accessories</a></h4><ul><li><a href="http://www.scoopnyc.com/women/accessories/belts.html">Belts</a></li><li><a href="http://www.scoopnyc.com/women/accessories/bracelets.html">Bracelets</a></li><li><a href="http://www.scoopnyc.com/women/accessories/earrings.html">Earrings</a></li><li><a href="http://www.scoopnyc.com/women/accessories/fragrance.html">Fragrance</a></li><li><a href="http://www.scoopnyc.com/women/accessories/hats.html">Hats</a></li><li><a href="http://www.scoopnyc.com/women/accessories/hosiery.html">Hosiery</a></li><li><a href="http://www.scoopnyc.com/women/accessories/necklaces.html">Necklaces</a></li><li><a href="http://www.scoopnyc.com/women/accessories/rings.html">Rings</a></li><li><a href="http://www.scoopnyc.com/women/accessories/scarves-gloves.html">Scarves &amp; Gloves</a></li><li><a href="http://www.scoopnyc.com/women/accessories/sunglasses.html">Sunglasses</a></li><li><a href="http://www.scoopnyc.com/women/accessories/tech-accessories.html">Tech Accessories</a></li><li><a href="http://www.scoopnyc.com/women/accessories/umbrellas.html">Umbrella</a></li></ul></div><!-- /.listing --></div><!-- /.shell --></div><!-- /.subnav-box --></li><li><a href="http://www.scoopnyc.com/men/clothing.html">Men</a><div class="inner dd"><div class="shell cf"><div class="listing long-listing left"><h4><a href="http://www.scoopnyc.com/men/clothing.html">Clothing</a></h4><ul><li><a href="http://www.scoopnyc.com/men/clothing/activewear.html">Activewear</a></li><li><a href="http://www.scoopnyc.com/men/clothing/blazers-jackets.html">Blazers &amp; Jackets</a></li><li><a href="http://www.scoopnyc.com/men/clothing/denim.html">Denim</a></li><li><a href="http://www.scoopnyc.com/men/clothing/outerwear.html">Outerwear</a></li><li><a href="http://www.scoopnyc.com/men/clothing/pants.html">Pants</a></li><li><a href="http://www.scoopnyc.com/men/clothing/shirts-tops.html">Shirts</a></li><li><a href="http://www.scoopnyc.com/men/clothing/shorts.html">Shorts</a></li><li><a href="http://www.scoopnyc.com/men/clothing/socks-underwear.html">Socks &amp; Underwear</a></li><li><a href="http://www.scoopnyc.com/men/clothing/sweaters.html">Sweaters</a></li><li><a href="http://www.scoopnyc.com/men/clothing/swim.html">Swim</a></li><li><a href="http://www.scoopnyc.com/men/clothing/tees.html">Tees &amp; Polos</a></li></ul></div><!-- /.listing --><div class="listing left"><h4><a href="http://www.scoopnyc.com/men/shoes-and-accessories.html">Shoes &amp; Accessories</a></h4><ul><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/bags-wallets.html">Bags &amp; Wallets</a></li><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/belts-ties.html">Belts &amp; Ties</a></li><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/hats-gloves-scarves.html">Hats, Gloves &amp; Scarves</a></li><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/shoes.html">Shoes</a></li><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/sunglasses.html">Sunglasses</a></li><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/tech-accessories.html">Tech Accessories</a></li><li><a href="http://www.scoopnyc.com/men/shoes-and-accessories/watches-jewelry.html">Watches &amp; Jewelry</a></li></ul></div><!-- /.listing --></div><!-- /.shell --></div><!-- /.subnav-box --></li><li><a href="http://www.scoopnyc.com/the-ultimate-closet.html">The Ultimate Closet</a></li><li><a href="http://www.scoopnyc.com/designers/">Designers</a></li><li><a href="http://www.scoopnyc.com/giftcards/">Gifts</a></li><li><a href="http://www.scoopnyc.com/sale/">Sale</a><div class="inner dd"><div class="shell cf"><div class="listing long-listing left"><h4>Women</h4><ul><li><a href="http://www.scoopnyc.com/sale/women/clothing/view-all.html">Clothing</a></li><li><a href="http://www.scoopnyc.com/sale/women/shoes/view-all.html">Shoes</a></li><li><a href="http://www.scoopnyc.com/sale/women/handbags/view-all.html">Handbags</a></li><li><a href="http://www.scoopnyc.com/sale/women/accessories/view-all.html">Accessories</a></li></ul></div><!-- /.listing --><div class="listing left"><h4>Men</h4><ul><li><a href="http://www.scoopnyc.com/sale/men/clothing/view-all.html">Clothing</a></li><li><a href="http://www.scoopnyc.com/sale/men/shoes-and-accessories/view-all.html">Shoes &amp; Accessories</a></li></ul></div><!-- /.listing --></div></div></li><li><a href="http://www.scoopnyc.com/blog">Blog</a></li></ul></div> <!-- /.navigation -->
+</div>
     <div class="container">
 
         <div id="main" class="">
@@ -351,7 +676,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</h4>
 	<ul>
 		<li>
-			<a href="https://www.scoopnyc.com/store-locations">Store Locations</a>
+			<a href="/store-locations">Store Locations</a>
 		</li>
 		<li>
 			<a href="/customer-service">Customer Service</a>
@@ -381,6 +706,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <form class="cf" action="http://www.scoopnyc.com/newsletter/subscriber/newTop/" method="post" id="newsletter-validate-detail" onsubmit="newsletterSubscriberFormDetail.submit(this); return false;">
     <input type="hidden" name="firstname" id="firstname" value="-">
     <input type="hidden" name="lastname" id="lastname" value="-">
+    <input type="hidden" name="snewsletter_location" value="footer">
 
     <input type="email" name="email" id="newsletter" class="field left required-entry validate-email" value="Enter Your email" title="Enter Your email">
     <input type="submit" class="btn left" onclick="dataLayer.push({event: 'FooterEmail'})" id="submitbutton" value="Sign Up">
@@ -420,8 +746,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         show_message(data['message'], true);
                     } else {
                         show_message(data['message'], true);
-                        _gaq.push(['_trackEvent', 'Email', 'Sign Up ', 'Email Sign Up']);
-                    }
+                                                    dataLayer.push({event: 'EmailThankYou'});
+                                            }
                 }
             });
         }
@@ -436,25 +762,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div> <!-- /.footer -->
 
 <script type="text/javascript">
+//<[CDATA[
 var showDefaultNewsletterPopup = true;
+// newsletter subscripiton location..
+var locMailIcon = 'mail_icon',
+    locCookiePopup = 'cookie_popup';
+//]]>
 </script>
-<!-- Google Code for General -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 991657623;
-    var google_conversion_label = "ipi6COHqiwQQl_3t2AM";
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991657623/?value=0&amp;label=ipi6COHqiwQQl_3t2AM&amp;guid=ON&amp;script=0"/>
-    </div>
-</noscript>
 
 <script type="text/javascript">
     wishlist_items = [];
