@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popmog.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410202727id_/http%3A//en.popmog.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmog.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018222308id_/http%3A//en.popmog.com/static/privacy) for the most accurate reproduction.*
 
 # POPMOG - Your portal for free-to-play online games
 
@@ -57,6 +57,8 @@ We cooperate with payment providers (for example credit card companies, banks, P
 In particular, GameGenetics will provide your data to the developers of certain games which are accessible via thhe POPMOG login. You decide which developers those are by choosing the games you play. The precise contact information, especially the address and website of the respective developer, are always available on the overview page of the respective game. 
 
 In case GameGenetics, companies controlled by GameGenetics, individual subsidiaries or parts of the company are sold, your customer information is generally transferred along with the part of the company being transferred. However, your data is of course also protected by this data privacy statement and the applicable data protection laws in this case.
+
+As part of our work with Google we collect anonymous user data and provide them with the help of our Bidder (Google DoubleClick Bid Manager) to pass on to Google. To get more information visit [Google Privacy](http://www.google.com/policies/privacy/).
 
 ### 6\. Deletion of data, data security
 
