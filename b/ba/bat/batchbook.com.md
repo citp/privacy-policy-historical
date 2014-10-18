@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batchbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103844id_/http%3A//batchbook.com/meta/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchbook.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018162936id_/http%3A//batchbook.com/meta/privacy.html) for the most accurate reproduction.*
 
 # Batchbook | Privacy Policy
 
