@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606191304id_/http%3A//www.duckbrand.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018151656id_/http%3A//www.duckbrand.com/info/privacy) for the most accurate reproduction.*
 
-# Duck® Brand - Duct Tape, Packaging Tape, Weatherization, Shelf Liner and DIY products
+# Privacy Policy | Duck® Brand
 
 Last updated 1/24/14
 
