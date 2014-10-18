@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the toryburchoutletsale.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004004916id_/http%3A//www.toryburch.com/Content-Privacy/content-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toryburchoutletsale.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018053432id_/http%3A//www.toryburch.com/content-privacy/content-privacy.html) for the most accurate reproduction.*
 
 # Tory Burch | Privacy & Usage Policy
 
 ### TORY BURCH PRIVACY AND USAGE POLICY
 
-### September 5, 2012
+### October 14, 2014
 
 ##### Introduction
 
-Tory Burch LLC (together with its affiliates “Tory Burch”) values its customers and respects their privacy. This Privacy and Usage Policy applies to personal information that we collect about you through our website. This information is used to improve your shopping experience and to communicate with you about our products, services and promotions. Neither your name nor anything about you is sold to any other non-affiliated company or agency. However, as described in greater detail below, we may share your information under certain circumstances with business partners that help this site function or assist us in fulfilling your order. This Privacy and Usage Policy only covers information collected at this website, and does not cover any information collected offline by Tory Burch, including information collected at our stores. 
+Tory Burch LLC (together with its affiliates “Tory Burch”) values its customers and respects their privacy. This Privacy and Usage Policy applies to personal information that we collect about you through our website and our mobile application (collectively the "website"). This information is used to improve your shopping experience and to communicate with you about our products, services and promotions. Neither your name nor anything about you is sold to any other non-affiliated company or agency. However, as described in greater detail below, we may share your information under certain circumstances with business partners that help this site function or assist us in fulfilling your order. This Privacy and Usage Policy only covers information collected on the website, and does not cover any information collected offline by Tory Burch, including information collected at our stores. 
 
 This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use certain of that information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears on this policy. 
 
@@ -17,12 +17,12 @@ This policy describes the personal information we collect about you, why we coll
 We sometimes ask you for certain kinds of personal information to provide the services you request. This information includes: 
 
   * Shopping - Through this website, you will be able to purchase Tory Burch products and gift cards. We ask for information such as your name, billing and shipping address, telephone number, email address and payment card information in order to process your purchase, confirm your order and ship the items to you. If you elect to be added to the Tory Burch email list, we may use your contact information to communicate with you about our products, services and promotions. 
-  * My Account - You have the opportunity to create a personal shopping account with Tory Burch, which allows you to shop faster and easier. Using a user name and a password of your choice, you may access your account online at any time to add, delete, or change information. In creating this account, you authorize Tory Burch to store your name and email address. Should you elect to do so, you may also include in your “My Account” your telephone number, payment card information, and shipping and billing addresses. If you choose to include such additional information then you are also authorizing Tory Burch to store such information until such time you elect to change or delete it. Each of these options is for your convenience only. If you ever use a public computer to visit the “My Account” section of our website we strongly encourage you to log out at the conclusion of your session. By doing so, although your information will still be stored with us, it will not be accessible to anyone else from that computer. 
+  * My Account - You have the opportunity to create a personal shopping account with Tory Burch, which allows you to shop faster and easier. Using a user name and a password of your choice, you may access your account online at any time to add, delete, or change information. In creating this account, you authorize Tory Burch to store your name and email address. Should you elect to do so, you may also include in your “My Account” your telephone number, payment card information, and shipping and billing addresses. If you choose to include such additional information then you are also authorizing Tory Burch to store such information until such time you elect to change or delete it. Each of these options is for your convenience only. If you ever use a public computer to visit the “My Account” section of our website we strongly encourage you to log out at the conclusion of your session. 
 
 Through the “My Account” feature, you may create a Wish List of products you want and share the items on your list by copying and pasting the URL. You may elect to make this Wish List public, so that friends and family can search for you by either name or email address. 
 
   * Email List - When you create an account with Tory Burch, you will be given the option to be added to the Tory Burch email list. Whether or not you select this option, your personal information will never be shared with or sold to anyone. Subscriptions to the email list can be cancelled at any time. To be removed from our email list, please email us at [inquiries@toryburch.com](mailto:inquiries@toryburch.com) for US customers or at [service@toryburch.co.uk](mailto:service@toryburch.co.uk) for international customers and include your name and the address in the message, or click the unsubscribe button found at the bottom of the emails we send you. 
-  * Purchases - When you place an order, you will be asked to provide your credit card information. Tory Burch does not store your credit card information unless you choose to include it in your “My Account” (see above). 
+  * Purchases - When you place an order, you will be asked to provide your credit card information. 
   * Customer Service - If you call our Customer Service center, we may ask for information such as your name, email address, mailing address, telephone number and if you choose to make a purchase, your credit card information. We use this information to assist you and to process your transaction. Purchases - When you place an order, you will be asked to provide your credit card information. Tory Burch does not store your credit card information unless you choose to include it in your “My Account” (see above). 
   * Electronic Newsletters - You may be able to sign up on this site to receive electronic newsletters and promotional emails from Tory Burch. To sign up we may ask for information such as your name, email address, mailing address, telephone number, gender, age, and email preferences. 
 
@@ -48,7 +48,9 @@ Cookies help us to improve our website and to deliver a better and more customiz
   * To speed up your searches. 
   * To recognize you when you return to our website. 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the website or unable to avail of any of our services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website. 
+
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the website or unable to avail of any of our services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website. Additionally, if a browser is set to issue a do not track signal, we do not place tracking cookies on this browser. 
 
 ##### Pixel Tags
 
@@ -66,13 +68,15 @@ We may combine the information we collect through cookies and pixel tags with ot
 
 use the information we collect from our customers for various purposes, including:
 
-    * Process transactions upon their request 
-    * Improve our stores, website, customers shopping experience and quality of service 
-    * send communications about our products, services and promotions 
-    * Prevent and detect fraud and abuse 
-    * Process information or claims in connection with incidents at our stores 
-    * Enable our service providers to perform certain activities on our behalf 
-    * Comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes. 
+  * Process transactions upon their request 
+  * Improve our stores, website, customers shopping experience and quality of service 
+  * send communications about our products, services and promotions 
+  * Prevent and detect fraud and abuse 
+  * Process information or claims in connection with incidents at our stores 
+  * Enable our service providers to perform certain activities on our behalf 
+  * Comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes. 
+
+
 
 #####  Others with Whom We May Share Your Information 
 
@@ -114,13 +118,15 @@ You acknowledge that this Privacy and Usage Policy is part of the Terms of Use a
 
 Tory Burch’s practices regarding the collection, storage, transfer, use and other processing of personal information follow the Safe Harbour principles of notice, choice, onward transfer, access, security, data integrity, and enforcement. 
 
-    * Notice - Tory Burch will give you timely and appropriate notice describing what personal information we’re collecting, how we will use it, and types of third parties with whom we may share it with. 
-    * Choice - Tory Burch will give you choices about the ways we use and share your personal information, and we will respect the choices you make. 
-    * Onward Transfer - When disclosing information to a third party, Tory Burch applies the notice and choice principles and takes appropriate measures to protect your privacy and the personal information we transfer. 
-    * Access - Tory Burch provides ways for you to access your personal information, as required by law, so that you can correct inaccuracies. 
-    * Security - Tory Burch will take appropriate technical and organizational measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
-    * Data Integrity - Tory Burch takes reasonable steps to ensure that personal information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. 
-    * Enforcement - Tory Burch uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. 
+  * Notice - Tory Burch will give you timely and appropriate notice describing what personal information we’re collecting, how we will use it, and types of third parties with whom we may share it with. 
+  * Choice - Tory Burch will give you choices about the ways we use and share your personal information, and we will respect the choices you make. 
+  * Onward Transfer - When disclosing information to a third party, Tory Burch applies the notice and choice principles and takes appropriate measures to protect your privacy and the personal information we transfer. 
+  * Access - Tory Burch provides ways for you to access your personal information, as required by law, so that you can correct inaccuracies. 
+  * Security - Tory Burch will take appropriate technical and organizational measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+  * Data Integrity - Tory Burch takes reasonable steps to ensure that personal information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. 
+  * Enforcement - Tory Burch uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. 
+
+
 
 We encourage interested persons to raise any concerns using the contact information below and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the principles. 
 
@@ -130,9 +136,9 @@ If you have any questions about your privacy or security on our website, please 
 
 ### TERMS OF USE
 
-### September 5, 2012
+### November 21, 2013
 
-Please read the following terms and conditions (the “Terms of Use”) carefully before using the website (the “Website”). By accessing this Website, you agree to be bound by these Terms of Use. If you do not agree with these Terms of Use, you may not use the Website. We recommend that you keep a printed copy of these Terms of Use for future reference. 
+Please read the following terms and conditions (the “Terms of Use”) carefully before using the website (the “Website”). By accessing this Website, you agree to be bound by these Terms of Use. If you do not agree with these Terms of Use, you may not use the Website. We recommend that you keep a printed copy of these Terms of Use for future reference.
 
 ##### Intellectual Property Ownership and Use
 
@@ -156,6 +162,10 @@ Except for information necessary to place an order, we do not want you to send t
 
 We always try to provide complete, accurate, up-to-date information on our website. Unfortunately, despite those efforts human or technological errors may occur. This site may contain typographical mistakes, inaccuracies, or omissions, some of which may relate to pricing and availability, and some information may not be complete or current. We reserve the right to correct any errors, inaccuracies or omissions, including after an order has been submitted, and to change or update information at any time without prior notice. 
 
+##### Shipment of Order
+
+Orders will be shipped to the address designated by the purchaser as long as that shipping address is compliant with the restrictions contained on toryburch.com. All purchases from toryburch.com are made pursuant to the terms and conditions found on the website. Risk of loss and title for items purchased from the website pass to the buyer upon delivery of the items to the carrier. The buyer is responsible for filing any claims with carriers for damaged and/or lost shipments. 
+
 ##### Disclaimer of Liability
 
 We make no representations or warranties of any kind, whether express or implied, with respect to this website, its content, or the information available on or through it; they are provided "as is," with all faults. Except as otherwise provided under applicable laws, we will not be liable for any damages whatsoever arising out of or related to the use of this website or any other site linked to it. This limitation of liability applies to direct, indirect, consequential, special, punitive or other damages you or others may suffer, as well as damages for lost profits, business interruption or the loss of data or information, even if we are notified in advance of the potential for any such damages. 
@@ -163,6 +173,3 @@ We make no representations or warranties of any kind, whether express or implied
 ##### Applicable Law
 
 By visiting our website, you agree that the laws of the State of New York, without regard to principles of conflict of laws, will govern any dispute of any sort that might arise between you and us or any of our affiliates regarding your visit to and use of our website. 
-
-
-
