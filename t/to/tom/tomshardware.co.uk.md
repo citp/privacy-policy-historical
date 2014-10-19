@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomshardware.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621021549id_/http%3A//www.tomshardware.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomshardware.co.uk privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020012729id_/http%3A//www.tomshardware.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Tom's Hardware : Hardware News, Tests and Reviews
 
