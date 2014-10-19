@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemalesexfiles.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426004655id_/http%3A//www.shemalesexfiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalesexfiles.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020004340id_/http%3A//shemalesexfiles.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Shemale Sex Files
 
