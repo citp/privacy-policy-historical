@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605010348id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019133934id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Flights, Airline Tickets, Hotels, Travel Deals
 
@@ -32,4 +32,4 @@ We welcome any questions or comments you have about our privacy practices. You c
 
 © 2014 www.DiscountFlights.com 
 
-It's easy to compare and book low cost international flights for seniors, students, military, business and special promo deals through our partners. Search hundreds of travel sites and find bargain air fare deals. Compare airline tickets from trusted consolidators offering the best deals for domestic & international [discount air flights](http://www.discountflights.com/) at your finger click. Search & find cheapest airline tickets from long list of value airlines and get the lowest fare! 
+It's easy to compare and book low cost international flights for seniors, students, military, business and special promo deals through our partners. Search hundreds of travel sites and find bargain air fare deals. Compare airline tickets from trusted consolidators offering the best deals for domestic & international [corporate travel](http://www.corporateflights.com/) at your finger click. Search & find cheapest airfares from hundreds of airlines and get the lowest fare! Discover lowest prices and cheapest airfares to Boston, Bali, Argentina, Prague, Lisbon, Taiwan, Thailand, Athens, China, Malaysia, Indonesia, New Zealand, Spain, Toronto, Miami, Manchester, Milan, Egypt, Auckland, Denver, Barcelona, Brazil, Ghana, Fiji, New Orleans, San Diego, Ireland, France, Italy, Las Vegas, New York and thousands more from hundreds of travel sites. 
