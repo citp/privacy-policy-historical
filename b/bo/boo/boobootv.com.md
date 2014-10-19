@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boobootv.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327100224id_/http%3A//www.boobootv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boobootv.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019164835id_/http%3A//www.boobootv.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BooBooTV.com
 
