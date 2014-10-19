@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617213039id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019031008id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # PaperBackSwap :: Privacy Policy
 
