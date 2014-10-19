@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608140857id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019134624id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Lebara Mobile - International mobile phone calls & SIM cards
+# Privacy Policy | Lebara Mobile
 
 In this privacy policy, if you are a user of   
-(i) Lebara Mobile Phone services, references to "we", "us "and "Lebara" are to Lebara Mobile Ltd.  
-(ii) Lebara Money, references to "we", "us "and "Lebara" are to Lebara Finance Ltd.
+(i) Lebara Mobile Phone services, references to " **we** ", " **us** " and " **Lebara** " are to Lebara Mobile Ltd.  
+(ii) Lebara Money, references to " **we** ", " **us** " and " **Lebara** " are to Lebara Finance Ltd.
 
 The Lebara Group consists of Lebara B.V. and its subsidiary companies, which include Lebara Ltd, Lebara Mobile Ltd and Lebara Finance Limited.  
 Please read this Privacy Policy in conjunction with the applicable General Terms & Conditions and any other product or service terms of which you have been notified.
@@ -25,7 +25,7 @@ ii) visit or browse this site or other Lebara Group websites;
 iii) browse or otherwise access the Internet, WAP sites and/or the mobile internet via the services; or   
 iv) use our networks 
 
-1.3 We collect information about you from other sources, including but not limited to credit reference agencies, fraud prevention agencies; and business directories and other commercially or publicly available sources. 
+**1.3 We collect information about you from other sources** , including but not limited to credit reference agencies, fraud prevention agencies; and business directories and other commercially or publicly available sources. 
 
 2 **The Type of Information We Would Collect**  
 2.1 We collect such information as:   
@@ -98,7 +98,7 @@ vii) Calling telephone number for dial-up Internet access of the originator of a
 viii) Digital Subscriber Line (DSL) or other end point of the originator of a communication. 
 
 **7 Accessing your Information**  
-7.1 If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to Lebara online at any time by clicking on "Edit User Profile" under the website navigation heading "My Lebara". The 'opt-in' on the website allows you to select whether you receive marketing information from Lebara only, or from our business partners. You can opt-out of either or both at any time.   
+7.1 If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to Lebara online at any time by clicking on " **Edit User Profile** " under the website navigation heading " **My Lebara** ". The 'opt-in' on the website allows you to select whether you receive marketing information from Lebara only, or from our business partners. You can opt-out of either or both at any time.   
 7.2 We can supply certain types of personal information on request: including but not limited to billing, name and address, aggregated phone usage. Requests should be made in writing and include your name, mobile telephone number and proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and address (for example, a copy of a utility bill or bank statement), and the information you require. We'll charge you £10 to cover the administrative cost of supplying the requested information. If we hold any inaccurate information about you, please tell us and we will correct it.  
 Our address is: Data Controller  
 Lebara   
@@ -119,12 +119,11 @@ We may employ third parties, including members of the Lebara Group, to provide s
 iii) Security of Communications  
 Please be aware that communications over the Internet, such as e-mails and Webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Lebara cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.   
 iv) Media Messaging  
-If you are registered with www.lebara.co.uk, any Media Messages you send to an email address, including Media Messages from your phone and messages from www.lebara.co.uk, may include personal details such as your registered first name and last name, your phone number or email address which will be displayed in the 'from' field of the message.   
+If you are registered with [www.lebara.co.uk](http://www.lebara.co.uk/), any Media Messages you send to an email address, including Media Messages from your phone and messages from [www.lebara.co.uk](http://www.lebara.co.uk/), may include personal details such as your registered first name and last name, your phone number or email address which will be displayed in the " **from** " field of the message.   
 9.2 Users 16 and under  
 If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information. Users without this consent are not allowed to provide us with personal information.   
 9.3 Co-Branded Micro Sites and Third Party Sites  
-Some web pages and Micro Websites included within Lebara’s websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of Lebara. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated. Save for pages hosted by Lebara's payment processor, Mi-Pay Ltd (to whom this policy will apply), this policy does not apply to third party sites that you may access via our portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site 
-
+Some web pages and Micro Websites included within Lebara’s websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of Lebara. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated. Save for pages hosted by Lebara's payment processor, Mi-Pay Ltd (to whom this policy will apply), this policy does not apply to third party sites that you may access via our portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site   
 9.4 Non-EEA Use of Information  
 The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and services.   
 9.5 Marketing Information from Third Parties  
