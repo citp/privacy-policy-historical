@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kobo.com privacy policy that was archived on 2014-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140509020737id_/http%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kobo.com privacy policy that was archived on 2014-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141019162538id_/http%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -19,22 +19,22 @@
 </script>
 <![endif]-->
 <!--group: nogroup-->
-<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/adc3028fb6c806a6256c10e8b40c1068.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/6a768b33d059adb074b401103c45cdc0.css" media="print">
-<script type="text/javascript" src="//assets.kobo.com/media/js/56027bc530b715167065f55582318393.js"></script>
+<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/04ae260392822a02cdd2aa6413ca99da.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/b83c6b0ce499372e07741cef1fe99828.css" media="print">
+<script type="text/javascript" src="//assets.kobo.com/media/js/2aeb6cea1e12cf235ad0207130c7cac8.js"></script>
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/9905022cd4cf7d258a78445f27c7ca55.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/7255c1da483209ae25a68a40c5db8bf8.css" media="all" />
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/93b6d24d7fffe1409f16405e2d85692b.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://assets.kobo.com/media/css/2d4918e8b6d046e79f36d6941369af47.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="//assets.kobo.com/media/js/ed541cb66667987db85fe981723553a7.js"></script>
+<script type="text/javascript" src="//assets.kobo.com/media/js/ec30203b7253cf81f22b7d0dba52c7cc.js"></script>
 <![endif]-->
 <script type="text/javascript">
     var ssoUrl = 'https://secure.kobobooks.com/';
-    var signInSegment = '';
-    var signOutSegment = '';
+    var signInSegment = 'auth/Kobo/login';
+    var signOutSegment = 'SignOut';
     var baseUrl = 'http://www.kobo.com/';
     var betaCookieExists = true;
     var geoDebug = '"Akamai detected (US).\nInit Smartling ... Not set\nGeolocation Output: (us)\nAkamai detected (US).\nInit Smartling ... Not set\n\nLoaded store code (us)"';
@@ -61,6 +61,50 @@ Mage.Cookies.domain   = '.www.kobo.com';
 <!-- B-START ::: Head JS ::: head_js -->
 <script type="text/javascript">
     var mage_userGeo = "US";
+    
+    // add drawer for iphones only if this page isn't partner's page
+    var partnerConfig = [
+                 	    "angusrobertson",
+                 	    "autogrill",
+                 	    "bestbuy",
+                 	    "bookworld",
+                 	    "buydotcom",
+                 	    "cna",
+                 	    "collins",
+                 	    "croma",
+                 	    "crossword",
+                 	    "euronics",
+                 	    "familychristianapp",
+                 	    "feltrinelli",
+                 	    "fnacportugal",
+                 	    "futureshop",
+                 	    "idtgv",
+                 	    "indigo",
+                 	    "jbhifi",
+                 	    "lacentral",
+                 	    "libris",
+                 	    "mondadori",
+                 	    "msh",
+                 	    "national",
+                 	    "paperplus",
+                 	    "pnp",
+                 	    "whitcoulls",
+                 	    "whsmith",
+                 	    "whsmithindia",
+                 	    "bargainbooks"
+    ];
+	var url = window.location.pathname.substring(1).toLowerCase();
+	
+	if (jQuery.inArray(url, partnerConfig) < 0)  {
+		if (mage_userGeo == 'BR') {
+			jQuery('head').append('<meta name="apple-itunes-app" content="app-id=582036714">');
+		} else if (mage_userGeo == 'FR') {
+			jQuery('head').append('<meta name="apple-itunes-app" content="app-id=480683940">');	
+		} else {
+			jQuery('head').append('<meta name="apple-itunes-app" content="app-id=301259483">');
+		}
+	
+	}
 </script>
 
 <script src="//merch.kobobooks.com/magento/common/js/kwp/kwp_toolKit.js" type="text/javascript"></script>
@@ -136,14 +180,16 @@ try {
     <div class="page">
         
 <!-- B-START ::: Onestore Header USA English No Auth ::: onestore_header_noauth -->
+
+
  
 
-        <script src="//kbstatic1-a.akamaihd.net/179/Scripts/external/modernizr-2.6.2.min.js"></script>
+        <script src="//kbstatic1-a.akamaihd.net/703/Scripts/external/modernizr-2.6.2.min.js"></script>
+<link href="//kbstatic1-a.akamaihd.net/703/output/styles/kobo.magento.min.css" rel="stylesheet" type="text/css" media="screen">
 
-<link rel="stylesheet" href="//kbstatic1-a.akamaihd.net/179/output/styles/kobo.min.css" media="screen">
 <div class="rakuten-logo-bar">
     <div>
-        <img src="//kbstatic1-a.akamaihd.net/179/Images/header-footer/rakuten-logo.png" alt="A Rakuten Company">
+        <img src="//kbstatic1-a.akamaihd.net/703/Images/header-footer/rakuten-logo.png" alt="A Rakuten Company">
 
     </div>
 </div>
@@ -151,11 +197,11 @@ try {
 <!-- For adding height when the header is fixed on mobile -->
 <div class="header-spacer"></div>
 
-<header class="main-nav-bar kobo-gizmo" data-kobo-gizmo="Header">
+<header id="kobo-web-header" class="main-nav-bar kobo-gizmo" data-kobo-gizmo="Header">
     <div class="header-menu-outer">
         <div class="header-menu-inner">
             <button class="header-slideout-menu-button">
-                <img src="//kbstatic1-a.akamaihd.net/179/Images/header-footer/flyout-menu-button.svg" alt="Menu"></button>
+                <img src="//kbstatic1-a.akamaihd.net/703/Images/header-footer/flyout-menu-button.svg" alt="Menu"></button>
             <div class="kobo-logo kobo-gizmo page-title-widget" data-kobo-gizmo="PageTitleWidget">
                 <a class="transparent" href="http://store.kobobooks.com/en-US">
                     <h1>Kobo</h1>
@@ -168,7 +214,7 @@ try {
             <div class="header-main-menu">
                 <div class="small-view-flyout">
                     <a class="account-expandable-trigger-small" href="#">
-                       <img src="//kbstatic1-a.akamaihd.net/179/Images/header-footer/header_profile.png" alt="Profile">
+                       <img src="//kbstatic1-a.akamaihd.net/703/Images/header-footer/header_profile.png" alt="Profile">
 
                         </a>
                     <p>
@@ -178,9 +224,9 @@ Welcome                    </p>
                 <!-- authentication/profile list on small screen -->
                 <div class="account-area-expandbox kobo-gizmo gizmo-expandable gizmo-expandable-collapsed-on-load" data-kobo-gizmo="Expandable.Popup" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: true, &quot;viewModel&quot;:&quot;HeaderAccountButton&quot;}">
                     <ul class="profile-list-small-view">
-                            <li><a href="https://secure.kobobooks.com/auth/register?redirectUrl=http%3a%2f%2fstore.kobobooks.com%2fen-us%2fheaderfooter%3fGetStyles%3dTrue%26GetHeader%3dTrue%26IsAuthenticated%3dFalse">Create Account</a></li>
-                            <li><a href="https://secure.kobobooks.com/auth/login?redirectUrl=http%3a%2f%2fstore.kobobooks.com%2fen-us%2fheaderfooter%3fGetStyles%3dTrue%26GetHeader%3dTrue%26IsAuthenticated%3dFalse">Sign in</a></li>
-                            <li class="get-help"><a href="http://www.kobo.com/help/?style=onestore&amp;language=en-US&amp;store=US">Get Help</a></li>
+                            <li><a href="https://secure.kobobooks.com/auth/register?redirectUrl=http:%2f%2fwww.kobobooks.com%2f">Create Account</a></li>
+                            <li><a href="https://secure.kobobooks.com/auth/login?redirectUrl=http%3a%2f%2fwww.kobobooks.com%2f">Sign in</a></li>
+                            <li class="get-help"><a href="/help/?style=onestore&amp;store=US">Get Help</a></li>
                     </ul>
                 </div>
 
@@ -196,14 +242,12 @@ Welcome                    </p>
                             <a href="http://store.kobobooks.com/en-US/emagazines">eMagazines</a>
                         </li>
                                             <li>
-                            <a href="http://kids.kobobooks.com/en-US">Kids</a>
+                            <a id="kids-heading" href="http://kids.kobobooks.com/en-US">Kids</a>
                         </li>
                                             <li>
-                            <a href="/devices?style=onestore&amp;language=en-US&amp;store=US#tablets">Devices</a>
-
+                            <a href="/devices?style=onestore&amp;store=US#tablets">Devices</a>
                         </li>
-                                      
-                </ul>
+                                    </ul>
             </div>
 
             <ul class="header-right-menu">
@@ -215,16 +259,16 @@ Welcome                    </p>
                 <li class="profile-avatar">
                     <a class="account-expandable-trigger-large" href="#">
 
-                            <img src="//kbstatic1-a.akamaihd.net/179/Images/header-footer/header_profile.png" alt="Profile">
+                            <img src="//kbstatic1-a.akamaihd.net/703/Images/header-footer/header_profile.png" alt="Profile">
 
                     </a>
 
                     <div class="account-area-expandbox kobo-gizmo gizmo-expandable gizmo-expandable-collapsed-on-load" data-kobo-gizmo="Expandable.Popup" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: true, &quot;viewModel&quot;:&quot;HeaderAccountButton&quot;}">
                         <div class="talk-bubble-stem"></div>
                         <ul>
-                                <li><a href="https://secure.kobobooks.com/auth/register?redirectUrl=https%3a%2f%2fwww.kobobooks.com%2f" class="button tertiary-button create-account-button">Create Account</a></li>
-                                <li><a href="https://secure.kobobooks.com/auth/login?redirectUrl=https%3a%2f%2fwww.kobobooks.com%2f" class="button secondary-button create-account-button">Sign in</a></li>
-                                <li class="get-help"><a href="http://www.kobo.com/help/?style=onestore&amp;language=en-US&amp;store=US">Get Help</a></li>
+                                <li><a href="https://secure.kobobooks.com/auth/register?redirectUrl=http:%2f%2fwww.kobobooks.com%2f" class="button tertiary-button create-account-button">Create Account</a></li>
+                                <li><a href="https://secure.kobobooks.com/auth/login?redirectUrl=http%3a%2f%2fwww.kobobooks.com%2f" class="button secondary-button create-account-button">Sign in</a></li>
+                                <li class="get-help"><a href="/help/?style=onestore&amp;store=US">Get Help</a></li>
                         </ul>
                     </div>
                 </li>
@@ -232,8 +276,6 @@ Welcome                    </p>
         </div>
     </div>
 </header>
-
-
 
 <!-- B-END ::: Onestore Header USA English No Auth ::: onestore_header_noauth -->
         <div class="page-inner kobo-layout">
@@ -340,9 +382,9 @@ Welcome                    </p>
                 <div class="std"><!-- B-START ::: help-privacy ww ::: help-privacy -->
 <div class="MarketingLP kwp_helpContent container mq1-container mq2-container">
 	<h2>Privacy Policy</h2>
-	<p>Last updated on May 4th, 2011</p>
+	<p>Last updated on July 1, 2014</p>
 	<p>
-		Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents of Europe), (in each case as applicable, referred to herein as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If you decide to access the Kobo Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our <a href="/termsofuse">Terms and Conditions</a> of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA").
+		Rakuten Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents of Europe), (in each case as applicable, referred to herein as "We", "Our" or "Us") consider the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If you decide to become a customer of the Kobo Service by creating an account (“Customer”), Your account and any dispute over privacy is subject to this Privacy Policy and Our <a href="/termsofuse">Terms and Conditions</a> of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA").
 	</p>
 	<h3>1. ACCOUNTABILITY</h3>
 	<p></p>
@@ -372,28 +414,13 @@ Welcome                    </p>
 		<strong>(a) User Accounts and Personal Information</strong>
 	</p>
 	<ul style="font-weight: normal; line-height: 1.5em; padding-left: 16px;">
-		<li>Purchasing and submitting content from the Kobo Service
-			requires a user to register for an account. Personal information is
-			required, including Your real name, email address, password, and
-			country of residence. If You are logged in, You will be identified by
-			Your user name. This may be Your real name if You so choose, or You
-			may choose to publish under a pseudonym, whatever user name You
-			selected when You created Your account.</li>
+		<li>The ability to access almost all functionality of the Kobo Service requires that You register for a Kobo account and enter into a contract with Kobo for the use of the Service by agreeing to Kobo’s Terms of Use and this Privacy Policy. Personal information is required to become a customer of the Kobo Service and create Your account, including Your real name, email address, password, and country of residence. If You are logged in, You will be identified by Your user name. This may be Your real name if You so choose, or You may choose to publish under a pseudonym, whatever user name You selected when You created Your account.</li>
 
-		<li>When making a purchase on Kobo We will ask You for more
-			information as is necessary to complete Your purchase, and will store
-			that information in Your account until You tell Us to remove it.</li>
+		<li>When making a purchase on the Kobo Service We will ask You for more information as is necessary to complete Your purchase, and will store that information in Your account until You tell Us to remove it</li>
 
-		<li>We ask for some personal information when You create a Kobo
-			user account, including Your email address and a password, which is
-			used to protect Your account from unauthorized access.</li>
+		<li>We ask for some personal information when You create a Kobo user account, including Your email address and a password, which is used to protect Your account from unauthorized access.</li>
 
-		<li>We may record information about Your usage, such as when and
-			how often You use the Kobo Service as well as information You display
-			or click on within the Kobo Service (including UI elements, settings,
-			and other information), and may share this information to trusted
-			third parties, including Our publishers or other suppliers of
-			content.</li>
+		<li>We may record information about Your usage, such as when and how often You use the Kobo Service as well as information You display or click on within the Kobo Service (including UI elements, settings, and other information.</li>
 
 		<li>For magazine and newspaper subscriptions, We may be required
 			to share personal information and other data regarding your account
@@ -405,21 +432,13 @@ Welcome                    </p>
 			For example, We may present content that We think would be of
 			interest to You, based on the information We record about Your usage.</li>
 
-		<li>When You visit Kobo, We will collect Your browser type and IP
-			address and may use that information to vary Your experience.</li>
+		<li>When You visit Kobo, We will collect Your browser type and IP address and may use that information to vary Your experience.</li>
 
-		<li>If You are logged in, We may associate that information with
-			Your account.</li>
+		<li>If You are logged in, We may associate that information with Your account.</li>
 
-		<li>We may use clear GIFs (a.k.a. "Web Beacons") in
-			HTML-based emails sent to Our Users to track which emails are opened
-			by recipients.</li>
+		<li>We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to Our Users to track which emails are opened by recipients.</li>
 
-		<li>Any personal information or content that You voluntarily
-			disclose online (in comments, reviews, etc.) becomes publicly
-			available and can be collected and used by others. If You contribute
-			to the Kobo Service, You are publishing every word You post publicly.
-			If You write something, assume that it may be retained forever.</li>
+		<li>Any personal information or content that You voluntarily disclose online (in comments, reviews, etc.) becomes publicly available and can be collected and used by others. If You contribute to the Kobo Service, You are publishing every word You post publicly. If You write something, assume that it may be retained forever.</li>
 	</ul>
 	<p></p>
 
@@ -427,12 +446,7 @@ Welcome                    </p>
 		<strong>(b) Email</strong>
 	</p>
 	<ul style="font-weight: normal; line-height: 1.5em; padding-left: 16px;">
-		<li>When You create a Kobo account, You can select whether We, or
-			our trusted third parties, can send You emails related to the Kobo
-			Service or the products purchased by You. You can change this option
-			at any time via Your <a href="http://www.kobobooks.com/account/accountsettings.html">Account
-				Settings</a>.
-		</li>
+		<li>When You enter in a contract with Kobo to access the Kobo Service by creating a Kobo account and accept Our Terms of Use And Privacy Policy, You agree that We can send You emails related to the Kobo Service or the products purchased by You. You can change this option at any time via Your <a href="http://www.kobobooks.com/account/accountsettings.html">Account Settings</a>, or by utilizing Our unsubscribe mechanism included in each email We send.</li>
 
 		<li>We reserve the right to send You important account related
 			emails from time to time even if You have opted not to receive emails
@@ -443,13 +457,9 @@ Welcome                    </p>
 		<strong>(c) Passwords</strong>
 	</p>
 	<ul style="font-weight: normal; line-height: 1.5em; padding-left: 16px;">
-		<li>Your User account is protected by a password chosen by You.
-			Passwords protect the integrity of Your account.</li>
+		<li>Your Customer account is protected by a password chosen by You. Passwords protect the integrity of Your account.</li>
 
-		<li>All Users are encouraged to select strong passwords and never
-			to share them. You are prohibited from knowingly exposing the
-			password of another User to public release either directly or
-			indirectly.</li>
+		<li>All Customers are encouraged to select strong passwords and never to share them. You are prohibited from knowingly exposing the password of another User to public release either directly or indirectly.</li>
 
 		<li>Protect against unauthorized access to Your password and to
 			Your computer by logging off once You have finished using a shared
@@ -523,18 +533,7 @@ Welcome                    </p>
 	<h3>2. IDENTIFYING PURPOSES</h3>
 	<p></p>
 	<ul style="font-weight: normal; line-height: 1.5em; padding-left: 16px;">
-		<li>We collect Your personal information for the general purpose
-			of providing You with the Kobo Service as described in the Terms of
-			Use and for any specific purposes identified in, or in accordance
-			with, this Policy. Without limiting the foregoing, we collect
-			personal information in order to fulfill Your orders, process Your
-			payments, collect amounts You owe, respond to Your requests for
-			information and service, communicate with You, conduct internal
-			research to understand Your needs and improve Our service, enforce
-			Our Terms of Use; manage and administer Our Kobo business, where
-			required, to provide sales reports to Our publishers and other
-			suppliers of content, and as otherwise required or permitted by law.
-		</li>
+		<li>We collect Your personal information for the general purpose of providing You with the Kobo Service as described in the Terms of Use and for any specific purposes identified in, or in accordance with, this Policy. Without limiting the foregoing, we collect personal information in order to fulfill Your orders, process Your payments, collect amounts You owe, respond to Your requests for information and service, manage Your account (including storing your digital content purchased or obtained at no charge from the Kobo Service), communicate with You, conduct internal research to understand Your needs and improve Our service, enforce Our Terms of Use; manage and administer Our Kobo business, where required, to provide sales reports to Our publishers and other suppliers of content, and as otherwise required or permitted by law.</li>
 
 		<li>Unless the purpose is self-evident due to the nature of the
 			transaction in question, We will identify the purposes for which
@@ -544,9 +543,7 @@ Welcome                    </p>
 		<li>The proposed purposes will be described in a reasonably
 			understandable manner.</li>
 
-		<li>An example of a self-evident purpose is requesting the name
-			and address of the person during the Kobo Service registration
-			process in order to provide such User with access to the service.</li>
+		<li>An example of a self-evident purpose is requesting the name and address of the person during the Kobo Service registration process in order to provide such individual with access to the service.</li>
 	</ul>
 	<p></p>
 	<h3>3. CONSENT</h3>
@@ -573,11 +570,8 @@ Welcome                    </p>
 			notice, subject to legal or contractual restrictions. We will inform
 			You of the implications of doing so. Your withdrawal will apply to
 			future collection, use or disclosure only.</li>
-
-		<li>If you are a resident of Canada and where you have provided your consent to allow Kobo to share information with its "partner", you acknowledge and agree that Kobo will have the right to share your personal data described below and collected by Kobo to one of its trusted partners, Indigo Books &amp; Music Inc. or Sony Electronics Inc. (each a "Canada Partner"). If you are a resident of the United States, you acknowledge and agree that Kobo shall have the right to share with one of Kobo's trusted third parties (together with the Canada Partners, a "Partner"). Kobo may share your personal data only with the specific Partner directly connected to you in some way (for example you purchased a Kobo device from the Partner store or you initially registered for via the Kobo application on their device), and will not share such information with any other Partner, or with any other person or company for their own use. The Partner may use your personal data for the purposes of marketing the Partner's products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the Partner may determine you would reasonably be interested in; and for purposes of integration with the Partner's loyalty programs. The personal data provided to the Partner for the purposes of marketing will include your name, contact information, searches on the Kobo website and purchase history.
-
-</li>
-
+			
+		<li id="kwp_geoSpecificContent"></li>
 	</ul>
 	<p></p>
 	<h3>4. LIMITING COLLECTION</h3>
@@ -608,17 +602,13 @@ Welcome                    </p>
 			<ol style="font-weight: normal; line-height: 1.5em; padding-left: 20px;list-style-type: decimal;">
 				<li>In response to a court order, subpoena or other compulsory
 					legal process;</li>
-				<li>With permission of the affected User;</li>
+				<li>With permission of the affected Customer;</li>
 				<li>To Our executives, legal counsel, or their designees, when
 					necessary for investigation of abuse complaints;</li>
 				<li>Where the information pertains to page views generated by a
 					spider or bot and its dissemination is necessary to illustrate or
 					resolve technical issues;</li>
-				<li>Where the User is causing damage or degradation to the Kobo
-					Service or persistently behaving in a disruptive way, data may be
-					released to assist in the targeting of IP blocks, or to assist in
-					the formulation of a complaint to the relevant Internet Service
-					Providers;</li>
+				<li>Where the Customer is causing damage or degradation to the Kobo Service or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to the relevant Internet Service Providers;</li>
 				<li>Where it is reasonably necessary to protect Our rights,
 					property or safety, or the rights, property or safety of the Users
 					of the Kobo Service or the public;</li>
@@ -735,9 +725,19 @@ Welcome                    </p>
 		comments, or to challenge Our compliance with this Policy, please
 		contact Us as follows:</p>
 	<p>
-		Michael Tamblyn,<br> Privacy Officer.<br> 135 Liberty St. Suite
-		101,<br> Toronto, ON Canada<br> M6K 1A7<br> (416) 977-8737
-		x3346<br> <a href="mailto:privacy@kobobooks.com">privacy@kobobooks.com</a><br>
+		Rakuten Kobo Inc.<br> Privacy Officer.<br> 135 Liberty St. Suite
+		101,<br> Toronto, ON Canada<br> M6K 1A7<br>
+		<a href="mailto:privacy@kobobooks.com">privacy@kobobooks.com</a><br><br>
+		
+		Kobo Europe S.A.<br>
+		Privacy Officer<br>
+		2 Rue de Fosse<br>
+		Luxembourg<br>
+		L-1536<br>
+		<a href="mailto:privacy@kobobooks.com">privacy@kobobooks.com</a><br><br>
+		
+		
+		
 	</p>
 	<p>We will inform individuals who make enquiries or lodge
 		complaints about Our enquiry or complaint procedures, as applicable.
@@ -746,24 +746,37 @@ Welcome                    </p>
 		practices.</p>
 
 	<p>
-		<strong>Effective Date of this Privacy Policy</strong><br> This
-		Privacy Policy is effective as of December 15th, 2009 and last updated
-		May 4th, 2011.
+		<strong>Effective Date of this Privacy Policy</strong><br>
+		This Privacy Policy is effective as of December 15th, 2009 and last updated July 1, 2014.
 	</p>
 
 	<p>
-		<strong>Changes to this Privacy Policy </strong><br> This Policy is
-		subject to PIPEDA and/or any other applicable privacy laws and Our
-		right to amend this Policy from time to time, in Our sole discretion.
-		By using the Kobo Website, You signify Your agreement to this Policy.
-		If We make material changes to this Policy, We will notify You by
-		posting an announcement on the Kobo Website. Changes to this Policy
-		will become effective when those changes are posted to the Kobo
-		Website. Your continued use of the Kobo Website and Kobo Service
-		following the posting of any changes to this Policy shall constitute
-		Your acceptance of those changes.
+		<strong>Changes to this Privacy Policy </strong><br>
+		This Policy is subject to PIPEDA and/or any other applicable privacy laws and Our right to amend this Policy from time to time, in Our sole discretion. If We make material changes to this Policy, We will notify You by posting an announcement on the Kobo Website. Changes to this Policy will become effective when those changes are posted to the Kobo Website. Your continued use of the Kobo Service following the posting of any changes to this Policy shall constitute Your acceptance of those changes.
 	</p>
 </div>
+<script type="text/javascript"> 
+	var content = {
+           'AU': 'If you are a resident of Australia or New Zealand and where you have provided your consent to allow Kobo to share information with its “partner”, Kobo will provide your personal data to only one of Collins Booksellers PTY Limited, Bookworld, a division of Penguin Australia Pty. Ltd.,  Angus & Robertson, also a division of Penguin Australia Pty. Ltd., Sony Mobile Communications AB (or one of its affiliates),  Paper Plus New Zealand Limited (a company operating under the “Paper Plus” or “Take Note” retail store brand),  or to a member of the Booksellers New Zealand Incorporated. Kobo will share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device at the partner’s store or you initially registered for the eReading Service via the partner website or via the partner’s device), and will not share such information with any other partner or any other third party. The partner may use your personal data for the purposes of marketing the partner’s products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would reasonably be interested in; and for purposes of integration with the partner’s loyalty programs. The personal data provided to the partner for the purposes of marketing may include your name, contact information, searches on the Kobo website and purchase history.',
+           'NZ': 'If you are a resident of Australia or New Zealand and where you have provided your consent to allow Kobo to share information with its “partner”, Kobo will provide your personal data to only one of Collins Booksellers PTY Limited, Bookworld, a division of Penguin Australia Pty. Ltd.,  Angus & Robertson, also a division of Penguin Australia Pty. Ltd., Sony Mobile Communications AB (or one of its affiliates),  Paper Plus New Zealand Limited (a company operating under the “Paper Plus” or “Take Note” retail store brand),  or to a member of the Booksellers New Zealand Incorporated. Kobo will share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device at the partner’s store or you initially registered for the eReading Service via the partner website or via the partner’s device), and will not share such information with any other partner or any other third party. The partner may use your personal data for the purposes of marketing the partner’s products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would reasonably be interested in; and for purposes of integration with the partner’s loyalty programs. The personal data provided to the partner for the purposes of marketing may include your name, contact information, searches on the Kobo website and purchase history.',
+           'AT': 'If you are a resident of Germany or Austria and where you have provided your consent to allow Kobo to share information with its “partner”, you acknowledge and agree that Kobo will have the right to share your email address with Sony Mobile Communications AB (or one of its affiliates) (“Sony”). Sony may use your email address for the purposes of marketing Sony’s products to you; developing, marketing and presenting to you promotions and offers which Sony may determine you would reasonably be interested in; and for purposes of integration with Sony’s loyalty programs.',           
+           'DE': 'If you are a resident of Germany or Austria and where you have provided your consent to allow Kobo to share information with its “partner”, you acknowledge and agree that Kobo will have the right to share your email address with Sony Mobile Communications AB (or one of its affiliates) (“Sony”). Sony may use your email address for the purposes of marketing Sony’s products to you; developing, marketing and presenting to you promotions and offers which Sony may determine you would reasonably be interested in; and for purposes of integration with Sony’s loyalty programs.',
+           'BR': 'If you are a resident of Brazil and where you have provided your consent to allow Kobo to share information with its “partner”, Kobo will provide your personal data to either Livraria Cultura or Sony Mobile Communications AB (or one of its affiliates). Kobo may share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device from the partner store, you initially registered for the eReading Service via the partner’s device, or you initially registered for the eReading Service by clicking a link on the Partner’s website), and will not share such information with any other partner, or with any other person or company for their own use. The partner may use your personal data for the purposes of marketing the partner’s products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would reasonably be interested in; and for purposes of integration with the partner’s loyalty programs. The personal data provided to the partner for the purposes of marketing will include your name, contact information, searches on the Kobo website and purchase history.',
+           'ES': 'If you are a resident of Spain and where you have provided your consent to allow Kobo to share your personal information with its “partner”, Kobo will provide your personal data to only one of La Central or Sony Mobile Communications AB (or one of its affiliates). Kobo will share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device at the partner’s store or you initially registered for the eReading Service via the partner website or via the partner’s device), and will not share such information with any other partner or any other third party. The partner may analyze and use such information for the purpose of: marketing the partner’s products to you; use in the partner’s customer relationship management programs; conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would be interested in; and for purposes of integration with the partner’s loyalty programs. For these purposes, "personal information" will comprise: your name, contact information, search and purchase history.',
+           'GB': 'If you are a resident of the United Kingdom, the Republic of Ireland, Channel Islands or the Isle of Man and where you have provided your consent to allow Kobo to share information with its “partner”, Kobo will provide your personal data to one or more of its trusted partners, WH Smith High Street Limited (“WHS” and any wholly-owned company in the same group of companies as WHS), Eason and Son Limited, Sony Mobile Communications AB (or one of its affiliates), or a member of the United Kingdom & Ireland Bookseller Association. Kobo may share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device from the partner store, you initially registered for the eReading Service via the partner’s device, or you initially registered for the eReading Service by clicking a link on the Partner’s website) and also with WHS, and will not share such information with any other partner, or with any other person or company for their own use. The partner may use your personal data for the purposes of marketing the partner’s products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would reasonably be interested in; and for purposes of integration with the partner’s loyalty programs. The personal data provided to the partner for the purposes of marketing will include your name, contact information, searches on the Kobo website and purchase history.',
+           'IN': 'If you are a resident of India and where you have provided your consent to allow Kobo to share your personal information with its “partner”, Kobo will provide your personal data to only one of Crossword Bookstores Limited or Sony Mobile Communications AB (or one of its affiliates). Kobo will share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device at the partner’s store or you initially registered for the eReading Service via the partner website or via the partner’s device), and will not share such information with any other partner or any other third party.  The partner may analyze and use such information for the purpose of: marketing the partner’s products to you; use in the partner’s customer relationship management programs; conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would be interested in; and for purposes of integration with the partner’s loyalty programs. For these purposes, "personal information" will comprise: your name, contact information, search and purchase history.',
+           'NL': 'If you are a resident of the Kingdom of the Netherlands and where you have provided your consent to allow Kobo to share information with its “partner”, Kobo will provide your personal data to one of its trusted partners, Libris Blz. B.V. and its affiliated stores or Sony Mobile Communications AB (or one of its affiliates. Kobo may share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device from the partner store, you initially registered for the eReading Service via the partner’s device, or you initially registered for the eReading Service by clicking a link on the Partner’s website), and will not share such information with any other partner, or with any other person or company for their own use. The partner may use your personal data for the purposes of marketing the partner’s products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would reasonably be interested in; and for purposes of integration with the partner’s loyalty programs. The personal data provided to the partner for the purposes of marketing will include your name, contact information, searches on the Kobo website and purchase history.',
+           'PH': 'If you are a resident of the Philippines, you acknowledge and agree that Kobo shall have the right to share with either National Bookstore Inc. ("National") or Sony Mobile Communications AB (or one of its affiliates)(each a “Partner”), each a trusted third party of Kobo, the personal information about you described below and collected by Kobo. Kobo will share your personal data only with the specific Partner directly connected to you in some way (for example you purchased a Kobo ereading device at Partners’ store or you initially registered for the eReading Service via the Partner website or the Partner’s device), and will not share such information with any other Partner. The Partner may analyze and use such information for the purpose of: marketing the Partner’s products to you; use in Partner customer relationship management programs; conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the Partner may determine you would be interested in; and for purposes of integration with the Partner’s loyalty programs. For these purposes, "personal information" will comprise: your name, contact information, search and purchase history.',
+           'PT': 'If you are a resident of Portugal and where you have provided your consent to allow Kobo to share your personal information with its “partner”, Kobo will provide your personal data to only one of FNAC Portugal - Actividades Culturais e Distribuição de Livros, Records, produtos de multimídia e técnica, inc. or Sony Mobile Communications AB (or one of its affiliates). Kobo will share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device at the partner’s store or you initially registered for the eReading Service via the partner website or via the partner’s device), and will not share such information with any other partner or any other third party.  The partner may analyze and use such information for the purpose of: marketing the partner’s products to you; use in the partner’s customer relationship management programs; conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would be interested in; and for purposes of integration with the partner’s loyalty programs. For these purposes, "personal information" will comprise: your name, contact information, search and purchase history.',
+           'ZA': 'If you are a resident of South Africa and where you have provided your consent to allow Kobo to share information with its “partners”, Kobo will provide your personal data to one of Pick n Pay Retailers (Pty) Ltd., Bargain Magazines and Stationary CC, Sony Mobile Communications AB (or one of its affiliates), or CNA, a division of Edcon Ltd. Kobo will share your personal data only with the specific partner directly connected to you in some way (for example you purchased a Kobo ereading device at partner’s store or you initially registered for the eReading Service via the partner’s website or on partner’s device), and will not share such information with any other partner. The partner may use your personal data for the purposes of marketing the partner’s products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the partner may determine you would reasonably be interested in; and for purposes of integration with the partner’s loyalty programs. The personal data provided to the partner for the purposes of marketing will include your name, contact information, searches on the Kobo website and purchase history.',
+   		};
+	if (content[mage_userGeo] != null) {
+		jQuery('#kwp_geoSpecificContent').html(content[mage_userGeo]);
+	} else {
+		jQuery('#kwp_geoSpecificContent').remove();
+	}
+
+</script>
 <!-- B-END ::: help-privacy ww ::: help-privacy --></div>
        
       <script type="text/javascript" src="http://merch.kobobooks.com/common/js/widgets/koboSideNav.js"></script>
@@ -773,16 +786,19 @@ Welcome                    </p>
         </div>
                 
 <!-- B-START ::: Onestore Footer USA English ::: onestore_footer -->
+
+
  
 
         <script>
             if (typeof DynamicConfiguration === "undefined") {
                 var DynamicConfiguration = {
                     isLogEnabled: false,
-                    assetsRoot: '//kbstatic1-a.akamaihd.net/179/'
+                    assetsRoot: '//kbstatic1-a.akamaihd.net/703/'
                 };
             }
         </script>
+
 
 <footer class="kobo-footer">
 
@@ -792,50 +808,51 @@ Welcome                    </p>
                 <!-- first column -->
                 <div class="floated-column footer-about-section kobo-gizmo gizmo-expandable" data-kobo-gizmo="Expandable" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: {&quot;small&quot;: true, &quot;medium&quot;: true, &quot;large&quot;: false, &quot;jumbo&quot;: false}, &quot;viewModel&quot;:&quot;PlusButtonFooter&quot;, &quot;height&quot;:&quot;50px&quot;}">
 
-                    <h3>All about Kobo<span></span></h3>
+                    <h3>All about Kobo</h3>
 
                     <ul class="inner-column-left">
                         
                         
-                        <li class=""><a href="http://www.kobo.com/aboutus?style=onestore&amp;language=en-US&amp;store=US">Our Company</a></li>
-                        <li class=""><a href="http://www.kobo.com/execteam?style=onestore&amp;language=en-US&amp;store=US">Management Team</a></li>
-                        <li class=""><a href="http://www.kobo.com/erecycling?style=onestore&amp;language=en-US&amp;store=US">eRecycling Program</a></li>
-                        <li class=""><a href="http://www.kobo.com/apps?style=onestore&amp;language=en-US&amp;store=US">Free Apps</a></li>
-                        <li class=""><a href="http://www.kobo.com/help?style=onestore&amp;language=en-US&amp;store=US">Get Help</a></li>
+                        <li class=""><a href="/aboutus?style=onestore&amp;store=US">Our Company</a></li>
+                        <li class=""><a href="/execteam?style=onestore&amp;store=US">Management Team</a></li>
+                        <li class=""><a href="/erecycling?style=onestore&amp;store=US">eRecycling Program</a></li>
+                        <li class=""><a href="/apps?style=onestore&amp;store=US">Free Apps</a></li>
+                        
+                        <li class=""><a href="/help?style=onestore&amp;store=US">Get Help</a></li>
                     </ul>
                 </div>
                             <!-- second column -->
                 <div class="floated-column footer-opportunities-section kobo-gizmo gizmo-expandable" data-kobo-gizmo="Expandable" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: {&quot;small&quot;: true, &quot;medium&quot;: true, &quot;large&quot;: false, &quot;jumbo&quot;: false}, &quot;viewModel&quot;:&quot;PlusButtonFooter&quot;, &quot;height&quot;:&quot;50px&quot;}">
 
-                    <h3>Opportunities<span></span></h3>
+                    <h3>Opportunities</h3>
 
                     <ul class="inner-column-left">
                         
-                        <li class=""><a href="http://www.kobo.com/publishers?style=onestore&amp;language=en-US&amp;language=en-US&amp;store=CA&amp;store=US">Authors and Publishers</a></li>
-                        <li class=""><a href="http://www.kobo.com/writinglife?style=onestore&amp;language=en-US&amp;store=US">Writing Life</a></li>
+                        <li class=""><a href="/publishers?style=onestore&amp;store=US">Publishers</a></li>
+                        <li class=""><a href="/writinglife?style=onestore&amp;store=US">Writing Life</a></li>
                         
-                        <li class=""><a href="http://www.kobo.com/affiliates?style=onestore&amp;language=en-US&amp;store=US">Affiliates</a></li>
-                        <li class=""><a href="http://www.kobo.com/jobs?style=onestore&amp;language=en-US&amp;store=US">Job Openings</a></li>
-                        <li class=""><a href="http://www.kobo.com/sponsorships?style=onestore&amp;language=en-US&amp;store=US">Sponsorships</a></li>
+                        <li class=""><a href="/affiliates?style=onestore&amp;store=US">Affiliates</a></li>
+                        <li class=""><a href="/jobs?style=onestore&amp;store=US">Job Openings</a></li>
+                        <li class=""><a href="/sponsorships?style=onestore&amp;store=US">Sponsorships</a></li>
                     </ul>
 
                 </div>
                             <!-- third column -->
                 <div class="floated-column footer-social-section kobo-gizmo gizmo-expandable" data-kobo-gizmo="Expandable" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: {&quot;small&quot;: true, &quot;medium&quot;: true, &quot;large&quot;: false, &quot;jumbo&quot;: false}, &quot;viewModel&quot;:&quot;PlusButtonFooter&quot;, &quot;height&quot;:&quot;50px&quot;}">
 
-                    <h3>Stay Connected<span></span></h3>
+                    <h3>Stay Connected</h3>
                     <ul class="inner-column-left">
                         <li>
                             <p>Stay up to date on the latest Kobo news, deals and events</p>
                         </li>
                         <li>
                             <ul class="horizontal-list social-links">
-                                <li class="social-icon-facebook"><a href="http://www.facebook.com/kobo?language=en-US&amp;store=US">Facebook</a></li>
-                                <li class="social-icon-twitter"><a href="http://twitter.com/kobo?language=en-US&amp;store=US">Twitter</a></li>
-                                <li class="social-icon-pinterest"><a href="http://www.pinterest.com/kobobooks/?language=en-US&amp;store=US">Pinterest</a></li>
-                                <li class="social-icon-youtube"><a href="http://www.youtube.com/subscription_center?add_user=kobobooks&amp;language=en-US&amp;store=US">YouTube</a></li>
+                                <li class="social-icon-facebook"><a href="http://www.facebook.com/kobo">Facebook</a></li>
+                                <li class="social-icon-twitter"><a href="http://twitter.com/kobo">Twitter</a></li>
+                                <li class="social-icon-pinterest"><a href="http://www.pinterest.com/kobobooks/">Pinterest</a></li>
+                                <li class="social-icon-youtube"><a href="http://www.youtube.com/subscription_center?add_user=kobobooks">YouTube</a></li>
                                 
-                                <li class="social-icon-blog"><a href="http://cafe.kobo.com/?language=en-US&amp;store=US">Kobo Café</a></li>
+                                <li class="social-icon-blog"><a href="http://cafe.kobo.com/">Kobo Café</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -844,7 +861,7 @@ Welcome                    </p>
                 <div class="floated-column footer-language-section">
                     <div class="kobo-gizmo gizmo-expandable" data-kobo-gizmo="Expandable" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: {&quot;small&quot;: true, &quot;medium&quot;: true, &quot;large&quot;: false, &quot;jumbo&quot;: false}, &quot;viewModel&quot;:&quot;PlusButtonFooter&quot;, &quot;height&quot;:&quot;50px&quot;}">
                     
-                        <h3>Language<span></span></h3>
+                        <h3>Language</h3>
                         
                         <div class="kobo-gizmo gizmo-overlay" data-kobo-gizmo="Overlay" data-kobo-gizmo-config="{&quot;halign&quot;:&quot;right&quot;, &quot;valign&quot;:&quot;top&quot;, &quot;viewModel&quot;:&quot;LanguageSelector&quot;}">
 
@@ -883,54 +900,42 @@ Welcome                    </p>
 
             <div class="footer-utility kobo-gizmo gizmo-expandable" data-kobo-gizmo="Expandable" data-kobo-gizmo-config="{&quot;isCollapsed&quot;: {&quot;small&quot;: true, &quot;medium&quot;: true, &quot;large&quot;: false, &quot;jumbo&quot;: false}, &quot;viewModel&quot;:&quot;PlusButtonFooter&quot;, &quot;height&quot;:&quot;50px&quot;}">
 
-                <p class="footer-copyright">© Kobo Inc.</p>
+                <p class="footer-copyright">© 2014 Rakuten Kobo Inc.</p>
                 <ul class="inner-column-left">
                     
-                    <li class=""><a href="http://www.kobo.com/termsofuse?style=onestore&amp;language=en-US&amp;store=US">Terms of Use</a></li>
-                    <li class=""><a href="http://www.kobo.com/privacypolicy?style=onestore&amp;language=en-US&amp;store=US">Privacy</a></li>
+                    <li class=""><a href="/termsofuse?style=onestore&amp;store=US">Terms of Use</a></li>
+                    <li class=""><a href="/privacypolicy?style=onestore&amp;store=US">Privacy</a></li>
+                    
                 </ul>
             </div>
         </div>
     </div>
-
-    <div class="secondary-footer">
-        <div class="inner-wrap kobo-widget">
-            <div class="secondary-footer-horizontal-list-wrap">
-                <ul class="horizontal-list secondary-footer-horizontal-list">
-                    <li><a href="http://www.rakuten.com.br/">Brazil - Rakuten</a></li>
-                    <li><a href="http://www.priceminister.com/">France - PriceMinister</a></li>
-                    <li><a href="http://www.rakuten.de/">Germany - Rakuten</a></li>
-                    <li><a href="http://www.rakuten.co.id/">Indonesia - Rakuten</a></li>
-                    <li><a href="http://www.rakuten.co.jp/?op=1&amp;lng=ja&amp;backurl=http%3a%2f%2fwww%2erakuten%2eco%2ejp%2f">Japan - Rakuten</a></li>
-                    <li><a href="http://golf.rakuten.com/">Rakuten Golf USA</a></li>
-                    <li><a href="http://www.rakuten.com.tw/">Taiwan - Rakuten</a></li>
-                    <li><a href="http://www.tarad.com/">Thailand - Tarad.com</a></li>
-                    <li><a href="http://www.play.com/">United Kingdom - Play.com</a></li>
-                    <li><a href="http://www.buy.com/">United States - Buy.com</a></li>
-                    <li><a href="http://global.rakuten.com/en/">International - Rakuten</a></li>
-                    <li><a href="http://global.rakuten.com/group/">All Rakuten Services</a></li>
-                    <li><a href="http://ca.buy.com/">Buy.com Canada</a></li>
-                    <li><a href="http://import.buy.com/">Export to Japan</a></li>
-                </ul>
+        <div class="secondary-footer">
+            <div class="inner-wrap kobo-widget">
+                <div class="secondary-footer-horizontal-list-wrap">
+                    <ul class="horizontal-list secondary-footer-horizontal-list">
+                        <li><a href="http://www.rakuten.com.br/">Brazil - Rakuten</a></li>
+                        <li><a href="http://www.priceminister.com/">France - PriceMinister</a></li>
+                        <li><a href="http://www.rakuten.de/">Germany - Rakuten</a></li>
+                        <li><a href="http://www.rakuten.co.id/">Indonesia - Rakuten</a></li>
+                        <li><a href="http://www.rakuten.co.jp/?op=1&amp;lng=ja&amp;backurl=http%3a%2f%2fwww%2erakuten%2eco%2ejp%2f">Japan - Rakuten</a></li>
+                        <li><a href="http://golf.rakuten.com/">Rakuten Golf USA</a></li>
+                        <li><a href="http://www.rakuten.com.tw/">Taiwan - Rakuten</a></li>
+                        <li><a href="http://www.tarad.com/">Thailand - Tarad.com</a></li>
+                        <li><a href="http://www.play.com/">United Kingdom - Play.com</a></li>
+                        <li><a href="http://www.buy.com/">United States - Buy.com</a></li>
+                        <li><a href="http://global.rakuten.com/en/">International - Rakuten</a></li>
+                        <li><a href="http://global.rakuten.com/group/">All Rakuten Services</a></li>
+                        <li><a href="http://ca.buy.com/">Buy.com Canada</a></li>
+                        <li><a href="http://import.buy.com/">Export to Japan</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
-    </div>
-
 </footer>
-<script src="//kbstatic1-a.akamaihd.net/179/output/scripts/kobo.min.js" type="text/javascript"></script>
+<script src="//kbstatic1-a.akamaihd.net/703/output/scripts/kobo.magento.min.js" type="text/javascript"></script>
 
-    <script type="text/javascript" src="//cdn.optimizely.com/js/4041011.js"></script>
-    <script type="text/javascript">
-        if (BotTracker) {
-            BotTracker.verifyBot();
-        }
-    </script>
-<!-- 
-<script src="//cc.hostedpci.com/WBSStatic/site60/proxy/js/hpci-cciframe-1.0.js" type="text/javascript" charset="utf-8"></script>
-<script src="//cc.hostedpci.com/WBSStatic/site60/proxy/js/jquery.ba-postmessage.min.js" type="text/javascript" charset="utf-8"></script> -->
         <script type="text/javascript">jQuery.noConflict(true);</script>
-
-
 
 <!-- B-END ::: Onestore Footer USA English ::: onestore_footer -->
         
@@ -938,9 +943,9 @@ Welcome                    </p>
 
 <!-- B-START ::: HPCI fix by web team ::: hpci-fix -->
 <script type="text/javascript">
-    var hpciCCFrameHost = "https://cc.hostedpci.com";
+    /*var hpciCCFrameHost = "https://cc.hostedpci.com";
     var hpciCCFrameFullUrl = "https://cc.hostedpci.com/iSynSApp/showPxyPage!ccFrame.action?locationName=checkout1&amp;sid=520721&amp;fullParentHost=https%3A%2F%2Fwww.kobo.com%2Fonestepcheckout%2F&amp;pgmode1=prod&amp;fullParentQStr=";
-    var hpciCCFrameName = "hpciframe";
+    var hpciCCFrameName = "hpciframe";*/
 
     var hpciSiteErrorHandler = function(errorCode, errorMsg) {
 
@@ -955,7 +960,8 @@ Welcome                    </p>
 
         /*remove the processing order message/image*/
         if (loaderelement != null) {
-              loaderelement.addClassName('no-display');
+              /*loaderelement.addClassName('no-display');*/
+              submitelement.parentNode.removeChild(loaderelement);
         }
     }
 
@@ -968,7 +974,9 @@ Welcome                    </p>
 
         //payment.save();
         /*ready to submit the order now that the mapped CC is back*/
-        $('onestepcheckout-form').submit();
+        //$('onestepcheckout-form').submit();
+
+        submitForm();
     }
 </script>
 <!-- B-END ::: HPCI fix by web team ::: hpci-fix -->
@@ -1170,6 +1178,31 @@ Welcome                    </p>
 
 
 <script src="//merch.kobobooks.com/magento/header/js/primaryNav.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+	jQuery(window).load(function() {
+		/*
+		 * @author	Walter S.
+		 * @date	Aug 12, 2014
+		 * This function is used to scroll to Refurbished product automatically when the hash is set to 'Refurbished in the URL'.
+		 * This is currently set to trigger on Product Listing Grid pages.
+		 */
+		if (window.location.hash && 
+			typeof jQuery !== "undefined" && 
+			window.location.hash.substring(1).toLowerCase() == "refurbished" && 
+			jQuery(".page-inner .products-grid .product-name:contains('Refurbished'):eq(0)") ) {
+
+			var osHeaderOffset = (jQuery('body.kwp_oneStore')) ? jQuery("header").outerHeight() : 0;
+
+			jQuery('html, body').animate({
+	        	scrollTop: jQuery(".page-inner .products-grid .product-name:contains('Refurbished'):eq(0)").parent().offset().top - osHeaderOffset
+	    	}, 1);
+
+		}
+	});
+
+</script>
 <!-- B-END ::: Footer JS ::: footer_js -->
 
 <!-- B-START ::: Footer CSS ::: footer_css -->
