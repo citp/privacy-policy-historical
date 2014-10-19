@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629083055id_/http%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019065736id_/http%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Bookworld
+# Privacy Policy | Bookworld
 
 **Background**  
 Pearson Australia Group rebranded Borders Online which now operates as Bookworld, an online retail business. 
@@ -11,7 +11,7 @@ On 1 July 2013 Penguin and Random House officially united to create Penguin Rand
 
 Below is a summary of Penguin Australia Pty Ltd privacy policy as it applies to the Bookworld business.
 
-Privacy Policy
+**Privacy Policy**
 
 In this Privacy Policy, "us", "we" or "our" means Penguin Australia Pty Ltd ABN 21 162 605 745 and its divisions (including without limitation Penguin Group (Australia), Bookworld and Angus & Robertson) and related bodies corporate.
 
@@ -19,15 +19,15 @@ We recognise the importance of privacy and are committed to protecting your priv
 
 This Privacy Policy explains how we handle personal information in an open and transparent manner in accordance with the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) (“Privacy Act”) and other applicable privacy laws. Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable. This Privacy Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. All personal information held by us will be governed by the most recently updated policy. This Privacy Policy addresses the following:
 
-  * what information we collect;
-  * if you are a minor (aged under 18 years);
-  * how we collect information;
-  * why we collect it;
-  * how we use it; 
-  * how we disclose it;
-  * opting in or out;
-  * how we hold it – management and security; 
-  * accessing and updating or correcting your information and how to contact us.
+  * What information we collect;
+  * If you are a minor (aged under 18 years);
+  * How we collect information;
+  * Why we collect it;
+  * How we use it;
+  * How we disclose it;
+  * Opting in or out;
+  * How we hold it – management and security;
+  * Accessing and updating or correcting your information and how to contact us.
 
 
 
@@ -67,16 +67,16 @@ If you do not provide us with all or some of the information that we request, we
 
 In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
 
-  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in; 
-  * for purposes necessary or incidental to the provision of products or services to you including processing order details, tracking numbers and other transaction information; 
-  * to personalise and customise your experience purchasing or using our products or services; 
-  * to manage and enhance our products and services; 
-  * to communicate with you, including by email, mail or telephone; 
-  * to conduct competitions or promotions; 
-  * to verify your identity; 
-  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; 
-  * as part of any investigation in relation to you or your activity which we suspect to be a breach of any of our terms and conditions, serious misconduct or unlawful; 
-  * as part of a sale (or proposed sale) of all or part of our business; and/or 
+  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in;
+  * for purposes necessary or incidental to the provision of products or services to you including processing order details, tracking numbers and other transaction information;
+  * to personalise and customise your experience purchasing or using our products or services;
+  * to manage and enhance our products and services;
+  * to communicate with you, including by email, mail or telephone;
+  * to conduct competitions or promotions;
+  * to verify your identity;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity;
+  * as part of any investigation in relation to you or your activity which we suspect to be a breach of any of our terms and conditions, serious misconduct or unlawful;
+  * as part of a sale (or proposed sale) of all or part of our business; and/or
   * as required or permitted by any law or regulation (including without limitation the Privacy Act).
 
 
@@ -87,12 +87,12 @@ We may disclose personal information, and you consent to us disclosing your pers
 
 We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
-  * for purposes necessary or incidental to the provision of products or services to you including the disclosure of order details, tracking numbers and other transaction information to Google Inc. for processing and other use for the Google Certified Shops program; 
-  * engaged by us to perform functions or provide products and services on our behalf, such as processing of credit card information, mailouts, debt collection, marketing, research and advertising; 
-  * that are our agents, business partners or joint venture entities or partners; 
-  * that sponsor or promote any competition or activity that we conduct or promote via our services; 
-  * authorised by you to receive information held by us; 
-  * as part of any investigation in relation to you or your activity which we suspect to be a breach of any of our terms and conditions, serious misconduct or unlawful (including disclosure to the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator); 
+  * for purposes necessary or incidental to the provision of products or services to you including the disclosure of order details, tracking numbers and other transaction information to Google Inc. for processing and other use for the Google Certified Shops program;
+  * engaged by us to perform functions or provide products and services on our behalf, such as processing of credit card information, mailouts, debt collection, marketing, research and advertising;
+  * that are our agents, business partners or joint venture entities or partners;
+  * that sponsor or promote any competition or activity that we conduct or promote via our services;
+  * authorised by you to receive information held by us;
+  * as part of any investigation in relation to you or your activity which we suspect to be a breach of any of our terms and conditions, serious misconduct or unlawful (including disclosure to the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator);
   * that are our external advisers or potential or actual bidders or their external advisers as part of a sale (or proposed sale) of all or part of our business; and/or 
   * as required or permitted by any law or regulation (including the Privacy Act).
 
@@ -106,6 +106,8 @@ At the point we collect information from you, you may be asked to "opt in" to co
 
 You will be given the opportunity to "opt out" from receiving communications from us or from third parties that send communications to you in accordance with the Privacy Act and other applicable privacy laws. For example, you will be given the option to unsubscribe to emails or newsletters sent by us.
 
+ :
+
 **How we hold it - management and security**
 
 We have appointed a Privacy Officer to oversee the management of personal information in accordance with this Privacy Policy, the Privacy Act and other applicable privacy laws. Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, interference and loss, and from unauthorised access, modification or disclosure including by means of secure premises, locked cabinets, firewalls, password access, secure servers and encryption of credit card transactions. However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse, interference or loss, or unauthorised access, modification or disclosure in respect of your personal information where the security of the information is not within our control. If you suspect any misuse, interference or loss, or unauthorised access, modification or disclosure in respect of your personal information, or any other privacy breach please let us know immediately.
@@ -118,14 +120,9 @@ Subscribers or members of our websites will generally be able to access, update 
 
 If you wish to access, update or correct any personal information that we hold about you, or if you have any questions or require a complaint dealt with about how we collect, use, disclose, store or otherwise handle your personal information, you can contact the department that collected your personal information in the first instance, or write to:
 
-The Privacy Officer
-
-Penguin Australia Pty Ltd
-
-707 Collins Street
-
-Melbourne VIC 3008
-
-Email: privacy.officer@penguinrandomhouse.com.au
+The Privacy Officer  
+Penguin Australia Pty Ltd  
+Melbourne VIC 3008  
+Email: [privacy.officer@penguinrandomhouse.com.au](https://web.archive.org/web/20141019065736id_/http%3A//www.bookworld.com.au/mail%20to:%20privacy.officer@penguinrandomhouse.com.au)
 
 Last Updated: 23 June 2014
