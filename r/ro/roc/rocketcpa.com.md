@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketcpa.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827233601id_/http%3A//www.rocketcpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketcpa.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019033123id_/http%3A//www.rocketcpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Rocket CPA Affiliate Network Privacy Policy
 
