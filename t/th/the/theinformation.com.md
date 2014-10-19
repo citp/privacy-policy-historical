@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinformation.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209195705id_/https%3A//www.theinformation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinformation.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019054748id_/https%3A//www.theinformation.com/privacy) for the most accurate reproduction.*
 
 # The Information
 
