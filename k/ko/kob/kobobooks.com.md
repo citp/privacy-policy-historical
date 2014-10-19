@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509020737id_/http%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019162538id_/http%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated on May 4th, 2011
+Last updated on July 1, 2014
 
-Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents of Europe), (in each case as applicable, referred to herein as "We", "Our" or "Us") considers the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If you decide to access the Kobo Service, Your visit and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/termsofuse) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). 
+Rakuten Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents of Europe), (in each case as applicable, referred to herein as "We", "Our" or "Us") consider the protection of your personal information a top priority when you ("You" or "Your") use Our Kobo Service. If you decide to become a customer of the Kobo Service by creating an account (“Customer”), Your account and any dispute over privacy is subject to this Privacy Policy and Our [Terms and Conditions](https://web.archive.org/termsofuse) of Use. Our Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). 
 
 ### 1\. ACCOUNTABILITY
 
@@ -18,10 +18,10 @@ Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents 
 
 **(a) User Accounts and Personal Information**
 
-  * Purchasing and submitting content from the Kobo Service requires a user to register for an account. Personal information is required, including Your real name, email address, password, and country of residence. If You are logged in, You will be identified by Your user name. This may be Your real name if You so choose, or You may choose to publish under a pseudonym, whatever user name You selected when You created Your account.
-  * When making a purchase on Kobo We will ask You for more information as is necessary to complete Your purchase, and will store that information in Your account until You tell Us to remove it.
+  * The ability to access almost all functionality of the Kobo Service requires that You register for a Kobo account and enter into a contract with Kobo for the use of the Service by agreeing to Kobo’s Terms of Use and this Privacy Policy. Personal information is required to become a customer of the Kobo Service and create Your account, including Your real name, email address, password, and country of residence. If You are logged in, You will be identified by Your user name. This may be Your real name if You so choose, or You may choose to publish under a pseudonym, whatever user name You selected when You created Your account.
+  * When making a purchase on the Kobo Service We will ask You for more information as is necessary to complete Your purchase, and will store that information in Your account until You tell Us to remove it
   * We ask for some personal information when You create a Kobo user account, including Your email address and a password, which is used to protect Your account from unauthorized access.
-  * We may record information about Your usage, such as when and how often You use the Kobo Service as well as information You display or click on within the Kobo Service (including UI elements, settings, and other information), and may share this information to trusted third parties, including Our publishers or other suppliers of content.
+  * We may record information about Your usage, such as when and how often You use the Kobo Service as well as information You display or click on within the Kobo Service (including UI elements, settings, and other information.
   * For magazine and newspaper subscriptions, We may be required to share personal information and other data regarding your account to Our publishers or other suppliers of content, for their internal use only including for sales reports and aggregate circulation reporting. If you give Your consent, the applicable publisher or supplier of content may contact you for marketing purposes.
   * We may use Your usage information to vary Your experience. For example, We may present content that We think would be of interest to You, based on the information We record about Your usage.
   * When You visit Kobo, We will collect Your browser type and IP address and may use that information to vary Your experience.
@@ -33,15 +33,15 @@ Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents 
 
 **(b) Email**
 
-  * When You create a Kobo account, You can select whether We, or our trusted third parties, can send You emails related to the Kobo Service or the products purchased by You. You can change this option at any time via Your [Account Settings](http://www.kobobooks.com/account/accountsettings.html). 
+  * When You enter in a contract with Kobo to access the Kobo Service by creating a Kobo account and accept Our Terms of Use And Privacy Policy, You agree that We can send You emails related to the Kobo Service or the products purchased by You. You can change this option at any time via Your [Account Settings](http://www.kobobooks.com/account/accountsettings.html), or by utilizing Our unsubscribe mechanism included in each email We send.
   * We reserve the right to send You important account related emails from time to time even if You have opted not to receive emails from us.
 
 
 
 **(c) Passwords**
 
-  * Your User account is protected by a password chosen by You. Passwords protect the integrity of Your account.
-  * All Users are encouraged to select strong passwords and never to share them. You are prohibited from knowingly exposing the password of another User to public release either directly or indirectly.
+  * Your Customer account is protected by a password chosen by You. Passwords protect the integrity of Your account.
+  * All Customers are encouraged to select strong passwords and never to share them. You are prohibited from knowingly exposing the password of another User to public release either directly or indirectly.
   * Protect against unauthorized access to Your password and to Your computer by logging off once You have finished using a shared computer.
 
 
@@ -70,10 +70,10 @@ Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents 
 
 ### 2\. IDENTIFYING PURPOSES
 
-  * We collect Your personal information for the general purpose of providing You with the Kobo Service as described in the Terms of Use and for any specific purposes identified in, or in accordance with, this Policy. Without limiting the foregoing, we collect personal information in order to fulfill Your orders, process Your payments, collect amounts You owe, respond to Your requests for information and service, communicate with You, conduct internal research to understand Your needs and improve Our service, enforce Our Terms of Use; manage and administer Our Kobo business, where required, to provide sales reports to Our publishers and other suppliers of content, and as otherwise required or permitted by law. 
+  * We collect Your personal information for the general purpose of providing You with the Kobo Service as described in the Terms of Use and for any specific purposes identified in, or in accordance with, this Policy. Without limiting the foregoing, we collect personal information in order to fulfill Your orders, process Your payments, collect amounts You owe, respond to Your requests for information and service, manage Your account (including storing your digital content purchased or obtained at no charge from the Kobo Service), communicate with You, conduct internal research to understand Your needs and improve Our service, enforce Our Terms of Use; manage and administer Our Kobo business, where required, to provide sales reports to Our publishers and other suppliers of content, and as otherwise required or permitted by law.
   * Unless the purpose is self-evident due to the nature of the transaction in question, We will identify the purposes for which personal information is collected at or before the time the information is collected.
   * The proposed purposes will be described in a reasonably understandable manner.
-  * An example of a self-evident purpose is requesting the name and address of the person during the Kobo Service registration process in order to provide such User with access to the service.
+  * An example of a self-evident purpose is requesting the name and address of the person during the Kobo Service registration process in order to provide such individual with access to the service.
 
 
 
@@ -84,8 +84,7 @@ Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents 
   * Consent can be express or, in some circumstances, implied, and given in writing, by using or not using a check-off box, electronically, orally (in person or by telephone), or by Your conduct, such as use of a product or service.
   * In determining the type of consent to obtain, We will consider all relevant factors, including the sensitivity of the information and Your reasonable expectations.
   * You may withdraw Your consent at any time, on reasonable notice, subject to legal or contractual restrictions. We will inform You of the implications of doing so. Your withdrawal will apply to future collection, use or disclosure only.
-  * If you are a resident of Canada and where you have provided your consent to allow Kobo to share information with its "partner", you acknowledge and agree that Kobo will have the right to share your personal data described below and collected by Kobo to one of its trusted partners, Indigo Books & Music Inc. or Sony Electronics Inc. (each a "Canada Partner"). If you are a resident of the United States, you acknowledge and agree that Kobo shall have the right to share with one of Kobo's trusted third parties (together with the Canada Partners, a "Partner"). Kobo may share your personal data only with the specific Partner directly connected to you in some way (for example you purchased a Kobo device from the Partner store or you initially registered for via the Kobo application on their device), and will not share such information with any other Partner, or with any other person or company for their own use. The Partner may use your personal data for the purposes of marketing the Partner's products to you, including by conducting internal research to understand your needs and preferences; developing, marketing and presenting to you promotions and offers which the Partner may determine you would reasonably be interested in; and for purposes of integration with the Partner's loyalty programs. The personal data provided to the Partner for the purposes of marketing will include your name, contact information, searches on the Kobo website and purchase history. 
-
+  * 
 
 
 ### 4\. LIMITING COLLECTION
@@ -101,10 +100,10 @@ Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents 
   * It will be retained only as long as necessary for these purposes or as required by law.
   * For greater certainty, without limiting the generality of the foregoing, it is Our policy that personally identifiable data collected in the Kobo Service server logs may be released by Our system administrators in the following situations: 
     1. In response to a court order, subpoena or other compulsory legal process;
-    2. With permission of the affected User;
+    2. With permission of the affected Customer;
     3. To Our executives, legal counsel, or their designees, when necessary for investigation of abuse complaints;
     4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues;
-    5. Where the User is causing damage or degradation to the Kobo Service or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to the relevant Internet Service Providers;
+    5. Where the Customer is causing damage or degradation to the Kobo Service or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to the relevant Internet Service Providers;
     6. Where it is reasonably necessary to protect Our rights, property or safety, or the rights, property or safety of the Users of the Kobo Service or the public;
     7. To trusted third parties, including Our affiliates and subsidiaries, who act on Our behalf in providing the Kobo Service, and, in the case of newspaper and magazine subscriptions, to Our publishers and other suppliers of content (in which case contractual or other appropriate means will be used to ensure compliance by such third parties with this Policy and all applicable privacy laws).
   * In addition, Your personal information may be used and disclosed or transferred to one or more other parties, including Our affiliates and subsidiaries, (individually, a "Third Party") during the course of a purchase and sale transaction, merger, amalgamation, consolidation, joint venture or other type of business combination, reorganization or restructuring or financing of all or part of Our business or assets (a "business transaction"), including for the purpose of permitting a Third Party to determine whether to proceed with such business transaction.
@@ -148,19 +147,10 @@ Kobo Inc. (for residents outside of Europe) and Kobo Europe S.A. (for residents 
 
 For anything to do with this Policy, including questions or comments, or to challenge Our compliance with this Policy, please contact Us as follows:
 
-Michael Tamblyn,  
-Privacy Officer.  
-135 Liberty St. Suite 101,  
-Toronto, ON Canada  
-M6K 1A7  
-(416) 977-8737 x3346  
-[privacy@kobobooks.com](mailto:privacy@kobobooks.com)  
-
-
 We will inform individuals who make enquiries or lodge complaints about Our enquiry or complaint procedures, as applicable. If a complaint is found to be justified, We will take appropriate measures, including, if necessary, amending Our policies and practices.
 
 **Effective Date of this Privacy Policy**  
-This Privacy Policy is effective as of December 15th, 2009 and last updated May 4th, 2011. 
+This Privacy Policy is effective as of December 15th, 2009 and last updated July 1, 2014. 
 
 **Changes to this Privacy Policy**  
-This Policy is subject to PIPEDA and/or any other applicable privacy laws and Our right to amend this Policy from time to time, in Our sole discretion. By using the Kobo Website, You signify Your agreement to this Policy. If We make material changes to this Policy, We will notify You by posting an announcement on the Kobo Website. Changes to this Policy will become effective when those changes are posted to the Kobo Website. Your continued use of the Kobo Website and Kobo Service following the posting of any changes to this Policy shall constitute Your acceptance of those changes. 
+This Policy is subject to PIPEDA and/or any other applicable privacy laws and Our right to amend this Policy from time to time, in Our sole discretion. If We make material changes to this Policy, We will notify You by posting an announcement on the Kobo Website. Changes to this Policy will become effective when those changes are posted to the Kobo Website. Your continued use of the Kobo Service following the posting of any changes to this Policy shall constitute Your acceptance of those changes. 
