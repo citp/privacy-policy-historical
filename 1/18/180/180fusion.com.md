@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 180fusion.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503113158id_/http%3A//www.180fusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 180fusion.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019061331id_/http%3A//www.180fusion.com/privacy-policy) for the most accurate reproduction.*
 
-# 180Fusion's Privacy Policy
+# Privacy Policy | 180fusion
 
 Your privacy is very important to 180Fusion. Accordingly, this document will explain to you how 180Fusion treats any personal information that we collect and receive. By submitting your personally identifiable to us you agree to the terms of this Privacy Policy.
 
