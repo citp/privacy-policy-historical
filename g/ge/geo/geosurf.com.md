@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geosurf.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630154210id_/http%3A//www.geosurf.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geosurf.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019114117id_/http%3A//www.geosurf.com/pages/privacy) for the most accurate reproduction.*
 
 # Premium Proxy Service: Buy Premium Geo Proxy Toolbar - GeoSurf
 
