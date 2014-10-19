@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itshareware.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209045439id_/http%3A//itshareware.com/index-idx_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itshareware.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019025615id_/http%3A//www.itshareware.com/index-idx_privacy.htm) for the most accurate reproduction.*
 
 # legal disclaimer
 
