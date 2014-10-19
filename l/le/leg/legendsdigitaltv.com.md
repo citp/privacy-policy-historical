@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsdigitaltv.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628060809id_/http%3A//legendsdigitaltv.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsdigitaltv.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019201033id_/http%3A//www.legendsdigitaltv.com/privacy) for the most accurate reproduction.*
 
 # Legends DTV: The Global Entertainment Network | Set TV Free | LDTV Privacy Policy
 
