@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083430id_/http%3A//www.cpacanada.ca/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019135346id_/http%3A//www.cpacanada.ca/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,14 +110,14 @@ Last revised: October 9, 2013
 
 ## Highlights
 
-### [CRM survey ](https://web.archive.org/en/cpa-magazine/Articles/crm-survey-2014)
+### [Punching above our weight](https://web.archive.org/en/cpa-magazine/Articles/punching-above-our-weight)
 
-Our annual survey of the leading customer relationship management systems.
+Canada has a reputation for playing a big part in the global standard-setting arena.
 
-### [From Olympic champ to CPA](https://web.archive.org/en/cpa-magazine/Articles/bumps-spins-and-spectacular-wins)
+### [Behind the index numbers](https://web.archive.org/en/cpa-magazine/Articles/behind-the-index-numbers)
 
-Alex Bilodeau won gold in Sochi, then left the mogul circuit to focus on accounting school.
+WEB The S&P/TSX composite index may be the main measure of the stock market in Canada, but it ignores dividends, says columnist David Trahair.
 
-### [Bully at work](https://web.archive.org/en/cpa-magazine/Articles/bully-at-work)
+### [Unification complete at CPA Canada](https://web.archive.org/en/cpa-magazine/Articles/unification-complete-at-cpa-canada)
 
-Take steps to deal with office intimidation.
+With Canada’s three national accounting bodies fully united, the accounting profession can look forward to having a stronger voice both at home and on the world stage.
