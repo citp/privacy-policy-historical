@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042934id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019160333id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Web2Carz
 
-## Privacy Statement Last Updated: March 22nd, 2012
+## Privacy Statement Last Updated: July 24th, 2014
 
 Web2Carz recognizes the importance of protecting the privacy of all information provided by users of our web sites and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by Web2Carz.
 
@@ -20,13 +20,21 @@ We request your authorization to receive information from a consumer reporting a
 
 We have features where our customers can submit information to us (such as our feedback forms). Where such submissions include requests for service, support or information, we may forward them to our agents, as needed, to best respond to the specific request. In addition, we may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better. Please note that letters to the editor and similar submissions may be made public.
 
+You can contact us by writing or email us at the address below:
+
+request@web2carz.com or call us at (888)603-2227. 
+
+Web2Carz.com, LTD.   
+P.O. Box 805   
+Highland Park, IL 60035 
+
 ### Automatic Data Collection
 
 Our web sites, newsletters and, from time to time, certain other products and services have features that automatically collect information from customers, to deliver content specific to customers' interests and to honor their preferences. This information assists us in creating products and services that will serve the needs of our customers.
 
 For example, we may use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our web site. If users reject the cookies, they may be limited in the use of some areas of our web site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our web sites and via our email newsletters through the use of pixel tags (also called clear gifs) and web beacons. The use of cookies, pixels and web beacons enable us to track and target the interests of our users to enhance the experience on our sites and via our email newsletters.
 
-In addition, some of our business affiliates use cookies on our web sites and in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. In particular, we use third-party advertising technology to serve ads for Web2Carz products and services when you visit certain Web2Carz Web sites. This technology uses information about your visits to, and search terms used at this and other sites (not including your name, address, or other personal information), to serve ads to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://networkadvertising.org/consumer/opt_out.asp>).
+In addition, we use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Google, as a third party vendor, uses cookies to serve ads on Web2Carz. Google's use of the DART cookie enables it to serve ads to our users based on their visit to Web2Carz and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -49,6 +57,15 @@ We may share aggregate information, which is not personally identifiable, with o
 ### CORRECTION/UPDATING PERSONAL INFORMATION
 
 We provide a way to correct or update your personal data: you may email [request@web2carz.com](mailto:request@web2carz.com).
+
+### OPTING-OUT OF FURTHER COMMUNICATIONS
+
+Web2Carz.com registrants may opt-out of receiving further communications from web2carz.com by:
+
+(1) following "unsubscribe" instructions in any web2carz.com e-mail received by registrant, or   
+(2) writing to request@web2carz.com. 
+
+Unsubscribing from the Web2Carz.com email list does not automatically unsubscribe you from other email lists. Please read your email carefully to understand which email list you are unsubscribing from.
 
 ### SECURITY
 
