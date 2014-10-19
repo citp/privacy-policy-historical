@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410202927id_/http%3A//www.transversal.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019145527id_/https%3A//www.transversal.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transversal
 
@@ -18,50 +18,54 @@ This Web site makes use of cookies. You may prevent the use of cookies by config
 
 Any cookies that may be used by this Web site are used either solely on a per session basis or to maintain user preferences and provide us with data on how the site is used so that we can improve your experience. Cookies are not shared with any third parties.
 
-Cookie Name|  Description  
----|---  
-has_js| This simply records whether you have JavaScript enabled in your browser and enables additional functionality if you do.  
-SSESS*| A secure session cookie which is used to keep you logged into the Web site if you have a user account.  
-_pk_ses.*  
-_pk_ref.*  
-_pk_id.*  
-_pk_cvar.*| Piwik Analytics: We use Piwik Analytics to monitor traffic levels, search queries and visits to this Web site.  
-We store this data on our servers in the UK and it is never passed on to any third parties.  
-These cookies enable us to determine whether you are a return visitor to the site, and to track the pages that you visit during your session, as well as some information about the device and browser that you are using to access the site. Knowing this information helps us to design new features and improve existing ones that will improve your overall experience of using our site.  
-loop   
-trackalyzer| These anonymous cookies, provided by leadlander.com, help us to measure the effectiveness of our marketing campaigns. They monitor your journey through our site and which of our marketing efforts brought you here. This helps us to ensure we are broadcasting the correct message in our marketing collateral and to optimize the process of obtaining the information you require.  
- **Hellobar Functionality:**   
-hellobar_{number}_visited   
-hellobar_{number}_shown   
-hellobar_{number}_variation   
-hellobar_current   
-**Hellobar analytics:**   
-_chartbeat2   
-ki_r   
-ki_t   
-ki_u   
-km_ai   
-km_lv   
-km_uq   
-km_vs   
-kvcd   
-__utma   
-__utmb   
-__utmc   
-__utmz   
-_user_timezone_offset| HelloBar is the notifications bar you see at the top of our Web site.   
-We use this to bring important company related events or information to your attention, no matter what page of the Web site you're currently on. These cookies track which particular notification you've already seen and whether you've decided to minimise it (in which case it isn't shown again until you decide to maximise it once more). We also track clicks on each notification so that we can monitor how effect the feature is and compare different messaging for maximum effectiveness.  
-uit   
-loc   
-uvc   
-di   
-dt   
-uid   
-__atuvc   
-psc|  **Add This** provides our page sharing functionality across multiple social networks and via email.   
-These cookies enable us to monitor how often our content is shared and via which networks so that we can better tailor our content to the way in which it is used.  
-  
 #### Flash Cookies
 
 The Adobe Flash Player (and similar applications) ("Flash") uses technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your Web browser. This technology creates locally stored objects that are often referred to as "Flash cookies". We employ Flash cookies in certain situations where we use Flash to provide video clips. You may access your Flash management tools from Adobe’s Web site directly. **We do not use Flash cookies to serve interest-based advertising**.
+
+Cookie Name |  Description  
+---|---  
+has_js | 
+
+This simply records whether you have JavaScript enabled in your browser and enables additional functionality if you do.  
+  
+SSESS* | 
+
+A secure session cookie which is used to keep you logged into the Web site if you have a user account.  
+  
+_pk_ses.*  
+_pk_ref.*  
+_pk_id.*  
+_pk_cvar.* | 
+
+Piwik Analytics: We use Piwik Analytics to monitor traffic levels, search queries and visits to this Web site.
+
+We store this data on our servers in the UK and it is never passed on to any third parties.
+
+These cookies enable us to determine whether you are a return visitor to the site, and to track the pages that you visit during your session, as well as some information about the device and browser that you are using to access the site. Knowing this information helps us to design new features and improve existing ones that will improve your overall experience of using our site.  
+  
+loop  
+trackalyzer | 
+
+These anonymous cookies, provided by leadlander.com, help us to measure the effectiveness of our marketing campaigns. They monitor your journey through our site and which of our marketing efforts brought you here. This helps us to ensure we are broadcasting the correct message in our marketing collateral and to optimize the process of obtaining the information you require.  
+  
+cb-enabled | 
+
+This cookie is used to remember a user's choice about cookies on the Transversal website. This cookie is, by default, set on arrival to the site with a value of 'True'. If users choose to delete non-essential cookies, the cookie value is updated to a value of 'False'.  
+  
+_utma  
+_utmb  
+_utmc  
+_utmz | 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.  
+  
+__distillery | 
+
+This cookie is used by our video player to remember where you are in a video so that if playback is interrupted (for example, by losing your internet connection) then you can get right back to where you left off.  
+  
+Use the button above to switch between allowing or not allowing non-essential cookies, eg Google Analytics, set by this site.
+
+The 'cb-enabled' cookie will remain as it is required to remember your choice. 
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
   *[UK]: United Kingdom
