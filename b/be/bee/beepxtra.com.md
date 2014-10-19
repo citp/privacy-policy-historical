@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beepxtra.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033046id_/https%3A//www.beepxtra.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beepxtra.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019205718id_/https%3A//www.beepxtra.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
