@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053955id_/http%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019111532id_/http%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ This is data that identifies you or can be used to identify or contact you and m
 
 When registering as a user of this website, opening an account and purchasing products you will be asked to provide information to us. We will inform you at the time of collecting information whether you must provide the information to use the website or specific service or whether the information requested by us is optional.
 
-In order to process your order you must provide contact information and payment details (credit card, debit card expiration date etc). All payment transactions are processed by WorldNet TPS, therefore Cloud Ten Beauty Ltd is never party to your personal credit card or bank details. When you purchase goods on our website, you will automatically be directed to a secure site that is managed and controlled by WorldNet TPS. You will be asked to provide details to them for the purpose of processing the transaction.
+In order to process your order you must provide contact information and payment details (credit card, debit card expiration date etc). All payment transactions are processed by WorldNet TPS, therefore Cloud Ten Beauty Ltd is never party to your personal credit card or bank details. When you purchase goods on our website, you will automatically be directed to a secure site that is managed and controlled by WorldNet TPS. You will be asked to provide your payment details to them for the purpose of processing the transaction. Worldnet take a multi-layered approach to security. They partner with Verisign, the global leaders in secure encryption, to provide full 256 bit encryption to all for all transactions. Worldnet TPS are certified with Visa & Mastercard to the highest level of the Payment Card Industry Data Security Standard (PCI DSS). They work with Sysnet, an independent Qualified Security Assessor (QSA), who regularly monitor their systems to ensure they are immune to the latest vulnerabilities on the web.
 
 We may collect records of transactions through the website and if you contact us we may keep a record of that correspondence. If you provide us personal information about somebody else we will assume you have their permission to do so, and their data will be subject to this policy. You may be given the opportunity to provide product reviews, comments and participate in surveys and competitions. This information is only collected from you if you voluntarily submit it to us. You agree that your username/display name may be shown to other users of the website. We reserve the right to remove product reviews without notice at our own discretion.
 
@@ -28,9 +28,13 @@ We reserve the right to conduct credit checks with third party and financial ins
 
 Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This is statistical data about our users browsing actions and patterns, and does not identify any individual. 
 
-We may collect information about your computer, including (where available) your IP address where it has been clipped or anonymised, operating system and browser type, for system administration and statistical purposes. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer hard drive. On revisiting the website our computer server will recognize the cookie, giving us information about your last visit. 
+We may collect information about your computer, including (where available) your IP address where it has been clipped or anonymised, operating system and browser type, for system administration and statistical purposes.
 
-You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.
 
 ### 3\. Purposes for which we hold your Information
 
@@ -81,11 +85,11 @@ Where we have given you/or you have chosen a password which enables you to acces
 
 ### 7\. Updating, Verifying and Deleting Personal Data
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us by email.
+You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact us by email at care@cloud10beauty.com
 
 ### 8\. Opt Out
 
-By using our website, you consent to the information you provide being processed for marketing purposes, except where you have chosen to opt out of being contacted by us or third parties. You can opt out or unsubscribe to receiving emails from Cloud 10 by clicking the unsubscribe link within the email or using the opt out option within your account in My Stuff
+By using our website, you consent to the information you provide being processed for marketing purposes, except where you have chosen to opt out of being contacted by us or third parties. You can opt out or unsubscribe to receiving emails from Cloud 10 by clicking the unsubscribe link within the email or using the opt out option within your account.
 
 ### 9\. Links to other sites
 
@@ -96,4 +100,4 @@ This website contains links to other sites that are not controlled by Cloud Ten 
 Any changes to this Website Privacy Policy will be posted on this page and, where appropriate, notified to you by email. You should visit this page periodically to review any changes to the privacy policy. 
 
 **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20140625053955id_/http%3A//www.cloud10beauty.com/getintouch) page.
+If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20141019111532id_/http%3A//www.cloud10beauty.com/getintouch) page.
