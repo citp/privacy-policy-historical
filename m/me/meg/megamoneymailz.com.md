@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megamoneymailz.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528160222id_/http%3A//megamoneymailz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamoneymailz.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019151323id_/http%3A//megamoneymailz.com/privacy.php) for the most accurate reproduction.*
 
 # Mega Money Mailz - Earn Cash!
 
-[](http://megamoneymailz.com/bannerclick.php?id=5596)  
+[](http://megamoneymailz.com/bannerclick.php?id=2790)  
 
 
 MegaMoneyMailz Privacy Policy
