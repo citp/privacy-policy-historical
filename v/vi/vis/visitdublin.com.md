@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116232054id_/http%3A//www.visitdublin.com/StaticPage/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019045253id_/http%3A//www.visitdublin.com/StaticPage/privacy) for the most accurate reproduction.*
 
-# Visit Dublin - Visit Dublin Privacy and Cookies Policy
+# Visit Dublin - Official Tourist Information Dublin Hotels and Car Hire
+
+###  Privacy and Cookies Policy 
 
 This Privacy and Cookies Policy (the " **Policy** ") refers to the website, [www.visitdublin.com](http://www.visitdublin.com/) (the " **Website"** ). The Website is operated by the National Tourism Development Authority (also known as **Fáilte Ireland** ) (" **we** " or " **the Authority"** ), whose principal place of business is at 88-95 Amiens Street, Dublin 1.  This Policy (together with our Terms of Use and any other documents referred to in such Terms of Use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully. Entering into this Website indicates that the user (either " **user** " or " **you** ") has reviewed this Policy and has agreed to be bound by it as well as our Terms of Use.  If you do not agree to these terms you must leave the Website immediately.
 
@@ -132,18 +134,6 @@ This cookie is used by Website Optimizer and only set when the Website Optimizer
 
 2 years from set/update.  
   
-**Wibiya**
-
-| 
-
-WibiyaProfile
-
-| 
-
-This cookie is used to store information on what social networks you are currently connected to.  It also stores information required for the operation of the Wibiya browser bar.
-
-|   
-  
 By using the Website you are agreeing to the use of cookies as described.
 
 The **Help** menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. For more information about cookies and managing them including how to turn them off, please visit [www.cookiecentral.com](http://www.cookiecentral.com/).  However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on.
@@ -191,7 +181,7 @@ However, this Website contains hyperlinks to websites owned and operated by thir
 
 **Who we share data with**
 
-We may disclose your personal information to any company or other corporate entity under the control and direction of Fáilte Ireland. 
+We may disclose your personal information to any company or other corporate entity under the control and direction of Fáilte Ireland.
 
 As stated above we may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
 
