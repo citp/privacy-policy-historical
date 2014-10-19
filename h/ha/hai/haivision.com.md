@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haivision.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051143id_/http%3A//www.haivision.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haivision.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019235620id_/http%3A//www.haivision.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies | Haivision | Enterprise Video Solutions
+# | Haivision | Enterprise Video Solutions
 
 **Privacy Policy last updated June 12th, 2012.**
 
