@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617141036id_/http%3A//www.blomming.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019090037id_/http%3A//www.blomming.com/legal/privacy) for the most accurate reproduction.*
 
 # Blomming - Static - Privacy
 
@@ -11,8 +11,8 @@ By accepting the Privacy Policy and the Terms of Service in registration, you ex
 
 Using Blomming’s services you acknowledge and accept that: 
 
-  * Blomming Spa with registered office in Cagliari (ITALY), Via Carloforte 60, VAT number IT07199240966, is the treatment referent for your personal data;
-  * Blomming Spa will elaborate your personal data to provide the Services according to the Terms and this Privacy Policy;
+  * Blomming Srl with registered office in Cagliari (ITALY), Via Carloforte 60, VAT number IT07199240966, is the treatment referent for your personal data;
+  * Blomming Srl will elaborate your personal data to provide the Services according to the Terms and this Privacy Policy;
 
 
 
@@ -108,6 +108,6 @@ If your questions are not answered online, you may write to us at:
 
 
   * E-Mail: info AT blomming.com 
-  * Address: Blomming Spa, Via Carloforte 60, 09123 Cagliari (ITALY).
+  * Address: Blomming Srl, Via Carloforte 60, 09123 Cagliari (ITALY).
 
 
