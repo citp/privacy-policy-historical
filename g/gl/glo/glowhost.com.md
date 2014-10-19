@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glowhost.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021001id_/https%3A//privacy.truste.com/reseller/privacy-policy/GlowHost.com%252C-Inc/certified/87d2e4ba-f13c-490d-b9da-16d8804e9c18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowhost.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019051401id_/https%3A//privacy.truste.com/reseller/privacy-policy/GlowHost.com%252C-Inc/certified/87d2e4ba-f13c-490d-b9da-16d8804e9c18) for the most accurate reproduction.*
 
 # Welcome to glowhost.com
 
-[](https://privacy.truste.com/privacy-seal/GlowHost.com%2C-Inc/validation?validationId=c2c4b115-7e2a-412e-8861-1b7dfffc5618&referer=glowhost.com)
+[](https://privacy.truste.com/privacy-seal/GlowHost-com,-Inc/validation?validationId=c2c4b115-7e2a-412e-8861-1b7dfffc5618&referer=glowhost.com)
 
 **Effective on April 19, 2012**
 
