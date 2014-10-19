@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413231009id_/https%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019122539id_/http%3A//www.reputation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reputation.com
 
