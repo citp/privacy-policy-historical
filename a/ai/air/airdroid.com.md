@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620030914id_/http%3A//airdroid.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020022608id_/http%3A//airdroid.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Airdroid
+# Privacy Policy | AirDroid
 
 ## What information do we collect?
 
@@ -35,13 +35,13 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 ## Do we use cookies? 
 
-Yes, Cookies are small files that a site or software or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the site or softwares or service providers systems to recognize your browser and capture and remember certain information.
+Yes, Cookies are small files that a site or software or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site or softwares or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site or software traffic and site or software interaction so that we can offer better site or software experiences and tools in the future.
 
