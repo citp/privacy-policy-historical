@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky-today.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419234258id_/http%3A//sky-today.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-today.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020045542id_/http%3A//sky-today.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,13 +20,13 @@ How we use collected information
 
 Sky Today collects and uses Users personal information for the following purposes:
 
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To administer a content, promotion, survey or other Site feature  
+– To administer a content, promotion, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
 
 How we protect your information
