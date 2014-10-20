@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prabhanjam.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618220543id_/http%3A//www.prabhanjam.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prabhanjam.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020211308id_/http%3A//www.prabhanjam.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - NO.1 CLASSIFIEDS - FREE ADVERTISING - PRABHANJAM .COM
 
