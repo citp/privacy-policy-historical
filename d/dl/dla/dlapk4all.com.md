@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dlapk4all.com privacy policy that was archived on 2014-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140129170917id_/http%3A//www.dlapk4all.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlapk4all.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020184619id_/http%3A//www.dlapk4all.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Android Solutions
+# Privacy Policy
 
 ##  Privacy
 
