@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the neverendingpastabowl.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608001119id_/http%3A//www.olivegarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neverendingpastabowl.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020044010id_/http%3A//www.olivegarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olive Garden Italian Restaurant
 
-Effective Date: April 25, 2014 
+## Darden: Online Privacy Notice
+
+Effective Date: August 20, 2014 
 
 We at Darden Corporation, along with our affiliates (collectively, "Darden"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Darden websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
 
@@ -105,10 +107,10 @@ Our Sites are not directed to children under the age of thirteen and we do not k
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated. 
 
 **How To Contact Us**   
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at privacy@darden.com or by phone at 407-245-5397, ext. 7. You also may write to us at: 
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [ComplianceEthics@darden.com](mailto:ComplianceEthics@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at: 
 
 Darden Restaurants, Inc.   
-Attention: Privacy Department   
+Attention: Elizabeth Yost, Privacy Department   
 c/o Compliance and Ethics Office   
 1000 Darden Center Drive   
 Orlando, FL 32837 
