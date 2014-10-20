@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610074505id_/http%3A//www.artmajeur.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021000059id_/http%3A//www.artmajeur.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+__ Back to top
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
