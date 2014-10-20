@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmallindia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050059id_/http%3A//www.webmallindia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmallindia.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020110216id_/http%3A//www.webmallindia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WebMall India : Online shopping India
 
