@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptyeasel.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908005121id_/http%3A//emptyeasel.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptyeasel.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020131744id_/http%3A//emptyeasel.com/privacy-statement) for the most accurate reproduction.*
 
 # EmptyEasel Privacy Policy
 
