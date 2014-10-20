@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funlovingstuff.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521165634id_/https%3A//funlovingstuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funlovingstuff.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020165536id_/https%3A//funlovingstuff.com/privacy) for the most accurate reproduction.*
 
 # Likes.com
 
