@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the edin.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409120354id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edin.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020093317id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - Educational Insights®
+# Privacy and Security - Educational Insights®
 
 |  |  | 
-
-Learning Resources - Privacy and Security
 
 Educational Insights, and its affiliated companies,  respects the privacy of its customers and takes precaution to ensure any information submitted to it via its web site or via e-mail is handled appropriately.
 
