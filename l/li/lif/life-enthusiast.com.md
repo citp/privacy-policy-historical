@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life-enthusiast.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615160502id_/http%3A//www.life-enthusiast.com/privacy-i-35.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life-enthusiast.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020032625id_/http%3A//www.life-enthusiast.com/privacy-i-35.html) for the most accurate reproduction.*
 
 # Life Enthusiast: Information and Help
 
