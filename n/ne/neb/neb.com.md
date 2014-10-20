@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neb.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327053120id_/https%3A//www.neb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neb.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020025537id_/https%3A//www.neb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New England Biolabs
+# Privacy Policy | NEB
 
 * [Email](https://web.archive.org/account/email-page)
 * My NEB
