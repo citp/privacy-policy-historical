@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512064555id_/http%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020205426id_/https%3A//www.webhosting.uk.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Web Hosting UK - Privacy Policy - Data Security
 
-Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390, registered office 4th Floor, Fountain House, 4 South Parade, Leeds, LS1 5QX ("We") are committed to protecting and respecting your privacy.
+Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390, registered office Suite 1, 7 Commercial Street, Morley, Leeds, LS27 8HX ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use [Terms and Conditions](http://www.webhosting.uk.com/web-hosting-uk-terms.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms of use [Terms and Conditions](https://www.webhosting.uk.com/web-hosting-uk-terms.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390 and with Our registered office at 4th Floor, Fountain House, 4 South Parade, Leeds, LS1 5QX. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390 and with Our registered office at Suite 1, 7 Commercial Street, Morley, Leeds, LS27 8HX. 
 
 Our nominated representative for the purpose of the Act is Mr. Robert King.
 
@@ -108,7 +108,7 @@ In the event that we sell or buy any business or assets, in which case we may di
 
 If Webhosting UK Com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply [Terms and Condition](http://www.webhosting.uk.com/web-hosting-uk-terms.php) and other agreements; or to protect the rights, property, or safety of Webhosting UK Com Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply [Terms and Condition](https://www.webhosting.uk.com/web-hosting-uk-terms.php) and other agreements; or to protect the rights, property, or safety of Webhosting UK Com Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **YOUR RIGHTS**
 
