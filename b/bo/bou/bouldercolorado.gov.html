@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bouldercolorado.gov privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209110503id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bouldercolorado.gov privacy policy that was archived on 2014-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141020082900id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox flexbox-legacy canvas canvastext no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 		<meta charset="utf-8">
@@ -37,6 +37,7 @@
                  document.write('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />');
              }
          }
+
     	</script><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<title>Privacy Policy</title>
 
@@ -60,8 +61,8 @@
 		
 		<script src="/js/libs/modernizr-2.5.3.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="/js/jquery.flexslider.js"></script>
 <script src="/js/jquery.jcarousel.min.js"></script>
+<script src="/js/jquery.flexslider.js"></script>
 <script src="/js/gaAddons.js"></script>
 <script src="/js/jquery.tablesorter.min.js"></script>
 <script src="/js/layout_scripts.js"></script>
@@ -69,6 +70,7 @@
 		<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
 		<!-- <script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script> -->
     	<script>
+    	        
         // Script for view full site button, placed here to keep firefox for mobile devices happy
         $(function () {
             if (isResponsive == "yes") {
@@ -137,9 +139,19 @@
 			});
         });
         
-        /* Responsive Tables */
+    // To prevent flash of unstyled minibanner
+    $(document).ready(function() 
+	{ 
+        $('#jcarousel-loading').hide(); 
+        $('#slide_buttons').css('visibility', 'visible'); 
+        $('#slide_buttons').jcarousel({ 
+        });
+
+	});    
+                  
+    // Responsive Tables
 	if (Modernizr.testAllProps('print') = false)
-	{
+	{		
 		$(document).ready(function(){
 		/*Declare headings*/
 		var theHeads = $('.tableData thead th');
@@ -164,9 +176,8 @@
 		});
 		});
 	}
-       /* End Responsive Tables */
 		
-		</script>
+	</script>
 	    <!--[if lt IE 9]>
 			<link rel="stylesheet" href="/css/custom-nomedia.css" media="screen" />
 		<![endif]-->
@@ -196,7 +207,7 @@
 			<nav id="skipnav">
                 <a href="#pagebody"><img alt="Skip to page body" src="/img/spacer.gif"></a>
 				<a title="Home" href="/"><img alt="Home" src="/img/spacer.gif"></a>
-				<a title="I Want To..." href="/i-want-to"><img alt="I Want To..." src="/img/spacer.gif"></a>
+				<a title="I want to..." href="/i-want-to"><img alt="I want to..." src="/img/spacer.gif"></a>
 				<a title="A to Z" href="/a-to-z"><img alt="A to Z" src="/img/spacer.gif"></a>
 				<a title="Government" href="/government"><img alt="Government" src="/img/spacer.gif"></a>
                 <a title="Environment" href="/environment"><img alt="Environment" src="/img/spacer.gif"></a>
@@ -205,11 +216,11 @@
 			
             <header id="siteheader" class="clearfix">
         		<a id="home_link" href="/">Home</a><a id="sitemap_link" href="/a-to-z" class="mobile_only">A to Z</a><a id="contact_link" href="/main-city-contact-numbers" class="mobile_only">Contact</a>
-				<aside id="top_nav"><a href="/calendar">Calendar</a> | <a href="/jobs-and-volunteer">Jobs &amp; Volunteer</a> | <a href="/maps">Maps</a> | <a href="/main-city-contact-numbers">Contact Us</a></aside>
+				<aside id="top_nav"><a href="/calendar">Calendar</a> | <a href="/human-resources/jobs-and-volunteer">Jobs &amp; Volunteer</a> | <a href="/maps">Maps</a> | <a href="/main-city-contact-numbers">Contact Us</a></aside>
 				
 				<!-- Display weather data -->
 				<aside id="weather">
-				<img src="/img/weather_icons/snowy2.png" alt="weather_icon">Feb 9 - Light Snow, <span>21º</span>				</aside>
+				<img src="/img/weather_icons/moon.png" alt="weather_icon">Oct 20 - Fair, <span>48º</span>				</aside>
 				
 				<aside id="searchbox" class="clearfix">
 					<form name="header-search" action="/search/" autocomplete="off">
@@ -243,15 +254,19 @@
 		<!-- get mini banners -->
 <div id="slide_buttons">
 	<ul class="slides clearfix">
-						<li><a href="/participate-and-engage"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button3-201302131019.jpg" width="118" height="82" alt="Participate &amp; Engage"></a></li>
+							<li><a href="/participate-and-engage"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button3-201302131019.jpg" width="118" height="82" alt="Participate &amp; Engage"></a></li>
 							<li><a href="/business"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1_over-201302131451.jpg" width="118" height="82" alt="Doing Business Over"></a></li>
-							<li><a href="http://user.govoutreach.com/boulder/faq.php"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button4-201302131020.jpg" width="118" height="82" alt="Inquire Boulder"></a></li>
+							<li><a href="http://user.govoutreach.com/boulder/faq.php"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/inquire-boulder-201403140832.jpg" width="118" height="82" alt="Inquire Boulder"></a></li>
 							<li><a href="/visitors"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/button1-201302130847.jpg" width="118" height="82" alt="Explore Boulder"></a></li>
 							<li><a href="http://user.govoutreach.com/boulder/faq.php?cid=21446"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/contact-council-201307031308.jpg" width="118" height="82" alt="Contact City Council"></a></li>
-							<li><a href="/public-safety"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/public-safety-blue-201307031304.jpg" width="118" height="82" alt="Public Safety"></a></li>
-							<li><a href="/central-records/document-archive"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/records-buttons-201307151125.jpg" width="118" height="82" alt="Online Records Access"></a></li>
+							<li><a href="/city-manager/pending-city-manager-rules-and-regulations"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/pending-city-manager-rules-201410151213.jpg" width="118" height="82" alt="Pending City Manager Rules"></a></li>
+							<li><a href="/human-resources/jobs-and-volunteer"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/featured-jobs-button-201410031344.jpg" width="118" height="82" alt="Featured Jobs"></a></li>
 							<li><a href="/open-data"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/open-data-buttons-201309031035.jpg" width="118" height="82" alt="Open Data Catalog"></a></li>
-				</ul>
+							<li><a href="/public-safety"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/public-safety-blue-201307031304.jpg" width="118" height="82" alt="Public Safety"></a></li>
+							<li><a href="http://www.boco911alert.com/"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/emergency-alert-buttons-201403140819.jpg" width="118" height="82" alt="Emergency Alert Sign Up"></a></li>
+							<li><a href="/central-records/document-archive"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/records-buttons-201307151125.jpg" width="118" height="82" alt="Online Records Access"></a></li>
+							<li><a href="https://bouldercolorado.gov/links/fetch/21319"><img src="https://www-static.bouldercolorado.gov/docs/mini-banners/access-public-records-201406171439.png" width="118" height="82" alt="Access to Public Records"></a></li>
+			</ul>
 </div>		
 		<!-- END SLIDER BUTTONS -->
 		
@@ -296,105 +311,92 @@
 <h1>Privacy Policy</h1>
 			
 			<div id="core_content">
-<h2>
-	Introduction</h2>
-<p>
-	Thank you for visiting the City of Boulder, Colorado website and reviewing the Privacy Policy. We are committed to the privacy of the visitors to this website. This policy addresses the collection, use and security of information that may be obtained through use of the City of Boulder website, and access to that information.</p>
-<h2>
-	<br>
-	Information Collected and How it is Used</h2>
-<p>
-	During your visit to the City of Boulder website, the city gathers and stores the following information about your visit.&nbsp; This information does not identify you personally.&nbsp;</p>
+<h2>Introduction</h2>
+
+<p>Thank you for visiting the City of Boulder, Colorado website and reviewing the Privacy Policy. We are committed to the privacy of the visitors to this website. This policy addresses the collection, use and security of information that may be obtained through use of the City of Boulder website, and access to that information.</p>
+
+<h2><br>
+Information Collected and How it is Used</h2>
+
+<p>During your visit to the City of Boulder website, the city gathers and stores the following information about your visit.&nbsp; This information does not identify you personally.&nbsp;</p>
+
 <ol>
-	<li>
-		The Internet Protocol (IP) address and domain name used. The IP address is a number assigned to your Internet service provider or to your computer. We use the IP to direct Web site content to you. This address can be translated to determine the domain name of your service provider.</li>
+	<li>The Internet Protocol (IP) address and domain name used. The IP address is a number assigned to your Internet service provider or to your computer. We use the IP to direct Web site content to you. This address can be translated to determine the domain name of your service provider.</li>
 	<br>
-	<li>
-		The Web browser you used.</li>
+	<li>The Web browser you used.</li>
 	<br>
-	<li>
-		The Operating system you used.</li>
+	<li>The Operating system you used.</li>
 	<br>
-	<li>
-		The date and time you visited the website.</li>
+	<li>The date and time you visited the website.</li>
 	<br>
-	<li>
-		The Web pages or services you accessed at the website.</li>
+	<li>The Web pages or services you accessed at the website.</li>
 	<br>
-	<li>
-		The website you visited before coming to the City of Boulder website.</li>
+	<li>The website you visited before coming to the City of Boulder website.</li>
 </ol>
-<p>
-	This information is collected and analyzed by the City of Boulder to improve the content of our web content and services.<br>
-	&nbsp;</p>
-<h2>
-	Voluntary Information<b> </b></h2>
-<p>
-	The City of Boulder website does not collect personal information unless the visitor voluntarily provides information by sending an email, completing an online form or online application.&nbsp; Examples of forms and applications on this website include:</p>
+
+<p>This information is collected and analyzed by the City of Boulder to improve the content of our web content and services.<br>
+&nbsp;</p>
+
+<h2>Voluntary Information<b> </b></h2>
+
+<p>The City of Boulder website does not collect personal information unless the visitor voluntarily provides information by sending an email, completing an online form or online application.&nbsp; Examples of forms and applications on this website include:</p>
+
 <ul type="disc">
-	<li>
-		Surveys used to gather public opinion and feedback</li>
-	<li>
-		Requests for city services</li>
-	<li>
-		Reports for an issue, problem or crime</li>
-	<li>
-		Applications for employment or volunteer positions</li>
-	<li>
-		Registration for city-sponsored classes or activities</li>
-	<li>
-		Online applications used to complete services with the city</li>
+	<li>Surveys used to gather public opinion and feedback</li>
+	<li>Requests for city services</li>
+	<li>Reports for an issue, problem or crime</li>
+	<li>Applications for employment or volunteer positions</li>
+	<li>Registration for city-sponsored classes or activities</li>
+	<li>Online applications used to complete services with the city</li>
 </ul>
-<p>
-	The voluntary personal information collected using online forms depends on the form or service you are conducting with the city.&nbsp; Any service available via online form can also be completed in person, via mail, via phone or via fax, depending on the service, if you choose not to submit your information over the internet.&nbsp; The information collected may not be limited to text characters but might also include audio, video or graphic information formats.&nbsp; This information may be stored in a database or sent to city employees via e-mail.&nbsp; We use the information collected to respond to your query or complete the service you have requested.&nbsp; We may also use information collected to improve our services.&nbsp; All information, including survey, e-mail information, or form data may be shared internally with other departments within the extent permitted by law.&nbsp; The information will not be distributed externally except as required by the Colorado Open Records Act.&nbsp; Survey data, if released, will only be provided in an aggregated format.&nbsp;&nbsp;&nbsp; &nbsp;</p>
-<p>
-	<b>The City of Boulder does not:&nbsp;</b></p>
+
+<p>The voluntary personal information collected using online forms depends on the form or service you are conducting with the city.&nbsp; Any service available via online form can also be completed in person, via mail, via phone or via fax, depending on the service, if you choose not to submit your information over the internet.&nbsp; The information collected may not be limited to text characters but might also include audio, video or graphic information formats.&nbsp; This information may be stored in a database or sent to city employees via e-mail.&nbsp; We use the information collected to respond to your query or complete the service you have requested.&nbsp; We may also use information collected to improve our services.&nbsp; All information, including survey, e-mail information, or form data may be shared internally with other departments within the extent permitted by law.&nbsp; The information will not be distributed externally except as required by the Colorado Open Records Act.&nbsp; Survey data, if released, will only be provided in an aggregated format.&nbsp;&nbsp;&nbsp; &nbsp;</p>
+
+<p><b>The City of Boulder does not:&nbsp;</b></p>
+
 <ul type="disc">
-	<li>
-		Collect or sell information for commercial marketing;&nbsp;</li>
-	<li>
-		Provide personal information to private organizations; or&nbsp;</li>
-	<li>
-		Share any personal information with other agencies or persons&nbsp;if prohibited by law.</li>
+	<li>Collect or sell information for commercial marketing;&nbsp;</li>
+	<li>Provide personal information to private organizations; or&nbsp;</li>
+	<li>Share any personal information with other agencies or persons&nbsp;if prohibited by law.</li>
 </ul>
-<p>
-	Some city projects involve collaboration with other local or state government agencies. Voluntary personal information submitted to the City of Boulder to express interest in or make comments about such projects may be shared with the other agencies involved.&nbsp;</p>
-<h2>
-	<br>
-	Email Subscription Lists</h2>
-<p>
-	The City of Boulder website offers visitors the ability to subscribe to email distribution lists. Visitors are free to unsubscribe should they not want to receive future communications from the city.&nbsp; A valid email address must be provided when subscribing or unsubscribing from email lists. All other personally identifiable information is optional.&nbsp; Email lists are kept private and are not disclosable under the Open Records Act.</p>
-<h2>
-	<br>
-	<b>Public Disclosure</b></h2>
-<p>
-	In the state of Colorado, there are laws to ensure that government is open and transparent.&nbsp; The public has a right to access appropriate records and information entrusted to the city government.</p>
-<p>
-	Pursuant to Colorado Revised Statutes 24-72-204, all of the information collected at the City of Boulder website potentially becomes public record and may be subject to inspection and copying by members of the public, unless an exemption in the law exists. Some state laws outside the Open Records Act protect specific records. For example, certain medical records held by the Colorado Department of Public Health and Environment are specifically kept from disclosure under separate laws. Investigative records maintained by regulatory agencies and business and licensing boards may be exempt. Finally, specific federal law may govern whether certain information or documents may be disclosed. Careful legal research is required to evaluate each request for public records.</p>
-<p>
-	In the event of a conflict between this Privacy Policy and the Colorado Open Records Act or other law(s) governing the agency's disclosure of records, the Colorado Open Records Act or other applicable law(s) will control.</p>
-<h2>
-	<br>
-	<b>Cookies</b></h2>
-<p>
-	Cookies are small text files generated by the Web server and stored on the visitor's computer.&nbsp; Cookies can be read by the Web server to determine if a particular Web page has already been visited or when the visitor last accessed the website.&nbsp; An example would be for an online survey where a cookie could be used to tell the Web server that a particular visitor has already completed the survey.&nbsp; Cookies do not contain personal information and are not used to mine data. &nbsp;&nbsp;</p>
-<h2>
-	<br>
-	<b>Security Information and Disclaimer</b></h2>
-<p>
-	The City of Boulder uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and encryption (Secure Socket Layer) technology. We employ many different security techniques to protect such data from unauthorized access. "Perfect" security however, does not exist on the Internet. Unless a particular Web page on the City of Boulder website indicates that encryption technology is being used, the user should not assume that information submitted through that Web page to the City of Boulder Web server will be treated as confidential. Visual cues (an unbroken key or locked lock) report to the visitor that the online service is secure through a given Web page. If a user submits information to the City of Boulder's Web server through a Web page containing visual indicators of active encryption technology, the City of Boulder will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence or any other act resulting in disclosure.</p>
-<p>
-	Unauthorized attempts to upload information or change information on this Web site are strictly prohibited and may be punishable under all state Computer Trespass laws and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.<br>
-	&nbsp;</p>
-<h2>
-	<b>Retention of Information</b></h2>
-<p>
-	For specific information regarding the retention of information, please contact the City of Boulder City Clerk's Office.</p>
-<h2>
-	<br>
-	Feedback</h2>
-<p>
-	If you have any questions or comments regarding the City of Boulder privacy policy, please contact us.&nbsp; The city may choose to amend the information in the privacy policy at any time without notice.&nbsp; Any substantial change in the way identifying information is used will be prominently displayed on the city's website.</p>
+
+<p>Some city projects involve collaboration with other local or state government agencies. Voluntary personal information submitted to the City of Boulder to express interest in or make comments about such projects may be shared with the other agencies involved.&nbsp;</p>
+
+<h2><br>
+Email Subscription Lists</h2>
+
+<p>The City of Boulder website offers visitors the ability to subscribe to email distribution lists. Visitors are free to unsubscribe should they not want to receive future communications from the city.&nbsp; A valid email address must be provided when subscribing or unsubscribing from email lists. All other personally identifiable information is optional.&nbsp; Email lists are kept private and are not disclosable under the Open Records Act.</p>
+
+<h2><br>
+<b>Public Disclosure</b></h2>
+
+<p>In the state of Colorado, there are laws to ensure that government is open and transparent.&nbsp; The public has a right to access appropriate records and information entrusted to the city government.</p>
+
+<p>Pursuant to Colorado Revised Statutes 24-72-204, all of the information collected at the City of Boulder website potentially becomes public record and may be subject to inspection and copying by members of the public, unless an exemption in the law exists. Some state laws outside the Open Records Act protect specific records. For example, certain medical records held by the Colorado Department of Public Health and Environment are specifically kept from disclosure under separate laws. Investigative records maintained by regulatory agencies and business and licensing boards may be exempt. Finally, specific federal law may govern whether certain information or documents may be disclosed. Careful legal research is required to evaluate each request for public records.</p>
+
+<p>In the event of a conflict between this Privacy Policy and the Colorado Open Records Act or other law(s) governing the agency's disclosure of records, the Colorado Open Records Act or other applicable law(s) will control.</p>
+
+<h2><br>
+<b>Cookies</b></h2>
+
+<p>Cookies are small text files generated by the Web server and stored on the visitor's computer.&nbsp; Cookies can be read by the Web server to determine if a particular Web page has already been visited or when the visitor last accessed the website.&nbsp; An example would be for an online survey where a cookie could be used to tell the Web server that a particular visitor has already completed the survey.&nbsp; Cookies do not contain personal information and are not used to mine data. &nbsp;&nbsp;</p>
+
+<h2><br>
+<b>Security Information and Disclaimer</b></h2>
+
+<p>The City of Boulder uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and encryption (Secure Socket Layer) technology. We employ many different security techniques to protect such data from unauthorized access. "Perfect" security however, does not exist on the Internet. Unless a particular Web page on the City of Boulder website indicates that encryption technology is being used, the user should not assume that information submitted through that Web page to the City of Boulder Web server will be treated as confidential. Visual cues (an unbroken key or locked lock) report to the visitor that the online service is secure through a given Web page. If a user submits information to the City of Boulder's Web server through a Web page containing visual indicators of active encryption technology, the City of Boulder will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence or any other act resulting in disclosure.</p>
+
+<p>Unauthorized attempts to upload information or change information on this Web site are strictly prohibited and may be punishable under all state Computer Trespass laws and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.<br>
+&nbsp;</p>
+
+<h2><b>Retention of Information</b></h2>
+
+<p>For specific information regarding the retention of information, please contact the City of Boulder City Clerk's Office.</p>
+
+<h2><br>
+Feedback</h2>
+
+<p>If you have any questions or comments regarding the City of Boulder privacy policy, please contact us.&nbsp; The city may choose to amend the information in the privacy policy at any time without notice.&nbsp; Any substantial change in the way identifying information is used will be prominently displayed on the city's website.</p>
 </div>
 			</div><!-- end content-area div -->
 		</article>
@@ -404,6 +406,7 @@
 <section class="column">
 <h2>Related Links</h2>
 <ul>
+<li><a href="https://bouldercolorado.gov/links/fetch/21312" class="ga-track-listener">Access to Public Records </a></li>
 <li><a href="/central-records" class="ga-track-listener">Central Records</a></li>
 <li><a href="/disclaimer" class="ga-track-listener">Website Disclaimer</a></li>
 </ul>
@@ -420,17 +423,17 @@
 		<li><a href="https://pinterest.com/bouldercolorado/" title="Pinterest">Pinterest</a></li>
 		<li><a href="https://www.youtube.com/bouldercoloradogov" title="YouTube">YouTube</a></li>
 		<li><a href="https://vimeo.com/bouldercolorado" title="Vimeo">Vimeo</a></li>
-		<li><a href="/rss" title="RSS">RSS</a></li>
+		<li><a href="/newsroom/rss" title="RSS">RSS</a></li>
 		<li><a href="https://user.govoutreach.com/boulder/support.php" title="Email">Email</a></li>
 	</ul>
 	<p class="footer_copyright">
 		© 2014 City of Boulder | <!-- <ul>
-	<li class="active-trail active first"><a href="/privacy-policy">Privacy Policy</a></li>
-	<li><a href="/about-boulder/disclaimer">Disclaimer</a></li>
-	<li class="last"><a href="/about-boulder/plugins">Plugins</a></li>
+	<li class="first"><a href="/about-boulder/plugins">Plugins</a></li>
+	<li class="active-trail active"><a href="/privacy-policy">Privacy Policy</a></li>
+	<li class="last"><a href="/about-boulder/disclaimer">Disclaimer</a></li>
 </ul>
  --> <a href="/privacy-policy">Privacy Policy</a> | <a href="/disclaimer">Disclaimer</a> | <a href="/plugins">Plugins</a> | <a href="/admin">Admin</a>    </p>
-	<a href="https://bouldercolorado.gov/pages/nov-13-2013-city-of-boulder-wins-both-of-the-nagws-top-honors-for-web-redesign-and-earns-spot-in-top-10-list-for-effective-digital-governance"><img src="/img/awards/DigCit_Wnr13_CMYK.jpg" alt="Digital Cities 2013 winner" style="padding: 3px"><img src="/img/awards/2013-nagw-members-choice.png" alt="NAGW members choice award winner" style="padding: 3px"><img src="/img/awards/2013-nagw-pinnacle.png" alt="NAGW Pinnacle award winner" style="padding: 3px"></a>
+	<a href="https://bouldercolorado.gov/newsroom/oct-16-2014-city-website-recognized-as-one-of-top-three-in-country"><img src="/img/awards/bow14_winner_rgb_sm.jpg" alt="Best of the Web 2014 winner" style="padding: 3px; padding-right:0;"></a><a href="https://bouldercolorado.gov/pages/nov-13-2013-city-of-boulder-wins-both-of-the-nagws-top-honors-for-web-redesign-and-earns-spot-in-top-10-list-for-effective-digital-governance"><img src="/img/awards/DigCit_Wnr13_CMYK.jpg" alt="Digital Cities 2013 winner" style="padding: 3px"><img src="/img/awards/2013-nagw-members-choice.png" alt="NAGW members choice award winner" style="padding: 3px"><img src="/img/awards/2013-nagw-pinnacle.png" alt="NAGW Pinnacle award winner" style="padding: 3px"></a>
 </footer>
 <!-- footer_wrapper ends -->
 <script src="/js/jquery.tools.min.js"></script>
@@ -440,7 +443,6 @@
 <script src="/js/script.js"></script>
 <script src="/js/jquery.leaveNotice.js"></script>
 <script src="/js/fluidvids.js"></script>
-<script src="/photo-gallery/www/js/photo-gallery.js"></script>
 		<script type="text/javascript">
 		/mobile/i.test(navigator.userAgent) && !window.location.hash && setTimeout(function () {
 		  window.scrollTo(0, 1);
@@ -460,5 +462,5 @@
 		<![endif]-->
 	<a id="view-full" class="mobile_only" onclick="viewfullsite()" href="javascript:void(0);">View Full Site</a>
 	</div><!--sitewrapper ends-->
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","d73685d18d","1837800","NQMDZEoDCBFUVRUNCQxJIFNMCwkMGkYAAwMRSQheXAce",0,128,new Date().getTime(),"","","","",""]);</script>
+	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","d73685d18d","1837800","NQMDZEoDCBFUVRUNCQxJIFNMCwkMGkYAAwMRSQheXAce",0,182,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
