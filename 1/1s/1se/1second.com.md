@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1second.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060259id_/http%3A//1second.com/ppc-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1second.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020034222id_/http%3A//1second.com/ppc-privacy.htm) for the most accurate reproduction.*
 
 # 1second.com Privacy Policy
 
