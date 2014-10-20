@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222035000id_/http%3A//supplementreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020030850id_/http%3A//supplementreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SupplementReviews.com
+# Privacy Policy
 
 This Site is operated by Muscle Media, Inc. ("Muscle Media"). This Privacy Policy explains how this Site treats "personal information" that we gather from visitors and how we use it. "Personal Information" is information that is personally identifiable like a name, e-mail address, or other information that we can reasonably link to such information. 
 
@@ -32,8 +32,8 @@ We may also use the information we collect to investigate, prevent or take actio
 
 **"Opt Out Rights"** ~ By using this website you agree to the terms of this Privacy Policy and collection and use of your personal information by Muscle Media as specified above. If at any time after visiting the Site, you change your mind about receiving information from the Site or sharing your personal information as described in this Privacy Policy, you may request an opt out, by contacting us at: 
 
-admin@musclemedia-inc.com. 
+[SupplementReviews.com@SupplementReviews.com](mailto:SupplementReviews.com@SupplementReviews.com). 
 
-**Questions or Additional Information** ~ If you have any questions about this Policy, or if you would like additional information, please contact us at admin@musclemedia-inc.com. 
+**Questions or Additional Information** ~ If you have any questions about this Policy, or if you would like additional information, please contact us at [SupplementReviews.com@SupplementReviews.com](mailto:SupplementReviews.com@SupplementReviews.com). 
 
 Last Updated: November 11, 2011 
