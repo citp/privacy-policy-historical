@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the bing.net privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224133338id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248686%26CLCID%3D409) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bing.net privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020202026id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248686%26CLCID%3D0409) for the most accurate reproduction.*
 
 # Microsoft Privacy Statement
 
-Last Updated: February 2014
+Last Updated: September 2014
 
-Bing Privacy Statement
+Bing and MSN Privacy Statement
 
-This privacy statement applies to Bing websites, services, products and applications that collect data and display these terms. It does not apply to other Microsoft products and services that do not link to the Bing Privacy Statement. 
+This privacy statement applies to Bing and MSN websites, services, products and applications that collect data and display these terms. It does not apply to other Microsoft products and services that do not link to the Bing and MSN Privacy Statement.
 
 Cookies & Similar Technologies
 
 Summary 
 
-When you use Bing services with a web browser, we will place one or more "cookies" on your machine. For example, Bing uses a cookie with a unique identifier known as the Search ID to operate the service and enable certain search features. If you sign into Bing or other Microsoft services using a Microsoft account, we will set or read one or more additional cookies. We use these cookies to operate Bing services and provide you a more relevant search experience. You can use your browser settings to remove or block cookies on your computer. 
+When you use Bing and MSN services with a web browser, we will place one or more "cookies" on your machine. For example, Bing uses a cookie with a unique identifier known as the Search ID to operate the service and enable certain search features. If you sign into Bing or other Microsoft services using a Microsoft account, we will set or read one or more additional cookies. We use these cookies to operate Bing and MSN services and provide you a more relevant search experience. You can use your browser settings to remove or block cookies on your computer. 
 
 We also use web beacons to help deliver cookies and compile analytics. These may include third-party web beacons, which are prohibited from collecting your personal information. 
 
 Full text 
 
-When you use Bing services with a web browser, we will place one or more “cookies” on your machine. For example, Bing uses a cookie with a unique identifier known as the Search ID to operate the service and enable certain search features. If you sign into Bing or other Microsoft services using a Microsoft account, we will set or read one or more additional cookies. We use these cookies to operate Bing services and provide you a more relevant search experience.You can use your browser settings to remove or block cookies on your computer. 
+When you use Bing and MSN services with a web browser, we will place one or more “cookies” on your machine. For example, Bing uses a cookie with a unique identifier known as the Search ID to operate the service and enable certain search features. If you sign into Bing or other Microsoft services using a Microsoft account, we will set or read one or more additional cookies. We use these cookies to operate Bing and MSN services and provide you a more relevant search experience. You can use your browser settings to remove or block cookies on your computer. 
 
 Please see below for more information about cookies and how to control them.
 
@@ -54,26 +54,34 @@ In addition to the cookies Microsoft may set when you visit our web sites, third
 
   *  **Browser Controls to Block Cookies.** Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies. 
 
-For example, in Internet Explorer 9, you may block cookies by taking the following steps:
 
-    1. Click “Tools” and then select “Internet Options” 
-    2. Click the “Privacy” tab at the top of the window 
-    3. Move the slider up or down to select the types of cookies you wish to block 
 
-Instructions for blocking cookies in other browsers are available (in English) at <http://www.allaboutcookies.org/manage-cookies/>
+For example, in Internet Explorer 11, you may block cookies by taking the following steps: 
+
+    1. Click "Tools" and then select "Internet Options" 
+    2. Click the "Privacy" tab at the top of the window 
+    3. Move the slider up or down to indicate the rules you want to apply for blocking cookies 
+
+
+
+Instructions for blocking cookies in other browsers are available at each browser’s privacy statement.   
 
 Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected. 
 
   * **Browser Controls to Delete Cookies**. If you accept cookies, you can delete them later. 
 
-For example, in Internet Explorer 9, you may delete cookies by taking the following steps: 
 
-    1. Click “Tools” and then select “Internet Options” 
-    2. On the “General” tab, under “Browsing History,” click the “Delete” button 
+
+For example, in Internet Explorer 11, you may delete cookies by taking the following steps: 
+
+    1. Click "Tools" and then select "Internet Options" 
+    2. On the "General" tab, under "Browsing History," click the "Delete" button 
     3. On the pop-up, select the box next to “Cookies” 
-    4. Click the “Delete” button 
+    4. Click the "Delete" button 
 
-Instructions for deleting cookies in other browsers are available (in English) at <http://www.allaboutcookies.org/manage-cookies/>.
+
+
+Instructions for deleting cookies in other browsers are available at each browser’s privacy statement. 
 
 Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
 
@@ -125,12 +133,12 @@ Collecting Your Information
 
 Summary 
 
-When you use Bing services, Microsoft may collect many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information when you register, sign in and use our sites and services. We also may get information from other companies. We collect this information in a variety of ways, including from web forms, technologies like cookies, web logging and software on your computer or other device.
+When you use Bing and MSN services, Microsoft may collect many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information when you register, sign in and use our sites and services. We also may get information from other companies. We collect this information in a variety of ways, including from web forms, technologies like cookies, web logging and software on your computer or other device.
 
 When you conduct a search, Microsoft collects the following: 
 
   * Search term and time and date of your search 
-  * IP address, browser configuration and approximate location 
+  * IP address, browser configuration and your location 
   * Any unique identifiers contained in the cookies 
 
 
@@ -145,19 +153,19 @@ Microsoft collects many kinds of information in order to operate effectively and
 
 **What we collect:**
 
-  * Search. When you conduct a search, Microsoft will collect the search terms you provide, along with your IP address, the unique identifiers contained in the cookies, the time and date of your search, and your browser configuration. We will attempt to derive your approximate location based on your IP address, and will use that information to display search results tailored to your geographic location. When using a web browser, you may be able to change your default location, such as via an “Options” link on the search page, and your location and other search settings are stored in a cookie on your machine. If you are using a mobile device and have allowed Bing Search services to use your current location, we will also collect your approximate latitude and longitude. For information on turning off location-based search services in Windows 8 applications, see the [Bing Applications](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingBarModule&View=description) section of this privacy statement. 
+  * Search. When you conduct a search, Microsoft will collect the search terms you provide, along with your IP address, the unique identifiers contained in the cookies, the time and date of your search, and your browser configuration. We will attempt to derive your location based on your IP address, and will use that information to display search results tailored to your geographic location. When using a web browser, you may be able to change your default location, such as via an “Options” link on the search page, and your location and other search settings are stored in a cookie on your machine. If you are using a mobile device and have allowed Bing Search services to use your current location, we will also collect your location. For information on turning off location-based search services in Windows 8 applications, see the [Bing Location Services ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingMobileandLocationServicesModule&view=Description) section of this privacy statement. 
 
 
   * Registration. When you sign up to use our sites or services you may be required to provide information about yourself, such as your name, birthdate and postal code. 
 
 
-  * Signing in. To access some Microsoft services, you will need to sign in with an e-mail address and password, which we refer to as your Microsoft account. If you access our services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. By signing in on one Microsoft site or service, you may be automatically signed into other Microsoft sites and services that use the Microsoft account.  Click [here](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingMicrosoftAccountModule&View=Summary) for more Microsoft account privacy information. 
+  * Signing in. To access some Microsoft services, you will need to sign in with an e-mail address and password, which we refer to as your Microsoft account. If you access our services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. By signing in on one Microsoft site or service, you may be automatically signed into other Microsoft sites and services that use the Microsoft account.  Click [here](https://web.archive.org/web/20141020202026id_/http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx?ComponentId=pspBingMicrosoftAccountModule&View=Summary) for more Microsoft account privacy information. 
 
 
   * Using our sites, applications and services. We collect information that tells us how you interact with our applications or services, including the browser you’re using, your IP address, location, cookies or other unique IDs, the pages you visit and features you use. 
 
 
-  * Data from other sources. We may get additional information about you, such as demographic data we purchase from other companies. As discussed in the Facebook Personalization section below, we may also obtain certain information from Facebook to enable personalization features. 
+  * Data from other sources. We may get additional information about you, such as demographic data we purchase from other companies. 
 
 
   * Search Services for Yahoo!. Bing provides search services to Yahoo! and its users. In order to provide these services, Bing receives certain search related information from Yahoo!. This information includes date, time, IP Address, a unique identifier and other search related data. When we receive a search query and the related information from Yahoo!, we treat it in accordance with Yahoo!’s retention and de-identification practice which includes the full deletion of the IP Address from most log files at ninety days. Information provided as part of the search services is used to help select the advertising you see within the search experience. 
@@ -169,7 +177,7 @@ Microsoft collects many kinds of information in order to operate effectively and
 We use a number of methods and technologies to gather information about how you use our sites and services, such as:
 
   * Web forms, such as when you type information into a registration form or type a search query into a search box. 
-  * Technologies like cookies and web beacons (please visit the [cookie section](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingCookiesModule&View=Summary) of this privacy statement to learn more about these technologies). 
+  * Technologies like cookies and web beacons (please visit the [cookie section](https://web.archive.org/web/20141020202026id_/http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx?ComponentId=pspBingCookiesModule&View=Summary) of this privacy statement to learn more about these technologies). 
   * Web logging, which enables us to collect the standard information your browser or application sends to every web site you visit – such as your IP address, browser type and language, and the URL of the site you came from – as well as the pages you visit and the links you click while using our sites and services. 
   * Software installed on your computer or other devices, which may send back information needed to operate, update or improve that software. 
 
@@ -185,9 +193,9 @@ Summary
 
 Microsoft uses the information we collect to operate, improve and personalize the products and services we offer. We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. 
+For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. For Microsoft Services that are powered by Bing, we may also use this information to personalize your experience. Please see the [Microsoft Services Powered by Bing ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingBarModule&view=Description)section for more information.
 
-Finally, as described in the [Display of Advertising](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
+Finally, as described in the [Display of Advertising](https://web.archive.org/web/20141020202026id_/http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
 
 Full text 
 
@@ -195,17 +203,17 @@ Full text
 
 Microsoft uses the information we collect to operate, improve and personalize the products and services we offer. Information collected through one Microsoft service may be combined with information collected through other Microsoft services to give you a more consistent and personalized experience in your interactions with us. We may also supplement this with information from other companies. For example, we may use services from other companies to help us derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
 
-For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. 
+For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. For Microsoft Services that are powered by Bing, we may also use this information to personalize your experience. Please see the [Microsoft Services Powered by Bing ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingBarModule&view=Description)section for more information.
 
 We also may use the information to communicate with you, for example, informing you when a subscription is ending, letting you know when security updates are available or letting you know when you need to take action to keep your account active.
 
-Microsoft provides many of our sites and services free of charge because they are supported by advertising. In order to make these services widely available, the information we collect may be used to help improve the [advertisements](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) you see by making them more relevant to you. For example, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners. The search terms you enter in Bing are categorized and certain user segments are inferred based on those terms. For example, if you search on terms associated with sports, we may associate a “sports segment” with the unique identifier contained in your cookie, and you will then be more likely to see ads related to sports.
+Microsoft provides many of our sites and services free of charge because they are supported by advertising. In order to make these services widely available, the information we collect may be used to help improve the [advertisements](https://web.archive.org/web/20141020202026id_/http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) you see by making them more relevant to you. For example, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners. The search terms you enter in Bing are categorized and certain user segments are inferred based on those terms. For example, if you search on terms associated with sports, we may associate a “sports segment” with the unique identifier contained in your cookie, and you will then be more likely to see ads related to sports.
 
 Reasons We Share Your Personal Information
 
 Summary 
 
-Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
 
 We may share some anonymized search query data with selected third parties for research purposes.
 
@@ -213,11 +221,9 @@ When you click on a link from a Bing search results page, the destination websit
 
 If your browser is enabled to allow pages to pre-load in the background for faster performance, Bing may use this functionality and your browser may preload page(s) in the background for faster results.  When your browser loads a page in the background, it will have the same effect as if you visited that page, including sending the Bing results page URL (which may contain your search query) and downloading any cookie files that page may set.  You can delete cookies using your browser settings.  Click [here](http://go.microsoft.com/fwlink/?LinkID=280122) for more information on how to delete cookies and to control pre-loading pages in Internet Explorer 11. 
 
-Please see [Other Important Privacy Information](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?Componentid=pspBingOtherInformationModule&View=Summary) for additional details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives.
-
 Full text 
 
-Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
 
 We may share some anonymized search query data with selected third parties for research purposes. Before we do so, we remove all unique identifiers such as IP addresses and cookie IDs from the data. We also run the data through a process designed to remove identifiable information that users may have included in the search terms themselves (such as social security numbers or credit card numbers). Additionally, we require these third parties to keep the data secure and to not use the data for any other purposes. 
 
@@ -225,141 +231,137 @@ When you click on a search result or advertisement from a Bing search results pa
 
 If your browser is enabled to allow pages to pre-load in the background for faster performance, Bing may use this functionality and your browser may preload page(s) in the background for faster results.  When your browser loads a page in the background, it will have the same effect as if you visited that page, including sending the Bing results page URL (which may contain your search query) and downloading any cookie files that page may set.  You can delete cookies using your browser settings.  Click [here](http://go.microsoft.com/fwlink/?LinkID=280122) for more information on how to delete cookies and to control pre-loading pages in Internet Explorer 11.
 
-Click [here](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingOtherInformationModule&View=Description) for more information on sharing or disclosing personal information:
+We may share or disclose personal information with other Microsoft controlled subsidiaries and affiliates, and with vendors or agents working on our behalf.  For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal information in order to provide those functions.  In such cases, these companies must abide by our data privacy requirements and are not allowed to use the information for any other purpose.  We may also disclose personal information as part of a corporate transaction such as a merger or sale of assets.
 
-  * Within Microsoft affiliates and subsidiaries 
-  * As part of a merger or sale of a business 
-  * With vendors and agents of Microsoft 
-  * When required by law or to respond to legal process or lawful requests, including from law enforcement or other government agencies 
-  * When required to combat fraud or protect our interests 
-  * To protect life and safety 
+Finally, we may access, disclose and preserve your personal information, including your private content (such as the content of your emails, other private communications or files in private folders), when we have a good faith belief that doing so is necessary to:
+
+  1. comply with applicable law or respond to valid legal process from competent authorities, including from law enforcement or other government agencies; 
+  2. protect our customers, for example to prevent spam or attempts to defraud users of the services, or to help prevent the loss of life or serious injury of anyone; 
+  3. operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks; or 
+  4. protect the rights or property of Microsoft, including enforcing the terms governing the use of the services – however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer’s private content ourselves, but we may refer the matter to law enforcement. 
 
 
+
+Please note that some of our sites and services include links to sites or services of third parties that have privacy practices different from those of Microsoft. If you submit personal information to any of those sites or services, your information is governed by the privacy statements of those third parties. 
 
 Accessing Your Personal Information and Search History
 
 Summary 
 
-When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in [see your search history](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx) (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. 
+When using a web browser, the Bing preferences page allows you to manage your search preferences, such as search history, search language settings, and saved interests or favorites that may be used in Microsoft services when signed in using your Microsoft account. These settings allow you to customize your search experience and provide features that are most relevant to you and your interests.
+
+For Bing Search in your browser, using the search terms you enter and the results you click, search history provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided [here](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx) or by going to the Bing preferences page noted above. Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described in the [Collecting Your Information ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingCollectingYourInformationModule&view=Description)Section.
 
 Full text 
 
-When using a web browser, you can access and manage your information, including Search History, on Bing through the [preferences page](http://www.bing.com/preferences.aspx) or by using the Personal Data Dashboard. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in [see your search history](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx) (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. You may also contact Microsoft by using the [web form.](http://go.microsoft.com/?linkid=4320005) We will respond to requests to access or delete your personal information within 30 days. 
+When using a web browser, the Bing preferences page allows you to manage your search preferences, such as search history, search language settings, and saved interests or favorites that may be used in Microsoft services when signed in using your Microsoft account. These settings allow you to customize your search experience and provide features that are most relevant to you and your interests.
 
-Bing Mobile, Maps and Location Services
+ **Managing Search History**
+
+For Bing Search in your browser, using the search terms you enter and the results you click, search history provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided [here](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described in the [Collecting Your Information ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingCollectingYourInformationModule&view=Description)Section.
+
+ **Managing Interests and Personalization settings**
+
+When you are signed into your Microsoft account, the Interests page allows you to view, manage, and clear topics and favorites, such as news topics or sports teams you configure in your Bing and MSN apps, or interests you confirm when using other Microsoft Services such as Cortana. You may also clear these interests and other information used for personalization under the Personalization tab on the Settings page. Because these interests and personalization settings are used across Microsoft Services that are powered by Bing (as described in the [Microsoft Services Powered by Bing ](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingBarModule&view=Description)section), clearing these settings may impact your personalization in other Bing-powered services such as Cortana and MSN apps. Clearing these settings may also not prevent new interests or personalization settings from being created if you continue to use personalization features across these Microsoft services and apps. 
+
+To control personalization features in these services and apps, either sign out of your Microsoft account or disconnect your Microsoft account from the specific service or application in the Settings option. To stop Cortana personalization on applicable Windows devices, you can disable Cortana by going to Settings->Applications->Cortana on your Windows device.
+
+ **Contacting Microsoft to Access Other Information**
+
+You may also contact Microsoft by using the [web form](http://go.microsoft.com/?linkid=4320005). We will make reasonable efforts to respond to your web request to access or delete your personal information within 30 days.
+
+Microsoft Services Powered by Bing
 
 Summary 
 
-If you have agreed to allow access to your location, the app may collect that information to provide more relevant experiences and enhanced features that rely on knowing your location, and to improve Microsoft products and services.  For example, we use your location to improve your search and mapping results, and provide you deals for local businesses.
+Microsoft services and apps that are powered by Bing services, such as MSN and Bing apps, Cortana, and Microsoft mapping services, use Bing search to provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  These Bing-powered services are available on a variety of platforms including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars. 
 
-  *  **Bing Search services and Bing Mobile applications:** The approximate location of your device will be sent to Microsoft along with search terms, time and date of your search and a unique identifier generated by the application. Refer to the documentation that came with your device for information about how to turn off location for an application.
-  *  **"Check In” and “Reminders”:** When you sign into these services, Microsoft stores the approximate location of your device along with your Microsoft account. To disable access to your device’s location by these services, go to the settings menu of the Bing Search application and turn location to “Off.” If you are using a browser to access Bing Search services, refer to the browser documentation to disable sharing your location for sites visited on that browser.
-  *  **Mapping features:** Features on Microsoft's sites and services are based in part on the Bing Maps service. When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.
+When you conduct a search in a Bing-powered service or app, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the [Collecting Your Information](http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingCollectingYourInformationModule&View=description) section of this statement. 
 
-
+Some Bing-powered services, such as Cortana and MSN apps, provide you with an enhanced experience when you connect these services to your Microsoft account. When you log in and connect these Bing-powered services to your Microsoft account, Microsoft may use your information to personalize these and other Microsoft services and apps. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. 
 
 Full text 
 
-If you’ve allowed a Bing mobile application to access your location, when you conduct a search, the approximate location of your device will be sent to Microsoft along with the search terms, time and date of your search and a unique identifier generated by the application. This information will be used to provide and improve search and mapping results. With your consent, some Bing mobile applications may collect more precise location information to provide a more relevant experience or provide enhanced features that rely on knowing your location.
+Microsoft services and apps that are powered by Bing services, such as MSN apps, Cortana, and Microsoft mapping services, use Bing search to provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  These Bing-powered services are available on a variety of platforms including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars. 
 
-Refer to the documentation that came with your device for information about how to turn off location for a Bing Search application. If you turn off or disable location for the Bing Search application or the browser that you use to go to m.bing.com, you will stop sharing your device's location with Bing. 
+When you conduct a search in a Bing-powered service or app, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the [Collecting Your Information](http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingCollectingYourInformationModule&View=description) section of this statement. 
 
-When you sign into and use the location-based services, “Check-in” and “Reminders”, Microsoft stores the approximate location of your device along with your Microsoft account. The location information is used to provide relevant search results, offer you deals for local businesses, and operate and improve our services. To disable access to your device’s location by these services, go to the settings menu of the Bing application and turn location to “Off.” 
+For the Autosuggest feature, the characters that you type into a Bing-powered service or app to conduct a search will be sent to Microsoft in order to provide you with real-time search suggestions.
 
-Binglets integrate third party services into Bing search that enable you to associate an action with your search results. For example, if you search on restaurants, a Binglet provides the functionality to enable you to reserve a table. When you use a third party “Binglet” within a Bing application, information you provide to the Binglet is shared with the third party named in it. For details about the third party’s information collection and usage practices, see the privacy policy on their web site. Bing doesn’t separately collect or store information provided to a third party Binglet. 
+ **MSN and Bing Apps**
 
-Mapping features on Microsoft's sites and services are based in part on the Bing Maps service. Bing Maps is a set of mapping and related services that can be accessed through an application such as a Web site, desktop software, or mobile application. When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing. 
+When you install MSN and Bing apps, such as the MSN Sports app and MSN Weather app, we collect information that tells us if the app was installed properly, the installation date, the app version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the application, and issues associated with different versions of the application and different operating systems and browsers.
 
-We keep track of all requests the application you are using makes to the Bing Maps Service. Location-related information in the request or derived from the request, may be used for calculating payments to our data vendors so that we may operate the service. We will occasionally capture all information in the request for use in testing and maintenance of the service. This information includes the date and time of the request and location-related information you may have provided to the application such as latitude and longitude, address, place name or the start and end address of a route.
+In addition, when you use a MSN or Bing app we collect information about how you interact with each app, such as what buttons you click, which is used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
 
-Facebook Personalization
+In MSN and Bing apps, the Settings charm also has a Microsoft Advertising option that allows you to enable or disable the use of your information collected from MSN and Bing apps for the purpose of personalized advertising.
 
-Summary 
+ **Cortana**
 
-Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. You can turn off these Instant Personalization features at any time by going to <http://www.facebook.com/help/?faq=204873389548151>.
+Cortana, a personal assistant available on Windows phone 8.1 versions, is powered by Bing. Cortana can track things that interest you to provide a personalized experience, such as personalized reminders, suggestions, search results and app recommendations. Your Bing search queries that are made using Cortana are treated like any other Bing search queries and combined with other information about you to improve your Bing search results and the relevance of personalized ads. These searches are subject to the Bing Services policies outlined in this statement. When you are signed in with your Microsoft account, your Cortana Interests may sync and be used by other Microsoft apps and services, such as MSN or Bing apps, to customize your profile interests, preferences and favorites in those apps as well. For more information on how Cortana collects and uses your information, please see the [Cortana privacy statement](http://www.windowsphone.com/en-US/legal/wp8/windows-phone-8-1-privacy-statement). 
 
- In addition, Bing search and Microsoft apps that use Bing services (also known as “Bing apps”) described in the [Bing Apps](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingBarModule&View=description) section of this statement may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Bing apps.  You can turn off these additional personalization features by going to <https://www.facebook.com/settings?tab=applications> and removing the Bing app.
+**Personalization and Syncing**
 
-Full text 
+Some Bing-powered services, such as Cortana and MSN apps, provide you with an enhanced experience when you connect these services to your Microsoft account. When you log in and connect these Bing-powered services to your Microsoft account, Microsoft may use your information to personalize these and other Microsoft services and apps. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. These features use information from the searches you make in these Bing-powered services or apps (as described in the “[Collecting Your Information](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingCollectingYourInformationModule&view=Description)” and “[Using your Information](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingUsingInformationModule&view=Description)” sections above) and information associated with your Microsoft account. 
 
-Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. Bing uses this information only to operate and improve the services we provide to you, and not for any other purposes such as advertising. 
+All information used for personalization and syncing is stored on Microsoft servers, and for security purposes, is transmitted using SSL. Some information used to customize your apps on a specific PC will not be synced on that PC and your devices until you add that PC to your Microsoft account as a trusted PC.
 
-You can turn off these Instant Personalization features at any time. The first five times you do a Bing search that will show social results, you will see a notification at the top of your screen; clicking “disable” will disable the features and prevent Bing from using your Facebook information to personalize your experience. If you want to disable the features later, you can do so by going to <http://www.facebook.com/help/?faq=204873389548151>. You can opt back in by clicking on the Facebook icon on the top right of the Bing page. For more information about these features, click [here.](http://www.bing.com/explore/social/?form=SPIDLM "here.")
+For MSN and Bing apps, such as the MSN Weather app and the MSN Sports app, if you are signed in to Windows or a Windows Phone with a Microsoft account (or a domain account connected to a Microsoft account), the personalization and sync feature will be enabled by default. If you ever wish to stop personalization and syncing in a MSN or Bing app, sign-out of your Microsoft account using the app settings. 
 
-In addition, Bing search and Microsoft apps that use Bing services (also known as “Bing apps”) described in the [Bing Apps ](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingBarModule&View=description)section of this statement may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Bing apps.  An example of these additional personalization features is Local Scout on Windows Phone. 
+For some Bing-powered services or apps, you may need to connect your Microsoft account to the service or app before personalization will be enabled, or consent to personalization before using that application. Please see the privacy statement for the specific service or app for more information.
 
-For these additional personalization features to work, you must first grant Facebook permission to share your data with Microsoft via the Facebook connect dialog boxes, which may include private data such as your photos on Facebook that are not marked public.   You can turn off these additional personalization features by going to <https://www.facebook.com/settings?tab=applications> and removing the Bing app.
+You may have different personalization and sync settings depending on the version of your Bing-powered service or app. For more information on how to manage personalization settings, please see the ‘[Accessing your Information](http://www.microsoft.com/privacystatement/EN-US/Bing/default.aspx?componentid=pspBingAccessingInformationModule&view=Description)” section. 
 
-Bing Applications
+**Personalization and syncing in older Bing Apps and Bing apps on non-Microsoft Devices**
 
-Summary 
+Other Bing apps on Microsoft and non-Microsoft devices, such as older iOS versions of the Bing app, do not offer personalization/syncing because they do not have functionality to allow you to use your Microsoft account to sign in or sign out of the app. 
 
-Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars. 
+Older versions of Bing apps for Windows do not offer personalization and rely on the Sync Your Settings option in PC settings to determine whether to sync your customized app settings.  If you do not want to sync your customized app settings, you can turn off this functionality in PC settings -> Sync your settings.  You can also turn off syncing by not signing in to Windows with a Microsoft account (or a domain account connected to a Microsoft account). 
 
-When you install and use Bing apps, information about your computer and how you use the app, such as type and version of operating system, browser information and buttons you click, is collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
+For the Bing app on your iOS device, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.
 
-If you are using Bing Desktop or Bing Toolbar and choose to participate in the Bing Experience Improvement Program, we also collect additional information about how you use these specific Bing apps, including information about your searches within these apps. Additionally, when opted into the Bing Experience program on Bing Toolbar, we collect information about the addresses of the websites you visit.  
+ **Configuring Bing-powered services and apps to use other data sources:**
 
-Lastly, some Bing apps provide the option to configure the application to use additional information from other Microsoft products and services, or from third parties.
+Some Bing-powered services and apps provide you the option to configure the service or app to use additional information from other Microsoft products and services, or from third parties. For example: 
 
-Full text 
+  * Your Facebook information, if Facebook personalization is enabled, for use in services and apps that use social features (such as Local Scout in Maps and Cortana). See the “Connecting Facebook to Bing Services” section below for details. 
+  * Your personal finance information from third party financial institutions that you consent to use in the Money app. The Money app only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft. 
+  * Information from other companies that you have configured for use, such as travel itineraries in the Travel app and subscriptions in the News app. 
+  * Flurry Analytics is used in some Bing-powered apps to better understand how you use the app. For more about Flurry Analytics and information on how to opt out, please visit <http://flurry.com/legal-privacy/end-user-opt-out>.  
 
-**What are Bing Apps?**
 
-Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars. 
 
-**Information collected and processed when installing and using a Bing app**
-
-When you install Bing apps we collect information that tells us if the app was installed properly, the installation date, the app version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the application and issues associated with different versions of the application and different operating systems and browsers.
-
-In addition, when you use a Bing application we collect information about how you interact with each app, such as what buttons you click, which is used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
-
-When you type a query in a Bing app, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the [Collecting Your Information](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingCollectingYourInformationModule&View=description) section of this statement. 
-
-For the Autosuggest feature, the characters that you type into a Bing search will be sent to Microsoft in order to provide you with real-time Search Suggestions.
-
- **Bing Experience Improvement Program for Bing Toolbar and Bing Desktop**
+**Bing Experience Improvement Program for Bing Toolbar and Bing Desktop**
 
 If you are using Bing Desktop or Bing Toolbar and choose to participate in the Bing Experience Improvement Program, we also collect additional information about how you use these specific Bing apps, including information about your searches within these apps. Additionally, when you opt into the Bing Experience program on Bing Toolbar, we collect information about the addresses of the websites you visit to help improve search ranking and relevance.  The information collected through the Bing Experience Improvement Program helps us to improve the quality and performance of our products and services.
 
 To help protect your privacy, we do not use any of the information collected through the Bing Experience Improvement Program to identify or contact you, or target advertising to you.  Also, we take steps to store such information separately from any account information we may have that directly identifies you, such as name, e-mail address, or phone numbers. Finally, we delete the information collected through the Bing Experience Improvement Program after eighteen months. You may stop participating in the Bing Experience Improvement Program by following the instructions [here](http://onlinehelp.microsoft.com/en-us/bing/gg316403.aspx). 
 
-**Configuring Bing apps to use other data sources:**
+**Binglets**
 
-Some Bing apps provide you the option to configure the application to use additional information from other Microsoft products and services, or from third parties. For example: 
+Binglets integrate third party services into Bing search that enable you to associate an action with your search results. For example, if you search on restaurants, a Binglet provides the functionality to enable you to reserve a table. When you use a third party “Binglet” within a Bing application, information you provide to the Binglet is shared with the third party named in it. For details about the third party’s information collection and usage practices, see the privacy policy on their web site. Bing doesn’t separately collect or store information provided to a third party Binglet 
 
-  * Your Facebook information, if Facebook personalization is enabled, for use in apps that use social features (such as Local Scout in Maps). See the [Facebook ](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingFacebookPersonalizationModule&View=description)section for more details. 
-  * Your HealthVault information that you consent to use in certain apps such as the Bing Health and Fitness app. Bing only displays this information and does not store it. 
-  * Your personal finance information from third party financial institutions that you consent to use in the Finance app. Bing only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft. 
-  * Information from other companies that you have configured for use such as travel itineraries in the Travel app and subscriptions in the News app.  
+#### Connecting Facebook to Bing Services
 
+Bing search and Microsoft Services Powered by Bing also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  An example of these additional personalization features is Local Scout on Windows Phone. You can turn off these additional personalization features by going to <https://www.facebook.com/settings?tab=applications> and removing the Bing app.
 
+Bing Location Services
 
-**Personalization and Syncing for apps**
+Summary 
 
-If you want to enhance your experience when using some Bing apps, you can choose to connect your Microsoft account. Whenever you are logged into your Microsoft account and using the app, Bing will use your information to personalize and sync your apps and other Microsoft services. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. These features use information collected by your Bing app (as described in the “Collecting your Information” and “Using your Information” sections above) and information associated with your Microsoft account. If you are signed in to Windows or Windows Phone with a Microsoft account (or a domain account connected to a Microsoft account), the personalization and sync feature will be enabled by default. If you ever wish to stop personalization and syncing in a Bing app, sign-out of your Microsoft account using the app settings. You may have different personalization and sync settings depending on the version of your Bing app.
+If you’ve allowed a Microsoft service or application that uses Bing services to access your location, the location of your device will be sent to Microsoft along with the search terms, time and date of your search, and a unique identifier generated by the Microsoft service or application. Mapping features in Microsoft's services and apps also use Bing services, and when you submit information such as an address to be viewed on a map, that service or application passes it to Bing services for processing. 
 
-Other Bing apps on Microsoft and non-Microsoft devices, such as older iOS versions of the Bing app, do not offer personalization/syncing because they do not have functionality to allow you to use your Microsoft account to sign in or sign out of the app. 
+Also, if you connect a Bing Service or app to another service that has “Check-in” or “Reminder” features, such as Facebook or Foursquare, when you use these features Microsoft will store the location of your device along with your Microsoft account information. 
 
-All information used for personalization and syncing is stored on Microsoft servers and for security purposes is transmitted using SSL. Some information used to customize your apps on a specific PC will not be synced on that PC and your devices until you add that PC to your Microsoft account as a trusted PC.
+Full text 
 
- **Syncing for older versions of Bing apps and Bing apps**
+If you’ve allowed a Microsoft service or application that uses Bing services to access your location, the  location of your device will be sent to Microsoft along with the search terms, time and date of your search, and a unique identifier generated by the Microsoft service or application. Mapping features in Microsoft's services and apps also use Bing services, and when you submit information such as an address to be viewed on a map, that service or application passes it to Bing services for processing. 
 
-Older versions of Bing apps for Windows do not offer personalization and rely on the Sync Your Settings option in PC settings to determine whether to sync your customized app settings.  If you do not want to sync your customized app settings, you can turn off this functionality in PC settings -> Sync your settings.  You can also turn off syncing by not signing in to Windows with a Microsoft account (or a domain account connected to a Microsoft account). 
+Also, if you connect a Bing Service or app to another service that has “Check-in” or “Reminder” features, such as Facebook or Foursquare, when you use these features Microsoft will store the location of your device along with your Microsoft account information. 
 
-**Syncing for Windows phone and other operating systems**
+You can stop sending location information either through the Windows privacy setting or through the specific app settings, depending on your Windows version or device. For example, in Windows 8.1 you have the option to update this either in the Windows privacy menu or by using the app’s setting charm. For older versions of Windows or devices running other operating systems, refer to the help information about how to turn off location for that operating system or device.
 
-For Bing apps on your Windows Phone, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.  For example, in certain versions of Bing apps for Windows Phone, you can sign in or out of the app in Settings-> Microsoft account.
-
-For the Bing app on your iOS device, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.
-
- **Personalized ads on Windows Bing apps**
-
-The Settings charm also has a Microsoft Advertising option that allows you to enable or disable the use of your information collected from Bing apps for the purpose of personalized advertising. 
-
-**Letting Bing apps use location in Windows**
-
-If you consent to send location information to an app, that information will be used to provide the service you’ve requested, as well as to improve our products and services. You can stop sending location information either through the Windows privacy setting or through the specific app settings, depending on your Windows version or device. For example, on Windows 8.1 you have the option to update this both in the Windows privacy menu, or using the app’s setting charm.
+When using Microsoft mapping features, we keep track of all requests the application you are using makes to the Bing service. Location-related information in the request or derived from the request, may be used for calculating payments to our vendors that provide mapping data, so that we may operate the service. We will occasionally capture all information in the request for use in testing and maintenance of the service. This information includes the date and time of the request and location-related information you may have provided to the application such as latitude and longitude, address, place name or the start and end address of a route.
 
 Children
 
@@ -367,15 +369,17 @@ Summary
 
 When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
 
-When consent is granted, the child’s account is treated much like any other account, including being able to communicate with other users. Parents can change or revoke consent as described in this privacy statement.
+When consent is granted, the child's account is treated much like any other account, including letting the account holder communicate with other users.
+
+Parents can change or revoke consent as described in this privacy statement.
 
 Full text 
 
-When a Microsoft site or service collects age information, it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it.We will not knowingly ask children under 13 to provide more information than is necessary to provide the service. 
+When a Microsoft site or service collects age information, it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it. We will not knowingly ask children under 13 to provide more information than is necessary to provide the service. 
 
-When consent is granted, the child’s account is treated much like any other account. The child may have access to communication services like e-mail, instant messaging and online message boards and may be able to communicate freely with other users of all ages. 
+When consent is granted, the child's account is treated much like any other account. The child may have access to communication services like email, instant messaging and online message boards and may be able to communicate freely with other users of all ages. 
 
-Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information. For example parents can visit their Microsoft account, and click on [“Permissions"](https://account.live.com/summarypage.aspx "Parental Permissions").
+Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information. For example, parents can visit their [Microsoft account](http://go.microsoft.com/FWLink/p/?LinkID=238657) and click on "Permissions". 
 
 Display of Advertising
 
@@ -409,45 +413,73 @@ If you receive promotional emails from us and would like to stop getting them in
 
 You also have the option of proactively making choices about the receipt of promotional e-mail, telephone calls, and postal mail from Microsoft by visiting and signing into the [Promotional Communications Manager](http://go.microsoft.com/fwlink/?LinkId=243191) allows you to update contact information, manage Microsoft-wide contact preferences, opt out of subscriptions, and choose whether to share your contact information with Microsoft partners. If you do not have a Microsoft account, you can manage your Microsoft email communication preferences by using this [web form](http://go.microsoft.com/fwlink/?LinkId=243189). These choices do not apply to the display of online advertising: please refer to the section "Display of Advertising (Opt-out)" for information on this matter. Nor do they apply to the receipt of mandatory service communications that are considered part of certain Microsoft services, which you may receive periodically unless you cancel the service.
 
-Microsoft Account
+Payment Data
 
 Summary 
 
-Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.When you create a Microsoft account, we ask you to provide certain information. When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. We also send certain information to a site or service you have signed into with your Microsoft account. 
-
-To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More. 
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
 
 Full text 
 
-Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information. 
 
- **Creating a Microsoft account.**
+Payment Data is used to complete your transaction, as well as for the detection and prevention of fraud. In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, and for fraud prevention and credit risk reduction.
 
-You can create a Microsoft account [here](https://signup.live.com/) by providing an email address, a password and other “account proofs,” such as an alternate email address, a phone number, and a question and secret answer. We will use your “account proofs” for security purposes only - for instance, to verify your identity in the event that you cannot access your Microsoft account and need assistance, or to reset your password if you cannot access the email address associated with your Microsoft account. Some services may require added security, and in those cases, you may be asked to create an additional security key. The email address and password that you use to sign up for your Microsoft account are your “credentials” that you will use to authenticate with our network. Furthermore, a 64-bit unique ID number will be assigned to your credentials and will be used to identify your credentials and associated information. 
+When you provide Payment Data while logged in with your Microsoft or organizational account we will store some of that data to help you complete future transactions. 
 
-When you create a Microsoft account, we will also ask you to provide the following demographic information: gender; country; birthdate; and postal code.We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law. In addition, this demographic information is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems never get your name or contact information. In other words, our advertising systems do not contain or use any information that can personally and directly identify you (such as your name, email address and phone number). If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting [Your privacy and Microsoft personalized ads](http://go.microsoft.com/fwlink/?LinkID=286759) so that whenever you sign into web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads. For more information about how Microsoft uses information for advertising, please see the [Microsoft Advertising Privacy Statement](http://go.microsoft.com/fwlink/?LinkID=248689). 
+You may update or remove the payment instrument information associated with your Microsoft account by logging in at [https://commerce.microsoft.com](https://commerce.microsoft.com/ "https://commerce.microsoft.com/"). You may remove the payment instrument information associated with your organizational account by contacting [Customer Support](http://go.microsoft.com/fwlink/?LinkId=266728 "Customer Support"). After you close your account or remove a payment instrument, however, Microsoft may retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with Microsoft’s legal and reporting requirements, and for the detection and prevention of fraud. 
 
-You can use an email address provided by Microsoft (such as those ending in live.com, hotmail.com, or msn.com) or an email address provided by a third party (such as those ending in gmail.com or yahoo.com) when signing up for your Microsoft account. 
+Microsoft account
 
-Upon creating a Microsoft account, we will send you an email asking you to verify that you are the owner of the email address associated with your Microsoft account. This is designed to verify the validity of the email address and help prevent email addresses from being used without the permission of their owners. Thereafter, we will use that email address to send you communications relating to your use of Microsoft products and services; we may also send you promotional emails about Microsoft products and services as permitted by local law. For information about managing your receipt of promotional communications, please visit Communications. 
+Summary 
 
-If you attempt to register for a Microsoft account and find that another individual has already created credentials with your email address as the user name, you may contact us and request that the other individual adopt a different user name so that you may use your email address when creating your credentials. 
+Microsoft account is a service that lets you sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service.  We also send some of this information to sites and services that you sign in to with your Microsoft account.
 
-**Signing into software, sites or services with your Microsoft account.**
+We use demographic information – gender, country, age and postal code but not your name or contact information – from your Microsoft account to provide personalized ads to you. **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **[ **opt-out page**](https://choice.live.com/AdvertisementChoice/). **
 
-When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. For instance, when you sign in, the Microsoft account service receives and logs your credentials and other information, such as the 64-bit unique ID number assigned to your credentials, your IP address, your web browser version and a time and date. Further, if you use a Microsoft account to sign into a device or into software that is installed on a device, a random unique ID is assigned to the device; this random unique ID will be sent as part of your credentials to the Microsoft account service when you subsequently sign into a site or service with your Microsoft account. The Microsoft account service sends the following information to the site or service that you have signed into: a unique ID number that permits the site or service to determine whether you are the same person from one sign-in session to the next; the version number assigned to your account (a new number is assigned each time you change your sign-in information); whether your email address has been confirmed; and whether your account has been deactivated. 
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
 
-Some third party sites and services that permit you to sign in with your Microsoft account require your email address in order to provide you with their services. In those cases, when you sign in, Microsoft will provide your email address but not your password to the site or service. However, if you created your credentials with the site or service, it may have limited access to information associated with your credentials in order to help you reset your password or provide other support services. 
+Full text 
 
-If you received your account from a third party, like a school, a business, an internet service provider, or the administrator of a managed domain, that third party may have rights over your account, including the ability to reset your password,view your account usage or profile data, read or store content in your account, and suspend or cancel your account. In these cases, you are subject to the [Microsoft Service Agreement](http://explore.live.com/microsoft-service-agreement?ref=none) and to any additional terms of use from that third party. If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within such accounts. 
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners.
 
-Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements. However, they can share the unique ID number provided to them by the Microsoft account service with third parties only in order to fulfill a service or transaction that you may have requested. All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary. **_You should carefully review the privacy statement for each site you sign into in order to determine how each site or service will use the information it collects._**
+ **Creating a Microsoft account**
 
- **Accessing your personal information.**
+You can create a Microsoft account [here](https://signup.live.com/ "here") by providing an email address, a password and other security information, such as an alternate email address and a phone number. We will use your security information for security purposes only - for instance, to verify your identity or to reset your password if you cannot access your Microsoft account. Some services may require added security, and in those cases, you may be asked to provide additional information. The email address and password that you use to sign up for your Microsoft account are your "credentials" that you will use to authenticate with our network. We assign a unique ID number to your credentials to identify your credentials and associated information. 
 
-You can access your personal information by going to [account.](https://account.live.com/) You can change your user name if your Microsoft account does not belong to a managed domain. You can always change your password, alternate email address, phone number, and question and secret answer. You may also close your Microsoft account by going to [account](https://account.live.com/), and then “Close your account.” If your account is in a managed domain, as described above, there may be a special process for closing your account. Please note that if you are an MSN or a Windows Live user, if you go to account, you may be redirected to account for those sites. 
+You can use an email address provided by Microsoft (such as those ending in outlook.com, live.com, hotmail.com or msn.com) or an email address provided by a third party (such as those ending in gmail.com or yahoo.com) when signing up for your Microsoft account.  You must use an email address that you own on an email service that you have access to. 
 
-More information about Microsoft account is available at the [Microsoft account web site](http://go.microsoft.com/fwlink/?LinkId=98604)
+When you create a Microsoft account, we will also ask you to provide the following demographic information: gender, country, birthdate and postal code. We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law. We use this demographic information for market research.  This demographic information also is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems do not receive or use any information that can personally and directly identify you (such as your name, email address or phone number). If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting our [opt-out page ](http://go.microsoft.com/fwlink/?LinkID=286759)so that whenever you sign in to web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads. For more information about how Microsoft uses information for advertising, please see the [Microsoft Advertising Privacy Statement](http://go.microsoft.com/fwlink/?linkid=248689%20). 
+
+Upon creating a Microsoft account using an email address provided by a third party, we will send you an email asking you to verify that you are the owner of the email address associated with your Microsoft account. This is designed to verify the validity of the email address and help prevent email addresses from being used without the permission of their owners. 
+
+We will use the email address you used to create your Microsoft account to send you communications relating to your use of Microsoft products and services and to the security of your account. We may also send you promotional emails about Microsoft products and services as permitted by local law. For information about managing your receipt of promotional communications, please visit [Communications](http://www.microsoft.com/privacystatement/en-us/core/default.aspx?componentid=pspCommunicationModule&View=description). ****
+
+**Signing into software, sites or services with your Microsoft account**
+
+When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service. For instance, when you sign in, the Microsoft account service receives your credentials and logs your sign-in name and other information, such as the unique number assigned to your credentials, your IP address, your operating system and web browser version and a time and date. If you use a Microsoft account to sign in to a device or software that is installed on a device, a random unique ID is assigned to the device; this random unique ID will be sent as part of your credentials to the Microsoft account service when you sign in to a site or service with your Microsoft account and will be used to help protect your account. The Microsoft account service sends the following limited verification information to the site or service that you have signed in to: the unique ID number assigned to your credentials that permits the site or service to determine whether you are the same person from one sign-in session to the next; the version number assigned to your account (a new number is assigned each time you change your sign-in information); whether your email address has been confirmed; and whether your account has been deactivated. 
+
+When you sign in to Windows with a Microsoft account, Windows will send standard computer information to Microsoft as well as your device’s manufacturer, model name and version.  We may use this to personalize certain communications to you, such as emails intended to help you get started with your device.  If you sign in to your Windows 8.1 device with your Microsoft account, Windows uses your Microsoft account information to sign you in to Microsoft applications, web sites and services.  To learn more about signing in to Windows with a Microsoft account, please see the [Windows 8.1 Privacy Statement](http://go.microsoft.com/fwlink/?linkid=280262).
+
+Some third-party sites and services that permit you to sign in with your Microsoft account require your email address in order to provide you with their services. In those cases, when you sign in, Microsoft will provide your email address but not your password to the site or service. If you created your Microsoft account credentials with the site or service, it may have limited access to information associated with your credentials and profile as noted during account creation. 
+
+If you received your account from a third party, like a school, a business, an internet service provider or the administrator of a managed domain, that third party may have rights with respect to your account, including the ability to reset your password, view your account usage or profile information, read or store content in your account, and suspend or cancel your account. In these cases, you are subject to the [Microsoft Services Agreement](http://go.microsoft.com/fwlink/?LinkID=397551 "Microsoft Service Agreement") and to any additional terms of use from that third party. If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within those accounts. 
+
+Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements. They can share the unique ID number the Microsoft account service provides them only in order to fulfill a service or transaction that you may have requested. All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary. **You should carefully review the privacy statement for each site you sign in to in order to determine how each site or service will use the information it collects.**
+
+ **Connecting your Microsoft account to your social network accounts**
+
+You may connect your Microsoft account to your account on a social network such as Facebook, Twitter or LinkedIn in order to access information from that social network in your Microsoft account.  For example, connecting your Microsoft account to your social network account lets you see status updates or messages from people you have friended or are following on the social network in your Outlook.com inbox; include them in your Microsoft account address book; and view their birthdays in your Microsoft account calendar.  If you choose to connect your Microsoft account to your account on a social network, we will cache certain information about your social network account on our servers so that we can display updated information from your social network account.
+
+You can see a list of the social networks that offer accounts to which you can connect your Microsoft account, as well as the social network accounts that you’ve actually connected to your Microsoft account, by signing in and going to profile.live.com/services. You can disconnect a social network account from your Microsoft account at any time at profile.live.com/services.  If you disconnect a social network account, we will no longer cache information from that account.
+
+Microsoft is not responsible for content originating from non-Microsoft services or for information you share with or send to those services.  If you use a third-party service, its use of your information is subject to its privacy practices. **You should carefully review the privacy statement for each social network account you connect to your Microsoft account to determine how it will use the information it collects.**
+
+ **Accessing your personal information and closing your account**
+
+You can access the personal information in your Microsoft account by going to the Microsoft [account summary page](https://account.live.com/). You can change your username if your Microsoft account does not belong to a managed domain. And you can change your password, alternate email address and phone number. You may also close your Microsoft account by going to [account](https://account.live.com/ "account") and then "Close your account." If your Microsoft account is within a managed domain, there may be a special process for closing your Microsoft account. Please note that if you are an Outlook.com user or have a billing account with Microsoft, if you go to account, you may be redirected to your [account](https://account.live.com/) page for those services.
+
+If you use an email address provided by Microsoft (such as those ending in outlook.com, live.com, hotmail.com or msn.com) when signing up for your Microsoft account, that email address will be unique to you for as long as your Microsoft account is active.  If you or Microsoft close your Microsoft account as provided in the [Microsoft Services Agreement](http://go.microsoft.com/fwlink/?LinkID=397551), that email address or username (but not the Microsoft account itself) may be recycled into our system and assigned to another user.  More information about Microsoft account is available at the [Microsoft account web site](http://go.microsoft.com/fwlink/?LinkID=397553). 
 
 Other Important Privacy Information
 
@@ -456,7 +488,6 @@ Summary
 Learn more about
 
   * Non-Microsoft services that use Bing search
-  * Why and with whom we share or disclose personal information
   * Protecting the security of personal information
   * Where we store and process information
   * Changes to our privacy statements
@@ -466,12 +497,11 @@ Learn more about
 
 Full text 
 
-Below you will find additional privacy information you may (or may not) find important.  Much of this describes common practices that we want you to know about but don’t think it’s necessary to highlight in every one of our privacy statements.  And some of this is just stating the obvious (for example, we will disclose information when the law requires it), but our lawyers make us say it anyway.  Please keep in mind that this information is not a complete description of our practices – this is all _in addition_ to the other, more specific information contained in the privacy statements for each Microsoft product and service you use.  
+Below you will find additional privacy information you may find important.  Much of this describes practices that are common across the industry, but we want to make sure you are aware of them.  Please keep in mind that this information is not a complete description of our practices – this is all _in addition_ to the other, more specific information contained in the privacy statements for each Microsoft product and service you use.  
 
 **On this page** : 
 
   * Non-Microsoft Services that Use Bing Search 
-  * Sharing or Disclosing Personal Information 
   * Protecting the Security of Personal Information 
   * Where Information is Stored and Processed 
   * Changes to Our Privacy Statements 
@@ -483,27 +513,7 @@ Below you will find additional privacy information you may (or may not) find imp
 
 You may access Bing services when using other non-Microsoft sites or services. These sites may use the Bing API, which allows them to provide search results to their users. Microsoft will only use search information in keeping with this statement. You should refer to the privacy policy of the site for any questions about their information collection and usage practices. 
 
-**Sharing or Disclosing Personal Information**
-
-In addition to any sharing described in the privacy statement for the product or service you are using, Microsoft may share or disclose personal information: 
-
-  * With other Microsoft controlled subsidiaries and affiliates. 
-  * As part of a corporate transaction such as a merger or sale of assets. 
-  * With vendors or agents.  Specifically, we may share it with companies we’ve hired to provide services on our behalf.  When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential.
-
-
-
-We also may share or disclose personal information, including the content of your communications: 
-
-  * To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies. 
-  * To protect the rights or property of Microsoft or our customers, including enforcing the terms governing your use of the services. 
-  * To act on a good faith belief that access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public. 
-
-
-
-Please note that our sites and online services may contain advertising, content, or other functionality provided by other companies that may collect information about your online activities across websites or online services.  Our sites and services may also include links to the sites or services of other companies. Information collected by those companies will be governed by the privacy statements of those companies.  We encourage you to review the privacy statement of any site or service you use.
-
- **Protecting the Security of Personal Information**
+**Protecting the Security of Personal Information**
 
 Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
@@ -513,9 +523,7 @@ If a password is used to help protect your accounts and personal information, it
 
 Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland.  To learn more about the Safe Harbor program, and to view our certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
 
-As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices. You can contact TRUSTe at <http://www.truste.com/about-TRUSTe/contact-us>, or provide feedback on Microsoft at <https://feedback-form.truste.com/watchdog/request>.
-
-Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services.  To learn how to access your personal information, visit [Accessing Your Information.  ](https://web.archive.org/web/20140223071636id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingAccessingInformationModule&View=description)
+Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services.  To learn how to access your personal information, visit [Accessing Your Information.  ](https://web.archive.org/web/20141020202026id_/http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx?componentid=pspBingAccessingInformationModule&View=description)
 
 **Changes to Our Privacy Statements**
 
@@ -524,7 +532,7 @@ We will occasionally update our privacy statements to reflect customer feedback 
 **How to Contact Us**
 
   * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
-  * If you have a Microsoft account password question, please visit [Live Help](http://go.microsoft.com/fwlink/?LinkId=320207 "Live Help"). 
+  * If you have a Microsoft account password question, please visit [Microsoft account support](http://go.microsoft.com/fwlink/?LinkId=320207 "Live Help"). 
   * For Microsoft privacy questions, please contact us by using our [Web form](http://go.microsoft.com/?linkid=4320005). 
 
 
