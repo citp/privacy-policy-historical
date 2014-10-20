@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropcam.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621211906id_/https%3A//www.dropcam.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropcam.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020020746id_/https%3A//www.dropcam.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Dropcam's Privacy Policy
 
@@ -9,7 +9,7 @@ Recent updates to this Privacy Policy may be found here.
 
 We at Dropcam, Inc. ("Dropcam," "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.dropcam.com website and domain name, and any other linked pages, features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-Remember that your use of our Services is at all times subject to the [Terms of Use](https://web.archive.org/web/20140621211907id_/https://www.dropcam.com/tos), which incorporates this Privacy Policy. Any capitalized terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](https://web.archive.org/web/20140621211907id_/https://www.dropcam.com/tos).
+Remember that your use of our Services is at all times subject to the [Terms of Use](https://web.archive.org/web/20141012152111id_/https://www.dropcam.com/tos), which incorporates this Privacy Policy. Any capitalized terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](https://web.archive.org/web/20141012152111id_/https://www.dropcam.com/tos).
 
 #### I. WHAT DOES THIS PRIVACY POLICY COVER?
 
@@ -17,7 +17,7 @@ This Privacy Policy covers our treatment of personally identifiable information 
 
 We do not knowingly collect or solicit Personal Information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 may provide any personal information to Dropcam or on the Services. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at [privacy@dropcam.com](mailto:privacy@dropcam.com).
 
-When you use the Services, you are consenting to have your data transferred to and processed in the United States. All of Dropcam’s servers are currently in the United States, and we aren’t able to process your information within the borders of any other country (including Canada). Given this limitation, if your use of the Services or disclosure of certain information to Dropcam would violate any law that is applicable to you, your right to use the Services and/or disclose such information is revoked, as it is wherever use of the Services is prohibited by law (as described in the [Terms of Service](https://web.archive.org/web/20140621211907id_/https://www.dropcam.com/tos)).
+When you use the Services, you are consenting to have your data transferred to and processed in the United States. All of Dropcam’s servers are currently in the United States, and we aren’t able to process your information within the borders of any other country (including Canada). Given this limitation, if your use of the Services or disclosure of certain information to Dropcam would violate any law that is applicable to you, your right to use the Services and/or disclose such information is revoked, as it is wherever use of the Services is prohibited by law (as described in the [Terms of Service](https://web.archive.org/web/20141012152111id_/https://www.dropcam.com/tos)).
 
 #### II. WHAT INFORMATION DOES DROPCAM COLLECT?
 
