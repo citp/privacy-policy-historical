@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessinsider.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214130144id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020175834id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Business Insider
 
-Effective Date: December 26, 2013.
+Effective Date: June 26, 2014.
 
 **1\. Overview**
 
@@ -20,7 +20,7 @@ Business Insider may at any time change this Privacy Policy to reflect any chang
 
 **3\. Information We Collect About You**
 
-Business Insider gathers information about its users mainly to enhance their experience on the Site. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider, along with our advertising partners, collects information about you anonymously to provide you with targeted advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes with certain of our third-party partners below. This collected information includes 1) personal information you provide to us and 2) non-personal information we automatically collect through technology.
+Business Insider gathers information about its users mainly to enhance their experience on the Site. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider, along with our advertising partners, collects information about you anonymously to provide you with targeted advertising messages that are catered to your location, interests, and site behaviors. You can opt out of information gathering for advertising purposes with certain of our third-party partners below. This collected information includes 1) personal information you provide to us and 2) non-personal information we automatically collect through technology.
 
      a. Personal Information You Provide To Business Insider
 
@@ -45,8 +45,8 @@ You are not required to provide Business Insider with any PII in order to use th
 This type of information is collected anonymously through the use of technology, such as third-party cookies, web beacons, and other similar methods. No PII is collected through these methods. Non-personal information we automatically collect may include, but is not limited to: 
 
   * Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
-  * Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, etc.)
-  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served) 
+  * Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, social sharing, etc.)
+  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served, etc.) 
   * Information collected through cookies, web beacons, and similar technologies.
 
 
@@ -78,7 +78,7 @@ Email Communications: Business Insider may use the information that you submit t
 
 Site Analysis: Business Insider uses the information collected through third-party sources to learn and analyze how the Site is used. We use this information to enhance the Site by making improvements based on the data collected. 
 
-Advertising: Display Ads are delivered from our adservers, Open AdSream and Google's DoubleClick. We may use third-party advertising companies to collect data and/or serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to deliver targeted ads to you, your location, and your interests. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://networkadvertising.org](http://networkadvertising.org/). We also use Third-Party Ad Platforms (such as Google AdSense, Google AdX, Rubicon, and Pubmatic) to deliver ads on our Site and in our mobile apps. No PII is exchanged with any type of advertising message on Business Insider. 
+Advertising: Display Ads are delivered from our adserver Google's DoubleClick. We may use third-party advertising companies to collect data and/or serve ads when you visit our Site. These companies may use information (not including your name, address, email address, telephone number, or any PII) about your visits to this and other Web sites in order to deliver targeted ads to you, your location, and your interests. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://networkadvertising.org](http://networkadvertising.org/). We also use third-party ad platforms (such as Google AdSense, Google Ad Exchange, and The Rubicon Project) to deliver ads on our Site and in our mobile apps. No PII is exchanged with any type of advertising message on Business Insider. We also use a Data Management Platform (DMP) from Krux to store our anonymous data. To learn moure about Krux's privacy policy please visit [http://www.krux.com/krux_privacy/](http://www.krux.com/krux_privacy/.%20).
 
 **5\. How We Share Information Collected**
 
@@ -109,12 +109,12 @@ Business Insider uses commercially reasonable controls to safeguard data against
 
 **10\. Third-Party Privacy and Opt-Out Information**
 
-Business Insider supports Do Not Track (“DNT”). If you enable DNT in your web browser, we stop collecting information about you consistent with the DNT setting. Below are links to the privacy policies of some of our partners and links to advertising opt outs to help you to further manage your online privacy. Real Media’s Open AdStream and Google's Doubleclick technologies power the adserving on Business Insider. For more information about Real Media’s privacy policy, go to <http://www.realmedia.com/en-us/pages/privacy_policy.html.> For more information about DoubleClick’s privacy policy, go to [http://www.google.com/policies/technologies/ads](http://www.google.com/policies/technologies/ads/).
+Business Insider supports Do Not Track (“DNT”). If you enable DNT in your web browser, we stop collecting information about you consistent with the DNT setting. Below are links to the privacy policies of some of our partners and links to advertising opt outs to help you to further manage your online privacy. Google's Doubleclick technology powers the adserving on Business Insider. For more information about Google and DoubleClick’s privacy policy, go to [http://www.google.com/policies/technologies/ads](http://www.google.com/policies/technologies/ads/). To opt-out from our DMP, please visit this link, <http://www.krux.com/krux_privacy/consumer_choice/>.
 
-Pubmatic and Rubicon help deliver ads on Business Insider and its mobile apps. If you want to opt-out of receiving targeted ads from Pubmatic, [visit this link](http://www.pubmatic.com/opt-out.php). Opting out does not mean you will not get ads from Pubmatic or Rubicon; it means they will not collect non-personal information about you, nor will they serve ads targeted to your interests. For more information about Pubmatic’s privacy policy, go to <http://www.pubmatic.com/privacy-policy.php>. For more information about Rubicon's privacy policy, go to [http://www.rubiconproject.com/privacy](http://www.rubiconproject.com/privacy/).
+Google's Ad Exchange and The Rubicon Project help deliver ads on Business Insider and its mobile apps. If you want to opt-out of receiving targeted ads from Rubicon, [visit this link](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/). Opting out does not mean you will not get ads from Rubicon; it means they will not collect non-personal information about you, nor will they serve ads targeted to your interests. For more information about Rubicon's privacy policy, go to [http://www.rubiconproject.com/privacy](http://www.rubiconproject.com/privacy/).
 
 Network Advertising Initiative (NAI) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners' non-personal information tracking, visit the NAI opt-out section. Opting out does not mean you will not receive advertising on Business Insider. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
 
 **11\. Contact Us**
 
-If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at 257 Park Avenue South, 13th Floor, New York, NY, 10010.
+If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at 150 Fifth Avenue, 8th Floor, New York, NY 10011.
