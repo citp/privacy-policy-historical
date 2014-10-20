@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125228id_/http%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020043642id_/http%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha Bank
 
@@ -18,45 +18,48 @@ WITH YOUR PERSONAL INFORMATION?
 
   * Social Security number and income 
   * Account balances and Payment history 
-  * Credit history and Credit scores 
+  * Credit history and Credit scores
 
-When you are no longer our customer, we continue to share your information as described in this notice.  
+  
   
 ### How?
 
-| All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reason Mutual of Omaha Bank chooses to share; and whether you can limit this sharing.  
+| All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reason Mutual of Omaha Bank chooses to share; and whether you can limit this sharing.  
   
 Reasons we can share your personal information | Does Mutual of Omaha Bank share? | Can you limit this sharing?  
 ---|---|---  
-For our everyday business purposes —  
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
-For our marketing purposes —   
+**For our everyday business purposes—** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+**For our marketing purposes —  **  
 to offer our products and services to you | Yes | No  
-For joint marketing with other financial companies | Yes | No  
-For our affiliates' everyday business purposes —   
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates' everyday business purposes —  **  
 information about your transactions and experiences | Yes | No  
-For our affiliates' everyday business purposes —   
+**For our affiliates' everyday business purposes —  **  
 information about your creditworthiness | Yes | Yes  
-For our affiliates to market to you | Yes | Yes  
-For non-affiliates to market to you | No | We don't share  
+**For our affiliates to market to you** | Yes | Yes  
+**For non-affiliates to market to you** | No | We don't share  
 To limit our sharing | 
 
   * Call us at 866.351.5646 or
-  * Mail the form below 
+  * Mail the  **form**  below 
 
 Please note:  
-If you are a  **new**  customer, we can begin sharing your information 30 days from the date we sent this notice. When you are  _no longer_  our customer, we continue to share your information as described in this notice.
+If you are a  _new_  customer, we can begin sharing your information 30 days from the date we sent this notice. When you are  _no longer_  our customer, we continue to share your information as described in this notice.
 
 However, you can contact us at any time to limit our sharing.  
   
 ---|---  
-Questions? | Call us at 866.351.5646 or visit [www.mutualofomahabank.com](http://www.mutualofomahabank.com/)  
+Questions? | Call us at 866.351.5646 or visit [www.mutualofomahabank.com](https://web.archive.org/)  
   
 Mail-in Form (simply [download the PDF](https://web.archive.org/~/media/files/privacy-policy-form.pdf) to print this mail-in form)  
   
 ---  
 To limit or opt-out of information sharing, please download the form, make your selections, and mail to the address listed on the form.  
   
+  
+Who we are  
+---  
+Who is providing this notice? | **Mutual of Omaha Bank**  
   
 What we do  
 ---  
@@ -79,32 +82,27 @@ What happens when I limit sharing for an account I hold jointly with someone els
   
 Definitions   
 ---  
-Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Mutual of Omaha Insurance Company 
-  * Mutual of Omaha Investment Services 
-  * Mutual of Omaha Marketing Company 
-  * Omaha Financial Holdings 
-  * United World Life Insurance Company 
-  * Companion Life Insurance Company 
-  * Continuum Worldwide 
-  * East Campus Realty 
+  * Our affiliates include Omaha Financial Holdings and companies with Mutual of Omaha in their name such as Mutual of Omaha Insurance Company and Mutual of Omaha Investment Company.
 
   
-Non-affiliates | 
+**Non-affiliates** |  Companies not related by common ownership or control. They can be financial and nonfinancial companies. Non-affiliates can include core banking system providers, mortgage and mortgage servicing companies, and government sponsored enterprises (GSEs) such as Fannie Mae or Freddie Mac.   
 
-  * Companies not related by common ownership or control. They can be financial and nonfinancial companies. Non-affiliates can include core banking system providers, mortgage and mortgage servicing companies, and government sponsored enterprises (GSEs) such as Fannie Mae or Freddie Mac. 
+
+  * Mutual of Omaha Bank does not share with nonaffiliates so they can market to you.
 
   
-Joint marketing | 
+**Joint marketing** |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
 
-  * A formal agreement between non-affiliated financial companies that together market financial products or services to you. Joint marketing companies may include credit card providers. 
+
+  * Our joint marketing companies include credit card providers.
 
   
   
 Other important information  
 ---  
-**For California residents:** In accordance with California law, we will not share information we collect about you with companies outside of our corporate family, except as permitted by law, including, for example, with your consent or to service your account. We will limit sharing among our companies to the extent required by California law. **For Vermont residents:** In accordance with Vermont law, we will not share information we collect about you with companies outside of our corporate family, except as permitted by law, including, for example with your consent or to service your account. We will not share information about your creditworthiness within our corporate family except with your authorization or consent, but we may share information about our transactions or experiences with you within our corporate family without your consent. **For Nevada residents:** We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by following the directions in the TO LIMIT OUR SHARING section. Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E Washington St., Ste 3900, Las Vegas, NV 89101; Phone: 702.486.3132; email: BCPINFO@ag.state.nv.us. Mutual of Omaha Bank, 3333 Farnam St. Omaha, NE 68131; Phone 1.866.351.5646; email: [customerservice@mutualofomahabank.com](mailto:customerservice@mutualofomahabank.com?subject=Privacy+Statement)  
+****You may have other privacy protections under state law. We will comply with applicable state laws with regard to the disclosure of your personal information. **For Nevada residents:** We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by following the directions in the TO LIMIT OUR SHARING section. Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E Washington St., Ste 3900, Las Vegas, NV 89101; Phone: 702.486.3132; email: BCPINFO@ag.state.nv.us. Mutual of Omaha Bank, 3333 Farnam St., Omaha, NE 68131; Phone: 1.866.351.5646; email: [customerservice@mutualofomahabank.com](mailto:customerservice@mutualofomahabank.com?subject=Privacy+Statement)  
   
 [Download Privacy Optout Policy](https://web.archive.org/~/media/files/privacy-policy-form.pdf)
 
