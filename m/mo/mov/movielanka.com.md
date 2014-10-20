@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movielanka.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504190925id_/http%3A//www.thiraivideo.com/video/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movielanka.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020055003id_/http%3A//www.thiraivideo.com/video/privacy) for the most accurate reproduction.*
 
 # Thirai Video - Privacy Policy
 
