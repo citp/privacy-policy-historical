@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507132458id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020234758id_/http%3A//kidzbop.com/privacy-policy) for the most accurate reproduction.*
 
 # KIDZ BOP | Privacy Policy - KIDZ BOP
 
-This policy was last updated on February 5, 2014
+This policy was last updated on September 23, 2014
 
 **What is KIDZ BOP/KIDZBOP.com?  
 **KIDZ BOP records kid-friendly versions of today’s biggest pop music hits sung by kids, for kids. KIDZ BOP is a safe, fun way for families to enjoy music in their daily lives at home and in the car. On KIDZBOP.com, families can sample music from KIDZ BOP albums, watch the KIDZ BOP videos, learn how to tune into KIDZ BOP Radio and find out more about the KIDZ BOP Kids and live concert dates. There is a KIDZ BOP Shop which sells family-friendly compilation CDs. The products we sell are intended to be purchased by adults for children. The KIDZ BOP Shop does not solicit Personal Identification from children.
@@ -26,12 +26,14 @@ When a KIDZBOP.com visitor is using our site, KIDZ BOP, LLC collects certain non
 The use of cookies by our affiliates and/or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates or service providers use session ID cookies to provide demographic and metrics information to KIDZ BOP, LLC and to make it easier for you to navigate our site.
 
 **Information sharing and disclosure  
-**KIDZ BOP, LLC does not share, rent or trade personally identifying information about our users, including kids under 13, with 3rd Parties (i.e., companies who are not providing support to the internal operations of our company).  
+**Information sharing and disclosure  
+KIDZ BOP, LLC does not share, rent or trade personally identifying information about our users, including kids under 13, with 3rd Parties (i.e., companies who are not providing support to the internal operations of our company).  
 KIDZ BOP, LLC may share other information submitted on its site – non-personal information – to provide requested products or services, if permission is granted, or under the following circumstances:  
 • We share personal information in certain cases in order to prevent, take action against or investigate situations regarding illegal activities, fraud or suspected fraud, events in which threats or potential threats to the physical safety of any person or persons is evident, when violations of KIDZBOP.com’s terms of use occur, or in other situations required by law.  
 • We respond to subpoenas, court orders and other legal processes, or make use of information in exercising our legal rights or establishing defense against legal claims.  
 • We transfer information about users if KIDZ BOP, LLC is acquired by or merged with another company. In this event, KIDZ BOP, LLC notifies the user in advance of any information transfer and before it may become subject to any other privacy policy.  
-• We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+• We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.  
+• We work with third party Google Analytics to better understand your use of the site and provide you with a better service. Google Analytics is prohibited from sharing your data.  For more information on Google Analytics [click here](http://www.google.com/analytics/terms/us.html).
 
 **Parental Rights  
 **• Parents and legal guardians of kids who have registered for KIDZBOP.com email newsletters have certain rights under COPPA, and KIDZ BOP, LLC recognizes those rights. Parents/guardians can consent to collection and use of a child’s email address without consenting to the disclosure of information to third parties. If a parent revokes consent, we will delete the email address within a reasonable time period.  
