@@ -1,193 +1,89 @@
-> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630171212id_/http%3A//www.providencejournal.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020203009id_/http%3A//www.providencejournal.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Providence Journal
 
-**A. H. BELO**  
-**Privacy Policy (“Policy”)**
+This privacy policy describes the privacy practices for the websites operated by LMG Rhode Island Holdings, Inc. and certain of Gatehouse's subsidiaries, including this website (the "websites").
 
-**Last Updated December 11, 2013**  
-**Effective January 11, 2014**
+####  INFORMATION COLLECTION AND USE.
 
-This Policy governs the use and collection of your information by A.H. Belo Corporation and its affiliated companies (collectively, “AHC”, “we”, “us”, or “our”) when you use certain of AHC’s digital products, including any of our websites, mobile versions thereof, and downloadable mobile applications that display an authorized link to this Policy (collectively, the “Services”).  This Policy **_does not apply_** to any information you may provide to us offline or through any means other than the Services.  For example, this Policy **_does not apply_** to information you provide when you subscribe by postal mail, telephone, at a live event, by survey, or by invitation to a sweepstakes.
+We gather two types of information: (1) personally identifiable information that you supply voluntarily when you register for interactive services, order other products or services, or enter certain other areas of our Websites as noted below in this Privacy Policy and (2) aggregate tracking and site usage information that we gather on an anonymous basis as you access our Websites. Your provision to us of any information through our Websites, or through other sites that link to our Websites, is deemed your agreement to this Privacy Policy. It is our policy to use the personally identifiable information we acquire at our Websites for internal business uses only and to provide products and services to you that you ordered. We do not authorize your personal information to be used by a third party (other than our service providers as described later in this Privacy Policy) without disclosing that intention and receiving your consent, except as described under "Legal Matters" below. We maintain security measures to keep this information private.
 
-Please read this Policy carefully so that you understand our online privacy practices.  By using any of our Services, you agree that your use and any dispute over our privacy practices are governed by this Policy as well as our [Terms of Service](http://www.providencejournal.com/company/terms-of-service/), including the limitation of liability, indemnity, forum selection, and governing law provisions contained in the Terms of Service.  As technologies evolve rapidly, we reserve the right to make changes to this Policy at any time.  Any such changes to our Policy will be posted promptly on this page.  We will update the “Last Updated” date to reflect the effective date of the changes.
+####  Personally Identifiable Information.
 
-**This Policy explains the following:**
+Anyone can access our Websites, but there are certain areas and services that require registration or provision of certain personal information if accessed, such as by way of example: entering premium content areas, placing advertisements online and making other online purchases, signing up for email newsletters, promotions, contests, sweepstakes or special offers, or participating in reader forums, message boards, chats and reader surveys. If you choose to make a purchase or use such areas, we will ask for certain personally identifiable information, which may include name, mailing address, valid email address and other personal information. Based upon the personally identifiable information you provide us at registration, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your "account." We will communicate with you by email or as otherwise directed by you.
 
-  1. What types of information we collect
-  2. What cookies, scripts, and beacons are and why we use them
-  3. How we use your personal information 
-  4. With whom we share your personal information 
-  5. Other parties that may collect information when you use our Services
-  6. How you can opt-out of sharing your personal information or receiving our promotional communications 
-  7. How you can update your personal information or registration information 
-  8. What safeguards we put in place to protect your personal information 
-  9. What you should know about third-party sites and advertising 
-  10. Whether we knowingly collect personal information from children under 13 
-  11. How you can contact us 
-  12. When this Policy is effective and how changes to the Policy are posted 
+We strive to keep personal information--such as your name or e-mail address--that you voluntarily disclose private. We do not authorize your personal information to be shared with third parties without your consent, aside from third parties that perform services for us (which may include by way of example: credit card processing and billing, shipping, email and list processing, and promotions management). We provide these suppliers only with the information they need to process the transaction or provide the service. We require that such parties either must comply with our Privacy Policy or have comparable privacy policies that protect your information.
 
+If you purchase a product or service from us, or through us, we request certain personally identifiable information from you on our order form. You must provide contact information and billing information (such as credit card number, expiration date.) We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
+Certain information supplied by you to our Websites may be password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish accessing our Website in order to prevent others from accessing your personal information. You are solely responsible for the control and use of each password you create.
 
-**What Types of Information Do We Collect?**To the top ↑
+Personal information which you provide on bulletin boards or in other areas that are accessible to other users could be collected and disclosed by others. We cannot take any responsibility for such collection or disclosure.
 
-The information we gather falls into two categories: (1) information (e.g., your name, e-mail address, mailing address, etc.) that you voluntarily supply when you register, initiate transactions, or communicate with us; and (2) information collected automatically when you navigate our Services or read our e-mail newsletters.  In some cases, a vendor or service provider of ours collects information on our behalf.  Third-party providers featured on or linked to by our Services may also gather information through processes that we do not control.  As such, collection of such information is subject to the third-party’s privacy policies.
+From time to time, we may obtain e-mail addresses from third party sources to be used for promotional emails. You may opt out of receiving any messages from us in the future by either clicking on the Unsubscribe link in the email, or by contacting us as instructed at the end of this Privacy Policy.
 
-**Registration and Other Personal Information**
+####  Legal Matters
 
-When we use the term “Personal Information” in this Policy, we are referring only to information that uniquely identifies a specific individual such as the individual’s name, phone number, mailing address, or e-mail address.  It may also be information about an individual’s online activity.    
-We may ask you for Personal Information when you register for or use various aspects of our Services, including when you order products or services, complete a survey, enter a contest, or report a problem with our Services.  We may also collect contact information about other individuals when you use the ‘sharing’ tools available within our Services to share content or offers with your friends and associates.  As such, please note that if you use any “send-to-friend” features of our Services, your e-mail address may be included in the communication sent to your friend.
+We may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to: (1) comply with the law, government action or with legal process served on us; (2) protect and defend our rights or property, including without limitation these Websites; or (3) protect the personal safety or property of our users or the public (by way of example, if you provide false information or pretend to be someone else, information about you may be disclosed as part of an investigation). In the event of a change of control of LMG or any of its subsidiaries (such as through a merger or sale of equity) or in the event of a direct or indirect sale of any Website through a sale of assets, liquidation or other transaction, any personal information of users of the affected Websites in our possession will be transferred to the new company as part of the transaction. We are not obligated to notify Website users of any such transaction. You may always change or delete your information or opt out by contacting us as provided below, or if the acquirer posts a new Privacy Policy with new contact information, you may change or delete your information or opt out by following any new instructions that are posted.
 
-**Aggregated Information**
+####  Aggregate Information
 
-Much of the information we collect is compiled into aggregated statistics, such as traffic generated by visits onto various pages or the surfing habits and preferences of our audience.  Such aggregated information does not include any information that would specifically identify you and does not constitute “Personal Information” under the Policy.  Such information is often used to diagnose and resolve server problems, analyze trends, and improve our products, services, and offerings.  As such, we may disclose Aggregated Information or other similar data and metrics to third parties as we see fit.
+If we gather demographic information from you (for example, your age, education level or household income), we will not share that information in a manner that identifies you as an individual with any other third party, unless we let you know that at the time of collection and you consent by providing the information. When we share demographic information with third parties, we will give them aggregate information only, unless you have consented otherwise, or unless otherwise required by law, government action or legal process served on us.
 
-**Information We Collect Automatically When You Use Our Services**
+Occasionally, we use "cookies" to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. We only use cookies for the purpose of holding information during online sessions (for example, to hold answers to online surveys for short-term storage, or to create a temporary ID for use in a multiple-session assessment). When you view an ad for the Websites on other sites, third party advertisers may place or recognize a unique cookie on your browser. The Websites and the advertiser may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which website pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts.
 
-We may collect certain information automatically when you use our Services, including:
+We may also collect other information from users to the Websites such as the user's IP address (the number assigned automatically to your computer whenever you use the World Wide Web), length of time spent on the Websites, and the pages accessed during each visit to the Websites. We use this information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-  * Your browser type, browser identifiers, language, plug-ins, Internet domain, and operating system;
-  * Your Internet Protocol (“IP”) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
-  * The site you visited before visiting our Services and the site you visit after leaving our Services;
-  * Content and advertisements you view and links you click on while navigating within our Services;
-  * Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
-  * Information collected through cookies, web beacons, and other similar technologies;
-  * Information about your interactions with our video content, such as the type of content viewed using our Services;
-  * Information about your interactions with our e-mail messages, such as the links you click on and whether you open or forward a message; and
-  * Standard server log information.
+####  HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION
 
+To opt out of further email communications from us, just click on the Unsubscribe link in the email, or contact us as instructed at the end of this Privacy Policy. We need up to 30 days to process your request.
 
+To change your personal information that you have provided us, please contact us as instructed at the end of this Privacy Policy.
 
-**Precise Location-Based Information**
+####  CHILDREN'S ON-LINE PRIVACY INFORMATION
 
-With your consent, we also may also collect information about the real-time location of mobile devices you use to access our Services.  We use this information to provide you with content and location services you request, such as location-based weather reports and traffic maps.  We may also make location-based offers that might interest you, enable you to submit user-generated content based on your location, and otherwise improve your experience using our Services.  To use our Services, you are not required to consent to the collection of location-based information and can adjust the settings of your mobile device to turn it off. 
+These Websites are not intended for use by children under the age of 13. We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on our Websites without their permission.
 
-**What Are Cookies, Scripts, and Web Beacons and Why Do We Use Them?**To the top ↑
+Involvement of parents: In accordance with the provisions of the Children's Online Privacy Act, in the event that we do begin collecting any personal information or data from children under the age of 13, we will notify parents first, and will seek parental or guardian consent to collect, use and/or disclose certain personal information from children under the age of 13. A parent may review and have deleted their child's personal information, and may refuse to permit further collection or use of their child's information by contacting us as noted at the end of this Privacy Policy. Parents may consent to our collection and use of their child's personal information without consenting to the disclosure of that information to others.
 
-**What are Cookies?**
+####  OUR COMMITMENT TO DATA SECURITY
 
-Cookies are alphanumeric identifiers stored within your browser.  Cookies are accessed and recorded by the websites and companies you visit so that companies may recognize your browser as you navigate online. 
+We have put in place security procedures reasonably designed to safeguard and secure the information under our control, and we follow generally accepted industry standards.
 
-We use cookies for the following general purposes, among other purposes:
+Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers and in storing that information on our systems, no method of transmission over the Internet, or of electronic storage, is 100% secure. So we cannot ensure or guarantee the security of any information transmitted to us over the Internet.
 
-  * To help us recognize your browser as a previous visitor so that we may save and remember any preferences that may have been set when you last visited us.  For example, if you register for our Services, we may store your username and password to save you time and convenience when you visit.
-  * To help control the display of advertisements you see and customize the content you encounter while using our Services. 
-  * To help us measure and analyze visitor traffic and usage patterns as well as to improve the quality and effectiveness of our content, features, advertisements, and other communications.
+When you enter sensitive information (such as credit card numbers) on our forms, we encrypt, or instruct our providers to encrypt, that information using secure socket layer technology (SSL).
 
+####  LINKS TO OTHER SITES
 
+This Privacy Policy solely applies to information collected directly by the Websites. Our Websites may contain links to other web sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage users to be aware that when they leave our Websites for another site, even if through a link, they should read the privacy statements of each and every web site that collects personally identifiable information. The provision of external links to other websites is a common practice on the Internet and it in no way indicates that we endorse or approve the linked company, or its products, services or website.
 
-Some of our third-party affiliates may also place cookies within your browser.  We do not control these cookies.  You may set your browser to accept or reject most cookies, but blocking cookies may prevent access to some of the features of our Services.  
+####  AP News Registry Privacy Policy
 
-**Web Beacons and Other Tracking Technologies**
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
-In delivering our Services, we may use scripts, web beacons, and/or similar technologies to collect information about your use of our Services.  We use web beacons to improve your experience when you use our Services through providing you with content, advertising, and offers customized to your interest, as well as to understand whether our users read email messages and access links contained within those messages.
+####  CHANGES OR UPDATES TO THIS PRIVACY POLICY.
 
-**How Do We Use Your Personal Information?**To the top ↑
+We may modify this Privacy Policy at any time, so please review it frequently. We will post any changes on the Privacy Policy page of the Websites, but we have no other obligation to notify you of such changes. We indicate the date of the current version of this Privacy Policy below, so you know when it was last updated. Any changes will affect all of the information we have previously collected from you, as well as the information we collect after such changes, and may include without limitation additional uses or disclosures of your information. If any of the changes represent a material change that expands our use of personal information, the changes will be posted at least 30 days prior to taking effect and we will post a prompt on the home page of our site for users to review the new privacy policy. If you object to the changes, please contact us as provided below and we will remove your information that we previously collected. However, your subsequent provision of information to us through any of our Websites is deemed your agreement to use of that information in accordance with the then-current Privacy Policy.
 
-We believe we can enhance your experience using our Services by analyzing the information you share with us.  We analyze the Personal Information you share to improve our advertising and marketing efforts, to statistically analyze Services usage, to improve our content and product offerings, and to personalize the content, layout, and features of our Services.  We also use your Personal Information to respond to your comments and questions.  We may also use your Personal Information to contact you regarding products and/or services that we think may be of interest to you unless you have elected not to receive these promotions.
+LMG and GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXuâ's privacy policy or to opt out, visit [www.dataxu.com/privacy/platform](http://www.dataxu.com/privacy/platform)
 
-We may also match Personal Information we collect through our Services with other information about you supplied by third parties so that we can provide you with customized product and content offerings, as well as to otherwise improve our advertising and marketing efforts.  
+####  CONTACT US
 
-After registering with one of our Services, you may receive communications from us related to products and services that we believe will interest you.  Although we hope you will find these communications informative and useful, you can opt-out from receiving these types of communications from us by changing your privacy preferences in your member profile or by deleting your profile from our database.  Please refer to “How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?” for additional information and instructions.
+If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways:
 
-**What Other Parties Might Be Collecting Information When You Use Our Services?**To the top ↑
+**E-mail us at:**  [webmaster@gatehousemedia.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=webmaster@gatehousemedia.com)
 
-**Third-Party Advertising, Data, and Analytics Companies**
+**Write to us at:**
 
-We work with third-party advertising companies and data providers to focus and serve some of the advertisements you see on our Services and websites, to send e-mails on our behalf, and to provide related analytics, forecasting, and optimization services.  Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”).  To learn more about the information collection practices of NAI and DAA members and your opt-out choices, please visit the NAI’s website [here](http://www.networkadvertising.org/choices/) or the DAA’s website (and opt-out mechanism) at [http://www.aboutads.info](http://www.aboutads.info/).  Some of the ads you see in our Services may contain cookies and web beacons that are managed by other third parties (e.g., advertisers or their advertising agencies) that we do not control.  If you have questions regarding the data collection practices of any of the advertisers that appear on our Services, we encourage you to contact the applicable advertiser.
+Webmaster 
 
-We also engage Adobe Analytics, a third-party analytics company, to track and analyze usage and browsing patterns of our users to help us improve our Services.  For information about Adobe Analytics’ information collection practices and related opt-out choices, click [here](http://www.adobe.com/privacy/analytics.html). 
+GateHouse Media, Inc. 
 
-When you visit our mobile websites or use our mobile applications, third-party mobile advertising networks in which we participate may collect certain information, including your unique device ID and information about your wireless carrier, carrier user ID, the make, model, and operating system of your device, cookies stored on your mobile browser, location information, and information about how you navigate within our Services.  These networks may collect and track such information over time and combine it with other information collected when you access other mobile websites and applications that participate in the network to display advertising that is customized to your interests.
+350 WillowBrook Office Park 
 
-  **Blogs, Discussion Forums, and Community or Social Networking Areas**
+Fairport, NY 14450
 
-This Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services, or promotions offered on or through the Services, or through other websites throughout the Internet, different policies will apply and AHC will not be responsible for the use or dissemination of such information.  Our Services may offer social network tools, message boards, chat rooms, or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like).  If you disclose Personal Information in one of these forums, the information can be viewed, collected, and used by others.  AHC is not responsible for the dissemination of information you disclose in these forums.  We encourage you to consult the forum rules and the [Terms of Service](http://www.providencejournal.com/company/terms-of-service/) regarding the policies and procedures that apply to that portion of our Services.
+**Call us at:**  (585) 598-0030 and ask for the GateHouse webmaster
 
-**Co-branded Sites and Services**
-
-Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages.  In addition, other third-party sites or applications may use the AHC name or the name of one of AHC’s affiliated companies or Services.  Since AHC does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties.  AHC will not be responsible for the use or dissemination of your Personal Information by such parties.  Therefore, we encourage you to ask questions and review those parties’ privacy policies before you disclose your Personal Information to others.
-
-**How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?**To the top ↑   
-You may choose to “opt-out” of sharing Personal Information in several ways.  When choosing to use certain features of the Services, you may choose whether to share optional Personal Information in connection with the feature.  If you receive e-mail, phone, or mail communications from one of our websites that you prefer not to receive from, you may opt-out from receiving these communications by modifying the notifications options in your registration profile.  You may change your contact options at any time by following the process described in “How Can You Update Your Personal or Registration Information.”
-
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from AHC by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to [Customer Service](http://www.providencejournal.com/company/contact-us/), or by postal mail to:
-
-A.H. Belo Corporation  
-Attn: Opt-Out Request   
-508 Young St.   
-Dallas, TX 75202
-
-Please note that changing the contact preference options described above will not affect your receipt of any wireless text message communications you may have registered to receive.  To unsubscribe from wireless text communications, please send your “opt-out” request, including the wireless number or wireless address you wish to remove from our list to [Customer Service](http://www.providencejournal.com/company/contact-us/), or by sending postal mail to:
-
-A.H. Belo Corporation  
-Attn: Opt-Out Request   
-508 Young St.   
-Dallas, TX 75202
-
-You may “opt-out” altogether from providing Personal Information to us by not registering on the Services, or registering for any AHC-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in “How Can You Update Your Personal or Registration Information.”
-
-**How Can You Update Your Personal Information or Registration Information?**To the top ↑
-
-For certain services and options, we require you to register a profile with us online and provide information including, but not limited to, your name, street address, city, state, zip code, (collectively, “Registration Information”).  You can manage your Registration Information by accessing your online profile.  We use this procedure to better safeguard your Personal Information.  To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes.  
-You may also change or delete your profile and its related Registration Information from our database using this procedure at any time.  You should know that if you choose to delete your profile, certain aspects of our Services may no longer be accessible to you.  
-To update your personal information for Newsletters and Special Offers:
-
-  * Navigate to the Member Center by clicking here.
-  * If you are not already signed into the website you will be prompted to sign in.
-  * Click on the 'Update My Account' link.
-  * To change personal information click on the ‘Personal Information’ text.
-  * Update information and click submit.
-  * To delete your profile, submit a request to [customer service](http://www.providencejournal.com/company/contact-us/).
-
-
-
-To update your personal information for online subscriptions, please visit our technology partner Press+’s online account management page by [clicking here](https://accounts.mypressplus.com/login.html).
-
-**What Safeguards Do We Put in Place to Protect Your Personal Information?**To the top ↑
-
-AHC does its best to maintain reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us.  However, no security system is impenetrable and we cannot guarantee the security of our database nor can we guarantee that the Personal Information you supply will not be intercepted while being transmitted to us over the Internet.  
-For purposes described in this Policy, Personal Information may be transferred to, processed, stored, and accessed by us, our affiliates, and our service providers in the United States and in jurisdictions where any of us may operate.  Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information.  By using the Services, you consent to this transfer, processing, storage, and access of your Personal Information in and/or outside of the jurisdiction in which you reside. 
-
-**What Should You Know About Third-Party Sites and Advertising?**To the top ↑
-
-Our Services include links to many third-party websites and provide access to products and services offered by third parties whose privacy policies **_we do not control_**.  Any use of a third-party website is **_AT YOUR OWN RISK_**.  When you access another website, purchase products or services from it, or conduct transactions through third-party links, use of any Personal Information you provide will be governed by the privacy policy, if any, of the third-party website.  AHC assumes no responsibility or liability whatsoever for the content or privacy practices, if any, of the operators of any such linked websites.  The mere linking to a third-party website does not imply endorsement or sponsorship by AHC of the website, products, or services offered on the third-party website.
-
-**The Children’s Online Privacy Protection Act**To the top ↑
-
-We do not knowingly collect nor do we encourage the collection of any Personal Information from anyone below the age of 13.  **_Do not use the Services_** if you are under the age of 13.
-
-**Your California Privacy Rights.**
-
-If you are a California resident and would like to request the list that your Personal Informational may have been marketed to, please submit your request by email to [Customer Service](http://www.providencejournal.com/company/contact-us/).
-
-**When is this Policy Effective?  How Do We Post Changes to the Policy? **To the top ↑
-
-This Policy is effective as of January 10, 2013.  AHC reserves the right to modify the terms of this Policy at any time by posting a change notice to this page and/or on the Services.  Your continued viewing, browsing, use or access of an AHC Service following our posting of a change notice will constitute your binding acceptance of those changes.
-
-**Unforeseen Circumstances**   
-We care about your privacy and strive to protect your Personal Information.  However, AHC recognizes that there are often circumstances beyond our control.  In these situations, please be aware that unauthorized access to your Personal Information may occur.  If access occurs, we will do our best to rectify the situation, but we are not liable for the damages or effects of such breach.
-
-**Security**   
-To aid in the protection of your Personal Information, please use caution when accessing our Services on any public computer.  Recognize that public computers are not considered secure and that using your personal login or account on a public computer or network may comprise its security and your Personal Information.  We are not liable for any damages that may result from such a security breach.
-
-**Termination.**   We may, in our sole discretion, terminate or suspend your access to all or part of the Services for any reason, including breach of the Terms of Service or the Policy.  If we terminate your access or account, you agree that the following provisions will survive (as defined by the Terms of Service): the provisions regarding limitations on your use of Content, the license(s) you have granted us, and all other provisions for which survival is equitable or appropriate, including indemnity and limitations of liability.  Please refer to the Terms of Service for more information. 
-
-**Entire Agreement.**   This Policy along with our Terms of Service constitutes the entire agreement between you and us, and supersedes all prior and contemporaneous agreements or other communications (written or oral) between you and us.  In entering into these agreements, all parties represent and warrant that they did not rely upon any prior representations, discussions, agreements, or negotiations not otherwise contained in the Terms of Service and Privacy Policy and that the Terms of Service and Privacy Policy constitutes the entire agreement between the parties.  We may amend our policies and terms at any time.  If you do not accept the Policy, Terms of Service, or any amendments thereto at any time, you agree to discontinue your use of our Services.
-
-**Governing Law; Statute of Limitations.**   This agreement will be construed, interpreted, and governed in accordance with the laws of the State of Texas without application of choice-of-law provisions that would require the application of the laws of another jurisdiction.  By accepting this agreement, all parties irrevocably submit themselves to the exclusive personal jurisdiction and venue of the state and federal courts of Dallas County, Texas, with regard to any dispute between them, arising under, or relating to this agreement.  The parties also hereby waive any venue or personal jurisdiction challenge they may have to a lawsuit relating to or arising under this agreement that has been filed in a state or federal court in Dallas County, Texas. **  **You agree to file any claim you have arising out of or related to the Services within one 1 year after the claim accrues; otherwise, such claim will be permanently barred.
-
-**Severability; No Waiver**.  If any provision of the Policy is found to be unenforceable, that provision will be enforced to the maximum extent permissible, and the remainder of the Policy will continue in full force and effect.  Any failure of ours to enforce or exercise any provision of the Policy or related right will not constitute a waiver of that right or provision.
-
-**International Law.   **We control, operate, and administer the Services from the United States.  We make no representation that any material on our Services is appropriate or available for use outside of the United States.  Illegal access to the Services from territories where their content is illegal is prohibited.  You may not use the Services or export them in violation of U.S. export laws, rules, and regulations.  If you access the Services from a location outside the United States, you are responsible for compliance with all applicable laws. 
-
-**Electronic Communications.   **Communications from us to you will be sent via electronic mail.  You agree that this satisfies any legal requirement of “in writing” from us to you.
-
-**Reporting Abuse**.  We provide a monitored and active email address for you to report abuse.  If you believe any content on the Services is against our Terms of Service, please contact us by sending an email to [help@providencejournal.com](mailto:help@providencejournal.com).
-
-**Notices**.  Any notices or communications from you to us must be in writing, in English, and sent to the address below:
-
-A.H. Belo Corporation  
-Attn: Christine Larkin  
-508 Young St.  
-Dallas, TX 75202
+Last revised April 2010
