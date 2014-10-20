@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622224214id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020153106id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Americasjobexchange.com
 
@@ -10,7 +10,7 @@ For purposes of this policy, "personal information" means any information concer
 
 **AJE does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey, or completing an on-line transaction.**
 
- **Information Collected Automatically When You Visit this Website**
+## Information Collected Automatically When You Visit this Website
 
 When visiting this website AJE automatically collects and stores the following information about your visit:
 
@@ -36,7 +36,7 @@ When visiting this website AJE automatically collects and stores the following i
 
 (xi) Protocol: The transport protocol and the version used.
 
-None of the foregoing information is deemed to constitute personal information.
+_None of the foregoing information is deemed to constitute personal information._
 
 The information that is collected automatically is used to improve this website's content and to help AJE understand how users are interacting with the website. This information is collected for statistical analysis, to determine what information is of most and least interest to our users, and to improve the utility of the material available on the website.
 
@@ -86,7 +86,7 @@ AJE is strongly committed to protecting personal information collected through t
 
 ## Contact Information
 
-For questions regarding this privacy policy, please contact [privacypolicy@americasjobexchange.com.](mailto:privacypolicy@americasjobexchange.com)
+For questions regarding this privacy policy, please contact [customercare@americasjobexchange.com](mailto:customercare@americasjobexchange.com).
 
   
 
