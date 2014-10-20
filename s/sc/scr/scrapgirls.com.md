@@ -1,154 +1,104 @@
-> *The following text is extracted and transformed from the scrapgirls.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618101927id_/http%3A//scrapgirls.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapgirls.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020024425id_/http%3A//scrapgirls.com/L2/privacy-policy.php) for the most accurate reproduction.*
 
-# Scrap Girls - Privacy Policy
+# Privacy Policy | ScrapGirls.com
 
-Scrap Girls Privacy Policy
+  
+  
 
-**1\. The information we collect**
 
-When you use the Scrap Girls.com site, we collect certain information. The information that we collect depends on what you are doing at Scrap Girls.com. 
+  1. ## Information We Collect
 
-  * _Automatically Collected Information_. We collection some information automatically when you visit us. We receive and collect standard and routine visitor information through Google Analytics, which includes the browser software you use and your operating system; the date and time you access our site, the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; and the web address of the web site from which you linked directly to our site. We use this information to monitor the usage of our site. 
+When you use the ScrapGirls.com site, we collect certain information, depending on what you are doing at Scrap Girls.com.
 
-  * _Information Collected through Cookies_
+### Automatically Collected Information — 
 
-. We use cookies to make your browing and shopping experience on the Scrap Girls.com site as good as possible. "Cookies" are small files or records that we place on your computer's hard drive to collect information about what you are doing during your visit at the Scrap Girls.com site. The cookies tell our servers what is happening. The computers that are gathering the information are, the only computers which are authorized to read this information. The information gathered makes it possible for us (i) to improve the nagivational experience, remember what you have in your shopping cart ii) to remember the information you shared with us so you don't have to enter it again each time you visit the Scrap Girls.com site; (iii) to monitor the how well certain marketing campaigns are goings; and (iv) to let us know how many people are visiting us, etc.
+We collect routine visitor information when you visit our site. We receive this information through Google Analytics, which provides us with your browser software and operating system; the date and time you access our site; the name of the domain and host from which you access the Internet; the Internet Protocol (IP) address of the computer you are using; and the web address of the web site from which you linked directly to our site. We use this information to monitor the usage of our site.
 
-  It is an Internet standard that cookies are being placed on visitors computers when they visit web sites because browsers are are programmed to accept them. If you'd like, you can have your browser warn you whenever a cookie is being sent to you or you can tell your browser to not accept them. If you refuse cookies, you will not be able to open a Scrap Girls.com Shopping Cart and therefore will not be able to complete an order with us online. Also, when you don't allow cookies to be accepted. you will find that yourr overall Internet browsing experience will be affected. 
+### Information Collected through Cookies — 
 
-  * _Information You Actively Submit to Scrap Girls.com_
+We use cookies to make your browsing and shopping experience on the ScrapGirls.com site seamless. “Cookies” are small files that get placed on your computer to collect information about what you do while you visit ScrapGirls.com. The information gathered makes it possible for us to improve the navigational experience, remember what you have in your shopping cart, and recall the personal information you shared with us so you don't have to enter it every time you visit.
 
-. For most of the browsing services we provide, we neither require nor collect personal information such as- your name, email address, billing address, shipping address(es), phone number and credit card information. You can browse the Scrap Girls.com site as often as you'd like without having to submit such Personal Customer Information. Even when you use our shopping cart as you looke around, there is no need to submit personal information.
+It is an Internet standard to place cookies on visitors' computers and all browsers are programmed to accept them. If you'd like, you can have your browser warn you whenever a cookie is being sent to you, or you can tell your browser to not accept them. If you refuse cookies, you will not be able to open a ScrapGirls.com account in our store (Scrap Girls Boutique) and will not be able to complete an online order with us.
 
-  In the following instances, however, we do need you to share your personal: when you want to (to (i) set up an account; (ii) complete an order; (iii) subscribe to our newsletter, (iv) sign up for memberships, such as to participate on our message board (v) participate in future courses in our Scrap Girls University.
+### Information You Actively Submit to ScrapGirls.com — 
 
+For most of the browsing services we provide we do not require personal information, but in the following instances you will need to share your personal information with us:
 
+    1. ### Making a Purchase from our Boutique – 
 
-    * **Creating a Scrap Girls.com Account.** You can create a new pasword-protected Scrap Girls.com account to complete an order or to set up a Wish List. To create an account, you must provide us with this personal information;: your email address (which may not be associated with another active Scrap Girls.com account), and your first and last names. You will also have to create a password. It is strongly suggested that you use a strong password, which includes upper case and lower case letters, numbers, and symbols.. 
+You will need to create a new password-protected ScrapGirls.com account to complete an order or set up a Wish List. To create an account, you must provide us with your email address and your first and last name. When you are checking out from the Scrap Girls Boutique with an order, you will be asked to submit additional information such as your credit card number and billing address.
 
-    * **Completing an Order.** When you are checking out with an order, we require you to access your password protected Scrap Girls.com account. You will have access to your personal informatioin or be asked to submit additional information such as your credit card number and billing address. 
+    2. ### Signing Up for the Newsletter – 
 
-    * **Chit Chat Newsletter**. You may sign up for our free email newsletter, Chit Chat, filled with recommendations and ideas for scrapbooking, cardmaking, paper crafting projects and more. To do so, you will need to supply your email address during this sign up. Please note that this newsletter registry is different from the Scrap Girls.com Account and password which you set up to make purchases. You can sign up for our newsletter whether or not you have a Scrap Girls.com account. Furthermore, the contact information collected in the newsletter is only used to forward the newsletter. It must be a separate registry otherwise your shopping account would be disabled even should you simply desire to stop receiving email newsletters. 
+If you choose to sign up for our free email newsletter you will need to supply your email address. Please note that this newsletter registry is different from your ScrapGirls.com Boutique account. The contact information collected in the newsletter sign-up form is only used to send you the newsletter. We do not sell or distribute your email address to any third parties.
 
-    * **Message Board.** When you sign up message board or gallery participation, we ask you to disclose your email address during this registration. Scrap Girls uses a vendor, iPower, to host our message board so that it is maintained in an efficient manner and so that it isn't subject to the type of internet attacks that many of the free software message board have experienced recently. You may choose to receive email messages from the administrators of the message board or other participants or to not receive such messages as the time of your registration. Your email address will not be displayed to the public. Any other personal information that you wish to include in your profile may be shared or hidden, according to your own preferences, as you control this access completely.
+    3. ### Becoming a Member of the Forum – 
 
+If you sign up to be a member of our Forum, we ask for your email address during registration. You may choose to receive email messages from the administrators of the Forum or other members. Any personal information that you wish to include in your profile may be shared or hidden, according to your own preferences. We do not sell or distribute your email address or personal information to any third parties.
 
+  2. ## When We Share Customer Information
 
+### Credit Card Companies — 
 
-**2\. How we use and share Personal Customer Information**
+All credit card transactions are managed by a third-party company, which receives the credit card number and other personal-identifying information to verify the credit card number and process the transaction. For more information on how we keep your credit card information secure, see our Security Policy.
 
-Credit card companies. Credit card transactions are managed by third-party company, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions.
+### Shipping and Fulfillment of Orders — 
 
-  Physical Fulfillment Orders at Scrap Girls Bookstores. Any product that involves some type physical fulfillment requires that we share the information required to ship your order to you, such as your billing and shipping address. 
+Any product that involves physical fulfillment or shipping may require that we share your billing information and shipping address with the company or individual that will fulfill the order.
 
-  Law Enforcement Investigations. If we believed, in our good judgement, that personal customer information is necessary to cooperate with lawy enforcement agencies, Scrap Girls.com may release this informaiont if we believe that such release is necessary to comply with law, enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Scrap Girls.com, our users, or others.
+### Law Enforcement Investigations — 
 
-**3\. Communications from Scrap Girls.com**
+ScrapGirls.com may release personal information if we believe that it is necessary to comply with the law, enforce or apply the terms of our policies, or protect the rights, property, or safety of ScrapGirls.com, our users, or others.
 
-As a Scrap Girls.com account holder, you may receive the following communications from Scrap Girls.com: 
+  3. ## Communications from ScrapGirls.com
 
-  * **Communications related to transaction and account maintenance activities.** By creating a Scrap Girls.com account, you may receive communications from us relating to: order confirmations; order updates; order problems; and updates to site policies and account management procedures.
+As a ScrapGirls.com account holder, you may receive the following communications from ScrapGirls.com:
 
-  * **Communications from Scrap Girls.com.** As an account holder, we use and share your contact information to tell you about special offers, events, new products and services from Scrap Girls.com in our email newsletters. We may communicate with you via via email, postal mai. We will only communicate with you via telephone calls, if these calls are necessary to help you with the orders you have placed. If you would not like to receive any communicate from us, you can send us an email and tell us that this is what you would prefer.
+### Communications Related to Transactions and Account Maintenance — 
 
-  * **Chit Chat Newsletter Communications**. You may sign up for free email Newsletters and Bulletins filled information about our great products, ideas, releases of new freebies and more. To do so, you will need to supply your email address in the newsletter signup page . Please note that this newsletter registry is different from the Scrap Girls.com Account and password which you set up to make purchases. The contact information collected in the newsletter registry is only used to send the Newsletters and Bulletins to you. To unsubscribe from any Newsletter or Alert, you can select the link at the bottom of any Newsletter or Bulletin and follow the instructions provided.
+By creating a ScrapGirls.com account, you may receive communications from us relating to order confirmations, order updates, order problems, updates to site policies, and account management procedures.
 
+### Communications from ScrapGirls.com — 
 
+As an account holder, we use your contact information to tell you about special offers, events, new products and services from ScrapGirls.com. We may communicate with you via email or postal mail. If you would not like to receive any of these communications from us, you have the opportunity to unsubscribe at any time.
 
+### Newsletters and Bulletins — 
 
-**4\. Underage customers**
+The contact information collected in the newsletter registry is only used to send Newsletters and Bulletins to you. To unsubscribe from the Newsletter, you can select “unsubscribe” at the bottom of any Newsletter and follow the instructions provided.
 
-Our products and services are marketed for purchase by adults or with the consent of adults. This is why Scrap Girls.com requires a credit card or a PayPal that has been authorized for use to complete purchases on our site. 
+  4. ## Underage Customers
 
-**5\. Linking to third-party web sites**
+Our products and services are marketed for purchase by adults or with the consent of adults. This is why ScrapGirls.com requires a credit card or a PayPal account that has been authorized for use to complete any purchase on our site.
 
-If you should click on any links to 3rd party websites from our sites, you will be responsible to that website's privacy policies.Scrap Girls.com cannot be responsible for the actions of any third-party web sites. We encourage you to read the posted privacy statement any website you choose to visit.
+  5. ## Linking to Third-Party Websites
 
-**6\. Changes to Privacy Policy**
+If you click on any links to third party websites from our site, you will be held to that website's privacy policy. ScrapGirls.com is not responsible for the actions of any third party web sites. We encourage you to read the posted privacy statement on any website you choose to visit.
 
-Scrap Girls.com reserves the right to amend or modify our Privacy Policy at any time by posting the revised Privacy Policy on our web site. 
+  6. ## Changes to Privacy Policy
 
- 
+ScrapGirls.com reserves the right to amend or modify our Privacy Policy at any time by posting a revised Privacy Policy on our web site.
 
-**7\. Questions or comments**
+  7. ## Questions or Comments
 
-If you have any questions regarding our Privacy Policy, please email them to [hello@scrapgirls.com](mailto:hello@scrapgirls.com).  
-   
+If you have any questions regarding our Privacy Policy, please email us at [hello@scrapgirls.com](mailto:hello@scrapgirls.com).
 
 
-Security Policy
 
-**1\. Protecting your information**
 
-All personal information you share with us -- including your credit card information -- to create and access an account with us and to make purchases from us is secured using industry standard e-commerce technology such as Secure Sockets Layer (SSL) encryption technology. We use this SSL technology to prevent the interception of such policyas it is transmitted over the Internet. The encrypted personal information goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites.   
+  1. ## Protecting Your Information
 
+All personal information you share with us to make purchases, including your credit card number, is secured using industry standard e-commerce technology called Secure Sockets Layer (SSL) encryption technology. We use SSL technology to prevent the interception of information as it is transmitted over the Internet. The encrypted personal information goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. 
 
-**4\. Safe Shopping Guarantee**
+  2. ## Safe Shopping Guarantee
 
-Under federal law, a your credit card issuer cannot hold you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. Similar federal laws that relate to debit card exiss. There are exceptions, however, nd you will have to comply with the rules of your credit card or debit card issuer, so please contact your credit card company for more details. 
+Under federal law, your credit card issuer cannot hold you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. Similar federal laws relate to debit card excess. There are exceptions, and you will have to comply with the rules of your credit card or debit card issuer, so please contact your credit card company for more details. 
 
-  Please be advised, we can not absolutely guarantee the continuous, uninterrupted or secure access to the Scrap Girls.com site because the operation of the Scrap Girls.com website, as any website, might be interfered with by numerous factors outside of our control. 
+Please be advised, we cannot guarantee the continuous, uninterrupted, or secure access to the ScrapGirls.com site because the operation of the ScrapGirls.com website, as with any website, might be interfered with by numerous factors outside of our control.
 
- 
+  3. ## Alternative Customer Purchasing Options
 
-**5\. Alternative customer purchasing options**
+If you do not feel comfortable sending your credit card information to us over the Internet, you still can shop with us. When you are checking out, choose the “Print Order Form” option. Then send this order form along with your check or money order to: Scrap Girls, 4110 SE Hawthorne #753 Portland, OR 97214.
 
-If you do not feel comfortable sending your credit card information to us over the Internet, you still can shop with us. When you are checking out, choose the Print Order Form option. Then send this order form along with your check or money order to: Scrap Girls, 4110 SE Hawthorne #753 Portland, OR 97214
 
-[](http://store.scrapgirls.com/storefront.php)  
-[**Click here to see larger size**](https://web.archive.org/web/20130618101927id_/http%3A//scrapgirls.com/sales/FirstTimeCustomer_600.jpg)
+  
 
-[](http://digital-scrapbooking-elements-review.toptenreviews.com/scrapgirls-review.html)
-
-Scrap Girls has been awarded with the 2012 Gold Award from [Top Ten Reviews](http://digital-scrapbooking-elements-review.toptenreviews.com/scrapgirls-review.html) for having the **Best Digital Scrapbooking Elements Service Available.**
-
-Digital scrapbooking is...
-
-  * Fast.
-  * Creative.
-  * Fun.
-  * And it saves you money.*
-
-
-
-Let Scrap Girls show you how surprisingly simple it can be to become a great digital scrapbooker! 
-
-* Digital supplies are less expensive to purchase and can be used over and over and over again...
-
-[](http://store.scrapgirls.com/product/9316/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop---Download-version)
-
-NEW! Discover your hidden scrapbooking talent today! [MORE Scrapbook Software Secrets Revealed for Photoshop](http://store.scrapgirls.com/product/9316/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop---Download-version) will have you doing the same tricks and knowing the same tips as the professionals! With [MORE Scrapbook Software Secrets Revealed for Photoshop](http://store.scrapgirls.com/product/9316/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop---Download-version), you will be creating your own digital elements and enjoying advanced techniques on your digital scrapbooking layouts in no time!
-
-[](http://store.scrapgirls.com/product/6558/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements---Downloadable-version)
-
-Have a blast doing the more advanced tricks that you see other people and professional digital scrapbookers doing. Learn how with [MORE Scrapbook Software Secrets Revealed for Photoshop Elements](http://store.scrapgirls.com/product/6558/MORE-Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements---Downloadable-version).
-
-[](http://store.scrapgirls.com/product/11266/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements----Downloadable-version)
-
-Learn how easy it is to create digital scrapbooking layouts in PSE 6.0, 7.0, and 8.0 with these easy-to-understand, **newly updated** , tutorial movies in [Scrapbook Software Secrets Revealed for Photoshop Elements 6.0, 7.0, and 8.0](http://store.scrapgirls.com/product/11266/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements----Downloadable-version). 
-
-( **Note:** This version also works for PSE 2.0, 3.0, 4.0, and 5.0. [See the product details page for more information.](http://store.scrapgirls.com/product/11266/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-Elements----Downloadable-version)
-
-[](http://store.scrapgirls.com/product/15905/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-CS4%2C-CS3%2C-CS2%2C-CS---Downloadable-version)
-
-Find out how easy it is to use Photoshop to create digital scrapbooking layouts and edit your photos with the **newly updated** [Scrapbook Software Secrets Revealed for Photoshop (CS4, CS3, CS2, and CS)](http://store.scrapgirls.com/product/15905/Scrapbook-Software-Secrets-Revealed%3A-Photoshop-CS4%2C-CS3%2C-CS2%2C-CS---Downloadable-version).
-
-[](http://store.scrapgirls.com/product/5516/Scrapbook-Software-Secrets-Revealed%3A-Paint-Shop-Pro-%28PSP%29-X---Downloadable-version)
-
-Learn how easy it is to create digital scrapbooking layouts with these easy-to-understand tutorial movies for [Paint Shop Pro X](http://store.scrapgirls.com/product/5516/Scrapbook-Software-Secrets-Revealed%3A-Paint-Shop-Pro-%28PSP%29-X---Downloadable-version). (Can be used for PSP XI, too!)
-
-[](http://store.scrapgirls.com/product/7173/Mastering-Brushes-for-Photoshop-Elements)
-
-This ebook, [Mastering Brushes for Photoshop Elements](http://store.scrapgirls.com/product/7173/Mastering-Brushes-for-Photoshop-Elements), was created from the popular online class **Creative Brushwork**. It is perfect for the scrapbooker who want to go above and beyond basic brushing techniques taught in Scrapbook Software Secrets Revealed for Photoshop Elements. Make your layouts shine with the polish that advanced brushwork can bring! 
-
-[Photoshop version available here.](http://store.scrapgirls.com/product/7172/Mastering-Brushes-for-Photoshop)
-
-[](http://store.scrapgirls.com/product/7004/digital-Photography-Simplified-eBook)
-
-This great eBook will take digital scrapbookers photos to a new layer. Diane Miller's photographs are amazing and her [Photography Simplified eBook](http://store.scrapgirls.com/product/7004/digital-Photography-Simplified-eBook) shows you how you can get fabulous shots, too!
-
-[](http://www.kqzyfj.com/click-1565823-10706084) [](http://www.anrdoezrs.net/click-1565823-10706090)
-
-[](http://www.dpbolvw.net/click-1565823-10480604) [](http://flip-pal-affiliates.com/idevaffiliate/idevaffiliate.php?id=196_0_1_19)
-
-[](http://www.mozy.com/home?ref=3f9a896b&kbid=95684&m=24&i=97)
