@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layeredtech.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608063949id_/http%3A//www.layeredtech.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layeredtech.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020172615id_/http%3A//www.layeredtech.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | Layered Tech
 
