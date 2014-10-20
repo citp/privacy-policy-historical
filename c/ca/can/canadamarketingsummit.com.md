@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadamarketingsummit.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606115835id_/http%3A//canadamarketingsummit.ca/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadamarketingsummit.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020115403id_/http%3A//canadamarketingsummit.ca/terms-privacy) for the most accurate reproduction.*
 
 # Canada Marketing Summit
 
