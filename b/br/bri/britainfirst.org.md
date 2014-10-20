@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165541id_/http%3A//www.britainfirst.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020113859id_/http%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement :: Britain First
-
-**PRIVACY STATEMENT**
+# PRIVACY POLICY |
 
 Britain First is committed to safeguarding the privacy of our website visitors. We believe you have the right to privacy on the web. This policy sets out how we will treat your personal information.
 
@@ -59,7 +57,7 @@ We will take reasonable technical and organisational precautions to prevent the 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. We may also notify you of changes to our privacy policy by email.
 
 8\. Your rights  
-On receipt of proof of identity and a written request you may have a copy of any information that we hold about you. Please e-mail [info@britainfirst.org](mailto:info@britainfirst.org)
+On receipt of proof of identity and a written request you may have a copy of any information that we hold about you. Please e-mail [info@britainfirst.org](mailto:info@britainfirst.org)
 
 We will reply within forty days.
 
@@ -67,10 +65,13 @@ We will reply within forty days.
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
 10\. Updating information  
-Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via [info@britainfirst.org](mailto:info@britainfirst.org)
+Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via [info@britainfirst.org](mailto:info@britainfirst.org)
 
 11\. Unsubscribing  
 You may unsubscribe from Britain First at any time by contacting info@britainfirst.org
 
 12\. Contact  
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email [info@britainfirst.org](mailto:info@britainfirst.org)
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email [info@britainfirst.org](mailto:info@britainfirst.org)
+
+If you like this page, please share it with your friends and family:  
+
