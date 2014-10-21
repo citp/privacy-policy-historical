@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618174525id_/http%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021232201id_/http%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
 
 # NTEN Privacy and Use Policy | NTEN
 
@@ -8,7 +8,7 @@ NTEN has created this Privacy Policy to explain why we collect particular inform
 
 In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. NTEN reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
-Questions regarding this statement should be directed to NTEN by [sending us an email](mailto:holly@nten.org). Please reference this Privacy Policy in your subject line.
+Questions regarding this statement should be directed to NTEN by [sending us an email](mailto:amy@nten.org). Please reference this Privacy Policy in your subject line.
 
 ## Privacy Policy fo **r nten.org**  
 
@@ -35,13 +35,13 @@ Our Site contains links to other Web sites. Please note that when you click on o
 
 **Member Directory:**
 
-NTEN maintains a member directory for the purpose of helping members of our community connect with one another. If you are a current NTEN member, other current NTEN members have access to the complete directory which includes your name, organization, mailing address, phone, fax, and email address. If you do not want to be included in the member directory, you may [email us](mailto:holly@nten.org) and ask to be removed.
+NTEN maintains a member directory for the purpose of helping members of our community connect with one another. If you are a current NTEN member, other current NTEN members have access to the complete directory which includes your name, organization, mailing address, phone, fax, and email address. If you do not want to be included in the member directory, you may [email us](mailto:amy@nten.org) and ask to be removed.
 
 **Conference Privacy:**
 
-Registrants will be included in the list of conference attendees that will be distributed to conference attendees in a hard copy format. The purpose of this list is to encourage networking and individual follow up. This list is not to be used for unsolicited commercial or bulk-email purposes. The information on the list will be limited to name, title, organization, address, phone, fax, email, city, and state. If you wish not to be included in this list, [email us](mailto:holly@nten.org)[](mailto:holly@nten.org).
+Registrants will be included in the list of conference attendees that will be distributed to conference attendees in a hard copy format. The purpose of this list is to encourage networking and individual follow up. This list is not to be used for unsolicited commercial or bulk-email purposes. The information on the list will be limited to name, title, organization, address, phone, fax, email, city, and state. If you wish not to be included in this list, [email us](mailto:amy@nten.org)[](mailto:amy@nten.org).
 
-If you choose to opt-in during registration, your information will also be shared with conference sponsors and/or exhibitors upon request in soft-copy format for a limited, one-time email and one-time snail mailing prior to and after the conference. Please report any violations of this one-time use policy [us](mailto:holly@nten.org).
+If you choose to opt-in during registration, your information will also be shared with conference sponsors and/or exhibitors upon request in soft-copy format for a limited, one-time email and one-time snail mailing prior to and after the conference. Please report any violations of this one-time use policy by emailing [amy@nten.org](mailto:amy@nten.org).
 
 ## Terms of Use for nten.org and my.nten.org
 
@@ -81,9 +81,13 @@ The materials on NTEN's websites are provided "as is". NTEN makes no warranties,
 
 NTEN has not reviewed all of the sites linked to by its websites and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by NTEN of the site. Use of any such linked web site is at the user's own risk.
 
- **5\. Site Terms of Use Modifications**
+ **5\. Job Board**
+
+NTEN maintains a dedicated job board for paid nonprofit technology positions as a paid service. All jobs must be for paid technology-related positions in the nonprofit and social benefit sector. Any off-topic job postings or any jobs posted in the NTEN.org discussion group will be deleted.
+
+ **6\. Site Terms of Use Modifications**
 
 NTEN may revise these terms of use at any time without notice. By using these websites you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
 
 **Contacting NTEN:**  
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can [contact us](mailto:%20holly@nten.org). [](mailto:holly@nten.org)
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can [contact us](mailto:amy@nten.org). [](mailto:amy@nten.org)
