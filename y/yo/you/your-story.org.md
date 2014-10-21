@@ -1,70 +1,29 @@
-> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506180703id_/http%3A//your-story.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022001641id_/http%3A//www.your-story.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Story
 
-Your-Story.org is entirely owned by [24 Hour Trading Ltd](http://24hourtrading.co.uk/), a company registered in England and Wales.
+At _Your Story_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Your Story_ and how it is used.
 
-Your privacy when accessing this, and any other website owned and operated by 24 Hour Trading Ltd is of paramount importance to us.
+**Log Files**
 
-This Privacy Policy document explains what data we collect from web users, and how we use it.
+Like many other Web sites, _Your Story_ makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Information Gathered From Users
+**Cookies and Web Beacons**
 
-We collect two types of information from web users:
+_Your Story_ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  1. Information you provide when signing up for _Your Story_ services, such as your name, email address, company bio and URL.
-  2. Anonymised information is gathered in order to track page views and user interaction (such as visitor source, location, visit length and so on).
+**DoubleClick DART Cookie**
 
-
-
-User information is collected in the following manners:
-
-### Optional User Information
-
-  1. **Press Release Submission** – we offer a number of Press Release submission services. Anything submitted through these methods may be published on the Your-Story.org website for web visitors, and may be available via internet search engines, third party website links and any other means not mentioned herein. Press releases will be published in perpetuity, unless you request deletion, or a Your-Story.org moderator decides to remove the press release from the website at his or her discretion at a later date.
-  2. **Press Release Contacts** – when submitting press releases, users are requested to list public contact details within the body of the release. This information will be available publicly from the point of publication forwards.
+  * Google, as a third party vendor, uses cookies to serve ads on _Your Story_.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to _Your Story_ and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
-### Children
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on _Your Story_ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-We do not knowingly request personal and contact information from persons under the age of 13. Where it is apparent that a person under the age of 13 has submitted a press release or registered a Your-Story.org account, that account will be terminated immediately.
+_Your Story_ has no access to or control over these cookies that are used by third-party advertisers.
 
-### Usage Tracking
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. _Your Story_ ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We track user patterns throughout the Your-Story.org website. We do not correlate this information with data about individual users. We do break down usage based upon various datapoints provided by users’ browser and ISP, using Google Analytics tracking software.
-
-For full information on the data that Google Analytics may collect, please see the following page: <http://www.google.com/intl/en/analytics/privacyoverview.html>
-
-### Cookies
-
-Google Anaytics software users Cookies to track your usage of Your-Story.org. Cookies are small files placed into the files your web browser store on your computer. They do not alter any settings, except storing small itmes of information such as times you accessed Your-Story.org. Data stored in these cookies contains no personal information about you. You may block cookies using your browser privacy settings – this will not impede your usage of Your-Story.org in any way.
-
-### Third Party Advertisements
-
-Your-Story.org derives revenue from the placement of third party advertisements within non-user submitted sections of the website. These advertisements are delivered by Google Adsense. You can read Google’s Privacy Policy here: <http://www.google.com/privacy/ads/>
-
-### Security
-
-Only Your-Story.org site administrators have access to private data submitted by users.
-
-### Opt-Out Policy
-
-You may opt out of submitting any data to Your-Story.org by taking the following steps:
-
-  * Blocking Cookies on your browser;
-  * Not accessing the Your-Story.org website in future;
-  * Closing your Your-Story.org free account (all private data is removed absolutely; no record is kept);
-  * Not registering a Your-Story.org free account.
-
-
-
-### Payment Details
-
-Certain services for Your-Story.org require you to make online payments. **We will not store your payment information**. We will pass on your payment information to a third party payment services provider, PayPal, who will execute the payment on our behalf. Payments should display on your credit or debit card statement as “24HRTRADING” or “PAYPAL*24HRTRADING” depending upon your payment choices.
-
-### Your Consent
-
-By accessing and using Your-Story.org, you are consenting to us using your data in the manner described above. In future, we may amend this Privacy Policy to reflect changes in the operation of the website: please access this page frequently to keep abreast of the latest privacy policies adopted, and to ensure you are happy with the position.
-
-At any time, you may contact us to close your Your-Story.org account, by emailing admin@your-story.org with your account username, registered email address and the words “delete my account” in the subject and body text of your message.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
