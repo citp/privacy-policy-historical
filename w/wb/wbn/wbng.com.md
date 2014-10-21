@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314075415id_/http%3A//www.wbng.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021041204id_/http%3A//www.wbng.com/home/privacy) for the most accurate reproduction.*
 
 # WBNG-TV: News, Sports and Weather Binghamton, New York | Privacy Policy
 
@@ -72,6 +72,10 @@ We will not use, distribute or disclose any child's personal information to thir
 
 WBNG-TV sites may provide links to various websites. When you click on one of these links, you will be transferred from a WBNG-TV website and connected to the website of the organization or company that you selected. Even if an affiliation exists between WBNG-TV, and a third-party website, WBNG-TV exercises no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a website that is linked to a WBNG-TV site, you should consult that site's Privacy Policy before providing those sites with any of your personal information.
 
+**NAI  Opt-Out Link**
+
+<http://www.networkadvertising.org/optout_nonppii.asp>
+
 **Terms, Changes and Questions**
 
 By using a WBNG-TV website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, please do not use or disclose any personal information through one of our sites.
@@ -81,9 +85,9 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to  [wbng@wbngtv.com](mailto:wbng@wbngtv.com) or send a letter to the following address:
 
 > WBNG-TV 12  
-> 560 Columbia Dr.  
-> Johnson City, NY 13790
+>  560 Columbia Dr.  
+>  Johnson City, NY 13790
 > 
 > We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
-Copyright © 2008 WBNG-TV. All rights reserved. 
+Copyright © 2008 WBNG-TV. All rights reserved.
