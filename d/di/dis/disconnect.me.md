@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606062735id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021215511id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+This policy effective June 18, 2014
 
 We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services — referred to as “Services”. Your use of the Services indicates you agree to this policy and [our terms of use](https://web.archive.org/terms). 
 
@@ -21,15 +23,17 @@ As used in this policy, “Personal Info” is data that can identify a particul
 
 ###  1\. Disconnect never collects your Personal Info except to log you in or communicate with you 
 
-Our browser extensions and mobile apps don’t collect any of your Personal Info. Unlike most websites, our site doesn’t collect your IP address. 
+Our browser extensions and mobile apps don’t collect any of your Personal Info. Unlike most websites, our site doesn’t collect your IP address. And we definitely don't collect your geo-location. 
 
-Because we collect no personally identifiable information, there is no need for us to respond to a browser’s Do Not Track settings, although we strongly support a consumer’s right to set such a preference and encourage all website operators to honor this consumer choice. 
+Because we do not collect information about an your online activities over time and across third-party websites or online services, there is no need for us to respond to a browser’s Do Not Track settings, although we strongly support a consumer’s right to set such a preference and encourage all website operators to honor this consumer choice. 
 
 We may request your email address or a username to communicate with you. This info is used only as you’d expect and deleted upon request. 
 
 Optionally, you may choose to provide your email address and communicate with us via email. 
 
 We use MailChimp to manage our newsletter and other email lists. There’s no third-party tracking in messages we send through MailChimp besides MailChimp’s own analytics, which may aggregate how many subscribers open a message or click the links inside. MailChimp’s privacy policy is available at <http://mailchimp.com/legal/privacy>. 
+
+You can unsubscribe from our newsletter by clicking on the unsubscribe link provided at the end of the newsletter. You can also email support@disconnect.me to update your email address, or to request that we delete your email. 
 
 To improve the Services and your experience on our site, we may collect aggregate usage data from the Services and use non-identifying browser cookies to collect aggregate data like your browser type, your operating system, or the links you click to navigate to and from our site. 
 
