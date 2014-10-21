@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antonioli.eu privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528231349id_/http%3A//www.antonioli.eu/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antonioli.eu privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021073446id_/http%3A//www.antonioli.eu/en/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Antonioli.eu
 
@@ -6,7 +6,7 @@
 
 In subscribing for a newsletter you agree that Antonioli srl Via Pasquale Paoli 1, 20143 Milan may provide you information by email about Antonioli.eu website’s news and contents related to its products and promotions.
 
-You can unsubscribe from our mailing list either by written notice to Antonioli srl Via Pasquale Paoli 1, 20143 Milan or by email to mailservice@antonioli.eu or clicking on the unsubscribe link at the bottom of every marketing email and you will be opted out of all email communications.
+You can unsubscribe from our mailing list either by written notice to Antonioli srl Via Pasquale Paoli 1, 20143 Milan or by email to [mailservice@antonioli.eu](mailto:mailservice@antonioli.eu) or clicking on the unsubscribe link at the bottom of every marketing email and you will be opted out of all email communications.
 
 We only collect the following information:
 
@@ -34,11 +34,11 @@ No personally identifiable information is collected about you on this website, a
 
 ## **Contacting Us**
 
-If you have any questions about this Privacy Policy or you wish to make a complaint, please feel free to contact us through our mailservice@antonioli.eu email or write to us at:
+If you have any questions about this Privacy Policy or you wish to make a complaint, please feel free to contact us through our [mailservice@antonioli.eu](mailto:mailservice@antonioli.eu) email or write to us at:
 
 Antonioli srl  
 Via Pasquale Paoli 1  
 20143 Milan  
 Italy  
 Phone number: +39 02 36566494  
-Email: mailservice@antonioli.eu
+Email: [mailservice@antonioli.eu](mailto:mailservice@antonioli.eu)
