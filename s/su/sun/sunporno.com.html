@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunporno.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630083401id_/http%3A//www.sunporno.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunporno.com privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022015510id_/http%3A//www.sunporno.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,13 +12,14 @@
 			
 		<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
 		<link href="http://www.sunporno.com/css/style.css?v=2" rel="stylesheet" type="text/css">
+		<link href="http://www.sunporno.com/css/handheld.css" rel="stylesheet" media="handheld,only screen and (max-device-width:800px)">
 		<link type="text/css" rel="stylesheet" href="http://www.sunporno.com/css/jquery.jscrollpane.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="http://cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=dd037860-648a-4a77-a3e7-a76e4d996fe2" id="infinity" data-guid="dd037860-648a-4a77-a3e7-a76e4d996fe2" data-version="async"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/jquery.customSelect.min.js"></script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/jquery.autocomplete.min.js"></script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/main.js"></script>
-<script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/thumbchange.js"></script>
+<script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/changethumb.js"></script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/jquery.cookie.js"></script>
 
 
@@ -26,6 +27,7 @@
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/jquery.nouislider.js"></script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/jquery.paginator.js"></script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/jquery.mousewheel.js"></script>
+
 
 
 
@@ -105,7 +107,7 @@ $(document).ready(function() {
 	<ul>
 		<li class="ihpone"><a href="http://m.sunporno.com/"><span>Mobile Version</span><b></b></a></li>
 		<li class="upload"><a href="http://www.sunporno.com/uploader/"><span>Upload Video</span><b></b></a></li>
-		<li class="search">		<a id="search-show" onclick=""><span>Search</span><b></b></a></li>
+				<li class="search hide" id="search-show" onclick=""><a><span>Search</span><b></b></a></li>
 			</ul>
 	</div>
 
@@ -140,9 +142,9 @@ $(document).ready(function() {
 
 		<li><a href="http://www.sunporno.com/pics/">Photos</a></li>
 
-<li><a href="http://www.sunporno.com/pornstars">Pornstars</a></li>
+<li><a href="http://www.sunporno.com/pornstars/">Pornstars</a></li>
 		<li class="comsub">
-			<a href="http://www.sunporno.com/community">Community<span></span></a>
+			<a href="http://www.sunporno.com/community/"><b>Community</b><span></span></a>
 			<ul>
 				<li><a href="http://www.sunporno.com/community/members/">Members</a></li>
 			</ul>
@@ -174,32 +176,57 @@ $(document).ready(function() {
 </div>
 </div>
 <!-- HEADER ENDS -->
+<div id="search-container">
+<script type="text/javascript">
+function get_cookie (cookie_name){
 
+	var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+ 
+	if (results){
+		return (unescape (results[2]));
+	} else {
+		return null;
+	}
 
+}
 
+	if (get_cookie ('sunporno_search_hide') == 'hide') {
 
-<div id="search-container" style="display:none;">
+		document.getElementById('search-container').style.display = 'none';
+		document.getElementById('search-show').style.display = 'block';
+	
+	}
+</script>
 <div class="wrap">
 
 
 
     <form class="search" method="get" action="http://www.sunporno.com/" id="search-form">
     
-    <a id="main-btn-search">Search</a>
-
-			<input type="text" name="q" id="query" value="" autocomplete="off">
-		<div class="search-wrap">
-		<div id="search-icon" class=" muvico"></div>
-		<div class="search-styled">
-		<select class="styled" name="content" id="content">
-			<option class="movico" value="Movies" selected="selected"> Movies</option>
-			<option class="picico" value="Pictures"> Pictures</option>
-		</select>
+			<div class="search-text-wrap">
+		<input type="text" name="q" id="query" value="" autocomplete="off">
 		</div>
-		</div>
-
-		<input type="hidden" id="lang" name="lang" value="">
+		<a id="main-btn-search">Search</a>
 		
+		<div class="search-wrap">
+		
+			<div id="search-icon" class=" muvico"></div>
+
+				<div id="search-choose">
+				Videos				</div>
+
+
+				<div class="search-popup" style="display: none;">
+				<ul>
+				<li class="class-choose" id="Movies">Videos</li>
+				<li class="class-choose" id="Pictures">Pictures</li>
+				</ul>
+				</div>
+
+			</div>
+		
+		<input type="hidden" name="content" id="content" value="Movies">
+		<input type="hidden" id="lang" name="lang" value="">
 		<input type="hidden" name="area" value="searchRedirector">
 
     </form>
@@ -208,21 +235,10 @@ $(document).ready(function() {
 <a id="search-close" onclick=""></a>
 </div>
 </div>
-
-
-
-
-
-
-
 	
 <!-- CONTENT STARTS -->
 <div class="hr-20"></div>
 <div class="wrap pages-container">
-
-
-	
-
 
 <b>Privacy Policy</b><br><br>
 
@@ -330,13 +346,10 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
   var sun_ad_category = "";
 </script>
 <script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/sun_ads.js"></script>
-
 <div class="clearfix"></div>
-
 <!-- FOOTER 1ST LINE STARTS -->
 <div class="footer-1st-line">
   <div class="wrap" style="width:1000px;">
-
     <div class="column">
 	<h5>General Info</h5>
 	<ul>
@@ -348,20 +361,17 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
 		<li><a href="http://www.sunporno.com/pages/contacts.html">Contact Us</a></li>
 	</ul>
 	</div>
-
 	<div class="column">
 	<h5>Community</h5>
 	<ul>
 		<li><a href="http://www.sunporno.com/">Home</a></li>
 		<li><a href="http://www.sunporno.com/channels/">Categories</a></li>
 		<li><a href="http://www.sunporno.com/pics/">Photos</a></li>
-		<li><a href="http://www.sunporno.com/community">Community</a></li>
+		<li><a href="http://www.sunporno.com/community/">Community</a></li>
 		<li><a rel="nofollow" href="http://www.sunporno.com/signup/">Sign Up</a></li>
 		<li><a rel="nofollow" href="http://www.sunporno.com/signin/">Sign In</a></li>
 	</ul>
     </div>
-
-
 	<div class="column">
 	<h5>Webmasters</h5>
 	<ul>
@@ -371,8 +381,6 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
 		<li><a href="http://www.sunporno.com/pages/contacts.html">Help and Support</a></li>
 	</ul>
 	</div>
-
-
 	<div class="r-column">
 		<a class="botlogo" href="http://www.sunporno.com/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/logo-bottom.png" alt="sunporno" title="sunporno"></a>
 		<div class="r_options">
@@ -384,37 +392,31 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
 		<div class="clearfix"></div>
 		<p><a rel="nofollow" href="http://www.asacp.org/" target="_new"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/ApprovedASACPmember.gif" border="0" alt="Approved ASACP member"></a></p>
 	</div>
-
-
 	<div class="clearfix"></div>
-
   </div>
 </div>
 <!-- FOOTER 1ST LINE ENDS -->
-
 <!-- FOOTER 2ND LINE STARTS -->
 <div class="footer-2nd-line">
   <div class="wrap" style="width:1000px;">
-
 	Copyright © 2014, SunPorno.com, All rights reserved. All models are 18+ y.o.
-
-
   </div>
 </div>
 <!-- FOOTER 2ND LINE ENDS -->
-
-<script type="text/javascript">
+<script data-cfasync="false" type="text/javascript">
 <!--//<![CDATA[
 if (!/ip(hone|od|ad)/i.test(navigator.userAgent.toLowerCase())) {
-    var url = (location.protocol=='https:'?'https://spots.ah-me.com/sp/delivery/js.php':'http://spots.ah-me.com/sp/delivery/js.php');
-    document.write("<scr"+"ipt type='text/javascript' src='"+ url + "?advplaces=20'><\/scr" + "ipt>");
+	(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
+	(function() {
+	var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+	s.src = "http://cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=dd037860-648a-4a77-a3e7-a76e4d996fe2";
+	s.id = "infinity"; s.setAttribute("data-guid", "dd037860-648a-4a77-a3e7-a76e4d996fe2"); s.setAttribute("data-version", "async");
+	var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
+	})();
 }
-//]]>-->
-</script><script type="text/javascript" src="https://spots.ah-me.com/sp/delivery/js.php?advplaces=20"></script>
-	
+</script>
 
-
-<!--243750-->
-
+<!--442723-->
+<div id="search-suggest-container"><div id="search-suggest-wrapper"><div id="search-suggest"></div></div></div>
 
 </body></html>
