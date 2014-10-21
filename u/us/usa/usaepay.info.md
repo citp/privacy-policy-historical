@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaepay.info privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504234307id_/https%3A//usaepay.info/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaepay.info privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021200916id_/https%3A//usaepay.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USAePay
 
@@ -10,7 +10,7 @@ This Policy does not apply to the practices of companies that USAePay does not o
 
 USAePay has been awarded TRUSTe’s Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements) including transparency, accountability and choice regarding the collection and use of your personally identifiable information.  The TRUSTe program does not cover information that is collected through this Web site, www.usaepay.com.
 
-[](http://privacy.truste.com/privacy-seal/USA-ePay/validation?rid=d9576ce8-7b3b-4c6f-88e1-fabe89c41b36 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/USA-ePay/validation?rid=d9576ce8-7b3b-4c6f-88e1-fabe89c41b36 "TRUSTe online privacy certification")
 
 TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 866-872-3729 or info@usaepay.com.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -52,7 +52,7 @@ It is important for you to protect against unauthorized access to your Login ID/
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personally identifiable information.
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site. The use of cookies by our [partners, affiliates, tracking utility company, service providers] [is/is not] covered by our privacy policy.  We [do/do not] have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID and persistent cookies [to make it easier for you to navigate our Web site, in order for you to use the shopping cart, etc.]
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy.  We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID and persistent cookies to make it easier for you to navigate our Web site, in order for you to use the shopping cart, etc.
 
 **Web beacons**
 
