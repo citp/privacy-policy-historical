@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onemi.in privacy policy that was archived on 2014-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505013344id_/http%3A//www.onemi.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onemi.in privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022013457id_/http%3A//www.onemi.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,6 +49,8 @@
 <script type="text/javascript" src="http://www.onemi.in/js/jquery/jquery.confirm.js"></script>
 <script type="text/javascript" src="http://www.onemi.in/js/multitouch_simple-0.9.2.min.js"></script>
 <script type="text/javascript" src="http://www.onemi.in/js/jsCarousel-2.0.0.js"></script>
+<script type="text/javascript" src="http://www.onemi.in/skin/frontend/default/royalimages/js/eabi_bezoom.js"></script>
+<script type="text/javascript" src="http://www.onemi.in/skin/frontend/default/royalimages/js/jquery.jcarousel.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.onemi.in/skin/frontend/default/royalimages/css/styles-ie.css" media="all" />
 <![endif]-->
@@ -75,7 +77,7 @@ Mage.Cookies.domain   = '.www.onemi.in';
 		  });
 		}
 		jQuery(document).ready(function() {
-		  updateCount ();
+		  //updateCount ();
                   jQuery('#max_price').keypress(function (e) {
                     if (e.which == 13) {
                      shopbyBudget();   
@@ -237,7 +239,9 @@ document.observe('click', function(e){
 </script>
 <!-- END Inchoo Facebook Connect -->
 <div class="wrapper">
-        <noscript>
+    <div class="full-width-container"></div>
+    <div class="container-1">
+            <noscript>
         <div class="global-site-notice noscript">
             <div class="notice-inner">
                 <p>
@@ -246,12 +250,7 @@ document.observe('click', function(e){
             </div>
         </div>
     </noscript>
-	            <script type="text/javascript">
-                    if( /iPhone|iPod|BlackBerry|Palm|Googlebot-Mobile|Mobile|mobile|mobi|Windows Mobile|Safari Mobile|Android|Opera Mini/i.test(navigator.userAgent) ) {
-                            window.location = "http://www.onemi.in/onemimobile/";
-                    }
-            </script>
-    <script type="text/javascript">
+	<script type="text/javascript">
   multitouch();
 </script>
 <style type="text/css">
@@ -262,19 +261,15 @@ document.observe('click', function(e){
 <div class="header-container">
 	<!--<div class="container"><p class="welcome-msg">Welcome to our online store! </p></div>-->
     <div class="header">
-				<a href="http://www.onemi.in/" title=" Online Shopping India | onemi.in" class="logo"><strong>Onemi.in: Online Shopping India</strong><img src="http://www.onemi.in/skin/frontend/default/royalimages/images/Onemi-logo.jpg" alt="Onemi.in: Online Shopping India"></a>
-		        <div style="float:right;" id="block_cart_container">
-		<div class="block-cart-header">
-    	<h3>My Cart</h3>
-    <div class="block-content">
-                        <p class="empty"><a href="http://www.onemi.in/checkout/cart/"><strong>0</strong> (items)</a></p>
-        </div>
-</div>
-        </div>
+				<h1 class="logo"><strong>Onemi.in: Online Shopping India</strong><a href="http://www.onemi.in/" title=" Online Shopping India | onemi.in" class="logo"><strong>Onemi.in: Online Shopping India</strong><img src="http://www.onemi.in/skin/frontend/default/royalimages/images/onemi-logo.png" alt="Onemi.in: Online Shopping India"></a></h1>
+		                <img src="http://www.onemi.in/skin/frontend/default/royalimages/images/indias-leading-emi.png" width="172" height="36" alt="India's Leading EMI" class="Leading_EMI">
+       
 		<div class="f-right">
 						 
 			<div class="clear"></div>
-            <a href="http://www.onemi.in/ordertracker.php" title="Track Your Order" style="color: rgb(204, 204, 204); float: left; margin: 8px 0px 0px; text-decoration: none;">Track Order</a>
+                        <img id="call-to-order" style="float:left; margin: 10px 15px 0 0;" width="242" height="30" alt="Call To Order" src="http://www.onemi.in/skin/frontend/default/royalimages/images/call-to-order.jpg">
+                        <img id="call-to-order-bajaj-finserv" style="float:left; margin: 10px 15px 0 0; display: none;" width="242" height="30" alt="Call To Order" src="http://www.onemi.in/skin/frontend/default/royalimages/images/call-to-order-bajaj-finserv.jpg">
+            <a href="http://www.onemi.in/ordertracker.php" title="Track Your Order" style="color: #454545; float: left; margin:17px 0 0 10px; text-decoration: none;">Track Order</a>
 			<ul class="links">
                         <li class="first"><a href="http://www.onemi.in/customer/account/login/" title="Log In">Log In</a></li>
                                 <li class=" last"><a href="http://www.onemi.in/facebook/customer_account/connect/" title="Facebook Connect" rel="facebook-connect">Login with Facebook</a></li>
@@ -282,9 +277,6 @@ document.observe('click', function(e){
             <div class="clear"></div>
            
 		</div>
-                <div style="float: left; margin: 17px 0px 0px 374px;">
-                    <img width="429" height="45" src="http://www.onemi.in/skin/frontend/default/royalimages/images/emi_for_non-credit_card_holders.jpg">
-                </div>
 		
          <form id="search_mini_form" action="http://www.onemi.in/catalogsearch/result/" method="get">
     <div class="form-search">
@@ -321,9 +313,19 @@ function searchProducts(str) {
 			if (xmlhttp.readyState==4 && xmlhttp.status==200) {
 				if(xmlhttp.responseText==="<ul id='ajaxsearch'><ul>")
 				{
-					document.getElementById("results").innerHTML="<span style='padding:15px 10px; float:left;'>No Matches Found...</span>";
+					//document.getElementById("results").innerHTML="<span style='padding:15px 10px; float:left;'>No Matches Found...</span>";
+                                       /* document.getElementById("results").innerHTML='<span style="padding:15px 10px; float:left;">No Matches Found...</span><br clear="all">\n\
+                                    <span style="padding:5px 10px 10px; float:left; border-top:1px solid #d5d5d5;">Didn’t find what you were looking for? Let us know your Requirement. We will get back.</span>\n\
+                                    <form action="http://www.onemi.in/onemi_notfound/notfound/save/" method="post" id="notfound_submit">\n\
+                                    <label style="float: left;margin: 10px 12px;display:block;">Name:</label><input  class="input-box required-entry" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;" type="text" name="notfound[customer_name]" value="" /><label style="float: left;margin: 10px 12px;display:block;">Email:</label><input class="input-box required-entry validate-email" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;" type="text" name="notfound[customer_email]" value="" /><br clear="all" />\n\
+                                    <label style="float: left;margin: 10px 12px;display:block;">Phone:</label><input class="input-box required-entry" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;" type="text" name="notfound[customer_mobile]" value="" /><label style="float: left;margin: 10px 0 10px 10px;display:block;">Product:</label><input class="input-box required-entry" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;" type="text" name="notfound[product_searched]" value="" />\n\
+                                    <input type="submit" name="submit" value="submit" /></form>';*/
+                                    //document.getElementById("results").innerHTML="<span style='padding:15px 10px; float:left;'>No Matches Found...</span>";
+                                    jQuery('#nomatch_form').show();                        
+                                    jQuery("#results").fadeOut('slow');    
 				}
 				else{
+                                        jQuery('#nomatch_form').hide();
 					document.getElementById("results").innerHTML=xmlhttp.responseText;
 				}
 			}
@@ -342,20 +344,71 @@ function searchProducts(str) {
 function searchClose()
 {
 	jQuery("#results").fadeOut('slow');
+        jQuery('#nomatch_form').hide();
 	jQuery("#results").html('');
 	jQuery("#searchproducts").val('');
 	document.getElementById("search_close").style.display='none';
 	
 }
 </script>
-<!--img style="display:none;" id="search_close" onclick="searchClose()" width="10" height="10" src="http://www.onemi.in/skin/frontend/default/royalimages/images/search-close.png" /-->
+<!--img style="display:none;" id="search_close" onclick="searchClose()" width="10" height="10" src="http://www.onemi.in/skin/frontend/default/royalimages/images/search-close.png" -->
 <span class="search-box-close" style="display:none;" id="search_close" onclick="searchClose()">&nbsp;</span>
 <div id="results" class="ajaxsearch_container"></div>
 
+
     </div>
 </form>
- 
-         <div class="most_popular_search" style="float:right;clear:right;">Popular Searches: <a href="http://www.onemi.in/catalogsearch/result/?q=Xperia" style="margin-left:10px;">Xperia</a><a href="http://www.onemi.in/catalogsearch/result/?q=samsung" style="margin-left:10px;">samsung</a><a href="http://www.onemi.in/catalogsearch/result/?q=Tablet" style="margin-left:10px;">Tablets</a><a href="http://www.onemi.in/digital-cameras.html" style="margin-left:10px;">camera</a><a href="http://www.onemi.in/catalogsearch/result/?q=Induction+cooktop" style="margin-left:10px;">Induction cooktop</a><a href="http://www.onemi.in/catalogsearch/result/?q=Grooming+Kit" style="margin-left:10px;">Grooming Kit</a><a href="http://www.onemi.in/catalogsearch/result/?q=Card+Guard" style="margin-left:10px;">Card Guard</a><a href="http://www.onemi.in/catalogsearch/result/?q=Vaccum+Cleaner" style="margin-left:10px;">Vaccum Cleaner</a></div>            </div>
+<div style="background: 0px 0px rgb(255, 255, 255); margin: 85px 0px 0px 491px; border-radius: 3px; border: 1px solid rgb(153, 153, 153); width: 399px; display: none; position: absolute; z-index: 100000; box-shadow: 0px 0px 5px #333333;" id="nomatch_form">
+    <span style="padding:15px 10px; float:left;">No Matches Found...</span><br clear="all">
+    <form action="http://www.onemi.in/onemi_notfound/notfound/save/" method="post" id="notfound_submit">
+    <span style="padding:5px 10px 10px; float:left; border-top:1px solid #d5d5d5;">Didn't find what you were looking for? Let us know your Requirement. We will get back.</span>
+
+    <label style="float: left;margin: 10px 12px;display:block;">Name:</label>
+    <input class="input-box required-entry" type="text" value="" name="notfound[customer_name]" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;">
+    <label style="float: left;margin: 10px 12px;display:block;">Email:</label>
+    <input class="input-box required-entry validate-email" type="text" value="" name="notfound[customer_email]" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;">
+    <br clear="all">
+    <label style="float: left;margin: 10px 12px;display:block;">Phone:</label>
+    <input class="input-box required-entry" type="text" value="" name="notfound[customer_mobile]" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;" maxlength="10">
+    <label style="float: left;margin: 10px 0 10px 10px;display:block;">Product:</label>
+    <input class="input-box required-entry" type="text" value="" name="notfound[product_searched]" style="border: 1px solid #D5D5D5;float: left;padding: 4px;width: 120px;">
+    <input type="submit" value="Submit" style="cursor: pointer; border: 1px solid rgb(151, 5, 5); border-radius: 2px; color: rgb(243, 243, 243); font-size: 12px; padding: 1px 0px; font-weight: bold; width: 130px; margin: 6px 0px 10px 130px; background: none repeat scroll 0px 0px rgb(12, 147, 68);">
+    </form>
+</div>
+<script type="text/javascript">
+	//<![CDATA[
+	var notfound_submit = new VarienForm('notfound_submit');
+	//]]>
+</script>
+<script type="text/javascript">
+	jQuery('#notfound_submit').submit(function(evt){
+		evt.preventDefault();
+		if(window[jQuery(this).attr('id')].validator.validate()){
+			jQuery('#searchform_overlay').show();
+			jQuery.ajax({
+					url: jQuery(this).attr('action'),
+					type: "post",
+					data: jQuery(this).serialize(),
+				}).done(function(response){
+					jQuery('#searchform_overlay').hide();
+					jQuery('#notfound_submit input:text').each(function(index) {
+						jQuery(this).val('');
+					});
+					alert(response);
+                                        searchClose();
+				});
+		}				
+	});
+</script> 
+                 <div style="float:right;" id="block_cart_container">
+		<div class="block-cart-header">
+    	<h3><img width="23" height="19" border="0" src="http://www.onemi.in/skin/frontend/default/royalimages/images/cart.png"></h3>
+    <div class="block-content">
+                        <p class="empty"><a href="http://www.onemi.in/checkout/cart/"><strong>0</strong> (items)</a></p>
+        </div>
+</div>
+        </div>
+                     </div>
     <div class="nav-container">
     <ul id="topnav" class="links">
         <li class="level0 nav-1 level-top first parent">
@@ -428,7 +481,7 @@ function searchClose()
 <span>Speakers</span>
 </a>
 </li><li class="level2 nav-1-3-12 last">
-<a href="http://www.onemi.in/mobiles/mobile-accessories/ipad-accessories-72.html">
+<a href="http://www.onemi.in/mobiles/mobile-accessories/ipad-accessories-83.html">
 <span>iPad Accessories</span>
 </a>
 </li>
@@ -480,7 +533,7 @@ function searchClose()
 </ul>
 </li><li class="level0 nav-2 level-top parent">
 <a href="http://www.onemi.in/digital-cameras.html" class="level-top">
-<span>Digital Cameras</span>
+<span>Cameras</span>
 </a>
 <ul class="level0">
 <span class="menu_back"></span>
@@ -831,28 +884,32 @@ function searchClose()
 <a href="http://www.onemi.in/lifestyle/perfumes.html">
 <span>Perfumes</span>
 </a>
-</li><li class="level1 nav-5-6 last parent">
+</li><li class="level1 nav-5-6">
+<a href="http://www.onemi.in/lifestyle/clothing.html">
+<span>Clothing</span>
+</a>
+</li><li class="level1 nav-5-7 last parent">
 <a href="http://www.onemi.in/lifestyle/featured-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-5-6-6 first">
+<li class="level2 nav-5-7-6 first">
 <a href="http://www.onemi.in/lifestyle/featured-brands/casio.html">
 <span>Casio</span>
 </a>
-</li><li class="level2 nav-5-6-7">
+</li><li class="level2 nav-5-7-7">
 <a href="http://www.onemi.in/lifestyle/featured-brands/citizen.html">
 <span>Citizen</span>
 </a>
-</li><li class="level2 nav-5-6-8">
+</li><li class="level2 nav-5-7-8">
 <a href="http://www.onemi.in/lifestyle/featured-brands/titan.html">
 <span>Titan</span>
 </a>
-</li><li class="level2 nav-5-6-9">
+</li><li class="level2 nav-5-7-9">
 <a href="http://www.onemi.in/lifestyle/featured-brands/reebok.html">
 <span>Reebok</span>
 </a>
-</li><li class="level2 nav-5-6-10 last">
+</li><li class="level2 nav-5-7-10 last">
 <a href="http://www.onemi.in/lifestyle/featured-brands/fastrack.html">
 <span>Fastrack</span>
 </a>
@@ -1078,17 +1135,9 @@ function searchClose()
 <a href="http://www.onemi.in/travel/feature-brands/american-tourister.html">
 <span>American Tourister</span>
 </a>
-</li><li class="level2 nav-7-9-3">
-<a href="http://www.onemi.in/travel/feature-brands/holi.html">
-<span>Holii</span>
-</a>
-</li><li class="level2 nav-7-9-4">
+</li><li class="level2 nav-7-9-3 last">
 <a href="http://www.onemi.in/travel/feature-brands/fastrack.html">
 <span>Fastrack</span>
-</a>
-</li><li class="level2 nav-7-9-5 last">
-<a href="http://www.onemi.in/travel/feature-brands/wildcraft.html">
-<span>Wildcraft</span>
 </a>
 </li>
 </ul>
@@ -1221,8 +1270,8 @@ function searchClose()
 <span>Jewellery</span>
 </a>
 </li><li class="level1 nav-9-3">
-<a href="http://www.onemi.in/gifts/books.html">
-<span>Books</span>
+<a href="http://www.onemi.in/gifts/gift-voucher-13.html">
+<span>Gift Voucher</span>
 </a>
 </li><li class="level1 nav-9-4">
 <a href="http://www.onemi.in/gifts/education.html">
@@ -1244,7 +1293,7 @@ function searchClose()
 <a href="http://www.onemi.in/gifts/pens.html">
 <span>Pens</span>
 </a>
-</li><li class="level1 nav-9-9 last parent">
+</li><li class="level1 nav-9-9 parent">
 <a href="http://www.onemi.in/gifts/feature-brands.html">
 <span>Featured Brands</span>
 </a>
@@ -1259,11 +1308,15 @@ function searchClose()
 </a>
 </li>
 </ul>
+</li><li class="level1 nav-9-10 last">
+<a href="http://www.onemi.in/gifts/idols.html">
+<span>Idols</span>
+</a>
 </li>
 </ul>
 </li><li class="level0 nav-10 level-top">
-<a href="http://www.onemi.in/gift-voucher.html" class="level-top">
-<span>Gift Voucher</span>
+<a href="http://www.onemi.in/books.html" class="level-top">
+<span>Books &amp; Magazines</span>
 </a>
 </li><li class="level0 nav-11 level-top last">
 <a href="http://www.onemi.in/deals.html" class="level-top">
@@ -1279,7 +1332,7 @@ function searchClose()
 	</div> -->
 </div>
         <div class="main-container col1-layout">
-			<div class="breadcrumbs">
+            <div class="breadcrumbs">
     <ul>
                     <li class="home">
                             <a href="http://www.onemi.in/" title="Go to Home Page">Home</a>
@@ -1290,9 +1343,9 @@ function searchClose()
                                     </li>
             </ul>
 </div>
-			<div class="main">
-				<div class="col-main">
-										<div class="std"><div class="page-title">
+            <div class="main">
+                    <div class="col-main">
+                                                        <div class="std"><div class="page-title">
     <h1>PRIVACY POLICY</h1>
 </div>
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Royal Images Catalogue Company. The following discloses our Privacy Policy.<br><br>
@@ -1368,57 +1421,43 @@ Alsa Regency, <br>
 165 Eldams Road Alwarpet, <br>
 Chennai - 600018 Tamilnadu, <br>
 India. Tel:+91 (44) 2836 0151.<br>
-Email:cservice@onemi.co.in<br></div>				</div>
-			</div>
+Email:cservice@onemi.co.in<br></div>                    </div>
+            </div>
         </div>
-	<div class="footer-container">
+    </div>
+    <div class="full-width-line"></div>
+    <div class="footer-container container-1">
 		<div class="footer">
-        	<div class="emi_banks_container">
-        	<!--<h3>EASY EMI ON</h3>-->
-                        <img src="http://www.onemi.in/skin/frontend/default/royalimages/images/bank-logos-and-cards.png" height="75" width="978" alt="Available Payment Methods &amp; Available EMI Options">
-                        </div>
-            <div class="clear" style="height:30px;"></div>
+        	<div class="clear" style="height:10px;"></div>
 			<div class="left-corner">
 				<div class="right-corner">
 					<div class="container">
                     	<div class="col-2">
 							<div class="container">
+ 
+
 	<div class="sub-col-1">
 		<ul class="footer-list">
 			<li><a href="http://www.onemi.in/about-us/">About Us</a></li>
                            <li><a href="http://www.onemi.in/contacts/">Contact Us</a></li>
                         <li><a href="http://www.onemi.in/terms-and-conditions/">Terms and Conditions</a></li>
                         <li><a href="http://www.onemi.in/privacy-policy/">Privacy Policy</a></li>
-                        <li><a href="http://www.onemi.in/onemimobile/">View Mobile Site</a></li>
+                        <li><a href="http://www.onemi.in/onemimobile/">View Mobile SIte</a></li>
 		</ul>
 	</div>
 	<div class="sub-col-2">
 		<ul class="footer-list">
-			            <li><a href="http://www.onemi.in/customer/account/login/">Sign In</a></li>
+			<li><a href="http://www.onemi.in/customer/account/login/">Sign In</a></li>
                         <li><a href="http://www.onemi.in/checkout/cart/">View Cart</a></li>
                         <li><a href="http://www.onemi.in/ordertracker.php/">Track Your Order</a></li>
                        <li><a href="http://www.onemi.in/shipping-and-returns/">Shipping &amp; Returns</a></li>
-                      <li><a href="http://www.onemi.in/catalogrequest/">Request a Catalogue</a></li>
+                      <li><a href="http://www.onemi.in/catalogrequest//">Request a Catalogue</a></li>
                       <li><a href="http://www.onemi.in/cancellation-policy">Cancellation Policy</a></li>
                       <li><a href="http://www.onemi.in/return-policy">Return Policy</a></li>
 		</ul>
 	</div>
-	<div class="sub-col-3">
-		<div class="social-links">
-	               <a href="https://twitter.com/Royalimages_in" target="_blank">
-                   	<span class="twitter"></span>
-                   </a>
-	              <a href="http://www.facebook.com/royalimages.in" target="_blank">
-                  	<span class="facebook"></span>
-                  </a>
-                  <a href="http://www.emibazaar.in" target="_blank">
-                  	<span class="blogger"></span>
-                  </a>
-                </div>
-	</div>
-</div>                        </div>
-						<div class="col-1">
-							<div class="block block-subscribe">
+        	<div class="sub-col-3">
+   		<div class="block block-subscribe">
     <div class="block-title">
         <strong><span>Newsletter</span></strong>
     </div>
@@ -1428,7 +1467,7 @@ Email:cservice@onemi.co.in<br></div>				</div>
                 <label for="newsletter">Sign Up for Our Newsletter:</label>
             </div>
             <div class="input-box">
-               <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+               <input type="text" name="email" id="newsletter" value="Enter Your Email ID" onfocus="javascript:if(this.value=='Enter Your Email ID'){this.value='';}" onblur="javascript:if(this.value==''){this.value='Enter Your Email ID';}" title="Sign up for our newsletter" class="input-text required-entry validate-email">
             </div>
             <div class="actions">
                 <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
@@ -1441,16 +1480,63 @@ Email:cservice@onemi.co.in<br></div>				</div>
     //]]>
     </script>
 </div>
+		<div class="social-links">
+        	<h1>Get social with us</h1>
+	              <a href="https://www.facebook.com/Onemi.in" target="_blank"><img alt="" src="http://www.onemi.in/skin/frontend/default/royalimages/images/icons/facebook.png"></a>
+                      <a href="https://twitter.com/ONEMI_in" target="_blank"><img alt="" src="http://www.onemi.in/skin/frontend/default/royalimages/images/icons/twitter.png"></a>
+                      <a href="http://www.emibazaar.in" target="_blank"><img alt="" src="http://www.onemi.in/skin/frontend/default/royalimages/images/icons/blogger.png"></a>
+                </div>
+	</div>
+</div>                        </div>
+						<div class="col-1">
+                                                     
+                        	<img src="http://www.onemi.in/skin/frontend/default/royalimages/images/bank-partners.png" width="374" height="189">
+                                    					</div>
+    
+</div>
 													</div>
 					</div>
-																			</div>
+                </div>
+</div>
+<div class="full-width-line"></div>
+<div class="footer-container container-1">
+		<div class="footer">
+                <div style="font:11px Arial;">
+                                                    <p style="line-height:20px; color:#000; margin-top:15px"><span style="text-decoration: underline;"><strong>Top Stores:</strong></span></p>
+<p class="top-stores">
+	<strong><a href="http://www.onemi.in/mobiles/mobiles.html" style="text-decoration:none; color:#000">Mobiles</a>:</strong> <a href="http://www.onemi.in/mobiles/mobiles/smartphones.html" style="text-decoration:none">Smartphones</a> | <a href="http://www.onemi.in/mobiles/tablets/android.html" style="text-decoration:none">Android Mobiles</a> | <a href="http://www.onemi.in/ipad" style="text-decoration:none">iPad</a> | <a href="http://www.onemi.in/mobiles/tablets.html">Tablets</a> | <a href="http://www.onemi.in/mobiles/mobile-accessories.html">Mobile Accessories</a>, <a href="http://www.onemi.in/mobiles/featured-mobiles.html">Phone Brands</a> -  <a href="http://www.onemi.in/mobiles/featured-mobiles/samsung.html">Samsung Mobile</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/nokia.html">Nokia</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/apple.html">Apple</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/sony.html">Sony</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/htc.html">HTC</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/lg.html">LG</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/blackberry.html">Blackberry</a> | <a href="http://www.onemi.in/mobiles/featured-mobiles/hcl.html">HCL Mobiles</a></p>
+    
+<p class="top-stores"><strong><a href="http://www.onemi.in/digital-cameras.html">Cameras:</a></strong> <a href="http://www.onemi.in/digital-cameras/point-and-shoot.html">Point &amp; Shoot</a> | <a href="http://www.onemi.in/digital-cameras/slr.html">SLR</a> | <a href="http://www.onemi.in/digital-cameras/camcorders.html">Camcorders</a> | <a href="http://www.onemi.in/digital-cameras/binoculars.html">Binoculars</a>, <a href="http://www.onemi.in/digital-cameras/feature-brands.html">Digital Camera Brands</a> – <a href="http://www.onemi.in/digital-cameras/feature-brands/nikon.html">Nikon Camera</a> | <a href="http://www.onemi.in/digital-cameras/feature-brands/canon.html">Canon Camera</a> | <a href="http://www.onemi.in/digital-cameras/feature-brands/sony.html">Sony Camera</a> | <a href="http://www.onemi.in/digital-cameras/feature-brands/olympus.html">Olympus</a> | <a href="http://www.onemi.in/digital-cameras/feature-brands/samsung.html">Samsung</a> | <a href="http://www.onemi.in/digital-cameras/feature-brands/panasonic.html">Panasonic</a> | <a href="http://www.onemi.in/digital-cameras/feature-brands/fujifilm.html">Fujifilm Camera</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/computers.html">Computers</a>:</strong> <a href="http://www.onemi.in/computers/laptops.html">Laptops</a> | <a href="http://www.onemi.in/ipad">Ipad</a> | <a href="http://www.onemi.in/computers/storage.html">Disk &amp; Drive</a> | <a href="http://www.onemi.in/computers/printers-scanners.html">Printers &amp; Scanners</a> | <a href="http://www.onemi.in/computers/accessories.html">Computer Accessories</a>, <a href="http://www.onemi.in/computers/feature-brands.html">Laptop Brands</a> – <a href="http://www.onemi.in/computers/feature-brands/acer.html">Acer Laptop</a> | <a href="http://www.onemi.in/computers/feature-brands/hp.html">HP Laptop</a> | <a href="http://www.onemi.in/computers/feature-brands/hcl.html">HCL</a> | <a href="http://www.onemi.in/computers/feature-brands/lenovo.html">Lenovo Laptop</a> | <a href="http://www.onemi.in/computers/feature-brands/sony.html">Sony Laptop</a> | <a href="http://www.onemi.in/computers/feature-brands/toshiba.html">Toshiba Laptops</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/electronics.html">Electronics</a>:</strong> <a href="http://www.onemi.in/electronics/tv.html">TV</a> | <a href="http://www.onemi.in/electronics/home-video.html">Video</a> <a href="http://www.onemi.in/electronics/ipods-mp3-players.html">Player</a> | <a href="http://www.onemi.in/electronics/home-audio/speakers.html">Speakers</a> | <a href="http://www.onemi.in/electronics/electronic-accessories.html">Electronic accessories</a>, <a href="http://www.onemi.in/electronics/feature-brands.html">Electronic Brands</a> – <a href="http://www.onemi.in/electronics/feature-brands/sony.html">Sony TV</a> | <a href="http://www.onemi.in/electronics/feature-brands/philips.html">Philips</a> | <a href="http://www.onemi.in/electronics/feature-brands/apple.html">Apple ipods</a> | <a href="http://www.onemi.in/electronics/feature-brands/jbl.html">JBL</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/lifestyle.html">Lifestyle</a>:</strong> <a href="http://www.onemi.in/lifestyle/watches.html">Watches</a> | <a href="http://www.onemi.in/lifestyle/watches/men.html">Men’s Watch</a> | <a href="http://www.onemi.in/lifestyle/watches/women.html">Women’s Watch</a> | <a href="http://www.onemi.in/lifestyle/sunglasses.html">Sunglasses</a> | <a href="http://www.onemi.in/lifestyle/hand-bags.html">Hand Bags</a> | <a href="http://www.onemi.in/lifestyle/wallets.html">Wallets</a> | <a href="http://www.onemi.in/health/perfumes.html">Perfumes</a>, <a href="http://www.onemi.in/lifestyle/featured-brands.html">Brands</a> – <a href="http://www.onemi.in/lifestyle/featured-brands/casio.html">Casio Watch</a> | <a href="http://www.onemi.in/lifestyle/featured-brands/citizen.html">Citizen</a> | <a href="http://www.onemi.in/lifestyle/featured-brands/titan.html">Titan</a> | <a href="http://www.onemi.in/lifestyle/sunglasses.html">Reebok Sunglasses</a> | <a href="http://www.onemi.in/lifestyle/featured-brands/fastrack.html">Fastrack Watches</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/home-appliances.html">Home Appliances</a>:</strong> <a href="http://www.onemi.in/home-appliances/large-appliances/air-conditioners.html">AC</a> | <a href="http://www.onemi.in/home-appliances/large-appliances/washing-machines.html">Refrigerators</a> | <a href="http://www.onemi.in/home-appliances/large-appliances/washing-machines.html">Washing Machines</a> | <a href="http://www.onemi.in/home-appliances/utilities.html">Home Utilities</a> | <a href="http://www.onemi.in/home-appliances/kitchen-appliances.html">Kitchen Appliances</a> | <a href="http://www.onemi.in/home-appliances/feature-brands.html">Brands</a> – <a href="http://www.onemi.in/home-appliances/feature-brands/philips.html">Philips</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/morphy-richards.html">Morphy Richards</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/oster.html">Oster</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/bajaj.html">Bajaj</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/skil.html">Skil</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/bosch.html">Bosch</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/zain.html">Zain</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/havells.html">Havells</a> | <a href="http://www.onemi.in/home-appliances/feature-brands/usha.html">USHA</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/travel.html">Travel</a>:</strong> <a href="http://www.onemi.in/travel/luggage.html">Luggage</a> | <a href="http://www.onemi.in/travel/laptop-bags.html">Laptop Bags</a> | <a href="http://www.onemi.in/travel/backpack.html">Back Pack</a> | <a href="http://www.onemi.in/travel/hand-bags.html">Hand Bags</a> | <a href="http://www.onemi.in/travel/jewelry-cases.html">Jewelry Cases</a> | <a href="http://www.onemi.in/travel/wallets.html">Wallets</a> | <a href="http://www.onemi.in/travel/toilet-cases.html">Toilet Cases</a> | <a href="http://www.onemi.in/travel/accessories.html">Accessories</a>, <a href="http://www.onemi.in/travel/feature-brands.html">Brands</a> – <a href="http://www.onemi.in/travel/feature-brands/american-tourister.html">American Tourister</a> | <a href="http://www.onemi.in/travel/feature-brands/holi.html">Holii</a> | <a href="http://www.onemi.in/travel/feature-brands/fastrack.html">Fastrack</a> | <a href="http://www.onemi.in/travel/feature-brands/wildcraft.html">Wildcraft Bags</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/health.html">Health &amp; Beauty</a>:</strong> <a href="http://www.onemi.in/health/personal-care-grooming/man-grooming.html">Men’s Grooming</a> | <a href="http://www.onemi.in/health/personal-care-grooming/woman-grooming.html">Women’s Grooming</a> | <a href="http://www.onemi.in/health/health-care.html">Health Care</a> | <a href="http://www.onemi.in/health/fitness.html">Fitness Equipment</a> | <a href="http://www.onemi.in/health/perfumes.html">Perfumes</a>, <a href="http://www.onemi.in/health/feature-brands.html">Brands</a> – <a href="http://www.onemi.in/health/feature-brands/philips.html">Philips</a> | <a href="http://www.onemi.in/health/feature-brands/panasonic.html">Panasonic</a> | <a href="http://www.onemi.in/health/feature-brands/dr-morepen.html">Dr.Morepen</a> | <a href="http://www.onemi.in/health/feature-brands/braun.html">Braun</a> | <a href="http://www.onemi.in/health/feature-brands/4sure.html">4Sure</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/gifts.html">Toys &amp; Gifts</a>:</strong> <a href="http://www.onemi.in/gifts/toys/kids-electronics.html">Kids Electronic Toys</a> | <a href="http://www.onemi.in/gifts/jewellery.html">Jewellery</a> | <a href="http://www.onemi.in/gifts/gift-voucher-2.html">Gift Voucher</a> | <a href="http://www.onemi.in/gifts/education.html">Education</a> | <a href="http://www.onemi.in/gifts/utility.html">Utility</a> | <a href="http://www.onemi.in/gifts/home-decor.html">Home Decor</a> | <a href="http://www.onemi.in/gifts/unique.html">Unique Products</a> | <a href="http://www.onemi.in/gifts/pens.html">Pens</a>, <a href="http://www.onemi.in/gifts/feature-brands.html">Brands</a> – <a href="http://www.onemi.in/gifts/feature-brands/barbie.html">Barbie</a>, <a href="http://www.onemi.in/gifts/feature-brands/jpearls.html">JPearls</a></p>
+
+<p class="top-stores"><strong><a href="http://www.onemi.in/books.html">Books &amp; Magazines</a></strong>, <strong><a href="http://www.onemi.in/deals.html">Sales</a></strong></p>	
+ </div>
+</div>
+</div>
+<div class="full-width-line"></div>
+<div class="footer-container container-1">
+		<div class="footer">
+<p style="padding-top:20px;">© 2014 ONEMI.IN. ALL RIGHTS RESERVED.
+    </p>
+                </div>
+
+<div style="padding-top:20px; text-align:center;"><img src="http://www.onemi.in/skin/frontend/default/royalimages/images/onemi-logo-bottom.png" width="84" height="35"><br><br><p align="center">Copyright © 2014 onemi.in. All rights reserved</p></div>
+
+		</div>
 			</div>
-	   </div>
-       
-      
-       <!--div id="order_counter"></div>-->
-	   <address>© <script type="text/javascript">var mdate = new Date(); document.write(mdate.getFullYear());</script>2020 Onemi.in. All Rights Reserved.</address>
-       </div>
 <!-- PadiAct Code -->
 <script type="text/javascript">
 (function() {
@@ -1485,7 +1571,7 @@ var google_remarketing_only = true;
 </div>
 </noscript>
     </div>
-</div>
+
 <!-- Google Code for All Visitors Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
