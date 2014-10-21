@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designsbysick.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232358id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsbysick.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021061634id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.*
 
-# Designsbysick.com Embroidery Library
+# Designsbysick.com Privacy Policy
 
 **What information do we collect?**
 
@@ -99,14 +99,15 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+#### This website uses Google AdWords
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the designsbysick.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 Respectfully, 
 
 Shawn Knight President  
-http://www.designsbysick.com
-
-Website and Embroidery Designs Copyright (C) Shawn Knight Systems Inc.  
-Permission granted to use machine embroidery designs for your own commercial and personal embroidery.  
-Permission denied to resell or give away machine embroidery designs in electronic format.  
-
+http://www.designsbysick.com 
