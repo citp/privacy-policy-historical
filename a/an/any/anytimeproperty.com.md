@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911150741id_/http%3A//www.anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021230723id_/http%3A//www.anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
 
 # Indian Real Estate Property India Property Sites Properties India-Anytimeproperty.com
 
