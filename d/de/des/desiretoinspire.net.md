@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiretoinspire.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015622id_/http%3A//www.desiretoinspire.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiretoinspire.net privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021184216id_/http%3A//www.desiretoinspire.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - desiretoinspire.net
 
@@ -18,7 +18,7 @@
 **  
 IP Addresses are automatically reported by your browser each time you view a web page. IP addresses may be used for various purposes, including:  
 * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.  
-* To tailor advertising based on geographic area or other information derived from your IP address (cookies or third party web beacon’s are also used). Aggregate information derived from IP addresses may also be reported to advertisers.  
+* To tailor advertising based on geographic area or other information derived from your IP address (cookies or third party web beacons are also used). Aggregate information derived from IP addresses may also be reported to advertisers.  
 * To estimate the total number of users visiting Desire to Inspire from specific geographical regions.
 
 **Information Sharing and Disclosure**
