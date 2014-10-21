@@ -1,109 +1,113 @@
-> *The following text is extracted and transformed from the microsoftonline.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604024015id_/http%3A//www.microsoft.com/isapi/gomscom.asp%3Ftarget%3D/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftonline.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022010143id_/http%3A//o15.officeredir.microsoft.com/r/rlidOOPrivacyStatement%3Fclid%3D1033%26CTT%3D114) for the most accurate reproduction.*
 
-# Information About Privacy on Microsoft.com
+# Microsoft.com Privacy Statement
 
-  
+Microsoft.com Privacy Statement 
 
+This privacy statement applies to Microsoft.com and Microsoft websites, services and products that collect data and display these terms, as well as their offline product support services. It does not apply to Microsoft sites, services and products that do not display or link to this statement or that have their own privacy statements. 
 
-* * *
+Please read the summaries below and click on "Learn More" for more details on a particular topic. You may also select from the products listed above to view that product's privacy statement. Some products, services or features mentioned in this statement may not be available in all markets. You can find more information on Microsoft's commitment to protecting your privacy at <http://www.microsoft.com/privacy>. 
 
-  
-**Microsoft.com Statement of Privacy**  
-_This document was last updated February 23, 2001._
+Cookies & Similar TechnologiesCookies
 
-At Microsoft, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete Microsoft.com privacy statement. 
+Most Microsoft websites use "cookies," which are small text files stored on your device, to help operate the sites and collect information about online activity. For instance, we use cookies to store your preferences and settings; help with sign-in; provide targeted ads; combat fraud; and analyze site operations. 
 
-**Collecting your Personal Information**  
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, or when purchasing and registering Microsoft products. Personal information collected by Microsoft.com often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. 
+We also use web beacons to help deliver cookies and compile analytics. These may include web beacons from third-party service providers.
 
-For example: If you choose to make a purchase in the [ Shop area](http://shop.microsoft.com/) of the Web site, we will request personal information such as: name, address, telephone number, credit card number and shipping information. 
+You have a variety of tools to control cookies and similar technologies, including:
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you've already given us on previous visits to our Web site. This is considered your personal profile. 
-
-Microsoft.com uses Microsoft Passport as its registration service. Passport allows you to access your personal information at Microsoft, plus shop securely at many other participating [ Passport Web sites](http://www.passport.com/Directory/Default.asp?PPDir=C&PPlcid=1033), by signing in with your e-mail address and a password. When you register for a Passport, your profile is created. 
-
-If you ever want to review or update your profile, simply visit the [ Profile Center](http://www.microsoft.com/isapi/goregwiz.asp?target=/regsys/logon.asp?fu=/regsys/pic.asp&cu=/regsys/pic.asp) and edit your personal information. We'll ask you to disclose your Microsoft Passport (e-mail address and password) so that only you can access your profile. 
-
-The Passport service assigns a personal identification number and sends it to your computer in the form of a small text file, called a "cookie." The use of this cookie allows you to visit other participating Passport Web sites without having to sign in to each Web site. To learn more about the Passport service and how Passport uses and protects your personal information, please read the [ Passport Privacy Statement](http://www.passport.com/Consumer/PrivacyPolicy.asp?PPlcid=1033). 
-
-**Use of your Personal Information**  
-We use your personal information for four primary purposes: 
-
-  * To make the site easier for you to use by not making you enter your personal information more than once. 
-  * To help you quickly find software, services or information on Microsoft.com. 
-  * To help us create and deliver content most relevant to you. 
-  * To alert you to product upgrades, special offers, updated information and other new services from Microsoft.
-
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
-
-Microsoft will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Microsoft or the site; (b) protect and defend the rights or property of Microsoft and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Microsoft, its Web sites, or the public. 
-
-**Control of your Personal Information**  
-When you register, or otherwise give us personal information, Microsoft.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. 
-
-Registering also allows you to tell us how or whether you want Microsoft.com to communicate with you. After registering, go to the [ Profile Center](http://www.microsoft.com/isapi/goregwiz.asp?target=/regsys/logon.asp?fu=/regsys/pic.asp&cu=/regsys/pic.asp) and establish your preferences in the Contact Options sections. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you. 
-
-Microsoft.com occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you should uncheck the box in the Contact Options section in the [ Profile Center](http://www.microsoft.com/isapi/goregwiz.asp?target=/regsys/logon.asp?fu=/regsys/pic.asp&cu=/regsys/pic.asp) stating, "Microsoft partners can send me postal mail about their services or products." 
-
-Microsoft.com may send out periodic e-mails informing you of technical service issues related to a product or service you requested. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen. 
-
-**Access to your Personal Information**  
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the [ Profile Center](http://www.microsoft.com/isapi/goregwiz.asp?target=/regsys/logon.asp?fu=/regsys/pic.asp&cu=/regsys/pic.asp). You can: 
-
-  * View and edit personal information you have already given us. 
-  * Tell us whether you want Microsoft.com to send you marketing information. 
-  * Choose whether you want third parties to send you their offers by postal mail. 
-  * Subscribe or cancel subscriptions to newsletters about our services and products.
+  * Browser controls to block and delete cookies; 
+  * Advertising controls, including Microsoft's controls at <http://choice.live.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads; and 
+  * Controls from some analytics service providers to opt out of data collection through web beacons. 
 
 
 
-**Security of your Personal Information**  
-Microsoft.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+Information We CollectCollecting Your Information
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Microsoft, its subsidiaries, affiliates or agents are located. 
+Microsoft collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can.
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your Passport and password, so do not share these with others. 
+We collect information when you register, sign in and use our sites and services. We also may get information from other companies.
 
-**Protection of Children's Personal Information**  
-The Microsoft.com site does not publish content that is targeted to children. However, if you are concerned about your children providing Microsoft any personal information without your consent, Microsoft offers a Kids Passport account. It allows parents to give parental consent for the collection, use and sharing of children's (ages 12 and under) personal information online. To learn more about this service, visit Kids Passport on [www.passport.com.](http://www.passport.com/)
+We collect this information in a variety of ways, including from web forms, technologies like [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description "cookies"), web logging and software on your computer or other device. 
 
-**Use of Cookies**  
-To ensure we are publishing content customers need and want, Microsoft.com collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site. 
+How We Use Your Personal InformationUsing Your Information
 
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. 
+Microsoft uses the information we collect to operate, improve and personalize the products and services we offer.
 
-Web beacons, also known as clear gif technology, or action tags, assist in delivering the cookie. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a Microsoft.com Web page. We do not use this technology to access your personally identifiable information on Microsoft.com; it is a tool we use to compile aggregated statistics about Microsoft.com Web site usage. We do not share tracking information outside of Microsoft, and do not allow other companies to place clear gifs on our sites. 
+We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-Microsoft also uses cookies in connection with the use of your Passport account on the Microsoft.com Web site as explained above. 
+And we may use the information to help make the ads you see on our ad-supported services more relevant.
 
-If you choose to not have your browser accept cookies from the Microsoft.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. 
+Reasons We Share Your Personal InformationSharing Your Information
 
-Questions about cookies? [Read more.](https://web.archive.org/info/cookies.htm)
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
 
-**TRUSTe Certification**  
-Microsoft is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because Microsoft.com wants to demonstrate its commitment to your privacy, we have agreed to publish our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Microsoft.com has agreed to disclose to you: 
+Accessing Your Personal InformationAccessing Your Information
 
-  * Any personally identifiable information collected from you through the Web site. 
-  * The organization collecting the information. 
-  * How the information is used. 
-  * With whom the information may be shared. 
-  * What choices are available to you regarding collection, use and distribution of the information. 
-  * The kind of security procedures in place to protect the loss, misuse or alteration of information under Microsoft's control. 
-  * How you can correct inaccuracies in the information.
+Some Microsoft services give you the ability to view or edit your personal information online. To help prevent others from viewing your personal information, you first will be required to sign in. How you can access your personal information will depend on which sites or services you have used.
 
-If you have questions regarding this statement, you should first contact [ homepage@Microsoft.com](mailto:homepage@Microsoft.com&subject=Privacy%20Statement%20Question). 
+ChildrenChildren
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their Web site, <http://www.truste.org/users/users_watchdog.html>. TRUSTe will serve as a liaison with Microsoft.com to resolve your concerns. 
+When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
 
-**Changes to this Statement**  
-Microsoft.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, Microsoft.com will notify you by placing prominent notice on the Web site. 
+When consent is granted, the child's account is treated much like any other account, including letting the account holder communicate with other users.
 
-**Contact Information**  
-Microsoft welcomes your comments regarding this Statement of Privacy, please contact us by [ e-mail](mailto:homepage@Microsoft.com&subject=Privacy%20Statement%20Question), or postal mail. 
+Parents can change or revoke consent as described in this privacy statement.
 
-_Microsoft.com Privacy  
-Microsoft Corporation  
-One Microsoft Way  
-Redmond, Washington 98052_
+Display of AdvertisingAdvertising
 
-Last Updated: Friday, February 23, 2001 - 2:00 p.m. Pacific Time
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description) in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
+
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our**[ **opt-out page**](http://go.microsoft.com/fwlink/?LinkID=286759) **.**
+
+Communication PreferencesCommunications
+
+You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive. Depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional email, telephone calls, and postal mail for particular Microsoft sites or services.
+
+Location Based ServicesLocation Based Services
+
+Certain services or features can use information about your location to provide services you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.  For more information about location based services, please click on “Learn More.”
+
+Support DataSupport Data
+
+Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application from when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files. We use Support Data as described in this privacy statement, and additionally use it to resolve your support incident and for training purposes.
+
+Payment DataPayment Data
+
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
+
+Microsoft accountMicrosoft account
+
+Microsoft account is a service that lets you sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service.  We also send some of this information to sites and services that you sign in to with your Microsoft account.
+
+We use demographic information – gender, country, age and postal code but not your name or contact information – from your Microsoft account to provide personalized ads to you. **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **[ **opt-out page**](https://choice.live.com/AdvertisementChoice/). **
+
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
+
+Other Important Privacy InformationOther Information
+
+ **Learn more about**
+
+  * Protecting the security of personal information 
+  * Where we store and process information 
+  * Changes to our privacy statements 
+
+
+
+**How to Contact Us**
+
+  * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
+  * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
+  * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
+    * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
+    * By Phone: 425-882-8080
+  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+
+> Microsoft Ireland Operations, Ltd.  
+>  Attn: Data Protection  
+>  Carmenhall Road  
+>  Sandyford, Dublin 18, Ireland
+
+  * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
+
+
