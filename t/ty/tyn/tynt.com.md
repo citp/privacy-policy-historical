@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tynt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104946id_/http%3A//www.tynt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynt.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021211039id_/http%3A//www.tynt.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tynt
 
@@ -41,7 +41,7 @@ We operate the Services, which make link creation in copied and pasted content e
 
 
 
-(b) Controlling our use of your Non-PII: If you don’t want us to (i) enable Tynt-generated links in connection with copied content, or (ii) track your Non-PII, you can opt-out by clicking the Opt Out button on [this page](https://web.archive.org/web/20140625104946id_/http%3A//www.tynt.com/opt_out.php "Tynt Users Opt Out"). You will need to Opt-Out for each browser you use and have cookies enabled.
+(b) Controlling our use of your Non-PII: If you don’t want us to (i) enable Tynt-generated links in connection with copied content, or (ii) track your Non-PII, you can opt-out by clicking the Opt Out button on [this page](https://web.archive.org/web/20141021211039id_/http://www.tynt.com/privacy_policy/opt_out.php "Tynt Users Opt Out"). You will need to Opt-Out for each browser you use and have cookies enabled.
 
 (c) Information Sharing: We share Non-PII with other companies or individuals as follows: 
 
