@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185506id_/http%3A//www.wesrch.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021063059id_/http%3A//www.wesrch.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice - weSRCH
 
@@ -59,6 +59,10 @@ Please note that any content posted at the direction of Users onto the weSRCH Si
   
   
   * Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the weSRCH Sites may not function properly if the ability to accept cookies is disabled.
+
+  
+  
+  * For more information about each third-party content provider, cookies, and how to 'opt-out,' please refer to http://www.aboutads.info/choices.
 
   
   
@@ -150,7 +154,7 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
   
 **Date Last Modified:**  
   
-This Privacy Notice was last modified January, 2013.  
+This Privacy Notice was last modified Mar, 2013.  
   
 **Contact Information:**  
   
