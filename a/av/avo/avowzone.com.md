@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the avowzone.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607040623id_/http%3A//www.avowzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avowzone.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022003100id_/http%3A//www.avowzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AVOWZONE
-
-## Privacy Policy
+# Privacy Policy - AVOWZONE
 
 ## **Privacy Policy for[Avowzone](http://www.avowzone.com/).**
 
@@ -33,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](https://web.archive.org/web/20140607040623id_/http://www.avowzone.com/privacy-policy/avowzone@gmail.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](https://web.archive.org/web/20141022003100id_/http%3A//www.avowzone.com/avowzone@gmail.com).
