@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060253id_/http%3A//afv.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afv.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021094439id_/http%3A//afv.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | AFV
+# Privacy Statement
 
 AFV respects each individual’s right to personal privacy. We will collect and use information through our website only in the ways disclosed in this statement. AFV has no responsibility for content on other web sites that you may come across while navigating the website. This statement applies solely to information collected at the http://www.AFV.com website. This policy is effective as of 05.31.2012.
 
