@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529033341id_/http%3A//www.taulia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021233817id_/http%3A//www.taulia.com/privacy-policy%3Fcookies) for the most accurate reproduction.*
 
 # Taulia - Privacy Policy
 
-Taulia Inc. ("Taulia", "we" or "us") is committed to protecting our users' privacy. We believe it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web Site (www.taulia.com). Please read our Privacy Policy carefully to understand how we will use and protect your personal information.
+Taulia Inc. ("Taulia", "we" or "us") is committed to protecting our users' privacy. We believe it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web Sites (taulia.com, supplier.taulia.com, supplierpay.com). Please read our Privacy Policy carefully to understand how we will use and protect your personal information.
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through our Web Site: www.taulia.com.
+This Privacy Policy covers our collection, use and disclosure of information we collect through our Web Sites.
 
 ## TRUSTe
 
@@ -94,6 +94,8 @@ We use cookies that allow us to recognize your browser and capture and store cer
 
 Our service providers only use cookies that are not tied to Personal Information. The use of cookies by our service providers is not covered by our privacy statement. We do not have access or control over these cookies.
 
+If you wish to disable cookies, your web browser can be configured to refuse them. These links provide specific instructions on how to disable cookies in your browser: [Mozilla](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/accounts/answer/61416) and [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies).
+
 ### Clear Gifs
 
 We use clear gifs to better manage content on our site by informing us what content is effective. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customer's Personal Information.
@@ -170,4 +172,4 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 
 
-This policy was last modified on July 1, 2013.
+This policy was last modified on August 26, 2014.
