@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213062703id_/http%3A//www.medbroadcast.com/channel_section_details.asp%3Fchannel_id%3D1031%26relation_id%3D6743%26text_id%3D2229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021035612id_/http%3A//www.medbroadcast.com/channel_section_details.asp%3Fchannel_id%3D1031%26relation_id%3D6743%26text_id%3D2229) for the most accurate reproduction.*
 
 # MediResource Privacy Policy - MedBroadcast
 
@@ -9,6 +9,8 @@ This Privacy Policy is designed to inform you of practices regarding collection,
 **Your Consent**
 
 By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information, personal or otherwise, in accordance with this Privacy Policy.
+
+You can withdraw your consent for the use of identifiable information, like an email address, by unsubscribing from the service for which you provided that information.
 
 Please be advised that this site makes every effort to protect your personal information and abides by the Personal Information Protection and Electronic Documents Act (also known as PIPEDA), which requires that consent be obtained in all instances where personal information is requested.
 
@@ -27,6 +29,8 @@ Like many websites, this site actively collects information from its visitors bo
 **Passive Information Collection**
 
 As you navigate through a Website, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags, and navigational data collection. We use Internet Protocol (IP) addresses on this site. An IP Address is a number assigned to your computer by your Internet Service Provider so you can access the Internet; it is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site. A "cookie" is information that a Web site sends to your Web browser that helps the site remember information about you and your preferences. "Session" cookies are temporary bits of information that are erased upon closing your Web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on Web sites and to collect aggregate statistical information. This site uses session cookies. "Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences. This site uses persistent cookies. "Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. We use Internet tags at this site. Tags have been placed both on online advertisements that bring people to the site and on different pages of the site. These tags indicate how many times a page is opened and which information is consulted. We do not collect or seek personally identifiable information through these tags. "Navigational data" ("log files", "server logs", and "clickstream" data) are used for system management, to improve the content of the site for market research purposes, and to communicate information to visitors. This site uses navigational data.
+
+We are using Google Analytics cookies and have enabled the [Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357) which provides us with data from Google's Interest-based advertising and 3rd-party audience data (such as age, gender, and interests). This feature allows us to better evaluate who our users are, how their behaviour varies by demographics and interests, and ultimately help us create more appropriate content for our users. You can choose to opt-out of this feature using [Google Ads Settings](https://www.google.com/settings/ads) or [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **Use and Disclosure of Information**
 
@@ -58,14 +62,14 @@ This site has a number of social media tools (Reddit, Digg, Facebook "like" butt
 
 **Other Terms**
 
-Your use of this site is subject to our [Terms and Conditions](https://web.archive.org/web/20140213062703id_/http%3A//www.medbroadcast.com/channel_section_details.asp?text_id=2230&channel_id=1031&relation_id=6743&rot=5). 
+Your use of this site is subject to our [Terms and Conditions](https://web.archive.org/web/20141021035612id_/http%3A//www.medbroadcast.com/channel_section_details.asp?text_id=2230&channel_id=1031&relation_id=6743&rot=5). 
 
 **How to Contact Us**
 
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows: 
 
 [privacyofficer@mediresource.com](mailto:%20privacyofficer@mediresource.com?subject=Contact%20Privacy%20Officer%20at%20MediResource.com) or  
-[webmaster@mediresource.com](https://web.archive.org/web/20140213062703id_/http%3A//www.medbroadcast.com/contact_us.asp)
+[webmaster@mediresource.com](https://web.archive.org/web/20141021035612id_/http%3A//www.medbroadcast.com/contact_us.asp)
 
 MediResource Inc.  
 789 Don Mills Road, Suite 400  
@@ -75,4 +79,4 @@ M3C 1T5
 
 **Changes to This Privacy Policy**
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on December 17, 2010. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on September 18, 2014. 
