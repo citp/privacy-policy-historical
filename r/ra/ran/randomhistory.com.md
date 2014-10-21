@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomhistory.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209043506id_/http%3A//www.randomhistory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomhistory.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021165524id_/http%3A//www.randomhistory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RandomHistory.com
 
