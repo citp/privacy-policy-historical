@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picatic.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072312id_/https%3A//www.picatic.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picatic.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021234202id_/https%3A//www.picatic.com/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,8 +48,7 @@ Software developers;
 Hardware vendors;  
 System integrators; and  
 Payment processors  
-\- GlobalPay Payments (Picatic’s payment processor)  
-\- PayPal  
+\- Credit Card Processing Partner  
 \- Stripe 
 
 From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services and they will be subject to contractual restrictions prohibiting them from using the information about our members for any other purpose.
