@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digplanet.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523005154id_/http%3A//www.digplanet.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digplanet.com privacy policy that was archived on 2014-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021033236id_/http%3A//www.digparty.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -24,16 +24,16 @@
 			<p class="listTabTopHead"><a href="/">Home</a></p>
 		</td>
 		<td align="center">
-			<p class="listTabTopHead"><a href="/wiki">Visit Digplanet</a></p>
+			<p class="listTabTopHead"><a href="http://www.digplanet.com/wiki/">Visit Digplanet</a></p>
 		</td>
 		<td align="center">
-			<p class="listTabTopHead"><a href="/contactus.php">Advertisers</a></p>
+			<p class="listTabTopHead"><a href="http://www.digparty.com/contactus.php">Advertisers</a></p>
 		</td>
 		<td align="center">
 			<p class="listTabTopHead"><a href="/team.php">Our Team</a></p>
 		</td>
 		<td align="center">
-			<p class="listTabTopHead"><a href="/contactus.php">Contact Us</a></p>
+			<p class="listTabTopHead"><a href="http://www.digparty.com/contactus.php">Contact Us</a></p>
 		</td>
 	</tr>
 </tbody></table>
@@ -77,15 +77,13 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="10" height="35">
 	<tbody><tr valign="bottom">
 		<td align="left">
-			<p class="nav">Copyright © 2012 Digparty. All rights reserved.</p>
+			<p class="nav">Copyright © 2009-2014 Digparty. All rights reserved.</p>
 		</td>
 		<td align="right">
-			<p class="nav"><a class="nav" href="http://www.digplanet.com/" target="_blank">Digparty Home</a> 
-			| <a class="nav" href="http://www.digplanet.com/app/digparty_help.php" target="_blank">Help</a> 
-			| <a class="nav" href="http://www.digparty.com/contactus.php" target="_blank">Advertisers</a> 
-			| <a class="nav" href="http://www.digparty.com/contactus.php" target="_blank">Investors</a> 
-			| <a class="nav" href="http://www.digplanet.com/privacy.php" target="_blank">Privacy Policy</a> 
-			| <a href="http://www.digplanet.com/terms.php" target="_blank">Terms of Service</a> 
+			<p class="nav"><a class="nav" href="http://www.digparty.com/" target="_blank">Digparty Home</a> 
+			| <a class="nav" href="http://www.digplanet.com/faq.php" target="_blank">FAQ</a> 
+			| <a class="nav" href="http://www.digparty.com/privacy.php" target="_blank">Privacy Policy</a> 
+			| <a class="nav" href="http://www.digparty.com/terms.php" target="_blank">Terms of Service</a> 
 			| <a class="nav" href="http://www.digparty.com/contactus.php" target="_blank">Contact Us</a>
 			| <a class="nav" href="http://www.digparty.com/contactus.php" target="_blank">Feedback</a></p>
 		</td>
@@ -96,7 +94,11 @@
 		</div>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-6384678-2']);
+if (location.hostname.match(/www\.digplanet/i) != null) // Cloudfront only
+	_gaq.push(['_setAccount', 'UA-6384678-2']);
+else
+	_gaq.push(['_setAccount', 'UA-6384678-1']); // all others
+
 _gaq.push(['_setDomainName', 'none']);
 _gaq.push(['_setAllowLinker', true]);
 _gaq.push(['_trackPageview']);
