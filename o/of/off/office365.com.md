@@ -1,62 +1,113 @@
-> *The following text is extracted and transformed from the office365.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217161438id_/http%3A//www.office365.co.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office365.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022010143id_/http%3A//o15.officeredir.microsoft.com/r/rlidOOPrivacyStatement%3Fclid%3D1033%26CTT%3D114) for the most accurate reproduction.*
 
-# Office 365 - Office Stationery and Supplies - Privacy Policy
+# Microsoft.com Privacy Statement
 
-## Office365 Privacy Policy
+Microsoft.com Privacy Statement 
 
-Office365 takes your privacy concerns very seriously, and confirms to users of this site that we will not sell or rent individual user information to others and will only share information in accordance with this privacy policy. 
+This privacy statement applies to Microsoft.com and Microsoft websites, services and products that collect data and display these terms, as well as their offline product support services. It does not apply to Microsoft sites, services and products that do not display or link to this statement or that have their own privacy statements. 
 
-### Your Account
+Please read the summaries below and click on "Learn More" for more details on a particular topic. You may also select from the products listed above to view that product's privacy statement. Some products, services or features mentioned in this statement may not be available in all markets. You can find more information on Microsoft's commitment to protecting your privacy at <http://www.microsoft.com/privacy>. 
 
-Office365 is committed to keeping customer information confidential and used solely for the purpose of serving you better.
+Cookies & Similar TechnologiesCookies
 
-We are registered in the United Kingdom having notified the Information Commissioner of our data uses under the UK Data Protection Act 1998 and will only use the information that we collect about you lawfully in accordance with the Act and this policy. We undertake the following measures to ensure a high level of privacy for our customers. When transacting with our company you are dealing with Romsey Associates Limited trading as Office365. 
+Most Microsoft websites use "cookies," which are small text files stored on your device, to help operate the sites and collect information about online activity. For instance, we use cookies to store your preferences and settings; help with sign-in; provide targeted ads; combat fraud; and analyze site operations. 
 
-In order for us to provide the best possible level of service, we need to gather certain information. When you set up an Internet account with Office365, we will ask you for some relevant information, including: 
+We also use web beacons to help deliver cookies and compile analytics. These may include web beacons from third-party service providers.
 
-Your name   
-Email address   
-Mailing address  
-Billing Address  
-Delivery address  
-Phone number(s)  
-Fax number(s) 
+You have a variety of tools to control cookies and similar technologies, including:
 
-This information allows us to provide you with personalised services and correspond with you separately. The information you provide will be kept confidential and used to support your customer relationship with Office365. It will help us to maintain your account and alert you to new products, special offers and services, which are suited to you as they become available. Such uses may be special offers in promotional emails and on our website. 
+  * Browser controls to block and delete cookies; 
+  * Advertising controls, including Microsoft's controls at <http://choice.live.com/advertisementchoice/>, to opt out of receiving behaviorally targeted ads; and 
+  * Controls from some analytics service providers to opt out of data collection through web beacons. 
 
-### Protection and Security of Information
 
-We protect the privacy of your information using highly secure, password-protected servers. Please see our Security Policy for further information about the online and offline security measures we adopt to protect your information against unathorised or unlawful processing of personal data and against accidental loss or destruction of or damage to personal data. 
 
-### Accuracy and Updating Information
+Information We CollectCollecting Your Information
 
-We endeavour to keep our information accurate and up to date. Once you have registered online with Office365 you can check the information we store for your account by visiting our website and logging-in. Then access the "Update Account" link at the top of the page to display your account information. You can amend any inaccuracies through this facility. Alternatively, you can email us at [queries@office365.co.uk](mailto:queries@office365.co.uk) requesting that we update, modify or delete your account information. 
+Microsoft collects many kinds of information in order to operate effectively and provide you the best products, services and experiences we can.
 
-### Website Tracking
+We collect information when you register, sign in and use our sites and services. We also may get information from other companies.
 
-Like most websites, we use cookies and other internal tracking methods to track the way our website is used by our customers so we understand better how to make the service faster and more user friendly. The information we gather is analysed either in the aggregate or at a customer level, where we feel that the data we collect will help to enhance your purchasing experience. 
+We collect this information in a variety of ways, including from web forms, technologies like [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description "cookies"), web logging and software on your computer or other device. 
 
-### Sharing Information
+How We Use Your Personal InformationUsing Your Information
 
-We do not share personally identifiable data with any other companies except as provided in this policy or permitted by law. We may provide such aggregate statistics about our sales, traffic patterns, and related website information to trustworthy third parties, but these statistics will include no personally identifying information. 
+Microsoft uses the information we collect to operate, improve and personalize the products and services we offer.
 
-In order to provide you with a service, fulfil a transaction you have requested or in connection with legal process, we may share personally identifiable data with our agents (such as credit card processing companies, credit reference agencies, outside suppliers, distributors and delivery companies), and group companies for such purpose, relevant authorities or otherwise with your permission. Where appropriate, we share user experience information or other customer level personally identifiable information with companies within our group as well as our trusted third parties, agents and business partners for the purpose of accomplishing our objectives of customer personalisation and improvement of site design and user experience. 
+We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-### Email Newsletters
+And we may use the information to help make the ads you see on our ad-supported services more relevant.
 
-Part of our customer service offering we provide a regular email newsletter service. This service brings to you details of monthly special offers and product promotions as well as information on new products.
+Reasons We Share Your Personal InformationSharing Your Information
 
-If you wish to subscribe to our newsletter service please send an email to [info@office365.co.uk](mailto:info@office365.co.uk) stating your request or submit your address in the box provided on our homepage. 
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our services; and to protect the rights or property of Microsoft.
 
-If you wish to opt-out of this service, please access the "Unsubscribe" link that is available on all promotional emails. You can subscribe again at any time by following the procedure above. 
+Accessing Your Personal InformationAccessing Your Information
 
-If you have any questions please email our Customer Services Team at [queries@office365.co.uk](mailto:queries@office365.co.uk)
+Some Microsoft services give you the ability to view or edit your personal information online. To help prevent others from viewing your personal information, you first will be required to sign in. How you can access your personal information will depend on which sites or services you have used.
 
-### What Are Cookies?
+ChildrenChildren
 
-Cookies assign a unique identification to your computer and store the details on your hard drive via a facility in your web browser. The cookie does not contain any personally identifying information but does permit our website to recognize you each time you return to the Office365 website. On arrival your cookie then ‘handshakes’ with our system, which identifies you and makes it faster for you to log in. If you do not want to use “cookies”, most Internet browser programs will permit you to turn them off. Should you do this, you will still be able to access our website as normal. 
+When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
 
-\----------------------
+When consent is granted, the child's account is treated much like any other account, including letting the account holder communicate with other users.
 
-The foregoing policies are effective for the www.office365.co.uk website. By using our site, you agree to the terms of this privacy policy. Office365 reserves the right to change this policy from time to time and will update this page accordingly. By using this Site you agree to be bound by any such revisions in effect at the time of use and should therefore periodically visit this page and the Site Terms of Use page to determine the current policies applicable to users of the Site. The policies and terms described above are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
+Parents can change or revoke consent as described in this privacy statement.
+
+Display of AdvertisingAdvertising
+
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more [cookies](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspCookiesModule&view=Description) in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads. 
+
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our**[ **opt-out page**](http://go.microsoft.com/fwlink/?LinkID=286759) **.**
+
+Communication PreferencesCommunications
+
+You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive. Depending on the respective service, you may also have the option of proactively making choices about the receipt of promotional email, telephone calls, and postal mail for particular Microsoft sites or services.
+
+Location Based ServicesLocation Based Services
+
+Certain services or features can use information about your location to provide services you request or personalize your experience.  Location information may include data identifying nearby cell towers and Wi-Fi hotspots, as wells as Global Position System (GPS) data.  For more information about location based services, please click on “Learn More.”
+
+Support DataSupport Data
+
+Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as: contact or authentication information, chat session personalization, information about the condition of the machine and the application from when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files. We use Support Data as described in this privacy statement, and additionally use it to resolve your support incident and for training purposes.
+
+Payment DataPayment Data
+
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number ( _e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument ( _e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
+
+Microsoft accountMicrosoft account
+
+Microsoft account is a service that lets you sign in to Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign in to a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage and to protect the efficiency and security of the Microsoft account service.  We also send some of this information to sites and services that you sign in to with your Microsoft account.
+
+We use demographic information – gender, country, age and postal code but not your name or contact information – from your Microsoft account to provide personalized ads to you. **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **[ **opt-out page**](https://choice.live.com/AdvertisementChoice/). **
+
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
+
+Other Important Privacy InformationOther Information
+
+ **Learn more about**
+
+  * Protecting the security of personal information 
+  * Where we store and process information 
+  * Changes to our privacy statements 
+
+
+
+**How to Contact Us**
+
+  * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
+  * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
+  * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
+    * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
+    * By Phone: 425-882-8080
+  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+
+> Microsoft Ireland Operations, Ltd.  
+>  Attn: Data Protection  
+>  Carmenhall Road  
+>  Sandyford, Dublin 18, Ireland
+
+  * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
+
 
