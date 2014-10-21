@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cococutelife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063621id_/http%3A//cococutelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cococutelife.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021052057id_/http%3A//cococutelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cococute Life
 
@@ -19,13 +19,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 How we use collected information
 
 Cococute Life may collect and use Users personal information for the following purposes:  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.  
 How we protect your information
 
