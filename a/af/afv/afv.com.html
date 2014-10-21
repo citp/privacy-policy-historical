@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the afv.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625060253id_/http%3A//afv.com/about/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afv.com privacy policy that was archived on 2014-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021094439id_/http%3A//afv.com/about/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="UTF-8">
@@ -7,7 +7,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">  
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	
-	<title>Privacy Statement | AFV</title>
+	<title>Privacy Statement</title>
 	<link rel="pingback" href="http://afv.com/xmlrpc.php">
 
 	<!--[if lt IE 9]>
@@ -26,7 +26,7 @@
 <link rel="canonical" href="http://afv.com/about/privacy-statement/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Statement - AFV">
+<meta property="og:title" content="Privacy Statement">
 <meta property="og:description" content="AFV respects each individual’s right to personal privacy. We will collect and use information through our website only in the ways disclosed in this statement. AFV has no responsibility for content on other web sites that you may come across while navigating the website. This statement applies solely to information collected at the http://www.AFV.com website. […]">
 <meta property="og:url" content="http://afv.com/about/privacy-statement/">
 <meta property="og:site_name" content="AFV">
@@ -40,16 +40,22 @@
 <!-- / Yoast WordPress SEO plugin. -->
 
 
-            <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">//<![CDATA[
-            // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
+            <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
             var _gaq = _gaq || [];
+
+/* added by Eric Mueller Sep 21 2014... see https://wordpress.org/support/topic/enhanced-link-attribution-1 */
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+
+
             _gaq.push(['_setAccount', 'UA-32226014-1']);
 				            _gaq.push(['_setCustomVar',1,'post_type','page',3],['_trackPageview']);
             (function () {
                 var ga = document.createElement('script');
                 ga.type = 'text/javascript';
                 ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                ga.src = 'https://stats.g.doubleclick.net/dc.js';
 
                 var s = document.getElementsByTagName('script')[0];
                 s.parentNode.insertBefore(ga, s);
@@ -98,33 +104,66 @@
 
 	})(jQuery,'smartresize');
 
+	/*
+	 * jQuery doTimeout: Like setTimeout, but better! - v1.0 - 3/3/2010
+	 * http://benalman.com/projects/jquery-dotimeout-plugin/
+	 * 
+	 * Copyright (c) 2010 "Cowboy" Ben Alman
+	 * Dual licensed under the MIT and GPL licenses.
+	 * http://benalman.com/about/license/
+	 */
+	(function($){var a={},c="doTimeout",d=Array.prototype.slice;$[c]=function(){return b.apply(window,[0].concat(d.call(arguments)))};$.fn[c]=function(){var f=d.call(arguments),e=b.apply(this,[c+f[0]].concat(f));return typeof f[0]==="number"||typeof f[1]==="number"?this:e};function b(l){var m=this,h,k={},g=l?$.fn:$,n=arguments,i=4,f=n[1],j=n[2],p=n[3];if(typeof f!=="string"){i--;f=l=0;j=n[1];p=n[2]}if(l){h=m.eq(0);h.data(l,k=h.data(l)||{})}else{if(f){k=a[f]||(a[f]={})}}k.id&&clearTimeout(k.id);delete k.id;function e(){if(l){h.removeData(l)}else{if(f){delete a[f]}}}function o(){k.id=setTimeout(function(){k.fn()},j)}if(p){k.fn=function(q){if(typeof p==="string"){p=g[p]}p.apply(m,d.call(n,i))===true&&!q?o():e()};o()}else{if(k.fn){j===undefined?e():k.fn(j===false);return true}else{e()}}}})(jQuery);
+	
+	
 	// see http://codetunnel.com/blog/post/using-selfexecuting-functions-to-preserve-dollar-sign-compatibility-in-jquery
 	(function ($) {
 		$(function() {
 			
-			$('.signin #logged_out').click(function() {
-				$('#dim').show();
-				$('#signin-layer').show();
+			var layerOpen = 0;
+			
+			$('.searchupload .glass').hover(function() {
+				if(!layerOpen) {
+					// hover in
+					$('.searchlayer').show();
+					$('header .searcharea input[type=text]').focus();
+				
+					layerOpen = 1;
+
+					// close it after 3 seconds if it isn't reset
+					$.doTimeout( 'searchlayer_timer', 5000, function(){
+						$('header .searcharea input[type=text]').blur();
+						$('.searchlayer').hide();
+					});
+				}
+					  				
+			}, function() {
+				// hover out
+//				$('.searchlayer').hide();
 			});
-			
-			$('#signin-layer .close').click(function() { hideLoginLayer(); });
-			
- 			hideLoginLayer = function() {
-				$('#signin-layer').hide();
-				$('#dim').hide();
+
+			$('.searchlayer').hover(function() {
+				resetTimer();
+			});
+
+			$('.searchlayer input[type=text]').keydown(function() {
+				resetTimer();
+			});
+
+
+			function resetTimer() {
+				// reset timer
+				$.doTimeout( 'searchlayer_timer');		// cancel existing timer
+				$.doTimeout( 'searchlayer_timer', 5000, function(){
+					$('header .searcharea input[type=text]').blur();
+					$('.searchlayer').hide();
+					layerOpen = 0;
+				});
+				
 			}
 			
-			$('#signin-layer .button').click(function() {
-				FB.login(function(response) {
-					if (response.authResponse) {
-											} else {
-						// user hit cancel button
-						console.log('User cancelled login or did not fully authorize.');
-					}
-				}, {
-					scope: 'email,user_birthday'
-				});
-			});
+			
+																					
+			
 
 			// remove hyperlink on top level "about the show"
 			$('#mobile-menu #nav-about > a').contents().unwrap();	// this removes <a> tag around inner copy
@@ -231,51 +270,10 @@ window.fbAsyncInit = function () {
 	});
 
 
-	// Check if the current user is logged in and has authorized the app
-	FB.getLoginStatus(checkLoginStatus);
-
 	
-	// Check the result of the user status and display login button if necessary
-	function checkLoginStatus(response) {
-		if(response && response.status == 'connected') {
-
-			// dynamically pull name to display on-screen
-			var name = '';
-			FB.api('/me', function (response) {
-				jQuery('#name').html(response.first_name);
-			});
-
-			jQuery('#logged_out').hide();
-			window.hideLoginLayer();
-			jQuery('#logged_in').show();
+	
+							
 			
-						
-			// send that info over to back end so we can store info in session
-			jQuery.ajax({
-				type: "POST",
-				url: "/wp-content/themes/afv2013/fb-saveuser.php",
-				// data: { token: response.authResponse.accessToken, userid: response.authResponse.userID }
-			}).done(function( msg ) {
-				// console.log(msg);
-			});
-
-        } else {
-
-			jQuery('#logged_out').show();
-			jQuery('#logged_in').hide();
-			jQuery('#name').html('');
-
-			jQuery.ajax({
-				url: "/wp-content/themes/afv2013/fb-clearuser.php"
-			});
-
-		}
-	}
-
-		FB.Event.subscribe('auth.authResponseChange', function (response) {
-		FB.getLoginStatus(checkLoginStatus);
-      });
-	
 };
 
 // Load the SDK asynchronously
@@ -314,57 +312,50 @@ window.fbAsyncInit = function () {
 						<a href="/"><div class="sprite-header logo"></div></a>
 
 						<div class="tunein">
-							<a href="http://afv.com/episode/grand-prize-season-finale/"><img width="97" height="66" src="http://afv.com/wp-content/uploads/2014/05/Tom-Fab5-97x66.jpg" class="tom wp-post-image" alt="Tom Fab5"></a>
-							<b>Next Episode<br>Sunday May. 18th, 7/6c</b><br>
-							Disney Grand Prize Season Finale							<a href="http://afv.com/episode/grand-prize-season-finale/">More</a>
+							<a href="http://afv.com/episode/halloween-stumblebums-creative-drinkers-versus-lousy-slam-dunkers/"><img width="97" height="66" src="http://afv.com/wp-content/uploads/2013/10/Screen-Shot-2013-09-20-at-12.46.46-PM-640x400-97x66.png" class="tom wp-post-image" alt="Screen-Shot-2013-09-20-at-12.46.46-PM-640x400"></a>
+							<b>Next Episode<br>Sunday Oct. 19th, 7/6c</b><br>
+							Halloween, Stumblebums and Lousy Slam Dunkers							<a href="http://afv.com/episode/halloween-stumblebums-creative-drinkers-versus-lousy-slam-dunkers/">More</a>
 						</div>
 
-						<div class="socialsearch">
-							<div class="signin">
-								<div id="logged_out">
-									Sign in with AFV
-									<span class="sprite-header arrow"></span>
-								</div>
-								<div id="logged_in">
-									Hello, <span id="name"></span> (<a href="javascript:FB.logout();">log out</a>)
-								</div>
+						<div class="uploadtab">
+							<div class="inside">
+								<h3>Want to be on AFV?</h3>
+								<p>Enter for a chance to win!</p>
 							</div>
+						</div>
+						
+						
+						
 					
-							<a href="http://www.youtube.com/user/AFVofficial" target="_new"><div class="sprite-header youtube"></div></a>
-							<a href="http://twitter.com/AFVofficial" target="_new"><div class="sprite-header twitter"></div></a>
-							<a href="https://www.facebook.com/AFV" target="_new"><div class="sprite-header facebook"></div></a>
+														
+						
 
-							<div class="cse">
-								<form action="//afv.com/search-results/" id="cse-search-box">
-									<input name="cx" type="hidden" value="012536391604782456793:xlhs8a5chmm">
-									<input type="text" name="q" size="35">
-									<input type="submit" name="sa" value="">
-									<input name="ie" type="hidden" value="ISO-8859-1">
-								</form>
-								<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-							</div>
-							<!-- Google custom search box End -->
+						<div class="menu-top-nav-container"><ul id="menu-top-nav" class="menu"><li id="nav-upload" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="http://afv.com/upload/">Upload</a></li><li id="nav-about" class="bigger menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-373"><a href="#">About</a><ul class="sub-menu"><li id="nav-about-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1610"><a href="http://afv.com/about/about-the-show/">About AFV</a></li><li id="nav-about-tom" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="http://afv.com/about/about-tom/">About Tom</a></li><li id="nav-grand-prize" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4475"><a href="http://afv.com/about/about-grand-prize/">Grand Prize</a></li><li id="nav-contest-rules" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="http://afv.com/about/contest-rules/">Contest Rules</a></li><li id="nav-frequently-asked-questions" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://afv.com/about/faq/">Frequently Asked Questions</a></li><li id="nav-assignment-america" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="http://afv.com/about/assignment-america/">Assignment America</a></li><li id="nav-where-to-watch" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1611"><a href="http://afv.com/about/where-to-watch/">Where to Watch</a></li><li id="nav-get-connected-with-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604"><a href="http://afv.com/about/get-connected-with-afv/">Get Connected With AFV</a></li><li id="nav-afv-apps-on-the-go" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2605"><a href="http://afv.com/about/afv-on-the-go/">AFV Apps on the Go</a></li><li id="nav-credits" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://afv.com/about/credits/">Credits</a></li><li id="nav-contact" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://afv.com/about/contact/">Contact</a></li></ul></li><li id="nav-episode-guide" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="http://afv.com/episode-guide/">Episode Guide</a></li><li id="nav-video" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="http://afv.com/video/">Video</a></li><li id="nav-photos" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="http://afv.com/photos/">Photos</a></li><li id="nav-blog" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="http://afv.com/blog/">Blog</a></li><li id="nav-community" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://afv.com/community/">Community</a></li><li id="nav-tune-in" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="http://afv.com/tune-in/">Tune In</a></li></ul></div>
 
+						<div class="searchupload">
+							<div class="glass"></div>
+							<a href="/upload" id="yellow_upload_button"><div class="uploadbtn"></div></a>
 						</div>
-				
-						<div class="menu-top-nav-container"><ul id="menu-top-nav" class="menu"><li id="nav-upload" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="http://afv.com/upload/">Upload</a></li><li id="nav-about" class="bigger menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-373"><a href="#">About</a><ul class="sub-menu"><li id="nav-about-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1610"><a href="http://afv.com/about/about-the-show/">About AFV</a></li><li id="nav-about-tom" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="http://afv.com/about/about-tom/">About Tom</a></li><li id="nav-about-the-disney-parks-grand-prize-vacation" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="http://afv.com/about/about-grand-prize/">About the Disney Parks Grand Prize Vacation</a></li><li id="nav-contest-rules" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="http://afv.com/about/contest-rules/">Contest Rules</a></li><li id="nav-frequently-asked-questions" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://afv.com/about/faq/">Frequently Asked Questions</a></li><li id="nav-assignment-america" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="http://afv.com/about/assignment-america/">Assignment America</a></li><li id="nav-where-to-watch" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1611"><a href="http://afv.com/about/where-to-watch/">Where to Watch</a></li><li id="nav-get-connected-with-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604"><a href="http://afv.com/about/get-connected-with-afv/">Get Connected With AFV</a></li><li id="nav-afv-apps-on-the-go" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2605"><a href="http://afv.com/about/afv-on-the-go/">AFV Apps on the Go</a></li><li id="nav-credits" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://afv.com/about/credits/">Credits</a></li><li id="nav-contact" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://afv.com/about/contact/">Contact</a></li></ul></li><li id="nav-episode-guide" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="http://afv.com/episode-guide/">Episode Guide</a></li><li id="nav-video" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="http://afv.com/video/">Video</a></li><li id="nav-photos" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="http://afv.com/photos/">Photos</a></li><li id="nav-blog" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="http://afv.com/blog/">Blog</a></li><li id="nav-community" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://afv.com/community/">Community</a></li><li id="nav-tune-in" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="http://afv.com/tune-in/">Tune In</a></li></ul></div>				
-						<div id="signin-layer">
-							<div class="logo"></div><div class="close"></div>
-							<div class="copy">
-								<p class="goth"><b>SIGN UP NOW WITH YOUR FACEBOOK ACCOUNT</b></p>
-								By connecting with AFV.com, you can be sure to get<br>
-								the most out of your experience.
-								<br>
-								<ul>
-									<li>Comment on videos and blog posts.</li>
-									<li>Interact with other fans on the comments page.</li>
-									<li>Share your favorites through social media.</li>
-									<li>Streamline the upload process.</li>
-								</ul>
-							</div>
-							<div class="button"></div>
-						</div>
+						
+						<div class="searchlayer">
+							<div class="glass"></div>
+							<div class="searcharea">
 
+								<div class="cse">
+									<form action="//afv.com/search-results/" id="cse-search-box">
+										<input name="cx" type="hidden" value="012536391604782456793:xlhs8a5chmm">
+										<input type="text" name="q" size="35">
+										<input type="submit" name="sa" value="">
+										<input name="ie" type="hidden" value="ISO-8859-1">
+									</form>
+									<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+								</div>
+								<!-- Google custom search box End -->
+							</div>
+						</div>
+						
+
+						
 					</header>
 
 					<div id="main" class="site-main">
@@ -474,7 +465,7 @@ By using the AFV website, you consent to the collection and use of information b
 					<a href="https://plus.google.com/116140796232268401888/posts"><div class="sprite-home gplus"></div></a>
 					<a href="http://instagram.com/afvofficial"><div class="sprite-home instagram"></div></a>
 					<a href="http://afvofficial.tumblr.com/"><div class="sprite-home tumblr"></div></a>
-					<a href="http://getglue.com/tv_shows/americas_funniest_home_videos"><div class="sprite-home glue"></div></a>
+					<a href="http://pinterest.com/afvofficial"><div class="sprite-home pinterest"></div></a>
 					<a href="https://itunes.apple.com/us/app/americas-funniest-home-videos/id443072664?mt=8"><div class="sprite-home ios"></div></a>
 					<!-- <a href='#'><div class='sprite-home android'></div></a> -->
 				</div>
@@ -487,9 +478,9 @@ By using the AFV website, you consent to the collection and use of information b
 			<div class="widget_nextep">
 				<h5 class="goth">Next Episode</h5>
 				<img class="icons" src="/wp-content/themes/afv2013/img/widget_nextep_tvicons.png">
-				<p class="when">Sunday May. 18th, 7/6c</p>				
-				<a href="http://afv.com/episode/grand-prize-season-finale/"><img width="97" height="66" src="http://afv.com/wp-content/uploads/2014/05/Tom-Fab5-97x66.jpg" class="tom wp-post-image" alt="Tom Fab5"></a>
-				<p class="descr">Disney Grand Prize Season Finale <a href="http://afv.com/episode/grand-prize-season-finale/">More</a></p>
+				<p class="when">Sunday Oct. 19th, 7/6c</p>				
+				<a href="http://afv.com/episode/halloween-stumblebums-creative-drinkers-versus-lousy-slam-dunkers/"><img width="97" height="66" src="http://afv.com/wp-content/uploads/2013/10/Screen-Shot-2013-09-20-at-12.46.46-PM-640x400-97x66.png" class="tom wp-post-image" alt="Screen-Shot-2013-09-20-at-12.46.46-PM-640x400"></a>
+				<p class="descr">Halloween, Stumblebums and Lousy Slam Dunkers <a href="http://afv.com/episode/halloween-stumblebums-creative-drinkers-versus-lousy-slam-dunkers/">More</a></p>
 			</div>
 					</div><!-- .widget-area -->
 		</div><!-- .sidebar-inner -->
@@ -513,7 +504,7 @@ By using the AFV website, you consent to the collection and use of information b
 			<div class="inner section group">
 				<div class="col span_1_of_4 about">
 					<p>About</p>
-					<div class="menu-footer-about-menu-container"><ul id="menu-footer-about-menu" class="menu"><li id="nav-about-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2617"><a href="http://afv.com/about/about-the-show/">About AFV</a></li><li id="nav-about-tom" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="http://afv.com/about/about-tom/">About Tom</a></li><li id="nav-contest-rules" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="http://afv.com/about/contest-rules/">Contest Rules</a></li><li id="nav-grand-prize" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="http://afv.com/about/about-grand-prize/">Grand Prize</a></li><li id="nav-frequently-asked-questions" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://afv.com/about/faq/">Frequently Asked Questions</a></li><li id="nav-episode-guide" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://afv.com/episode-guide/">Episode Guide</a></li></ul></div>				</div>
+					<div class="menu-footer-about-menu-container"><ul id="menu-footer-about-menu" class="menu"><li id="nav-about-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2617"><a href="http://afv.com/about/about-the-show/">About AFV</a></li><li id="nav-about-tom" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="http://afv.com/about/about-tom/">About Tom</a></li><li id="nav-grand-prize" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4477"><a href="http://afv.com/about/about-grand-prize/">Grand Prize</a></li><li id="nav-contest-rules" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="http://afv.com/about/contest-rules/">Contest Rules</a></li><li id="nav-frequently-asked-questions" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://afv.com/about/faq/">Frequently Asked Questions</a></li><li id="nav-episode-guide" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://afv.com/episode-guide/">Episode Guide</a></li></ul></div>				</div>
 
 				<div class="col span_1_of_4 upload">
 					<p>Upload</p>
@@ -522,7 +513,7 @@ By using the AFV website, you consent to the collection and use of information b
 				<div class="col span_1_of_4 clips">
 					<p>Funny Clips</p>
 					<ul>
-				    	<li><a href="http://afv.com/video/toddlers-cause-traffic-accidents/">Toddlers Cause Traffic Accidents</a></li><li><a href="http://afv.com/video/baby-can-handle-toy-truck/">Toy Truck Dumps Out Baby</a></li><li><a href="http://afv.com/video/dog-tail-bffs/">Dog And His Tail Are BFFs</a></li><li><a href="http://afv.com/video/amazing-wedding-bouquet-toss/">Amazing Wedding Bouquet Toss</a></li><li><a href="http://afv.com/video/painful-t-ball-practice/">Painful T-Ball Practice</a></li>					</ul>
+				    	<li><a href="http://afv.com/video/24-pets-can-talk-like-humans/">24 Pets Who Can Talk Like Humans</a></li><li><a href="http://afv.com/video/afvine-sour-baby-faces/">#AFVine Sour Baby Faces</a></li><li><a href="http://afv.com/video/guy-personal-butt-scratcher/">This Guy Has His Own Personal Butt Scratcher!</a></li><li><a href="http://afv.com/video/adorable-dog-best-soccer-goalie-block/">This Adorable Dog Is The Best Soccer Goalie On The Block</a></li><li><a href="http://afv.com/video/rpg-dual-took-turn-worst/">RPG Dual Took A Turn For The Worst</a></li>					</ul>
 				</div>
 
 				<div class="col span_1_of_4 social">
@@ -549,7 +540,7 @@ By using the AFV website, you consent to the collection and use of information b
 
 	<div id="mobile-menu" class="hidden">
 		<ul>
-			<div class="menu-main-nav-mobile-container"><ul id="menu-main-nav-mobile" class="menu"><li id="nav-home" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://afv.com/">Home</a></li><li id="nav-upload" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="http://afv.com/upload/">Upload</a></li><li id="nav-about" class="bigger menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-313"><a href="http://afv.com/about/">About</a><ul class="sub-menu"><li id="nav-about-the-disney-parks-grand-prize-vacation" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="http://afv.com/about/about-grand-prize/">About the Disney Parks Grand Prize Vacation</a></li><li id="nav-about-tom" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="http://afv.com/about/about-tom/">About Tom</a></li><li id="nav-advertise-with-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="http://afv.com/about/advertising-information/">Advertise with AFV</a></li><li id="nav-assignment-america" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="http://afv.com/about/assignment-america/">Assignment America</a></li><li id="nav-contact" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="http://afv.com/about/contact/">Contact</a></li><li id="nav-contest-rules" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="http://afv.com/about/contest-rules/">Contest Rules</a></li><li id="nav-credits" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://afv.com/about/credits/">Credits</a></li><li id="nav-frequently-asked-questions" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://afv.com/about/faq/">Frequently Asked Questions</a></li><li id="nav-afv-fan-newsletter" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://afv.com/about/newsletter-signup/">AFV Fan Newsletter</a></li><li id="nav-privacy-statement" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44 current_page_item menu-item-325"><a href="http://afv.com/about/privacy-statement/">Privacy Statement</a></li><li id="nav-terms-of-use" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="http://afv.com/about/terms-of-use/">Terms of Use</a></li></ul></li><li id="nav-episode-guide" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="http://afv.com/episode-guide/">Episode Guide</a></li><li id="nav-video" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="http://afv.com/video/">Video</a></li><li id="nav-photos" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="http://afv.com/photos/">Photos</a></li><li id="nav-blog" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="http://afv.com/blog/">Blog</a></li><li id="nav-community" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://afv.com/community/">Community</a></li><li id="nav-tune-in" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="http://afv.com/tune-in/">Tune In</a></li></ul></div>		</ul>
+			<div class="menu-main-nav-mobile-container"><ul id="menu-main-nav-mobile" class="menu"><li id="nav-home" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="http://afv.com/">Home</a></li><li id="nav-upload" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="http://afv.com/upload/">Upload</a></li><li id="nav-about" class="bigger menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-313"><a href="http://afv.com/about/">About</a><ul class="sub-menu"><li id="nav-about-tom" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="http://afv.com/about/about-tom/">About Tom</a></li><li id="nav-grand-prize" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4476"><a href="http://afv.com/about/about-grand-prize/">Grand Prize</a></li><li id="nav-advertise-with-afv" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="http://afv.com/about/advertising-information/">Advertise with AFV</a></li><li id="nav-assignment-america" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="http://afv.com/about/assignment-america/">Assignment America</a></li><li id="nav-contact" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="http://afv.com/about/contact/">Contact</a></li><li id="nav-contest-rules" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="http://afv.com/about/contest-rules/">Contest Rules</a></li><li id="nav-credits" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://afv.com/about/credits/">Credits</a></li><li id="nav-frequently-asked-questions" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://afv.com/about/faq/">Frequently Asked Questions</a></li><li id="nav-afv-fan-newsletter" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://afv.com/about/newsletter-signup/">AFV Fan Newsletter</a></li><li id="nav-privacy-statement" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44 current_page_item menu-item-325"><a href="http://afv.com/about/privacy-statement/">Privacy Statement</a></li><li id="nav-terms-of-use" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="http://afv.com/about/terms-of-use/">Terms of Use</a></li></ul></li><li id="nav-episode-guide" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="http://afv.com/episode-guide/">Episode Guide</a></li><li id="nav-video" class="bigger menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="http://afv.com/video/">Video</a></li><li id="nav-photos" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="http://afv.com/photos/">Photos</a></li><li id="nav-blog" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="http://afv.com/blog/">Blog</a></li><li id="nav-community" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="http://afv.com/community/">Community</a></li><li id="nav-tune-in" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="http://afv.com/tune-in/">Tune In</a></li></ul></div>		</ul>
 		<div class="foot"></div>
 	</div>
 
