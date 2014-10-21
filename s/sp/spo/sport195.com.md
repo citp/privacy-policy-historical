@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428152939id_/http%3A//www.sport195.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021030807id_/http%3A//www.sport195.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | SPORTS195
 
