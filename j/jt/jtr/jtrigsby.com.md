@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2014-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140114123033id_/http%3A//www.thomrigsby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021215615id_/http%3A//www.thomrigsby.com/privacy) for the most accurate reproduction.*
 
 # Privacy at jtrigsby.com | Thom Rigsby
 
 Ethel Guarding the Safe, Thanks Grandma!
 
-Here at jtrigsby.com, I respect your privacy (unlike my other sites?) and I am committed to safeguarding your privacy while online at jtrigsby.com. The following page discloses how I gather, use, fold, spindle, mutilate and otherwise disseminate information for this Blog.
+Here at jtrigsby.com, I respect your privacy (unlike my other sites?) and I am committed to safeguarding your privacy while online at jtrigsby.com. The following page discloses how I gather, use, fold, spindle, mutilate and otherwise disseminate information for this [Blog](http://www.thomrigsby.com/blog/ "Blog").
 
 **RSS Feeds and Email Updates**
 
@@ -28,4 +28,4 @@ I use outside ad companies to display ads on this blog. These ads may contain co
 
 **Contact Information**
 
-If you have any questions or concerns please contact Thom Rigsby at jtrigsby at jtrigsby dot com. This privacy policy updated February 2009. Thank you, and good night!
+If you have any questions or concerns please contact Thom Rigsby at jtrigsby at jtrigsby dot com. This privacy policy updated February 2009. [Thank you](http://www.thomrigsby.com/thank-you/ "Thank you"), and good night!
