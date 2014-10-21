@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011935id_/https%3A//put.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021235250id_/https%3A//put.io/privacy) for the most accurate reproduction.*
 
 # online storage re-imagined | put.io
 
@@ -39,6 +39,10 @@ Cookies : A "cookie" is a small file that we save on your computer's hard drive 
 ### Web Site Tracking, Reporting:
 
 Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. Put.io (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. For example, we capture data on the type of browser used, operating system software (e.g. Windows 95 vs. 98 or Macintosh), cookie preferences (whether the user has them turned on or off), and search engine keywords (what key words did a visitor use to get to our site). We also record number of visits, paths taken, and time spent on sites and pages within Put.io's web sites. Please keep in mind that none of this information is personally identifiable and that we only distribute this information to internal staff at Put.io and to partners that have signed confidentiality agreements with us. Any information that we do share with partners reflects overall web site or Internet usage trends, not individual.
+
+### Scanning for child exploitation content:
+
+Put.io will at the time of writing data to its storage servers check the MD5 hash of the files to be written against a database of hashes of known child exploitation content, obtained from the National Center for Missing and Exploited Children. If there is a positive match we will forward the necessary information to the appropriate NGO in the offenders country.
 
 ### IP Address:
 
