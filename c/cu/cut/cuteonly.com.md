@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100528id_/http%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021043525id_/http%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
 
 # CuteOnly Privacy Policy
 
@@ -27,7 +27,7 @@ Non-identifying information is used to help other users find your personal profi
 
 **5\. Financial Security**
 
-Credit card information is processed by [2Checkout.com](http://www.2co.com/), one of the largest and most recognized credit card processing companies on the Web. Card numbers are transmitted directly to the banking network for authorization. 2Checkout.com does not record your card number and our staff has no access to this data. The sensitive information goes to the 2Checkout.com web server. Next, this information is encrypted with secure socket layer technology (SSL). SSL is what ensures complete security during the payment process. 
+Credit card information is processed by [Paysite](https://billing.paysite-cash.biz/customers/?site=4763), one of the largest and most recognized credit card processing companies on the Web. Card numbers are transmitted directly to the banking network for authorization. Paysite does not record your card number and our staff has no access to this data. The sensitive information goes to the Paysite web server. Next, this information is encrypted with secure socket layer technology (SSL). SSL is what ensures complete security during the payment process. 
 
 **6\. Mailings**
 
@@ -40,7 +40,7 @@ CuteOnly uses your email address to send mailings from time to time. The purpose
 
 Our support team may contact you to assist you with your membership.
 
-Our payment provider, 2Checkout, uses your email address to notify you on operations such as regular credit card charge.
+Our payment provider, Paysite, uses your email address to notify you on operations such as regular credit card charge.
 
 CuteOnly does not sell rent your email address and other personal information for any kind of promotional mailings to third parties.
 
