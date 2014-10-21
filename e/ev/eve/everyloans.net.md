@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyloans.net privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531003543id_/http%3A//www.everyloans.net/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyloans.net privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021030338id_/http%3A//www.everyloans.net/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy | everyloans.net
 
