@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050627id_/https%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021021357id_/http%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
 
 # YPlan | Tonight's going out app
 
@@ -145,4 +145,4 @@ Please submit any questions, concerns or comments you have about this privacy po
 Suite 901  
 New York  
 NY 10010  
-T: (800) 280-3554 
+T: (800) 767-0559 
