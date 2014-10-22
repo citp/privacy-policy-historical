@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the mcdonalds.co.uk privacy policy that was archived on 2014-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620203555id_/http%3A//www.mcdonalds.co.uk/ukhome/policies/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcdonalds.co.uk privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022141105id_/http%3A//www.mcdonalds.co.uk/ukhome/policies/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="headId"><style></style> 
               
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
   
     function desktopRedirect(){
         var redirectPath = "";  
@@ -12,7 +12,7 @@
         var domain = "m.mcdonalds.co.uk";
   
         if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS 3') != -1 || useragent.indexOf('iPhone OS 4') != -1 || useragent.indexOf('iPhone OS 5') != -1 || useragent.indexOf('iPhone OS 6') != -1 || useragent.indexOf('iPhone OS 7') != -1 || useragent.indexOf('Android 2') != -1 || useragent.indexOf('Android 4') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 ) {              var alertURL = "";            
-          var getAlertPage = "";
+          var getAlertPage = "true";
           var fullSite = "no";
           if(getCookie("fullsite") != null){
             fullSite = getCookie("fullsite");
@@ -51,10 +51,10 @@
                     var pagePath = '/ukhome/policies/privacy-policy';
                     var url= "http://"+domain+pagePath+".html";
                                           
-                        if(("".indexOf("/content/")>-1)){
-                             alertURL = "http://"+domain+".html?desktopurl="+url;
+                        if(("/content/ukhome/redirect".indexOf("/content/")>-1)){
+                             alertURL = "http://"+domain+"/content/ukhome/redirect.html?desktopurl="+url;
                         }else{
-                             alertURL = "?desktopurl="+url;
+                             alertURL = "/content/ukhome/redirect?desktopurl="+url;
                         }
                     }else{
                         //do nothing
@@ -106,7 +106,7 @@
     }
     
    var overwriteRedirection = "false"; 
-   var allowIntRed= "";
+   var allowIntRed= "true";
    if("" == "yes"){  
    if((allowIntRed == "true")&&(overwriteRedirection == "false")){
        desktopRedirect();  
@@ -124,21 +124,7 @@
 
     <meta name="google-site-verification" content="EONdENhgNw8aHPqtoUbEUTTH0uEpxroB-4yzyb13hbQ">   
 
-<script type="text/javascript">
  
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-25024961-1']);
-      _gaq.push(['_setDomainName', 'mcdonalds.co.uk']);
-      _gaq.push(['_addIgnoredRef', 'mcdonalds.co.uk']);
-      _gaq.push(['_trackPageview']);
- 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
- 
-</script>  
  
 
 
@@ -250,7 +236,7 @@ document.write(ogImageTag);
 <script type="text/javascript" src="/themes/UK/scripts/mealbuilder.cookie.js"></script> 
 
 <script type="text/javascript">
-var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js'; 
+var webtrends = ''; 
         $(document).ready(function(){ 
             var hideMealBuilder = 'false';
             if(hideMealBuilder!='true')
@@ -298,7 +284,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
                  
                      if(checkLimit(id)==true)
                      {                      
-                         Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);
+                        // Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);
                          addItemstoSession(id,'ukhome');   
                      }
                      else
@@ -318,8 +304,8 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
                  
                      if(checkLimit(id)==true)
                      {                      
-                         if( webtrends !="")
-                         Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);    
+                         //if( webtrends !="")
+                         //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);    
                          addItemstoSession(id,'ukhome');   
                      }
                      else
@@ -338,7 +324,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
                  
                      if(checkLimit(itemId)==true)                         
                      {                      
-                        Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
+                       // Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
                         addItemtoSession(itemId,compList,'ukhome');  
                      }
                      else
@@ -356,7 +342,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
                  
                      if(checkLimit(itemId)==true)                         
                      {
-                         Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                    
+                         //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                    
                          addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ukhome');
                      }
                      else
@@ -380,7 +366,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
            if(total_length>limit){
             
                 //alert('Your Meal Builder is currently full. Please remove items before adding more. ') ; 
-                dcsMultiTrack('DCS.dcsuri','/food/MyMealBuilder/full','WT.ti','My Meal Builder Full :: McDonalds.com');              
+                //dcsMultiTrack('DCS.dcsuri','/food/MyMealBuilder/full','WT.ti','My Meal Builder Full :: McDonalds.com');              
                 return false;            
             
            }
@@ -402,7 +388,6 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
 
  
 
-
     <div id="document_wrapper">
         
         <a name="top"></a>
@@ -410,7 +395,6 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
         
 
  
-
 
 <script type="text/javascript">
 $(document).ready(function(){
@@ -491,7 +475,6 @@ $(document).ready(function(){
 
  
 
-
     <a href="/ukhome.html">
 
                 <img src="/etc/designs/mcdonalds/uk/_jcr_content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage.img.png" width="113" height="98" alt="">
@@ -507,485 +490,386 @@ $(document).ready(function(){
         
         <div id="main_navigation">
             <div class="mcdonaldsleftnav parbase">
- 
-    
+  
+
 
  
 
-    
- 
-   
-   
-    
+  
+
      
-        <!-- Start of Left Navigation div -->
-        <div id="leftnavigation">
+<!-- Start of Left Navigation div -->
+<div id="leftnavigation">
     
-    <ul>
-                    <li id="no_li" class="first">
-                        <a href="/ukhome/test_webview.html" id="no_link" class="nav_item firstLink" style=""></a>
-                    
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="no_li">
-                        <a href="/ukhome/lol.html" id="no_link" class="nav_item" style=""></a>
-                    
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="no_li">
-                        <a href="/ukhome/ss.html" id="no_link" class="nav_item" style=""></a>
-                    
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="no_li">
-                        <a href="/ukhome/testpub.html" id="no_link" class="nav_item" style=""></a>
-                    
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="foodnav_li">
-                        <a href="/ukhome/Food.html" id="foodnav_link" class="nav_item" style="background-image: url('/content/ukhome/Food/jcr:content/navimage.img.png/1393437739700.png');"></a>
-                    
-                    <div class="active_nav_widget" id="foodnav_layer">
-                      <div id="foodnav_inner_layer">
-            
-                            <div class="float_left first_column">
-                            <table border-"0"="" cellpadding="0" cellspacing="0" class="column_table">
-                                <thead>
-                                    <tr>
-                                        <th>Menu</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                            
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/Food/beef.html">Beef</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/Food/chicken.html">Chicken</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/Food/fish.html">Fish</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/Food/deli-choices.html">Deli Choices</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/Food/salads.html">Salads</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/Food/sides.html">Sides</a>
-                                          </td>
-                                        </tr>
-                                
-                                </tbody>
-                            </table>
-                            </div>
-                            
-                            <div class="float_left with_padding middle_column">
-                            <table border-"0"="" cellpadding="0" cellspacing="0" class="column_table">
-                                <thead>
-                                    <tr>
-                                        <th>&nbsp;</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                            
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/breakfast.html">Breakfast</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/little-tasters.html">Little Tasters</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/savers-menu.html">Saver Menu</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/desserts-treats.html">Desserts &amp; Treats</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/mccafe.html">McCafé</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/drinks-shakes.html">Drinks &amp; Shakes</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/more-food/happy-meal.html">Happy Meal</a>
-                                          </td>
-                                        </tr>
-                                
-                                </tbody>
-                            </table>
-                            </div>
-                            
-                            <div class="float_left with_padding last_column">
-                            <table border-"0"="" cellpadding="0" cellspacing="0" class="column_table">
-                                <thead>
-                                    <tr>
-                                        <th>Food quality</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                            
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/nutrition-ingredients/what_makes_mcdonalds.html">What Makes McDonald's</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/nutrition-ingredients/nutrients.html">Nutrition</a>
-                                          </td>
-                                        </tr>
-                                
-                                        <tr>
-                                          <td>
-                                            <a href="/ukhome/nutrition-ingredients/Ingredients_and_Allergen_Information.html">Ingredients &amp; Allergen Information</a>
-                                          </td>
-                                        </tr>
-                                
-                                </tbody>
-                            </table>
-                            </div>
-                            
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="promonav_li">
-                        <a href="/ukhome/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ukhome/promotions/jcr:content/navimage.img.png/1402914024276.png');"></a>
-                    
-                    <div class="active_nav_widget" id="promonav_layer">
-                      <div id="promonav_inner_layer">
-            
-                            <div class="float_left">
+<ul>
+                            <li id="no_li" class="first">
+                                <a href="/ukhome/ordering.html" id="no_link" class="nav_item firstLink" style=""></a>
                         
-                                        <a href="/ukhome/promotions/mccafe.html"><img title="New Limited Edition McCafe Iced Drinks" alt="New Limited Edition McCafe Iced Drinks" class="cq-dd-image" src="/content/ukhome/promotions/mccafe/_jcr_content/promolevel3image.img.jpg/1402913105954.jpg"></a>
-                                    
-                                        <a href="/ukhome/more-food/little-tasters.html"><img title="The Peri Peri Snack Wrap is here!" alt="The Peri Peri Snack Wrap is here!" class="cq-dd-image" src="/content/ukhome/more-food/little-tasters/_jcr_content/promolevel3image.img.jpg/1398952267680.jpg"></a>
-                                    
-                                <div class="promotions_link">
-                                    <a href="/ukhome/promotions.html" class="sub_nav_link off_top">See what's on</a>
-                                </div>
-                            
-                            </div>
-                        
-                            <div class="float_left">
-                        
-                                        <a href="/ukhome/promotions/bigmac.html"><img title="The Big Mac Mind Tests" alt="The Big Mac Mind Tests" class="cq-dd-image" src="/content/ukhome/promotions/bigmac/_jcr_content/promolevel3image.img.jpg/1395767007255.jpg"></a>
-                                    
-                                        <a href="/ukhome/promotions/mcflurry.html"><img title="Win amazing Summer prizes" alt="Win amazing Summer prizes" class="cq-dd-image" src="/content/ukhome/promotions/mcflurry/_jcr_content/promolevel3image.img.jpg/1402912824473.jpg"></a>
-                                    
-                            </div>
-                        
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="simplenav_li">
-                        <a href="/ukhome/Restaurants.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Restaurants/jcr:content/navimage.img.png/1393431176586.png');"></a>
+                        <div class="active_nav_widget" id="no_layer">
+                            <div id="no_inner_layer">
                     
-                    <div class="active_nav_widget" id="simplenav_layer">
-                      <div id="simplenav_inner_layer">
-            
-                            <div class="float_left first_column">
-                              <table class="column_table" cellspacing="0" cellpadding="0" border="0">
-                        
-                    
-                                <tbody><tr><td><a href="/ukhome/Restaurants/restaurant_locator.html">Restaurant Locator</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Restaurants/McDonaldssatnav.html">McDonald's Sat Nav</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Restaurants/McDonaldsonyourmobile.html">McDonald's on your mobile </a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Restaurants/family-events.html">Family Events</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Restaurants/Free-WiFi.html">Free WiFi</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Restaurants/Coffee-loyalty-card.html">Coffee Loyalty Card </a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Restaurants/Student-offer.html">Student offer</a></td></tr>
-                    
-                          </tbody></table>
+                        </div>
                         </div>
                     
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="simplenav_li">
-                        <a href="/ukhome/People.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/People/jcr:content/navimage.img.png/1393438004899.png');"></a>
-                    
-                    <div class="active_nav_widget" id="simplenav_layer">
-                      <div id="simplenav_inner_layer">
-            
-                            <div class="float_left first_column">
-                              <table class="column_table" cellspacing="0" cellpadding="0" border="0">
-                        
-                    
-                                <tbody><tr><td><a href="/ukhome/People/Join-the-team.html">Join the team</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/People/Meet-our-people.html">Meet our people</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/People/Schools-students.html">Schools &amp; students</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/People/Franchising.html">Franchising </a></td></tr>
-                    
-                          </tbody></table>
-                        </div>
-                    
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="simplenav_li">
-                        <a href="/ukhome/Ourworld.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Ourworld/jcr:content/navimage.img.png/1393411362903.png');"></a>
-                    
-                    <div class="active_nav_widget" id="simplenav_layer">
-                      <div id="simplenav_inner_layer">
-            
-                            <div class="float_left first_column">
-                              <table class="column_table" cellspacing="0" cellpadding="0" border="0">
-                        
-                    
-                                <tbody><tr><td><a href="/ukhome/Ourworld/Environment.html">Environment</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Ourworld/Ronald-McDonald-House-Charities.html">Ronald McDonald House Charities®</a></td></tr>
-                    
-                          </tbody></table>
-                        </div>
-                    
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="noflyout_li">
-                        <a href="/ukhome/Sport.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ukhome/Sport/jcr:content/navimage.img.png/1393431578612.png');"></a>
-                    
-            </li>
-            
-                    <li id="simplenav_li">
-                        <a href="/ukhome/Aboutus.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Aboutus/jcr:content/navimage.img.png/1393432732928.png');"></a>
-                    
-                    <div class="active_nav_widget" id="simplenav_layer">
-                      <div id="simplenav_inner_layer">
-            
-                            <div class="float_left first_column">
-                              <table class="column_table" cellspacing="0" cellpadding="0" border="0">
-                        
-                    
-                                <tbody><tr><td><a href="/ukhome/Aboutus/Franchising.html">Franchising</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Aboutus/Development.html">Development</a></td></tr>
-                    
-                                <tr><td><a href="/ukhome/Aboutus/Newsroom.html">Newsroom</a></td></tr>
-                    
-                          </tbody></table>
-                        </div>
-                    
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="noflyout_li">
-                        <a href="/ukhome/Contact-us.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ukhome/Contact-us/jcr:content/navimage.img.png/1393435805329.png');"></a>
-                    
-            </li>
-            
-                    <li id="no_li">
-                        <a href="/ukhome/test_page.html" id="no_link" class="nav_item" style=""></a>
-                    
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-            
-                    <li id="no_li">
-                        <a href="/ukhome/testmeuk.html" id="no_link" class="nav_item" style=""></a>
-                    
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-            
-                <li id="no_last_li">
-                    <a href="/ukhome/testukre.html" id="no_last_link" class="nav_item" style=""></a>
+                    </li>
                 
-                    <div class="active_nav_widget" id="no_layer">
-                      <div id="no_inner_layer">
-            
-                    </div>
-                </div>
-            
-            </li>
-               
+                            <li id="foodnav_li">
+                                <a href="/ukhome/Food.html" id="foodnav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/1_Food.png');"></a>
+                            
+                        <div class="active_nav_widget" id="foodnav_layer">
+                            <div id="foodnav_inner_layer">
+                    
+                                    <div class="float_left first_column">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="column_table">
+                                        <thead>
+                                            <tr>
+                                                <th>Menu</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                    
+                                            <tr><td>
+                                                <a href="/ukhome/Food/beef.html">Beef</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/Food/chicken.html">Chicken</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/Food/fish.html">Fish</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/Food/deli-choices.html">Deli Choices</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/Food/salads.html">Salads</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/Food/sides.html">Sides</a>
+                                            </td></tr>
+                                            
+                                        </tbody>
+                                    </table>
+                                    </div>
+                                    
+                                    <div class="float_left with_padding middle_column">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="column_table">
+                                        <thead>
+                                            <tr>
+                                                <th>&nbsp;</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                    
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/breakfast.html">Breakfast</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/little-tasters.html">Little Tasters</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/savers-menu.html">Saver Menu</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/desserts-treats.html">Desserts &amp; Treats</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/mccafe.html">McCafé</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/drinks-shakes.html">Drinks &amp; Shakes</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/more-food/happy-meal.html">Happy Meal</a>
+                                            </td></tr>
+                                            
+                                        </tbody>
+                                    </table>
+                                    </div>
+                                    
+                                    <div class="float_left with_padding last_column">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="column_table">
+                                        <thead>
+                                            <tr>
+                                                <th>Food quality</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                    
+                                            <tr><td>
+                                                <a href="/ukhome/nutrition-ingredients/what_makes_mcdonalds.html">What Makes McDonald's</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/nutrition-ingredients/nutrients.html">Nutrition</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/nutrition-ingredients/Ingredients_and_Allergen_Information.html">Ingredients &amp; Allergen Information</a>
+                                            </td></tr>
+                                            
+                                            <tr><td>
+                                                <a href="/ukhome/nutrition-ingredients/allergen-booklet.html">Allergen Booklet</a>
+                                            </td></tr>
+                                            
+                                        </tbody>
+                                    </table>
+                                    </div>
+                                    
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                            <li id="promonav_li">
+                                <a href="/ukhome/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/2_Promotions.png');"></a>
+                            
+                        <div class="active_nav_widget" id="promonav_layer">
+                            <div id="promonav_inner_layer">
+                    
+                                <div class="float_left">
+                                
+                                                <a href="/ukhome/promotions.html"><img title="McD_ChickenCheddarClassic_half_promo_flyout" alt="McD_ChickenCheddarClassic_half_promo_flyout" class="cq-dd-image" src="/content/ukhome/promotions/_jcr_content/promolevel2image.img.jpg/1413393244922.jpg"></a>
+                                                
+                                    <div class="promotions_link">
+                                        <a href="/ukhome/promotions.html" class="sub_nav_link off_top">See what's on</a>
+                                    </div>
+                                    
+                                </div>
+                                
+                                <div class="float_left">
+                                
+                                                <a href="/ukhome/Food/deli-choices.html"><img title="Daily deal on Deli" alt="Daily deal on Deli" class="cq-dd-image" src="/content/ukhome/Food/deli-choices/_jcr_content/promolevel3image.img.jpg/1413393172363.jpg"></a>
+                                                
+                                                <a href="/ukhome/promotions/malteser-mcflurry.html"><img title="Maltesers McFlurry" alt="Maltesers McFlurry" class="cq-dd-image" src="/content/ukhome/promotions/malteser-mcflurry/_jcr_content/promolevel3image.img.jpg/1380035595025.jpg"></a>
+                                                
+                                </div>
+                                
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                            <li id="noflyout_li">
+                                <a href="/ukhome/mccafe.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/3_McCafe.png');"></a>
+                            
+                    </li>
+                
+                            <li id="simplenav_li">
+                                <a href="/ukhome/Restaurants.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/4_Restaurants.png');"></a>
+                            
+                        <div class="active_nav_widget" id="simplenav_layer">
+                            <div id="simplenav_inner_layer">
+                    
+                            <div class="float_left first_column">
+                                <table class="column_table" cellspacing="0" cellpadding="0" border="0">
+                                
+                            
+                                <tbody><tr><td><a href="/ukhome/Restaurants/restaurant_locator.html">Restaurant Locator</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Restaurants/McDonaldssatnav.html">McDonald's Sat Nav</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Restaurants/McDonaldsonyourmobile.html">McDonald's on your mobile </a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Restaurants/Free-WiFi.html">Free WiFi</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Restaurants/Coffee-loyalty-card.html">Coffee Loyalty Card </a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Restaurants/Student-offer.html">Student offer</a></td></tr>
+                            
+                                </tbody></table>
+                            </div>
+                        
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                            <li id="simplenav_li">
+                                <a href="/ukhome/People.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/5_People.png');"></a>
+                            
+                        <div class="active_nav_widget" id="simplenav_layer">
+                            <div id="simplenav_inner_layer">
+                    
+                            <div class="float_left first_column">
+                                <table class="column_table" cellspacing="0" cellpadding="0" border="0">
+                                
+                            
+                                <tbody><tr><td><a href="/ukhome/People/Join-the-team.html">Join the team</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/People/Meet-our-people.html">Meet our people</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/People/Schools-students.html">Schools &amp; students</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/People/Franchising.html">Franchising </a></td></tr>
+                            
+                                </tbody></table>
+                            </div>
+                        
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                            <li id="noflyout_li">
+                                <a href="/ukhome/Sport.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/6_Football.png');"></a>
+                            
+                    </li>
+                
+                            <li id="simplenav_li">
+                                <a href="/ukhome/Family.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/7_Family.png');"></a>
+                            
+                        <div class="active_nav_widget" id="simplenav_layer">
+                            <div id="simplenav_inner_layer">
+                    
+                            <div class="float_left first_column">
+                                <table class="column_table" cellspacing="0" cellpadding="0" border="0">
+                                
+                            
+                                <tbody><tr><td><a href="/ukhome/Family/freefruitfridays.html">Free Fruit Fridays</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Family/Happy-meal.html">Happy Meal</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Family/family-events.html">Family Events</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Family/happy-meal-menu.html">Happy Meal Menu</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Family/mac.html">Happy Meal Mail</a></td></tr>
+                            
+                                </tbody></table>
+                            </div>
+                        
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                            <li id="simplenav_li">
+                                <a href="/ukhome/Ourworld.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/8_OurWorld.png');"></a>
+                            
+                        <div class="active_nav_widget" id="simplenav_layer">
+                            <div id="simplenav_inner_layer">
+                    
+                            <div class="float_left first_column">
+                                <table class="column_table" cellspacing="0" cellpadding="0" border="0">
+                                
+                            
+                                <tbody><tr><td><a href="/ukhome/Ourworld/Environment.html">Environment</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Ourworld/Ronald-McDonald-House-Charities.html">Ronald McDonald House Charities®</a></td></tr>
+                            
+                                </tbody></table>
+                            </div>
+                        
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                            <li id="simplenav_li">
+                                <a href="/ukhome/Aboutus.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/9_AboutUs.png');"></a>
+                            
+                        <div class="active_nav_widget" id="simplenav_layer">
+                            <div id="simplenav_inner_layer">
+                    
+                            <div class="float_left first_column">
+                                <table class="column_table" cellspacing="0" cellpadding="0" border="0">
+                                
+                            
+                                <tbody><tr><td><a href="/ukhome/Aboutus/Franchising.html">Franchising</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Aboutus/Development.html">Development</a></td></tr>
+                            
+                                <tr><td><a href="/ukhome/Aboutus/Newsroom.html">Newsroom</a></td></tr>
+                            
+                                </tbody></table>
+                            </div>
+                        
+                        </div>
+                        </div>
+                    
+                    </li>
+                
+                        <li id="noflyout_last_li">
+                            <a href="/ukhome/Contact-us.html" id="noflyout_last_link" class="nav_item" style="background-image: url('/content/dam/McDonaldsUK/Navigation/2014 navigation/10_ContactUs.png');"></a>
+                        
+                    </li>
+                   
         </ul>
          
-    
-    </div>
-    <div class="clear"></div>
-    
+   
+</div>
+<div class="clear"></div>
+
 <script>
 String.prototype.trim = function () {
-                return this.replace(/^\s*/, "").replace(/\s*$/, "");
-        }  
+    return this.replace(/^\s*/, "").replace(/\s*$/, "");
+}  
         
-function submitSearchLeftNav(searchPath,searchReqMsg,searchText,country)
-{
+function submitSearchLeftNav(searchPath,searchReqMsg,searchText,country) {
     var searchVal = document.search_frm.queryText.value.trim();
     
-    if(searchVal=="" || searchVal==searchText)
-    {
+    if(searchVal=="" || searchVal==searchText) {
         alert(searchReqMsg);
         $("#leftnav_search_text").focus();
-        //return false;
-    }
-    else
-    {
-       // var formActionn = searchPath+"?queryText="+escape(searchVal)+"&collection="+country;
+    } else {
        var formActionn = searchPath+"?queryText="+escape(_utf8_encode(searchVal))+"&collection="+country;
        window.open(formActionn,"_self");  
-        //document.search_frm.queryText.value = escape(searchVal);
-        //document.search_frm.submit();   
     }
 }
 
-
-function submitLocator(formAction,locAlertText,locText,country,language)
-{
+function submitLocator(formAction,locAlertText,locText,country,language) {
     var primaryCity = document.locator_frm.primaryCity.value.trim();  
     
-    if(primaryCity=="" || primaryCity==locText)
-    {
+    if(primaryCity=="" || primaryCity==locText) {
         alert(locAlertText);
         $("#leftnav_restaurant_text").focus();
-    }
-    else
-    {
+    } else {
        var postalCode = "";
        
-       //alert('country==='+country);
-       
-       if('usa'==country && !isNaN(primaryCity))
-       {
+       if('usa'==country && !isNaN(primaryCity)) {
            postalCode = primaryCity;
        }
        
-       if('sweden'==country)
-       {       
-         postalCode = primaryCity;       
+       if('sweden'==country) {
+           postalCode = primaryCity;       
        }
-       
-      
-       //alert('postalCode ==='+postalCode);  
-       
-       
+
        var formActionn = formAction+"?country="+country+"&method=search&primaryCity="+escape(primaryCity)+"&postalCode="+escape(postalCode)+"&language="+language;
-       window.open(formActionn,"_self");  
-               
+       window.open(formActionn,"_self");             
     }
-      
-} 
+}
+ 
 function _utf8_encode(string) {
-            string = string.replace(/\r\n/g,"\n");
-            var utftext = "";
- 
-            for (var n = 0; n < string.length; n++) {
- 
-                  var c = string.charCodeAt(n);
- 
-                  if (c < 128) {
-                        utftext += String.fromCharCode(c);
-                  }
-                  else if((c > 127) && (c < 2048)) {
-                        utftext += String.fromCharCode((c >> 6) | 192);
-                        utftext += String.fromCharCode((c & 63) | 128);
-                  }
-                  else {
-                        utftext += String.fromCharCode((c >> 12) | 224);
-                        utftext += String.fromCharCode(((c >> 6) & 63) | 128);
-                        utftext += String.fromCharCode((c & 63) | 128);
-                  }
- 
-            }
- 
-            return utftext;
-      } 
-
-
-
-</script>  </div>
+    string = string.replace(/\r\n/g,"\n");
+    var utftext = "";
+    
+    for (var n = 0; n < string.length; n++) {
+        var c = string.charCodeAt(n);
+        if (c < 128) {
+            utftext += String.fromCharCode(c);
+        } else if((c > 127) && (c < 2048)) {
+            utftext += String.fromCharCode((c >> 6) | 192);
+            utftext += String.fromCharCode((c & 63) | 128);
+        } else {
+            utftext += String.fromCharCode((c >> 12) | 224);
+            utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+            utftext += String.fromCharCode((c & 63) | 128);
+        }
+    }
+    return utftext;
+} 
+</script></div>
 
         </div> 
 
@@ -995,12 +879,10 @@ function _utf8_encode(string) {
                 <div class="mcdonaldsbreadcrumb breadcrumb">
 
 
- 
-   
+    
 
 
- 
- 
+  
   
         
      
@@ -1035,90 +917,107 @@ function _utf8_encode(string) {
 
 
 
-
  
 <script>
-   var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js'; 
-   
-    function twitter()      
-    { 
-            Tracker1('uri','/share/twitter','title','Share_Twitter','share',''+encodeURIComponent(location.href)+''); 
-        window.open('http://www.addtoany.com/add_to/twitter?linkurl='+encodeURIComponent(location.href)+'&linkname='+encodeURIComponent(document.title),'twitter'); 
+    var webtrends = '';
+    var pageURL = "/content/ukhome/policies/privacy-policy";
+    var twtmsg = "";
+    var twturl = "";
+    function twitter() {
+        //Tracker1('uri','/share/twitter','title','Share_Twitter','share',''+encodeURIComponent(location.href)+'');
+        if(pageURL == "/content/ukhome") {
+            if(twturl != '' && twtmsg != '') {
+                window.open('http://www.addtoany.com/add_to/twitter?linkurl='+encodeURIComponent(twturl)+'&linkname='+encodeURIComponent(twtmsg),'twitter');
+            } else {
+                window.open('http://www.addtoany.com/add_to/twitter?linkurl='+encodeURIComponent(location.href)+'&linkname='+encodeURIComponent(document.title),'twitter');
+            }
+        } else {
+            window.open('http://www.addtoany.com/add_to/twitter?linkurl='+encodeURIComponent(location.href)+'&linkname='+encodeURIComponent(document.title),'twitter');
+        }
     }
     
-    function facebook()
-    {
-            Tracker1('uri','/share/facebook','title','Share_Facebook','share',''+encodeURIComponent(location.href)+'');
-            window.open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title),'facebook');
+    
+    function facebook() {
+        // Tracker1('uri','/share/facebook','title','Share_Facebook','share',''+encodeURIComponent(location.href)+'');
+        if(pageURL == "/content/ukhome") {
+            if(twturl != '') {
+                window.open('http://www.facebook.com/share.php?u='+encodeURIComponent(twturl),'facebook');
+            } else {
+                window.open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href),'facebook');
+            }
+        } else {
+            window.open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href),'facebook');
+        }
     }
     
-    function delicious()
-    {
-            Tracker1('uri','/share/delicious','title','Share_Delicious','share',''+encodeURIComponent(location.href)+'');        window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious');
+    function delicious() {
+        //Tracker1('uri','/share/delicious','title','Share_Delicious','share',''+encodeURIComponent(location.href)+'');
+        window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious');
     }
     
-    function digg()
-    {
-            Tracker1('uri','/share/digg','title','Share_Digg','share',''+encodeURIComponent(location.href)+'');         
+    function digg() {
+        //Tracker1('uri','/share/digg','title','Share_Digg','share',''+encodeURIComponent(location.href)+'');
         window.open('http://digg.com/submit?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'digg');
     }
     
-    function googlebuzz()
-    {
-            Tracker1('uri','/share/googlebuzz','title','Share_Google_Buzz','share',''+encodeURIComponent(location.href)+'');  
+    function googlebuzz() {
+        //Tracker1('uri','/share/googlebuzz','title','Share_Google_Buzz','share',''+encodeURIComponent(location.href)+'');
         window.open('http://www.google.com/buzz/post?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'googlebuzz');
     }
     
-    function linkedin()
-    {
-            Tracker1('uri','/share/linkedin','title','Share_LinkedIn','share',''+encodeURIComponent(location.href)+''); 
+    function linkedin() {
+        //Tracker1('uri','/share/linkedin','title','Share_LinkedIn','share',''+encodeURIComponent(location.href)+'');
         window.open('http://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&source=mcdonalds','linkedin');
     }
     
-    function blogger()
-    {
-            Tracker1('uri','/share/blogger','title','Share_Blogger','share',''+encodeURIComponent(location.href)+''); 
+    function blogger() {
+        //Tracker1('uri','/share/blogger','title','Share_Blogger','share',''+encodeURIComponent(location.href)+'');
         window.open('http://www.blogger.com/blog_this.pyra?t&u='+encodeURIComponent(location.href)+'&n='+encodeURIComponent(document.title),'blogger');
     }
-    
-    function emailform()
-    {
-            Tracker1('uri','/share/emailform','title','Share_Email','share',''+encodeURIComponent(location.href)+''); 
-    }
-    
-    function rssnews()
-    {
-            Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
-    }
 
+    function emailform() {
+        //Tracker1('uri','/share/emailform','title','Share_Email','share',''+encodeURIComponent(location.href)+''); 
+    }
+    
+    function rssnews() {
+        //Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
+    }
 </script>  
-                
-                
+               
         <a href="javascript:void(0);">Share</a>
-           </div>
-
-<div id="share_spacer"></div> 
-    
- 
-  
-<div id="share_flyout" class="alt" style="display: none; top: 30px; left: 191.641px;">
-    
-                <a href="javascript:facebook();" class="external" id="share_facebook" title="Facebook"><img src="/content/dam/UK01NewsAssets/02 Social Media/facebook.png" width="16" height="16" alt="Facebook"></a>      
-            
-                <a href="javascript:linkedin();" class="external" id="share_linkedin" title="Linkedin"><img src="/content/dam/UK01NewsAssets/02 Social Media/linkedin.png" width="16" height="16" alt="Linkedin"></a>
-            
-                <a href="javascript:digg();" class="external" id="share_digg" title="Digg"><img src="/content/dam/UK01NewsAssets/02 Social Media/digg.png" width="16" height="16" alt="Digg"></a>
-            
-                <a href="/ukhome/policies/privacy-policy.emailform.html?currentPageTitle=Privacy+Policy&amp;currentPageUrl=http%3A%2F%2Fwww.mcdonalds.co.uk%2Fukhome%2Fpolicies%2Fprivacy-policy.html&amp;currentPagePath=%2Fcontent%2Fukhome%2Fpolicies%2Fprivacy-policy" id="share_email" title="E-mail" class="cboxElement"><img src="/content/dam/UK01NewsAssets/02 Social Media/email.png" width="16" height="16" alt="E-mail"></a>
-            
-                <a href="javascript:delicious();" class="external" id="share_delicious" title="Delicious"><img src="/content/dam/UK01NewsAssets/02 Social Media/delicious.png" width="16" height="16" alt="Delicious"></a>
-            
-                <a href="javascript:twitter();" class="external" id="share_twitter" title="Twitter"><img src="/content/dam/UK01NewsAssets/02 Social Media/twitter.png" width="16" height="16" alt="Twitter"></a>
-            
-</div> 
-<div style="clear:both"></div>
-
     </div>
+    
+    <div id="share_spacer"></div> 
+    
+  
+    <div id="share_flyout" class="alt" style="display: none; top: 30px; left: 191.641px;">
+    
+                <a href="javascript:facebook();" class="external" id="share_facebook" title="Facebook">
+                    <img src="/content/dam/UK01NewsAssets/02 Social Media/facebook.png" width="16" height="16" alt="Facebook">
+                </a>
+            
+                <a href="javascript:linkedin();" class="external" id="share_linkedin" title="Linkedin">
+                    <img src="/content/dam/UK01NewsAssets/02 Social Media/linkedin.png" width="16" height="16" alt="Linkedin">
+                </a>
+            
+                <a href="javascript:digg();" class="external" id="share_digg" title="Digg">
+                    <img src="/content/dam/UK01NewsAssets/02 Social Media/digg.png" width="16" height="16" alt="Digg">
+                </a>
+            
+                <a href="/ukhome/policies/privacy-policy.emailform.html?currentPageTitle=Privacy+Policy&amp;currentPageUrl=http%3A%2F%2Fwww.mcdonalds.co.uk%2Fukhome%2Fpolicies%2Fprivacy-policy.html&amp;currentPagePath=%2Fcontent%2Fukhome%2Fpolicies%2Fprivacy-policy" id="share_email" title="E-mail" class="cboxElement">
+                    <img src="/content/dam/UK01NewsAssets/02 Social Media/email.png" width="16" height="16" alt="E-mail">
+                </a>
+            
+                <a href="javascript:delicious();" class="external" id="share_delicious" title="Delicious">
+                    <img src="/content/dam/UK01NewsAssets/02 Social Media/delicious.png" width="16" height="16" alt="Delicious">
+                 </a>
+            
+                <a href="javascript:twitter();" class="external" id="share_twitter" title="Twitter">
+                    <img src="/content/dam/UK01NewsAssets/02 Social Media/twitter.png" width="16" height="16" alt="Twitter">
+                </a>
+            
+    </div> 
+<div style="clear:both"></div></div>
 
         
            
@@ -1137,7 +1036,6 @@ function _utf8_encode(string) {
 
 
  
-
     <div id="page_wrapper">
         <div id="page_content">
     
@@ -1153,14 +1051,12 @@ function _utf8_encode(string) {
                 
 
  
-
      
     <div id="page_narrow_content"> 
         <div style="padding-top: 44px; padding-left: 43px; padding-right:30px; padding-bottom:30px;">
             <div class="parsys genericpagecontent"><div class="everything section">
 
  
-
 
   
 
@@ -1281,7 +1177,6 @@ UK</p>
 
  
 
-
  
 
  
@@ -1297,22 +1192,22 @@ UK</p>
     
     function twitterMCD() 
     { 
-        Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+        //Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
         window.open('http://www.twitter.com/McDonalds'); 
     }
       function YouTubeMCD() 
     { alert("inside function");
-        Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+       // Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
         window.open('http://www.YouTube.com/McDonalds'); 
     }
       function FlickerMCD() 
     { 
-        Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+       // Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
         window.open('http://www.Flicker.com/McDonalds'); 
     }
     function facebookMCD()
     {
-        Tracker('uri','/facebook/McDonalds','title','Go to Facebook.com/McDonalds');
+       // Tracker('uri','/facebook/McDonalds','title','Go to Facebook.com/McDonalds');
         window.open('http://www.facebook.com/McDonalds');
     }    
 </script>
@@ -1324,11 +1219,26 @@ UK</p>
     
         <td align="left" valign="middle" class="bigger_and_bolder">
  
+                    <div style="float:left; margin-left:8px;">
+                <a class="external" href="" onclick="javascript:;" title="">
+                       
+                  </a>
+                     </div>
                 <div style="float:left;">
             <a class="external" href="http://www.facebook.com/McDonaldsUK" onclick="javascript:;" title="">
                     <img align="absmiddle" src="/content/dam/UK01NewsAssets/02 Social Media/share_facebook.png" alt=""><span style="margin-left:3px;">Like us on Facebook</span>
               </a> 
            </div>     
+                  <div style="float:left; margin-left:8px;">
+             <a href="https://twitter.com/McDonaldsUK" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @McDonaldsUK</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      
+                 </div>               
+                  <div style="float:left; margin-left:8px;">
+             <script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCRpqjPtyLWp51TRyi515Rlg" data-layout="default" data-count="hidden"></div>      
+                 </div>               
                       <div style="float:left; margin-left:8px;">
             <a href="/ukhome/newsletter-signup.html" onclick="javascript:;" title="">
                     <img align="absmiddle" src="/content/dam/McDonaldsUK/Newsletter/nl_icon.png" alt=""><span style="margin-left:3px;">Sign up to our newsletter</span>
@@ -1426,42 +1336,22 @@ UK</p>
  
  
  
- <!-- START OF SmartSource Data Collector TAG -->
-<!-- Created: 12/2/2011 -->
-<script type="text/javascript"> 
-var _tagurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
-var _multitrackerurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/multitracker.js';
-var _rmanalyticsurl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www1.mcdonalds.com/metrics/leftnav/RMAnalytics.js';
-</script>
-<script type="text/javascript"> 
-document.write("<script type='text/javascript' src="+ _tagurl + "><\/script>");
-document.write("<script type='text/javascript' src="+ _multitrackerurl + "><\/script>");
-document.write("<script type='text/javascript' src="+ _rmanalyticsurl + "><\/script>");
-
-</script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js"></script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/multitracker.js"></script><script type="text/javascript" src="https://www1.mcdonalds.com/metrics/leftnav/RMAnalytics.js"></script>
- 
-<!-- ----------------------------------------------------------------------------------- -->
-<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
-<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-<!-- ----------------------------------------------------------------------------------- --> 
-<script type="text/javascript">
- //<![CDATA[ 
-var _tag=new WebTrends();
-_tag.dcsGetId();
- //]]>>
- </script>
- <script type="text/javascript"> 
-//<![CDATA[ 
-// Add custom parameters here.
-//_tag.DCSext.param_name=param_value;
-_tag.dcsCollect();
-//]]>>
-</script>
-<!-- END OF SmartSource Data Collector TAG -->  
-            
+  <!-- START OF Google Analytics TAG -->
+    <script type="text/javascript"> 
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', "UA-25024961-1"]);
+    _gaq.push(['_setDomainName', 'mcdonalds.co.uk']);
+    _gaq.push(['_addIgnoredRef', 'mcdonalds.co.uk']);                                      
+    _gaq.push(['_trackPageview']);
      
-       
-      
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+     
+    </script>
+  <!-- END OF Google Analytics TAG -->   
            
  
  
