@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073539id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022155448id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
 
 # Privacy - UWE Bristol: Website information
 
@@ -22,7 +22,7 @@ You are not personally identifiable as an individual from such information alone
 
 To maintain and improve the quality of our website we use the Digital Analytix web metrics service provided by comScore. The Digital Analytix  Privacy Policy states that comScore"do not link IP-addresses of your website visitors to individuals" and that where measuring data includes personal data that comScore will process such data only on our behalf and will not use the data on its own behalf, nor make the data available to other comScore customers, unless the data have been anonimised and aggregated (i.e. are no longer linked to an individual or to our website).
 
-Some UWE web pages use Google Analytics rather than Digital Analytix. These include the [UWE new campus](http://www.uwenewcampus.com/) web pages and internal wesbites for staff and students. Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to measure use of websites. For more information about these cookies please see our [Cookie Policy](https://web.archive.org/aboutus/websiteinformation/cookiepolicy.aspx).
+Some UWE web pages use Google Analytics rather than Digital Analytix. These include the [Real World University](http://www.realworlduniversity.co.uk/) web pages and internal wesbites for staff and students. Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to measure use of websites. For more information about these cookies please see our [Cookie Policy](https://web.archive.org/aboutus/websiteinformation/cookiepolicy.aspx).
 
 If you visited the UWE website by following a Google Adwords link, Google willl have set a cookie to confirm that you have used their service.  The UWE website will support confirmation that the Adword has been used.
 
