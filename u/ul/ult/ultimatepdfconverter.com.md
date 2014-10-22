@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatepdfconverter.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501005726id_/http%3A//www.ultimatepdfconverter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatepdfconverter.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022025537id_/http%3A//www.ultimatepdfconverter.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
