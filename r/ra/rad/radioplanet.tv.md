@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioplanet.tv privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506011457id_/http%3A//www.radioplanet.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioplanet.tv privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022135949id_/http%3A//www.radioplanet.tv/privacy) for the most accurate reproduction.*
 
 # Privacy | RadioPlanet.tv | Where Hip Hop Meets Hollywood
 
