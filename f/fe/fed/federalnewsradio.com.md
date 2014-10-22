@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626144752id_/http%3A//www.federalnewsradio.com%3Fsid%3D1551735%26nid%3D635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022150632id_/http%3A//www.federalnewsradio.com%3Fsid%3D1551735%26nid%3D635) for the most accurate reproduction.*
 
 # Privacy Statement - FederalNewsRadio.com
-
-**Privacy Policy**  
-Updated: April 26, 2011 
 
 **General.** This website (the "Site") is operated by Hubbard Radio, LLC ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted above on this page. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
@@ -17,4 +14,4 @@ Updated: April 26, 2011
 
 **Ownership and Use of Information.** Any information collected by Operator in connection with your use of the Site - regardless of whether characterized as Personal Information or aggregate - shall belong exclusively to Operator and will be used, maintained, updated, disclosed or sold by Operator at its sole discretion. 
 
-**Contact Information**. Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jmeyer@wtop.com. 
+**Contact Information**. Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jmeyer@wtop.com.
