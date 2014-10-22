@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620052413id_/https%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023002637id_/http%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
 
-# PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
+# Privacy Policy
 
 This site is owned and operated by PayScale, Inc. We understand that you value your privacy and take every precaution to ensure that your information is protected. At PayScale, we want to make your experience online satisfying and safe. This Privacy Policy covers PayScale's treatment of Personally Identifiable Information that is collected when you are on the PayScale site, and when you use PayScale's services. This policy also covers PayScale's treatment of any Personally Identifiable Information that PayScale receives from employers and our business partners. This policy does not apply to the privacy practices of companies or sites that PayScale does not own, or to individuals that PayScale does not employ. 
 
@@ -88,8 +88,6 @@ This web site is hosted in the United States. If you are visiting from the Europ
 
   * In order to enable the attribute-matching features of the PayScale system, users running a PayScale Report(tm) receive limited access to questionnaire data in the form of generic peer profiles. While these profiles include data on job, compensation, geographic location, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular user. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
   * In order to enable the attribute-matching features of the PayScale Business Services, users running searches on PayScale Professional and other Business Services Platforms are asked to enter employee and job-specific profile information. While these profiles include data on employee skills, tasks, experiences, organization size, geographic location, minimum requirements for jobs, compensation, skills, experience, education and demographic information, the intent of the PayScale service is that this information is not traceable to any particular employer or employee. Use of the system signifies an understanding of the source of the data and an agreement on the part of the user to both access and share anonymous user data.
-
-
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
