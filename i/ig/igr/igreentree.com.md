@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igreentree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080029id_/http%3A//igreentree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igreentree.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022163440id_/http%3A//igreentree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greentree Systems, Inc.
 
