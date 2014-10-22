@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011207id_/http%3A//www.proactiveinvestors.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022214455id_/http%3A//www.proactiveinvestors.com/pages/privacy) for the most accurate reproduction.*
 
 # Proactive Investors North America, Breaking Financial News on Mining, Commodities, Stocks, Shares and Stock Markets - Privacy
 
