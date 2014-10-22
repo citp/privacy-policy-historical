@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511004006id_/http%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022180047id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
 
-# Psychz Networks - Privacy Policy
+# Psychz Networks
 
-## Privacy Policy 
-
-**Psychz Networks** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.Psychz Networks.com](http://www.photonvps.com/)
+**Psychz Networks** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.Psychz Networks.com](http://www.psychz.com/)
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
@@ -30,5 +28,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided.   
-**Email :**[ **sales@psychz.net**](mailto:sales@psychz.net)
+This site gives users the following options for changing and modifying information previously provided. **Email :**[ **sales@psychz.net**](mailto:sales@psychz.net)
