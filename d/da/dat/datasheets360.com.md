@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasheets360.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327101003id_/http%3A//www.datasheets360.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheets360.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022073022id_/http%3A//www.datasheets360.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Datasheets360.com
 
