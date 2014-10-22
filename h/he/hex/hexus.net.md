@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hexus.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040322id_/http%3A//hexus.net/static/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexus.net privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023001921id_/http%3A//hexus.net/static/terms) for the most accurate reproduction.*
 
 # HEXUS.net - Terms and Conditions
 
 ## Terms and Conditions of Usage
 
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern HEXUS® Limited's relationship with you in relation to this website.
+Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern The Media Limited's relationship with you in relation to this website.
 
-The term "HEXUS® Limited" or "us" or "we" refers to the owner of the website whose registered office is HEXUS Ltd, Alexander House, 19 Fleming Way, Swindon, Wiltshire SN1 2NG. Our company registration number is 05368054. The term "you" refers to the user or viewer of our website. The term "our website" or "this website" or "the website" refers to any website and its subdomains published by "HEXUS® Limited".
+The term "The Media Team® Limited" or "us" or "we" refers to the owner of the website whose registered office is The Media Team Ltd, 17 Alban Park, St Albans, Hertfordshire, AL4 0JJ. Our company registration number is 09007080\. The term "you" refers to the user or viewer of our website. The term "our website" or "this website" or "the website" refers to any website and its subdomains published by "The Media Limited".
 
 The use of this website is subject to the following terms of use: 
 
@@ -22,11 +22,11 @@ The use of this website is subject to the following terms of use:
 
 ## Privacy policy
 
-This privacy policy sets out how "HEXUS® Limited" uses and protects any information that you give "HEXUS® Limited" when you use this website.
+This privacy policy sets out how "The Media Limited" uses and protects any information that you give "The Media Limited" when you use this website.
 
-"HEXUS® Limited" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+"The Media Limited" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-"HEXUS® Limited" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20th November 2009.
+"The Media Limited" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20th November 2009.
 
 ### What we collect
 
@@ -71,7 +71,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ### Third party cookies
 
-"HEXUS® Limited" displays third party advertisements on this website. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (providing advertising material relevant to your region, country or continent) or showing certain ads based on specific sites previously visited by you.
+"The Media Limited" displays third party advertisements on this website. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (providing advertising material relevant to your region, country or continent) or showing certain ads based on specific sites previously visited by you.
 
 To find out more about our cookies and third party cookies used on the site, see our [dedicated cookies page](http://hexus.net/static/cookies/).
 
@@ -95,13 +95,13 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ### Disclaimer
 
-The information contained in this website is for general information purposes only. The information is provided by "HEXUS® Limited" and whilst we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+The information contained in this website is for general information purposes only. The information is provided by "The Media Limited" and whilst we endeavour to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
 In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of or in connection with the use of this website.
 
-Through this website you are able to link to other websites which are not under the control of "HEXUS® Limited". We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+Through this website you are able to link to other websites which are not under the control of "The Media Limited". We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
-Every effort is made to keep the website up and running smoothly. However, "HEXUS® Limited" takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.
+Every effort is made to keep the website up and running smoothly. However, "The Media Limited" takes no responsibility for and will not be liable for the website being temporarily unavailable due to technical issues beyond our control.
 
 ### Citation
 
