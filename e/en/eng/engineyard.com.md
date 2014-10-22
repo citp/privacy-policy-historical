@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513050609id_/https%3A//www.engineyard.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineyard.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022110519id_/https%3A//www.engineyard.com/policies/privacy) for the most accurate reproduction.*
 
 # Engine Yard Privacy Policy
 
@@ -40,7 +40,7 @@ If you would like to contact Engine Yard regarding the use of your personal info
 
 As part of our commitment to protecting your privacy, Engine Yard has elected to adhere to the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the United States Department of Commerce (collectively, the “Safe Harbor Principles”) with respect to the collection, use and retention of personal data collected by Engine Yard directly from residents of European Union member countries and Switzerland. By certifying this election with the Department of Commerce, Engine Yard has declared that it intends to provide privacy protection with respect to such personal data in accordance with the Safe Harbor Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor Principles, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
 
-For information regarding Engine Yard’s processing of personal data that is stored on Engine Yard’s servers at the direction of Engine Yard’s customers and their end users located in European Union member countries and Switzerland (and that is not collected by Engine Yard directly from individuals via the Website), please see the Engine Yard EU Safe Harbor Privacy Policy located at <http://www.engineyard.com/policies/eusafeharborprivacypolicy>.
+For information regarding Engine Yard’s processing of personal data that is stored on Engine Yard’s servers at the direction of Engine Yard’s customers and their end users located in European Union member countries and Switzerland (and that is not collected by Engine Yard directly from individuals via the Website), please see the Engine Yard EU Safe Harbor Privacy Policy located at <http://www.engineyard.com/policies/eusafeharborpolicy>.
 
 #### Linked Sites
 
