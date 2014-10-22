@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084418id_/http%3A//juneauempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022220733id_/http%3A//juneauempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / About Our Ads | Juneau Empire - Alaska's Capital City Online Newspaper
 
