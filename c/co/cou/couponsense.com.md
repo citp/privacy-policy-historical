@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsense.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608033930id_/http%3A//www.couponsense.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsense.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022150513id_/http%3A//www.couponsense.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Coupon Sense Privacy Policy | Coupon Sense - Using Coupons Makes Sense!
 
