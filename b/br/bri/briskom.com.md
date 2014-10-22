@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briskom.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041545id_/http%3A//www.briskom.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskom.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022044912id_/http%3A//www.briskom.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Briskom : Ultimate Database of Classified
 
