@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alotporn.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604012010id_/http%3A//alotporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alotporn.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022084807id_/http%3A//alotporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
