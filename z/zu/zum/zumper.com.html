@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the zumper.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331061747id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zumper.com privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022033900id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+    <script src="//cdn.optimizely.com/js/1004280367.js"></script>
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-21602263-1'], ['_setDomainName', 'zumper.com'], ['_trackPageview']);
@@ -20,14 +21,16 @@
 
     <title>Privacy Policy - Zumper</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://d2n1sxp1qtdjke.cloudfront.net/ff/css/zumper_min.css" rel="stylesheet">
-    <link href="https://d214hhm15p4t1d.cloudfront.net/ff/img/favicon.ico" rel="shortcut icon">
+    <link href="https://d2n1sxp1qtdjke.cloudfront.net/497f9/css/zumper_min.css" rel="stylesheet">
+    <link href="https://d214hhm15p4t1d.cloudfront.net/497f9/img/favicon.ico" rel="shortcut icon">
     
     <meta property="og:type" content="company">
     <meta property="og:site_name" content="Zumper Homes and Apartments for Rent">
     <meta property="og:url" content="https://www.zumper.com/privacy-policy">
     <meta property="fb:admins" content="russell.j.middleton">
     <meta name="apple-itunes-app" content="app-id=678683201">
+    <meta name="google-play-app" content="app-id=com.zumper.rentals">
+
     <meta name="robots" content="noodp,noydir">
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -37,21 +40,22 @@
     
       <script type="text/javascript" src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
     
-  </head>
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
   <body>
-    <div id="nav-bar">
-      <div class="container">
-        <div class="float-left">
-          <a class="header-map-link" href="/">
-            <img alt="Homes and Apartments for Rent" class="logo" src="https://d2n1sxp1qtdjke.cloudfront.net/ff/img/header-logo.png">
-          </a>
-        </div>
-        <div class="sections" id="section-links">
-          <a class="unselected" href="/map">Map</a><a class="unselected" href="/listing-feed">Listing Feed</a><a class="unselected" href="/favorites"><img class="favorites-star" listing-id="" src="https://d214hhm15p4t1d.cloudfront.net/ff/img/star-small-full.png" title="Favorite Listing"> Favorites</a>
-        </div>
-        <div class="nav-bar-links" id="header-links">
-          
+    
+      <div id="nav-bar" ng-controller="TenantNavBarCtrl" class="hide-on-mobile ">
+        <div class="container">
+          <div class="float-left">
+            <a class="header-map-link" href="/">
+              <img alt="Homes and Apartments for Rent" class="logo" src="https://d2n1sxp1qtdjke.cloudfront.net/497f9/img/header-logo.png">
+            </a>
+          </div>
+          <div class="sections" id="section-links">
+            <a class="unselected" href="/map">Map</a><a class="unselected" href="/listing-feed">Listing Feed</a><a class="unselected" href="/favorites">Favorites</a><a class="unselected" href="/apply"><img class="zapp-icon" src="https://d2n1sxp1qtdjke.cloudfront.net/497f9/img/icon-zapp.png" title="Apply">Apply<div class="zapp-notices ng-cloak" ng-show="activeNotices">{[ activeNotices.length ]}</div></a>
+          </div>
+          <div class="nav-bar-links" id="header-links">
+            
   
     <a class="signin-link login-link" href="#">Sign In</a> <span class="small-divider">|</span>
     <a class="signup-link login-link" href="#">Create Account</a> <span class="small-divider">|</span>
@@ -59,15 +63,27 @@
   <a class="btn btn-bright post-listings-link" href="/pro">Post with Zumper Pro</a>
 
 
-        </div>
-        
+          </div>
+          
 
 <div butter-bar="" class="butter-bar-container butter-bar-container- ng-cloak" ng-show="visible" ng-click="hideMessage()">
-  <div class="butter-bar">{[ message ]}</div>
+  <div class="butter-bar" ng-style="style">
+    {[ message ]}
+    <div ng-if="messageHtml" class="butter-bar" ng-bind-html="messageHtml"></div>
+    <div ng-if="actionText &amp;&amp; action" class="butter-bar-action" ng-click="actionClicked()">{[ actionText ]}</div>
+    <div ng-if="addendum"></div>
+    <div ng-if="addendum" class="butter-bar-addendum">{[ addendum ]}</div>
+  </div>
 </div>
 
+        </div>
       </div>
-    </div>
+      <nav class="nav-mobile show-on-mobile">
+        <a class="logo" href="/">
+          <img src="https://d2n1sxp1qtdjke.cloudfront.net/497f9/img/logo.svg">
+        </a>
+      </nav>
+    
     <div class="content-wrapper">
       
   <div class="content-container">
@@ -91,6 +107,8 @@
 <p>Personal Information:</p>
 
 <p><i>Renters</i>: If you sign up to use services offered through the Website, Zumper may collect certain personal information, including your name, email address, home address, employment information, phone number, educational background, credit score, financial information and income and tenancy history (collectively, the "Personal Information"). The collection of such Personal Information is consistent with our provision of services to you, including the facilitation of preliminary determinations by landlords, landlord representatives, brokers, property managers and sub-lessors of your suitability as a potential tenant. In addition, if you contact Zumper and disclose additional personal information, we may store that Personal Information.</p>
+
+<p>In addition to other information Personal Information we collect when you register, you may provide to our third­party service providers through certain features of the Website Personal Information together with your driver's license number and/or social security number in order to verify your identity. This information is used in order to fulfill your request to provide certain other users of the Website with your credit report and credit score.</p>
 
 <p><i>Landlords and Brokers</i>: When landlords, landlord representatives, brokers, property managers and sub-lessors list properties for rent on the Website, we collect the name, telephone number and email address of a contact person for such landlord, landlord representative, broker property manager or sub-lessor. We also collect bank account information from landlords, landlord representatives, brokers, property managers and sub-lessors so we are able to process payments in connection with the successful rental of listed properties.</p>
 
@@ -117,6 +135,10 @@
 <p><i>Aggregate Information</i>: We may disclose aggregated data that does not contain Personal Information to any third parties, such as potential customers, business partners, advertisers, and funding sources, in order to describe our business and operations.</p>
 
 <p><i>Permitted Disclosures</i>: Notwithstanding the foregoing, Zumper reserves the right to disclose any information we collect in connection with the Website, without further notice to you to any successor to Zumper's business as a result of any merger, acquisition or similar transaction; and to any law enforcement or regulatory authority to the extent required by law or if, in Zumper's reasonable discretion, disclosure is necessary to investigate fraud or any threat to the safety of any individual, to protect Zumper's legal rights or to protect the rights of third parties.</p>
+
+<p>Third Party Ad Servers: We may allow other companies, called third­party ad servers or ad networks, to serve advertisements on the Website. These third­party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Further, these advertisers may also serve ads to you on other websites (including ads for our products and services) based on information collected from you while using the services available through the Website. For example, we use Google’s “remarketing” service to target Zumper ads to you based on your prior use of the Website when you visit other sites in Google’s content network.</p>
+
+<p>You should consult the respective privacy policies of these third­party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers or other websites. You can opt out of the use by third­party ad servers of cookies by contacting us at <a href="mailto:hello@zumper.com">hello@zumper.com</a>.</p>
 
 <h5>5. How Can You Opt Out of Use and Disclosure of Your Information?</h5>
 
@@ -152,7 +174,7 @@
 
 <p>This policy forms part of, and is subject to, the provisions of Zumper's <a href="/terms-of-use">Terms of Use</a>.</p>
 
-<p>Effective Date of this policy: February 10, 2014.</p>
+<p>Effective Date of this policy: August 23, 2014.</p>
 
           </div>
         </div>
@@ -160,7 +182,7 @@
     </div>
   </div>
 
-<script type="text/javascript" src="https://d214hhm15p4t1d.cloudfront.net/ff/js/static-compiled.js"></script>
+<script type="text/javascript" src="https://d214hhm15p4t1d.cloudfront.net/497f9/js/static-compiled.js"></script>
 
     </div>
     
@@ -171,7 +193,7 @@
   <h3>Sign In</h3>
 </div>
 <div class="modal-body">
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="VO2r2WgigzGv4ZhInF2ZLKPzwUWiP3CM"></div>
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="PLjo0iH1dbss4XxhvHbrrUxGMerG8SoJ"></div>
   <div class="facebook-login">
     <a href="https://graph.facebook.com/oauth/authorize?client_id=178791798914625&amp;redirect_uri=https://www.zumper.com/zumper-account/facebook-login/&amp;scope=email"><img src="https://developers.facebook.com/images/devsite/login-button.png"></a> or <b>Sign In</b> with your Zumper account
   </div>
@@ -221,7 +243,7 @@
   <div class="facebook-login">
     <a href="https://graph.facebook.com/oauth/authorize?client_id=178791798914625&amp;redirect_uri=https://www.zumper.com/zumper-account/facebook-login/&amp;scope=email"><img src="https://developers.facebook.com/images/devsite/login-button.png"></a> or <b>Create a Zumper Account</b>
   </div>
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="VO2r2WgigzGv4ZhInF2ZLKPzwUWiP3CM"></div>
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="PLjo0iH1dbss4XxhvHbrrUxGMerG8SoJ"></div>
   <fieldset>
     <div class="control-group">
       <div class="controls">
@@ -256,11 +278,18 @@
   </fieldset>
   
   
-  <div class="alert alert-info form-message">
-    Passwords must contain a number and be at least 6 characters long.
-  </div>
+  <p>
+    Passwords must contain a number &amp; be at least 7 characters long.
+  </p>
   <div class="alert alert-success">
-    <b>Already have a Zumper Account? <a class="signin-link" href="#">Sign In</a></b>.
+    <p>
+      <b>Already have a Zumper Account? <a class="signin-link" href="#">Sign In</a></b>.
+    </p>
+    <p class="no-margin">
+      By creating a Zumper account you indicate your acceptance of our
+      <a href="/terms-of-use">Terms and Conditions</a> and
+      <a href="/privacy-policy">Privacy Policy</a>.
+    </p>
   </div>
 </div>
 <div class="modal-footer">
@@ -307,7 +336,7 @@
     
 
     
-      <div class="page-footer">
+      <div class="page-footer hide-on-mobile">
         
           <div class="location-link-container">
             
@@ -353,34 +382,88 @@
   <a href="/rentals/seattle-wa-apartments-for-rent">Seattle</a><br>
   <a href="/rentals/tampa-fl-apartments-for-rent">Tampa</a><br>
   <a href="/rentals/tucson-az-apartments-for-rent">Tucson</a><br>
-  <a href="/rentals/washington-dc-apartments-for-rent">Washington</a>
+  <a href="/rentals/washington-dc-apartments-for-rent">Washington DC</a>
 </div>
 
           </div>
         
         <div class="footer-content">
           <a href="/about">About</a>
-          <a href="https://angel.co/zumper/jobs">Jobs</a>
           <a href="http://blog.zumper.com">Blog</a>
           <a href="http://www.facebook.com/zumperinc">Facebook</a>
-          <a href="http://twitter.com/zumperrentals">@ZumperRentals</a>
+          <a href="http://twitter.com/zumper">@Zumper</a>
+          <a href="https://plus.google.com/+Zumper/" rel="publisher">+Zumper</a>
           <a href="/sitemap">Site Map</a>
           <a href="/terms-of-use">Terms Of Use</a>
-          <a href="/privacy-policy">Privacy Policy</a>
+          <a class="no-margin" href="/privacy-policy">Privacy Policy</a>
           <div class="attribution">
             © 2014 Zumper Inc.
           </div>
         </div>
       </div>
+      <footer class="footer-mobile show-on-mobile">
+        <p>
+          © 2014 Zumper, Inc. | <a href="/about">About</a> | <a href="/terms-of-use">Terms</a> | <a href="/privacy-policy">Privacy</a>
+        </p>
+      </footer>
     
     <input id="user-id" type="hidden" value="">
     <div class="hide">
       
-      <img src="https://d2n1sxp1qtdjke.cloudfront.net/ff/img/markers/marker-white.png">
-      <img src="https://d214hhm15p4t1d.cloudfront.net/ff/img/markers/marker-visited.png">
+      <img src="https://d2n1sxp1qtdjke.cloudfront.net/497f9/img/markers/marker-white.png">
+      <img src="https://d214hhm15p4t1d.cloudfront.net/497f9/img/markers/marker-visited.png">
     </div>
 
     
+
+    <script type="text/javascript" src="https://d214hhm15p4t1d.cloudfront.net/497f9/js/lib/jquery.smartbanner.js"></script>
+    <script type="text/javascript">
+      $.smartbanner({
+        author: 'Zumper',
+        daysHidden: 7,
+        daysReminder: 7,
+        GooglePlayParams: 'utm_source%3Dzumper-mobile%26utm_medium%3Dweb',
+        icon: 'https://d214hhm15p4t1d.cloudfront.net/497f9/img/android-icon.png',
+        layer: true,
+        title: 'Zumper Rentals'
+      });
+    </script>
+
+    
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 979546341;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+      <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+             src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979546341/?value=0&amp;guid=ON&amp;script=0"/>
+      </div>
+    </noscript>
+
+    
+    <script type="text/javascript">
+      adroll_adv_id = "T74TFTSWRBAH7NZ7CXTQF7";
+      adroll_pix_id = "DVLINWN3BFFPBOBRPPOX5V";
+      (function () {
+        var oldonload = window.onload;
+        window.onload = function() {
+          __adroll_loaded=true;
+          var scr = document.createElement("script");
+          var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+          scr.setAttribute('async', 'true');
+          scr.type = "text/javascript";
+          scr.src = host + "/j/roundtrip.js";
+          ((document.getElementsByTagName('head') || [null])[0] ||
+            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+          if(oldonload){oldonload()}
+        };
+      }());
+    </script>
   
 
 </body></html>
