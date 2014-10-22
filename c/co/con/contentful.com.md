@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentful.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209124517id_/http%3A//www.contentful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentful.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023014048id_/https%3A//www.contentful.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contentful
 
@@ -74,6 +74,16 @@ Contentful uses Segment.io, a third party analytics service provided by Segment.
 h. 
     
 
+Contentful uses Vero, an email service provided by Invc Me, Inc. ("Vero") that helps to send targeted emails to our users. Usage information and Personal Data is stored by Vero and is subject to their privacy policy. You can view their privacy policy at https://www.getvero.com/privacy.
+
+i. 
+    
+
+Contentful uses Totango, an analytics service provided by Totango, Inc. ("Totango") that helps improve web applications by tracking how users interact and engage. Usage information and Personal Data is stored by Totango and is subject to their privacy policy. You can view their privacy policy at http://www.totango.com/privacy/.
+
+j. 
+    
+
 Contentful may send you a newsletter with information regarding its services or other promotional material. You may cancel the order at any time and free of charge by using the link in the newsletter or in your user account settings.
 
     
@@ -91,6 +101,8 @@ I hereby consent to the collection, processing and use of the personal data, i.e
   * Optimize, Inc., 55 New Montgomery St. #888, San Francisco, CA 94105 USA ("Optimizely") and saved on Optimizely's servers;
   * Crazy Egg, Inc., 16220 E. Ridgeview Lane, La Mirada, CA 90638 USA ("CrazyEgg") and saved on CrazyEgg's servers;
   * Segment.io, Inc., 1000 Chestnut St, #12A, San Francisco, CA 94109 USA ("Segment.io") and saved on Segment.io’s servers.
+  * Invc Me, Inc., 870 Harrison Street, San Francisco, CA 94104 USA ("Vero") and saved on Vero's servers.
+  * Totango, Inc., 599 College Avenue, Palo Alto, CA 94306 USA ("Totango") and saved on Totango’s servers.
 
 
 2\. 
@@ -101,7 +113,7 @@ I further consent to the use of my Personal Data by Contentful for the purposes 
 3\. 
     
 
-I can withdraw these consents and opt-out of having information collected by or submitted to Intercom, Mixpanel, KISSmetrics, CrazyEgg, Optimizely and Segment.io at any time by opting out in my user account settings.
+I can withdraw these consents and opt-out of having information collected by or submitted to Intercom, Mixpanel, KISSmetrics, CrazyEgg, Optimizely, Segment.io, Vero and Totango at any time by opting out in my user account settings.
 
 ## 4.
 
@@ -129,13 +141,21 @@ All information, whether on data processors on Contentful’ premises or on serv
 
     
 
+## Re-targeting
+
+Contentful uses Google's retargeting, which means we can advertise Contentful on our partners’ websites, meaning our adverts, even on other companies’ sites, are relevant to what you would like to see. We do this by analyzing user behavior from data collected by cookies. This information is anonymous, with no personal information being stored and no user profiles. You can view Google's advertising policies and principles at http://www.google.com/policies/technologies/ads/.
+
+## 7.
+
+    
+
 ## Use of Log Files
 
 Contentful uses log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track User’s movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
 At Contentful we collect aggregate traffic statistics, internet protocol addresses, browser types, and internet service providers (ISP) using log files. Traffic statistics include, but are not limited to: referring/exit pages, date/time stamp, clicking patterns and click through rates. These data are used to streamline the User experience, improve the products and services provided to Users on the Contentful Website. None of this information, however, is linked to an identifiable individual, and as previously mentioned, is only used in the aggregate.
 
-## 7.
+## 8.
 
     
 
@@ -147,7 +167,7 @@ Maintaining the confidentiality of the User’s credentials is the sole responsi
 
 If Users wish to withdraw usage rights, they can at any time delete their account.
 
-## 8.
+## 9.
 
     
 
@@ -155,7 +175,7 @@ If Users wish to withdraw usage rights, they can at any time delete their accoun
 
 Contentful hereby explicitly notifies you that data protection and data privacy during data transfer via open networks such as the Internet cannot be completely guaranteed under the current state of technology. You understand and acknowledge that the provider can view, in technical terms, the pages stored on the web server and, perhaps, other data stored on such server at any time.
 
-## 9.
+## 10.
 
     
 
