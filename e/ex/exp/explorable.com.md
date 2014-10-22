@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explorable.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209025501id_/http%3A//explorable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorable.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022091149id_/https%3A//explorable.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms and Privacy Policy
+# Privacy Policy
 
 Share this page on your website:  
 
@@ -47,13 +47,13 @@ However, collective non-identifiable data might be released.
 
 ## How You Can Correct or Remove Information
 
-We provide the terms and our privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like to delete information from our records or would like to update or correct that information, please use our [Contact Us](http://explorable.com/site-contact) page.
+We provide the [terms](https://explorable.com/terms-and-conditions) and our privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like to delete information from our records or would like to update or correct that information, please use our [Contact Us](https://explorable.com/site-contact) page.
 
-This website strives to provide correct information. However, although not intended, we have occasional slips in our content and communication. It might be a sloppy way of saying something, simplifying a phenomenon too much, unintentionally making ourselves misunderstood or just a plain error. We always recommend that you double check our information with other sources as we can not guarantee that everything on the website is correct. If you do find an error, please report it to us on our [contact page](http://explorable.com/site-contact).
+This website strives to provide correct information. However, although not intended, we have occasional slips in our content and communication. It might be a sloppy way of saying something, simplifying a phenomenon too much, unintentionally making ourselves misunderstood or just a plain error. We always recommend that you double check our information with other sources as we can not guarantee that everything on the website is correct. If you do find an error, please report it to us on our [contact page](https://explorable.com/site-contact).
 
 ## Updates and Effective Dates
 
-Explorable.com reserves the right to make changes in our terms. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+Explorable.com reserves the right to make changes in our privacy policy or [terms](https://explorable.com/terms-and-conditions). If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 ## Affiliate links
 
@@ -61,14 +61,10 @@ This website occationally have affiliate links, for example to our books.
 
 ## Agreeing to Terms
 
-If you do not agree to explorable.com-terms as posted here on this website, please do not use this site or any services offered by this site.
+If you do not agree to explorable.com-[terms](https://explorable.com/terms-and-conditions) or privacy policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of our terms and our privacy policy.
 
-Share this page on your website:  
+Search over 500 articles on psychology, science, and experiments.
 
-
-[ ](http://explorable.com/#)
-
-Share this page on your website:  
-
+## Want to stay up to date? Follow us!
