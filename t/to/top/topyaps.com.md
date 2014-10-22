@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528182654id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022075330id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TopYaps
+# Privacy Policy | TopYaps
 
 ## **Privacy Policy of TOPYAPS.COM:**
 
@@ -38,7 +38,7 @@ Whenever you interact with TopYaps, our server automatically collects these info
 
 
 
-**(B.3) -  Information Collected From Third-Party Sources and Platforms:**
+**(B.3) –  Information Collected From Third-Party Sources and Platforms:**
 
 We may access your these personal details from our network partners (social networking sites, advertisement firms and other online marketing firms):
 
