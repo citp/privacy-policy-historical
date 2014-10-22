@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berlinlasers.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425130445id_/http%3A//www.berlinlasers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berlinlasers.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022044858id_/http%3A//www.berlinlasers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Berlinlasers
 
