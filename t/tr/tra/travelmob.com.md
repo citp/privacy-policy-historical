@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011148id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022075025id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.*
 
 # travelmob: Vacation Rentals, Apartments, Villas & More
 
