@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezau.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423072727id_/http%3A//www.ezau.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezau.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022051751id_/http%3A//www.ezau.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Ed Zivkovic
 
@@ -47,12 +47,3 @@ This policy and the use of this Site are governed by South Australia law. If a d
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: South Australia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 ezau.com is controlled, operated and administered entirely within South Australia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-Share this post:
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.ezau.com%2Fabout%2Fprivacy%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.ezau.com%2Fabout%2Fprivacy&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.ezau.com%2Fabout%2Fprivacy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.ezau.com%2Fabout%2Fprivacy&title=Privacy "StumbleUpon")
-  * 
-
