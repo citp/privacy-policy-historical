@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the toronto2015.org privacy policy that was archived on 2014-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327024509id_/http%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toronto2015.org privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022230236id_/http%3A//www.toronto2015.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="no-js unroole_front"><!--<![endif]--><head>
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"d0e830f653","applicationID":"2287272","transactionName":"dAsKF0sNDVpQSxYTAlABF0xKCg5B","queueTime":0,"applicationTime":1154,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcBUVRRGwECXFZQAAM="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&a("../../wrap-events"),window.XMLHttpRequest&XMLHttpRequest.prototype&XMLHttpRequest.prototype.addEventListener&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&(h+=1)}),e.on("fn-err",function(a,b,d){g&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&!this.thrown&h>0&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&b(f);for(var g=XMLHttpRequest.prototype;g&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&a instanceof ArrayBuffer&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&a instanceof Blob&a.size)return a.size;if("undefined"!=typeof FormData&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&XMLHttpRequest.prototype&XMLHttpRequest.prototype.addEventListener&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&"xpid"in NREUM.loader_config&this.sameOrigin&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&e){var g=b(e);g&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&(f.onloadCalled||"function"!=typeof c.onload))&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&!this.xhrGuids[c]&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&this.xhrGuids[c]&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&"load"===a[0]&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&"load"===a[0]&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&("onload"===c&(this.onload=!0),("load"===(a[0]&a[0].type)||this.onload)&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&e[1]&(d.port=e[1].split("/")[0].split(":")[1]),d.port&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&b.port===c.port&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&a.agent&a.licenseKey&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&"function"==typeof a&a.apply&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&"function"==typeof f&f.apply&!f._wrapped&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d0e830f653","applicationID":"2287272","transactionName":"dAsKF0sNDVpQSxYTAlABF0xKCg5B","queueTime":0,"applicationTime":503,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcBUVRRGwECXFZQAAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&(t(5),t(3),"addEventListener"in window&t(1),window.XMLHttpRequest&XMLHttpRequest.prototype&XMLHttpRequest.prototype.addEventListener&t(2),s=!0)}i.on("fn-start",function(){s&(c+=1)}),i.on("fn-err",function(t,e,r){s&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&!this.thrown&c>0&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&n(s);for(var c=XMLHttpRequest.prototype;c&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&t instanceof ArrayBuffer&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&t instanceof Blob&t.size)return t.size;if("undefined"!=typeof FormData&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&XMLHttpRequest.prototype&XMLHttpRequest.prototype.addEventListener&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&"xpid"in NREUM.loader_config&this.sameOrigin&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&o){var u=e(o);u&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&(i.onloadCalled||"function"!=typeof n.onload))&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&!this.xhrGuids[n]&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&this.xhrGuids[n]&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&"load"===t[0]&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&"load"===t[0]&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&("onload"===n&(this.onload=!0),("load"===(t[0]&t[0].type)||this.onload)&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&o[1]&(r.port=o[1].split("/")[0].split(":")[1]),r.port&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&e.port===n.port&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&t.agent&t.licenseKey&t.applicationID&c&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&"function"==typeof t&t.apply&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="Tdl7VWcUsPyFxemNMBn7ZDmpkd1tlxNEGhl9oLez0cc=" name="csrf-token">
+<meta content="itcETQMaIfJc3+WuqScP4QDOoKyNdzdGjKLV5Fao3oM=" name="csrf-token">
 	<title>Privacy Policy | Toronto 2015 Pan Am / Parapan American Games</title>
 
 	<meta name="description" content="Official Privacy Policy of the Toronto 2015 Pan American and Parapan American Games.">
@@ -35,23 +35,23 @@
 	<!-- Layout -->
 <style type="text/css" media="screen, print">
  
- .ul_6269 .containers {
+ .ul_7252 .containers {
  margin-left: auto;
  margin-right: auto;
  width: 984px;
  }
 
- .ul_6269 .ub {
+ .ul_7252 .ub {
  display:inline;
  float: left;
  position: relative;
  }
 
- .ul_6269 .ub_content {
+ .ul_7252 .ub_content {
  background: none;
  border: none;
  }
- .ul_6269 .grid_0_083 {width: 8.333%;}.ul_6269 .grid_0_167 {width: 16.667%;}.ul_6269 .grid_0_25 {width: 25.0%;}.ul_6269 .grid_0_333 {width: 33.333%;}.ul_6269 .grid_0_417 {width: 41.667%;}.ul_6269 .grid_0_5 {width: 50.0%;}.ul_6269 .grid_0_583 {width: 58.333%;}.ul_6269 .grid_0_667 {width: 66.667%;}.ul_6269 .grid_0_75 {width: 75.0%;}.ul_6269 .grid_0_833 {width: 83.333%;}.ul_6269 .grid_0_917 {width: 91.667%;}.ul_6269 .grid_1_0 {width: 100.0%;}.ul_6269 .grid_full {width: 100%;}.ul_6269 .grid_0_083 .ub_header .grid_size_crt,.ul_6269 .grid_0_083 .ub_header .tag_label,.ul_6269 .grid_0_167 .ub_header .grid_size_crt,.ul_6269 .grid_0_167 .ub_header .tag_label,.ul_6269 .grid_0_25 .ub_header .grid_size_crt { display: none !important; }
+ .ul_7252 .grid_0_083 {width: 8.333%;}.ul_7252 .grid_0_167 {width: 16.667%;}.ul_7252 .grid_0_25 {width: 25.0%;}.ul_7252 .grid_0_333 {width: 33.333%;}.ul_7252 .grid_0_417 {width: 41.667%;}.ul_7252 .grid_0_5 {width: 50.0%;}.ul_7252 .grid_0_583 {width: 58.333%;}.ul_7252 .grid_0_667 {width: 66.667%;}.ul_7252 .grid_0_75 {width: 75.0%;}.ul_7252 .grid_0_833 {width: 83.333%;}.ul_7252 .grid_0_917 {width: 91.667%;}.ul_7252 .grid_1_0 {width: 100.0%;}.ul_7252 .grid_full {width: 100%;}.ul_7252 .grid_0_083 .ub_header .grid_size_crt,.ul_7252 .grid_0_083 .ub_header .tag_label,.ul_7252 .grid_0_167 .ub_header .grid_size_crt,.ul_7252 .grid_0_167 .ub_header .tag_label,.ul_7252 .grid_0_25 .ub_header .grid_size_crt { display: none !important; }
  @media only screen and (max-width: 1184.0px) {
  div.box_section_heading {
  height: auto;
@@ -75,23 +75,23 @@
  }
  
  
- .ul_6510 .containers {
+ .ul_6690 .containers {
  margin-left: auto;
  margin-right: auto;
  width: 960px;
  }
 
- .ul_6510 .ub {
+ .ul_6690 .ub {
  display:inline;
  float: left;
  position: relative;
  }
 
- .ul_6510 .ub_content {
+ .ul_6690 .ub_content {
  background: none;
  border: none;
  }
- .ul_6510 .grid_0_083 {width: 80.0px;}.ul_6510 .grid_0_167 {width: 160.0px;}.ul_6510 .grid_0_25 {width: 240.0px;}.ul_6510 .grid_0_333 {width: 320.0px;}.ul_6510 .grid_0_417 {width: 400.0px;}.ul_6510 .grid_0_5 {width: 480.0px;}.ul_6510 .grid_0_583 {width: 560.0px;}.ul_6510 .grid_0_667 {width: 640.0px;}.ul_6510 .grid_0_75 {width: 720.0px;}.ul_6510 .grid_0_833 {width: 800.0px;}.ul_6510 .grid_0_917 {width: 880.0px;}.ul_6510 .grid_1_0 {width: 960.0px;}.ul_6510 .grid_full {width: 960.0px;}.ul_6510 .grid_0_083 .ub_header .grid_size_crt,.ul_6510 .grid_0_083 .ub_header .tag_label,.ul_6510 .grid_0_083 .ub_header .float_grid,.ul_6510 .grid_0_167 .ub_header .grid_size_crt,.ul_6510 .grid_0_167 .ub_header .tag_label,.ul_6510 .grid_0_25 .ub_header .grid_size_crt { display: none !important; }
+ .ul_6690 .grid_0_083 {width: 80.0px;}.ul_6690 .grid_0_167 {width: 160.0px;}.ul_6690 .grid_0_25 {width: 240.0px;}.ul_6690 .grid_0_333 {width: 320.0px;}.ul_6690 .grid_0_417 {width: 400.0px;}.ul_6690 .grid_0_5 {width: 480.0px;}.ul_6690 .grid_0_583 {width: 560.0px;}.ul_6690 .grid_0_667 {width: 640.0px;}.ul_6690 .grid_0_75 {width: 720.0px;}.ul_6690 .grid_0_833 {width: 800.0px;}.ul_6690 .grid_0_917 {width: 880.0px;}.ul_6690 .grid_1_0 {width: 960.0px;}.ul_6690 .grid_full {width: 960.0px;}.ul_6690 .grid_0_083 .ub_header .grid_size_crt,.ul_6690 .grid_0_083 .ub_header .tag_label,.ul_6690 .grid_0_083 .ub_header .float_grid,.ul_6690 .grid_0_167 .ub_header .grid_size_crt,.ul_6690 .grid_0_167 .ub_header .tag_label,.ul_6690 .grid_0_25 .ub_header .grid_size_crt { display: none !important; }
  @media only screen and (max-width: 1160.0px) {
  div.box_section_heading {
  height: auto;
@@ -123,14 +123,34 @@
 
 
 
- <link href="http://images.toronto2015.org/themes/886/stylesheets/main.css" media="screen, print" rel="stylesheet" type="text/css">
+ <link href="http://images.toronto2015.org/themes/981/stylesheets/main.css" media="screen, print" rel="stylesheet" type="text/css">
  <style type="text/css" media="screen, print">
  //// Classes for the venue image located inside every sport pages ///
 
+/* ----- Spacing for PDF ----- */
 .pdf_link {padding-top: 1px;}
 .pdf_img {margin-right: 10px;}
 .marquee_img {margin: 0px 0px 10px 10px;}
-.shopLinkColor span a {color: #009aa6 !important;}
+
+/* ----- MEDALS section /medals ----- */
+#medalTable table {border: solid 1px #d1d2d4; color: #555559; font-family: Arial,sans-serif; font-size: 14px;}
+#medalTable table th {background-color: #c3d943; color: black; text-align: left;}
+
+/*----- Venue pages, new transportation box ----- */
+.imgSpace {margin-right: 15px; margin-bottom: 15px;}
+.boxOutline {border: solid 2px #c92c04; padding: 10px 20px; box-sizing: border-box; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;}
+
+/* --- PDF thumbnail --- */
+.pdfThumb img {border: solid 3px #C5C5C5; border-radius: 15px; }
+.pdfThumb:hover img {border-color: #a10081;}
+
+/* --- Button --- */
+.buttonPanam {background-color: #a10081; color: #FFFFFF !important; border-radius: 12px; padding: 15px 20px 15px 20px; display: inline-block;}
+.buttonPanam:hover, .buttonPanam:active {} 
+
+.buttonPanam a {font-size: 1.3em !important; color: #FFFFFF !important; font-family: bryant-web-alternate,Arial,sans-serif; font-weight: 600; text-decoration: none !important;}
+.buttonPanam a:hover, .buttonPanam a:active {text-decoration: underline !important; background-color: #a10081;} 
+
 
 
  </style>
@@ -148,18 +168,18 @@ background-position: 70px 0px;
 
 
  <script type="text/javascript">
- var unroole={}; unroole.theme_absolute_path='http://images.toronto2015.org/themes/886';
+ var unroole={}; unroole.theme_absolute_path='http://images.toronto2015.org/themes/981';
  </script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/jquery-1.10.2.min.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/jquery.finger.min.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/jquery-ui.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/jquery.cookie.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/date.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/moment-langs.min.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/moment-timezone.min.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/frameworks/handlebar.runtime-1.0.0.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/javascripts/templates/templates.cmpl.js" type="text/javascript"></script>
- <script src="http://images.toronto2015.org/themes/886/javascripts/main.min.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/jquery-1.10.2.min.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/jquery.finger.min.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/jquery-ui.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/jquery.cookie.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/date.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/moment-langs.min.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/moment-timezone.min.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/frameworks/handlebar.runtime-1.0.0.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/javascripts/templates/templates.cmpl.js" type="text/javascript"></script>
+ <script src="http://images.toronto2015.org/themes/981/javascripts/main.min.js" type="text/javascript"></script>
  <script type="text/javascript">
  var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -191,16 +211,14 @@ googletag.enableServices();
 }
  </script>
  <script type="text/javascript">
- var _gaq = _gaq || [];
- _gaq.push(['_setAccount', 'UA-16804812-1']);
- _gaq.push(['_setDomainName', 'toronto2015.org']);
- _gaq.push(['_trackPageview']);
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
- (function() {
- var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
- ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
- var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
- })();
+ga('create', 'UA-16804812-1', 'toronto2015.org');
+ga('send', 'pageview');
+
  </script>
 
 
@@ -209,16 +227,12 @@ googletag.enableServices();
 
 	<body>
 	
-	<div class="unroole en ul ul_6269">
+	<div class="unroole en tkovr-bg-torch ul ul_7252">
 	<div class="grid">
 
 
 
 	
-
-
-
-
 
 
 
@@ -259,6 +273,7 @@ googletag.enableServices();
 	</div>
 
 
+
 	<div class="uw uw_navigation uw_megamenu_mobile">
 	<div>	<div class="clearfix (EN) Mega Menu_nav">
 	<ul class="nav_item_level_0"><li class="home-nav"><span><a href="/" target="_self">Home</a></span></li><li id="mm_about"><span><a href="/about-us" target="_self">About Us</a></span></li><li id="mm_join"><span><a href="/join-in" target="_self">Join In</a></span></li><li id="mm_news"><span><a href="/news" target="_self">News</a></span></li><li id="mm_bts"><span><a href="/features" target="_self">Features</a></span></li><li id="mm_sports"><span><a href="/sport" target="_self">Sport</a></span></li><li id="mm_venues"><span><a href="/venues" target="_self">Venues</a></span></li><li class="last" id="mm_events"><span><a href="/culture-events" target="_self">Culture &amp; Events</a></span></li><div class="ub_clear"></div></ul>
@@ -267,12 +282,14 @@ googletag.enableServices();
 	</div>
 
 
+
 	<div class="uw uw_navigation uw_megamenu_mobile uw_header_retail">
 	<div>	<div class="clearfix (EN) Header Retail_nav">
-	<ul class="nav_item_level_0"><li class="shopLinkColor"><span><a href="http://shop.toronto2015.org/" target="_blank">Shop</a></span></li><li><span><a href="/tickets" target="_self">Tickets</a></span></li><li class="last"><span><a href="http://www.toronto2015mascot.ca/" target="_blank">Mascot</a></span></li><div class="ub_clear"></div></ul>
+	<ul class="nav_item_level_0"><li><span><a href="/tickets" target="_self">Tickets</a></span></li><li class="shopLinkColor"><span><a href="http://shop.toronto2015.org/" target="_blank">Shop</a></span></li><li class="last"><span><a href="/torch-relay" target="_self">Torch Relay</a></span></li><div class="ub_clear"></div></ul>
 	</div>
 </div>
 	</div>
+
 
 
 	<div class="uw uw_html uw_search_mobile">
@@ -361,14 +378,14 @@ googletag.enableServices();
 
 
 	<div class="uw uw_tag_search no_button panam-header-search">
-	<div><form accept-charset="UTF-8" action="/search-results" class="new_unroole_tag_query" id="new_unroole_tag_query" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Tdl7VWcUsPyFxemNMBn7ZDmpkd1tlxNEGhl9oLez0cc="></div>
+	<div><form accept-charset="UTF-8" action="/search-results" class="new_unroole_tag_query" id="new_unroole_tag_query" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="itcETQMaIfJc3+WuqScP4QDOoKyNdzdGjKLV5Fao3oM="></div>
 
 	<div class="search_tag">
 	<input id="unroole_tag_query_tag_list" name="unroole_tag_query[tag_list]" size="30" type="text">
 	</div>
 
 	<input name="commit" type="submit" value="Search">
-<input id="widget_id" name="widget_id" type="hidden" value="38332"><input id="widget_type" name="widget_type" type="hidden" value="uw_tag_search"></form></div>
+<input id="widget_id" name="widget_id" type="hidden" value="51006"><input id="widget_type" name="widget_type" type="hidden" value="uw_tag_search"></form></div>
 	</div>
 
 
@@ -385,10 +402,11 @@ googletag.enableServices();
 	
 	<div class="uw uw_html ">
 	<div>	<div class="panam-header-counter">
-
 <h3 class="countdown"></h3>
-<p>days to go!</p>
+</div>
 
+<div class="parapanam-header-counter">
+<h3 class="countdown"></h3>
 </div>
 </div>
 	</div>
@@ -399,7 +417,7 @@ googletag.enableServices();
 
 	</div>
 </div>
-	<div class="ub ub_box grid_0_333">
+	<div class="ub ub_box grid_0_5">
 	<div class="spacer">
 
 	
@@ -407,9 +425,7 @@ googletag.enableServices();
 	<div class="inner_box">
 	
 	<div class="uw uw_text panam-header-dates">
-	<div><p><span style="font-size:28px"><strong>UNITED WE PLAY</strong></span></p>
-
-<p><span style="font-size:16px"><strong>Pan Am Games |&nbsp;July 10 - 26, 2015</strong></span></p>
+	<div><p><strong style="font-size: 16px; line-height: 1.6em;">Pan Am Games |&nbsp;July 10 - 26, 2015</strong></p>
 
 <p><span style="font-size:16px"><strong>Parapan Am Games&nbsp;| August 7 - 15, 2015</strong></span></p>
 
@@ -419,36 +435,6 @@ googletag.enableServices();
 
 
 
-	</div>
-
-	</div>
-</div>
-	<div class="ub ub_box grid_0_333 panam-header-retail-nav-box">
-	<div class="spacer">
-
-	
-
-	<div class="inner_box">
-	
-	<div id="uw_4108" class="uw uw_navigation panam-header-retail-nav">
-	<div>	<div class="clearfix (EN) Header Retail_nav">
-	<ul class="nav_item_level_0"><li class="shopLinkColor"><span><a href="http://shop.toronto2015.org/" target="_blank">Shop</a></span></li><li><span><a href="/tickets" target="_self">Tickets</a></span></li><li class="last"><span><a href="http://www.toronto2015mascot.ca/" target="_blank">Mascot</a></span></li><div class="ub_clear"></div></ul>
-	</div>
-</div>
-	</div>
-
-
-	</div>
-
-	</div>
-</div>
-	<div class="ub ub_box grid_1_0">
-	<div class="spacer">
-
-	
-
-	<div class="inner_box">
-	
 	</div>
 
 	</div>
@@ -491,6 +477,7 @@ googletag.enableServices();
 	</div>
 
 
+
 	</div>
 
 	</div>
@@ -514,42 +501,41 @@ googletag.enableServices();
 	<div style="float: left; width:235px;">
 	<h3>TORONTO 2015</h3>
 	<ul>
-	<li><a href="/about-us/toronto-2015" title="">About the Pan Am Games</a></li>
-	<li><a href="/about-us/toronto-2015-parapan-am-games" title="">About the Parapan Am Games</a></li>
-	<li><a href="/about-us/paso" title="">About PASO</a></li>
-	<li><a href="/about-us/apc" title="">About the APC</a></li>
-	<li><a href="/about-us/discover-toronto" title="">Discover Toronto</a></li>
-	<li><a href="/about-us/sponsors" title="">Sponsors</a></li>
-	</ul>
-	</div>
+	<li><a href="/about-us/pan-am-games">About the Pan Am Games</a></li>
+	<li><a href="/about-us/parapan-am-games">About the Parapan Am Games</a></li>
+	<li><a href="/about-us/paso">About PASO</a></li>
+	<li><a href="/about-us/apc">About the APC</a></li>
+	<li><a href="/about-us/discover-toronto">Discover Toronto</a></li>
+	<li><a href="/about-us/sponsors">Sponsors</a></li>
+	</ul></div>
 	<div style="float: left; width:230px;">
 	<h3>Organizing Committee</h3>
 	<ul>
-	<li><a href="/about-us/organizing-committee/to2015-team" title="">Our Team</a></li>
-	<li><a href="/about-us/organizing-committee/board-of-directors" title="">Board of Directors</a></li>
-	<li><a href="/about-us/vision-and-values" title="">Vision &amp; Values</a></li>
-	<li><a href="/about-us/toronto-2015-brand" title="">Our Brand</a></li>
-	<li><a href="/about-us/reference-documents" title="">Reference Documents</a></li>
+	<li><a href="/about-us/organizing-committee/to2015-team">Our Team</a></li>
+	<li><a href="/about-us/organizing-committee/board-of-directors">Board of Directors</a></li>
+	<li><a href="/about-us/vision-and-values">Vision &amp; Values</a></li>
+	<li><a href="/about-us/toronto-2015-brand">Our Brand</a></li>
+	<li><a href="/about-us/reference-documents">Reference Documents</a></li>
 	</ul>
 	</div>
 	<div style="float: left; width:240px;">
 	<h3>Advisory Councils</h3>
 	<ul>
-	<li><a href="/about-us/athlete-advisory-council" title="">Athlete Advisory Council</a></li>
-	<li><a href="/about-us/arts-and-culture-advisory-council" title="">Arts &amp; Culture Advisory Council</a></li>
-	<li><a href="/about-us/community-engagement-council" title="">Community Engagement Council</a></li>
-	<li><a href="/about-us/youth-advisory-council" title="">Youth Advisory Council</a></li>	
+	<li><a href="/about-us/athlete-advisory-council">Athlete Advisory Council</a></li>
+	<li><a href="/about-us/arts-and-culture-advisory-council">Arts &amp; Culture Advisory Council</a></li>
+	<li><a href="/about-us/community-engagement-council">Community Engagement Council</a></li>
+	<li><a href="/about-us/youth-advisory-council">Youth Advisory Council</a></li>	
 	</ul>
 	</div>
 	<div style="float: left; width:204px;">
 	<h3>FAQ</h3>
 	<ul>
-	<li><a href="/faq" title="">Frequently Asked Questions</a></li>
+	<li><a href="/faq">Frequently Asked Questions</a></li>
 	</ul>
 	<br>
 	<div style="border: solid 1px #FFF; padding: 10px; width: 200px;">
 	<h3>Contact Us</h3>
-	<p><a href="/contact-us" title="">How to Contact Us</a></p>
+	<p><a href="/contact-us">How to Contact Us</a></p>
 	</div>
 	</div>
 </div>
@@ -563,38 +549,42 @@ googletag.enableServices();
 	<div style="float: left; width:225px;">
 	<h3>Employment</h3>
 	<ul>
-	<li><a href="/employment" title="">Employment &amp; Internships</a></li>
-	<li><a href="/employment-opportunities" title="">Current Job Opportunities</a></li>
+	<li><a href="/employment">Employment &amp; Internships</a></li>
+	<li><a href="/employment-opportunities">Current Job Opportunities</a></li>
 	</ul>
 	</div>
 	<div style="float: left; width:235px;">
 	<h3>Volunteer</h3>
 	<ul>
-	<li><a href="/volunteer" title="">Volunteer Opportunities</a></li>
-	<li><a href="/volunteer-now" title="">Volunteer Now</a></li>
-	<li><a href="/volunteer-during-the-games" title="">Volunteer during the Games</a></li>
+	<li><a href="/volunteer">Volunteer Opportunities</a></li>
+	<li><a href="/volunteer/criteria">Criteria</a></li>
+	<li><a href="/volunteer/journey">Journey</a></li>
+	<li><a href="/volunteer/faq">FAQ</a></li>
+	<li><a href="/volunteer/contact-us">Contact Us</a></li>
 	</ul>
 	</div>
 
 	<div style="float: left; width:235px;">
 	<h3>Business</h3>
 	<ul>
-	<li><a href="/business" title="">Suppliers &amp; Procurement</a></li>
-	<li><a href="/business/supplier-diversity" title="">Supplier Diversity</a></li>	
-	<li><a href="/business/current-opportunities-merx" title="">Business Opportunities</a></li>
-	<li><a href="/business/register-your-business" title="">Register Your Business</a></li>
-	<li><a href="/business/sponsorship" title="">Sponsorship Opportunities</a></li>	
+	<li><a href="/business">Suppliers &amp; Procurement</a></li>
+	<li><a href="/business/supplier-diversity">Supplier Diversity</a></li>	
+	<li><a href="/business/current-opportunities-merx">Business Opportunities</a></li>
+	<li><a href="/business/register-your-business">Register Your Business</a></li>
+	<li><a href="/business/sponsorship">Sponsorship Opportunities</a></li>
+	<li><a href="/business/procurement-contacts">Procurement Contacts</a></li>	
 	</ul>
 	</div>
 	
 	<div style="float: left; width:235px;">
 	<h3>Community Initiatives</h3>
 	<ul>
-	<li><a href="/ignite" title="">IGNITE</a></li>
-	<li><a href="/community-tour" title="">Community Tour</a></li>
-	<li><a href="/speakers-bureau" title="">Speakers' Bureau</a></li>
-	<li><a href="/invite-us" title="">Invite Us to Your Community</a></li>
-	<li><a href="/kids-n-play" title="">Kids 'N Play</a></li>
+	<li><a href="/ignite">IGNITE</a></li>
+	<li><a href="/community-tour">Community Tour</a></li>
+	<li><a href="/speakers-bureau">Speakers' Bureau</a></li>
+	<li><a href="/invite-us">Invite Us to Your Community</a></li>
+	<li><a href="/kids-n-play">Kids 'N Play</a></li>
+	<li><a href="/youth-summit">Youth Summit</a></li>
 	</ul>
 	</div>
 </div>
@@ -608,20 +598,18 @@ googletag.enableServices();
 	<div style="float: left; width:700px;">
 	<h3>Latest News</h3>
 	<ul>
-	<li><a href="/news/archive/huron-wendat-nation-and-to2015-sign-memorandum-of-understanding/813">Huron-Wendat Nation and TO2015 Sign Memorandum of Understanding</a></li>
-	<li><a href="/news/archive/canadian-owned-technology-firm-scalar-joins-toronto-2015-games/812">Canadian-owned technology firm Scalar Joins TORONTO 2015 Games</a></li>
-	<li><a href="/news/archive/molson-coors-named-exclusive-beer-and-cider-supplier-of-toronto-2015-pan-am-parapan-am-games/807">Molson Coors Named Exclusive Beer and Cider Supplier of TORONTO 2015 Pan Am / Parapan Am Games</a></li>
-	<li><a href="/news/archive/to2015-winter-quarterly-report/804">TO2015 Winter Quarterly Report</a></li>
-	</ul>
+	<li><a href="/news/archive/pan-am-games-tickets-be-here-for-gold-medal-history/918">Pan Am Games Tickets: Be Here for Gold-Medal History</a></li>
+	<li><a href="/news/archive/live-nation-joins-toronto-2015-pan-am-parapan-am-games/915">Live Nation Joins TORONTO 2015 Pan Am / Parapan Am Games</a></li>
+	<li><a href="/news/archive/365-days-and-counting-are-you-ready-for-the-toronto-2015-parapan-am-games/912">365 Days and Counting! Are You Ready for the TORONTO 2015 Parapan Am Games?</a></li>
 	<p><a href="/news">View all News &gt;</a></p>
-	</div>
+	</ul></div>
 	
 	<div style="float: left; width:234px;">
 	<h3>Media Centre</h3>
 	<p><a href="/media-centre">Information for the Media</a></p>
 	<br>
 	<div style="border: solid 1px #FFF; padding: 10px; width: 200px;">
-	<h3>Newletters</h3>
+	<h3>Newsletter</h3>
 	<p><a href="/newsletter">Subscribe to our Newsletter</a></p>
 	</div>
 	</div>
@@ -634,13 +622,13 @@ googletag.enableServices();
 	<div class="uw uw_html mega-menu-content-slide mega-menu-content-slide3">
 	<div>	<div id="menu-features">
 	<div style="float: left; width:750px;">
-	<h2>Features</h2>
+	<h3>Features</h3>
 	<ul>
-	<li><a href="/features/archive/wearepanam-steve-bolduc-owner-aboriginal-printing/819">#WeArePanAm - Steve Bolduc, owner, Aboriginal Printing</a></li>
-	<li><a href="/features/archive/wearepanam-pachi-pals/816">#WeArePanAm - PACHI Pals</a></li>
-	<li><a href="/features/archive/volunteer-spotlight-john-pugsley/801">Volunteer Spotlight: John Pugsley</a></li>
-	<li><a href="/features/archive/wearepanam-john-foster/796">#WeArePanAm - John Foster</a></li>
-	<li><a href="/features/archive/badminton-toronto-2015-pan-am-parapan-am-games-hopefuls/793">Badminton: TORONTO 2015 Pan Am / Parapan Am Games Hopefuls</a></li>	
+	<li><a href="/features/archive/parasport-riding-unprecedented-wave-in-the-americas/861">Parasport Riding Unprecedented Wave in the Americas</a></li>
+	<li><a href="/features/archive/volunteer-spotlight-christine-sorensen/853">Volunteer Spotlight: Christine Sorensen</a></li>	
+	<li><a href="/features/archive/volunteer-spotlight-janet-araujo/833">Volunteer Spotlight: Janet Araujo</a></li>
+	<li><a href="/features/archive/wearepanam-eddy-panetta/834">#WeArePanAm - Eddy Panetta</a></li>
+	<li><a href="/features/archive/wearepanam-joanna-brown/830">#WeArePanAm - Joanna Brown</a></li>	
 	</ul>
 	<p><a href="/features"><strong>See all featured stories &gt;</strong></a></p>
 	</div>
@@ -663,92 +651,101 @@ googletag.enableServices();
 	
 	<div style="float: left; width:155px; clear: both;">	
 	<ul>
-	<li><a href="/archery" title="">Archery</a></li>
-	<li><a href="/athletics" title="">Athletics</a></li>
-	<li><a href="/badminton" title="">Badminton</a></li>
-	<li><a href="/baseball" title="">Baseball</a></li>
-	<li><a href="/basketball" title="">Basketball</a></li>
-	<li><a href="/beach-volleyball" title="">Beach Volleyball</a></li>
-	<li><a href="/bmx" title="">BMX</a></li>
-	<li><a href="/bowling" title="">Bowling</a></li>
-	<li><a href="/boxing" title="">Boxing</a></li>
-	<li><a href="/canoe-kayak-slalom" title="">Canoe/Kayak Slalom</a></li>
-	<li><a href="/canoe-kayak-sprint" title="">Canoe/Kayak Sprint</a></li>
-	<li><a href="/cycling-road" title="">Cycling - Road</a></li>
-	<li><a href="/cycling-track" title="">Cycling - Track</a></li>
+	<li><a href="/archery">Archery</a></li>
+	<li><a href="/athletics">Athletics</a></li>
+	<li><a href="/badminton">Badminton</a></li>
+	<li><a href="/baseball">Baseball</a></li>
+	<li><a href="/basketball">Basketball</a></li>
+	<li><a href="/beach-volleyball">Beach Volleyball</a></li>
+	<li><a href="/bmx">BMX</a></li>
+	<li><a href="/bowling">Bowling</a></li>
+	<li><a href="/boxing">Boxing</a></li>
+	<li><a href="/canoe-kayak-slalom">Canoe/Kayak Slalom</a></li>
+	<li><a href="/canoe-kayak-sprint">Canoe/Kayak Sprint</a></li>
+	<li><a href="/cycling-road">Cycling - Road</a></li>
+	<li><a href="/cycling-track">Cycling - Track</a></li>
 	</ul>
+	<!--<div style="border: solid 1px #FFF; padding: 5px; width: 120px; height: 30px;">
+	<p><a href="/schedule">Schedule</a></p>
+	</div>-->
 	</div>
 	<div style="float: left; width:170px;">
 	<ul>
-	<li><a href="/diving" title="">Diving</a></li>
-	<li><a href="/equestrian" title="">Equestrian</a></li>
-	<li><a href="/fencing" title="">Fencing</a></li>	
-	<li><a href="/field-hockey" title="">Field Hockey</a></li>
-	<li><a href="/football-soccer" title="">Football (Soccer)</a></li>
-	<li><a href="/golf" title="">Golf</a></li>
-	<li><a href="/gymnastics-artistic" title="">Gymnastics - Artistic</a></li>
-	<li><a href="/gymnastics-rhythmic" title="">Gymnastics - Rhythmic</a></li>
-	<li><a href="/handball" title="">Handball</a></li>
-	<li><a href="/judo" title="">Judo</a></li>
-	<li><a href="/karate" title="">Karate</a></li>
-	<li><a href="/modern-pentathlon" title="">Modern Pentathlon</a></li>
-	<li><a href="/mountain-bike" title="">Mountain Bike</a></li>
+	<li><a href="/diving">Diving</a></li>
+	<li><a href="/equestrian">Equestrian</a></li>
+	<li><a href="/fencing">Fencing</a></li>	
+	<li><a href="/field-hockey">Field Hockey</a></li>
+	<li><a href="/football-soccer">Football (Soccer)</a></li>
+	<li><a href="/golf">Golf</a></li>
+	<li><a href="/gymnastics-artistic">Gymnastics - Artistic</a></li>
+	<li><a href="/gymnastics-rhythmic">Gymnastics - Rhythmic</a></li>
+	<li><a href="/handball">Handball</a></li>
+	<li><a href="/judo">Judo</a></li>
+	<li><a href="/karate">Karate</a></li>
+	<li><a href="/modern-pentathlon">Modern Pentathlon</a></li>
+	<li><a href="/mountain-bike">Mountain Bike</a></li>
 	</ul>
+	<!--<div style="border: solid 1px #FFF; padding: 5px; width: 120px; height: 30px;">
+	<p><a href="/results">Results</a></p>
+	</div>-->
 	</div>
 	<div style="float: left; width:175px;">
 	<ul>
-	<li><a href="/open-water-swimming" title="">Open Water Swimming</a></li>
-	<li><a href="/racquetball" title="">Racquetball</a></li>
-	<li><a href="/roller-sports-figure-skating" title="">Roller - Figure Skating</a></li>
-	<li><a href="/roller-sports-speed-skating" title="">Roller - Speed Skating</a></li>
-	<li><a href="/rowing" title="">Rowing</a></li>
-	<li><a href="/rugby-sevens" title="">Rugby Sevens</a></li>
-	<li><a href="/sailing" title="">Sailing</a></li>
-	<li><a href="/softball" title="">Softball</a></li>
-	<li><a href="/shooting" title="">Shooting</a></li>
-	<li><a href="/squash" title="">Squash</a></li>
-	<li><a href="/swimming" title="">Swimming</a></li>
-	<li><a href="/synchronized-swimming" title="">Synchronized Swimming</a></li>
+	<li><a href="/open-water-swimming">Open Water Swimming</a></li>
+	<li><a href="/racquetball">Racquetball</a></li>
+	<li><a href="/roller-sports-figure-skating">Roller - Figure Skating</a></li>
+	<li><a href="/roller-sports-speed-skating">Roller - Speed Skating</a></li>
+	<li><a href="/rowing">Rowing</a></li>
+	<li><a href="/rugby-sevens">Rugby Sevens</a></li>
+	<li><a href="/sailing">Sailing</a></li>
+	<li><a href="/softball">Softball</a></li>
+	<li><a href="/shooting">Shooting</a></li>
+	<li><a href="/squash">Squash</a></li>
+	<li><a href="/swimming">Swimming</a></li>
+	<li><a href="/synchronized-swimming">Synchronized Swimming</a></li>
+	<li><a href="/table-tennis">Table Tennis</a></li>
 	</ul>
+	<!--<div style="border: solid 1px #FFF; padding: 5px; width: 120px; height: 30px;">
+	<p><a href="/medals">Medals</a></p>
+	</div>-->
 	</div>
 	<div style="float: left; width:120px; border-right: solid 1px #FFF; margin-right: 20px;">	
-	<ul>
-	<li><a href="/table-tennis" title="">Table Tennis</a></li>
-	<li><a href="/taekwondo" title="">Taekwondo</a></li>
-	<li><a href="/tennis" title="">Tennis</a></li>
-	<li><a href="/trampoline" title="">Trampoline</a></li>
-	<li><a href="/triathlon" title="">Triathlon</a></li>
-	<li><a href="/volleyball" title="">Volleyball</a></li>
-	<li><a href="/water-polo" title="">Water Polo</a></li>
-	<li><a href="/water-ski" title="">Waterski</a></li>
-	<li><a href="/wakeboard" title="">Wakeboard</a></li>
-	<li><a href="/weightlifting" title="">Weightlifting</a></li>
-	<li><a href="/wrestling" title="">Wrestling</a></li>
+	<ul>	
+	<li><a href="/taekwondo">Taekwondo</a></li>
+	<li><a href="/tennis">Tennis</a></li>
+	<li><a href="/trampoline">Trampoline</a></li>
+	<li><a href="/triathlon">Triathlon</a></li>
+	<li><a href="/volleyball">Volleyball</a></li>
+	<li><a href="/water-polo">Water Polo</a></li>
+	<li><a href="/water-ski">Waterski</a></li>
+	<li><a href="/wakeboard">Wakeboard</a></li>
+	<li><a href="/weightlifting">Weightlifting</a></li>
+	<li><a href="/wrestling">Wrestling</a></li>
 	</ul>	
 	</div>
 	<div style="float: left; width:145px;">	
 	<ul>
-	<li><a href="/archery-parapan" title="">Archery</a></li>
-	<li><a href="/athletics-parapan" title="">Athletics</a></li>
-	<li><a href="/boccia" title="">Boccia</a></li>
-	<li><a href="/cycling-road-parapan" title="">Cycling - Road</a></li>
-	<li><a href="/cycling-track-parapan" title="">Cycling - Track</a></li>
-	<li><a href="/football-5-a-side" title="">Football 5-a-side</a></li>
-	<li><a href="/football-7-a-side" title="">Football 7-a-side</a></li>
-	<li><a href="/goalball" title="">Goalball</a></li>
-	<li style="margin-top: 20px;"><a href="/sports/athlete-classification" title="">Athlete Classification</a></li>
+	<li><a href="/archery-parapan">Archery</a></li>
+	<li><a href="/athletics-parapan">Athletics</a></li>
+	<li><a href="/boccia">Boccia</a></li>
+	<li><a href="/cycling-road-parapan">Cycling - Road</a></li>
+	<li><a href="/cycling-track-parapan">Cycling - Track</a></li>
+	<li><a href="/football-5-a-side">Football 5-a-side</a></li>
+	<li><a href="/football-7-a-side">Football 7-a-side</a></li>
+	<li><a href="/goalball">Goalball</a></li>
+	<li style="margin-top: 20px;"><a href="/sports/athlete-classification">Athlete Classification</a></li>
 	</ul>
 	</div>
 	<div style="float: left; width:145px;">	
 	<ul>
-	<li><a href="/judo-parapan" title="">Judo</a></li>
-	<li><a href="/powerlifting" title="">Powerlifting</a></li>
-	<li><a href="/sitting-volleyball" title="">Sitting Volleyball</a></li>
-	<li><a href="/swimming-parapan" title="">Swimming</a></li>
-	<li><a href="/table-tennis-parapan" title="">Table Tennis</a></li>
-	<li><a href="/wheelchair-basketball" title="">Wheelchair Basketball</a></li>
-	<li><a href="/wheelchair-rugby" title="">Wheelchair Rugby</a></li>
-	<li><a href="/wheelchair-tennis" title="">Wheelchair Tennis</a></li>
+	<li><a href="/judo-parapan">Judo</a></li>
+	<li><a href="/powerlifting">Powerlifting</a></li>
+	<li><a href="/sitting-volleyball">Sitting Volleyball</a></li>
+	<li><a href="/swimming-parapan">Swimming</a></li>
+	<li><a href="/table-tennis-parapan">Table Tennis</a></li>
+	<li><a href="/wheelchair-basketball">Wheelchair Basketball</a></li>
+	<li><a href="/wheelchair-rugby">Wheelchair Rugby</a></li>
+	<li><a href="/wheelchair-tennis">Wheelchair Tennis</a></li>
 	</ul>	
 	</div>
 </div>
@@ -762,13 +759,23 @@ googletag.enableServices();
 	<div style="float: left; width:275px;">
 	<h3>Toronto</h3>
 	<ul>
+	<li><a href="/venue/canadian-tennis-centre">Canadian Tennis Centre</a></li>
+	<li><a href="/venue/centennial-park-bmx-centre">Centennial Park BMX Centre</a></li>
+	<li><a href="/venue/beach-volleyball-centre">Chevrolet Beach Volleyball Centre</a></li>
 	<li><a href="/venue/aquatics-centre-and-field-house">CIBC Aquatics Centre and Field House</a></li>
 	<li><a href="/venue/athletes-village">CIBC Athletes' Village</a></li>
 	<li><a href="/venue/athletics-stadium">CIBC Athletics Stadium</a></li>
 	<li><a href="/venue/pan-am-park">CIBC Pan Am Park</a></li>
 	<li><a href="/venue/etobicoke-olympium">Etobicoke Olympium</a></li>
+	<li><a href="/venue/exhibition-centre">Exhibition Centre </a></li>
+	<li><a href="/venue/exhibition-stadium">Exhibition Stadium</a></li>
+	<li><a href="/venue/ontario-place-west-channel">Ontario Place West Channel</a></li>
 	<li><a href="/venue/pan-am-bowling-centre">Pan Am Bowling Centre</a></li>
 	<li><a href="/venue/pan-am-parapan-am-fields">Pan Am / Parapan Am Fields</a></li>
+	<li><a href="/venue/ryerson-athletic-centre">Ryerson Athletic Centre</a></li>
+	<li><a href="/venue/toronto-coliseum">Toronto Coliseum </a></li>
+	<li><a href="/venue/university-toronto-scarborough-tennis-centre">U of T Scarborough Tennis Centre</a></li>
+	<li><a href="/venue/varsity-stadium">Varsity Stadium</a></li>	
 	</ul>
 	</div>
 	<div style="float: left; width:220px;">
@@ -777,7 +784,7 @@ googletag.enableServices();
 	<li><a href="/venue/abilities-centre">Abilities Centre</a></li>
 	<li><a href="/venue/angus-glen-golf-club">Angus Glen Golf Club</a></li>
 	<li><a href="/venue/ajax-ballpark">President’s Choice Ajax Ballpark</a></li>
-	<li><a href="/venue/markham-centre">Markham Centre</a></li>
+	<li><a href="/venue/markham-centre">Atos Markham Centre</a></li>
 	<li><a href="/venue/oshawa-sports-centre">Oshawa Sports Centre</a></li>
 	</ul>
 	</div>
@@ -786,9 +793,15 @@ googletag.enableServices();
 	<ul>
 	<li><a href="/venue/caledon-equestrian-park">Caledon Equestrian Park</a></li>	
 	<li><a href="/venue/milton-velodrome">Cisco Milton Velodrome</a></li>
+	<li><a href="/venue/hardwood-mountain-bike-park">Hardwood Mountain Bike Park</a></li>
 	<li><a href="/venue/mississauga-sports-centre">Mississauga Sports Centre</a></li>
 	<li><a href="/venue/pan-am-cross-country-centre">Pan Am Cross-Country Centre</a></li>
 	<li><a href="/venue/pan-am-shooting-centre">Pan Am Shooting Centre</a></li>
+	
+	</ul>
+	<h3>Haliburton</h3>
+	<ul>
+	<li><a href="/venue/minden-wild-water-preserve">Minden Wild Water Preserve</a></li>
 	</ul>
 	</div>
 	<div style="float: left; width:220px;">
@@ -800,8 +813,8 @@ googletag.enableServices();
 	</ul>
 	<br>
 	<div style="border: solid 1px #FFF; padding: 10px; width: 200px;">
-	<h3>Venue Map</h3>
-	<p><a href="/venues">See our Interactive Venue Map</a></p>
+	<p><a href="/venues">Interactive Venue Map</a></p>
+	<p><a href="/transportation">Transportation Information</a></p>
 	</div>
 	</div>
 </div>
@@ -815,18 +828,21 @@ googletag.enableServices();
 	<div style="float: left; width:245px;">
 	<h3>Event Calendar</h3>
 	<ul>
-	<li><a href="/events">All Events</a></li>
+	<!--<li><a href="/events">All Events</a></li>-->
+	<li><a href="/one-year"><strong>One Year To Go</strong></a></li>
 	<li><a href="/community-tour">Community Tour Events</a></li>
-	
+	<li><a href="/test-events">Test Events</a></li>	
 	</ul>
 	</div>
 	<div style="float: left; width:255px;">
 	<h3>Arts &amp; Culture</h3>
 	<ul>
+	<li><a href="/panamania">PANAMANIA</a></li>
+	<li><a href="/panamania/commission-fund">Commission Fund</a></li>
+	<li><a href="/streetside">STREETSIDE</a></li>
 	<li><a href="/play-me-im-yours">Play Me, I'm Yours</a></li>
 	<li><a href="/fresh-eyes">Fresh Eyes</a></li>
-	<li><a href="/streetside">STREETSIDE</a></li>
-	<li><a href="/panamania">PANAMANIA</a></li>
+	<li><a href="/entertainment-registry">Entertainment Registry</a></li>
 	</ul>
 	</div>
 
@@ -838,9 +854,14 @@ googletag.enableServices();
 	</div>
 	
 	<div style="float: left; width:230px;">
-	<h3>Torch Relays</h3>
+	<h3>Torch Relay</h3>
 	<ul>
-	<a href="/torch-relay">About the Torch Relays</a>
+	<li><a href="/torch-relay">Welcome</a></li>
+	<li><a href="/torch-relay/pan-am-games">Pan Am Torch Relay</a></li>
+	<li><a href="/torch-relay/parapan-am-games">Parapan Am Torch Relay</a></li>
+	<li><a href="/torch-relay/torchbearers">Torchbearers</a></li>
+	<li><a href="/torch-relay/journey">Journey</a></li>
+	<li><a href="/torch-relay/faq">FAQs</a></li>
 	</ul>
 	</div>
 </div>
@@ -894,12 +915,14 @@ googletag.enableServices();
 
 
 	<div class="ub_content_box inner_box">
-	<div id="news" class="unroole news ul ul_6510">
+	<div id="news" class="unroole news ul ul_6690">
 	<div class="grid">
 
 
 
 	
+
+
 
 
 
@@ -1093,7 +1116,7 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 	<div class="inner_box">
 	
 	<div class="uw uw_text ">
-	<div><h2>Use and Discolsure of&nbsp;Personal&nbsp;Information&nbsp;</h2>
+	<div><h2>Use and Disclosure of&nbsp;Personal&nbsp;Information&nbsp;</h2>
 
 <p><strong><u>Use of Personal Information:</u></strong></p>
 
@@ -1110,21 +1133,21 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 
 <p>We may also use information about stakeholder interests and preferences, as well as feedback we receive from surveys, to improve our delivery of the Games. TO2015™ makes all reasonable efforts to ensure that information is used responsibly and only for its intended purposes.&nbsp;</p>
 
-<p>We may provide your personal information to any third-party service provider that administers any Games facility, service and/or promotion operated via our website, <a href="http://toronto2015.org">TORONTO 2015.org</a> (“the Site”) on our behalf. Your personal information will be provided to such third-party service providers only to enable its proper administration that Games facility, service or promotion. &nbsp;We may use your personal information to operate the features of the Site and to allow you, when you choose to do so, to participate in features available only to registered users or interactive features of the Site.</p>
+<p>We may provide your personal information to any third-party service provider that administers any Games facility, service and/or promotion operated via our website, <a href="http://www.toronto2015.org">TORONTO2015.org</a> (“the Site”) on our behalf. Your personal information will be provided to such third-party service providers only to enable its proper administration that Games facility, service or promotion. &nbsp;We may use your personal information to operate the features of the Site and to allow you, when you choose to do so, to participate in features available only to registered users or interactive features of the Site.</p>
 
 <p>When you sign up to take part in a program or initiative that we may operate from time to time, or to receive online and/or email communications (e.g. our supporters’ or partners’ newsletters or business e-alerts) or text communications (e.g. communications enabled via the Site between us and users of mobile telephones or other portable devices), we may use the information that you provide to maintain appropriate databases and otherwise to operate and facilitate such programs, networks and communications.</p>
 
-<p>The data that we collect from you may be transferred to, and stored at, a destination outside Canada for processing by TO2015™ staff operating outside Canada and/or third-party service providers contracted by us. If you submit personal information, you specifically consent by doing so to such transfer, storing or processing. We will endeavor to ensure that your data is treated securely and in accordance with this Privacy Policy.</p>
+<p>The data that we collect from you may be transferred to, and stored at, a destination outside Canada for processing by TO2015™ staff operating outside Canada and/or third-party service providers contracted by us. If you submit personal information, you specifically consent by doing so to such transfer, storing or processing.We will take reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy.&nbsp;</p>
 
 <p>Access to personal information shall be restricted to those individuals or agents who require access to personal information in order to perform their duties and where access is necessary and proper for the administration of the program.&nbsp;</p>
 
 <p><strong><u>Disclosure of Personal Information:</u></strong></p>
 
-<p><em>To whom we disclose your personal information:</em> Depending on the nature of the information our stakeholders require, we may disclose personal information to our federal, provincial, municipal funding partners, sponsors, financial institutions, credit reporting agencies and third-party service providers such as data processing and marketing companies.</p>
+<p><em>To whom we disclose your personal information</em>: Depending on the nature of the information our stakeholders require, we may disclose personal information to our federal, provincial, municipal funding partners, national sport organizations, provincial sport organizations, sponsors, financial institutions, credit reporting agencies, and third party service providers such as data processing and marketing companies.</p>
 
 <p>We will disclose your personal information if we reasonably believe that we are required to do so by law, regulation, court order or any competent governmental, statutory or public authority or to protect our rights and property or the rights and property of our stakeholders. We may also co-operate with law-enforcement agencies in any official investigation, and we may disclose your private information to such agencies in doing so.</p>
 
-<p><em>When we will get your consent:</em> We will request your express consent to the use and disclosure of your personal information for specific types of transactions on the application or other forms used in connection with those transactions. Where it is reasonable to imply your consent to the use and disclosure of your personal information in accordance with this Policy (e.g., in connection with a background check following an application for accreditation), we may do so. Where it is reasonable, we may also imply your ongoing consent to the continued use and disclosure of your personal information in accordance with this Policy where we make additional requests for information. We will obtain your express consent before using or disclosing your personal information for any purposes not identified in this Policy.</p>
+<p><em>When we will get your consent:</em> We will request your express consent to the use and disclosure of your personal information for specific types of transactions on the application or other forms used in connection with those transactions. Where it is reasonable to imply your consent to the use and disclosure of your personal information in accordance with this Policy, we may do so. Where it is reasonable, we may also imply your ongoing consent to the continued use and disclosure of your personal information in accordance with this Policy where we make additional requests for information. We will obtain your express consent before using or disclosing your personal information for any purposes not identified in this Policy.</p>
 
 <p>The use and disclosure of personal information of specific stakeholders is described below:</p>
 
@@ -1134,7 +1157,7 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 
 <p>If you have applied for a paid position with TO2015™, we will disclose your personal information to agencies conducting security, background and credit checks on our behalf.</p>
 
-<p>In the event your application is accepted and you become an employee or contractor of TO2015™, your personal information will processed for payroll and benefits purposes. Your personal information may be provided to third-party payroll and employee benefits providers in order to manage TO2015’s payroll and benefits programs. Your personal information will also be shared with the federal and provincial governments for the purpose of administering the income tax regime in compliance with the Income Tax Act.&nbsp;</p>
+<p>In the event your application is accepted and you become an employee or contractor of TO2015™,&nbsp;your personal information will be processed for payroll and benefits purposes and used to administer your employment with TO2015. Your personal information may be provided to third-party payroll and employee benefits providers in order to manage TO2015’s payroll and benefits programs. Your personal information will also be shared with the federal and provincial governments for the purpose of administering the income tax regime in compliance with the Income Tax Act.&nbsp;</p>
 
 <p>TO2015™ will disclose personal information related to your employment, should such disclosure be required by law.&nbsp;</p>
 
@@ -1142,7 +1165,7 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 
 <p>Sponsorship is critical to the promotion, financing and staging of the Games. TO2015’s sponsorship initiative requires the collection of personal information from all sponsors and potential sponsors. A sponsor’s personal information may collected and compiled into a contact list containing TO2015™ sponsors and partners (“<strong>Contact List</strong>”).</p>
 
-<p>The Contact List will be shared with each sponsor and partner for the purpose of fostering current, and promoting future, business opportunities. The Contact List will also be shared will our federal and provincial government funding partners. TO2015™ will contact you in order to obtain your consent if we receive a request to disclose your personal information to one of our municipal partners.</p>
+<p>The Contact List will be shared with each sponsor and partner for the purpose of fostering current, and promoting future, business opportunities. The Contact List will also be shared with our federal and provincial government funding partners for the aforementioned purpose. TO2015™ will contact you in order to obtain your consent if we receive a request to disclose your personal information to one of our municipal partners.</p>
 
 <p>The personal information of TO2015™ sponsors and partners will not be disclosed to any third parties aside from those named above, unless expressly consent to by the sponsor or partner.</p>
 
@@ -1152,15 +1175,35 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 
 <p>Medical data relating to participating athletes may be collected in association with the Games; the use and disclosure of such information is addressed in a separate privacy policy.&nbsp;</p>
 
-<p><u><strong>Volunteers</strong></u></p>
+	
+</div>
+	</div>
+
+
+
+	</div>
+
+	</div>
+</div>
+	<div class="ub ub_box grid_0_667">
+	<div class="spacer">
+
+	
+
+	<div class="inner_box">
+	
+	<div id="volunteer" class="uw uw_text ">
+	<div><p><u><strong>Volunteers</strong></u></p>
 
 <p>TO2015™ may from time to time operate online volunteer application systems. We may also collect personal information for the purpose of a volunteer application in hard copy. If you submit such an application, your personal information will be collected and processed by our third-party application and digital interview service providers for the limited purpose of considering your application.</p>
 
-<p>If you have applied for a volunteer position with TO2015™, we will disclose your personal information to agencies conducting security and background checks on our behalf.</p>
+<p>If you have applied for a volunteer position with TO2015™, we will collect and disclose your personal information for the purpose of administering the accreditation process for the Games. The personal information you provide will be shared by TO2015 with the Royal Canadian Mounted Police (RCMP) to make the required determination on the ability to access various secure zones and official venues of the Games. This information is collected under the authority of the Royal Canadian Mounted Police Act, R.S.C. 1985, c. R-10 and the Royal Canadian Mounted Police Regulations, 1988, SOR/88-361, as amended. The personal information requested is essential for making the above determination and, should it not be provided, accreditation will not be granted. The personal information gathered will be stored by the RCMP in Personal Information Bank CMP PPU 060, may be shared with other Government of Canada institutions and may be disclosed pursuant to the Privacy Act, R.S.C. 1985, c. P-21, as amended. Under this Act, individuals have the right to protection of, access to and correction of their personal information. More specific information can be found at www.infosource.gc.ca. TO2015 will disclose your name, gender, address, telephone number, email address, date and place of birth, and nationality/citizenship to the Ministry of Community Safety and Correctional Services for the purposes of conducting security background checks to provide accreditation for individuals requiring access to official venues to the Games.</p>
 
-<p>The TO2015™ volunteer program seeks to create a lasting legacy of trained, competent and experienced volunteers that will benefit Toronto, the Greater Golden Horseshoe region and Ontario. In the event your application is accepted and you become a Games volunteer, your personal information may be shared with external organizations including, but not limited to, municipal and provincial government partners for use during the Games and for the purpose of informing you of future opportunities in the region, or to support government oversight of the Games. If you indicate intent to apply for benefits from the Ontario Student Assistance Program (“OSAP”), your personal information will be disclosed to the provincial government for the purpose of administering future OSAP benefits.</p>
+<p>The TO2015™ volunteer program seeks to create a lasting legacy of trained, competent and experienced volunteers that will benefit Toronto, the Greater Golden Horseshoe region and Ontario. In the event your application is accepted and you become a Games volunteer, TO2015™ will disclose your name, address and email address to the Ministry of Tourism, Culture and Sport for use during the Games and for the purpose of informing you of future volunteer opportunities that may exist in the region after the Games are over, such as a future provincial project or event. If you indicate intent to apply for benefits from the Ontario Student Assistance Program (“OSAP”), your name, Social Insurance Number (SIN), date of birth, and mailing address will be disclosed to the Ministry of Training, Colleges and Universities &nbsp;for the purpose of administering and financing an exemption of the pre-study OSAP financial contribution or loan repayment relief, if eligible.</p>
 
-<p>Some volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. The personal information of these individuals may be provided to the Ontario Ministry of Transportation in accordance with TO2015™ fleet program.&nbsp;</p>
+<p>Some volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. TO2015™ will disclose your name, address, date of birth, telephone number, email address, driver’s license number and gender to the Ontario Ministry of Transportation for the purposes of confirming you are licensed to operate a vehicle in Ontario and qualified in accordance with TO2015™ Fleet program, if required in order to fulfil your Games volunteer duties.&nbsp;</p>
+
+<p>TO2015™ intends to recognize its volunteers’ contributions to the Games. TO2015™ may disclose your name, address and email address to the Ontario Volunteer Centre Network for the purposes of developing a certificate to recognize you Games volunteer training and experience.</p>
 
 <p>The activities of TO2015™ volunteers may be photographed, distributed and used by TO2015 as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.</p>
 
@@ -1170,17 +1213,17 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 
 <p>TO2015™ has and will continue to contract with corporations and/or individuals as vendors and suppliers of products and services critical to the success of the Games. Personal information of vendors and suppliers is collected through the public procurement process.</p>
 
-<p>Upon a vendor or supplier’s consent, TO2015™ may disclose vendor or supplier information to CIBC for Business Leads who have signed up through the TO2015™ website. This information includes email, phone number, company name, company address, contact name and job title (“Contact Information”). This personal information may be used for the purpose of informing you of potential future business opportunities. In connection with the RFP process, TO2015™ will disclose RFP award winner Contact Information to CIBC, for the same reason stated above. Consent will have already been provided by the vendor or supplier upon submission of the RFP.</p>
+<p>Upon a vendor or supplier’s consent, TO2015™ may disclose vendor or supplier information to CIBC for Business Leads who have signed up through the TO2015™ website. This contact information includes email, phone number, company name, company address, contact name and job title (“Contact Information”). This Contact Information may be used for the purpose of informing you of potential future business opportunities. In connection with the RFP process, TO2015™ will disclose RFP award winner Contact Information to CIBC, for the same reason stated above. Consent will have already been provided by the vendor or supplier upon submission of the RFP.</p>
 
-<p>TO2015™ is committed to the confidential and sensitive nature of procurement agreements, and for that reason, does not make any procurement agreements public, unless compelled to by law. Procurement agreements may be shared with our federal and provincial government partners in order to properly plan, finance and stage the Games. All procurement agreements are kept secure and private and are accessible only to the TO2015™ Procurement and TO2015™ Legal Departments. Similarly, TO2015™ does not make any of the RFP proposal submissions public. Only the TO2015 Evaluation Committee and TO2015™ Procurement Department can view these documents, including pricing. From time to time, third-party consultants participate on evaluation committees. In these circumstances, the third-party consultant is subject to a confidentiality agreement.</p>
+<p>TO2015™ is committed to the confidential and sensitive nature of procurement agreements, and for that reason, does not make any procurement agreements public, unless compelled to by law. Procurement agreements may be shared with our federal and provincial government partners in order to properly plan, finance and stage the Games. All procurement agreements are kept secure and private and are accessible only to the TO2015™ Procurement and TO2015™ Legal Departments. Similarly, TO2015™ does not make any of the RFP proposal submissions public. Only the TO2015™ Evaluation Committee and TO2015™ Procurement Department can view these documents, including pricing. From time to time, third-party consultants participate on evaluation committees. In these circumstances, the third-party consultant is subject to a confidentiality agreement.</p>
 
 <p><u><strong>Contests</strong></u></p>
 
 <p>In order to promote the Games, TO2015™ may from time to time run promotional contests. Such contests may be operated through an online entry or registration system. If you submit a completed contest registration or entry form, we may process the information provided by you for the purpose of administering the contest.&nbsp;</p>
 
-<p>With your prior consent, your information may be used by TO2015™ to send you our electronic newsletters or other such publications and information relating to other TO2015™ promotions, contests, events or Games programs.&nbsp;</p>
+<p>With your prior consent, your personal information, including your name, address and email address may be used by TO2015™ to send you our electronic newsletters or other such publications and information relating to other TO2015™ promotions, contests, events or Games programs.&nbsp;</p>
 
-<p>From time to time, TO2015™ may run co-sponsored promotional contests. If you submit a completed contest registration form to one of TO2015™ co-sponsored contest, we may disclose information provided by you to our co-sponsor.</p>
+<p>From time to time, TO2015™ may run co-sponsored promotional contests. If you submit a completed contest registration form to one of TO2015™ co-sponsored contest, we may disclose your name, address and email address to our co-sponsor.</p>
 
 <p>The activities of TO2015™ contest entrants may be photographed, distributed and used by TO2015™ as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™ employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.</p>
 
@@ -1200,10 +1243,9 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 
 <p>The TO2015™ Torch Relay is a sponsored event. TO2015™ may disclose information provided by you to our sponsors.&nbsp;</p>
 
-<p>Some Torch Relay volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. The personal information of these individuals may be provided to the Ontario Ministry of Transportation in accordance with TO2015™ fleet program.&nbsp;</p>
+<p>Some Torch Relay volunteers will have the opportunity to operate official TO2015™ vehicles during the Games. TO2015™ will disclose your name, address, date of birth, telephone number, email address, driver’s license number and gender to the Ontario Ministry of Transportation for the purposes of confirming you are licensed to operate a vehicle in Ontario and qualified in accordance with TO2015™ Fleet program, if required in order to fulfil your Games Torch Relay duties.</p>
 
 <p>The activities of Torch Relay volunteers may be photographed, distributed and used by TO2015™ as part of its official, promotional or educational material and may be used in any medium or form or with any support and without any compensation. Your image, likeness, voice or performance (or all of these) may be made available to TO2015™ whether such images and recordings have been or will be: (a) made or taken by any TO2015™ employee or agent; or b) made or taken by me or any other person and submitted by me or another person on my behalf to TO2015™ or a TO2015™ representative.</p>
-
 	
 </div>
 	</div>
@@ -1434,7 +1476,7 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 	<div class="uw uw_text ">
 	<div><h2>Questions or Concerns</h2>
 
-<p>To access your personal information, inform us of changes you believe need to be made to that information, request that we investigate a concern you have about our personal information practices or obtain further information about this policy and its outlined practices, please send your questions or concerns to the contact below.&nbsp;</p>
+<p>To access your personal information, inform us of changes you believe need to be made to that information, request that we investigate a concern you have about our personal information practices or obtain further information about this policy and its outlined practices, please send your questions or concerns to the contact below.</p>
 
 <p>To submit a request under FIPPA, please download the <a href="https://panam-production.s3.amazonaws.com/system/asset_pdfs/1162/original/foi-request.pdf" target="_blank">form</a> and follow the instructions.</p>
 
@@ -1442,7 +1484,8 @@ The Policy applies to all current and prospective stakeholders of TO2015™ as w
 Toronto Organizing Committee for the 2015 Pan American and Parapan American Games<br>
 25 Dockside Drive, 7th floor<br>
 Toronto, Ontario Canada M5A 0B5<br>
-<a href="mailto:foiandprivacycoordinator@toronto2015.org ">foiandprivacycoordinator@toronto2015.org</a></p>
+<a href="mailto:foiandprivacycoordinator@toronto2015.org ">foiandprivacycoordinator@toronto2015.org</a><br>
+416.957.2015</p>
 
 	
 </div>
@@ -1458,13 +1501,22 @@ Toronto, Ontario Canada M5A 0B5<br>
 	</div>
 
 	<div class="ub_section_right ub_subsection grid_0_333">
-	<div class="ub ub_sharedbox sidebar offset-bottom-plus-40 ub_38196 grid_0_333" data-box-version="1">
+	<div class="ub ub_sharedbox sidebar offset-bottom-plus-40 ub_40137 grid_0_333" data-box-version="3">
 	<div class="spacer">
 
 	
 
 	<div class="inner_box">
 	
+	<div class="uw uw_navigation uw_retail_nav mobile-hide">
+	<div>	<div class="clearfix (EN) Header Retail_nav">
+	<ul class="nav_item_level_0"><li><span><a href="/tickets" target="_self">Tickets</a></span></li><li class="shopLinkColor"><span><a href="http://shop.toronto2015.org/" target="_blank">Shop</a></span></li><li class="last"><span><a href="/torch-relay" target="_self">Torch Relay</a></span></li><div class="ub_clear"></div></ul>
+	</div>
+</div>
+	</div>
+
+
+
 	<div class="uw uw_html mobile-hide marginBottomMed">
 	<div>	<!-- PGW_EN_BBox_general -->
 <div id="div-gpt-ad-1384640898944-1" style="width:300px; height:250px;">
@@ -1473,6 +1525,40 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 </script>
 </div>
 </div>
+	</div>
+
+
+	<div id="uw_4196" class="uw uw_information uw_ad_text marginBottomSmall">
+	<div>	<h2 class="information_heading">Tickets</h2>
+
+
+
+
+<p class="information_content">
+
+
+	<span>Learn more about</span>
+
+	<span class="link"><a href="http://www.toronto2015.org/tickets?utm_source=website&amp;utm_medium=cta&amp;utm_campaign=pgw-1&amp;utm_term=en&amp;utm_content=cta1-tickets">TORONTO 2015 tickets</a></span>
+
+</p></div>
+	</div>
+
+
+	<div class="uw uw_information uw_ad_text marginBottomSmall">
+	<div>	<h2 class="information_heading">Volunteer</h2>
+
+
+
+
+<p class="information_content">
+
+
+	<span>These Games couldn’t happen without you — the volunteers! Be part of the largest multi-sport event in Canada. </span>
+
+	<span class="link"><a href="/volunteer?utm_source=website&amp;utm_medium=cta&amp;utm_campaign=pgw-1&amp;utm_term=en&amp;utm_content=cta3-volunteer">Learn more</a></span>
+
+</p></div>
 	</div>
 
 
@@ -1505,40 +1591,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 	<span>Join a dynamic team in planning and delivering the TORONTO 2015 Games<br></span>
 
 	<span class="link"><a href="/employment-opportunities?utm_source=website&amp;utm_medium=cta&amp;utm_campaign=pgw-1&amp;utm_term=en&amp;utm_content=cta2-employment">View employment opportunities</a></span>
-
-</p></div>
-	</div>
-
-
-	<div class="uw uw_information uw_ad_text marginBottomSmall">
-	<div>	<h2 class="information_heading">Volunteer</h2>
-
-
-
-
-<p class="information_content">
-
-
-	<span>These Games couldn’t happen without you — the volunteers! Be part of the largest multi-sport event in Canada. </span>
-
-	<span class="link"><a href="/volunteer?utm_source=website&amp;utm_medium=cta&amp;utm_campaign=pgw-1&amp;utm_term=en&amp;utm_content=cta3-volunteer">Learn more</a></span>
-
-</p></div>
-	</div>
-
-
-	<div id="uw_4196" class="uw uw_information uw_ad_text marginBottomSmall">
-	<div>	<h2 class="information_heading">Community Tour</h2>
-
-
-
-
-<p class="information_content">
-
-
-	<span>Learn about the Games by inviting the TO2015 Community Tour to your event. </span>
-
-	<span class="link"><a href="/community-tour?utm_source=website&amp;utm_medium=cta&amp;utm_campaign=pgw-1&amp;utm_term=en&amp;utm_content=cta4-community">Request the tour</a></span>
 
 </p></div>
 	</div>
@@ -1649,6 +1701,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 	</div>
 
 
+
 	</div>
 
 	</div>
@@ -1720,6 +1773,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 	<a href="/about-us/sponsors">
 
+	<img alt="Live Nation - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_25" src="http://images.toronto2015.org/system/asset_images/2062/original/live-nation-sponsor.jpg?1408111086" title="Live Nation - Toronto 2015 Sponsor">
+
+	</a>
+
+	<p class="slideshow_asset_name">Live Nation - Toronto 2015 Sponsor</p>
+	<p class="slideshow_asset_desc"></p>
+
+
+	</li>
+	<li class="slideshow_item slideshow_image ">
+
+	<a href="/about-us/sponsors">
+
 	<img alt="Loblaws - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_25" src="http://images.toronto2015.org/system/asset_images/1310/original/loblaws-sponsor.jpg?1384137602" title="Loblaws - Toronto 2015 Sponsor">
 
 	</a>
@@ -1733,7 +1799,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 	<a href="/about-us/sponsors">
 
-	<img alt="Cirque du Soleil - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_25" src="http://images.toronto2015.org/system/asset_images/1122/original/cirque-du-soleil-sponsor.jpg?1384130826" title="Cirque du Soleil - Toronto 2015 Sponsor">
+	<img alt="Cirque du Soleil - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_25" src="http://images.toronto2015.org/system/asset_images/1887/original/cirque-du-soleil-sponsor-2.jpg?1399566830" title="Cirque du Soleil - Toronto 2015 Sponsor">
 
 	</a>
 
@@ -1748,6 +1814,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 </div>
 	</div>
+
 
 
 	</div>
@@ -1808,6 +1875,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 	<a href="/about-us/sponsors">
 
+	<img alt="Barrick - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/2168/original/barrick-supplier.jpg?1411479384" title="Barrick - Toronto 2015 Sponsor">
+
+	</a>
+
+	<p class="slideshow_asset_name">Barrick - Toronto 2015 Sponsor</p>
+	<p class="slideshow_asset_desc"></p>
+
+
+	</li>
+	<li class="slideshow_item slideshow_image ">
+
+	<a href="/about-us/sponsors">
+
 	<img alt="Beanfield - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/1314/original/beanfield-sponsor.jpg?1384131748" title="Beanfield - Toronto 2015 Sponsor">
 
 	</a>
@@ -1821,11 +1901,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 	<a href="/about-us/sponsors">
 
-	<img alt="CAA South Central Ontario - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/1528/original/caa-sponsor.jpg?1391000567" title="CAA South Central Ontario - Toronto 2015 Sponsor">
+	<img alt="CN Tower - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/2127/original/cn-tower-supplier.jpg?1410299024" title="CN Tower - Toronto 2015 Sponsor">
 
 	</a>
 
-	<p class="slideshow_asset_name">CAA South Central Ontario - Toronto 2015 Sponsor</p>
+	<p class="slideshow_asset_name">CN Tower - Toronto 2015 Sponsor</p>
 	<p class="slideshow_asset_desc"></p>
 
 
@@ -1873,11 +1953,37 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 	<a href="/about-us/sponsors">
 
+	<img alt="Garrett - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/2169/original/garrett-supplier.png?1411487820" title="Garrett - Toronto 2015 Sponsor">
+
+	</a>
+
+	<p class="slideshow_asset_name">Garrett - Toronto 2015 Sponsor</p>
+	<p class="slideshow_asset_desc"></p>
+
+
+	</li>
+	<li class="slideshow_item slideshow_image ">
+
+	<a href="/about-us/sponsors">
+
 	<img alt="Molson Canadian - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/1718/original/molson-canadian-sponsor-2.jpg?1393423961" title="Molson Canadian - Toronto 2015 Sponsor">
 
 	</a>
 
 	<p class="slideshow_asset_name">Molson Canadian - Toronto 2015 Sponsor</p>
+	<p class="slideshow_asset_desc"></p>
+
+
+	</li>
+	<li class="slideshow_item slideshow_image ">
+
+	<a href="/about-us/sponsors">
+
+	<img alt="Ontario Trillium Foundation - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/2124/original/ontario-trillium-foundation-supplier.jpg?1409751035" title="Ontario Trillium Foundation - Toronto 2015 Sponsor">
+
+	</a>
+
+	<p class="slideshow_asset_name">Ontario Trillium Foundation - Toronto 2015 Sponsor</p>
 	<p class="slideshow_asset_desc"></p>
 
 
@@ -1925,6 +2031,19 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 	<a href="/about-us/sponsors">
 
+	<img alt="Siemens - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/2086/original/siemens-sponsor.jpg?1408734606" title="Siemens - Toronto 2015 Sponsor">
+
+	</a>
+
+	<p class="slideshow_asset_name">Siemens - Toronto 2015 Sponsor</p>
+	<p class="slideshow_asset_desc"></p>
+
+
+	</li>
+	<li class="slideshow_item slideshow_image ">
+
+	<a href="/about-us/sponsors">
+
 	<img alt="Toronto-Pearson - Toronto 2015 Sponsor" class=" title asset_link" rel="gallery_26" src="http://images.toronto2015.org/system/asset_images/1312/original/toronto-pearson-sponsor.jpg?1384131739" title="Toronto-Pearson - Toronto 2015 Sponsor">
 
 	</a>
@@ -1953,6 +2072,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 </div>
 	</div>
+
 
 
 	</div>
@@ -1991,11 +2111,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 	<div class="uw uw_gallery funding-partners-a">
 	<div>
 
-<ul id="widget_gallery_list_38339" class="clearfix widget_gallery_list" data-name="PGW EN Funding Partners Canadian v2">
+<ul id="widget_gallery_list_51013" class="clearfix widget_gallery_list" data-name="PGW EN Funding Partners Canadian v2">
 
 	<li class="gallery_item_image canada_logo">
 
-	<a href="http://canada.ca" target="'_blank'">
+	<a href="http://www.canada.ca" target="'_blank'">
 	<img alt="Government of Canada - Toronto 2015 Funding Party" class=" title asset_link" height="40" rel="gallery_147" src="http://images.toronto2015.org/system/asset_images/1442/original/Government_of_Canada.png?1386181976" title="Government of Canada - Toronto 2015 Funding Party">
 	</a>
 
@@ -2010,6 +2130,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 </ul>
 </div>
 	</div>
+
 
 
 	<div class="uw uw_asset funding-partners-spacer mobile-hide">
@@ -2042,7 +2163,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 
 
 	<div class="uw uw_asset host-city-asset">
-	<div> 	<img alt="toronto-small" class=" title asset_link" src="http://images.toronto2015.org/system/asset_images/1557/original/toronto-small.png?1391468967" title="toronto-small">
+	<div>	<a href="http://www.toronto.ca/" target="_blank">
+	<img alt="City of Toronto - TORONTO 2015 Host City" class=" title asset_link" protocol="https" src="http://images.toronto2015.org/system/asset_images/1557/original/toronto-small.png?1391468967" title="City of Toronto - TORONTO 2015 Host City">
+	</a>
 </div>
 	</div>
 
@@ -2238,6 +2361,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 	</div>
 
 
+
 	</div>
 
 	</div>
@@ -2263,7 +2387,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 	<div class="uw uw_gallery funding-partners-b">
 	<div>
 
-<ul id="widget_gallery_list_38341" class="clearfix widget_gallery_list" data-name="PGW EN Funding Partners International">
+<ul id="widget_gallery_list_51015" class="clearfix widget_gallery_list" data-name="PGW EN Funding Partners International">
 
 	<li class="gallery_item_image">
 
@@ -2310,6 +2434,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-1');
 </ul>
 </div>
 	</div>
+
 
 
 	</div>
@@ -2398,6 +2523,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-2');
 	</div>
 
 
+
 	</div>
 
 	</div>
@@ -2428,6 +2554,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-2');
 	</div>
 
 
+
 	</div>
 
 	</div>
@@ -2456,6 +2583,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-2');
 	</div>
 </div>
 	</div>
+
 
 
 	</div>
@@ -2497,6 +2625,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-2');
 	</div>
 
 
+
 	<div id="uw_4152" class="uw uw_information newsletter">
 	<div>	<h2 class="information_heading">Media Centre</h2>
 
@@ -2512,6 +2641,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384640898944-2');
 
 </p></div>
 	</div>
+
 
 
 	</div>
