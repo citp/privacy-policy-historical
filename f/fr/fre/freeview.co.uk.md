@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326153203id_/http%3A//www.freeview.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022042444id_/http%3A//www.freeview.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Freeview
 
@@ -35,7 +35,7 @@ If you don’t want us to place cookies on your computer at all, you can set you
 If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent websites from placing further cookies on your computer.
 
 To find out exactly how to disable/ remove, please go to  
-[www.allaboutcookies.org/manage-cookies/index.html](https://web.archive.org/web/20140326153203id_/http%3A//www.freeview.co.uk/www.allaboutcookies.org/manage-cookies/index.html)
+[www.allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.html)
 
 **5\. What we do with the information we collect about you**
 
