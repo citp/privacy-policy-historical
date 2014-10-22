@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331061747id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022033900id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zumper
 
@@ -11,6 +11,8 @@ This privacy policy is designed to inform users of the Zumper, Inc. website and 
 Personal Information:
 
 _Renters_ : If you sign up to use services offered through the Website, Zumper may collect certain personal information, including your name, email address, home address, employment information, phone number, educational background, credit score, financial information and income and tenancy history (collectively, the "Personal Information"). The collection of such Personal Information is consistent with our provision of services to you, including the facilitation of preliminary determinations by landlords, landlord representatives, brokers, property managers and sub-lessors of your suitability as a potential tenant. In addition, if you contact Zumper and disclose additional personal information, we may store that Personal Information.
+
+In addition to other information Personal Information we collect when you register, you may provide to our third­party service providers through certain features of the Website Personal Information together with your driver's license number and/or social security number in order to verify your identity. This information is used in order to fulfill your request to provide certain other users of the Website with your credit report and credit score.
 
 _Landlords and Brokers_ : When landlords, landlord representatives, brokers, property managers and sub-lessors list properties for rent on the Website, we collect the name, telephone number and email address of a contact person for such landlord, landlord representative, broker property manager or sub-lessor. We also collect bank account information from landlords, landlord representatives, brokers, property managers and sub-lessors so we are able to process payments in connection with the successful rental of listed properties.
 
@@ -37,6 +39,10 @@ _Web Tracking Information_ : We may disclose Web Tracking Information to Contrac
 _Aggregate Information_ : We may disclose aggregated data that does not contain Personal Information to any third parties, such as potential customers, business partners, advertisers, and funding sources, in order to describe our business and operations.
 
 _Permitted Disclosures_ : Notwithstanding the foregoing, Zumper reserves the right to disclose any information we collect in connection with the Website, without further notice to you to any successor to Zumper's business as a result of any merger, acquisition or similar transaction; and to any law enforcement or regulatory authority to the extent required by law or if, in Zumper's reasonable discretion, disclosure is necessary to investigate fraud or any threat to the safety of any individual, to protect Zumper's legal rights or to protect the rights of third parties.
+
+Third Party Ad Servers: We may allow other companies, called third­party ad servers or ad networks, to serve advertisements on the Website. These third­party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Further, these advertisers may also serve ads to you on other websites (including ads for our products and services) based on information collected from you while using the services available through the Website. For example, we use Google’s “remarketing” service to target Zumper ads to you based on your prior use of the Website when you visit other sites in Google’s content network.
+
+You should consult the respective privacy policies of these third­party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers or other websites. You can opt out of the use by third­party ad servers of cookies by contacting us at [hello@zumper.com](mailto:hello@zumper.com).
 
 ##### 5\. How Can You Opt Out of Use and Disclosure of Your Information?
 
@@ -72,4 +78,4 @@ The Website does not knowingly collect personal information from users under the
 
 This policy forms part of, and is subject to, the provisions of Zumper's [Terms of Use](https://web.archive.org/terms-of-use).
 
-Effective Date of this policy: February 10, 2014.
+Effective Date of this policy: August 23, 2014.
