@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deepakchopra.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065151id_/https%3A//www.deepakchopra.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepakchopra.com privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022070241id_/https%3A//www.deepakchopra.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	    <title>Deepak Chopra - Privacy Policy</title>
@@ -61,7 +61,7 @@
 		];
 		try {
 			var eventDays;
-						eventDays = ["20140604","20140606","20140607","20140609","20140614","20140610","20140627"];
+						eventDays = ["20141024","20141019"];
 					}
 		catch (e){}
         jQuery.timeago.settings.strings = {
@@ -221,41 +221,92 @@
                 <li class="clear">&nbsp;</li>
     </ul>
 
+<script type="text/javascript">
+    var Splayers = new Array();
+    
+    $(document).ready(function(){
+        setTimeout(function(){ setEventHandlerYt(); }, 2000);
+        
+        $('.slideshow ul.pager li').click(function(){
+            $('object[id*="slytCplayer"]').each(function(){
+                document.getElementById($(this).attr('id')).stopVideo();
+            });
+        });
+    });
+    
+    function setEventHandlerYt()
+    {
+        for(i = 0; i < Splayers.length; i++)
+        {
+                if(typeof Splayers[i] != 'undefined' && Splayers[i] != null)
+                {
+                    Splayers[i].addEventListener("onStateChange", "onytplayerStateChange");
+                }
+        }
+    }
+    
+    function onytplayerStateChange(newState)
+    {
+        if(newState === 1)
+        {
+            sliding = false;
+        }
+        else if(newState === 0)
+        {
+            sliding = true;
+        }
+        else if(newState === 2)
+        {
+            sliding = true;
+        }
+    }
+</script>
 <div class="slideshow">
     <ul class="items" rel="0">
                     <li class="active">
-                <span class="ribbons ribbon_6">                               
-                    <span>
-                                                Book
-                    </span>                    
-                </span>
-				<a href="https://www.deepakchopra.com/ebooks" target="_blank" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Ask Deepak E-Books' ]);">
-		    <img src="https://www.deepakchopra.com/images/slide/c4f9ec15365c50ff28bf5e15f991b221_63.jpg" alt="Ask Deepak E-Books" class="radius-5" width="405" height="180" align="right">
-		</a>
-		                <h3 class="text-shadow-white"><a href="https://www.deepakchopra.com/ebooks" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Ask Deepak E-Books' ]);" target="_blank">Ask Deepak E-Books</a></h3>
-                <div class="paragraph">
-                    Join me on a journey of personal, social, global and spiritual transformation to ease your mind and soul.<br>
-
-                </div>
-                <div class="button radius-15 text-shadow-black shadow-2">
-                    <a href="https://www.deepakchopra.com/ebooks" target="_blank" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Ask Deepak E-Books' ]);">Read More</a>
-                </div>                
-            </li>
-                    <li>
                 <span class="ribbons ribbon_7">                               
                     <span>
                                                 Marketplace
                     </span>                    
                 </span>
-				<a href="http://chopraananda.com/?utm_source=DC.com%20Top%20Billboard&amp;utm_medium=Banner&amp;utm_campaign=DC.com%20Top%20Billboard" target="_blank" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Check Out Our New Meditation App' ]);">
-		    <img src="https://www.deepakchopra.com/images/slide/f3db25444b86e4e25f4dcdff9ed8d5da_61.jpg" alt="Check Out Our New Meditation App" class="radius-5" width="405" height="180" align="right">
-		</a>
+				<div class="embedContainer radius-5">
+                    <div id="slytplayer0">
+                        You need Flash player 8+ and JavaScript enabled to view this video.
+                    </div>
+                    <script type="text/javascript">
+                    var params = { allowScriptAccess: "always" };
+                    var atts = { id: "slytCplayer0" };
+                    swfobject.embedSWF("https://www.youtube.com/v/EMNN10smlxI?enablejsapi=1&playerapiid=slytplayer0&version=3",
+                                       "slytplayer0", "356", "200", "8", null, null, params, atts,function(e){
+                                           Splayers.push(e.ref);
+                                       });
+                    </script>
+		</div>
 		                <h3 class="text-shadow-white"><a href="http://chopraananda.com/?utm_source=DC.com%20Top%20Billboard&amp;utm_medium=Banner&amp;utm_campaign=DC.com%20Top%20Billboard" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Check Out Our New Meditation App' ]);" target="_blank">Check Out Our New Meditation App</a></h3>
                 <div class="paragraph">
-                    Customize your meditation experience with our new app “Ananda – Living in Love”. Mix and match music and meditation tracks, set the length of your meditations and more. Download it for free to try from iTunes or Google Play.
+                    Try our new meditation app “Ananda – Infinite Abundance”! Mix &amp; match music &amp;&nbsp; meditations, all guided Deepak, set the length of your experience &amp; more. Download is free from iTunes &amp; Google Play.
                 </div>
                 <div class="button radius-15 text-shadow-black shadow-2">
                     <a href="http://chopraananda.com/?utm_source=DC.com%20Top%20Billboard&amp;utm_medium=Banner&amp;utm_campaign=DC.com%20Top%20Billboard" target="_blank" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Check Out Our New Meditation App' ]);">Read More</a>
+                </div>                
+            </li>
+                    <li>
+                <span class="ribbons ribbon_0">                               
+                    <span>
+                                                
+                    </span>                    
+                </span>
+				<a href="https://chopracentermeditation.com/home/?acode=hakott01&amp;utm_source=DC_DotCom&amp;utm_medium=Banner&amp;utm_campaign=DC_DotCom_TopBillboard" target="_blank" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Energy of Attraction' ]);">
+		    <img src="https://www.deepakchopra.com/images/slide/66cfe80992bde483ea8d967af6600afe_66.jpg" alt="Energy of Attraction" class="radius-5" width="405" height="180" align="right">
+		</a>
+		                <h3 class="text-shadow-white"><a href="https://chopracentermeditation.com/home/?acode=hakott01&amp;utm_source=DC_DotCom&amp;utm_medium=Banner&amp;utm_campaign=DC_DotCom_TopBillboard" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Energy of Attraction' ]);" target="_blank">Energy of Attraction</a></h3>
+                <div class="paragraph">
+                    Our new 21-Day Meditation Experience takes you to the life of your dreams. Register now for FREE!<br>
+<br>
+
+                </div>
+                <div class="button radius-15 text-shadow-black shadow-2">
+                    <a href="https://chopracentermeditation.com/home/?acode=hakott01&amp;utm_source=DC_DotCom&amp;utm_medium=Banner&amp;utm_campaign=DC_DotCom_TopBillboard" target="_blank" onclick="_gaq.push(['_trackEvent', 'Top Billboard', 'Navigation', 'Energy of Attraction' ]);">Read More</a>
                 </div>                
             </li>
                     <li>
@@ -283,7 +334,6 @@
                 <li class="clear">&nbsp;</li>
     </ul>
 </div>
-
         </div>
 	
                     <div id="breadcrumb">
@@ -347,9 +397,12 @@
 	    	    
 <script language="javascript" type="text/javascript">
 var banner_left = [
-		    		    ['banner_3left','left_flash_3left','','49_Ayurveda_220x220.jpg','http://bit.ly/1dTc7GS','Ayurveda_Square','220','220','49'],
-		    		    ['banner_3left','left_flash_3left','','1_banner2.gif','http://ponderapharma.com/buy-deepak-chopra-endorphinate-ar/','Pondera_square','220','220','1'],
-		    		    ['banner_3left','left_flash_3left','','46_dc_Banner (220 x 220) (V1).jpg','https://www.deepakchopra.com/ebooks','Ask Deepak E-Books','220','220','46'],
+		    		    ['banner_6left','left_flash_6left','','49_Ayurveda_220x220.jpg','http://bit.ly/1dTc7GS','Ayurveda_Square','220','220','49'],
+		    		    ['banner_6left','left_flash_6left','','54_220x220.jpg','http://bit.ly/1zMOWVZ ','Hot Belly Diet Square','220','220','54'],
+		    		    ['banner_6left','left_flash_6left','','58_Globein-Chopra-Box-220x220_2.png','http://globein.com/the-artisan-gift-box?utm_source=chopra&utm_medium=banner&utm_campaign=freeboxv1','Globein_Square','220','220','58'],
+		    		    ['banner_6left','left_flash_6left','','46_dc_Banner (220 x 220) (V1).jpg','https://www.deepakchopra.com/ebooks','Ask Deepak E-Books','220','220','46'],
+		    		    ['banner_6left','left_flash_6left','','51_ANANDA_Banner_220x220.png','http://chopraananda.com/?utm_source=DC.com%20Top%20Billboard&utm_medium=Banner&utm_campaign=DC.com%20Top%20Billboard','Infinite Abundance_Horizontal ','220','220','51'],
+		    		    ['banner_6left','left_flash_6left','','1_banner2.gif','http://ponderapharma.com/buy-deepak-chopra-endorphinate-ar/','Pondera_square','220','220','1'],
 		    		];
 
 $(window).ready(function(){
@@ -359,7 +412,7 @@ $(window).ready(function(){
 </script>
 <div class="box">
     <div id="left-reklam" class="box-bg radius-5 scrollable">
-	<div id="banner_3left" style="height:220px;"></div>
+	<div id="banner_6left" style="height:220px;"></div>
     </div>
 </div>
 
@@ -372,56 +425,6 @@ $(window).ready(function(){
 		<h2>Marketplace</h2>
 		<div class="itemsContainer">
 			<div class="items">
-								<div class="item" data-id="646" data-extid="202" data-link1="" data-link2="" data-link3="" data-link4="Guggulu" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Guggulu</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Guggulu" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-202.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="649" data-extid="199" data-link1="" data-link2="" data-link3="" data-link4="Ashwagandha" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Ashwagandha</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Ashwagandha" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-199.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="653" data-extid="184" data-link1="" data-link2="" data-link3="" data-link4="Biochavan - Antioxidant Jam (Chyawanprash)" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Biochavan - Antioxidant Jam (Chyawanprash)</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Biochavan - Antioxidant Jam (Chyawanprash)" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-184.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="867" data-extid="596" data-link1="" data-link2="" data-link3="" data-link4="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>AYURNAS- Ayurvedic Cold &amp; Allergy Remedy</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-596.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="645" data-extid="203" data-link1="" data-link2="" data-link3="" data-link4="Shatavari Rejuvenating Ayurvedic Herb" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Shatavari Rejuvenating Ayurvedic Herb</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Shatavari Rejuvenating Ayurvedic Herb" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-203.png">					<div class="text">
-					    
-					</div>
-				</div>
 								<div class="item" data-id="510" data-extid="428" data-link1="" data-link2="" data-link3="" data-link4="Satwa Premium Sandalwood Incense" data-link5="store">
 					<table class="name">
 						<tbody><tr>
@@ -429,16 +432,6 @@ $(window).ready(function(){
 						</tr>
 					</tbody></table>
 					<img alt="Satwa Premium Sandalwood Incense" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-428.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="644" data-extid="204" data-link1="" data-link2="" data-link3="" data-link4="Triphala" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Triphala</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Triphala" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-204.png">					<div class="text">
 					    
 					</div>
 				</div>
@@ -452,6 +445,46 @@ $(window).ready(function(){
 					    
 					</div>
 				</div>
+								<div class="item" data-id="649" data-extid="199" data-link1="" data-link2="" data-link3="" data-link4="Ashwagandha" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Ashwagandha</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Ashwagandha" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-199.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="645" data-extid="203" data-link1="" data-link2="" data-link3="" data-link4="Shatavari Rejuvenating Ayurvedic Herb" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Shatavari Rejuvenating Ayurvedic Herb</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Shatavari Rejuvenating Ayurvedic Herb" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-203.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="644" data-extid="204" data-link1="" data-link2="" data-link3="" data-link4="Triphala" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Triphala</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Triphala" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-204.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="867" data-extid="596" data-link1="" data-link2="" data-link3="" data-link4="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>AYURNAS- Ayurvedic Cold &amp; Allergy Remedy</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-596.png">					<div class="text">
+					    
+					</div>
+				</div>
 								<div class="item" data-id="874" data-extid="516" data-link1="" data-link2="" data-link3="" data-link4="ZRII - Amalaki Antioxidant Supplement" data-link5="store">
 					<table class="name">
 						<tbody><tr>
@@ -459,6 +492,26 @@ $(window).ready(function(){
 						</tr>
 					</tbody></table>
 					<img alt="ZRII - Amalaki Antioxidant Supplement" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-516.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="653" data-extid="184" data-link1="" data-link2="" data-link3="" data-link4="Biochavan - Antioxidant Jam (Chyawanprash)" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Biochavan - Antioxidant Jam (Chyawanprash)</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Biochavan - Antioxidant Jam (Chyawanprash)" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-184.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="646" data-extid="202" data-link1="" data-link2="" data-link3="" data-link4="Guggulu" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Guggulu</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Guggulu" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-202.png">					<div class="text">
 					    
 					</div>
 				</div>
@@ -513,15 +566,15 @@ $(window).ready(function(){
 		<h2>Books</h2>
 		<div class="itemsContainer">
 			<div class="items">
-								<div class="item" data-id="953" data-extid="969" data-link1="http://store.chopra.com/dc-add2cart.asp?item=969&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Creating Sacred Space with Feng Shui" data-link5="book">
+								<div class="item" data-id="936" data-extid="949" data-link1="http://store.chopra.com/dc-add2cart.asp?item=949&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Super Brain by Deepak Chopra, MD &amp; Rudy Tanzi, MD (Hardcover) " data-link5="book">
 					<table class="name">
 						<tbody><tr>
-							<td><h3>Creating Sacred Space with Feng Shui</h3></td>
+							<td><h3>Super Brain by Deepak Chopra, MD &amp; Rudy Tanzi, MD (Hardcover) </h3></td>
 						</tr>
 					</tbody></table>
-					<img alt="Creating Sacred Space with Feng Shui" width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-969.png">					<div class="text">
+					<img alt="Super Brain by Deepak Chopra, MD &amp; Rudy Tanzi, MD (Hardcover) " width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-949.png">					<div class="text">
 						
-  ABOUT THE BOOK: Feng Shui is the ancient oriental art of enhancing and harmonizing the flow of energy in your surroundings.&nbsp; Over the last twenty years, Karen Kingston has pioneered the study...
+ Learn about Deepak Chopra and the Chopra Center's Super Brain dietary supplement -    Ayurvedic Brain Support                 NEW YORK TIMES BESTSELLER   Super Brain by Deepak Chopra, MD &amp; Rudy...
 					</div>
 				</div>
 								<div class="item" data-id="926" data-extid="925" data-link1="http://store.chopra.com/dc-add2cart.asp?item=925&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="GOD: A Story of Revelation (Hardcover)" data-link5="book">
@@ -535,39 +588,6 @@ $(window).ready(function(){
 “God is an empty term except through the revelations of all the saints, prophets, and mystics of history. They exist to plant the seeds of spirituality as a direct experience rather than a...
 					</div>
 				</div>
-								<div class="item" data-id="716" data-extid="899" data-link1="http://store.chopra.com/dc-add2cart.asp?item=899&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="NEW Spiritual Solutions by Deepak Chopra(Hardcover)" data-link5="book">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>NEW Spiritual Solutions by Deepak Chopra(Hardcover)</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="NEW Spiritual Solutions by Deepak Chopra(Hardcover)" width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-899.png">					<div class="text">
-						
- Spiritual Solutions: Answers to Life's Greatest Challenges    (     AUDIOBOOK Available     )&nbsp;     "Great advice directly from the master on virtually any subject, it just doesn't get any better...
-					</div>
-				</div>
-								<div class="item" data-id="966" data-extid="976" data-link1="http://store.chopra.com/dc-add2cart.asp?item=976&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Brotherhood - by Deepak &amp; Sanjiv Chopra (Hardcover) " data-link5="book">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Brotherhood - by Deepak &amp; Sanjiv Chopra (Hardcover) </h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Brotherhood - by Deepak &amp; Sanjiv Chopra (Hardcover) " width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-976.png">					<div class="text">
-						
-  BROTHERHOOD  Dharma, Destiny, and the American Dream DEEPAK &amp; SANJIV CHOPRA     &nbsp;     “BROTHERHOOD is an uplifting account of sibling affection and success,  and of the promise and infinite...
-					</div>
-				</div>
-								<div class="item" data-id="936" data-extid="949" data-link1="http://store.chopra.com/dc-add2cart.asp?item=949&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Super Brain by Deepak Chopra, MD &amp; Rudy Tanzi, MD (Hardcover) " data-link5="book">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Super Brain by Deepak Chopra, MD &amp; Rudy Tanzi, MD (Hardcover) </h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Super Brain by Deepak Chopra, MD &amp; Rudy Tanzi, MD (Hardcover) " width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-949.png">					<div class="text">
-						
- Learn about Deepak Chopra and the Chopra Center's Super Brain dietary supplement -    Ayurvedic Brain Support                 NEW YORK TIMES BESTSELLER   Super Brain by Deepak Chopra, MD &amp; Rudy...
-					</div>
-				</div>
 								<div class="item" data-id="952" data-extid="968" data-link1="http://store.chopra.com/dc-add2cart.asp?item=968&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Joyful Wisdom" data-link5="book">
 					<table class="name">
 						<tbody><tr>
@@ -577,17 +597,6 @@ $(window).ready(function(){
 					<img alt="Joyful Wisdom" width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-968.png">					<div class="text">
 						
   ABOUT THEBOOK: Yongey Mingyur is one of the most celebrated among the new generation of Tibetan meditation masters, whose teachings have touched people of all faiths around the world. His first...
-					</div>
-				</div>
-								<div class="item" data-id="543" data-extid="844" data-link1="http://store.chopra.com/dc-add2cart.asp?item=844&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Soul of Leadership (Hardcover) " data-link5="book">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Soul of Leadership (Hardcover) </h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Soul of Leadership (Hardcover) " width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-844.png">					<div class="text">
-						
-ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the decision to step out of darkness into the light. &nbsp; &nbsp;&nbsp; Bestselling author and spiritual guide Deepak Chopra invites...
 					</div>
 				</div>
 								<div class="item" data-id="951" data-extid="966" data-link1="http://store.chopra.com/dc-add2cart.asp?item=966&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Ten Poems to Change Your Life" data-link5="book">
@@ -601,6 +610,28 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
  ABOUT THE BOOK: This is a dangerous book. Great poetry calls into question not less than everything. It dares us to break free from the safe strategies of the cautious mind. It opens us to pain...
 					</div>
 				</div>
+								<div class="item" data-id="716" data-extid="899" data-link1="http://store.chopra.com/dc-add2cart.asp?item=899&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="NEW Spiritual Solutions by Deepak Chopra(Hardcover)" data-link5="book">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>NEW Spiritual Solutions by Deepak Chopra(Hardcover)</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="NEW Spiritual Solutions by Deepak Chopra(Hardcover)" width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-899.png">					<div class="text">
+						
+ Spiritual Solutions: Answers to Life's Greatest Challenges    (     AUDIOBOOK Available     )&nbsp;     "Great advice directly from the master on virtually any subject, it just doesn't get any better...
+					</div>
+				</div>
+								<div class="item" data-id="543" data-extid="844" data-link1="http://store.chopra.com/dc-add2cart.asp?item=844&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Soul of Leadership (Hardcover) " data-link5="book">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Soul of Leadership (Hardcover) </h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Soul of Leadership (Hardcover) " width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-844.png">					<div class="text">
+						
+ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the decision to step out of darkness into the light. &nbsp; &nbsp;&nbsp; Bestselling author and spiritual guide Deepak Chopra invites...
+					</div>
+				</div>
 								<div class="item" data-id="703" data-extid="59" data-link1="http://store.chopra.com/dc-add2cart.asp?item=59&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Book Of Secrets" data-link5="book">
 					<table class="name">
 						<tbody><tr>
@@ -612,13 +643,35 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
   2005 Nautilus Book Award Grand Prize Winner! New York Times Best Seller!    Every life is a book of secrets, ready to be opened. The secret of perfect love is found there, along with the secrets...
 					</div>
 				</div>
+								<div class="item" data-id="953" data-extid="969" data-link1="http://store.chopra.com/dc-add2cart.asp?item=969&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Creating Sacred Space with Feng Shui" data-link5="book">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Creating Sacred Space with Feng Shui</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Creating Sacred Space with Feng Shui" width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-969.png">					<div class="text">
+						
+  ABOUT THE BOOK: Feng Shui is the ancient oriental art of enhancing and harmonizing the flow of energy in your surroundings.&nbsp; Over the last twenty years, Karen Kingston has pioneered the study...
+					</div>
+				</div>
+								<div class="item" data-id="966" data-extid="976" data-link1="http://store.chopra.com/dc-add2cart.asp?item=976&amp;apn=AC1211200" data-link2="" data-link3="" data-link4="Brotherhood - by Deepak &amp; Sanjiv Chopra (Hardcover) " data-link5="book">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Brotherhood - by Deepak &amp; Sanjiv Chopra (Hardcover) </h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Brotherhood - by Deepak &amp; Sanjiv Chopra (Hardcover) " width="183" height="284" class="bookImage" src="https://www.deepakchopra.com/images/store/183x284/external-976.png">					<div class="text">
+						
+  BROTHERHOOD  Dharma, Destiny, and the American Dream DEEPAK &amp; SANJIV CHOPRA     &nbsp;     “BROTHERHOOD is an uplifting account of sibling affection and success,  and of the promise and infinite...
+					</div>
+				</div>
 							</div>
 		</div>
 		<div class="bottomButtonBar purple">
 			<div class="buyNowButtonContainer">
 				<a href="" onclick="return PopupAddToCart(this);"><div class="button buyNow radius-15 shadow-2">BUY NOW</div></a>
 			</div>
-			<a id="leftbookreadmore" href="https://www.deepakchopra.com/book/view/953">Read More ›</a>
+			<a id="leftbookreadmore" href="https://www.deepakchopra.com/book/view/936">Read More ›</a>
 		</div>
 		<div class="clear"></div>
 	</div>
@@ -633,16 +686,6 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 		<h2>Marketplace</h2>
 		<div class="itemsContainer">
 			<div class="items">
-								<div class="item" data-id="653" data-extid="184" data-link1="" data-link2="" data-link3="" data-link4="Biochavan - Antioxidant Jam (Chyawanprash)" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Biochavan - Antioxidant Jam (Chyawanprash)</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Biochavan - Antioxidant Jam (Chyawanprash)" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-184.png">					<div class="text">
-					    
-					</div>
-				</div>
 								<div class="item" data-id="645" data-extid="203" data-link1="" data-link2="" data-link3="" data-link4="Shatavari Rejuvenating Ayurvedic Herb" data-link5="store">
 					<table class="name">
 						<tbody><tr>
@@ -650,36 +693,6 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 						</tr>
 					</tbody></table>
 					<img alt="Shatavari Rejuvenating Ayurvedic Herb" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-203.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="874" data-extid="516" data-link1="" data-link2="" data-link3="" data-link4="ZRII - Amalaki Antioxidant Supplement" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>ZRII - Amalaki Antioxidant Supplement</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="ZRII - Amalaki Antioxidant Supplement" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-516.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="872" data-extid="513" data-link1="" data-link2="" data-link3="" data-link4="Relaxing Herbal Tea to balance VATA" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Relaxing Herbal Tea to balance VATA</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Relaxing Herbal Tea to balance VATA" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-513.png">					<div class="text">
-					    
-					</div>
-				</div>
-								<div class="item" data-id="510" data-extid="428" data-link1="" data-link2="" data-link3="" data-link4="Satwa Premium Sandalwood Incense" data-link5="store">
-					<table class="name">
-						<tbody><tr>
-							<td><h3>Satwa Premium Sandalwood Incense</h3></td>
-						</tr>
-					</tbody></table>
-					<img alt="Satwa Premium Sandalwood Incense" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-428.png">					<div class="text">
 					    
 					</div>
 				</div>
@@ -693,13 +706,33 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 					    
 					</div>
 				</div>
-								<div class="item" data-id="649" data-extid="199" data-link1="" data-link2="" data-link3="" data-link4="Ashwagandha" data-link5="store">
+								<div class="item" data-id="867" data-extid="596" data-link1="" data-link2="" data-link3="" data-link4="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" data-link5="store">
 					<table class="name">
 						<tbody><tr>
-							<td><h3>Ashwagandha</h3></td>
+							<td><h3>AYURNAS- Ayurvedic Cold &amp; Allergy Remedy</h3></td>
 						</tr>
 					</tbody></table>
-					<img alt="Ashwagandha" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-199.png">					<div class="text">
+					<img alt="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-596.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="510" data-extid="428" data-link1="" data-link2="" data-link3="" data-link4="Satwa Premium Sandalwood Incense" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Satwa Premium Sandalwood Incense</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Satwa Premium Sandalwood Incense" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-428.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="872" data-extid="513" data-link1="" data-link2="" data-link3="" data-link4="Relaxing Herbal Tea to balance VATA" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Relaxing Herbal Tea to balance VATA</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Relaxing Herbal Tea to balance VATA" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-513.png">					<div class="text">
 					    
 					</div>
 				</div>
@@ -713,13 +746,33 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 					    
 					</div>
 				</div>
-								<div class="item" data-id="867" data-extid="596" data-link1="" data-link2="" data-link3="" data-link4="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" data-link5="store">
+								<div class="item" data-id="874" data-extid="516" data-link1="" data-link2="" data-link3="" data-link4="ZRII - Amalaki Antioxidant Supplement" data-link5="store">
 					<table class="name">
 						<tbody><tr>
-							<td><h3>AYURNAS- Ayurvedic Cold &amp; Allergy Remedy</h3></td>
+							<td><h3>ZRII - Amalaki Antioxidant Supplement</h3></td>
 						</tr>
 					</tbody></table>
-					<img alt="AYURNAS- Ayurvedic Cold &amp; Allergy Remedy" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-596.png">					<div class="text">
+					<img alt="ZRII - Amalaki Antioxidant Supplement" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-516.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="653" data-extid="184" data-link1="" data-link2="" data-link3="" data-link4="Biochavan - Antioxidant Jam (Chyawanprash)" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Biochavan - Antioxidant Jam (Chyawanprash)</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Biochavan - Antioxidant Jam (Chyawanprash)" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-184.png">					<div class="text">
+					    
+					</div>
+				</div>
+								<div class="item" data-id="649" data-extid="199" data-link1="" data-link2="" data-link3="" data-link4="Ashwagandha" data-link5="store">
+					<table class="name">
+						<tbody><tr>
+							<td><h3>Ashwagandha</h3></td>
+						</tr>
+					</tbody></table>
+					<img alt="Ashwagandha" width="184" height="117" src="https://www.deepakchopra.com/images/store/184x117/external-199.png">					<div class="text">
 					    
 					</div>
 				</div>
@@ -742,66 +795,10 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 			<div class="itemsContainer">
 				<div class="items">
 										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/92/conversation:_leymah_gbowee_and_abigail_disney"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/4826bf4318d4b867163eccaede779f24_92.jpg" alt="Conversation: Leymah Gbowee and Abigail Disney"></a>
-						<div class="postedOn">Posted On: <span class="date">November 17 2011</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/92/conversation:_leymah_gbowee_and_abigail_disney">Conversation: Leymah Gbowee and Abigail Disney</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/136/war_of_the_worldviews_interview_part1__life"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/61797dfb10dd144f0fa58a2758468d9b_136.jpg" alt="War of the Worldviews Interview Part1 - Life"></a>
-						<div class="postedOn">Posted On: <span class="date">January 09 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/136/war_of_the_worldviews_interview_part1__life">War of the Worldviews Interview Part1 - Life</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/140/deepak_hosts_arianna_huffington_and_dylan_ratigan_at_dhb"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/3ae6364d03c81c46c2ad0fa94eed576b_140.jpg" alt="Deepak hosts Arianna Huffington and Dylan Ratigan at DHB"></a>
-						<div class="postedOn">Posted On: <span class="date">January 09 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/140/deepak_hosts_arianna_huffington_and_dylan_ratigan_at_dhb">Deepak hosts Arianna Huffington and Dylan Ratigan at DHB</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/206/ask_deepak__how_to_decrease_physical_pain_"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-206.jpg" alt="Ask Deepak - How To Decrease Physical Pain "></a>
-						<div class="postedOn">Posted On: <span class="date">May 16 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/206/ask_deepak__how_to_decrease_physical_pain_">Ask Deepak - How To Decrease Physical Pain </a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/153/the_wonder_of_the_human_body"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/3a58fa0fb4af57063545aaccedfb7aa3_153.jpg" alt="The Wonder of The Human Body"></a>
-						<div class="postedOn">Posted On: <span class="date">February 29 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/153/the_wonder_of_the_human_body">The Wonder of The Human Body</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/212/ask_deepak__how_does_forgiveness_heal"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-212.jpg" alt="Ask Deepak - How Does Forgiveness Heal"></a>
-						<div class="postedOn">Posted On: <span class="date">August 17 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/212/ask_deepak__how_does_forgiveness_heal">Ask Deepak - How Does Forgiveness Heal</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/125/shekhar_kapur__deepak_chopraa_conversationtime_is_also_a_story"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/e4c4dacb5d7bda32c990b52d5368cbbe_125.jpg" alt="Shekhar Kapur &amp; Deepak Chopra-A Conversation-TIME is also a story..."></a>
-						<div class="postedOn">Posted On: <span class="date">December 22 2011</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/125/shekhar_kapur__deepak_chopraa_conversationtime_is_also_a_story">Shekhar Kapur &amp; Deepak Chopra-A Conversation-TIME is also a story...</a>
-						</div>
-					</div>
-										<div class="item">
 						<a href="https://www.deepakchopra.com/video/view/150/hitting_rock_bottom"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/ebb709eb486717c4a7868c6fba038d6f_150.jpg" alt="Hitting rock bottom"></a>
 						<div class="postedOn">Posted On: <span class="date">March 07 2012</span></div>
 						<div class="name">
 							<a href="https://www.deepakchopra.com/video/view/150/hitting_rock_bottom">Hitting rock bottom</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/196/ask_deepak__changing_my_diet_to_be_healthier"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-196.jpg" alt="Ask Deepak -  Changing My Diet To Be Healthier"></a>
-						<div class="postedOn">Posted On: <span class="date">May 15 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/196/ask_deepak__changing_my_diet_to_be_healthier">Ask Deepak -  Changing My Diet To Be Healthier</a>
 						</div>
 					</div>
 										<div class="item">
@@ -812,17 +809,38 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 						</div>
 					</div>
 										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/140/deepak_hosts_arianna_huffington_and_dylan_ratigan_at_dhb"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/3ae6364d03c81c46c2ad0fa94eed576b_140.jpg" alt="Deepak hosts Arianna Huffington and Dylan Ratigan at DHB"></a>
+						<div class="postedOn">Posted On: <span class="date">January 09 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/140/deepak_hosts_arianna_huffington_and_dylan_ratigan_at_dhb">Deepak hosts Arianna Huffington and Dylan Ratigan at DHB</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/151/teachers_achievement_awards__deepak_chopra"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/ab36957cfa9acc1c01c28c2895d37eb9_151.jpg" alt="Teacher's Achievement Awards - Deepak Chopra"></a>
+						<div class="postedOn">Posted On: <span class="date">February 29 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/151/teachers_achievement_awards__deepak_chopra">Teacher's Achievement Awards - Deepak Chopra</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/206/ask_deepak__how_to_decrease_physical_pain_"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-206.jpg" alt="Ask Deepak - How To Decrease Physical Pain "></a>
+						<div class="postedOn">Posted On: <span class="date">May 16 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/206/ask_deepak__how_to_decrease_physical_pain_">Ask Deepak - How To Decrease Physical Pain </a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/202/deepak`s_first_google_hangout"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/ddb3ee2aabeeb4cfcba6bd5e5857954d_202.jpg" alt="Deepak`s First Google Hangout"></a>
+						<div class="postedOn">Posted On: <span class="date">May 02 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/202/deepak`s_first_google_hangout">Deepak`s First Google Hangout</a>
+						</div>
+					</div>
+										<div class="item">
 						<a href="https://www.deepakchopra.com/video/view/93/conversation_with_joel_primack_and_nancy_abrams"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/26112ebba30cbef13be040f30928d85f_93.jpg" alt="Conversation with Joel Primack and Nancy Abrams"></a>
 						<div class="postedOn">Posted On: <span class="date">November 17 2011</span></div>
 						<div class="name">
 							<a href="https://www.deepakchopra.com/video/view/93/conversation_with_joel_primack_and_nancy_abrams">Conversation with Joel Primack and Nancy Abrams</a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/146/deepak_chopra__human_energy_and_human_power"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/35a0c49a9d65c34ae742f3bb6551c009_146.jpg" alt="Deepak Chopra - Human Energy and Human Power"></a>
-						<div class="postedOn">Posted On: <span class="date">January 17 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/146/deepak_chopra__human_energy_and_human_power">Deepak Chopra - Human Energy and Human Power</a>
 						</div>
 					</div>
 										<div class="item">
@@ -840,20 +858,6 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 						</div>
 					</div>
 										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/205/ask_deepak__what_is_the_purpose_of_life_"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-205.jpg" alt="Ask Deepak - What Is The Purpose Of Life "></a>
-						<div class="postedOn">Posted On: <span class="date">January 14 2013</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/205/ask_deepak__what_is_the_purpose_of_life_">Ask Deepak - What Is The Purpose Of Life </a>
-						</div>
-					</div>
-										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/151/teachers_achievement_awards__deepak_chopra"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/ab36957cfa9acc1c01c28c2895d37eb9_151.jpg" alt="Teacher's Achievement Awards - Deepak Chopra"></a>
-						<div class="postedOn">Posted On: <span class="date">February 29 2012</span></div>
-						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/151/teachers_achievement_awards__deepak_chopra">Teacher's Achievement Awards - Deepak Chopra</a>
-						</div>
-					</div>
-										<div class="item">
 						<a href="https://www.deepakchopra.com/video/view/20/highlights__playing_our_part__deepak_chopra_at_zeitgeist_americas_2011"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/75baf73f55c53956da2049180db8e67e_20t.jpg" alt="Highlights - Playing our Part - Deepak Chopra at Zeitgeist Americas 2011"></a>
 						<div class="postedOn">Posted On: <span class="date">October 14 2011</span></div>
 						<div class="name">
@@ -861,10 +865,59 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 						</div>
 					</div>
 										<div class="item">
-						<a href="https://www.deepakchopra.com/video/view/202/deepak`s_first_google_hangout"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/ddb3ee2aabeeb4cfcba6bd5e5857954d_202.jpg" alt="Deepak`s First Google Hangout"></a>
-						<div class="postedOn">Posted On: <span class="date">May 02 2012</span></div>
+						<a href="https://www.deepakchopra.com/video/view/146/deepak_chopra__human_energy_and_human_power"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/35a0c49a9d65c34ae742f3bb6551c009_146.jpg" alt="Deepak Chopra - Human Energy and Human Power"></a>
+						<div class="postedOn">Posted On: <span class="date">January 17 2012</span></div>
 						<div class="name">
-							<a href="https://www.deepakchopra.com/video/view/202/deepak`s_first_google_hangout">Deepak`s First Google Hangout</a>
+							<a href="https://www.deepakchopra.com/video/view/146/deepak_chopra__human_energy_and_human_power">Deepak Chopra - Human Energy and Human Power</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/92/conversation:_leymah_gbowee_and_abigail_disney"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/4826bf4318d4b867163eccaede779f24_92.jpg" alt="Conversation: Leymah Gbowee and Abigail Disney"></a>
+						<div class="postedOn">Posted On: <span class="date">November 17 2011</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/92/conversation:_leymah_gbowee_and_abigail_disney">Conversation: Leymah Gbowee and Abigail Disney</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/205/ask_deepak__what_is_the_purpose_of_life_"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-205.jpg" alt="Ask Deepak - What Is The Purpose Of Life "></a>
+						<div class="postedOn">Posted On: <span class="date">January 14 2013</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/205/ask_deepak__what_is_the_purpose_of_life_">Ask Deepak - What Is The Purpose Of Life </a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/153/the_wonder_of_the_human_body"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/3a58fa0fb4af57063545aaccedfb7aa3_153.jpg" alt="The Wonder of The Human Body"></a>
+						<div class="postedOn">Posted On: <span class="date">February 29 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/153/the_wonder_of_the_human_body">The Wonder of The Human Body</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/196/ask_deepak__changing_my_diet_to_be_healthier"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-196.jpg" alt="Ask Deepak -  Changing My Diet To Be Healthier"></a>
+						<div class="postedOn">Posted On: <span class="date">May 15 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/196/ask_deepak__changing_my_diet_to_be_healthier">Ask Deepak -  Changing My Diet To Be Healthier</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/136/war_of_the_worldviews_interview_part1__life"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/61797dfb10dd144f0fa58a2758468d9b_136.jpg" alt="War of the Worldviews Interview Part1 - Life"></a>
+						<div class="postedOn">Posted On: <span class="date">January 09 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/136/war_of_the_worldviews_interview_part1__life">War of the Worldviews Interview Part1 - Life</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/125/shekhar_kapur__deepak_chopraa_conversationtime_is_also_a_story"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/e4c4dacb5d7bda32c990b52d5368cbbe_125.jpg" alt="Shekhar Kapur &amp; Deepak Chopra-A Conversation-TIME is also a story..."></a>
+						<div class="postedOn">Posted On: <span class="date">December 22 2011</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/125/shekhar_kapur__deepak_chopraa_conversationtime_is_also_a_story">Shekhar Kapur &amp; Deepak Chopra-A Conversation-TIME is also a story...</a>
+						</div>
+					</div>
+										<div class="item">
+						<a href="https://www.deepakchopra.com/video/view/212/ask_deepak__how_does_forgiveness_heal"><img width="157" height="117" src="https://www.deepakchopra.com/images/video/157x117/youtubethumb-212.jpg" alt="Ask Deepak - How Does Forgiveness Heal"></a>
+						<div class="postedOn">Posted On: <span class="date">August 17 2012</span></div>
+						<div class="name">
+							<a href="https://www.deepakchopra.com/video/view/212/ask_deepak__how_does_forgiveness_heal">Ask Deepak - How Does Forgiveness Heal</a>
 						</div>
 					</div>
 									</div>
@@ -897,37 +950,36 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 										<li class="">
 						<div class="paddingWrapper">
 														<div class="right">
-								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1640/spiritual_will_power">Spiritual Will Power</a></div>
+								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1800/blind_faith_and_unbelief">Blind Faith and Unbelief</a></div>
 							</div>
-							<div class="dateStyle">June 25 2014, <a href="https://www.deepakchopra.com/blog/view/1640/spiritual_will_power#allcomments">1 comments</a></div>
+							<div class="dateStyle">October 22 2014, <a href="https://www.deepakchopra.com/blog/view/1800/blind_faith_and_unbelief#allcomments">0 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
 										<li class="">
 						<div class="paddingWrapper">
 														<div class="right">
-								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1635/new_artistic_phase">New Artistic Phase</a></div>
+								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1784/awakening">Awakening</a></div>
 							</div>
-							<div class="dateStyle">June 24 2014, <a href="https://www.deepakchopra.com/blog/view/1635/new_artistic_phase#allcomments">3 comments</a></div>
+							<div class="dateStyle">October 22 2014, <a href="https://www.deepakchopra.com/blog/view/1784/awakening#allcomments">6 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
 										<li class="">
 						<div class="paddingWrapper">
 														<div class="right">
-								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1644/skepticism_and_a_million_dollar_challenge">Skepticism and a Million Dollar Challenge</a></div>
+								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1785/consciousness_and_existence">Consciousness and Existence</a></div>
 							</div>
-							<div class="dateStyle">June 23 2014, <a href="https://www.deepakchopra.com/blog/view/1644/skepticism_and_a_million_dollar_challenge#allcomments">14 comments</a></div>
+							<div class="dateStyle">October 22 2014, <a href="https://www.deepakchopra.com/blog/view/1785/consciousness_and_existence#allcomments">2 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
-										<li class="hasImage">
+										<li class="">
 						<div class="paddingWrapper">
-														<a href="https://www.deepakchopra.com/blog/view/1535/surrendering_to_love"><img width="46" height="46" class="shadow-5" src="https://www.deepakchopra.com/images/blog/46x46/3c30d2215bc1f91d302f931a11aff13a_1535.jpg" alt="Surrendering to Love"></a>
 														<div class="right">
-								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1535/surrendering_to_love">Surrendering to Love</a></div>
+								<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/blog/view/1794/cynical_son">Cynical Son</a></div>
 							</div>
-							<div class="dateStyle">June 23 2014, <a href="https://www.deepakchopra.com/blog/view/1535/surrendering_to_love#allcomments">48 comments</a></div>
+							<div class="dateStyle">October 21 2014, <a href="https://www.deepakchopra.com/blog/view/1794/cynical_son#allcomments">0 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
@@ -951,7 +1003,17 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 														<div class="right">
 								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/270/cancer:_a_preventable_disease_is_creating_a_revolution">Cancer: A Preventable Disease Is Creating a Revolution</a></div>
 							</div>
-							<div class="dateStyle">August 21 2012, <a href="https://www.deepakchopra.com/blog/view/270/cancer:_a_preventable_disease_is_creating_a_revolution#allcomments">990 comments</a></div>
+							<div class="dateStyle">August 21 2012, <a href="https://www.deepakchopra.com/blog/view/270/cancer:_a_preventable_disease_is_creating_a_revolution#allcomments">1141 comments</a></div>
+							<div class="clear"></div>
+						</div>
+					</li>
+										<li class="hasImage">
+						<div class="paddingWrapper">
+														<a class="title" href="https://www.deepakchopra.com/blog/view/362/a_personal_mission:_define_your_wellness_"><img width="46" height="46" class="shadow-5" src="https://www.deepakchopra.com/images/blog/46x46/0c6d30f17ccd0471c7cdf07544ff2ee0_362t.jpg" alt="A Personal Mission: Define Your Wellness "></a>
+														<div class="right">
+								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/362/a_personal_mission:_define_your_wellness_">A Personal Mission: Define Your Wellness </a></div>
+							</div>
+							<div class="dateStyle">August 30 2012, <a href="https://www.deepakchopra.com/blog/view/362/a_personal_mission:_define_your_wellness_#allcomments">36 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
@@ -961,17 +1023,7 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 														<div class="right">
 								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/1004/smokers_fight_more_than_just_one_addiction">Smokers Fight More than Just One Addiction</a></div>
 							</div>
-							<div class="dateStyle">February 18 2014, <a href="https://www.deepakchopra.com/blog/view/1004/smokers_fight_more_than_just_one_addiction#allcomments">338 comments</a></div>
-							<div class="clear"></div>
-						</div>
-					</li>
-										<li class="hasImage">
-						<div class="paddingWrapper">
-														<a class="title" href="https://www.deepakchopra.com/blog/view/125/hypertension:_a_lifestyle_disorder_needs_a_lifetime_of_attention"><img width="46" height="46" class="shadow-5" src="https://www.deepakchopra.com/images/blog/46x46/f2b23fb1700cf44ea66aa257a3d87cd1_125t.jpg" alt="Hypertension: A Lifestyle Disorder Needs a Lifetime of Attention"></a>
-														<div class="right">
-								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/125/hypertension:_a_lifestyle_disorder_needs_a_lifetime_of_attention">Hypertension: A Lifestyle Disorder Needs a Lifetime of Attention</a></div>
-							</div>
-							<div class="dateStyle">July 05 2012, <a href="https://www.deepakchopra.com/blog/view/125/hypertension:_a_lifestyle_disorder_needs_a_lifetime_of_attention#allcomments">52 comments</a></div>
+							<div class="dateStyle">February 18 2014, <a href="https://www.deepakchopra.com/blog/view/1004/smokers_fight_more_than_just_one_addiction#allcomments">354 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
@@ -985,7 +1037,7 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 														<div class="right">
 								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/1075/addicted_to_alcohol?_there_is_hope">Addicted to Alcohol? There is hope!</a></div>
 							</div>
-							<div class="dateStyle">January 06 2014, <a href="https://www.deepakchopra.com/blog/view/1075/addicted_to_alcohol?_there_is_hope#allcomments">1207 comments</a></div>
+							<div class="dateStyle">January 06 2014, <a href="https://www.deepakchopra.com/blog/view/1075/addicted_to_alcohol?_there_is_hope#allcomments">1737 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
@@ -995,25 +1047,25 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 														<div class="right">
 								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/270/cancer:_a_preventable_disease_is_creating_a_revolution">Cancer: A Preventable Disease Is Creating a Revolution</a></div>
 							</div>
-							<div class="dateStyle">August 21 2012, <a href="https://www.deepakchopra.com/blog/view/270/cancer:_a_preventable_disease_is_creating_a_revolution#allcomments">990 comments</a></div>
+							<div class="dateStyle">August 21 2012, <a href="https://www.deepakchopra.com/blog/view/270/cancer:_a_preventable_disease_is_creating_a_revolution#allcomments">1141 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
 										<li class="">
 						<div class="paddingWrapper">
 														<div class="right">
-								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/567/sin_of_divorce">Sin of Divorce</a></div>
+								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/592/breaking_a_relationship_pattern">Breaking a Relationship Pattern</a></div>
 							</div>
-							<div class="dateStyle">May 27 2012, <a href="https://www.deepakchopra.com/blog/view/567/sin_of_divorce#allcomments">652 comments</a></div>
+							<div class="dateStyle">May 27 2012, <a href="https://www.deepakchopra.com/blog/view/592/breaking_a_relationship_pattern#allcomments">851 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
 										<li class="">
 						<div class="paddingWrapper">
 														<div class="right">
-								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/1196/extra_marital_relationship">Extra Marital Relationship</a></div>
+								<div class="postTitle"><a href="https://www.deepakchopra.com/blog/view/1787/stuck_in_job">Stuck in Job</a></div>
 							</div>
-							<div class="dateStyle">June 18 2013, <a href="https://www.deepakchopra.com/blog/view/1196/extra_marital_relationship#allcomments">652 comments</a></div>
+							<div class="dateStyle">October 16 2014, <a href="https://www.deepakchopra.com/blog/view/1787/stuck_in_job#allcomments">708 comments</a></div>
 							<div class="clear"></div>
 						</div>
 					</li>
@@ -1029,29 +1081,29 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 		<h2>News</h2>
 		<div class="blogPosts">
 			<ul class="posts">
-								<li id="index-news-content-214">
+								<li id="index-news-content-224">
 					<div class="paddingWrapper">
 												<div class="right">
-							<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/privacy_policy/view/214/deepak_chopra_announces_expansion_of_the_mind_body_medical_group_at_the_chopra_center_for_wellbeing_">Deepak Chopra Announces Expansion of the Mind Body Medical Group at the Chopra Center for Wellbeing </a></div>
-							<div class="dateStyle">June 07 2014, <a href="https://www.deepakchopra.com/privacy_policy/view/214/deepak_chopra_announces_expansion_of_the_mind_body_medical_group_at_the_chopra_center_for_wellbeing_#allcomments">1 comments</a></div>
+							<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/privacy_policy/view/224/deepak_chopra_shares_tips_to_break_free_from_emotional_eating">Deepak Chopra Shares Tips To Break Free From Emotional Eating</a></div>
+							<div class="dateStyle">September 23 2014, <a href="https://www.deepakchopra.com/privacy_policy/view/224/deepak_chopra_shares_tips_to_break_free_from_emotional_eating#allcomments">1 comments</a></div>
 						</div>
 						<div class="clear"></div>
 					</div>
 				</li>
-								<li id="index-news-content-213">
+								<li id="index-news-content-223">
 					<div class="paddingWrapper">
 												<div class="right">
-							<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/privacy_policy/view/213/sonifi_solution_enhances_inroom_hospitality_entertainment_with_``one_world_with_deepak_chopra``_partnership">SONIFI Solution Enhances In-Room Hospitality Entertainment with ``ONE WORLD with Deepak Chopra`` Partnership</a></div>
-							<div class="dateStyle">June 04 2014, <a href="https://www.deepakchopra.com/privacy_policy/view/213/sonifi_solution_enhances_inroom_hospitality_entertainment_with_``one_world_with_deepak_chopra``_partnership#allcomments">0 comments</a></div>
+							<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/privacy_policy/view/223/deepak_chopra`s_health_routine">Deepak Chopra`s Health Routine</a></div>
+							<div class="dateStyle">September 17 2014, <a href="https://www.deepakchopra.com/privacy_policy/view/223/deepak_chopra`s_health_routine#allcomments">3 comments</a></div>
 						</div>
 						<div class="clear"></div>
 					</div>
 				</li>
-								<li id="index-news-content-212">
+								<li id="index-news-content-222">
 					<div class="paddingWrapper">
 												<div class="right">
-							<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/privacy_policy/view/212/this_generation_is_spiritual_rather_than_religious">This Generation is Spiritual Rather Than religious</a></div>
-							<div class="dateStyle">May 10 2014, <a href="https://www.deepakchopra.com/privacy_policy/view/212/this_generation_is_spiritual_rather_than_religious#allcomments">0 comments</a></div>
+							<div class="postTitle"><a class="title" href="https://www.deepakchopra.com/privacy_policy/view/222/success_without_struggle__seven_key_to_doing_less_and_having_more">Success Without Struggle - Seven Key to Doing Less and Having More</a></div>
+							<div class="dateStyle">September 02 2014, <a href="https://www.deepakchopra.com/privacy_policy/view/222/success_without_struggle__seven_key_to_doing_less_and_having_more#allcomments">13 comments</a></div>
 						</div>
 						<div class="clear"></div>
 					</div>
@@ -1105,11 +1157,12 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 
 <div class="box">
 	<div id="left-topic" class="box-topic box-bg radius-5">
-		<h2><a href="https://www.deepakchopra.com/blog/view/1535/surrendering_to_love">Deepak Quotes</a></h2>
-		<div class="text">Surrender means not giving in to another but giving in to love.</div>
+		<h2><a href="https://www.deepakchopra.com/blog/view/1800/blind_faith_and_unbelief">Deepak Quotes</a></h2>
+		<div class="text">Blind faith and blind unbelief have other things in common. They both refuse to be tested.
+</div>
 		<div class="comments">
 					</div>
-		<div class="bottomReadMore"><a class="readAll" href="https://www.deepakchopra.com/blog/view/1535/surrendering_to_love#allcomments">View all comments ›</a></div>
+		<div class="bottomReadMore"><a class="readAll" href="https://www.deepakchopra.com/blog/view/1800/blind_faith_and_unbelief#allcomments">View all comments ›</a></div>
 	</div>
 </div>
 
@@ -1118,23 +1171,23 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 	<div id="left-gallery" class="box-bg radius-5">
 		<h2>Photo gallery</h2>
 		<div class="photos">
-									<a href="https://www.deepakchopra.com/gallery/view/50/with_adrian_grenier_at_deepak_home_base" class="photo">
-				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/c789656776b7bb9394dd8b94d5455d431_50t.jpg" alt="With Adrian Grenier at Deepak Home Base image">
+									<a href="https://www.deepakchopra.com/gallery/view/33/with_dr_rudy_tanzi_and_chris_clarke_in_manhattan" class="photo">
+				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/2678063467ba3e065704d4390ad2b3411_33.jpg" alt="With Dr. Rudy Tanzi and Chris Clarke in Manhattan image">
+			</a>
+												<a href="https://www.deepakchopra.com/gallery/view/82/with_lady_gaga" class="photo">
+				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/7deba8ed8efbdca963d5dcc31096d4011_82.jpg" alt="With Lady Gaga image">
+			</a>
+												<a href="https://www.deepakchopra.com/gallery/view/63/with_ariana_huffington_and_dylan_ratigan" class="photo">
+				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/4569fe282322a25c88d622dcdb8ce3111_63.jpg" alt="With Ariana Huffington and Dylan Ratigan image">
 			</a>
 												<a href="https://www.deepakchopra.com/gallery/view/34/with_2011_nobel_peace_laureate_leymah_gbowee" class="photo">
 				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/d38ded546224bc9805a668b36ec6351c1_34.jpg" alt="With 2011 Nobel Peace Laureate Leymah Gbowee image">
 			</a>
-												<a href="https://www.deepakchopra.com/gallery/view/100/making_peace_a_life_style_with_my_friends_in_queens_ny" class="photo">
-				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/c681ba4f801f6692dc52a308678a6f881_100.jpg" alt="Making Peace a Life Style with my friends in Queens NY image">
+												<a href="https://www.deepakchopra.com/gallery/view/50/with_adrian_grenier_at_deepak_home_base" class="photo">
+				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/c789656776b7bb9394dd8b94d5455d431_50t.jpg" alt="With Adrian Grenier at Deepak Home Base image">
 			</a>
 												<a href="https://www.deepakchopra.com/gallery/view/101/a_wonderful_conversation_with_dr_vandana_shiva_at_dhb_" class="photo">
 				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/d26fbb1f5a8b55fef3eafefd5331a5231_101.jpg" alt="A wonderful conversation with Dr. Vandana Shiva at DHB  image">
-			</a>
-												<a href="https://www.deepakchopra.com/gallery/view/16/deepak_and_jason" class="photo">
-				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/8262d8377579fd03b9c73840caf58f261_16t.jpg" alt="Deepak and Jason image">
-			</a>
-												<a href="https://www.deepakchopra.com/gallery/view/82/with_lady_gaga" class="photo">
-				<img width="81" height="81" class="" src="https://www.deepakchopra.com/images/gallery/71x71/7deba8ed8efbdca963d5dcc31096d4011_82.jpg" alt="With Lady Gaga image">
 			</a>
 									<div class="clear"></div>
 		</div>
@@ -1302,40 +1355,11 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 			    			    <div class="item">
 								<div class="imageContainer">
 				    
-				    <a href="https://www.deepakchopra.com/blog/view/18/war_of_the_worldviews%3A_leonard_mlodinow_sally_quinn_and_deepak"><img width="46" height="46" src="https://www.deepakchopra.com/images/blog/46x46/8823b5aa2c3a38b9e8ce4d0fcd7f6520_18.jpg" alt="image"></a>
+				    <a href="https://www.deepakchopra.com/blog/view/14/science_vs_spirituality%3A_deepak_chopra_and_leonard_mlodinow_discuss_%E2%80%98war_of_the_worldviews%E2%80%99"><img width="46" height="46" src="https://www.deepakchopra.com/images/blog/46x46/a804b5bc09b13301581d462e388f9001_14.jpg" alt="image"></a>
 				</div>
 								<div class="textContainer">
 				    <div class="title h3">
-					<a href="https://www.deepakchopra.com/blog/view/18/war_of_the_worldviews%3A_leonard_mlodinow_sally_quinn_and_deepak">War of the Worldviews: Leonard Mlodinow, Sally Quinn, and Deepak</a>
-				    </div>
-				</div>
-			    </div>
-			    			    <div class="item">
-								<div class="imageContainer">
-				    
-				    <a href="https://www.deepakchopra.com/blog/view/8/war_of_the_worldviews%3A_science_vs_spirituality"><img width="46" height="46" src="https://www.deepakchopra.com/images/blog/46x46/baf69f3446b29ba9ebf754ff46f14e4e_8t.jpg" alt="image"></a>
-				</div>
-								<div class="textContainer">
-				    <div class="title h3">
-					<a href="https://www.deepakchopra.com/blog/view/8/war_of_the_worldviews%3A_science_vs_spirituality">War of the Worldviews: Science vs Spirituality</a>
-				    </div>
-				</div>
-			    </div>
-			    			    <div class="item">
-								<div class="textContainer">
-				    <div class="title h3">
-					<a href="https://www.deepakchopra.com/blog/view/31/war_of_the_worldviews%3A_let%E2%80%99s_talk_brain_and_mind">War of the Worldviews: Let’s Talk Brain and Mind</a>
-				    </div>
-				</div>
-			    </div>
-			    			    <div class="item">
-								<div class="imageContainer">
-				    
-				    <a href="https://www.deepakchopra.com/blog/view/12/war_of_the_worldviews_part_two%3A_let%E2%80%99s_talk_evolution"><img width="46" height="46" src="https://www.deepakchopra.com/images/blog/46x46/29448f8e841935bdfe5a208d3ea2c07a_12.jpg" alt="image"></a>
-				</div>
-								<div class="textContainer">
-				    <div class="title h3">
-					<a href="https://www.deepakchopra.com/blog/view/12/war_of_the_worldviews_part_two%3A_let%E2%80%99s_talk_evolution">War of the Worldviews Part Two: Let’s Talk Evolution</a>
+					<a href="https://www.deepakchopra.com/blog/view/14/science_vs_spirituality%3A_deepak_chopra_and_leonard_mlodinow_discuss_%E2%80%98war_of_the_worldviews%E2%80%99">Science vs. Spirituality: Deepak Chopra and Leonard Mlodinow discuss ‘War of the Worldviews’</a>
 				    </div>
 				</div>
 			    </div>
@@ -1347,6 +1371,35 @@ ABOUT THIS BOOK Leadership is the most crucial choice one can make—it is the d
 								<div class="textContainer">
 				    <div class="title h3">
 					<a href="https://www.deepakchopra.com/blog/view/5/depression%3A_shedding_light_on_the_darkness">Depression: Shedding Light On The Darkness</a>
+				    </div>
+				</div>
+			    </div>
+			    			    <div class="item">
+								<div class="imageContainer">
+				    
+				    <a href="https://www.deepakchopra.com/blog/view/29/more_asthma_than_ever_but_why%3F"><img width="46" height="46" src="https://www.deepakchopra.com/images/blog/46x46/30c675ce969d32dec3c66b331bcfd534_29.jpg" alt="image"></a>
+				</div>
+								<div class="textContainer">
+				    <div class="title h3">
+					<a href="https://www.deepakchopra.com/blog/view/29/more_asthma_than_ever_but_why%3F">More Asthma Than Ever, But Why?</a>
+				    </div>
+				</div>
+			    </div>
+			    			    <div class="item">
+								<div class="imageContainer">
+				    
+				    <a href="https://www.deepakchopra.com/blog/view/13/your_back_pain_%28and_what_it%E2%80%99s_trying_to_tell_you%29"><img width="46" height="46" src="https://www.deepakchopra.com/images/blog/46x46/ddf18903103e52abdbe4f3c6b64f1af2_13.jpg" alt="image"></a>
+				</div>
+								<div class="textContainer">
+				    <div class="title h3">
+					<a href="https://www.deepakchopra.com/blog/view/13/your_back_pain_%28and_what_it%E2%80%99s_trying_to_tell_you%29">Your back pain (and what it’s trying to tell you)</a>
+				    </div>
+				</div>
+			    </div>
+			    			    <div class="item">
+								<div class="textContainer">
+				    <div class="title h3">
+					<a href="https://www.deepakchopra.com/blog/view/7/the_%E2%80%9Coccupy%E2%80%9D_movement%3A_turning_anger_into_awareness">The “Occupy” Movement: Turning Anger Into Awareness</a>
 				    </div>
 				</div>
 			    </div>
