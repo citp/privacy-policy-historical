@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221093301id_/http%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022201621id_/http%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spybot © ™ - Search & Destroy
+# Privacy Policy | Spybot © ™ – Search & Destroy
 
 If you connect to any web server, you transmit your Internet Protocol (IP) and some demographic information. Safer-Networking Ltd. anonymizes its visitors IP addresses so as not to collect potentially personally identifying information. Information we gather is not used for any other purposes than having a look at basic, anonymous statistics.
 
