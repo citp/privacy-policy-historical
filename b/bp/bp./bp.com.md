@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030025id_/http%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023004021id_/http%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement | BP Global
 
