@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsorama.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528233327id_/http%3A//appsorama.com/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsorama.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022080713id_/http%3A//appsorama.com/privacy.html%23privacy) for the most accurate reproduction.*
 
 # Apps-O-Rama | Privacy
 
@@ -14,43 +14,43 @@ This Privacy Policy is incorporated into and is subject to the AoR Terms of Use.
 
 ### THE INFORMATION AOR COLLECTS
 
-_User Provided Information through Facebook_
+ _User Provided Information through Facebook_
 
-AoR's primary objective in collecting user information is to provide and enhance the AoR Sites and to enable users to easily navigate and enjoy the AoR Sites. When you use the AoR Sites, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook. 
+AoR's primary objective in collecting user information is to provide and enhance the AoR Sites and to enable users to easily navigate and enjoy the AoR Sites. When you use the AoR Sites, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook.
 
-The types of personal information collected may vary depending on the activity. This "Personal Information" is defined as information about you that can be used to contact or identify you. Personal information may include: (1) your name (2) Facebook® user identification number, (3) email address, (4) physical address(es), and (5) phone number(s). Additionally, we may acquire information from you through (1) your access and participation in message boards on the AoR Sites, (2) your email of a question to our customer support, or (3) your purchase of a product. We may also collect (1) certain technical information about your mobile device or computer system, including MAC Address, IP Address and mobile device ID; and (2) usage statistics about your interactions with the AoR Sites. 
+The types of personal information collected may vary depending on the activity. This "Personal Information" is defined as information about you that can be used to contact or identify you. Personal information may include: (1) your name (2) Facebook® user identification number, (3) email address, (4) physical address(es), and (5) phone number(s). Additionally, we may acquire information from you through (1) your access and participation in message boards on the AoR Sites, (2) your email of a question to our customer support, or (3) your purchase of a product. We may also collect (1) certain technical information about your mobile device or computer system, including MAC Address, IP Address and mobile device ID; and (2) usage statistics about your interactions with the AoR Sites.
 
 Personal Information, for purposes of this Privacy Policy, will not include (1) game play information, such as stored game data, high scores, or game session duration, (2) any image, video, or other content posted by you on the AoR Sites, or (3) any information you may choose to share about yourself throughout the AoR Sites, such as in games or on message boards. Any actions you perform with other players are considered public and at your sole discretion.
 
-_User Provided Information through Prize Redemption_
+ _User Provided Information through Prize Redemption_
 
 In the event that you wish to claim a prize won through one of AoR's rewards-based gaming applications, you will need to follow certain procedures set forth in the terms of such application. Some of these procedures may include the submission of certain Personal Information, such as your photo identification. Such Personal Information is used only to verify your eligibility in the sweepstakes.
 
-_Advertiser, Publisher, or Developer Provided Information_
+ _Advertiser, Publisher, or Developer Provided Information_
 
 If you sign up as an advertiser, publisher, or developer, you will provide your name, company name and email address. We use this information to set up your account and allow you to place ads on our site. For developers, we allow you to create ad placement tags and embed ad tags into application code. When we deem it necessary to do so, we may send you service related announcements, such as to inform you that our service is temporarily suspended for maintenance.
 
-_Cookies Information_
+ _Cookies Information_
 
 When you visit the AoR Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. AoR uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the AoR Sites may not function properly if the ability to accept cookies is disabled. We do not link the information we store in cookies to any personally identifiable information you submit while on our sites.
 
 The use of cookies by our partners, affiliates, or tracking utility company is not covered by our Privacy Policy. We do not have access to or control of these cookies. Our partners, affiliates, or tracking utility company use session ID cookies to make it easier for you to navigate our site.
 
-_Log File Information_
+ _Log File Information_
 
 Log file information is automatically reported by your browser each time you view a web page. When you register with or visit the AoR Sites, our servers automatically record certain information that your web browser provides. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order in which those pages were viewed, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-_Clear Gifs Information_
+ _Clear Gifs Information_
 
 When you use the AoR Sites, AoR or a third party advertising partner may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously. No personally identifiable information from your AoR account is collected using these clear gifs. In addition, we may use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make AoR Sites better for our Users.
 
-_Flash LSOs_
+ _Flash LSOs_
 
 We use local shared objects, also known as Flash cookies, to store your preferences, such as volume control or high game score, or to display content to personalize your visit based upon what you view on our site. Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
 Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>.
 
-_Resume Submission_
+ _Resume Submission_
 
 If you choose to submit a resume to AoR via our site, please be aware that the resume submission may be hosted on a third party service provider's platform. Nevertheless, all personal information is stored and the upload of your resume is done by AoR. Our Privacy Policy governs the collection and use of this information. We use this information for the sole purpose of contacting you regarding the job for which you have applied.
 
@@ -91,7 +91,7 @@ If you have any questions or comments about security on our Web site or this Pri
 
 AoR allows other companies, called third-party ad servers or ad networks, to serve advertisements within the AoR Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the AoR Sites. These third-parties automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
-AoR does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks AoR to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the target audience.   
+AoR does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks AoR to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the target audience.  
 You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 ### OUR COMMITMENT TO DATA SECURITY
@@ -112,17 +112,17 @@ The AoR Sites are hosted in the United States and are intended for and directed 
 
 ### ACCESS TO AND MANAGING YOUR PERSONAL INFORMATION
 
-_General_
+ _General_
 
 We believe it is important for you to be able to find out what personally identifiable information you have provided to us through the AoR Sites. If you have provided us with personally identifiable information, you can contact us to request that we provide you with the personally identifiable information we have in our records about you. We reserve the right to limit the number of times such a request can be made and to charge you for responding to such requests if this process is misused or abused.
 
 If you become aware that personally identifiable information or sensitive information you may have provided that we have in our records about you is inaccurate, incomplete, or incompatible with the purposes for which it was provided or subsequently authorized by you, please notify us using the contact information provided below. To inquire about your personally identifiable or sensitive information, and to correct, amend, or delete such information, please send a request by email with your current contact information to [info@appsorama.com](mailto:info@appsorama.com).
 
-_California Users_
+ _California Users_
 
 We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by "opting in" to receive information from a third party that is participating in a sweepstakes or other promotion on one of the AoR Sites. If you do ask us to share your personal information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party (other than our service providers) on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personal information on one of our sites.
 
-Users in certain jurisdictions have a right to access personal information held about them. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to [info@appsorama.com](mailto:info@appsorama.com). 
+Users in certain jurisdictions have a right to access personal information held about them. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to [info@appsorama.com](mailto:info@appsorama.com).
 
 ### IN THE EVENT OF MERGER, SALE, OR BANKRUPTCY
 
@@ -140,11 +140,11 @@ Date Last Modified: This Privacy Policy was last modified February 15, 2014.
 
 If you have questions about this Policy, please contact AoR.  
 Apps-O-Rama  
-2250 Bush Street #201  
+2184 Sutter Street, #118  
 San Francisco, CA 94115  
 You may email questions to [info@appsorama.com](mailto:info@appsorama.com).
 
-### HELPFUL LINKS 
+### HELPFUL LINKS
 
 [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/)  
 [Facebook's Terms of Service](https://www.facebook.com/legal/terms)
