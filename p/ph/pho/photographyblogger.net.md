@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309214455id_/http%3A//www.photographyblogger.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022030601id_/http%3A//photographyblogger.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,6 +23,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 * * *
 
-#### Newsletter
-
-Sign up to receive the latest features and inspirations from Photography Blogger.
+Join 20,000+ Photography Blogger readers to receive weekly photography inspiration.
