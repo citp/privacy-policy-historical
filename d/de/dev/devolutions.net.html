@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625085805id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022182200id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
             Privacy Policy - Devolutions
             
 </title>
-        <link href="/App_Themes/Devolutions/fonts.css?0624142346" rel="stylesheet" type="text/css">  
+        <link href="/App_Themes/Devolutions/fonts.css?1010141409" rel="stylesheet" type="text/css">  
 
-           
-            <link href="http://blob.devolutions.net/web/css/main/reset.css?0624142346" rel="stylesheet" type="text/css">
-            <link href="http://blob.devolutions.net/web/css/main/main.css?0624142346" rel="stylesheet" type="text/css">
-        
+  
+            <link href="/App_Themes/Devolutions/reset.css?1010141431" rel="stylesheet" type="text/css">
+            <link href="/App_Themes/Devolutions/cssScreen.css?1021142107" rel="stylesheet" type="text/css">  
+
 
         <link rel="icon" type="image/x-icon" href="/favicon.ico">
         <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><![endif]-->
@@ -127,7 +127,7 @@
                         $("#footer").removeClass("floating");
                     }
 
-                    $('#header, .footer.floating').css('left', -$(window).scrollLeft());
+                    $('.footer.floating').css('left', -$(window).scrollLeft());
                 }
 
                 if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) /* || (window.navigator.msPointerEnabled)*/ || (navigator.userAgent.match(/iPad/i))) {
@@ -242,11 +242,14 @@
         <div class="page">
             
 <div id="header">
-    <ul id="MMenu">
+    <div id="MMenu_holder">
+    <ul class="MMenu left">
         <li id="mm-devo"><a href="http://devolutions.net/">Devolutions</a></li>
-        <li class="hover" aria-haspopup="true" id="mm-products"><a href="http://devolutions.net/">Products</a><a href="#" class="NavArrow">Select</a>
-            <div class="submenu" style="padding-top: 0">
-                <div class="submenuHolder">
+    </ul>
+    <ul class="MMenu right">
+        <li class="hover" aria-haspopup="true" id="mm-products"><a href="http://devolutions.net/">Products</a>
+            <div class="submenu">
+                <div class="submenuHolder" style="padding: 0;">
                     <ul id="MMproducts">
                         <li id="smm-rdm"><a class="rdmforwin" href="http://remotedesktopmanager.com/">Remote Desktop Manager</a><a class="rdmformac" href="http://mac.remotedesktopmanager.com/">Remote Desktop Manager For Mac</a></li>
                         <li id="smm-rdmo"><a href="http://remotedesktopmanageronline.com/">Remote Desktop Manager Online</a></li>
@@ -260,9 +263,9 @@
             <a title="Buy" href="http://remotedesktopmanager.com/Buy/Store">Buy</a>
             <div class="submenu">
                 <div class="submenuHolder">
-                    <div class="mm-block vldivider" style="padding-right: 30px">
+                    <div class="mm-block vldivider" style="padding-right: 30px; margin-left: 28px;">
                         <a href="http://remotedesktopmanager.com/Buy/Store" style="margin-top: 12px;" class="big buy button"><span class="text">Buy</span></a>
-                        <div style="font-family: verdana; padding: 0px 2px; font-size: 11px;">
+                        <div style="font-family: verdana; padding: 0 2px; font-size: 11px;">
                             <a style="font-weight: normal" href="http://remotedesktopmanager.com/Buy/Quote">Request Quote</a> | <a style="font-weight: normal" href="http://remotedesktopmanager.com/Home/RequestDemo">Request Live Demo</a>
                         </div>
                     </div>
@@ -289,7 +292,7 @@
         <li class="hover" aria-haspopup="true" id="mm-support"><a href="/Support">Support</a>
             <div class="submenu">
                 <div class="submenuHolder">
-                    <div class="mm-block vldivider">
+                    <div class="mm-block vldivider" style="margin-left: 28px;">
                         <div style="width: 210px; float: left; margin-bottom: 20px;">
                             <a style="float: left;" href="/Home/FollowUs">Communities</a>
                             <a style="float: left; clear: left" target="_blank" title="Visit our Forum" class="forum" href="http://forum.devolutions.net/">Visit our Forum</a>
@@ -315,11 +318,12 @@
                 </div>
             </div>
         </li>
+        <li id="mm-blog"><a href="http://blog.devolutions.net/" title="Blog">Blog</a></li>
         <li class="hover" aria-haspopup="true" id="mm-contact"><a title="Contact" href="/Contact">Contact</a>
             <div class="submenu">
                 <div class="submenuHolder">
-                    <div class="mm-block vldivider">
-                        <h2 style="font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 15px; margin-bottom: 10px; margin-top: 5px;">Devolutions inc.</h2>
+                    <div class="mm-block vldivider" style="margin-left: 28px;">
+                        <h2 style="font-family: Trebuchet MS, Helvetica, sans-serif; font-size: 15px; font-weight: bold; margin-bottom: 10px; margin-top: 5px;">Devolutions inc.</h2>
                         <p style="font-size: 11px; line-height: 14px; margin-bottom: 2px;">
                             <strong style="line-height: 28px;">Head office</strong><br>
                             199, Rang du Golf<br>
@@ -346,7 +350,8 @@
                         <a style="float: left;" href="/Company/AboutUs">Company</a>
                         <ul style="float: left; clear: left">
                             <li><a href="/Company/AboutUs">About Us</a></li>
-                            <li><a href="/Company/ManagementTeam">Team</a></li>
+                            <li><a href="/Company/Team">Team</a></li>
+                            <li><a href="/Company/ManagementTeam">Management Team</a></li>
                             <li><a href="/Company/PressReleases">Press Releases</a></li>
                             <li><a href="/Company/Media">Media</a></li>
                             <li><a href="/Company/Careers">Careers</a></li>
@@ -364,6 +369,7 @@
         </li>
         <li id="mm-lang"><a title="Français" href="http://fr.devolutions.net/Home/PrivacyPolicy">Français</a></li>	
     </ul>
+        </div>
 </div>
             <div id="mainHolder">
                 <div id="main">
@@ -530,7 +536,7 @@ Canada</td>
             if (typeof (FB) != 'undefined') {
                 FB.XFBML.parse();
             } else {
-                $.getScript("http://connect.facebook.net/en_US/all.js#xfbml=1", function () {
+                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1", function () {
                     FB.init({ status: true, cookie: true, xfbml: true });
                 });
             }
@@ -541,7 +547,7 @@ Canada</td>
             if (typeof (twttr) != 'undefined') {
                 twttr.widgets.load();
             } else {
-                $.getScript('http://platform.twitter.com/widgets.js');
+                $.getScript('//platform.twitter.com/widgets.js');
             }
         }
 
@@ -561,7 +567,7 @@ Canada</td>
         if (typeof (IN) != 'undefined') {
             IN.parse();
         } else {
-            $.getScript("http://platform.linkedin.com/in.js");
+            $.getScript("//platform.linkedin.com/in.js");
         }
     }   
     
@@ -651,11 +657,11 @@ Canada</td>
                             </ul>
                         </li>
                         <li>
-                            <a href="http://remotedesktopmanager.com/Buy/Store">Buy</a>
+                            <a href="https://store.devolutions.net/">Buy</a>
                             <ul>
-                                <li><a href="http://remotedesktopmanager.com/Buy/Pricing">Price List</a></li>
-                                <li><a href="http://remotedesktopmanager.com/Buy/Quote">Request Quote</a></li>
-                                <li><a href="http://remotedesktopmanager.com/Buy/Store">Online Store</a></li>
+                                <li><a href="https://store.devolutions.net/">Online Store</a></li>
+                                <li><a href="https://store.devolutions.net/Pricing#Pricing">Pricing</a></li>
+                                <li><a href="https://store.devolutions.net/Quote">Request Quote</a></li>
                                 <li><a href="/Buy/ResellerList">Find a Reseller</a></li>
                                 <li><a href="http://remotedesktopmanager.com/Support/FAQ">FAQ</a></li>
                             </ul>
@@ -672,7 +678,7 @@ Canada</td>
                             <a href="/Company/AboutUs">Company</a>
                             <ul>
                                 <li><a href="/Company/AboutUs">About Us</a></li>
-                                <li><a href="/Company/ManagementTeam">Team</a></li>
+                                <li><a href="/Company/ManagementTeam">Team</a> | <a href="/Company/Team">All</a></li>
                                 <li><a href="http://blog.devolutions.net/">Blog</a></li>
                                 <li><a href="/Company/PressReleases">Press Releases</a></li>
                                 <li><a href="/Company/Newsletters">Newsletters</a></li>
