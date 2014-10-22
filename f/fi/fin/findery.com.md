@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findery.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214230800id_/https%3A//findery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findery.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023001608id_/https%3A//findery.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy • Findery
 
-_Last updated: October 4, 2013 (Information related to the iPhone app and its features added.)_
+_Last updated: September 16, 2014 (Information related to the Android app and its features added.)_
 
 We at Findery take your privacy very seriously. This Privacy Policy (a few portions have been adapted from a policy originally provided by [Automattic](http://automattic.com/) ([WordPress.com](http://wordpress.com/))) describes how we treat the information we collect when you visit and participate within the Findery community. We also describe various Findery features so you can be mindful of what and where you share content. It is made available under the [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license. Please read this notice very carefully.
 
@@ -18,7 +18,7 @@ When you create an account, we require an email address (we may send you an emai
 
   * When you visit findery.com, and click on the homing button, you will be prompted for permission to use your current location. We do not store this information. If you decline, you'll still have access to every Findery feature.
   * When you access Findery via the mobile web, you will be prompted for permission to use your current location determined via GPS and/or nearby networks and/or cell towers. We do not store this information. If you decline, you'll still have access to every Findery feature.
-  * When you access Findery via the iPhone app, you will be asked for permission to use Location Services which enables the app to determine your current physical location via GPS and/or nearby networks and/or cell towers. We do not store this information. If you decline, you won't have access to "Notes Near You" in "Discover" or be able to "Bump" into notes.
+  * When you access Findery via the iPhone or Android app, you will be asked for permission to use Location Services which enables the app to determine your current physical location via GPS and/or nearby networks and/or cell towers. We do not store this information. If you decline, you won't have access to "Notes Near You" in "Discover" or be able to "Bump" into notes.
   * We gather anonymized user actions for analytics to make Findery better for everyone.
 
 
@@ -29,11 +29,13 @@ The key functionality of Findery is leaving stories, information and/or images f
 
 ## Finding notes
 
-We've implemented a 10 minute delay related to the notifications around finding a note so that you can "unfind" a note. Let's say your best friend leaves a note "A great time was had by all" and much to your horror, when you visit the note, your friend's great time was had at Big Jim's Boobie Bungalow. Your brain screams "undo, undo" and that can be accomplished with "unfind":
+We've implemented a 10 minute delay related to the notifications around finding a note so that you can "Unfind" a note. If you would like to not associate yourself with a note, follow the directions below to "Unfind."
 
   * On the web, mouse over your profile picture and then click on the "x".
   * On mobile web, tap on your profile picture and then tap the "x".
-  * Within the iPhone app, tap on the more options button ("...") and click "unfind".
+  * On the iPhone app, tap on the more options button ("...") and tap "Unfind".
+  * On the Android app, the location of this functionality varies depending on device, but try the more options button on the left-hand side of your homing button. Tap "Unfind".  
+
 
 
 
@@ -41,15 +43,15 @@ There's more info in our [FAQs](https://web.archive.org/faq).
 
 ## How your information is shared
 
-Other than to its employees and contractors who may view your account information as part of their day to day efforts, Findery will disclose potentially-personally-identifying and personally-identifying information only when required to do so by law.
+Other than to its employees and contractors who may view your account information as part of their day-to-day efforts, Findery will disclose potentially-personally-identifying and personally-identifying information only when required to do so by law.
 
 ## How your information is stored
 
 All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers. 
 
-## "Bumping" Into Notes (iPhone app only)
+## "Bumping" Into Notes (iPhone & Android only)
 
-There is specific feature on the iPhone app that allows you to be notified of notes by members you follow near your current location. This feature is off by default. If you enable Push Notifications this feature will enabled and when your iPhone travels from one location to another, it will send a request to our server for notes by people you follow within range of a specific geo-location. If such notes are found, a push notification is sent to your phone via the Apple Push Notification Service. We only store this information for as long as it takes to process the notification. 
+There is specific feature on the iPhone and Android apps that allows you to be notified of notes by members you follow near your current location. This feature is off by default. If you enable Push Notifications this feature will be enabled, and when your iPhone or Android device travels from one location to another, it will send a request to our server for notes by people you follow within range of a specific geo-location. If such notes are found, a push notification is sent to your phone via the Apple Push Notification Service (iPhone) or Google Cloud Messaging (Android). We only store this information for as long as it takes to process the notification. (Bumping is not included on Android for Nokia X.)
 
 ## How we communicate with you
 
@@ -73,7 +75,7 @@ If Findery or substantially all of its assets were acquired, or in the event tha
 
 ## Ads
 
-Advertising may appear within Findery. Currently, any member may create a sponsored note, and while this may come with aggregate data regarding the activity around their notes, advertisers will not have any additional access to member account information beyond what you've specified in your account settings.
+Advertising may appear within Findery. Advertisers will not have any access to member account information beyond what you've specified in your account settings.
 
 ## How can I delete my account?
 
