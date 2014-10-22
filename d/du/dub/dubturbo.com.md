@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubturbo.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608180951id_/http%3A//www.dubturbo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubturbo.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022132541id_/http%3A//www.dubturbo.com/privacy.html) for the most accurate reproduction.*
 
 # DUBturbo - Make Beats Online - Privacy Policy
 
