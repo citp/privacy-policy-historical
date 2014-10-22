@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binbox.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110245id_/http%3A//binbox.io/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binbox.io privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022083407id_/http%3A//binbox.io/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Binbox
 
