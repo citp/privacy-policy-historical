@@ -1,0 +1,361 @@
+<!--The following is the downloaded HTML source of the bonus.ly privacy policy that was archived on 2014-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141022155657id_/https%3A//bonus.ly/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"74e0869c84","applicationID":"838037","transactionName":"J1daR0AMVVpSQxtaDQNQa0VdD01XUFQbQgUDXUccQQtWQQ==","queueTime":8,"applicationTime":51,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4DVV9TGwsDXFFRAA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<title>Privacy Policy - Bonusly
+</title>
+<meta content="The easiest way to recognize and reward employees. Increase employee engagement and retention with Bonusly. http://bonus.ly" name="description">
+<meta content="" name="author">
+<link href="https://bonusly-herokuapp-com.global.ssl.fastly.net/assets/application-8b95a75865cea9d794c5712feea8d129.css" media="all" rel="stylesheet" type="text/css">
+<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/start/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="3+VLxK3rKAwvszLT++jZV9vMuhK0OvzliWh59tvA5Xc=" name="csrf-token">
+
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34854530-1']);
+  _gaq.push(['_setDomainName', 'bonus.ly']);
+  _gaq.push(['_trackPageview']);
+  
+  
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<meta content="Privacy Policy - Bonusly" property="og:title">
+<meta content="https://bonusly-herokuapp-com.global.ssl.fastly.net/assets/logo/bonusly_logo_and_name_small-2cfb749534d02352b5a82101af8f363c.png" property="og:image">
+<link href="https://bonusly-herokuapp-com.global.ssl.fastly.net/assets/logo/bonusly_favicon_16_0.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/assets/logo/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="/assets/logo/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+
+<!--[if lte IE 9]>
+<script src="https://bonusly-herokuapp-com.global.ssl.fastly.net/assets/jquery.placeholder-eb874977fee4ded2fe4b7d38b4a465c0.js" type="text/javascript"></script>
+<script>
+  $(function() {
+    $('input, textarea').placeholder();
+  });
+</script>
+<![endif]-->
+</head>
+<body>
+<!--[if lte IE 8]>
+<div class='updateclass'></div>
+<div class='updatemessage'>
+<p>
+You are using a very old browser that is not currently supported by Bonusly. Please consider
+<a href="http://www.updatebrowser.net">upgrading to a modern browser</a>
+</p>
+<p>
+Old versions of Internet Explorer are no longer supported by a growing number of websites.
+</p>
+</div>
+<![endif]-->
+
+<div id="wrap">
+<header class="navbar navbar-fixed-top hidden-phone" style="margin-bottom: 0px;">
+<nav class="navbar-inner" style="font-size: 15px;">
+<div class="container">
+<div class="nav-container">
+<ul class="nav lo-nav nav-pills pull-left">
+<li>
+<a href="/"><img alt="Bonusly_logo_and_name_small" class="brand" src="https://bonusly-herokuapp-com.global.ssl.fastly.net/assets/logo/bonusly_logo_and_name_small-2cfb749534d02352b5a82101af8f363c.png"></a>
+</li>
+<li>
+<a href="https://bonus.ly/#demo">TOUR</a>
+</li>
+<li class="visible-desktop">
+<a href="/pricing">PRICING</a>
+</li>
+<li>
+<a href="/resources">CASE STUDIES</a>
+</li>
+<li class="visible-desktop">
+<a data-toggle="tooltip" href="/contact" id="contact-phone" title="262 757 8560">
+<i class="icon-phone"></i>
+</a>
+</li>
+</ul>
+<ul class="nav lo-nav nav-pills pull-right sign-in-menu">
+<li class="visible-desktop">
+<div class="default google-plus-one-button">
+<div class="g-plusone" data-annotation="none" data-href="http://bonus.ly" data-size="default"></div>
+</div>
+<script>
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</li>
+<li class="active">
+<span class="label label-important get-started-label">
+<a href="https://bonus.ly/#get-started">GET STARTED</a>
+</span>
+</li>
+<li>
+<a href="/users/sign_in">SIGN IN</a>
+</li>
+</ul>
+<script>
+  $(function(){
+    $('#contact-phone').tooltip({
+      placement: 'bottom',
+      delay: { show: 100, hide: 100 }
+    });
+  })
+</script>
+
+</div>
+</div>
+</nav>
+</header>
+
+<div class="container">
+<div class="row" style="margin-bottom: -1px;">
+<div class="span12">
+
+</div>
+</div>
+</div>
+<div class="container">
+</div>
+<div class="container">
+<div class="row">
+<div class="span12">
+<h1 class="page-title">Privacy Policy</h1>
+<div class="row">
+<div class="span8">
+<p>This Privacy Policy discloses the privacy practices for Bonusly Site (collectively, the “Site” located at www.bonus.ly). Officers, owners and advisors of the Site (referred to as “us” or “we”), are committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.</p>
+<p>PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR SITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITE.</p>
+<ol>
+<li>
+<h5>
+Changes to Privacy Policy
+</h5>
+<p>
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+</p>
+<p>
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of notice on our home page.
+</p>
+</li>
+<li>
+<h5>Types of Information Collected and Uses of Collected Information</h5>
+<p>We collect two types of information about our Site Users: Personally Identifiable Information and Non-Personally Identifiable Information.</p>
+<p>Personally Identifiable Information. Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on the Site, such as creating an account, providing a bonus, sending us  feedback, requesting information about our services through the Site (collectively, “Identification Activities”), we may ask you to provide certain information about yourself. It is optional for you to engage in an Identification Activity. If you elect to engage in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, and email address. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.</p>
+<p>Non-Personally Identifiable Information. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the Site you visited before coming to our Site, the URL of the Site you visit after leaving our Site, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Site through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy.</p>
+<p>We use Non-Personally Identifiable Information to troubleshoot, administer the Site, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.</p>
+</li>
+<li>
+<h5>Release of Personally Identifiable Information</h5>
+<p>We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below:</p>
+<p>We may share your information in a Business Transfer. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.</p>
+<p>We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site; enforce or apply this Privacy Policy, our Site Terms of Use or other agreements; or protect the rights, property or safety of the Site, its Users or others.</p>
+</li>
+<li>
+<h5>Release of Non-Personally Identifiable Information</h5>
+<p>We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:</p>
+<p>We use Third Party Advertising Companies to serve ads when you visit our Site. These companies may use Non-Personally Identifiable Information about your visits to this and other Sites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp</p>
+<p>We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Site and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.</p>
+</li>
+<li>
+<h5>Security of Information</h5>
+<p>We take security seriously and take numerous precautions to protect the security of Personally Identifiable Information. You can access your Personally Identifiable Information on our Site through a password and your email address. This password is encrypted. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.</p>
+<p>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Site, and are not responsible for the actions of any third parties that may receive any such information.</p>
+</li>
+<li>
+Data Tracking
+<p>Cookies. To facilitate and customize your experience with the Site, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Site, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Site. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Site only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Site may not work properly.</p>
+<p>Other Tracking Devices. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Site pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Site, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Site, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.</p>
+</li>
+<li>
+<h5>Privacy Policies of Third Party Sites</h5>
+<p>This Privacy Policy only addresses the use and disclosure of information we collect from you on www.bonus.ly. Other Sites that may be accessible through this Site have their own privacy policies and data collection, use and disclosure practices. If you link to any such Site, we urge you review the Site’s privacy policy. We are not responsible for the policies or practices of third parties.</p>
+</li>
+<li>
+<h5>
+Contact Us
+</h5>
+<p>email: feedback@bonus.ly</p>
+</li>
+</ol>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="hidden-phone" id="push"></div>
+</div>
+<div class="hidden-phone" id="footer">
+<div class="container">
+<ul class="inline footer-groups">
+<li class="footer-group">
+<ul class="unstyled">
+<li>Bonusly</li>
+<li>
+<a href="http://blog.bonus.ly">Blog</a>
+</li>
+<li>
+<a href="/labs">
+Labs
+<i class="icon-beaker"></i>
+</a>
+</li>
+<li>
+<a href="/press">Press</a>
+</li>
+<li>
+<a href="/about">About Us</a>
+</li>
+<li>
+<a href="/resources">
+Case Studies
+</a>
+</li>
+<li>
+<a href="http://bonus.us3.list-manage.com/track/click?u=4ac7799c7a8f75487af3ee227&amp;id=287dcd3edf&amp;e=70ce05fa29">
+Newsletter
+<i class="icon-envelope-alt" style="margin-left: 3px;"></i>
+</a>
+</li>
+</ul>
+</li>
+<li class="footer-group">
+<ul class="unstyled">
+<li>Support</li>
+<li>
+<a href="/contact">Contact</a>
+</li>
+<li>
+<a href="/help">Help Center</a>
+</li>
+<li>
+<a href="/api">
+API
+<i class="icon-gears"></i>
+</a>
+</li>
+<li>
+<a href="/pricing">Pricing</a>
+</li>
+</ul>
+</li>
+<li class="footer-group">
+<ul class="unstyled">
+<li>Policies</li>
+<li>
+<a href="/terms-of-service">Terms of Service</a>
+</li>
+<li>
+<a href="/privacy-policy">Privacy Policy</a>
+</li>
+<li class="subheading">Resources</li>
+<li>
+<a href="/cost-of-employee-turnover-calculator">
+ROI Calculator
+</a>
+</li>
+</ul>
+</li>
+<li class="footer-group hidden-phone">
+<ul class="unstyled">
+<li>
+<a class="force-white" href="/encyclopedia">
+Management Encyclopedia
+</a>
+</li>
+<li>
+<a href="/articles/about/employee-engagement">Employee Engagement</a>
+</li>
+<li>
+<a href="/articles/about/employee-recognition-and-rewards">Employee Recognition And Rewards</a>
+</li>
+<li>
+<a href="/articles/5-unique-ways-to-motivate-employees"> 5 Unique Ways to Motivate Employees</a>
+</li>
+<li>
+<span class="force-white">
+compare:
+</span>
+<span class="force-white">
+<a href="/articles/globoforce-cost-effective-competitors-and-similar-hosted-software-solutions">globoforce</a>,
+<a href="/articles/achievers-cost-effective-competitors-and-similar-hosted-software-solutions">achievers</a>,
+<a href="/articles/successfactors-cost-effective-competitors-and-similar-hosted-software-solutions">successfactors</a>,
+</span>
+</li>
+<li>
+<span class="force-white">
+<a href="/articles/work-dot-com-cost-effective-competitors-and-similar-hosted-software-solutions">work.com</a>,
+<a href="/articles/giveawow-cost-effective-competitors-and-similar-hosted-software-solutions">GiveAWow</a>,
+<a href="/articles/terryberry-cost-effective-competitors-and-similar-hosted-software-solutions">TerryBerry</a>,
+<a href="/articles/oc-tanner-cost-effective-competitors-and-similar-hosted-software-solutions">OC Tanner</a>,
+</span>
+</li>
+<li>
+<span class="force-white">
+<a href="/youearnedit-competitors-similar-hosted-alternatives">YouEarnedIt</a>.
+</span>
+</li>
+</ul>
+</li>
+<li class="footer-end-group pull-right visible-desktop">
+<ul class="unstyled">
+<li>
+<a href="http://nytm.org/made" target="_blank">Proudly Made in Brooklyn, NYC</a>
+</li>
+<li>© 2014 Smartly, Inc.</li>
+<li>all rights reserved</li>
+<li class="social break">
+<a href="https://twitter.com/peerbonus">
+<i class="icon-twitter"></i>
+Twitter
+</a>
+</li>
+<li class="social">
+<a href="https://facebook.com/peerbonus">
+<i class="icon-facebook"></i>
+Facebook
+</a>
+</li>
+<li class="social">
+<a href="http://www.linkedin.com/company/bonus-ly">
+<i class="icon-linkedin"></i>
+LinkedIn
+</a>
+</li>
+<li class="social">
+<a href="http://google.com/+bonusly" rel="publisher">
+<i class="icon-google-plus"></i>
+Google+
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular-resource.min.js" type="text/javascript"></script>
+<script src="https://bonusly-herokuapp-com.global.ssl.fastly.net/assets/application-59c6d26dd7fa9ca2068ae142e6d42d66.js" type="text/javascript"></script>
+
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
