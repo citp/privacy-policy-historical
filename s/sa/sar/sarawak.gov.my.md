@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122011321id_/http%3A//www.sarawak.gov.my/en/tools/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022090332id_/http%3A//www.sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.*
 
-# Sarawak Government Portal | Privacy Policy
+# The Official Portal of the Sarawak Government
 
 **Thank you for using the Sarawak’s Government Official Portal.**
 
