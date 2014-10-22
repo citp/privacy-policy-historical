@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015130133id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022080149id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
 # About Voxy | Voxy.co.nz
 
@@ -109,7 +109,7 @@ We reserve the right to change this policy at any time by notifying site users o
 
 Any personal information that you provide to us will be collected and held by us. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary.
 
-If you have any questions about how our services work or regarding this policy, contact us by [email](https://web.archive.org/contact) or by mail to Digital Advance, PO Box 12503, Thorndon, Wellington, New Zealand.
+If you have any questions about how our services work or regarding this policy, contact us by [email](https://web.archive.org/contact).
 
 For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [ click here](http://www.privacy.org.nz/home.php).
 
