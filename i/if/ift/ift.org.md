@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091730id_/http%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022225748id_/http%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IFT.org
 
-  * [Home](http://www.ift.org/)
+  * [Home](https://www.ift.org/)
   * [About Us](http://www.ift.org/about-us.aspx)
   * Privacy Policy
 
 
 
-The Institute of Food Technologists respects the privacy of visitors to its website. IFT has developed the following privacy policy to inform visitors about how information is handled once it has been submitted online. This policy is subject to change at the discretion of IFT and applies only to IFT websites and the dissemination of electronic communication. The following information relates to [http://www.ift.org](http://www.ift.org/) and [http://community.ift.org](http://community.ift.org/).
+The Institute of Food Technologists respects the privacy of visitors to its website. IFT has developed the following privacy policy to inform visitors about how information is handled once it has been submitted online. This policy is subject to change at the discretion of IFT and applies only to IFT websites and the dissemination of electronic communication. The following information relates to [http://www.ift.org](http://www.ift.org/) and [http://connect.ift.org](http://connect.ift.org/).
 
 ## **COOKIES**
 
@@ -23,6 +23,7 @@ Be advised that while using IFT websites, the website will query visitors' brows
   * the domain from which you are accessing our site 
   * the type of PC operating system you use 
   * the type of browser you use 
+  * the type of device you use 
 
 
 
@@ -59,11 +60,11 @@ Information about our members, customers, and visitors to our website is critica
 
 ## **USE BY CHILDREN**
 
-[http://www.ift.org](http://www.ift.org/) and [http://community.ift.org](http://community.ift.org/) were not designed for use by children and are members-only forums. If you are under the age of 18, you may use [http://www.ift.org](http://www.ift.org/) and [http://community.ift.org](http://community.ift.org/) only with the supervision of a parent or guardian.
+[http://www.ift.org](http://www.ift.org/) and [http://connect.ift.org](http://connect.ift.org/) were not designed for use by children and are members-only forums. If you are under the age of 18, you may use [http://www.ift.org](http://www.ift.org/) and [http://connect.ift.org](http://connect.ift.org/) only with the supervision of a parent or guardian.
 
 ## **CONDITIONS OF USE, NOTICES, AND REVISIONS**
 
-If you choose to visit [http://www.ift.org](http://www.ift.org/) or [http://community.ift.org](http://community.ift.org/), your visit and any dispute over privacy is subject to this privacy policy and the IFT Community Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the State of Illinois. If you have any concern about privacy at [http://www.ift.org](http://www.ift.org/) and [http://community.ift.org](http://community.ift.org/), please contact us with a thorough description of your concern, and we will try to resolve it. 
+If you choose to visit [http://www.ift.org](http://www.ift.org/) or [http://connect.ift.org](http://connect.ift.org/), your visit and any dispute over privacy is subject to this privacy policy and the IFT Community Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the State of Illinois. If you have any concern about privacy at [http://www.ift.org](http://www.ift.org/) and [http://connect.ift.org](http://connect.ift.org/), please contact us with a thorough description of your concern, and we will try to resolve it. 
 
 Our business changes constantly, and our privacy policy and the IFT Community Terms of Service will also change. We may e-mail periodic reminders of our notices and conditions, but you should check our sites frequently to stay abreast of recent changes. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected or user information posted in the past without the consent of affected site visitors.
 
