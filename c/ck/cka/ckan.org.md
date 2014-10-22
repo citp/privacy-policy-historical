@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ckan.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625194944id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckan.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022152026id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
 # Open Knowledge: Privacy policy
 
