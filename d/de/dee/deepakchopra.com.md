@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepakchopra.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065151id_/https%3A//www.deepakchopra.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepakchopra.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022070241id_/https%3A//www.deepakchopra.com/privacy_policy) for the most accurate reproduction.*
 
 # Deepak Chopra - Privacy Policy
 
