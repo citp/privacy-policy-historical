@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216120714id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahmsta.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022115126id_/http%3A//www.ahmsta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ahmsta’s Blog – Technology, Blogging, Gadgets, Money Making, Adsense Tips
+# Privacy Policy - Ahmsta – Technology News, HowTo, Blogging, Review, Online Business
 
 If you require any more information or have any questions about my privacy policy, please feel free to contact me by email at ahmsta2@gmail.com.
 
