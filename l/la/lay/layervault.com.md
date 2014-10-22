@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layervault.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209100919id_/https%3A//layervault.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layervault.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022160837id_/https%3A//layervault.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LayerVault
 
@@ -66,7 +66,7 @@ One of the special features of the Service is that it allows you to enable the S
 
 ## Security:
 
-LayerVault takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to LayerVault via the Internet. 
+LayerVault takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to LayerVault via the Internet. More information is available in our [Security Statement](https://web.archive.org/security). 
 
 ## Other Terms and Conditions:
 
