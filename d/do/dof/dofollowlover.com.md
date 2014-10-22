@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dofollowlover.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527191924id_/http%3A//www.dofollowlover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofollowlover.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022042902id_/http%3A//www.dofollowlover.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DoFollowLover
+# Privacy Policy
+
+[by ](http://synved.com/wordpress-social-media-feather/ "WordPress Social Media Feather")
 
 At http://www.dofollowlover.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.dofollowlover.com/ and how it is used.
 
@@ -16,7 +18,7 @@ http://www.dofollowlover.com/ does use cookies to store information about visito
 
   * Google, as a third party vendor, uses cookies to serve ads on http://www.dofollowlover.com/.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://www.dofollowlover.com/ and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 
 
@@ -27,3 +29,7 @@ http://www.dofollowlover.com/ has no access to or control over these cookies tha
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.dofollowlover.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
+
+We do not refund orders. If you have an issue with your order then contact us thank you.
+
+[by ](http://synved.com/wordpress-social-media-feather/ "WordPress Social Media Feather")
