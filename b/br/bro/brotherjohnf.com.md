@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brotherjohnf.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424142412id_/http%3A//www.brotherjohnf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brotherjohnf.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022211551id_/http%3A//www.brotherjohnf.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Silver For The People
 
