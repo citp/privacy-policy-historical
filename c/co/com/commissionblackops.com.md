@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionblackops.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819020712id_/http%3A//www.commissionblackops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionblackops.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022160927id_/http%3A//www.commissionblackops.com/privacy.html) for the most accurate reproduction.*
 
 # Commission Black Ops
 
