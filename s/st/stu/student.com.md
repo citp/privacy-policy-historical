@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506182637id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022202117id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
 
 # Student Center, Student.com, Student Center Network, teens, students, teen, student, college students, high school students, StudentCenter
 
