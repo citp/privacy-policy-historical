@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423113318id_/http%3A//www.macon.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macon.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022100446id_/http%3A//www.macon.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Macon.com Macon, GA
 
