@@ -1,58 +1,148 @@
-> *The following text is extracted and transformed from the banksimple.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015092113id_/https%3A//banksimple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksimple.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022160414id_/https%3A//www.simple.com/policies/website-privacy) for the most accurate reproduction.*
 
-# BankSimple | Privacy Policy
+# Privacy Policy | Simple
 
-_Effective as of March 22, 2011_
+Effective as of September 9th, 2013
 
-Hi! We’ve created this Privacy Policy to let you know how banksimple.com uses any information that you provide to us when you visit this site. Before we kick off with legalese, let’s make one thing clear:
+Hi! We've created this Privacy Policy to explain how we collect, use, disclose and protect your information, including any nonpublic personal information. This policy applies to information we collect when you use our website and mobile application (collectively, “ **Services** ”) or otherwise interact with us as described below.
 
-**We will never sell, rent or loan any personal information that you provide to us. Simple.**
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some cases, we may provide you with additional notice (such as by adding a statement to the homepages of our website or mobile application or by sending you an email notification). We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-By visiting this site, you are agreeing to the terms of this Privacy Policy and the accompanying [Terms of Use](https://web.archive.org/terms/ "Terms").
+This privacy policy applies to the Services provided by Simple Finance Technology Corp. (“ **Simple,** ” “ **we** ” or “ **us** ”).
 
-## What information we collect
+### Collection of Information
 
-We collect three main types of information when you visit this site: web usage data, invite requests and sign up tests. In the normal course of browsing the site, we may also collect usage information such as your IP address, browser type, language settings and the URLs of the referring and exit pages. We can also keep track of how much time you spend on the site and what links you click on while visiting banksimple.com. When you request an invite, you have to provide us with your name and email address. We also are offering the opportunity to test our sign up process to a small number of users. From these users we are asking for their Name, Address, Phone Number, Email Address, Date of Birth and Social Security Number.
+#### Categories of Non-Public Personal Information
 
-## How we use cookies
+##### Information You Provide to Us
 
-We may also use cookies, which allows us to remember you across multiple visits to our site. We do not use cookies for advertising, nor do we sell cookie data to anyone. In addition to cookies that we might use on the site, others (like Google Analytics) may also serve cookies. If you do not wish cookies to be used in connection with your visit, please disable the cookie function in your browser. However, if you do decide to not accept cookies, the site may not work properly.
+We collect nonpublic personal information you provide to us when you apply for a Simple account or when you communicate with us about your Simple account. The types of information we may collect include your name, address, phone number, email address, date of birth, bank account information, social security number, username, password, and any other information you choose to provide.
 
-## Modifying your information or opting out
+##### Information About Your Transactions With Us
 
-If you have provided us with information and would like to make changes to it or how we contact you, please get in touch with us at [support@banksimple.com](mailto:support@banksimple.com).
+As you use your Simple account to perform financial transactions, we collect nonpublic personal information in connection with each transaction, including transaction time, dollar amount and merchant details. We may also collect photos, memos or other information that you attach to your transactions.
 
-## What we do with the information we collect
+##### Information From Other Sources
 
-  * We use invite request information to track how many people are interested in our services. When our service becomes available, we will use your email address to inform you of this and extend you an invite to use the service.
-  * For those who complete the sign up test, we store the information in our secure servers and use the information to hold your place for when we do begin offering the BankSimple product. By providing us with the information now, you do not need to provide it to us again in the future. The purpose of the test is to evaluate how and who will sign up for our product and we may use your information, in aggregate, to analyze the performance of our sign up process. Completing the sign up test will not result in any credit check against your social security number, nor will it open any financial service accounts on your behalf. When we do begin to offer financial services, all customers will be required to agree to our cardholder agreements before we open any accounts or offer any financial services. At that time we will use your personal information, including your social security number to verify your identity. We will not transmit any individual’s information to our affiliates until customers have provided the appropriate consents in the form of our cardholder agreements.
-  * We may, from time to time, share information with our business affiliates, but they operate under strict privacy policies and will not share your information without our permission or unless otherwise required by law. For example, we work with an email service provider that sends emails to people who have requested an invite. To do that, we need to tell them an email address.
-  * We use anonymous web usage information to analyze how people use this site and to help direct improvements for the site. We aggregate this information in a way that does not identify you personally. We may share this aggregate data with our affiliates, agents, and other third-parties with which we have a business relationship.
-  * If we or any of our affiliated companies are acquired, we expect that the collected information would be transferred along with the other business assets.
-  * To the extent permitted by law, we may also disclose the information that we collect (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such information is necessary or advisable, for example, to protect the our rights, property, or safety, or those of others.
+When you create a Simple account, we may collect nonpublic personal information about you from identity verification service providers in order to verify your identity, including your prior addresses and names.
+
+#### Other Information We Collect
+
+We may also collect other information from you that is not connected with a Simple account as follows:
+
+##### Information You Provide to Us
+
+We may collect information you provide to us, such as your name, email address and any other information you choose to provide. For example, we may collect such information if you request an invite to join Simple or if you enter into any contest or promotion.
+
+##### Information We Collect Automatically from our Services
+
+When you access or use our Services, we automatically collect information about you as follows:
+
+  * **Log Information:** We log information about your use of our Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+
+  * **Location Information:** We may collect your location information from your mobile device with your prior consent. Also,we have incorporated Google Maps into our Services, and you may consent to the collection of location information by Google Maps in connection with your use of this maps service. Any information collected via your use of Google Maps will be transmitted directly to Google and is not collected by us. Please refer to Google’s [privacy policy](http://www.google.com/policies/privacy/) for details about their collection, use and sharing of this information. For information about how to disable the collection of location information from your device, please see “Your Choices” below.
+
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. For more information about cookies, and how to disable them, please see “Your Choices” below.We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.
 
 
 
-## How we protect your information
 
-We take commercially reasonable steps to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. We encrypt personal information using AES-256 with 4,096 bit encryption keys. Social security numbers and other personal information are asymmetrically encrypted, with the decryption key kept outside of our production environment. We use industry-standard encryption technology, a secure server, and other physical and procedural safeguards to protect the security of the information that we collect. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to and from us over the internet. In particular, e-mail may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.
+### Use of Information
 
-## This is an American web site
+We may use your information, including nonpublic personal information as follows:
 
-This website is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the website and/or providing us with any information, you consent to this transfer.
+  * Provide, maintain and improve our Services;
 
-## We are not responsible for external web sites
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations;
 
-This website may contain links to third-party websites. We have no control over the privacy practices or the content of these websites. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
+  * Send you technical notices, updates, security alerts and support and administrative messages;
 
-## Changes to this privacy policy
+  * Respond to your comments, questions and requests and provide customer service;
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Website as soon as they go into effect. By accessing this website after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Simple and others, and provide news and information we think will be of interest to you;
 
-Any visitors who have completed either the sign up test or who have become full customers of BankSimple will receive, via email, a copy of the most recent privacy policy on an annual basis.
+  * Monitor and analyze trends, usage and activities in connection with our Services;
 
-If you have questions about this Privacy Policy, please e-mail us at [support@banksimple.com](mailto:support@banksimple.com) or write to us at:
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
 
-> **Simple Finance Technology Corp.**  
->  Attention: Privacy Officer  
-> 720 NW Davis St. Suite 400 Portland, OR 97209
+  * Process and deliver contest or promotion entries and rewards;
+
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+
+  * Carry out any other purpose for which the information was collected.
+
+
+
+
+Simple is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+
+### Disclosure of Information
+
+We may disclose any information we collect about current and former customers, including nonpublic personal information, as follows:
+
+(1) With financial service providers, including the financial institution identified in your cardholder bank agreement that provides banking services in connection with your Simple account;
+
+(2) With non-financial companies, such as email service providers that perform marketing services on our behalf;
+
+(3) With other nonaffiliated companies for our everyday business purposes, such as to process transactions, maintain accounts, respond to court orders and legal investigations or report to credit bureaus. For example, in connection with our everyday business purposes, we may share information about you as follows:
+
+  * In response to a request for information, if we are required by, or we believe disclosure is in accordance with, any applicable law, regulation or legal process;
+
+  * With relevant law enforcement officials or other third parties, such as investigators or auditors, if we believe it is appropriate to investigate fraud; 
+
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Simple or others;
+
+  * In connection with, or during negotiations of, any merger, sale of Simple’s assets, financing or acquisition of all or a portion of our business to another company; and
+
+  * With your consent or at your direction, including if we notify you that the information you provide will be shared in a particular manner and you provide such information.
+
+
+
+
+We may also share aggregated or de-identified Information, which cannot reasonably be used to identify you. For example, we may share transaction zip codes and merchant names with third parties to improve our accuracy in geo-locating transactions and to improve the clarity of transaction descriptions.
+
+### Your Choices
+
+##### Account Information
+
+You may edit your account profile information by logging into your account via our Services. If you wish to delete or deactivate your online account, please [contact us](mailto:learnmore@simple.com), but note that we may retain certain information as required by law or for legitimate business purposes.
+
+##### Promotional Communications
+
+You may opt out of receiving promotional emails and text messages from Simple by following the instructions in those messages. Please note that if you opt out, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations.
+
+##### Location Information
+
+If you initially consent to the collection of location information by Simple or Google Maps within our mobile application, you may be able to subsequently stop this collection through your device operating system settings or through your online account settings. If either of these opt-out options are not available to you, you may also disable location information by following the standard uninstall process to remove our mobile application from your device.
+
+##### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+### Social Sharing Features
+
+Our Services include social sharing features for common social networks to let users share content. These features are served from third-party services that may serve their own cookies. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+### Analytics Services Provided by Others
+
+We may allow others to provide analytics services on our behalf. Please note that we do not work with third parties who re-sell any of the information they collect on our behalf. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Simple to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity.
+
+### Security
+
+Simple takes reasonable measures to help protect all information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Additionally, Simple implements policies to protect the confidentiality and security of your nonpublic personal information. Simple limits access to your nonpublic personal information to employees that have a business reason to know such information, and implements security practices and procedures to protect the confidentiality and security of nonpublic personal information in accordance with its policies.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+##### Simple Finance Technology Corp.
+
+Attention: Compliance Officer  
+PO Box 28462  
+Portland, OR 97228  
+(888) 248-0632  
+
+
+[compliance@simple.com](mailto:compliance@simple.com)
