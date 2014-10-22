@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technojobs.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014244id_/http%3A//www.technojobs.co.uk/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technojobs.co.uk privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022151952id_/http%3A//www.technojobs.co.uk/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
