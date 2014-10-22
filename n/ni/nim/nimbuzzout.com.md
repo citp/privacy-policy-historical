@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624012559id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022084548id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
 
 # Nimbuzz Privacy:Cheap,Low Cost International Phone Calling,Calls Rates
 
