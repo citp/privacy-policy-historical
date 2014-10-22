@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennfoster.edu privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507012840id_/http%3A//www.pennfoster.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennfoster.edu privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022133458id_/http%3A//www.pennfoster.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Penn Foster's privacy and personal information rules
 
