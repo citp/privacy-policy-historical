@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modis.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531031510id_/http%3A//www.modis.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modis.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022151719id_/http%3A//www.modis.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Modis
 
 The following is a description of how we handle information we may learn from your use of our site.
 
