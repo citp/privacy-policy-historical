@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetop100songs.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213020828id_/http%3A//www.thetop100songs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetop100songs.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022200858id_/http%3A//www.top100songshub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.thetop100songs.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
+This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.top100songshub.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
 
 Personal identification information
 
@@ -20,9 +20,9 @@ How we use collected information
 
 The Top 100 Songs collects and uses Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To send periodic emails  
+– To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 How we protect your information
@@ -43,13 +43,13 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>
 
 Cookies & 3rd Party Advertisements
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/choices/#completed>.
 
 External Links
 
@@ -66,6 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-<http://www.thetop100songs.com/contact-us/>
+<http://www.top100songshub.com/contact-us/>
 
 This document was last updated on December 18, 2011
