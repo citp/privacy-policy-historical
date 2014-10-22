@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top100songshub.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508220814id_/http%3A//www.top100songshub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top100songshub.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022200858id_/http%3A//www.top100songshub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ How we use collected information
 
 The Top 100 Songs collects and uses Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To send periodic emails  
+– To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 How we protect your information
