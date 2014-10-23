@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210032247id_/http%3A//www.microstrategy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microstrategy.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023150934id_/http%3A//www.microstrategy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# MicroStrategy | Privacy Policy
+# Privacy Policy | MicroStrategy
 
 ##  MicroStrategy Website Privacy Policy
 
