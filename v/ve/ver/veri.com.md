@@ -1,51 +1,85 @@
-> *The following text is extracted and transformed from the veri.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603034730id_/http%3A//www.veri.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veri.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023033820id_/http%3A//www.yourmemoir.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Veritocracy
+# Memoir Privacy Policy - 9.17.13
 
-Veritocracy allows you to find the best analysis and opinions an any topic, specifically for you. In using the site, you may post content, vote on content, connect with other users, or share personal information. Please read the following to learn more about our Privacy Policy. By actively using the site, you are accepting the practices outlined in this Privacy Policy.
+MEMOIR PRIVACY POLICY
 
-### What Information Does Veritocracy Collect?
+Your privacy is of the greatest importance to us. This privacy policy governs your use of the Memoir site at yourmemoir.com and Memoir’s mobile and desktop applications (“Applications”, “the Service”, “Memoir”) that were created by Veri, Inc. 
 
-Veritocracy only collects information with your specific knowledge and consent. At sign up, you are asked to supply a contact e-mail address, a display name, and a password. As a user of the site, you are able to share original opinions or post links to third party sites, vote on the articles you like or dislike, and create a profile that includes some personal information. 
+This Privacy Policy informs you of policies and practices regarding the information that we collect and use in connection with delivering our Applications, your registration with us, and your use of the Applications.
 
-Our servers may also automatically collect information about your computer when you visit the site, including the type of browser you are using, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company, or your university.
+Our policy applies only to the Applications we provide. It does not apply to other services you use to obtain our Applications, to services of others that you might find by using our Applications, or to other services that may coexist with our Applications or interact with it either on a mobile device or on the Internet (such as Facebook or Foursquare). To learn more about other companies' policies, please consult them.
 
-### Creative Commons
+Information Collection and Use
 
-All opinions and links posted, as well as all content syndicated via feeds on Veritocracy are dedicated to the Public Domain via Creative Commons. For more information, visit the [Creative Commons website](http://creativecommons.org/licenses/publicdomain/).
+Account Information
 
-### Cookies
+When you sign up with us, we will collect certain limited information to identify and reach you, such as your name and email address, as well as your chosen password to authenticate your access to our service. We may also collect information about your other accounts, such as your login credentials and other information regarding your accounts on third-party feeds and services (such as Facebook, Instagram and Foursquare) that may interact with our service. We also collect information about your relationships with other users on social media services that interact with our Services.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Veritocracy cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your display name or e-mail address is.
+Application Data
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave cookies activated in order for the Veritocracy web site and login system to function optimally.
+All of the photos and data that you create, edit, share and store is deemed 100% private to you. 
 
-Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
+Feeds and Web Services
 
-### Information Security and Notification
+As a user of the service, you will have the option of granting us access to your accounts with certain third-party feeds and services. By granting us access to your accounts with third-party feeds and services, you understand that we will access and collect content from these third-party services. This information may include your name, the names of those you interact with, your username, the usernames of those you interact with, your location (past and present), media (such as photos and videos) and the times and dates the data was originally published, as well as any other information you have shared on these services. Select information that you post to your third-party feeds and services will be viewable via the Services. All content that is collected from these third-party feeds and services is deemed 100% private to you. 
 
-Your account information on Veritocracy is protected by a password for your privacy and security. Also, Veritocracy will never provide your email address to a third party without your explicit permission, nor will we send you e-mails other than to notify you about activity on your account or specific events and system updates regarding the Veritocracy service. However, because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Veritocracy can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the site you agree to assume all risk in connection with the information sent to us or collected by us when you use the site. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may e-mail you at the address you have supplied for your account.
+Location
 
-### Children
+As a user of the mobile application, we may access your location information (GPS coordinates) to determine your current location in order to allow proper tagging of your memories, allow you to check into a list of nearby locations, allow you to request photos from friends who are in the same geo-location range as you, and allow your friends to know when you have photos with them from the same geo-location range.  We will not share your current location with any partners, third parties, or users who are not your friends on Facebook, Foursquare, or in your address book on your mobile phone. 
 
-Veritocracy is not intended for use by children under the age of 13. Any minor under the age of 13 will have his or her account terminated. Children between the ages of 13 and 17 must have parental permission before creating an account, posting content, voting on content, or entering any personal information on the site. Anyone who creates an account and/or discloses personal information about themselves are eligible to receive messages from other parties. For more information, please contact our administrators.
+You will be asked to provide the App with permission to access this feature the first time you choose to use it. If you do not want us use your location for the purposes set forth above, you should turn off the location services for the mobile application in your mobile phone settings. 
 
-### Links
+Photos
 
-Veritocracy features links to many other Web sites. These links are provided for purely for your convenience, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. If you have concerns over any of these third party sites, please read their privacy policies before providing them with personal information.
+We analyze and collect information about your photos and associated metadata, including captions and ratings, date, time and location information, and the camera settings or the name of the hard drive they were stored on. This metadata is collected anonymously and we may use the information gathered to provide all of our users with a better experience. We will never look at the underlying private photos in your account unless we have received your consent to do so. 
 
-### Changes to this Privacy Policy
+Protection of User Information and Associated Metadata
 
-Veritocracy may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Veritocracy website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+Except as otherwise provided below, your data and associated metadata are deemed private to you, and is not made available to other users or to visitors of the service. 
 
-### Conditions of Use
+You may choose to make available your data, associated metadata, or other personally-identifying information, to other users of the service, and in such case, we may share such information as authorized by you through the service. 
 
-If you decide to visit the Veritocracy website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of New York state law.
+You may also choose to make available such information by sending it via email to other users and/or individuals not using the App or service. In such case, we may so share the information, and the subsequent use of such information will be subject to the terms of such third party services, as applicable. 
 
-### Effective Date of this Privacy Policy
+Protection of Other Personally Identifying Information
 
-This Privacy Policy is effective as of May 1, 2008. Any amendments will be noted on the Veritocracy website.
+We may disclose your information to our employees and contractors only for the purpose of administering and providing our technology and service. Our employees and contractors have agreed to not disclose your information to others. 
 
-### Contact
+In order to keep our service stable and running securely, we may engage a number of highly trusted third parties, including storage providers and analytics providers. When necessary, we may share your information with these parties in order to deliver the best experience possible. When it comes to third party providers, we will always do what’s best to maintain your privacy and security. As such, your personally identifying information—including your name and email address—will never be sold to third parties. 
 
-For specific questions about this Privacy Policy, please contact us.
+We may reveal information to satisfy or comply with any law, regulation or legal process or to respond to lawful requests, including subpoenas, litigation discovery requests, warrants or court orders; to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and to prevent or stop activity we consider to be illegal or unethical.
+
+The Security of Your Information
+
+We take all reasonable measures possible to protect the information that we collect from or about you from unauthorized access, use or disclosure. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+Aggregated Data and Statistics
+
+We may collect data, analytics, and statistics about the behavior of users using trusted third party partners. Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Applications and our Services.
+
+Opt Out
+
+You can stop all collection of information by the Applications easily by uninstalling the Applications. You may use the standard uninstall processes as may be available as part of your mobile phone or desktop machine. You can also request to opt-out via email, at [support@yourmemoir.com](mailto:support@yourmemoir.com). 
+
+Links to Other Sites
+
+Our service may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our privacy policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access. 
+
+Our Communications With You
+
+If you created an account or supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with our service. We would however keep this type of emails to a minimum. 
+
+Our Policy Toward Children
+
+Our service is not directed to children under 13 and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible, which may require terminating an account. 
+
+Changes to this Privacy Policy
+
+We reserve the right, at any time, modify and revise this policy so please review it frequently. If we make any material changes to this policy, then we will notify you here, as well as by posting a notice on our website or by sending you an email or other notification. We will indicate when such changes will become effective. 
+
+Questions?
+
+Please contact us at [support@yourmemoir.com](mailto:support@yourmemoir.com) if you have any questions about our privacy policy. 
+
+Last updated: September 17th, 2013 
