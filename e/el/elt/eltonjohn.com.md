@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505105234id_/http%3A//www.eltonjohn.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023174818id_/http%3A//www.eltonjohn.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : EltonJohn.com
 
@@ -91,12 +91,13 @@ If you have questions we are here to help! There are several ways to contact us:
 Email:
     [help@EltonJohn.com](mailto:help@EltonJohn.com "Contact Us")
 Phone:
-    +1 (416) 469-9809
+    +1 (855) 712-7467
 
 Please specify your name, order number, phone number, and your question when leaving a message.
 
 Post:
     EltonJohn.com  
+c/o officialCOMMUNITY  
 2238 Dundas Street West  
 P.O. Box 59039  
 Toronto, Ontario  
