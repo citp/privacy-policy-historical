@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addoninteractive.com privacy policy that was archived on 2014-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140205023918id_/http%3A//www.addoninteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addoninteractive.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023053600id_/http%3A//www.addoninteractive.com/privacy.html) for the most accurate reproduction.*
 
 # addonInteractive - Privacy Policy
 
