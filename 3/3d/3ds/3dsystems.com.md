@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3dsystems.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114802id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsystems.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023032756id_/http%3A//www.3dsystems.com/privacy-policy) for the most accurate reproduction.*
 
-# 3D Systems Privacy Policy -3dsystems.com
+# Privacy Policy | www.3dsystems.com
 
 3D Systems is committed to protecting the privacy of its web site users, and preventing unauthorized use of the information it collects. Below please review an outline of our privacy policy:
 
