@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606032926id_/http%3A//www.affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023160744id_/https%3A//www.affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » AffinityLive
+# Privacy Policy | AffinityLive
 
 This privacy statement describes how **Hiive Systems** collects and uses the personal information you provide on **AffinityLive**. It also describes the choices available to you regarding our use of your information and how you can access and update this information.
 
