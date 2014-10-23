@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbuildermastery.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062921id_/http%3A//www.bizbuildermastery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuildermastery.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023215706id_/http%3A//bizbuildermastery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO Training
 
