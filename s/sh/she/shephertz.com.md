@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528125643id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023204914id_/http%3A//shephertz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
