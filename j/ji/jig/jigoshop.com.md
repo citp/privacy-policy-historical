@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jigoshop.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518170847id_/http%3A//www.jigoshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigoshop.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023233805id_/https%3A//www.jigoshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jigoshop
+# Privacy Policy - Jigoshop
 
 This privacy page explains what information this website collects in order to provide services to:
 
