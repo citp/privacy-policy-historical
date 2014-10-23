@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leica-geosystems.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526040942id_/http%3A//www.leica-geosystems.com/en/Web-Site-Legal_1811.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leica-geosystems.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023151959id_/http%3A//www.leica-geosystems.com/en/Web-Site-Legal_1811.htm) for the most accurate reproduction.*
 
-# Web Site Legal - Leica Geosystems - Leica Geosystems
+# Web Site Legal - Leica Geosystems
 
 Please read this privacy policy carefully. Your use of any Leica Geosystems Web site constitutes your agreement to this privacy policy (the "Leica Geosystems Privacy Policy") and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
 
