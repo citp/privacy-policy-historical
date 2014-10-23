@@ -1,39 +1,49 @@
-<!--The following is the downloaded HTML source of the sftimes.co privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625130131id_/http%3A//sftimes.co/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sftimes.co privacy policy that was archived on 2014-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023142958id_/http%3A//sftimes.co/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  <title>SF Globe - Everything Worth Seeing On the Internet</title>
   <meta name="application-name" content="SF Globe - Everything Worth Seeing On the Internet">
 	<meta name="description" content="The best source for interesting stories and videos."><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
 
-<link rel="shortcut icon" href="http://sftimes.co/img/favicon.ico?v=2">
-
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=229925160521517"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
-(function() {
-   var wf = document.createElement('script');
-   wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-       '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-   wf.type = 'text/javascript';
-   wf.async = 'true';
-   var s = document.getElementsByTagName('script')[0];
-   s.parentNode.insertBefore(wf, s);
- })();
- 
- WebFontConfig = {
-  google: { families: [ 'Merriweather:700,400', 'Ubuntu:300', 'Playfair Display SC' ]
-       }
-};
-</script>
-
-
-<script type="text/javascript">
-window.twttr = (function (d,s,id) {
-  var t, js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
-  js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
-  return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
-}(document, "script", "twitter-wjs"));
-</script>
-<script type="text/javascript" src="http://sftimes.co/js/translations.php"></script>  <meta property="fb:admins" content="601901"><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
+<link rel="shortcut icon" href="http://sfglobe.com/img/favicon.ico?v=2">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=229925160521517"></script><script type="text/javascript">
+Translations = {
+  translations: {},
+  translate: function(input,args) {
+    var output = input;
+    if(Translations.translations[input]) {
+      output = Translations.translations[input];
+    }
+    if(args && args.length > 0) {
+      output = Translations.map(output,args);
+    }
+    return output;
+  },
+  map: function(input,args) {
+    var pattern = /\%([1-9][0-9]*)/g;
+    var result;
+    var output = '';
+    var processedIndex = 0;
+    while(result = pattern.exec(input)) {
+      var index = result[1]-1;
+      if(result.index > processedIndex) {
+        output += input.substr(processedIndex,result.index-processedIndex);
+      }
+      if(args && args.length > index) {
+        output += args[index];
+      }
+      else {
+        output += result[0];
+      }
+      processedIndex = result.index + result[0].length;
+    }
+    if(processedIndex < input.length) {
+      output += input.substr(processedIndex);
+    }
+    return output;
+  }
+}
+</script>  <meta property="fb:admins" content="601901"><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
 
 </head>
 <body style="margin: 0px; padding: 0px;" lang="EN-US" link="blue" vlink="purple">
@@ -42,9 +52,10 @@ if(!window.parent || window.parent == window) {
   document.body.style.overflow = '';
 }
 </script>
-<script type="text/javascript" src="http://sftimes.co/js/fb_wrapper.js"></script>
+<script type="text/javascript" src="http://sfglobe.com/js/fb_wrapper.js"></script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
+  //return;
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
@@ -54,11 +65,11 @@ if(!window.parent || window.parent == window) {
 <script type="text/javascript">
 AppConfig = {
   'APPID':'229925160521517',
-  'JSPATH':'http://sftimes.co/js',
-  'HOMEURL': 'http://sftimes.co',
+  'JSPATH':'http://sfglobe.com/js',
+  'HOMEURL': 'http://sfglobe.com',
   'APPNAME':"The San Francisco Globe"
 }
-</script><script type="text/javascript" src="http://sftimes.co/js/all.js.php?f%5B0%5D=js%2Fjson.js&amp;f%5B1%5D=js%2Fajax_wrapper.js&amp;f%5B2%5D=js%2Futils.js&amp;f%5B3%5D=js%2Fdialog_wrapper.js&amp;f%5B4%5D=js%2Fmobile_app.js"></script><script type="text/javascript">
+</script><script type="text/javascript" src="http://sfglobe.com/js/all.js.php?f%5B0%5D=js%2Fjson.js&amp;f%5B1%5D=js%2Fajax_wrapper.js&amp;f%5B2%5D=js%2Futils.js&amp;f%5B3%5D=js%2Fdialog_wrapper.js&amp;f%5B4%5D=js%2Fmobile_app.js"></script><script type="text/javascript">
 Ajax.auth_params = {};
 </script><style type="text/css">
 
@@ -88,6 +99,10 @@ Ajax.auth_params = {};
 	font-size:11px;
 	font-style:italic;
 	font-family: Georgia, sans-serif; 
+	max-width:300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .credit_citation a {
@@ -204,7 +219,7 @@ Ajax.auth_params = {};
 
 .status.notifications .notifications_icon {
   padding:5px;
-  background-image:url(http://sftimes.co/img/icon_flag.png);
+  background-image:url(http://sfglobe.com/img/icon_flag.png);
   background-size:19px 19px;
   background-position:3px 4px;
   background-repeat:no-repeat;
@@ -984,6 +999,18 @@ html,body {
 	background:#a1a1a1;
 	border:0px;
 }
+
+.fb-like-button {
+  text-align:center;
+  width:91px;
+  height:21px;
+  overflow:hidden;
+  display:inline-block;
+  vertical-align:middle;
+  position:relative;
+}
+
+
 </style><style type="text/css">
 .category_state.Tech {
   background-color:#ff8400;
@@ -998,13 +1025,22 @@ html,body {
   background-color:#f72903;
 }
 .category_state.People {
-  background-color:#0ebcd9;
+  background-color:#c434e3;
 }
 .category_state.Culture {
   background-color:#79519f;
 }
 .category_state.Science {
   background-color:#4073c0;
+}
+.category_state.Talent {
+  background-color:#f93d41;
+}
+.category_state.Family {
+  background-color:#1c97ff;
+}
+.category_state.Impact {
+  background-color:#f88413;
 }
 
 .category_name.Tech {
@@ -1020,13 +1056,22 @@ html,body {
   color:#f72903;
 }
 .category_name.People {
-  color:#0ebcd9;
+  color:#c434e3;
 }
 .category_name.Culture {
   color:#79519f;
 }
 .category_name.Science {
   color:#4073c0;
+}
+.category_name.Talent {
+  color:#f93d41;
+}
+.category_name.Family {
+  color:#1c97ff;
+}
+.category_name.Impact {
+  color:#f88413;
 }
 
 
@@ -1049,11 +1094,20 @@ html,body {
 }
 
 .article_category.People {
-  color:#0ebcd9;
+  color:#c434e3;
 }
 
 .article_category.Culture {
   color:#79519f;
+}
+.article_category.Talent {
+  color:#f93d41;
+}
+.article_category.Family {
+  color:#1c97ff;
+}
+.article_category.Impact {
+  color:#f88413;
 }
 
 body {
@@ -1404,7 +1458,7 @@ span.tooltip.leftedge:after {
 
 .kfm_button_ignore_skipleft {
   background-repeat:repeat-x;
-  background: #e5e5e5 url("http://sftimes.co/img/button_bg_gray.gif") 0 0 repeat-x;
+  background: #e5e5e5 url("http://sfglobe.com/img/button_bg_gray.gif") 0 0 repeat-x;
   border:1px solid #acacac;
   padding-left:8px;
   padding-right:8px;
@@ -1754,14 +1808,14 @@ span.tooltip.leftedge:after {
 }
 
 .icon.fb {
-  background-image:url("img/icon_fb.png");
+  background-image:url("/img/icon_fb.png");
   background-size:18px 18px;
   background-color:#3b5998;
   background-position:1px 1px; 
 }
 
 .icon.twitter {
-  background-image:url("img/icon_twitter.png");
+  background-image:url("/img/icon_twitter.png");
   background-size:16px 16px;
   background-color:#00aced;
   background-position:2px 2px; 
@@ -2421,6 +2475,7 @@ input:focus {
 }
 
 </style><script type="text/javascript">
+var is_mobile = "";
 var show_fb_like_prompt = true;
 var show_twitter_follow_prompt = true;
 var show_email_subscribe_prompt = false;
@@ -2461,7 +2516,7 @@ window.addEventListener('scroll', function() {
 	 	//var ajax = new Ajax();
 		//ajax.responseType = Ajax.JSON;
 		//var params = {"action":"scrolled"};
-		//ajax.post("http://sftimes.co/ajax/action.php", params);
+		//ajax.post("http://sfglobe.com/ajax/action.php", params);
 		userHasScrolled = true;
 	}
 	
@@ -2494,22 +2549,22 @@ window.addEventListener('scroll', function() {
   
   
     // fix sidelist_xpromo to screen
-    if (document.getElementById('sidelist_xpromo')) {
+    if (document.getElementById('sidelist_xpromo') && document.getElementById('sidelist_placeholder')) {
       var el = document.getElementById('sidelist_xpromo');
       var ph = document.getElementById('sidelist_placeholder');
       
-  	  if (scrollTop > getLastOffsetTop(ph)+150){
+  	  if (scrollTop > getLastOffsetTop(ph)+550){
   	  	if (el.style.position != 'fixed') {
   	  	  el.lastWidth = el.clientWidth;
   	  		el.lastOffsetTop = el.offsetTop;
   	  		el.style.position = 'fixed';
-  	  		el.style.top = '45px';
+  	  		el.style.top = '0px';
   	  		//el.style.width = '57%';
   	  		el.style.width = el.lastWidth + 'px';
   	  		//el.style.width = document.getElementById('top_sharebuttons_placeholder').clientWidth+'px';
   	  	}
   	  }
-  	  else if ( scrollTop < getLastOffsetTop(ph)+150 ) {
+  	  else if ( scrollTop < getLastOffsetTop(ph)+550 ) {
   	  	if (el.style.position == 'fixed') {
   	  		el.style.position = 'relative';
   	  		el.style.top = '';
@@ -2519,21 +2574,23 @@ window.addEventListener('scroll', function() {
     }
 	}
   // display popup share prompt after credits
-	
   var scrollTop = window.pageYOffset;
   var el = document.getElementById('creditsbox_element');
-  var tOffsetTop = totalOffsetTop(el);
-  if (scrollTop > tOffsetTop-window.innerHeight+200){
-  	if (!hasPoppedUp && typeof showPopUpPrompt =='function') {
-  	  
-  		setTimeout(function(){
-  				showPopUpPrompt();
-  			},3000);
-  		hasPoppedUp = true;
-  		var d = new Date();
-  		d.setTime(d.getTime()+86400000);
-  		Utils.setCookie('popped_0','1',d);
-  	}
+  //var tOffsetTop = totalOffsetTop(el);
+  if (el) {
+    var tOffsetTop = Utils.getCoordinates(el).top;
+    if (scrollTop > tOffsetTop-window.innerHeight){
+    	if (!Page.poppedup && typeof Page.endStory =='function') {
+    	  
+    		setTimeout(function(){
+    				Page.endStory();
+    			},3000);
+    		Page.poppedup = true;
+    		var d = new Date();
+    		d.setTime(d.getTime()+86400000);
+    		Utils.setCookie('popped_0','1',d);
+    	}
+    }
   }
 });
 
@@ -2561,7 +2618,7 @@ function followIntentToAnalytics (intentEvent) {
 		var ajax = new Ajax();
 		ajax.responseType = Ajax.JSON;
 		var params = {"action":"twitter_follow_button"};
-		ajax.post("http://sftimes.co/ajax/action.php", params);		
+		ajax.post("http://sfglobe.com/ajax/action.php", params);		
 		
 	} 
 	
@@ -2608,8 +2665,8 @@ function hideAllFBLikes(){
 function trackFBLike(success_or_failure){
 	var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
-	var params = {"action":"fb_like_button","value":success_or_failure};
-	ajax.post("http://sftimes.co/ajax/action.php", params);	
+	var params = {"action":"fb_like_button","value":success_or_failure,"lang":"en"};
+	ajax.post("http://sfglobe.com/ajax/action.php", params);	
 }
 
 function showTwitterFollowPrompt(){
@@ -2630,9 +2687,9 @@ function showTwitterFollowPrompt(){
 }
 var hasShared = false;
 function showSharePrompt(details, do_share){
-  if (currenttip) {
-    showNextTip(currenttip);
-  }
+  //if (currenttip) {
+  //  showNextTip(currenttip);
+  //}
   if (do_share) {
     hasShared = true;
   }
@@ -2684,6 +2741,10 @@ function launchandroid(url,onfail) {
 
 
 function showAppAd(article_id) {
+  Page.trackAction('viewinterstitial');
+  if (document.getElementById('player')) {
+    document.getElementById('player').style.display = 'none';
+  }
   var appPrompt = document.createElement('div');
   appPrompt.className = 'overlay_bg';
   var content = document.createElement('div');
@@ -2704,7 +2765,12 @@ function showAppAd(article_id) {
   button_open.className = 'overlay_button orangebg';
   button_open.innerHTML = "Install SF Globe App";
   button_open.onclick = function() {
+    Page.trackAction('openinterstitial');
     openInApp(article_id);
+    document.body.removeChild(appPrompt);
+    if (document.getElementById('player') && DialogWrapper && DialogWrapper.dialogs && DialogWrapper.dialogs.length == 0) {
+      document.getElementById('player').style.display = '';
+    }
   }
   content.appendChild(button_open);
   
@@ -2714,7 +2780,11 @@ function showAppAd(article_id) {
   button_skip.style.marginBottom = '20px';
   button_skip.style.marginTop = '0px';
   button_skip.onclick = function() {
+    Page.trackAction('skipinterstitial');
     document.body.removeChild(appPrompt);
+    if (document.getElementById('player') && DialogWrapper && DialogWrapper.dialogs && DialogWrapper.dialogs.length == 0) {
+      document.getElementById('player').style.display = '';
+    }
   }
   content.appendChild(button_skip);
   
@@ -2763,7 +2833,7 @@ function showAppPrompt(url,article_id,headline,image,callback) {
 var email_subscribe_dlg = new DialogWrapper();
 function showEmailSubscribePrompt(){
   var tzo = new Date().getTimezoneOffset()*60;
-  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes%2C%20I%27m%20in%21%20&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsftimes.co%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick='trackEmailSubscribe();' class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
+  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes%2C%20I%27m%20in%21%20&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsfglobe.com%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick='trackEmailSubscribe();' class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
   if (show_email_subscribe_prompt){
 		email_subscribe_dlg.showMessage("Want more stories like this?",content,"Nevermind");
 	}
@@ -2771,7 +2841,7 @@ function showEmailSubscribePrompt(){
 
 function showEmailSubscribePrompt_Web(){
   var tzo = new Date().getTimezoneOffset()*60;
-  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes, I want the SF Globe Digest!&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsftimes.co%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_Web();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
+  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes, I want the SF Globe Digest!&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsfglobe.com%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_Web();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
   if (show_email_subscribe_prompt){
 		email_subscribe_dlg.showMessage("Want more stories like this?",content,"Nevermind");
 	}
@@ -2779,7 +2849,7 @@ function showEmailSubscribePrompt_Web(){
 
 function showEmailSubscribePrompt_AfterLike(){
   var tzo = new Date().getTimezoneOffset()*60;
-  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes, I want this! &body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsftimes.co%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_AfterLike();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
+  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes, I want this! &body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsfglobe.com%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_AfterLike();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
   if (show_email_subscribe_prompt){
 		email_subscribe_dlg.showMessage("Want more stories like this?",content,"Nevermind");
 	}
@@ -2787,13 +2857,13 @@ function showEmailSubscribePrompt_AfterLike(){
 
 function showEmailSubscribePrompt_Button(){
   var tzo = new Date().getTimezoneOffset()*60;
-  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes, subscribe me!&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsftimes.co%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_Button();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
+  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=Yes, subscribe me!&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsfglobe.com%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_Button();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
 	email_subscribe_dlg.showMessage("Want more stories like this?",content,"Nevermind");
 }
 
 function showEmailSubscribePrompt_Inter(){
   var tzo = new Date().getTimezoneOffset()*60;
-  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=I'm in!&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsftimes.co%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_Inter();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
+  var content = "<div style='margin-bottom:15px'>\n<center>\n<div style='margin-bottom:5px;color:#4a4a4a;'>Here's YOUR CHANCE to get everything worth seeing on the Internet. Get our <b>free<\/b> daily digest:<\/div>\n\n<a href=\"mailto:subscribe@sfglobe.com?subject=I'm in!&body=%0D%0A%0D%0ABy%20sending%20this%20email%2C%20you%20will%20be%20subscribed%20to%20SF%20Globe%27s%20free%20daily%20digest.%20SF%20Globe%20is%20your%20best%20source%20for%20interesting%20stories%20and%20videos.%0D%0A%0D%0A%20Please%20note%20by%20doing%20so%2C%20you%20are%20agreeing%20to%20our%20privacy%20policy%20%28read%20here%3A%20http%3A%2F%2Fsfglobe.com%2Fprivacy.php%29.%20You%20can%20also%20unsubscribe%20at%20anytime.%20\"><input type='button' onclick=\"trackEmailSubscribe_Inter();\" class='btn_subscribe_digest' value=\"One-Click Subscribe\" \/><\/a>\n\n<\/center> \n<\/div>".replace("mailto:subscribe@sfglobe.com","mailto:subscribe+"+tzo+"@sfglobe.com");
 	if (show_email_subscribe_prompt){
 		email_subscribe_dlg.showMessage("Want more stories like this?",content,"Nevermind");
 	}
@@ -2803,7 +2873,7 @@ function trackEmailSubscribe() {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":'track_email_subscribe'};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	email_subscribe_dlg.hide();
 }
 
@@ -2811,7 +2881,7 @@ function trackEmailSubscribe_Web() {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":'track_email_subscribe_web'};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	email_subscribe_dlg.hide();
 }
 
@@ -2819,7 +2889,7 @@ function trackEmailSubscribe_AfterLike() {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":'track_email_subscribe_afterlike'};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	email_subscribe_dlg.hide();
 }
 
@@ -2827,7 +2897,7 @@ function trackEmailSubscribe_Button() {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":'track_email_subscribe_button'};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	email_subscribe_dlg.hide();
 }
 
@@ -2836,7 +2906,7 @@ function trackEmailSubscribe_Inter() {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":'track_email_subscribe_inter'};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	email_subscribe_dlg.hide();
 }
 
@@ -2844,7 +2914,7 @@ function trackEmailSubscribe_DDPage() {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":'track_email_subscribe_ddpage'};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	document.getElementById('subscribe_digest_button').innerHTML = "<div style='margin-top:5px'>Okay!</div>";
 }
 
@@ -2986,7 +3056,7 @@ function trackEvent(event) {
     var ajax = new Ajax();
   	ajax.responseType = Ajax.JSON;
   	var params = {"action":event,"cohort":cohort};
-  	ajax.post("http://sftimes.co/ajax/action_track.php", params);
+  	ajax.post("http://sfglobe.com/ajax/action_track.php", params);
   }
 }
 
@@ -3041,9 +3111,8 @@ function shareArticleOnFB(details) {
   
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
-	var params = {"action":"share_fb","article_id":details.article_id, "tag":details.tag, "cohort":0, "cid":0};
-	//var params = {"action":"share_fb","article_id":details.article_id, "tag":details.tag, "cohort":0};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	var params = {"action":"share_fb","article_id":details.article_id, "tag":details.tag, "cohort":0, "cid":0};	//var params = {"action":"share_fb","article_id":details.article_id, "tag":details.tag, "cohort":0};
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 	
 	
 }
@@ -3058,7 +3127,7 @@ function shareOnReddit(details){
                    ',height=' + height +
                    ',top='    + top    +
                    ',left='   + left;  
-    var share_url = 'http://sftimes.co/?id='+details.article_id+'&src='+details.tag+'_'+details.article_id;
+    var share_url = 'http://sfglobe.com/?id='+details.article_id+'&src='+details.tag+'_'+details.article_id;
     
     var reddit_url = 'http://www.reddit.com/submit?url='+ encodeURIComponent(share_url);
     
@@ -3071,7 +3140,7 @@ function shareQuizOnFB(details) {
   var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":"share_fb","article_id":details.article_id, "tag":details.tag};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 }
 
 function showOverlayLinks(){
@@ -3102,7 +3171,7 @@ function shareArticleOnTwitter(details){
 	var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":"share_twitter","article_id":details.article_id, "tag":details.tag};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 }
 
 function shareonFB(article_name, article_caption, article_url, article_id, tag){
@@ -3127,7 +3196,7 @@ function shareonFB(article_name, article_caption, article_url, article_id, tag){
 	var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":"share_fb","article_id":article_id,"tag":tag};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 }
 
 function postArticle(){
@@ -3135,7 +3204,7 @@ function postArticle(){
 	var ajax = new Ajax();
 	ajax.responseType = Ajax.JSON;
 	var params = {"action":"track_submit_story_click"};
-	ajax.post("http://sftimes.co/ajax/action.php", params);	
+	ajax.post("http://sfglobe.com/ajax/action.php", params);	
 	
 	if (Account.state){
 		var dlg = new DialogWrapper();
@@ -3158,7 +3227,7 @@ function unSubscribeEmail(){
 			}
 		}	
 		var params = {"action":"unsubscribe_email","email":email};
-		ajax.post("http://sftimes.co/ajax/action.php", params);
+		ajax.post("http://sfglobe.com/ajax/action.php", params);
 	}
 }
 
@@ -3193,7 +3262,7 @@ function subscribeEmail(){
 	}
 	
 	var params = {"action":"subscribe_email","email":email};
-	ajax.post("http://sftimes.co/ajax/action.php", params);
+	ajax.post("http://sfglobe.com/ajax/action.php", params);
 }
 
 function xpromo_link_tracker(url,article_id, tag,iteration){
@@ -3208,7 +3277,7 @@ function xpromo_link_tracker(url,article_id, tag,iteration){
 		  navigate_wrapper('/?id='+article_id+'&src=xpromo');
 		}
 	}
-	ajax.post("http://sftimes.co/ajax/action.php", params);	
+	ajax.post("http://sfglobe.com/ajax/action.php", params);	
 }
 
 function app_open(article_id) {
@@ -3234,7 +3303,7 @@ function app_open(article_id) {
               launchandroid(false,function(){window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfg";});
               setTimeout(function(){xpromo_link_tracker(url,article_id, tag,iteration);},5000);
             }
-          	ajax.post("http://sftimes.co/ajax/action.php", params);
+          	ajax.post("http://sfglobe.com/ajax/action.php", params);
           }
           else {
             xpromo_link_tracker(url,article_id, tag,iteration);
@@ -3246,13 +3315,14 @@ function app_open(article_id) {
       window.location.href='sfglobe://sfg.app';
     }
   }
-  ajax.post('http://sftimes.co/ajax/action.php', params);
+  ajax.post('http://sfglobe.com/ajax/action.php', params);
   
   
 }
 
 function openInApp(article_id,tag) {
   if (article_id) {
+    Page.trackAction('openinapp');
     var appurl = "sfglobe://sfglobe.com/?id="+article_id;
     var data = JSON.encode({
         "article_id":article_id,
@@ -3261,9 +3331,9 @@ function openInApp(article_id,tag) {
     if (Utils.determine_device() == Utils.DEVICE_ANDROID) {
       // go to app store
   	  launchandroid(appurl,function() {
-        DeviceLinker.link(data,function(response){
+        //DeviceLinker.link(data,function(response){
           window.location.href = "https://play.google.com/store/apps/details?id=com.sfglobe.sfg";
-        });
+        //});
       });
     }
     else {
@@ -3305,7 +3375,7 @@ function openInApp(article_id,tag) {
   	var params = {"action":tag};
   	ajax.ondone = function() {
     }
-  	ajax.post("http://sftimes.co/ajax/action.php", params);
+  	ajax.post("http://sfglobe.com/ajax/action.php", params);
   }
 }
 
@@ -3327,7 +3397,7 @@ function app_link_tracker(url,article_id,tag,iteration) {
           });
           setTimeout(function(){xpromo_link_tracker(url,article_id, tag,iteration);},5000);
         }
-      	ajax.post("http://sftimes.co/ajax/action.php", params);
+      	ajax.post("http://sfglobe.com/ajax/action.php", params);
       }
       else {
         var ajax = new Ajax();
@@ -3341,7 +3411,7 @@ function app_link_tracker(url,article_id,tag,iteration) {
           //window.location.href = "itms://itunes.apple.com/us/app/sf-globe/id886101349?mt=8&uo=4";
           setTimeout(function(){xpromo_link_tracker(url,article_id, tag,iteration);},1000);
         }
-      	ajax.post("http://sftimes.co/ajax/action.php", params);
+      	ajax.post("http://sfglobe.com/ajax/action.php", params);
       }
       //alert(response.link);
     });
@@ -3359,7 +3429,7 @@ function component_tracker(url,article_id, tag,cid){
 	ajax.ondone = function(){
 		navigate_wrapper('/?id='+article_id+'&cid='+cid);
 	}
-	ajax.post("http://sftimes.co/ajax/action.php", params);	
+	ajax.post("http://sfglobe.com/ajax/action.php", params);	
 }
 
 function nextpromo_link_tracker(url,article_id, tag){
@@ -3369,7 +3439,7 @@ function nextpromo_link_tracker(url,article_id, tag){
 	ajax.ondone = function(){
 		navigate_wrapper(url);
 	}
-	ajax.post("http://sftimes.co/ajax/action.php", params);	
+	ajax.post("http://sfglobe.com/ajax/action.php", params);	
 }
 
 
@@ -3380,33 +3450,6 @@ function navigate_wrapper(target) {
   else if (document.setLocation) {
     document.setLocation(target);
   }
-}
-
-var fb_page_like_callback = function(url, html_element) {
-  hideAllFBLikes();
-  trackFBLike(1);
-  showEmailSubscribePrompt_AfterLike();
-  hideElement('mobile_ad_unit');
-	if (end_video_dlg){
-		end_video_dlg.hide();
-	}
-}
-
-
-var fb_page_unlike_callback = function(url, html_element) {
-  trackFBLike(0);
-}
-
-function listenForLike() {
-	FB.Event.subscribe('edge.create', fb_page_like_callback);
-	FB.Event.subscribe('edge.remove', fb_page_unlike_callback);
-}
-
-if(window.addEventListener){
-    window.addEventListener('load',listenForLike,false); //W3C
-}
-else{
-    window.attachEvent('onload',listenForLike); //IE
 }
 
 //FBWrapper.onReady(function() {
@@ -3984,7 +4027,12 @@ Comments = {
     div.appendChild(text_holder);
     
     var text = document.createElement('textarea');
-    text.placeholder = "Join the conversation...";
+    if (Page && Page.test) {
+      text.placeholder = Translations.translate("Please write a comment...");
+    }
+    else {
+      text.placeholder = Translations.translate("Join the conversation...");
+    }
     text_holder.appendChild(text);
     div.inputElement = text;
     
@@ -4046,6 +4094,10 @@ Comments = {
       firstNameInput.onfocus = lastNameInput.onfocus = emailInput.onfocus = passwordInput.onfocus = function() {
         Utils.addClass(div,'active');
         restDom.style.display = '';
+        if (Page && !Page.commentattempt) {
+          Page.commentattempt = true;
+          Page.trackAction('commentattempt','firstname');
+        }
       }
       
     }
@@ -4085,6 +4137,9 @@ Comments = {
               errorRow.innerHTML = '';
               errorRow.appendChild(document.createTextNode(msg));
               errorRow.style.display = '';
+              if (Page) {
+                Page.trackAction('commentfail',msg);
+              }
             }
           });
         }
@@ -4107,6 +4162,9 @@ Comments = {
             callback(response);
           }
         });
+      }
+      if (Page) {
+        Page.trackAction('commentattempt','succeeded');
       }
     }
     var end = document.createElement('div');
@@ -4152,7 +4210,12 @@ Comments = {
     replyBox.insertBefore(promptdom,replyBox.firstChild); 
     container.appendChild(replyBox);
     
-    stickyReply = new StickyDomElement(replyBox).setBottom(0).preserveStyle('height');
+    if (!is_mobile && !Page.design) {
+      stickyReply = new StickyDomElement(replyBox).setBottom(0).preserveStyle('height');
+    }
+    else if (Page.design) {
+      stickyReply = new StickyDomElement(replyBox).setTop(0).preserveStyle('height');
+    }
     
     var commentDoms = {};
     for(var i = 0 ; i < comments.length ; i++) {
@@ -4238,6 +4301,7 @@ Comments = {
       Utils.addClass(upvote,'voted');
     }
     upvote.onclick = function() {
+      Page.trackAction('commentvoteup');
       Comments.vote(comment.id,Comments.getVote(comment) <= 0 ? 1 : 0,function(response) {
         if(response && response.success) {
           if(Comments.getVote(comment) > 0) {
@@ -4267,6 +4331,7 @@ Comments = {
       Utils.addClass(downvote,'voted');
     }
     downvote.onclick = function() {
+      Page.trackAction('commentvotedown');
       Comments.vote(comment.id,Comments.getVote(comment) >= 0 ? -1 : 0,function(response) {
         if(response && response.success) {
           if(Comments.getVote(comment) > 0) {
@@ -4296,14 +4361,14 @@ Comments = {
     
     var updateScore = function(vote_score) {
       score.innerHTML = '';
-      score.appendChild(document.createTextNode(Translations.translate('%1',[vote_score])));
+      score.appendChild(document.createTextNode(vote_score));
     }
     updateScore(comment.vote_score);
     
     var time = document.createElement('span');
     time.className = 'time';
     time.appendChild(document.createTextNode(Comments.formatUnixTime(comment.time)));
-    actualcontent.appendChild(time);
+    //actualcontent.appendChild(time);
     
     var hide = document.createElement('span');
     hide.className = 'content hidden_content';
@@ -4320,6 +4385,7 @@ Comments = {
     //content.innerHTML = Utils.nl2br(Utils.htmlentities(comment.content));
     content.appendChild(document.createTextNode(comment.content));
     actualcontent.appendChild(content);
+    
     
     if(comment.vote_score <= Comments.HIDE_THRESHOLD && (!Account.state || Account.state.id != comment.author.id)) {
       actualcontent.style.display = 'none';
@@ -4391,6 +4457,10 @@ Comments = {
         Utils.removeClass(downvote,'voted');
       }
     }
+    if(comment.s && (!Account.state || Account.state.id != comment.author.id)) {
+      actualcontent.innerHTML = '';
+      div.style.display = 'none';
+    }
     
     return div;
   },
@@ -4454,9 +4524,11 @@ Comments = {
     }
   },
   upvote: function(comment_id,callback) {
+    //Page.trackAction('commentvoteup');
     return Comments.vote(comment_id,1,callback);
   },
   downvote: function(comment_id,callback) {
+    //Page.trackAction('commentvotedown');
     return Comments.vote(comment_id,-1,callback);
   },
   vote: function(comment_id,score,callback) {
@@ -4491,6 +4563,7 @@ Comments = {
           var votes = {};
           votes[response.comment.id] = 1;
           Comments.setVotes(votes);
+          Page.trackAction('comment');
         }
         if(typeof callback == 'function') {
           callback(response);
@@ -5014,7 +5087,6 @@ StickyDomElement.prototype = {
         else {
           if(this.getMax() > 0) {
             if(rect.top + this.getTop() - this.getMax() > coords.top) {
-              console.log('tether');
               this.element.style.position = 'absolute';
               this.element.style.top = (rect.top + this.getTop())+'px';
             }
@@ -5053,10 +5125,35 @@ StickyDomElement.prototype = {
     }
     this.placeholder.style.visibility = 'hidden';
   },
+  sticksToTopFromBottom: function() {
+    return !isNaN(this.getTopFromBottom());
+  },
+  getTopFromBottom: function() {
+    return parseFloat(this.element.getAttribute('stickyTopFromBottom'));
+  },
+  setTopFromBottom: function(top) {
+    this.element.setAttribute('stickyTopFromBottom',top);
+    return this;
+  },
+  sticksToBottomFromTop: function() {
+    return !isNaN(this.getBottomFromTop());
+  },
+  getBottomFromTop: function() {
+    return parseFloat(this.element.getAttribute('stickyBottomFromTop'));
+  },
+  setBottomFromTop: function(top) {
+    this.element.setAttribute('stickyBottomFromTop',top);
+    return this;
+  },
   sticksToTop: function() {
     return !isNaN(this.getTop());
   },
   getTop: function() {
+    if(this.sticksToTopFromBottom()) {
+      var rect = StickyDomElement.getViewRect();
+      var coords = Utils.getCoordinates(this.element);
+      return rect.height - coords.height - this.getTopFromBottom();
+    }
     return parseFloat(this.element.getAttribute('stickyTop'));
   },
   setTop: function(top) {
@@ -5067,6 +5164,11 @@ StickyDomElement.prototype = {
     return !isNaN(this.getBottom());
   },
   getBottom: function() {
+    if(this.sticksToBottomFromTop()) {
+      var rect = StickyDomElement.getViewRect();
+      var coords = Utils.getCoordinates(this.element);
+      return rect.height - coords.height - this.getBottomFromTop();
+    }
     return parseFloat(this.element.getAttribute('stickyBottom'));
   },
   setBottom: function(bottom) {
@@ -5269,9 +5371,9 @@ function clickTrack(actionname,url) {
 </script>
 <div class="header_fixed" style="text-align:center;">
  
-  <div class="login_state" style="position:absolute;top:0px;left:50px;">    <a onclick="return clickTrack('hhot','http://sftimes.co/?show=hot');" href="http://sftimes.co/?show=hot"><div style="background-color:red;font-weight:bold;" class="button">Hot Stories</div></a>
-    <a style="display:none;" onclick="return clickTrack('hrising','http://sftimes.co/?show=trending');" href="http://sftimes.co/?show=trending"><div class="button">Rising</div></a>
-    <a onclick="return clickTrack('hnew','http://sftimes.co/?show=new');" href="http://sftimes.co/?show=new"><div class="button">New</div></a>
+  <div class="login_state" style="position:absolute;top:0px;left:50px;">    <a href="http://sfglobe.com/?show=hot"><div style="background-color:red;font-weight:bold;" class="button">Hot Stories</div></a>
+    <a style="display:none;" href="http://sfglobe.com/?show=trending"><div class="button">Rising</div></a>
+    <a href="http://sfglobe.com/?show=new"><div class="button">New</div></a>
     <a onclick="postArticle();return clickTrack('hsubmit');"><div class="button">+Submit</div></a>
     
 
@@ -5282,24 +5384,36 @@ function clickTrack(actionname,url) {
     </div>
     
     <div id="sectionsContent" class="content sections inactive">
-        <div onclick="navigate_wrapper('http://sftimes.co/?cat=News');" class="category_name News" style="display:block;margin-top:5px;position:relative;">
+        <div onclick="navigate_wrapper('http://sfglobe.com/?cat=News');" class="category_name News" style="display:block;margin-top:5px;position:relative;">
     News
-  </div>  <div onclick="navigate_wrapper('http://sftimes.co/?cat=Entertainment');" class="category_name Entertainment" style="display:block;margin-top:5px;position:relative;">
-    Entertainment
-  </div>  <div onclick="navigate_wrapper('http://sftimes.co/?cat=Life');" class="category_name Life" style="display:block;margin-top:5px;position:relative;">
-    Life
-  </div>  <div onclick="navigate_wrapper('http://sftimes.co/?cat=People');" class="category_name People" style="display:block;margin-top:5px;position:relative;">
-    People
-  </div>  <div onclick="navigate_wrapper('http://sftimes.co/?cat=Culture');" class="category_name Culture" style="display:block;margin-top:5px;position:relative;">
-    Culture
-  </div>  <div onclick="navigate_wrapper('http://sftimes.co/?cat=Tech');" class="category_name Tech" style="display:block;margin-top:5px;position:relative;">
-    Tech
-  </div>  <div onclick="navigate_wrapper('http://sftimes.co/?cat=Science');" class="category_name Science" style="display:block;margin-top:5px;position:relative;">
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Humor');" class="category_name Humor" style="display:block;margin-top:5px;position:relative;">
+    Humor
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Home');" class="category_name Home" style="display:block;margin-top:5px;position:relative;">
+    Home
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Technology');" class="category_name Technology" style="display:block;margin-top:5px;position:relative;">
+    Technology
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Science');" class="category_name Science" style="display:block;margin-top:5px;position:relative;">
     Science
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Nature');" class="category_name Nature" style="display:block;margin-top:5px;position:relative;">
+    Nature
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Family');" class="category_name Family" style="display:block;margin-top:5px;position:relative;">
+    Family
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Talent');" class="category_name Talent" style="display:block;margin-top:5px;position:relative;">
+    Talent
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Impact');" class="category_name Impact" style="display:block;margin-top:5px;position:relative;">
+    Impact
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Art');" class="category_name Art" style="display:block;margin-top:5px;position:relative;">
+    Art
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Travel');" class="category_name Travel" style="display:block;margin-top:5px;position:relative;">
+    Travel
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=Stories');" class="category_name Stories" style="display:block;margin-top:5px;position:relative;">
+    Stories
+  </div>  <div onclick="navigate_wrapper('http://sfglobe.com/?cat=World News');" class="category_name World News" style="display:block;margin-top:5px;position:relative;">
+    World News
   </div>
     </div>
   </div>
-  <a onclick="return clickTrack('hlogo','http://sftimes.co/?show=logo');" href="http://sftimes.co/?show=logo"><div class="article_title">
+  <a href="http://sfglobe.com/?show=logo"><div class="article_title">
 		<div class="sfglobe_title" style="font-size:23px;width:350px;text-align:center;">The San Francisco Globe</div>
   </div></a>
   
@@ -5314,6 +5428,7 @@ function clickTrack(actionname,url) {
 
 <script type="text/javascript">
 function showToolTip(top,bottom,left,right,width,content,button,nextlink) {
+  return false;
   var tooltip = document.createElement('span');
   tooltip.onclick = nextlink;
   tooltip.className = 'tooltip';
@@ -5391,31 +5506,31 @@ function showNextTip(numtip) {
   }
   switch(numtip) {
     case 1:
-      tooltips[numtip] = showToolTip('48px',false,'50%',false,false,"First time visiting the SF Globe?","Start the Tour",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip('48px',false,'50%',false,false,Translations.translate("First time visiting the SF Globe?"),Translations.translate("Start the Tour"),function(){showNextTip(numtip+1)});
       break;
     case 2:
-      tooltips[numtip] = showToolTip('48px',false,85,false,false,"<b>Hot Stories</b> are the <b>most popular</b> and intensely debated recent stories.<br><br>This is a <b>great place to start</b> since it's just our must-see stories.","Next: Rising Stories",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip('48px',false,85,false,false,Translations.translate("<b>Hot Stories</b> are the <b>most popular</b> and intensely debated recent stories.<br><br>This is a <b>great place to start</b> since it's just our must-see stories."),Translations.translate("Next: Rising Stories"),function(){showNextTip(numtip+1)});
       break;
     case 3:
-      tooltips[numtip] = showToolTip('48px',false,170,false,false,"<b>New Stories</b> are <b>fresh off the presses</b>.<br><br>If you <b>want to be on the cutting edge</b>, this is the place for you","Next: Submit a Story",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip('48px',false,170,false,false,Translations.translate("<b>New Stories</b> are <b>fresh off the presses</b>.<br><br>If you <b>want to be on the cutting edge</b>, this is the place for you"),Translations.translate("Next: Submit a Story"),function(){showNextTip(numtip+1)});
       break;
     case 4:
-      tooltips[numtip] = showToolTip('48px',false,300,false,false,"<b>Submit a Story</b> is where you can email us <b>a story of your own</b>.<br><br>A submission can be anything you think is <b>worth reading/watching</b> and sharing.","Next: Likes & Dislikes",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip('48px',false,300,false,false,Translations.translate("<b>Submit a Story</b> is where you can email us <b>a story of your own</b>.<br><br>A submission can be anything you think is <b>worth reading/watching</b> and sharing."),Translations.translate("Next: Likes & Dislikes"),function(){showNextTip(numtip+1)});
       break;
     case 5:
-      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,"<b>Likes & Dislikes</b> are how you upvote articles from 'New' to 'Rising' and even into 'Hot' stories.<br><br>Just click the <b>'Like'</b> or <b>'Dislike'</b> button at the bottom of each article to cast your vote!","Next: Comments",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,Translations.translate("<b>Likes & Dislikes</b> are how you upvote articles from 'New' to 'Rising' and even into 'Hot' stories.<br><br>Just click the <b>'Like'</b> or <b>'Dislike'</b> button at the bottom of each article to cast your vote!"),Translations.translate("Next: Comments"),function(){showNextTip(numtip+1)});
       break;
     case 6:
-      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,"<b>Comments</b> are the best way you can <b>join the SFGlobe.com community</b>.<br><br>Simply submit your thoughts in the <b>comment box</b> below each article to join the discussion.","Next: Comment Replies",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,Translations.translate("<b>Comments</b> are the best way you can <b>join the SFGlobe.com community</b>.<br><br>Simply submit your thoughts in the <b>comment box</b> below each article to join the discussion."),Translations.translate("Next: Comment Replies"),function(){showNextTip(numtip+1)});
       break;
     case 7:
-      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,"<b>Comment Replies</b> Below each comment, you will see a <b>'Reply'</b> button.<br><br>Clicking this will open a box that lets you <b>directly respond</b> to another person.  The person you replied to will be notified so they can respond back.","Next: Comment Voting",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,Translations.translate("<b>Comment Replies</b> Below each comment, you will see a <b>'Reply'</b> button.<br><br>Clicking this will open a box that lets you <b>directly respond</b> to another person.  The person you replied to will be notified so they can respond back."),Translations.translate("Next: Comment Voting"),function(){showNextTip(numtip+1)});
       break;
     case 8:
-      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,"<b>Comment Voting</b> Next to each comment, you will see an <b>up</b> and <b>down</b> arrow.<br><br>Clicking the up arrow will <b>move the comment higher</b> so more readers will see it.  Clicking the down arrow will <b>send it lower</b>.  Make sure to <b>vote up comments you love</b>, and vote down comments that are rude or offensive.","Next: The SF Globe Daily",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip(false,'50px','50%',false,false,Translations.translate("<b>Comment Voting</b> Next to each comment, you will see an <b>up</b> and <b>down</b> arrow.<br><br>Clicking the up arrow will <b>move the comment higher</b> so more readers will see it.  Clicking the down arrow will <b>send it lower</b>.  Make sure to <b>vote up comments you love</b>, and vote down comments that are rude or offensive."),Translations.translate("Next: The SF Globe Daily"),function(){showNextTip(numtip+1)});
       break;
     case 9:
-      tooltips[numtip] = showToolTip('43px',false,false,'75px',false,"<b>Subscribe</b> And finally, if you <b>love the stories</b> on SFGlobe.com and want more, make sure to <b>subscribe</b> to our newsletter.<br><br>We <b>NEVER spam</b>, and you can unsubscribe any time.","Thanks, you're an SF Globe pro now!",function(){showNextTip(numtip+1)});
+      tooltips[numtip] = showToolTip('43px',false,false,'75px',false,Translations.translate("<b>Subscribe</b> And finally, if you <b>love the stories</b> on SFGlobe.com and want more, make sure to <b>subscribe</b> to our newsletter.<br><br>We <b>NEVER spam</b>, and you can unsubscribe any time.","Thanks, you're an SF Globe pro now!"),function(){showNextTip(numtip+1)});
       break;
     default:
       break;
@@ -5426,7 +5541,7 @@ function showNextTip(numtip) {
     <div id="need_confirmation" class="yellowbox" style="display:none;">
   <table style="width:100%;height:100%;border:0px none;" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr><td valign="center">
-	<b><span id="confirm_name"></span>, go to <span id="confirm_email"></span> to complete the sign-up process.</b> 
+	<b><span id="confirm_name"></span>, go to <span id="confirm_email"></span> to complete the sign-up process.</b>
 	
 	<span style="margin-left:40px"><a href="#" onclick="Account.sendConfirmationEmail();return false;">Resend Email</a></span>
 	</td></tr>
@@ -5639,7 +5754,7 @@ you to your friends who already use our Service based on such information.</p>
 <p class="MsoNormal">
 The information you provide to This application will be used for the following reasons:
 </p>
-<ul>
+<ul style="color:black">
   <li> to ensure that content from our site is presented to you in the most effective manner and to personalize your visit to our site;
   </li><li> to enable us to continuously enhance the Service, to serve advertising, and to provide to you information, products or services which we feel may be of interest to you (which also helps keep our service free)
 </li></ul>
@@ -5792,8 +5907,8 @@ this Privacy Policy or our information collection practices, please contact our
 Privacy Policy Administrator at:<br>
 SFG Media Group, LLC<br>
 Attention: Privacy Policy<br>
-P.O. Box 606<br>
-San Francisco, CA 94104-0606
+235 Pine Street, Suite 1800<br>
+San Francisco, CA 94104
 
 </p><p class="MsoNormal"><u>Policy Regarding Children Under 13</u></p>
 
@@ -5827,11 +5942,11 @@ information to us or anyone else over the Internet.</p>
 
 
 </div></div><div class="footer_wrapper" style="z-index:1000;background-color:white;position:relative;padding-bottom:30px;">
-<div class="footer_header" style="margin-bottom:0px;">	<span style="margin-right:20px">© 2014 &nbsp;&nbsp;SF Globe</span> 	<span class="footer_category"><a href="http://sftimes.co/about.php" target="_blank">About Us</a></span>
-	<span class="footer_category"><a href="http://sftimes.co/terms.php" target="_blank">Terms</a></span>
-	<span class="footer_category"><a href="http://sftimes.co/privacy.php" target="_blank">Privacy</a></span>
-	<span class="footer_category" style="border:0px"><a href="http://sftimes.co/contact.php" target="_blank">Contact</a></span>
-	<span class="footer_category" style="border:0px;font-size:10px;">#5036736437842693029</span></div>
+<div class="footer_header" style="margin-bottom:0px;">	<span style="margin-right:20px">© 2014 &nbsp;&nbsp; SFG</span> 	<span class="footer_category"><a href="http://sfglobe.com/about.php" target="_blank">About Us</a></span>
+	<span class="footer_category"><a href="http://sfglobe.com/terms.php" target="_blank">Terms</a></span>
+	<span class="footer_category"><a href="http://sfglobe.com/privacy.php" target="_blank">Privacy</a></span>
+	<span class="footer_category" style="border:0px"><a href="http://sfglobe.com/contact.php" target="_blank">Contact</a></span>
+	<span class="footer_category" style="border:0px;font-size:10px;">#5157630520074517076</span></div>
 </div><script type="text/javascript">
   if(typeof FB != 'undefined' && FB.Canvas && FB.Canvas.setAutoGrow) {
     FB.Canvas.setAutoGrow();
