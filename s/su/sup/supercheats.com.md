@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217233027id_/http%3A//www.videogamernetwork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercheats.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023053129id_/http%3A//www.videogamernetwork.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -11,7 +11,8 @@ http://supercheats.com - Super Cheats
 http://gamingupdate.com - Gaming Update  
 http://latestscreens.com - Latest Screens  
 http://juegoz.com - Juegoz  
-http://www.gamesguys.com - Games Guys
+http://www.gamesguys.com - Games Guys  
+http://www.appgamer.com - AppGamer
 
 Last update: March 2013
 
@@ -39,7 +40,7 @@ to deliver advertisements and promotions targeted to our users’ interests
 to deliver prizes  
 to deliver promotional information from the sites or its sponsors provided the user opted in for these notifications.
 
-Web Media Network Ltd. uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: http://www.networkadvertising.org/managing/opt_out.asp 
+Web Media Network Ltd. uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Who Else Might See The Information We Collect:  
 Advertisers and partners using aggregate anonymous data to profile our collective audience.  
@@ -48,7 +49,7 @@ Independent market research companies pursuant to confidentiality agreements.
 Law enforcement, other government officials or third parties to comply with applicable law or legal process or to protect the personal safety of our users or the public, or if a user violates the sites terms of service.
 
 How You Can Delete, Update or Correct Your Information the sites:  
-To delete, update or correct personal information or to stop receiving promotional e-mails from us, please use the contact form on SuperCheats.com (http://www.supercheats.com/contact.php) at any time. A user can also unsubscribe from the sites newsletter and promotional databases by following the "unsubscribe" instructions given in every newsletter and promotional email.
+To delete, update or correct personal information or to stop receiving promotional e-mails from us, please use the contact form on SuperCheats.com (<http://www.supercheats.com/contact.php>) at any time. A user can also unsubscribe from the sites newsletter and promotional databases by following the "unsubscribe" instructions given in every newsletter and promotional email.
 
 Children Under 13:  
 On our websites, including SuperCheats.com, registration by children under the age of 13 is strictly prohibited. We reserve the right to remove details of anybody who registers whom we believe to be under 13 and to ban their IP address from our website.
