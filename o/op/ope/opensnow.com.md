@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208011648id_/https%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensnow.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023021904id_/http%3A//opensnow.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | OpenSnow
+# Privacy | OpenSnow Mobile
 
   * [Home](https://web.archive.org/)»
   * [About](https://web.archive.org/about)»
