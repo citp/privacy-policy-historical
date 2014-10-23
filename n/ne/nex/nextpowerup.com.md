@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextpowerup.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326180414id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextpowerup.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023223856id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | NextPowerUp
 
@@ -146,5 +146,5 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 
 **Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
 
-Copyright © 2012-2013 www.nextpowerup.com. All rights reserved  
+Copyright © 2012-2014 www.nextpowerup.com. All rights reserved  
 All trademarks used are properties of their respective owners. 
