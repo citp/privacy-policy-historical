@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the guaranteedrate.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215153906id_/https%3A//www.guaranteedrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guaranteedrate.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023024056id_/https%3A//www.guaranteedrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Guaranteed Rate
 
 This privacy statement describes how Guaranteed Rate, Inc. collects and uses the personal information you provide on our Web site: www.guaranteedrate.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
-
-Guaranteed Rate Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.guaranteedrate.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Guaranteed Rate, Inc. Attn: Compliance Officer 3940 N. Ravenswood Chicago, IL 60613 . If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 Guaranteed Rate, Inc. is committed to protecting consumers' and borrowers' non-public personal information at all times. To that end, we employ and maintain extensive physical, electronic, and procedural safeguards to ensure your non-public personal information is protected as a customer of Guaranteed Rate, Inc. In addition, we monitor technical enhancements and practices in the field of information security and privacy to ensure our safeguards remain an effective tool in protecting your non-public personal information.
 
@@ -24,6 +22,8 @@ You provide nonpublic personal information to us so that we may help you try to 
 We do not access information about your identity while you browse our website. Although we collect information about the date, time and area of our website that you visited, you remain anonymous to us. Only if you decide to apply for a loan with us directly or through a broker, do we collect any personally identifying information about you.
 
 ####  _Cookies_
+
+Guaranteed Rate, Inc. uses a variety of third-party services to help provide the most streamlined and user-friendly website possible. We also use third parties such as Google Analytics to help us understand how our visitors use our website. These third-parties may collect certain information from your browser (i.e. using cookies and/or your IP address), and may tailor your ads so that you see Guaranteed Rate advertisements on other websites. If you prefer, you can adjust your privacy settings in your browser so that your information is not tracked. Learn more about adjusting your Privacy Settings in your browser to turn off tracking [here](https://www.guaranteedrate.com/resources/control-your-web-tracking).
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
