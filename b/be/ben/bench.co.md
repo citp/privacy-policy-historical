@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208044811id_/https%3A//bench.co/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bench.co privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023034254id_/https%3A//bench.co/privacy) for the most accurate reproduction.*
 
 # Bench — Privacy Policy
 
@@ -28,7 +28,6 @@ Personal Information includes your name, mailing address, phone number, e-mail a
 We collect, use and disclose information that can identify you (“Personal Information”) so that we can:
 
   * establish your identity;
-h5 
   * provide to you the services offered by the Site and bill any amounts due from you;
   * troubleshoot and resolve problems;
   * improve the usability, performance and effectiveness of our Site and business;
