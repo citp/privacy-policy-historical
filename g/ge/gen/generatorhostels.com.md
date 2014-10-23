@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620223213id_/http%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023022107id_/http%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Generator Hostels
 
 Now for the boring bit… our Privacy Policy. We’re sorry, but it’s required by law. And don’t forget, this policy only applies to Generator Hostels Ltd and not to the websites of other companies, individuals or organisations to whom we provide links to their websites.
+
+### COMPANY REGISTRATION DETAILS
+
+All company registration details per property can be [found here](http://generatorhostels.com/en/privacy/company-registration/)
 
 ### USE OF YOUR INFORMATION
 
