@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japaneselifestyle.com.au privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330192003id_/http%3A//www.gojapango.com/includes/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japaneselifestyle.com.au privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023163337id_/http%3A//www.gojapango.com/includes/privacy_policy.htm) for the most accurate reproduction.*
 
 # GoJapanGo Privacy Policy
 
