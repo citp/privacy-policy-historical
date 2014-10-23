@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517010555id_/http%3A//www.bookbrowse.com/information/index.cfm/fuseaction/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023175043id_/https%3A//www.bookbrowse.com/information/index.cfm/fuseaction/privacy) for the most accurate reproduction.*
 
 # BookBrowse.com's privacy statement
 
@@ -17,7 +17,7 @@ Publishers usually mail the books that people win in book giveaways, or are assi
 _**We have never and will never sell, give-away or rent our mailing list**_.  
 The only time we would ever do so would be with your express permission or if ordered by a court of law. 
 
-[More about internet security](http://www.bookbrowse.com/information/index.cfm?fuseaction=security) in general and BookBrowse's specific security. 
+[More about internet security](https://www.bookbrowse.com/information/index.cfm?fuseaction=security) in general and BookBrowse's specific security. 
 
   
 
@@ -70,6 +70,6 @@ From time to time we use third-party advertising companies to serve ads on BookB
 
 #### Contacting BookBrowse.com
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](http://www.bookbrowse.com/contactus "contact us"). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://www.bookbrowse.com/contactus "contact us"). 
 
 Last updated January 2014 
