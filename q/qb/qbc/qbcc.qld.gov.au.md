@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624050107id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023050212id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Queensland Building and Construction Commission
 
@@ -28,20 +28,9 @@ Our internet service provider or information technology staff may monitor email 
 
 #### Cookies
 
-We use cookies to collect anonymous statistical information, including:
+A 'cookie' is a small text file which is placed on your internet browser which we access each time you visit our website. When you visit the secured pages of our website (i.e. pages that you have to provide login details to access) we use cookies for security and personalisation purposes. When you visit the unsecured pages of our website (i.e. public pages that you can access without providing login details) we use cookies to obtain information about how our website is being used.
 
-  * your browser, computer platform and screen resolution
-  * your traffic patterns through our site, such as: 
-    * the date and time of your visit
-    * the pages and documents accessed
-    * the website you visited before ours
-    * your server address.
-
-
-
-We do not identify users or any browser activity outside this website, except in the unlikely event of an investigation, where a law enforcement agency may have a warrant to inspect activity logs.
-
-Transactional services available from this site may use cookies to track business processes. Please read the particular service's privacy and security statement before beginning a transaction.
+You may change the settings on your browser to reject cookies, however, doing so will prevent you from access to the secured pages of our website.
 
 #### Security
 
