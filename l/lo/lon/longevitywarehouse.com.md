@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longevitywarehouse.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504215746id_/http%3A//www.longevitywarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longevitywarehouse.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023142634id_/http%3A//www.longevitywarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140504215746id_/http%3A//www.longevitywarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20141023142634id_/http%3A//www.longevitywarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
