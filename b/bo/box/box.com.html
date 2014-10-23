@@ -1,149 +1,355 @@
-<!--The following is the downloaded HTML source of the box.com privacy policy that was archived on 2013-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130404044517id_/https%3A//www.box.com/static/html/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the box.com privacy policy that was archived on 2014-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023184748id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-	<title>
-		Box :: Privacy Policy
-	</title>
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head>
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-27GS&amp;l=google_tag_manager_data"></script><script>
+//The following was taken from MSDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
+if (!Array.prototype.indexOf) {
+  Array.prototype.indexOf = function (searchElement, fromIndex) {
 
-	<style type="text/css"> 
-		body {font-family: Arial; font-size: 14px;}
-		div.line {height: 1px; background-color: #EAEAEA; margin-top: 15px;}
-		img.logo {width: 75px; height: 42px; margin: 5px 0 0 5px;}
-	</style>
+    var k;
 
+    // 1. Let O be the result of calling ToObject passing
+    //    the this value as the argument.
+    if (this == null) {
+      throw new TypeError('"this" is null or not defined');
+    }
+
+    var O = Object(this);
+
+    // 2. Let lenValue be the result of calling the Get
+    //    internal method of O with the argument "length".
+    // 3. Let len be ToUint32(lenValue).
+    var len = O.length >>> 0;
+
+    // 4. If len is 0, return -1.
+    if (len === 0) {
+      return -1;
+    }
+
+    // 5. If argument fromIndex was passed let n be
+    //    ToInteger(fromIndex); else let n be 0.
+    var n = +fromIndex || 0;
+
+    if (Math.abs(n) === Infinity) {
+      n = 0;
+    }
+
+    // 6. If n >= len, return -1.
+    if (n >= len) {
+      return -1;
+    }
+
+    // 7. If n >= 0, then Let k be n.
+    // 8. Else, n<0, Let k be len - abs(n).
+    //    If k is less than 0, then let k be 0.
+    k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);
+
+    // 9. Repeat, while k < len
+    while (k < len) {
+      // a. Let Pk be ToString(k).
+      //   This is implicit for LHS operands of the in operator
+      // b. Let kPresent be the result of calling the
+      //    HasProperty internal method of O with argument Pk.
+      //   This step can be combined with c
+      // c. If kPresent is true, then
+      //    i.  Let elementK be the result of calling the Get
+      //        internal method of O with the argument ToString(k).
+      //   ii.  Let same be the result of applying the
+      //        Strict Equality Comparison Algorithm to
+      //        searchElement and elementK.
+      //  iii.  If same is true, return k.
+      if (k in O && O[k] === searchElement) {
+        return k;
+      }
+      k++;
+    }
+    return -1;
+  };
+}
+</script>  <script>
+  window.box_server_domain_tld = "box.com";
+  window.box_server = "https://app.box.com";
+</script>    <script>
+var init_redirect_curr_url_lang = "en";
+var init_redirect_language_mapping = {"en":"","en-gb":"en_GB","fr":"fr_FR","de":"de_DE","it":"it_IT","ja":"ja_JP","es":"es_ES"};
+
+(function(){
+  function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return encodeURIComponent(c.substring(nameEQ.length,c.length));
+    }
+    return null;
+  }
+  function createCookie(name,value,days,domain,path) {
+    var date = new Date();
+    date.setTime(date.getTime()+(days*24*60*60*1000));
+    var expires = date.toGMTString();
+    if(!domain) {
+      var domain = document.domain;
+      domain = domain.replace(/^[^.]+\./g, "");
+    }
+    if(!path){
+      var path = "/";
+    }
+    document.cookie = name+"="+value+"; expires="+expires+"; domain="+domain+"; path="+path;
+  }
+  //check for box_locale cookie and redirect to locale if necessary.
+  var box_locale_cookie = readCookie('box_locale');
+  if (box_locale_cookie){
+    var language_key = null;
+    for (var language_code in init_redirect_language_mapping) {
+        if (init_redirect_language_mapping[language_code] === box_locale_cookie) {
+            language_key = language_code;
+            break;
+        } else {
+            language_key = 'en';
+        }
+    }
+    if (language_key != init_redirect_curr_url_lang && typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[language_key] != 'undefined') {
+      window.location.href = init_redirect_translation_urls[language_key]; 
+      document.getElementsByTagName("html")[0].setAttribute("style","visibility:hidden;");           
+    }    
+  }
+  else{
+    
+    //if the user was not hitting a language-url path, set box_locale cookie based on their accept_language headers using ajax request
+    var xmlhttp;
+    if (window.XMLHttpRequest){// code for IE7+, Firefox, Chrome, Opera, Safari
+      xmlhttp=new XMLHttpRequest();
+    }
+    else{// code for IE6, IE5
+      xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xmlhttp.onreadystatechange=function(){
+      if (xmlhttp.readyState==4 && xmlhttp.status==200 && xmlhttp.responseText){
+        var primaryLang = xmlhttp.responseText.substring(0,5).toLowerCase();
+        var primaryLangStart = primaryLang.substring(0,2);
+        var langArray = ['en_US', 'es_ES', 'fr_FR', 'it_IT', 'de_DE', 'ja_JP']; //neglecting Britain becasue it is handled individually below. All other enlish speaking should set US as box_locale cookie
+        var langStarts = ['en','es','fr','it','de','ja']; //orderd to match up with LangArray.
+        if(primaryLang == 'en-gb'){
+          createCookie('box_locale','en_GB',61,document.domain.match(/box.com/) ? "box.com" : false);
+          createCookie('lang','en-GB',61,document.domain.match(/box.com/) ? "box.com" : false);
+          //do redirection if we aren't already on correct language:
+          if(typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[primaryLang] != 'undefined' && init_redirect_curr_url_lang != 'en-gb'){
+            window.location.href = init_redirect_translation_urls[primaryLang];
+          }                            
+        }
+        else if(langStarts.indexOf(primaryLangStart) > -1){
+          createCookie('box_locale',langArray[langStarts.indexOf(primaryLangStart)],61,document.domain.match(/box.com/) ? "box.com" : false);
+          createCookie('lang',langArray[langStarts.indexOf(primaryLangStart)].replace('_','-'),61,document.domain.match(/box.com/) ? "box.com" : false);          
+          //do redirection if we aren't already on correct language:
+          if(typeof init_redirect_translation_urls != 'undefined' && typeof init_redirect_translation_urls[primaryLangStart] != 'undefined' && init_redirect_curr_url_lang != primaryLangStart){
+            window.location.href = init_redirect_translation_urls[primaryLangStart];
+            document.getElementsByTagName("html")[0].setAttribute("style","visibility:hidden;");
+          }          
+        }
+      }
+    }
+    xmlhttp.open("GET","/headers.php",true); //true for asynchronous
+    xmlhttp.send();
+
+    //check if a language url is being used. If so, simply set the box_locale cookie to that url and don't do a redirect
+    if (init_redirect_language_mapping[init_redirect_curr_url_lang]) {
+      box_locale_cookie = init_redirect_language_mapping[init_redirect_curr_url_lang];
+    } else {
+      box_locale_cookie = 'en_US';
+    }
+    createCookie('box_locale',box_locale_cookie,61,document.domain.match(/box.com/) ? "box.com" : false);
+    createCookie('lang',box_locale_cookie.replace('_','-'),61,document.domain.match(/box.com/) ? "box.com" : false);
+
+
+  }
+})();
+</script>
+  <meta charset="utf-8">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.box.com/legal/privacypolicy/">
+<link rel="shortcut icon" href="https://ak3.boxcdn.net/cdn/farfuture/QdmgfvzSQDvOM4iM0-SSPSeCt_ZpRo6PdAMEa7zI1Cc/mtime:1407813871/sites/all/themes/at-box/favicon.ico?v1" type="image/vnd.microsoft.icon">
+<meta about="/legal/privacypolicy/" property="sioc:num_replies" content="0" datatype="xsd:integer">
+<meta name="description" content="You are viewing the Privacy Policy for the following region: United States - English. Select your region and preferred language: United States - English日本 - 日本語EnglishFrançaisItalianoEspañolDeutsch &nbsp;">
+<meta content="Box Privacy Policy" about="/legal/privacypolicy/" property="dc:title">
+<link rel="dns-prefetch" href="//ak1.boxcdn.net">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//ak3.boxcdn.net">
+<link rel="dns-prefetch" href="//ak2.boxcdn.net">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="msvalidate.01" content="F8FE1761F555F2445E3932D23C0B2BB6">
+  <meta name="google-site-verification" content="TgoDwQl5o9tdzl5LSEerUlEISpEvrun_m6WCRt43pRk">
+<!--   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0"> -->
+  <title>
+    Box Privacy Policy | Box  </title>
+  <link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/TzSKx7SaT26Ir3FxEnYd0TPkiHQel9o4Vh3Umd5waDY/mtime:1411884033/sites/default/files/cdn/css/http/css_mhGj6N2cEjI-irTOnjQDCNtP9tAGqNtYZcKU1SqKdYY.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/sWePgVvn2jmsMwF9bAWnqA84uaIk8mpJ5fAtd6rzlJY/mtime:1413871232/sites/default/files/cdn/css/http/css_Ai6CA0PFH70COfg7qdg8UWju3oIYtKB5xSSx76jSMq8.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/ycd6qPwmduK0iV2BMgV15EjzPF5KRd4THgWFgnewlts/mtime:1413424858/sites/default/files/cdn/css/http/css_oZPBXdVYGzgKutiNdmJegwMrc9QcPS0pMYEAPC5lKgE.css" media="screen">
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/7G4DKx4A9VYH7dseg7O-co5x-aNxM_PWUii9mLFxPsY/mtime:1411714828/sites/default/files/cdn/css/http/css_xONfwmiEK4GM8JiiITyxWLvZ_RmiOqAiPiIjQU7GBT0.css" media="only screen">
+
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/jVVACttO1PXaeWtGSmYMY7WWbhNDvgvFDikio-j5KhA/mtime:1411714828/sites/default/files/cdn/css/http/css_0ga0v-GSQbkQbYK37gzN-k3ZnS3LdLFiqsHJiKmMpqs.css" media="screen" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://ak2.boxcdn.net/cdn/farfuture/poeVVM4u6C7GMVblARDQwOlKlVLEkUUI-uMfjDEaPmk/mtime:1413060879/sites/default/files/cdn/css/http/css_RqO_Yw9t_8UPDqdumL5z-NERElIJw7m-8vO_xsPFev8.css" media="all">
+  <script src="https://ak1.boxcdn.net/cdn/farfuture/wbldhS_UuV3JeTrOMckDG7qShYjMIJooriTUInBaZiM/mtime:1411622305/sites/default/files/js/js_YG98FuAkznGpfUVD7la3EObWLhNr4zOIqZcdXzZxHVI.js"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/fsLkSuHuuZ2_p3rjwqF8UGdb6uLCN-0ms1pnQC90Bpw/mtime:1411622305/sites/default/files/js/js_MgXaJQm0CGlCfpKQobpNudA7bRlOxVd3S12qTGfC5-o.js"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/F7vHrB9IBGK_1qXhSiH9S-OSyGiyk7MUJ45Q3SfA8SQ/mtime:1412648830/sites/default/files/js/js_JP9o0BS_eSUHvcz5QS9kx4oDB-Bdi6sw9sANa6eKyfE.js"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/bfJm6WIBM3wY5IFlB3IekCK3DO-Osu6sk00SB0KMk0s/mtime:1411696850/sites/default/files/js/js_Saep0soi5WjtI8PnwMbKJN_QsOQ-ole7hw0TBCIEhyc.js"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/yQpCJkKYll8rcq2AEPT771olgsrkdC5GuFLyo0CEKJw/mtime:1411622511/sites/default/files/js/js_jTKMJbC9MiCf-Y9U0e1CwWcD_vwgPummrtPWu_WdI2o.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"at_box","theme_token":"A1AYhkV8VGqsUCvhIgvEm7V2CU-G66ghJ_sitamRvKg","js":{"profiles\/spark\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/administration\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/js\/om_maximenu.js":1,"sites\/all\/modules\/custom\/be\/js\/countrycookie.js":1,"profiles\/spark\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/modernizr-2.5.3.min.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.menudropdown.js":1,"sites\/all\/themes\/at-box\/scripts\/sub-nav.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.bxslider.min.js":1,"sites\/all\/themes\/at-box\/scripts\/jquery.slides.min.js":1,"sites\/all\/themes\/at-box\/scripts\/google-analytic-global.js":1,"sites\/all\/themes\/at-box\/scripts\/ga-header-footer.js":1,"sites\/all\/themes\/at-box\/scripts\/components-control.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/jquery.cookie.js":1,"sites\/all\/themes\/at-box\/scripts\/page-blank.js":1,"sites\/all\/themes\/at-box\/scripts\/libs\/utility.js":1,"sites\/all\/themes\/at-box\/scripts\/custom.js":1},"css":{"sites\/all\/modules\/contrib\/fields\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/fields\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/contrib\/fields\/unlimitedfield_remove\/unlimitedfield_remove.css":1,"profiles\/spark\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/be\/css\/eu_cookie_compliance.css":1,"profiles\/spark\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/spark\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/media\/om_maximenu\/skin\/bubble\/bubble.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/at-box\/css\/global.base.css":1,"sites\/all\/themes\/at-box\/css\/global.styles.css":1,"sites\/all\/themes\/at-box\/css\/global.buttons.css":1,"sites\/all\/themes\/at-box\/css\/footer.css":1,"sites\/all\/themes\/at-box\/css\/global.banner.css":1,"sites\/all\/themes\/at-box\/css\/menu-language.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.responsive.layout.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.responsive.styles.css":1,"public:\/\/adaptivetheme\/at_box_files\/at_box.lt-ie9.layout.css":1,"sites\/all\/themes\/at-box\/css\/page-blank.css":1,"sites\/all\/themes\/at-box\/css\/global.fonts.css":1,"sites\/all\/themes\/at-box\/css\/custom.css":1}},"home_urls":{"en":"https:\/\/www.box.com\/","en-gb":"https:\/\/www.box.com\/en_GB\/","fr":"https:\/\/www.box.com\/fr_FR\/","de":"https:\/\/www.box.com\/de_DE\/","it":"https:\/\/www.box.com\/it_IT\/","ja":"https:\/\/www.box.com\/ja_JP\/","es":"https:\/\/www.box.com\/es_ES\/"},"curr_language":"en","language_mapping":{"en":"","en-gb":"en_GB","fr":"fr_FR","de":"de_DE","it":"it_IT","ja":"ja_JP","es":"es_ES"}});</script>
+  <!--[if lte IE 9]>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/aHax5vVXaMFmnbVw5D3F4qycn2bDyXMeFRx6GwBHcBo/mtime:1407813871/sites/all/themes/at-box/scripts/libs/css3-mediaqueries.js?ndiunf"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/yMXkqcqyqkfHyTuPbxskRzj2-0cLMY7PccUB4S_yU10/mtime:1407813871/sites/all/themes/at-box/scripts/libs/oocss.js?ndiunf"></script>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/2WvOC09zdmnnZ-METroszpq-S7NU43zl1OPi5v_z2kQ/mtime:1407813871/sites/all/themes/at-box/scripts/resizeIE8.js?ndiunf"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="https://ak1.boxcdn.net/cdn/farfuture/LWWAaC0jOJdTTx9e2hhPqi3Y2g3ZN5yNMmSj39HYnd4/mtime:1407813871/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?ndiunf"></script>
+<![endif]-->
+  
 </head>
-<body>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-3246 node-type-page-blank i18n-en">
 
-<img class="logo" src="/img/box_terms_logo.gif" alt="Box">
-<div class="line"><!----></div>
+  <!-- Google Tag Manager -->
+  <script>
+    var google_tag_manager_data = [];
+  </script>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-27GS"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','google_tag_manager_data','GTM-27GS');</script>
+  
+  <!-- End Google Tag Manager -->
 
-<h1 style="text-align: center;">Box Privacy Policy</h1>
-<h2 style="text-align: center;" id="policy_last_updated">(Last Updated: June 13, 2012)</h2>
-
-<p>
-	Your privacy is important to Box. This privacy policy (“Policy”) applies to the Box Web sites and services and tells you how personal information is collected, used, disclosed, and protected by Box. If you use the Box site and services as part of an entity or organization that has Enterprise service with Box (like your employer or a university), the individual terms of that organization’s contract for Enterprise service may restrict our collection or use of your personal information more than what is described in this Policy.  This statement includes Box’s European Union and Swiss Safe Harbor Privacy Statements and the Website Privacy Statements.
-</p>
-
-
-<h3>Changes to This Policy</h3>
-
-<p>	
-	We may change this Policy from time to time. If we make any changes to this Policy, we will change the “last updated” date above. If there are material changes to this Policy, we will notify you more directly. We encourage you to check this Policy whenever you use our Web sites and services to understand how your personal information is used.	
-</p>
-
-<h3>Information Collected</h3>
-
-<p>
-	We collect information from you in various ways when you use our Web sites and services. We may also supplement this information with information from other companies. We collect two general types of information, namely personal information and aggregate data. As used in this Policy, the term “personal information” means information that specifically identifies an individual (such as a name and email address), and demographic and other information when directly linked to information that can identify an individual. 
-</p>
-
-<p>
-	Our definition of personal information does not include “aggregate” data. Aggregate data is information we collect about a group or category of services or users from which individual user identities have been removed. In other words, no personal information is included in aggregate data. Aggregate data helps us understand trends in our users’ needs so that we can better consider new features or otherwise tailor our services. This Policy in no way restricts or limits our collection and use of aggregate data, and we may share aggregate data about our users with third parties for various purposes, including to help us better understand our customer needs and improve our services and for advertising and marketing purposes.
-</p>
-
-<p>
-	The following are the specific types of information we collect from you.
-</p>
-
-<p>
-	Information You Give Us. We collect information you give us on our Web site and when you register for and use our services. Examples include the following:
-</p>
-
-<p>
-	Registration and Profile Information. When you register to use our services or update your profile, we may collect various kinds of information about you including, your name and email address; your title, company and other profile information you provide; demographic information; and information you upload like photos, files, and documents.
-</p>
-
-<p>
-	Contact Information. We collect the email addresses you provide for contacts you enter or upload into your private contacts page. When you choose to collaborate or share files with others, we also collect email addresses you provide to email invitations to those individuals on your behalf.
-</p>
-
-<p>
-	Payment Information. If you choose to use a paid Box account or service, our payment processing vendor collects your credit card information and billing address. 
-</p>
-
-<p>
-	Submissions and Customer Service. From time to time we may use surveys, contests or sweepstakes requesting personal or demographic information and customer feedback.
-</p>
-
-<p>
-	Automatically Collected Information. We automatically receive certain types of information when you interact with our Web pages, services and communications. For example, it is standard for your Web browser to automatically send information to every Web site you visit, including ours. That information includes your computer’s IP address, access times, your browser type and language, and referring Web site addresses. We may also collect information about the type of operating system you use, your account activity, and files and pages accessed or used by you. 
-</p>
-
-<p>
-	Cookies and Web Beacons. We may also use certain kinds of technology such as cookies and Web beacons to collect information. Among other things, the use of cookies and Web beacons enables us to improve our Web sites and emails by seeing which areas and features are most popular, to count the number of computers accessing our Web site, to personalize and improve your experience, to record your preferences, and to allow you to visit our Web site without re-entering your member ID and/or password. A cookie is a small amount of data which is sent to your browser from a Web site’s computers and stored on your computer’s hard drive. Most browsers automatically accept cookies as the default setting. You can modify your browser setting to reject our cookies or to prompt you before accepting a cookie by editing your browser options. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Web site and services may not function properly. For example, you may not be able to sign in and access certain Web page features or services. A Web beacon is an electronic image, also called a "gif," that may be used on our Web pages to deliver cookies, count visits and compile statistics on usage and campaign effectiveness or in our emails to tell if an email has been opened and acted upon. 
-</p>
-
-<h3>Use of Personal Information.</h3>
-
-<p>In general, we use your personal information to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Web site and services and to otherwise serve you and our users. For example, we may use your personal information:</p>
-
-<ul>
-	<li>to request feedback and to enable us to develop, customize and improve the Web site and our publications, products and services;</li>
-	
-	<li>to conduct marketing analysis, to send you surveys or newsletters, to contact you about services, products, activities, special events or offers from Box or our partners and for other marketing, informational, product development and promotional purposes; </li>
-	
-	<li>to send you a welcoming email and to contact you about your use of the Web site and services; to respond to your emails, submissions, comments, requests or complaints; to perform after-sales services; to anticipate and resolve problems with our service; to respond to customer support inquiries, for assistance with our product and service development; and to inform you of updates to products and services from Box that better meet your needs;</li>
-	
-	<li>to store contacts you enter or upload into your contacts list for your private use and viewing;</li>
-	
-	<li>to send emails to users you invite (and contacts you invite to become users) to collaborate and access your files;</li>
-	
-	<li>to enable you to communicate, collaborate, and share files with users you designate;</li>
-	
-	<li>to contact you if you win a contest; and</li>
-	
-	<li>for other purposes about which we notify you.</li>	
-</ul>
-
-<p>
-	Box may store and process personal information in the United States and other countries. Box adheres to the U.S. Department of Commerce’s Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union, and the U.S. Department of Commerce’s U.S. Swiss Safe Harbor privacy principles regarding the collection, use, and retention of personal information from Switzerland. Box’s Safe Harbor certifications can be found at <a href="http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list">http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list</a>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <a href="http://export.gov/safeharbor/">http://export.gov/safeharbor/</a>.
-</p>
-
-<h3>Sharing of Personal Information.</h3>
-
-<p>
-	Box reserves the right to share aggregated demographic information about our customers, sales, and traffic to our partners and advertisers. We will not give, sell, rent, share, or trade any of your personal information or any data that you store using our services to any third party except as outlined in this Policy or with your consent. We may disclose information to a third party to (a) comply with laws or respond to lawful requests and legal process, (b) to protect Box, agents, customers, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person.
-</p>
-
-<p>
-	If you are an individual Box registered user, and the domain of the primary email address associated with your Box account is owned by your employer and that email address was assigned to you as an employee of that organization, and that organization wishes to establishes a Box corporate account and add you to it, then certain information concerning past use of your individual account may become accessible to that organization’s administrator including your email address.
-</p>
-
-<p>
-	Box includes collaboration features that by their nature support sharing with users you choose. Those users can see your name, email address, photo and information from your Profile page, and any files you choose to share; and they can post comments and email you. Collaborators you invite as editors can also edit your shared files, upload documents and photos to your shared files, share those documents outside of Box, and give other users rights to view your shared files.
-</p>
-
-<p>
-	Box provides you with opportunities to connect with third party applications or services, such as through our Open Box page or Box application partner ecosystem. If you choose to use any such third party applications or services, we may facilitate sharing of your information including your Box username and documents you choose to use with those applications and services and such third parties may contact you directly as necessary. Your use of such applications and services is not governed by Box’s terms or privacy policy. Box does not control the applications or services of those third parties or how they use your information and documents. Be sure to review the terms and the privacy policies of those third parties before using their applications or services.
-</p>
-
-<p>
-	We may share personal information in connection with an acquisition, merger, or sale of all or a substantial portion of our business, with or to another company. In any such event, you will receive notice if your data is transferred and becomes subject to a substantially different privacy policy.
-</p>
-
-<h3>Network and Information Security.</h3>
-
-<p>Box takes reasonable steps to protect information we collect from you to prevent loss, misuse and unauthorized access, disclosure, alteration, and destruction. In addition, highly confidential personal information such as credit card number and password that we request from you on our Web site is protected with encryption, such as Secured Socket Layer (SSL) protocol, during transmission over the Internet.</p> 
-<p>The servers on which information is stored are kept in a controlled environment with limited access. While we take reasonable efforts to guard personal information we knowingly collect directly from you, no security system is impenetrable. In addition, we cannot guarantee that any passively-collected personal information you choose to include in documents you store on our systems are maintained at adequate levels of protection to meet specific needs or obligations you may have relating to that information.</p>
-<p>Your account information and access to our service is accessible only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately if you believe your password has been misused. In addition, always logout and close your browser when you finish your session. Please note that we will never ask you to disclose your password in an unsolicited phone call or email.</p>
-
-<h3>Updating and Accessing Personal Information.</h3>
-
-<p>If your personal information changes in any way, we invite you to correct or update your information as soon as possible. You can make updates to your profile information by logging into your account on Box at any time. You can also request changes or access to your information by emailing <a href="mailto:support@box.com">support@box.com</a>.</p>
-
-<h3>Choice/Opt-Out.</h3>
-
-<p>Box may send you communications or data regarding our Web sites and services, including but not limited to (i) notices about your use of our Web sites and services, including any notices concerning violations of use, (ii) updates, and (iii) promotional information and materials regarding our products and services. You may opt-out of receiving promotional emails from Box by following the opt-out instructions provided in those emails. You may also opt-out of receiving promotional emails and other promotional communications from us at any time by emailing <a href="mailto:support@box.com">support@box.com</a> with your specific request. Opt-out requests will not apply to transactional service messages, such as security alerts and notices about your current account and services.</p>
-
-<h3>Enforcement</h3>
-
-<p>If you have any questions about this Policy, you should first contact us at <a href="mailto:support@box.com">support@box.com</a>.  If you do not receive a response or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will serve as a liaison with Box to resolve your concerns.</p>
-
-<h3>Contacting Us.</h3>
-
-<p>Any questions about this Policy should be addressed to <a href="mailto:support@box.com">support@box.com</a>.</p>
-
-
-
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="wrapper">
+    <div class="container">	
+            <!-- Tasks -->
+<!-- end tasks -->
+<div id="main-content" class="clearfix">
+  <p>You are viewing the Privacy Policy for the following region: <b>United States - English</b>.</p>
+<p>Select your region and preferred language:</p>
+<p><select id="region_select" name="type"><option selected="selected" value="/legal/privacypolicy/?US">United States - English</option><option value="/legal/privacypolicy/JP/">日本 - 日本語</option><optgroup label="All other countries"><option value="/legal/privacypolicy/GB/">English</option><option value="/legal/privacypolicy/FR/">Français</option><option value="/legal/privacypolicy/IT/">Italiano</option><option value="/legal/privacypolicy/ES/">Español</option><option value="/legal/privacypolicy/DE/">Deutsch</option></optgroup> </select></p>
+<p>&nbsp;</p>
+<div class="legal_text_content">
+	<div>
+		<h1 class="legal_text_header">Box Privacy Policy</h1>
+		<h4 class="legal_text_subheader">Last Updated: Sept 24, 2014</h4>
+		<p>This Online and Mobile Privacy Policy ("Privacy Policy") explains how information is collected, used and disclosed by Box, Inc. ("Box"), and applies to information we collect when you use or access our online or mobile websites (www.box.com), products, services or applications (collectively, the "Box Services"), or when you otherwise interact with us. We respect the privacy rights of users and recognize the importance of protecting information collected about you. If you use the Box Services as part of an entity or organization that has an agreement with Box (like your employer or a university), the terms of that organization’s contract for the Box Services may restrict our collection or use of your information more than what is described in this Policy.</p>
+		<h3>Changes to This Policy</h3>
+		<p>We may change this Privacy Policy from time to time. If we make any changes, we will notify you by revising the "Last Updated" date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). If there are material changes to this Privacy Policy, we will notify you more directly by email or means of a notice on the home page prior to the change becoming effective. We encourage you to review our Privacy Policy whenever you access the Box Services to stay informed about our information practices and the ways you can help protect your privacy. Your use of any of the Box Services after the posting of such changes shall constitute your consent to such changes.</p>
+		<h3>Information Collected</h3>
+		<p><strong>Information You Provide To Us.</strong> We collect information you provide directly to us.</p>
+		<ul>
+			<li>For example, we collect information when you register with Box for an account, create or modify your profile and online account, access and use the Box Services (including but not limited to when you upload, download, collaborate on or share files or other information), participate in any interactive features of the Box Services, participate in a survey, contest, promotion, sweepstakes, activity or event, make a purchase, apply for a job, request customer support, communicate with us via third-party social media sites or otherwise communicate with us.</li>
+			<li>The types of information we may collect directly from you include your name, username, email address, your picture, postal address, phone number, information about your data storage preferences, employer’s name, job title, transactional information (including services purchased or subscribed to and billing address) as well as any contact or other information you choose to provide. Please be aware that the information you choose to provide in your Box profile may reveal or identify information that is not expressly stated (for example, if you choose to provide your picture, your picture may reveal your gender. We also store the files or other information that you upload or provide to the Box Services ("Content") in order to be able to provide you with the features and functionality of the Box Service.</li>
+			<li>Unless you have purchased a Box Enterprise account or higher Box Service offering and you have entered into a Business Associate Addendum to the Box Service Agreement, you agree not to upload and/or collaborate Protected Health Information ("PHI") as defined under the Health Insurance Portability and Accountability of 1996 Act as amended ("HIPAA"); Box disclaims all liability for such PHI.</li>
+		</ul>
+		<p><strong>Information We Collect Automatically When You Use the Box Services.</strong> When you access or use the Box Services, we may automatically collect information about you, including:</p>
+		<ul>
+			<li><strong>Usage Information:</strong> We monitor user activity in connection with the Box Services and may collect information about the applications and features you use, the websites you visit, the sizes and names of the files or folders you upload, download, share or access while using the Box Services, the Content you access and any actions taken in connection with the access and use of your Content in the Box Services.</li>
+			<li><strong>Log Information:</strong> We log information about you when you access and use the Box Services including your Internet Protocol ("IP") address, access times, browser type and language, Internet Service Provider ("ISP"), the Web pages that you visit, the Content you use and the URL of the Web page you visited before navigating to the Box Services.</li>
+			<li><strong>Device Information:</strong> If you access the Box Services from a mobile device, we collect information about the device, including the hardware model, operating system and version, unique device identifiers, mobile network information (as allowed by the mobile network) or platform information (as allowed by the specific platform type). We do not ask for, access or track any location based information from your mobile device at any time while downloading or using our mobile apps.</li>
+			<li><strong>Information Collected by Cookies and Other Tracking Technologies:</strong> We use various technologies to collect information, which may include saving cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve the Box Services and your experience, customize your experience and preferences, allow you to access and use the Box Services without re-entering your member ID and/or password, understand which areas and features of the Box Services are most popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images (also called "gifs") that may be used in the Box Services or in emails that help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies and how to disable them, please see "Your Choices" below.</li>
+			<li><strong>Third party cookies:</strong> the use of cookies by third parties you may sign-in from into the Box Services and/or third party applications, is not covered by our privacy policy. We do not have access or control over such cookies.</li>
+			<li><strong>Third Party clear gifs:</strong> Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.</li>
+			<li><strong>Google AdSense:</strong> We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></li>
+			<li><strong>Advertising Cookies:</strong> We partner with third parties to manage our advertising on other sites. Our third parties may use technologies such as cookies to gather information about your activities on this site and other sites you visit in order to provide you advertising based upon your browsing activities and interests.
+				<p>&nbsp;</p>
+				<p>You may opt out of third party tracking by these cookies by visiting <a href="http://preferences-mgr.truste.com/">http://preferences-mgr.truste.com/</a>, <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a> or each of the the following pages:</p>
+				<ul>
+					<li>MediaMath - <a href="http://www.mediamath.com/privacy/">http://www.mediamath.com/privacy/</a></li>
+					<li>Taboola - <a href="http://www.taboola.com/privacy-policy">http://www.taboola.com/privacy-policy</a></li>
+					<li>33 Across - <a href="http://optout.33across.com/">http://optout.33across.com/</a></li>
+					<li>App Nexus – <a href="http://appnexus.com/platform-policy">http://appnexus.com/platform-policy</a></li>
+					<li>Google AdSense - <a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a></li>
+				</ul>
+			</li>
+		</ul>
+		<p><strong>Information We Collect From Other Sources.</strong> We may also obtain information from third parties and combine that with information we collect through the Box Services. For example, we may have access to certain information from a third-party social media service if you create or log into your online account through the service or otherwise provide us with access to information from the service. Any access that we may have to such information from a third-party social media service is in accordance with the authorization procedures determined by the social media service.</p>
+		<h3>Use of Information</h3>
+		<p>We may use the information we collect about you for a variety of purposes, including to:</p>
+		<ul>
+			<li>Provide, operate, maintain and improve the Box Services;</li>
+			<li>Enable you to access and use the Box Services, including uploading, downloading, collaborating on and sharing Content and sending emails on your behalf;</li>
+			<li>Send you technical notices, updates, security alerts and support and administrative messages;</li>
+			<li>Provide and deliver the services and features you request, process and complete transactions, and send you related information, including purchase confirmations and invoices;</li>
+			<li>Respond to your comments, questions, and requests and provide customer service and support;</li>
+			<li>Communicate with you about services, features, surveys, newsletters, offers, promotions, contests and events, and provide other news or information about Box and our select partners;</li>
+			<li>Process and deliver contest or sweepstakes entries and rewards;</li>
+			<li>Monitor and analyze trends, usage, and activities in connection with the Box Services and for marketing or advertising purposes;</li>
+			<li>Investigate and prevent fraudulent transactions, unauthorized access to the Box Services, and other illegal activities;</li>
+			<li>Personalize and improve the Box Services, and provide content, features, and/or advertisements that match your interests and preferences or otherwise customize your experience on the Box Services;</li>
+			<li>Link or combine with other information we receive from third parties to help understand your needs and provide you with better service;</li>
+			<li>Enable you to communicate, collaborate, and share files with users you designate; and</li>
+			<li>For other purposes about which we notify you.</li>
+		</ul>
+		<h3>Processing</h3>
+		<p>By accessing or using the Box Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries and territories, which may have different privacy laws from your country of residence.</p>
+		<h3>Sharing and Disclosure of Information.</h3>
+		<p>We will not share personal information about you or any Content with any third parties except as described in this Privacy Policy or in connection with the Box Services. For example, we may share personal information about you including as follows:</p>
+		<ul>
+			<li><strong>Vendors, Consultants and Other Service Providers:</strong> We may share your information with third-party vendors, consultants and other service providers who are working on our behalf and require access to your information to carry out that work, such as to process billing, provide customer support, etc.</li>
+			<li><strong>Corporate Account:</strong> If you are an individual Box registered user and the domain of the primary email address associated with your Box account is owned by your employer and was assigned to you as an employee of that organization, and such organization wishes to establish a Box corporate account, then certain information concerning past use of your individual account may become accessible to that organization’s administrator including your email address.</li>
+			<li><strong>For Collaboration:</strong> We may share your information, including when you choose to use collaboration features in the Box Services that by their nature support sharing with third parties who you choose. Your name, email address, information from your profile and online account (including your photo), and any Content you choose to share will be shared with such third parties, and such third parties may communicate with you (such as by posting comments or emailing you) in connection with your use of the collaboration features of the Box Services. For example, third parties who you invite to collaborate with you as "Editors" using the collaboration features of the Box Services may also modify Content that you have shared, upload documents and photos to Content you have shared, share such Content outside of the Box Services, and provide other third parties with rights to view the Content you have shared.</li>
+			<li><strong>Third Party Applications:</strong> Box provides you with opportunities to connect with third-party applications or services, such as through our Box One Cloud or Box application partner ecosystem. If you choose to use any such third-party applications or services, we may share information about you including your username and any Content you choose to use in connection with those applications and services, and such third parties may contact you directly as necessary. This Privacy Policy does not apply to your use of such third-party applications and services, and we are not responsible for how those third parties collect, use and disclose your information and Content. We encourage you to review the privacy policies of those third parties before connecting to or using their applications or services to learn more about their information and privacy practices.</li>
+			<li><strong>Compliance with Laws:</strong> We may disclose your information to a third party if (a) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, (b) to enforce our agreements, policies and Terms of Service, (c) to protect the security or integrity of the Box Services, (d) to protect Box, our customers or the public from harm or illegal activities, or (e) to respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person.</li>
+			<li><strong>Business Transfers:</strong> We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</li>
+			<li><strong>Aggregated or Anonymized Data:</strong> We may also share aggregated or anonymized information with third parties that does not directly identify you.</li>
+		</ul>
+		<h3>Collaboration and Sharing Features</h3>
+		<p>The Box Services offers collaboration features or other integrated tools, which allow you to share your Content through the Box Services. As a function of the collaborative nature of the Box Services and based on the permissions and settings you choose, the use of such features enables the sharing of Content with people you want to collaborate with or with the public. You can choose to change your settings at any time for a file or folder through your account. For more information about such collaboration and sharing features, we encourage you to review the information provided on <a href="https://support.box.com">support.box.com</a>.</p>
+		<h3>Privacy Seals</h3>
+		<div id="f3a8f8a9-6b49-458e-ae96-61f7c69091d1" style="float:left; margin-right:20px"><a href="https://privacy.truste.com/privacy-seal/Box,-Inc-/validation?rid=b06d92fc-f973-4e45-9644-4214cb807f59" target="_blank" title="TRUSTe European Safe Harbor certification"><img alt="TRUSTe European Safe Harbor certification" src="https://privacy-policy.truste.com/privacy-seal/Box,-Inc-/seal?rid=b06d92fc-f973-4e45-9644-4214cb807f59" style="border: none"></a></div>
+		<div id="b3cda421-a2a1-4119-a54f-d897f21b2f58"><script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Box,-Inc-/asc?rid=b3cda421-a2a1-4119-a54f-d897f21b2f58"></script><a href="//privacy.truste.com/privacy-seal/Box,-Inc-/validation?rid=952e4c76-53c4-40d2-a5f5-b10978285b93" target="_blank" title="Validate TRUSTe privacy certification"><img alt="Validate TRUSTe privacy certification" src="//privacy-policy.truste.com/privacy-seal/Box,-Inc-/seal?rid=952e4c76-53c4-40d2-a5f5-b10978285b93" style="border: none"></a></div>
+		<p>&nbsp;</p>
+		<p>Box has received TRUSTe's Privacy Seal which means that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with its requirements regarding transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe certification only covers information collected on our site <a href="https://www.box.com">www.box.com</a> and does not cover any information collected through our mobile applications. In addition, Box’s privacy practices, as described in this policy, comply with the APEC Cross Border Privacy Rules System. To learn more, please visit <a href="http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx">http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx</a>.</p>
+		<h3>Safe Harbor</h3>
+		<div style="font-size:80%"><a href="https://safeharbor.export.gov/list.aspx"><em>We self-certify compliance with:</em></a></div>
+		<div style="width:150px"><a href="http://www.export.gov/safeharbor/"><img src="https://ak3.boxcdn.net/cdn/farfuture/cp5maxadPvkkHTUVxr0XbC9qEgl1cWttyKANEDQ1T7g/md5:d6b2b8c864562298b74444f54d97414a/sites/default/files/field_images_for_elsewhere/safe_harbor.jpg"></a></div>
+		<p>&nbsp;</p>
+		<p>Box complies with the U.S.–E.U. Safe Harbor Framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries and Switzerland. Box has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Box’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+		<p>If you have any questions about this Privacy Policy, you should first contact us at <a href="mailto:support@box.com">support@box.com</a>. If you do not receive a response or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a> TRUSTe will serve as a liaison with Box to resolve your concerns.</p>
+		<h3>Security</h3>
+		<p>While no service is completely secure, Box takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. For example, we encrypt your Content when it is stored in our data centers. In addition, sensitive information such as credit card number and password that we request from you on the Box Services is protected with encryption, such as Secured Socket Layer (SSL) protocol, during transmission over the Internet.</p>
+		<p>The servers on which personal information is stored are kept in a controlled environment with limited access. While we take reasonable efforts to guard personal information we knowingly collect directly from you, no security system is impenetrable. In addition, we cannot guarantee that any passively-collected personal information you choose to include in documents you store on our systems are maintained at levels of protection to meet specific needs or obligations you may have relating to that information.</p>
+		<p>You may access your account information and our service only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately if you believe your password has been misused. In addition, always logout and close your browser when you finish your session. Please note that we will never ask you to disclose your password in an unsolicited phone call or email.</p>
+		<p>Unless you have purchased a Box Enterprise subscription account or higher, you agree not to upload to or collaborate through the Box Services any Personal Health Information as defined by the Health Insurance Portability and Accountability Act of 1996 as amended (HIPAA).</p>
+		<h3>Your Choices</h3>
+		<p><strong>Account Information &amp; Retention.</strong> You may update, correct or delete information about you at any time by logging into your online account and modifying your information or by emailing us at <a href="mailto:support@box.com">support@box.com</a>. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy. If you wish to deactivate your account, please email us at <a href="mailto:support@box.com">support@box.com</a>, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. We will respond to your access request within 30 days. To request removal of your personal information from our blog or testimonials, contact us at the email address listed above. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+		<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information to comply with our legal obligations, resolve disputes and enforce our agreements.</p>
+		<p><strong>Promotional and Newsletter Communications.</strong> You may opt out of receiving promotional and newsletter emails from Box by following the opt-out instructions provided in those emails. You may also opt-out of receiving promotional emails and other promotional communications from us at any time by emailing <a href="mailto:support@box.com">support@box.com</a> with your specific request. If you opt out, we may still send you non-promotional communications, such as security alerts and notices related to your access to or use of the Box Services or those about your online account or our ongoing business relations.</p>
+		<p><strong>Cookies.</strong> Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies or to prompt you before accepting such a cookie. Please note that, if you choose to remove or reject browser cookies, this could affect the availability or functionality of the Box Services.</p>
+		<p><strong>California Residents.</strong> Under California law, California Residents who have an established business relationship with Box may choose to opt out of Box’s disclosure of personal information about them to third parties for direct marketing purposes. If you choose to opt-out at any time after granting approval email <a href="mailto:support@box.com">support@box.com</a>.</p>
+		<h3>Single Sign-On</h3>
+		<p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+		<h3>Social Media Features and Widgets</h3>
+		<p>The Box Services may include social media features. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on a Box Service. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
+		<h3>Blogs</h3>
+		<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.</p>
+		<h3>Testimonials</h3>
+		<p>We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name.</p>
+		<h3>Links to Third Party Websites</h3>
+		<p>We may place links on the Box Services. When you click on a link to a third party website from our website, your activity and use on the linked website is governed by that website’s policies, not by those of Box. We encourage you to visit their websites and review their privacy and user policies.</p>
+		<h3>Our Policy Toward Children</h3>
+		<p>The Box Services is not directed to individuals under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us at <a href="mailto:support@box.com">support@box.com</a>. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.</p>
+		<h3>Contacting Us</h3>
+		<p>Any questions about this Privacy Policy should be addressed to <a href="mailto:support@box.com">support@box.com</a> or to 4440 El Camino Real, Los Altos, CA 94022</p>
+	</div>
+</div>
+<p>&nbsp;</p>
+</div>          </div>
+  </div>
+  
 </body></html>
