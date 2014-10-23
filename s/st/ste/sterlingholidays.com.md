@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620025405id_/http%3A//www.sterlingholidays.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingholidays.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023145646id_/http%3A//www.sterlingholidays.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Sterling Holidays | Privacy policy of the website
 
