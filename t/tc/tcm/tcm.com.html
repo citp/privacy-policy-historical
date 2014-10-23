@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the tcm.com privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217024323id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tcm.com privacy policy that was archived on 2014-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023211420id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Turner Broadcasting Sytem, Inc. Online Privacy Statement</title>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-<meta http-equiv="date" content="Mon December 16, 2013 9:42 PM EST">
-<meta name="copyright" content="Copyright 2013 - tcm.com">
+<meta http-equiv="date" content="Thu October 23, 2014 5:14 PM EST">
+<meta name="copyright" content="Copyright 2014 - tcm.com">
 <meta name="robots" content="INDEX,FOLLOW,ALL">
 <meta name="Classification" content="entertainment, movies, television, shopping">
 <meta name="verify-v1" content="Gm/cDSTAJMOdtdixoE0PyRs0odRlSAUg9vbF79MPWyI=">
@@ -21,9 +21,9 @@
 <link rel="stylesheet" type="text/css" href="/css/nav.css?ver=1">
 <!--[if IE 7 ]><link href="/css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 8 ]><link href="/css/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
-<script type="text/javascript" src="https://web.archive.org/web/20150826215027/http://beacon.krxd.net/optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck"></script><script type="text/javascript" src="https://web.archive.org/web/20150826215027/http://cdn.krxd.net/userdata/get?pub=e9eaedd3-c1da-4334-82f0-d7e3ff883c87&amp;technographics=1&amp;callback=Krux.ns._default.kxjsonp_userdata"></script><script type="text/javascript" src="https://web.archive.org/web/20150826215027/http://beacon.krxd.net/optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck"></script><script type="text/javascript" src="https://web.archive.org/web/20150826215033/http://beacon.krxd.net/cookie2json?callback=Krux.ns._default.kxjsonp_3pevents"></script><script async="" src="//web.archive.org/web/20150826215027/http://cdn.krxd.net/ctjs/controltag.js.875fd5b280a77e06def8c74a5a268e2c"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140924183049/http://cdn.krxd.net/controltag?confid=ITcA76Nx"></script><script type="text/javascript" src="/js/applicationProperties.js"></script>
-<script type="text/javascript" src="/js/ais.js"></script><script src="https://web.archive.org/web/20140924183049/http://www.ugdturner.com/xd.sjs"></script>
-<script type="text/javascript" src="/js/tcm-jsmin.min.js?ver=1"></script> 
+<script type="text/javascript" src="/js/applicationProperties.js"></script>
+<script type="text/javascript" src="/js/ais.js"></script>
+<script type="text/javascript" src="http://i.cdn.turner.com/v5cache/TCM/js/tcm-jsmin.min.js?ver=2"></script> 
 <!-- Primary function library placed before the callback and Primary Code Block. -->
 <script src="http://media.richrelevance.com/rrserver/js/1.0/p13n.js"></script>
 <!-- This function will consume the JSON response object, place after p13n.js -->
@@ -61,7 +61,7 @@ jq(document).ready(function() {
 getPageURL();
 });
 </script>
-<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_fwmlCKdmiaAu4vXT0sC-_1-vwsLC-4vaXxKXB64UteGu9Yx1oqZDoeMDcJFmF6Vn"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_v-HnA_O9UxHRbMX2Ac_9BDBHXPgSkDMws690A95pS077DhlQkb8AmvDsKbbh1hIx"></script>
 <script type="text/javascript">
 //This function checks page URL for parameters and displays custom footer
 function getPageURL(){	
@@ -96,8 +96,10 @@ r3(); // make sure your callback function has been defined before you make this 
 <!-- new globalnav -->
 <a href="#content" class="gtext">skip navigation</a>
 <!-- /new globalnav -->
+<script type="text/javascript" src="/js/search/utils.js"></script>
 <script type="text/javascript">
 jq(document).ready(function() {
+/*
 //declare search location
 var searchLocation = window.location.href.split("?")[0];
 //strip slashes for sub page searches
@@ -106,6 +108,7 @@ var first = 'http://';
 var second = searchLocation.split("/")[2];
 searchLocation = first+second;
 if(searchLocation.indexOf('search') > 0){searchLocation = searchLocation.replace("/search","");}
+*/
 //update form location and field names/values
 function submitFormTo(location){
 jq('#tcmsearchfrm').attr('action',location[0]);
@@ -149,6 +152,7 @@ jq('#link-tcm-logo').attr("href", "/");
 //set the height of the context items in the shop navigation to the full height of it's container : should be dynamic - but the display is resulting with issues
 jq('#shop-callout #shop-callout-inr, #shop-drop').css('height', 350);
 //swich form action based on search selection
+/*	
 jq("#tcmdbSearchInput").focusin(function() {
 jq("#tcmdbSearchInput").attr("placeholder", "")
 });
@@ -160,19 +164,87 @@ var searchDB = new Array(searchLocation+'/search/','allDb','TCMDb');
 var searchShop = new Array('http://tcm.resultspage.com/search?v=tcm&asug=&w=','shop','SHOP');
 jq('#tcmdb-search-option').click(function(){submitFormTo(searchDB);});
 jq('#site-search-option').click(function(){submitFormTo(searchSite);});
-jq('#shop-search-option').click(function(){submitFormTo(searchShop);});
+jq('#shop-search-option').click(function(){submitFormTo(searchShop);});	
+*/
+//search 1.5 code
+jq("#btn-go").click(function(e){
+e.preventDefault();
+var preInput = jq("#tcmdbSearchInput").val();
+var searchterm = sqlSafeUrlEncode(preInput);
+var searchURL ='';
+if (searchterm != "Enter Your Search Here" && searchterm.length > 0) { // did user enter search term?
+var searchopt = jq("#search-select-top").val();
+if(searchopt === 'shop') { // is this a shop search?
+jq("#tcmsearchfrm").attr('action' , 'http://tcm.resultspage.com/search?'); // do the swap for shop searches
+jq("#tcmdbSearchInput").attr('name' , 'w');
+searchterm = searchterm = preInput.replace(/'/g, '').replace(/%27/g, "");
+jq("#tcmdbSearchInput").val(searchterm);
+jq("#tcmsearchfrm").submit();	
+} else { // all others
+searchURL = '/search/?text=' + searchterm + '&type=allSite';
+window.location.replace(searchURL);
+}
+}
+}); 
+// Social nav expansion
+jq(".expand").click(function(){
+jq('.container-navigation-social').fadeIn();
+});
+jq(".collapse").click(function(){
+jq('.container-navigation-social').fadeOut();
+});
+jq(".tw").click(function(){
+jq('.twitter-sub').toggle(300).css('display', 'inline-block');
+if (jq(".tw a").hasClass('showProfiles')){
+jq(".tw a").removeClass('showProfiles');
+} else {
+jq(".tw a").addClass('showProfiles');
+jq('.vine-sub').hide(300);
+jq(".vi a").removeClass('showProfiles');
+};
+});
+jq(".vi").click(function(){
+jq('.vine-sub').toggle(100).css('display', 'inline-block');
+if (jq(".vi a").hasClass('showProfiles')){
+jq(".vi a").removeClass('showProfiles');
+} else {
+jq(".vi a").addClass('showProfiles');
+jq('.twitter-sub').hide(300);
+jq(".tw a").removeClass('showProfiles');
+};	
+});
+});
+$(document).ready(function(){
+$(".btn-slide").click(function(){
+$('#privacy-policy-panel').hide();
+$(this).hide();
+document.cookie="hideit=yes";
+}); 
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+x=x.replace(/^\s+|\s+$/g,"");
+if (x=="hideit")
+{
+$('#privacy-policy-panel').hide();
+$('.btn-slide').hide();
+}
+}
 });
 </script>
-<style>
-</style>
 <div id="container-navigation">
 <a href="/" id="link-tcm-logo">TCM</a>
 <ul id="navigation-main" itemscope="" itemtype="http://schema.org/WPHeader">
 <li class="nav-item main-nav" id="nav-watch"><a href="/watchtcm/" class="topNavSection" itemprop="url">Watch TCM</a>
 <ul id="watchtcm-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/watchtcm/livestream/">WATCH LIVE</a></li>
+<li><a class="topNavElement" href="http://www.tcm.com/mobile/">GET THE MOBILE APP</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/" target="_blank">WATCH TCM HOME PAGE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/livestream/" target="_blank">WATCH LIVE</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://tcm.com/watchtcm/movies/" target="_blank">MOVIES ON DEMAND</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://tcm.com/watchtcm/schedule/">SCHEDULE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/schedule/" target="_blank">SCHEDULE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/watchtcm/help/">WHAT IS WATCH TCM?</a></li>
 </ul>
 </li>	
 <li class="nav-item main-nav" id="nav-sch"><a href="/schedule/" class="topNavSection" itemprop="url">Schedule</a>
@@ -185,31 +257,27 @@ jq('#shop-search-option').click(function(){submitFormTo(searchShop);});
 </li>
 <li class="nav-item main-nav" id="nav-mh"><a href="/this-month/" class="topNavSection" itemprop="url">Month Highlights</a>
 <ul id="thismonth-drop">
-<li><a class="topNavElement" href="http://fancontest.tcm.com/">ULTIMATE FAN CONTEST</a></li>
+<li><a class="topNavElement" href="http://www.tcm.com/this-month/">MONTH HIGHLIGHTS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/star.html">STAR OF THE MONTH</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/spotlight.html">OUR SPOTLIGHT</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/mediaroom/">CLIPS &amp; TRAILERS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/essentials/">THE ESSENTIALS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/essentials-jr/">ESSENTIALS JR</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/underground/">TCM UNDERGROUND</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/guest-programmer/">GUEST PROGRAMMER</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/cult-movie-picks.html">CULT MOVIES</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/movie-news.html">MOVIE NEWS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/book-corner.html">BOOK CORNER</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/mediaroom/">CLIPS &amp; TRAILERS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/this-month/podcast.html">PODCASTS</a></li>
 <!--<li><span class="bln"></span><a href="http://www.tcm.com/now-playing-show/index.html">NOW PLAYING: SHOW</a></li>-->
 </ul>
 </li>
-<li class="nav-item main-nav" id="nav-c"><a href="/fan/" class="topNavSection" itemprop="url">Community</a>
+<li class="nav-item main-nav" id="nav-c"><a href="http://forums.tcm.com" class="topNavSection" itemprop="url">Community</a>
 <ul id="fan-drop">
-<li><a class="topNavElement" href="http://www.tcm.com/fan/">CLASSIC FILM UNION</a></li>
+<li><a class="topNavElement" href="http://www.tcm.com/festival/">CLASSIC FILM FESTIVAL</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://forums.tcm.com/">MESSAGE BOARDS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/festival/">CLASSIC FILM FESTIVAL</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/games">ONLINE GAMES</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/fan/">CLASSIC FILM UNION</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcmcruise.com">TCM CLASSIC CRUISE</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://www.tcm.com/suggest-a-movie/index.html">SUGGEST A MOVIE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/register?url=http://www.tcm.com/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">SIGN-UP!</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/login?url=http://www.tcm.com/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">SIGN-IN</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/register?url=http://www.tcm.com/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">NEWSLETTER SIGN-UP</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="https://audience.tcm.com/services/tcm/flow/login?url=http://www.tcm.com/&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189">SIGN-IN TO TCM.COM</a></li>
 </ul>
 </li>
 <li class="nav-item main-nav" id="nav-tcmdb"><a href="/tcmdb/" class="topNavSection" itemprop="url">TCMDb</a>
@@ -242,50 +310,51 @@ jq('#shop-search-option').click(function(){submitFormTo(searchShop);});
 <div itemtype="http://schema.org/EntertainmentBusiness" itemscope="" id="mag-callout-inr" style="height: 385px;">
 <h4 class="rst"><strong>Next</strong> Issue </h4>
 <a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=02631&amp;i4Ky=INBS"><img src="http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i221/npg_site_nav_dropdown_081420130158.jpg" width="81" height="126"></a>
-<h4 class="rst"><strong>January</strong> 2014 </h4>
+<h4 class="rst"><strong>November</strong> 2014 </h4>
 </div>
 </li>
 </ul>
 </li>
 <li class="nav-item nav-last" id="nav-shop"><a href="http://shop.tcm.com/?ecid=PRF-TCM-100014&amp;pa=PRF-TCM-100014" class="topNavSection" itemprop="url">Shop</a>
-<ul id="shop-drop" style="height: 350px;">
+<ul id="shop-drop">
 <li><a class="topNavElement" href="http://shop.tcm.com/?ecid=PRF-TCM-100421&amp;PA=PRF-TCM-100421">SHOP.TCM.COM</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/nav/format/DVD/0?ecid=PRF-TCM-100182&amp;pa=PRF-TCM-100182">DVD &amp; BLU-RAY</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/nav/format/dvd/0?ecid=PRF-TCM-100484&amp;pa=PRF-TCM-100484">DVDS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/nav/format/bluray/0?ecid=PRF-TCM-100485&amp;pa=PRF-TCM-100485">BLU-RAYS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/vault-collection/index.php?v=tcm_vault-collection&amp;ecid=PRF-TCM-100001&amp;pa=PRF-TCM-100001">TCM VAULT COLLECTION</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/big-red-bag-all-titles-7-99/index.php?v=tcm_sales-8&amp;ecid=PRF-TCM-100440&amp;pa=PRF-TCM-100440">BIG RED BAG SALE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/web-shop/index.php?v=tcm_sale&amp;ecid=PRF-TCM-100436&amp;pa=PRF-TCM-100436">HOLIDAY CLASSICS SALE</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/tcm-greatest-classic-films-collection/index.php?v=tcm_box-set_classic-films">TCM GCF COLLECTIONS</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/box-sets/index.php?v=tcm_box-set&amp;ecid=PRF-TCM-100004&amp;pa=PRF-TCM-100004">TCM BOX SETS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/tcm-greatest-classic-films-collection/index.php?v=tcm_box-set_classic-films&amp;nvbar=Box+Sets:TCM+Greatest+Classic+Films+Collection">TCM GCF COLLECTIONS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/search?p=Q&amp;lbc=tcm&amp;uid=79052916&amp;ts=custom&amp;w=*&amp;af=pb:00&amp;isort=globalpop&amp;method=and&amp;SESSID=65b1165232a0969039fc081dabe0fbe3&amp;view=grid&amp;ecid=PRF-TCM-100210&amp;pa=PRF-TCM-100210">DVD'S UNDER $9.99</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/bargain-bin/index.php?v=tcm_bargain-bin&amp;ecid=PRF-TCM-100453&amp;pa=PRF-TCM-100453">BARGAIN BIN</a></li>
 <li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/best-sellers/index.php?v=tcm_current-best-sellers&amp;ecid=PRF-TCM-100209&amp;pa=PRF-TCM-100209">BEST SELLERS</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/index.php?v=tcm_sale-3">UP TO 75% OFF SALE</a></li>
-<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/collectibles/index.php?v=tcm_collectibles&amp;ecid=PRF-TCM-100172&amp;pa=PRF-TCM-100172">
-COLLECTIBLES</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://classic-movies.tcm.com/search?p=Q&amp;lbc=tcm&amp;uid=79052916&amp;ts=custom&amp;w=*&amp;af=pb:00&amp;isort=globalpop&amp;method=and&amp;SESSID=65b1165232a0969039fc081dabe0fbe3&amp;view=grid&amp;ecid=PRF-TCM-100210&amp;pa=PRF-TCM-100210">DVDS UNDER $9.99</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/bargain-bin/index.php?v=tcm_bargain-bin&amp;ecid=PRF-TCM-100453&amp;pa=PRF-TCM-100453">BARGAIN BIN</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/collectibles/index.php?v=tcm_collectibles&amp;ecid=PRF-TCM-100172&amp;pa=PRF-TCM-100172">COLLECTIBLES</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/featured-titles/index.php?v=tcm_warner-archive-collection_featured&amp;ecid=PRF-TCM-100500&amp;pa=PRF-TCM-100500">THRILLING SAVINGS</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/scary-savings-up-to-70-off/index.php?v=tcm_sale&amp;ecid=PRF-TCM-100501&amp;pa=PRF-TCM-100501">UP TO 70% OFF</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/tcm-gear-gift-cards/index.php?v=tcm_collectibles_category_fan-gear&amp;ecid=PRF-TCM-100487&amp;pa=PRF-TCM-100487">ONLY AT TCM</a></li>
+<li><span class="bln"></span><a class="topNavElement" href="http://shop.tcm.com/big-red-bag-up-to-60-off/index.php?v=tcm_sale-6&amp;ecid=PRF-TCM-100502&amp;pa=PRF-TCM-100502">NEW TITLES ADDED!</a></li>
 <li id="shop-callout">
-<div id="shop-callout-inr" itemscope="" itemtype="http://schema.org/EntertainmentBusiness" style="height: 350px;">
+<div id="shop-callout-inr" itemscope="" itemtype="http://schema.org/EntertainmentBusiness">
 <h4 class="rst"><strong>Featured</strong> Products</h4>
 <span class="flyout-main">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=334534&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank" class="feature-shp">
-<img src="http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i213/gcf-astaire-rogers-vol-1_062120130346.jpg" alt="Greatest Classic Films: Astaire and Rogers, Vol. 1 (DVD)" itemprop="image">
-<span itemprop="name" class="dark">Greatest Classic Films: Astaire and Rogers, Vol. 1 (DVD)</span>
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=360440&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank" class="feature-shp">
+<img src="http://i.cdn.turner.com/v5cache/TCM/Images/Dynamic/i342/shirt70_083020141144.jpg" alt="TCM Logo White T-Shirt" itemprop="image">
+<span itemprop="name" class="dark">TCM Logo White T-Shirt</span>
 </a>
-<p><span class="money" itemprop="priceRange">$19.99</span></p>
-<p><a style="border:0;" href="http://shop.tcm.com/cart.php?p=334534&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png" border="0"></a></p>
+<p><span class="money" itemprop="priceRange">$24.95</span></p>
+<p><a style="border:0;" href="https://secureshop.tcm.com/cart.php?p=360440&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png" border="0"></a></p>
 </span>
 <span class="flyout-sub">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=455398&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">TCM Showcase: Barbara Stanwyck (DVD)</span></a>
-<span class="money" itemprop="priceRange">$24.99</span> <a style="display:inline;border:0;" href="http://shop.tcm.com/cart.php?p=455398&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=602345&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">Frankenstein Blu-ray</span></a>
+<span class="money" itemprop="priceRange">$13.99</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=602345&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
 <img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png"></a>
 </span>
 <span class="flyout-sub">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=455399&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">TCM Showcase: Claudette Colbert (DVD)</span></a>
-<span class="money" itemprop="priceRange">$24.99</span> <a style="display:inline;border:0;" href="http://shop.tcm.com/cart.php?p=455399&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=526293&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">Shirley Temple Little Darling Collection DVD</span></a>
+<span class="money" itemprop="priceRange">$49.98</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=526293&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
 <img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png"></a>
 </span>
 <span class="flyout-sub">
-<a itemprop="url" href="http://shop.tcm.com/detail.php?p=488713&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">REMEMBER THE NIGHT (DVD)</span></a>
-<span class="money" itemprop="priceRange">$19.99</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=488713&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
+<a itemprop="url" href="http://shop.tcm.com/detail.php?p=608199&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank"><span itemprop="name">TCM Greatest Classic Films: Tennessee Williams DVD</span></a>
+<span class="money" itemprop="priceRange">$19.99</span> <a style="display:inline;border:0;" href="https://secureshop.tcm.com/cart.php?p=608199&amp;ecid=PRF-TCM-100189&amp;pa=PRF-TCM-100189" target="_blank">
 <img src="http://i.cdn.turner.com/v5cache/TCM/images/reskin/redesign/shop_addtocart_btn.png"></a>
 </span>
 </div>
@@ -309,35 +378,55 @@ document.writeln('<a id="a_join" href="https://audience.tcm.com/services/tcm/flo
 else
 {
 // if person signed in
-document.write('<div id="tcm-login" class="signed_in"><strong>Welcome</strong> <a href="https://audience.tcm.com/services/tcm/flow/editUser">' + dname + '</a> ');
-document.write('| <a href="https://audience.tcm.com/services/tcm/flow/logout?url=http://www.tcm.com/">sign out</a></div>');
+document.write('<div id="tcm-login" class="signed_in"><strong>WELCOME</strong>, ' + dname + ' ');
+document.write('| <a href="https://audience.tcm.com/services/tcm/flow/logout?url=http://www.tcm.com/">Sign out</a> | <a href="https://audience.tcm.com/services/tcm/flow/editUser">Account Info</a></div>');
 }
 //-->
-</script><div id="tcm-login" class="signed_out"><strong>TCM.com:</strong> <a id="a_signIn" href="https://audience.tcm.com/services/tcm/flow/login?url=http://www.tcm.com/">Log-In</a> | 
-<a id="a_join" href="https://audience.tcm.com/services/tcm/flow/register?url=http://www.tcm.com/">Sign-Up</a></div>
-
+</script>
 <div id="input-search">
-<form id="tcmsearchfrm" action="/search/">
-<input id="tcmdbSearchInput" name="text" maxlength="250" placeholder="SEARCH:" autocomplete="off">
-<input type="hidden" name="type" value="allDb" id="searchParam">
-<div id="icon-tcmdb" class="icon-inactive">
-<span id="btn-text">TCMDb</span>
-<ul id="options-search">
-<li id="tcmdb-search-option" class="active-option">TCMDb</li>
-<li id="site-search-option">SITE (TCM.com)</li>
-<li id="shop-search-option">SHOP (shop.TCM.com)</li>
-</ul>	
-</div>
+<form id="tcmsearchfrm">
+<input name="text" type="text" id="tcmdbSearchInput" autocomplete="off" placeholder="SEARCH:">
+<select name="type" id="search-select-top">
+<option value="allSite">ALL</option>
+<option id="shopinpt" value="shop">SHOP</option>
+</select>
 <button type="submit" id="btn-go">GO</button>
 </form>
 </div>
 <div class="nav-mobile-separator"></div>
 <div class="nav-mobile"><a href="/mobile/">TCM Mobile</a></div>
 <ul id="navigation-social">
-<li class="tw"><a href="https://twitter.com/tcm"></a></li>
-<li class="fb"><a href="https://www.facebook.com/tcmtv"></a></li>
-<li class="yt"><a href="http://www.youtube.com/user/TurnerClassicMovies"></a></li>
+<li class="socialLabel"></li>
+<li class="gp"><a href="https://plus.google.com/118049877576908288258" rel="publisher" target="_blank"></a></li>	
+<li class="tw"><a href="http://www.twitter.com/tcm" target="_blank"></a></li>
+<li class="fb"><a href="http://www.facebook.com/tcmtv" target="_blank"></a></li>
+<li class="expand"></li>
+</ul>	
+<div class="container-navigation-social">
+<ul class="navigation-social-expand">
+<li class="socialLabel"></li>
+<li class="gp"><a href="https://plus.google.com/118049877576908288258" rel="publisher" target="_blank"></a></li>	
+<li class="tw"><a href="#" javascript:return="" false=""></a>
+<ul class="twitter-sub">
+<li><a href="http://twitter.com/tcm" target="_blank">@tcm</a></li>
+<li><a href="http://twitter.com/tcmpr" target="_blank">@tcmpr</a></li>
+<li><a href="http://twitter.com/tcmfilmfest" target="_blank">@tcmfilmfest</a></li>
+<li><a href="http://twitter.com/MovieMorlocks" target="_blank">@MovieMorlocks</a></li>
+<li><a href="http://twitter.com/TCMUnderground" target="_blank">@TCMUnderground</a></li>
 </ul>
+</li>	
+<li class="fb"><a href="http://www.facebook.com/tcmtv" target="_blank"></a></li>
+<li class="yt"><a href="http://www.youtube.com/user/TurnerClassicMovies" target="_blank"></a></li>
+<li class="ig"><a href="http://instagram.com/turnerclassicmovies" target="_blank"></a></li>
+<li class="vi"><a href="#"></a>
+<ul class="vine-sub">
+<li><a href="https://vine.co/tcm" target="_blank">@tcm</a></li>
+<li><a href="https://vine.co/tcmfilmfest" target="_blank">@tcmfilmfest</a></li>
+</ul>
+</li>	
+</ul>
+<div class="collapse"></div>
+</div>
 </div>
 </div>
 <div id="tcmrHRwrap">
@@ -346,84 +435,131 @@ document.write('| <a href="https://audience.tcm.com/services/tcm/flow/logout?url
 <div class="bodyWrap">
 <div id="mainBody">
 <div class="aux-wrap">
-<h2>Turner Broadcasting Sytem, Inc. Online Privacy Statement</h2>
-<p>Thank you for visiting TCM.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates.</p>
-<h4>The Information We Collect</h4>
-<p>At some Turner Network sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personal information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.<br><br>
-At some Turner Network sites, you may also be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. Examples of the types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.<br><br>
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.<br><br>
-We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&amp;T), the web pages you have visited, sites visited before and after you visit a site on the Turner Network, the type of handheld or mobile device used to view the site (e.g., iPhone, Blackberry), location information, the content you have accessed and the advertisements you have been shown and/or clicked on.<br><br>
-You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, and Turner Network or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.<br><br>
-When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.<br><br>
-Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
-</p>
+<h2>Turner Broadcasting System, Inc. Online Privacy Statement</h2>
+<p><strong>What’s New in the Updated Privacy Statement? We have updated the privacy statement applicable to our online and mobile websites, services, and applications and clarified data sharing practices among Turner and its affiliates. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy statement when you use any of our Sites (as described below), including when you access any content or videos.</strong></p>
+<p>
+Thank you for visiting <a href="http://www.tcm.com">www.tcm.com</a> , a site presented to you by Turner Broadcasting System, Inc. ("Turner", “we” or “us”). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner’s network of affiliated and operated websites and applications ("Turner Network"), which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Turner or its Affiliates (each a “Site”, collectively the “Sites”). A representative list of Turner Affiliates is available <a href="#affiliates">here</a>.</p>
+<h4>The Information We Collect </h4>
+<p><em>Personally Identifiable Information </em><br>
+At some Turner Network Sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personally identifiable information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number and credit card information.</p>
+<p>
+At some Turner Network Sites, you may also be able to submit personally identifiable information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. Examples of the types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.</p>
+<p>
+At certain parts of some of our Sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.</p>
+<p><em>Non-Personally Identifiable Information</em><br>
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, and partners may collect various types of information that are anonymous, de-identified or otherwise not intended to personally identify you (“Non-Personally Identifiable Information”) when you visit any of our Sites. A representative, non-exhaustive list of the types of Non-Personally Identifiable Information collected may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&amp;T), mobile network, device identifiers, advertising identifiers, the web pages of the Turner Network Sites you have visited, sites visited before and after you visit a Site on the Turner Network, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), general location information (e.g., city, county, and/or state), the content and advertisements you have accessed, seen, forwarded and/or clicked on.</p>
+<p><em>Geo-location Information</em><br>
+If you are accessing a Turner Network Site from a mobile device or through a mobile application, you may be asked to share your geo-location information with us so we can customize your experience on our Sites. If you agree to such collection, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.</p>
+<p><em>Information from Social Networks and Platforms</em><br>
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party platforms and social networking sites, such as Facebook, or other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins or applications, you may allow us to have access to certain personally identifiable information and Non-Personally Identifiable Information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, user files like photos and videos, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make, etc.) to deliver the content or as part of the operation of the Site. We may also obtain Non-Personally Identifiable Information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on through third-party platforms) from your interaction with our content.</p>
+<p>
+Through some social networking sites’ privacy settings, you can control what information you share. For a description on how social networking sites handle your information, please refer to their privacy policies and terms of use.</p>
 <h4>How We Use the Information</h4>
-<p>We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information.<br><br>
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.<br><br>
-We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our sites.<br><br>
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.<br><br>
-If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us.<br><br>
-We may on occasion combine information we collect through our sites with information that we collect from other sources.<br><br>
-We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites, as well as to offer you products, programs, or services.
-</p>
+<p>We may use the Information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our Sites, and/or for the purposes for which you provided the information.</p>
+<p>
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, to fulfill a request by you for an online newsletter or notification, or to contact you about your account with us.<br>
+We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our Sites, and for such other purposes as may be stated at the point where the information is collected.</p>
+<p>
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, services or customized experiences.</p>
+<p>
+If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our Sites with information that we collect from other sources. Without limiting the generality of the foregoing, if you register and create a profile with our Site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Site and may be reused and redistributed by us in our sole discretion, as set forth in our <a href="/terms-of-use.html">Terms of Use</a>.</p>
+<p>
+We, the Turner Affiliates, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners use the Non-Personally Identifiable information that is collected to improve the design and content of our Sites, to deliver more relevant marketing messages and advertisements, to enable us to personalize your Internet experience, and to perform analytics. We also may use this information to analyze usage of our Sites or content, as well as to offer you products, programs, or services.<br>
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Sites, (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social networking sites. By doing so, you consent to the use of this information in accordance with our privacy statement. When you provide personally identifiable information to us through an application, on our Sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.</p>
 <h4>Information Sharing and Disclosure</h4>
-<p>We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.<br><br>
-In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another entity.<br><br>
-Our agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this privacy statement and are not authorized to use the information for any purpose other than to carry out the services they are performing for us.<br><br>
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.<br><br>
-We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a Turner Network site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.<br><br>
-If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site.<br><br>
-To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties.
-</p>
-<h4>Cookies &amp; Web Beacons</h4>
+<p>We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our <a href="/terms-of-use.html">Terms of Use</a>, to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.</p>
 <p>
-To enhance your online experience, we use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie.<br><br>
-We use cookies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on our sites. For example, we may use cookies to personalize your experience at our sites (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising.<br><br>
-We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or sites. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below.<br><br>
-The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as "Flash cookies") in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">Adobe's website</a> directly.<br><br>
-We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.<br><br>
-You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
-</p>
-<h4>Collection of Information by Third-Party Sites, Ad Servers, and Sponsors</h4>
+In addition, we may transfer information if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.<br>
+Our agents and contractors who have access to personally identifiable information are required to protect this personally identifiable information in a manner that is consistent with this privacy statement and are not authorized to use the personally identifiable information for any purpose other than to carry out the services they are performing for us.<br>
+We may disclose personally identifiable information and/or Non-Personally Identifiable Information to third parties whose practices are not covered by this privacy statement. For example, we may share such personally identifiable information we collect with our Turner Affiliates to provide, improve and communicate with you about their own products and services. A representative list of our affiliates is available in the <a href="#affiliates">Turner Affiliates</a>.</p>
 <p>
-Some of our sites contain links to or integrations with other sites such as Facebook, Twitter, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.<br><br>
-Turner Network sites covered by this privacy statement may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.<br><br>
-We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.
-</p>
+We may also share such information with unaffiliated business partners and third parties (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a Turner Network Site shares personally identifiable information with such unaffiliated third parties, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.<br>
+If you have signed up to receive our e-mails and prefer not to receive marketing information from this Site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this Site. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying “STOP” to the received text message.</p>
+<p>
+Turner Network Sites covered by this privacy statement may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the Site activity. We have no control over these third parties' use of this information. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such personally identifiable information.</p>
+<p>
+To provide visitors with additional or more relevant product and service opportunities, to improve and personalize the Sites and to perform analytics, and for the additional uses discussed in this privacy statement, we may share Non-Personally Identifiable Information with the Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, or our partners.</p>
+<h4>Cookies, Web Beacons, Analytics and Advertising</h4>
+<p>To enhance your online experience, we use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences.</p>
+<p>
+We use cookies to understand Site and Internet usage and to improve or customize the content, offerings or advertisements on our Sites. For example, we may use cookies to personalize your experience at our Sites (e.g., to recognize you by name when you return to a Site), save your password in password-protected areas, and enable you to use shopping carts on our Sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising.</p>
+<p>
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Sites. This also helps us, our service providers and partners provide more relevant advertising. <br>
+The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as “Flash cookies”) in certain situations where we use Flash to provide special content such as video streaming, video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">Adobe’s website</a>.</p>
+<p>We, our third party service providers, advertisers, advertising networks and platforms, agencies or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a Site or in an email, to monitor the behavior and collect data about the visitors viewing a Site or email. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that Site. Web beacons may also be used to provide information on the effectiveness of our email campaigns (e.g., open rates, clicks, forwards, etc.).</p>
+<h4>How We Respond to Do Not Track Signals</h4>
+<p>At this time Sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network Sites. Please consult the "Help" section of your browser for more information.</p>
+<h4>Analytics</h4>
+<p>We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and website and mobile application analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers, advertising networks and platforms, agencies and/or partners may also place web beacons or similar technologies for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.</p>
 <h4>Ad Choices</h4>
+<p>Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which Sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse Sites. As part of this process we, the Turner Affiliates, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may collect information about your online activities across the Turner Network and other sites, and supplement such information with information from third parties, in an effort to make inferences about your interests and deliver to you advertisements targeted to those interests.</p>
 <p>
-Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse websites.
-<br><br>
-For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our <a href="/adchoices/" target="_blank">Ad Choices</a> page.
-</p>
-<h4>Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options </h4>
+For example, if you often visit content on the Turner Network about travel, we may use “web beacons” to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies use anonymous identifiers within the “cookies” stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit the <a href="/adchoices/"> AD CHOICES page.</a></p>
+<h4>Turner’s Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options</h4>
+<p>Turner is a participant in the online industry’s self regulatory program administered by the Digital Advertising Alliance (the “DAA”) and has agreed to adhere to the DAA’s principles applicable to interest-based ads. Please visit the <a href="http://www.aboutads.info/ target=" _blank"="">Self Regulatory Program </a>for more information about the DAA, the self regulatory principles and choices you can make regarding interest-based ads.</p>
 <p>
-Turner is a participant in the online industry's self regulatory program administered by the Digital Advertising Alliance (the "DAA") and has agreed to adhere to the DAA's principles applicable to interest-based ads. Please visit the <a href="http://www.aboutads.info/" target="_blank">Self Regulatory Program site</a> for more information about the DAA, the self regulatory principles and choices you can make regarding interest-based ads.
-<br><br>
-You may find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the <a href="http://www.networkadvertising.org" target="_blank">NAI site</a>.
-</p>
+You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative (“NAI”) at the <a href="http://www.networkadvertising.org/" target="_blank">NAI site</a>. <br>
+The tools provided on the <a href="/adchoices/">Ad Choices</a> page, as well as the <a href="http://www.aboutads.info/choices/">DAA opt-out page</a> and the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">NAI opt-out page</a> are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.</p>
+<h4>Mobile Device Advertising and Tracking</h4>
+<p>We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may also be collecting identifiers designed to enable advertising on your mobile device. However, depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, when using a mobile application you may receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.</p>
+<h4>Linked Sites</h4>
+<p>Some of our Sites contain links to or integrations with other sites such as Facebook, Twitter, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.</p>
 <h4>International Transfer</h4>
-Turner operates globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this site you consent to your information being collected, used and transferred as set forth in this privacy statement.
-<br><br>
+<p>Turner operates globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this Site you consent to your information being collected, used and transferred as set forth in this privacy statement.</p>
 <h4>Our Commitment to Security</h4>
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online.
-<br><br>
+<p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store. <br>
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.</p>
 <h4>How You Can Access or Correct Information</h4>
-Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.<br>
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.<br><br>
-E-mail Administration<br>
+<p>Access to personally identifiable information that is collected from our Sites and that we maintain may be available to you. For example, if you created a password-protected account within our Site, you can access that account to review the information you provided.<br>
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.</p>
+<p>E-mail Administration<br>
 Turner Broadcasting System, Inc.<br>
 Attention: Privacy<br>
 One CNN Center, 13 North<br>
 Atlanta, GA 30303<br>
-email: <a href="mailto:privacy.tcm@turner.com">privacy.tcm@turner.com</a><br><br>
+email: <a href="mailto:privacy.tcm@turner.com">privacy.tcm@turner.com</a></p>
 <h4>How to Contact Us</h4>
-If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at <a href="mailto:privacy.tcm@turner.com">privacy.tcm@turner.com</a>.
-<br><br>
+<p>If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at <a href="mailto:privacy.tcm@turner.com">privacy.tcm@turner.com</a>.</p>
+<h4>California Residents � Your California Privacy Rights </h4>
+<p>If you are a California resident, you may request information about our practices related to disclosing your personally identifiable information to certain third parties and/or opt-out of our sharing of your personally identifiable information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at <a href="mailto:privacy.tcm@turner.com">privacy.tcm@turner.com</a>.</p>
+<h4><a name="affiliates">Turner Affiliates</a></h4> 
+<p>Below is a representative list of some of the Turner companies that currently may have access to the information collected from users on our Sites as set forth in this privacy statement. We may update this list from time-to-time, so please check back periodically to keep up-to-date.</p>
+<p>BLEACHER REPORT, INC.<br>
+CABLE NEWS INTERNATIONAL, INC.<br>
+CABLE NEWS NETWORK, INC.<br>
+CARTOON INTERACTIVE GROUP, INC.<br>
+CARTOON NETWORK ENTERPRISES, INC.<br>
+CNE TOURS, INC. (F/K/A CARTOON NETWORK SHOP, INC.)<br>
+CNN INTERACTIVE GROUP, INC.<br>
+COURT TV DIGITAL LLC<br>
+COURTROOM TELEVISION NETWORK LLC<br>
+RETRO, INC.<br>
+SUPERSTATION, INC.<br>
+TBS INTERACTIVE GROUP, INC.<br>
+TCM INTERACTIVE GROUP, INC.<br>
+THE CARTOON NETWORK, INC.<br>
+TNT INTERACTIVE GROUP, INC.<br>
+TNT ORIGINALS, INC.<br>
+TURNER BROADCASTING SALES, INC.<br>
+TURNER CLASSIC MOVIES, INC.<br>
+TURNER DIGITAL BASKETBALL SERVICES, INC.<br>
+TURNER ENTERTAINMENT NETWORKS, INC.<br>
+TURNER FESTIVALS, INC. (F/K/A TURNER DIRECT RETAILING, INC.)<br>
+TURNER MEDIA VENTURES, INC.<br>
+TURNER NETWORK SALES, INC.<br>
+TURNER NETWORK TELEVISION, INC.<br>
+TURNER PAGES, INC.<br>
+TURNER SPORTS INTERACTIVE, INC.<br>
+TURNER SPORTS, INC.<br>
+<br>
+Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share information we collect at our Sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.<br>
+Warner Bros. Entertainment, Inc.<br>
+Homce Box Office, Inc.<br>
+Time Warner, Inc.</p>
 <h4>Updates &amp; Effective Date</h4>
-From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.<br><br>
-The Privacy Statement posted on this site was updated in February, 2011.
-<br><br><br><br><br><br>
+<p>From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.<br>
+The Privacy Statement posted on this Site was updated on October 6, 2014.</p>
+<br><br><br>
 </div>
 </div>
 </div> 
@@ -431,7 +567,7 @@ The Privacy Statement posted on this site was updated in February, 2011.
 <!-- FOOTER NAV --> 
 <div id="footer" itemscope="" itemtype="http://schema.org/WPFooter">
 <div id="footerLinksLeonardMaltin">
-LEONARD MALTIN CLASSIC MOVIE GUIDE, COPYRIGHT 2013. USED BY
+LEONARD MALTIN CLASSIC MOVIE GUIDE, COPYRIGHT 2005, 2010. USED BY
 ARRANGEMENT WITH PENGUIN GROUP (USA) INC.
 </div>
 <div id="footerLinks">
@@ -488,8 +624,6 @@ OUR INTERNATIONAL SITES<br>
 <a href="http://www.tcmuk.tv/" target="_blank" itemprop="url">TCM UK <span id="uk"></span></a> featuring
 <a href="http://tcmcinema.fr/" target="_blank" itemprop="url">TCM FRANCE <span id="france"></span></a> along with
 <a href="http://www.tcmla.com/" target="_blank" itemprop="url">TCM LATIN AMERICA <span id="latin"></span></a> and
-<a href="http://www.turnerclassicmoviesasia.com/" target="_blank" itemprop="url">TCM ASIA <span id="asia"></span></a> and
-<a href="http://www.turnerclassicmovies.com.au/" target="_blank" itemprop="url">TCM Australia / New Zealand <span id="austrailia">&nbsp;</span></a> and
 <a href="http://www.tcmeurope.com/F/" target="_blank" itemprop="url">TCM Africa <span id="africa">&nbsp;</span></a>
 <br>TURNER ENTERTAINMENT SITES
 <a href="http://www.cartoonnetwork.com/" target="_blank" itemprop="url">cartoonnetwork.com</a> with
@@ -499,15 +633,15 @@ OUR INTERNATIONAL SITES<br>
 <a href="http://www.adultswim.com" target="_blank" itemprop="url">adultswim.com</a>
 </div> 
 <div id="footerLegal">
-TM &amp; © 2013 Turner Entertainment Networks, Inc. A Time Warner Company. All rights reserved.<br>
+TM &amp; © 2014 Turner Entertainment Networks, Inc. A Time Warner Company. All rights reserved.<br>
 <a href="http://tsed.turner.com/tcm" target="_blank" itemprop="url"><span id="turnerLogoFooter"></span> TCM.com is part of the Turner Sports and Entertainment Digital Network.</a><br>
 <a href="http://www.tcm.com/code-of-conduct.html" target="_blank" itemprop="url">CODE OF CONDUCT FOR THIS SITE</a> | <a href="http://news.turner.com/section_display.cfm?section_id=75" target="_blank" itemprop="url">PRESS ROOM</a> | <a href="http://www.tcm.com/privacy.html" target="_blank" itemprop="url">PRIVACY POLICY</a> |
 <a id="tcm_adchoices" style="font-weight: normal;" itemprop="url"><script type="text/javascript" src="//consent.truste.com/notice?domain=turner.com&amp;c=tcm_adchoices&amp;text=true&amp;country=us"></script> </a> <img style="position: relative; top: 1px;" src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/misc/logo_ad_choices_footer.png" border="0" valign="middle"> |
 <a href="http://www.tcm.com/terms-of-use.html" target="_blank" itemprop="url">TERMS OF USE</a>
 </div> 
 <!-- web analytics footer --> 
-<script language="JavaScript" type="text/javascript" src="http://www.tcm.com/js/wa/www-set-metadata.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://www.tcm.com/js/wa/jsmd.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/analytics/tcm/www-set-metadata.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/analytics/tcm/jsmd-prod.js"></script>
 <script language="JavaScript"> 
 var pageURL = window.location.pathname; 
 if(pageURL.indexOf("/.element/ssi/ads.iframes/") == -1 && pageURL.indexOf("/doubleclick/dartiframe.html") == -1) { 
@@ -552,179 +686,4 @@ return false;
 }
 </script>
 </body>
-</html></noscript></ark:body_end></div><div class="kxhead" data-id="ITcA76Nx" style="display:none !important;"><span class="kxtag kxinvisible" data-id="28180" data-alias="Rubicon User Matching"><script>
-(function(){
-  if (window.Krux) {
-    var kuid = window.Krux('get', 'user');
-    if (kuid && typeof kuid != 'undefined') {
-       var rubicon_url = '//web.archive.org/web/20150826215027/http://tap.rubiconproject.com/oz/feeds/krux/tokens?afu=' + kuid;
-       var i = new Image();
-       i.src = rubicon_url;
-    }
-  }
-})();
-</script></span><span class="kxtag kxinvisible" data-id="28016" data-alias="Krux Track Social"><script type="text/javascript">Krux('social.init');</script></span><span class="kxtag kxinvisible" data-id="58302" data-alias="Turner Epsilon (via LIveRamp) provider tag"></span><span class="kxtag kxinvisible" data-id="59096" data-alias="Dun &amp; Bradstreet provider tag"></span><span class="kxtag kxinvisible" data-id="20466" data-alias="Technographic Data provider tag"><script>
-// this tag is intentionally blank
-</script></span><span class="kxtag kxinvisible" data-id="20467" data-alias="Krux Geographic Data provider tag"></span><span class="kxtag kxinvisible" data-id="30470" data-alias="Google User Matching"><script>
-(function(){
-  var kuid = Krux('get', 'user');
-  if (kuid && typeof kuid != 'undefined') {
-      var prefix = location.protocol == 'https:' ? "https:" :"http:";
-      var r_url = prefix + '//web.archive.org/web/20150826215027/http://cm.g.doubleclick.net/pixel'
-      var kurl = prefix + '//web.archive.org/web/20150826215027/http://apiservices.krxd.net/um?partner=google&r=' + r_url;
-      var i = new Image();
-      i.src = kurl;
-  }
-})();
-</script></span><span class="kxtag kxinvisible" data-id="45332" data-alias="Data Transfer Code (IDs)"><script>
-(function(){
-// To Pull GUID 
-Krux('scrape', { 'user_attr_turner_guid': {cookie: 'ug'}});
-
-// To Pull Adobe Analytics ID
-Krux('scrape', { 's_vi': {cookie: 's_vi'}});
-var s_vi = Krux('get', 's_vi') || '';
-s_vi = s_vi.replace('[CS]v1|','');
-s_vi = s_vi.replace('[CE]','');
-Krux('set','user_attr_aa_id', s_vi);
-
-Krux('scrape', { 'user_attr_af_id': {cookie: 's_fid'}});
-
-})()
-</script></span><span class="kxtag kxinvisible" data-id="36134" data-alias="Data Transfer Code (DFP)"><script>
-    var slot;
-    (function() {
-        if (window.googletag && googletag.pubads() && googletag.pubads().getSlots()) {
-            var c1 = {};
-            var c2 = {};
-            var arr = googletag.pubads().getSlots();
-            var spec;
-            var site = ['toonswim', 'cnn', 'cnn_arabic', 'cnn_international', 'cnn_money', 'funnyordie', 'hln', 'nascar', 'nba', 'ncaa', 'pga', 'trutv', 'tcm'];
-			
-            if (arr) {
-                for (var i = 0, l = arr.length; i < l; i++) {
-                    c1[arr[i].getAdUnitPath()] = (c1[arr[i].getAdUnitPath()] || 0) + 1;
-                    c2[arr[i].getTargeting('spec')] = (c2[arr[i].getTargeting('spec')] || 0) + 1;
-                }
-                slot = Object.keys(c1)[0] || null;
-                spec = Object.keys(c2)[0] || null;
-                for (k in c1) slot = (c1[k] > c1[slot]) ? k : slot;
-                for (k in c2) spec = (c2[k] > c2[spec]) ? k : spec;
-            }
-            if (!window.spec && window.AMPTManager && window.AMPTManager.registry) {
-                var amptm = AMPTManager.registry[0][0];
-                if (amptm) amptm = amptm.targeting
-                for (var i = 0; i < amptm.length; i++) {
-                    if (amptm[i][0] == 'spec') {
-                        spec = amptm[i][1];
-                    }
-                }
-            }
-			
-            if (window.slot) { // Set string lowercase and split slot into an array 
-                slot = slot.toLowerCase();
-                slot = slot.split('/');
-				
-                // Changes slot from "as" to "toonswim"
-                slot[2] = slot[2] == 'as' ? 'toonswim' : slot[2];
-                // Changes slot from "arabic" to "cnn_arabic"
-                slot[2] = slot[2] == 'arabic' ? 'cnn_arabic' : slot[2];
-                // Changes slot from "cnni" to "cnn_internation"
-                slot[2] = slot[2] == 'cnni' ? 'cnn_international' : slot[2];
-                // Changes slot from "cnnmoney" to "cnn_money"
-                slot[2] = slot[2] == 'cnnmoney' ? 'cnn_money' : slot[2];
-
-                for (var i = 0; i < site.length; i++) {
-
-                    if (slot[2] == site[i]) {
-                        // Using domain to dynamically scrape page attribute site 
-                        Krux('set', 'page_attr_' + slot[2] + '_site', slot[2]);
-                        // Using domain to dynamically scrape page attribute rollup
-                        Krux('set', 'page_attr_' + slot[2] + '_rollup', slot[3]);
-                        // Using domain to dynamically scrape page attribute section 
-                        Krux('set', 'page_attr_' + slot[2] + '_section', slot[4]);
-                        // Using domain to dynamically scrape page attribute subsection
-                        Krux('set', 'page_attr_' + slot[2] + '_subsection', slot[5]);
-                        // Using domain to dynamically scrape page attribute AdUnit 5 
-                        Krux('set', 'page_attr_' + slot[2] + '_adunit5', slot[6]);
-                        if (window.spec) {
-                            Krux('set', 'page_attr_' + slot[2] + '_spec', spec);
-                        }
-                    }
-                }
-            }
-        }
-        if (window.queryString) {
-            Krux('set', 'page_attr_on_site_searcher', true)
-        }
-    })();
-</script></span><span class="kxtag kxinvisible" data-id="32383" data-alias="Google Remarketing TCM"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066579350/?value=0&amp;guid=ON&amp;script=0"></span><span class="kxtag kxinvisible" data-id="39880" data-alias="IXI Data Pixel"><script>
-(function(){
-  if (window.location.protocol == "http:") {
-    (new Image()).src="http://s.ixiaa.com/digi/C726AB29-0470-440B-B8D2-D552CED3A3DC/a.gif";
-    }
-  if (window.location.protocol == "https:"){
-    (new Image()).src="https://s.ixiaa.com/digi/C726AB29-0470-440B-B8D2-D552CED3A3DC/a.gif";
-    }
-})();
-</script></span><span class="kxtag kxinvisible" data-id="32204" data-alias="Facebook Pixel TCM (TMG)"><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=578252972291120&amp;ev=NoScript"></span><span class="kxtag kxinvisible" data-id="44248" data-alias="Data Transfer Code (Omniture)"><script>
-(function() {
-
-    // Using Meta keywords to produce page attribute keywords
-    Krux('scrape', { "page_attr_keywords": {meta_name: "keywords"}});
-    // Using Cookie last5stocks to produce page attribute cookie_last5stocks
-    Krux('scrape', { "page_attr_cookie_last5stocks": {cookie: "last5stocks"}});
-
-    if (document.location.host.match("bleacherreport")) {
-        // Using Meta keywords to produce page attribute keywords
-        Krux('scrape', {"page_attr_bleacherreport_keywords": {meta_name: "keywords"}});
-        Krux('scrape', {"page_attr_bleacherreport_site": {javascript: "document.location.host.split('.')[0]"}});
-    }
-
-    if(window.slot) {
-        // get namespace;
-        var ns = (function() {
-                        var exceptions, jsmdmap, key1, key2, val1, val2, _ref;
-                        if (window._jsmd_default) {
-                            jsmdmap = _jsmd_default.map;
-                            for (key1 in jsmdmap) {
-                                val1 = jsmdmap[key1];
-                                for (key2 in val1) {
-                                    val2 = val1[key2];
-                                    if (ns = val2 != null ? (_ref = val2.settings) != null ? _ref.visitorNamespace : void 0 : void 0) {
-                                        return ns;
-                                    }
-                                }
-                            }
-                        }
-                        exceptions = {
-                            'NBA': '0_nbagroup',
-                            'Nascar': 'nascardigitalsap',
-                            'Bleacher Report': 'turnersidigital',
-                            'Teamcoco': '0_teamcoco'
-                        };
-                        return exceptions[Krux('get', 'site')];
-                })();
-
-        if(!ns) return;
-        //get site
-        var site = slot[2];
-        // get pixel
-        var pixel = window["s_i_" + ns] || window["s_i_1_" + ns] || window["s_i_0_" + ns];
-        // regex for pixel source
-        var lookFor = "&h1=(.*?)&";
-        // check if pixel source matches the regex
-        var match =  (pixel && pixel.src) ? pixel.src.match(lookFor) : null;
-
-        if (match) {
-            var parts = decodeURIComponent(match[1]).split('|');
-            var keys = ['lob', 'brand', 'bizunit', 'sitename', 'sitesectionlevel1', 'sitesectionlevel2'];
-            for (var i = 0, l = keys.length;i < l; i++) {
-                var key = keys[i];
-                if(parts[i]) Krux('set', "page_attr_" + site + "_" + key, parts[i]);
-            }
-        }
-    }
-
-})();
-</script></span></div></body></html>
+</html></noscript></ark:body_end></div></body></html>
