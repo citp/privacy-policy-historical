@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the bonefishgrill.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623111625id_/http%3A//www.bonefishgrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonefishgrill.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024001135id_/http%3A//www.bonefishgrill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * PASSION FOR FISH AND ADVENTURE
-
-  * INNOVATIVE MARTINIS AND COCKTAILS
-
-  * MAKE EVERY DAY SPECIAL
-
-
-
 
 ##  BONEFISH GRILL® PRIVACY POLICY
 
