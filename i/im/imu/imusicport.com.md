@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imusicport.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227212446id_/http%3A//imusicport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imusicport.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023075951id_/http%3A//imusicport.com/privacy) for the most accurate reproduction.*
 
 # Privacy – imusicport.com
 
