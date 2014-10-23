@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegozoo.org privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617165921id_/http%3A//zoo.sandiegozoo.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegozoo.org privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023091840id_/http%3A//zoo.sandiegozoo.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | San Diego Zoo
 
