@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the content.ad privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606191755id_/https%3A//www.content.ad/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the content.ad privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025015944id_/https%3A//www.content.ad/Privacy.aspx) for the most accurate reproduction.*
 
 # content.ad
 
