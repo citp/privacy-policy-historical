@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609031021id_/http%3A//www.mercedsunstar.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024234030id_/http%3A//www.mercedsunstar.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Merced Sun-Star Merced, CA
 
