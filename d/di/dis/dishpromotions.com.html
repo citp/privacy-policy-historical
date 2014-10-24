@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dishpromotions.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625045108id_/http%3A//www.dishpromotions.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dishpromotions.com privacy policy that was archived on 2014-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141024103351id_/http%3A//www.dishpromotions.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -11,7 +11,6 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 <link rel="publisher" href="http://plus.google.com/+Dishpromotions/">
@@ -19,7 +18,6 @@
 <script type="text/javascript" src="js/jquery.tools.min.js"></script>
 <script type="text/javascript" src="js/jquery.simplemodal.js"></script>
 <script type="text/javascript" src="js/basic.js"></script>
-
 
 	
 <link rel="stylesheet" href="/css/style-fs.css">
@@ -44,32 +42,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- start of header_ctr -->
     <div id="header_ctr" title="DISH Network" onmouseover="this.title='';">
     	<p id="logo_main"><a href="/default-fs.asp"><img src="/images/firestorm/logo_main.png" alt="DISH Network Logo" title="DISH" width="118" height="53"></a></p>
-        <div id="orderBtnHolder"><a href="http://www.dishpromotions.com/OrderForm2/default.aspx?kbid=3500" id="orderBtn" title="Order DISH Online"><p id="orderBtnText">ORDER ONLINE</p></a></div>
-        <div id="menuHolder">
-        	<div id="menu_a">
-            	<ul class="dropdown">
-            		<li id="technologyLink"><a>Technology</a>
-                        <ul class="sub_menu">
-                            <li><a class="mainLinks" href="dishnet.asp">DishNET</a></li>
-                            <li><a class="mainLinks" href="hopper-whole-home-dvr.asp">DISH Hopper</a></li>
-                            <li><a class="mainLinks" href="dish-anywhere.asp">DISH Anywhere</a></li>
-                            <li><a class="mainLinks" href="dish-on-demand.asp">DISH On Demand</a></li>
-                        </ul>
-            		</li>
-                    <li class="divider">|</li>
-                    <li id="programmingLink"><a>Programming</a>
-                        <ul class="sub_menu sub_menu_top">
-                            <li><a class="mainLinks" href="dish-sports.asp">DISH Sports</a></li>
-                            <li><a class="mainLinks" href="hd-free-for-24-months.asp">HD Free for 24 Months</a></li>
-                            <li><a class="mainLinks" href="http://www.dishpromotions.com/blog/">Blog</a></li>
-                        </ul>
-                    </li>
-            	</ul>
-            </div>
-            <div id="menu_b">
-            <div id="page-wrap">
+        <div id="getDish2">Get DISH NOW! — <span class="PhoneNumber8861">1-855-629-3838</span></div>
+		<script type="text/javascript">
+			var today = new Date();
+			var dow = today.getDay(); //Replace DOW formula with 99 for holiday and it will display the default message with no hours
+			var hod = today.getHours();
+			var cd = document.getElementById("getDish2").innerHTML;
+
+			if( dow == 0 ){
+				if(hod < 9){document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span>";}//No Time - Default
+				else{document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span><br><span> &mdash; We're open until 9pm CST today!</span>";//9:00pm
+			}
+
+			}else if( dow > 0 && dow < 6 ){
+				if(hod < 7){document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span>";}//No Time - Default
+				else{document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span>";//11:00pm
+			}
+
+			}else if( dow == 6 ){
+				if(hod < 8){document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span>";}//No Time - Default
+				else{document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span><span> &mdash; We're open until 10pm CST today!</span>";//10:00pm
+			}
+   
+			}else{document.getElementById("getDish2").innerHTML = "Get DISH NOW! &mdash; <span class=PhoneNumber8861>1-855-629-3838</span>";}//No Time - Default
+		</script>
+	
+        <div id="menuHolder-new">
+        	
+            <div id="menu-new">
+            <div id="page-wrap-new">
    				<ul class="dropdown">
-        		<li id="nav-tab-left"><a href="packages.asp" id="englishPacks">DISH<br>PACKAGES</a>
+        		<li id="nav-tab-left"><a href="packages.asp" id="englishPacks">DISH NETWORK<br> TV PACKAGES</a>
                     <ul class="sub_menu">
                          <li><a class="mainLinks linksTop" href="packages-smart-pack.asp">Smart Pack</a></li>
                          <li><a class="mainLinks" href="packages-americas-top-120.asp">America's Top 120</a></li>
@@ -79,16 +82,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                          <li><a class="mainLinks linksBottom" href="packages-everything-pak.asp">Everything PAK</a></li>
                     </ul>
                 </li>
-                <li id="nav-tab-mid"><a href="/latino-packages.asp" id="latinoPacks">DISHLATINO<br>PACKAGES</a>
-                    <ul class="sub_menu">
+                <li id="nav-tab-mid"><a href="dish-business.asp" id="businessPacks">BUSINESS<br>PACKAGES</a></li>
+            	<li id="nav-tab-mid"><a href="/latino-packages.asp" id="latinoPacks">DISHLATINO &amp;<br>INTERNATIONAL</a>
+        			<ul class="sub_menu2">
+                    	<li><a href="/latino-packages.asp"><strong> DISHLatino Packages</strong></a></li>
                         <li><a href="/packages-latino-clasico.asp" class="mainLinks">DishLATINO Clásico</a></li>
             			<li><a href="/packages-latino-plus.asp" class="mainLinks">DishLATINO Plus</a></li>
             			<li><a href="/packages-latino-dos.asp" class="mainLinks">DishLATINO Dos</a></li>
-            			<li><a href="/packages-latino-max.asp" class="mainLinks linksBottom">DishLATINO Max</a></li>    
-                    </ul>
-                </li>
-            	<li id="nav-tab-mid"><a href="programming-international.asp" id="intPacks">INTERNATIONAL<br>PACKAGES</a>
-        			<ul class="sub_menu2">
+            			<li><a href="/packages-latino-max.asp" class="mainLinks linksBottom">DishLATINO Max</a></li>
+                        <li><a href="/programming-international.asp"><strong> International Packages</strong></a></li>
                         <li><a href="/programming-africa.asp" class="mainLinks linksTop">African</a></li>
                         <li><a href="/programming-arabic.asp" class="mainLinks">Arabic</a></li>
                         <li><a href="/programming-bangla.asp" class="mainLinks">Bangla</a></li>
@@ -118,14 +120,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <li><a href="/programming-vietnamese.asp" class="mainLinks linksBottom">Vietnamese</a></li>
         			</ul>
         		</li>
-                <li id="nav-tab-right"><a href="dish-business.asp" id="businessPacks">BUSINESS<br>PACKAGES</a></li>
+                <li id="nav-tab-mid"><a href="dish-anywhere.asp" id="latinoPacks">TECHNOLOGY &amp;<br>PROGRAMMING</a>
+        			<ul class="sub_menu2">
+                        <li><a class="mainLinks" href="dishnet.asp">DishNET</a></li>
+                        <li><a class="mainLinks" href="hopper-whole-home-dvr.asp">DISH Hopper</a></li>
+                        <li><a class="mainLinks" href="dish-anywhere.asp">DISH Anywhere</a></li>
+                        <li><a class="mainLinks" href="dish-on-demand.asp">DISH On Demand</a></li>
+                        <li><a class="mainLinks" href="dish-sports.asp">DISH Sports</a></li>
+                        <li><a class="mainLinks" href="hd-free-for-24-months.asp">HD Free for 24 Months</a></li>
+                        <li><a class="mainLinks linksBottom" href="http://www.dishpromotions.com/blog/">Blog</a></li>
+        			</ul>
+        		</li>
+                <li id="nav-tab-right2"><a href="/OrderForm2/default.aspx" id="businessPacks">ORDER<br>ONLINE</a></li>
             </ul>
 		</div>
 	</div>
 	</div>
 </div>
-    <!-- start of header_ctr -->
 </div>
+    <!-- start of header_ctr -->
+
 <!-- end of wrapper_header -->
 
 
@@ -208,7 +222,7 @@ div_node.id = '';
         personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a 
         secure environment.</p>
         <p><b>If you feel that we are not abiding by this privacy policy, you should contact us immediately -<br><br>Contact us via telephone at 
-             <span class="PhoneNumber8861">1-888-321-7209</span>
+             <span class="PhoneNumber8861">1-855-629-3838</span>
              or 
         <a href="mailto:sterling@sterlingsatellite.com" class="packageLink">via email</a>.</b></p>		
 </div>
@@ -241,7 +255,7 @@ div_node.id = '';
 	<div id="footer_e">
 	<div id="preFooter"></div>
     <div id="footerRedBar">
-    	<p><span>Call Today:</span> <span class="PhoneNumber8861">1-888-321-7209</span></p>
+    	<p><span>Call Today:</span> <span class="PhoneNumber8861">1-855-629-3838</span></p>
     </div>
     
     <div id="footerLeft">
