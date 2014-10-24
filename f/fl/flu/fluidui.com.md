@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluidui.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211070237id_/https%3A//www.fluidui.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidui.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024204400id_/https%3A//www.fluidui.com/privacy) for the most accurate reproduction.*
 
 # Fluid UI Privacy Policy
 
@@ -10,7 +10,7 @@ In order to improve the quality of service we offer, Fluid Software Ltd collects
 
   * Personal information which you provide voluntarily (such as your email address) when you register or otherwise interact with the site.
   * Information about how you use the site, including the time of your visit, what browser you are using, how long you stay and whether this is your first time visiting the site or not.
-  * Information you create when using the product such as project data, uploaded images and other data required for the correct functioning of the product. 
+  * Information you create when using the product such as project data, uploaded images and other data required for the correct functioning of the product.
 
 
 
@@ -24,7 +24,7 @@ In order to improve the quality of service we offer, Fluid Software Ltd collects
 
 ## Is my data secure?
 
-We have taken every effort to ensure that your data is as secure as possible when using Fluid UI. All communication between you and the server are transmitted using an encrypted SSL connection with an industry approved secure certificate provider. Our servers are appropriately hardened with suitable firewalls and password protected. Our code is peer reviewed as a matter of course in order to detect potential security flaws. To ensure your security, we also request that you use a suitably strong password for your account. If you have any issues or concerns regarding your security at any time, please email security@fluidui.com. 
+We have taken every effort to ensure that your data is as secure as possible when using Fluid UI. All communication between you and the server are transmitted using an encrypted SSL connection with an industry approved secure certificate provider. Our servers are appropriately hardened with suitable firewalls and password protected. Our code is peer reviewed as a matter of course in order to detect potential security flaws. To ensure your security, we also request that you use a suitably strong password for your account. If you have any issues or concerns regarding your security at any time, please email security@fluidui.com.
 
 ## Sharing your projects
 
