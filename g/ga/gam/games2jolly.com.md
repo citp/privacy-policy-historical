@@ -1,39 +1,35 @@
-> *The following text is extracted and transformed from the games2jolly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061844id_/http%3A//www.games2jolly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2jolly.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024053802id_/http%3A//www.games2jolly.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Play free online games on games2jolly
 
-**Privacy Policy of games2jolly.com**
+**Privacy Policy**
 
-You may visit the games2jolly website without a need to disclose any personal information or any information of such sort. games2jolly collects information in different ways from Visitors and Members who access various parts of games2jolly's Services and the network of Web sites accessible through games2jolly's Service. We use this information primarily to provide a customized experience as you use games2jolly Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. games2jolly always strive to provide the best user experience and of high quality and to allow games2jolly to provide the same, games2jolly collects aggregate information about the use of the Services, including information about users accessing the site or viewing animations or using our Services on other sites.
+We at Games2jolly.com respect the privacy of our visitors and provide a secure environment to them for a pleasurable and comfortable experience. We have certain online privacy policy in order to provide the above mentioned service to our visitors. By accessing our website you agree to our privacy policy.
 
-**Personal Information:**
-
-The personal information, which we collect from you, is mainly put to use for business enhancement and to deliver the best of services. We do needful things to protect your personal information on the website controlled by us, but we are not responsible for any unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control.
+We have the rights to modify this privacy statement at anytime without prior notice so check our policy every time you visit our site. 
 
 **Log Files:**
 
-We gather and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you that you use to visit our site, the time of your visit to our site and also the pages that you visit throughout our site.
+Like many other Web sites, www.games2jolly.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information.
 
-**Cookies/Third Party Cookies:**
+**Information that we collect:**
 
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. games2jolly may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage games2jolly networks. If you are a Member and have created your own Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-games2jolly Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+Visitors of Games2jolly.com doesn’t need to give any personal information for accessing the site/playing games/downloading games/searching for games i.e.., providing your personal information is not mandatory but if you are interested you can like our facebook page to allow us to inform you about our recent games and updates.
 
 **Third Party Advertising:**
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
+We may utilize any advertising agency to serve you with advertisements whenever you visit games2jolly.com. Even though your details like email ID, name, address, or phone number will not be revealed to these companies, they can still provide you with the kind of ads that interest you, based on the visits and searches that you make in our site.
 
-**Third party links:**
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use some information like click stream information, browser type, time and date, subject of advertisements clicked or scrolled over (surely not your personal information) during your visits to our website and to other websites in order to provide advertisements about products and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information from your browser. 
 
-As games2jolly.com contains links to other sites, games2jolly.com is not liable for the privacy practices or the content of such third parties.
+We at www.games2jolly.com do not have any control over the cookies placed by third party advertisers in your browser. If you need to know about their policies regarding their cookies you should check the third party ad servers’ privacy policy. 
 
-**Parental rights:**
+**Cookies:**
 
-If you seek to know about the personal information of your child which is stored in our servers, all you have to do is call upon us to provide you with the information, which will be done within 7 working days.
+We place cookies in your browser to be of use in many forms. The feature of cookies is provided by your web browser that allows websites like us to transfer some information to your computer for certain online data remembrance purposes which in turn will be used for third party ad providers to display ads with relative with your interests. 
 
-**Data Protection:**
+You may turn the flash cookies ‘ON’ or ’OFF’ by using the Adobe Flash Management tool. However we recommend you to leave the cookies turned on. 
 
-To ensure the data protection, we may supervise your personal information at any time by filtering data messages to identify, limit or prevent the flow of spam, viruses and/or unlawful content.
+**Contact Us:**
 
-**Changes to this privacy policy:**
-
-The privacy policy published herein may be changed at any time at our discretion, and it is entirely up to you to keep yourself updated with regard to the latest developments on our site.
+To contact us with any queries or complaints, please email us at games2jolly@gmail.com. 
