@@ -1,173 +1,106 @@
-> *The following text is extracted and transformed from the identified.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121032726id_/https%3A//www.identified.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identified.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024235353id_/http%3A//www.workday.com/company/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Identified
+# Workday Privacy Policy
 
-Identified, Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through websites operated by us from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through our social media pages and apps located on Facebook ([Identified](http://www.facebook.com/identified "http://www.facebook.com/identified"), [Identified Careers](https://www.facebook.com/IdentifiedCareers "https://www.facebook.com/IdentifiedCareers"), [Identified Recruit](https://www.facebook.com/IdentifiedHealthRecruit "https://www.facebook.com/IdentifiedHealthRecruit")), [SoundCloud](http://www.soundcloud.com/identifiedonair "http://www.soundcloud.com/identifiedonair"), [Tumblr](http://www.identifiedblog.tumblr.com/ "http://www.identifiedblog.tumblr.com"), [YouTube](http://www.youtube.com/identifiedonair "http://www.youtube.com/identifiedonair"), Twitter ([Identified](http://twitter.com/identified " http://twitter.com/identified"), [Identified Careers](https://twitter.com/IDcareersSF "https://twitter.com/IDcareersSF")), the Identified [blog](https://web.archive.org/blog "Blog"), (collectively, our “Social Media Pages”) as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites, the Apps and our Social Media Pages, the “Services”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+#### Privacy Policy
 
-### Personal Information
+##### Privacy Statement
 
-**PERSONAL INFORMATION WE MAY COLLECT**
+Data Privacy is important to Workday, Inc. (“Workday”). This privacy statement informs visitors of what data Workday gathers on its Web sites, how will use it and with whom we share it. If you have any questions regarding this privacy statement, contact [privacy@workday.com](mailto:privacy@workday.com) or see the “Contact Us” section later in this policy.
 
-“ **Personal Information** ” is information that identifies you as an individual, including:
+This privacy policy describes the information we collect about you as a visitor to our Web sites [www.workday.com](http://www.workday.com/) and [www.peoplearethenewbottomline.com](http://www.peoplearethenewbottomline.com/). The following tells you how we use this information and describes your choices regarding certain types of processing.
 
-  * Name
-  * Town and state
-  * Email address
-  * Profile picture
-  * Social media account ID
-  * Social media account connections
-  * Educational history
-  * Work history
+##### Information Collected
 
+Workday collects and retains contact information for you as a visitor only if you voluntarily supply us with this information. You may choose to provide us with this information, including your name, e-mail address, street address, telephone number or other information, to access protected information on our Web sites or so we can follow up with you after your visit. If you have voluntarily provided this information, you consented to the collection and use of your personally identifiable information as described in this privacy statement. In addition, Workday may combine other publicly available information related to the organization from which you work for with the information that you provide to us. 
 
+Workday does not share, sell, rent, or trade personally identifiable information collected through its Web sites with third parties for their sole promotional purposes or as otherwise outlined in this policy.
 
-If you submit to us or our service providers, or permit us or our service providers to collect, any Personal Information relating to other people in connection with the Services (such as, for example, your social media account connections), you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+Workday may share information with third parties who resell the Workday service and/or provide value added services such as payroll outsourcing, tax filing, and other administrative services for our Mid-Market Channel offering. Workday’s Mid-Market Channel offering is designed to meet the needs of customers that have fewer than 1,500 employees. When you sign up for webinars, download white papers, or generally inquire about Workday’s offering and/or services, we will share contact information and product interest as necessary for the third party to provide that service.
 
-If you are an enterprise user of the Services, we may collect additional information from and about you and your social media accounts. Please refer to our Terms and Conditions services agreement for more information.
+Workday may disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others.
 
-**HOW WE MAY COLLECT PERSONAL INFORMATION**
+If Workday goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information collected through our Web site(s) may be among the assets transferred. A prominent notice will appear on our Web site(s) for 30 days after any such change in ownership or control of your personal information.
 
-We and our service providers may collect Personal Information in a variety of ways, including:
+##### Use of Web Site(s)
 
-  * **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or download an App.
-  * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms; as well as from other third parties. For example, if you elect to sign up as a candidate, download an App or connect with us via your social media account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
+Workday, or Workday-authorized service providers, may observe your activities, preferences, and transactional data relating to your use of our Web site(s) and our services. While we may collect or log this information, we do not identify you or match this information with your other personal information (such as your IP address) unless you have chosen to identify yourself by completing a contact form on the Web site. We may use this collected or logged information to diagnose web site technical problems. Workday or our authorized service provider may use this information to track aggregate traffic patterns throughout our Web site(s). If you have submitted contact information via forms on a site, Workday may use information from cookies and web beacons to provide you with information about the Company and the Service.
 
+##### Cookies
 
+Cookies are small text files that our Web sites ask to place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to authenticate your access to various areas of our Web sites, and tailor its content to your preferences. Cookies help us analyze web traffic in general and to track when site visitors complete surveys. You can set your browser to refuse cookies, or to warn you before a cookie is placed.
 
-**HOW WE MAY USE PERSONAL INFORMATION**
+We also use web beacons, or transparent GIF files, provided by our service provider to report activity on our site. The beacons help us manage our online advertising and measure its effectiveness. These files enable our service provider to recognize a cookie on your web browser, which in turn enables us to learn which advertisements are most effective. Either Workday or our services providers place the cookie. The information that we collect by means of these technologies is anonymous. It is not personally identifiable unless you have chosen to identify yourself through a form on the Web site.
 
-We may use Personal Information:
+##### Retargeted Advertising
 
-  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies.
-  * To provide the Services, communicate with you regarding the Services and provide you with related customer service.
-  * To send you marketing communications that we believe may be of interest to you.
-  * To personalize your experience on the Services by presenting products and offers tailored to you.
-  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
-  * To facilitate social sharing functionality.
-  * To allow you to send messages to a friend through the Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
-  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
-  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+Retargeted advertising uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is used to display more relevant information to you on the Workday website. This information is also used to display Workday employment opportunities to you if you have visited our careers page. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from Workday or through third party website publishers. 
 
+Most web browsers automatically accept cookies, but you can change your browser to prevent cookies or to notify you each time a cookie is set. If you would like to opt out of retargeted advertising from Workday, please [click here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
+##### Customer Data
 
-Your Personal Information may be disclosed:
+As part of Workday's services, customers may load data into Workday servers. Workday will not share or distribute any such customer data except as provided in the contractual agreement between Workday and customer, or as may be required by law. [Please refer to the Workday Service Privacy Policy for more details.](http://www.workday.com/company/service_privacy.php "Workday Service Privacy Policy")
 
-  * To our clients to allow recruiters to contact you regarding job opportunities.
-  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.
-  * To third parties to permit them to send you marketing communications.
-  * To third party sponsors of sweepstakes, contests and similar promotions.
-  * To identify you to anyone to whom you send messages through the Services.
-  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public information, and may be available to users of the Services and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Services.
-  * To your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Services account or log-into your Services account from you social media account. By connecting your Services account and your social media account you authorize us to share information with your social media account provider and you understand that the use of the information we share will be governed by the social media site’s privacy policy. If you do not want your Personal Information shared with other users or with your social media account provider, please do not connect your social media account with your Services account and do not participate in social sharing on the Services.
-  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+##### Data Processing
 
+Any personal data collected about EU visitors via our Web sites is processed in the United States by Workday or by a party acting on its behalf. When you provide personal data to Workday, you consent to the processing of your data in the United States. Our Web sites are hosted in the United States.
 
+##### Third-Party Web Sites
 
-### Other Information
+This Web site contains links to other sites that Workday does not own or control. Please be aware that Workday is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Web sites. We suggest that you read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by Workday Web sites.  
+We post customer testimonials on our Web sites which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to request the removal of your testimonial, contact us at [privacy@workday.com](mailto:privacy@workday.com)
 
-**OTHER INFORMATION WE MAY COLLECT**
+##### Online Forums
 
-“ **Other Information** " is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
+On our Web sites, you may post comments, for example on a blog or bulletin board. These comments and discussions are moderated, and may be accessed or deleted for technical or other reasons. We will not use the information you post on an online forum beyond the purpose for which you posted it. You should only post personal information to online forums with the awareness that the information will be made available to others inside and outside of Workday. Any comments posted by individuals on an online forum, such as a blog, are his or her own and should not be considered as reflecting the opinion of Workday. To request removal of your personal information from our blog or community forum, contact us at [privacy@workday.com](mailto:privacy@workday.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-  * Browser and device information
-  * App usage data
-  * Information collected through cookies, pixel tags and other technologies
-  * Demographic information and other information provided by you
-  * Aggregated information
+##### Social Media Features and Widgets
 
+Our Web sites include Social Media Features, such as YouTube videos, the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our sites. These Features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our sites. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
+##### Security
 
-**HOW WE MAY COLLECT OTHER INFORMATION**
+Workday employs industry standard security measures to ensure the security of all data. However, the security of information transmitted through the Internet can never be guaranteed. Workday is not responsible for any interception or interruption of any communications through the Internet or for changes to or losses of data. Users of our sites are responsible for maintaining the security of any password, user ID, or other form of authentication involved in obtaining access to password protected or secure areas of any Workday sites. In order to protect you and your data, Workday may suspend your use of a site, without notice, pending an investigation, if any breach of security is suspected. Access to and use of password protected and/or secure area of any Workday site is restricted to authorized users only. Unauthorized access to such areas is prohibited and may lead to criminal prosecution.
 
-We and our third party service providers may collect Other Information in a variety of ways, including:
+##### Opt-Out
 
-  * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
-  * **Through your use of the App:** When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
-  * **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Services, as well as for online tracking purposes. We can recognize your computer to assist your use of the Services. We also gather statistical information about the usage of the Services in order to continually improve the design and functionality, understand how the Services are used and to assist us with resolving questions regarding the Services. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies in online advertising to track responses to our advertisements and we may use cookies or other files to track your use of other websites.
+If at any time after registering for information, you change your mind about receiving information from us, send us a request specifying your new choice. Simply send your request to [privacy@workday.com](mailto:privacy@workday.com). Use the same email address if you do not wish to receive our newsletters, including the Workday newsletter. 
 
+##### Contact Us
 
+If you have any questions regarding our privacy policy, or if you need to update, change or remove information, you can do so by contacting [privacy@workday.com](mailto:privacy@workday.com) or by regular mail addressed to:
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer and you may need to log in every time you visit the applicable Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+Workday, Inc.   
+Attn: Privacy   
+6230 Stoneridge Mall Road   
+Pleasanton, CA 94588   
+United States
 
-  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
-  * **IP Address:** Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.
-  * **From you:** Information such as your location, as well as other information, such as your preferred means of communication, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Services.
-  * **By aggregating information:** Aggregated Personal Information does not personally identify you or any other user of the Services, (for example, we may aggregated Personal Information to calculate the percentage of our users who have a particular telephone area code).
+Workday will respond to your correction or update request within at most 30 days from the date of your request.
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us via the information above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+##### Changes to this Privacy Statement
 
-**HOW WE MAY USE AND DISCLOSE OTHER INFORMATION**
+If we decide to change this privacy policy, we will post those changes to this privacy statement and other places we deem appropriate. Posting those changes will inform you of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it as described in “How We May Collect Other Information” section above, as well as for all the purposes for which we use and disclose Personal Information.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by email.
 
-In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+##### TRUSTe Privacy Program Statement
 
-### Third Party Services
+Workday has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html). These requirements include transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@workday.com](mailto:privacy@workday.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This TRUSTe certification covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+[](https://privacy.truste.com/privacy-seal/Workday,-Inc-/validation?rid=c86d3af7-eaec-4511-80a7-955fdf7ef5fb "Validate TRUSTe privacy certification")
 
-Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+##### Safe Harbor Program Statement
 
-**THIRD PARTY ADVERTISERS**
+Workday complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: [export.gov/safeharbor](http://export.gov/safeharbor).
 
-We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites, based on information relating to your access to and use of the Services and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>.
+##### APEC Program Statement
 
-**SECURITY**
+Workday’s privacy practices described in this Statement comply with the [APEC Cross Border Privacy Rules System](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx). 
 
-We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
+[](https://privacy.truste.com/privacy-seal/Workday,-Inc-/validation?rid=c86d3af7-eaec-4511-80a7-955fdf7ef5fb "Validate TRUSTe privacy certification")
 
-### Choices and Access
-
-**YOUR CHOICES REGARDING OUR USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION**
-
-We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
-
-  * **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the unsubscribe instructions included in each marketing-related email.
-  * **Our sharing of your Personal Information with third parties for their direct marketing purposes:** If you would prefer that we do not share your Personal Information on a going-forward basis with third parties for their direct marketing purposes, you may opt-out of this sharing by emailing [remove@identified.com](mailto:%72%65%6d%6f%76%65%40%69%64%65%6e%74%69%66%69%65%64%2e%63%6f%6d "remove@identified.com") with your name and the email address at which you were contacted.
-  * We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
-
-
-
-**HOW YOU CAN ACCESS, CHANGE OR SUPPRESS YOUR PERSONAL INFORMATION**
-
-If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, you may contact us by email to [feedback@identified.com](mailto:%66%65%65%64%62%61%63%6b%40%69%64%65%6e%74%69%66%69%65%64%2e%63%6f%6d "feedback@identified.com").
-
-In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
-
-Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed.
-
-### Retention Period
-
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
-
-### Use of Services by Minors
-
-The Services are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services.
-
-### Cross-Border Transfer
-
-The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country.
-
-### Sensitive Information
-
-We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Services or otherwise to us.
-
-### Updates to This Privacy Policy
-
-We may change this Privacy Policy. Please take a look at the “Last Updated” legend at the bottom of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
-
-### Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us by email at [feedback@identified.com](mailto:%66%65%65%64%62%61%63%6b%40%69%64%65%6e%74%69%66%69%65%64%2e%63%6f%6d "feedback@identified.com"), or please write to the following address:
-
-Identified, Inc.  
-185 Berry Street, Suite 6100  
-San Francisco, CA 94107
-
-Please note that email communications are not always secure; so please do not include sensitive information in your emails to us.
-
-LAST UPDATED
-
-June 17th, 2013
+_Last Updated on June 09, 2014_
