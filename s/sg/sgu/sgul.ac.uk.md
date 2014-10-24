@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgul.ac.uk privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428103147id_/http%3A//www.sgul.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgul.ac.uk privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024211346id_/http%3A//www.sgul.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookies — St George's, University of London
 
