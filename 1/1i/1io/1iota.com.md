@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101100id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024145446id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,7 +34,7 @@ We use the information we collect about you in order 1) to provide membership se
 
   1. If selected for a show, 1iota will be authorized to use the information provided, to grant you access to the event and take the proper security precautions required by event staff or security (such as background checks). Background checks will only be done when attending a national security event, which will be specified in the event description. A background check will take place upon registering for that event by the respected government agency. 
   2. We use contact information to send the user information needed to maintain their account, to contact them when necessary, and to notify them of news about our company. We also use customer contact information to send the user promotional material from some of our partners. 
-  3. We may provide the information you provide to us to the organizers of the events that you want to attend or that you actually attend, and they may use such information consistent with their own privacy policies which could be more permissive than the terms set forth in the 1iota Privacy Policy.
+  3. We may provide the information you provide to us to the organizers of the events that you want to attend or that you actually attend or their affiliates, representatives or designees, and they may use such information consistent with their own privacy policies which could be more permissive than the terms set forth in the 1iota Privacy Policy.
   4. We share aggregated statistical data with our business partners or for public relations. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. 
   5. Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law; (2) enforce or apply the terms of any of our user agreements; or (3) protect the rights, property or safety of our users and/or any third parties. 
   6. As with any other business, it is possible that in the future 1iota could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by 1iota, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described above in the "Changes of Policy" section. 
@@ -56,4 +56,4 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 Hollywood, CA 90028  
 [support@1iota.com](mailto:support@1iota.com)
 
-(last updated on 10/30/2013)
+(last updated on 7/25/2014)
