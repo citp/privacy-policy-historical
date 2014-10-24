@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmemoirs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209171052id_/http%3A//www.allmemoirs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmemoirs.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024053219id_/http%3A//www.allmemoirs.com/privacy) for the most accurate reproduction.*
 
 # allMemoirs Privacy Policy
 
