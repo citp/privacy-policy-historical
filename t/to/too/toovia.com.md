@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toovia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033818id_/https%3A//www.toovia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toovia.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024143135id_/https%3A//www.toovia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOOVIA
 
@@ -168,4 +168,4 @@ If you have any questions about this Privacy Policy or the Service, please conta
 
 TOOVIA may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of TOOVIA or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification. 
 
-{"$type":"planner.model.TUserPageContext","$version":0,"$uri":"mem://planner.model.ejt.TListPageViewImpl@1553698175.PageContext-401626675976994826"} 
+{"$type":"planner.model.TUserPageContext","$version":0,"$uri":"mem://planner.model.ejt.TListPageViewImpl@1414004459.PageContext-491007134148526090"} 
