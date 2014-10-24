@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nhpr.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625060022id_/http%3A//nhpr.org/nhprs-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nhpr.org privacy policy that was archived on 2014-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141024092838id_/http%3A//nhpr.org/nhprs-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="og: http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aab2.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="og: http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aab2.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta property="og:url" content="http://nhpr.org/nhprs-privacy-policy">
 <meta property="og:type" content="article">
 <meta property="og:title" content="NHPR's Privacy Policy">
@@ -24,49 +24,50 @@
 <meta name="has_audio" content="0">
 <meta name="nid" content="24">
   <title>NHPR's Privacy Policy | New Hampshire Public Radio</title>
-  <style type="text/css" media="all">@import url("http://nhpr.org/modules/system/system.base.css?n7f45a");
-@import url("http://nhpr.org/modules/system/system.menus.css?n7f45a");
-@import url("http://nhpr.org/modules/system/system.messages.css?n7f45a");
-@import url("http://nhpr.org/modules/system/system.theme.css?n7f45a");</style>
-<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/libraries/magnific-popup/magnific-popup.css?n7f45a");
-@import url("http://nhpr.org/misc/ui/jquery.ui.core.css?n7f45a");
-@import url("http://nhpr.org/misc/ui/jquery.ui.theme.css?n7f45a");
-@import url("http://nhpr.org/misc/ui/jquery.ui.accordion.css?n7f45a");</style>
-<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/modules/contrib/date/date_api/date.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?n7f45a");
-@import url("http://nhpr.org/modules/field/theme/field.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/contrib/google_cse/google_cse.css?n7f45a");
-@import url("http://nhpr.org/modules/node/node.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_hull/pi_outrigger/css/pi_outrigger.css?n7f45a");
-@import url("http://nhpr.org/modules/search/search.css?n7f45a");
-@import url("http://nhpr.org/modules/user/user.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/contrib/views/css/views.css?n7f45a");</style>
-<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/modules/contrib/ctools/css/ctools.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_guide/css/pi_guide.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_hull/jplayer/css/jplayer.npr.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_npr_story/css/pi_npr_story.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_views/pi_reports_views/css/pi_reports.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_guide/css/pi_listenlive.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_menus/css/flexiMenu.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_social/css/pi_social.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_rss/css/pi_rss.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_guide/css/pi_guide_xml.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_ads/css/pi_ads.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/pi_analytics/css/pi_quickstats.css?n7f45a");
-@import url("http://nhpr.org/sites/all/modules/custom/npr_entities/npr_fields/npr_image_gallery/css/npr-image-gallery.css?n7f45a");</style>
-<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/themes/pilot/css/html-reset.css?n7f45a");
-@import url("http://nhpr.org/sites/all/themes/pilot/css/pilot.css?n7f45a");
-@import url("http://nhpr.org/sites/all/themes/looks/look2/css/look2.css?n7f45a");</style>
-<style type="text/css" media="print">@import url("http://nhpr.org/sites/all/themes/pilot/css/print.css?n7f45a");</style>
-<style type="text/css" media="all">@import url("http://nhpr.org/sites/nhpr/themes/station/css/station.css?n7f45a");</style>
+  <style type="text/css" media="all">@import url("http://nhpr.org/modules/system/system.base.css?ndvmk8");
+@import url("http://nhpr.org/modules/system/system.menus.css?ndvmk8");
+@import url("http://nhpr.org/modules/system/system.messages.css?ndvmk8");
+@import url("http://nhpr.org/modules/system/system.theme.css?ndvmk8");</style>
+<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/libraries/magnific-popup/magnific-popup.css?ndvmk8");
+@import url("http://nhpr.org/misc/ui/jquery.ui.core.css?ndvmk8");
+@import url("http://nhpr.org/misc/ui/jquery.ui.theme.css?ndvmk8");
+@import url("http://nhpr.org/misc/ui/jquery.ui.accordion.css?ndvmk8");</style>
+<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/modules/contrib/date/date_api/date.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ndvmk8");
+@import url("http://nhpr.org/modules/field/theme/field.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/contrib/google_cse/google_cse.css?ndvmk8");
+@import url("http://nhpr.org/modules/node/node.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_hull/pi_outrigger/css/pi_outrigger.css?ndvmk8");
+@import url("http://nhpr.org/modules/search/search.css?ndvmk8");
+@import url("http://nhpr.org/modules/user/user.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/contrib/views/css/views.css?ndvmk8");</style>
+<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/modules/contrib/ctools/css/ctools.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_guide/css/pi_guide.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_hull/jplayer/css/jplayer.npr.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_npr_story/css/pi_npr_story.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_views/pi_reports_views/css/pi_reports.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_guide/css/pi_listenlive.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_menus/css/flexiMenu.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_social/css/pi_social.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_blocks/css/pi_signup.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_rss/css/pi_rss.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_guide/css/pi_guide_xml.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_ads/css/pi_ads.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/pi_analytics/css/pi_quickstats.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/modules/custom/npr_entities/npr_fields/npr_image_gallery/css/npr-image-gallery.css?ndvmk8");</style>
+<style type="text/css" media="all">@import url("http://nhpr.org/sites/all/themes/pilot/css/html-reset.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/themes/pilot/css/pilot.css?ndvmk8");
+@import url("http://nhpr.org/sites/all/themes/looks/look2/css/look2.css?ndvmk8");</style>
+<style type="text/css" media="print">@import url("http://nhpr.org/sites/all/themes/pilot/css/print.css?ndvmk8");</style>
+<style type="text/css" media="all">@import url("http://nhpr.org/sites/nhpr/themes/station/css/station.css?ndvmk8");</style>
  
   <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/nhpr/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
 <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/nhpr/files/js/js_71ulivOsZAkmkoPBdBAgiAgrh0D5I_TiadS6vTmxLF4.js"></script>
 <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/nhpr/files/js/js_-WcrGf3pH5GnSWA1Y-B28tyjknNjFr4asJklCZQ5NUA.js"></script>
-<script type="text/javascript" src="/misc/jquery.cookie.js?1403676023"></script>
-<script type="text/javascript" src="http://nhpr.org/sites/all/modules/custom/pi_guide/js/pi_guide_feed.js?1403676023"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?n7f45a"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/nhpr/files/js/js_HuWotM9iOc80jj5rA_WUzZROQq6mBduOUeiXjy_xEck.js"></script>
+<script type="text/javascript" src="/misc/jquery.cookie.js?1414142918"></script>
+<script type="text/javascript" src="http://nhpr.org/sites/all/modules/custom/pi_guide/js/pi_guide_feed.js?1414142918"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js?ndvmk8"></script>
+<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/nhpr/files/js/js_7rg88r8HHygn_uFprjgnjr3xgeD6w9vF8RxOjjqRxzM.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 GS_googleAddAdSenseService('ca-pub-4114876250616171');GS_googleEnableAllServices();
@@ -129,7 +130,7 @@ var addthis_config = {data_ga_property: 'UA-18188937-11',data_ga_social : true}
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"look2","theme_token":"OssfvqY3_WKY6GqPR4aJLwGgZR86JxMUPo-1o57l0Rc","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_feed.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"8":1,"9":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-4e67af3c2e333348":1,"http:\/\/platform.twitter.com\/widgets.js":1,"10":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_listenlive.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"\/sites\/all\/modules\/custom\/drafts\/css\/drafts.css":1,"sites\/all\/modules\/custom\/pi_social\/css\/pi_social.css":1,"sites\/all\/modules\/custom\/pi_rss\/css\/pi_rss.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide_xml.css":1,"sites\/all\/modules\/custom\/pi_ads\/css\/pi_ads.css":1,"sites\/all\/modules\/custom\/pi_analytics\/css\/pi_quickstats.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/pilot\/css\/html-reset.css":1,"sites\/all\/themes\/pilot\/css\/pilot.css":1,"sites\/all\/themes\/looks\/look2\/css\/look2.css":1,"sites\/all\/themes\/pilot\/css\/print.css":1,"sites\/nhpr\/themes\/station\/css\/station.css":1}},"chartbeat":{"uid":33583,"domain":"nhpr.org"},"googleCSE":{"cx":"010251366440257945544:klz-uqf8fau","language":"","resultsWidth":600,"domain":"www.google.com"},"streamCount":2,"streams":[{"stream_mp3":"http:\/\/nhpr.org\/player","popup":"1","width":"880","height":"860","display":"1","weight":0,"streamName":"nhpr","description":"NHPR","ucs":"5182acf6e1c8493049eeb9c0"},{"stream_mp3":"http:\/\/nhpr.org\/player#stream\/nhpr2","popup":"1","width":"880","height":"860","display":"1","weight":"1","streamName":"nhpr2","description":"ClassicalNH","ucs":"5239f23ae1c8ca0459822d28"}]});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"look2","theme_token":"miiag-zVNKsfh2Q7N442hZxkdWopmwH25lG3Vawj2sM","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_feed.js":1,"http:\/\/partner.googleadservices.com\/gampad\/google_service.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/js\/shared-cache-roundtrip.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"8":1,"9":1,"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js#pubid=ra-4e67af3c2e333348":1,"http:\/\/platform.twitter.com\/widgets.js":1,"10":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_listenlive.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"\/sites\/all\/modules\/custom\/drafts\/css\/drafts.css":1,"sites\/all\/modules\/custom\/pi_social\/css\/pi_social.css":1,"sites\/all\/modules\/custom\/pi_blocks\/css\/pi_signup.css":1,"sites\/all\/modules\/custom\/pi_rss\/css\/pi_rss.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide_xml.css":1,"sites\/all\/modules\/custom\/pi_ads\/css\/pi_ads.css":1,"sites\/all\/modules\/custom\/pi_analytics\/css\/pi_quickstats.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/pilot\/css\/html-reset.css":1,"sites\/all\/themes\/pilot\/css\/pilot.css":1,"sites\/all\/themes\/looks\/look2\/css\/look2.css":1,"sites\/all\/themes\/pilot\/css\/print.css":1,"sites\/nhpr\/themes\/station\/css\/station.css":1}},"chartbeat":{"uid":33583,"domain":"nhpr.org"},"googleCSE":{"cx":"010251366440257945544:klz-uqf8fau","language":"","resultsWidth":600,"domain":"www.google.com"},"streamCount":2,"streams":[{"stream_mp3":"http:\/\/nhpr.org\/player","popup":"1","width":"880","height":"860","display":"1","weight":0,"streamName":"nhpr","description":"NHPR","ucs":"5182acf6e1c8493049eeb9c0"},{"stream_mp3":"http:\/\/nhpr.org\/player#stream\/nhpr2","popup":"1","width":"880","height":"860","display":"1","weight":"1","streamName":"nhpr2","description":"ClassicalNH","ucs":"5239f23ae1c8ca0459822d28"}]});
 //--><!]]>
 </script>
 
@@ -193,11 +194,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       
   <div class="content block-no-title">
     <div class="content-center-frame"><div class="table-queue" id="table-queue-utilitylinks">
-  <div class="item-list"><ul class="menu" id="utility-bar"><li class="first"><a href="/"></a></li>
-<li class="about"><a href="http://nhpr.org/schedule/week/nhpr" target="_blank">Schedule</a></li>
-<li class="about"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain" target="_blank">Events</a></li>
+  <div class="item-list"><ul class="menu" id="utility-bar"><li class="about first"><a href="http://nhpr.org/schedule/week/nhpr" target="_blank">On-Air Schedule</a></li>
+<li class="about"><a href="http:///nhpr.org/events" target="_blank">NHPR Events</a></li>
+<li class="about"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain" target="_blank">Community Calendar</a></li>
 <li class="about"><a href="http://nhpr.org/contact-nhpr" target="_blank">Contact</a></li>
-<li class="support last"><a href="http://nhpr.convio.net/site/Donation2?df_id=1780&amp;1780.donation=form1" target="_blank">DONATE</a></li>
+<li class="support last"><a href="http://nhpr.org/becomeasustainer" target="_blank">DONATE</a></li>
 </ul></div></div>
 </div>
   </div>
@@ -258,7 +259,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/term/national-0">National News</a>
 </li>
 <li class="left">
-<a href="/topic/politics">Politics</a>
+<a href="http://nhpr.org/topic/elections-2014">Elections 2014</a>
+</li>
+<li class="left">
+<a href="/term/politics-0">Politics</a>
 </li>
 <li class="left">
 <a href="/term/environment-0">Environment</a>
@@ -273,7 +277,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/term/North-Country">North Country</a>
 </li>
 <li class="left">
-<a href="/topic/the-sidebar">The Sidebar: NHPR's News Blog</a>
+<a href="/topic/sidebar">The Sidebar: NHPR's News Blog</a>
 </li>
 <li class="left">
 <a href="/topic/the-currency">The Currency: Business News</a>
@@ -282,13 +286,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/topic/news-primer">News Primers</a>
 </li>
 <li class="left">
-<a href="/post/check-out-nhprs-blogs">All NHPR Blogs</a>
-</li>
-<li class="left">
 <a href="/programs/political-front">On The Political Front</a>
 </li>
 <li class="left">
-<a href="/weather-0">Weather</a>
+<a href="/weather">Weather</a>
 </li>
 <li class="left">
 <a href="/topic/arts-culture-0">Arts &amp; Culture</a>
@@ -314,9 +315,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/topic/marking-history">Marking History: Historical Markers in N.H.</a>
 </li>
 <li class="left">
-<a href="/topic/250-years-making-stories-13-new-hampshire-towns">250 Years In The Making</a>
-</li>
-<li class="left">
 <a href="/topic/northern-pass">Northern Pass Coverage</a>
 </li>
 <li class="left">
@@ -340,10 +338,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/topic/foodstuffs">Foodstuffs: NHPR's Food Blog</a>
 </li>
 <li class="left">
-<a href="/topic/the-currency">The Currency: Business News</a>
+<a href="http://nhpr.org/topic/gardening-guy">The Gardening Guy</a>
 </li>
 <li class="left">
-<a href="/topic/audio-orchard">The Audio Orchard: Hand-Picked Music &amp; Playlists</a>
+<a href="http://lauraknoy.tumblr.com/">Off The Air With Laura Knoy</a>
+</li>
+<li class="left">
+<a href="/term/archives-0">From The Archives</a>
 </li>
 <li class="left">
 <a href="/topic/live-studio-d">Live From Studio D:  Music Performances</a>
@@ -352,13 +353,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/topic/next-gen-nhpr">Next Gen NHPR: Stories by NHPR Interns &amp; Fellows</a>
 </li>
 <li class="left">
-<a href="/topic/infographics-videos">Infographics &amp; Videos</a>
-</li>
-<li class="left">
 <a href="/topic/inside-nhpr">Inside NHPR: Station News &amp; Events</a>
 </li>
 <li class="left">
-<a href="/term/npr-blogs">NPR Blogs</a>
+<a href="/topic/infographics-videos">Infographics &amp; Videos</a>
 </li>
 </ul>
 </li>
@@ -416,9 +414,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="left">
 <a href="/programs/giving-matters">Giving Matters</a>
 </li>
-<li class="left">
-<a href="/term/special-program">Special Programs</a>
-</li>
 </ul>
 </li>
 <li class="dd has-dropdown not-click">
@@ -431,7 +426,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/e-newsletters">E-Newsletters</a>
 </li>
 <li class="left">
-<a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain">Events Calendar</a>
+<a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain">Community Calendar</a>
 </li>
 <li class="left">
 <a href="/rss">Podcasts &amp; RSS Feeds</a>
@@ -469,13 +464,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/contact-nhpr">Contact</a>
 </li>
 <li class="left">
+<a href="/people/capacity/staff">People</a>
+</li>
+<li class="left">
 <a href="/nhpr-board-trustees">Board of Trustees</a>
 </li>
 <li class="left">
-<a href="http://nhpr.iapplicants.com/">Job Opportunities</a>
+<a href="http://nhpr.org/term/nhpr-events">NHPR Events</a>
 </li>
 <li class="left">
-<a href="/people/capacity/staff">People</a>
+<a href="http://nhpr.iapplicants.com/">Job Opportunities</a>
 </li>
 <li class="left">
 <a href="/our-history">Our History</a>
@@ -496,12 +494,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/eeo-information">EEO Information</a>
 </li>
 <li class="left">
-<a href="http://www.membercard.com/nhpr/">MemberCard</a>
-</li>
-<li class="left">
-<a href="http://nhpr.org/term/nhpr-events">NHPR Events</a>
-</li>
-<li class="left">
 <a href="/topic/public-insight-network">Public Insight Network</a>
 </li>
 <li class="left">
@@ -513,13 +505,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </ul>
 </li>
 <li class="dd has-dropdown not-click">
-<a href="http://nhpr.convio.net/site/Donation2?1780.donation=form1&amp;df_id=1780">Support</a>
+<a href="http://nhpr.org/becomeasustainer">Support</a>
 <ul class="dropdown">
 <li class="left">
 <a href="/become-sustaining-member">Become A Sustaining Member</a>
 </li>
 <li class="left">
-<a href="http://nhpr.convio.net/site/Donation2?1400.donation=form1&amp;df_id=1400">Donate Now</a>
+<a href="http://nhpr.org/makeagift">Donate Now</a>
 </li>
 <li class="left">
 <a href="http://www.nhpr-cardonations.org/">Donate Your Car</a>
@@ -557,7 +549,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-xTPnUlAyPB5p6lrObhm7EGt-9ZaznHJ3HaxVSIiCg-w">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-zkBvAgqWIfNEN_JI_FRMX6YLsz4iVqyIUxwyaudiwyY">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form></div>
@@ -580,21 +572,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
 <ul> 
   <li><!-- Promo 0 -->
-    <a href="/post/decline-bees-whats-going-our-pollinators"> 
-              <img src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/small_square/public/201406/Conall.jpg" alt="The Exchange"> 
-            <div><span class="promo-header-slug">The Exchange</span><span class="promo-header-title">A Decline In Bees: What's Going On With Our Pollinators?</span></div> 
+    <a href="/post/reassessing-property-taxes-nh-and-across-country"> 
+              <img src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/small_square/public/201406/Sarah_Miller.jpg" alt="The Exchange"> 
+            <div><span class="promo-header-slug">The Exchange</span><span class="promo-header-title">Reassessing Property Taxes, In N.H. And Across The Country</span></div> 
     </a> 
   </li> 
   <li class="promo-middle"><!-- Promo 1 -->
-    <a href="/post/cult-market-basket-super-market-chain-bags-big-online-following"> 
-              <img src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/small_square/public/201406/DeMoulas1.jpg" alt="Word of Mouth"> 
-            <div><span class="promo-header-slug">Word of Mouth</span><span class="promo-header-title">The Cult Of Market Basket: Super Market Chain Bags Big Online Following</span></div> 
+    <a href="/post/good-gig-color-expert-lee-eiseman"> 
+              <img src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/small_square/public/201410/good_gig_color.jpg" alt="Word of Mouth"> 
+            <div><span class="promo-header-slug">Word of Mouth</span><span class="promo-header-title">Good Gig: Color Expert Lee Eiseman</span></div> 
     </a> 
   </li> 
   <li><!-- Promo 2 -->
-    <a href="/post/exchange-road"> 
-              <img src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/small_square/public/201311/laura.jpg" alt="NHPR Events"> 
-            <div><span class="promo-header-slug">NHPR Events</span><span class="promo-header-title">The Exchange On The Road</span></div> 
+    <a href="/post/nhpr-unh-law-present-rudman-center-conversations-candidates"> 
+              <img src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/small_square/public/201409/ConvCandidates_0.jpg" alt="NHPR Events"> 
+            <div><span class="promo-header-slug">NHPR Events</span><span class="promo-header-title">NHPR &amp; UNH Law Present 'Rudman Center Conversations With The Candidates'</span></div> 
     </a> 
   </li> 
 </ul> 
@@ -624,7 +616,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div>
 
 </div> <!-- /.block -->
-<div id="block-pi_rss-feeds" class="block block-pi-rss region-odd region-count-3">
+<div id="block-pi_signup-graphic_signup_link" class="block block-pi-signup region-odd region-count-3">
+ 
+      
+  <div class="content block-no-title">
+    <div class="content-center-frame"><a href="http://nhpr.org/e-newsletters " class="signup">Join Our Email List</a></div>
+  </div>
+
+</div> <!-- /.block -->
+<div id="block-pi_rss-feeds" class="block block-pi-rss region-even region-count-4">
  
         <h2 class="block-title">Podcasts &amp; RSS Feeds</h2>
     
@@ -639,7 +639,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div>
 
 </div> <!-- /.block -->
-<div id="block-pi_ads-right_rail_2" class="block block-pi-ads region-even region-count-4">
+<div id="block-pi_ads-right_rail_2" class="block block-pi-ads region-odd region-count-5">
  
       
   <div class="content block-no-title">
@@ -647,12 +647,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div>
 
 </div> <!-- /.block -->
-<div id="block-pi_guide-guide-now-playing-composer" class="block block-pi-guide region-odd region-count-5">
+<div id="block-pi_guide-guide-now-playing-composer" class="block block-pi-guide region-even region-count-6">
  
         <h2 class="block-title">Now Playing</h2>
     
   <div class="content">
-    <div class="content-center-frame"><div id="playlist-xml" generated="1403676023" station="">
+    <div class="content-center-frame"><div id="playlist-xml" generated="1414142918" station="">
 
 
 
@@ -662,21 +662,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div>
 
 </div> <!-- /.block -->
-<div id="block-pi_quickstats-most_active" class="block block-pi-quickstats region-even region-count-6">
+<div id="block-pi_quickstats-most_active" class="block block-pi-quickstats region-odd region-count-7">
  
         <h2 class="block-title">Most Active Stories</h2>
     
   <div class="content">
-    <div class="content-center-frame"><div class="item-list"><ul><li id="pi-quickstats-nid-50323" class="pi-quickstats pi-quickstats-1 coral first"><a href="/post/usgs-80000-nh-residents-could-be-drinking-contaminated-water?nopop=1" class="pi-quickstats-link">USGS: 80,000 N.H. Residents Could Be Drinking Contaminated Water</a></li>
-<li id="pi-quickstats-nid-50462" class="pi-quickstats pi-quickstats-2 coral"><a href="/post/50000-nh-wells-risk-high-arsenic-negative-health-impacts?nopop=1" class="pi-quickstats-link">50,000 N.H. Wells At Risk Of High Arsenic, Negative Health Impacts</a></li>
-<li id="pi-quickstats-nid-49548" class="pi-quickstats pi-quickstats-3 coral"><a href="/post/must-read-books-summer-2014?nopop=1" class="pi-quickstats-link">Must-Read Books For Summer 2014</a></li>
-<li id="pi-quickstats-nid-50693" class="pi-quickstats pi-quickstats-4 coral"><a href="/post/dartmouth-runner-poised-long-term-success-pro-circuit?nopop=1" class="pi-quickstats-link">Dartmouth Runner Poised For Long-Term Success On Pro Circuit</a></li>
-<li id="pi-quickstats-nid-50520" class="pi-quickstats pi-quickstats-5 coral last"><a href="/post/arsenic-prevalent-well-water-treatment-readily-available?nopop=1" class="pi-quickstats-link">Arsenic Is Prevalent In Well Water, But Treatment Is Readily Available</a></li>
+    <div class="content-center-frame"><div class="item-list"><ul><li id="pi-quickstats-nid-57206" class="pi-quickstats pi-quickstats-1 coral first"><a href="/post/party-company-finnarage-blame-keene-riots?nopop=1" class="pi-quickstats-link">Is Party Company 'FinnaRage' To Blame For Keene Riots?</a></li>
+<li id="pi-quickstats-nid-57294" class="pi-quickstats pi-quickstats-2 coral"><a href="/post/keene-police-release-riot-photos-ask-public-help-id-suspects?nopop=1" class="pi-quickstats-link">Keene Police Release Riot Photos, Ask Public To Help ID Suspects</a></li>
+<li id="pi-quickstats-nid-57146" class="pi-quickstats pi-quickstats-3 coral"><a href="/post/keene-state-students-clean-after-mayhem-near-pumpkin-fest?nopop=1" class="pi-quickstats-link">Keene State Students Clean Up After Mayhem Near Pumpkin Fest</a></li>
+<li id="pi-quickstats-nid-57031" class="pi-quickstats pi-quickstats-4 coral"><a href="/post/first-five-health-insurers-outline-2015-exchange-plans?nopop=1" class="pi-quickstats-link">First Of Five Health Insurers Outline 2015 Exchange Plans</a></li>
+<li id="pi-quickstats-nid-57212" class="pi-quickstats pi-quickstats-5 coral last"><a href="/post/full-audio-kuster-garcia-meet-first-2nd-district-debate?nopop=1" class="pi-quickstats-link">Full Audio: Kuster, Garcia Meet In First 2nd District Debate</a></li>
 </ul></div></div>
   </div>
 
 </div> <!-- /.block -->
-<div id="block-pi_table_queue-peopleBlock" class="block block-pi-table-queue region-odd region-count-7">
+<div id="block-pi_table_queue-peopleBlock" class="block block-pi-table-queue region-even region-count-8">
  
         <h2 class="block-title">Program Hosts</h2>
     
@@ -698,11 +698,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/person_thumb/public/201311/laura.jpg" alt="Laura Knoy"></div>
             <div class="person-name"><a href="/people/laura-knoy">Laura Knoy</a></div>
               <div class="person-title">Host, The Exchange</div>
-          </div>
-      <div class="person">
-              <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/person_thumb/public/201311/amanda.jpg" alt="Amanda Loder"></div>
-            <div class="person-name"><a href="/people/amanda-loder">Amanda Loder</a></div>
-              <div class="person-title">Weekend Host/Business Reporter</div>
           </div>
       <div class="person">
               <div class="person-image"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/nhpr/files/styles/person_thumb/public/201311/katem1.jpg" alt="Kate McNally"></div>
@@ -825,25 +820,21 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 
                                           <li class="ff-link-1"><a href="/term/business-and-economy">Business and Economy</a></li>
                 
-                                          <li class="ff-link-2"><a href="/term/elections-2012">Elections 2012</a></li>
+                                          <li class="ff-link-2"><a href="/term/environment-0">Environment</a></li>
                 
-                                          <li class="ff-link-3"><a href="/term/environment-0">Environment</a></li>
+                                          <li class="ff-link-3"><a href="/term/health-0">Health</a></li>
                 
-                                          <li class="ff-link-4"><a href="/term/health-0">Health</a></li>
+                                          <li class="ff-link-4"><a href="/term/nh-news">NH News</a></li>
                 
-                                          <li class="ff-link-5"><a href="/term/nh-news">NH News</a></li>
+                                          <li class="ff-link-5"><a href="/term/north-country">North Country </a></li>
                 
-                                          <li class="ff-link-6"><a href="/term/north-country">North Country </a></li>
+                                          <li class="ff-link-6"><a href="/npr-news">NPR News</a></li>
                 
-                                          <li class="ff-link-7"><a href="/term/npr-blogs">NPR Blogs</a></li>
+                                          <li class="ff-link-7"><a href="/term/politics-0">Politics &amp; Elections</a></li>
                 
-                                          <li class="ff-link-8"><a href="/npr-news">NPR News</a></li>
+                                          <li class="ff-link-8"><a href="/topic/series">Special Series</a></li>
                 
-                                          <li class="ff-link-9"><a href="/term/politics-0">Politics &amp; Elections</a></li>
-                
-                                          <li class="ff-link-10"><a href="/topic/series">Special Series</a></li>
-                
-                                          <li class="ff-link-11"><a href="/weather">Weather</a></li>
+                                          <li class="ff-link-9"><a href="/weather">Weather</a></li>
                 
                       </ul>
         </div>
@@ -852,17 +843,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h4 class="left-1">Music</h4>
         <div class="item_list">
           <ul>
-                                          <li class="ff-link-0"><a target="_blank" href="http://www.classicalnh.org">ClassicalNH</a></li>
+                                          <li class="ff-link-0"><a target="_blank" href="http://classicalnh.org">ClassicalNH</a></li>
                 
-                                          <li class="ff-link-1"><a target="_blank" href="http://info.nhpr.org/classicalnh">ClassicalNH Stream</a></li>
+                                          <li class="ff-link-1"><a target="_blank" href="http://nhpr.org/live-event/live-concert">Live In Concert</a></li>
                 
-                                          <li class="ff-link-2"><a href="http://nhpr.org/live-event/live-concert">Live In Concert</a></li>
+                                          <li class="ff-link-2"><a target="_blank" href="http://nhpr.org/live-event/npr-classical-live">NPR Classical Live</a></li>
                 
-                                          <li class="ff-link-3"><a href="http://nhpr.org/live-event/npr-classical-live">NPR Classical Live</a></li>
+                                          <li class="ff-link-3"><a target="_blank" href="http://nhpr.org/live-event/npr-jazz-live">NPR Jazz</a></li>
                 
-                                          <li class="ff-link-4"><a href="http://nhpr.org/live-event/npr-jazz-live">NPR Jazz</a></li>
-                
-                                          <li class="ff-link-5"><a href="http://nhpr.org/live-event/tiny-desk-concerts">Tiny Desk Concerts</a></li>
+                                          <li class="ff-link-4"><a target="_blank" href="http://nhpr.org/live-event/tiny-desk-concerts">Tiny Desk Concerts</a></li>
                 
                       </ul>
         </div>
@@ -889,19 +878,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 
                                           <li class="ff-link-1"><a href="/schedule/week/nhpr">Program Schedule</a></li>
                 
-                                          <li class="ff-link-2"><a href="/programs/all-things-considered">All Things Considered</a></li>
+                                          <li class="ff-link-2"><a href="/programs/exchange">The Exchange</a></li>
                 
-                                          <li class="ff-link-3"><a href="/programs/exchange">The Exchange</a></li>
+                                          <li class="ff-link-3"><a href="/programs/folk-show">The Folk Show</a></li>
                 
-                                          <li class="ff-link-4"><a href="/programs/folk-show">The Folk Show</a></li>
+                                          <li class="ff-link-4"><a href="/programs/giving-matters">Giving Matters</a></li>
                 
-                                          <li class="ff-link-5"><a href="/programs/giving-matters">Giving Matters</a></li>
+                                          <li class="ff-link-5"><a href="/programs/something-wild">Something Wild</a></li>
                 
-                                          <li class="ff-link-6"><a href="/programs/something-wild">Something Wild</a></li>
+                                          <li class="ff-link-6"><a href="/programs/word-mouth">Word of Mouth</a></li>
                 
-                                          <li class="ff-link-7"><a href="/programs/word-mouth">Word of Mouth</a></li>
-                
-                                          <li class="ff-link-8"><a href="/programs/writers-new-england-stage">Writers on a New England Stage</a></li>
+                                          <li class="ff-link-7"><a href="/programs/writers-new-england-stage">Writers on a New England Stage</a></li>
                 
                       </ul>
         </div>
@@ -912,19 +899,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <ul>
                                           <li class="ff-link-0"><a target="_blank" href="/livestream">Listen Live</a></li>
                 
-                                          <li class="ff-link-1"><a href="/listen-live-nhpr-online">Listening Options</a></li>
+                                          <li class="ff-link-1"><a target="_blank" href="/listen-live-nhpr-online">Listening Options</a></li>
                 
                                           <li class="ff-link-2"><a target="_blank" href="http://www.classicalnh.org">ClassicalNH</a></li>
                 
-                                          <li class="ff-link-3"><a target="_blank" href="http://info.nhpr.org/classicalnh">ClassicalNH Stream</a></li>
+                                          <li class="ff-link-3"><a target="_blank" href="/rss">Podcasts</a></li>
                 
-                                          <li class="ff-link-4"><a href="/rss">Podcasts</a></li>
+                                          <li class="ff-link-4"><a target="_blank" href="http://nhpr.org/nhpr-iosandroid-apps">Mobile Apps</a></li>
                 
-                                          <li class="ff-link-5"><a href="/nhpr-iphone-app">Mobile Apps</a></li>
-                
-                                          <li class="ff-link-6"><a href="http://m.nhpr.org">View On Mobile</a></li>
-                
-                                          <li class="ff-link-7"><a href="/frequencies">Frequencies / Station Locator</a></li>
+                                          <li class="ff-link-5"><a href="http://m.nhpr.org">View On Mobile</a></li>
                 
                       </ul>
         </div>
@@ -941,15 +924,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 
                                           <li class="ff-link-1"><a target="_blank" href="http://nhpr.org/contact-nhpr">Contact</a></li>
                 
-                                          <li class="ff-link-2"><a target="_blank" href="http://www.publicbroadcasting.net/nhpr/events.eventsmain">Events</a></li>
+                                          <li class="ff-link-2"><a target="_blank" href="http://nhpr.org/events">NHPR Events</a></li>
                 
-                                          <li class="ff-link-3"><a href="/frequently-asked-questions">FAQs</a></li>
+                                          <li class="ff-link-3"><a target="_blank" href="/frequently-asked-questions">FAQs</a></li>
                 
-                                          <li class="ff-link-4"><a target="_blank" href="http://nhpr.iapplicants.com/">How to Volunteer</a></li>
+                                          <li class="ff-link-4"><a target="_blank" href="http://nhpr.iapplicants.com">Job Opportunities</a></li>
                 
-                                          <li class="ff-link-5"><a target="_blank" href="http://nhpr.iapplicants.com">Job Opportunities</a></li>
-                
-                                          <li class="ff-link-6"><a href="/people/capacity/staff">People</a></li>
+                                          <li class="ff-link-5"><a href="/people/capacity/staff">People</a></li>
                 
                       </ul>
         </div>
@@ -958,19 +939,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h4>Support</h4>
         <div class="item_list">
           <ul>
-                                          <li class="ff-link-0"><a target="_blank" href="http://nhpr.org/donate-nhpr">Donate</a></li>
+                                          <li class="ff-link-0"><a target="_blank" href="http://nhpr.org/makeagift">Donate</a></li>
                 
-                                          <li class="ff-link-1"><a href="/support">Other Ways to Support</a></li>
+                                          <li class="ff-link-1"><a target="_blank" href="/support">Other Ways to Support</a></li>
                 
                                           <li class="ff-link-2"><a target="_blank" href="http://membercard.com/nhpr">MemberCard</a></li>
                 
-                                          <li class="ff-link-3"><a href="/become-sustaining-member">Membership</a></li>
+                                          <li class="ff-link-3"><a target="_blank" href="/leadership-circle">Leadership Circle</a></li>
                 
-                                          <li class="ff-link-4"><a href="/leadership-circle">Leadership Giving</a></li>
-                
-                                          <li class="ff-link-5"><a href="/business-support">Underwriting</a></li>
-                
-                                          <li class="ff-link-6"><a href="/event-sponsorship-opportunities">Event Sponsorship</a></li>
+                                          <li class="ff-link-4"><a target="_blank" href="/business-support">Underwriting</a></li>
                 
                       </ul>
         </div>
@@ -979,21 +956,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <h4>Connect</h4>
         <div class="item_list">
           <ul>
-                                          <li class="ff-link-0"><a href="/term/blogs">Blogs</a></li>
+                                          <li class="ff-link-0"><a target="_blank" href="http://nhpr.org/post/check-out-nhprs-blogs">Blogs</a></li>
                 
-                                          <li class="ff-link-1"><a href="/nhpr-comment-guidelines">Comment Guidelines</a></li>
+                                          <li class="ff-link-1"><a target="_blank" href="/nhpr-comment-guidelines">Comment Guidelines</a></li>
                 
-                                          <li class="ff-link-2"><a href="/contact">Contact </a></li>
+                                          <li class="ff-link-2"><a target="_blank" href="/contact">Contact </a></li>
                 
                                           <li class="ff-link-3"><a target="_blank" href="http://www.facebook.com/nhpublicradio">Facebook</a></li>
                 
-                                          <li class="ff-link-4"><a target="_blank" href="http://www.flickr.com/photos/nhpr/">Flickr</a></li>
+                                          <li class="ff-link-4"><a target="_blank" href="http://twitter.com/#!/nhpr">Twitter</a></li>
                 
-                                          <li class="ff-link-5"><a target="_blank" href="http://nhpr.org/topic/public-insight-network">Public Insight Network</a></li>
-                
-                                          <li class="ff-link-6"><a target="_blank" href="http://twitter.com/#!/nhpr">Twitter</a></li>
-                
-                                          <li class="ff-link-7"><a target="_blank" href="http://www.youtube.com/user/nhpublicradio">YouTube</a></li>
+                                          <li class="ff-link-5"><a target="_blank" href="http://www.youtube.com/user/nhpublicradio">YouTube</a></li>
                 
                       </ul>
         </div>
@@ -1014,62 +987,62 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 	<ul class="events">
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">25</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">24</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Book Readings</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1526563">Author: Julie Wu, 'The Third Son'</a></div>
+					<div class="event-category">Charity &amp; Outreach</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1584904">Southeast Land Trust's 12th Annual Fall Foliage Fundraiser</a></div>
 					<div class="event-description">
- At Gibson's Bookstore</div>
+ At Portsmouth Harbor Events and Conference Center</div>
 				</div>
 			</li>
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">25</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">24</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Art &amp; Museum Exhibits</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1515727">BOOK DISCUSSION AND SPOTLIGHT DISCUSSION | Pictures at an Exhibition</a></div>
+					<div class="event-category">Kids &amp; Family</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1576880">Ski Sale and Swap</a></div>
 					<div class="event-description">
- At Hood Museum of Art - Dartmouth College</div>
+ At Gould Academy Field House</div>
 				</div>
 			</li>
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">25</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">24</div>
 				</div>
 				<div class="event-details">
-					<div class="event-category">Lectures/Presentations</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1534412">Backyard Farming - ORGANIC GARDENING</a></div>
+					<div class="event-category">Community Events</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1583970">Movie Night at the Telephone Museum!</a></div>
 					<div class="event-description">
- At Grange Hall</div>
+ At New Hampshire Telephone Museum</div>
 				</div>
 			</li>
 					<li class="single-date">
 				<div class="event-date">
-					<div class="event-date-month">Jun</div>
+					<div class="event-date-month">Oct</div>
+					<div class="event-date-day">24</div>
+				</div>
+				<div class="event-details">
+					<div class="event-category">Theater &amp; Dance: Opera</div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1587202">Phantom of the Opera at the Enfield Shaker Museum - Mary Keane Chapel</a></div>
+					<div class="event-description">
+ At Enfield Shaker Museum - Mary Keane Chapel</div>
+				</div>
+			</li>
+					<li class="single-date">
+				<div class="event-date">
+					<div class="event-date-month">Oct</div>
 					<div class="event-date-day">25</div>
 				</div>
 				<div class="event-details">
 					<div class="event-category">Community Events</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1530013">Book Your Summer at Concord Public Library</a></div>
+					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1584820">6th Annual Run for Our School</a></div>
 					<div class="event-description">
- At Concord Public Library</div>
-				</div>
-			</li>
-					<li class="single-date">
-				<div class="event-date">
-					<div class="event-date-month">Jun</div>
-					<div class="event-date-day">26</div>
-				</div>
-				<div class="event-details">
-					<div class="event-category">Lectures/Presentations</div>
-					<div class="event-title"><a href="http://www.publicbroadcasting.net/nhpr/events.eventsmain?action=showEvent&amp;eventID=1510613">Legally Speaking - Your Business &amp; the Law</a></div>
-					<div class="event-description">
- At Southern New Hampshire University</div>
+ At Saint Thomas School</div>
 				</div>
 			</li>
 			</ul>
@@ -1145,6 +1118,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     }());
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":757,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":1051,"ttGuid":"","agentToken":"","atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
