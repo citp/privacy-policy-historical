@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grasshoppergroup.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225054224id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasshoppergroup.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025015414id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grasshopper
 
@@ -52,11 +52,11 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 ### Third Party Advertisers
 
-Grasshopper DOES NOT share, sell, rent or trade Web site usage information about users with a reputable third party. Grasshopper may share non identifiable aggregate information. but never call records or usage statistics to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
+Grasshopper DOES NOT share, sell, rent or trade Web site usage information about users. Grasshopper may share non identifiable aggregate information (but never call records or usage statistics) to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
 
 ### Service Providers
 
-We do not partner with other third party Systems to provide toll free services. When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 ### Business Transitions
 
