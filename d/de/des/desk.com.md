@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the desk.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621015838id_/http%3A//desk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desk.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024104639id_/http%3A//desk.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service
 
-[ ](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=89c5f057-7f71-4e69-9b74-43994ce03f69 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=d294a82b-391c-42c7-baf4-ae106278e6d3 "TRUSTe online privacy certification")
 
 Desk.com (or the “Company”), a salesforce.com, inc. company, is committed to protecting the privacy of individuals who visit the Company’s Web sites and individuals who register to use the Services as defined below. This Privacy Statement describes Desk.com’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Desk.com (the “Services”). 
 
