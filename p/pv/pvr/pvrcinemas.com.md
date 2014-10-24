@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pvrcinemas.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610223741id_/http%3A//www.pvrcinemas.com/general/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvrcinemas.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024025629id_/http%3A//www.pvrcinemas.com/general/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PVRCinemas.com - Watch movies at a PVR near you
 
