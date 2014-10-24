@@ -1,101 +1,115 @@
-> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114210125id_/http%3A//www.evo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evo.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024021139id_/http%3A//www.evo.com/what-is-your-privacy-policy.aspx) for the most accurate reproduction.*
 
-# EVO Privacy Policy
+# What is your privacy policy? | evo
 
-**The effective date of this Agreement is July, 2007.**
+### Effective Date: September 12, 2014
 
-EVO is an online application that helps people find products/services that may be desired by individuals interested in interacting with companies that intend to manufacture and sell goods using environmentally sustainable practices and materials. To accomplish this, EVO aggregates information as it is published by 3rd party companies and which is then posted to the EVO Site. These posts can then be accessed and read by other EVO users. For the purposes of this Privacy Policy, a "user" is defined as someone using the EVO Site, and a "friend" is defined as someone you have explicitly invited to share reviews with you. To fulfill the purpose of our site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular review.
+##  ** _Our Privacy Philosophy_**
 
-By using EVO, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. 
+Evolucion Innovations, Inc. (“evo”, “we”, “us”, “our”) is committed to protecting the privacy of our customers and site visitors. This Privacy Policy explains how we collect information about you, how we use it, and how you can request that this information be updated or corrected or its use modified. We reserve the right to amend or otherwise modify this Privacy Policy at any time, so please re-visit this page periodically to check for updates.  Revisions to this Privacy Policy will be effective when posted on this Site. The date of last revision is shown at the top of the front page of this document. In addition, we may supplement our current Privacy Policy with additional notices of our information practices specific to certain programs or activities.
 
-  1. Information We Collect
+## Contents
 
-EVO collects user submitted account information such as name and email address to identify you and send you notifications related to the use of the service. EVO also collects user submitted location information such as city, state or zip. EVO also collects user submitted photos, reviews, and ratings of local businesses and service providers. 
-
-Some information collected is not explicitly submitted by the user; we log your browser-type related information, IP address, requested URL, referring URL, and timestamp. 
-
-  2. How We Use Your Information
-
-Information such as your full name, profile photo and any personally identifiable information you have included in your reviews may be shown to friends or other users primarily in conjunction with content you have contributed. If a person is a friend they can also see your name or email address in their list of friends. In addition, we may publish your reviews to third parties, in which case your first name and last initial and any personally identifiable information you have included in your reviews may be shown to users of such third party web sites. 
-
-Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation, or when sharing a listing of a product/service/editorial content). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by updating your notification settings. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message). 
-
-Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer EVO, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
-
-  3. Transfer of Information
-
-We may publish your reviews to third parties. Your first name and last initial, profile photo, any submitted photos of businesses, and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their websites in connection with such third parties’ publication of your reviews. 
-
-Except as set forth in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. EVO will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, EVO may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. 
-
-We reserve the right to transfer your personal information in the event of a transfer of ownership of EVO, such as an acquisition by or merger with another company. In such an event, EVO will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-EVO will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing. 
-
-  4. Links
-
-Our website will contain links to third party websites to which we have no affiliation. EVO does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy policies on these third party websites. 
-
-  5. Use of Cookies
-
-Like most websites, EVO requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that EVO cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the EVO site. 
-
-  6. Controlling Your Personal Information
-
-You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via reviews, messages, forums, postings, or in other areas of the EVO site, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of EVO. Please do not post any personal information on the EVO site or in other areas that you expect to keep private. 
-
-As a registered EVO user, you can modify your personal information at any time by accessing the "Account" section of the site. Also, upon your request, EVO will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by EVO. Registered users who wish to close their account should contact admin@EVO.com. 
-
-  7. Security
-
-Your EVO account is password-protected. EVO tries very hard to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
-
-You hereby acknowledge that EVO is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. 
-
-  8. Emails and Opt-out
-
-Registered members cannot opt-out of personal messages initiated by friends and users; however they may opt-out of receiving notifications initiated by EVO simply by unsubscribing. Future enhancements to the EVO platform will allow users to unsubscribe from portions of EVO generated email. 
-
-  9. Children
-
-This website is not directed to children, and EVO does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
-
-  10. Terms and Modifications to this Privacy Statement
-
-By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. EVO may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. 
-
-  11. Contacting the Web Site 
-
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact: 
-
-EVO Media, Inc.  
-1112 Montana Avenue, Suite 452  
-Santa Monica, CA 90403
+  * Collection of Information
+  * Use of Information
+  * Sharing of Information
+  * Social Sharing Features
+  * Security
+  * Internet Technologies Used
+  * Children's Privacy
+  * Links from our Services to Other Websites
+  * Your Choices
+  * Third Party Advertising, Analytics and Services
+  * Your California Privacy Rights
+  * Changes to this Policy
+  * Contact Us
 
 
 
+## Collection of Information
 
-EVO is a proprietary service mark of EVO Media, Inc. Copyright © 2007 EVO Media, Inc.
+We collect information you provide us on servers located in the United States. We collect information when, for example, you create an online account with us, use our website and mobile features (together, “Services”), purchase or rent from us, enter the contests, promotions, events and newsletters we sponsor or otherwise provide us information about yourself. The type of information we collect may include:
 
-Use of this site is subject to express [Terms of Service](https://web.archive.org/terms). By continuing past this page, you agree to abide by these terms.
+  * Account information we may collect includes your name, postal and e-mail address, phone number, social media username(s), and any information you may share about your interests and preferences.
+  * Transaction information we may collect includes account information as well as your credit card information and transaction history.
+  * Information we may collect related to evo demos, events and sponsored trips includes, if and as applicable, health & fitness specifics, activity proficiency, dietary requirements and emergency contact information among other things.
 
+
+
+We may also automatically collect information about you when you access or use our Services. Automatically collected data may include log-in information (browser type, access date & time, publisher IP, etc.), device information (hardware type/model, operating system and, if using evo’s in-store wifi network, browsing history) as well as your location information if required.  
+
+In addition, we may use cookies, web beacons, and other tracking technologies to collect information about you and your interaction with our Services, including information about your browsing and purchase behavior on our website and other interaction with our Services. We use this information in one or more of the ways described in the "Use of Information" section below. Most web browsers are set to accept cookies by default, but typically you can change your browser settings to remove or reject cookies. 
+
+## Use of Information
+
+The information we collect is generally used to process your requests or transactions, provide you with the Services, personalize them to you and maintain and improve their quality, tell you about opportunities we think will be of interest, monitor and analyze your use and behavior patterns, and understand your needs so that we can serve you better. For example, we may use your telephone number, your e-mail or your postal address to communicate about opportunities and programs. If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You can contact us at any time to request an update to your personal information on file or modify our use of it (see Your Choices below).
+
+We store and process information on computer servers located in the United States.  
+
+
+## Sharing of Information
+
+We may share personal information about you outside of the evo family. For example:
+
+  * We may provide to a third party certain information that is necessary to fulfill an order you have placed with us. For example, if you request shipment for a purchase, we may provide your address to the shipping carrier, and if you pay by a credit or debit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services). However, we give vendors, suppliers, and others involved in the commercial distribution chain only the information needed to provide you the products or services you order, such as shipping and/or billing address, e-mail address, telephone number and product orders. Moreover, we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
+  * When you participate in the interactive areas of our Services, such as chat rooms, forums, message boards or news groups (if any), certain information about you may be displayed publicly on our Services and on third party sites, such as your photos, posts, and other information you choose to provide in your profile or during that session. We do not routinely monitor or retain logs or copies of these interactive areas, if any, that may be available on our Services. However, you should be aware that your use and disclosure of any information in these areas is governed by our [Terms of Use](https://web.archive.org/terms-and-conditions-of-service.aspx).
+  * We may also provide access to data that include your information in connection with the contemplated or actual financing, securitization, insuring, merger, sale or other encumbrance, divestiture or disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with the transaction or fulfilling any records or other reporting requirements to relevant third parties. In the event of any actual transaction involving transfer of ownership or encumbrance, your personal information, among other things, may be transferred as part of the transaction.
+  * We also may share your information when you specifically ask or authorize us to do so, or when we conclude disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, to enforce our agreements and policies, and where circumstances otherwise warrant doing so. 
+
+
+
+## Social Sharing Features
+
+The Services may offer social sharing features or other integrated tools, which let you share actions you take on the Services with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party providers of the social sharing features you select.  Your use of any social sharing features offered by the Services is governed by our [Terms of Use](https://web.archive.org/terms-and-conditions-of-service.aspx) and this Privacy Policy. For more information about the purpose and scope of data collection and processing in connection with third-party social sharing platforms, please visit the third-party providers’ privacy policies.
+
+## Security
+
+We take commercially reasonable measures to secure and store your personal information to protect against its loss, misuse or alteration while under our control. We use industry standard security measures when accepting your credit card information during the online ordering process, as well as whenever we ask you to login to any of our Services. That said, data transmission over the Internet is not 100% secure. Although we use industry standard security measures, we do not guarantee against the loss, misuse or alteration of any information during its delivery or under our control. We thus urge you to always take care how you handle and disclose your personal information over the Internet   
  
 
-|  | 
+## Internet Technologies Used
 
-About Us
+Cookies, web beacons and other relevant Internet technologies are used on our Services to allow us to accomplish the uses set out in this Privacy Policy as well as to deliver Service messaging and to keep track of your information. These small pieces of program code or “files” reside on your computer hard drive and browser and can be removed. If you desire to remove the technologies you may do so, but this may render our Services unusable to you. You can opt out of cookies or the other Internet technologies used by disabling these features in your browser program. Consult your browser’s “Help” menu for assistance in changing cookie settings or removing cookie files. 
 
-Contact
+## Children's Privacy
 
-Susan Spencer  
-Spencer Communications  
-[pr@evo.com](mailto:pr@evo.com)
+We are very sensitive to the issue of children’s privacy. Our Services are neither developed for, nor directed at, children under 13 years old. If you believe your child has provided us with personal information, or registered with one of our Services and would like to have this information removed, please contact our privacy representative at [privacy@evo.com](mailto:privacy@evo.com) for assistance. 
 
-EVO Media, Inc.  
-1112 Montana Ave, Suite 452  
-Santa Monica, CA 90403  
-[business@evo.com](mailto:business@evo.com)
+## Links from Our Services to Other Websites
 
-Site  
-  
----|---|---
+Our Services may contain links to third-party owned or operated websites. When you access these external websites, the providers of the websites, which may include product or service vendors and other unrelated parties, may have access to certain information about you. Please be aware that once you have left our Services, we are not responsible for the privacy practices or the content of any websites that we do not control directly and the collection, use and disclosure of information about you by these entities will be subject to the privacy policies applicable at those other websites. 
+
+## Your Choices
+
+ **Your Information.  **You may update or correct information about you by logging into your online account or emailing privacy@evo.com. You may also email us at this same address if you wish to deactivate your account, but note that we may retain certain information about you for archival, safety notice and other legal or business purposes.
+
+ **Promotional Communications.  **You may opt out of receiving promotional emails and text messages from evo by following the instructions in those communications or by contacting evo customer care [here](https://web.archive.org/customer-care-phone-hours.aspx). If you opt out of receiving promotional communications, we may still send you non-promotional emails that, for example, relate to your purchases, your account or our ongoing business relations.
+
+ **Location Information.**  You also have the ability to turn location-based services on and off by adjusting the settings of your Internet browser or mobile device, or by following the standard uninstall process and removing all evo applications, if any,from your mobile device.
+
+Notwithstanding the foregoing or any other provision in this Privacy Policy, you may not be permitted to withdraw your permission or consent to certain necessary uses and disclosures of your personal information, for example, but not limited to, providing product safety and recall announcements and services, maintaining reasonable business and transaction records, and disclosures required by applicable laws. In addition, we may be required or permitted under various federal, state and/or foreign laws to collect, use or disclose your information without your consent, for example, to comply with a valid subpoena, court order or governmental inquiry, or to collect a debt owed to us. We expressly reserve all rights described in this paragraph.
+
+## Third Party Advertising, Analytics and Services
+
+We allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These third parties may use similar technologies to collect the same or similar information as we use and collect to analyze and track data, determine the popularity of certain content, deliver advertising and content that aligns with your interests on our Services and other websites, and to better understand, generally, your online activity. This Privacy Policy does not apply to, and we are not responsible for, third party technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
+
+We also use a third party to "power" product reviews on our Services. When you submit a product review, you become subject to the terms of use and privacy policy of this third party, and the reviews you submit may be posted on our Services and on third party websites.
+
+## Your California Privacy Rights
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. However, under the law, a business is not required to provide this information if it permits California residents to optin to, or opt out of  this type of sharing. evo qualifies for this alternative option. To opt out of having your information shared with third parties for direct marketing purposes, please [call Customer Service](https://web.archive.org/customer-care-phone-hours.aspx). 
+
+## Changes to this Privacy Policy
+
+evo may change this Privacy Policy from time to time in at sole discretion. Each time changes are made, we revise the Effective Date above. We encourage you to periodically review the Privacy Policy to insure you have the most current version and to stay informed about our information practices and the ways you can help protect your privacy. 
+
+## Contact Us
+
+If you want to update or access your personal information, or if you have any questions, comments or concerns about this Privacy Policy or our privacy practices, please contact our privacy officer at [privacy@evo.com](mailto:privacy@evo.com). You may also direct your privacy-related requests, comments or questions to the following address:
+
+evo  
+Attention: Privacy Officer  
+3500 1st Ave NW  
+Seattle, WA 98107
+
+ 
