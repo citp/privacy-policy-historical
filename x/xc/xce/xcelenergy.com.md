@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcelenergy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100437id_/http%3A//www.xcelenergy.com/staticfiles/xe/Admin/Xcel%2520Online%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcelenergy.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024160930id_/http%3A//www.xcelenergy.com/staticfiles/xe/Admin/Xcel%2520Online%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Xcel Energy Privacy Policy
 
@@ -9,51 +9,51 @@ Xcel Energy Inc., its wholly owned affiliates and subsidiaries (collectively, �
 understands that privacy is important to you, and we respect your privacy concerns. This
 Privacy Policy describes our privacy practices.
 The Policy explains:
-    •  What information we collect from and about you when you use our products and
+      What information we collect from and about you when you use our products and
        services, communicate with us, visit our websites, or interact with us through social
        media
-    •  How we use and share the information we collect
-    •  The choices we offer you regarding how we use and disclose information about you,
+      How we use and share the information we collect
+      The choices we offer you regarding how we use and disclose information about you,
        and how to exercise those choices
-    •  How you can access and request that we correct the information we maintain about
+      How you can access and request that we correct the information we maintain about
        you
-    •  How we safeguard the information we maintain, and
-    •  How you can ask questions about our privacy practices and seek resolution of any
+      How we safeguard the information we maintain, and
+      How you can ask questions about our privacy practices and seek resolution of any
        concerns you may have regarding our handling of your information
 Information We Collect
 We may obtain information about you through various sources, such as:
-    •  Phone, fax, e-mail, social media and other means by which you communicate with us
-    •  A utility meter we have installed at your home or business
-    •  Xcel Energy websites, social media pages, mobile applications and other interactive
+      Phone, fax, e-mail, social media and other means by which you communicate with us
+      A utility meter we have installed at your home or business
+      Xcel Energy websites, social media pages, mobile applications and other interactive
        assets that you access
-    •  Surveys, contests, sweepstakes and other promotions
-    •  Our parent, affiliate or subsidiary companies
-    •  Our service providers and other third parties
+      Surveys, contests, sweepstakes and other promotions
+      Our parent, affiliate or subsidiary companies
+      Our service providers and other third parties
 The types of information we may obtain about you include:
-    •  Contact information (such as name, postal address, e-mail address, phone number)
-    •  Demographic data (such as date of birth, home ownership status and household
+      Contact information (such as name, postal address, e-mail address, phone number)
+      Demographic data (such as date of birth, home ownership status and household
        income)
-    •  Details about your home (such as dwelling age, size and type, and details about
+      Details about your home (such as dwelling age, size and type, and details about
        appliances and other energy-related equipment used in the home)
-    •  Customer service addresses and dates of service
-    •  Information about your participation in our renewable energy, energy efficiency, or
+      Customer service addresses and dates of service
+      Information about your participation in our renewable energy, energy efficiency, or
        energy conservation programs
 
 
-    •    Account history with Xcel Energy (such as disconnection notices issued,
+        Account history with Xcel Energy (such as disconnection notices issued,
          disconnection and reconnection dates, payment arrangement dates, late payment
          notices, and applied late fees)
-    •    Account notes detailing our interactions with you via phone, e-mail, fax, and/or social
+        Account notes detailing our interactions with you via phone, e-mail, fax, and/or social
          media
-    •    User name or ID and password for an account you may establish on our websites
-    •    Energy Usage Data specific to your account (the type of Energy Usage Data collected
+        User name or ID and password for an account you may establish on our websites
+        Energy Usage Data specific to your account (the type of Energy Usage Data collected
          from utility meters and the frequency with which we collect that information varies
          depending on the type of meter installed; our website provides more information
          about our metering technology)
-    •    Customer payment history and details, including: payment amounts and dates,
+        Customer payment history and details, including: payment amounts and dates,
          financial account number, routing number, and billing address
-    •    Credit report information
-    •    Your Social Security Number
+        Credit report information
+        Your Social Security Number
              o We ask for and use SSNs when setting up new service to confirm the
                  customer’s identity
              o We also use SSNs to protect against fraud by confirming that we are speaking
@@ -65,7 +65,7 @@ The types of information we may obtain about you include:
                  residential service you request. We do not obtain full credit reports or credit
                  scores from consumer reporting agencies when establishing residential
                  service.
-    •    Other information you may provide to us
+        Other information you may provide to us
 Web Browsing Details
 When you visit our websites or social media pages we may collect certain information by
 automated means, such as cookies and web beacons. A “cookie” is a text file that a websites
@@ -81,26 +81,26 @@ websites; site navigation patterns; a general geographic location from which a v
 accesses our websites; and search terms that visitors use to reach our websites.
 How We Use the Information We Collect
 We may use the information we obtain about you to:
-    •    Assist you in establishing your account with Xcel Energy
+        Assist you in establishing your account with Xcel Energy
 
 
-    •    Provide, bill and collect for Xcel Energy products and services
-    •    Communicate with you, respond to your questions and comments, and provide
+        Provide, bill and collect for Xcel Energy products and services
+        Communicate with you, respond to your questions and comments, and provide
          customer support
-    •    Provide you access to your information via the My Account site
-    •    Administer your participation in events, programs, surveys, and other offers and
+        Provide you access to your information via the My Account site
+        Administer your participation in events, programs, surveys, and other offers and
          promotions
-    •    Operate, evaluate and improve our business and the regulated products and services
+        Operate, evaluate and improve our business and the regulated products and services
          we offer (including developing new products and services, analyzing our products
          and services, optimizing customer experience on websites, managing our energy
          distribution system and our communications, reducing costs and improving service
          accuracy and reliability, and performing accounting, auditing and other internal
          functions)
-    •    Create aggregated or de-identified energy usage data
-    •    Protect against and prevent fraud, unauthorized transactions, claims and other
+        Create aggregated or de-identified energy usage data
+        Protect against and prevent fraud, unauthorized transactions, claims and other
          liabilities, including past due accounts
-    •    Manage risk exposure
-    •    Comply with applicable legal and regulatory requirements
+        Manage risk exposure
+        Comply with applicable legal and regulatory requirements
 Online Advertising
 You may see ads about our products and services on other websites because we participate in
 advertising networks. Ad networks allow us to target our advertising to users through
@@ -155,14 +155,14 @@ any inquiries concerning the processing of that information.
 Information Disclosures that Require Customer Authorization
 We may share certain information about you with a third party if you have previously
 authorized the disclosure in writing, including:
-     •   Energy Usage Data – The following links provide access to our Energy Usage Data
+        Energy Usage Data – The following links provide access to our Energy Usage Data
          release authorization forms:
              o Colorado Customers - Electric Energy Usage Data Release Form
              o Colorado Customers - Natural Gas or Steam Energy Usage Data Release
              o Customers in Michigan, Minnesota, New Mexico, North Dakota, South
                  Dakota, Texas and Wisconsin – Electric and Natural Gas Energy Usage Data
                  Release Form
-     •   Requests for disclosure of customer information other than Energy Usage Data:
+        Requests for disclosure of customer information other than Energy Usage Data:
              o Service Verification Letters
              o Credit Reference Letters
 
