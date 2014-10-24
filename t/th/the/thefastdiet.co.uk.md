@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefastdiet.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133303id_/http%3A//thefastdiet.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastdiet.co.uk privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024155216id_/http%3A//thefastdiet.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy » The Fast Diet
 
@@ -11,6 +11,8 @@ This includes your need and your right to know what we do with the personal info
 “The Fast Diet website”: refers to the web pages. By accessing this website you are consenting to the way information is collected and used, as described within this privacy  and cookie policy.
 
 In return, The Fast Diet website gives the commitment that we will use the personal data you provide only in ways that are compatible with the following privacy policy.
+
+We may disclose non-personally identifiable aggregated user data, such as aggregated gender, age, height, weight, and usage data gathered from our tracker (without the inclusion of a user’s name or other identifying information) on the website, available to the public, for purposes of comparison and inspiration. We may also disclose this data to other third party organisations, approved by us, for research and commercial purposes.
 
 Every time you visit our website your IP (Internet Protocol) address registers on our servers. Your IP address reveals no information other than the number assigned to you. We do not use this technology to get any personal data against your knowledge or free will (i.e., automatically recording e-mail addresses of visitors). Nor do we use it for any purpose other than to help us monitor traffic on our website, or (in case of criminal activity or misuse of our information) to cooperate with law enforcement.
 
