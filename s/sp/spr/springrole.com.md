@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springrole.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616051146id_/http%3A//www.springrole.com/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springrole.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024130151id_/http%3A//springrole.com/site/privacypolicy.htm) for the most accurate reproduction.*
 
 # SpringRole- Privacy Policy
 
