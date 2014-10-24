@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808050538id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024045311id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone Life
 
@@ -8,7 +8,7 @@ Below is our current policy regarding usage of information collected by _iPhone 
 
   1. We never give out phone numbers, nor do we ever telemarket. When collected, phone numbers are used only by our customer service representatives for support or a purchase concern.
 
-  2. We obtain email address and other information in any of a number of ways. These include:
+  2. We obtain email address and other information in any of a number of ways. These include but are not limited to:
 
     1. Subscriptions to _iPhone Life_
 
@@ -19,7 +19,9 @@ Below is our current policy regarding usage of information collected by _iPhone 
     4. Subscription to our email newsletters
 
     5. Shopping cart purchases
+
     6. Online surveys
+
 
 
 
@@ -31,7 +33,7 @@ On occasion we may send you relevant email concerning our products or services. 
 
   3. As part of our service, we link to many Web sites. We consider these useful, reputable sites. However, due to the changing nature of the Web, we cannot assume responsibility for content, security, or privacy policies of any of these Web sites.
 
-  4. We use cookies to enable our shopping cart and to track Web traffic. We do not profile or collect information on individuals.
+  4. We use cookies and web beacons to enable our shopping cart, to track web traffic, and support advertising partnerships such as Google and Tech Net. We do not profile or collect personally identifiable information on individuals.
 
   5. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
 
