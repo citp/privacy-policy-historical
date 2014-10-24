@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adtech.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613075549id_/http%3A//www.adtech.com/en/bottomnavigation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtech.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024111129id_/http%3A//www.adtech.com/en/bottomnavigation/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ADTECH Ad Server Solutions
+# ADTECH Ad Server Solutions - Updated Privacy Policy
+
+Effective September 15, 2014 the ADTECH Privacy Policy will be updated. To learn more about these updates, please review the [updated Privacy Policy](http://privacy.aol.com/updated_policy) or visit our [Frequently Asked Questions](http://privacy.aol.com/faq/).
 
 We appreciate your visit to the website of ADTECH GmbH (hereafter referred to as "ADTECH"). Thank you for your interest in our company, our products, and our webpages.  
 As we put great emphasis on the protection of your privacy when you use our webpages, we utilize your data in accordance with the statutory data protection regulations. Below, we inform you about how we handle your data.  
