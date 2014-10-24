@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214175522id_/http%3A//www.bikebandit.com/help/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024162732id_/http%3A//www.bikebandit.com/help/security) for the most accurate reproduction.*
 
 # BikeBandit.com Help and Customer Service
 
@@ -57,9 +57,9 @@ BikeBandit.com is the sole owner of the information collected on this site. Bike
 
 BikeBandit.com will use your information to respond to you, regarding the reason you contacted us. BikeBandit.com will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-Unless you ask us not to, BikeBandit.com may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+Unless you ask us not to, BikeBandit.com may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. You may opt out of any future contacts from us at any time. To update your email preferences or to unsubscribe from our email mailing list, [click here](https://echo3.bluehornet.com/form/1046/801/preferences). 
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us:
+You can also find out the following information at any time by contacting us:
 
   * See what data BikeBandit.com has about you, if any.
   * Change/correct any data BikeBandit.com has about you.
