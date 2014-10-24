@@ -1,43 +1,41 @@
-> *The following text is extracted and transformed from the thewhuffiebank.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101091206id_/http%3A//www.thewhuffiebank.org/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhuffiebank.org privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024114343id_/http%3A//thewhuffiebank.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Whuffie Bank
 
-The Whuffie Bank is a nonprofit organization dedicated to building a new currency based on your online reputation. Your Whuffie is calculated by tracking and analyzing your activity on social networks.
+What information do we collect?  
+We collect information from you when you subscribe to our newsletter or fill out a form.
 
-**We take your privacy very seriously.**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
-All the data we collect and use is already publicly available on the Internet, except when you give us additional information and authorize us explicitly to use it.
+What do we use your information for?  
+Any of the information we collect from you may be used in one of the following ways:
 
-The points below sets out our Privacy Policy.
+To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.  
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  
+How do we protect your information?  
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
+Do we use cookies?  
+We do not use cookies.
 
-## Information Collected
+Do we disclose any information to outside parties?  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-The Whuffie Bank collects the following types of information:
+Third party links  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-  1. Personal information provided by you (e.g. username, contact email).
-  2. Third party information provided by you that is publically accessible (e.g. a public Twitter feed, your public profile on LinkedIn).
-  3. Usage information (collected through cookies and log files).
+California Online Privacy Protection Act Compliance  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-  
+Childrens Online Privacy Protection Act Compliance  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+Online Privacy Policy Only  
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## Use made of this information
+Changes to our Privacy Policy  
+If we decide to change our privacy policy, we will post those changes on this page.
 
-As a general rule, information provided by you will be used exclusively by us for the purposes of delivering the best possible service and user experience.
-
-In particular:
-
-  1. If you have a publicly available profile (for example a Twitter profile which is not set to 'private' or a have chosen to make information on a Facebook or LinkedIn or other profile public), we will (in common with many other services on the Internet) index and present some information from this profile. If you do not wish to have this profile available publicly on the The Whuffie Bank, please click on “Delete Your Account” at the bottom of the page and follow the instructions.
-  2. However, please note that in common with other indexing services, our crawlers will continue to index any public profiles. We recommend that if you do not want to be indexed by The Whuffie Bank (or similar services) that you set the appropriate privacy controls within 3rd party applications like Facebook or Twitter. You can learn how to do this by visiting those sites directly.
-  3. We will use Personal Information provided by you to set up your Member Profile, which is your public face on the site, as well as to register your preferences.
-  4. We will share rankings and Whuffie balances/salaries calculated for you with other users. Such information is automatically available on our public site.
-  5. We will not share your email address with third parties (save as described below in point 7) unless you explicitly allow us to.
-  6. We use cookies and log files to speed up login/access to features and generally enhance the user experience. The information is kept separate from your Personal Information. You may restrict our access to cookies (though this will adversely impact functionality of the site).
-  7. No personally identifiable information, that is not already publicly available, will be provided to third parties except as mandated by law.
-
-
-
-If you have have any doubts about how The Whuffie Bank handles your information, please send us an e-mail to [hello@thewhuffiebank.org](mailto:hello@thewhuffiebank.org).
+This policy was last modified on July 18, 2014
