@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the land-fx.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216041908id_/http%3A//www.land-fx.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the land-fx.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025111536id_/http%3A//land-fx.com/policy/privacy) for the most accurate reproduction.*
 
-# LAND FX - Forex Trading / Currency Trading and Brokers by LAND FX
+# LAND FX : Online Forex Broker - Foreign Exchange Trading - Financial Law Abiding Company
 
 Our goal is to maintain your trust and confidence when handling personal information about you.   
 YOU HAVE CHOICES As a Land-FX customer, you have the opportunity to make choices about how personal information   
