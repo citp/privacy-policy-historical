@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachworld.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630111902id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachworld.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025055430id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
 
 # VIZ.com
 
@@ -18,7 +18,7 @@ This policy describes our privacy practices for our websites, mobile websites, s
 
 **Demographic information** : We may collect information about products you like, services you use or what you buy. We might also ask for information like your age.
 
-**Third Party Information** : We might collect a friend’s email address to send them an electronic postcard. We may also collect contact information to get a parent’s consent if a minor wants to use our site.
+**Third Party Information** : We might collect a friend's email address to send them an electronic postcard. We may also collect contact information to get a parent's consent if a minor wants to use our site.
 
 **Other Information** : If you use our Sites, we may collect information about the browser or platform you are using. We might track the pages you visit. We might look at what site you came from, or what site you visit when you leave us. We collect this information using the tracking tools described here.  
   
