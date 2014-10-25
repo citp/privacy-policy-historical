@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221142801id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025203212id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.co.uk: Privacy Policy
 
 | 
 
-PRIVACY POLICY
+## PRIVACY POLICY
 
 Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Internet Products. We are dedicated to protecting the privacy of those who visit our Website and use our Internet Products. This Privacy Policy governs the United Kingdom and Ireland websites operated by us (our "Website") and our Internet Products and explains how we collect your personal information on our Website or through our Internet Products, how we protect such information, and the choices you have concerning the use of such information. Please read this Privacy Policy carefully. The Website is for use by residents of the United Kingdom only (excluding the Channel Islands) and Ireland only. Except as WeightWatchers.co.uk Limited ("WeightWatchers.co.uk"), Weight Watchers International, Inc. and Weight Watchers UK Limited (collectively, "we", "us", or "our" disclose in this Privacy Policy, we will not sell, share, licence, trade, or rent your personal information collected on our Website or through the Internet Products to others.
 
@@ -14,8 +14,7 @@ We may amend this Privacy Policy from time to time. We will post any changes to 
 
 The following are links to the provisions of our Privacy Policy. For immediate access to a particular topic, click on that provision title below.
 
- ** _ **Personally Identifiable Information**_**  
-
+##  _ **Personally Identifiable Information**_
 
 Personally identifiable information is information that identifies you or can be used to identify or contact you ("Personally Identifiable Information"). Such Personally Identifiable Information may include your name, address, email address, telephone number, birth date (primarily for eligibility purposes) and billing and credit card information. We may request Personally Identifiable Information from you when you register on our Website or subscribe to our Internet Products, or in connection with other Internet Products we may make available on our Website from time to time. In all of these cases, we will collect Personally Identifiable Information from you only if you voluntarily submit such information to us. Unless you give us permission to do so, we will not sell, share, license, trade or rent your Personally Identifiable Information other than as specified in this Privacy Policy.
 
@@ -24,8 +23,7 @@ You do not have to provide us with any Personally Identifiable Information to vi
  _ **Non-Personally Identifiable Information**_  
 When you become a community user of our Website, subscribe to one of our current Internet Products, or in connection with other Internet Products we may make available on our Website from time to time, we also may collect information that by itself cannot be used to identify or contact you, such as demographic information (like age, profession or gender) and health information (like current weight) ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. Non-Personally Identifiable Information is used to help us understand who uses our Website and to improve and market our Website in general and our Internet Products in particular.
 
- ** _ **Information from Other Sources**_**  
-
+##  _ **Information from Other Sources**_
 
 We may also supplement the information we collect with information from other sources to assist us in evaluating and improving our Website and Internet Products, to determine your preferences so that we can tailor our Website and Internet Products to your needs, and/or to study nutritional, weight loss, behavioural and fitness questions in general.  
 []()  
@@ -42,7 +40,7 @@ In order to access certain Internet Products on our Website, such as Community A
 
 ............................................................................................................................................................................................. []()
 
-HOW DOES OUR WEBSITE USE COOKIES?
+## HOW DOES OUR WEBSITE USE COOKIES?
 
 This section of our Privacy Policy contains information on what “cookies” are, the cookies used by this website, how to switch cookies off in your browser, how to specifically disable third party advertising cookies, and some useful links for further reading. If you do not see the information you were looking for, or you have any further questions about the use of cookies on this site, please email [uk.legal@weightwatchers.co.uk.](mailto:uk.legal@weightwatchers.co.uk)
 
@@ -104,8 +102,7 @@ All About Cookies
 
 The IAB has provided the following website to give information specifically about privacy issues around Internet advertising: youronlinechoices.co.uk/uk. .............................................................................................................................................................................................
 
- ** _ **Action Tags.**_**  
-
+##  _ **Action Tags.**_
 
 "Action tags," also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of our Website, including advertisements, or e-mail sent on our behalf, may contain cookies that are associated with action tags that our located on our Website. Unlike cookies, action tags are not placed on your computer.
 
@@ -119,8 +116,11 @@ Our Website includes social media features, buttons and widgets provided by thir
 []()_**Facebook Connect or other OpenID provider**_  
 You can log in to our Website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity.
 
- ** _ **Referral Programmes.**_**  
+##  _ **Linking your account with third party applications and devices**_
 
+Linking your account with third party applications and devices Our website offers you the option to connect your Weight Watchers account with third party applications or devices (each a “Tracker”) such as activity trackers that measure your activity level (e.g. the number of steps and distance walked, calories burned and other personal metrics). When you have purchased such a Tracker from Weight Watchers (e.g. in a Weight Watchers meeting room or online) and set up your account with the provider of the Tracker , the provider might know that this Tracker was purchased from Weight Watchers. During the set-up of your account with such provider, you might therefore be asked whether you want to connect this third party account with your Weight Watchers account. Alternatively, you will be able to connect your Weight Watchers account with your third party account in other ways, such as on the Weight Watchers website, regardless of where you have purchased your Tracker. If you connect the two accounts, the provider of your Tracker will know that you have a Weight Watchers account. At the same time, data collected via the Tracker (for example, personal activity data collected) will be transferred to us so that we can update and personalize your Weight Watchers account (for example, to display activity _**ProPoints**_ ® values earned) in accordance with the terms of this Privacy Policy. You have the option to disconnect the Trackers from your Weight Watchers account at any time via our website. Please refer to the privacy policy of your Tracker provider for further details, which may include information on what specific data is collected by your third party Tracker and account.
+
+##  _ **Referral Programmes.**_
 
 Through third party referral programme operators and others, we offer referral programmes whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programmes, the users who become subscribers to our Internet Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our programme operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
 
@@ -132,8 +132,7 @@ We collect information, some of which may be Personally Identifiable Information
  _ **Public Forums and the Community Profile Feature..**_  
 We feature public forums such as those contained in the Community Areas where you and other users of our Website can communicate with one another. In addition, we offer the "Community Profile" feature of our Website to permit you to share information about yourself (including, if you elect, Personally Identifiable Information) with others. THIS PRIVACY POLICY DOES NOT PROTECT YOU WHEN YOU USE OUR PUBLIC FORUMS OR PROVIDE INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) ABOUT YOURSELF THROUGH THE COMMUNITY PROFILE FEATURE OR THROUGH ANY COMMUNITY AREA AVAILABLE ON OUR WEBSITE. You should be aware that any information shared in a public forum such as a message board, blog, personal page, posting, group, bulletin board or recipe swap or through our Community Profile feature is public information and may be seen or collected by third parties (such as search engines) that do not adhere to our Privacy Policy, although the availability of personal pages or groups identified as “private” may be limited to certain permitted users. However, even information marked “private” may be viewed by our staff. Third party search engines will not collect information you designate as “private”, however once you participate in a Community Area by posting content, the content that you post (including your username) may appear in third party search engines. You should think carefully before disclosing any information in any public forum, or through the Community Profile feature, on our Website. For example, you should not select a username that includes personal information
 
- ** _ **Log Files.**_**  
-
+##  _ **Log Files.**_
 
 We also collect Non-Personally Identifiable Information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. This information may be used to analyse trends, to administer the Website, to monitor our Website's use, and to gather general demographic information. We may link this information to Personally Identifiable Information for these and other purposes such as personalizing your experience on our Website and evaluating our Internet Products in general.
 
@@ -158,8 +157,7 @@ We may also use the information gathered on our Website and through our Internet
 
 Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on our Website.
 
- ** _ **Affiliates**_.**  
-
+##  _ **Affiliates**_.
 
 We may disclose information (including Personally Identifiable Information) about you to our Affiliates. For purposes of this Privacy Policy, "Affiliates" means any person or entity which directly or indirectly controls, is controlled by or is under common control with WeightWatchers.com, Inc., WeightWatchers.co.uk, Weight Watchers International, Inc. and Weight Watchers UK Limited, whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy. We may share your information (including Personally Identifiable Information) with franchisees of Weight Watchers International, Inc.,, but only where we indicate to you at time of information collection that such information will be provided to a franchisee, or if we otherwise obtain your permission.
 
@@ -169,16 +167,14 @@ We may also disclose your information (including Personally Identifiable Informa
  _ **Third Parties Generally**_.  
 We may provide to third parties information about you that does not allow you to be identified or contacted, including where such information is combined with similar information of other users of our Website. For example, we might inform third parties regarding the number of unique users who visit our Website, the demographic breakdown of our community users of our Website, or the activities that visitors to our Website engage in while on our Website. The third parties to which we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
 
- ** _ **Outside Contractors.**_**  
-
+##  _ **Outside Contractors.**_
 
 We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to our Website or Internet Products , such as providing credit card processing and fraud screening, and developing applications for our Website and e-mail services. These Outside Contractors may sometimes have limited access to information collected on our Website, including your Personally Identifiable Information, in the course of providing products or services to us. Access to your Personally Identifiable Information by these contractors is limited to the information reasonably necessary in order for the Outside Contractors to perform their limited function for us. We also require that these contractors (i) protect the privacy of your Personally Identifiable Information consistent with this Privacy Policy, and (ii) not use or disclose your Personally Identifiable Information for any purpose other than providing us with products or services for which we contracted.
 
  _ **Third Party Sellers.**_  
 In addition, through our Website, you may be given the opportunity to purchase (or to obtain more information regarding) certain content, products or services which are sold through a person or company other than us or our Affiliates (collectively, "Third Party Sellers"). We will attempt to make it clear to you when you are dealing with a Third Party Seller by opening a new browser or otherwise notifying you that you are leaving our Website. For example, if you see a phrase such as "powered by" or "brought to you by" followed by the name of a person or company other than WeightWatchers.co.uk, then you are likely on, or about to enter, a website hosted or operated by a person or company other than us. Third Party Sellers may request that you submit certain information to them in order to purchase their products or services or to obtain additional information from them. You do not need to submit this information or purchase any products or services from Third Party Sellers to access our Website. By submitting the requested information, you affirmatively consent to have that information shared with the Third Party Seller. This information is used by the Third Party Seller and may be subject to a different privacy policy. We do not otherwise share or disclose your Personally Identifiable Information to Third Party Sellers.
 
- ** _ **Sale of Business.**_**  
-
+##  _ **Sale of Business.**_
 
 We reserve the right to transfer information (including your Personally Identifiable Information) to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of any of us or our Affiliates provided that the third party agrees to adhere to the terms of this Privacy Policy.  
 []()  
