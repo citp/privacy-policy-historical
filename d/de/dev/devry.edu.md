@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325064051id_/http%3A//www.devry.edu/devry_privacy_policy.html%3Fintcmp%3DHome_footerlink_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026012707id_/http%3A//www.devry.edu/devry_privacy_policy.html%3Fintcmp%3DHome_footerlink_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
 
