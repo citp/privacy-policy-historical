@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmechanic.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024002id_/https%3A//www.yourmechanic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmechanic.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025083840id_/https%3A//www.yourmechanic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Use YourMechanic to find high quality local mechanics - your privacy is important!
 
@@ -50,7 +50,7 @@ YourMechanic reserves the right to use the general data it obtains from Users' u
 
 * ##### Advertising 
 
-We may send you email communications including information that we may think may be of interest to you. You may opt out of receiving these marketing emails, by clicking on the unsubscribe link in any marketing email you receive from us. We do not send any of your Personally Identifiable Information to our advertisers. You may see a cookie from a third-party banner server, and this cookie comes from the third-party banner server, not YourMechanic. Again, we do not pass along any Personally Identifiable Information to this party. 
+We may send you email communications including information that we may think may be of interest to you. You may opt out of receiving these marketing emails, by clicking on the unsubscribe link in any marketing email you receive from us. 
 
 * ##### Co-Branded Services 
 
