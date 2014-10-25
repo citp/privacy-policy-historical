@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdftoword.com privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225091735id_/http%3A//www.nitropdf.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftoword.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025030320id_/http%3A//www.nitropdf.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,7 +106,7 @@ We may not be able to provide you with access to such information. If we deny yo
 
 ##### Personal information security and data retention
 
-We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100%% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
