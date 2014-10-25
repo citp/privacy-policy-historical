@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630125031id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025180848id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rotary
 
@@ -92,11 +92,22 @@ Some advertisements on shop.rotary.org may be served by third-party advertisers,
 
 #### How We Use Your Information
 
-We use information that we collect about you or that you provide to us, including any personal information:
+We use information that we collect about you or that you provide to us, including any personal information
 
   * To present our Website and its contents to you.
   * To provide you with information, products or services that you request from us.
-  * To offer and fulfill our core business purposes.
+  * To offer and fulfill our core business purposes which include:
+
+
+
+        \- Fulfilling Rotary's obligation to Rotarians  
+        \- Financial processing  
+        \- Supporting The Rotary Foundation  
+        \- Facilitating convention and special event planning  
+        \- Communicating key organizational messages  
+        \- Supporting the programs and membership of Rotary International  
+        \- Complying with any legal obligations
+
   * To fulfill any other purpose for which you provide it.
   * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
   * To notify you about changes to our Website or any products or services we offer or provide though it.
