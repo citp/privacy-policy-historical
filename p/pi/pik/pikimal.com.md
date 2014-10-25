@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617202533id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025201451id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikimal
 
@@ -80,4 +80,4 @@ This Privacy Notice may be revised periodically without further notice to you an
 
 ## Pikimal Contact Information
 
-Please contact Pikimal LLC with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: WebKite, 700 River Ave, Suite 440, Pittsburgh, PA, 15212 or by email. We will respond to your inquiry within 45 days of its receipt.
+Please contact Pikimal LLC with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Flyasite, 700 River Ave, Suite 316, Pittsburgh, PA, 15212 or by email. We will respond to your inquiry within 45 days of its receipt.
