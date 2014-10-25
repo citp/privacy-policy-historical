@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download82.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208055516id_/http%3A//download82.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download82.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025115741id_/http%3A//download82.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -18,4 +18,4 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
 ## Contact
 
-If you have any concern about our products or website's privacy policies, please click [here](https://web.archive.org/web/20140208055516id_/http%3A//download82.com/contact-us.php) to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and site, or review and discard the information.
+If you have any concern about our products or website's privacy policies, please click [here](https://web.archive.org/web/20141025115741id_/http%3A//download82.com/contact-us.php) to contact us. We read every message submitted and try to reply to every one promptly. We may also file your comments to improve the program and site, or review and discard the information.
