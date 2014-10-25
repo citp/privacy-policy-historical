@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxl-sale.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627122424id_/http%3A//www.xxl-sale.co.uk/legal.html%23Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxl-sale.co.uk privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025121422id_/http%3A//www.xxl-sale.co.uk/legal.html%23Privacy-policy) for the most accurate reproduction.*
 
 # xxl-sale.co.uk - Price Comparison, test reports and product ratings on XXL-Sale.co.uk. Find the best prices now! - Legal
 
@@ -7,7 +7,7 @@ Nelkenweg 8
 87493 Lauben  
 Germany
 
-E-Mail: info@xxl-sale.co.uk  
+E-Mail: info@xxl-sale.co.uk   
 Phone: +49 (0)89 / 381 5702-1
 
   
