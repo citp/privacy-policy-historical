@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174354id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025222937id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.*
 
 # MSSQLTips - Privacy
 
