@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farhangdaily.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824103235id_/http%3A//farhangdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farhangdaily.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025095221id_/http%3A//farhangdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » The Daily
 
@@ -27,5 +27,11 @@ If you have any questions regarding the privacy policy ofÂ  then you may conta
 
   * [powered by article dashboard](http://farhangdaily.com/privacy-policy/ "powered by article dashboard")
   * [Powered by Article Dashboard dental insurance](http://farhangdaily.com/privacy-policy/ "Powered by Article Dashboard dental insurance")
+  * [?gander?ttshandlingars powered by article dashboard](http://farhangdaily.com/privacy-policy/ "?gander?ttshandlingars powered by article dashboard")
+  * [absentionis powered by article dashboard](http://farhangdaily.com/privacy-policy/ "absentionis powered by article dashboard")
+  * [??cznikowy powered by article dashboard](http://farhangdaily.com/privacy-policy/ "??cznikowy powered by article dashboard")
+  * [?ktandet powered by article dashboard](http://farhangdaily.com/privacy-policy/ "?ktandet powered by article dashboard")
+  * [?gypter powered by article dashboard](http://farhangdaily.com/privacy-policy/ "?gypter powered by article dashboard")
+  * [inurl:/serve](http://farhangdaily.com/privacy-policy/ "inurl:/serve")
 
 
