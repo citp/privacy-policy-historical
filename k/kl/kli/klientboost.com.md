@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klientboost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104458id_/http%3A//klientboost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klientboost.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025093607id_/http%3A//klientboost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ By working with and using KlientBoost.com, you agree to the collection and use o
 
 **  
 We will never give, sell, rent or borrow your information to anyone.**  
-\- We respect your privacy and your trust. We will therefore never give, sell, rent or borrow your information to anyone without your express permission.
+– We respect your privacy and your trust. We will therefore never give, sell, rent or borrow your information to anyone without your express permission.
 
 **We will never spam you.  
 **\- We do send updates about your account, regular correspondence between you and your klient account manager, blog postings, news about KlientBoost, and newsletters. You do have the ability to unsubscribe at any time.
@@ -26,7 +26,7 @@ We will never give, sell, rent or borrow your information to anyone.**
 **\- Conflict of interest is no fun. That’s why we promise to never directly work with a competitor of yours who is of direct competition without your express permission.
 
 **We will never have direct access to your payment methods without your consent.**  
-\- When signing up for our services, we do require that you sign up for a month to month billing pattern that automatically deducts payments from your method of payment. We will encrypt your payment information so no one can for example see your 16 digit card number you have supplied. We will not be able to go in and charge more than you’ve specified without your consent.
+– When signing up for our services, we do require that you sign up for a month to month billing pattern that automatically deducts payments from your method of payment. We will encrypt your payment information so no one can for example see your 16 digit card number you have supplied. We will not be able to go in and charge more than you’ve specified without your consent.
 
 Any of the information we collect from you may be used in one of the following ways:
 
