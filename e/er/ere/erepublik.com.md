@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erepublik.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524072926id_/http%3A//www.erepublik.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erepublik.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026010417id_/http%3A//www.erepublik.com/en/privacy-policy) for the most accurate reproduction.*
 
 # eRepublik
 
 (1) Here at eRepublik we care about your privacy and we respect your privacy rights. 
 
-(2) By using eRepublik and/or the eRepublik.com Service, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy **(last updated on the 3rd of March 2012)**. If you do not agree with these terms, you should not use eRepublik and/or an eRepublik.com Service. 
+(2) By using eRepublik and/or the eRepublik.com Service, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy **(last updated on the 12 th of May 2014)**. If you do not agree with these terms, you should not use eRepublik and/or an eRepublik.com Service. 
 
 ### 1 About our Privacy Policy
 
@@ -20,7 +20,7 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 
 > 2.2 We may collect and process the following data about you: 
 > 
-> 2.2.1 if you contact us, we may keep a record of that correspondence;
+> 2.2.1 if you contact us (including by email or post) we may keep a record of that correspondence and of the information contained in it;
 > 
 > 2.2.2 information that you submit when you register for the Website including your name, date of birth and e-mail address.
 > 
@@ -42,7 +42,7 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 
 > 3.2.1 to ensure that content from eRepublik is presented in the most effective manner for you and for your computer; 
 > 
-> 3.2.2 to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes including by interacting with advertising functionality in eRepublik; 
+> 3.2.2 to provide you with information, products or services that you request from us or which we believe may interest you (including products or services of any of our Partners), where you have consented to be contacted for such purposes including by interacting with advertising functionality in eRepublik;
 > 
 > 3.2.3 to carry out our obligations arising from any contracts entered into between you and us; 
 > 
@@ -50,7 +50,7 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 > 
 > 3.2.5 to allow you to access eRepublik and to participate in interactive features of our service, when you choose to do so; 
 > 
-> 3.2.6 to notify you about new games or applications developed by our company, changes to our service, new features or new versions of the eRepublik game;
+> 3.2.6 to notify you about changes to our service, new features or new versions of the eRepublik game, about new games or applications developed by our company or by our Partners;
 > 
 > 3.2.7 for the purposes of compiling statistics; 
 > 
@@ -64,7 +64,7 @@ Our website www.erepublik.com, which includes the eRepublik application programm
 
 3.5 We may sell or licence your shouts, articles, content, data and any other messages you post on any area of eRepublik to third parties for their use, in which case your username and any personally identifiable information you have included in your shouts, articles, private messages or through any other in-game communication channels may be shown to users of such third party websites. Except as set out in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. 
 
-3.6 We may also use your email address to send you updates or news regarding eRepublik, but you may choose not to receive emails of this type by unchecking the “Sign up for the weekly newsletter” box on the eRepublik registration page. You can also subscribe/unsubscribe to this weekly newsletter in the Subscriptions page erepublik.com/en/messages/subscribes/1. Additionally, we may contact you using your email address to notify you that other users have sent you a personal message and to inform you that someone wants to add you as a friend, or that they simply want to contact you. 
+3.6 We may also use your email address to send you updates or news regarding eRepublik,.com or any other products or services developed by us or by our Partners that we believe may interest you, but you may choose not to receive emails of this type by unchecking the “Sign up for the weekly newsletter” box on the eRepublik registration page. You can also subscribe/unsubscribe to this weekly newsletter in the Subscriptions page erepublik.com/en/messages/subscribes/1. Additionally, we may contact you using your email address to notify you that other users have sent you a personal message and to inform you that someone wants to add you as a friend, or that they simply want to contact you.
 
 3.7 We may use your shouts, citizen ads, articles or other details you post in any area of eRepublik to personalise eRepublik and identify/feature popular members. For example, we may promote the most popular and latest shouts, groups, listings and members. We may also promote most active members. While we do not expect totransfer the complete member database to others, we use the database throughout our networks and to generate results for others, including, but not limited to, enabling users to contact each other and facilitating inter-user communications. 
 
