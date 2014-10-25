@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanscout.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628132406id_/http%3A//tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanscout.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025120003id_/http%3A//tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
 
 # Tremor Video, Inc. » Privacy Policy
 
