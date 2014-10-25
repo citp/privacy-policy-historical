@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the otrs.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510225606id_/http%3A//www.otrs.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otrs.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025182933id_/http%3A//www.otrs.com/company/privacy-statement) for the most accurate reproduction.*
 
-# otrs.com | Privacy Statement - otrs.com
+# otrs.com| Privacy Statement - otrs.com
 
 **OTRS Group has created this privacy policy to demonstrate our firm commitment to privacy while visiting our Web site. The following discloses our information gathering and dissemination practices for www.otrs.com (the “OTRS Group Web sites”). OTRS Group reserves the right to update this policy as these sites evolve and new sites are added.**
 
