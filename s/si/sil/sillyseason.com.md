@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sillyseason.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627034244id_/http%3A//sillyseason.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sillyseason.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026085003id_/http%3A//sillyseason.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Silly Season.com
 
