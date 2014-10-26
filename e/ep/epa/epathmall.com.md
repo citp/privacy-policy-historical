@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epathmall.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053033id_/http%3A//www.epathmall.com/index.php%3Fmain_page%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epathmall.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026065716id_/http%3A//www.epathmall.com/index.php%3Fmain_page%3Dhelp_privacy) for the most accurate reproduction.*
 
 # Help : EpathMall.com
 
