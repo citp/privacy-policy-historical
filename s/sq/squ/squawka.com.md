@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squawka.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060938id_/http%3A//www.squawka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawka.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026055828id_/http%3A//www.squawka.com/privacy-policy) for the most accurate reproduction.*
 
 # Squawka | Privacy Policy
 
