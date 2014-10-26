@@ -1,51 +1,35 @@
-> *The following text is extracted and transformed from the vietvoice.net privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004123300id_/http%3A//www.vietvoice.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietvoice.net privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026052544id_/http%3A//www.vietvoice.net/privacy-policy) for the most accurate reproduction.*
 
-# ..: V I E T V O I C E - LET US HEAR YOUR VOICE :..
+# Privacy Policy | VietVoice
 
-VietVoice Entertainment has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: VietVoice Entertainment. 
+**Terms and Conditions**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes. 
+Viet Voice is committed to protecting the privacy of visitors to our web site and will not sell or provide any non-public personal information to anyone without your permission.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+**Types of Information**
 
-This site contains links to other sites. **VietVoice Entertainment** is not responsible for the privacy practices or the content of such Web sites. 
+_Cookies  _are randomly generated unique numbers placed on your computer. They allow us to identify your computer without requiring your disclosure of any non-public personal information. Cookies make it possible to both store and retrieve information through your internet browser. A Cookie itself cannot read information off a hard drive or read Cookie files from other sites.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+_General Information  _is information that does not itself reveal your identity. General information may include, without limitation generic business type; SIC code; information derived from publicly available databases (such as Dun and Bradstreet); user behavior on our Web site; and aggregated generic information.
 
-## Public Forums
+_Non-Public Personal Information  _is any non-public information you provide to us or our partners that is proprietary or identifies or can be used to identify, contact, or locate you or someone at your business. Non-public personal information may include, without limitation name; address; phone number; e-mail address; credit card number; account information; voting behavior; spending patterns; and individual tastes and preferences.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+_Partners  _are individuals or entities we engage to help us carry out our mission.
 
-## Children's Guidelines
+**What Information We Collect**
 
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
+Viet Voice collects general information and non-public personal information.
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+**How We Collect Our Information**
 
+Viet Voice collects Non-public personal information is collected through registration or contact forms on this site and will never be used for any purpose other than internal use or by our partners unless the registrant chooses to be added to mailing lists (this is a choice made by the registrant on the Registration form).
 
+**Privacy Policy Changes**
 
-## Choice/Opt-Out
+Any changes to this privacy policy will be posted here and unless otherwise noted on our website.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+**Changing Your Non-Public Personal Information**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Viet Voice provides you with the opportunity to change your non-public personal information online for all registration information. Please contact Viet Voice to change any non-public personal information provided to us through a contact form.
 
-  1. You can send email to [webmaster@vietvoice.net](mailto:webmaster@vietvoice.net)
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. Email [webmaster@vietvoice.net](mailto:webmaster@vietvoice.net)
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  VietVoice Entertainment webmaster@vietvoice.net
+If you have any questions or concerns about any privacy issues, please contact us.
