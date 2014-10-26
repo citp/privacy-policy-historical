@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327223122id_/http%3A//www.concertvault.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026155619id_/http%3A//www.concertvault.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Wolfgang's Vault Privacy Policy - concertvault.com
+# Wolfgang's Vault Privacy Policy
 
 We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile. 
 
@@ -9,6 +9,8 @@ This Privacy Policy is incorporated into and is subject to our Terms of Use. You
 #### Information we collect
 
 We collect information (such as your name, email address, phone number and credit card number) that you provide when you register to listen to music on the Concert Vault, place an order at either Wolfgang's Vault or the Concert Vault, save your information with us or participate in a promotion or survey. We also maintain a record of your music preferences, product interests and your purchases from our website.
+
+We have implemented Google Analytics' Demographics and Interests cookies, which we use to analyze the interests of people who visit Concert Vault. We use this information to make both the types of articles we publish and the types of advertising we serve more relevant to our visitors' interests. You can prevent us from collecting this information through Google Analytics' free opt-out browser add-on.
 
 #### How we use your information
 
