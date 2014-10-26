@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myonlinetraininghub.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034926id_/http%3A//www.myonlinetraininghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlinetraininghub.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026174712id_/http%3A//www.myonlinetraininghub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • My Online Training Hub
 
 **My Online Training Hub Privacy Policy**
 
