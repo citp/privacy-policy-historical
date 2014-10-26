@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626071617id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026023956id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
