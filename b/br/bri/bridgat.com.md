@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bridgat.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210220716id_/http%3A//www.bridgat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgat.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026065937id_/http%3A//www.bridgat.com/privacy.html) for the most accurate reproduction.*
 
-# About Bridgat.com :: Privacy policy - The Bridgat.com
+# Privacy Policy | Bridgat.com
 
 ###  What information do we collect?
 
@@ -60,5 +60,3 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 01.12.2012
-
-Page views: 1,827
