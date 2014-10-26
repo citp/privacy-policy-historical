@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobuzz.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063320id_/http%3A//gobuzz.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobuzz.me privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027001432id_/http%3A//gobuzz.me/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : GoBuzz.Me
 
