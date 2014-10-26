@@ -1,49 +1,47 @@
-> *The following text is extracted and transformed from the nowgamer.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209195342id_/http%3A//www.nowgamer.com/about-us/891240/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowgamer.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026044700id_/http%3A//www.imagine-publishing.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NowGamer
+# Privacy Policy - Imagine Publishing
 
-This is to inform you on every aspect of our Privacy Policy with respect to Imagine Publishing's (owners of NowGamer.com) data gathering.
+**These Terms and Conditions govern the use of Imagine Publishing websites, applications, mobile downloads, platforms, services and Publications. Please read them carefully.**
 
-Whenever you visit an Imagine Publishing website we want to assure you that we make every effort to respect your personal privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+Please Note: Imagine Publishing reserves the right to make changes to the Privacy Policy at any time. The latest version will always be available from a link on the service. 
 
-### Ownership of Information
+### Information We Collect and How We Use It
 
-Imagine Publishing is the sole owner of any information collected. We will not sell, share, or rent this information to others in ways different from that disclosed in this statement.
+When you place an order, or use any online form on our service we will ask for your name and other information such as your postal address, e-mail address, telephone number and your credit card number and expiry date or bank account details etc to allow us to process your request. Only relevant information will then used by us, our agents and sub-contractors to facilitate the service you have requested and potentially communicate with you on any concerns arising to the provision of the service in general. 
 
-If you believe Imagine Publishing has information about you that you do not want Imagine Publishing to have or that is incorrect, please contact Imagine Publishing as described below and Imagine Publishing shall correct or remove the data as you request as soon as is reasonably practicable.
+We use analytic and reporting technologies to record and collect non-personal information from you. This information, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address, cannot be easily used to personally identify you. Imagine Publishing reserves the right to use partners, who may use web beacons and cookies to help manage, monitor and optimise our service to help us measure the effectiveness of our advertising, communications and how visitors use the service. 
 
-### Use of Cookies
+### How Is My Personal Information Protected?
 
-We may use a cookie to record previously established interests and preferences (via data submitted to us) so as to enhance the experience whilst using our site. Because the cookie is client side, ie on your hard drive, your privacy is in no way compromised.
+Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your personal information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or omissions beyond our reasonable control. 
 
-If you do not wish for NowGamer.com to use cookies when you use NowGamer.com please adjust your Internet browser settings to not accept cookies. Your computer's help file should tell you how to do this but please note that this may affect your ability to use NowGamer.com.
+### Service Content
 
-### IP Address Information
+The content that you store, post, or transmit on or through the service, such as forum postings or images, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your personal information to other users that you know to be trustworthy. You should not assume that your content will be kept private. 
 
-Each time you access information then we record what you access and the IP address you use to access the data. An IP address is a unique identifier given to you by your Internet provider when you connect to the Internet. This may differ each time you connect or be permanently assigned depending on your arrangements. We use these addresses to track your movements, analyse broad trends such a geographical location and by such improve our quality of service. IP addresses are not linked to personally identifiable information. We may from time to time share information gathered in this way with our partners. This information is not linked to any personal information that can identify any individual person.
+### Security
 
-This information will be kept securely in accordance with an internal security policy and may be used to:
+The security of your personal information is important to us. When you enter sensitive information such as a credit card number and/or social security number on our registration or order forms, we encrypt that information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-Process your User Content and your subscription to NowGamer.com and to enable your use of NowGamer.com and associated services.
+### Children Under 13
 
-Open and run your account and provide you with an up to date, efficient and reliable service.
+The service is intended for users ages 13 and older. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. In some instances a child of 13 or under can use the service but with the authority of a parent or legal guardian. 
 
-Administer prize draws.
+### Children Aged 13 to 17
 
-Generally run NowGamer.com.
+Prospective users between the ages of 13 and 17 can only use the service under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate your use on areas of the service that require personal information. 
 
-### Links to Other External Sites
+### Disclosure of Information to Successors
 
-This web site may contain links to other sites. Imagine Publishing cannot be held responsible for the privacy practices of other such sites. Please do not assume that other sites abide by our privacy standards.
+We may disclose your personal information to any successor-in-interest of ours, such as a company that acquires us. In the event Imagine Publishing goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your personal information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information.
 
-### Security of Collected Data
+### Disclosure of Information to Unaffiliated Third Parties
 
-Imagine Publishing takes every sensible precaution to protect the information we collect from our readers. Access to this information is protected both online and off-line.
+We may disclose your personal information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order). 
 
-### Site and Service Updates
+### Imagine Publishing and Cookies
 
-We may use information collected to periodically send our readers announcements, newsletters and product updates via e-mail.
+You can find out more about how we set and use website cookies on our [cookie policy page](https://web.archive.org/cookies).
 
-### Notification of Changes
-
-Should our Privacy Policy change, we will take every reasonable step to ensure that these changes are brought to your attention by posting all such changes on our web site for a reasonable period of time.
+_Updated July 2013_
