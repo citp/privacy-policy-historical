@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the korea.net privacy policy that was archived on 2014-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140618073817id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the korea.net privacy policy that was archived on 2014-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141026091724id_/http%3A//www.korea.net/Others/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="stylish-select"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,30 +29,7 @@
 <link rel="stylesheet" type="text/css" href="/css/english/language.css" media="screen,print">
 	
 
-
-<style type="text/css" media="print">
-#skipnavi, #navi, #header, #container_header, #sidebar, #footer,#container2 #depth_menubar {display:none;}
-#container2 #content #Title .RSS,
-.content_searchBox,
-.content_searchBox1,
-.content_searchBox_v2,
-.view_contentTop_bar, 
-.google_plus, 
-.urlcopy_box,
-.List_btn{display:none;}
-html {	background: none !important;}
-body {	background: none !important;}
-#wrap_containerBG {	background: none !important;}
-#wrap_container{padding:0; !important;}
-#container2{margin:0; !important;}
-#container2 #content{width:980px; !important;}
-.h1_content_viewTitle {margin:0 0 10px 0; !important;}
-.Festivals_view_box .text{padding:0 0 30px 30px; !important;}
-.view_content_box3 .bottom_line {padding:0; border:none; !important;}
-#content_text_ALLBOX{padding-bottom:30px; border-bottom:1px solid #CCC; margin-bottom:10px; !important;}
-.cabinet_box,.MAP_box{padding-bottom:30px;!important;}
-
-</style>
+<link rel="stylesheet" type="text/css" href="/css/common/print_content.css" media="print">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common/jquery-1.6.4.min.js"></script>
 <script type="text/javascript" src="/js/common/menu_model1.js"></script>
@@ -144,6 +121,18 @@ function pdfDown(){
 			'contentId': '67',
 			'categoryId': '128',
 			'statDiv':'pdf'
+		}
+	});
+};
+
+function epubDown(){
+	$.ajax({
+		type:'POST',
+		url: '/koreanet/logStat',
+		data:{
+			'contentId': '67',
+			'categoryId': '128',
+			'statDiv':'epub'
 		}
 	});
 };
@@ -367,7 +356,7 @@ function searchKeyword( searchWord ){
 					<dd><a href="/Resources/Multimedia/Video">Video</a></dd>
 						<dd><a href="/Resources/Multimedia/ebook">E-Book</a></dd>
 						<dd><a href="/Resources/Multimedia/DramaCartoon">Webtoon</a></dd>
-						<dd><a href="/Resources/Multimedia/UCC">UCC</a></dd>
+						<dd><a href="/Resources/Multimedia/UCC">Contest</a></dd>
 						<dt><a href="/Resources/Newsletter"><strong>Newsletter</strong></a></dt>
 					<dt><a href="/Resources/Website-Directory"><strong>Website Directory</strong></a></dt>
 					</dl>
@@ -376,6 +365,7 @@ function searchKeyword( searchWord ){
 					<dd><a href="/Resources/Social-Media/THE-KOREA-BLOG">THE KOREA BLOG</a></dd>
 						<dd><a href="/Resources/Social-Media/Twitter">Twitter</a></dd>
 						<dd><a href="/Resources/Social-Media/Facebook">Facebook</a></dd>
+						<dd><a href="/Resources/Social-Media/Flitto">Flitto</a></dd>
 						<dd><a href="/Resources/Social-Media/Scribd">Scribd</a></dd>
 						<dd><a href="/Resources/Social-Media/Youtube">Youtube</a></dd>
 						<dd><a href="/Resources/Social-Media/Flickr">Flickr</a></dd>
@@ -425,11 +415,11 @@ function searchKeyword( searchWord ){
 			</div>
 	</li>
 <li id="mNavi06">
-		<a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers" class="over">
+		<a href="/AboutUs/KOCIS" class="over">
 			About Us</a>
 		<div id="sNavi06" class="submenu">
 		<dl>		
-		<dt><a href="http://www.kocis.go.kr/eng/main.do" target="_blank"><strong>KOCIS</strong></a></dt>
+		<dt><a href="/AboutUs/KOCIS"><strong>KOCIS</strong></a></dt>
 					<dt><a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers"><strong>Overseas Korea Centers</strong></a></dt>
 					<dd><a href="/AboutUs/Overseas-Korea-Centers/Culture-and-Information-Officers">Culture and Information Officers</a></dd>
 						<dd><a href="/AboutUs/Overseas-Korea-Centers/Korean-Cultural-Centers">Korean Cultural Centers</a></dd>
@@ -518,7 +508,7 @@ function frmSearchChange(){
 		</form>
 	</div>
 	<ul class="Hottopics">
-		<li><a href="javascript:searchValue('FIFA World Cup 2014')">FIFA World Cup 2014</a></li><li><a href="javascript:searchValue('Korean Film')">Korean Film</a></li><li><a href="javascript:searchValue('K-Pop')">K-Pop</a></li><li class="last"><a href="javascript:searchValue('Korea religion')">Korea religion</a></li>
+		<li><a href="javascript:searchValue('Korea festival')">Korea festival</a></li><li><a href="javascript:searchValue('Hangeul')">Hangeul</a></li><li><a href="javascript:searchValue('Korea Railway')">Korea Railway</a></li><li><a href="javascript:searchValue('K-Movie')">K-Movie</a></li><li class="last"><a href="javascript:searchValue('Korean Life ')">Korean Life </a></li>
 	</ul>
 </div><!--// top_search -->
 				</div>
@@ -550,7 +540,12 @@ function frmSearchChange(){
 					</li>
 			<li><a href="/Others/Notice"><strong>Notice</strong></a>
 					</li>
-			<li class="last"><a href="/Others/search"><strong>KOREA.NET Search</strong></a>
+			<li><a href="/Others/search"><strong>KOREA.NET Search</strong></a>
+					</li>
+			<li class="last"><a href="/Others/Renewal-Event"><strong>Event</strong></a>
+					<ul class="bgline" style="display: none;">
+					<li><a href="/Others/Event/contest_KBS" class="lh">contest_KBS</a></li>
+							</ul>
 					</li>
 			</ul>
 	
@@ -704,16 +699,44 @@ function frmSearchChange(){
 	</ul>
 </div>
 
-<!-- AceCounter Log Gathering Script V.71.2011011101 -->
-<script type="text/javascript">
-if(typeof EL_GUL == 'undefined'){
-var EL_GUL = 'gtr.kcisa.kr';var EL_GPT='80'; var _AIMG = new Image(); var _bn=navigator.appName; var _PR = location.protocol=="https:"?"https://"+EL_GUL:"http://"+EL_GUL+":"+EL_GPT;if( _bn.indexOf("Netscape") > -1 || _bn=="Mozilla"){ setTimeout("_AIMG.src = _PR+'/?cookie';",1); } else{ _AIMG.src = _PR+'/?cookie'; };
-document.writeln("<scr"+"ipt language='javascript' src='/acecounter/acecounter_V70.js'></scr"+"ipt>");
-}
-</script><script language="javascript" src="/acecounter/acecounter_V70.js"></script>
 
-<noscript><img src="http://gtr.kcisa.kr:80/?uid=48&je=n&" alt="no script" border="0" width="0" height="0"/></noscript>
-<!-- AceCounter Log Gathering Script End -->
+<!-- 해외문화홍보원 - 코리아넷 웹로그 수집  TAG 시작 -->
+<script type="text/javascript">
+//<![CDATA[
+//분석로그 수집 : 고정 
+var _BT_SITE = "log.kcisa.kr";
+
+// 로그인사용자에 대한 정보. 로그인되었을 경우 첨부
+//var _BT_LOGINSEG = "userid" + "_/" + "성별( 1 :남성, 2:여성, 3:기타(법인포함) )" + "_/" + "연령";
+// 로그인 되었을 경우 해당 값을 위 예시를 참고하여 작성하여 주시기 바랍니다.
+var _BT_LOGINSEG = ""; 
+//DEBUG 용도. on 으로 되어 있으면 script 실행결과가 alert 으로 나옴
+var _BT_DEBUG_ = "off";
+
+document.write("<sc" + "ript type='text/java" + "scr" + "ipt' src='"
+			+ ( document.location.protocol == "https:" ? "https://" : "http://" )
+			+ _BT_SITE + "/tag/WebNibbler_korea_net.js" + "'>");
+document.write("</sc" + "ript>");
+//]]>
+</script><script type="text/javascript" src="https://log.kcisa.kr/tag/WebNibbler_korea_net.js"></script>
+
+<noscript>
+	
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	    <img src="http://log.kcisa.kr/tag/tag.jsp?site_cd=www.korea.net/" width="0" height="0" border="0" alt="" />
+	  
+		
+</noscript>
+<!-- 해외문화홍보원 - 코리아넷 웹로그 수집  TAG 종료 -->
+
 	</div>
 	<!--// footer -->
 
