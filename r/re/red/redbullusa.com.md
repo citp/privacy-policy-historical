@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbullusa.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624225710id_/http%3A//www.redbull.com/us/en/stories/1331584931841/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbullusa.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026101125id_/http%3A//www.redbull.com/us/en/stories/1331584931841/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Bull
 
