@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gobuzz.me privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625063320id_/http%3A//gobuzz.me/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gobuzz.me privacy policy that was archived on 2014-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141027001432id_/http%3A//gobuzz.me/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -98,6 +98,7 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 </script>
+ <link rel="icon" href="favicon.png" type="image/x-icon">
 
 <script type="text/javascript">
 <!--
@@ -169,6 +170,9 @@ jQuery.noConflict();
     });
 	})(jQuery);
 </script>
+<br>
+<b>Warning</b>:  file_get_contents(http://api.codehelper.io/ips/?php&amp;ip=204.236.226.210) [<a href="function.file-get-contents">function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 522 Origin Connection Time-out
+ in <b>/home/gobuzz/public_html/userip/ip.codehelper.io.php</b> on line <b>45</b><br>
 <div id="main1">
 	    <div class="cont1_beforeLogin">
    	<div class="logo1"><a href="http://gobuzz.me/"><img src="http://gobuzz.me/images/logo-big.jpg" width="189" height="46" alt="Gobuzz.Me"></a></div>
@@ -201,7 +205,7 @@ jQuery.noConflict();
                         <div class="registerfild">
                                 <div class="codefild"><input name="vcode" type="text" id="vcode" value="Verification Code" maxlength="100" onblur="if (this.value== '') {this.value='Verification Code';rem_class('vcode')}" onfocus="if (this.value== 'Verification Code' || this.value=='Please Enter Verification Code') {this.value='';rem_class('vcode')}"></div>
                                 <div class="refresh"><img style="cursor:pointer;" onclick="reload_captcha()" src="http://gobuzz.me/images/refresh_icon.jpg" width="15" height="15" alt="Refresh"></div>
-                                <div class="capcha"><img id="verify_captcha" src="http://gobuzz.me/verification.php?PHPSESSID=9142fa41ef20cdc1e055a63e87287e66" width="51" height="25" alt="Capcha"></div>                            
+                                <div class="capcha"><img id="verify_captcha" src="http://gobuzz.me/verification.php?PHPSESSID=f788d0fa3ce7cf7f84f7de561121e6a7" width="51" height="25" alt="Capcha"></div>                            
                             </div>
                          <div class="registertext"><input name="terms" type="checkbox" value="1">By clicking "Register Now" you are agreeing to 
 Gobuzz.Me's <a href="http://gobuzz.me/terms.php">Terms of Service</a> and <a href="http://gobuzz.me/privacy.php">Privacy Policy</a>.</div>
@@ -215,7 +219,7 @@ Gobuzz.Me's <a href="http://gobuzz.me/terms.php">Terms of Service</a> and <a hre
 				{
 					ts=Math.round(new Date().getTime()/1000);
 					//$("#verify_captcha").html("<img src='images/loading.gif'/>");
-					$("#verify_captcha").attr('src',"http://gobuzz.me/verification.php/?PHPSESSID=9142fa41ef20cdc1e055a63e87287e66&rnd="+ts);
+					$("#verify_captcha").attr('src',"http://gobuzz.me/verification.php/?PHPSESSID=f788d0fa3ce7cf7f84f7de561121e6a7&rnd="+ts);
 				}
 				function frm_register(frm)
 				{
