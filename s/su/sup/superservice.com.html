@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the superservice.com privacy policy that was archived on 2014-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140608093940id_/http%3A//www.superservice.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superservice.com privacy policy that was archived on 2014-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141026045138id_/http%3A//www.superservice.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=9">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	
 	  <base href="http://www.superservice.com/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -13,6 +13,7 @@
   <link href="/templates/superservice/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
+  <link rel="stylesheet" href="/media/modals/css/bootstrap.min.css" type="text/css">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
@@ -20,6 +21,9 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
   <script src="/components/com_k2/js/k2.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/modals/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/modals/js/jquery.colorbox-min.js" type="text/javascript"></script>
+  <script src="/media/modals/js/script.min.js" type="text/javascript"></script>
   <script type="text/javascript">
 
 		window.addEvent('domready', function() {
@@ -33,7 +37,8 @@ var K2SitePath = '/';
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
-  </script>
+var modal_class = 'modal_link'; var modal_defaults = { opacity: '0.8',maxWidth: '95%',maxHeight: '95%',current: '{current} / {total}',previous: 'previous',next: 'next',close: 'close',xhrError: 'This content failed to load.',imgError: 'This image failed to load.' };
+</script>
   <script type="text/javascript" charset="UTF-8">
 /* <![CDATA[ */
 try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
@@ -66,7 +71,7 @@ window.setTimeout(
 xajax_bf_com_form_Handler = function() { return xajax.request( { xjxfun: 'bf_com_form_Handler' }, { parameters: arguments } ); };
 /* ]]> */
 </script>
-  <script type="text/javascript" charset="UTF-8">var bf_xajax = '58d5a1d14e115eb3038fa0500839e741';</script>
+  <script type="text/javascript" charset="UTF-8">var bf_xajax = '9f17aa5d05866cd67414f768f0166388';</script>
 
 	
 	<meta name="viewport" content="width=1026 initial-scale=1.0">
@@ -151,6 +156,16 @@ function changeLanguage() {
 	location.href = newURL;
 }
 
+function getAge(){
+    var dob='19900101';
+    var year=Number(dob.substr(0,4));
+    var month=Number(dob.substr(4,2))-1;
+    var day=Number(dob.substr(6,2));
+    var today=new Date();
+    var age=today.getFullYear()-year;
+    if(today.getMonth()<month || (today.getMonth()==month && today.getDate()<day)){age--;}
+    return age;
+}
 </script>
 	
 
@@ -203,7 +218,7 @@ function changeLanguage() {
 						<div class="moduletable_menu">
 					
 <ul class="menu">
-<li class="item-101"><a href="/">Home</a></li><li class="item-121 parent"><a href="/products/product-overview">Products</a></li><li class="item-122 parent"><a href="/dealer-support/pricing/overview">Dealer Support</a></li><li class="item-123"><a href="/subscribe">Subscribe</a></li><li class="item-124 parent"><a href="/news/counterview">News</a></li><li class="item-125 parent"><a href="/about/our-story">About</a></li></ul>
+<li class="item-101"><a href="/">Home</a></li><li class="item-121 parent"><a href="/products/product-overview">Products</a></li><li class="item-122 parent"><a href="/dealer-support/pricing/overview">Dealer Support</a></li><li class="item-123"><a href="/subscribe">Subscribe</a></li><li class="item-124 parent"><a href="/blog/counterview">Blog</a></li><li class="item-125 parent"><a href="/about/our-story">About</a></li></ul>
 		</div>
 	
 			</div>
@@ -212,7 +227,8 @@ function changeLanguage() {
 					
 
 <div class="custom">
-	<a href="/products/epc/overview"><img src="/images/microcat-live-epc.jpg" alt="Microcat LIVE EPC" style="padding-right:10px"></a></div>
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_horizontal_follow_toolbox" style="margin-top: -5px; margin-right: 10px;"></div></div>
 		</div>
 	
 			</div>
@@ -352,10 +368,10 @@ function changeLanguage() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy83863 = 'pr&#105;v&#97;cy' + '&#64;';
- addy83863 = addy83863 + 's&#117;p&#101;rs&#101;rv&#105;c&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy83863 + '\'>');
- document.write(addy83863);
+ var addy46360 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy46360 = addy46360 + 's&#117;p&#101;rs&#101;rv&#105;c&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy46360 + '\'>');
+ document.write(addy46360);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:privacy@superservice.com">privacy@superservice.com</a><script type="text/javascript">
  <!--
@@ -385,10 +401,10 @@ function changeLanguage() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy18497 = 'pr&#105;v&#97;cy' + '&#64;';
- addy18497 = addy18497 + 's&#117;p&#101;rs&#101;rv&#105;c&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy18497 + '\'>');
- document.write(addy18497);
+ var addy66098 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy66098 = addy66098 + 's&#117;p&#101;rs&#101;rv&#105;c&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy66098 + '\'>');
+ document.write(addy66098);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:privacy@superservice.com">privacy@superservice.com</a><script type="text/javascript">
  <!--
@@ -414,10 +430,10 @@ function changeLanguage() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy1515 = 'pr&#105;v&#97;cy' + '&#64;';
- addy1515 = addy1515 + 's&#117;p&#101;rs&#101;rv&#105;c&#101;' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy1515 + '\'>');
- document.write(addy1515);
+ var addy64812 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy64812 = addy64812 + 's&#117;p&#101;rs&#101;rv&#105;c&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy64812 + '\'>');
+ document.write(addy64812);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:privacy@superservice.com">privacy@superservice.com</a><script type="text/javascript">
  <!--
@@ -529,7 +545,7 @@ $(document).ready(function() {
 	
 	 $('.inspections').jOdometer({
       			delayTime: 14500,
-            	increment: 1, counterStart:'944333',
+            	increment: 1, counterStart:'1777764',
             	numbersImage:'/templates/superservice/images/jodometer-counter.png', 
             	formatNumber: true, 
             	spaceNumbers: 2,
@@ -538,7 +554,7 @@ $(document).ready(function() {
      });
       $('.quotes').jOdometer({
       			delayTime: 250,
-            	increment: 6.5, counterStart:'1049714681',
+            	increment: 6.5, counterStart:'1976152321',
             	numbersImage:'/templates/superservice/images/jodometer-counter.png', 
             	formatNumber: true, 
             	spaceNumbers: 2,
@@ -551,6 +567,8 @@ $(document).ready(function() {
 }); 
 </script>
 	    <script src="/templates/superservice/javascript/superservice.js" type="text/javascript"></script>
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53d6e8457a60a9c3"></script>
 	
 
 
