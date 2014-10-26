@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfancydress.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628034428id_/http%3A//www.allfancydress.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfancydress.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026083713id_/http%3A//www.allfancydress.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
