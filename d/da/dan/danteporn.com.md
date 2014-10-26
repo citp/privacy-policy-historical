@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danteporn.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619154718id_/http%3A//www.mydreamshemale.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danteporn.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026124331id_/http%3A//www.mydreamshemale.com/common/privacy.html) for the most accurate reproduction.*
 
 # Magnus Privacy Statement
 
