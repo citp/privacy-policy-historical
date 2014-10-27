@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the premiumecigarette.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621063001id_/http%3A//www.premiumecigarette.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumecigarette.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027221102id_/http%3A//www.premiumecigarette.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Premium Vapes
+# Privacy Policy - Premium Ecigarettes
 
-Premium Vapes created this privacy policy in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering practices for all of Premium Ecig websites. 
+Premium Ecigarettes created this privacy policy in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering practices for all of Premium Ecigarettes websites. 
 
 What information do we collect?   
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.   
 Any data we request that is not required will be specified as voluntary or optional.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Use of Email Information: Premium Vapes customers and affiliates will receive emails containing information for their orders, such as the receipt of items ordered, price total and personal billing and shipping information.  Customers will receive emails updating their tracking information for their orders too.
+Use of Email Information: Premium Ecigarettes customers and affiliates will receive emails containing information for their orders, such as the receipt of items ordered, price total and personal billing and shipping information.  Customers will receive emails updating their tracking information for their orders too.
 
 Non-personal information:  Like many web sites, we collect and analyze standard log file information and Session ID information to analyze site traffic, improve site performance, and prevent fraud. Session IDs are bits of code on your computer that assist your browser in navigating our site. We do not associate personal information with log file information or cookies, except when needed to prevent fraud.
 
