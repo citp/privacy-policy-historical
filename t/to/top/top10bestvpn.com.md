@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10bestvpn.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213003315id_/http%3A//www.top10bestvpn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestvpn.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027020106id_/http%3A//www.top10bestvpn.com/privacy) for the most accurate reproduction.*
 
 # Top 10 Best VPN Services
 
