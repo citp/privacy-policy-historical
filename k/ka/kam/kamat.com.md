@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328102310id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamat.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027164219id_/http%3A//www.kamat.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Kamat's Potpourri: Privacy Policy
 
@@ -43,4 +43,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [](http://www.kamat.com/tools/contact.php)
 
-For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20140328102310id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20140328102310id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](http://www.kamat.com/colophon/index.htm) sections.
+For more information, you can also see [Frequently Asked Questions](https://web.archive.org/web/20141027164219id_/http%3A//www.kamat.com/faq.htm), [Disclaimers & Copyright](https://web.archive.org/web/20141027164219id_/http%3A//www.kamat.com/copyrite.htm), and [Kamat Colophon](http://www.kamat.com/colophon/index.htm) sections.
