@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bravocompanyusa.com privacy policy that was archived on 2014-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140602034807id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bravocompanyusa.com privacy policy that was archived on 2014-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141027132042id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -31,6 +31,11 @@ var Config_CDN_URL = '/'
 
 
 <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
 	var Config_VCompare_MaxProducts = '3';
 	var PageText_783 = "Compare";
 	var PageText_784 = "Change Selections";
@@ -43,7 +48,7 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?6.61.0.825"></script>
+<script type="text/javascript" src="/a/j/volusion.js?6.82.0.1095"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -67,7 +72,19 @@ var Config_CDN_URL = '/'
         });
     } (jQuery));
 </script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.61.0.825"></script>
+
+
+<script type="text/javascript" src="/a/j/soft_add.js"></script>
+<link type="text/css" rel="stylesheet" href="/a/c/soft_add.css">
+<script type="text/javascript">
+	var global_Config_EnableDisplayOptionProducts = 'False';	
+	var global_Config_ForceSecureShoppingCartPage = false;
+	var global_PageText_OtherItemsAdded = '(All other items have been added to the cart)';
+	var Config_EnableSoftAddToCart = true;
+</script>
+
+<script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.82.0.1095"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -153,6 +170,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Daniel+Defense">Daniel Defense</option>
 <option value="DPMS">DPMS</option>
 <option value="EOTech">EOTech</option>
+<option value="Fireclean+USA">Fireclean USA</option>
 <option value="Geissele+Automatics">Geissele Automatics</option>
 <option value="Global+Defense+Initiatives">Global Defense Initiatives</option>
 <option value="Haley+Strategic+Partners">Haley Strategic Partners</option>
@@ -374,6 +392,14 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
+
+<script type="text/javascript">
+	if (!/\/shoppingcart\.asp/i.test(window.location.pathname)) {
+		jQuery(document).ready(function() {
+			jQuery('a').each(AddCartLink)
+		});
+	}
+</script>
 
 
 </body></html>
