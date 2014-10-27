@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the propellerads.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627223900id_/http%3A//propellerads.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propellerads.com privacy policy that was archived on 2014-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141027175427id_/http%3A//www.propellerads.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 	<link href="/images/favicon.png" rel="shortcut icon" type="/images/favicon.png">
     <link rel="stylesheet" href="/styles/style.css?v=5">
     <link rel="stylesheet" href="/styles/grid.css">
@@ -21,7 +21,7 @@
     <script src="/scripts/jquery.smooth-scroll.js"></script>
     <script src="/scripts/jquery.iosslider.min.js"></script>
     <script src="/scripts/jquery.nivo.slider.js"></script>
-    <script src="/scripts/jq_js.js?ver=1.08"></script>
+    <script src="/scripts/jq_js.js?ver=1.09"></script>
 </head>
 
 <body>
@@ -59,6 +59,7 @@
 		</div>
 	</header>
 	<!-- /header -->
+
 <!-- page pad -->
 <div class="page_pad">
 
@@ -74,7 +75,7 @@
 					<article class="style">
 						<h3>Privacy policy</h3>
 						<div>
-                            Advertising Technologies, LTD. (d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
+                            Advertising Technologies, LTD. and FASTLINK SUPPLIES L.P.(d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
 							<br><br>
 							This Privacy Statement presents our privacy policy, including our privacy practices. Below is information regarding commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.
 							<br><br>
@@ -193,8 +194,7 @@
 <!-- /site footer -->
 <div style="display: none">
 
-    <img src="//ad.propellerads.com/rpix.php?id=164" width="0" height="0">
-
+    
     <script type="text/javascript">
         /* <![CDATA[ */
         var google_conversion_id = 993687856;
@@ -224,6 +224,16 @@
 </script>
 
 </div>
+<script>
+    $(function () {
+        $(".submitButton").click(function (e) {
+            e.preventDefault();
+            $(this).attr('disabled', 'disabled');
+            $(this).parents('form:first').submit();
+        })
+    }).ready();
+</script>
+
 
 
 </body></html>
