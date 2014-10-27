@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juztoday.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213031406id_/http%3A//www.juztoday.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juztoday.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027123841id_/http%3A//www.juztoday.com/privacy-policy.php) for the most accurate reproduction.*
 
 # JuzToday - Privacy Policy
 
-JuzToday Pte. Ltd. or “JuzToday.com”, the provider of the Website (referred to as 'us' or 'we'), is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below. This Privacy Policy discloses the privacy practices for the JuzToday.com websites (collectively, the "Website"). Please read the following to learn what information we collect from you (the 'User' or the 'End User') and how we use that information. 
+Arrow Internet Pte. Ltd. or “JuzToday.com”, the provider of the Website (referred to as 'us' or 'we'), is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below. This Privacy Policy discloses the privacy practices for the JuzToday.com websites (collectively, the "Website"). Please read the following to learn what information we collect from you (the 'User' or the 'End User') and how we use that information. 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICYAND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
 
