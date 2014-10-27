@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxury4play.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044331id_/http%3A//www.luxury4play.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury4play.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027062216id_/http%3A//www.luxury4play.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Luxury4Play.com Privacy Policy
 
