@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628083034id_/http%3A//www.securepay.com.au/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027134155id_/http%3A//www.securepay.com.au/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # SecurePay - Privacy Policy
 
