@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the becomeablogger.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615145237id_/http%3A//www.becomeablogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becomeablogger.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027122222id_/http%3A//www.becomeablogger.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Become A BloggerBecome A Blogger
+# Privacy Policy | Become A Blogger
 
 We are strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality user experience.
 
