@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601035216id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027051036id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
