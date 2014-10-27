@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtimes.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325031119id_/http%3A//www.techtimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtimes.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027025607id_/http%3A//www.techtimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Tech Times
 
