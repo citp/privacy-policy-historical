@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tape4backup.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031656id_/http%3A//www.tape4backup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tape4backup.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027122520id_/http%3A//www.tape4backup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
