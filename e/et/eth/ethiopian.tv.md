@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethiopian.tv privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525170622id_/http%3A//www.ethiopian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiopian.tv privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027030442id_/http%3A//www.ethiopian.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Ethiopian : TV Live Music News Drama Streaming
+# Privacy Policy : Ethiopian TV : Music News Drama
 
 Ethiopian.tv Privacy Policy
 
@@ -18,8 +18,8 @@ Ethiopian.tv uses third party advertisement partner such as the Google AdSense p
 
 DoubleClick DART Cookie
 
-\- Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to ethiopian.tv.  
-\- Google’s use of the DART cookie enables it and its partners to serve ads to users based on their visit to ethiopian.tv and/or other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.google.com/policies/privacy/ads/).
+– Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to ethiopian.tv.  
+– Google’s use of the DART cookie enables it and its partners to serve ads to users based on their visit to ethiopian.tv and/or other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.google.com/policies/privacy/ads/).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with this site as well as other websites.
