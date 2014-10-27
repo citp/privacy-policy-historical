@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investor.gov privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021008id_/http%3A//sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investor.gov privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027123137id_/http%3A//sec.gov/privacy.htm) for the most accurate reproduction.*
 
 # SEC Web Site Privacy and Security Policy
 
@@ -6,11 +6,23 @@
 |  |   
 ---|---|---|---  
   
-**Privacy Information**
-
-* * *
-
-[Privacy Compliance](https://web.archive.org/about/privacy/secprivacyoffice.htm)  
+  [About the SEC](https://web.archive.org/about.shtml)  
+  
+  [Filings & Forms](https://web.archive.org/edgar.shtml)  
+  
+  [Regulatory Actions](https://web.archive.org/rules.shtml)  
+  
+  [Staff Interps](https://web.archive.org/interps.shtml)  
+  
+  [Investor Info](https://web.archive.org/investor.shtml)  
+  
+  [News & Statements](https://web.archive.org/news.shtml)  
+  
+  [Litigation](https://web.archive.org/litigation.shtml)  
+  
+  [Information for...](https://web.archive.org/info.shtml)  
+  
+  [Divisions](https://web.archive.org/divisions.shtml)  
   
   
 |   
@@ -128,6 +140,8 @@ This web site contains hypertext links to information created and maintained by 
 By using this site, you are agreeing to security monitoring and auditing. For security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage, including attempts to deny service to users. 
 
 Unauthorized attempts to upload information and/or change information on any portion of this site are strictly prohibited and are subject to prosecution under the [Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996](http://uscode.house.gov/download/pls/18C47.txt) (see Title 18 U.S.C. §§ 1001 and 1030). 
+
+To ensure our web site performs well for all users, the SEC monitors the frequency of requests for SEC.gov content to ensure automated searches do not impact the ability of others to access SEC.gov content. If a single IP Address exceeds a threshold request per second rate, further requests from that IP Address will be limited for a brief period. Once the rate of web requests has dropped below the threshold for 10 minutes, the user may resume accessing content on SEC.gov. This SEC practice is designed to limit excessive automated searches on SEC.gov and is not intended or expected to impact individuals browsing the SEC.gov website. Note that the [SEC's File Transfer Protocol (FTP) server](https://web.archive.org/edgar/searchedgar/ftpusers.htm) is available for bulk downloads of the SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval system) filings by corporations, funds, and individuals.
 
 ## False Statements and Documents
 
