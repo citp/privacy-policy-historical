@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211043619id_/http%3A//villagecinemas.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027062804id_/http%3A//villagecinemas.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Village Cinemas - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **1.1 Village Roadshow Group of Companies**
 
-Village Roadshow Ltd and its subsidiaries (“Village”) operate a wide variety of entertainment businesses including the operation of cinemas and indoor games facilities, the distribution of films, videos, music and CD Roms. Through these varied operations, Village from time to time gathers information from Customers and other parties with whom we deal for a variety of reasons including, in particular, to enable us to improve the nature of the services we provide. Village understands individuals' concerns regarding confidentiality and takes seriously its obligations in respect of all information it gathers. To safeguard that information, Village has implemented a program to ensure compliance with the Privacy Act 1988 (Cth) and the National Privacy Principles (“NPPs”). This Privacy Policy outlines how Village deals with Personal Information.
+Village Roadshow Ltd and its subsidiaries (“Village”) operate a wide variety of entertainment businesses including the operation of cinemas and indoor games facilities, the distribution of films, videos, music and DVDs. Through these varied operations, Village from time to time gathers information from Customers and other parties with whom we deal for a variety of reasons including, in particular, to enable us to improve the nature of the services we provide. Village understands individuals' concerns regarding confidentiality and takes seriously its obligations in respect of all information it gathers. To safeguard that information, Village has implemented a program to ensure compliance with the Privacy Act 1988 (Cth) and the Australian Privacy Principles (“APPs”). This Privacy Policy outlines how Village deals with Personal Information.
 
   
 
@@ -19,7 +19,7 @@ The information Village collects in most cases relates to Customers but can rela
 
 **2.2 Collection of Information**
 
-In accordance with the NPPs, where practical, Customers of Village may deal with Village on an anonymous basis. However, as a provider of a wide range of services, Village frequently finds that it is necessary to collect Personal Information during the course of transactions.
+In accordance with the APPs, where practical, Customers of Village may deal with Village on an anonymous basis. However, as a provider of a wide range of services, Village frequently finds that it is necessary to collect Personal Information during the course of transactions.
 
 Personal Information may be collected about Customers via the following means:
 
@@ -43,8 +43,9 @@ When Personal Information is collected from a Customer, they are advised at the 
   2. the purpose of collection;
   3. the fact that the Customer can gain access to the Personal Information;
   4. the types of organisations to which their Personal Information may be disclosed;
-  5. any law that requires the Personal Information to be collected; and
-  6. the key consequences if all or some of the information cannot be collected.
+  5. whether the Personal Information will be disclosed to overseas recipients;
+  6. any law that requires the Personal Information to be collected; and
+  7. the key consequences if all or some of the information cannot be collected.
 
 
 
@@ -54,8 +55,9 @@ Where Village collects Personal Information about a Customer from a third party,
   2. the purpose of collection;
   3. the fact that the Customer can gain access to the Personal Information;
   4. the types of organisations to which their Personal Information may be disclosed by that third party;
-  5. any law that requires the Personal Information to be collected; and
-  6. the key consequences if all or some of the information cannot be collected.
+  5. whether the Personal Information will be disclosed to overseas recipients;
+  6. any law that requires the Personal Information to be collected; and
+  7. the key consequences if all or some of the information cannot be collected.
 
 
 
@@ -92,7 +94,7 @@ In general, only officers, employees or contractors of Village may view Personal
 Village will only disclose Personal Information to parties other than Village’s officers, employees and contractors if:
 
   1. that disclosure is required to give effect to the purposes for which Village collected the Personal Information;
-  2. the Customer has consent to that disclosure;
+  2. the Customer has consented to that disclosure;
   3. Village believes that the disclosure may lessen a risk of harm to the health or safety of any person;
   4. Village believes an unlawful activity is being undertaken and the Personal Information is disclosed as part of Village's investigation into this activity;
   5. Village is required by law to disclose the Personal Information; or
@@ -101,7 +103,7 @@ Village will only disclose Personal Information to parties other than Village’
 
 
 
-If Personal Information is transferred overseas, Village will wherever practical obtain the relevant Customer's written consent before doing so.
+Village may disclose Personal Information to countries outside Australia. We will only do so in compliance with all applicable Australian data protection and privacy laws. Village will take reasonable steps to protect personal information no matter what country it is stored in or transferred to.
 
 If obtaining the Customer's consent is not practical, then the information may still be transferred if, as part of the agreement for the transfer of that information, the other organisation agrees to comply with Village's privacy obligations to that Customer.
 
@@ -194,18 +196,22 @@ Village may from time to time employ subcontractors to provide services to it. I
 
 ### **10\. WHO TO CONTACT**
 
-If you have any queries with respect to this Privacy Policy please contact our Privacy Officer at Village Roadshow Limited, Level 1/500 Chapel Street, South Yarra, Victoria, 3141 or by email at [privacy@roadshow.com.au](mailto:privacy@roadshow.com.au).
+Village is committed to working with its Customers to obtain a fair resolution of any complaint or concern about privacy. To contact us with a compliment or complaint or a privacy question, you can:
+
+  * Write to us at: 
+    * Privacy Officer
+    * Village Roadshow Limited
+    * Level 1, 500 Chapel Street
+    * South Yarra VIC 3141
+  * Email us at: [privacy@roadshow.com.au](mailto:privacy@roadshow.com.au)
 
   
 
 
-### **12\. MODIFICATIONS TO THIS DOCUMENT**
+### **11\. MODIFICATIONS TO THIS DOCUMENT**
 
 Village may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion.
 
-  
-
-
-### **13\. FURTHER INFORMATION**
+### **12\. FURTHER INFORMATION**
 
 Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/)
