@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630201428id_/http%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027151440id_/https%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
 
-# ChristianCourier.com: church of Christ magazine investigating religious doctrine, Christian evidences, and ethical issues.
+# Christian Courier
 
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site.
 
@@ -39,5 +39,3 @@ All information collected from you is stored in a technically and physically sec
 ## Contacting Us
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please send them to us by visiting our [contact page](https://web.archive.org/contact)
-
-Last revised: June 3, 2013
