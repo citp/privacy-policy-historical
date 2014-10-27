@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the scienceforums.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191944id_/http%3A//www.scienceforums.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceforums.net privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027183841id_/http%3A//www.scienceforums.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Science Forums
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
+To facilitate normal operation and administration of the forum, ScienceForums.net keeps the IP addresses and email addresses used by forum members, as well as whatever personal information they choose to enter in their member profile. Member profiles are public and are not protected by this policy.
 
-Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
+ScienceForums.net staff will neither release email or IP addresses, nor read or make public private messages, unless one or more of the following conditions applies:
+
+  * ScienceForums.net is ordered to do so by a court of law or required to do so by law
+  * Explicit consent is given by the users in question
+  * The data is necessary to protect ScienceForums.net or its staff from legal action
+  * The data is necessary to aid legal or administrative action wherein the user has violated ScienceForums.net policy, the policy of their Internet Service Provider, or applicable law.
+
+
+
+ScienceForums.net will never release or sell private information to other companies or organizations except in the above cases.
 
 **Our Commitment to Children's Privacy**  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
