@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152049id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027121858id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | X-Cart
 
@@ -57,7 +57,7 @@ As part of your registration for Products or Services on the Site, You agree tha
 
 ## Our Disclosure of Your Information
 
-We do not sell or rent Your personal information to third parties for their marketing purposes without Your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: 
+We do not sell or rent Your personal information to third parties for their marketing purposes without Your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: 
 
   * service providers who help with our business operations and assist in the delivery of Products or Services to our users. These service providers are under confidentiality agreements with us;
   * law enforcement or other government officials in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations of law, or as otherwise required by law
@@ -66,7 +66,7 @@ We do not sell or rent Your personal information to third parties for their mark
 
 ## Accessing, Reviewing and Changing Your Personal Information
 
-If you are registered to receive Products or Services, You can access, review and modify Your personal information at any time by logging into your Profile page located at [https://secure.x-cart.com](https://secure.x-cart.com/) We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and help prevent bad guys from coming back. 
+If you are registered to receive Products or Services, You can access, review and modify Your personal information at any time by logging into your Profile page located at [https://secure.x-cart.com](https://secure.x-cart.com/) We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes and enforce our policies. 
 
 ## Security
 
