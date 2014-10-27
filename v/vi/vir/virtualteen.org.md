@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualteen.org privacy policy that was archived on 2014-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140114173035id_/http%3A//www.virtualteen.org/topics/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualteen.org privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027165927id_/http%3A//virtualteen.org/privacypolicy) for the most accurate reproduction.*
 
-# Virtual Teen - Privacy Policy
+# Privacy Policy
 
 This article applies directly to all areas of the site, including but not limited to: topic articles, forum sections, and chat room(s).
 
@@ -16,7 +16,7 @@ Visitors who register as a member of the site/forums voluntarily provide informa
 
 Cookies are used in conjunction with most site features. These cookies store temporary information, such as a preferred style or user login information, on a visitor's computer. The stored information is accessed by some areas of VirtualTeen.org to ensure correct functioning and security.
 
-At our own discretion, we may use the information we collect to:
+ At our own discretion, we may use the information we collect to: 
 
   * Enforce any policies and Terms of Service of the site,
   * Prevent abuse of the site and any features/services found on the site,
@@ -26,7 +26,7 @@ At our own discretion, we may use the information we collect to:
 
 
 
-## II. Confidentiality and Protection
+## II. Confidentiality and Protection
 
 We will never share your information with any public/commercial persons/organizations unless we must do so to ensure security of this and/or an affiliated website (or if we are required to by law).
 
@@ -34,9 +34,9 @@ Personal information is protected in a secure, private database by passwords. To
 
 Members and visitors of the site are responsible for creating reasonably secure passwords when changing account information or registering as well as keeping their password private.
 
-## III. Private Messaging
+## III.Private Messaging
 
-Private messages work like email, but are limited to registered members of Virtual Teen Forums. The forum rules and terms of service apply to the private messaging system. In order for the rules to be enforced, if an administrator has reasonable suspicion that a member is violating a rule through the private messaging system, an audit of that member's private messages may be conducted. 
+Private messages work like email, but are limited to registered members of Virtual Teen Forums. The forum rules and terms of service apply to the private messaging system. In order for the rules to be enforced, if an administrator has reasonable suspicion that a member is violating a rule through the private messaging system, an audit of that member's private messages may be conducted.
 
 ## IV. Visitor/Member Options
 
@@ -46,7 +46,7 @@ Members have options in their User Control Panel to appear invisible to other us
 
 On rare occasions, the administration may send out an email to members of Virtual Teen. Email sent from VirtualTeen.org will usually be either a form of newsletter or a reminder/notice. Members also have an option to not receive emails from administrators, which will allow the member to opt-out of administration emails.
 
-## V. Inquiries of Personal Information
+##  V. Inquiries of Personal Information
 
 Members may ask any of the administrators about their information that is being kept on the server.
 
