@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 30daywealthmaps.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627215219id_/http%3A//www.heartlandsuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30daywealthmaps.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027131856id_/http%3A//www.heartlandsuccess.com/privacy.html) for the most accurate reproduction.*
 
 # Heartland Success Privacy Policy Page
 
