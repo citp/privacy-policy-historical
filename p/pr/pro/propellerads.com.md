@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627223900id_/http%3A//propellerads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027175427id_/http%3A//www.propellerads.com/privacy) for the most accurate reproduction.*
 
 # Propeller Ads Media
 
-Advertising Technologies, LTD. (d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. 
+Advertising Technologies, LTD. and FASTLINK SUPPLIES L.P.(d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. 
 
 This Privacy Statement presents our privacy policy, including our privacy practices. Below is information regarding commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website. 
 
