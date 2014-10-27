@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529014312id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027221145id_/http%3A//www3.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG's Privacy Policy
 
-We take the safety of your personal data very seriously. The acquisition of personal data takes place according to prescribed legal regulations.
+## We Protect Your Personal Data!
 
-Below you can discern when personal data is stored while using our Internet offers, as well as how we use the same.
+We take the safety of your personal data very seriously. The acquisition of personal  
+data takes place according to prescribed legal regulations. Below you can discern  
+when personal data is stored while using our Internet offers, as well as how we use the same.
+
+  
+
 
 ### Visiting The Website
 
