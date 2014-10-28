@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623122518id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028035809id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShiftPlanning.com
 
@@ -23,6 +23,8 @@ We gather certain generic information with respect to users of our Website. Info
 We use "cookies" on our Website. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. Cookies tell our computer that you've visited before and help to make your visit more personal so you don't have to re-enter info on a return visit. Cookies also allow us to count the number of unique and return visitors who use our Website. We do not tie the information gathered to our 'Customers' or 'Users' personal information.
 
 Our partners, affiliates, tracking utility company, service providers use both session ID and persistent cookies to make it easier for you to navigate our site, and to customize your experience while on our Websites. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies.
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, tags and scripts that help them better manage content on our site. We not tie the information gathered to our Customers’ or Users’ personally identifiable information.
 
 Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features like checking out (and participation in certain offerings) on our Website if you choose not to accept cookies. Cookies can also enable us to track and target the interests of our users to enhance their experience on our Website.
 
@@ -65,6 +67,8 @@ If you have provided us your consent via opt-in subscription, we may use the inf
 
 The use of information collected through our platform service shall be limited to the purpose of providing the service for which the client has engaged ShiftPlanning.
 
+Information Related to Data Collected through the ShiftPlanning Platform ShiftPlanning collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes.
+
 ## Information Related to Data Collected through the ShiftPlanning Platform
 
 ShiftPlanning collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes.
@@ -93,7 +97,25 @@ We will retain personal information only as long as is required for the purposes
 
 ## On-Site Advertising 
 
-ShiftPlanning© may also use information about you to target advertising while you are visiting our Website. We may use cookie files to assure that you will not be served the same ads repeatedly. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with third party ad network(s) to either display advertising on our Digital Properties or to manage our advertising on other sites. Our ad network partners use cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt-out](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+## Google AdSense/Adwords
+
+We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
+
+## Web Beacons
+
+ShiftPlanning uses Web Beacons alone or in conjunction with cookies to compile information about our Digital Properties. Web Beacons are tiny graphic object that are embedded in a web page or email and is usually invisible to the user but allows checking that a user has viewed the page or email. Web Beacons may be used within the Digital Properties to track email open rates, web page visits or form submissions. In some cases, we tie the information gathered by Web Beacons to our customers’ Collected Information. For example, we use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+## Third Party Tracking Technologies
+
+The use of cookies and web beacons by any tracking utility company or third party service provider is not covered by our privacy statement. We do not have access or control over these cookies.
+
+## Analytics Software
+
+We and our third party tracking-utility partners use log files on our Digital Properties to gather certain information automatically and store it for analytical purposes. This information includes internet protocol (“IP”) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information to track and aggregate no-personal information to analyze trends, administer the site, track users’ movements around our Digital Properties and to gather demographic information about our user base as a in the aggregate.
 
 ## Privacy of Website Information 
 
@@ -144,6 +166,6 @@ We also display personal testimonials of satisfied customers on our site in addi
 
 ## Contact Information
 
-If you have questions or concerns regarding this Policy, you should email ShiftPlanning Customer Service at  or contact us at 1-888-973-6030 or 260 Kearny St. San Francisco, Floor 4, 94108, USA.
+If you have questions or concerns regarding this Policy, you should email ShiftPlanning Customer Service at  or contact us at 1-888-973-6030 or 235 Montgomery St.. Suite 500, San Francisco, 94104, USA
 
-### Last Revised: August 26th, 2013
+### Last Revised: October 1, 2014
