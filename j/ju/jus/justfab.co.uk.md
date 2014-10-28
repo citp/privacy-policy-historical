@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628200213id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028183531id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | JustFab
 
