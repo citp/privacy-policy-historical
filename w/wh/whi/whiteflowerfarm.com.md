@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531224950id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028211244id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
 # Online Privacy & Security - White Flower Farm
 
   
 **Your Privacy**
 
-White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalogue. Our privacy policy was updated on March 24, 2014. 
+White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalog. Our privacy policy was updated on June 17, 2014. 
 
-For our gardening friends who choose to receive our E-mails, rest assured we do not share, rent, or sell your E-mail address to outside companies or agencies. Period.
+For our gardening friends who choose to receive our emails, rest assured we do not share, rent, or sell your email address to outside companies or agencies. Period.
 
-We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please E-mail our customer service team at [**custserv@whiteflowerfarm.com**](mailto:custserv@whiteflowerfarm.com). When you request our catalogue online, you are given the opportunity to opt-out of having your postal address shared. 
+We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please email our customer service team at [**custserv@whiteflowerfarm.com**](mailto:custserv@whiteflowerfarm.com). When you request our catalog online, you are given the opportunity to opt-out of having your postal address shared. 
 
 **Your Personal Information**
 
@@ -21,15 +21,19 @@ Orders placed through our website utilize SSL (secure socket layers) to protect 
 
 **Our Use of Web Technologies:**
 
-In order to improve our site, products and services and provide more convenient, relevant experiences and advertisements to our customers, we and our service providers and partners may use "cookies," "web beacons," and similar web technologies to track your online activities.  Cookies are small data text files that are stored by your web browser. Web beacons (also known as clear gifs or web bugs) are small, transparent, pixel-sized graphic images that are embedded in an HTML webpage, web-based document or email message and used to track when the page or email has been viewed.
+In order to improve our site, products and services and provide more convenient, relevant experiences and advertisements to our customers, we and our service providers and partners may use "cookies," "web beacons," and similar web technologies to track your online activities. Cookies are small data text files that are stored by your web browser. Web beacons (also known as clear gifs or web bugs) are small, transparent, pixel-sized graphic images that are embedded in an HTML webpage, web-based document or email message and used to track when the page or email has been viewed.
 
 **Our Use of Targeted Advertising and 3rd party use of Web Technologies:**
 
-We may also use third party advertising partners and service providers to deliver our ads to you that we feel may be of interest.  To enable our advertising partners or service providers to serve ads to you, they may place a cookie on your browser or a pixel tag in an email to later deliver you an ad.  They may collect and use information about your visits to this site in order to provide you with advertisements on other sites about our goods and services.
+We may also use third party advertising partners and service providers to deliver our ads to you that we feel may be of interest. To enable our advertising partners or service providers to serve ads to you, they may place a cookie on your browser or a pixel tag in an email to later deliver you an ad. They may collect and use information about your visits to this site in order to provide you with advertisements on other sites about our goods and services.
 
-Should you not be interested in these ads, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also disable cookies altogether.  Please note that if you refuse to accept cookies, you may not be able to access portions of our site.
+Should you not be interested in these ads, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access portions of our site.
 
 If you would like to erase all cookies at the end of every session or disable them entirely, please refer to your browser instructions on how to do so. Please note that disabling cookies will prevent you from placing items in your shopping cart, and you will not be able to order online. To order by phone, please call 1-800-503-9624 to reach one of our customer service associates. The Call Center is open from 9 a.m. to 5 p.m. Eastern Time Monday-Saturday and most Sundays from noon to 5 p.m.
+
+**Google Analytics for Display Advertising:**
+
+We have implemented the following features for Google Analytics for Display Advertising: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the [**Ads Settings**](https://www.google.com/settings/ads?hl=en&sig=ACi0TCiyDggutF0hjlVebl9s3BlQfBbBTg32unZznKebFw-foRwaVPWDiWwLMBT_Xt47IYNuU1WoulKouVBbtFfmelM5M8AuV3Fiw18CIr0ZyBALCNJjq7ui1C_m7zpZwm4vFFcMDnbzBoEEKTgHT1z4yCVO3u6khLYoQcPA3b9i-xppLImH-yanLBAVo3Y3m6rCc3PTv7eg) **,** you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. If you would like to opt out of these programs, please visit Google Analytics' [**currently available opt-outs**](https://tools.google.com/dlpage/gaoptout/) for the web. 
 
 **To Opt-Out of Third Party Advertising:**
 
@@ -37,4 +41,4 @@ You may manage your online profile and your opt-out choices by visiting the [**D
 
 **More Information:**
 
-For information about targeted advertising and cookies, please visit [**www.aboutads.info**](http://www.aboutads.info/) and [**www.iab.net/privacymatters**](http://www.iab.net/privacymatters/) .
+For information about targeted advertising and cookies, please visit [**www.aboutads.info**](http://www.aboutads.info/)�and [**www.iab.net/privacymatters.**](http://www.iab.net/privacymatters/)
