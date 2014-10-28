@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the answernest.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114044521id_/http%3A//www.answernest.com/index.php%3Fqa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answernest.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028061925id_/http%3A//www.answernest.com/index.php%3Fqa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - AnswerNest
 
-[](https://web.archive.org/web/20131114044521id_/http%3A//www.answernest.com/index.php%3Fqa%3Dprivacy?)
+[](https://web.archive.org/web/20141028061925id_/http%3A//www.answernest.com/index.php%3Fqa%3Dprivacy?)
 
 ####  Privacy Overview 
 
