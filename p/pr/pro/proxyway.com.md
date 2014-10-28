@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2014-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140130064847id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028073051id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,11 +35,10 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 ---|---|---  
   
 _Proxy Question_  
-• Why do I need proxy software?
+• Can I use proxy software as a gateway for other computers in my LAN?
 
-Internet is full of potential risk to your privacy and security. Every time you surf the web you leave traces of your Internet activity that can reveal your real-life identity. Any web resource you access can gather and record usage information about you such as your IP address, location, time of day, browser type, browser language, software configuration, operating system you are using, web pages last visited and other information that you might want to keep confidential. It is possible to restrict accessing any information or provide customized content to specific IP.  
-Due to different options available in proxy software you will be able to change your IP address, computer information, block potentially harm code and more.   
+Yes. You should select proxy software that acts as a local proxy server and allows you to share Internet connection   
   
- Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Thursday, January 30, 2014   
+ Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Tuesday, October 28, 2014   
 |   
 ---
