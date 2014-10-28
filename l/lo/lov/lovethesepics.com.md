@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovethesepics.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628085346id_/http%3A//www.lovethesepics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovethesepics.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028215248id_/http%3A//www.lovethesepics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
