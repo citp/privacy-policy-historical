@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093412id_/http%3A//www.what-song.com/Index/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028090934id_/http%3A//www.what-song.com/Index/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - WhatSong Soundtracks
+# Privacy - WhatSong
 
-## Privacy Policy
+### Our committment to privacy
 
-**Effective 2009**
+> Privacy is of paramount important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-## Our Commitment To Privacy
+### The information we collect
 
-Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+> We do NOT currently collect or store any personal information (names, phone numbers, addresses, credit card numbers etc). On signup, only a given username, email, and your chosen password is stored. This information will never revealed or sold to any other person, company or entity. Your password is stored in our database within an encrypted table, and is unavailable to be accesses by any other person. It is however always recommended to use unique passwords. I.e. do not use exact username and password matches between different websites and applications. 
 
-## The Information We Collect
+### Questions?
 
-At the present time, we do not collect or store any personal information. Our site has an active user base, however it stores only a username and password chosen by the user. It is a reference website made for people to use the information they need. 
+> If you have any other questions regarding our policy please do not hesititate to email us here. 
 
-**Exception:** This site currently has a request form. We may store your email address temporarily so we can return information about your requests. Your email address will not be used for any other purpose. It will not be disclosed to any person, site or organisation. 
+### Cookies
 
-## How To Contact Us
+> Our site does not collect any personal or search information and will not leave any cookie files on your computer. However, our site implements the use of Google Advertisements. This third-party company may use your search information in order to provide you with targeted advertisements and products. 
 
-If you have any questions or queries regarding our privacy policy, please email us at [staff@what-song.com](mailto:staff@what-song.com)
+##### This policy is effective 2014.
