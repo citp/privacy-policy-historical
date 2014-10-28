@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608025924id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028234551id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EziBuy New Zealand
 
