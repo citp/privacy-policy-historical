@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelowna.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215065315id_/http%3A//www.kelowna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelowna.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028211924id_/http%3A//www.kelowna.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kelowna.com
 
