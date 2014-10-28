@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627154108id_/http%3A//www.youlovecoupons.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028180225id_/http%3A//www.youlovecoupons.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Discount Coupon Codes and Promotional Vouchers
 
