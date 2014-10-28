@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loungebuddy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628172641id_/http%3A//www.loungebuddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loungebuddy.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028150325id_/http%3A//www.loungebuddy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoungeBuddy
 
-Effective date: June 19, 2013
+Effective date: September 25, 2014
 
 Welcome to LoungeBuddy (“LoungeBuddy,” “we,” “us” or “our”). LoungeBuddy provides a fast, easy way to find airport lounges, explore amenities, understand access requirements, and share your airport lounge experiences with photos, reviews, and ratings.
 
@@ -24,7 +24,7 @@ Information you provide us directly:
 
 §  Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows us to help you or others be “found” on LoungeBuddy.
 
-§  User Content (e.g., photos, comments, and other materials) that you post to the Service.
+§  Payment details (including payment card number, security code, expiration date, cardholder name and billing address) if you are purchasing access to a lounge via the Service.  §  User Content (e.g., photos, comments, and other materials) that you post to the Service.
 
 §  Communications between you and LoungeBuddy. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note: you may not opt out of Service-related e-mails.
 
@@ -35,6 +35,8 @@ Finding your friends on LoungeBuddy:
 Analytics information:
 
 §  We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+
+§  We do not track or respond to browser “do not track” requests.
 
 Cookies and similar technologies:
 
@@ -64,6 +66,8 @@ Metadata:
 
 In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
 
+§  process, validate, confirm, verify and track your purchases (including by processing payment card transactions and contacting you about your purchases, including by telephone)
+
 §  help you efficiently access your information after you sign in
 
 §  remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
@@ -78,7 +82,7 @@ In addition to some of the specific uses of information we describe in this Priv
 
 §  diagnose or fix technology problems
 
-§  automatically update the LoungeBuddy application on your device. LoungeBuddy or other Users may run contests, special offers or other events or activities (“Events”) on the Service. If you do not want to participate in an Event, send an email to support@loungebuddy.com with your username and/or email address associated with your account.
+§  automatically update the LoungeBuddy application on your device. LoungeBuddy or other Users may run contests, special offers or other events or activities (“Events”) on the Service. If you do not want to participate in an Event, send an email to support@loungebuddy.com with your username and/or email address associated with your account.
 
 3\. SHARING OF YOUR INFORMATION
 
@@ -132,19 +136,19 @@ Your account information and profile/privacy settings:
 
 §  Unsubscribe from email communications from us by clicking on the “unsubscribe link” provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
 
-§  If you have any questions about reviewing or modifying your account information, please contact us directly at support@loungebuddy.com.
+§  If you have any questions about reviewing or modifying your account information, please contact us directly at support@loungebuddy.com.
 
 How long we keep your User Content:
 
 §  Following termination or deactivation of your account, LoungeBuddy, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
 
-§  Any photos you publically submit to the Service will be kept and displayed on the Service (or displayed in the future) unless you specifically request to have these images removed.  To request image removal, you must send an email to support@loungebuddy.com along with the email address you provided when you submitted the image(s).
+§  Any photos you publically submit to the Service will be kept and displayed on the Service (or displayed in the future) unless you specifically request to have these images removed.  To request image removal, you must send an email to support@loungebuddy.com along with the email address you provided when you submitted the image(s).
 
-§  If you have any questions about termination or deactivation of your account, please contact us directly at support@loungebuddy.com.
+§  If you have any questions about termination or deactivation of your account, please contact us directly at support@loungebuddy.com.
 
 6\. CHILDREN’S PRIVACY
 
-LoungeBuddy does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@loungebuddy.com.
+LoungeBuddy does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@loungebuddy.com.
 
 7\. OTHER WEB SITES AND SERVICES
 
@@ -152,12 +156,18 @@ We are not responsible for the practices employed by any websites or services li
 
 8\. HOW TO CONTACT US ABOUT A DECEASED USER
 
-In the event of the death of an LoungeBuddy User, please send us an email to the following email address: support@loungebuddy.com. We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
+In the event of the death of a User, please send us an email to the following email address: support@loungebuddy.com. We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
 
 9\. HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Service, please contact us at support@loungebuddy.com.
+If you have any questions about this Privacy Policy or the Service, please contact us at support@loungebuddy.com.
 
-10\. CHANGES TO OUR PRIVACY POLICY
+10\. YOUR CALIFORNIA PRIVACY RIGHTS
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: support@loungebuddy.com or LoungeBuddy, Inc., 1111 Kearny Street, San Francisco, CA 94133.
+
+11\. CHANGES TO OUR PRIVACY POLICY
 
 LoungeBuddy may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of LoungeBuddy or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
+
+4828-2338-4094, v.  1
