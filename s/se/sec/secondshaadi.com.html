@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the secondshaadi.com privacy policy that was archived on 2014-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327174436id_/http%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the secondshaadi.com privacy policy that was archived on 2014-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141028222612id_/http%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Second Shaadi - Privacy Policy</title>
 <!--<link href="css/generate.css.php?source=privacy_policy.php" rel="stylesheet" type="text/css" />
 -->
-<link href="/css/style.1384942715.css" rel="stylesheet" type="text/css">
+<link href="/css/style.1401363570.css" rel="stylesheet" type="text/css">
 <link href="/css/thickbox.1219905910.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" defer="" async="" src="http://www.accentium.com/piwik/piwik/piwik.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/js/jquery.1220336320.js"></script>
-<script type="text/javascript" src="/js/thickbox.1395900194.js"></script>
+<script type="text/javascript" src="/js/thickbox.1406188664.js"></script>
 <!--[if lt IE 7]>
 <style type="text/css">
 	@import url(css/iefix.css);
@@ -38,7 +38,7 @@
 <!-- END OF TAG FOR head SECTION -->
 <link rel="icon" href="/imgs/zohhofavicon.ico" type="image/x-icon">
 <div id="header">
-	<div class="logo"><a href="/home.php"><img src="/images/spacer.gif" title="India's No.1 site for Remarriage" alt="India's No.1 site for Remarriage" border="0" height="73" width="183"></a>
+	<div class="logo"><a href="http://www.secondshaadi.com/"><img src="/images/spacer.gif" title="India's No.1 site for Remarriage" alt="India's No.1 site for Remarriage" border="0" height="73" width="183"></a>
 	</div>			<div class="rightbanner">
 		 <a href="/register.php"><img src="/images_home/register_free_btn.jpg" title="Register Free!" alt="Register Free!" border="0"></a>
 	 </div>
@@ -46,7 +46,7 @@
 
 
 
-<!------------------mozilla--><script language="JavaScript1.2">
+<!--------------------><script language="JavaScript1.2">
 
 
 var clickmessage="Right click disabled on images!"
@@ -126,6 +126,25 @@ color:#003399;
 .wide_ads {background:#ffffff; padding:10px}
 .narrow_ads {background:#fff; padding:10px;}
 </style><script>
+	function submitloginform(){
+		username = $("#username").val();
+		password = $("#password").val();
+		remember = $("#remember").val();	
+		 $.ajax({
+		type:       "POST",
+		url:        "/user_login_new.php",
+		cache:      false,
+		data:       "username=" + username +"&password=" +password +"&remember=" +remember +"&ssredirct=yes" ,
+		 success:    function(html) {
+						//$("#"+loadarea).html(html);
+						//re-attach thickbox
+					   //bindThickBoxEvents()
+					   location.reload();
+					}
+		});
+		//alert("test");
+		
+	}
 	function openDropDown(){
 		//alert(document.getElementById('uploadUserPic').style.display);
 		  if(document.getElementById('uploadUserPic').style.display=='none')
@@ -166,9 +185,27 @@ var versionSS= getSSBrowserVersion();
 var SSBrowser= getSSBrowser();
 </script>
 
-	 <style>
+
+<script>
+var site_url="http://www.secondshaadi.com/";
+
+function set_machine_cookie(machine_type){
+    var site_base_url = site_url; 
+	//alert(site_base_url+"setMachine.php");
+	$.ajax({ 
+        type: "GET", 
+        url: site_base_url+"setMachine.php",
+        data:"machineType="+machine_type,					
+        success: function(msg){ 												
+			window.location.reload();
+        } 
+    });
+}
+
+</script>	 <style>
 	  #sub-nav li a { padding:7px 8px !important;}
-	 </style>	<script type="text/javascript" src="/js/jquerynewsticker.js"></script>
+	 </style>
+         	<script type="text/javascript" src="/js/jquerynewsticker.js"></script>
 		<!-- header bar -->
 	<style type="text/css">
 	<!--
@@ -206,16 +243,16 @@ var SSBrowser= getSSBrowser();
 		<div id="header-bar">
 			<!-- Login/Password Section Starts -->
 						<div class="top-nav" style="padding-left:223px;" align="center">
-				<form action="/user_login.php" method="post">
-							<input class="text-box" name="username" value="Username / E-mail" onfocus="if(this.value=='Username / E-mail') this.value='';" onblur="if(this.value=='') this.value='Username / E-mail';" size="30" type="text">&nbsp;&nbsp;&nbsp;
-							<input name="password" class="text-box" value="******" onfocus="if(this.value=='******') this.value='';" onblur="if(this.value=='') this.value='******';" size="16" type="password" maxlength="30">&nbsp;&nbsp;&nbsp;
+				<form id="loginform">
+							<input class="text-box" name="username" id="username" value="Username / E-mail" onfocus="if(this.value=='Username / E-mail') this.value='';" onblur="if(this.value=='') this.value='Username / E-mail';" size="30" type="text">&nbsp;&nbsp;&nbsp;
+							<input name="password" id="password" class="text-box" value="******" onfocus="if(this.value=='******') this.value='';" onblur="if(this.value=='') this.value='******';" size="16" type="password" maxlength="30">&nbsp;&nbsp;&nbsp;
 				<input name="remember" id="remember" value="1" type="checkbox">
-              Remember Me&nbsp;<input name="Login" type="image" value="Login" src="/menu_images/Login_button.gif" alt="Login" align="absmiddle">
-			&nbsp;&nbsp;&nbsp;<a href="/forgotPassword.php?height=290&amp;width=550" class="forgot" rel="nofollow">Forgot Password?</a></form>
+              Remember Me&nbsp;<input name="Login" id="loginbtn" type="button" value="" style="background:url(menu_images/Login_button.gif) no-repeat; border:none; height: 20px; width: 45px; margin-left:5px;  margin-top:0; position:absolute;" alt="Login" align="absmiddle" onclick="javascript:submitloginform()">
+			&nbsp;&nbsp;&nbsp;<a href="/forgotPassword.php?height=290&amp;width=550" class="thickbox forgot" rel="nofollow">Forgot Password?</a></form>
 					</div>
 			<div class="live-help">
-							<a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/91152469/?cmd=file&amp;file=visitorWantsToChat&amp;site=91152469&amp;byhref=1&amp;SESSIONVAR!operator=sonali&amp;VISITORVAR!Username=&amp;imageUrl=http://images.liveperson.com/lp/91152469" target="chat91152469" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/91152469/?cmd=file&amp;file=visitorWantsToChat&amp;site=91152469&amp;SESSIONVAR!operator=sonali&amp;VISITORVAR!Username=&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location),'chat91152469','width=475,height=400,resizable=yes');return false;" rel="nofollow">
-				<img src="/images_home/Live_Help_button.png" height="41" width="71" title="Live Help" style="vertical-align:bottom;" alt="Live Help" border="0">			  </a>
+								<a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/91152469/?cmd=file&amp;file=visitorWantsToChat&amp;site=91152469&amp;byhref=1&amp;SESSIONVAR!operator=sonali&amp;VISITORVAR!Username=&amp;imageUrl=http://images.liveperson.com/lp/91152469" target="chat91152469" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/91152469/?cmd=file&amp;file=visitorWantsToChat&amp;site=91152469&amp;SESSIONVAR!operator=sonali&amp;VISITORVAR!Username=&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location),'chat91152469','width=475,height=400,resizable=yes');return false;" rel="nofollow">
+				<img src="/images_home/Live_Help_button2.jpg" height="41" width="76" title="Live Help" alt="Live Help" border="0">				</a>
 			</div>
 		<!-- Login/Password Section Ends -->
 	</div>
@@ -224,7 +261,7 @@ var SSBrowser= getSSBrowser();
 		<div id="nav-inner">
 			  <ul>				<li><a href="/home.php" class="leftborder">Home</a></li>
 				<li><a href="/Regularsearch.php">Search</a></li>
-                <li><a href="/tour/tour.htm?keepThis=true&amp;TB_iframe=true&amp;height=500&amp;width=700" title="Quick Tour of Secondshaadi.com" class="">Take a Tour</a></li>
+                <li><a href="/tour/tour.htm?keepThis=true&amp;TB_iframe=true&amp;height=500&amp;width=700" title="Quick Tour of Secondshaadi.com" class="thickbox">Take a Tour</a></li>
 				<li><a href="/articles.php">Articles</a></li>
 				<li><a href="/forum/">Discuss</a></li>
 				<li><a class="noborder" href="/register.php">
@@ -337,26 +374,17 @@ var SSBrowser= getSSBrowser();
 
 <div id="right_panel">
 	<div id="right_white_panel">
-		<h1>Recent Topic Posts</h1>
-	    		<ul>
-			<li><a href="forum/second-marriages/5253--all-ladies-talking-about-freedom-freedom-can-you-list-what-exactly-you-w.html">All ladies talking about freedom, freedom.. can you list what exactly you w...</a></li>
+		<h1>Recent Article Comments</h1>
+			<ul>
+			<li><a href="full_article.php?blog_id=6">unfortunately there is no formula of a successfull married life. Rathe...</a></li>
 		</ul>
 				<ul>
-			<li><a href="forum/second-marriages/5252--its-the-era-of-women-liberation-and-emancipation-&#10;let-kick-the-mcp-mal.html">Its  the era of women liberation and emancipation . 
-Let kick the MCP( mal...</a></li>
+			<li><a href="full_article.php?blog_id=6">there is nothing precious than your life in this world. if a relations...</a></li>
 		</ul>
 				<ul>
-			<li><a href="forum/second-marriages/5251--profile-of-deepak-panchal-profile-id-dimpy7-has-been-created-on-many-webs.html">Profile of Deepak Panchal (profile Id dimpy7) has been created on many webs...</a></li>
+			<li><a href="full_article.php?blog_id=6">Well it becomes even difficult if you have kids as you are not even su...</a></li>
 		</ul>
-				<ul>
-			<li><a href="forum/second-marriages/5250--marriage-in-india-for-men-is-extremely-risk&#10;&#10;you-may-end-as-a-pauper-or.html">Marriage in India for Men is extremely Risk!
-
-You may end as a Pauper or ...</a></li>
-		</ul>
-				<ul>
-			<li><a href="forum/personal-issues/5249--apni-zindagi-ko-samajhne-ki-kosis-karen-ye-mazak-nahi-bahot-badi-haqikat-h.html">Apni zindagi ko samajhne ki kosis karen. ye mazak nahi bahot badi haqikat h...</a></li>
-		</ul>
-		  </div>
+			</div>
 </div>
 
 	<!-- Banner Panel Starts -->
@@ -394,7 +422,10 @@ You may end as a Pauper or ...</a></li>
 	
 	
 <!-- Footer Starts -->
-  
+  <div id="back-top" style="display:none">
+    <a href="#top"><img src="/images/topicon.png"></a>
+</div>
+
 <div style="display:  block; z-index: 100; line-height:24px; font-size:18px; text-align:center; padding:10px; font-weight:bold; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; -o-border-radius:5px; border:3px solid green; position: fixed; bottom:0; right:0; background:#fff;" id="floatMenu">
 <div style="position:absolute; right:0; top:0; padding: 2px;">
 <a href="javascript:close_help();"><img border="0" src="http://www.secondshaadi.com/images/close.png"></a>
@@ -456,7 +487,7 @@ You may end as a Pauper or ...</a></li>
 </div>
 
   <div class="footer-text1">
-  	<span class="small-text">Copyright © 2007 <a href="/index.php" class="small-text">SecondShaadi.com</a> | <img src="/images/accentium_logo.gif" border="0" alt="Accentium">&nbsp;<a rel="external nofollow" href="http://www.accentium.com" target="_blank">ccentium</a> <!--| <a href="http://www.taaza.com" target="_blank">Taaza.com</a> | <a href="http://study.taaza.com" target="_blank">StudyNation.com</a> | <a href="http://www.ishopper.com" target="_blank">iShopper.com</a> | <a href="http://www.wohho.com" target="_blank">Wohho.com</a> | <a href="http://www.movieplus.com" target="_blank">Movieplus.com</a> | <a href="http://sitagita.com" target="_blank">SitaGita.com</a> | <br /> <a href="http://www.adlift.com" target="_blank">Search Engine Marketing</a>--> | SecondShaadi.com is not affiliated to Shaadi.com</span>
+  	<span class="small-text">Copyright © 2014 <a href="/index.php" class="small-text">SecondShaadi.com</a> | <img src="/images/accentium_logo.gif" border="0" alt="Accentium">&nbsp;<a rel="external nofollow" href="http://www.accentium.com" target="_blank">ccentium</a> <!--| <a href="http://www.taaza.com" target="_blank">Taaza.com</a> | <a href="http://study.taaza.com" target="_blank">StudyNation.com</a> | <a href="http://www.ishopper.com" target="_blank">iShopper.com</a> | <a href="http://www.wohho.com" target="_blank">Wohho.com</a> | <a href="http://www.movieplus.com" target="_blank">Movieplus.com</a> | <a href="http://sitagita.com" target="_blank">SitaGita.com</a> | <br /> <a href="http://www.adlift.com" target="_blank">Search Engine Marketing</a>--> | SecondShaadi.com is not affiliated to Shaadi.com</span>
   </div>
 </div>
 
@@ -671,6 +702,38 @@ idofhelp.style.top=height_help+"px";
 idofhelp.style.left=width_help+"px";*/
 
 }
+</script>
+<script type="text/javascript">
+$().ready(function() {
+
+	/*FROM HERE SCROLLER FUNCTION START*/
+	$(window).scroll(function(){
+	
+
+	if ($(this).scrollTop() > 400) {
+//alert('More than 400');
+console.log($(this).scrollTop());
+//	$('#back-top').fadeIn();
+	$('#back-top').css("display","block");
+	} else {
+	$('#back-top').css("display","none");
+	//$('#back-top').fadeOut();
+	}
+	});
+
+	$('#back-top').click(function(){
+
+	$("html, body").animate({ scrollTop: 0 }, 600);
+
+	return false;
+
+	});
+
+	/*END HERE*/
+
+
+});
+
 </script>
   <!-- Footer Ends -->
 <!-- Wrapper Closed -->
