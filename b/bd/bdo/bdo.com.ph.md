@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdo.com.ph privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920041612id_/https%3A//www.bdo.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com.ph privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028105631id_/https%3A//www.bdo.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BDO Unibank, Inc.
 
