@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212193846id_/http%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028121525id_/https%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fooda
 
@@ -37,6 +37,13 @@ When we share your information with third parties, we require that they take rea
 
 We may also disclose your personal information to comply with legal obligations, law enforcement inquiries or where reasonably necessary to protect life, health or property.  
 In the event that Fooda.com or one or more of its Web sites or businesses is sold, merged into or otherwise transferred to or acquired by another entity, your information that we have collected may be transferred to and used by that other entity.
+
+**California Online Privacy Policy Protection Act Notice**
+
+Fooda does not track users across the web, nor does Fooda authorize the collection of PII (Personal Identifiable Information) from third party advertising networks and therefore, Fooda does not use “do no track” signals. 
+
+  
+
 
 **Customer Communication**
 
