@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617093733id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028081342id_/https%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stupeflix
 
@@ -59,7 +59,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Stupeflix account and going to the 'Your Account' page available at [http://studio.stupeflix.com/me/](http://studio.stupeflix.com/me/%%7D).
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Stupeflix account and going to the 'Your Account' page available at [https://studio.stupeflix.com/me/](https://studio.stupeflix.com/me/%%7D).
 
 ## Childrens Online Privacy Protection Act Compliance
 
@@ -67,7 +67,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://studio.stupeflix.com/en/legal/terms/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://studio.stupeflix.com/en/legal/terms/>
 
 ## Your Consent
 
