@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413084624id_/http%3A//www.conservatives.com/Information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028054512id_/http%3A//www.conservatives.com/Privacy.aspx) for the most accurate reproduction.*
 
-# The Conservative Party | Privacy
+# Privacy
 
 This is a privacy policy for the Conservative Party website. Our homepage on the Web is located at [http://www.conservatives.com](http://www.conservatives.com/).
 
@@ -69,7 +69,17 @@ We use IP addresses, URI's of requested resources, timestamps and HTTP user-agen
 
 ## Cookies
 
-Please visit our [cookies page](https://web.archive.org/Information/Cookies.aspx) for information on what cookies this site uses.
+[Please visit our cookies page](https://web.archive.org/Cookies.aspx) for information on what cookies this site uses.
+
+## Web beacons and tracking links
+
+ The Conservative Party uses Web beacons (also known as pixel tags and clean GIFs).  These involve graphics that are not apparent to the user, and which do not provide us with any data about individuals. Tracking links and/or similar technologies consist of a few lines of programming code and can be embedded in our websites. In conjunction with cookies, these are primarily used for statistical analysis purposes. This technology can also be used for tracking traffic patterns on websites, as well as finding out if an e-mail has been received and opened and to see if there has been any response.
+
+  Our website provides Social Plug-ins of Facebook.com. When you visit one of our sites with Social Plug-ins (recognizable by a white F on a blue tile or a thumb up sign) your browser establishes a direct connection to the servers of Facebook. The content of the Plug-in will be transferred to your browser and implemented into the website. The information that you visit our website is now transferred to Facebook. If you are logged on in Facebook during the visit on our website, Facebook adds this information to your Facebook profile. If you are interacting with one of the Social Plug-ins, e.g. make a comment, this information will also be transferred to Facebook. In addition, other personal information as your IP address, Browser and other parameter may be transferred to Facebook and stored there.
+
+  In case you do not wish such a data transfer, please log off in Facebook before you enter our website.
+
+  We cannot influence this data collection and data transfer by the Facebook Plug-ins. Please see Facebook’s privacy statements for more information on the purpose and extent of data collection by Facebook, as well as how they further process and use your data there, and your related rights and setting options for protecting your privacy: (http://www.facebook.com/privacy/explanation.php).More information is also available at www.youronlinechoices.eu
 
 ## Links
 
@@ -77,9 +87,7 @@ Our website links to other sites, but we shall always try to warn you when this 
 
 ## Security
 
-We take every precaution to protect your details. When you submit sensitive information via the website, it is secure both on its way to us and once we receive it.
-
-For instance, our membership and donation forms encrypt your credit card number using encryption technology called -- 'secure socket layers' or SSL. If you use Netscape Navigator or Internet Explorer, you can tell whether a page is secure by checking whether there is a locked padlock or key in the right corner of your browser. The URL of the page you are viewing will also begin with https://.
+We take every precaution to protect your details. When you submit sensitive information via the website, it is secure both on its way to us and once we receive it. For instance, our membership and donation forms encrypt your credit card number using SSL encryption technology.
 
 We also do everything in our power to protect your information once we have received it. Our staff can only access your details if they have a specific job to perform, such as dealing with a membership enquiry. They also have to keep up to date on our security and privacy practices.
 
@@ -97,16 +105,12 @@ We take our responsibilities to protect you from fraud very seriously. To fulfil
 
 We recognise that details such as your post code or email address are bound to change over time. We will do what we can to ensure that you can change the information we hold about you.
 
-## Choice/Opt Out
+## Opting out/Unsubscribing
 
-You will always be able to opt out of having your information used for any purpose other than that specifically related to the page where we ask for it. Our membership form, for instance, has an opt out mechanism so that you can join online without subscribing to our email list.
-
-If you ever want to stop us getting in touch, you can opt out by following the instructions at the foot of every email we send.
+If you have signed up for emails from the Conservative Party but want to stop us getting in touch, you can opt out by following the "unsubscribe" instructions at the foot of every email we send.
 
 ## Notification of Changes
 
 If we change our privacy policy, we shall post a link to those changes on our homepage so that you always know what information we collect, how we use it and under what circumstances, if any, we disclose it.
 
 When we collect information from you, we tell you what we intend to do with it; if we later want to use that information for a different purpose, we shall first send you an email setting out our plans - and it will be up to you whether or not we do so. 
-
-Back to top
