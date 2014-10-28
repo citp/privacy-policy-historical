@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219130337id_/http%3A//www.airtransat.ca/en/Footers/Footer/Privacy-policy-and-Legal-notice%3FID%3D765%26type%3Dgamme%26tmpl%3DGEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028181210id_/http%3A//www.airtransat.ca/en/Footers/Footer/Privacy-policy-and-Legal-notice%3FID%3D765%26type%3Dgamme%26tmpl%3DGEN) for the most accurate reproduction.*
 
 # Privacy | Air Transat
 
-Learn more about Air Transat's Privacy Policy, read the Terms and Conditions of Carriage and the Terms of use for the Air Transat site.
+Learn more about Air Transat's Privacy Policy and read the Terms of use for the Air Transat site.
 
 ## Privacy Policy
 
-Air Transat and its affiliated companies (“Transat”) are committed to protecting the privacy of your personal information and have taken measures to ensure the privacy and confidentiality of that information. Our commitment to safeguarding your privacy is reflected in our Transat’s privacy policy (the “Policy”). We have developed this policy and related procedures to comply with the _Personal Information Protection and Electronic Document Act_. We invite you to consult our Policy for more information and details. We invite you to consult our Policy to get more details, it is accessible below.
+Air Transat and its affiliated companies (“Transat”) are committed to protecting the privacy of your personal information and have taken measures to ensure the privacy and confidentiality of that information. Our commitment to safeguarding your privacy is reflected in our Transat’s privacy policy (the “Policy”). We have developed this policy and related procedures to comply with the _Personal Information Protection and Electronic Document Act_. We invite you to consult our Policy below for more information and details.
 
 Transat is responsible for personal information it holds or has under its control, including personal information it passes to others with your permission. Our privacy officer will receive and respond to your enquiries and complaints regarding the protection and privacy of your personal information, and will deal with requests for access to your information.
 
@@ -175,10 +175,6 @@ Should an individual feel that this Policy is not being complied with or should 
 > i. A complaint or request for an inquiry must be addressed in writing to the Director at the following address: 5959 Côte-Vertu Blvd., Montreal, Quebec H4S 2E6; and
 > 
 > ii. Any complaint or request for investigation shall be the subject of an inquiry or a reply within sixty (60) working days. If the complaint is justified, Transat will take the appropriate follow-up measures including providing access to the personal information requested, the correction of the information, or, where applicable, by modifying this Policy. 
-
-## Terms and Conditions of Carriage 
-
-Click [here](http://staticcontent.transat.com/airtransat/pdf/EN/Tariff.pdf) to open the Tariff containing rules applicable for the transportation of passengers and baggage or goods between points in Canada in the one hand and points outside Canada on the other hand.
 
 ## Terms of use for the Air Transat site
 
