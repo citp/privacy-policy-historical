@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180023id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028192933id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
 # Liberty Mutual
 
@@ -41,7 +41,7 @@ The level of information gathered by Liberty Mutual varies depending upon your r
 
   * eBilling - Name, Address, Phone Number, Email address, Banking information, Credit Card number if provided.
 
-  * Responsible Sports - Name, Mailing Address, Email address, Phone number, Favorite sport, Affiliated orgnization
+  * Play Positive™ \- Name, Mailing Address, Email address, Phone number, Favorite sport, Affiliated youth sport partner, Organization information (Name, NIckname, Website, Facebook page, Twitter handle, Type, Ages Served, Address)
 
   * Social networking websites - You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to access content on our websites.  By doing so, you specifically grant permission and authorize us to collect, store and use authorized personal information from these sites as indicated during the use and authorization process  
  
@@ -60,7 +60,7 @@ What is a cookie? Cookies are sets of information that our web server assigns to
 
   
 **About Pixel Tags and DoubleClick Spotlight tags**  
-We use pixels tags, or transparent GIF files, and DoubleClick Spotlight Tags to help manage our online advertising and promotions.  These tags collect anonymous (not personally identifiable) information about which advertisements and promotions bring users to our Web site.  The Spotlight Tags enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn how users respond to our online advertisements and promotions. With both cookie and tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of the Spotlight Tags, please go to <http://www.doubleclick.net/us/corporate/privacy/index.aspx>.
+We use pixels tags, or transparent GIF files, and DoubleClick Spotlight Tags to help manage our online advertising and promotions.  These tags collect anonymous (not personally identifiable) information about which advertisements and promotions bring users to our Web site.  The Spotlight Tags enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn how users respond to our online advertisements and promotions. With both cookie and tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of the Spotlight Tags, please go to [http://www.doubleclick.net/us/corporate/privacy/index.aspx](http://www.doubleclick.net/us/corporate/privacy/index.aspx)
 
 **Behavioral Advertising Compliance Disclosure**  
 Liberty Mutual and/or our partners may use data collected on this site to customize ads to you on other web sites as you browse the Web. If you do not want your browsing behavior used for online behavioral advertising purposes, [CLICK HERE](http://www.aboutads.info/choices) to opt-out from Liberty Mutual and/or [CLICK HERE](http://www.aboutads.info/choices/) to opt-out of our third party partners.
@@ -93,12 +93,19 @@ Liberty Insurance Company of America
 Helmsman Management Services, Inc.  
 Helmsman Insurance Agency, Inc.  
 Liberty Life Assurance Company of Boston  
-Liberty Life Securities LLC  
 Liberty Lloyds of Texas Insurance  
 Employers Insurance Company of Wausau  
 Wausau Business Insurance Company  
 Wausau General Insurance Company  
-Wausau Underwriters Insurance Company
+Wausau Underwriters Insurance Company  
+Liberty Northwest Insurance Corporation  
+Liberty County Mutual Insurance Company (Texas only)  
+LM Property and Casualty Insurance Company  
+Liberty Mutual Personal Insurance Company  
+Liberty Personal Insurance Company,   
+LM General Insurance Company,   
+American States Preferred Insurance Company,  
+Consolidated Insurance Company
 
   
 **Contact Information**  
@@ -108,4 +115,4 @@ Boston, MA 02116
 e-mail: [corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com)
 
   
-Last modified on: March 05, 2013.
+Last modified on: August 13, 2014.
