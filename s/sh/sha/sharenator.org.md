@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharenator.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172649id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenator.org privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028015950id_/http%3A//www.sharenator.com/privacy.html) for the most accurate reproduction.*
 
 # Sharenator.com
 
@@ -55,8 +55,6 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-Additional information on CPX Interactive website: [http://www.cpxinteractive.com/privacy-policy](http://www.cpxinteractive.com/privacy-policy%22)
 
 This policy was last modified on 09 Sep 2010 
 
