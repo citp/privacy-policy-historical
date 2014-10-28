@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104836id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029005632id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
 
@@ -19,7 +19,6 @@
 
 | 
 
-  
 _**Privacy Policy**_
 
 This page was last updated on March 16th 2009.
@@ -43,17 +42,17 @@ Please be advised that this privacy policy may be changed in the future. Return 
 
 Magical Movies
 
-| |  **The Pirate Fairy**  
+| |  **Sleeping Beauty**  
 ---  
-[](http://www.amazon.com/exec/obidos/ASIN/B00H5RYN5Y/disneysworldofwo)| |  [  
-The Adventure of a lifetime!](http://www.amazon.com/exec/obidos/ASIN/B00H5RYN5Y/disneysworldofwo)  
+[](http://www.amazon.com/exec/obidos/ASIN/B00GPWEOQS/disneysworldofwo)| |  [  
+Beauty, wonder and adventure!](http://www.amazon.com/exec/obidos/ASIN/B00GPWEOQS/disneysworldofwo)  
 ---|---|---  
-[](http://www.amazon.com/exec/obidos/ASIN/B00H5RYN5Y/disneysworldofwo)  
+[](http://www.amazon.com/exec/obidos/ASIN/B00GPWEOQS/disneysworldofwo)  
   
   
 Updates
 
-June 1st 2014  
-87 new images, featuring Pluto, Father's Day, Finding Nemo, Tangled, The Lion King, The Little Mermaid, Weddings and Misc. Holidays, plus 50 new coloring pages.  
+October 1st 2014  
+61 new images, featuring Halloween, Fall Season, Palace Pets, Goofy, Minnie Mouse, Disney Babies and Sleeping Beauty, plus 28 new coloring pages.  
   
 | 
