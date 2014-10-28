@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231738id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netiq.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028204824id_/https%3A//www.netiq.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetIQ
 
@@ -78,9 +78,9 @@ Questions or comments regarding the NetIQ privacy statement should be directed b
 
 Legal/ re Internet Privacy Practices  
 NetIQ Corporation  
-1233 West Loop South, Suite 810  
+515 Post Oak Boulevard, Suite 1200  
 Houston, Texas 77027
 
-© 2013 NetIQ Corporation and its affiliates. All Rights Reserved.
+© 2014 NetIQ Corporation and its affiliates. All Rights Reserved.
 
 This document was last updated January 30, 2013.
