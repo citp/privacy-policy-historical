@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patch.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627033257id_/http%3A//www.patch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patch.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028123109id_/http%3A//corp.patch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Patch
 
