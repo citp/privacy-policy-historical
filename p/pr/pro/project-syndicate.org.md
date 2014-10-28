@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502010438id_/http%3A//www.project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028230331id_/http%3A//project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms and Privacy - Project Syndicate
 
@@ -73,19 +73,3 @@ P.O. Box 130
 Prague 2 120 21  
 Czech Republic  
 digital@project-syndicate.org
-
-### Translations available in 11 Languages
-
-  * ArabicArabic
-  * ChineseChinese
-  * CzechCzech
-  * DutchDutch
-  * EnglishEnglish
-  * FrenchFrench
-  * GermanGerman
-  * ItalianItalian
-  * PortuguesePortuguese
-  * RussianRussian
-  * SpanishSpanish
-
-
