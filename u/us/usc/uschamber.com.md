@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021815id_/https%3A//www.uschamber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028011119id_/https%3A//www.uschamber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Chamber of Commerce
 
@@ -66,8 +66,8 @@ Washington, DC 20062
 Call us at 800-638-6582  
 P3P Compliant
 
-The U.S. Chamber's Web site is P3P compliant. <http://www.w3.org/P3PRead> more about Platform for Privacy Preferences Project (P3P).
+The U.S. Chamber's Web site is P3P compliant. <http://www.w3.org/P3P> Read more about Platform for Privacy Preferences Project (P3P).
 
 ### Changes to This Privacy Policy
 
-This privacy policy is available at all times to all users of the uschamber.com Web site at <http://www.uschamber.com/privacy.htm>. Any material changes to this privacy policy will be communicated to users through this Web page. Users are responsible for making use of this resource to stay up to date on the uschamber.com/uschamber.org privacy policy.
+This privacy policy is available at all times to all users of the uschamber.com Web site at <https://www.uschamber.com/privacy-policy>. Any material changes to this privacy policy will be communicated to users through this Web page. Users are responsible for making use of this resource to stay up to date on the uschamber.com/uschamber.org privacy policy.
