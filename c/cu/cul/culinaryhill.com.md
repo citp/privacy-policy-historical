@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601185723id_/http%3A//www.culinaryhill.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029181806id_/http%3A//culinaryhill.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Culinary Hill
+# Privacy Policy | Culinary Hill
 
 This Privacy Policy governs the manner in which Culinary Hill collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.culinaryhill.com](http://www.culinaryhill.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Culinary Hill.  Your privacy is valuable to Culinary Hill, and we work hard to protect your personal information.
 
