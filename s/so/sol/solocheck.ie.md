@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328200646id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solocheck.ie privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029225140id_/http%3A//www.solocheck.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Irish Company Info - SoloCheck
 
@@ -8,7 +8,7 @@ All personal information necessary or available for the use of the Website will 
 
 All information gathered by the use of the website will be stored and used with the utmost care and every effort will be made to protect against unauthorised access.
 
-SoloCheck.ie and/or it's sister companies may wish to send you information about its services. If you do not wish to receive any such information, you should email us at [support@solocheck.ie](mailto:support@solocheck.ie) advising us you do not wish to receive such information.
+SoloCheck.ie and/or its sister companies may wish to send you information about its services. If you do not wish to receive any such information, you should email us at [support@solocheck.ie](mailto:support@solocheck.ie) advising us you do not wish to receive such information.
 
 ## Personal Data Right of Access
 
@@ -45,3 +45,7 @@ Cookie cookie| 60 days from set/update| We provide an option to "Hide this messa
   
   
 To learn more about managing cookies view your web browser help or visit [aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=1)
+
+## Remarketing
+
+All pages on SoloCheck contain Google remarketing tags. These tags are used by third-party vendors, including Google, to re-advertise Solocheck and its related reports and services across the Internet. Remarketing third-party vendors, including Google, use cookies to serve ads based on a users' past visits to various pages of our website. Visitors can opt out of Google's use of cookies by visiting [Google's Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
