@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techjay.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628194442id_/http%3A//www.techjay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjay.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029205224id_/http%3A//www.techjay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy TechJay
 
 [Privacy Policy](http://www.techjay.com/privacy-policy "Privacy Policy") for www.techjay.com
 
