@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdctrack.in privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510071905id_/http%3A//www.dtdctrack.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdctrack.in privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029214026id_/http%3A//www.dtdctrack.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
