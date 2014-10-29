@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopandship.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073538id_/http%3A//www.shopandship.co.za/ShopAndShip-Content.aspx%3FPage%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandship.co.za privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029200931id_/http%3A//shopandship.co.za/ShopAndShip-Content.aspx%3FPage%3D6) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Shop and Ship Online South Africa
 
   
 Shop and Ship Online (Pty) Ltd is committed to protecting your privacy. This privacy policy applies to all the web pages related to this website.
