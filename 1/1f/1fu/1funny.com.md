@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1funny.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025129id_/http%3A//1funny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1funny.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029225017id_/http%3A//1funny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 1Funny.com
 
