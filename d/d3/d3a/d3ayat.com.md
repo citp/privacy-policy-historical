@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the d3ayat.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329073839id_/http%3A//www.d3ayat.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d3ayat.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029025701id_/http%3A//d3ayat.com/content/privacy-statement.html) for the most accurate reproduction.*
 
-# d3ayat Online Business Directory - Privacy
+# d3ayat Online Business Directory - Privacy Statement
 
-** d3ayat Privacy Statement**
+**d3ayat Privacy Statement**
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site  [ www.d3ayat.com](http://www.d3ayat.com/). Here we disclose the information gathering and dissemination practices for our site.
+We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.d3ayat.com](http://www.d3ayat.com/). Here we disclose the information gathering and dissemination practices for our site.
 
 When we collect personally identifiable information about our customers, we at d3ayat comprehend the importance of protecting their privacy. We owe this privacy policy to our website visitors, subscribers, users of our services, buyers of our products, and our advertising customers.
 
@@ -30,7 +30,7 @@ We also collect certain non-personal information like identity of your Internet 
 
 The security, integrity, and privacy of our customers are of utmost importance to us. Different physical and electronic security tools are used at d3ayat and restriction of physical access to our offices and firewalls is maintained. This saves your information from misuse, loss or unauthorized use.
 
-_However, no data transfer over Internet can be guaranteed as totally secure._ ****_The information you post in chat-rooms or bulletin boards is public information and d3ayat cannot guarantee the security of this public information._
+_However, no data transfer over Internet can be guaranteed as totally secure._ ** ** _The information you post in chat-rooms or bulletin boards is public information and d3ayat cannot guarantee the security of this public information._
 
 **Access to personal information-**
 
@@ -50,6 +50,6 @@ However, d3ayat is not responsible for the contents of these third party website
 
 After you are done with your user session, close your browser. By doing this, you prevent others from accessing your personal information especially if you share your computer with someone else or if you are using a public computer. You are responsible for your own computer security. Your disclosure of personal information on the Internet can be collected and used by others. Especially if you post personal information in online forums, you may receive unsolicited messages in return. You are responsible for the secrecy of your username and password, so be careful while on the Internet!
 
-Kindly contact our  [ Privacy Officer for Access](mailto:webmaster@d3ayat.com) to your information. You can also lodge a complaint about the information policy here and also can get more information regarding privacy concerns.
+Kindly contact our [Privacy Officer for Access](mailto:webmaster@d3ayat.com) to your information. You can also lodge a complaint about the information policy here and also can get more information regarding privacy concerns.
 
-**Write to: ** **d3ayat Webmaster** **** [ **webmaster@d3ayat.com**](mailto:webmaster@d3ayat.com)
+**Write to:  ** **d3ayat Webmaster** ** **[ **webmaster@d3ayat.com**](mailto:webmaster@d3ayat.com)
