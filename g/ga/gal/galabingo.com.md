@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the galabingo.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413090354id_/http%3A//www.galabingo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galabingo.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029103828id_/http%3A//www.galabingo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and policy
+# Gala Bingo Privacy and policy | Galabingo.com
 
 **1\. OBJECTIVES OF THIS PRIVACY POLICY**
 
@@ -126,7 +126,7 @@ We use all reasonable endeavours to ensure that our arrangements with ESP's prot
 
 **5\. ACCESS TO PERSONAL INFORMATION**
 
-5.1 By sending an e-mail to help@galabingo.com, or calling us on 0800 294 7 294 (Monday-Sunday between 7am and 11pm), or by writing to galabingo.com Customer Services, Globe House, Victoria Way, Woking GU21 6DD, You can organise the following: [click here.](https://web.archive.org/contact)
+5.1 By sending an e-mail to help@galabingo.com, or calling us on 0800 294 7 294 (Monday-Sunday between 7am and 11pm), or by writing to Gala Interactive, Crown Square, Woking, Surrey, GU21 6HR. You can organise the following: [click here.](https://web.archive.org/contact)
 
   * stop promotional communications by either opting out on the websites,where applicable, or in an e-mail received from us;
   * confirm the accuracy of the personal information we have collected on You;
