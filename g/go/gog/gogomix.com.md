@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogomix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124715id_/http%3A//gogomix.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogomix.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029224641id_/http%3A//gogomix.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | GoGoMix USA
 
