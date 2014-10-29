@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpcfix.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406223530id_/http%3A//www.freshpcfix.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpcfix.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029193809id_/http%3A//www.freshpcfix.com/Privacy.php) for the most accurate reproduction.*
 
 # FreshPCFix.com - Privacy
 
@@ -54,4 +54,4 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 
 Admin(at)freshpcfix.com.
 
-This privacy policy was last updated on 11/5/2008.
+This privacy policy was last updated on 5/5/2014.
