@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095449id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029011441id_/http%3A//jobg8.com/privacy.aspx) for the most accurate reproduction.*
 
-# Jobg8
-
-[http://www.jobg8.com](http://www.jobg8.com/)
-
-**Jobg8 Limited - Privacy Policy**
+# Jobg8 - Privacy Policy
 
 Jobg8 Limited ("Jobg8") is committed to preserving the privacy of all visitors to [www.Jobg8.com](http://www.jobg8.com/) ("the Site"). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
 **_By registering or using this Site, you consent to the collection, use and transfer of your information under the terms of this policy.   _**
 
-**INFORMATION THAT WE COLLECT FROM YOU   **
+### INFORMATION THAT WE COLLECT FROM YOU
 
-When you visit or register on the Site you may be asked to provide certain information about yourself including your name, address, email address, telephone number.  If you apply for the services offered by the site the information you provide in any application form will also be stored.   We may also collect information about your usage of our Site, as well as information about you from e-mails or letters you send to us. 
+When you visit or register on the Site you may be asked to provide certain information about yourself including your name, address, email address, telephone number.  If you apply for the services offered by the site the information you provide in any application form will also be stored.   We may also collect information about your usage of our Site, as well as information about you from e-mails or letters you send to us.
 
-**USE OF YOUR INFORMATION   **
+### USE OF YOUR INFORMATION
 
 Your information will enable us to provide you with access to all parts of our Site and to supply our services, which includes contacting you where necessary.   We will also use and analyse the information we collect so that we can administer, support, improve and develop our business, which may include contacting you to notify you of our current or future services. 
 
@@ -24,7 +20,7 @@ We retain all information indefinitely.  If you change your mind about being co
 
 Jobg8 reserves the right to retain information that you have requested be deleted where there is a legitimate legal reason why such information should be retained by Jobg8. We do not store credit card details nor do we share customer details with any 3rd parties. 
 
-**DISCLOSURE OF YOUR INFORMATION**
+### DISCLOSURE OF YOUR INFORMATION
 
 The information you provide to us will be held on computers solely owned by Jobg8 Limited and its group companies. 
 
@@ -36,23 +32,23 @@ Finally, if our business enters into a joint venture with or is sold to transfer
 
 Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent. 
 
-**COOKIES**
+### COOKIES
 
 Cookies are small amounts of information which we store on your computer and are essential for proper use of the [www.Jobg8.com](http://www.jobg8.com/) website. Our system will issue cookies to your computer when you log on to the site.  Cookies make it easier for you to log on to and use the site during future visits.  They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use our Site. 
 
-**SECURITY**
+### SECURITY
 
- We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. 
+ We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage.
 
-**ACCESSING AND UPDATING   **
+### ACCESSING AND UPDATING
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date.   If you wish to do this, please contact us.  To meet our costs in providing you with the details of the information we hold about you a charge of £10 will apply. 
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date.   If you wish to do this, please contact us.  To meet our costs in providing you with the details of the information we hold about you a charge of £10 will apply.
 
-**CHANGES TO OUR PRIVACY POLICY**
+### CHANGES TO OUR PRIVACY POLICY
 
 Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification. 
 
-**CONTACT**
+### CONTACT
 
 All comments, queries and requests relating to our use of your information are welcomed and should be emailed to [privacy@Jobg8.com](mailto:privacy@Jobg8.com).   
 
