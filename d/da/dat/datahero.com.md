@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053646id_/https%3A//datahero.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029063623id_/https%3A//datahero.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | DataHero
 
-#### Effective Date: April 2014
+#### Effective Date: September 2014
 
 #### Your privacy is important to us.
 
@@ -22,6 +22,7 @@ COLLECTION: We collect three types of Personally Identifiable Information (PII).
   * Purchase Information: If you purchase paid features of the DataHero service, we collect your name, billing and shipping address, credit card information and any other information necessary to complete the transaction.
   * Log-in Information: If you create a DataHero account, you provide your email address, name and create a password that we store so you can access and use the DataHero service.
   * Website Use Information: Like many websites, we use tools (including Google Analytics) to collect information from visitors in order to better understand how they use our website (e.g., browser type, domains, page views). We use session cookies to keep you logged in while you use features of our web application; these disappear after you close your browser. We also use persistent cookies which stay in your browser and allow us to recognize you when you return to the site. Most Internet browsers automatically accept cookies, but you can change the settings to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you turn off cookies, parts of the DataHero service may not work for you.
+  * Team Account Information: If your User Account is linked to a Team Account, the administrator of the Team Account will be able to see your name, user name and other personally identifiable information. Your organization’s privacy policy and terms, not Datahero’s, will apply to their use and storage of your information.
 
 
 
