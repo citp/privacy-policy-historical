@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchtherightwords.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414232510id_/http%3A//searchtherightwords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchtherightwords.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029024102id_/http%3A//searchtherightwords.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
