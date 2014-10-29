@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616193257id_/https%3A//flipboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029024851id_/https%3A//flipboard.com/privacy) for the most accurate reproduction.*
 
 # Flipboard
 
