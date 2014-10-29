@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert-seo-training-institute.in privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630150337id_/http%3A//www.expert-seo-training-institute.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert-seo-training-institute.in privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029092233id_/http%3A//www.expert-seo-training-institute.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Expert SEO Training Institute
 
