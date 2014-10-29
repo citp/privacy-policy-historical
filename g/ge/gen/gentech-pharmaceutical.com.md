@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentech-pharmaceutical.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052650id_/http%3A//gentech-pharmaceutical.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentech-pharmaceutical.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029024108id_/http%3A//gentech-pharmaceutical.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gentech Pharmaceutical
 
