@@ -1,38 +1,46 @@
-> *The following text is extracted and transformed from the getsku.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513155107id_/http%3A//www.getsku.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsku.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029180915id_/http%3A//www.getsku.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « GetSKU – Price Comparison Service
+# Privacy Policy | GetSKU
 
-This privacy notice discloses the privacy practices for GetSKU.net. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This web site is owned and operated by GetSKU.com (GetSKU or we). GetSKU takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. Please read this policy carefully before sharing any personally identifiable information described below. This policy applies solely to the web site and service located at www.GetSKU.com (the Service).
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+For questions or concerns relating to privacy, we can be contacted at:
 
+16/F, Kowloon Building, 555 Nathan RD, Mongkok, Kowloon, Hong Kong
 
+or you can reach us by telephone at +852.22979277
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+**Collection of Personally Identifiable Information**  
+In order to use certain portions of the Service, you may be asked for, or you may choose to provide, certain personally identifiable information (PII) such as name, email address, postal address, PayPal account and similar information. We will not collect PII from you while you use the Service unless you voluntarily provide it to us or authorize us to collection such information.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+You authorize GetSKU to receive any account information from any affiliated merchant including, but not limited to, information regarding any purchase made by you through utilization of the Service, such as: the products ordered, the order number, the time and date of the purchase, the email address entered for the purchase.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+**Collection on Non-Personally Identifiable Information**  
+GetSKU does collect and track certain non-personally identifiable (non-PII) information, including but not limited to, user IP numbers and browser type, access times, domain names, usage habits and other information which does not specifically identify any individual.
 
-**Your Access to and Control Over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+“Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. We may use first-party or third-party cookies, web beacons, web bugs or action tags (a) to customize and improve your use of the Service and (b) to inform, optimize, and serve ads (at this website or through third-parties at other websites) based on your activity at this website. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Service, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve PII from your computer without your knowledge.
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
+**Use of Personally Identifiable Information**  
+GetSKU may use or disclose PII to operate and manage the Service, to provide services that you have requested or respond to your other inquires or requests. We may also disclose PII in the establishment or exercise of legal rights or defense against legal claims, to comply with applicable laws or regulations, to comply with a valid legal process such as a search warrant, subpoena or court order or to investigate suspected fraud or a violation of the terms of the GetSKU User Agreement.
 
+We will never sell your Personal Information to any third party not affiliated with GetSKU without your consent, except in connection with the sale or merger of GetSKU or the division responsible for such services.
 
+You should be aware that PII which you voluntarily include and transmit online, such as in online forums, may be viewed and used by anyone with access to such forums. GetSKU is unable to control such uses of your PII.
+
+**Use of Non-Personally Identifiable Information**  
+We may use and disclose non-PII for any number of reasons, including but not limited to, working with business partners and improving our Service.
 
 **Security**  
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+The security of your PII is very important to us and we take commercially reasonable steps to attempt to secure your PII. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees and contractors who need access to your PII in order to perform their duties are authorized to have access. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and GetSKU or information stored or transmitted through the Service or on our servers, will be completely free from unauthorized access by third parties such as hackers, and your use of the Service demonstrates your assumption of this risk.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+**No Children under 13**  
+We have no intention of collecting PII from children under the age of 13. When we become aware that PII from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database.
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+**Changes in Privacy Policy**  
+This Privacy Policy may change from time to time. GetSKU will post those changes on this page.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email – admin@getsku.com**
+**Opt-out**  
+We give you the option to remove your PII from our list of active users completely in connection with the termination of your GetSKU.com user account. All unsubscribe or opt-out requests should be sent to us at optout@GetSKU.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy.
+
+**Effective Date**  
+This Privacy Policy was last updated on May 10, 2014
