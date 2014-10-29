@@ -1,147 +1,78 @@
-> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029174720id_/http%3A//learningherbs.com/privacy) for the most accurate reproduction.*
 
-# Free Home Remedies and Simple Herbal Medicine Making
+# Privacy Policy – LearningHerbs
 
-| 
+### Privacy Policy
 
-  
-  
+Last Revised: April 21, 2014
 
+Thank you for visiting a LearningHerbs.com, LLC web site, including LearningHerbs.com, HerbMentor.com, HerbFairies.com, HerbalColdCare.com, TasteOfHerbs.com, HerbFirstAid.com, RosemarysRemedies.com, CulinaryHerbalism.com, HerbalNinja.com, HerbalRemedyKit.com, WildcraftGame.com, FreeHerbCourse.com, support.learningherbs.com, HerbMentorRadio.com, HerbWebinar.com and HerbEnergetics.com. You arrived at this Privacy Policy from one of the above sites, referred to herein as “this web site”.
 
-|  | 
+This Privacy Policy is subject to change by LearningHerbs.com, LLC (hereinafter “Company”) at any time and at our discretion without notice by updating this posting.
 
-Privacy Policy & Terms of Use
+We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at our web sites.
 
-******What information do we collect?**
+By using this web site, you accept the privacy practices contained in this Privacy Policy. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
-We collect information from you when you place an order, subscribe to our newsletter or fill out a form. 
+### Information We Collect
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+#### A. Personally Identifiable Information
 
- **What do we use your information for?**
+In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We will only use your personal information for the following purposes: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; and (4) to reach you, when necessary, regarding your use of the web site or product(s).
 
-Any of the information we collect from you may be used in one of the following ways: 
+We may disclose personally identifiable information collected if we have received your permission beforehand (such as to fulfill a third party order) or in very special circumstances, such as when we believe that such disclosure is required by law or for other special cases described below.
 
-To personalize your experience  
-(your information helps us to better respond to your individual needs)
+We may also periodically conduct surveys of our subscribers and customers from time to time so we can improve on the products and services that we provide.  
+By permitting us to collect this information, you will be able to receive information on products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. We may also use this information to contact you about joint venture opportunities if it appears that you would be a suitable joint venture partner.
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email.
 
-To process transactions
+We only send emails to people who have authorized us to contact them, either directly, or through a third party.
 
-To send periodic emails
+We do not send unsolicited commercial emails, because we hate spam as much as you do.
 
- **How do we protect your information?**
+By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ’310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
-After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers.
+#### B. Non-Personally Identifiable Information
 
- **Do we disclose any information to outside parties?**
+We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better. For example, we may use such data to tailor our advertisements, develop proper survey questions, improve our business, etc.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+As another example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
- **Online Privacy Policy Only**
+Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.  
+If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
 
- **Terms and Conditions**
+Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device.
 
-See below....
+Because there is not yet a common understanding of how to interpret web browser-based “Do Not Track” signals other than cookies, we do not currently respond to “Do Not Track” signals that are undefined.  
+Please note that you do have the option to configure most web browsers to NOT accept cookies. However, be aware that disabling cookies may keep you from having access to some functions or services on our web site or the web-hosted software that runs on our web site.
 
- **Your Consent**
+### Third Party Actions
 
-By using our site, you consent to our privacy policy.
+We do not control and are not liable for the actions of any third parties who we may promote. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
 
- **Changes to our Privacy Policy**
+### Cookies
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+We may use cookies to deliver content that is specific to your interests. Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site.
 
-At LearningHerbs.com our privacy policy is simple and non-negotiable.
+### IP Addresses
 
-Whether you are placing an order with us, signing up for a newsletter, or simply emailing us with a question or comment,we will not share any of your information with anyone for any reason! **Period**.
+We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
 
-**WE TAKE YOUR PRIVACY VERY SERIOUSLY.**
+### Third Party Web Sites
 
-* * *
+This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
 
-Terms of Use
+### Commitment to Data Security
 
-The content on LearningHerbs.com is provided for informational purposes and is not meant to substitute for the advice provided by your physician or other medical professional.
+All information collected from you is stored in a technically and physically secure environment. We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
 
-You should not use the information contained herein or the products in the Herbal Medicine Making Kit ™, Wildcraft! An Hebral Adventure Game, HerbMentor.com, Supermarket Herbalism, Home Remedy Secrets, HerbMentor News, The HerbWalk, Healing Herbs Wall Chart or HealingHerbs eBook, HerbMentor.com or ANY information on any product or website produced by LearningHerbs.com, LLC for diagnosing or treating a health problem, disease or injury, or prescribing any medication.
+### Contacting Us
 
-Our Kits, games, articles, eBooks, eCourses and advice are designed and created for the temporary relief of common household ailments. You should read carefully all product packaging.
+If you need to contact us, you can email us at support@learningherbs.com, call us at (360) 390-4590, or send us a letter at: LearningHerbs.com, LLC, 210 SE Cedar Hill Ln, Shelton, WA 98584.
 
-If you have or suspect that you have a serious health problem, promptly contact your health care provider.
-
-Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent any disease.
-
-**INDEMNIFICATION BY CUSTOMER**
-
-You, the Customer, agrees to indemnify, defend and hold LearningHerbs.com, its members, owners, employees and agents, harmless from and against any and all losses, claims, demands, damages, liabilities, costs and expenses, including but not limited to reasonable attorney's fees and costs of suit arising out of our your use of services or products provided to you by LearningHerbs.com.
-
-**INTERRUPTIONS; DISCONTINUATION**
-
-LearningHerbs.com will not be responsible for any interruption or discontinuation of service or products caused by factors beyond its control, including, but not limited to, manufacturer failures or delays (for any reason whatsoever), equipment failure, delays, negligence, strikes, or acts of God.
-
-**INFORMATION ACQUIRED**
-
-LearningHerbs.com, its members, owners, employees or agents, will not be held responsible for any damages you or another party suffer as a result of our service or products. Transmission of any material in violation of any U.S., state or local regulation is strictly prohibited.
-
-**TRADEMARKS**
-
-LearningHerbs.com claims ownership of the name “Herbal Medicine Making Kit ™” and “HerbMentor.com™” and “Wildcraft! An Herbal Adventure Game™” (U.S. trademark registration pending). The business names, trade names, performing names, titles, brands, logos and other indicia of origin used for products or services displayed or offered on or through our Site are trademarks, service marks, trade dress, or trade names-of LearningHerbs.com or its suppliers, licensors or by other authorized third parties.
-
-You agree that you will not copy, imitate or use any of these trademarks, service marks, trade dress, or trade names in whole or in part, without the prior written permission of LearningHerbs.com or the appropriate owner of these trademarks, service marks, trade dress or trade names. LearningHerbs.com also claims to the extent permitted by law, all ownership to the page headers, custom graphics, button icons and scripts on our Site.
-
-**CONTENT USE**
-
-No one, for any reason, whatsoever, may replicate, sell, copy or post ANY text, audio, ebooks, photos, videos...NO CONTENT AT ALL without the permission of John Gallagher of LearningHerbs.com. No one may post anything to their sites, blogs, or anywhere. The only posting allowed is the sharing of links to our site. No one may share or sell any content on any of our sites with anyone without asking.
-
-This goes for ALL content on LearningHerbs.com, HerbMentor.com, and FamilyHerbalRemedies.com.
-
-Anyone violating this term will be contacted by our lawyers to remove the content.
-
-We are serious about this. We work hard to create our content. So, don't steal it for your own use. Go and make your own content. It's way easier and you'll actually do well online.
-
-The only content you can share on your sites is where you are invited to embed media, such as a YouTube video. Other than that, do not steal content. It ain't good karma.
-
-**SHIPPING AND BILLING**
-
-LearningHerbs.com will use commercially reasonable efforts to process, invoice, and ship all orders within 72 business hours from when the order is received by LearningHerbs.com and provided, that the merchandise ordered is available and in stock. Your order will then ship out via the method selected. Non-verifiable orders may considerably delay your order as well as requiring us to obtain additional information from you in order to process the order. LearningHerbs.com shall not be responsible for any orders shipped to an address that is different than the one specified on the original order. Any shipping address that was altered by you is your sole responsibility.
-
-**CREDIT CARD TRANSACTIONS**
-
-LearningHerbs.com offers on-line security through it’s payment processor, PayPal and Authorize.net. By using the best encryption methods available and the very latest in secure technologies, PayPal and Authorize.net help ensure that your account and sensitive information remain safe. In addition, PayPal and Authorize.net's advanced fraud models alert us to any suspicious account activity and dedicated fraud teams are trained in immediate response.
-
-**TAX**
-
-Items shipped within the state of Washington will be charged state sales tax, that tax will be added to the order total.
-
-**RETURNS**
-
-If you are unsatisfied with your order, you may return it to LearningHerbs.com within one month of receipt for a full refund (original shipping and handling charges are nonrefundable). Return shipping charges are your responsibility. If you cancel your order, after the order has shipped, the shipping and handling costs will not be refunded. However, if your order has been cancelled prior to shipping, all costs will be refunded. 
-
-**CANCELING ORDERS**
-
-To cancel your order, [email us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) right away or call 425-216-6373. If your order has already been shipped, we will be unable to cancel it.
-
-**RETURNING A PURCHASE**
-
-Please [email us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) if you have any questions. Mail your purchase back first class, in original packaging, within one month of receipt date. It can take up to 15 business days for us to receive your return package.
-
-**MAILING ADDRESS**
-
- LearningHerbs.com  P.O. Box 1174 Carnation, WA 98014  ATTN: Returns
-
-**DAMAGED GOODS**
-
-If your order has been opened or damaged, refuse delivery and immediately [contact us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) to report the problem. A replacement will be sent once we receive the returned damaged goods. No charges will be applied for additional shipping or handling due to damages.
-
-To receive a refund for damaged goods instead of a replacement, refuse delivery and immediately [contact us](https://web.archive.org/web/20101228000923id_/http%3A//www.learningherbs.com/contact.html) to report the process for us to process your return.
-
-.
-
-|  |  | 
+We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
