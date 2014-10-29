@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114637id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashadee.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029044728id_/http%3A//www.ashadee.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ashadee
 
