@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concertstudy.net privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608020132id_/http%3A//medivation.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concertstudy.net privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030002938id_/http%3A//medivation.com/index.php/privacy) for the most accurate reproduction.*
 
 # Medivation | Driven by science. Focused on life.
 
