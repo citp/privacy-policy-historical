@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghcf.org privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924141135id_/http%3A//www.ghcf.org/default/homepage/internet%2520privacy%2520policy%25202011-%2520new%2520address.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghcf.org privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029054131id_/http%3A//www.ghcf.org/default/homepage/internet%2520privacy%2520policy%25202011-%2520new%2520address.pdf) for the most accurate reproduction.*
 
 # 
 
