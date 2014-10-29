@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountsvu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165007id_/http%3A//www.discountsvu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountsvu.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029091410id_/http%3A//www.discountsvu.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy policy | DiscountsVu.com
+# Privacy Policy
 
 Your privacy is important to us. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. By visiting DiscountsVu.com, you are accepting the practices described in this Privacy Notice. At DiscountsVu®, we want you to know exactly how and when we collect and use information that can specifically identify you, such as your name, mailing address, phone number, and email address ("personal information").
 
@@ -40,9 +40,3 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 **Privacy Policy changes**
 
 If DiscountsVu® makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this page so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
-
-  
-**Need more Help?**
-
-Please [_contact us_](http://www.discountsvu.com/contact-us).   
-
