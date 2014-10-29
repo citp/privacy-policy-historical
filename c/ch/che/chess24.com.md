@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508175434id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029073224id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
 
-# chess24.com :: chess24.com your playground
+# chess24.com your playground | chess24.com
 
 If this Privacy Policy is translated into any other language it will be for information purposes only and in the event of any conflict between the translation and the English language version, the English language version shall prevail. Logical Thinking Limited ("we", "us" or "our" as applicable) makes its data available to members of its group for the purpose of operating and promoting the various products and services of its group and members of its group may contact you about the various products they offer. We are committed to protecting and respecting your privacy. This policy (together with our Terms of Use and any other documents referred to in it) sets out the basis upon which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -8,7 +8,7 @@ If this Privacy Policy is translated into any other language it will be for info
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our website [www.chess24.com](http://www.chess24.com/) and any other websites that we own containing our Chess24 pages, products and services (our “Website”). This includes information provided at the time of registering to use our Website, subscribing to our products and services, posting material or requesting further services. We may also ask you for information when you report a problem with our Website.
+  * Information that you provide by filling in forms on our website [www.chess24.com](https://chess24.com/) and any other websites that we own containing our Chess24 pages, products and services (our “Website”). This includes information provided at the time of registering to use our Website, subscribing to our products and services, posting material or requesting further services. We may also ask you for information when you report a problem with our Website.
   * If you contact us or make any comments on our Website or post and forum entries we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our Website and of the fulfilment of your orders.
