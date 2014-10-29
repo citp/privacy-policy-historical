@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072230id_/http%3A//www.fox.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029024054id_/http%3A//www.fox.com/policy.php) for the most accurate reproduction.*
 
 # FOX Broadcasting Company - FOX Network Sites Terms of Use
 
@@ -78,7 +78,7 @@ FOX uses reasonable administrative, technical, personnel and physical measures t
 
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided to FOX for your Fox.com profile, you may do so through your "Edit Your FOX Profile" settings. If you no longer want to use the FOX Services, you may cancel your account by clicking on "Delete Profile" on your "Edit Your FOX Profile" page. You may unsubscribe to the FOX newsletter by clicking the "unsubscribe" link at the bottom of the newsletter email.
 
-If you are a California resident, you may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [californiaprivacy@fox.com](mailto:californiaprivacy@fox.com?subject=Fox.com:%20Disclosure%20Opt-out), with “Fox.com: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
+If you are a California resident, you may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by submitting a ticket to [California privacy for Fox](https://foxbroadcasting.zendesk.com/hc/en-us/requests/new?ticket_form_id=33474), with “Fox.com: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
 
 ## 6\. OTHER IMPORTANT INFORMATION
 
@@ -98,9 +98,7 @@ Remember that even after you cancel your account, copies of some information fro
 
 ## 7\. CONTACT US
 
-If you have questions about this Privacy Policy, please contact us at:
-
-Email: [privacy@fox.com](mailto:privacy@fox.com)
+If you have questions about this Privacy Policy, please submit a ticket to [privacy for Fox](https://foxbroadcasting.zendesk.com/hc/en-us/requests/new?ticket_form_id=29740) or contact us at:
 
 Mail:
 
