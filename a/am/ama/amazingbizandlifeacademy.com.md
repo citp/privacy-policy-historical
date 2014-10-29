@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amazingbizandlifeacademy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103240id_/http%3A//leoniedawson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingbizandlifeacademy.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029131808id_/http%3A//leoniedawson.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Leonie Dawson - Amazing Biz, Amazing Life
+# Privacy Policy - Leonie Dawson - Shining Life + Biz
 
 _Effective Date: September 2011_
 
