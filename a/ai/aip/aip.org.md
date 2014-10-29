@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235601id_/http%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029103151id_/http%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Institute of Physics
 
@@ -18,7 +18,7 @@ _Notice to EU Users:_ The server for [www.aip.org](http://www.aip.org/) is locat
 
 The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or to enhance your browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support.
 
-AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. To do so, please contact the appropriate [AIP department](http://www.aip.org/aip/staff.jsp) with which the list is associated.
+AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. To do so, please contact the appropriate [AIP department](https://web.archive.org/aip/staff-contacts) with which the list is associated.
 
 We may share aggregated (i.e., non-individual) demographic information with our partners and advertisers. This aggregated information cannot be related to identifiable individuals.
 
