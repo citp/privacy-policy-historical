@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eagles.org privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029081043id_/http%3A//www.eagles.org/about/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagles.org privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029070244id_/http%3A//www.eagles.org/about/Privacy-Policy.php) for the most accurate reproduction.*
 
 # American Eagle Foundation | Privacy Policy
 
-[Home](http://wc.eagles.orgnwww.wc.eagles.org/American-Eagle-Foundation.php "American Eagle Foundation") » [About](http://wc.eagles.orgnwww.wc.eagles.org/about.php "About Us") » Privacy Policy
+[Home](http://https.www.eagles.org/American-Eagle-Foundation.php "American Eagle Foundation") » [About](http://https.www.eagles.org/about.php "About Us") » Privacy Policy
 
 Privacy Policy
 
