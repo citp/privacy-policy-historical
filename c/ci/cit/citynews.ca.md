@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citynews.ca privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630075934id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citynews.ca privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029035435id_/http%3A//www.rogerspublishing.ca/privacy.shtml) for the most accurate reproduction.*
 
 # Rogers Publishing -- Canada’s largest publisher magazines and online
 
