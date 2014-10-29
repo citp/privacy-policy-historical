@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053116id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029234059id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # TamilSpider.com privacy policy
 
@@ -42,23 +42,3 @@ If you like to contact the webmaster of this site, please **[contact us](https:/
 Kochi. India**
 
 We would request you please provide us as much information as possible to resolve the issue. 
-
-  
-| 
-
-**Awards & Gifts**
-
- **Active Members**  
- _ **Today**_
-
-
-
-
- _ **Last 7 Days**_
-
-
-
-
-[ more...](https://web.archive.org/members/TopPerformers.aspx)  
-  
----|---
