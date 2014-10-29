@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dib.im privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208001713id_/http%3A//dib.im/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dib.im privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029181717id_/http%3A//dib.im/privacy.php) for the most accurate reproduction.*
 
 # imgur uploader
 
