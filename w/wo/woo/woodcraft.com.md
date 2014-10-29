@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626164100id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029170413id_/http%3A//www.woodcraft.com/Static/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Woodcraft's Privacy Policy
 
@@ -41,12 +41,27 @@ What about "cookies"?
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as storring your items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them.
 
-Woodcraft participates in remarketing efforts on Google. As a result, Woodcraft permits: 
+Woodcraft participates in display advertising, display network impression reporting and remarketing efforts on Google. As a result, Woodcraft permits: 
 
 > Third party vendors, including Google, to show our ads on sites on the internet.  
 >  Third party vendors, including Google, to use cookies to serve ads based on a user's prior visits to your website.  
+>  Third party vendors, including Google, to use first and third-party cookies to report how age, gender and interests as well as ad impressions, other uses of ad services and interactions with these ad impressions and ad services are related to visits to your website   
 >  You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).  
 > 
+
+I don't like the Woodcraft ads that show on non-Woodcraft sites. How do I stop the ads? 
+
+1\. To "opt-out" of display ads, click on the triangle in the top right corner of any ad. 
+
+2\. This will take you to the "About Google Ads" page:
+
+3\. Scroll down the page until you see "How you can manage your ads settings", then click on "Ads Settings"
+
+4\. Next click on the Opt out setting that works for you
+
+You can also click 
+
+[Google Ad Settings](http://www.google.com/settings/ads) to read more about how to manage these settings. 
 
 Our commitment to children's privacy 
 
