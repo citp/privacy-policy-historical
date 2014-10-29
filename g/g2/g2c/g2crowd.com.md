@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524134142id_/http%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029195858id_/https%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
 
 # G2 Crowd - Privacy
 
