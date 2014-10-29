@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327172724id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029162800id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
 
 # Legal information about Red Gate Software
 
-**Our privacy policy**
+  
+
+
+## Our privacy policy
 
 #### Introduction
 
@@ -10,11 +13,13 @@ Red Gate (which means here Red Gate Software Limited and its subsidiaries Red Ga
 
 This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
 
-Our use of personal data in the UK is in accordance with the Data Protection Act 1998 and our Subsidiaries’ practices in Singapore and the US are as far as reasonably possible in line with those in the UK. In Singapore our activities are governed by the Personal Data Protection Act 2012 and in the USA our practices are in line with the US Safe Harbor program. Any questions regarding Red Gate’s privacy policy should be directed to the Data Controller at [privacy@red-gate.com](mailto:privacy@red-gate.com), or alternatively see the section [Contacting us](https://web.archive.org/our-company/about/legal#contact).
+Our use of personal data in the UK is in accordance with the Data Protection Act 1998 and our Subsidiaries’ practices in Singapore and the US are as far as reasonably possible in line with those in the UK. In Singapore our activities are governed by the Personal Data Protection Act 2012 and in the USA we comply with the principles of the US Safe Harbor program. Any questions regarding Red Gate’s privacy policy should be directed to the Data Controller at [privacy@red-gate.com](mailto:privacy@red-gate.com), or alternatively see the section [Contacting us](https://web.archive.org/our-company/about/legal#contact).
 
 #### Use of information
 
-Red Gate will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of such information are: name, company, postal address, email address, phone number and product commentary.
+Red Gate will not collect any personal information about individuals except as set out in this privacy policy.
+
+Examples of the types of personal information we will collect are: name, company, postal address, email address, phone number, details of website and product usage and product commentary.
 
 We will use the personal information provided to us in order to:
 
@@ -25,6 +30,7 @@ We will use the personal information provided to us in order to:
   * anticipate and resolve any problems with any goods or services supplied to you;
   * carry out market research and surveys and track sales data;
   * send you our newsletter, where this is requested by you;
+  * track your engagement with us, including through our website, articles and newsletters;
   * to send you follow-up communications relating to software downloaded from our site; and
   * send you information about our other products and services.
 
@@ -56,17 +62,23 @@ In addition, we will only record a call we conduct with you (incoming or outgoin
 
 #### Log files/IP addresses
 
-When you visit our site, we automatically log your IP address which is recognized by our web server. We use IP addresses to help us administer the site and to collect broad demographic information for aggregate use.
+When you visit our site, we automatically log your IP address which is recognized by our web server. We use IP addresses to help us administer the site, to collect broad demographic information for aggregate use and to track your engagement with us.
 
 #### Non personal information
 
-We may automatically collect non-personal information about you, such as the type of internet browsers you use, the site from which you linked to our site, and may also track your movement within the site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our site.
+We may automatically collect non-personal information about you, such as the type of internet browsers you use and the site from which you linked to our site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our site.
 
 Red Gate may share non-personal aggregate or summary information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our site from their sites but Red Gate does not sell or share any information at the individual level.
 
 #### Cookies
 
-Cookies are very small text files saved to your computer used to track user navigation around a website. At Red Gate session cookies are used when users log-in to the site. Red Gate will use such cookies to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified.
+Cookies are very small text files saved to your computer used to track user navigation around a website.
+
+At Red Gate session cookies are used when users log-in to the site. Red Gate will use such cookies to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified.
+
+Red Gate uses a cookie called Hubspot which allows us to uniquely identify and track your movement within any of Red Gate’s websites and engagement with our other marketing services (for example, our blogs and newsletters) by linking with the email address you provide when you download any Red Gate product. This cookie will be activated on download of a Red Gate product, but can retrospectively identify your past visits to any Red Gate website.
+
+Red Gate also uses in-product cookies to collect, maintain, process and use analytics data related to your use of Red Gate products. These are enabled by default, but may be disabled by you at any time.
 
 Red Gate may use a third party to serve advertisements on our sites. The advertisers may use cookies to track the number of users responding to the campaign. Red Gate does not have access to or control of cookies placed by third parties.
 
@@ -76,7 +88,7 @@ Disabling/Enabling Cookies - users have the ability to accept or disable cookies
 
 Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so (for example, if required to do so by Court order or for the purposes of identifying fraud or other crime).
 
-We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Red Gate Software, and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
+We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Red Gate Software and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
 
 #### Information about our products and services
 
@@ -86,7 +98,7 @@ It is very important to us that we provide you with the highest level of service
 
 We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please [contact us](https://web.archive.org/our-company/about/legal#contact) as set out below.
 
-#### User discussion forums 
+#### User discussion forums
 
 Red Gate may make chat rooms, forums, message boards and/or other news groups available to its users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
 
@@ -100,10 +112,18 @@ We have implemented technology and policies to help safeguard your privacy from 
 
 Information you provide to us may be transferred by us to Red Gate Software Inc., Red Gate Software Pte and/or our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
 
-#### Your consent 
+#### Your consent
 
 By using our website, or giving us your details at an exhibition, you consent to the collection and use of this information by Red Gate. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we would disclose it.
 
 #### Contacting us
 
 If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Red Gate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom. You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
+
+* * *
+
+## Cancellations
+
+In compliance with the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, you have the right to cancel an order within 14 days of purchase.
+
+To cancel, please complete our cancellation form, and send it to Red Gate Software Ltd by post, fax, or email.
