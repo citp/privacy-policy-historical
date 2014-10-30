@@ -1,15 +1,34 @@
-<!--The following is the downloaded HTML source of the catchoftheday.com.au privacy policy that was archived on 2014-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140403190830id_/http%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchoftheday.com.au privacy policy that was archived on 2014-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141030073802id_/http%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head><script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PV7F5N"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQBWVFACgoGUlZRBA=="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){var b=this.params,c=this.metrics;if(!this.ended){this.ended=!0;for(var d=0;j>d;d++)a.removeEventListener(i[d],this.listener,!1);if(!b.aborted){if(c.duration=(new Date).getTime()-this.startTime,4===a.readyState){if(b.status=a.status,a.responseText&&a.responseText.length&&(c.rxSize=a.responseText.length),this.sameOrigin){var f=a.getResponseHeader("X-NewRelic-App-Data");f&&(b.cat=f.split(", ").pop())}}else b.status=0;c.cbTime=this.cbTime,e("xhr",[b,c])}}}function c(a,b){var c=f(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function d(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var e=a("handle"),f=a("./parse-url.js"),g=a("../../../wrap-function"),h=a("../../../contextual-ee"),i=["load","error","abort","timeout"],j=i.length,k=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),h.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=b,this.ended=!1,this.xhrGuids={}}),g.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",d),h.on("open-xhr-start",function(a){this.params={method:a[0]},c(this,a[1]),this.metrics={}}),h.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),h.on("send-xhr-start",function(a,b){var c=this.metrics,d=a[0],e=this;c&&d&&d.length&&(c.txSize=d.length),this.startTime=(new Date).getTime(),this.listener=function(a){"abort"===a.type&&(e.params.aborted=!0),("load"!==a.type||e.called===e.totalCbs&&(e.onloadCalled||"function"!=typeof b.onload))&&e.end(b)};for(var f=0;j>f;f++)b.addEventListener(i[f],this.listener,!1)}),h.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),h.on("xhr-load-added",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),h.on("xhr-load-removed",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),h.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-added",[a[1],a[2]],b)}),h.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-removed",[a[1],a[2]],b)}),h.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),h.on("fn-end",function(a,b){this.xhrCbStart&&h.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",2,7]);</script>
-        <meta charset="utf-8">
-        <title>CatchOfTheDay.com.au</title>
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
+            <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PV7F5N"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQBWVFACgoGUlZRBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+        <meta name="apple-itunes-app" content="app-id=505027211">
+
+
+                    <title>    Privacy Policy  - CatchOfTheDay.com.au
+</title>
     
-        <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet" type="text/css">
 
-                    <link rel="stylesheet" type="text/css" media="screen" href="http://static.catchoftheday.com.au/cssjs/version-v116/css/f4eba82.css">
+                            <link rel="stylesheet" href="http://static.catchoftheday.com.au/cssjs/version-v249/css/05fd20c.css">
         
+    
+        <link rel="stylesheet" href="http://static.catchoftheday.com.au/cssjs/version-v249/css/b1c3367.css">
+    
+                <!--[if IE 9]>
+            <link rel="stylesheet" href="http://static.catchoftheday.com.au/cssjs/version-v249/css/02b7581.css">
+        <![endif]-->
+    
+    
+                    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://static.catchoftheday.com.au/cssjs/version-v249/bundles/cotdv2website/images/icons/apple-touch-standard.png">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://static.catchoftheday.com.au/cssjs/version-v249/bundles/cotdv2website/images/icons/apple-touch-ipad.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://static.catchoftheday.com.au/cssjs/version-v249/bundles/cotdv2website/images/icons/apple-touch-iphone-retina.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://static.catchoftheday.com.au/cssjs/version-v249/bundles/cotdv2website/images/icons/apple-touch-ipad-retina.png">
+    
+
         <script type="text/javascript">
         // Fix for windows phones =======================================
         if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
@@ -27,472 +46,433 @@
         _gaq.push(['_setAccount', 'UA-2619427-1']);
         _gaq.push(['_trackPageview']);
 
+        var group = 'Other';
+        path = window.location.pathname.split('/');
+
+        if (path[3] == 'product')
+            group = 'Product';
+        else if (path[1] == 'event')
+            group = 'Event';
+        else if (path[1] == 'cart')
+            group = 'Cart';
+        else if (path[1] == 'checkout')
+            group = 'Cart';
+        else if (path[1] == '')
+            group = 'Home';
+        else if (path[1] == 'index.php')
+            group = 'Home';
+
+        _gaq.push(['_setPageGroup', 1, group]);
+
         (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-
     </script>
-    <!--[if lt IE 9]>
-    <script src="http://static.catchoftheday.com.au/cssjs/version-v116/bundles/cotdwebsite/js/html5shiv.js"></script>
-    <![endif]-->
+
         
-        
-                    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.catchoftheday.com.au">
+                <meta property="og:image" content="http://static.catchoftheday.com.au/logos/catch-logo-360x360.png">
+    
+            
+            <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.catchoftheday.com.au">
+    
     <meta name="keywords" content="daily deals, online shopping, catchoftheday, shopping">
         <meta name="description" content="CatchOfTheDay.com.au"><link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gdhhjeeaheelelgbfhocaegobkdodbcm">
-        <script type="text/javascript">
-                var _user_id = '';
 
-        var _sift = _sift || []; _sift.push(['_setAccount', '80d51e3928']); _sift.push(['_setUserId', _user_id]); _sift.push(['_trackPageview']); (function() { function ls() { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); } if (window.attachEvent) { window.attachEvent('onload', ls); } else { window.addEventListener('load', ls, false); }})();
+    <script type="text/javascript">
+    var heap =heap||[];heap.load=function(a){window._heapid=a;var
+        b=document.createElement("script");b.type="text/javascript",b.async=!0,b.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap.js";var
+        c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);var
+        d=function(a){return function(){heap.push([a].concat(Array.prototype.slice.call(arguments,0)))}},e=["identify","track"];for(var f=0;f<e.length;f++)heap[e[f]]=d(e[f])};
+    heap.load("3391438789");
+
     </script>
-    </head>
-
-<body style="background-color: #ffffff;" data-spy="scroll" data-target="#event-sections" class=" js">
-
-
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PV7F5N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PV7F5N');</script>
-
-<script type="text/javascript">
-    document.body.className+=" js";
+    <script type="text/javascript">
+  var _user_id = '';
+  var _session_id = 'pbm9mpguapd4ncbgjchasl9e51';
+  var _sift = _sift || []; _sift.push(['_setAccount', '3bfe536eb2']); _sift.push(['_setUserId', _user_id]); _sift.push(['_setSessionId', _session_id]); _sift.push(['_trackPageview']); (function() { function ls() { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); } if (window.attachEvent) { window.attachEvent('onload', ls); } else { window.addEventListener('load', ls, false); }})();
 </script>
 
 
-<div class="container">
 
-    <div class="toolbar-background">
-    <a class="cart" href="/cart" title="View my shopping cart" data-ajax-url="/cart.json">
-        <span id="mini-cart-quantity" class="quantity">0 Items</span>
-        <span id="mini-cart-subtotal" class="total">
-            <span class="total-figure">$0.00</span>
-            <span class="plus-shipping" "=""> + p/h</span>
-        </span>
-    </a>
-        <a href="https://www.catchoftheday.com.au/helpcentre" class="help" target="_blank">
-        <span>Help</span>
-    </a>
-</div>
+</head>
+<body>
+        <header class="header theme-background">
 
-<div class="toolbar">
-    <div class="toolbar-content">
-        <a class="cart" href="/cart" title="View my shopping cart" data-ajax-url="/cart.json">
-            <span id="mini-cart-quantity" class="quantity">0 Items</span>
-            <span id="mini-cart-subtotal" class="total">
-                <span class="total-figure">$0.00</span>
-                <span class="plus-shipping"> + p/h</span>
-            </span>
-        </a>
-            </div>
-</div>
+        <article class="container logo-title-row">
 
+                <div class="item logo">
+            <a href="/" title="Catch of the Day"></a>
+        </div>
 
-    <div class="logo-background"></div>
-    <div class="logo-inner">
-        <a href="/">
-            <img src="http://static.catchoftheday.com.au/cssjs/version-v116/bundles/cotdwebsite/images/logo.png" alt="CatchOfTheDay">
-        </a>
-    </div>
+        <div class="announcement">
+                            <h1 class="font-size-hero font-bold no-margin">Thanks for celebrating our 8th birthday with us!</h1>
+<h3 class="no-margin sub-announcement">Over 100,000 items sold in 24 hours!
+</h3>
+                    </div>
 
-    <div class="wrapper">
+        <nav class="user-nav clearfix">
 
-        <div class="sidebar">
-
-    <div class="box login-box">
-        <div id="login-container">
-
+                                                                                    
+            <div class="item user has-dropdown">
+                <a href="https://www.catchoftheday.com.au/login">
+                    <div class="icon"></div><span class="text">Login</span>                </a>
+                <div class="user-nav-dropdown loggedOut">
+                    <div class="triangle"></div>
+                    
     
-        <p class="box-header">
-            Sign in
-        </p>
+    
+                <div id="login-container" class="login-box">
+            <h3>Login</h3>
 
-        <div class="box-content">
+            <form action="https://www.catchoftheday.com.au/login" id="form-login" class="form-login" method="post">
+                                                                        <div class="input-container"><label for="login_email" class="required">Email Address or Username</label><input type="text" id="login_email" name="login[email]" required="required" placeholder="Email Address or Username" class="input-control small"></div>
+                    <div class="input-container"><label for="login_password" class="required">Password</label><input type="password" id="login_password" name="login[password]" required="required" placeholder="Password" class="input-control small"></div>
+                <div class="clearfix actions">
+                    <p class="forgot-password pull-left small">
+                        <a href="https://www.catchoftheday.com.au/reset-password" id="link-forgotPassword" class="text-link">I forgot my password</a>
+                    </p>
+                    <p class="submit pull-right button-controller">
+                        <input type="hidden" id="login__token" name="login[_token]" value="3JVA4JRRK2W2fJD3ICG-MuLwhDUVljb_xJjv9ipLYbM">
+                        <button class="btn success pull-right small" id="button-login" data-loading="cover">Login</button>
+                    </p>
+                </div>
+            </form>
 
-            <p class="join-link">
-                <a href="/register">
+            <hr>
+
+            <p class="join-link pull-right button-controller">
+                <a href="https://www.catchoftheday.com.au/register" id="link-register" class="text-link" data-loading="cover">
                     Not a member? Join Now!
                 </a>
             </p>
 
-            <form action="https://www.catchoftheday.com.au/login" id="form-login" method="post" class="standard-form">
-
-                <div><label for="login_email" class="required">Email</label><input type="text" id="login_email" name="login[email]" required="required" placeholder="Email or username" class="input-text"></div>
-                <div><label for="login_password" class="required">Password</label><input type="password" id="login_password" name="login[password]" required="required" placeholder="Password" class="input-text"></div>
-
-                <p id="login-errors">
-                </p>
-
-                <p class="forgot-password">
-                    <a href="/reset-password">I forgot my password</a>
-                </p>
-
-                <p class="submit">
-                    <input type="hidden" id="login__token" name="login[_token]" value="47b8cb0830924a636476341e8068e02d45bb6d94">
-                    <button class="btn secondary" id="button-login">Sign in</button>
-                </p>
-            </form>
-
-            <div class="social">
-                <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FCatchAustralia&amp;layout=button_count&amp;show_faces=true&amp;width=95&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:95px; height:21px;"></iframe>
-            </div>
-
-        </div>
-
-    </div>
-</div>
-
-<div class="box login-box">
-    <div>
-
-        <p class="box-header">
-            Subscribe
-        </p>
-
-        <div class="box-content">
             
-                <p>
-                    Never miss a deal!
-                </p>
-                <br>
-
-                <form action="/subscribe" method="post" class="standard-form">
-                    <div><label for="subscribe_email" class="required">E-mail address</label><input type="email" id="subscribe_email" name="subscribe[email]" required="required" maxlength="96" placeholder="Enter your e-mail address" class="input-text"></div>
-                    <p class="submit">
-                        <input type="hidden" id="subscribe__token" name="subscribe[_token]" value="47b8cb0830924a636476341e8068e02d45bb6d94">
-                        <button class="btn secondary" id="button-subscribe">Sign up</button>
-                    </p>
-                </form>
-
-                <br>
-                <br>
-                &nbsp;
+                <div class="social pull-left">
+                                                            <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FCatchAustralia&amp;layout=button_count&amp;show_faces=true&amp;width=95&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:95px; height:21px;"></iframe>
+                </div>
 
                     </div>
-
     
-</div>
-
-    </div>
-
-                    <div id="search-box-container" class="box search-box">
-                    <div class="box-content">
-                        <form action="/search" method="get" onsubmit="return (document.getElementById('search-input').value != '')">
-                            <input id="search-input" type="text" name="query" class="input-text" placeholder="Search..." value="">
-                            <button type="submit" class="btn"></button>
-                        </form>
-                                            </div>
                 </div>
-                                                                            
-                        <div id="live-stats-container">
-                                                                                                                                                                                                                <div class="box live-stats">
-        <h2 class="box-header">Just Bought</h2>
-        <div class="stats-container"><a href="/event/37916/product/peppa-pig-family-pin-puzzle-274973?source=justbought" class="sale" title="Peppa Pig Family Pin Puzzle" data-order-id="5045976" data-name="Peppa Pig Family Pin Puzzle" data-city="" data-elapsed-time="34"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/274973/52f46dce365f6896294688_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37916/product/giggle-hoot-learn-to-count-game-274985?source=justbought" class="sale" title="Giggle &amp; Hoot Learn to Count Game" data-order-id="5045975" data-name="Giggle &amp; Hoot Learn to Count Game" data-city="" data-elapsed-time="34"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/274985/52f4709123f4d909497525_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37916/product/peppa-pig-alphabet-pin-puzzle-274977?source=justbought" class="sale" title="Peppa Pig Alphabet Pin Puzzle" data-order-id="5045974" data-name="Peppa Pig Alphabet Pin Puzzle" data-city="" data-elapsed-time="34"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/274977/52f46e293c9c9484855441_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37916/product/giggle-hoot-number-puzzle-132926?source=justbought" class="sale" title="Giggle &amp; Hoot Number Puzzle" data-order-id="5045973" data-name="Giggle &amp; Hoot Number Puzzle" data-city="" data-elapsed-time="34"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/132926/52f47597abc0f565922167_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37916/product/playgro-elephant-shape-sorter-278732?source=justbought" class="sale" title="Playgro Elephant Shape Sorter" data-order-id="5045971" data-name="Playgro Elephant Shape Sorter" data-city="" data-elapsed-time="34"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/0001/1182/5303ea615d529464934314_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37916/product/play-school-match-the-picture-puzzle-249341?source=justbought" class="sale" title="Play School Match the Picture Puzzle" data-order-id="5045970" data-name="Play School Match the Picture Puzzle" data-city="" data-elapsed-time="34"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/249341/5298056f8b08d533662697_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37982/product/coach-campbell-large-leather-satchel-mahogany-246401?source=justbought" class="sale" title="Coach Campbell Large Leather Satchel - Mahogany" data-order-id="5045968" data-name="Coach Campbell Large Leather Satchel - Mahogany" data-city="" data-elapsed-time="273"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/246401/52dc610ac19b4612367954_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37901/product/toywatch-jelly-thorne-watch-navy-14502?source=justbought" class="sale" title="ToyWatch Jelly Thorne Watch - Navy" data-order-id="5045967" data-name="ToyWatch Jelly Thorne Watch - Navy" data-city="" data-elapsed-time="273"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/14502/5120c4dcf41cb714515923_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37988/product/auto-express-ed-hardy-floor-mats-peacock-31386?source=justbought" class="sale" title="Auto-Express Ed Hardy Floor Mats - Peacock" data-order-id="5045966" data-name="Auto-Express Ed Hardy Floor Mats - Peacock" data-city="" data-elapsed-time="273"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/31386/512171359e3d4154377085_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37988/product/canningvale-single-quilt-cover-set-linea-rossa-7130?source=justbought" class="sale" title="Canningvale Single Quilt Cover Set - Linea Rossa" data-order-id="5045965" data-name="Canningvale Single Quilt Cover Set - Linea Rossa" data-city="" data-elapsed-time="354"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/7130/528964b1a5d66862044841_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37988/product/canningvale-quilt-cover-set-oshima-7482?source=justbought" class="sale" title="Canningvale Quilt Cover Set - Oshima" data-order-id="5045964" data-name="Canningvale Quilt Cover Set - Oshima" data-city="" data-elapsed-time="354"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/7482/5289649b2e210806246888_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37916/product/lego-city-fire-station-set-207210?source=justbought" class="sale" title="LEGO City Fire Station Set" data-order-id="5045963" data-name="LEGO City Fire Station Set" data-city="" data-elapsed-time="492"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/207210/52157702a17ba575359973_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37909/product/extendable-lazy-susan-36cm-2-pack-44458?source=justbought" class="sale" title="Extendable Lazy Susan 36cm 2-Pack" data-order-id="5045962" data-name="Extendable Lazy Susan 36cm 2-Pack" data-city="" data-elapsed-time="743"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/44458/5121a977abd50880442533_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37909/product/2-in-1-rolling-pin-cookie-cutter-120606?source=justbought" class="sale" title="2-in-1 Rolling Pin &amp; Cookie Cutter" data-order-id="5045960" data-name="2-in-1 Rolling Pin &amp; Cookie Cutter" data-city="" data-elapsed-time="743"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/120606/5188a4a9de7d9541696418_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37909/product/roll-at-home-sushi-maker-249281?source=justbought" class="sale" title="Roll At Home Sushi Maker" data-order-id="5045959" data-name="Roll At Home Sushi Maker" data-city="" data-elapsed-time="743"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/249281/52981270b5d09970997838_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37955/product/2x-swisse-men-s-green-ultivite-60-tabs-182542?source=justbought" class="sale" title="2x Swisse Men’s Green Ultivite 60 Tabs" data-order-id="5045957" data-name="2x Swisse Men’s Green Ultivite 60 Tabs" data-city="" data-elapsed-time="831"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/182542/530168af40416370764966_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37955/product/3x-swisse-ultiboost-deep-sea-krill-oil-500mg-30-caps-184365?source=justbought" class="sale" title="3x Swisse Ultiboost Deep Sea Krill Oil 500mg 30 Caps" data-order-id="5045956" data-name="3x Swisse Ultiboost Deep Sea Krill Oil 500mg 30 Caps" data-city="" data-elapsed-time="831"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/184365/52f2cda610b70512426282_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37929/product/champion-men-s-classic-crew-jumper-oxford-heather-281458?source=justbought" class="sale" title="Champion Men's Classic Crew Jumper - Oxford/Heather" data-order-id="5045955" data-name="Champion Men's Classic Crew Jumper - Oxford/Heather" data-city="" data-elapsed-time="887"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/0001/1195/53223ee5a530e609291901_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37929/product/lonsdale-men-s-clayton-zip-up-jumper-lava-marle-280680?source=justbought" class="sale" title="Lonsdale Men's Clayton Zip-Up Jumper - Lava Marle" data-order-id="5045954" data-name="Lonsdale Men's Clayton Zip-Up Jumper - Lava Marle" data-city="" data-elapsed-time="887"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/0001/1191/5317ad1864c00885448364_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37963/product/huski-men-s-magnum-winter-workwear-jacket-black-284264?source=justbought" class="sale" title="Huski Men’s Magnum Winter Workwear Jacket - Black" data-order-id="5045942" data-name="Huski Men’s Magnum Winter Workwear Jacket - Black" data-city="" data-elapsed-time="898"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/0001/1207/533b97de5e385928465690_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37856/product/duracell-aaa-batteries-40-pack-160478?source=justbought" class="sale" title="Duracell AAA Batteries 40-Pack" data-order-id="5045941" data-name="Duracell AAA Batteries 40-Pack" data-city="" data-elapsed-time="1031"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/0000/0547/530c04e94f833964695829_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37916/product/pikapu-all-in-one-cloth-nappy-navy-280062?source=justbought" class="sale" title="Pikapu All-in-One Cloth Nappy - Navy" data-order-id="5045940" data-name="Pikapu All-in-One Cloth Nappy - Navy" data-city="" data-elapsed-time="1080"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/0001/1189/531516453737b799520893_w86h70.jpg" width="86" height="70"><span class="status almost-gone">Almost gone</span></span></a><a href="/event/37916/product/sophie-the-giraffe-original-teething-toy-95386?source=justbought" class="sale" title="Sophie the Giraffe Original Teething Toy" data-order-id="5045939" data-name="Sophie the Giraffe Original Teething Toy" data-city="" data-elapsed-time="1080"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/95386/513930ca86bdd989272112_w86h70.jpg" width="86" height="70"></span></a><a href="/event/37916/product/tomy-momma-5-piece-bib-set-124894?source=justbought" class="sale" title="TOMY Momma 5-Piece Bib Set" data-order-id="5045938" data-name="TOMY Momma 5-Piece Bib Set" data-city="" data-elapsed-time="1080"><span class="sale-content"><img src="http://static.catchoftheday.com.au/images/product/124894/51ddf2538ac41126077494_w86h70.jpg" width="86" height="70"></span></a></div>    </div>
+            </div>
+
+                        
+<div id="mini-cart" class="mini-cart item cart">
+    <a href="/cart">
+        <div class="icon"></div><span class="text">Cart</span><div class="cart-count">0</div>    </a>
 </div>
 
-                        			<span class="banner app-store-banner">
-			<img src="http://static.catchoftheday.com.au/assets/0000/0104/523be41b39d13199754102.jpg" alt="">
-			<a class="app-store-link google-play" href="https://play.google.com/store/apps/details?id=au.com.catchoftheday.android">Android App on Google Play</a>
-			<a class="app-store-link app-store" href="http://itunes.apple.com/au/app/catchoftheday/id505027211">Available on the App Store</a>
-		</span>
-    	        <a target="_blank" class="banner" href="https://itunes.apple.com/au/app/mumgo/id780235647?ls=1&amp;mt=8">
-            <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0286/52f2ea8ee04b9142063238.jpg">
-        </a>
-    	        <a target="_blank" class="banner" href="https://play.google.com/store/apps/details?id=au.com.mumgo.android">
-            <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0286/52f2ea468596b129609200.jpg">
-        </a>
-    	        <a target="_blank" class="banner" href="http://www.groceryrun.com.au/?utm_source=cotd&amp;utm_medium=web_banner&amp;utm_campaign=dailydeal">
-            <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0313/533b9a01df9df555236513.jpg">
-        </a>
-    	        <a target="_blank" class="banner" href="https://www.surveymonkey.com/s/N77YT95">
-            <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0313/533b92183d3bb605007338.jpg">
-        </a>
-    
-                                                
+        </nav>
+
+                            <form id="search-form" class="search-form" action="/search" method="get" onsubmit="return (document.getElementById('search-input').value != '')">
+                <div class="input-container single no-margin small">
+                    <input id="search-input" type="text" name="query" placeholder="Search" value="" class="input-control white" autocomplete="false">
+                    <button type="submit" class="btn primary icon no-text" id="button-subscribe"><span class="ico-search"></span></button>
+                </div>
+            </form>
+            </article>
+
+                    <article class="categories-nav-row">
+        <div class="container clearfix">
+            <nav class="categories-nav">
+
+                                                    
+<div class="item new" style="width: 10%">
+    <a href="/" "="">
+                        New
+    </a>
 </div>
+    <div class="item fashion" style="width: 10%">
+    <a href="/e/fashion/" style="color: #229AEB">
+                        Fashion
+    </a>
+</div>    <div class="item sports" style="width: 10%">
+    <a href="/e/sports/" style="color: #49c94e">
+                        Sports
+    </a>
+</div>    <div class="item groceries" style="width: 10%">
+    <a href="/e/groceries/" style="color: #fa9146">
+                        Groceries
+    </a>
+</div>    <div class="item beauty" style="width: 10%">
+    <a href="/e/beauty/" style="color: #f56390">
+                        Beauty
+    </a>
+</div>    <div class="item kids-baby" style="width: 10%">
+    <a href="/e/kids-baby/" style="color: #f8c74a">
+                        Kids &amp; Baby
+    </a>
+</div>    <div class="item home" style="width: 10%">
+    <a href="/e/home/" style="color: #5bd6d5">
+                        Home
+    </a>
+</div>    <div class="item tech" style="width: 10%">
+    <a href="/e/tech/" style="color: #1c7dd5">
+                        Tech
+    </a>
+</div>    <div class="item street" style="width: 10%">
+    <a href="/e/street/" style="color: #d82a2a">
+                        Street
+    </a>
+</div>    <div class="item christmas" style="width: 10%">
+    <a href="/e/christmas/" style="color: #65318a">
+                        Christmas
+    </a>
+</div>
+                            </nav>
+        </div>
+    </article>
+</header>
+        
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PV7F5N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PV7F5N');</script>
 
-        <div class="main">
+        <div class="content-block">
+        <div class="container main-content clearfix ">
 
-                                        
-            
-            
-            
-            
-    <div class="box page-top editorial">
-        <h1 class="page-title">
-            Privacy Policy
-        </h1>
-        <h3>1. Privacy Statement</h3>
-<p>
-    <strong>1.1</strong>
-    Catchoftheday.com.au Pty Ltd (Catchoftheday) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the Australian Privacy Principles (or APP’s) in the Privacy Act 1988 (Cth).
-</p>
+                        <div id="flash-messages">
+                
+                                                    
+                            </div>
 
-<p>
-    <strong>1.2</strong>
-    Personal information is defined in the Privacy Act 1988 (Cth) and means information or an opinion about an identified individual, or an individual who is reasonably identifiable.
-</p>
+                        
+        <article class="article full bordered-content padded-content static-content privacy">
+        <h1>Privacy Policy</h1>
+            <section>
+    <h3><span class="number">1.</span> Privacy Statement</h3>
+    <p>
+        <strong>1.1</strong>
+        Catchoftheday.com.au Pty Ltd (Catchoftheday) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the Australian Privacy Principles (or APP’s) in the Privacy Act 1988 (Cth).
+    </p>
+    <p>
+        <strong>1.2</strong>
+        Personal information is defined in the Privacy Act 1988 (Cth) and means information or an opinion about an identified individual, or an individual who is reasonably identifiable.
+    </p>
+    <p>
+        <strong>1.3</strong>
+        Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
+    </p>
+</section>
+<section>
+    <h3><span class="number">2.</span> Collection of Personal Information</h3>
+    <p>
+        <strong>2.1</strong>
+        Catchoftheday only collects personal information for the purposes of conducting our business as an online retailer and trader. The personal information we collect from you will include information you give us when you:
+    </p>
+    <blockquote>
+        <p><strong>(a)</strong> register or subscribe to our Website;</p>
+        <p><strong>(b)</strong> complete a transaction with us; and</p>
+        <p><strong>(c)</strong> contact us.</p>
+    </blockquote>
+    <p>
+        <strong>2.2</strong>
+        The personal information that we collect on individuals may include, but is not limited to:
+    </p>
+    <blockquote>
+        <p><strong>(a)</strong> your name;</p>
+        <p><strong>(b)</strong> your contact details including your email, home address and billing address;</p>
+        <p><strong>(c)</strong> your payment details; and</p>
+        <p><strong>(d)</strong> other personal information that we collect in the course of a transaction or that you provide to us when you contact us.</p>
+    </blockquote>
+    <p>
+        <strong>2.3</strong>
+        We may collect personal information from individuals who are not customers of our business but whose personal information is given to us by those individuals via our Website (including Help Centre) or in the course of a transaction.
+    </p>
+    <p>
+        <strong>2.4</strong>
+        Where reasonably practicable, we attempt to collect information directly from individuals. When we collect information, we will generally explain to the individual why we are collecting it, who we give it to and how we will use or disclose it or, alternatively, those matters will be obvious from the circumstances.
+    </p>
+    <p>
+        <strong>2.5</strong>
+        If we collect information about an individual from someone else, we will take reasonable steps to ensure that the individual is made aware of the matters listed in clause 2.4.
+    </p>
+    <p>
+        <strong>2.6</strong>
+        We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way.
+    </p>
+    <p>
+        <strong>2.7</strong>
+        When you visit our Website, we, and/or third parties, may place cookies on your browser to enhance and manage our website and improve our business and the services we provide to you. We and/or Google may use this information to optimise and place advertisements, including advertisements of third party vendors and remarketing advertisements based on past visits to this website, on our own and third party websites. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics <a href="http://www.google.com.au/analytics/terms/us.html">Terms of Use</a> and <a href="http://www.google.com/intl/en/policies/privacy/">Privacy Policy</a>.
+    </p>
+    <p>
+        By using the website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies may be used by us to collect the following information:
+    </p>
+    <blockquote>
+        <p><strong>(a)</strong> your computer's operating system;</p>
+        <p><strong>(b)</strong> your computer's browser type and capabilities;</p>
+        <p><strong>(c)</strong> your computer's Internet Protocol (IP) address and geolocation;</p>
+        <p><strong>(d)</strong> web pages visited, including how you were referred to each web page; and</p>
+        <p><strong>(e)</strong> web page usage statistics, including the time spent on each web page.</p>
+    </blockquote>
+    <p>
+          In addition, third parties may place and read cookies on your browser, or use web beacons or similar technologies to collect information, including, where applicable, for the Google Trusted Stores program.
+    </p>
+    <p>
+          Cookies can be managed by accessing the individual settings in your browser.
+    </p>
+    <p>
+        <strong>2.8</strong>
+        We will not identify users or their browsing activities, except where required by law or in accordance with our <a href="/terms">Terms and Conditions of Use and Sale</a>.
+    </p>
+</section>
+<section>
+    <h3><span class="number">3.</span> Using and Disclosing Your Personal Information</h3>
 
-<p>
-    <strong>1.3</strong>
-    Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
-</p>
+    <p>
+        <strong>3.1</strong>
+        We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law.
+    </p>
 
-<h3>2. Collection of Personal Information</h3>
+    <p>
+        <strong>3.2</strong>
+        Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services.
+    </p>
+    <p>
+        <strong>3.3</strong>
+        If those purposes for which we have collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected.
+    </p>
+    <p>
+        <strong>3.4</strong>
+        We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use.
+    </p>
+    <p>
+        <strong>3.5</strong>
+        When registering with Catchoftheday, you consent to Catchoftheday using your personal information, such as your email address, for direct marketing purposes. This includes sending you deal emails. You may opt out of receiving these direct marketing communications at any time. Our electronic marketing activities will comply with the requirements of the Spam Act 2003 (Cth).
+    </p>
 
-<p>
-    <strong>2.1</strong>
-    Catchoftheday only collects personal information for the purposes of conducting our business as an online retailer and trader. The personal information we collect from you will include information you give us when you:
-</p>
-<p>
-    <strong>(a)</strong>
-    register or subscribe to our Website;
-</p><p>
-    <strong>(b)</strong>
-    complete a transaction with us; and
-</p><p>
-    <strong>(c)</strong>
-    contact us.
+    <p>
+        <strong>3.6</strong>
+        We may share your information with other members of the Catch Group Pty Ltd, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Mumgo Pty Ltd, Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth).
+    </p>
 
-</p><p>
-    <strong>2.2</strong>
-    The personal information that we collect on individuals may include, but is not limited to:
-</p>
-<p>
-    <strong>(a)</strong>
-    your name;
-</p><p>
-    <strong>(b)</strong>
-    your contact details including your email, home address and billing address;
-</p><p>
-    <strong>(c)</strong>
-    your payment details; and
-</p><p>
-    <strong>(d)</strong>
-    other personal information that we collect in the course of a transaction or that you provide to us when you contact us.
-
-</p><p>
-    <strong>2.3</strong>
-    We may collect personal information from individuals who are not customers of our business but whose personal information is given to us by those individuals via our Website (including Help Centre) or in the course of a transaction.
-</p>
-
-<p>
-    <strong>2.4</strong>
-    Where reasonably practicable, we attempt to collect information directly from individuals. When we collect information, we will generally explain to the individual why we are collecting it, who we give it to and how we will use or disclose it or, alternatively, those matters will be obvious from the circumstances.
-</p>
-
-<p>
-    <strong>2.5</strong>
-    If we collect information about an individual from someone else, we will take reasonable steps to ensure that the individual is made aware of the matters listed in clause 2.4.
-</p>
-
-<p>
-    <strong>2.6</strong>
-    We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way.
-
-</p>
-<p>
-    <strong>2.7</strong>
-    When you visit our Website, we, and/or third parties, may place cookies on your browser to enhance and manage our website and improve our business and the services we provide to you. We and/or Google may use this information to optimise and place advertisements, including advertisements of third party vendors and remarketing advertisements based on past visits to this website, on our own and third party websites. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics <a href="http://www.google.com.au/analytics/terms/us.html">Terms of Use</a> and <a href="http://www.google.com/intl/en/policies/privacy/">Privacy Policy</a>.
-</p>
-<p>
-    By using the website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies may be used by us to collect the following information:
-</p>
-
-<p>
-    <strong>(a)</strong>
-    your computer's operating system;
-</p>
-<p>
-    <strong>(b)</strong>
-    your computer's browser type and capabilities;
-</p>
-<p>
-    <strong>(c)</strong>
-    your computer's Internet Protocol (IP) address and geolocation;
-</p>
-<p>
-    <strong>(d)</strong>
-    web pages visited, including how you were referred to each web page; and
-</p>
-<p>
-    <strong>(e)</strong>
-    web page usage statistics, including the time spent on each web page.
-</p>
-<p>
-      In addition, third parties may place and read cookies on your browser, or use web beacons or similar technologies to collect information, including, where applicable, for the Google Trusted Stores program.
-</p>
-<p>
-      Cookies can be managed by accessing the individual settings in your browser.
-</p>
-<p>
-    <strong>2.8</strong>
-    We will not identify users or their browsing activities, except where required by law or in accordance with our <a href="/terms">Terms and Conditions of Use and Sale</a>.
-</p>
-
-<h3>3. Using and Disclosing Your Personal Information</h3>
-
-<p>
-    <strong>3.1</strong>
-    We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law.
-</p>    
-
-<p>
-    <strong>3.2</strong>
-    Generally, we use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services.
-</p>
-<p>
-    <strong>3.3</strong>
-    If those purposes for which we have collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected.
-</p>
-<p>
-    <strong>3.4</strong>
-    We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use. 
-</p>
-<p>
-    <strong>3.5</strong>
-    When registering with Catchoftheday, you consent to Catchoftheday using your personal information, such as your email address, for direct marketing purposes. This includes sending you deal emails. You may opt out of receiving these direct marketing communications at any time. Our electronic marketing activities will comply with the requirements of the Spam Act 2003 (Cth).
-</p>    
-
-<p>
-    <strong>3.6</strong>
-    We may share your information with other members of the Catch Group Pty Ltd, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Mumgo Pty Ltd, Eat Now Services Pty Ltd and their Related Bodies Corporate, as defined in the Corporations Act 2001 (Cth).
-</p>    
-
-<p>
-    <strong>3.7</strong>
-    We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia (including the USA, UK, Hong Kong, the Philippines and the EU), we will do so in accordance with APP 8.
-</p>    
-<p>
-    In addition, we may also disclose your information to third parties in order for them to provide services to you, in accordance with our <a href="/terms">Terms and Conditions of Use and Sale</a> and this Privacy Policy.
-</p>
-
-
-<h3>4. Security of Your Personal Information</h3>
-<p>
-    We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
-</p>
-
-<h3>5. Access to Your Personal Information and Complaints Procedure</h3>
-<p>
-    <strong>5.1</strong>
-    Under the Privacy Act 1988 (Cth), you have certain rights to access the personal information we collect and hold about you.
-</p>
-<p>
-    <strong>5.2</strong>
-    Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.  You may make a </p><p>request by contacting our <a href="https://www.catchoftheday.com.au/helpcentre" target="_blank">Help Centre</a> or by writing to us at:  Privacy Inquiries, Catch Group, 767 Springvale Road, Mulgrave, Victoria 3170.
-</p>
-<p>
-    <strong>5.3</strong>
-    We take those steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.2 above. </p>
-<p>
-    <strong>5.4</strong>
-    To make a complaint about a breach of the Australian Privacy Principles, which includes how we handle your personal information, you may contact our Help Centre or write to us at the address provided in clause 5.2 above. We will endeavor to respond to your complaint within a reasonable time after it is received. If you are not satisfied by our response, you may acquire further information regarding privacy from the <a href="http://www.oaic.gov.au" target="_blank">Office of the Australian Information Commissioner</a>.   
-</p>
-<p>Privacy Policy last updated on February 2014. </p>
-
-    </div>
+    <p>
+        <strong>3.7</strong>
+        We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia (including the USA, UK, Hong Kong, the Philippines and the EU), we will do so in accordance with APP 8.
+    </p>
+    <p>
+        In addition, we may also disclose your information to third parties in order for them to provide services to you, in accordance with our <a href="/terms">Terms and Conditions of Use and Sale</a> and this Privacy Policy.
+    </p>
+</section>
+<section>
+    <h3><span class="number">4.</span> Security of Your Personal Information</h3>
+    <p class="no-number">
+        We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
+    </p>
+</section>
+<section>
+    <h3><span class="number">5.</span> Access to Your Personal Information and Complaints Procedure</h3>
+    <p>
+        <strong>5.1</strong>
+        Under the Privacy Act 1988 (Cth), you have certain rights to access the personal information we collect and hold about you.
+    </p>
+    <p>
+        <strong>5.2</strong>
+        Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.  You may make a </p><p>request by contacting our <a href="https://www.catchoftheday.com.au/helpcentre" target="_blank">Help Centre</a> or by writing to us at:  Privacy Inquiries, Catch Group, 767 Springvale Road, Mulgrave, Victoria 3170.
+    </p>
+    <p>
+        <strong>5.3</strong>
+        We take those steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.2 above. </p>
+    <p>
+        <strong>5.4</strong>
+        To make a complaint about a breach of the Australian Privacy Principles, which includes how we handle your personal information, you may contact our Help Centre or write to us at the address provided in clause 5.2 above. We will endeavor to respond to your complaint within a reasonable time after it is received. If you are not satisfied by our response, you may acquire further information regarding privacy from the <a href="http://www.oaic.gov.au" target="_blank">Office of the Australian Information Commissioner</a>.
+    </p>
+</section>
+<p class="updated-date small">Privacy Policy last updated on February 2014. </p>
+    </article>
 
 
         </div>
 
+                        
     </div>
 
-    <div class="footer">
-
-        <div class="footer-content">
-
-            <div class="page-footer">
-    <div class="group-banners">
-        <h2>More Great Deals from our Sister Sites</h2>
-                                    <a target="_blank" class="banner first" href="http://www.groceryrun.com.au/?utm_source=cotd&amp;utm_medium=web_banner&amp;utm_campaign=dailydeal">
-                    <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0313/533b99a37ae0f828393745.jpg">
+        <footer class="footer">
+    <article class="container">
+            <p class="section-header h2 font-semibold">Today on our sister sites</p>
+    <div class="banner-container">
+                                    <a href="https://www.eatnow.com.au/?utm_source=cotd&amp;utm_medium=banner&amp;utm_campaign=Awareness" title="" target="_blank">
+                    <img src="https://static.catchoftheday.com.au/assets/0000/0384/544491a46a9ff696692122.jpg" alt="" class="img-responsive">
                 </a>
-                                                <a target="_blank" class="banner " href="http://www.scoopon.com.au/deals/53728?utm_source=cotd&amp;utm_medium=scpn_footerbanners&amp;utm_campaign=Mai_Samui_53728">
-                    <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0313/533ceba71a04f658328144.jpg">
+                                                <a href="http://www.mumgo.com.au/?utm_source=cotd&amp;utm_medium=web_banner&amp;utm_campaign=dailydeal" title="" target="_blank">
+                    <img src="https://static.catchoftheday.com.au/assets/0000/0388/54517e3daca99543304049.jpg" alt="" class="img-responsive">
                 </a>
-                                                <a target="_blank" class="banner " href="http://www.mumgo.com.au/?utm_source=cotd&amp;utm_medium=web_banner&amp;utm_campaign=dailydeal">
-                    <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0313/533c961146d21379665089.jpg">
+                                                <a href="http://www.scoopon.com.au/deals/61847?utm_source=cotd&amp;utm_medium=scpn_footerbanners&amp;utm_campaign=61847_Sheraton_Mirage_Port_Douglas" title="" target="_blank">
+                    <img src="https://static.catchoftheday.com.au/assets/0000/0388/54517e5662dc5820927286.jpg" alt="" class="img-responsive">
                 </a>
-                                                <a target="_blank" class="banner " href="http://www.eatnow.com.au/?utm_source=cotd&amp;utm_medium=banner&amp;utm_campaign=Awareness">
-                    <img class="event-img" src="http://static.catchoftheday.com.au/assets/0000/0312/5335019b7fb4b105806311.jpg">
+                                                <a href="http://www.groceryrun.com.au/?utm_source=cotd&amp;utm_medium=side_web_banner&amp;utm_campaign=dailydeal" title="" target="_blank">
+                    <img src="https://static.catchoftheday.com.au/assets/0000/0388/545184d378b03494640430.jpg" alt="" class="img-responsive">
                 </a>
                         </div>
-    <div class="footer-nav">
-        <a href="/">Today’s Catches</a> |
-        <a href="/about">About Us</a> |
-        <a href="http://blog.catchoftheday.com.au" target="_blank">Blog</a> |
-        <a href="https://www.catchoftheday.com.au/helpcentre" target="_blank">Help</a> |
-        <a href="/press">Press</a> |
-        <a href="/suppliers">Suppliers</a> |
-        <a href="/terms">Terms &amp; Conditions</a> |
-        <a href="/direct-import-terms">Direct Imports Terms &amp; Conditions</a> |
-        <a href="/privacy">Privacy</a> |
-        <a href="/warranty">Warranty</a> |
-        <a href="/safety">Online Safety</a>
-    </div>
-    <div class="warning">
-        <p>CatchOfTheDay.com.au supports the Responsible Service of Alcohol. WARNING: Under the Liquor Control Reform Act 1998 it is an offence: To supply alcohol to a person under the age of 18 years (Penalty exceeds $7,000); For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $500). CatchOfTheDay.com.au Pty Ltd Liquor Licence No. 36117384.</p>
-        <p>© Copyright 2006-2013 CatchOfTheDay.com.au Pty Ltd (ABN 22 149 779 939). All Rights Reserved.</p>
-    </div>
-</div>
 
-
-<ul class="group-logos">
-    <li>
-        <a href="http://www.catchoftheday.com.au/" class="cotd" title="CatchOfTheDay.com.au">CatchOfTheDay.com.au</a>
-    </li>
-    <li>
-        <a href="http://www.scoopon.com.au/" class="scoopon" title="Scoopon.com.au">Scoopon.com.au</a>
-    </li>
-    <li>
-        <a href="http://www.groceryrun.com.au/" class="groceryrun" title="GroceryRun.com.au">GroceryRun.com.au</a>
-    </li>
-    <li>
-        <a href="http://www.mumgo.com.au/" class="mumgo" title="Mumgo.com.au">Mumgo.com.au</a>
-    </li>
-    <li>
-        <a href="http://www.eatnow.com.au/" class="eatnow" title="EatNow.com.au">Eatnow.com.au</a>
-    </li>
-</ul>
-
+        <div class="footer-nav">
+            <div class="footer-logo">
+                <a href="/" title="Catch of the Day">Catch of the day</a>
+            </div>
+            <nav class="nav-list">
+                <ul class="list-unstyled">
+                    <li class="title">Our Sites</li>
+                    <li><a href="http://www.catchoftheday.com.au" target="_blank" title="Catch of the Day">Catch of the Day</a></li>
+                    <li><a href="http://www.scoopon.com.au" target="_blank" title="Scoopon">Scoopon</a></li>
+                    <li><a href="http://www.mumgo.com.au" target="_blank" title="Mumgo">Mumgo</a></li>
+                    <li><a href="http://www.groceryrun.com.au" target="_blank" title="Grocery Run">Grocery Run</a></li>
+                    <li><a href="http://www.eatnow.com.au" target="_blank" title="Eat Now">Eat Now</a></li>
+                    <li><a href="http://www.westavenue.com.au" target="_blank" title="West Avenue">West Avenue</a></li>
+                    <li><a href="http://www.yumtable.com.au" target="_blank" title="Yumtable">Yumtable</a></li>
+                </ul>
+                <ul class="list-unstyled">
+                    <li class="title">About us</li>
+                    <li><a href="/about" title="Who we are">Who we are</a></li>
+                    <li><a href="http://blog.catchoftheday.com.au" title="Blog">Blog</a></li>
+                    <li><a href="/press" title="Press">Press</a></li>
+                    <li><a href="/suppliers" title="Suppliers">Suppliers</a></li>
+                    <li><a href="/wholesale" title="Wholesale">Wholesale</a></li>
+                </ul>
+                <ul class="list-unstyled">
+                    <li class="title">Contact &amp; Support</li>
+                    <li><a href="https://www.catchoftheday.com.au/helpcentre" title="Contact Us">Contact Us</a></li>
+                    <li><a href="/warranty" title="Warranty">Warranty</a></li>
+                    <li><a href="/safety" title="Online Safety">Online Safety</a></li>
+                </ul>
+                <ul class="list-unstyled">
+                    <li class="title">Legal</li>
+                    <li><a href="/privacy" title="Privacy">Privacy</a></li>
+                    <li><a href="/terms" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                    <li><a href="/direct-import-terms" title="Direct Imports Terms &amp; Conditions">Direct Imports Terms &amp; Conditions</a></li>
+                </ul>
+            </nav>
         </div>
-    </div>
 
+        <div class="copyright"><p>CatchOfTheDay.com.au supports the Responsible Service of Alcohol. WARNING: Under the Liquor Control Reform Act 1998 it is an offence: To supply alcohol to a person under the age of 18 years (Penalty exceeds $7,000); For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $500). CatchOfTheDay.com.au Pty Ltd Liquor Licence No. 36117384.</p>
+            <p>© Copyright 2006-2014 CatchOfTheDay.com.au Pty Ltd (ABN 22 149 779 939). All Rights Reserved.</p>
+        </div>
+    </article>
+</footer>
             
-    
-     
-</div>
-
-
-            <script type="text/javascript" src="http://static.catchoftheday.com.au/cssjs/version-v116/js/83fa69f.js"></script>
-    
-
-
-
-            
-        <script type="text/javascript">
-            var __lc = {};
-            __lc.license = 3810851;
-            __lc.group = 1;
-
-            (function() {
-                var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-                lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-            })();
-        </script>
-
-                    <script type="text/javascript">
-                $.cookie("show_live_chat", 1, { expires : 7 });
-            </script>
+                            <script type="text/javascript" src="http://static.catchoftheday.com.au/cssjs/version-v249/js/888f56c.js"></script>
+            <script src="http://static.catchoftheday.com.au/cssjs/version-v249/bundles/fosjsrouting/js/router.js"></script>
+            <script src="/js/routing?callback=fos.Router.setData"></script>
         
     
+                                            <script type="text/javascript">
+                var __lc = {};
+                __lc.license = 3810851;
+                __lc.group = 1;
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"271676496a","applicationID":"2966733","transactionName":"ZlNUbUJVWkFWVkwMDl8ZdUxDQFtfGEVKDBdQVU8=","queueTime":0,"applicationTime":58,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-356.min.js"}</script>
+                (function() {
+                    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+                    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+                })();
+            </script>
+                            <script type="text/javascript">
+                    $.cookie("show_live_chat", 1, { expires : 7 });
+                </script>
+                        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"271676496a","applicationID":"2966733","transactionName":"ZlNUbUJVWkFWVkwMDl8ZdUxDQFtfGEVKDBdQVU8=","queueTime":0,"applicationTime":89,"ttGuid":"","agentToken":"","atts":"ShRXGwpPSU8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-356.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
