@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095217id_/http%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030155259id_/http%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | B-Stock Supply Auctions
 
