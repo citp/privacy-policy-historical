@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the aima-ind.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120122id_/http%3A//www.aima.in/discover-aima/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aima-ind.org privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030172955id_/http%3A//www.aima.in/discover-aima/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
 ## AIMA Privacy Policy
+
+[ ](http://www.dmca.com/Protection/Status.aspx?ID=237b7c46-b60d-4916-a5a6-a8a4128ed535 "DMCA.com Protection Program")
 
 We at AIMA value your privacy and understand how important it is for you. To that effect, we have the following privacy policy in place with regard to the collection, use and dissemination of personal information collected by this website. This document will help you understand the terms and conditions under which personal information is provided to this website. Please note that this policy is effective only within AIMA’s domain, and does not apply to websites that may be accessible from external links provided in various pages of this website. Also note that due to the very nature of internet technology and evolving threats, this policy may be updated from time to time. All such updates will be posted in the privacy policy page. In continuing to use this website, you indicate your acceptance of the terms and policies mentioned here.
 
