@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedesclub.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070719id_/http%3A//www.mercedesclub.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedesclub.org.uk privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030012430id_/http%3A//mercedesclub.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mercedes Benz Owners
 
