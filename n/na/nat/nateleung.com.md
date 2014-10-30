@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nateleung.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501110547id_/http%3A//www.nateleung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nateleung.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030171428id_/http%3A//www.nateleung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inspiring Entrepreneurs to Use the Power of Leverage To Create Wealth
 
