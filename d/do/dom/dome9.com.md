@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dome9.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122457id_/http%3A//www.dome9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dome9.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030113520id_/http%3A//www.dome9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Updated Privacy Policy (Effective as of May 18, 2011)
 
-Thank you for visiting Dome9 Security Ltd. (“Dome9”) website (the “Site”). Your privacy is important to us. To better protect your privacy, we provide this notice (the “Policy”) which applies to information provided or collected through this Site located at www.dome9.com and in connection with Dome9′s various services and software products (collectively, “Services”).
+Thank you for visiting Dome9 Security Ltd. (“Dome9”) website (the “Site”). Your privacy is important to us. To better protect your privacy, we provide this notice (the “Policy”) which applies to information provided or collected through this Site located at www.dome9.com and in connection with Dome9’s various services and software products (collectively, “Services”).
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at [contact@dome9.com](mailto:contact@dome9.com)
 
