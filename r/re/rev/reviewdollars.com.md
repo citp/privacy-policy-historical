@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the reviewdollars.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127030446id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewdollars.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030063318id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # ReviewDollars.com - Get Paid To Watch Porn!
 
-[ReviewDollars.com](https://web.archive.org/web/20131127030446id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy?action=home) [Home](https://web.archive.org/?action=home&page=home) [How It Works](https://web.archive.org/?action=howitworks&page=how) [FAQ](https://web.archive.org/?action=faq&page=faq) [Contact Us](https://web.archive.org/?action=contactus&page=contact) [Join Now!](http://reviewdollars.com/?action=join)
+[ReviewDollars.com](https://web.archive.org/web/20141030063318id_/http%3A//reviewdollars.com/%3Faction%3Dprivacy?action=home) [Home](https://web.archive.org/?action=home&page=home) [How It Works](https://web.archive.org/?action=howitworks&page=how) [FAQ](https://web.archive.org/?action=faq&page=faq) [Contact Us](https://web.archive.org/?action=contactus&page=contact) [Join Now!](http://reviewdollars.com/?action=join)
 
 **PRIVACY POLICY OF REVIEWDOLLARS.COM** ****
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Review a site operated by Alacre Trading Limited, Agiou Eleftheriou 74A 1st Floor, Strovolos, Nicosia, Cyprus Tel: 877-597-3436, and related services (hereafter the 'Site'). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Review a site operated by Fipiyo Trading, Ltd. 8 Gevelis F502, Nicosia Cyprus Tel: 877-597-3436, and related services (hereafter the 'Site'). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
 
@@ -37,4 +37,4 @@ By registering for the Website you hereby authorize and permit notices, advertis
 **REVISIONS TO THIS PRIVACY POLICY**  
 This Website reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Privacy Policy will be effective by posting revisions on this Website. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party. 
 
-**Updated as of Date: 2013-11-26**
+**Updated as of Date: 2014-10-29**
