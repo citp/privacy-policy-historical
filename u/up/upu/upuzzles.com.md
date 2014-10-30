@@ -1,126 +1,147 @@
-> *The following text is extracted and transformed from the upuzzles.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126152244id_/http%3A//puzzlesociety.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upuzzles.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030132834id_/http%3A//puzzlesociety.com/help/privacy) for the most accurate reproduction.*
 
 # PuzzleSociety.com - Privacy Policy
 
-At Universal Uclick, LLC ("Universal Uclick"), we respect your right to privacy and we understand that visitors to Universal Uclick's websites need to control the uses of their personal information. The privacy policy below details the measures taken by Univesal Uclick to protect your privacy in connection with your use of [www.GoComics.com](http://gocomics.com/), [www.ThePuzzleSociety.com](http://thepuzzlesociety.com/) and other sites or applications owned and operated by Universal Uclick, ("Sites"). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law; please read below for Universal Uclick's policy with respect to children under 13.
+  * [Home](https://web.archive.org/)
+  * [About Us](https://web.archive.org/about-us)
+  * [Help](https://web.archive.org/help)
 
-## How is my personally identifiable information used by Universal Uclick?
 
-Universal Uclick is the sole owner of the information collected from the Universal Uclick service. Your Personal Information can only be collected when you voluntarily provide it.
 
-### What is "Personal Information"?
+  * [Crossword](https://web.archive.org/explore/crossword)
+  * [Jumble](https://web.archive.org/explore/jumble)
+  * [Jigsaw](https://web.archive.org/explore/jigsaw)
+  * [Number](https://web.archive.org/explore/number)
+  * [Word](https://web.archive.org/explore/word)
+  * [Trivia](https://web.archive.org/explore/trivia)
+  * [Card](https://web.archive.org/explore/card)
+  * [All Games](https://web.archive.org/explore)
 
-Personal Information is individually identifiable information about a person. This information can include a first and last name, credit card number, a home, billing or email address or a personal identifier that reveals an individual's email address, or a telephone or social security number. Personal information also includes a persistent identifier, such as a customer number held in a cookie (See below for definition of "cookie"), where such identifier is associated with individually identifiable information.
 
-### Customized Experience.
 
-Universal Uclick gathers user information to provide you with a customized experience on our sites and other services. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you visit certain areas of our site, register for free services, order products, enter contests or subscribe to a newsletter. If you choose not to register, you may not have access to areas that require personal identification.
+  * ## Help
 
-### Subscription Services.
+  * ### [Common Questions](https://web.archive.org/help/common-questions)
 
-If you subscribe to our site(s) for premium content services, Universal Uclick will gather user information and personal information to grant you access to the site(s). Universal Uclick may use third parties to accept and process orders and credit card purchases for subscriptions, merchandise and products. If you choose not to register you may not have access to subscription areas that require personal identification.
+  * ### [Forgot Username](https://web.archive.org/help/forgot_username)
 
-### Email Delivery.
+  * ### [Forgot Password](https://web.archive.org/help/forgot_password)
 
-If you register with our site(s) for daily email delivery, subscription services or purchase products from us, from time to time, we may email you with informative messages about our services or third party products and services we believe may be of interest to you, such as new features and services, special offers and updated information. These emails may contain code that enables our database to track your usage of the email, including whether the email was opened and/or what links (if any) were clicked. We will combine that information to other information we have about you and may use that information to improve your site experience and/or provide customized email communications to you.
+  * ### [Privacy Policy](https://web.archive.org/help/privacy)
 
-### Mobile Messaging.
+  * ### [Copyrights](https://web.archive.org/help/copyrights)
 
-Universal Uclick might gather some personal information specific to participating in mobile messaging programs. The information requested may include contact, mobile phone numbers, carriers, and models for product delivery, and demographic information.
+  * ### [Acceptable Use](https://web.archive.org/help/acceptable-use)
 
-## When does uclick collect my information, including personally identifiable information?
+  * ### [Terms of Service](https://web.archive.org/help/terms-and-conditions)
 
-### Free Registration.
-
-When you register, Universal Uclick asks for your email address, a user selected user name, and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information (e.g. a member name, a nickname, and certain user preferences). Universal Uclick may also ask for other optional information. (See below on Universal Uclick's policy with respect to children under 13)
-
-### Subscription Services.
-
-When you subscribe, Universal Uclick asks for your email address, a user selected user name, password and other necessary financial information to process the order. Credit card information is collected by Universal Uclick, however, the specific credit card number is not stored within the Universal Uclick System. Contact information from the order is used to fulfill premium purchases to our registered users and to get in touch with the user when deemed necessary. Once you are a subscribed user, you can update your profile and may be able to provide additional preferential information. Universal Uclick may also ask for other optional information. (See below on Universal Uclick's policy with respect to children under 13)
-
-### Order Forms and Products Store.
-
-Universal Uclick also uses an order form for users to request information, products and services. For that order form, we collect a user's contact information (email address) and necessary financial information to process the order (i.e. credit card number). Contact information from the order is used to send orders to our registered users and to get in touch with the user when deemed necessary. Universal Uclick may use third parties to accept and process orders and credit card purchases for merchandise and products. For some products, third parties host the store pages, ordering system, order data, collect order information, contact information and necessary financial information to process the order. Please see the privacy policies on their websites for more information about how Zazzle uses this information.
-
-### Special Contests or Promotions.
-
-Universal Uclick may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry in that contest or promotion, we may ask you to provide personal information. If we plan to share that information with the sponsor(s) or with others, we will provide a statement to that effect in the contest or promotion terms.
-
-### IP Address.
-
-An Internet Protocol (IP) address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information.
-
-### Computer-Generated Information.
-
-Universal Uclick may use server logs to track your movement through our websites and properties. In addition, we may use this information to customize the user experience or provide registrant continuity between our various websites and properties. Universal Uclick may also use other technologies to verify and track your use of certain services, confirm receipt of certain emailed products or to test the integrity of our systems, products and services.
-
-### Links to Other Sites.
-
-The Universal Uclick sites contain links, including banner and other ads, to other websites. Universal Uclick is not responsible for the privacy practices or the content of such websites. The Universal Uclick sites may also link to websites that feature Universal Uclick trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded website, as the co-branded website may not be under uclick's control.
-
-### Information from Other Sources.
-
-For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from other sources and add it to the information that we have received from you.
-
-## Who does Universal Uclick share information with?
-
-We will not share your personally identifiable information with third parties (aside from entities that perform services for us, such as fulfilling orders, that either are bound to comply with our privacy policy or have privacy policies that protect your information) unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this Privacy Statement. As stated, Universal Uclick may use third parties to accept and process orders for merchandise and products.
-
-However, Universal Uclick may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on Universal Uclick; (2) protect and defend the rights or property of Universal Uclick; or (3) act in an emergency to protect someone's safety.
-
-We may gather demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only.
-
-As we develop our business, we may buy or sell assets, and, depending upon the transaction, your personal information may be one of the transferred assets. In the event that Universal Uclick is acquired by another company, your personal information may be part of the assets transferred to the acquiring party.
-
-## What are my options to control the use of my personally identifiable information?
-
-You will have the ability to request the deletion of your Universal Uclick registration at any time by utilizing the registration system established for this purpose. However, we may maintain certain other information as part of our internal processes to prevent accidental loss of user data or information and to prevent or discourage fraudulent activities that may involve Universal Uclick registration or account information. We may also continue to maintain information about your registration or account and your computer access to our websites or services as part of our server logs
-
-Unless you opt-out we may email you with information from Universal Uclick, including information about selected third parties. If you do not want to receive information from Universal Uclick or third parties that we have selected, you may decline to receive it (or "Opt-Out") when you provide personal information to Universal Uclick, or you may visit https://register.uclick.com/reg/sign-in and update your profile. You may also contact uclick by postal mail at the address below.
-
-## What else should I know about my privacy?
-
-Universal Uclick's Commitment to Data Security Protecting user privacy and Personal Information is a high priority for Universal Uclick.
-
-We use our best efforts to ensure the security of your Personal Information. Universal Uclick maintains physical, electronic and procedural safeguards that comply with federal regulations to guard your Personal Information. We exercise great care in providing secure transmission of information between your PC and our computers. Unfortunately, no electronic communication over the Internet can be guaranteed to be 100% secure. While we strive to take great care to protect your Personal Information, we cannot warrant the security of any information that you submit to us, and you do so at your own risk.
-
-We also take precautions to protect your Personal Information off-line. Access to all user information is restricted. Only our employees, agents and processors whose jobs require accessing users' Personal Information are granted database access or administrator-level accounts on servers that contain such Personal Information. Finally, all servers containing users' Personal Information are kept locked in a secure data center and require a secure login to access them remotely.
-
-Remember to sign off our Site and close your browser window when you are finished using it. This is to ensure that others cannot pose as you online. This is especially important if you are at a terminal that is accessible to others, such as the library, at school, at the workplace or at an Internet café.
-
-### Security.
-
-Universal Uclick has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. We use thawte SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. Thawte has checked and verified the company registration documents and the site's registered domain name. Consumer Guidelines: How to know whether a site is secure
-
-### Chat Rooms and Other Public Areas.
-
-Universal Uclick may offer chat, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by Universal Uclick Terms of Service.
-
-### Refer a Friend.
-
-If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and email address. Universal Uclick will automatically send the friend a one-time email inviting them to visit an uclick Site. Universal Uclick stores this information for the sole purpose of sending this one-time email. The friend may contact uclick to request the removal of this information from their database.
-
-Your personal information is password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish a session with Universal Uclick in order to prevent others from accessing your personal information.
-
-## How can I update my Profile?
-
-You can help Universal Uclick maintain the accuracy of your profile by notifying us when you change your address, phone number, or email address. If, at any time, you wish to update your information or stop receiving communication from Universal Uclick, you may visit https://register.uclick.com/reg/sign-in and update your profile. Please include your old and new contact information so that we can make the appropriate corrections.
-
-## Contacting Universal Uclick.
-
-Universal Uclick would like to receive your comments and questions about this Privacy Statement. Please address comments or questions regarding Universal Uclick Privacy Statement to us via email or postal mail.
-
-You can contact us via email at [support@amuniversal.com](mailto:support@amuniversal.com?subject=Puzzle%20Society%20Inquiry). You may also contact Universal Uclick by mail at: 
-
-  * Universal Uclick, LLC 
-
-  * Attn: Universal Uclick Privacy 
-
-  * 1130 Walnut St. Kansas City, MO 64106 USA 
+  * ### [Contact Us](https://web.archive.org/help/contact)
 
 
 
 
-## Acceptance of Privacy Statement.
+Effective: Jun 9th, 2014
 
-Your use of the Universal Uclick Sites, including any dispute concerning privacy, is subject to this Privacy Statement and Universal Uclick Terms and Conditions of Use. By using the Universal Uclick Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Universal Uclick Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes.
+At Universal Uclick ( **“Universal Uclick,”** **“we”** , **“our”** , or **“us”** ), we respect your right to privacy and we understand that visitors and users of Universal Uclick's websites and applications wish to control the use of their personal information. This privacy policy outlines the measures taken by Universal Uclick to protect your privacy in connection with your use of www.GoComics.com, www.PuzzleSociety.com, www.Dilbert.com, www.ComicsSherpa.com, www.uexpress.com, www.InfiniteCrosswords.com and other sites or applications, including mobile applications, owned and operated by Universal Uclick (each individually a **“Site”** and collectively the **”Sites”** ). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law. Your use of the Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Universal Uclick's Terms & Conditions and any other policies on the applicable Site (collectively the **“Terms”** ). By using the Sites, you are accepting the practices set out in this Privacy Policy and the Terms. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. Please check the date above to determine if this Privacy Policy has been modified.
+
+## 1\. What does this Privacy Policy cover?
+
+This policy covers the treatment and use of Personal Information that is collected by Universal Uclick through your use of the Sites.
+
+This policy does not cover information that may or may not be collected by companies or websites that Universal Uclick does not own or control. This policy also does not guide or control the behavior of individuals not employed by Universal Uclick. For some products and services, third parties host the website and collect order information, contact information and necessary financial information to process orders related to such products and services. Please see the privacy policies on such third party websites for more information about how your information is protected on such websites.
+
+## 2\. What is “Personal Information”?
+
+Personal Information is individually identifiable information about a person and certain associated information. Individually identifiable information includes a first and last name, payment information including credit card numbers, a street, mailing or e-mail address, location data, a personal identifier that reveals an individual's e-mail address, a telephone number, or a social security number. Personal Information also includes associated information such as (1) any persistent identifier, customer number, MAC or IP address, or other identifier; (2) device information and operating system; or (3) demographics, preferences and interests information; where such information is associated with individually identifiable information.
+
+## 3\. How is my Personal Information collected?
+
+We collect your Personal Information when you register or provide us your Personal Information on the Sites. We may ask you to register and/or provide Personal Information when you visit certain areas of our Sites, register for services, order products, enter contests, subscribe to a newsletter, or other communication. If you choose not to register, you may not have access to areas that require registration. We may receive information, including Personal Information, about you from other sources and add it to the information that we have received from you.
+
+The Sites, and any messages sent from Universal Uclick, may contain code that enables our database and servers to track your usage of Sites, including whether a message was opened and/or what links (if any) were clicked. We may combine that information with Personal Information we have about you and may use that information to improve your experience and/or provide customized messages to you. Universal Uclick may also use other technologies to verify and track your use of certain products and services, confirm receipt of certain products or to test the integrity of our systems, products and services.
+
+We may use cookies to store some of your Personal Information when you visit the Sites. A “cookie” is a small line of text that is stored by your Web browser on your device for record-keeping purposes and to help us provide better service to you. We use cookies to customize the Sites to deliver content specific to your interests and to monitor use and performance of the Sites. Your browser has options to accept, reject, or provide you with notice when a cookie is sent. 
+
+If you use a device with Global Positioning System ( **“GPS”** ) or other location detection functionality, then we may collect precise information about the location of your device during your use of the Sites. 
+
+## 4\. How is my Personal Information used by Universal Uclick?
+
+Universal Uclick primarily uses your Personal Information to provide certain customized features and products, including but not limited to:
+
+  1. A customized and tailored experience and content on the Sites and through our other products and services, including but not limited to registration for an account on the Sites;
+  2. Alternate functionality, content, or experiences in your use of our Sites based on your location.
+  3. Premium content services or products subject to a subscription agreement or registration; 
+  4. Periodic messages, via mobile, twitter, e-mail, or other platforms, with content updates, subscription information, and order information;
+  5. Special contests or promotions that are sponsored by Universal Uclick or another company;
+  6. Chat, bulletin board, or other user-generated content functionality. Any posting by you is considered public information available to other users and is governed by the Terms; 
+  7. A seamless experience across multiple devices, platforms or browsers for each user; and
+  8. Various other functionalities and services as they are added to the Sites.
+
+
+
+## 5\. Who does Universal Uclick share Personal Information with?
+
+Universal Uclick is the owner of all information collected from the Sites. We share your Personal Information with our affiliates, suppliers, vendors, and/or their agents and employees as we deem necessary for the provision of goods and services to you. Specifically, we may share your Personal Information or other data (i) with third parties assisting us in the provision, administration, and management of goods and services generally; (ii) with third parties that assist us in providing goods and services that you request; (iii) with third parties that support our business operations or provide marketing or advertising services on our behalf, including marketing, technical, accounting, legal or other professionals; and (iv) as otherwise required or permitted by law or approved by you. We may use your Personal Information for our general business operations and goods and services provided by us if it is in a form that is not capable of being personally identified with you or if it is combined with Personal Information from one or more other customers in aggregate form that does not personally identify any particular customer. We may also sell, license or otherwise provide such de-identified or aggregated data to third parties. 
+
+We will not share your Personal Information with third parties for their own use unless you have “opted-in” to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this Privacy Policy. Regardless of whether you opt-in, Universal Uclick may use your Personal Information for its own purposes as described herein.
+
+As we develop our business, we may buy or sell assets, and, depending upon the transaction, your Personal Information may be one of the transferred assets. In the event that Universal Uclick or any Site is acquired by another company, your Personal Information may be part of the assets transferred to the acquiring party.
+
+## 6\. What are my options to control the use of my Personal Information?
+
+You have the ability to request the deletion of your Universal Uclick registration at any time by utilizing the registration system established for this purpose. However, we may maintain certain information, including Personal Information, following such deletion, as part of our internal processes to prevent accidental loss of user data or information and to prevent or discourage fraudulent activities that may involve Universal Uclick registration or account information. We may also continue to maintain information about your registration or account and your computer access to our Sites or services as part of our server logs
+
+Unless you opt-out or unsubscribe, we may e-mail you with information about other products and services of Universal Uclick, including information about selected third parties. If you do not want to receive such additional information from Universal Uclick, you may decline to receive those email messages by opting out when you receive such a communication, sign-up, register, or from within your account, as applicable. Notwithstanding anything to the contrary herein, we may communicate with you by e-mail if such e-mail communication is for the purpose of corresponding with you regarding products or services you have requested, related to protecting your interests, including any Personal Information, property, or other data, or to provide you with any notification or disclosure that may be required by applicable law or this Privacy Policy. Accordingly, you agree that all communications, disclosures, and notices sent to you by e-mail satisfy any requirement that notice be provided in writing.
+
+You may opt-out of allowing us to have any access to your location data by disabling your device's location detection functionality or GPS or, if possible on your device, disabling permission for our Sites to access such location detection functionality or GPS.
+
+## 7\. How do I update my Personal Information?
+
+You can help Universal Uclick maintain the accuracy of your profile by notifying us when you change your address, phone number, e-mail address, or other information. If at any time you wish to update your Personal Information then contact us or edit the information within your account, if applicable. Please include your old and new contact information in any message so that we can make the appropriate corrections.
+
+## 8\. Children's Personal Information?
+
+The Sites are general audience sites and are not directed to children under the age of 13. Universal Uclick assumes products and services purchased by credit card are purchased by adults. Universal Uclick respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, Universal Uclick does not collect Personal Information from individuals who identify themselves as under the age of 13 except in those limited circumstances where Universal Uclick believes that such collection is permitted under COPPA.
+
+Universal Uclick may ask prospective users to provide their age during the registration process and on other areas of the Sites. If a user indicates that he or she is under the age of 13, then all personal data collected during the registration process is automatically deleted except Universal Uclick may retain and use limited information, such as the child's e-mail address, for a limited period of time, in those cases where Universal Uclick believes that the collection and use of such information is permitted under COPPA.
+
+If a parent believes that his or her child has submitted personal information to Universal Uclick, he or she can contact us via e-mail or postal mail as listed below. Universal Uclick will promptly delete the information upon learning that it relates to a child under the age of 13.
+
+Universal Uclick believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can help prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
+
+## 9\. Universal Uclick's Data Security.
+
+We use a variety of commercially reasonable security technologies to help protect your Personal Information from unauthorized access, use, or disclosure. However, the use of such security technologies is not, and should not be considered to be, any type of guarantee or warranty by us that your Personal Information will not be accessed by third parties, or that we will use all available security technologies to prevent unauthorized access to, use, or disclosure of your personally identifying information. While we use commercially reasonable efforts to safeguard your Personal Information while it is being transmitted or used by third parties, we do not warrant that your Personal Information will be transmitted without unauthorized interception or modification or that your Personal Information will not be access or compromised by unauthorized third parties. We may permanently delete or destroy any and all Personal Information at any time as determined by us. 
+
+Except as otherwise provided in this Policy, we will not share your Personal Information with third parties, unless such disclosure is necessary to: 
+
+  1. Comply with a law (or based upon our good-faith belief that disclosure is necessary to comply with a law); 
+  2. Protect our rights or property; or
+  3. Enforce this Policy or any of our other policies and guidelines.
+
+
+
+Always remember to sign off the Sites and close your browser window when you are finished using it. This helps prevent others from posing as you online. This is especially important if you use a system that is accessible to others, such as the library, at school, at the workplace or at an Internet café to access the Sites.
+
+## 10\. Advertisements and Third Party Websites
+
+Our Sites may contain links to other websites. We are not responsible for the privacy practices or the content of such websites. We may allow third-party advertisers to place ads on our Sites. These third-party advertisers may use cookies or similar technologies to help present the advertisements to you or to help measure the effectiveness of their advertisements. Some advertisers may use cookies to serve ads based on your visits to the Sites and other websites on the Internet. The use of such technologies is subject to the privacy policies of the third-party advertisers and is not covered by this Privacy Policy. As a result, if you respond to any such third-party advertisers by clicking on the advertisements and/or visiting their websites or the websites of any other third party, be sure you evaluate their privacy policies before providing them any of your information. To opt-out of a third party's use of cookies, you must visit such third party's website and follow its specified opt-out procedures. You may opt-out of Google's use of the DoubleClick cookie by visiting the Google Advertising Policies and Principles page at [google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/). You can opt out of some, but not all, third-party advertiser cookies in one location at the Network Advertising Initiative opt-out website, located at [networkadvertising.org/managing/opt_out](https://web.archive.org/web/20141030132834id_/http%3A//puzzlesociety.com/help/www.networkadvertising.org/managing/opt_out.asp). You may block all cookies by following the instructions applicable to your browser at [aboutcookies.org/page-1](http://www.aboutcookies.org/page-1).
+
+## 11\. Refer a Friend
+
+If a user elects to use our referral service for informing a friend about our Sites or particular products or services, we ask them for the friend's name and e-mail address. Universal Uclick will automatically send the friend a one-time email inviting them to visit the Sites. Universal Uclick stores this information for the sole purpose of sending this one-time email. The friend may contact Universal Uclick to request the removal of this information from their database.
+
+## 12\. Contacting Universal Uclick
+
+Please address comments or questions regarding Universal Uclick's Privacy Policy to us via e-mail or postal mail. You can complete our e-mail form at: [http://www.puzzlesociety.com/help/contact](https://web.archive.org/help/contact). You may also contact Universal Uclick at by mail or email at:
+
+Universal Uclick  
+Attn: Universal Uclick Privacy  
+1130 Walnut St.  
+Kansas City, MO 64106 USA  
+or   
+[http://www.puzzlesociety.com/help/contact](https://web.archive.org/help/contact)
+
+* * *
+
+Updated as of 02-05-2014
