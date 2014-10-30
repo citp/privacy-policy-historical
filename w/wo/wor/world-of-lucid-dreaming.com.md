@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214234842id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030233525id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for World of Lucid Dreaming
 
@@ -27,3 +27,12 @@ This site contains links to other sites. This site and its owner(s) are not resp
 
 **Public Forums**  
 This site may make forums, message boards, and/or newsgroups available to its visitors. Please remember that any information that is disclosed in these areas becomes public information, so you should exercise caution when deciding to disclose your personal information. 
+
+**Free e-Course and Lucid Dreaming Insights**
+
+  
+Everyone is capable of learning this highly rewarding skill. In fact, you may only be a nudge away from it right now. Kick-start your lucid dream life with my free e-course and monthly(ish) newsletter, Lucid Dreaming Insights. Just enter your email below.
+
+  
+  
+
