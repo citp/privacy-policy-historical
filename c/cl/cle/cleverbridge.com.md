@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616105435id_/http%3A//www.cleverbridge.com/corporate/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030035659id_/http%3A//www.cleverbridge.com/corporate/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - cleverbridge e-commerce
 
