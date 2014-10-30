@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imleadership.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917172531id_/http%3A//www.imleadership.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleadership.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030072857id_/http%3A//www.imleadership.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | IM Leadership
 
