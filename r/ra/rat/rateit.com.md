@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rateit.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035441id_/http%3A//www.rateit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateit.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030141114id_/http%3A//www.rateit.com/privacy) for the most accurate reproduction.*
 
 # Local Business Ratings, Reviews, Directory & Yellow Pages | RateIt
 
