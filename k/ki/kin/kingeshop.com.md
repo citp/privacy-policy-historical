@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingeshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223359id_/http%3A//www.kingeshop.com/Private-policy-ecommerce-solution-provider-bbjaaaaaaaaa.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingeshop.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030110440id_/http%3A//www.kingeshop.com/Private-policy-ecommerce-solution-provider-bbjaaaaaaaaa.asp) for the most accurate reproduction.*
 
 # Private policy ecommerce solution provider, www.kingeshop.com
 
