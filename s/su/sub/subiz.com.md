@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subiz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075121id_/http%3A//subiz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subiz.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030095910id_/http%3A//subiz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Subiz live chat - Privacy Policy
 
