@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchza.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080400id_/http%3A//www.searchza.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchza.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030100436id_/http%3A//www.searchza.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Search Za
 
