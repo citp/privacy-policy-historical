@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613051738id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030155636id_/http%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
@@ -131,7 +131,7 @@ If you have questions or concerns regarding this policy, you should first contac
 You can also write us at: 
 
 TaxSlayer.com Privacy  
-3003 Allen Drive Evans, GA 30809 
+3003 TaxSlayer Drive Evans, GA 30809 
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url) TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
