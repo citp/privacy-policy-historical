@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalbabyshower.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630184109id_/https%3A//www.naturalbabyshower.co.uk/online-media/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalbabyshower.co.uk privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030083206id_/https%3A//www.naturalbabyshower.co.uk/online-media/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Baby Shower
 
