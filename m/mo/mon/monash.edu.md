@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the monash.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071628id_/http%3A//monash.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monash.edu privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030100952id_/http%3A//monash.edu/privacy.html) for the most accurate reproduction.*
 
 # Monash University Websites Privacy Statement - Monash University
 
-Monash University is subject to the **Information Privacy Act 2000 (Victoria)**. The University is committed to protecting your privacy. The following sets out how the University will deal with personal information recorded through the use of its web sites.
+Monash University is subject to the **Privacy and Data Protection Act 2014 (Victoria)**. The University is committed to protecting your privacy. The following sets out how the University will deal with personal information recorded through the use of its web sites.
 
 ## 1\. Collection of Information
 
