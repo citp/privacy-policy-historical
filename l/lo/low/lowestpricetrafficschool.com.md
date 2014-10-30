@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326133008id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030093240id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
 
 # Lowestpricetrafficschool.com - Privacy Policy
+
+## Privacy & Security Notice
 
 Thank you for visiting the LowestPriceTrafficSchool.com website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information.
 
@@ -29,7 +31,7 @@ As adwords advertisers, we are restricted from and will not perform the followin
 
 (b) Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as "prohibited" in the categories listed by [Google](https://support.google.com/adwordspolicy/answer/143465?hl=en&rd=1).
 
-Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/ads/preferences/html/opt-out.html).
+Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads).
 
 ## Cookies
 
@@ -72,4 +74,4 @@ LowestPriceTrafficSchool.com does not control or guarantee the accuracy, relevan
 
 While the information and recommendations contained in the this website including courses, tests, publications, and newsletters have been compiled from sources believed to be reliable, LowestPriceTrafficSchool.com makes no guarantee as to, and assumes no responsibility for, the correctness, sufficiency, or completeness of such information or recommendations. Other or additional safety measures may be required under particular circumstances.
 
-Information contained within LowestPriceTrafficSchool.com's website is the property of the LowestPriceTrafficSchool.com. Permission for re-publication in any form must be obtained in writing from: LowestPriceTrafficSchool.com, PO Box 442288, Jacksonville, FL 32222. Fax (904) 280-2037. E-mail: support@LowestPriceTrafficSchool.com.
+Information contained within LowestPriceTrafficSchool.com's website is the property of the LowestPriceTrafficSchool.com. Permission for re-publication in any form must be obtained in writing from: LowestPriceTrafficSchool.com, PO Box 442288, Jacksonville, FL 32222. Fax (888) 977-3809. E-mail: support@LowestPriceTrafficSchool.com.
