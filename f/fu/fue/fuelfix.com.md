@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuelfix.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065310id_/http%3A//fuelfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuelfix.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030214850id_/http%3A//fuelfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Fuel Fix » Privacy Policy
 
