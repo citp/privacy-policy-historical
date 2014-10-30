@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220736id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelm.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030170251id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunelm
 
@@ -20,7 +20,7 @@ It is vital that the information you to provide when you register as a customer 
 
 **By Telephone:** 0344 346 0022
 
-8am – 6pm Monday–Friday  
+8am – 7pm Monday–Friday  
 9am – 5pm Saturday and Sunday
 
 What happens when you sign up to receive our Newsletters?
@@ -63,7 +63,7 @@ Naturally it is important for you to protect against unauthorised access to your
 
 **By Telephone:** 0344 346 0022
 
-8am – 6pm Monday–Friday  
+8am – 7pm Monday–Friday  
 9am – 5pm Saturday and Sunday
 
 Peace of Mind - Data Protection
