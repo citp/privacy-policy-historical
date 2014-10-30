@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashion.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141507id_/http%3A//images.fashion.me/201201FashionMePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion.me privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030154109id_/http%3A//images.fashion.me/201201FashionMePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Fashion.me Privacy Policy
 
