@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vampirebloodlust.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113150id_/http%3A//www.vampirebloodlust.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampirebloodlust.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030025239id_/http%3A//www.vampirebloodlust.com/pp.php) for the most accurate reproduction.*
 
 # Vampire Blood Lust - FREE TO PLAY MMO -
 
-[Go Back](https://web.archive.org/web/20140626113150id_/http%3A//www.vampirebloodlust.com/landing.php)
+[Go Back](https://web.archive.org/web/20141030025239id_/http%3A//www.vampirebloodlust.com/landing.php)
 
 Cookies   
 A cookie is a very small text file that may be placed on your system upon logging on to Vampire Bloodlust (along with most other websites). This file serves as your identification and is soley yours. the cookie can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on Vampire Bloodlust along with helping us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are. 
