@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackbookmag.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209154921id_/http%3A//www.bbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbookmag.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030155344id_/http%3A//www.bbook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlackBook
+# Privacy Policy - BlackBook
 
 The Company is committed to protecting your personal privacy. We provide this notice (the “Privacy Policy”) to explain the type of information we collect on this Website and how that information is used.
 
