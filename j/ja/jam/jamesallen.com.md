@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102651id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030084904id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Learn about JamesAllen.coms Privacy Policy
 
@@ -15,6 +15,12 @@ We may also automatically collect and store certain types of non-personally iden
 
 All personal information that we collect from our customers is used to improve our relevance to you and to improve your shopping experience with us. We use the information that you provide so that we may provide the products and services that you have ordered or requested. In addition, we may send you (via email or other means) offerings of products or services which we think may be of interest to you or we may ask you to participate in activities such as special surveys. At any time, you can choose to no longer receive any non-transactional emails from JamesAllen by accessing http//www.jamesallen.com/remove and entering the email address to which the email was originally addressed. You may also unsubscribe from other campaigns that you have previously opted to receive by following the instructions on the bottom of the specific campaign.  
 
+
+Additionally, in order to improve your online experience at James Allen, we have implemented the following Google Analytics Advertising Features (remarketing, demographic and interest reporting, DoubleClick integration, and impression reporting). 
+
+Please note: personally-identifiable information **will not** be shared with Google Analytics. 
+
+You can [opt-out ](https://tools.google.com/dlpage/gaoptout/) whenever you want.
 
 We will not share the personal information which you provide to us except (i) for the purposes that you provided it to us, (ii) with your prior consent, (iii) as may be required by law as we reasonably deem necessary to protect James Allen or others from injury or loss, or (iv) with other persons or entities with whom we contract to provide services in connection with our web site(s) or other business activities. If we do share such personal information with a third party, we will, to the extent practical, require that the recipient protect that information in a manner consistent with this Privacy Policy. However, we cannot guarantee how such a third party will use personal information.  
 
