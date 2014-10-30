@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carbonated.tv privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628112351id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carbonated.tv privacy policy that was archived on 2014-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141030155049id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<link rel="SHORTCUT ICON" href="http://www.carbonated.tv/images/favicon.ico">
@@ -12,15 +12,18 @@
 	<meta http-equiv="Content-Language" content="en">
 	<meta name="description" content="Carbonated TV news, videos, blogs, TV Shows. Check our site for latest in politics, sports, entertainment, fashion, business, technology, lifestyle">
 	<meta name="keywords" content="carbonated tv blog,breaking news,business,commentary,current events,entertainment,international,new videos,news,politics,rss,technology,carbonated,carbonated tv">		
-	<meta property="og:title" content="Share trending stories and viral videos that matter to you">
+	<meta property="og:title" content="Carbonated.TV - Voice of the Mobile Generation">
    	<meta property="og:site_name" content="Carbonated.TV">
    	<meta property="fb:app_id" content="143827429007224">
    	
    	<meta property="og:image" content="">
+   	<meta property="og:image" content="">
+   	
    	<meta property="og:image:type" content="image/jpeg"> 
 	<!-- <meta property="og:image:width" content="280" /> 
 	<meta property="og:image:height" content="200" />
 	<meta property="og:type" content="og:product" /> -->
+	
 	
 	
    	<meta name="y_key" content="fd6f458ab443b7a0">
@@ -45,8 +48,8 @@
 		@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400);
 	</style>
   	
-  	<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/bootstrap.css?4.0.1521278440">
-  	<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/carbonated.css?4.0.1521278440"> 
+  	<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/bootstrap.css?4.0.592351002">
+  	<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/carbonated.css?4.0.592351002"> 
 
 	<!--[if IE]>
 	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -343,8 +346,8 @@ Carbonated does not knowingly collect or maintain personally identifiable inform
 	   }());
 	</script> 
 	
-  	<script type="text/javascript" src="http://www.carbonated.tv/scripts/bootstrap.js?4.0.1521278440"></script>
-	<script type="text/javascript" src="http://www.carbonated.tv/scripts/imgLiquid.js?4.0.1521278440"></script>
+  	<script type="text/javascript" src="http://www.carbonated.tv/scripts/bootstrap.js?4.0.592351002"></script>
+	<script type="text/javascript" src="http://www.carbonated.tv/scripts/imgLiquid.js?4.0.592351002"></script>
 	
 	<!-- Autosuggest starts -->
 	
@@ -353,8 +356,8 @@ Carbonated does not knowingly collect or maintain personally identifiable inform
 
 
 
-<script type="text/javascript" src="http://www.carbonated.tv/scripts/bsn.AutoSuggest_2.1.3_comp.js?4.0.1521278440"></script>
-<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/autosuggest_inquisitor.css?4.0.1521278440">
+<script type="text/javascript" src="http://www.carbonated.tv/scripts/bsn.AutoSuggest_2.1.3_comp.js?4.0.592351002"></script>
+<link rel="stylesheet" type="text/css" href="http://www.carbonated.tv/css/autosuggest_inquisitor.css?4.0.592351002">
 
 <script>
 	function initAutoSuggest(inputId){
@@ -424,7 +427,7 @@ Carbonated does not knowingly collect or maintain personally identifiable inform
 	
 	
 
-	<script type="text/javascript" src="http://www.carbonated.tv/scripts/carbonated_1.js?4.0.1521278440"></script>
+	<script type="text/javascript" src="http://www.carbonated.tv/scripts/carbonated_1.js?4.0.592351002"></script>
 	<!-- Quantcast Tag -->
 	<noscript>
 		<div style="display: none;">
@@ -466,6 +469,17 @@ Carbonated does not knowingly collect or maintain personally identifiable inform
 			}
 			return false;
 		}
+		
+		function whatsAppShare(url, title){
+			window.location.href= "whatsapp://send?text=" + encodeURIComponent(title) + " " + url;
+		}
+
+		jQuery(document).ready(function() {
+			if(!isUserMobile()){
+				jQuery(".hideOnWeb").css("display", "none");
+				jQuery(".hideOnWeb").hide();
+			}
+		});
 	</script>
 
 
