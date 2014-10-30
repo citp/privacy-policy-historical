@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the malaysiaairlines.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408081410id_/http%3A//www.malaysiaairlines.com/hq/en/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiaairlines.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030055604id_/http%3A//www.malaysiaairlines.com/my/en/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Footer - Privacy Policy | Malaysia Airlines
 
-**Contents:  
-**                 **Introduction  
+#### Customer Privacy Statement
+
+**Contents:**
+
+                 **Introduction  
 **                 **What Personal Data do we collect?  
 **                 **How do we collect your Personal Data?  
 **                 **How do we collect your Personal Data from our website?  
@@ -85,7 +88,8 @@ We may use your Personal Data for the following purposes (" **Purpose** "):
 You may request to obtain information of your Personal Data, limit the processing of your Personal Data and also update or make amendments to your Personal Data as below:
 
   * For online registered customers, you may login to your MAS online account and update your Personal Data; or
-  * For every other customer, you may forward your request to [customer@malaysiaairlines.com ](mailto:customer@malaysiaairlines.com)Please note that depending on the information requested, a nominal fee may be required. We will  endeavour to provide the information back to you as soon as practicable; however we also reserve the right to validate all requests for the authenticity of the request.
+  * For every other customer, you may forward your request to [customer@malaysiaairlines.com](mailto:customer@malaysiaairlines.com)  
+Please note that depending on the information requested, a nominal fee may be required. We will endeavour to provide the information back to you as soon as practicable; however we also reserve the right to validate all requests for the authenticity of the request.
 
 
 
@@ -97,7 +101,7 @@ Nonetheless, you may stop receiving promotional activities by:
 
   * unsubscribing from the mailing list;
   * editing the relevant account settings to unsubscribe; or
-  * sending a request to [customer@malaysiaairlines.com](mailto:customer@malaysiaairlines.com)
+  * sending a request to [customer@malaysiaairlines.com](mailto:customer@malaysiaairlines.com)
 
 
 
@@ -128,8 +132,8 @@ MAS shall take all reasonable steps to ensure that all Personal Data is destroye
 
 Please note that this Privacy Statement may be amended from time to time in accordance to applicable laws and regulations and such variations may be applicable to you. 
 
-The latest version of this Privacy Statement will be made available to all customers. Do revisit our website from time to time for updates on our Privacy Statement **.**  
+The latest version of this Privacy Statement will be made available to all customers. Do revisit our website from time to time for updates on our Privacy Statement **.**
 
 **Contact**
 
-For any queries, concerns or complaints in relation to our handling of your Personal Data or MAS' Personal Data Protection policies, please contact us at [privacy@malaysiaairlines.com](mailto:privacy@malaysiaairlines.com)
+For any queries, concerns or complaints in relation to our handling of your Personal Data or MAS' Personal Data Protection policies, please contact us at [privacy@malaysiaairlines.com](mailto:privacy@malaysiaairlines.com)
