@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513234530id_/http%3A//www.citygear.com/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030092943id_/http%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# City Gear: Men's & Women's Footwear, Streetwear, and Headwear
+# City Gear | Urban Footwear and Apparel | Privacy Policy
 
- CITYGEAR.COM’s Privacy Policy sets forth how CITY GEAR, LLC. and its affiliates (“CITY GEAR, LLC.”, “Company”, “We” and “Us”) collects, uses and protects personal information shared by the users (“You” or “User”) of the CITYGEAR.COM website and its associated services and domains (collectively, “CITYGEAR.COM" or “Website").  If you are under eighteen (18) years of age, “You” and “Your” includes your parents or legal guardian.  By using or accessing CITYGEAR.COM, you are accepting the terms of this Privacy Policy.
+CITYGEAR.COM’s Privacy Policy sets forth how CITY GEAR, LLC. and its affiliates (“CITY GEAR, LLC.”, “Company”, “We” and “Us”) collects, uses and protects personal information shared by the users (“You” or “User”) of the CITYGEAR.COM website and its associated services and domains (collectively, “CITYGEAR.COM" or “Website").  If you are under eighteen (18) years of age, “You” and “Your” includes your parents or legal guardian.  By using or accessing CITYGEAR.COM, you are accepting the terms of this Privacy Policy.
 
-CITYGEAR.COM is committed to providing a social, safe and entertaining online experience for people of all ages.  
+CITYGEAR.COM is committed to providing a social, safe and entertaining online experience for people of all ages.
 
 **1\. Information Collection Generally**
 
-Users may disclose certain personal information (“personally identifiable information,” or “PII”) while registering for or using the Website, including but not limited to the User’s name, age, birth date, gender, E-Mail address, address and/or telephone number.  We collect and store this information and may use the information as you interact with CITYGEAR.COM and as otherwise set forth in this Privacy Policy.  When Users update information, we keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.  
+Users may disclose certain personal information (“personally identifiable information,” or “PII”) while registering for or using the Website, including but not limited to the User’s name, age, birth date, gender, E-Mail address, address and/or telephone number.  We collect and store this information and may use the information as you interact with CITYGEAR.COM and as otherwise set forth in this Privacy Policy.  When Users update information, we keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
-We collect the browser type and IP address of all CITYGEAR.COM visitors.  We also store certain information from User’s browsers using cookies (small pieces of data stored on the User's computer) and use cookies to confirm that a User is signed in. Cookies can be blocked or removed by a User through the use of browser settings.  
+We collect the browser type and IP address of all CITYGEAR.COM visitors.  We also store certain information from User’s browsers using cookies (small pieces of data stored on the User's computer) and use cookies to confirm that a User is signed in. Cookies can be blocked or removed by a User through the use of browser settings.
 
 Users post User Content (as defined in the CITYGEAR.COM Terms of Use) on CITYGEAR.COM at their own risk.  We cannot control the actions of other Users with whom you may choose to share information. 
 
-Any improper collection or misuse of information provided on CITYGEAR.COM is a violation of the CITYGEAR.COM Terms of Service and should be reported to _custservice@CityGear.com_. 
+Any improper collection or misuse of information provided on CITYGEAR.COM is a violation of the CITYGEAR.COM Terms of Service and should be reported to support@citygear.com.
 
 CITYGEAR.COM takes reasonable precautions to protect our Users' information, including locating account information on a secured server behind a firewall. Sensitive information (such as passwords), is encrypted using secure socket layer technology (SSL).  No security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that User Content you post on CITYGEAR.COM will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on CITYGEAR.COM. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.  Because email messages are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
 
-CITYGEAR.COM may collect credit card information in connection with the purchase of products.  Credit card information is sent to the appropriate financial institution for processing and is not shared with other third parties and is not stored by CITYGEAR.COM after the transaction is completed.  
+CITYGEAR.COM may collect credit card information in connection with the purchase of products.  Credit card information is sent to the appropriate financial institution for processing and is not shared with other third parties and is not stored by CITYGEAR.COM after the transaction is completed.
 
 By using CITYGEAR.COM, you are consenting to have your personal data transferred and processed in the United States.
 
-If you have any questions about the security of CITYGEAR.COM, please contact us at _custservice@CITYGEAR.com_. 
+If you have any questions about the security of CITYGEAR.COM, please contact us at support@citygear.com.
 
 **2\. Use of Information By CITYGEAR.COM**
 
@@ -70,4 +70,6 @@ Your use of CITYGEAR.COM, and any disputes arising from it, is subject to this P
 
 CITYGEAR.COM reserves the right to change its Privacy Policy and Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the CITYGEAR.COM website. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
-If you have any questions about this privacy policy, please contact us at _custservice@CityGear.com_. 
+If you have any questions about this privacy policy, please contact us at support@citygear.com. 
+
+## 
