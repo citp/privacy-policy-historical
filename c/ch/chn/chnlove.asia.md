@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chnlove.asia privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219030533id_/http%3A//chnlove.asia/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.asia privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101005625id_/http%3A//www.chnlove.asia/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - See How to Protect Yourself When Dating Asian Chinese Girls on Chnlove.com.
 
-  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/my/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use Chnlove.com. The following describes our privacy practices that are specific to Chnlove.com.
+The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use Chnlove.com. The following describes our privacy practices that are specific to Chnlove.com.
 
 Welcome to Chnlove.com ("Chnlove" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by Chnlove, including any services owned, operated or offered by or on behalf of Chnlove, and by third-party service providers if applicable.
 
-We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. We have developed this Policy to ensure that your privacy is protected while using Chnlove. We reserve the right to change it at any time, and all changes are effective upon posting with notice to you.
+We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. We have developed this Policy to ensure that your privacy is protected while using Chnlove. We reserve the right to change it at any time, and all changes are effective upon posting without notice to you.
 
 Owing to the global nature of Chnlove's business conducted over the internet, it is practically impossible for us to comply with all applicable laws / rules / regulations (and the like) as may be prescribed by individual country / region / city. We endeavor to adopt internationally recommended “Best Practices” whilst adhering to the Personal Data (Privacy) Ordinance, laws of Hong Kong which you must agree to as the applicable law in case of dispute arising herefrom.
 
@@ -58,7 +58,7 @@ If you want to update or correct inaccuracies in your information, you can login
 
   8. **Deleting Your Account**
 
-Gentleman members can reqire account deletion through submitting email request to our customer service team, specifying whether account deletion of Chnlove or account deletion of the Qpid Network is needed. When Chnlove account is deleted, members will not be able to log into Chnlove and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
+Gentleman members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of Chnlove or account deletion of the Qpid Network is needed. When Chnlove account is deleted, members will not be able to log into Chnlove and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
 
   9. **Technical and/or Operational Security**
 
@@ -76,7 +76,7 @@ Chnlove may provide links to third-party websites. Since we do not control third
 
   12. **Your Agreement to This Policy**
 
-By using Chnlove Services, you understand that this Policy applies solely to information collected by Chnlove, and you agree to the collection, processing, retention and disposal of your information by Chnlove as outlined herein.
+By using Chnlove Services, you understand that this Policy applies solely to information collected by Chnlove, and you agree to the collection, processing, retention and disposal of your information by Chnlove as outlined herein. 
 
 
-|  
+
