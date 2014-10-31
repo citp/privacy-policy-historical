@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenhearttravel.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080823id_/http%3A//greenhearttravel.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhearttravel.org privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031190549id_/http%3A//greenhearttravel.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greenheart Travel
+# Privacy Policy | Greenheart Travel | Greenheart Travel
 
 By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -13,6 +13,12 @@ We collect personally identifiable information, like names, postal addresses, em
 **Cookie/Tracking Technology**
 
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+
+**Google Analytics**
+
+Google Analytics is used to collect information about visitor behavior on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+
+We have  implemented Google Analytics features based on Display Advertising. This includes the [Google Analytics Demographics and Interests Reporting](https://support.google.com/analytics/answer/2799357?hl=enq "Google Analytics Demographics and Interests Reporting") which is used to gain insight about our demographics and users’ interests. You can [opt-out](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on") of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on") to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests.
 
 **Distribution of Information**
 
