@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the zoomcar.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219163911id_/http%3A//www.zoomcar.in/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomcar.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031161503id_/http%3A//www.zoomcar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zoomcar.in
+# Zoomcar Privacy Policy | Zoomcar.in
 
 This Privacy Policy (the “Policy”) sets out how Zoom, Inc. (“Zoom”, “we”, “us” and/or “our”) collects, uses, shares and protects any information that you give us when you use this website (the “Site”). Zoom is committed to ensuring that your privacy is protected as your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users in order to provide, protect, maintain and improve our services, we feel you should fully understand the Policy surrounding the capture and use of that information. Please read the Policy carefully.
 
-http://www.zoomcar.in is owned and operated under legal name ZoomCar India Private Limited
+http://www.zoomcar.com is owned and operated under legal name Zoomcar India Private Limited
 
   
 
 
-### Collection and Use of Personal Information:
+### Collection and Use of Personal Information
 
 When you apply for or maintain an account with Zoom, we collect certain personally identifiable information (“Personal Information”), such as your name, contact preferences telephone number, mailing address, and e-mail address. By providing information to create a user account or complete your user profile, you expressly and voluntarily accept this Policy and Zoom's Terms of Use. Supplying personal information to us, personal or other, is entirely voluntary on your part.
 
