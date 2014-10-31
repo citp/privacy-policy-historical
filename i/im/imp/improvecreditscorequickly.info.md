@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvecreditscorequickly.info privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107154759id_/http%3A//improvecreditscorequickly.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvecreditscorequickly.info privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031215314id_/http%3A//improvecreditscorequickly.info/privacy-policy) for the most accurate reproduction.*
 
 # Improve Credit Score Quickly Privacy Policy | Improve Credit Score Quickly
 
@@ -64,5 +64,3 @@ You may request details of personal information which we hold about you as gover
 A small fee may be payable. If you would like a copy of the information held on you please write to 2612 Spadafore Drive Weedville, PA 16627.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-Some of the links in the post above are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers.
