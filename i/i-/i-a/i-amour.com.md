@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-amour.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627122633id_/http%3A//i-amour.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-amour.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031131341id_/http%3A//www.i-amour.com/privacy.php) for the most accurate reproduction.*
 
 # Wedding - Wedding Dress up Games - i-amour.com
 
