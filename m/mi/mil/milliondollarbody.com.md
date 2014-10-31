@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milliondollarbody.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228001551id_/http%3A//www.teambeachbody.com/tbb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milliondollarbody.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031084450id_/http%3A//www.teambeachbody.com/tbb/privacy) for the most accurate reproduction.*
 
 # Team Beachbody - Privacy Policy
 
