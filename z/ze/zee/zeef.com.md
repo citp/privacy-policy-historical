@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zeef.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503092133id_/https%3A//zeef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeef.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031050751id_/https%3A//zeef.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ZEEF
-
-## Privacy
 
 ZEEF has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: [zeef.com](https://zeef.com/). 
 
@@ -11,7 +9,7 @@ Personal Data
 Data collection by third parties (advertisers)
      Our ad serving software uses cookies which are retrieved by our own site. Other parties do not have access to this information. We use outside ad companies to display some of the ads on our site. These ads may contain cookies. Cookies received with outside advertisements are collected by the company serving the ad, and we do not have access to this information. 
 Subject Editor Webmaster Application Forms
-     Our site may use a form for users to apply to become a Subject Expert, acting as Webmaster. We use the form to collect contact information (like your email address). Contact information from the entry forms is used to get in touch with you when necessary. This contact information is shared with third parties only where required by law and/or to the extent necessary to process the application. 
+     Our site may use a form for users to apply to become a Subject Curator, acting as Webmaster. We use the form to collect contact information (like your email address). Contact information from the entry forms is used to get in touch with you when necessary. This contact information is shared with third parties only where required by law and/or to the extent necessary to process the application. 
 External Links
      This site contains links to other sites. ZEEF is not responsible for the privacy practices or the content of such Web sites. 
 Public Forums
