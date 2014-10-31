@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615154627id_/http%3A//www.findagrave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031180041id_/http%3A//www.findagrave.com/privacy.html) for the most accurate reproduction.*
 
 # Find A Grave - Privacy Statement
 
-[](https://web.archive.org/web/20140615154627id_/http%3A//www.findagrave.com/index.html)
+[](https://web.archive.org/web/20141031180041id_/http%3A//www.findagrave.com/index.html)
 
 **Last updated on 23 May, 2014**
 
@@ -125,7 +125,7 @@ If you have any questions or complaints about this Privacy Statement, Find A Gra
 
 **Need Help?**
 
-**Email us at:** [info@findagrave.com](https://web.archive.org/web/20140615154627id_/http%3A//www.findagrave.com/info@findagrave.com)
+**Email us at:** [info@findagrave.com](https://web.archive.org/web/20141031180041id_/http%3A//www.findagrave.com/info@findagrave.com)
 
 **Or write to us at:**  
 Find A Grave, Inc.  
