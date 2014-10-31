@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guzer.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214070418id_/http%3A//www.guzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guzer.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031221809id_/http%3A//www.guzer.com/privacy.php) for the most accurate reproduction.*
 
 # Guzer Privacy Policy
 
