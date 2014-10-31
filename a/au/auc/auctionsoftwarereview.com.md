@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505021340id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101000210id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
@@ -30,7 +30,7 @@ LoginToken
 memberName  
 |  Used to remember users so they do not need to enter their login details the next time they come to the site.  
 last-profile  
-last-profile-tab | Used to remember last selected directory profile tab.  
+last-profile-tab | Used to remember last selected directory product page tab.  
 Google Analytics  
 _utma  
 _utmb  
