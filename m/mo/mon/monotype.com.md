@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monotype.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021227id_/http%3A//www.monotype.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monotype.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031025122id_/http%3A//www.monotype.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Fonts, Font Technology & Font Consulting: Privacy Policy
 
 Monotype Imaging Holdings Inc., a Delaware corporation with its principal place of business at 500 Unicorn Park Drive, and its subsidiaries and affiliates worldwide (collectively, "Monotype Imaging") makes information, products, and services available on our Websites (each individually, the “Site” and collectively, the “Sites”), subject to the following Privacy Policy (the "Privacy Policy"). We own and operate many Sites. You can determine if Monotype Imaging is the owner and operator of a site by referring to the Terms and Conditions of Use for the specific site. The Privacy Policy applies to all of our Sites.
 
