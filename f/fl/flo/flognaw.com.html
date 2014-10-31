@@ -1,0 +1,469 @@
+<!--The following is the downloaded HTML source of the flognaw.com privacy policy that was archived on 2014-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141031224118id_/http%3A//www.flognaw.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Free Web Directory - Submit Link - Add URL &nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Allure/style/main.css">
+<link rel="stylesheet" type="text/css" href="/templates/Allure/style/fileuploader.css">
+<meta name="keywords" content="free directory, featured links, free web directory, link submit, submit free link, submit my site, submit site, add site">
+<meta name="description" content="Flognaw web directory is a seo friendly free directory organised by categories. Come and add your site for free, or find resources on any subject of your choice.">
+<meta name="author" content="Flognaw Web Directory">
+<meta name="copyright" content="Copyright (c) 2014 by Flognaw.com. All rights reserved!">
+<meta name="generator" content="PHP Link Directory 4.2.2">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.flognaw.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#login_form").validate(valid_obj.login_form);
+
+                var selects = jQuery("#login_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#search_form").validate(valid_obj.search_form);
+
+                var selects = jQuery("#search_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Allure/images/logo.png" border="0" alt="Logo"></a>
+</div>
+<div class="headerSearch">
+<form action="/index.php" method="get" id="search_form">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><input class="searchInput" type="text" name="search" maxlength="250" value=""></td>
+<td>
+<div class="searchBtn">
+<button class="searchBtnCenter" type="submit"></button>
+</div>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenu"><ul id="nav"><li><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li><a href="/contact.php" title="Contact directory owner">Contact</a></li><li><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a></li></ul></div></div></div><div class="path"><a href="/">Free Web Directory</a> <img src="/templates/Allure/images/pathArrow.png" alt=" - "> Privacy Policy</div><div class="center1"><div class="leftContainer">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="44">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>PageRank Chart</h1>		
+<style type="text/css">
+#pageranks_chart_div {
+padding-top : 6px;
+margin-left: 7px;
+margin-right: 5px;
+font-size: 16px;
+}
+</style>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+	google.load("visualization", "1", {packages:["PieChart"]});
+   google.setOnLoadCallback(drawPageRanksChart);
+   function drawPageRanksChart() {
+   	var data = new google.visualization.DataTable();
+      data.addColumn('string', 'PageRanks');
+      data.addColumn('number', 'Links Number');
+      data.addRows([
+      
+            	['PR 1', 830]
+         ,            	['PR 2', 709]
+         ,            	['PR 3', 470]
+         ,            	['PR 4', 204]
+         ,            	['PR 5', 47]
+         ,            	['PR 9', 28]
+         ,            	['PR 6', 13]
+                     
+      ]);
+      var chart = new google.visualization.PieChart(document.getElementById('pageranks_chart_div'));
+      chart.draw(data, {allowHtml: true, width: 180, height: 112, is3D: true, backgroundColor: '#eaeff2', legend: 'bottom', legendFontSize: 10, legendBackgroundColor: '#eaeff2', axisFontSize: 10});
+   }
+</script>
+<div id="pageranks_chart_div"></div>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="34">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>Latest featured links</h1>			 <ul class="boxPopCats">
+<li>
+<a href="                                                /detail/link-9002.htm" title="Read more about: clothing boutique shop, wholesale clothing stores, Los Angeles 90021">clothing boutique shop, who...</a>
+</li>
+<li>
+<a href="                                                /detail/link-8993.htm" title="Read more about: driving school in east london,hackney,newham">driving school in east lond...</a>
+</li>
+<li>
+<a href="                                                /detail/link-8626.htm" title="Read more about: Eyelid Surgery in Sydney">Eyelid Surgery in Sydney</a>
+</li>
+<li>
+<a href="                                                /detail/link-8167.htm" title="Read more about: Peak Planet Kilimanjaro Guides">Peak Planet Kilimanjaro Guides</a>
+</li>
+<li>
+<a href="                                                /detail/link-7737.htm" title="Read more about: Video Chat Webcam HD">Video Chat Webcam HD</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="14">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>Statistics</h1>		<ul class="boxStats">
+<li><strong>Active Links:</strong> 7804</li>
+<li><strong>Pending Links:</strong> 90</li>
+<li><strong>Todays Links:</strong> 90</li>
+<li><strong>Active Articles:</strong> 253</li>
+<li><strong>Pending Articles:</strong> 0</li>
+<li><strong>Todays Articles:</strong> 0</li>
+<li><strong>Total Categories:</strong> 15</li>
+<li><strong>Sub Categories:</strong> 312</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="26">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>Tag Cloud</h1>		<div style="width: 170px; margin: 0px auto; padding: 10px 0px; overflow: hidden;">
+<a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=News" title="News">News</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Apartment" title="Apartment">Apartment</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Living" title="Living">Living</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Children's" title="Children's">Children's</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Advertising" title="Advertising">Advertising</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=and" title="and">and</a> <a class="boxSponsoredA" style="font-size: 20px" href="/index.php?search=Business" title="Business">Business</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Blogs" title="Blogs">Blogs</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Flowers" title="Flowers">Flowers</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Marketing" title="Marketing">Marketing</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Arts" title="Arts">Arts</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Garden" title="Garden">Garden</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Printers" title="Printers">Printers</a> <a class="boxSponsoredA" style="font-size: 12px" href="/index.php?search=Shopping" title="Shopping">Shopping</a> <a class="boxSponsoredA" style="font-size: 26px" href="/index.php?search=&amp;" title="&amp;">&amp;</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Society" title="Society">Society</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Home" title="Home">Home</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Travel" title="Travel">Travel</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Improvement" title="Improvement">Improvement</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Internet" title="Internet">Internet</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Entertainment" title="Entertainment">Entertainment</a> <a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=Health" title="Health">Health</a> <a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=Media" title="Media">Media</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Sports" title="Sports">Sports</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Rural" title="Rural">Rural</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Education" title="Education">Education</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Computers" title="Computers">Computers</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Recreation" title="Recreation">Recreation</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Humanities" title="Humanities">Humanities</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Services" title="Services">Services</a> 
+</div>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+<br>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><div class="privacy">
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com is the sole owner of the information collected on our directory. We collect information from our users at several different points on our web site. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors and provide a more pleasant site experience.</span></p>
+<span style="color: #ff0000;"><strong><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Information Collection</span></strong></span>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Submission</span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">During the </span><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span> Submit service, we require information from the user on our submit form. A user must provide contact information (such as name amd email). We use this information to contact the user about services on our site for which he has expressed interest</span></p>
+<strong><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small; color: #ff0000;">Information Use</span></strong>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Profile</span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">We store information that we collect through log files, and via the information provided during the </span><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span></span> submit service, to create a profile of our users. A profile is stored information that we keep on individual users that details their characteristics. Consequently, collected information is bed to the users personally identifiable information to provide offers and improve the user experience. We DO NOT share your profile with other third parties.</span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Log Files</span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc.</span></p>
+<span style="color: #ff0000;"><strong><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Links</span></strong></span>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Third Parties</span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span> contains links to other websites including submitted sites and advertisers. We screen these websites as much as possible to protect the interest of our visitors. However we are not responsible for the privacy of visitors or the use of collected information on these websites. We strongly encourage users to read the privacy policies on any website visited.</span></p>
+<span style="color: #ff0000;"><strong><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Policy Changes</span></strong></span>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Any changes to the privacy policy will be posted within this document as well as on the homepage and any other pertinent location. It is important to us that our users be aware of any and all policies regarding the policies for collection and use of their information. Information will be used in the manner under which it was originally collected.</span></p>
+<span style="color: #ff0000;"><strong><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Refund Policy</span></strong></span>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">100% refund of payment made to listing a website in </span><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span> will be made under the following circumstances -</span></p>
+<ul>
+<li><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">The website submitted for review is not accepted and/or approved by the editors of </span><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span></span>.</span></li>
+<li><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">The website is approved but not listed to the satisfaction of the website owner. We do our best to resolve any issues related to your website submission at </span><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span>. However, if the site owner is not satisfied for any reason and wants to cancel the listing, should request for a refund within 30 days of listing the website. A cancellation of the listing after 30 days from the day of listng will not obligate </span><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;"><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Flognaw.com</span></span> to refund any of the fees.</span></li>
+<li><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">Refund will not be made under any circumstances not mentioned above.</span></li>
+</ul>
+</div></td></tr><tr><td></td></tr></tbody></table>
+<div class="break"></div></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="86">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>Paid Advertisment</h1>		<center>
+<!-- Ranknator Button Start -->
+<a target="_blank" href="http://seoreply.com">
+<img src="http://seoreply.com/wp-content/uploads/2014/06/SEOReply-250x285.gif" alt="Ranknator Button" width="200" border="0">
+</a>
+<!-- Ranknator Button End -->
+</center>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="9">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>Latest links</h1>		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/link-9473.htm" title="Read more about: ALS Group is qualified and experienced engineers will perform above ground tank inspection">ALS Group is qualified and ...</a>
+</li>
+<li>
+<a href="                                            /detail/link-9472.htm" title="Read more about: Life Insurance Quotes Leads MD DE PA NJ">Life Insurance Quotes Leads...</a>
+</li>
+<li>
+<a href="                                            /detail/link-9471.htm" title="Read more about: Plumbing Adelaide">Plumbing Adelaide</a>
+</li>
+<li>
+<a href="                                            /detail/link-9470.htm" title="Read more about: Pool Cleaning Service Gold Coast">Pool Cleaning Service Gold ...</a>
+</li>
+<li>
+<a href="                                            /detail/link-9469.htm" title="Read more about: computer help">computer help</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="51">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1>User Login Pane</h1>		<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; z-index: -1; height: 0px">
+<tbody><tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="10" maxlength="25" class="text">
+</td>
+</tr>
+<tr>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="10" maxlength="25" class="text">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center"><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+</tbody></table>
+<ul class="boxPopCats">
+<li><a href="/profile.php?mode=register" title="Register">Register</a></li>
+<li><a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a></li>
+</ul></form>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="69">
+<div class="box">
+<div class="boxTop"></div>
+<div class="boxMiddle">
+<h1></h1>		<center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 120x600 -->
+<ins class="adsbygoogle" style="display:inline-block;width:120px;height:600px" data-ad-client="ca-pub-9160638490996637" data-ad-slot="3150512507"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+</div><div class="clear" style="height: 30px;"></div></div><div class="footer"><div class="clear" style="height: 30px;"></div></div><div class="footer"><a href="http://www.flognaw.com/" title="home">Home</a> | <a href="http://www.flognaw.com/submit.php" title="submit a site">Submit a Site</a> | <a href="http://www.flognaw.com/submit_article.php" title="submit an article">Submit an Article</a> | <a href="http://www.flognaw.com/index.php?list=latest" title="latest links">Latest Links</a> | <a href="http://www.flognaw.com/index.php?list=latestarticles" title="latest articles">Latest Articles</a> | <a href="http://www.flognaw.com/contact.php" title="contact us">Contact Us</a> | <a href="http://www.flognaw.com/privacy.html" title="privacy policy">Privacy Policy</a><br>Copyright 2013 <a href="http://www.flognaw.com/" title="free web directory">Free Web Directory</a> All Rights Reserved. <a href="http://www.phplinkdirectory.com/" title="powered by phpLD">Powered by phpLD</a></div><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47792021-1', 'itsapieceofcake.org');
+  ga('send', 'pageview');
+
+</script>
+</body></html>
