@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075231id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031060003id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -15,7 +15,7 @@ Under FOIPPA, personal information includes recorded information about an identi
 
 In order to use this website, a user may be asked to first complete a registration and/or login form. During registration/login, a user is required to provide contact information (such as a name and email address). This information is used only to contact the user about the services on our site for which he/she has expressed an interest. It is optional for the user to provide demographic information and unique identifiers, but encouraged so we can provide a more personalized experience on our site.
 
-Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please call customer service.
+Keep your user ID and password confidential. Be wary of emails that ask for personal information. Never provide your password, personal information numbers or login information via email. We will not ask you for personal information via email except in response to an email you have sent to us. If you receive an unsolicited email asking for personal information please [contact us](https://web.archive.org/contact.html).
 
 Please also note that when you send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you. We recommend that sensitive personal information not be sent unencrypted over the Internet or by e-mail.
 
@@ -29,9 +29,9 @@ bchydro.com uses both persistent and session cookies. These are files that your 
 
 From time-to-time our site may have a contest or request information from users via surveys. Participation in these surveys or contests is voluntary and you have a choice whether or not to disclose any information. Information requested may include contact information, such as name and shipping address, and demographic information. Contact information will be used only to notify the winners and award prizes. Survey information will be used on an aggregated (not individually identifiable) basis only, for purposes of monitoring and/or improving the use and satisfaction of this site.
 
-### 4Q Surveys
+### Surveys
 
-We use 4Q surveys to better understand the customer experience on bchydro.com. Survey results are collected by 4Q via web form and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by [iPerceptions](http://www.4qsurvey.com/support/privacy-policy/), the host company, on servers in Canada.
+We use surveys to better understand the customer experience on bchydro.com and in our call centre. Survey results are collected by Service Quality Measurement (SQM) via telephone calls or emails and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by SQM[](http://www.4qsurvey.com/support/privacy-policy/), the host company, on servers in Canada.
 
 ### Children
 
@@ -59,7 +59,9 @@ Registration to access additional features on this website is optional. If you c
 
 ### Email communication you choose to receive from us
 
-With the exception of transactional emails (e.g. confirmation of online registration, notification of online bill, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions.
+With the exception of transactional emails (e.g. confirmation of online registration, account and bill notifications, emails directly related to your business account), we will not send you any email unless you opt-in to receive communications from us. If you opt-in, you will receive information we believe will be of interest to you. If you decide that you are no longer interested in receiving email from us, simply unsubscribe by clicking the unsubscribe link in every email and following the simple instructions.
+
+In some cases BC Hydro sends outbound emails and although we limit the personal information used, some personal information may be sent. Customers acknowledge that by signing up for a MyHydro Profile and linking their account online, they may receive account-related email notifications. Emails may be sent and stored outside of Canada depending on the email service provider chosen by the customer. 
 
 ### Text Message or Short Message Service (SMS)
 
