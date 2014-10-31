@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209080734id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800goguard.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031221036id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NATIONAL GUARD
+# Privacy Policy | National Guard
 
 The Army National Guard Recruiting Web site is provided as a public service by the Army National Guard, Strength Maintenance Division.
 
@@ -22,10 +22,8 @@ For site navigation purposes only, cookies are used in a limited manner. Cookies
 
 This site makes chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal identifiable information.
 
-## Link Disclaimer
+ **LINK DISCLAIMER**  
+The appearance of hyperlinks does not constitute endorsement by the Army National Guard of the Web site or the information, products or services contained therein. Such links are provided consistent with the stated purpose of this DoD Web site.
 
-The appearance of hyperlinks does not constitute endorsement by the Army National Guard of this Web site or the information, products or services contained therein. Such links are provided consistent with the stated purpose of this DoD Web site.
-
-## Problems, Comments or Questions
-
+ **PROBLEMS, COMMENTS OR QUESTIONS**  
 If you experience any problems with this Web site, or if you have any comments or suggestions, please email: [webmaster@nationalguard.com](mailto:webmaster@nationalguard.com).
