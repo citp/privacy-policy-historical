@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301015701id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031190231id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTISTdirect Network
 
