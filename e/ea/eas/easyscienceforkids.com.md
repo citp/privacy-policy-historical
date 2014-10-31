@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyscienceforkids.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513114221id_/http%3A//easyscienceforkids.com/legal/our-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyscienceforkids.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031130826id_/http%3A//easyscienceforkids.com/legal/our-website-privacy-policy) for the most accurate reproduction.*
 
-# Our Website Privacy Policy | Easy Science For Kids
+# Our Website Privacy Policy - Easy Science For Kids
 
 The last update to our Privacy Policy was posted on December 23, 2013.  This document governs the privacy policy of our Website, http://EasyScienceForKids.com
 
