@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arseblog.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630054516id_/http%3A//arseblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arseblog.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031204354id_/http%3A//arseblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Arseblog ... an Arsenal blog
 
@@ -29,11 +29,9 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
-You may consult this listing to find the privacy policy for each of the advertising partners of arseblog.com.
-
-_
+ _You may consult this listing to find the privacy policy for each of the advertising partners of arseblog.com._
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on arseblog.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
