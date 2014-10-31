@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214022557id_/https%3A//globaljournals.org/privacy-policy/menu-id-1263) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaljournals.org privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031144104id_/https%3A//globaljournals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  [ Privacy Policy](https://globaljournals.org/privacy-policy)
 
 Principles Governing This Site
 
@@ -20,7 +22,7 @@ We take privacy issues seriously and are committed to protecting your personal i
 Information You Provide to Us
 
 We will request information from you if you establish a personal profile on our site to gain access to certain content or services, if you ask to be notified by e-mail about online content, or if you participate in surveys we conduct. This requires the input of personal information and preferences that may include, but is not limited to, details such as your name, address (postal and e-mail), telephone number, or demographic information. If you request paid content, including subscriptions, we will also ask for payment information such as credit card type and number.  
-Information That Is Automatically Collected. Visit Early View and eJournals [here](https://globaljournals.org/ejournals/menu-id-1).
+Information That Is Automatically Collected. Visit Early View and eJournals [here](https://globaljournals.org/privacy-policy?id=604).
 
 Log Files
 
