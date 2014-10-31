@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadecelebrityporn.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208015004id_/http%3A//homemadecelebrityporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadecelebrityporn.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031101310id_/http%3A//homemadecelebrityporn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
