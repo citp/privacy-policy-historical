@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrics.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330175126id_/http%3A//www.lyrics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics.net privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031134549id_/http%3A//www.lyrics.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
