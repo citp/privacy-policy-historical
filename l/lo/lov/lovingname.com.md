@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovingname.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012060712id_/http%3A//www.lovingname.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingname.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031024345id_/http%3A//www.lovingname.com/support/privacy.php) for the most accurate reproduction.*
 
-# Loving Name :: Privacy Policy
+# LovingName :: Privacy Policy
 
 At LovingName we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
