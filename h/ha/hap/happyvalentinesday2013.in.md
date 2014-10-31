@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyvalentinesday2013.in privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003709id_/http%3A//happyvalentinesday2013.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyvalentinesday2013.in privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031174410id_/http%3A//happyvalentinesday2013.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Happy Valentine Day 2014 SMS Messages Quotes
 
