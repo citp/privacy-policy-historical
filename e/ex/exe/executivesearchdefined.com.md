@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executivesearchdefined.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606031746id_/http%3A//executivesearchdefined.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executivesearchdefined.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031075535id_/http%3A//executivesearchdefined.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ExecutiveSearchDefined: Disclaimer
 
@@ -57,7 +57,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executivesearchdefined.com/disclaimer.php](https://web.archive.org/web/20140606031746id_/http%3A//executivesearchdefined.com/disclaimer.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executivesearchdefined.com/disclaimer.php](https://web.archive.org/web/20141031075535id_/http%3A//executivesearchdefined.com/disclaimer.php)
 
 **Your Consent**
 
