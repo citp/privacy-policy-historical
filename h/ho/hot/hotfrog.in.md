@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150347id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031140354id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotfrog Privacy Policy
 
@@ -79,15 +79,15 @@ We may contact you at any email or other address or contact point which we have 
 
 
 
-If you are receiving promotional information from Cirrus Media and do not wish to receive this information any longer, you may remove your name from our list by contacting the Cirrus Media Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed. 
+If you are receiving promotional information from Cirrus Media and do not wish to receive this information any longer, you may remove your name from our list by contacting the Cirrus Media Privacy Officer at [Contact us](https://web.archive.org/ContactUs.aspx?Reason=Legal) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed. 
 
 #### Access to the information we hold
 
-You can request access to the personal information we hold about you by making a request to the Cirrus Media Privacy Officer via [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au). We will provide you with access unless we are legally authorised not to do so.
+You can request access to the personal information we hold about you by making a request to the Cirrus Media Privacy Officer via [Contact us](https://web.archive.org/ContactUs.aspx?Reason=Legal). We will provide you with access unless we are legally authorised not to do so.
 
 #### Changing and deleting the information we have about you
 
-If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Cirrus Media Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au). If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
+If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Cirrus Media Privacy Officer at [Contact us](https://web.archive.org/ContactUs.aspx?Reason=Legal). If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
 
 We will take all reasonable steps to change or delete information in response to such a request. If there is a reason that we cannot make that change or deletion, we will inform you of that reason. 
 
@@ -111,7 +111,7 @@ More information about CatchBot is available at [www.catchbot.com](http://www.ca
 
 If you have any questions about this Privacy Policy or how Cirrus Media deals with your personal information you can contact:
 
-Cirrus Media Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au)
+Cirrus Media Privacy Officer at [Contact us](https://web.archive.org/ContactUs.aspx?Reason=Legal)
 
 All references to Cirrus Media in this Privacy Policy should therefore be read as references to Cirrus Media Pty Limited (ABN 80 132 719 861), an Australian company. 
 
