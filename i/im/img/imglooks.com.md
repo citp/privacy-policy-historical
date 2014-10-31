@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imglooks.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175345id_/http%3A//www.imglooks.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imglooks.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031113237id_/http%3A//www.imglooks.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to ImgLooks.com » More Information » Privacy Policy funny , celebrity, upload, a free image upload solution. Simply browse, select, and upload!
 
