@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tylertool.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330172930id_/http%3A//www.tylertool.com/on/demandware.store/Sites-tyler-tool-Site/default/PrivacyPolicy-Show) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylertool.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101015959id_/http%3A//www.tylertool.com/on/demandware.store/Sites-tyler-tool-Site/default/PrivacyPolicy-Show) for the most accurate reproduction.*
 
 # Tyler Tool Privacy Policy
 
-CPO Commerce, Inc. ("CPO") operates the websites located at www.tylertool.com, www.cpooutlets.com and other websites on which a copy of this privacy policy appears (cumulatively the "CPO Sites") as a service to its customers residing in the United States of America, its territories and possessions. CPO is the owner or authorized user of the content displayed on the CPO Sites.
+CPO Commerce, LLC ("CPO") operates the websites located at www.tylertool.com, www.cpooutlets.com and other websites on which a copy of this privacy policy appears (cumulatively the "CPO Sites") as a service to its customers residing in the United States of America, its territories and possessions. CPO is the owner or authorized user of the content displayed on the CPO Sites.
 
 CPO has adopted this privacy policy to inform you of the following: 
 
