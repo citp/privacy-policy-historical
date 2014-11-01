@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeytimes.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501013022id_/http%3A//aeytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeytimes.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101112528id_/http%3A//aeytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Share Ideas | AeyTimes Idea Journal - Free Blog | Social Web Site
 
