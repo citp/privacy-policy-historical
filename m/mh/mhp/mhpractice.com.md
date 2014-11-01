@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhpractice.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627224030id_/http%3A//catalogs.mhhe.com/mhhe/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhpractice.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101205348id_/http%3A//catalogs.mhhe.com/mhhe/privacyPolicy.do) for the most accurate reproduction.*
 
 # MHHE - Privacy Policy
 
