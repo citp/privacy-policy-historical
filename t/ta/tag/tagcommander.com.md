@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagcommander.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428115728id_/http%3A//www.tagcommander.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagcommander.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101223814id_/http%3A//www.tagcommander.com/en/privacy) for the most accurate reproduction.*
 
 # Our privacy policy - TagCommander
 
@@ -27,3 +27,5 @@ We retain data for no more than one year unless we have a business need to retai
 ##### Is The Data Secure?
 
 We take appropriate measures to protect the data in our control from unauthorized access, disclosure, alteration, or destruction. While we work very hard to protect the data, no data security measure can guarantee that the data will always remain secure.
+
+_When you opt-out, a new cookie is placed in your web browser that tells our technology to cease data collection from and ad delivery to your browser. You can opt-in to TagCommander ads again at any time by un-checking the box above._
