@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatvideo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080240id_/http%3A//www.neatvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatvideo.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101195743id_/http%3A//neatvideo.com/privacy.html) for the most accurate reproduction.*
 
 # Neat Video :: privacy statement
 
@@ -38,5 +38,5 @@ Your privacy is highly respected by Neat Video team, ABSoft. This privacy statem
   
 ---|---  
   
-|  Changed on:  January 26, 2012  | Copyright © 1999-2014 ABSoft. All rights reserved.    
+|  Changed on:  September 9, 2014  | Copyright © 1999-2014 ABSoft. All rights reserved.    
 ---|---
