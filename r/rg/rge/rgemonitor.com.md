@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229081115id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101111244id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
 
-# Roubini Global Economics
-
-Privacy Policy 
+# Roubini Global Economics - RGE
 
 Roubini Global Economics, LLC Privacy Notice
 
@@ -96,8 +94,8 @@ For personal information of employees, consumers, healthcare professionals, medi
 If you have any questions or comments about this policy or wish to access your information, ask questions about our privacy practices, or issue a complaint, contact us at [privacy@roubini.com](mailto:privacy@roubini.com).
 
 Roubini Global Economics, LLC  
-95 Morton Street, 6th Floor  
-New York, New York 10014  
+120 Broadway, Suite 2740  
+New York, New York 10271  
 Attention: Privacy Manager
 
 You may change your User profile and personally identifiable information at any time by logging onto the Service and clicking on the "Manage my Account" link in the left hand navigation.
