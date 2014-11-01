@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603210759id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmynd.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101085207id_/http%3A//www.techmynd.com/policy) for the most accurate reproduction.*
 
 # Privacy and Ads Policy - TechMynd
 
@@ -18,23 +18,23 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on [how to](http://www.techmynd.com/category/tips-tricks/how-to-tips-tricks/ "how to") block cookies and other tracking mechanisms.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
 ## About Google Advertising
 
-Any advertisements served by [Google](http://www.techmynd.com/category/internet-web/google-se/ "Google"), Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies. Third-party advertising companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies. Third-party advertising companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-**About Google advertising:** What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying [AdSense](http://www.techmynd.com/category/internet-web/adsense/ "AdSense") for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may [opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy](http://www.google.com/privacy/ads/). Learn more about the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx).
+**About Google advertising:** What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Learn more about the DoubleClick DART cookie.
 
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
   * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the [Internet](http://www.techmynd.com/category/downloads/software-internet/ "Internet").
-  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+  * Users may opt out of the use of the DART cookie by visiting the advertising opt-out page. Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.
 
 
 
 ## Ads Networks
 
-TechMynd serves ads mainly using services from Reduxmedia, [Valueclick Media](http://valueclickmedia.com/), [Infolinks](http://www.infolinks.com/), [buysellads](http://buysellads.com/), Adside, [Afterdownload](http://www.afterdownload.com/), [VigLink](http://www.viglink.com/?vgref=135485) ([Opt-Out from using VigLink](http://www.viglink.com/support/optout)) but not each or all. We may use any of these ads serving networks or cease to use any of these anytime. Please visit those websites if you want to know more about “how they serve ads?”, their privacy policy or terms.
+TechMynd serves ads mainly using services from Reduxmedia, Valueclick Media, [Infolinks](http://www.infolinks.com/), buysellads, Adside, Afterdownload, VigLink (Opt-Out from using VigLink) but not each or all. We may use any of these ads serving networks or cease to use any of these anytime. Please visit those websites if you want to know more about “how they serve ads?”, their privacy policy or terms.
 
 Users can visit the above ad serving networks to opt out of cookies if they need. Further more we try to mention **sponsored links** or **advertisements** where possible.
 
