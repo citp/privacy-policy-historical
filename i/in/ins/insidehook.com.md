@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehook.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503063534id_/http%3A//www.insidehook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehook.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101113722id_/http%3A//www.insidehook.com/privacy-policy) for the most accurate reproduction.*
 
 # InsideHook | Travel, News, Health & Fashion for Men in New York, LA, SF, Chicago & the Nation
 
