@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208005244id_/http%3A//jobs-in-my-area.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-in-my-area.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101082559id_/http%3A//jobs-in-my-area.net/privacy.php) for the most accurate reproduction.*
 
-# Jobs In My Area
+# Jobs-in-my-area.net
 
-1\. INTRODUCTION
-
-PURPOSE OF POLICY. Jobs-In-My-Area.net (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”) pursuant to the terms contained herein. We created this Jobs-In-My-Area.net Privacy Policy (this “Policy”) to give you notice of how your private information will be used as a result of submitting it to our Company. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+PURPOSE OF POLICY. jobs-in-my-area.net (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”) pursuant to the terms contained herein. We created this jobs-in-my-area.net Privacy Policy (this “Policy”) to give you notice of how your private information will be used as a result of submitting it to our Company. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 NOTICE CONCERNING CHILDREN. We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
 
@@ -28,7 +26,7 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 (b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-© USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+(c) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
 (d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
@@ -48,10 +46,8 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 6\. POLICY UPDATES
 
-6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. 
+6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2014, jobs-in-my-area.net 
 
-Want to unsubscribe from our mailing list? [Click here](http://www.1-screen.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
+Click Here to [Contact Us](https://web.archive.org/contact.php)
 
-All Content Copyright © 2011, Jobs-In-My-Area.net
-
-Click Here to [Contact Us](https://web.archive.org/contactus.php) Jobs-In-My-Area.net
+Want to unsubscribe from our mailing list? [Click here](http://jobs-in-my-area.net/unsubscribe.php) to go to our unsubscribe page where you can unsubscribe from receiving any more email from us or any of our affiliates. 
