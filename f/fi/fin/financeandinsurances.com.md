@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the financeandinsurances.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422093018id_/http%3A//www.financeandinsurances.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeandinsurances.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101152137id_/http%3A//financeandinsurances.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-When you access [www.financeandinsurances.com](https://web.archive.org/web/20120422093018id_/http%3A//www.financeandinsurances.com/index.htm) we use technology to collect information indirectly such as your Internet address which is then kept in our Internet access logs.
+When you access [www.financeandinsurances.com](https://web.archive.org/web/20141101152137id_/http%3A//financeandinsurances.com/index.htm) we use technology to collect information indirectly such as your Internet address which is then kept in our Internet access logs.
 
 We collect information directly from you in a number of ways. One way is through the use of cookies. Cookies are small files of information which save and retrieve information about your visit to our site - for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.)
 
