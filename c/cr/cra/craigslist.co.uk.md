@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craigslist.co.uk privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511034041id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.co.uk privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101120350id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
 
 # craigslist | privacy policy
 
@@ -6,7 +6,7 @@
 
 ## craigslist Privacy Policy (updated December 5, 2013)
 
-[terms of use](https://web.archive.org/web/20140511034041id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](http://forums.craigslist.org/?forumID=8)
+[terms of use](https://web.archive.org/web/20141101120350id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](http://forums.craigslist.org/?forumID=8)
 
 This policy details how data about you is collected/used/disclosed when you visit our websites and services (together, "CL") or otherwise interact with us. If we update it, we will revise the date, place notices on CL if a change is material, and/or obtain your consent as required by law.
 
