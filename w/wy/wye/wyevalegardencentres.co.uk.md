@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wyevalegardencentres.co.uk privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504142542id_/http%3A//www.thegardencentregroup.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyevalegardencentres.co.uk privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101121117id_/http%3A//www.wyevalegardencentres.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - The Garden Centre Group
+# Privacy & Cookie Policy - Wyevale Garden Centres
 
 ##  Overview
 
-The Garden Centre Group is committed to protecting and respecting your privacy. This page explains:
+Wyevale Garden Centres is committed to protecting and respecting your privacy. This page explains:
 
   * What personally identifiable information of yours is collected
   * What organisation is collecting the information
   * How the information is used
   * With whom the information may be shared
   * What choices are available to you regarding collection, use and distribution of the information
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under The Garden Centre Group's control
+  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under Wyevale Garden Centres's control
   * How you can correct any inaccuracies in the information.
 
 
@@ -32,7 +32,7 @@ We use a web analytics tool to analyse site usage, how our users arrive at our s
 
 We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance. 
 
-The following describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete [www.thegardencentregroup.co.uk](http://www.thegardencentregroup.co.uk/) cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) 
+The following describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete [www.wyevalegardencentres.co.uk](http://www.wyevalegardencentres.co.uk/) cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) 
 
   * **“Session” Cookies**
 
@@ -45,14 +45,14 @@ The following describe the cookies we use on this site and what we use them for.
 
 
 
-This cookie is used by Google to report to us how the adverts shown on [www.thegardencentregroup.co.uk](http://www.thegardencentregroup.co.uk/) are performing. User data is all anonymous. You can find out more generally about Google and its policies and principles as regards advertising at [www.google.com/policies/privacy/ads/ ](http://www.google.com/policies/privacy/ads/)  
+This cookie is used by Google to report to us how the adverts shown on [www.wyevalegardencentres.co.uk](http://www.wyevalegardencentres.co.uk/) are performing. User data is all anonymous. You can find out more generally about Google and its policies and principles as regards advertising at [www.google.com/policies/privacy/ads/ ](http://www.google.com/policies/privacy/ads/)  
  
 
   * **DoubleClick (Google)**
 
 
 
-This is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on [www.thegardencentregroup.co.uk](http://www.thegardencentregroup.co.uk/) site. User data is anonymous. As above, you can find out more generally about Google and its policies and principles as regards advertising at [www.google.com/policies/privacy/ads/ ](http://www.google.com/policies/privacy/ads/)  
+This is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on [www.wyevalegardencentres.co.uk](http://www.wyevalegardencentres.co.uk/) site. User data is anonymous. As above, you can find out more generally about Google and its policies and principles as regards advertising at [www.google.com/policies/privacy/ads/ ](http://www.google.com/policies/privacy/ads/)  
  
 
   * **Google Analytics**
@@ -64,17 +64,17 @@ We use this to understand how the site is being used in order to improve the use
 
 ###  Social Buttons
 
-On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’ and others. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of [www.thegardencentregroup.co.uk](https://web.archive.org/web/20140504142542id_/http%3A//www.thegardencentregroup.co.uk/pages/www.thegardencentregroup.co.uk). You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on [www.thegardencentregroup.co.uk](https://web.archive.org/web/20140504142542id_/http%3A//www.thegardencentregroup.co.uk/pages/www.thegardencentregroup.co.uk). So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting www.thegardencentregroup.co.uk, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.   
+On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’ and others. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of [www.wyevalegardencentres.co.uk](https://web.archive.org/web/20141101121117id_/http%3A//www.wyevalegardencentres.co.uk/pages/www.wyevalegardencentres.co.uk). You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on [www.wyevalegardencentres.co.uk](https://web.archive.org/web/20141101121117id_/http%3A//www.wyevalegardencentres.co.uk/pages/www.wyevalegardencentres.co.uk). So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting www.wyevalegardencentres.co.uk, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.   
  
 
 ###  External Web Services
 
-We use a number of external web services on the [www.thegardencentregroup.co.uk](http://www.thegardencentregroup.co.uk/) site, mostly to display content within our web pages. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.   
+We use a number of external web services on the [www.wyevalegardencentres.co.uk](http://www.wyevalegardencentres.co.uk/) site, mostly to display content within our web pages. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.   
  
 
 ###  Email Tracking
 
-Some emails that we send you have no tracking in at all e.g. service emails such as order notifications. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of The Garden Centre Group’s emails which you can do via My Account [www.thegardencentregroup.co.uk/login](http://www.thegardencentregroup.co.uk/login).   
+Some emails that we send you have no tracking in at all e.g. service emails such as order notifications. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of Wyevale Garden Centres’s emails which you can do via My Account [www.wyevalegardencentres.co.uk/login](http://www.wyevalegardencentres.co.uk/login).   
  
 
 ###  Surveys & Contests
@@ -99,13 +99,13 @@ We use information in the file we maintain about you, and other information we o
 
 We take online payments for our products and/or services. We use DataCash as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process refunds or so you can pay again with the same card more easily. We also use the billing details in case we need to contact you regarding payments e.g. for a failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on our secure server and this data is passed immediately and securely to DataCash for their processing. All communications between our servers and DataCash pass over an encrypted connection using SSL (Secure Sockets Layer). 
 
-Your Personal Information is stored in our databases. Please note that the information you enter is not transferred outside of the European Economic Area by The Garden Centre Group. There may be circumstances thought where we need to provide appropriate details to third parties to complete the service purchased by you (such as passing your details to a delivery company to effect delivery of goods you have purchased). In these circumstances, we cannot confirm where these third parties store their data. By submitting your information, you consent to this transfer. 
+Your Personal Information is stored in our databases. Please note that the information you enter is not transferred outside of the European Economic Area by Wyevale Garden Centres. There may be circumstances thought where we need to provide appropriate details to third parties to complete the service purchased by you (such as passing your details to a delivery company to effect delivery of goods you have purchased). In these circumstances, we cannot confirm where these third parties store their data. By submitting your information, you consent to this transfer. 
 
-The Garden Centre Group complies with the UK Data Protection Act 1998. 
+Wyevale Garden Centres complies with the UK Data Protection Act 1998. 
 
 ###  Email Communications
 
-As part of the registration process for joining as a customer of The Garden Centre Group you have the opportunity to opt in or out to our marketing email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "Newsletter Preferences" section under "My Account". You can also opt-out directly by using the Unsubscribe links contained within these e-mails.   
+As part of the registration process for joining as a customer of Wyevale Garden Centres you have the opportunity to opt in or out to our marketing email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "Newsletter Preferences" section under "My Account". You can also opt-out directly by using the Unsubscribe links contained within these e-mails.   
  
 
 ###  Our Disclosure of Your Information
@@ -123,12 +123,12 @@ We do aggregate personally identifiable information and disclose such informatio
 
 ###  Payment and Credit Card Details
 
-As explained above, we store a unique reference against your card details which allows us to process refunds automatically. Only the last four digits of your card number are available to The Garden Centre Group admin staff. The first twelve digits are hidden so that The Garden Centre Group staff cannot see your full card details. None of your card or billing details are published on the site in any way, nor are they visible to other users on your membership account.   
+As explained above, we store a unique reference against your card details which allows us to process refunds automatically. Only the last four digits of your card number are available to Wyevale Garden Centres admin staff. The first twelve digits are hidden so that Wyevale Garden Centres staff cannot see your full card details. None of your card or billing details are published on the site in any way, nor are they visible to other users on your membership account.   
  
 
 ###  Legal Requests
 
-The Garden Centre Group cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.   
+Wyevale Garden Centres cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.   
  
 
 ###  Suppliers and Other Service Providers
@@ -138,9 +138,9 @@ From time to time we use third party Suppliers and Service Providers to facilita
 
 ###  Control of Your Password
 
-Except as specifically permitted by this section, you may not disclose your The Garden Centre Group password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "Change Password" section in "My Account". 
+Except as specifically permitted by this section, you may not disclose your Wyevale Garden Centres password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "Change Password" section in "My Account". 
 
-You may, however, disclose your password to certain third parties with whom The Garden Centre Group has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services. 
+You may, however, disclose your password to certain third parties with whom Wyevale Garden Centres has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services. 
 
 If you wish to change your password you can do so at any time through the "Change Password" section in "My Account" section of the site. 
 
@@ -150,7 +150,7 @@ You can at any time review and change the information you submitted during regis
 
 You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area. 
 
-You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact The Garden Centre Group if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms & Conditions. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed. 
+You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact Wyevale Garden Centres if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms & Conditions. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed. 
 
 ###  Other Information Collectors
 
@@ -161,8 +161,8 @@ Except as otherwise expressly discussed in this Privacy Policy, this document on
 
 In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to secure all communications between the site and you where sensitive information is being exchanged. This includes (but is not limited to) Registration, Login, My Account and Checkout pages. 
 
-On the The Garden Centre Group site we use best endeavours to safeguard the confidentiality of your personally identifiable information but we do not use encryption to store your personally identifiable information. This is because we do not believe that the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet. 
+On the Wyevale Garden Centres site we use best endeavours to safeguard the confidentiality of your personally identifiable information but we do not use encryption to store your personally identifiable information. This is because we do not believe that the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet. 
 
 ###  Changes to Privacy Policy
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site. It is up to you whether you then continue to use the site and The Garden Centre Group’s services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using The Garden Centre Group's site and services and contact us, as per above, should you wish to have any of your details removed.
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site. It is up to you whether you then continue to use the site and Wyevale Garden Centres’s services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using Wyevale Garden Centres's site and services and contact us, as per above, should you wish to have any of your details removed.
