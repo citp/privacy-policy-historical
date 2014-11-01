@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628201848id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101133051id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UCAR - University Corporation for Atmospheric Research
 
@@ -8,9 +8,9 @@ Within this Site you may access a number of UCAR-sponsored sites and services. 
 
 If you do provide personal information when signing up for a service or completing a survey, UCAR will process such information for specific and limited purposes which we inform you about when we ask you for information.  For example, we may collect and use personal data to provide you with services, to respond to a question, or to communicate with you for other purposes.  Except as described in Section 3 hereof, unless expressly described in an applicable privacy policy, UCAR will not distribute your information to third parties.
 
-**2.   General Use Information**. UCAR receives and stores certain types of information whenever you interact with the Web site. For example, UCAR maintains Web activity log files such as the number of pages requested, time spent on a page, and result sets from search queries. UCAR extracts and aggregates information from these log files to gauge and improve the effectiveness of the Web site and services. UCAR does not link this general use information to other personally identifiable information.
+**2.   General Use Information**. UCAR receives and stores certain types of information whenever you interact with the Web site. For example, UCAR maintains Web activity log files such as the number of pages requested, time spent on a page, and result sets from search queries. UCAR and its outside contractors extract and aggregate information from these log files for security purposes as well as to gauge and improve the effectiveness of the Web site and services.
 
-**3.   Sharing of Information.  **From time to time, UCAR may share information with its sponsors, outside contractors, auditors, consultants, and others hired by UCAR to assist in carrying out financial or operational activities. UCAR informs these parties about safeguarding personal information, and requires them to use it only for an authorized purpose consistent with this privacy policy.
+**3.   Sharing of Information.  **Certain partners and outside contractors hired by UCAR have access to user information in order to assist UCAR in carrying out security, financial and operational activities. From time to time, UCAR may also share user information with its sponsors, auditors and consultants.  UCAR informs these parties about safeguarding personal information, and requires them to use it only for an authorized purpose consistent with this privacy policy.
 
 **4.   Cookies.** Parts of the UCAR Web site may use cookies to improve your interaction with the site or service (e.g. directing your browser to the same server in a cluster for your entire session).  UCAR Web sites may also use cookies for Web traffic analysis purposes (e.g. determining unique visits to a site).
 
@@ -22,7 +22,7 @@ If you do provide personal information when signing up for a service or completi
 
 Please note that any information that you post to a public bulletin board or chat room is available to all persons accessing that site. Unsubscribing from a list or forum will not remove any name, e-mail address or information that was part of any previous posting from any archive of these lists or forums.
 
-**8.   Legal Requirements. **UCAR may disclose information in response to legal process, such as a court order or subpoena.
+**8.   Legal Requirements. **UCAR may access and disclose any and all available user information to the extent necessary to meet national security, public interest, or legal process requirements, such as a court order or subpoena.
 
 **9.   Children’s Guidelines.**  Students are advised to consult with their parents before giving any personal information online.
 
@@ -35,7 +35,8 @@ If you have any questions about this privacy statement or the practices of UCAR,
 _Please include your name, address, and e-mail address when you contact us._
 
 Privacy Preferences  
-c/o UCAR Office of General Counsel  
+University Corporation for Atmospheric Research  
+c/o Office of General Counsel  
 3090 Center Green Drive  
 Boulder, CO 80301
 
