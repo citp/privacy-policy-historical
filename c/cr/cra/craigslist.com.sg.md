@@ -1,61 +1,58 @@
-> *The following text is extracted and transformed from the craigslist.com.sg privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625194324id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.com.sg privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101120350id_/https%3A//www.craigslist.org/about/privacy.policy) for the most accurate reproduction.*
 
-# privacy policy - craigslist
+# craigslist | privacy policy
 
->  
-> 
-> craigslist has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by craigslist from time to time. craigslist will provide notice of materially significant changes to this privacy policy by posting notice on the craigslist site. 
-> 
-> #### 1\. Protecting your privacy
-> 
->   * We don't run banner ads, pop ups, pop unders, or any other kind of commercial ads. 
->   * We don't share your information with third parties for marketing purposes. 
->   * We don't engage in cross-marketing or link-referral programs with other sites. 
->   * We don't employ tracking devices for marketing purposes ("cookies", "web beacons," single-pixel gifs). 
->   * We don't send you unsolicited communications for marketing purposes. 
->   * We offer [ email anonymization & relay](https://web.archive.org/about/anonymize), to reduce 3rd party harvesting & spam. 
->   * Account information is password-protected. Keep your password safe. 
->   * Forums use basic webserver authentication. Close your browser to log out. 
->   * craigslist does not knowingly collect any information from persons under the age of 13. If craigslist learns that a posting is by a person under the age of 13, craigslist will remove that post. 
->   * craigslist, or people who post on craigslist, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 
-> 
+[craigslist](https://web.archive.org/) > [about](https://web.archive.org/about/) > privacy policy 
 
-> 
-> #### 2\. Data we collect
-> 
->   * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc. 
->   * For paid job postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes. 
->   * We sometimes collect your phone number for account authentication purposes, and may transmit it to a third party service for tele-robotic verification. 
->   * craigslist does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology. 
->   * We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on craigslist's forums or classifieds that you expect to keep private. 
->   * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the craigslist site, and to otherwise provide our service to you. 
-> 
+## craigslist Privacy Policy (updated December 5, 2013)
 
-> 
-> #### 3\. Data we store
-> 
->   * All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere. 
->   * Our web logs and other records are stored indefinitely. 
->   * Registered job posters can access and update their account information through the account homepage. 
->   * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security. 
-> 
+[terms of use](https://web.archive.org/web/20141101120350id_/https%3A//www.craigslist.org/about/terms.of.use)  |   [feedback](http://forums.craigslist.org/?forumID=8)
 
-> 
-> #### 4\. Archiving and display of craigslist postings by search engines and other sites
-> 
-> Search engines and other sites not affiliated with craigslist - including [archive.org](http://archive.org/), [google.com](http://www.google.com/), and [groups.yahoo.com](http://groups.yahoo.com/) \- archive or otherwise make available craigslist postings, including resumes 
-> 
-> #### 5\. Circumstances in which craigslist may release information
-> 
->   * Craigslist may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
->   * Craigslist may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/about/terms.of.use); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of craigslist, its users or the general public. 
-> 
+This policy details how data about you is collected/used/disclosed when you visit our websites and services (together, "CL") or otherwise interact with us. If we update it, we will revise the date, place notices on CL if a change is material, and/or obtain your consent as required by law.
 
-> 
-> #### 6\. International Users
-> 
-> By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of craigslist we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data. 
-> 
-> #### 7\. Feedback
-> 
-> We welcome your feedback on this document in our [feedback forum](http://forums.craigslist.org/?forumID=8). 
+### 1\. Protecting your privacy
+
+  * We take precautions to prevent unauthorized access to or misuse of data about you.
+  * We do not run ads, other than classified ads posted by our users.
+  * We do not share your data with third parties for marketing purposes.
+  * We do not engage in cross-marketing or link-referral programs with other sites.
+  * We do not employ tracking devices for marketing purposes. 
+  * We do not send you unsolicited communications for marketing purposes.
+  * We do not engage in affiliate marketing (and prohibit it on CL).
+  * We do provide email proxy & relay to reduce unwanted mail.
+  * CL links to third party sites - please review their privacy policies.
+
+
+
+### 2\. Data we use to provide/improve our services and/or combat fraud/abuse:
+
+  * data you post on CL, or send us directly or via other sites. Please do not post private data. 
+  * credit card data, which is transmitted to payment processors via a security protocol (e.g. SSL).
+  * data you provide (e.g. email address, name, address, phone, fax, photos, tax ID).
+  * web log data (e.g. pages viewed, access times, IP address, HTTP headers).
+  * data collected via cookies (e.g. keyword searches and "favorites" lists). 
+  * data about your devices (e.g. screen size, DOM local storage, plugins).
+  * data from 3rd parties (e.g. phone type, general location derived from IP address).
+
+
+
+### 3\. Data we store
+
+  * We retain data as long as needed for our business purposes and/or as required by law.
+  * We make good faith efforts to store data securely, but make no guarantees.
+  * You may access and update certain data about you by logging into your account.
+
+
+
+### 4\. Circumstances in which we may disclose user data:
+
+  * to vendors and service providers (e.g. payment processors) working on our behalf.
+  * to respond to subpoenas, court orders, or other legal process. 
+  * to protect our rights, property, or safety, or that of our users or the general public.
+  * with your consent (e.g. if you authorize us to share data with other users).
+  * in connection with a merger, bankruptcy, or sale/transfer of assets to another company.
+  * in aggregate or summary form, as long as it cannot reasonably be used to identify you.
+
+
+
+**International Users** \- By visiting CL or providing us data, you agree we may use and disclose data we collect for purposes listed here or as communicated to you, transmit it outside your resident jurisdiction, and store it on servers in the United States. For more information please contact our privacy officer at privacy@craigslist.org. 
