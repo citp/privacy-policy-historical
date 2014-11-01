@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the judicialwatch.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325224945id_/https%3A//www.judicialwatch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judicialwatch.org privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101122537id_/http%3A//www.judicialwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Judicial Watch
+# Privacy Policy - Judicial Watch
+
+## [Privacy Policy](http://www.judicialwatch.org/about/privacy-policy/ "Privacy Policy - Judicial Watch")
 
 JUDICIAL WATCH PRIVACY POLICY
 
@@ -152,3 +154,6 @@ country. Visitors who use the Site and reside outside the United States do so on
 initiative and are responsible for compliance with local laws, if and to the extent local laws are  
 applicable. If you reside outside of the United States, by using the Site, you consent to the  
 transfer and use of your information outside your country.
+
+  
+
