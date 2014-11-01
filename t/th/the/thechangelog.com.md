@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechangelog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105233id_/http%3A//thechangelog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechangelog.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102004539id_/http%3A//thechangelog.com/privacy) for the most accurate reproduction.*
 
 # The Changelog Privacy Policy - The Changelog
 
