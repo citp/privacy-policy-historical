@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensetosave.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608233811id_/http%3A//sensetosave.com/pradvertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensetosave.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101201131id_/http%3A//sensetosave.com/pradvertising/privacy-policy) for the most accurate reproduction.*
 
 # Sense to Save » Privacy policy
 
