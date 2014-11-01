@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaimotion.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328224542id_/http%3A//titanime.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaimotion.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101203322id_/http%3A//titanime.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
