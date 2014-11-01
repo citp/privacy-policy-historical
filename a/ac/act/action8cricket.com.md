@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
   
-### Action 8 Cricket
+### Real Cricket Score
 
-The sport of cricket attracts plenty of eyeballs across the world and is particularly popular in the Asian sub-continent, home to more than one fifth of the world's population. Cricket's marquee tournament, the World Cup, is only next to the Football World Cup and the Summer Olympics in terms of viewers across the world. We at Action8cricket.com love the game as much as you do and we've tried our best to make this site a one stop resource for live cricket scores and cricket news.   
+The sport of cricket attracts plenty of eyeballs across the world and is particularly popular in the Asian sub-continent, home to more than one fifth of the world's population. Cricket's marquee tournament, the World Cup, is only next to the Football World Cup and the Summer Olympics in terms of viewers across the world. We at RealCricketScore.com love the game as much as you do and we've tried our best to make this site a one stop resource for live cricket scores and cricket news.   
 ---  
   
 Get all the updates with latest fixtures and cricket scores online..  
@@ -41,14 +41,14 @@ If anybody feels that Watch Live Cricket is not adhering to its privacy policy i
 ---  
 | Recent Cricket Matches  
 ---  
-| [Tuesday, Apr 01 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-01_apr_2014.htm)  
+| [Friday, 07 Nov 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-07_Nov_2014.htm)  
 ---  
-[Monday, Mar 31 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-31_mar_2014.htm)  
-[Sunday, Mar 30 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-30_mar_2014.htm)  
-[Saturday, Mar 29 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-29_mar_2014.htm)  
-[Friday, Mar 28 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-28_mar_2014.htm)  
-[Thursday, Mar 27 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-27_mar_2014.htm)  
-[Tuesday, Mar 25 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-25_mar_2014.htm)  
-[Monday, Mar 24 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-24_mar_2014.htm)  
-[Sunday, Mar 23 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-23_mar_2014.htm)  
-[Saturday, Mar 22 2014](https://web.archive.org/web/20140329221249id_/http%3A//action8cricket.com/cricketshowdate-22_mar_2014.htm)
+[Thursday, 06 Nov 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-06_Nov_2014.htm)  
+[Wednesday, 05 Nov 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-05_Nov_2014.htm)  
+[Monday, 03 Nov 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-03_Nov_2014.htm)  
+[Sunday, 02 Nov 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-02_Nov_2014.htm)  
+[Thursday, 30 Oct 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-30_Oct_2014.htm)  
+[Monday, 27 Oct 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-27_Oct_2014.htm)  
+[Saturday, 25 Oct 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-25_Oct_2014.htm)  
+[Friday, 24 Oct 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-24_Oct_2014.htm)  
+[Wednesday, 22 Oct 2014](https://web.archive.org/web/20141101023033id_/http%3A//www.realcricketscore.com/cricketshowdate-22_Oct_2014.htm)
