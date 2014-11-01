@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426181012id_/http%3A//www.ipswitchft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101123016id_/http%3A//www.ipswitchft.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy | Ipswitch File Transfer
+# About Ipswitch File Transfer | Ipswitch File Transfer
 
 We take your privacy very seriously. We collect industry-standard information to in order to provide you with superior products and customer service. Our privacy policies are described in the following pages
 
