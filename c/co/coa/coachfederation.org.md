@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063526id_/http%3A//www.coachfederation.org/about/landing.cfm%3FItemNumber%3D2223%26navItemNumber%3D2224%26navItemNumber%3D552) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101105704id_/http%3A//www.coachfederation.org/about/landing.cfm%3FItemNumber%3D2223%26navItemNumber%3D2224%26navItemNumber%3D552) for the most accurate reproduction.*
 
 # Policies - About - ICF
 
-## ICF Translation Policy
-
-The International Coach Federation currently translates limited communications into English, French, German, Portuguese, and Spanish. Microsites of Coachfederation.org, containing a limited version of Coachfederation.org, are also available.
-
-ICF members may select a language in their member profile that they prefer to receive communications in from ICF Headquarters. Although all language options in the member profile menu are not currently supported, selecting a preferred language will assist ICF leaders and staff in regularly reviewing the language preferences of ICF's global membership.
-
-Starting in April 2011, the number of items being translated into English, French, German, Portuguese, and Spanish will increase to include: select membership surveys and press releases and monthly member updates. Members must select a "primary language" in their ICF member profile in order to receive communications that are translated in a language other than English.
-
-## Marketing Collateral Policy
-
-The International Coach Federation marketing collateral policy is meant to assure sustainability, consistency, and to expand offerings, particularly translated items. The ICF provides digital files for marketing materials for ICF Chapter Leaders to use and print at their own leisure with local vendors. Only hosts of an official ICF Global Conference will be provided with printed collateral items (see marketing manual for ICF Global Conferences for details). This allows ICF staff to create additional excellent pieces that advocate for coaches. Items may not be changed or altered in any way.
-
-*Small Chapters in need of resources are advised to contact ICF Headquarters at icfheadquarters@coachfederation.org. 
-
 ## Spam & Privacy Policy
 
-The International Coach Federation recognizes the importance of protecting our users' privacy. To that end we have created the privacy statement and spam policy in order to demonstrate our commitment to privacy. Information on how site content can and cannot be used is also listed below.
+The International Coach Federation recognizes the importance of protecting our users' privacy. To that end we have created the privacy statement and spam policy in order to demonstrate our commitment to privacy. Information on how site content can and cannot be used is also listed below. Please note that spam laws and regulations above and beyond ICF's policies may apply to commercial electronic messages sent to individuals who have elected to list their contact information on the ICF website. 
 
 #### What Information is Collected
 
@@ -62,7 +48,7 @@ Users of our website have the opportunity to opt-out of receiving communications
 
 
 
-### Change in Terms of Privacy
+## Change in Terms of Privacy
 
 ICF reserves the right to alter its privacy policies. Any changes to the policy will be posted on this page.
 
@@ -76,7 +62,7 @@ All materials on this site (as well as the organization and layout of the site) 
 
 ## Spam Policy
 
-All email and electronic communications with members should adhere to the following principles.
+Member/coach contact information included on ICF's website is **not** posted for the purpose of promoting/marketing products/services to coaches, but is primarily posted for the purpose of allowing potential clients of a coach to connect with a coach. All other email and electronic communications with members should adhere to the following principles:
 
   1. You should have a prior relationship with the person receiving your email. (Someone giving you their business card is acceptable in this regard–it implies permission to get in contact. Similarly if someone has sent you an email.)
   2. A valid "from" and "reply to" address must be included with each message.
@@ -86,6 +72,16 @@ All email and electronic communications with members should adhere to the follow
   6. A complaint involving a breach of this policy may be considered a violation of the ICF Code of Ethics, and therefore referred to the Independent Review Board for their consideration. Should they find a breach occurred, remedies may be required. Sanctions may also be imposed such as suspending or terminating the coach's membership and/or credential with the ICF.
 
 
+
+Please note that spam laws and regulations above and beyond ICF's policies may apply to commercial electronic messages sent to individuals who have elected to list their contact information on the ICF website. 
+
+## ICF Translation Policy
+
+The International Coach Federation currently translates limited communications into English, French, German, Portuguese, and Spanish. Microsites of Coachfederation.org, containing a limited version of Coachfederation.org, are also available.
+
+ICF members may select a language in their member profile that they prefer to receive communications in from ICF Headquarters. Although all language options in the member profile menu are not currently supported, selecting a preferred language will assist ICF leaders and staff in regularly reviewing the language preferences of ICF's global membership.
+
+Starting in April 2011, the number of items being translated into English, French, German, Portuguese, and Spanish will increase to include: select membership surveys and press releases and monthly member updates. Members must select a "primary language" in their ICF member profile in order to receive communications that are translated in a language other than English.
 
 ## Contacting the Website
 
