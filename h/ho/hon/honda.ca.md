@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050751id_/http%3A//www.honda.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102001634id_/http%3A//www.honda.ca/privacy) for the most accurate reproduction.*
 
 # Honda.ca Privacy Policy
 
