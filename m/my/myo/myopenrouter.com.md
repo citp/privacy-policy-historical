@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175617id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101112420id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: MyOpenRouter
 
@@ -63,4 +63,4 @@ We reserve the right to change this Privacy Policy at any time by notifying site
 
 ### **Contact Information**
 
-We welcome your comments regarding this Privacy Policy. If you believe that we have not adhered to this Statement of Privacy, please contact us via e-mail at [info@myopenrouter.com](mailto:info@myopenrouter.com). 
+We welcome your comments regarding this Privacy Policy. If you believe that we have not adhered to this Statement of Privacy, please contact us via e-mail at [info@capablenet.com](mailto:info@capablenet.com). 
