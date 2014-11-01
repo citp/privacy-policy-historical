@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragoncityguide.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063712id_/http%3A//dragoncityguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragoncityguide.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101111026id_/http%3A//dragoncityguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dragon City Guide
 
