@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fulltiltpokerclaims.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208104801id_/http%3A//fulltiltpokerclaims.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpokerclaims.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101160924id_/http%3A//fulltiltpokerclaims.com/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
     PRIVACY NOTICE
     GCG PRIVACY NOTICE
  I. PROTECTION OF PERSONAL INFORMATION
-    The Garden City Group, Inc. (“GCG “) Policy Concerning Confidential Information
+    The Garden City Group, Inc. (“GCG”) Policy Concerning Confidential Information
     and Comprehensive Written Information Security Policy is designed to prevent
     the unauthorized disclosure of non-public personally-identifiable information,
     including social security numbers and other non-public information that either
