@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yashry.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044906id_/http%3A//www.yashry.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashry.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102020331id_/http%3A//www.yashry.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Yashry
 
