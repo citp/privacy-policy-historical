@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addisonlee.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607202204id_/http%3A//www.addisonlee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addisonlee.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102060918id_/http%3A//www.addisonlee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Addison Lee
+# Privacy Policy | Addison Lee
 
 Addison Lee Limited (“We”) are committed to protecting and respecting your privacy.
 
