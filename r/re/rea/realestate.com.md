@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041720id_/http%3A//www.realestate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102210414id_/http%3A//www.realestate.com/privacy) for the most accurate reproduction.*
 
 # RealEstate.com - Privacy
 
