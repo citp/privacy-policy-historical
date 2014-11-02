@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072824id_/http%3A//sxsw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102081340id_/http%3A//sxsw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SXSW 2014
+# Privacy Policy | SXSW 2015
 
 This privacy policy ("Privacy Policy") will tell you what information we collect about you and about your use of our Web site (“Site”). It will explain how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly how SXSW, LLC ("SXSW") may collect and use information provided by you.
 
@@ -29,19 +29,23 @@ You may view or use our Site without registering or submitting any Personal Info
 **C. Cookies**  
 We collect anonymous, non-confidential, and non-personal information when you use our site, send us e-mails, or respond to special promotions or newsletters that we may send to you from time to time. For example, cookies are small computer files that we transfer to your computer's hard drive that allow us to know how often someone visits a site and the activities they conduct while on that site (such as the chat rooms you visited, whether you submitted orders for services or products, etc.). Every computer is assigned a different cookie by SXSW. The information collected by cookies helps us dynamically generate advertising and content on web pages or in e-mails specifically designed for you and also allows us to statistically monitor how many people are using our site and selected affiliated business partners sites, or are opening our e-mails. We may use cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. It may be possible to link non-personal cookie information to Personal Information collected. You may be able to turn off cookies in your browser, but this may hinder our ability to provide you with certain services or your ability to enjoy certain features of the Site.
 
-**D. Web Beacons**  
+**D. Google Analytics**  
+We also collect demographic information using Google Analytics Demographics & Interests reports to improve our Site. This information allows us to better understand Site users and customize our Site while also tracking our success at reaching new audiences. We will not combine non-personally identifiable information collected through Google Analytics with personally identifiable information. The [Google Analytics Terms of Service](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/) governs Google's ability to use and share information collected through Google Analytics.  
+You can prevent your data from being used by Google Analytics by using the [Google Analytics Opt-Out tool](https://tools.google.com/dlpage/gaoptout/).
+
+**E. Web Beacons**  
 In limited circumstances we also may use "web beacons" to collect anonymous, non-personal information about your use of our Web site and the sites of selected affiliated partners, and your use of e-mails, special promotions or newsletters we may send to you from time to time. Web beacons are tiny graphic image files imbedded in a web page or e-mail that provide a presence on the web page or e-mail and send back to its home server information from the Users' browser. The information collected by web beacons allows us to statistically monitor how many people are using our site and selected affiliated business partners sites, or are opening our e-mails, and for what purposes. It may be possible to link non-personal web beacon information to Personal Information collected.
 
-**E. E-mails and Newsletters**  
+**F. E-mails and Newsletters**  
 As noted in the discussions of cookies and web beacons (see above), we collect anonymous, non-personal information about your use of e-mails and newsletters that we may send to you from time to time. In some cases, when you click on a link or an advertisement in an e-mail or newsletter, your browser may be momentarily directed to the site of a third party which, acting on SXSW's behalf (see Disclosure to Web site Service and Content Contractors, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to its proper destination. This re-direction process will not be apparent to you.
 
-**F. Information Collected by Third Parties Not Acting on SXSW's Behalf**  
+**G. Information Collected by Third Parties Not Acting on SXSW's Behalf**  
 Sponsors, business partners or advertisers on the Site or in e-mails, special promotions or newsletters we may send to you from time to time may also use their own cookies or web beacons when you click on their advertisement or link to their site or service, or even if the advertisement simply appears on a page or in an e-mail that you are viewing. Some advertisers use companies other than SXSW to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect non-personal information through the use of cookies or web beacons on our Web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the site of an Ad Server or other third party acting on behalf of the sponsor, business partner, or advertiser before re-directing your browser to its proper destination (e.g., back to SXSW to show the ad, or to the advertiser's Web site); this re-direction process will not be apparent to you. We do not control these third parties' use of cookies or web beacons, or how they manage the non-personal information they gather through them. However, you should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites.
 
-**G. Public Forums**  
+**H. Public Forums**  
 This Privacy Policy does not apply when you use SXSW's public forums if and when they become available. As a service to our users, SXSW may feature chat rooms and bulletin boards where users can share information and support one another or where users can post questions for other users to answer. You should be aware that any information shared in a chat room, bulletin board, or other type of posting is public information and may be seen, disclosed to or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any personal information in any public forum.
 
-**H. E-mails to SXSW**  
+**I. E-mails to SXSW**  
 This Privacy Policy does not apply to any information, such as business information, resumes, ideas, concepts or inventions sent to SXSW by e-mail to the various SXSW's departments listed on the SXSW's Web site. If you want to keep business information, resumes, ideas, concepts or inventions private or proprietary, do not send them in an e-mail to SXSW. We try to answer every e-mail in a timely manner, but are not always able to do so.
 
 ## II. DISCLOSURE OF YOUR INFORMATION
@@ -73,7 +77,7 @@ We may offer you the chance to participate in drawings, contests, giveaways, and
 **I. Other Disclosures**  
 While on our Web site, you may have the opportunity to sign up or opt in to receive information and/or marketing offers from SXSW’s sponsors or partners or to otherwise consent to the sharing of your Personal Information with a third party. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
-**K. E-mails to SXSW**  
+**J. E-mails to SXSW**  
 This Privacy Policy does not apply to any information, such as business information, resumes, ideas, concepts or inventions sent to SXSW by e-mail to the various SXSW's departments listed on the SXSW's Web site. If you want to keep business information, resumes, ideas, concepts or inventions private or proprietary, do not send them in an e-mail to SXSW. We try to answer every e-mail in a timely manner, but are not always able to do so.
 
 ## III. HOW SXSW HANDLES PRIVACY AND SECURITY INTERNALLY
