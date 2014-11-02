@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011912id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102144736id_/http%3A//www.humpchies.com/privacy-policy) for the most accurate reproduction.*
 
-# Escorts & Erotic Massages in & Near Montreal
+# [PRIVACY-POLICY-TITLE]
 
-This document details important information regarding the use and disclosure of User Data collected at humpchies.com (Humpchies).
+This document details important information regarding the use and disclosure of User Data collected at www.humpchies.com (Humpchies).
 
 The security of your Data is very important to Humpchies and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
@@ -13,7 +13,7 @@ DATA COLLECTED
   * Personal Information:   
 
     * Non-Registered users can browse ads and profiles without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-    * Registered Members: Registration is required for porsting ads, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of telephone number, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+    * Registered Members: Registration is required for porsting ads, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as telephone number, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
   * Content Uploaded to the site: Any personal information, ad or profile content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
   * Cookies: When you visit Humpchies, we may send one or more cookies to your computer that uniquely identifies your browser session. Humpchies uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
   * Log File Information: When you visit Humpchies, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
@@ -24,7 +24,7 @@ DATA COLLECTED
 USES
 
   * Your Personally identifiable information submitted to Humpchies is used to provide to the user the website's features and special personalized features. 
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including ads, profiles, comments, at, the messages you send through the Humpchies private mail, etc. Other Users can contact you through, private messages. 
+  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including ads, profiles, comments, the messages you send through the Humpchies private mail, etc. Other Users can contact you through, private messages. 
   * Any ads or profiles that you submit to Humpchies may be redistributed through the internet and other media channels, and may be viewed by the general public. 
   * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
   * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
@@ -36,9 +36,8 @@ USES
 
 DISCLOSURE OF INFORMATION
 
-  * if under duty to do so PoHumpchies may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Humpchies or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Humpchies' policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
-  * Should you deliberately upload any illegal material Humpchies shall forward all available information to all relevant authorities and this without notice.   
-\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+  * if under duty to do so Humpchies may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Humpchies or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Humpchies' policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
+  * Should you deliberately upload any illegal material Humpchies shall forward all available information to all relevant authorities and this without notice. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
 
 
@@ -50,4 +49,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@humpchies.com.
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at webmaster@www.humpchies.com.
