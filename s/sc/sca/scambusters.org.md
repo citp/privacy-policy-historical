@@ -1,146 +1,67 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113409id_/http%3A//www.scambusters.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102220143id_/http%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy.html
 
-  
-Here's a quick summary of our privacy policy: we don't Share and we don't SPAM. 
+## 1\. HOW WE PROTECT YOUR PRIVACY.
 
-At Lanford Inc., we are as committed to your privacy as you are. At least. 
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-After all, it's okay for you to tell people stuff about yourself. It's not at all okay for us to do it without your consent. So, here's how we handle that. 
+## 2\. MINORS.
 
-In order to provide the services you want, we need varying levels of information. 
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-If you're just browsing the site, all we need to know is what page you want to see. If you want to subscribe to one or more of our newsletters or mini-courses, we'll need an email address to send it to. 
+## 3\. PRIVACY POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE.
 
-If you want to order stuff from us, we'll need a little more. It can be as much as your name, address, personal interests, and credit card number and expiration date. 
+Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these [terms and conditions](https://web.archive.org/terms "Terms of Service") on our website.
 
-In short, we'll ask for only what we need to give you what you want. 
+## 4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU.
 
-We will use the information we collect about you only to help us improve services to you, to provide you with the products you have requested, and/or to let you know about additional products or services that may be of interest to you. 
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you. We may also collect any data that you provide us by posting it at our website or by email. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features. Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-We don't sell, trade, rent, share, or otherwise divulge any information you give us to anyone else, at any time, for any reason without your prior consent. (Unless the law says we gotta... Then we gotta.) 
+## 5\. POLICY REGARDING ADVERTISING COOKIES
 
-We will occasionally share information with business partners when it is necessary to deliver the products and services we provide. 
+You’re able to access all of the pages at our website for free because this website is supported by advertising revenue. Data that we’ve collected over the years via emails we get from site visitors have clearly demonstrated to us that ads on our site actually help visitors solve their problems and gain the benefits they are looking for. Ads, in general, are problem solvers. Like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services to you. Google is one of these third-party vendors, and uses cookies to serve ads on our website. Google uses a special DART cookie that enables it to serve ads to you based upon your visit to this site and others that you visit. If you don’t want to have this DART cookie on your computer, [you can opt out](http://www.google.com/privacy_ads.html). We feel you’ll be making a mistake doing that, since you’ll then see random ads that won’t be of much use to you. But life is full of decisions and it’s your choice — we want to make it easy for you either way.
 
-We also invite selected third parties to participate in offers we feel would be attractive to you. We don't give any of your personal information to these parties. We negotiate the offer and contact you ourselves with the details. 
+## 6\. WHAT WE DO WITH YOUR INFORMATION.
 
-You may permanently refuse these promotional offers by sending any email to stop@svr.com. 
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions. As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs. We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability. Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes. From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-BY USING THIS WEB SITE YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION BY LANFORD INC. IN THESE WAYS. 
+## 7\. USER NAMES AND PASSWORDS.
 
-If you want to know more, keep reading.
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-**What Information Do We Gather?**
+## 8\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK EMAIL.
 
-**What Do We Do With the Information We Collect?**
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too. We hate junk email (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial email or to send unsolicited commercial communications via our website’s posting or other communication systems.
 
-**Who Can Use the Information We Collect and How?**
+## 9\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS.
 
-**How Do We Protect the Personal Information We Collect?**
+If you click on a link and go to another site, you will be subject to the third parties’ privacy policies. While we support the protection of privacy on the Internet, Simply Smarter Inc. can’t control how other people behave. We encourage you to read the posted privacy policy statement at any Web site where you are thinking of giving any personal info at all. If you choose to provide personal information to website visitors or other third parties who are not our suppliers, we recommend you please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-**How Do You Opt-out of Personal Information Sharing with Our Business Partners?**
+## 10\. YOUR PERSONAL INFORMATION IN A BUSINESS TRANSFER.
 
-**How Do You Correct and Update Your Personal Information?**
+Every business nowadays should plan for the possibility that it might sell certain or all of its assets to another company or individual, or that it might buy certain assets of another company or individual. In such transactions, customer and subscriber information generally is one of the business assets that is transferred or sold. Please review this Privacy Policy and our [Terms of Service](https://web.archive.org/terms "Terms of Service") to understand what options you have under these circumstances.
 
-**What Is Your Policy Regarding Advertising Cookies?**
+## 11\. AUTORESPONDERS.
 
-**What is Our Privacy Policy If You Are Under 13 Years of Age?**
+We may use autoresponders to communicate with you by email. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by email, or sending us mail to the address listed below.
 
-**What Is Your Privacy Policy If I Link to a Third-Party Web Site?**
+## 12\. POLICY CHANGES.
 
-**What Happens to Your Personal Information In a Business Transfer?**
+The terms of this policy may change from time to time, and we will post these changes on this page. If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by email and providing us with information relating to your concern. You may also mail your concerns to us at the following address:
 
-**Tell Us What You Think!**
+_Simply Smarter, Inc. * 207 New Market Center #115 * Boone NC 28607 USA_
 
-**Your Consent**
+Our goal is that you always should be aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-## What Information Do We Gather? 
+## 13\. CALIFORNIA PRIVACY RIGHTS.
 
-  * If you subscribe to one of our newsletters or mini-courses, we'll need your name and an email address to send it to. (But you knew that.) 
-  * We'll track IP addresses, which is just computer talk for "What part of the Net is this person from?" This is useful for knowing general things about our visitors, but it tells us nothing at all about you personally. 
-  * If you let it, your browser may store "cookies" on your system. We use these to help you to personalize the site based on your preferences. They tell the system what to show you, but they don't tell us anything at all about you personally. 
-  * The only way we know anything about you personally is if you decide to tell us. In which case, we figure it's okay for us to know. ;)  [Back to Top]
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email or write us at the following address:
 
+_Simply Smarter, Inc. * 207 New Market Center #115 * Boone NC 28607 USA_
 
+## 14\. TELL US WHAT YOU THINK.
 
-## What Do We Do With the Information We Collect?
+We want to know what you think. Simply Smarter Inc. welcomes any questions or comments you may have about privacy. Please send us an email at privacy at svr.com.
 
-  * We use the personal information you provide to fill your order and let you know what's going on with it. 
-  * We also keep track of what people in general do on the site, so we can improve the design and layout to make it easier for you to use. 
-  * We may occasionally use the information to notify you about important changes to the Web site, new services, and special offers we think you'll find interesting. 
-  * We produce reports for our affiliates, and reputable third party vendors. For example, we tell affiliates how many people clicked on an ad. They're based on overall numbers and averages, not individual usage. (In tech-speak this is called "aggregate data." Don't you love those fancy terms?) 
-  * In short, they don't say anything at all about you personally.  [Back to Top]
-
-
-
-## Who Can Use the Information We Collect and How?
-
-  * We provide our advertisers and reputable third party venders with reports on advertising and site activity. Again, these reports do not contain any personally identifying information. 
-  * Lanford Inc. does not sell, trade or rent your personal information to anyone anyone without your consent.  [Back to Top]
-
-
-
-## How Do We Protect the Personal Information We Collect?
-
-  * Lanford Inc. uses encryption technology to keep billing information safe. All your ordering information -- including your name, address and credit card number -- is encoded using a secure server so that the information cannot be read as it travels to our ordering system. 
-  * Once we receive your credit card information we store it on a server that isn't accessible from the Internet. If you feel more comfortable doing so, you are welcome to fax us your credit card information and complete your purchase by fax (which is always an option when you place an order).  [Back to Top]
-
-
-
-## How Do You Opt-out of Personal Information Sharing with Our Business Partners?
-
-  * From time to time, we may disclose your information to our "business partners" - companies we know and trust and with which we have joint arrangements to offer products or services, or with whom we have agreements to provide certain services on our behalf (like processing your credit card). We only do this for products and services you know about and want to receive. AND we require that they have privacy policies just as protective as ours. 
-  * We provide you the opportunity to decline to receive promotions when you register as a customer, or whenever you buy stuff from us. We only want to send you what you tell us you want to get. If you have "opted-in" and then change your mind and want to opt-out, just send an email to opt-out]@svr.com 
-  * If you tell us you want promotional offers and then change your mind, you can unsubscribe by sending a blank email to stop@svr.com. 
-  * If you want us to remove your personal information from our records, just send a blank email to nonumber@svr.com. However, we may not be able to remove all your information from our databases immediately upon your request due to technical constraints and the fact that we back up our systems.  [Back to Top]
-
-
-
-## How Do You Correct and Update Your Personal Information?
-
-  * You can change or correct your account information at any time. Just send an email with the old info and your corrections to privacy@svr.com with "Correction" in the Subject line.  [Back to Top]
-
-
-
-## What Is Your Policy Regarding Advertising Cookies?
-
-  * You're able to access all of the pages at our website for free because this website is supported by advertising revenue. Data that we've collected over the years via emails we get from site visitors have clearly demonstrated to us that ads on our site actually help visitors solve their problems and gain the benefits they are looking for. Ads, in general, are problem solvers. 
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you - **goods and services that can solve your problems and provide benefits**. 
-  * Google is one of these third-party vendors, and uses cookies to serve ads on our website. Google uses a special DART cookie that enables it to serve ads to you based upon your visit to this site and others that you visit. Since you're on the Internet to solve problems in your everyday life, this cookie helps by showing you things that are of interest to you. 
-  * If you don't want to have this DART cookie on your computer, [you can opt out](http://www.google.com/privacy_ads.html). We feel you'll be making a mistake doing that, since you'll then see random ads that won't be of much use to you. But life is full of decisions and it's your choice -- we want to make it easy for you either way.   [Back to Top]
-
-
-
-## What is Our Privacy Policy If You Are Under 13 Years of Age?
-
-  * If you are under the age of 13 and wish to use this site in a manner that requires telling us personal information, one of your parents or a legal guardian must say that it's okay by giving us their consent. We will accept parental consent by an email sent to iconsent@svr.com. When we receive this email consent, we will follow up with a letter to your parents confirming their consent. 
-  * After obtaining consent, we collect, store and protect information from children the same way we collect, store and protect information from adults. We also use the information from children in the same way we use the information of an adult. This means that we will not disclose any personal information collected from children under 13. 
-  * Heck, we don't do it for adults, why would we even think about doing it for kids?  [Back to Top]
-
-
-
-## What Is Your Privacy Policy If I Link to a Third-Party Web Site?
-
-  * If you click on a link and go to another site, you will be subject to the third parties' privacy policies. 
-  * While we support the protection of privacy on the Internet, Lanford Inc. can't control how other people behave. We encourage you to read the posted privacy policy statement at any Web site where you are thinking of giving any personal info at all.  [Back to Top]
-
-
-
-## What Happens to Your Personal Information In a Business Transfer?
-
-  * While we do not anticipate it, every business nowadays should plan for the possibility that it might sell certain or all of its assets to another company or individual, or that it might buy certain assets of another company or individual. In such transactions, customer and subscriber information generally is one of the business assets that is transferred or sold. Please view "Your Consent" to understand what options you have under these circumstances.   [Back to Top]
-
-
-
-## Tell Us What You Think!
-
-  * We want to know what you think. Lanford Inc. welcomes any questions or comments you may have about privacy. Please send us an email at privacy@svr.com   [Back to Top]
-
-
-
-## Your Consent
-
-  * By using our Web site, you consent to the collection and use of this information by Lanford Inc. We reserve the right to change our privacy policy at any time. If we make changes that need your consent, we will ask for your consent. If we make changes that don't need your consent (like a change in how to contact us), then we will post these changes on this page. Our goal is that you always should be aware of what information we collect, how we use it, and under what circumstances we disclose it.   [Back to Top]
-
-
+This policy was last updated on 9-15-2014.
