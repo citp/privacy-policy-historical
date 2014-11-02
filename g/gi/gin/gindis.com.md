@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gindis.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208025336id_/http%3A//www.gindis.com/About/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gindis.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102031947id_/http%3A//www.gindis.com/About/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Online Games - Play Free Game Online, Free Online Multiplayer games, Online Browser Games
 
