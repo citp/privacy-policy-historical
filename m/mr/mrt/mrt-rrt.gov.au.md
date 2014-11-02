@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120818id_/http%3A//www.mrt-rrt.gov.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102140629id_/http%3A//www.mrt-rrt.gov.au/Privacy.aspx) for the most accurate reproduction.*
 
 # MRT-RRT - Privacy
 
@@ -158,7 +158,7 @@ The tribunals do not collect personal information about you when you visit the t
 
 ###  Email addresses
 
-The tribunals will only record your email address if you send us an email message or otherwise provide us with your email address. It will not be added to a mailing list. If you are listed on one or more of our [media](http://www.oaic.gov.au/news-and-events/subscribe) or [network](http://www.oaic.gov.au/about-us/working-with-others) email lists you can opt out at any time. You can unsubscribe by using the ‘unsubscribe’ options noted in our emails.  
+The tribunals will only record your email address if you send us an email message or otherwise provide us with your email address. It will not be added to a mailing list. If you are listed on one or more of our email subscriber lists you can opt out at any time. You can unsubscribe by using the ‘unsubscribe’ options noted in our emails.  
 
 ###  Online applications
 
