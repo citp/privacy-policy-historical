@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326051133id_/https%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.au privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102162206id_/https%3A//mcdonalds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | McDonald's Australia
+
+## Privacy Policy
 
 McDonald's Australia Limited and its Australian franchisees, subsidiaries and other related bodies corporate (" **McDonald's** ") understands that privacy is important and is pleased to provide information about its privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to [www.mcdonalds.com.au](https://web.archive.org/promo/home), any related McDonald’s website, social media page and any internal McDonald’s website or intranet (each a “ **Website** ”) and any McDonald’s mobile applications (“ **Mobile Applications** ”) and the privacy of individuals who provide personal information by any other means to McDonald's, including either physically or electronically (together, the “ **Collection Channels** ”).
 
@@ -141,6 +143,8 @@ From time to time, it may be necessary for McDonald's to change this privacy pol
 If McDonald’s merges with, or is acquired by, another company, or sells all or a portion of its assets, your personal information may be disclosed to our advisers and any prospective purchaser’s adviser, and may be among the assets transferred. However, personal information will always remain subject to this privacy policy.
 
 ### Contact Us
+
+If you have any questions or feedback that are not related to privacy, please use the form found [here](https://web.archive.org/contact-us) to contact us.
 
 If you have any questions about our privacy policy, or any problems or complaints about how we have collected, used, stored, handled and/or disclosed your personal information, please contact us at:
 
