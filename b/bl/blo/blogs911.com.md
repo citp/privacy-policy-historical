@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogs911.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209203438id_/http%3A//www.blogs911.com/p/privacy-policy-what-do-we-use-your.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogs911.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102131710id_/http%3A//www.blogs911.com/p/privacy-policy-what-do-we-use-your.html) for the most accurate reproduction.*
 
-# BloGs911: Privacy Policy
+# Privacy Policy | BloGs911
 
   
 
