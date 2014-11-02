@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freebieslove.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181942id_/http%3A//www.freebieslove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebieslove.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102225158id_/http%3A//www.freebieslove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
 
 At **[www.freebieslove.com/](http://www.freebieslove.com/ "Freebies Love")** , we are dedicated to protecting the privacy of our customers. As testimony to our commitment in this regard, we use an extensive privacy policy, detailed as under.
 
