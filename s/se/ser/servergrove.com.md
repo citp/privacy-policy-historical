@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070657id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102124914id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.*
 
 # ServerGrove Privacy
 
@@ -129,4 +129,4 @@ Coral Gables, FL 33146
 
 Email: privacy@ServerGrove.com
 
-Phone: 800 511 1855
+Phone: 786-999-6585
