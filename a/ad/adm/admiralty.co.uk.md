@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531063229id_/http%3A//www.admiralty.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102082248id_/http%3A//www.admiralty.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,39 +8,39 @@ Forms on the site may require users to give some personal information, such as c
 
 ### The UKHO Information Charter
 
-We UKHO need to handle personal information about you so that we can provide services for you. This is how we look after that information. 
+The Information Charter sets out the standards you can expect from the UKHO when we request or hold information, including but not limited to personal data about your enquiries
 
-#### When we ask you for personal information, we promise: 
+### When we ask you for personal information, we promise: 
 
   * To make sure you know why we need it;
   * To only ask for what we need, and not to collect too much or irrelevant information; 
   * To protect it and make sure nobody has access to it who shouldn't; 
   * To let you know if we share it with other organisations to give you better public services - and if you can say no; 
-  * To make sure we don't keep it longer than necessary; and 
+  * To make sure we don't keep it longer than necessary; 
+  * To check the information we hold is accurate and up to date; and
   * Not to make your personal information available for commercial use without your permission. 
 
 
 
-#### In return, we ask you to: 
+### In return, we ask you to: 
 
   * Give us accurate information; and 
   * Tell us as soon as possible if there are any changes, such as a new address. 
 
 
 
-This helps us to keep your information reliable and up to date.
-
 #### You can get more details on: 
 
   * How to find out what information we hold about you and how to ask us to correct any mistakes;
   * Agreements we have with other organisations for sharing information; 
-  * Circumstances where we can pass on your personal information without telling you, for example, to 
-  * Prevent and detect crime or to produce anonymised statistics; 
+  * Circumstances where we can pass on your personal information without telling you, for example, to prevent and detect crime or to produce anonymised statistics; 
   * Our instructions to staff on how to collect, use and delete your personal information; 
   * How we check the information we hold is accurate and up to date; and 
   * How to make a complaint. 
 
 
+
+Through these commitments, we will keep to the law, including the Data Protection Act 1998 and the Freedom of Information Act 2000.
 
 ### Visitors to our websites
 
