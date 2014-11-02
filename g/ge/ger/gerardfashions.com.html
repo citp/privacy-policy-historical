@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gerardfashions.com privacy policy that was archived on 2014-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140409000939id_/http%3A//www.gerardfashions.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gerardfashions.com privacy policy that was archived on 2014-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141102112731id_/http%3A//www.gerardfashions.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -59,7 +59,67 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script></head>
+        //]]></script><script type="text/javascript">
+    var dropCookie = true;
+    var cookieDuration = 999;
+    var cookieName = 'complianceCookie';
+    var cookieValue = 'on';
+    function createDiv(){
+        var bodytag = document.getElementsByTagName('body')[0];
+        var div = document.createElement('div');
+        div.setAttribute('id','cookie-law');
+        div.innerHTML = '<p style="padding:5px; background:#eee; ">Our website uses cookies. By continuing we assume your permission to deploy cookies, as detailed in our <a href="/privacy-policy/" rel="nofollow" title="Privacy &amp; Cookies Policy">privacy and cookies policy</a>. <a class="close-cookie-banner" href="javascript:void(0);" onclick="removeMe();"><strong>&times;</strong></a></p>';
+        // Be advised the Close Banner 'X' link requires jQuery
+
+        // bodytag.appendChild(div); // Adds the Cookie Law Banner just before the closing </body> tag
+        // or
+        bodytag.insertBefore(div,bodytag.firstChild); // Adds the Cookie Law Banner just after the opening <body> tag
+
+        document.getElementsByTagName('body')[0].className+=' cookiebanner'; //Adds a class tothe <body> tag when the banner is visible
+
+        createCookie(window.cookieName,window.cookieValue, window.cookieDuration); // Create the cookie
+    }
+
+
+    function createCookie(name,value,days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime()+(days*24*60*60*1000));
+            var expires = "; expires="+date.toGMTString();
+        }
+        else var expires = "";
+        if(window.dropCookie) {
+            document.cookie = name+"="+value+expires+"; path=/";
+        }
+    }
+
+    function checkCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    window.onload = function(){
+        if(checkCookie(window.cookieName) != window.cookieValue){
+            createDiv();
+        }
+    }
+
+    function removeMe(){
+        var element = document.getElementById('cookie-law');
+        element.parentNode.removeChild(element);
+    }
+</script>
+</head>
 <body class=" cms-page-view cms-privacy-policy">
 <div class="wrapper">
         <noscript>
@@ -126,7 +186,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </div>
 <div class="nav-container">
     <ul id="nav">
-        <li class="level0 nav-1 first level-top"><a href="http://www.gerardfashions.com/new-arrivals.html" class="level-top"><span>New Arrivals</span></a></li><li class="level0 nav-2 level-top parent"><a href="http://www.gerardfashions.com/clothing.html" class="level-top"><span>Clothing</span></a><ul class="level0"><li class="level1 nav-2-1 first"><a href="http://www.gerardfashions.com/clothing/tops.html"><span>Tops</span></a></li><li class="level1 nav-2-2"><a href="http://www.gerardfashions.com/clothing/knitwear.html"><span>Knitwear</span></a></li><li class="level1 nav-2-3"><a href="http://www.gerardfashions.com/clothing/shirts.html"><span>Shirts</span></a></li><li class="level1 nav-2-4"><a href="http://www.gerardfashions.com/clothing/vest-tops.html"><span>Vest Tops</span></a></li><li class="level1 nav-2-5"><a href="http://www.gerardfashions.com/clothing/trousers.html"><span>Trousers</span></a></li><li class="level1 nav-2-6"><a href="http://www.gerardfashions.com/clothing/dress.html"><span>Dress</span></a></li><li class="level1 nav-2-7"><a href="http://www.gerardfashions.com/clothing/skirts.html"><span>Skirts</span></a></li><li class="level1 nav-2-8"><a href="http://www.gerardfashions.com/clothing/jackets.html"><span>Jackets</span></a></li><li class="level1 nav-2-9 last"><a href="http://www.gerardfashions.com/clothing/coats.html"><span>Coats</span></a></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.gerardfashions.com/accessories.html" class="level-top"><span>Accessories</span></a><ul class="level0"><li class="level1 nav-3-1 first last"><a href="http://www.gerardfashions.com/accessories/handbags.html"><span>Handbags</span></a></li></ul></li><li class="level0 nav-4 level-top"><a href="http://www.gerardfashions.com/gift-cards.html" class="level-top"><span>Gift Cards</span></a></li><li class="level0 nav-5 last level-top"><a href="http://www.gerardfashions.com/sale.html" class="level-top"><span>Sale</span></a></li>    </ul>
+        <li class="level0 nav-1 first level-top"><a href="http://www.gerardfashions.com/new-arrivals.html" class="level-top"><span>New Arrivals</span></a></li><li class="level0 nav-2 level-top parent"><a href="http://www.gerardfashions.com/clothing.html" class="level-top"><span>Clothing</span></a><ul class="level0"><li class="level1 nav-2-1 first"><a href="http://www.gerardfashions.com/clothing/tops.html"><span>Tops</span></a></li><li class="level1 nav-2-2"><a href="http://www.gerardfashions.com/clothing/tunics.html"><span>Tunics</span></a></li><li class="level1 nav-2-3"><a href="http://www.gerardfashions.com/clothing/knitwear.html"><span>Knitwear</span></a></li><li class="level1 nav-2-4"><a href="http://www.gerardfashions.com/clothing/shirts.html"><span>Shirts</span></a></li><li class="level1 nav-2-5"><a href="http://www.gerardfashions.com/clothing/vest-tops.html"><span>Vest Tops</span></a></li><li class="level1 nav-2-6"><a href="http://www.gerardfashions.com/clothing/trousers.html"><span>Trousers</span></a></li><li class="level1 nav-2-7"><a href="http://www.gerardfashions.com/clothing/dress.html"><span>Dress</span></a></li><li class="level1 nav-2-8"><a href="http://www.gerardfashions.com/clothing/skirts.html"><span>Skirts</span></a></li><li class="level1 nav-2-9"><a href="http://www.gerardfashions.com/clothing/jackets.html"><span>Jackets</span></a></li><li class="level1 nav-2-10"><a href="http://www.gerardfashions.com/clothing/coats.html"><span>Coats</span></a></li><li class="level1 nav-2-11 last"><a href="http://www.gerardfashions.com/clothing/gilets.html"><span>Gilets</span></a></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.gerardfashions.com/accessories.html" class="level-top"><span>Accessories</span></a><ul class="level0"><li class="level1 nav-3-1 first"><a href="http://www.gerardfashions.com/accessories/handbags.html"><span>Handbags</span></a></li><li class="level1 nav-3-2 last"><a href="http://www.gerardfashions.com/accessories/purses.html"><span>PURSES</span></a></li></ul></li><li class="level0 nav-4 level-top parent"><a href="http://www.gerardfashions.com/collections.html" class="level-top"><span>Collections</span></a><ul class="level0"><li class="level1 nav-4-1 first"><a href="http://www.gerardfashions.com/collections/occasion-wear.html"><span>Occasion Wear</span></a></li><li class="level1 nav-4-2 last"><a href="http://www.gerardfashions.com/collections/maxi-style.html"><span>Maxi Style</span></a></li></ul></li><li class="level0 nav-5 last level-top"><a href="http://www.gerardfashions.com/sale.html" class="level-top"><span>SALE</span></a></li>    </ul>
 </div>
 
         <div class="main-container col1-layout">
@@ -315,7 +375,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <ul>
 <li><a href="/delivery/">Delivery</a></li>
 <li><a href="/returns/">Returns</a></li>
-<li><a href="/contact-us/">Contact Us</a></li>
+<li><a href="/contacts/">Contact Us</a></li>
 <li><a href="/about-us/">About Us</a></li>
 <li><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
 <li><a href="/privacy-policy/">Privacy Policy</a></li>
