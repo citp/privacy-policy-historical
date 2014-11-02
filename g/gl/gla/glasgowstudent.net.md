@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glasgowstudent.net privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428065733id_/http%3A//www.glasgowstudent.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgowstudent.net privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102024234id_/http%3A//www.glasgowstudent.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GUSRC
+# Privacy Policy - GUSRC
 
 This privacy policy is for this website, www.glasgowstudent.net and provided by Glasgow Students’ Representative Council, and governs the privacy of its users who choose to use it.
 
