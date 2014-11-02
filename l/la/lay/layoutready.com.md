@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the layoutready.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000026id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutready.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102012612id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.*
 
 # LayoutReady | Privacy Policy
 
-|  | 
+LayoutReady Privacy Policy for the Internet 
 
 LayoutReady, a division of StockLayouts LLC("LayoutReady"), respects your ability to make informed choices about the collection and uses of your personal information. This privacy policy tells you about our online collection and uses of information that identifies you personally so that you can make an informed choice about using this site. The terms of this policy apply to www.layoutready.com unless different terms are otherwise specified in a form or contract provided to you by us. 
 
@@ -27,15 +27,19 @@ When you visit layoutready.com, we may place a text file, called a cookie, in th
 
 Most browsers allow you to decline cookies, but if you elect to do so, these pages may not display properly. While cookies will be stored in your hard drive for your next visit with us, you are free to delete cookies after your session, and your browser should contain instructions on how to do this. 
 
-Links to Other Websites.  
+**Links to Other Websites.**  
 The sites to which we link, including but not limited to the sites of third party content providers, may have different privacy policies and practices from those disclosed here. These other websites may send their own cookies to visitors, collect data or solicit personal information. We assume no responsibility for the policies or practices of linked sites and encourage you to become acquainted with them. 
 
-Safeguarding Your Information. LayoutReady uses reasonable precautions to keep your personal information secure from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, we are not responsible for any breach of security or for the actions of third parties. 
+**Safeguarding Your Information.**  
+LayoutReady uses reasonable precautions to keep your personal information secure from loss, misuse and unauthorized access, disclosure, alteration and destruction. However, we are not responsible for any breach of security or for the actions of third parties. 
 
-Policy Regarding Minors. We do not intend to collect personal information from anyone under the age of 18. If you are under 18, you should not enter information on this website and should ask a parent to do so for you. 
+**Policy Regarding Minors.**  
+We do not intend to collect personal information from anyone under the age of 18. If you are under 18, you should not enter information on this website and should ask a parent to do so for you. 
 
-Notice to European Union Member Citizens and Residents: If you are located outside of the United States of America, please note that LayoutReady is not a participant of the Safe Harbor program of the U.S. Department of Commerce. Nonetheless, LayoutReady has made every effort possible to comply with the European Union Commission's guidelines and directives on privacy protection. 
+**Notice to European Union Member Citizens and Residents:**  
+If you are located outside of the United States of America, please note that LayoutReady is not a participant of the Safe Harbor program of the U.S. Department of Commerce. Nonetheless, LayoutReady has made every effort possible to comply with the European Union Commission's guidelines and directives on privacy protection. 
 
-Contacting Us. If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to [info@layoutready.com](mailto:info@layoutready.com) or by writing to us at 11075 SW Sage Terrace, Tigard, Oregon 97223, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem. 
+**Contacting Us.**  
+If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to [info@layoutready.com](mailto:info@layoutready.com) or by writing to us at 11075 SW Sage Terrace, Tigard, Oregon 97223, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem. 
 
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect. 
