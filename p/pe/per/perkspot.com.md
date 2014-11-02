@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629132650id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102034304id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « perkspot.com
+# Privacy Policy - PerkSpot
 
 **Your Privacy  
-**We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free organization specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization,  
-in ways other than disclosed in this privacy statement.
+**We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free organization specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization, in ways other than disclosed in this privacy statement.
 
 This privacy statement covers the site www.perkspot.com and private label sub-domains delivered by 12 Interactive LLC, (i.e. abc.perkspot.com, etc.). Because 12 Interactive LLC wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
 
