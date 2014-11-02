@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwza.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618131157id_/http%3A//www.mwza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwza.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102040530id_/http%3A//www.mwza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Black | Celebrity Gossip | Celebrity News | Celebrity Photo | Black Entertainment News | MWZA.com
 
