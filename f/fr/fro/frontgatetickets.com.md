@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627015612id_/http%3A//www.frontgatetickets.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102043652id_/http%3A//www.frontgatetickets.com/support/privacy) for the most accurate reproduction.*
 
 # Front Gate Tickets
 
@@ -14,7 +14,7 @@ Front Gate Ticketing Solutions, LLC, a Delaware corporation ("Front Gate Solutio
 
 
 
-If users have questions or concerns regarding this statement, they should contact Front Gate Customer Assistance by using the contact form found by clicking here, call us at 512.389.0315, or send an email to [info@frontgatetickets.com](mailto:info@frontgatetickets.com).
+If users have questions or concerns regarding this statement, they should contact Front Gate Customer Assistance by using the contact form found by clicking here, call us at 888-512-SHOW (7469), or send an email to [info@frontgatetickets.com](mailto:info@frontgatetickets.com).
 
 ## Notice of Information Collected and Disclosed
 
@@ -89,7 +89,7 @@ We may occasionally change this Privacy Policy. If we do, we will post the chang
 If you have a comment, question or request, or if you need to contact Front Gate for any other reason, there are three easy ways to do so.
 
   1. E-mail: You can e-mail at [support@fgtcustomerservice.com](mailto:support@fgtcustomerservice.com) or by completing our contact form here.
-  2. Telephone Number: You may call us at 888.512.SHOW or 512.389.0315. If you call after normal business hours, please leave a message and your telephone number. We will get back to you as quickly as possible. Normal office hours are Monday through Friday, 8:30 a.m. to 5:30 p.m. Central Time.
+  2. Telephone Number: You may call us at 888.512.SHOW or 888-512-SHOW (7469). If you call after normal business hours, please leave a message and your telephone number. We will get back to you as quickly as possible. Normal office hours are Monday through Friday, 8:30 a.m. to 5:30 p.m. Central Time.
   3. U.S. Mail: Send mail to Front Gate at:  
 Front Gate Tickets  
 PO Box 684970  
