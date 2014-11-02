@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094313id_/http%3A//education.gov.au/condensed-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102133200id_/http%3A//education.gov.au/condensed-privacy-policy) for the most accurate reproduction.*
 
 # Condensed Privacy Policy | Department of Education
 
