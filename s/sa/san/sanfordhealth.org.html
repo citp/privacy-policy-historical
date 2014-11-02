@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626100240id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2014-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141102083359id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=9;IE=8;IE=7"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="imagetoolbar" content="false"><meta name="MSSmartTagsPreventParsing" content="true"><meta name="viewport" content="initial-scale=1.0, user-scalable=no"><meta name="google-site-verification" content="bIK0JMb59Ha-wByPrqcx03gIJx10vnT2jvJ0XtQBB-4"><meta name="msvalidate.01" content="30CD41A0693271FAE50E0E20ED521F72">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=9;IE=8;IE=7"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="imagetoolbar" content="false"><meta name="MSSmartTagsPreventParsing" content="true"><meta name="viewport" content="width=device-width"><meta name="google-site-verification" content="bIK0JMb59Ha-wByPrqcx03gIJx10vnT2jvJ0XtQBB-4"><meta name="msvalidate.01" content="30CD41A0693271FAE50E0E20ED521F72">
     
         
             
-<title>Privacy Policy for SanfordHealth.org</title>
+<title>Privacy Policy</title>
 <meta name="description" content="Privacy policy for sanford">
-<meta name="keywords" content="Sanford privacy">
+<meta name="keywords" content="Sanford Privacy">
 
 <meta name="robots" content="index,follow">
 
@@ -16,7 +16,7 @@
     
 <link href="/content/images/icons/favicon.ico" rel="icon"><link href="/content/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon"><link rel="stylesheet" href="/Content/css/blueprint/screen.min.css" type="text/css" media="screen, projection">
     <!--[if lte IE 7]><link rel="stylesheet" href="/Content/css/blueprint/ie.min.css" type="text/css" media="all" /><![endif]-->
-    <link rel="stylesheet" href="/Content/css/combinedSitewide-minimal.min.css?v=39" type="text/css" media="all">
+    <link rel="stylesheet" href="/Content/css/combinedSitewide-minimal.min.css?v=42" type="text/css" media="all">
     <!--[if lte IE 7]><link rel="stylesheet" href="/Content/css/ie7-minimal.css" type="text/css" media="all" /><![endif]-->
     <!--[if lte IE 6]><link rel="stylesheet" href="/Content/css/ie6-minimal.css" type="text/css" media="all" /><![endif]-->
     
@@ -52,7 +52,10 @@
     </script>
 
 </head>
+<!--[if IE 8]><body class="ie8" ><![endif]-->
+<!--[if !IE]><!-->
 <body>
+<!--<![endif]-->
     
     
         
@@ -60,426 +63,366 @@
     
     <div id="pageBackdrop">
         
-<div class="container notPrintable">
-    
-<div class="mychart-drawer drawer">
-    <div class="body">
-        <div class="white-box">
-            <p class="smallBottomMargin">My Sanford Chart allows you secure online access to your personal health information and your child's health information. It's available anywhere you have internet access. There is no cost to you and registering is quick and simple.</p>
-            <ul>
-                <li class="smallBottomMargin">
-                    <span>New User?</span><br>
-                    <div class="decoratedButton">
-                        <a id="mychart-drawer-signup" href="https://www.mysanfordchart.org/mychart/publicforms.asp?mode=showForm&amp;formname=ActivationReqForm" class="button toggle-mychart-drawer" rel="external">Sign Up Online</a>
-                    </div>
-                </li>
-                <li>
-                    <span>Do you have your access code?</span><br>
-                    <div class="decoratedButton">
-                        <a id="mychart-drawer-activate" href="https://www.mysanfordchart.org/mychart/accesscheck.asp" class="button toggle-mychart-drawer" rel="external">Activate Your Account</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="tab toggle-mychart-drawer">
-        <div class="tab-text">Sign Up for My Sanford Chart</div>
-        <div class="mychart-drawer-arrow arrow-down"></div>
-    </div>
-</div>
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        var element = $(".mychart-drawer");
-        element.drawer({
-            topClose: -element.height() + 12
-        });
-
-        $(".toggle-mychart-drawer").click(function () {
-            var drawer = element.data("drawer");
-            drawer.toggle();
-
-            if (!drawer.expanded && typeof _gaq != "undefined")
-                _gaq.push(['_trackEvent', 'Window-shade', 'onLoad', 'mysanfordchart']);
-
-            $(".mychart-drawer-arrow").toggleClass("arrow-down", drawer.expanded)
-                                      .toggleClass("arrow-up", !drawer.expanded);
-        });
-
-        $("#mychart-drawer-signup").click(function (e) {
-            if (typeof _gaq != "undefined")
-                _gaq.push(['_trackEvent', 'Window-shade', 'onClick', 'mysanfordchart-signup-btn']);
-            return true;
-        });
-
-        $("#mychart-drawer-activate").click(function (e) {
-            if (typeof _gaq != "undefined")
-                _gaq.push(['_trackEvent', 'Window-shade', 'onClick', 'mysanfordchart-activation-btn']); 
-            return true;
-        });
-    });
-</script>
-
-
-</div>
 <div id="header" class="container">
     
-<ul class="nav" id="quickLinks">
+<ul class="nav" id="quick-links">
     
-    <li class="first"><a href="/About">About Sanford Health</a></li>
+        <li class="first" id="info-alerts"><a href="/newsroom/alerts">Info &amp; Alerts</a></li>
+    
+    <li><a href="/About">About Sanford Health</a></li>
     <li><a href="/MedicalProfessionals">for Medical Professionals</a></li>
     <li><a href="/Careers">Careers</a></li>
     <li class="last"><a href="/Contact">Contact Us</a></li>
 </ul>
 
-    <div id="headerContent">
+    <div id="header-content">
         <a id="branding" href="/" title="Sanford Health Home"><span>Sanford Health</span></a>
-        <div id="headerUser">
-            <div id="topNav">
+        <div id="header-nav">
+            <div id="top-nav">
                 <ul class="nav">
-                    <li id="patientsVisitors" class="topNavMenuFirst">
-                        <a href="#" class="topNavMenu">Patients<br><em class="ampersand">&amp;</em> Visitors</a>
+                    <li id="patients-visitors" class="top-nav-menu"><a href="#" class="top-nav-menu">Patients<br><em class="ampersand">&amp;</em> Visitors</a>
                         <div class="outer">
                             <div class="inner">
-                            
-                                <ul class="topNavMenuDropDown"> 
-                                    <li id="visitorServices" class="menuColumn vsFirstCol">
-                                        <div class="topNavContent clearfix" style="width: 150px">
+                                <div class="content">
+                                    <div class="left">
+                                        <div class="third-width">
+                                            <h3 class="patients-visitors-sprite group-silhouette">Patient Resources</h3>
                                             <ul>
-                                                <li id="contact"><a href="/Contact">Contact Us</a></li>
-                                                <li id="newborns"><a href="/PatientsVisitors/NewbornSearch">Newborns</a></li>
-                                                <li id="waittimes"><a id="currentWaitTimesFromHeader" class="overlayWaitTime" href="javascript:void(0)">View Current Wait Times</a></li>
-                                                <li id="billpay"><a href="/PatientsVisitors/PatientInformation/BillPay">Online Bill Pay</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="menuColumn vsMenuCol">
-                                        <div id="patientsVisitors" class="left">
-                                            <h3>Patient Resources</h3>
-                                            <ul>
-                                                <li><a id="currentwaitTimes" class="overlayWaitTime" href="javascript:void(0)">Check Wait Times</a></li>
-                                                <li><a href="http://www.mysanfordchart.org/" rel="external nofollow">My Sanford Chart</a></li>
-                                                <li><a href="/PatientsVisitors/PatientInformation/BillPay">Online Bill Pay</a></li>
-                                            </ul>
-                                        </div>
-                                        </li>
-                                    <li class="menuColumn vsMenuCol">
-                                        <div id="kidsLearning" class="left">
-                                            <h3>Online Resources</h3>
-                                             <ul>
-                                                <li><a href="/PatientsVisitors/CaringBridge" rel="nofollow">CaringBridge</a></li>
-                                                <li><a href="/PatientsVisitors/EmailAPatient" rel="nofollow">Email a Patient</a></li>
-                                                <li><a href="/PatientsVisitors/GiftShop">Gift Shop</a></li>
-                                                <li><a href="/Newsroom">Newsroom</a></li>
-                                                <li><a href="/Careers/VolunteerOpportunities">Volunteer Opportunities</a></li>
-                                                <li><a href="/ClassesAndEvents">Find Classes &amp; Events</a></li>
-                                            </ul>
-                                        </div>
-                                        </li>
-                                    <li class="menuColumn vsMenuCol">
-                                        <div id="kidsLearning" class="left">
-                                            <h3>General Information</h3>
-                                            <ul>
-                                                <li><a href="/PatientsVisitors/PatientInformation/PatientBillOfRights" rel="nofollow">Bill of Rights</a></li>
+                                                <li><a href="javascript:void(0)" class="overlayWaitTime">View Current Wait Times</a></li>
                                                 <li><a href="/PatientsVisitors/PatientInformation/FinancialAssistance">Financial Assistance Policy</a></li>
-                                                <li><a href="/PatientsVisitors/PatientInformation/ReleaseOfInformation" rel="nofollow">Release of Information</a></li>
+                                                <li><a href="/PatientsVisitors/PatientInformation/ReleaseOfInformation">Release of Information</a></li>
+                                                <li><a href="/PatientsVisitors/PatientInformation/PatientBillOfRights">Bill of Rights</a></li>
+                                            </ul>                                               
+                                        </div>
+                                        <div class="third-width">
+                                            <h3 class="patients-visitors-sprite online-services">Online Services</h3>
+                                            <ul>
+                                                <li><a rel="external" href="https://www.mysanfordchart.org/mychart">Log in to My Sanford Chart</a></li>
+                                                <li><a rel="external" href="https://www.mysanfordchart.org/mychart">Schedule appointment online</a></li>
+                                                <li><a rel="external" href="https://www.mysanfordchart.org/mychart">View your test results</a></li>
+                                                <li><a href="/forms/BillPay">Pay your bill online</a></li>
                                             </ul>
                                         </div>
-                                        
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li id="locationsDoctors" class="topNavMenu">
-                        <a href="#" class="topNavMenu">Doctors <em class="ampersand">&amp;</em><br>Locations</a>
-                        <div class="outer">
-                            <div class="inner">
-                                <ul class="topNavMenuDropDown">
-                                    <li id="searchDoctor">
-                                        <div class="topNavContent clearfix">
-                                            <div class="content smallPadBottom">
-                                                <h3>Start with a Quick Search</h3>
-                                                <div class="searchArea">
-                                                    <div class="searchTypeSelection">
-                                                        <p><label><input id="searchTypeSelection-findADoctor" type="radio" name="searchTypeSelection" checked="checked">Find a Doctor</label></p>
-                                                        <p><label><input id="searchTypeSelection-findALocation" type="radio" name="searchTypeSelection">Find a Location</label></p>
-                                                    </div>
-                                                    <div id="top-nav-doctor-search">
-                                                        <div class="formfield">
-                                                            <input id="top-nav-doctor-zip" type="text" class="text" watermark="Enter ZIP Code or City..."><span class="rightCap"></span>
-                                                            <button id="btn-top-nav-doctor-zip" class="disabled"><span>Go</span></button>
-                                                        </div>
-                                                        <div class="formfield">
-                                                            <select id="top-nav-doctor-specialty" disabled="disabled">
-                                                                <option value="none">Choose Specialty</option>
-                                                            </select>
-                                                        </div>
-                                                    </div>
-                                                    <div id="top-nav-location-search">
-                                                        <div class="formfield">
-                                                            <input id="top-nav-location-zip" type="text" class="text" watermark="Enter ZIP Code or City..."><span class="rightCap"></span>
-                                                            <button id="btn-top-nav-location-zip" class="disabled"><span>Go</span></button>
-                                                        </div>
-                                                        <div class="formfield">
-                                                            <select id="top-nav-location-facilityType" disabled="disabled">
-                                                                <option value="none">Facility Type</option>
-                                                            </select>
-                                                        </div>
-                                                    </div>
-                                                    <div class="decoratedButton">
-                                                        <button type="submit" id="btnPerformLocationOrDoctorSearch" class="disabled">GO</button>
-                                                    </div>
+                                        <div class="clear"></div>
+                                        <div class="mychart">
+                                            <img src="/content/images/PageHeaderAndNav/mychart.jpg" alt="MyChart">
+                                            <div class="mychart-buttons">
+                                                New User?<br>
+                                                <div class="decoratedButton">
+                                                    <a rel="external" id="mychart-signup" href="https://www.mysanfordchart.org/mychart/publicforms.asp?mode=showForm&amp;formname=ActivationReqForm" class="button">Sign Up Online</a>
                                                 </div>
-                                                <div id="top-nav-direct-search-links" class="smallTopMargin">
-                                                    <h3>More Search Options</h3>
-                                                    <br>
-                                                        <a href="/Find-A-Doctor/Search">Find a Doctor</a> - Search by last name or narrow your search by gender or languages spoken<br>
-                                                        <br>
-                                                        <a href="/Locations/Search">Find a Location</a> - Search by specialty, city, or state
-                                                    <div class="clear"></div>
+                                                <br>
+                                                Do you have your access code?<br>
+                                                <div class="decoratedButton">
+                                                    <a rel="external" id="mychart-activate" href="https://www.mysanfordchart.org/mychart/accesscheck.asp" class="button">Activate Your Account</a>
+                                                </div>
+                                                <br>
+                                                Already have an account?<br>
+                                                <div class="decoratedButton">
+                                                    <a rel="external" id="mychart-login" href="https://www.mysanfordchart.org/mychart" class="button">Log In To My Sanford Chart</a>
                                                 </div>
                                             </div>
                                         </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li id="medicalServices" class="topNavMenu">
-                        <a href="#" class="topNavMenu">Medical<br>Services</a>
-                        <div class="outer">
-                            <div class="inner">
-                                <ul class="topNavMenuDropDown">
-                                    <li id="centersExcellence" class="menuColumn">
-                                        <h3>Centers of Excellence</h3>
+                                    </div>
+                                    <div class="third-width last">
+                                    <h3 class="patients-visitors-sprite group-silhouette">For Visitors</h3>
                                         <ul>
-                                            <li id="cancer"><a href="/MedicalServices/COE/Cancer">Cancer</a></li>
-                                            <li id="childrens"><a href="/MedicalServices/COE/Children">Children's</a></li>
-                                            <li id="heart"><a href="/MedicalServices/COE/Heart">Heart</a></li>
-                                            <li id="orthopedics"><a href="/MedicalServices/COE/Ortho">Orthopedics <em class="ampersand">&amp;</em> Sports</a></li>
-                                            <li id="womens"><a href="/MedicalServices/COE/Womens">Women's</a></li>
+                                            <li><a href="/PatientsVisitors/NewbornSearch">View Newborns</a></li>
+                                            <li><a href="/PatientsVisitors/EmailAPatient">Email a Patient</a></li>
+                                            <li><a href="/PatientsVisitors/CaringBridge">CaringBridge</a></li>
+                                            <li><a href="/PatientsVisitors/GiftShop">Gift Shops</a></li>
+                                            <li><a href="/About/Foundation/DonateNow">Make a Donation</a></li>
                                         </ul>
-                                        <a href="/MedicalServices/ProgramsOfDistinction" class="viewAll programsOfDistinction">Programs of Distinction</a>
-                                        <a href="/MedicalServices/Specialties" class="viewAll">View All Specialties</a>
-                                    </li>
-                                    <li id="searchServices" class="menuColumn">
-                                        <h3>Search Services By Keyword</h3>
-                                        <div class="clearfix">
-                                            
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $("#btnServicesKeywordTopNav").attr("disabled", "disabled");
-            $("#txtServicesKeywordTopNav").autocomplete({
-                source: '/MedicalServices/AjaxGetKeywordMatches',
-                open: function (event, ui) {
-                    $(".ui-autocomplete").css("z-index", "1000");
-                    $(".ui-autocomplete").mouseover(function () { $("#medicalServices").addClass("navHover"); });
-                },
-                close: function (event, ui) {
-                    $(".ui-autocomplete").mouseover(function () { $("#medicalServices").removeClass("navHover"); });
-                },
-                select: function (event, ui) {
-                    $("#btnServicesKeywordTopNav").removeAttr("disabled");
-                    document.location = "/MedicalServices/Search?keyword=" + encodeURIComponent(ui.item.label);
-                }
-            }).keydown(function (e) {
-                if (e.which == 13) {
-                    e.preventDefault();
-                }
-            });
-        });
-  </script>
-<form action="/MedicalServices/Search" method="get">
-    <label>
-        <input class="text withAttachedButton" id="txtServicesKeywordTopNav" name="keyword" type="text" value="">
-        <button type="submit" id="btnServicesKeywordTopNav" class="submit">Search</button>
-    </label>
-</form>
-                                            <a href="/MedicalServices" class="clear smallTopMargin viewAll">View All Medical Services</a>
-                                        </div>
-                                    </li>
-                                    <li id="findServices" class="menuColumn">
-                                        <h3>Find Services Alphabetically</h3>
-                                        <div class="topNavContent">
-                                            
-<ul class="topic clearfix">
-    <li><a href="/MedicalServices/Index?id=a">A</a></li>
-    <li><a href="/MedicalServices/Index?id=b">B</a></li>
-    <li><a href="/MedicalServices/Index?id=c">C</a></li>
-    <li><a href="/MedicalServices/Index?id=d">D</a></li>
-    <li><a href="/MedicalServices/Index?id=e">E</a></li>
-    <li><a href="/MedicalServices/Index?id=f">F</a></li>
-    <li><a href="/MedicalServices/Index?id=g">G</a></li>
-    <li><a href="/MedicalServices/Index?id=h">H</a></li>
-    <li><a href="/MedicalServices/Index?id=i">I</a></li>
-    <li><a href="/MedicalServices/Index?id=j">J</a></li>
-    <li><div class="inactive">K</div></li>
-    <li><a href="/MedicalServices/Index?id=l">L</a></li>
-    <li><a href="/MedicalServices/Index?id=m">M</a></li>
-    <li><a href="/MedicalServices/Index?id=n">N</a></li>
-    <li><a href="/MedicalServices/Index?id=o">O</a></li>
-    <li><a href="/MedicalServices/Index?id=p">P</a></li>
-    <li><div class="inactive">Q</div></li>
-    <li><a href="/MedicalServices/Index?id=r">R</a></li>
-    <li><a href="/MedicalServices/Index?id=s">S</a></li>
-    <li><a href="/MedicalServices/Index?id=t">T</a></li>
-    <li><a href="/MedicalServices/Index?id=u">U</a></li>
-    <li><a href="/MedicalServices/Index?id=v">V</a></li>
-    <li><a href="/MedicalServices/Index?id=w">W</a></li>
-    <li><div class="inactive">X</div></li>
-    <li><div class="inactive">Y</div></li>
-    <li><div class="inactive">Z</div></li>
-</ul>
-
-                                            <div class="clearfix">
-                                                <a href="/MedicalServices" class="clear more right">View All Medical Services</a>
-                                            </div>
-                                        </div>
-                                        <!-- /end .topNavContent -->
-                                    </li>
-                                </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </li>
-                    <li id="healthInformation" class="topNavMenu">
-                        <a href="#" class="topNavMenu">Health<br>Information</a>
+                    <li id="doctors-locations" class="top-nav-menu"><a href="#" class="top-nav-menu">Doctors <em class="ampersand">&amp;</em><br>Locations</a>
                         <div class="outer">
                             <div class="inner">
-                                <ul class="topNavMenuDropDown reducedPadding">
-                                    <li class="menuColumn">
-                                        <h3>Search the Healthwise Information Database</h3>
-                                        <div class="topNavContent left">
-                                            <div id="keywordCategory" class="left">
-                                                <h3 class="clearfix">By Keyword</h3>
-                                                <fieldset>
-                                                    <legend></legend>
-                                                    <form action="/HealthInformation/Search" method="post"><input class="text withAttachedButton" id="txtHealthInformationSearch" name="txtHealthInformationSearch" type="text" value="">
-    <button type="submit" class="submit">Search</button>
-</form>
-                                                </fieldset>
-                                
-                                                <h3 class="clear">By Category</h3>
-                                                <ul>
-                                                    <li><a href="/HealthInformation/HealthWise/Index/#conditionsDiseasesTab">Conditions / Diseases</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Index/#medicationsTab">Medications</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Index/#medicalTestsTab">Medical Tests</a></li>
-                                                </ul>
-                                            </div>
-                                            <div id="topicLook" class="left">
-                                                <h3>By Topic</h3>
-                                                <ul class="topic clearfix">
-                                                    <li><a href="/HealthInformation/HealthWise/Search/a">A</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/b">B</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/c">C</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/d">D</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/e">E</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/f">F</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/g">G</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/h">H</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/i">I</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/j">J</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/k">K</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/l">L</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/m">M</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/n">N</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/o">O</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/p">P</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/q">Q</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/r">R</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/s">S</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/t">T</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/u">U</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/v">V</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/w">W</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/x">X</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/y">Y</a></li>
-                                                    <li><a href="/HealthInformation/HealthWise/Search/z">Z</a></li>
-                                                </ul>
-                                                <div class="prepend-top clear">
-                                                    <a class="viewAll" href="/HealthInformation/HealthWise">List All Categories</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /end .topNavContent -->
-                                        <div id="kidsLearning" class="left">
-                                            <h3>Children's Health Topics</h3>
+                                <div class="content">
+                                    <div class="third-width">
+                                        <h3 class="doctors-locations-sprite find-a-doctor">Find a Doctor by Specialty</h3>
+                                        <form id="doctors-locations-find-a-doctor" method="get" action="/Find-A-Doctor/Search">
+                                            <input type="hidden" name="page" value="1">
+                                            <input type="hidden" name="forceResults" value="true">
+                                            <input type="hidden" id="doctors-locations-find-a-doctor-zip" name="zipcode" value="">
+                                            <input type="hidden" id="doctors-locations-find-a-doctor-city" name="city" value="">
                                             <ul>
-                                                <li> <a href="/HealthInformation/ChildrensHealth/aboutfit" style="color: #ff8209;">Sanford &amp; WebMD fit</a></li>
-                                                <li><a href="/HealthInformation/ChildrensHealth/KidsHealthLibrary">Kids Health Library</a></li>
+                                                <li>
+                                                    <input type="radio" name="specialtySearchId" value="825428011" id="doctors-locations-family-practice-physician">
+                                                    <label for="doctors-locations-family-practice-physician">Family Practice Physician</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="specialtySearchId" value="1853046246" id="doctors-locations-ob-gyn-physician">
+                                                    <label for="doctors-locations-ob-gyn-physician">Ob-Gyn Physician</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="specialtySearchId" data-alt-name="coe" value="/MedicalServices/COE/Ortho" id="doctors-locations-orthopedic-physician">
+                                                    <label for="doctors-locations-orthopedic-physician">Orthopedic Physician</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="specialtySearchId" value="1171336805" id="doctors-locations-pediatric-physician">
+                                                    <label for="doctors-locations-pediatric-physician">Pediatric Physician</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="specialtySearchId" value="" id="doctors-locations-all-specialties" checked="checked">
+                                                    <strong><label for="doctors-locations-all-specialties">All Specialties</label></strong>
+                                                </li>
                                             </ul>
-    
-                                            <h3>Learning Resources</h3>
-                                            <ul>
-                                                <li><a href="/ClassesAndEvents">Find Classes / Events</a></li>
-                                                <li><a href="/HealthInformation/VideoLibrary">Watch Educational Videos</a></li>
-                                            </ul>
+                                            <input type="text" id="doctors-locations-find-a-doctor-zip-or-city" data-placeholder="ZIP code or City" value="ZIP code or City" onfocus="if(this.value === $(this).data().placeholder){this.value='';}">
+                                            <button type="submit" class="go">Go</button>
+                                        </form>
+                                    </div>
+                                    <div class="third-width">
+                                        <div class="indent">
+                                            <h3>Providing Care</h3>
+                                            <a class="doctors-locations-sprite location sioux-falls" href="/sioux-falls">Sioux Falls, SD</a>
+                                            <a class="doctors-locations-sprite location fargo" href="/fargo">Fargo, ND</a>
+                                            <a rel="external" class="doctors-locations-sprite location bemidji" href="http://www.nchs.com">Bemidji, MN</a>
+                                            <a class="doctors-locations-sprite location bismarck" href="/bismarck">Bismarck, ND</a>
                                         </div>
-                                    </li>
-                                </ul>
+                                    </div>
+                                    <div class="third-width last">
+                                        <div class="indent">
+                                            <h3>Emergency Rooms</h3>
+                                            <a class="doctors-locations-sprite emergency-room" href="/locations/search?specialtySearchId=2082547473">Find an emergency medicine location near you</a>
+                                            <h3>Acute Care and Walk-In's</h3>
+                                            <a class="doctors-locations-sprite accute-care overlayWaitTime" href="javascript:void(0)">Find acute care and walk-in clinics near you</a>
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="third-width box smallTopMargin">
+                                        <h3>Find a doctor by Name</h3>
+                                        <form id="doctors-locations-find-a-doctor-by-name" method="get" action="/Find-A-Doctor/Search">
+                                            <input type="hidden" name="page" value="1">
+                                            <input type="hidden" name="forceResults" value="true">
+                                            <input type="hidden" id="doctors-locations-find-a-doctor-by-name-lastname" name="lastNameStartsWith" value="">
+                                            <input type="text" id="doctors-locations-find-a-doctor-by-name-auto-complete" data-placeholder="Last Name" value="Last Name" onfocus="if(this.value === $(this).data().placeholder){this.value='';}">
+                                            <button type="submit" class="go">Go</button>
+                                        </form>
+                                        <div class="clear"></div>
+                                        <a href="/Find-A-Doctor/Search?forceResults=true&amp;page=1">Browse All Providers</a><br>
+                                        <a href="/Find-A-Doctor/Search">Advanced Search</a>
+                                    </div>
+                                    <div class="third-width box smallTopMargin">
+                                        <h3 class="doctors-locations-sprite location-pin">Find a location</h3>
+                                        <form id="doctors-locations-find-a-location" method="get" action="/Locations/Search">
+                                            <input type="hidden" name="page" value="1">
+                                            <input type="hidden" name="forceResults" value="true">
+                                            <input type="hidden" id="doctors-locations-facility-zip" name="zipcode" value="">
+                                            <input type="hidden" id="doctors-locations-facility-city" name="city" value="">
+                                            <input type="text" id="doctors-locations-facility-zip-or-city" data-placeholder="ZIP code or City (Optional)" value="ZIP code or City (Optional)" onfocus="if(this.value === $(this).data().placeholder){this.value='';}">
+                                            <select id="doctors-locations-facility-type" name="locationTypeSearchId"></select>
+                                            <button type="submit" class="go">Go</button>
+                                        </form>
+                                        <div class="clear"></div>
+                                        <a href="/Locations/Search?forceResults=true&amp;page=1">Browse All Locations</a><br>
+                                        <a href="/Locations/Search">Advanced Search</a>
+                                    </div>
+                                    <div class="third-width box smallTopMargin last">
+                                        <h3>Emergency? Call 911</h3>
+                                        <p>If you are experiencing a medical emergency please dial 911 immediately</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </li>
-                    <li id="ResearchTrials" class="topNavMenu">
-                    <a href="#" class="topNavMenu">Research<br><em class="ampersand">&amp;</em> Trials</a>
+                    <li id="medical-services" class="top-nav-menu"><a href="#" class="top-nav-menu">Medical<br>Services</a>
                         <div class="outer">
                             <div class="inner">
-                                <ul class="topNavMenuDropDown">
-                                    <li class="menuColumn pcMenuOuter">
-                                        <div id="PatientsCategory">
-                                            <h3>Engage in Research</h3>
-                                            <div class="topNavContent clearfix pcMenuInner">
-                                                <ul>
-                                                    <li><a href="/clinicaltrials">Clinical Trials</a></li>
-                                                    <li><a href="http://www.sanfordresearch.org/biobank/aboutbiobank/" rel="external">BioBank</a></li>
-                                                    <li><a href="http://www.sanfordresearch.org/cords/" rel="external">CoRDS</a></li>
-                                                    <li><a href="http://www.sanfordresearch.org/education/" rel="external">Education</a></li>
-                                                    <li><a href="http://www.sanfordresearch.org/newsevents/" rel="external">News &amp; Events</a></li>
+                                <div class="content">
+                                    <h3 class="medical-services-sprite medical-services">Medical Services</h3>
+                                    <ul class="third-width first">
+                                        <li><a href="/services/allergyimmunology">Allergy <em class="ampersand">&amp;</em> Immunology</a></li>
+                                        <li><a href="/services/behavioralhealth">Behavioral Health</a></li>
+                                        <li><a href="/MedicalServices/COE/Cancer/BreastHealth">Breast Health</a></li>
+                                        <li><strong><a href="/MedicalServices/COE/Cancer">Cancer/Oncology</a></strong></li>
+                                        <li><strong><a href="/MedicalServices/COE/Children">Children's/Pediatrics</a></strong></li>
+                                        <li><a href="/services/dermatology">Dermatology <em class="ampersand">&amp;</em> Cosmetic Services</a></li>
+                                        <li><a href="/services/diabetes">Diabetes <em class="ampersand">&amp;</em> Endocrinology</a></li>
+                                        <li><a href="/services/earnosethroat">Ear, Nose and Throat</a></li>
+                                        <li><a href="/services/emergencymedicine">Emergency Medicine</a></li>
+                                        <li><a href="/services/familymedicine">Family Medicine</a></li>
+                                    </ul>
+                                    <ul class="third-width">
+                                        <li><a href="/services/seniorservices">Geriatrics</a></li>
+                                        <li><a href="/services/wellnessprograms">Health <em class="ampersand">&amp;</em> Wellness</a></li>
+                                        <li><strong><a href="/MedicalServices/COE/Heart">Heart/Cardiology</a></strong></li>
+                                        <li><a href="/services/internalmedicine">Internal Medicine</a></li>
+                                        <li><a href="/services/pathology">Laboratory <em class="ampersand">&amp;</em> Pathology</a></li>
+                                        <li><a href="/services/medicalgenetics">Medical Genetics</a></li>
+                                        <li><a href="/services/neurology">Neurosciences</a></li>
+                                        <li><a href="/services/occupationalmedicine">Occupational Medicine</a></li>
+                                        <li><a href="/services/ophthalmology">Opthalmology</a></li>
+                                        <li><strong><a href="/MedicalServices/COE/Ortho">Orthopedics <em class="ampersand">&amp;</em> Sports Med.</a></strong></li>
+                                        <li><a href="/services/painmanagement">Pain Management</a></li>
+                                    </ul>
+                                    <ul class="third-width last">
+                                        <li><a href="/services/palliativemedicine">Palliative Care</a></li>
+                                        <li><a href="/services/physicalmedicinerehabilitation">Physical Medicine <em class="ampersand">&amp;</em> Rehabilitation</a></li>
+                                        <li><a href="/services/plasticsurgery">Plastic <em class="ampersand">&amp;</em> Reconstructive Surgery</a></li>
+                                        <li><a href="/services/radiology">Radiology <em class="ampersand">&amp;</em> Imaging Services</a></li>
+                                        <li><a href="/services/surgery">Surgery <em class="ampersand">&amp;</em> Transplant Services</a></li>
+                                        <li><a href="/services/urology">Urology</a></li>
+                                        <li><a href="/services/vascularmedicine">Vascular Care</a></li>
+                                        <li><a href="/services/weightlossmanagement">Weight Management</a></li>
+                                        <li><strong><a href="/MedicalServices/COE/Womens">Women's Health/Ob-Gyn</a></strong></li>
+                                        <li><a class="medical-services-sprite programs-of-distinction" href="/MedicalServices/ProgramsOfDistinction">Programs of Distinction</a></li>
+                                    </ul>
+                                    <div class="clear"></div>
+                                    <a href="/services" class="view-all smallTopMargin">View All</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="health-information" class="top-nav-menu"><a href="#" class="top-nav-menu">Health<br>Information</a>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="content">
+                                    <div class="left">
+                                        <div class="third-width">
+                                            <h3 class="health-information-sprite classes-and-events">Classes <em class="ampersand">&amp;</em> Events</h3>
+                                            <form id="health-information-classes-and-events" action="/ClassesAndEvents/Search">
+                                                <ul class="smallBottomMargin">
+                                                    <li>
+                                                        <input type="radio" name="url" value="/MedicalServices/COE/Womens" id="health-information-baby-basics">
+                                                        <label for="health-information-baby-basics">Baby Basics</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="/MedicalServices/COE/Cancer" id="health-information-cancer-education">
+                                                        <label for="health-information-cancer-education">Cancer Education</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="/ClassesAndEvents/CPR" id="health-information-cpr-training">
+                                                        <label for="health-information-cpr-training">CPR Training</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="/MedicalServices/ChildServices/Parenting" id="health-information-parenting">
+                                                        <label for="health-information-parenting">Parenting</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="/MedicalServices/Mom2Be" id="health-information-pregnancy">
+                                                        <label for="health-information-pregnancy">Pregnancy</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="/MedicalServices/COE/Ortho" id="health-information-sports-medicine">
+                                                        <label for="health-information-sports-medicine">Sports Medicine</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="/MedicalServices/Specialties/WeightLossSurgery" id="health-information-weight-management">
+                                                        <label for="health-information-weight-management">Weight Management</label>
+                                                    </li>
+                                                    <li>
+                                                        <input type="radio" name="url" value="" id="health-information-all-topics" checked="checked">
+                                                        <strong><label for="health-information-all-topics">All Topics</label></strong>
+                                                    </li>
                                                 </ul>
-                                            </div>
+                                                <select id="health-information-cities" name="city"></select>
+                                                <button type="submit" class="go">Go</button>
+                                            </form>
                                         </div>
-                                    </li>
-                                    <li class="menuColumn pcMenuTwo">
-                                    <div id="patientsVisitors" class="left">
-                                    <h3>Research Centers</h3>
-                                            <ul>
-                                                <li><a href="http://www.sanfordresearch.org/researchcenters/childrenshealth/" rel="external">Children's Health</a></li>
-                                                <li><a href="http://www.sanfordresearch.org/clinicalresearch/" rel="external">Clinical Research</a></li>
-                                                <li><a href="http://www.sanfordresearch.org/researchcenters/edithsanfordbreastcancerresearch/" rel="external">Edith Sanford Breast Cancer</a></li>
-                                                <li><a href="/MedicalServices/SanfordImagenetics">Genomic &amp; Molecular Medicine</a></li>
-                                                <li><a href="http://www.sanfordresearch.org/researchcenters/healthoutcomesprevention/" rel="external">Health Outcomes &amp; Prevention</a></li>
-                                                <li><a href="http://www.sanfordresearch.org/sharedresources/" rel="external">Shared Resources</a></li>
+                                        <div class="third-width">
+                                            <h3 class="health-information-sprite educational-videos">Educational Videos</h3>
+                                            <ul id="health-information-educational-videos">
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=birth">Birth Centers</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=cancer">Cancer Education</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=concussion">Concussions</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/?category=Health+Information&amp;id=80D76E0010A34B5EA06D8713430767E0">Health Information</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=imagenetics">Imagenetics</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/?category=Patient+Stories&amp;id=D877CC0EAD8D4BC9A0338F31A47FFCA7">Patient Stories</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/?category=Doctors&amp;id=757E2B41E0DB4BF2BD79424F54EE48C6">Physicians</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=pregnancy">Pregnancy</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=sleep">Sleep Problems</a></li>
+                                                <li><a href="/HealthInformation/VideoLibrary/Search?q=weight">Weight Management</a></li>
                                             </ul>
-                                     </div>
-                                    </li>
-                                    <li class="menuColumn pcMenuThree">
-                                    <div id="ResearchTrialsCol" class="left">
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="third-width smallTopMargin">
+                                            <a href="/ClassesAndEvents/Search" class="view-all health-information">View All</a>
+                                        </div>
+                                        <div class="third-width smallTopMargin">
+                                            <a href="/HealthInformation/VideoLibrary" class="view-all health-information">View All</a>
+                                        </div>
+                                    </div>
+                                    <div class="third-width last">
+                                        <h3 class="health-information-sprite trending-health-topics">Trending Health Topics</h3>
+                                        <ul id="health-information-trending-health-topics">
+                                            <li><a href="http://sanfordhealth.staywellsolutionsonline.com/Wellness/BackandNeck/" rel="external">Back Pain</a></li>
+                                            <li><a href="http://sanfordhealth.staywellsolutionsonline.com/Conditions/Diabetes/" rel="external">Diabetes</a></li>
+                                            <li><a href="http://sanfordhealth.staywellsolutionsonline.com/YourFamily/children/" rel="external">Children's Health</a></li>
+                                            <li><a href="http://sanfordhealth.staywellsolutionsonline.com/Conditions/Pregnancy/" rel="external">Pregnancy <em class="ampersand">&amp;</em> Birth</a></li>
+                                            <li><a href="http://sanfordhealth.staywellsolutionsonline.com/Search/85,P01329" rel="external">Sleep Problems</a></li>
+                                            <li><a href="http://sanfordhealth.staywellsolutionsonline.com/Wellness/Weight/" rel="external">Weight Management</a></li>
+                                        </ul>
+                                        <a href="http://sanfordhealth.staywellsolutionsonline.com" rel="external" class="view-all health-information smallBottomMargin">View All</a>
+                                        <div class="clear"></div>
+                                        <div class="box">
+                                            <h3>Search the Health Library</h3>
+                                            <ul>
+                                                <li><a href="http://sanfordhealth.staywellsolutionsonline.com/Library/DiseasesConditions/" rel="external">Conditions <em class="ampersand">&amp;</em> Treatments</a></li>
+                                                <li><a href="/HealthInformation/ChildrensHealth">Kids Health Library</a></li>
+                                                <li class="last"><a href="/HealthInformation/ChildrensHealth/aboutfit" class="orange">Sanford <em class="ampersand">&amp;</em> WebMD <i>fit</i></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="research-trials" class="top-nav-menu"><a href="#" class="top-nav-menu">Research<br>
+                        <em class="ampersand">&amp;</em> Trials</a>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="content">
+                                    <div class="third-width">
+                                        <h3>Sanford Research</h3>
+                                        <ul>
+                                            <li><a rel="external" href="http://www.sanfordresearch.org">Research</a></li>
+                                            <li><a rel="external" href="http://www.sanfordresearch.org/researchcenters/childrenshealth">Children's Research</a></li>
+                                            <li><a rel="external" href="http://www.sanfordresearch.org/clinicalresearch">Clinical Research</a></li>
+                                            <li><a rel="external" href="http://www.sanfordresearch.org/education">Education</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="third-width">
                                         <h3>Finding Cures</h3>
                                         <ul>
-                                            <li id="researchDiabetes"><a class="researchBold" href="http://www.sanfordresearch.org/researchcenters/childrenshealth/thesanfordproject/" rel="external">Type 1 Diabetes:</a><br><a href="http://www.sanfordresearch.org/researchcenters/childrenshealth/thesanfordproject/" rel="external">The Sanford Project</a></li>
-                                            <li id="researchBCancer"><a class="researchBold" href="http://edithsanford.org/research-and-cures/" rel="external">Breast Cancer:</a><br><a href="http://edithsanford.org/research-and-cures/" rel="external">Edith Sanford Breast Cancer Research</a></li>
+                                            <li class="research-trials-sprite type-1-diabetes"><strong><a rel="external" href="http://www.sanfordresearch.org/researchcenters/childrenshealth/thesanfordproject">Type 1 Diabetes:</a></strong></li>
+                                            <li class="indent"><a rel="external" href="http://www.sanfordresearch.org/researchcenters/childrenshealth/thesanfordproject">The Sanford Project</a></li>
+                                            <li><strong><a rel="external" class="research-trials-sprite breast-cancer" href="http://edithsanford.org/research-and-cures">Breast Cancer:</a></strong><br></li>
+                                            <li class="indent last"><a rel="external" href="http://edithsanford.org/research-and-cures">Edith Sanford Breast Cancer Research</a></li>
                                         </ul>
-                                        </div>
-                                    </li>
-                                </ul>
+                                    </div>
+                                    <div class="third-width last">
+                                        <h3>Engage and Contribute</h3>
+                                        <ul>
+                                            <li class="research-trials-sprite clinical-trials"><strong>Clinical Trials</strong></li>
+                                            <li class="indent"><a rel="external" href="http://www.sanfordhealth.org/clinicaltrials">Participate Today.<br>Change Tomorrow</a></li>
+                                            <li class="research-trials-sprite cords"><strong>CoRDS Registry</strong></li>
+                                            <li class="indent"><a rel="external" href="http://www.sanfordresearch.org/cords/">Help Accelerate Research</a></li>
+                                            <li class="research-trials-sprite bio-bank"><strong>BioBank</strong></li>
+                                            <li class="indent last"><a rel="external" href="http://www.sanfordresearch.org/biobank">Make Your Genetic<br>Contribution to the Cure</a></li>
+                                        </ul>
+                                    </div>
                                 </div>
-                                </div>
-                                </li>
-                                </ul>
                             </div>
-                        <!-- / #topNav -->
-                <div id="quickSearch">
-                    <fieldset id="quickSearch-group">
-                        <form action="/Home/QuickSearch" method="get" onsubmit="if(searchText.value=='' || searchText.value=='Search'){return false;}">
-    <label for="searchText" class="searchLbText">Enter a keyword or search term</label>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div id="quick-search">
+                <fieldset>
+                    <form action="/Home/QuickSearch" method="get" onsubmit="if(searchText.value=='' || searchText.value=='Search'){return false;}">
+    <label for="searchText" class="search-text">Enter a keyword or search term</label>
     <input class="query text inline-text inputShortText" id="searchText" name="searchText" onfocus="if(this.value=='Search'){this.value='';}" type="text" value="Search">
     <button type="submit" class="submitShortSearch">Search</button>
 </form>
-                    </fieldset>
-                </div>
-            </div>
+                </fieldset>
             </div>
         </div>
+    </div>
+</div>
 
         <div id="bodyBackdrop">
             <div id="bodyBackdropLower">
@@ -515,9 +458,9 @@
             <ul class="nav">
 
 
-                        <li><a href="/">Sanford Health</a></li>
+                        <li><a href="/">Home</a></li>
                     
-                        <li class="last">Privacy Policy for SanfordHealth.org</li>
+                        <li class="last">Privacy Policy</li>
                     
             </ul>
         </div>
@@ -607,6 +550,8 @@
 
    <ul>
 
+        <li><a href="/Newsroom/Alerts/ebola-information">10/28/2014 - Ebola information</a></li>
+   
    </ul><a class="newViewAll" href="/newsroom/alerts">View all alerts</a>
                 </div>
                 <div id="alertTweets" class="left resources leftBackground">
@@ -621,14 +566,14 @@
                                 <td id="twitterImage"><a href="http://twitter.com/sanfordalerts" class="twitterTitle" rel="external"></a></td>
                                 <td>
 <p class="removeBottomMargin">
-    Sanford Rock Rapids George Clinic in in George, Iowa, is closed due to high water levels <a href="http://ow.ly/y8uFa" target="_blank">http://t.co/nWPx00o9e8</a>
+    There are no tweets at this time, please check back later.
 </p>
 <br>
-<span class="timestamp">10:12 AM Jun 17</span>
+<span class="timestamp">02:34 AM Nov 02</span>
 <span class="twitterIntent">
-<a href="https://twitter.com/intent/tweet?in_reply_to=478918197425762304" onclick="LoadAndFocusOnPopUp(this.href, '520','600');return false;"><span class="twitterReply"></span>Reply</a>
-<a href="https://twitter.com/intent/retweet?tweet_id=478918197425762304" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterRetweet"></span>Retweet</a>
-<a href="https://twitter.com/intent/favorite?tweet_id=478918197425762304" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterFavorite"></span>Favorite</a>
+<a href="https://twitter.com/intent/tweet?in_reply_to=0" onclick="LoadAndFocusOnPopUp(this.href, '520','600');return false;"><span class="twitterReply"></span>Reply</a>
+<a href="https://twitter.com/intent/retweet?tweet_id=0" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterRetweet"></span>Retweet</a>
+<a href="https://twitter.com/intent/favorite?tweet_id=0" onclick="LoadAndFocusOnPopUp(this.href, '480','600');return false;"><span class="twitterFavorite"></span>Favorite</a>
 </span>
 </td>
                             </tr>
@@ -656,7 +601,7 @@
                     <hr class="hrBlue">
                     <ul>
                         <li><a href="https://www.mysanfordchart.org/mychart/" rel="external">My Sanford Chart</a></li>
-                        <li><a href="/PatientsVisitors/PatientInformation/BillPay">Online Bill Pay</a></li>
+                        <li><a href="/forms/billpay">Online Bill Pay</a></li>
                     </ul>
                 </div>
                 <div class="left quickLinks">
@@ -668,7 +613,7 @@
                     <hr class="hrBlue">
                     <ul>
                         <li><a href="/ClassesAndEvents/Search">Find Classes &amp; Events</a></li>
-                        <li><a href="/HealthInformation/HealthWise">Health Information</a></li>
+                        <li><a href="http://sanfordhealth.staywellsolutionsonline.com" rel="external">Health Information</a></li>
                         <li><a href="/HealthInformation/VideoLibrary">Video Library</a></li>
                     </ul>
                     <hr class="hrBlue">
@@ -720,7 +665,7 @@
                     <hr class="hrBlue">
                     <ul>
                         <li class="footerBold"><a href="http://www.nchs.com/" rel="external">Bemidji Medical Center</a></li>
-                        <li class="footerBold"><a href="http://bismarck.sanfordhealth.org/" rel="external">Bismarck Medical Center</a></li>
+                        <li class="footerBold"><a href="/bismarck">Bismarck Medical Center</a></li>
                         <li class="footerBold"><a href="/fargo">Fargo Medical Center</a></li>
                         <li class="footerBold"><a href="/sioux-falls">Sioux Falls USD Medical Center</a></li>
                     </ul>
@@ -832,7 +777,7 @@
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/mvc/2.0/MicrosoftMvcAjax.js"></script>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.cycle/2.88/jquery.cycle.all.min.js"></script>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery.Validate/1.6/jQuery.Validate.min.js"></script>
-    <script type="text/javascript" src="/Content/Scripts/combinedSiteWide.min.js?v=34"></script>
+    <script type="text/javascript" src="/Content/Scripts/combinedSiteWide.min.js?v=36"></script>
     
     <!--[if lte IE 6]>
         <script type="text/javascript" src="/Content/Scripts/Global/ie6Workarounds.min.js?v=2"></script>
