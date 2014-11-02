@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630063917id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102182322id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dundas Data Visualization
 
