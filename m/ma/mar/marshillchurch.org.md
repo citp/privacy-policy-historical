@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the marshillchurch.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105524id_/http%3A//marshill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshillchurch.org privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102013122id_/https%3A//marshill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mars Hill Church
 
 Mars Hill Church ( **"Mars Hill"** ) recognizes that your privacy is very important to you and that you have a right to control your personal information. We acknowledge that when you provide personal information about yourself to another party it is an act of trust. In response, Mars Hill takes the process of upholding an individual's privacy very seriously.
 
-This Privacy Policy applies to the following web sites which are owned and/or maintained by Mars Hill:
+Mars Hill Church (“Mars Hill”) owns and/or maintains the following websites:
 
-  * [marshill.com](http://marshill.com/)
-  * [theresurgence.com](http://theresurgence.com/)
-  * [pastormark.tv](http://pastormark.tv/)
+  * Mars Hill ([marshill.com](https://marshill.com/))
+  * Resurgence ([theresurgence.com](http://theresurgence.com/))
+  * Connect Desk ([theconnectdesk.com](https://theconnectdesk.com/))
+  * Pastor Mark ([pastormark.tv](http://pastormark.tv/))
+  * Mars Hill Church on The City ([marshill.onthecity.org](https://marshill.onthecity.org/))
+  * Mars Hill Church YouTube Channel ([youtube.com/user/mhcseattle](https://youtube.com/user/mhcseattle))
+  * Resurgence YouTube Channel ([youtube.com/user/theResurgence](https://www.youtube.com/user/theResurgence))
 
 
 
-These web sites are collectively referred to in this Privacy Policy as the **“Site”**. Unless you give Mars Hill explicit consent to act otherwise, the following policy will govern how Mars Hill handles your personal information and safeguards your privacy.
+These websites are collectively referred to as the “Site”, which this Privacy Policy applies to.
+
+Unless you give Mars Hill explicit consent to act otherwise, the following policy will govern how Mars Hill handles your personal information and safeguards your privacy.
 
 By using any Site, you are giving us your express consent to use all the information that we collect about you in the manner described in this policy. This includes the release of such information to owners of each respective Site and third parties as described below.
 
@@ -38,7 +44,7 @@ Pixel tags enable us to send email messages in a format customers can read, and 
 
 ##  Links to other sites
 
-As a courtesy, Mars Hill may provide links to other sites that are neither owned nor controlled by Mars Hill. Some of these sites may use the Mars Hill, Resurgence, Gospel Coach or Acts 29 Network logo. These third party sites, however, are NOT subject to or bound by this Privacy Policy. Such third party sites may or may not have their own privacy policies and may or may not collect personal information from you or place cookies on your browser. Mars Hill is not responsible for the privacy policies or any information collection practices of these sites or any damages resulting therefrom.
+As a courtesy, Mars Hill may provide links to other sites that are neither owned nor controlled by Mars Hill. Some of these sites may use the Mars Hill or Resurgence logo. These third party sites, however, are NOT subject to or bound by this Privacy Policy. Such third party sites may or may not have their own privacy policies and may or may not collect personal information from you or place cookies on your browser. Mars Hill is not responsible for the privacy policies or any information collection practices of these sites or any damages resulting therefrom.
 
 ##  Service Providers
 
@@ -64,7 +70,7 @@ Mars Hill makes it easy for you to keep your personal information accurate, comp
 
 ##  Access to Personal Information
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at [marshillglobal.com](https://marshillglobal.com/).
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at marshill.com and updating your information and preferences.
 
 ##  Children
 
@@ -78,7 +84,4 @@ Mars Hill reserves the right, at its sole discretion, to change, modify, add or 
 
 If you have questions or concerns about this privacy policy, please contact our Legal Team at: legal@marshill.com.
 
-The information contained in this web site is subject to change without notice.  
-Copyright © 2011 Mars Hill Church. All rights reserved.
-
-Updated by the Mars Hill Church Legal Team on October 1, 2011
+The information contained in this web site is subject to change without notice.
