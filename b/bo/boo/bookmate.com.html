@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the bookmate.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625120723id_/http%3A//bookmate.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookmate.com privacy policy that was archived on 2014-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141102222959id_/https%3A//bookmate.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# : http://ogp.me/ns/fb/#">
     <meta charset="UTF-8">
-<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5295ed446ce372ce50000045.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://top-fwz1.mail.ru/js/code.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"9e83dd2037","applicationID":"72000","transactionName":"ewpYRUtfXV9dRxcEBlcQQh5JQlhFWVZB","queueTime":0,"applicationTime":327,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ8AVldADwEAVFE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript" async="" src="https://eu-sonar.sociomantic.com/js/2010-07-01/adpan/bookmate-ru"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://top-fwz1.mail.ru/js/code.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"fb14f945a0","applicationID":"3332844","transactionName":"cAoKQURbCg8GEx5RA1wQEBpGRg8VAgJI","queueTime":0,"applicationTime":170,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4CU1VbGwADV1NaAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 
     <!-- Стили нужно грузить первым внешним ресурсом -->
-    <link href="https://assets.bookmate.com/pipeline/application-3387953b1bbb865ccc8e1cceb30b180f.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://assets.bookmate.com/pipeline/application-cbe50b312c625152a9f05f64faa17a17.css" media="screen" rel="stylesheet" type="text/css">
 
     <meta content="index,follow" name="robots">
     <!--<meta name="robots" content="index,follow">-->
@@ -17,15 +17,31 @@
 
     <title>Bookmate Online Privacy Policy</title>
 
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+    
+    <meta content="@bookmate_ru" property="twitter:site">
 
     
 
-    
+    <link href="http://bookmate.com/about/privacy" rel="canonical">
 
-    
-
-        <script language="javascript" src="http://www.everestjs.net/static/st.v2.js"></script>
+        <script language="javascript" src="https://www.everestjs.net/static/st.v2.js"></script>
 
 
     <meta name="author" content="Bookmate">
@@ -93,8 +109,12 @@
                 'Logged In' : this.loggedIn
             };
 
-            if (window.location.pathname && window.location.pathname === '/tele2') {
+            if (window.location.pathname && window.location.pathname.indexof('/tele2') !== -1) {
                 data['special'] = 'tele2';
+            }
+
+            if (window.location.pathname && window.location.pathname.indexOf('/mobile') !== -1) {
+                data['special'] = 'mobile_page';
             }
 
             return data;
@@ -107,6 +127,14 @@
         },
 
         'Authentication Successful' : function(windowRef, config) {
+        	if (this.context === 'register') {
+        		this.context = 'registration';
+        	} else if (this.context === 'email') {
+        		this.context = 'Email';
+        	} else if (this.context === 'phone') {
+        		this.context = 'Phone';
+        	}
+
             return {
                 source: this.source,
                 context: this.context
@@ -376,16 +404,18 @@
 	};
 
     DIMixpanel.Context = {
-        BIBLIO_NIGHT : 'library_night',
-        TELE2        : 'tele2',
-        USER_LIBRARY : 'user-library',
-        SCHOOL       : 'school-special',
-        READER       : 'reader',
-        BOOK_PAGE    : 'book',
-        SHELF        : 'shelf',
-        SEARCH       : 'search',
-        PUBLIC_SHELF : 'public_shelf',
-        RELATED_BOOK : 'related_books'
+        BIBLIO_NIGHT        : 'library_night',
+        TELE2               : 'tele2',
+        USER_LIBRARY        : 'user-library',
+        SCHOOL              : 'school-special',
+        READER              : 'reader',
+        BOOK_PAGE           : 'book',
+        SHELF               : 'shelf',
+        SEARCH              : 'search',
+        PUBLIC_SHELF        : 'public_shelf',
+        RELATED_BOOK        : 'related_books',
+        RECOMMENDED_BOOK    : 'recommended_book',
+        RECOMMENDED_BOOK_EC : 'recommended_book_ec'
     };
 
     DIMixpanel._getSpecial = function() {
@@ -511,8 +541,10 @@
 	/* `DIMixpanel.track` API:
 	 1. DIMixpanel.track(eventName:string, instanceName?:string);
 	 2. DIMixpanel.track(eventName:string, eventData:object, instanceName?:string);
+   3. DIMixpanel.track(eventName:string, instanceName?:string, callback:function);
+   4. DIMixpanel.track(eventName:string, eventData:object, instanceName?:string, callback:function);
 	 * */
-	DIMixpanel.track = function (/*eventName, eventData, instanceName*/) {
+	DIMixpanel.track = function (/*eventName, eventData, instanceName, cb*/) {
 		'use strict';
 		{// Destructing the arguments list into variables.
 			var is = function (arg, type) {
@@ -521,10 +553,12 @@
 				arg1 = arguments[0],
 				arg2 = arguments[1],
 				arg3 = arguments[2],
+        arg4 = arguments[3],
 				eventName = (is(arg1, 'String') ? arg1 : undefined),
 				eventData = (is(arg2, 'Object') ? arg2 : {}),
 				instanceName = (eventData === undefined && is(arg2, 'String') ? arg2
-					: (is(arg3, 'String') ? arg3 : undefined));
+					: (is(arg3, 'String') ? arg3 : undefined)),
+        callback = is(arg3, 'Function') ? arg3 : arg4;
 
 			if (eventName === undefined || DIMixpanel.events[eventName] === undefined) {
 				throw new TypeError('DIMixpanel: event "' + eventName + '" is not recognized!'
@@ -541,7 +575,7 @@
 					config = DIMixpanel.instances[resolvedInstanceName].config,
 					eventProperties = DIMixpanel.events[eventName].call(eventData, windowRef, config) || {};
 
-				instance.track(eventName, eventProperties, done.resolve);
+				instance.track(eventName, eventProperties, callback ? function() {done.resolve(); callback();} : done.resolve);
 			});
 
 		return done.promise;
@@ -776,9 +810,10 @@
 
 
     
-  </head>
+    <script src="//js.pusher.com/2.2/pusher.min.js" type="text/javascript"></script>
+  <script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script></head>
 
-  <body data-config="{&quot;debug&quot;:false,&quot;environment&quot;:&quot;production&quot;,&quot;assetHost&quot;:&quot;https://assets.bookmate.com&quot;,&quot;scriptTemplate&quot;:&quot;about&quot;,&quot;action&quot;:&quot;privacy&quot;,&quot;version&quot;:&quot;end2-8223-g94f7fe5&quot;,&quot;userInfo&quot;:{&quot;subscription&quot;:{&quot;subscribed&quot;:false}},&quot;book&quot;:{},&quot;viewingUser&quot;:{}}" class="about locale-en" data-scripts="">
+  <body data-config="{&quot;debug&quot;:false,&quot;environment&quot;:&quot;production&quot;,&quot;assetHost&quot;:&quot;https://assets.bookmate.com&quot;,&quot;scriptTemplate&quot;:&quot;about&quot;,&quot;action&quot;:&quot;privacy&quot;,&quot;version&quot;:&quot;end2-11386-g02b0775&quot;,&quot;userInfo&quot;:{&quot;subscription&quot;:{&quot;subscribed&quot;:false}},&quot;book&quot;:{},&quot;viewingUser&quot;:{},&quot;locale&quot;:&quot;en&quot;}" class="about locale-en" data-scripts="">
       <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function (d, w, c) {
@@ -823,134 +858,218 @@
 
 
     <script type="text/javascript">
-    window.onload = function() {
+    (function(window) {
+        'use strict';
 
-        var SOCIOMANTIC_DESC_MAX_LENGTH = 90,
+        var sociomantic = function() {
 
-            pathname  = window.location.pathname,
-            parts     = pathname.slice(1).split('/'),
-            smProduct, tmpElement, tmp,
+            var SOCIOMANTIC_DESC_MAX_LENGTH = 90,
 
-            removeSpecChars = function(string) {
-                if (!string) {
-                    return '';
-                }
-                string = string.replace(/&nbsp;/gi, '');
-                string = string.replace(/&[a-z0-9#]+;/gi, '');
-                return string;
-            };
+                    pathname  = window.location.pathname,
+                    parts     = pathname.slice(1).split('/'),
+                    smProduct, tmpElement, tmp,
 
-        if (parts[0]) {
-            switch (parts[0]) {
-                case 'authors':
-                    smProduct = { category : decodeURIComponent(parts[1]) };
-                    break;
+                    removeSpecChars = function(string) {
+                        if (!string) {
+                            return '';
+                        }
+                        string = string.replace(/&nbsp;/gi, '');
+                        string = string.replace(/&[a-z0-9#]+;/gi, '');
+                        return string;
+                    };
 
-                case 'lists':
-                    smProduct = { category : document.querySelector('.list-info-text').innerHTML };
-                    break;
+            if (parts[0]) {
+                switch (parts[0]) {
+                    case 'library':
+                        if (parts[1] !== undefined) {
+                            if (parts[1] == 'bigbook2014') {
+                                smProduct = { category : 'Большая Книга 2014' }
+                            } else {
+                                smProduct = { category : decodeURIComponent(parts[1]) }
+                            }
+                        }
+                        break;
 
-                case 'books':
-                    if (parts[1] === 'search') {
-                        smProduct = { category : decodeURIComponent(window.location.search).slice(1).split('&')[0].split('=')[1] };
+                    case 'authors':
+                        smProduct = { category : decodeURIComponent(parts[1]) };
+                        break;
+
+                    case 'lists':
+                        smProduct = { category : document.querySelector('.list-info-text').innerHTML };
+                        break;
+
+                    case 'books' || (BM.config && BM.config.mainConfig && BM.config.mainConfig.scriptTemplate === 'users/library_cards'):
+                        if (parts[1] === 'search') {
+                            smProduct = { category : decodeURIComponent(window.location.search).slice(1).split('&')[0].split('=')[1] };
 
 
-                    } else {
-                        if (document.querySelector('[role=book-cover]') === null) {
-                            return;
+                        } else {
+                            if (document.querySelector('[role=book-cover]') === null) {
+                                return;
+                            }
+
+                            (function(){
+
+                                var bookTitle = removeSpecChars(document.querySelector('[role=bookpage-title]').innerHTML),
+                                    bookAuthor = removeSpecChars(document.querySelector('[role=bookpage-author] .bookpage-author-link').innerHTML),
+                                    bookDesc   = ['', '', '— читайте на Bookmate.'],
+                                    symbolsLeft;
+
+                                bookAuthor.indexOf(',') !== -1 ? bookDesc[0] = bookAuthor.split(',')[0] : bookDesc[0] = bookAuthor;
+
+                                symbolsLeft = SOCIOMANTIC_DESC_MAX_LENGTH - bookDesc.join(' ').length - 5; /* погрешность */
+                                if (bookTitle.length > symbolsLeft) {
+                                    bookDesc[1] = bookTitle.slice(0, symbolsLeft - 3);
+                                    bookDesc[1] = bookDesc[1].slice(0, bookDesc[1].lastIndexOf(' '));
+                                    bookDesc[1] = '"' + bookDesc[1] + '..."';
+                                } else {
+                                    bookDesc[1] = '"' + bookTitle + '"';
+                                }
+
+                                smProduct = {
+                                    identifier  : parts[1],
+                                    fn          : 'Читайте на Bookmate',
+                                    //description : document.querySelector('[role=bookpage-annotation]').innerHTML,
+                                    //description : bookDesc.join(' '),
+                                    description : removeSpecChars(document.querySelector('[role=bookpage-title]').innerHTML),
+                                    category    : [],
+                                    brand       : document.querySelector('[role=bookpage-author] .bookpage-author-link').innerHTML,
+                                    price       : '150',
+                                    amount      : '150',
+                                    currency    : 'RUB',
+                                    url         : window.location.origin + window.location.pathname
+                                };
+
+                                /* product photo */
+                                tmp = 'http://assets.bookmate.com' + document.querySelector('[role=book-cover]').getAttribute('src');
+                                smProduct.photo = tmp.slice(0, tmp.lastIndexOf('?'));
+
+                                if (tmpElement = document.querySelector('[role=bookpage-tags]')) {
+                                    Array.prototype.slice.call(tmpElement.querySelectorAll('[role=bookpage-tags-list-item-link]'), 0).forEach(function(elem) {
+                                        smProduct.category.push(elem.innerHTML);
+                                    });
+                                } else if (document.querySelector('[data-availability]') !== null) {
+                                    switch(document.querySelector('[data-availability]').getAttribute('data-availability')) {
+                                        case 'free':
+                                            smProduct.category.push('free');
+                                            break;
+                                        case 'paid':
+                                            smProduct.category.push('paid');
+                                            break;
+                                        case 'private':
+                                            smProduct.category.push('self-upload');
+                                            break;
+                                    }
+                                }
+
+
+                            }());
                         }
 
-                        (function(){
-
-                            var bookTitle = removeSpecChars(document.querySelector('[role=bookpage-title]').innerHTML),
-                                bookAuthor = removeSpecChars(document.querySelector('[role=bookpage-author] .bookpage-author-link').innerHTML),
-                                bookDesc   = ['', '', '— читайте на Bookmate.'],
-                                symbolsLeft;
-
-                            bookAuthor.indexOf(',') !== -1 ? bookDesc[0] = bookAuthor.split(',')[0] : bookDesc[0] = bookAuthor;
-
-                            symbolsLeft = SOCIOMANTIC_DESC_MAX_LENGTH - bookDesc.join(' ').length - 5; /* погрешность */
-                            if (bookTitle.length > symbolsLeft) {
-                                bookDesc[1] = bookTitle.slice(0, symbolsLeft - 3);
-                                bookDesc[1] = bookDesc[1].slice(0, bookDesc[1].lastIndexOf(' '));
-                                bookDesc[1] = '"' + bookDesc[1] + '..."';
-                            } else {
-                                bookDesc[1] = '"' + bookTitle + '"';
-                            }
-
-                            smProduct = {
-                                identifier  : parts[1],
-                                fn          : removeSpecChars(document.querySelector('[role=bookpage-title]').innerHTML),
-                                //description : document.querySelector('[role=bookpage-annotation]').innerHTML,
-                                description : bookDesc.join(' '),
-                                category    : [],
-                                brand       : document.querySelector('[role=bookpage-author] .bookpage-author-link').innerHTML,
-                                price       : '150',
-                                amount      : '150',
-                                currency    : 'RUB',
-                                url         : window.location.href
-                            };
-
-                            /* product photo */
-                            tmp = 'http://assets.bookmate.com' + document.querySelector('[role=book-cover]').getAttribute('src');
-                            smProduct.photo = tmp.slice(0, tmp.lastIndexOf('?'));
-
-                            if (tmpElement = document.querySelector('[role=bookpage-tags]')) {
-                                Array.prototype.slice.call(tmpElement.querySelectorAll('[role=bookpage-tags-list-item-link]'), 0).forEach(function(elem) {
-                                    smProduct.category.push(elem.innerHTML);
-                                });
-                            } else if (document.querySelector('[data-availability]') !== null) {
-                                switch(document.querySelector('[data-availability]').getAttribute('data-availability')) {
-                                    case 'free':
-                                        smProduct.category.push('free');
-                                        break;
-                                    case 'paid':
-                                        smProduct.category.push('paid');
-                                        break;
-                                    case 'private':
-                                        smProduct.category.push('self-upload');
-                                        break;
-                                }
-                            }
-
-
-                        }());
-                    }
-
-                    break;
+                        break;
+                }
             }
+
+            if (smProduct) {
+                window.product = smProduct;
+            }
+
+            (function(){
+                var s   = document.createElement('script');
+                var x   = document.getElementsByTagName('script')[0];
+                s.type  = 'text/javascript';
+                s.async = true;
+                s.src   = ('https:'==document.location.protocol?'https://':'http://')
+                        + 'eu-sonar.sociomantic.com/js/2010-07-01/adpan/bookmate-ru';
+                x.parentNode.insertBefore( s, x );
+            })();
+
+        };
+
+        if (document.addEventListener) {
+            document.addEventListener('DOMContentLoaded', sociomantic);
+        } else {
+            window.onload = sociomantic;
         }
 
-        if (smProduct) {
-            window.product = smProduct;
-        }
 
-
-        /*(function(){
-            var s   = document.createElement('script');
-            var x   = document.getElementsByTagName('script')[0];
-            s.type  = 'text/javascript';
-            s.async = true;
-            s.src   = ('https:'==document.location.protocol?'https://':'http://')
-                    + 'eu-sonar.sociomantic.com/js/2010-07-01/adpan/bookmate-ru';
-            x.parentNode.insertBefore( s, x );
-        })();*/
-
-    };
+    }(this));
 </script>
 
-    <!-- Продвинутая ассинхронная загрузка ядра JS и нераспределенных скриптов application.js -->
-    <script type="text/javascript">
-      // !function(e,t,r){function n(){for(;d[0]&&"loaded"==d[0][f];)c=d.shift(),c[o]=!i.parentNode.insertBefore(c,i)}for(var s,a,c,d=[],i=e.scripts[0],o="onreadystatechange",f="readyState";s=r.shift();)a=e.createElement(t),"async"in i?(a.async=!1,e.head.appendChild(a)):i[f]?(d.push(a),a[o]=n):e.write("<"+t+' src="'+s+'" defer></'+t+">"),a.src=s}(document,"script",[
-          // '/javascript/core.min.js?end2-8223-g94f7fe5'
-      // ]);
-    </script>
+    <!-- Get intent -->
+    
+
+<script type="text/javascript">
+    if (typeof __GetI === "undefined") {
+        __GetI = [];
+    }
+    (function () {
+        var p = {
+            type: "VIEW",
+            site_id: "197"
+        };
+        __GetI.push(p);
+        var domain = (typeof __GetI_domain) == "undefined" ? "px.adhigh.net" : __GetI_domain;
+        var src = ('https:' == document.location.protocol ? 'https://' : 'http://') + domain + '/p.js';
+        var script = document.createElement( 'script' );
+        script.type = 'text/javascript';
+        script.src = src;
+        document.body.appendChild(script);
+    })();
+</script><script type="text/javascript" src="https://px.adhigh.net/p.js"></script>
+    
+
+<script id="get-intent-conversion-pixel" type="text/template">
+    if (typeof __GetI === "undefined") {
+        __GetI = [];
+    }
+    (function () {
+        var p = {
+            type: "CONVERSION",
+            site_id: "197"
+            
+        };
+        __GetI.push(p);
+        var domain = (typeof __GetI_domain) == "undefined" ? "px.adhigh.net" : __GetI_domain;
+        var src = ('https:' == document.location.protocol ? 'https://' : 'http://') + domain + '/p.js';
+        var script = document.createElement( 'script' );
+        script.type = 'text/javascript';
+        script.src = src;
+        document.body.appendChild(script);
+    })();
+</script>
+    
+
+<script id="get-intent-cart-pixel" type="text/template">
+    if (typeof __GetI === "undefined") {
+        __GetI = [];
+    }
+    (function () {
+        var p = {
+            type: "CART_ADD",
+            site_id: "197"
+        };
+        __GetI.push(p);
+        var domain = (typeof __GetI_domain) == "undefined" ? "px.adhigh.net" : __GetI_domain;
+        p["forward_tag"] = p["forward_tag"] || false;
+        var src = ('https:' == document.location.protocol ? 'https://' : 'http://') + domain + '/p.js';
+        var script = document.createElement( 'script' );
+        script.type = 'text/javascript';
+        script.src = src;
+        document.body.appendChild(script);
+    })();
+</script>
 
     <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 
 
-    <script id="bookmate-popup-embed-template" type="text/template"><div class="bm-popup-embed"><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /><div class="bm-popup-header"><div class="bm-popup-header-text header-select-method">Поставить книгу на другой сайт</div></div><div class="bm-popup-inner-content"><div class="bm-popup-subheader">Код для сайта</div><textarea class="bm-input bm-popup-embed-code" readonly="readonly" role="embed-code"><a href="http://bookmate.com/r#d=%BOOK_UUID%" onclick="window.open(&#39;http://bookmate.com/r#d=%BOOK_UUID%&#39;, &#39;Bookmate&#39;, {}); return false;" style="display:block;height:40px;outline:medium none;text-align:left;width:113px;text-decoration:none" target="_blank"><img height="40px" src="http://bookmate.com/pipeline/embed/read_button_static_en@2x.png" width="113px" /></a></textarea><div class="bm-popup-subheader">Пример кнопки</div><div class="bm-popup-embed-button-preview"></div></div></div></script>
-    <script id="bookmate-popup-payment-template" type="text/template"><div class="bookmate-popup-payment"><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /><div class="popup-header"><div class="popup-header-text header-select-method">Choose a payment method</div><div class="popup-header-text header-payment-success">Subscription successful</div></div><div class="popup-payment-content-wrapper" slide="first"><div class="popup-payment-content slide-payment-details"><div class="payment-buttons-wrapper"><div class="bookmate-button popup-payment-button popup-payment-button-visa"><div class="button-icon-inverted icon-visa"></div><div class="button-icon icon-visa"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-qiwi"><div class="button-icon-inverted icon-qiwi"></div><div class="button-icon icon-qiwi"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-paypal"><div class="button-icon-inverted icon-paypal"></div><div class="button-icon icon-paypal"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-webmoney"><div class="button-icon-inverted icon-webmoney"></div><div class="button-icon icon-webmoney"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-yandex-money"><div class="button-icon-inverted icon-yandex-money"></div><div class="button-icon icon-yandex-money"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-sms"><span class="button-text">SMS</span></div><div class="bookmate-button popup-payment-button popup-payment-button-promo-code"><span class="button-text">Gift code</span></div></div><div class="payment-dynamic-content"><div class="payment-subscription-interval" hidden="hidden"><div class="interval-buttons interval-buttons-webmoney"><a href="/payments/wmr/pay?amount=150" class="bookmate-button bookmate-button-grey button-interval-month" data-period="month">1 month — 150 rubles</a><a href="/payments/wmr/pay?amount=1500" class="bookmate-button bookmate-button-green button-interval-year" data-period="year">1 year — 1500 rubles</a></div><div class="interval-buttons interval-buttons-paypal"><form action="/payments/paypal/checkout" class="interval-form interval-form-month" method="post"><input data-period="month" name="amount" type="hidden" value="5.0" /><input class="bookmate-button bookmate-button-grey button-interval-month" type="submit" value="1 month — $5.00" /></form><form action="/payments/paypal/checkout" class="interval-form interval-form-year" method="post"><input data-period="year" name="amount" type="hidden" value="50.0" /><input class="bookmate-button bookmate-button-green button-interval-year" type="submit" value="1 year — $50.00" /></form></div><div class="interval-buttons interval-buttons-yandex-money" hidden="hidden"><a href="/payments/yandex/pay?amount=150" class="bookmate-button bookmate-button-grey button-interval-month" data-period="month">1 month — 150 rubles</a><a href="/payments/yandex/pay?amount=1500" class="bookmate-button bookmate-button-green button-interval-year" data-period="year">1 year — 1500 rubles</a></div><div class="interval-buttons interval-buttons-visa" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-month">Monthly — 150 rubles</button><button class="bookmate-button bookmate-button-green button-interval-year">Annual — 1500 rubles</button></div><div class="interval-buttons interval-buttons-qiwi" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-month" value="150">1 month — 150 rubles</button><button class="bookmate-button bookmate-button-green button-interval-year" value="1500">1 year — 1500 rubles</button></div></div><div class="payment-details payment-details-visa" hidden="hidden"><div class="payment-details-text">Your subscription will be automatically renewed until cancelled<br /><br /><a href="/about/russian_standard" class="payment-details-link">More info on payment via card</a></div></div><div class="payment-details payment-details-yandex-money" hidden="hidden"><div class="payment-details-text">With Yandex.Money you can easily and securely pay for goods and services on the Internet. After filling the form in our online store, you will be redirected to Yandex.Money website where you can complete your payment. If you do not have Yandex.Money account you can create one on the website.</div></div><div class="payment-details payment-details-paypal" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-qiwi" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-webmoney" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-sms" hidden="hidden"><div class="payment-details-text">To purchase 1 month subscription, send an SMS with "book " to 7498.</div><div class="payment-details-text">The price of subscription when processed through SMS ranges from <span class="text-emphasis">250 to 360 rubles</span> including the operator's charge.<br />This service is only available in Russia.<br /><a href="http://rates.pl3.com/default.aspx" class="payment-details-link" target="_blank">Details of operator charges</a></div></div><div class="payment-form payment-form-visa" hidden="hidden"><div class="form-item form-item-card-number" data-card-type="unknown"><div class="form-item-label"><div class="form-item-label-text">Card number</div></div><input class="bookmate-input form-visa-input-card-number" type="text" /><div class="card-type-image-wrapper"><div class="card-type-image"></div></div></div><div class="form-item form-item-card-till-date"><div class="form-item-label"><div class="form-item-label-text">Expiration month and year</div></div><input class="bookmate-input form-visa-input-card-month" maxlength="2" type="text" /><input class="bookmate-input form-visa-input-card-year" maxlength="2" type="text" /></div><div class="form-item form-item-submit"><div class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</div><div class="form-item-error" hidden="hidden">Invalid card data</div></div><div class="payment-details form-visa-payment-details"><div class="payment-details-text">This website supports 128 bit encryption. Information on this page is secure.</div></div></div><div class="payment-form payment-form-qiwi" hidden="hidden"><div class="form-item form-item-phone-number"><div class="form-item-label"><div class="form-item-label-text">Phone number</div></div><input class="bookmate-input form-qiwi-input-phone-number" type="phone" value="+7" /></div><div class="form-item form-item-submit"><button class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</button></div><div class="payment-details form-qiwi-payment-details"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div></div><div class="payment-form payment-form-sms" hidden="hidden"><div class="form-text text-emphasis">Waiting for your SMS</div><div class="form-loader-sms"></div><div class="form-text">The page will be reloaded after the payment is processed.</div></div><div class="payment-form payment-subscription-code" hidden="hidden"><div action="/payments/promo/use_v2" class="promo-code-form" method="POST"><div class="form-text">Enter your promo-code below</div><div class="form-item form-item-code"><input autocapitalize="off" autocomplete="off" class="form-input bookmate-input promo-code-input" name="code" placeholder="Enter the code" type="text" /><button class="bookmate-button bookmate-button-green promo-code-submit" disabled="disabled">Submit</button><div class="error-message" hidden="hidden"></div></div></div></div></div></div><div class="popup-payment-content slide-payment-success"><div class="slide-payment-success-content"><div class="icon-success"></div><div class="text-success">Your subscription expires<br/>on <span class="date-till">&nbsp;25/02/2015</span></div><button class="bookmate-button bookmate-button-green button-close">Close</button></div></div></div></div></script>
+    <script id="bookmate-popup-embed-template" type="text/template"><div class="bm-popup-embed"><input name="authenticity_token" type="hidden" value="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" /><div class="bm-popup-header"><div class="bm-popup-header-text header-select-method">Поставить книгу на другой сайт</div></div><div class="bm-popup-inner-content"><div class="bm-popup-subheader">Код для сайта</div><textarea class="bm-input bm-popup-embed-code" readonly="readonly" role="embed-code"><a href="http://bookmate.com/reader/%BOOK_UUID%" onclick="window.open(&#39;http://bookmate.com/reader/%BOOK_UUID%&#39;, &#39;Bookmate Embedded Reader&#39;, {}); return false;" style="display:block;height:40px;outline:medium none;text-align:left;width:113px;text-decoration:none" target="_blank"><img height="40px" src="http://bookmate.com/pipeline/embed/read_button_static_en@2x.png" width="113px" /></a></textarea><div class="bm-popup-subheader">Пример кнопки</div><div class="bm-popup-embed-button-preview"></div></div></div></script>
+    <script id="bookmate-popup-book-mistake-template" type="text/template"><div class="bm-popup-book-mistake"><input name="authenticity_token" type="hidden" value="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" /><div class="bm-popup-header"><div class="bm-popup-header-text">An error in the book report</div></div><div class="bm-popup-inner-content"><div class="bm-dynamic-content" role="dynamic-content"><div class="bm-dynamic-content-step visible" data-step="1"><div class="bm-popup-book-mistake-select-wrapper"><select class="bm-popup-book-mistake-select" role="form-theme"><optgroup label="Catalogue errors"><option value="wrong name of the author or title">wrong name of the author or title</option><option value="annotation or illustration does not match the content">annotation or illustration does not match the content</option><option value="errors, typos in the annotation, the book title or author's name">errors, typos in the annotation, the book title or author's name</option><option value="other...">other...</option></optgroup><optgroup label="Content errors"><option value="incomplete version of the book">incomplete version of the book</option><option value="typos, errors in the text">typos, errors in the text</option><option value="other...">other...</option></optgroup><optgroup label="Application errors"><option value="the book doesn't open">the book doesn't open</option><option value="the mobile application crashes when reading">the mobile application crashes when reading</option><option value="it takes too long to load (or doesn't load at all)">it takes too long to load (or doesn't load at all)</option><option value="links or footnotes in the book do not open">links or footnotes in the book do not open</option><option value="other...">other...</option></optgroup><optgroup label=""><option value="Wishes and comments">Wishes and comments</option></optgroup></select></div><textarea class="bm-input bm-popup-book-mistake-textarea-message" placeholder="Please describe what's happening in details" role="form-message"></textarea><button class="bookmate-button bookmate-button-green bm-button-green bm-popup-book-mistake-button-submit" role="form-button-submit">Send</button></div><div class="bm-dynamic-content-step" data-step="2"><div class="bm-popup-book-mistake-checkmark-success" role="checkmark-success"></div><div class="bm-popup-book-mistake-thank-you">Thank's for Your attention!</div></div></div></div></div></script>
+    <script id="bookmate-popup-payment-template" type="text/template"><div class="bookmate-popup-payment"><input name="authenticity_token" type="hidden" value="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" /><div class="popup-header"><div class="popup-header-text header-select-method">Choose a payment method</div><div class="popup-header-text header-payment-success">Subscription successful</div></div><div class="popup-payment-content-wrapper" slide="first"><div class="popup-payment-content slide-payment-details"><div class="payment-buttons-wrapper"><div class="bookmate-button popup-payment-button popup-payment-button-visa"><div class="button-icon-inverted icon-visa"></div><div class="button-icon icon-visa"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-qiwi"><div class="button-icon-inverted icon-qiwi"></div><div class="button-icon icon-qiwi"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-paypal"><div class="button-icon-inverted icon-paypal"></div><div class="button-icon icon-paypal"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-webmoney"><div class="button-icon-inverted icon-webmoney"></div><div class="button-icon icon-webmoney"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-yandex-money"><div class="button-icon-inverted icon-yandex-money"></div><div class="button-icon icon-yandex-money"></div></div><div class="bookmate-button popup-payment-button popup-payment-button-sms"><span class="button-text">SMS</span></div><div class="bookmate-button popup-payment-button popup-payment-button-promo-code"><span class="button-text">Gift code</span></div></div><div class="payment-dynamic-content"><div class="payment-subscription-interval" hidden="hidden"><div class="interval-buttons interval-buttons-webmoney"><a href="/payments/wmr/pay?amount=150" class="bookmate-button bookmate-button-grey button-interval-month" data-period="month">1 month — 150 rubles</a><a href="/payments/wmr/pay?amount=1500" class="bookmate-button bookmate-button-green button-interval-year" data-period="year">1 year — 125 rubles per month</a></div><div class="interval-buttons interval-buttons-paypal"><form action="/payments/paypal/checkout" class="interval-form interval-form-month" method="post"><input data-period="month" name="amount" type="hidden" value="5.0" /><input class="bookmate-button bookmate-button-grey button-interval-month" type="submit" value="1 month — $5.00" /></form><form action="/payments/paypal/checkout" class="interval-form interval-form-year" method="post"><input data-period="year" name="amount" type="hidden" value="50.0" /><input class="bookmate-button bookmate-button-green button-interval-year" type="submit" value="1 year — $4.17 per month" /></form></div><div class="interval-buttons interval-buttons-yandex-money" hidden="hidden"><a href="/payments/yandex/pay?amount=150" class="bookmate-button bookmate-button-grey button-interval-month" data-period="month">1 month — 150 rubles</a><a href="/payments/yandex/pay?amount=1500" class="bookmate-button bookmate-button-green button-interval-year" data-period="year">1 year — 125 rubles per month</a></div><div class="interval-buttons interval-buttons-visa" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-month">1 month — 150 rubles</button><button class="bookmate-button bookmate-button-green button-interval-year">1 year — 125 rubles per month</button><label class="label-interval-year">You will be debited an annual subscription - 1500 rubles</label></div><div class="interval-buttons interval-buttons-qiwi" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-month" value="150">1 month — 150 rubles</button><button class="bookmate-button bookmate-button-green button-interval-year" value="1500">1 year — 125 rubles per month</button></div><div class="interval-buttons interval-buttons-sms" hidden="hidden"><button class="bookmate-button bookmate-button-grey button-interval-day">Daily — 6 rubles</button><button class="bookmate-button bookmate-button-green button-interval-month">1 month &ndash; from 250 rubles</button></div></div><div class="payment-details payment-details-visa" hidden="hidden"><div class="payment-details-text">Subscription will be renewed automatically. You can cancel automatic renewal at any time<br /><br /><a href="/about/russian_standard" class="payment-details-link">About payment by card</a></div></div><div class="payment-details payment-details-yandex-money" hidden="hidden"><div class="payment-details-text">We will now transfer you to the payment handler website</div><div class="payment-details-text">With Yandex.Money you can easily and securely pay for goods and services on the Internet. After filling the form in our online store, you will be redirected to Yandex.Money website where you can complete your payment. If you do not have Yandex.Money account you can create one on the website.</div></div><div class="payment-details payment-details-paypal" hidden="hidden"><div class="payment-details-text">You will be redirected to the payment operator&#39;s website.</div></div><div class="payment-details payment-details-qiwi" hidden="hidden"><div class="payment-details-text">After entering your number you will be transferred to the payment handler website</div></div><div class="payment-details payment-details-webmoney" hidden="hidden"><div class="payment-details-text">We will now transfer you to the payment handler website</div></div><div class="payment-form payment-form-visa" hidden="hidden"><div class="form-item form-item-card-number" data-card-type="unknown"><div class="form-item-label"><div class="form-item-label-text">Card number</div></div><input class="bookmate-input form-visa-input-card-number" type="text" /><div class="card-type-image-wrapper"><div class="card-type-image"></div></div></div><div class="form-item form-item-card-till-date"><div class="form-item-label"><div class="form-item-label-text">Expiration month and year</div></div><input class="bookmate-input form-visa-input-card-month" maxlength="2" type="text" /><input class="bookmate-input form-visa-input-card-year" maxlength="2" type="text" /></div><div class="form-item form-item-submit"><div class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</div><div class="form-item-error" hidden="hidden">Invalid card data</div></div><div class="payment-details form-visa-payment-details"><div class="payment-details-text">This website supports 128 bit encryption. Information on this page is secure.</div></div></div><div class="payment-form payment-form-qiwi" hidden="hidden"><div class="form-item form-item-phone-number"><div class="form-item-label"><div class="form-item-label-text">Phone number</div></div><input class="bookmate-input form-qiwi-input-phone-number" type="phone" value="+7" /></div><div class="form-item form-item-submit"><button class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</button></div><div class="payment-details form-qiwi-payment-details"><div class="payment-details-text">After entering your number you will be transferred to the payment handler website</div></div></div><div class="payment-form payment-form-sms" hidden="hidden"><div class="form-sms-section section-inplat" data-step="1"><div class="form-sms-block" role="block-fields"><div class="payment-details details-notice"><div class="payment-details-text">The price of subscription by SMS is <span class=\"text-emphasis\">6 rubles a day</span> including VAT. To confirm your subscription send a free SMS. This service is available only in Russia.</div></div><div class="form-sms-section-form"><div class="form-item form-item-phone-number"><div class="form-item-label"><div class="form-item-label-text">Phone number</div></div><input class="bookmate-input form-sms-input-phone-number" type="phone" value="+7" /><div class="form-item-error" hidden="hidden"></div></div><div class="form-item form-item-submit"><button class="bookmate-button bookmate-button-green button-submit" disabled="disabled">Pay</button></div><div class="payment-details details-recurrent"><div class="payment-details-text">Your subscription will be automatically renewed</div></div></div></div><div class="form-sms-block" hidden="hidden" role="block-not-supported"><div class="form-text text-emphasis">Your tariff does not support mobile payments</div></div><div class="form-sms-block" hidden="hidden" role="block-waiting"><div class="form-text text-emphasis">To complete your payment, reply to this SMS</div><div class="form-loader-sms"></div><div class="form-text">The page will automatically refresh</div></div></div><div class="form-sms-section section-planet3" data-step="2"><div class="payment-details details-notice"><div class="payment-details-text">To purchase 1 month subscription, send an SMS with "book " to 7498.<br /><br />The price of subscription when processed through SMS ranges from <span class="text-emphasis">250 to 360 rubles</span> including the operator's charge.<br />This service is only available in Russia.<br /><a href="http://rates.pl3.com/default.aspx" class="payment-details-link" target="_blank">Details of operator charges</a></div></div><div class="form-sms-section-form"><div class="form-text text-emphasis">Waiting for your SMS</div><div class="form-loader-sms"></div><div class="form-text">The page will automatically refresh</div></div></div></div><div class="payment-form payment-subscription-code" hidden="hidden"><div action="/payments/promo/use_v2" class="promo-code-form" method="POST"><div class="form-text">Enter your promo-code below</div><div class="form-item form-item-code"><input autocapitalize="off" autocomplete="off" class="form-input bookmate-input promo-code-input" name="code" placeholder="Enter the code" type="text" /><button class="bookmate-button bookmate-button-green promo-code-submit" disabled="disabled">Submit</button><div class="error-message" hidden="hidden"></div></div></div></div></div></div><div class="popup-payment-content slide-payment-success"><div class="slide-payment-success-content"><div class="icon-success"></div><div class="text-success">Your subscription expires<br/>on <span class="date-till">&nbsp;25/02/2015</span></div><button class="bookmate-button bookmate-button-green button-close">Close</button></div></div></div></div></script>
+    <script id="bookmate-popup-recurrent-present-template" type="text/template"><div class="bm-popup-recurrent-present"><input name="authenticity_token" type="hidden" value="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" /><div class="bm-popup-header"><div class="bm-popup-header-text header-select-method">У вас уже есть подписка</div></div><div class="bm-popup-inner-content"><div class="bm-popup-text">К сожалению, вам недоступна подписка по телефону, потому что у вас уже активна возобновляемая подписка</div><button class="bookmate-button bm-button-lightblue bm-popup-button-close" role="button-close">ОК</button></div></div></script>
+
+    <script id="bm-button-read-template" type="text/template"><div class="bm-read-button-wrapper" data-align="readbutton" data-config="" role="bm-button-read"><button class="bm-button-lightblue bm-read-button" role="button-read-reader-open">Read</button><div class="bm-button-lightblue bm-read-side-button" role="button-read-side-button"><div class="plus-bars-box"><div class="plus-bar plus-block bar-1"></div><div class="plus-bar plus-block bar-2"></div><div class="plus-bar plus-block bar-3"></div><div class="plus-bar plus-block bar-4"></div></div><div class="arrow-down"></div></div></div></script>
+    <script id="bm-button-read-dropdown-template" type="text/template"><div class="bm-button-read-dropdown-wrapper" hidden="hidden"><div class="bm-button-read-dropdown-box"><div class="bm-button-read-dropdown-container m-use-perspective" role="dropdown-container"><div class="bm-button-read-dropdown-container-action" role="action-continue-reading">Resume reading</div><div class="bm-button-read-dropdown-container-action" role="action-begin-reading">Start reading</div><div class="bm-button-read-dropdown-container-action" role="action-reopen">Reopen</div><div class="bm-button-read-dropdown-container-action" role="action-hide">Hide book</div><div class="bm-button-read-dropdown-container-action" role="action-show">Show book</div><div class="bm-button-read-dropdown-container-action" role="action-mark-as-read">Mark as read</div><div class="bm-button-read-dropdown-container-action" role="action-read-later">Remove bookmark</div><div class="bm-button-read-dropdown-container-action" role="action-embed-code">Embed code</div><div class="bm-button-read-dropdown-container-action" role="action-book-mistake">Report an error in the book</div><div class="bm-button-read-dropdown-container-action" role="action-edit">Edit</div><div class="bm-button-read-dropdown-container-action m-separated" data-confirm-text="Are you sure you want to remove this book from your library?" role="action-remove">Remove</div></div></div></div></script>
 
     
   <section class="overlayContainer">
@@ -963,7 +1082,7 @@
 
   <h3>Button</h3>
   
-  <img alt="Read_button_static_en" height="40" hidpi_src="https://assets.bookmate.com/pipeline/embed/read_button_static_en@2x-bc6671771fe710ff0aca95575df96068.png" src="https://assets.bookmate.com/pipeline/embed/read_button_static_en-5d8b4926b0a2766fc7505d44a49fa4e9.png">
+  <img alt="Read_button_static_en" data-hidpi-src="https://assets.bookmate.com/pipeline/embed/read_button_static_en@2x-bc6671771fe710ff0aca95575df96068.png" height="40" src="https://assets.bookmate.com/pipeline/embed/read_button_static_en-5d8b4926b0a2766fc7505d44a49fa4e9.png">
 
   <hr>
 
@@ -990,7 +1109,7 @@
 
   <form accept-charset="UTF-8" action="/feedback/book_mistake" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <meta content="authenticity_token" name="csrf-param">
-<meta content="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" name="csrf-token">
+<meta content="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" name="csrf-token">
 
     <input id="mistake_url" name="mistake[url]" type="hidden">
 
@@ -1051,7 +1170,7 @@
 </script>
 </section>
   <section class="auth-block" id="byEmail">
-<form accept-charset="UTF-8" action="/entrance" class="formtastic_auth formtastic" data-remote="true" id="new_user_session" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /></div>
+<form accept-charset="UTF-8" action="/entrance" class="formtastic_auth formtastic" data-remote="true" id="new_user_session" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" /></div>
   <input type="hidden" name="redirect" value="true" id="new-user-session-redirect-toggle"/>
   
   <fieldset class="formtastic-inputs"><ol>
@@ -1081,7 +1200,7 @@
 
 
 </section>
-  <section class="auth-block" id="forgotForm"><form accept-charset="UTF-8" action="http://bookmate.com/reset" class="formtastic_auth formtastic" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="alXI5TDsbCkvQ/jL9H2pVz3Rt8Bco8JPDP1YGPhST54=" /></div>
+  <section class="auth-block" id="forgotForm"><form accept-charset="UTF-8" action="https://bookmate.com/reset" class="formtastic_auth formtastic" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vtQdrzdRWcsc4yyjN1VUJ3Y5HhiTHiEnIHSNtur4J8w=" /></div>
 
   <input class="bookmate-input" id="user_login" name="user[login]" placeholder="Your email address" size="30" type="text" />
   <input class="bookmate-button bookmate-button-grey checkIsClicked" id="reset" name="commit" type="submit" value="Reset my password" />
@@ -1140,7 +1259,9 @@ window.addEventListener('load', function () {
 
     <!--Экран входа\регистрации-->
 <form class="authpopup-form authpopup-login">
-    <h2 class="authpopup-header m-bookmate-logo"></h2>
+    <h2 class="authpopup-header m-bookmate-logo">
+        <span class="back-icon">D</span>
+    </h2>
     <div class="authpopup-content">
         <input data-test="login-input" type="text" class="authpopup-input bookmate-input js-login-input" placeholder="E-mail or phone number">
         <input data-test="pass-input" type="password" class="authpopup-input bookmate-input js-pass-input" placeholder="Password">
@@ -1154,6 +1275,7 @@ window.addEventListener('load', function () {
         <div class="authpopup-underbottom">
             <button class="authpopup-underbottom-button js-forgot">Forgot your password?</button>
         </div>
+        <div class="authpopup-back-icon-footer"><span>← Back</span></div>
     </div>
 </form>
 
@@ -1239,8 +1361,8 @@ window.addEventListener('load', function () {
 <form class="authpopup-form authpopup-passreset">
     <h2 class="authpopup-header m-simple-text">Confirmation code</h2>
     <div class="authpopup-content">
-        <p class="authpopup-desc">Within 30 seconds, you’ll receive a free SMS on your phone with the confirmation code</p>
-        <input type="text" class="authpopup-input bookmate-input js-code" placeholder="Enter the code">
+        <p class="authpopup-desc">Enter the verification code which has been sent to your number <span></span></p>
+        <input type="text" class="authpopup-input bookmate-input js-code">
         <p class="authpopup-entercode-status js-status"></p>
         <div class="authpopup-bottomrow">
             <button type="submit" class="authpopup-button bookmate-button bookmate-button-green m-long js-reset" disabled="disabled">
@@ -1248,7 +1370,7 @@ window.addEventListener('load', function () {
             </button>
         </div>
         <div class="authpopup-underbottom">
-            <button class="authpopup-underbottom-button js-resend">I haven’t received the code</button>
+            <button class="authpopup-underbottom-button js-resend">Send again</button>
         </div>
     </div>
 </form>
@@ -1298,22 +1420,24 @@ window.addEventListener('load', function () {
     <p class="authpopup-reader-addon">Join to continue reading this book for free – here or in the Bookmate app for your phone and tablet – and never lose your place</p>
     <div class="authpopup-reader-addon-image"></div>
 </script>
+
+<script id="authpopup-ulmart-addon" type="text/template">
+    <div class="authpopup-ulmart-content">
+        <div class="authpopup-ulmart-content-logo"></div>
+        <div class="authpopup-ulmart-content-text">Чтобы активировать подписку из Юлмарта, войдите в свой аккаунт или заведите новый</div>
+    </div>
+</script>
+
   </div>
 </div>
 
 
-  <script>
-	window.addEventListener('load', function () {
-    	$('[data-action="subscription"][data-action-trigger="banner"]')
-    		.on('click', Bookmate.beforeDefault(function (event) {
-    			return DIMixpanel.track('Subscription Button Pressed', {context: 'banner'});
-    		}));
-    });
-</script>
-
 
   
+  
 
+  
+  
 
 
   <div class="wrapper    about about-privacy user-guest en">
@@ -1323,7 +1447,7 @@ window.addEventListener('load', function () {
       
 <div class="layout-header">
 
-    <a href="/" class="bookmate-logo" data-mixpanelctx="logo"></a>
+    <a href="/" class="bm-logo" data-mixpanelctx="logo">B</a>
 
   <nav class="layout-header-menu">
 
@@ -1334,12 +1458,13 @@ window.addEventListener('load', function () {
   <div class="layout-header-box-right">
     <form action="/books/search" method="GET" class="layout-header-search bookmate-input-quicksearch">
       <div>
-        <input autocomplete="off" class="input" data-search="" id="query" name="query" placeholder="Search for books" role="input" type="text">
-        <input class="icon" type="submit">
+        <input autocomplete="off" class="input" data-search="" id="query" name="query" placeholder="Search for books" role="input" type="text" value="">
+        <input class="icon" type="submit" value="S">
       </div>
 
     </form>
-
+    
+    
     
 
           
@@ -1347,13 +1472,8 @@ window.addEventListener('load', function () {
   <span class="language-select-title">English</span>
   <span class="bookmate-icon-arrow-down"></span>
   <div class="dropdown-list">
-
         <span class="dropdown-item">English</span>
-
         <a href="/locale/switch?locale=ru" class="dropdown-item" data-method="post" rel="nofollow">Русский</a>
-
-        <a href="/locale/switch?locale=tr" class="dropdown-item" data-method="post" rel="nofollow">Türkçe</a>
-
         <a href="/locale/switch?locale=es" class="dropdown-item" data-method="post" rel="nofollow">Español</a>
   </div>
 </div>
@@ -1659,46 +1779,16 @@ window.addEventListener('load', function () {
 
 </section>
 </div>
-  <footer class="layout-footer">
-
-  <div class="layout-footer-content">
-
-      <section class="layout-footer-main-links">
-
-            <a href="http://support.bookmate.com/hc/en-us">Help center</a>
-
-
-
-
-          <a href="/about/copyright">Copyright Notice</a>
-          
-            <span>Privacy Policy</span>
-
-            <a href="mailto:publishers@bookmate.com?subject=I'm a publisher, tell me more">Publish</a>
-
-
-          
-      </section>
-
-      <section class="layout-footer-copyright">
-          <div class="layout-footer-copyright-text">© 2007–2014 Bookmate</div>
-
-          <a href="mailto:feedback@bookmate.com">Contact us</a>
-
-          <a href="/feedback">Reviews</a>      </section>
-
-  </div>
-
-    <!--<section class="layout-footer-box-right">
-        
-    </section>-->
-
-</footer>
+  <footer class="bm-layout-footer"><hr class="bm-footer-rule"><div class="bm-footer-content"><section class="bm-footer-links-block"><div class="bm-footer-language-select" role="bm-language-select"><div class="bm-footer-language-select-text" role="bm-language-select-dropdown-toggle">English</div><div class="bm-footer-language-select-icon m-en" role="bm-language-select-dropdown-toggle"></div><div class="bm-footer-language-select-popup" role="bm-language-select-dropdown-popup"><div class="bm-footer-language-select-popup-item m-selected"><div class="bm-footer-language-select-icon m-colored m-en"></div><div class="bm-footer-language-select-popup-item-text">English</div></div><a href="/locale/switch?locale=ru" class="bm-footer-language-select-popup-item" data-method="post" rel="nofollow"><div class="bm-footer-language-select-icon m-colored m-ru"></div><div class="bm-footer-language-select-popup-item-text">Русский</div></a><a href="/locale/switch?locale=es" class="bm-footer-language-select-popup-item" data-method="post" rel="nofollow"><div class="bm-footer-language-select-icon m-colored m-es"></div><div class="bm-footer-language-select-popup-item-text">Español</div></a><div class="bm-footer-language-select-popup-corner"></div></div></div><a href="/about" class="bm-footer-main-link">About</a><a href="http://publisher.bookmate.com" class="bm-footer-main-link">Publishers and Authors</a><a href="/about/contacts" class="bm-footer-main-link">Contact</a></section><section class="bm-footer-links-block"><a href="/about/jobs" class="bm-footer-main-link">Jobs</a><a href="http://support.bookmate.com/hc/en-us" class="bm-footer-main-link">Help Center</a><span class="bm-footer-main-link m-active">Legal</span><div class="bm-footer-copyrights">© 2007–2014 Bookmate</div></section><div class="bm-footer-store-links"><a class="bm-footer-store-links-item item-apple-store" data-app="iOS" href="http://hastrk1.com/serve?action=click&amp;publisher_id=52914&amp;site_id=46076&amp;offer_id=272974&amp;sub_site=book_page" target="_blank"></a><a class="bm-footer-store-links-item item-google-play" data-app="Android" href="https://play.google.com/store/apps/details?id=com.bookmate&amp;referrer=utm_source%3Dbook%26utm_medium%3Dlink%26utm_campaign%3Dsite" target="_blank"></a><a class="bm-footer-store-links-item item-windows-store" data-app="WP" href="http://www.windowsphone.com/ru-ru/store/app/bookmate/3f768a5b-c331-4e88-b8ab-86ce4b3f1645" target="_blank"></a></div></div></footer>
 
     
 
-          <script src="https://assets.bookmate.com/javascript/core.min.js?end2-8223-g94f7fe5.js" type="text/javascript"></script>
-    <script src="https://assets.bookmate.com/pipeline/application-33afe7602b34efc2d60c724ea7e4ccd6.js" type="text/javascript"></script>
+
+    <script src="https://assets.bookmate.com/javascript/core.js?end2-11386-g02b0775.js" type="text/javascript"></script>
+    <script src="https://assets.bookmate.com/javascript/modules.js?end2-11386-g02b0775.js" type="text/javascript"></script>
+
+      <script src="https://assets.bookmate.com/pipeline/application-0e76d1628da2081c3845a4cf87977a3f.js" type="text/javascript"></script>
+
     
 
     <script type="text/javascript">
@@ -1858,7 +1948,9 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
-      <script>
+      <div id="fb-root"></div>
+
+<script>
   window.fbAsyncInit = function() {
     FB.init({
       appId  : 124791507543584,
@@ -1888,26 +1980,30 @@ var google_remarketing_only = true;
     twitterWidgets.src = 'https://platform.twitter.com/widgets.js';
 
     // Setup a callback to track once the script loads.
-    twitterWidgets.onload = _ga.trackTwitter;
+    if (!!window._ga) {
+      twitterWidgets.onload = _ga.trackTwitter;
+    }
 
     document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
   })();
 </script>
-      <!-- perfectaudience -->
-<script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
-    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
-    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/5295ed446ce372ce50000045.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
-</script>
-<!-- /perfectaudience -->
+
       
+
+        <div style="position: absolute;height: 1px;width:1px;visibility: hidden;">
+
+            <!--  AdRiver code START. Type:counter(zeropixel) Site: bookmate PZ: 0 BN: 0 -->
+            <script type="text/javascript">
+                var RndNum4NoCash = Math.round(Math.random() * 1000000000);
+                var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
+                document.write('<img src="' + ('https:' == document.location.protocol ? 'https:' : 'http:') + '//ad.adriver.ru/cgi-bin/rle.cgi?' + 'sid=202243&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
+            </script><img src="https://ad.adriver.ru/cgi-bin/rle.cgi?sid=202243&amp;bt=21&amp;pz=0&amp;rnd=880545385&amp;tail256=unknown" border="0" width="1" height="1">
+            <noscript><img src="//ad.adriver.ru/cgi-bin/rle.cgi?sid=202243&bt=21&pz=0&rnd=225896464" border=0 width=1 height=1></noscript>
+            <!--  AdRiver code END  -->
+
+    </div>
+
 
   
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
