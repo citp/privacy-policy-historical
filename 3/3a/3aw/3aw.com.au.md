@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3aw.com.au privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512213555id_/http%3A//www.3aw.com.au/fairfax-privacy-policy/20090122-7nkz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3aw.com.au privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102113236id_/http%3A//www.3aw.com.au/fairfax-privacy-policy/20090122-7nkz.html) for the most accurate reproduction.*
 
 # Fairfax Privacy Policy
 
