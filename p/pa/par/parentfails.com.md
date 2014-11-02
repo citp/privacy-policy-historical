@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentfails.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131754id_/http%3A//www.pophangover.com/parentfails-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentfails.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102040256id_/http%3A//www.pophangover.com/parentfails-privacy-policy) for the most accurate reproduction.*
 
 # ParentFails Privacy Policy » POPHANGOVER
 
