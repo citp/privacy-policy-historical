@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410021005id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102074845id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
 
 # Whatuni privacy policy
 
@@ -58,6 +58,8 @@
 
 
 3.2 By agreeing to our Privacy Policy, you indicate your consent for us to use your Personal Information in the ways set out above. However, if you do not wish to receive certain newsletters and other mailings from us relating to our own products and services and those of organisations with whom we have a strategic relationship, please email us at never@hotcourses.com.
+
+3.3 Hotcourses Ltd also collects potentially personally-identifying information that is collected by Google Analytics. The analytics feature Hotcourses has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the Doubleclick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings.](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/)
 
 ## 4\. Disclosures
 
