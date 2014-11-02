@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528214329id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102144449id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
 
 # Mobage
 
@@ -190,4 +190,4 @@ If you have any questions, inquires, requests or complaints concerning our Priva
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
-[](https://www.export.gov/safeharbor)
+[](http://www.export.gov/safeharbor)
