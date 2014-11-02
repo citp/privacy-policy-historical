@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100240id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102083359id_/http%3A//www.sanfordhealth.org/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy for SanfordHealth.org
+# Privacy Policy
 
 At Sanford, we vow to keep any information that we collect via our web site confidential. This includes your name, address, email address and other information that you disclose. The data you provide us is used to process the services in which you have requested and is only accessed by authorized personnel.
 
