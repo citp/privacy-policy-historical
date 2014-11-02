@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616091705id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123547id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Horoscopes-Love.eu
+# Privacy Policy
 
-Details
-     Category: [Uncategorised](http://www.horoscopes-love.eu/uncategorised)
-     Published on February 29, 2012
-     Written by admin
+     Category: [Uncategorised](http://www.horoscopes-love.eu/privacy-policy/uncategorised)
+     Published on February 29, 2012 
+     Written by admin 
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -68,8 +67,18 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.horoscopes-love.eu            [info@horoscopes-love.eu](mailto:info@horoscopes-love.eu) 
 
-Related Articles/Posts
+#### Share this post:
 
-[](http://www.horoscopes-love.eu/our-partners.php "Our Partners, Article has been viewed 5103 times, Created by admin")[Our Partners...](http://www.horoscopes-love.eu/our-partners.php "Our Partners, Article has been viewed 5103 times, Created by admin")  
-Live Astrology Readings from Astro*Live*Link Consult expert professi...  
+#### Need help?
+
+Love, relationship, family, career and health problems? Visit portal with free chat that connects you with the world's most renowned Psychics. [Click here ](http://www.oranum.com/randomchat.php?s=1&p=6&w=100393&t=36&c=5961)
+
+#### Horoscope 2015 iOS App
+
+Download latest horoscope apps for iPhone/iPad [here](http://apps.horoscopes-love.eu/).
+
+#### Related Articles
+
+[](http://www.horoscopes-love.eu/our-partners "Our Partners")[Our Partners...](http://www.horoscopes-love.eu/our-partners "Our Partners")  
+Live Astrology Readings from Astro*Live*Link Consult expert professional astrologers for a reading over the telephone from anywhere in the world. Advice on your horoscope, future, love, compatibility or money. Astrodir.com - the cream of astrology websites . Top 100 H...  
 
