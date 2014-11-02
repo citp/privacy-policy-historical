@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tattoobite.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107144502id_/http%3A//www.tattoobite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoobite.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102125633id_/http%3A//www.tattoobite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tattoobite.com
+# Privacy Policy and Designs
 
-## Privacy Policy
-
-The following Privacy Statement discloses the information gathering and dissemination practices for Tattoobite.com
+The following Privacy Statement discloses the information gathering and dissemination practices for Tattoobite.com.com
 
 Our site, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. A cookie is a message that is sent to a browser from a Web server and stored on your computer’s hard drive. Cookies help us keep track of the size of our audience, the frequency of visits to our Site and the areas that are most popular. If a guest makes a purchase, cookies are used to keep the shopping cart active during the shopping process. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
@@ -23,4 +21,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, or to opt out of Google’s use of cookies by visiting the Google ad and content network privacy policy. Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin (at) tattoobite (dot) com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin (at) Tattoobite (dot) com
