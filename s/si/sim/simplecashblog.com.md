@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplecashblog.com privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106184048id_/http%3A//imsimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecashblog.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102135436id_/http%3A//imsimple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make Money Online With Internet Marketing
 
