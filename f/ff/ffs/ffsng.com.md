@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffsng.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831165433id_/http%3A//ffsng.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffsng.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102154842id_/http%3A//ffsng.com/privacy.php) for the most accurate reproduction.*
 
 # FFSNG Privacy Policy
 
@@ -24,7 +24,7 @@ We may collect the following information:
 
   * the facebook numeric id of your friends that are playing the game 
 
-  * your public IP address which is publicly provided by your Internet Service Provider
+  * your public IP address which is publicly provided by your Internet Service Provider which may represent your current location.
 
   * all data generated in the application
 
