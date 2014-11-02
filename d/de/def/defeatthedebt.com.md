@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defeatthedebt.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226172203id_/http%3A//www.defeatthedebt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defeatthedebt.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102010241id_/http%3A//www.defeatthedebt.com/privacy-policy) for the most accurate reproduction.*
 
 # Defeat The Debt - Privacy Policy
 
