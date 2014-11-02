@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the housingjapan.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314024702id_/http%3A//www.housingjapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housingjapan.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102151725id_/http%3A//housingjapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Housing Japan
 
 Your privacy is very important to us. Accordingly, we have developed this Privacy Policy in order for you to understand clearly how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy.
 
-System RealEstate (hereafter referred to as "us" or "we") complies with the laws and regulations regarding the protection of personal information, and is dedicated to paying strict attention to the protection of customers important personal information.
+Housing Japan (hereafter referred to as "us" or "we") complies with the laws and regulations regarding the protection of personal information, and is dedicated to paying strict attention to the protection of customers important personal information.
 
 ## Disclosure or Distribution of Personal Information to a Third Party
 
