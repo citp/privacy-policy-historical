@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810082119id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzui.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102085149id_/http%3A//www.kidzui.com/privacy_policy) for the most accurate reproduction.*
 
 # KidZui Privacy Policy
 
