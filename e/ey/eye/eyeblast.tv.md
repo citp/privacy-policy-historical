@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeblast.tv privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503024849id_/http%3A//www.mrctv.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeblast.tv privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102122829id_/http%3A//www.mrctv.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MRCTV
 
