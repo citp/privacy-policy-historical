@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629213840id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102085614id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.*
 
-# Pendleton Woolen Mills: Privacy & Security
+# Privacy & Security
 
 ####  Whether you're purchasing online or just browsing, your privacy is important to us. Please take the time to review Pendleton's policy for handling your customer information. By visiting the Pendleton website, you are accepting the practices described in this Privacy Policy. Pendleton's Privacy Policy may change from time to time, so please revisit this page and review the Policy regularly. If you have any questions regarding our Privacy Policy, please contact us via e-mail at [_pendletoncatalog@penwool.com_](mailto:pendletoncatalog@penwool.com?subject=Privacy%20Policy). We appreciate your comments and suggestions. 
 
