@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2014-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140123124430id_/http%3A//www.socialsurf4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102044044id_/http%3A//www.socialsurf4u.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SocialSurf4U.com | Privacy Policy
 
@@ -15,7 +15,7 @@ In order to use this service a person must register using his or her contact inf
 We take every precaution to protect our members information. Only the administrator of this website has access to members email address and other information. We do NOT sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
 **Members right to Cancel**  
-All members have a right to cancel their account at any time. There is a link in the members main menu that says 'Delete account'. Simply click on that link, enter your password in the required field and your account along with all your information will be removed, no questions asked.
+All members have a right to cancel their account at any time. There is a link in the members main menu that says 'Delete account'. Simply click on that link, enter your password in the required field.
 
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
