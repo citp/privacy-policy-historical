@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the producer.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620181526id_/http%3A//www.producer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producer.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123149id_/http%3A//www.producer.com/privacy) for the most accurate reproduction.*
 
-# Terms of Use and Privacy Policy - The Western Producer
+# Privacy Policy - The Western Producer
 
 **Privacy Policy**
 
