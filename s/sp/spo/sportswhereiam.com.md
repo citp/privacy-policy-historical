@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309194411id_/http%3A//sportswhereiam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102184657id_/http%3A//sportswhereiam.com/privacy-policy) for the most accurate reproduction.*
 
-# Sports Where I Am - major sports events at your destination.
+# Sports Where I Am - the info you need for sports events at your travel destination.
 
-SportsWhereIam Privacy Policy 
+SportsWhereIAm Privacy Policy 
 
-This Privacy Policy covers your use of this website and any SportsWhereIam application used by you on a mobile phone or other electronic device ("our website") operated by SportsWhereIam Pty. Ltd. ("us"/"we"). We have provided this Privacy Policy to make sure you know that we respect your privacy and are committed to protecting it. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing SportsWhereIam Pty. Ltd. with any of your personal details. This page explains our Privacy Policy. This policy (together with our ‘Terms & Conditions’) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This Privacy Policy covers your use of this website and any SportsWhereIAm application used by you on a mobile phone or other electronic device ("our website") operated by SportsWhereIAm Pty. Ltd. ("us"/"we"). We have provided this Privacy Policy to make sure you know that we respect your privacy and are committed to protecting it. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing SportsWhereIAm Pty. Ltd. with any of your personal details. This page explains our Privacy Policy. This policy (together with our ‘Terms & Conditions’) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 Consent: 
 
@@ -12,7 +12,7 @@ By using our website, you agree to the collection and use of your IP Details, Pe
 
 Information Collection and Use: 
 
-We may collect information about your computer, including where available your IP address, operating system, browser type, referring URLs, page views and access times ("IP Details"). We only collect this information to the extent that it is necessary to our business practices. SportsWhereIam will collect information only by lawful and fair means. The reason we gather information is for server administration to track user's movements, analyse trends and to report aggregate information to our current advertisers and partners and potential future partners and advertisers. This is statistical data only about our users' browsing actions and patterns, and does not identify any individual. SportWhereIam also collects personal information from our customers for the purpose of providing services to those customers. We may also use contact details for the purpose of sending information about products and services to our customers. Unless you consent, use of your personal information will be related to the primary reason for collection and, only if you would reasonably expect it to occur would your personal information be used for a secondary purpose, or if it is required or authorised by law or otherwise permitted under the Privacy Act. A ‘User Profile’ is stored information that we keep on individual users that detail their viewing preferences. This profile is used to tailor your visit to the SportsWhereIam site, to enhance your experience and to direct only pertinent marketing promotions to you. 
+We may collect information about your computer, including where available your IP address, operating system, browser type, referring URLs, page views and access times ("IP Details"). We only collect this information to the extent that it is necessary to our business practices. SportsWhereIAm will collect information only by lawful and fair means. The reason we gather information is for server administration to track user's movements, analyse trends and to report aggregate information to our current advertisers and partners and potential future partners and advertisers. This is statistical data only about our users' browsing actions and patterns, and does not identify any individual. SportWhereIAm also collects personal information from our customers for the purpose of providing services to those customers. We may also use contact details for the purpose of sending information about products and services to our customers. Unless you consent, use of your personal information will be related to the primary reason for collection and, only if you would reasonably expect it to occur would your personal information be used for a secondary purpose, or if it is required or authorised by law or otherwise permitted under the Privacy Act. A ‘User Profile’ is stored information that we keep on individual users that detail their viewing preferences. This profile is used to tailor your visit to the SportsWhereIam site, to enhance your experience and to direct only pertinent marketing promotions to you. 
 
 Registered Users: 
 
@@ -38,13 +38,13 @@ We will use your IP Details, Cookies and Personal Information held about you in 
 
 · To respond to customer support queries where you have supplied personal information. 
 
-Personal Information collected by SportsWhereIam may be disclosed to a third party in the following circumstances; 
+Personal Information collected by SportsWhereIAm may be disclosed to a third party in the following circumstances; 
 
-· Where, at the time of collection, SportsWhereIam has informed you of the third parties or classes of third parties to whom your Personal Information will be disclosed. 
+· Where, at the time of collection, SportsWhereIAm has informed you of the third parties or classes of third parties to whom your Personal Information will be disclosed. 
 
-· In order to enable SportsWhereIam to participate in activities with business partners and sponsors, who will be notified to you at the time your Personal Information is collected. 
+· In order to enable SportsWhereIAm to participate in activities with business partners and sponsors, who will be notified to you at the time your Personal Information is collected. 
 
-· Where the disclosure is required or authorised by law or otherwise permitted under the Privacy Act including where SportsWhereIam has reason to suspect that unlawful activity has been, is being or may be engaged in. 
+· Where the disclosure is required or authorised by law or otherwise permitted under the Privacy Act including where SportsWhereIAm has reason to suspect that unlawful activity has been, is being or may be engaged in. 
 
 · To protect and maintain the integrity of particular sports upon the request of governing sporting bodies to assist in legitimate inquiries; or 
 
@@ -66,11 +66,11 @@ Cookies are small text files that are placed on your device by websites that you
 
 How to Block Cookies:
 
-Most web browsers allow some control of most cookies through the browser settings. It is important to note however that if you block or delete cookies from SportsWhereIam that there are a number of functions that may not work and you will need to reset your preferences each time you log in. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org./) If you have any questions regarding the use of cookies on our site, please contact us at; [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com). 
+Most web browsers allow some control of most cookies through the browser settings. It is important to note however that if you block or delete cookies from SportsWhereIAm that there are a number of functions that may not work and you will need to reset your preferences each time you log in. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org./) If you have any questions regarding the use of cookies on our site, please contact us at; [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com). 
 
 Location Data: 
 
-We may obtain Information relating to your geographical location ("Location Data") where you use any SportsWhereIam application, including a mobile phone or other electronic device. We will use such Location Data to identify the closest sports events to where you are currently accessing our website from. 
+We may obtain Information relating to your geographical location ("Location Data") where you use any SportsWhereIAm application, including a mobile phone or other electronic device. We will use such Location Data to identify the closest sports events to where you are currently accessing our website from. 
 
 Linked Sites:
 
@@ -78,11 +78,11 @@ This website contains links to both affiliated 3rd party websites and unaffiliat
 
 User Forums/Posts: 
 
-Any information you choose to post on our website will include your first name attached to any post. You may choose to post comments, images and videos relevant to the City Pride section of our website. SportsWhereIam requires that all posts are identified and attached to a User ID in order to track any unlawful practice or posts. We do this by requiring you to Register before posting any content on our website. If you wish to de-identify a post you may do so by contacting [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com). When clicking ‘Submit’ in any form you are automatically agreeing to SportsWhereIam’s Privacy Policy. 
+Any information you choose to post on our website will include your first name attached to any post. You may choose to post comments, images and videos relevant to the City Pride section of our website. SportsWhereIAm requires that all posts are identified and attached to a User ID in order to track any unlawful practice or posts. We do this by requiring you to Register before posting any content on our website. If you wish to de-identify a post you may do so by contacting [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com). When clicking ‘Submit’ in any form you are automatically agreeing to SportsWhereIAm’s Privacy Policy. 
 
 Sharing Information: 
 
-In order to maximise your social experience when using SportsWhereIam, we may give you the option to export information from SportsWhereIam to third party applications and websites, including social networking websites such as Facebook, Instagram or Twitter. Please be aware when doing so that you may disclose your information to individuals or organisations responsible for operating and maintaining such third party applications and websites and your information may be accessible by others visiting or using those applications or websites. We do not own or operate the applications or websites that you connect with and you should review the privacy policies of such websites to make sure you are comfortable with the ways in which they use the information you share with them. When you connect to our website from a third party application, social networking or other website then you consent to the collection by us of your information as stored with that other third party. This information may be used by us to enhance your use of our website. When we do obtain information about you from these third parties, we will process the information in accordance with our own privacy policy. 
+In order to maximise your social experience when using SportsWhereIAm, we may give you the option to export information from SportsWhereIAm to third party applications and websites, including social networking websites such as Facebook, Instagram or Twitter. Please be aware when doing so that you may disclose your information to individuals or organisations responsible for operating and maintaining such third party applications and websites and your information may be accessible by others visiting or using those applications or websites. We do not own or operate the applications or websites that you connect with and you should review the privacy policies of such websites to make sure you are comfortable with the ways in which they use the information you share with them. When you connect to our website from a third party application, social networking or other website then you consent to the collection by us of your information as stored with that other third party. This information may be used by us to enhance your use of our website. When we do obtain information about you from these third parties, we will process the information in accordance with our own privacy policy. 
 
 Children's Privacy: 
 
@@ -94,7 +94,7 @@ If you have any queries or complaints relating to the handling of your personal 
 
 Privacy Officer 
 
-SportsWhereIam Pty. Ltd. 
+SportsWhereIAm Pty. Ltd. 
 
 PO Box 1200 
 
@@ -104,5 +104,5 @@ Email: privacy@sportswhereiam.com
 
 Further Information about privacy issues in Australia, you can visit the website located at [www.privacy.gov.au](http://www.privacy.gov.au/). 
 
-This is the privacy policy (“Privacy Policy”) of SportsWhereIam Pty. Ltd.  
-(ACN 157 847 928) (“SportsWhereIam”). 
+This is the privacy policy (“Privacy Policy”) of SportsWhereIAm Pty. Ltd.  
+(ACN 157 847 928) (“SportsWhereIAm”). 
