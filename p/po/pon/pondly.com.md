@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pondly.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627101940id_/http%3A//www.pondly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pondly.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103204949id_/http%3A//www.pondly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pondly
 
@@ -57,6 +57,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](http://www.pondly.com/contact-us/).
 
-This document was last updated on October 06, 2011.
+This document was last updated on November 1, 2014.
 
 * * *
