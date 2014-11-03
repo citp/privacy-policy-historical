@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozekisms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065507id_/http%3A//www.ozekisms.com/index.php%3Fow_page_number%3D449) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozekisms.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103192916id_/http%3A//ozekisms.com/index.php%3Fow_page_number%3D449) for the most accurate reproduction.*
 
 # SMS Gateway - Press, Privacy
 
