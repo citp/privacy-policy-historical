@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221080424id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footyroom.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103110458id_/http%3A//footyroom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FootyRoom Privacy Policy
 
