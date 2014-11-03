@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxybrowser.org privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503142445id_/http%3A//www.proxybrowser.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxybrowser.org privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103174619id_/http%3A//www.proxybrowser.org/privacy.html) for the most accurate reproduction.*
 
 # Terms Of Service
 
