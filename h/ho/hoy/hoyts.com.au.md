@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoyts.com.au privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529061309id_/http%3A//www.hoyts.com.au/common/footer/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoyts.com.au privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103010251id_/http%3A//www.hoyts.com.au/common/footer/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | HOYTS
 
@@ -6,12 +6,11 @@ In this policy (“ **Privacy Policy** ”), “we”, “us” and “our” me
 
 \- HOYTS Cinema;  
 \- HOYTS Kiosk;  
-\- HOYTS Stream;  
 \- HOYTS Rewards;  
 \- HOYTS Insider;  
 \- HOYTS Junior;  
 \- HOYTS mobile application;  
-\- HOYTS showBusiness;  
+\- HOYTS Corporate Solutions;  
 \- HOYTS giftstore; and  
 \- such other services we may nominate as covered by this Privacy Policy from time to time,
 
