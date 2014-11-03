@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermanstamina.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209061157id_/http%3A//supermanstamina.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermanstamina.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103195957id_/http%3A//supermanstamina.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Superman Stamina - Privacy Policy
 
