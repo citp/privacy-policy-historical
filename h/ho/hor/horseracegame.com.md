@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331202520id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103014618id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for Our Racing Games - Horse Racing Simulation, LLC
+# Privacy Policy for Our Racing Games - Virtual Sports, Inc
 
 Privacy Statement for www.horseracegame.com
 
-Horse Racing Simulation, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: [http://www.horseracegame.com](http://www.horseracegame.com/ "Horse Racing Fantasy").
+Virtual Sports, Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: [http://www.horseracegame.com](http://www.horseracegame.com/ "Horse Racing Fantasy").
 
 Personal Information Collected
 
@@ -43,9 +43,9 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact us electronically or write to:
 
 > Privacy Questions  
->  Horse Racing Simulation, LLC  
->  3870 East Flamingo Road A2 -307  
->  Las Vegas NV 89121
+>  Virtual Sports, Inc.  
+>  11124 Kingston Pike, Suite 119-255  
+>  Knoxville, TN 37934
 
 Glossary of Terms
 
