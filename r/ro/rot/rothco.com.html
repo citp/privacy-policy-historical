@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rothco.com privacy policy that was archived on 2014-02-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140227094858id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rothco.com privacy policy that was archived on 2014-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103230327id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class="no-js" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
         <title>Privacy Policy</title>
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
         <meta name="description" content="Privacy Policy, Rothco, Wholesale Military, Army Navy ">
@@ -19,6 +19,7 @@
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
         ga('create', 'UA-186544-7', 'rothco.com');
+        ga('require', 'displayfeatures');
         ga('send', 'pageview');
     </script>
 
@@ -35,8 +36,7 @@
 
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
-        <link rel="stylesheet" href="http://www.rothco.com/theme/css/home.css">
-        <link rel="stylesheet" href="http://www.rothco.com/theme/css/common.css">
+        <link rel="stylesheet" href="http://www.rothco.com/theme/css/public.min.css">
         <link media="screen" rel="stylesheet" href="http://www.rothco.com/theme/css/facebox.css" type="text/css">
         <link rel="stylesheet" href="http://www.rothco.com/theme/css/dcmegamenu.css">
         <link rel="stylesheet" href="http://www.rothco.com/theme/css/skins/white.css">
@@ -75,6 +75,12 @@
             }
             #old_b2b_link_inner:hover {
                 padding-top:2px;
+            }
+
+            #live_chat_side {
+                position: fixed;
+                right: 0px;
+                top:300px;
             }
         </style>
 
@@ -125,7 +131,7 @@
                     effect: 'fade',
                     fullWidth: true
                 });
-
+  
                 /* Added By Nick Woodhead for tutorial feature */
                 $('#get_help').click(function(){
                     $("html, body").animate({ scrollTop: 0 }, "slow");
@@ -139,6 +145,16 @@
                 });
                 /* end tutorial feature */
             });
+			function info_alert_count()
+			{
+				$.ajax({
+						url		: base_url + "ajax/increment_info_alert_count",
+						type	: 'POST',
+						success: function(msg)
+						{
+						}
+					});
+			}
         </script>
     </head>
     <body>
@@ -153,10 +169,16 @@
         <div id="old_b2b_link">
             <div style="width:220px;margin:auto;">
                 <div id="old_b2b_link_inner">
-                    <a id="notification_link" href="#notification_box" rel="facebox">LATEST ROTHCO INFO ALERT</a>
+                    <a id="notification_link" href="#notification_box" rel="facebox" onclick="info_alert_count();">LATEST ROTHCO INFO ALERT</a>
                 </div>
             </div>
         </div>
+                
+                    <div id="live_chat_side">
+                <a href="http://chat.rothco.com/phplive.php?d=0&amp;onpage=livechatimagelink&amp;title=Live+Chat+Image+Link" target="_blank">
+                    <img alt="rothco customer service live chat" src="http://www.rothco.com/theme/images/live_chat.png" border="0">
+                </a>
+            </div>
         
                         <!-- Set Site Path -->
         <input type="hidden" id="hd_main_site_path" value="http://www.rothco.com/">
@@ -167,117 +189,164 @@
                 <header>
                     <div id="header-in">
                         <a href="http://www.rothco.com"><h1>Rothco</h1></a>
-                        <a href="http://www.rothco.com/cms/become-a-dealer" class="t-menu1">Become a <br>Rothco Dealer</a><a href="#login_box" rel="facebox" class="t-menu2">Log In</a>                        <a href="http://www.rothco.com/dealer-locator" class="t-menu3">Dealer<br>Locator</a>
-                        <div id="login_box" style="display:none;">
-                            <style>
-    #password-clear {
-        display: none;
-    }
-    .facebook-login-but {
-        margin-top: 90px !important;
-        right: 0px !important;
-    }
-</style>
+                        <a href="http://www.rothco.com/cms/become-a-dealer" class="t-menu1">Become a <br>Rothco Dealer</a><a href="#login_box" rel="facebox" class="t-menu2">Log In</a><a href="http://www.rothco.com/dealer-locator" class="t-menu3">Dealer<br>Locator</a>                        <div id="login_box" style="display:none;">
+                            
 <input type="hidden" id="hd_check_ui_type" name="hd_check_ui_type" value="">
+
 <div style="width: 390px;" id="member_login">
-                <h4>Dealer Login</h4>
+
+    
+    <h4>Dealer Login</h4>
+    <br>
+    <p>Login to Rothco’s B2B system using your email address and password.</p>
+
+    <div class="ajax_status" id="ajax_status"></div>
+
+    <form action="http://www.rothco.com/login" enctype="multipart/form-data" method="post" accept-charset="utf-8" name="frm_login" id="nw_login_form">
+
+        <input type="text" id="email" name="email" title="Please enter valid email address" class="email required" placeholder="Email Address" onfocus="(this.value == 'Email Address') &amp;&amp; (this.value = '')" onblur="(this.value == '') &amp;&amp; (this.value = 'Email Address')" value="Email Address">
+
+        <input type="password" id="password" name="password" title="Please enter password" class="password required" placeholder="Password"> 
         <br>
-        <p>Login to Rothco’s B2B system using your email address and password, just as you would on Rothco’s old site. </p>
-                <form action="http://www.rothco.com/login" enctype="multipart/form-data" method="post" accept-charset="utf-8" name="frm_login" id="frm_login">
-                            <input type="text" id="email" name="email" title="Please enter valid email address" class="email required" placeholder="Email Address" onfocus="(this.value == 'Email Address') &amp;&amp; (this.value = '')" onblur="(this.value == '') &amp;&amp; (this.value = 'Email Address')" value="Email Address">
-                        <div id="div_password"><input type="password" id="password" name="password" title="Please enter password" class="password required" placeholder="Password"></div>
-            <div id="div_password">
-                <input id="submit_login" type="button" value="Login" class="login-but" style="height: 38px; width:134px; padding:0 !important;">
-                <input type="hidden" id="current_url" name="current_url" value="http://www.rothco.com/cms/rothco-privacy-policy">
-            </div>
-            <a style="position:relative; float:right; margin-top:40px; color:#fff;" onclick="changeloginUI('1');" href="#">Forgot Your Password?</a>
-            <div style="clear:both; height:20px; padding-top:30px;">
-                <a href="http://www.rothco.com/form/existing-rothco-dealer" style="color: #ffffff;">Set Up A New Online Account (Existing Dealers)</a><br><br>
-                <a href="http://www.rothco.com/cms/become-a-dealer" style="color: #ffffff;">Become A Dealer</a>
-                <br><br>
-                <a target="_blank" href="http://b2b.rothco.com" style="color: #ffffff;">Use Our Old Site</a>
-            </div>
-            <input id="facebook_login" type="button" value="" class="facebook-login-but" onclick="facebook_connect('https://www.facebook.com/dialog/oauth?client_id=507607932607872&amp;redirect_uri=http%3A%2F%2Fwww.rothco.com%2Ffacebook_connect%2Ffacebook_login&amp;state=381ea0ee583acc64eb381ad2ffc6ef1a&amp;scope=email%2C+user_about_me%2C+user_birthday%2C+user_status%2C+publish_stream%2C+user_photos%2C+read_stream%2C+friends_likes%2C+user_likes');">
-            <p style="margin-top: -70px; text-align: justify; float: right; margin-left: 164px;">Not a dealer? Login via Facebook and become a Rothco Specialist, post &amp; share comments on your favorite Rothco items, post reviews, create wish list and put together the ultimate shopping cart full of your favorite Rothco gear. * All consumer orders on Rothco.com are fulfilled by Rothco Dealers.</p>
-        </form>
-    </div>
+
+        <input type="button" id="nw_submit_login" value="Login" class="login-but" style="height: 38px; width:134px; padding:0 !important;">
+        <input type="hidden" id="current_url" name="current_url" value="http://www.rothco.com/cms/rothco-privacy-policy">
+
+        <a style="position:relative; float:right; margin-top:40px; color:#fff;" onclick="changeloginUI('1');" href="#">
+            Forgot Your Password?
+        </a>
+
+        <div style="clear:both; height:20px; padding-top:30px;">
+            <a href="http://www.rothco.com/form/existing-rothco-dealer" style="color: #ffffff;">
+                Set Up A New Online Account (Existing Dealers)
+            </a>
+            <br><br>
+            <a href="http://www.rothco.com/cms/become-a-dealer" style="color: #ffffff;">Become A Dealer</a>
+        </div>
+
+        <input id="facebook_login" type="button" value="" class="facebook-login-but" onclick="facebook_connect('https://www.facebook.com/dialog/oauth?client_id=507607932607872&amp;redirect_uri=http%3A%2F%2Fwww.rothco.com%2Ffacebook_connect%2Ffacebook_login&amp;state=e2320d2d12e4c0ff952993190391d1ad&amp;scope=email%2C+user_about_me%2C+user_birthday%2C+user_status%2C+publish_stream%2C+user_photos%2C+read_stream%2C+friends_likes%2C+user_likes');">
+        <p style="margin-top: -70px; text-align: justify; float: right; margin-left: 164px;">Not a dealer? Login via Facebook and become a Rothco Specialist, post &amp; share comments on your favorite Rothco items, post reviews, create wish list and put together the ultimate shopping cart full of your favorite Rothco gear. * All consumer orders on Rothco.com are fulfilled by Rothco Dealers.</p>
+
+    </form>
+</div>
+
 <div style="width: 370px;display: none;" id="forgot_login">
-	    	<h4>Forgot Password</h4>
-		<br>
-    	<p>Please enter your email address below.<br>You will receive an email with your new password.</p>
-	    	    <form action="http://www.rothco.com/login/forgot_password" enctype="multipart/form-data" method="post" accept-charset="utf-8" name="frm_forgot_login" id="frm_forgot_login">
-    			<input type="text" id="forgot_email" name="forgot_email" title="Please enter valid email address" class="email required" onfocus="(this.value == 'Email Address') &amp;&amp; (this.value = '')" onblur="(this.value == '') &amp;&amp; (this.value = 'Email Address')" value="Email Address">
-		        <p>If you have forgotten the email address associated with your account please email customer service at customerservice@rothco.com	</p>
-      	<div id="div_password">
-	  		<input id="submit_forgot_login" type="button" value="Submit" class="login-but" style="height: 38px; width:134px; padding:0 !important;margin-right: 15px;">
+
+    <h4>Forgot Password</h4>
+    <br>
+    
+    <p>Please enter your email address below.<br>You will receive an email with your new password.</p>
+
+    
+    <form action="http://www.rothco.com/login/forgot_password" enctype="multipart/form-data" method="post" accept-charset="utf-8" name="frm_forgot_login" id="frm_forgot_login">
+                    <input type="text" id="forgot_email" name="forgot_email" title="Please enter valid email address" class="email required" onfocus="(this.value == 'Email Address') &amp;&amp; (this.value = '')" onblur="(this.value == '') &amp;&amp; (this.value = 'Email Address')" value="Email Address">
+        
+        <p>If you have forgotten the email address associated with your account please email customer service at customerservice@rothco.com	</p>
+
+        <div id="div_password">
+            <input id="submit_forgot_login" type="button" value="Submit" class="login-but" style="height: 38px; width:134px; padding:0 !important;margin-right: 15px;">
             <input id="back_button" type="button" value="Back to Login" class="login-but" style="height: 38px; width:134px; padding:0 !important;" onclick="changeloginUI('2');">
-	  	</div>
-        </form>
-	</div>
+        </div>
+    </form>
+</div>
 
 <script type="text/javascript">
-$(document).ready(function() {
-	$("#facebox #frm_login").validate();
-	$("#facebox #frm_forgot_login").validate();
+    $(document).ready(function() {
+        $("#facebox #nw_login_form").validate();
+        $("#facebox #frm_forgot_login").validate();
 
-    $('#facebox #email').focus();
+        $('#facebox #email').focus();
 
-	$(document).on("click", "#frm_login #submit_login", function() {
-		if($("#facebox #frm_login").valid())
-		{
-			//$("#facebox #frm_login").submit();
-			$("#facebox #frm_login").unbind('submit').submit();
-		}
-		else
-		{
-			$("#facebox #login_error").hide();
-		}
-	});
+        $('#facebox').on("click", "#nw_submit_login", function(event) {
 
-	$(document).on("click", "#frm_forgot_login #submit_forgot_login", function() {
-		if($("#facebox #frm_forgot_login").valid())
-		{
-			//$("#facebox #frm_login").submit();
-			$("#facebox #frm_forgot_login").unbind('submit').submit();
-		}
-		else
-		{
-			$("#facebox #login_error").hide();
-		}
-	});
+            if ($("#facebox #nw_login_form").valid())
+            {
+                var postData = $('#facebox #nw_login_form').serialize();
+                // login AJAX call
+                $('#member_login #ajax_status').html('Please wait, validating login...');
+                $.ajax({
+                    type: 'POST', 
+                    url: 'http://www.rothco.com/login',
+                    dataType: 'html',
+                    data: postData,
+                    success: function(data) {
+                        var obj = $.parseJSON(data);
+                        if (obj.status == 'OK')
+                        {
+                            $('#member_login #ajax_status').html('You are now logged in.');
+                            if (obj.redirect_to == '') {
+                                window.location.reload();
+                            }
+                            else {
+                                window.location = obj.redirect_to;
+                            }
+                        }
+                        else
+                        {
+                            $('#member_login #ajax_status').html(obj.status);
+                        }
+                    }
+                });
 
-    $(document).on('keypress', '#facebox #password', function(e) {
-        if(e.which == 13)
-        {
-            $('#facebox  #submit_login').trigger('click');
-        }
+                $("#nw_submit_login").unbind('click');
+            }
+            else
+            {
+                $("#facebox #login_error").hide();
+            }
+            return false;
+        });
+
+
+        $('#facebox').on("click", "#submit_forgot_login", function() {
+            if ($("#facebox #frm_forgot_login").valid())
+            {
+                //$("#facebox #frm_login").submit();
+                $("#facebox #frm_forgot_login").unbind('submit').submit();
+            }
+            else
+            {
+                $("#facebox #login_error").hide();
+            }
+        });
+
+        $('#facebox').on('keypress', '#password', function(e) {
+            if (e.which == 13)
+            {
+                $('#facebox #nw_submit_login').trigger('click');
+            }
+        });
     });
-});
-function user_logout(link)
-{
-	location.href = link;
-}
 
-function facebook_connect(url)
-{
-	location.href = url;
-}
-function changeloginUI(mode)
-{
-	if(mode == '1')
-	{
-		$('#facebox #member_login').hide(300);
-		$('#facebox #forgot_login').show(300);
-	}
-	else
-	{
-		$('#facebox #forgot_login').hide(300);
-		$('#facebox #member_login').show(300);
-	}
-}
-var get_ui_type = $('#hd_check_ui_type').val();
-if(get_ui_type == '1')
-	changeloginUI('1');
+    function user_logout(link)
+    {
+        location.href = link;
+    }
+
+    function facebook_connect(url)
+    {
+        location.href = url;
+    }
+
+    function changeloginUI(mode)
+    {
+        if (mode == '1')
+        {
+            $('#facebox #member_login').hide(300);
+            $('#facebox #forgot_login').show(300);
+        }
+        else
+        {
+            $('#facebox #forgot_login').hide(300);
+            $('#facebox #member_login').show(300);
+        }
+    }
+
+    var get_ui_type = $('#hd_check_ui_type').val();
+
+    if (get_ui_type == '1') {
+        changeloginUI('1');
+    }
 </script>                        </div>
                         
                         
@@ -296,18 +365,16 @@ if(get_ui_type == '1')
     <div style="width: 390px;" id="notification_center">
         <h4>Latest Rothco Info Alert</h4>
         <br>
-        <p style="text-align: center;"><strong>See What Rothco's Been Up To Last Month.&nbsp;</strong></p>
-<p class="p1" style="text-align: center;">&nbsp;<a href="/upload/dealertools/public-documents/RothcobythenumbersJan14.png" target="_blank"><img style="vertical-align: middle;" src="/upload/dealertools/public-documents/RothcobythenumbersJan14.png" alt="" width="331" height="429"></a></p>
+        <p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;Plan ahead for the busy holiday seasons with<br> <a href="/upload/dealertools/Images/Year-endcalendar_2014_(1).pdf" target="_blank">UPS’s Holiday Shipping Schedule</a>.&nbsp;</span><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">UPS has announced that they <br>will have NORMAL pickup &amp; delivery&nbsp;</span><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;">for all service levels<br> the day after Thanksgiving, November 28th, 2014.</span></p>
 <hr>
-<p class="p1" style="text-align: center;">&nbsp;</p>
-<p><span style="font-size: small;"><a href="/cms/rothco-dealer-testimonial-contest"><img style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" src="/upload/cms/NYC-Rothco_Contest-Banner1.jpg" alt="" width="397" height="198"></a></span></p>
-<p style="text-align: center;">&nbsp;Rothco Dealers make sure you checkout our <a href="/cms/rothco-dealer-testimonial-contest" target="_blank">latest contest</a> we are holding, just for you!&nbsp;</p>
-<p style="text-align: center;">*Contest Has Been Extended Till Febuary 28th, 2014*</p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;Don't be left out in the cold, Rothco's got the outerwear to&nbsp;<br>keep you warm all season long! View our latest <a href="http://catalog.rothco.com/outerwear/" target="_blank">digital catalog</a> <br>to see&nbsp;all the great outerwear Rothco has to offer.&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><a href="http://catalog.rothco.com/outerwear/" target="_blank"><img style="vertical-align: middle;" src="/upload/dealertools/Images/cat_thumb_20.jpg" alt="Rothco Outerwear Catalog" width="193" height="250"></a></span></p>
 <hr>
-<p style="text-align: center;">&nbsp; &nbsp;<strong>Rothco Announces A One-Of-A-Kind Collaboration</strong></p>
-<p style="text-align: center;"><iframe src="http://player.vimeo.com/video/83421593?byline=0&amp;portrait=0&amp;color=a1080b" frameborder="0" width="400" height="225"></iframe></p>
-<p style="text-align: center;"><a href="http://vimeo.com/83421593">1-2-1 w/jeffstaple ft. Rothco &amp; PONY</a>&nbsp;from&nbsp;<a href="http://vimeo.com/ponyeurope">PONYeurope</a>&nbsp;on&nbsp;<a href="https://vimeo.com">Vimeo</a>.</p>
-<p style="text-align: center;">&nbsp;This project features an exclusive 1-2-1 with jeffstaple of Staple Design who has an honest chat with founders Roberto Muller and Milton Somberg to uncover the inspiring story of two New York icons.&nbsp;<br><br>Find out more information about this collection&nbsp;<a href="/cms/rothco-x-pony-collection" target="_blank">here</a>. &nbsp;</p>    </div>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Rothco's 2015 Catalog &amp; </span><br><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">2014 New Product Collection Have Arrived!<br>You Can View The Digital Versions Today.<strong>&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;<a title="2015 Catalog" href="http://catalog.rothco.com/2015/" target="_blank"><img src="/upload/dealertools/Images/10300238_10152313769303575_1293382042795700807_n.jpg" alt="Rothco 2015 Digital Catalog" width="162" height="226"></a>&nbsp;&nbsp;<a href="http://catalog.rothco.com/new-products-2014/" target="_blank"><img src="/upload/dealertools/Images/cat_thumb_191.jpg" alt="Rothco 2014 Fall Collection" width="166" height="227"></a></span></p>
+<hr>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;<strong style="text-align: center;">&nbsp;Rothco wins the <a style="font-size: small;" href="/cms/rothco-wins-the-hia-large-business-achievement-award" target="_blank">HIA-LI</a>&nbsp;Award for&nbsp;<br></strong><strong>Large Business Achievement Award!&nbsp;</strong></span></p>    </div>
 </div>
 
 <script type="text/javascript">
@@ -356,7 +423,7 @@ $(document).ready(function () {
                             
                         </div>
                                                 <div class="tag-line">
-                            The World's Foremost Supplier of Military, Tactical, Outdoor Clothing and Accessories                        </div>
+                            The World's Foremost Supplier of Military, Tactical, Outdoor Clothing and Gear                        </div>
                         <style>
     #become_dealer_arrow {
         position:absolute;
@@ -440,7 +507,7 @@ $(document).ready(function () {
             Find a Rothco Dealer Near You!
         </div>
     </div>
-</div>                    </div>
+</div>                    </div> 
                 </header>
                 <!-- Header Part End-->
                 <!-- Content Part-->
@@ -551,7 +618,7 @@ $(document).ready(function () {
       <input type="hidden" name="hd_amazon_effect" id="hd_amazon_effect" value="1">
       <input type="hidden" name="hd_left_menu_id" id="hd_left_menu_id" value="">
     <input type="hidden" name="hd_sub_menu_id" id="hd_sub_menu_id" value="">
-    <a href="http://www.rothco.com/category/featured-items" id="1" class="left-menu ">Featured Items</a><input type="hidden" name="left_cat_1" id="left_cat_1" value=""><a href="http://www.rothco.com/category/rothco-clothing" id="5" class="left-menu ">Clothing</a><input type="hidden" name="left_cat_5" id="left_cat_5" value=""><a href="http://www.rothco.com/category/rothco-outerwear" id="167" class="left-menu ">Outerwear</a><input type="hidden" name="left_cat_167" id="left_cat_167" value=""><a href="http://www.rothco.com/category/rothco-bags-and-packs" id="199" class="left-menu ">Bags &amp; Packs</a><input type="hidden" name="left_cat_199" id="left_cat_199" value=""><a href="http://www.rothco.com/category/headwear" id="364" class="left-menu ">Headwear</a><input type="hidden" name="left_cat_364" id="left_cat_364" value=""><a href="http://www.rothco.com/category/rothco-footwear" id="347" class="left-menu ">Footwear</a><input type="hidden" name="left_cat_347" id="left_cat_347" value=""><a href="http://www.rothco.com/category/rothco-military-and-tactical-gear" id="231" class="left-menu ">Military &amp; Tactical Gear</a><input type="hidden" name="left_cat_231" id="left_cat_231" value=""><a href="http://www.rothco.com/category/rothco-camo" id="135" class="left-menu ">Camo</a><input type="hidden" name="left_cat_135" id="left_cat_135" value=""><a href="http://www.rothco.com/category/rothoc-military-branches" id="546" class="left-menu ">Military Branches</a><input type="hidden" name="left_cat_546" id="left_cat_546" value=""><a href="http://www.rothco.com/category/rothco-womens-clothing" id="84" class="left-menu ">Women's Clothing</a><input type="hidden" name="left_cat_84" id="left_cat_84" value=""><a href="http://www.rothco.com/category/rothco-kids-clothing-accessories" id="112" class="left-menu ">Kid's Clothing &amp; Accessories</a><input type="hidden" name="left_cat_112" id="left_cat_112" value=""><a href="http://www.rothco.com/category/rothco-accessories" id="363" class="left-menu ">Personal Accessories &amp; Novelties</a><input type="hidden" name="left_cat_363" id="left_cat_363" value=""><a href="http://www.rothco.com/category/rothco-Paracord" id="443" class="left-menu ">Paracord</a><input type="hidden" name="left_cat_443" id="left_cat_443" value="">    <input type="hidden" name="hd_inner_sub_menu_id" id="hd_inner_sub_menu_id" value="">
+    <a href="http://www.rothco.com/category/featured-items" id="1" class="left-menu ">Featured Items</a><input type="hidden" name="left_cat_1" id="left_cat_1" value=""><a href="http://www.rothco.com/category/rothco-clothing" id="5" class="left-menu ">Clothing</a><input type="hidden" name="left_cat_5" id="left_cat_5" value=""><a href="http://www.rothco.com/category/rothco-military-and-tactical-gear" id="231" class="left-menu ">Military &amp; Tactical Gear</a><input type="hidden" name="left_cat_231" id="left_cat_231" value=""><a href="http://www.rothco.com/category/rothco-outerwear" id="167" class="left-menu ">Outerwear</a><input type="hidden" name="left_cat_167" id="left_cat_167" value=""><a href="http://www.rothco.com/category/rothco-bags-and-packs" id="199" class="left-menu ">Bags &amp; Packs</a><input type="hidden" name="left_cat_199" id="left_cat_199" value=""><a href="http://www.rothco.com/category/rothco-footwear" id="347" class="left-menu ">Footwear</a><input type="hidden" name="left_cat_347" id="left_cat_347" value=""><a href="http://www.rothco.com/category/headwear" id="364" class="left-menu ">Headwear</a><input type="hidden" name="left_cat_364" id="left_cat_364" value=""><a href="http://www.rothco.com/category/rothco-camo" id="135" class="left-menu ">Camo</a><input type="hidden" name="left_cat_135" id="left_cat_135" value=""><a href="http://www.rothco.com/category/rothco-military-branches" id="546" class="left-menu ">Military Branches</a><input type="hidden" name="left_cat_546" id="left_cat_546" value=""><a href="http://www.rothco.com/category/rothco-womens-clothing" id="84" class="left-menu ">Women's Clothing</a><input type="hidden" name="left_cat_84" id="left_cat_84" value=""><a href="http://www.rothco.com/category/rothco-kids-clothing-accessories" id="112" class="left-menu ">Kid's Clothing &amp; Accessories</a><input type="hidden" name="left_cat_112" id="left_cat_112" value=""><a href="http://www.rothco.com/category/rothco-accessories" id="363" class="left-menu ">Personal Accessories &amp; Novelties</a><input type="hidden" name="left_cat_363" id="left_cat_363" value=""><a href="http://www.rothco.com/category/rothco-paracord" id="443" class="left-menu ">Paracord</a><input type="hidden" name="left_cat_443" id="left_cat_443" value="">    <input type="hidden" name="hd_inner_sub_menu_id" id="hd_inner_sub_menu_id" value="">
   </div>
 
     <!-- Refine Part-->    
@@ -574,10 +641,10 @@ $(document).ready(function () {
             <img src="http://graph.facebook.com/194312043574/picture" alt="Find us on Facebook" title="Find us on Facebook">
 
                         <h3>
-                February 26, 2014 <br>
-                11:10 pm            </h3>
+                November 3, 2014 <br>
+                12:50 pm            </h3>
                         <div class="clear"></div>
-            <p> Find out more about our latest Spring Supplement. http://bit.ly/1cMLhQp <a target="_blank" href="http://www.facebook.com/photo.php?fbid=10151967178703575&amp;set=a.201789988574.131055.194312043574&amp;type=1">See Post</a></p>
+            <p> Your ultimate guide to staying warm this winter! http://catalog.rothco.com/outer... <a target="_blank" href="http://www.facebook.com/Rothco1953/photos/a.201789988574.131055.194312043574/10152464668883575/?type=1">See Post</a></p>
             </div>
     <div class="clear"></div>
     <div class="posts" style="max-width: 207px;">
@@ -587,12 +654,12 @@ $(document).ready(function () {
             </a>
         </label>
         <div class="clear">&nbsp;</div>
-                    <img src="http://pbs.twimg.com/profile_images/2670028946/882f07f99a61f8ab61a6fc404cf3a676_normal.png" alt="Follow us on twitter" title="Follow us on twitter">
+                    <img src="http://pbs.twimg.com/profile_images/507944364685799424/E-x46VLz_normal.jpeg" alt="Follow us on twitter" title="Follow us on twitter">
                         <h3>
-                February 26, 2014 <br>
-                10:30 pm            </h3>
+                November 3, 2014 <br>
+                3:56 pm            </h3>
                         <div class="clear"></div>
-            <p>What's your favorite #<label class="posts-simple"><a href="http://search.twitter.com/search?q=%23camouflage" target="_blank">camouflage</a></label> pattern?<a href="https://twitter.com/Rothco_Gear" target="_blank">See Tweet</a></p>
+            <p>What's your best #<label class="posts-simple"><a href="http://search.twitter.com/search?q=%23survival" target="_blank">survival</a></label> tip? <a href="http://t.co/w1cbEvDXwU" target="_blank"></a><a href="https://twitter.com/Rothco_Gear" target="_blank">See Tweet</a></p>
             </div>
     <div class="clear"></div>
 </div>
@@ -962,218 +1029,228 @@ function apply_market_refinement(id)
                             <!-- Top Mega Menu starts -->
 <!--<div id="top_menu_div" class="" style="position:relative;">-->
 <div id="top_menu_div" class="white">
-    <ul id="mega-menu-9" class="mega-menu"><li id="mega-hover-1"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-1">How to Buy</a><ul><li class="first"><ul><li id="sub-mega-hover-49"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-wholesale-dealers-purchase" id="sub_menu_link_id-49">Wholesale Dealer Purchases</a></li><li id="sub-mega-hover-64"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/shipping-information" id="sub_menu_link_id-64">Shipping Information</a></li><li id="sub-mega-hover-50"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/Retail_Purchase_Rothco" id="sub_menu_link_id-50">Consumers Purchases</a></li><li id="sub-mega-hover-66"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-size-chart" id="sub_menu_link_id-66">Rothco's Size Chart</a></li><li id="sub-mega-hover-68"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothcos-new-site-video-intro" id="sub_menu_link_id-68">Rothco's New Site Intro Video</a></li></ul></li><li class="second">
-                                       <ul><li id="li_sub-menu-hover-1" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-49" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-64" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-50" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-66" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-68" class="sub_menu_link_image" style="display: none;"></li></ul>
-                                   </li></ul></li><li id="mega-hover-3"><a href="http://www.rothco.com/cms/testimonials" class="sub_menu_link" id="sub-menu-hover-3">Testimonials</a></li><li id="mega-hover-2"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-2">News &amp; Media</a><ul><li class="first"><ul><li id="sub-mega-hover-11"><a class="all_sub_menu_link" href="http://www.rothco.com/events" id="sub_menu_link_id-11">Events Calendar</a></li><li id="sub-mega-hover-9"><a class="all_sub_menu_link" href="http://www.rothco.com/press_article" id="sub_menu_link_id-9">Press Releases </a></li><li id="sub-mega-hover-10"><a class="all_sub_menu_link" href="http://www.rothco.com/press" id="sub_menu_link_id-10">Press</a></li><li id="sub-mega-hover-73"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-x-pony-collection" id="sub_menu_link_id-73">Rothco X PONY Capsule Collection</a></li><li id="sub-mega-hover-74"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-social-media-hit-list" id="sub_menu_link_id-74">Social Media Hit List</a></li><li id="sub-mega-hover-75"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-by-the-numbers" id="sub_menu_link_id-75">Rothco By The Numbers</a></li></ul></li><li class="second">
-                                       <ul><li id="li_sub-menu-hover-2" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-11" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-9" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-10" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-73" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-74" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-75" class="sub_menu_link_image" style="display: none;"></li></ul>
-                                   </li></ul></li><li id="mega-hover-6"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-6">Catalogs</a><ul><li class="first" style="width:10px !important"><ul><li class="mega-hover" style="color: #EDD77E;"></li></ul></li><li class="second"><ul><li class="mega-hover" style="color: #EDD77E; width:860px !important;"><div id="catalog_wrapper">
-<div class="catalog"><a title="Rothco 2014 Catalog" href="http://catalog.rothco.com/2014" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_13.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco New Products 2013" href="http://catalog.rothco.com/new-products-2013" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_12.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Boots Catalog" href="http://catalog.rothco.com/boots" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_1.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Tactical Catalog" href="http://catalog.rothco.com/tactical" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_2.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Public Safety Catalog" href="http://catalog.rothco.com/public-safety" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_3.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Canvas Catalog" href="http://catalog.rothco.com/canvas-collection" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_4.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Vintage Clothing Catalog" href="http://catalog.rothco.com/vintage-clothing" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_5.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Costumes Catalog" href="http://catalog.rothco.com/costumes" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_9.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Supplement 2013 Catalog" href="http://catalog.rothco.com/supplement-2013" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_10.jpg" alt="" width="125" height="175"></a></div>
-<div class="catalog"><a title="Rothco Paracord Catalog" href="http://catalog.rothco.com/paracord" target="_blank"><img src="http://www.Rothco.com/upload/catalogs/thumbs/cat_thumb_11.jpg" alt="" width="125" height="175"></a></div>
-</div></li></ul></li></ul></li><li id="mega-hover-4"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-4">Our Heritage</a><ul><li class="first"><ul><li id="sub-mega-hover-19"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-history" id="sub_menu_link_id-19">History</a></li><li id="sub-mega-hover-17"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-about-company-information" id="sub_menu_link_id-17">About</a></li><li id="sub-mega-hover-18"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-charities" id="sub_menu_link_id-18">Charities</a></li></ul></li><li class="second">
+    <ul id="mega-menu-9" class="mega-menu"><li id="mega-hover-1"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-1">How to Buy</a><ul><li class="first"><ul><li id="sub-mega-hover-49"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-wholesale-dealers-purchase" id="sub_menu_link_id-49">Wholesale Dealer Purchases</a></li><li id="sub-mega-hover-64"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/shipping-information" id="sub_menu_link_id-64">Shipping Information</a></li><li id="sub-mega-hover-50"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/retail-purchase-rothco" id="sub_menu_link_id-50">Consumers Purchases</a></li><li id="sub-mega-hover-66"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-size-chart" id="sub_menu_link_id-66">Rothco's Size Chart</a></li><li id="sub-mega-hover-76"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-counterfeit-policy" id="sub_menu_link_id-76">Rothco's Counterfeit Policy</a></li></ul></li><li class="second">
+                                       <ul><li id="li_sub-menu-hover-1" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-49" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-64" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-50" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-66" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-76" class="sub_menu_link_image" style="display: none;"></li></ul>
+                                   </li></ul></li><li id="mega-hover-3"><a href="http://www.rothco.com/cms/testimonials" class="sub_menu_link" id="sub-menu-hover-3">Testimonials</a></li><li id="mega-hover-2"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-2">News &amp; Media</a><ul><li class="first"><ul><li id="sub-mega-hover-11"><a class="all_sub_menu_link" href="http://www.rothco.com/events" id="sub_menu_link_id-11">Events Calendar</a></li><li id="sub-mega-hover-9"><a class="all_sub_menu_link" href="http://www.rothco.com/press_article" id="sub_menu_link_id-9">Press Releases </a></li><li id="sub-mega-hover-10"><a class="all_sub_menu_link" href="http://www.rothco.com/press" id="sub_menu_link_id-10">Press</a></li><li id="sub-mega-hover-73"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-x-pony-collection" id="sub_menu_link_id-73">Rothco X PONY Capsule Collection</a></li><li id="sub-mega-hover-74"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-social-media-hit-list" id="sub_menu_link_id-74">Social Media Hit List</a></li><li id="sub-mega-hover-75"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-by-the-numbers" id="sub_menu_link_id-75">Rothco By The Numbers</a></li><li id="sub-mega-hover-77"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-dealer-testimonials" id="sub_menu_link_id-77">Dealer Testimonial Contest Submissions</a></li><li id="sub-mega-hover-78"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-wins-the-hia-large-business-achievement-award" id="sub_menu_link_id-78">Rothco Wins the HIA-LI Large Business Achievement Award</a></li></ul></li><li class="second">
+                                       <ul><li id="li_sub-menu-hover-2" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-11" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-9" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-10" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-73" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-74" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-75" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-77" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-78" class="sub_menu_link_image" style="display: none;"></li></ul>
+                                   </li></ul></li><li id="mega-hover-6" class="dc-mega-li"><a href="javascript: void(0)" class="sub_menu_link dc-mega" id="sub-menu-hover-6" style="">Catalog<span class="dc-mega-icon"></span></a><div class="sub-container mega" style="width: 1000px; left: 0px; top: 40px; z-index: 999999;">
+  <ul class="sub" style="display: none;">
+    <div class="row" id="catalogs_data" style="width: 40px; padding:0px 42px; min-height:550px;"></div>
+  </ul>
+</div>
+</li><li id="mega-hover-4"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-4">Our Heritage</a><ul><li class="first"><ul><li id="sub-mega-hover-19"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-history" id="sub_menu_link_id-19">History</a></li><li id="sub-mega-hover-17"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-about-company-information" id="sub_menu_link_id-17">About</a></li><li id="sub-mega-hover-18"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-charities" id="sub_menu_link_id-18">Charities</a></li></ul></li><li class="second">
                                        <ul><li id="li_sub-menu-hover-4" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-19" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-17" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-18" class="sub_menu_link_image" style="display: none;"></li></ul>
-                                   </li></ul></li><li id="mega-hover-7"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-7">Customer Service</a><ul><li class="first"><ul><li id="sub-mega-hover-70"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-customer-service" id="sub_menu_link_id-70">Department Contact Information</a></li><li id="sub-mega-hover-71"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/shipping-information" id="sub_menu_link_id-71">Track Your Shipment</a></li><li id="sub-mega-hover-69"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-image-request" id="sub_menu_link_id-69">Image Request</a></li><li id="sub-mega-hover-72"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/helpful-hints-for-the-new-rothcocom" id="sub_menu_link_id-72">Helpful Hits for The New Rothco.com</a></li></ul></li><li class="second">
-                                       <ul><li id="li_sub-menu-hover-7" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-70" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-71" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-69" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-72" class="sub_menu_link_image" style="display: none;"></li></ul>
-                                   </li></ul></li><li id="mega-hover-8"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-8">Markets</a><ul><li class="first"><ul><li id="market-sub-mega-hover-1"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-army-navy-military-tactical-wholesale-market" id="market_sub_menu_link_id-1">Army, Navy, Military &amp; Tactical</a></li><li id="market-sub-mega-hover-57"><a class="all_sub_menu_link" href="http://www.rothco.com/market/Survival-Preparedness-preppers-survivalist" id="market_sub_menu_link_id-57">Survival &amp; Preparedness</a></li><li id="market-sub-mega-hover-27"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-police-public-safety-security-law-enforment" id="market_sub_menu_link_id-27">Police &amp; Public Safety</a></li><li id="market-sub-mega-hover-59"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-airsoft-Paintball" id="market_sub_menu_link_id-59">Airsoft &amp; PaintBall</a></li><li id="market-sub-mega-hover-29"><a class="all_sub_menu_link" href="http://www.rothco.com/market/apparel" id="market_sub_menu_link_id-29">Apparel &amp; Fashion</a></li><li id="market-sub-mega-hover-28"><a class="all_sub_menu_link" href="http://www.rothco.com/market/government-gsa-Procurement-" id="market_sub_menu_link_id-28">Government Procurement</a></li><li id="market-sub-mega-hover-74"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-gift-hobby" id="market_sub_menu_link_id-74">Gift &amp; Hobby</a></li><li id="market-sub-mega-hover-75"><a class="all_sub_menu_link" href="http://www.rothco.com/market/Rothco-ScreenPrinting-Embroidery" id="market_sub_menu_link_id-75">Screen Printing &amp; Embroidery</a></li><li id="market-sub-mega-hover-30"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-promotional-advertising-asi" id="market_sub_menu_link_id-30">Promotional &amp; Advertising Products</a></li><li id="market-sub-mega-hover-76"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-uniform-workwear" id="market_sub_menu_link_id-76">Uniform &amp; Workwear</a></li><li id="market-sub-mega-hover-58"><a class="all_sub_menu_link" href="http://www.rothco.com/market/hunting-firearms-outdoor-camping-" id="market_sub_menu_link_id-58">Hunting, Firearms, Outdoor &amp; Camping</a></li></ul></li><li class="second">
-                                       <ul><li id="li_sub-menu-hover-8" class="sub_menu_link_image"></li><li id="li_market_sub_menu_link_id-1" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/ARMY_NAVY-3-FINAL2.jpg" title="Army, Navy, Military &amp; Tactical" alt="Army, Navy, Military &amp; Tactical"></li><li id="li_market_sub_menu_link_id-57" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/SURVIVAL-2-FINAL11.jpg" title="Survival &amp; Preparedness" alt="Survival &amp; Preparedness"></li><li id="li_market_sub_menu_link_id-27" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/PUBLIC_SAFETY-2-FINAL1.jpg" title="Police &amp; Public Safety" alt="Police &amp; Public Safety"></li><li id="li_market_sub_menu_link_id-59" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/AIRSOFT-PAINTBALL-FINAL.jpg" title="Airsoft &amp; PaintBall" alt="Airsoft &amp; PaintBall"></li><li id="li_market_sub_menu_link_id-29" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/APPAREL-FASHION-1-FINAL1.jpg" title="Apparel &amp; Fashion" alt="Apparel &amp; Fashion"></li><li id="li_market_sub_menu_link_id-28" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Gov_ProcurmentCarousel_Picture.jpg" title="Government Procurement" alt="Government Procurement"></li><li id="li_market_sub_menu_link_id-74" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Gift_Hobby.jpg" title="Gift &amp; Hobby" alt="Gift &amp; Hobby"></li><li id="li_market_sub_menu_link_id-75" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Screen_printing_Emb8ECFC.jpg" title="Screen Printing &amp; Embroidery" alt="Screen Printing &amp; Embroidery"></li><li id="li_market_sub_menu_link_id-30" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/PromoAdvert.jpg" title="Promotional &amp; Advertising Products" alt="Promotional &amp; Advertising Products"></li><li id="li_market_sub_menu_link_id-76" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Carousel_Picture-Unif_Workwear2.jpg" title="Uniform &amp; Workwear" alt="Uniform &amp; Workwear"></li><li id="li_market_sub_menu_link_id-58" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/OUTDOOR-FINAL1.jpg" title="Hunting, Firearms, Outdoor &amp; Camping" alt="Hunting, Firearms, Outdoor &amp; Camping"></li></ul>
-                                   </li></ul></li></ul>  <input type="hidden" name="hd_get_menu_id" id="hd_get_menu_id" value="">
-  <input type="hidden" name="hd_get_sub_menu_id" id="hd_get_sub_menu_id" value="">
-  <input type="hidden" name="hd_top_sub_menu_cnt" id="hd_top_sub_menu_cnt" value="1"> 
-  <input type="hidden" name="hd_top_sub_menu_sel_id" id="hd_top_sub_menu_sel_id" value="0"> 
-  <input type="hidden" name="hd_market_sub_menu" id="hd_market_sub_menu" value="0"> 
+                                   </li></ul></li><li id="mega-hover-7"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-7">Customer Service</a><ul><li class="first"><ul><li id="sub-mega-hover-70"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-customer-service" id="sub_menu_link_id-70">Department Contact Information</a></li><li id="sub-mega-hover-71"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/shipping-information" id="sub_menu_link_id-71">Track Your Shipment</a></li><li id="sub-mega-hover-69"><a class="all_sub_menu_link" href="http://www.rothco.com/cms/rothco-image-request" id="sub_menu_link_id-69">Image Request</a></li></ul></li><li class="second">
+                                       <ul><li id="li_sub-menu-hover-7" class="sub_menu_link_image"></li><li id="li_sub_menu_link_id-70" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-71" class="sub_menu_link_image" style="display: none;"></li><li id="li_sub_menu_link_id-69" class="sub_menu_link_image" style="display: none;"></li></ul>
+                                   </li></ul></li><li id="mega-hover-8"><a href="javascript: void(0)" class="sub_menu_link" id="sub-menu-hover-8">Markets</a><ul><li class="first"><ul><li id="market-sub-mega-hover-1"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-army-navy-military-tactical-wholesale-market" id="market_sub_menu_link_id-1">Army Navy, Military &amp; Tactical</a></li><li id="market-sub-mega-hover-57"><a class="all_sub_menu_link" href="http://www.rothco.com/market/Survival-Preparedness-preppers-survivalist" id="market_sub_menu_link_id-57">Survival &amp; Preparedness</a></li><li id="market-sub-mega-hover-27"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-police-public-safety-security-law-enforment" id="market_sub_menu_link_id-27">Police &amp; Public Safety</a></li><li id="market-sub-mega-hover-59"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-airsoft-Paintball" id="market_sub_menu_link_id-59">Airsoft &amp; PaintBall</a></li><li id="market-sub-mega-hover-29"><a class="all_sub_menu_link" href="http://www.rothco.com/market/apparel" id="market_sub_menu_link_id-29">Apparel &amp; Fashion</a></li><li id="market-sub-mega-hover-28"><a class="all_sub_menu_link" href="http://www.rothco.com/market/government-gsa-procurement" id="market_sub_menu_link_id-28">Government Procurement</a></li><li id="market-sub-mega-hover-74"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-gift-hobby" id="market_sub_menu_link_id-74">Gift &amp; Hobby</a></li><li id="market-sub-mega-hover-75"><a class="all_sub_menu_link" href="http://www.rothco.com/market/Rothco-ScreenPrinting-Embroidery" id="market_sub_menu_link_id-75">Screen Printing &amp; Embroidery</a></li><li id="market-sub-mega-hover-30"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-promotional-advertising-asi" id="market_sub_menu_link_id-30">Promotional &amp; Advertising Products</a></li><li id="market-sub-mega-hover-58"><a class="all_sub_menu_link" href="http://www.rothco.com/market/hunting-firearms-outdoor-camping" id="market_sub_menu_link_id-58">Hunting, Firearms, Outdoor &amp; Camping</a></li><li id="market-sub-mega-hover-76"><a class="all_sub_menu_link" href="http://www.rothco.com/market/rothco-uniform-workwear" id="market_sub_menu_link_id-76">Uniform &amp; Workwear</a></li></ul></li><li class="second">
+                                       <ul><li id="li_sub-menu-hover-8" class="sub_menu_link_image"></li><li id="li_market_sub_menu_link_id-1" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Army_Navy,_Military_Tactical_Banner_474x363_2015_Catalog_image.jpg" title="Army Navy, Military &amp; Tactical" alt="Army Navy, Military &amp; Tactical"></li><li id="li_market_sub_menu_link_id-57" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/SURVIVAL-2-FINAL11.jpg" title="Survival &amp; Preparedness" alt="Survival &amp; Preparedness"></li><li id="li_market_sub_menu_link_id-27" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/PUBLIC_SAFETY-2-FINAL1.jpg" title="Police &amp; Public Safety" alt="Police &amp; Public Safety"></li><li id="li_market_sub_menu_link_id-59" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/AIRSOFT-PAINTBALL-FINAL.jpg" title="Airsoft &amp; PaintBall" alt="Airsoft &amp; PaintBall"></li><li id="li_market_sub_menu_link_id-29" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/APPAREL-FASHION-1-FINAL1.jpg" title="Apparel &amp; Fashion" alt="Apparel &amp; Fashion"></li><li id="li_market_sub_menu_link_id-28" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Gov_ProcurmentCarousel_Picture.jpg" title="Government Procurement" alt="Government Procurement"></li><li id="li_market_sub_menu_link_id-74" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Gift_Hobby.jpg" title="Gift &amp; Hobby" alt="Gift &amp; Hobby"></li><li id="li_market_sub_menu_link_id-75" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Screen_printing_Emb8ECFC.jpg" title="Screen Printing &amp; Embroidery" alt="Screen Printing &amp; Embroidery"></li><li id="li_market_sub_menu_link_id-30" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/PromoAdvert.jpg" title="Promotional &amp; Advertising Products" alt="Promotional &amp; Advertising Products"></li><li id="li_market_sub_menu_link_id-58" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/OUTDOOR-FINAL1.jpg" title="Hunting, Firearms, Outdoor &amp; Camping" alt="Hunting, Firearms, Outdoor &amp; Camping"></li><li id="li_market_sub_menu_link_id-76" class="sub_menu_link_image" style="display: none;"><img src="http://www.rothco.com/upload/slider/Carousel_Picture-Unif_Workwear2.jpg" title="Uniform &amp; Workwear" alt="Uniform &amp; Workwear"></li></ul>
+                                   </li></ul></li></ul>	
+    <input type="hidden" name="hd_get_menu_id" id="hd_get_menu_id" value="">
+    <input type="hidden" name="hd_get_sub_menu_id" id="hd_get_sub_menu_id" value="">
+    <input type="hidden" name="hd_top_sub_menu_cnt" id="hd_top_sub_menu_cnt" value="1">
+    <input type="hidden" name="hd_top_sub_menu_sel_id" id="hd_top_sub_menu_sel_id" value="0">
+    <input type="hidden" name="hd_market_sub_menu" id="hd_market_sub_menu" value="0">
 </div>
 <div style="clear:both; height:0px; overflow:hidden">&nbsp;</div>
 <div class="detail-part shadow" id="detail-part" style="display:none; position:absolute; z-index:2000; width:990px; top:50px;"></div>
 <!-- Menu End -->
 <script type="text/javascript">
-function static_submenu(get_sub_menu_hover_id,get_menu_hover_id)
-{
-    if(get_sub_menu_hover_id != "" && get_menu_hover_id != 8)
+    function static_submenu(get_sub_menu_hover_id,get_menu_hover_id)
     {
-    
-        $("#sub-mega-hover-"+get_sub_menu_hover_id).removeClass().addClass("sub-mega-hover");
-        $("#mega-hover-"+get_menu_hover_id+" ul").each(function(){
-            if($(this).attr("class") == "sub")
-            {
-                $(this).attr('id','selectedul');
-                $(this).css('padding-top', 5);
-                $('#mega-hover-'+get_menu_hover_id).removeClass().addClass("dc-mega-li");
-            }
-        });
-        //if(get_menu_hover_id != 8)
-            $('#selectedul').attr('style', "display: block;");
-        //else
-            //$('#selectedul').attr('style', "display: none;");
-    }
-}
-function common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id)
-{
-    if(get_menu_hover_id != "" && get_menu_hover_id != 8)
-    {
-        $('#top_menu_div').removeClass().addClass("grey");
-        $('.mega-menu').attr("id",'mega-menu-10');
-        $("#sub-menu-hover-" + get_menu_hover_id).attr('style', "color: #EDD77E !important;");
-        $('.first').css('height','');
-        static_submenu(get_sub_menu_hover_id,get_menu_hover_id);
-    }
-}
-$(document).ready(function() {
-    $('.mega').css('width','975px');
-    var get_menu_hover_id = $('#hd_get_menu_id').val();
-    var get_sub_menu_hover_id = $('#hd_get_sub_menu_id').val();
-
-    if(get_menu_hover_id != "" && get_menu_hover_id != 8)
-    {
-        if(get_sub_menu_hover_id == "")
-            get_sub_menu_hover_id = get_menu_hover_id;
-        $('#top_menu_div').removeClass().addClass("grey");
-        $('.mega-menu').attr("id",'mega-menu-10');
-        static_submenu(get_sub_menu_hover_id,get_menu_hover_id);
-    }
-    $(".sub_menu_link").mouseenter(function(){
-    
-        $('.sub_menu_link_image').hide();
-        var li_id = $(this).attr("id");
-        if(li_id != "")
+        if(get_sub_menu_hover_id != "" && get_menu_hover_id != 8)
         {
-            li_id = "li_" + li_id;
-            $('#' + li_id).show();
-            $('.history-part-img').css('padding', '-10px');
-        }
-        var get_parent_class_name = li_id.replace("li_sub-","");
-        var get_menu_parent_id = get_parent_class_name;
-        get_parent_class_name = get_parent_class_name.replace("menu","mega");
-        get_parent_class_name = $('#' + get_parent_class_name).attr('class');
-        if(get_menu_hover_id != "")
+    
+            $("#sub-mega-hover-"+get_sub_menu_hover_id).removeClass().addClass("sub-mega-hover");
+            $("#mega-hover-"+get_menu_hover_id+" ul").each(function(){
+                if($(this).attr("class") == "sub")
+                {
+                    $(this).attr('id','selectedul');
+                    $(this).css('padding-top', 5);
+                    $('#mega-hover-'+get_menu_hover_id).removeClass().addClass("dc-mega-li");
+                }
+            });
+            //if(get_menu_hover_id != 8)
             $('#selectedul').attr('style', "display: block;");
-        if(get_menu_hover_id != "" && get_parent_class_name != "dc-mega-li" && get_menu_hover_id != 8) 
+            //else
+            //$('#selectedul').attr('style', "display: none;");
+        }
+    }
+    function common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id)
+    {
+        if(get_menu_hover_id != "" && get_menu_hover_id != 8)
         {
             $('#top_menu_div').removeClass().addClass("grey");
             $('.mega-menu').attr("id",'mega-menu-10');
-            $(".dc-mega").attr('style', "");
             $("#sub-menu-hover-" + get_menu_hover_id).attr('style', "color: #EDD77E !important;");
             $('.first').css('height','');
+            static_submenu(get_sub_menu_hover_id,get_menu_hover_id);
         }
-        else
-        {
-            get_menu_parent_id = get_menu_parent_id.replace("menu","mega");
-            $('.mega-menu').attr("id",'mega-menu-9');
-            $('#top_menu_div').removeClass().addClass("white");
-            $('#selectedul').attr('style', "display: none;");
-            $("#mega-hover-"+get_menu_parent_id).removeClass().addClass("dc-mega-li sub-mega-hover");
-            $(".dc-mega").attr('style', "height:40px;");
-            if(get_menu_hover_id != "")
-                $("#sub-menu-hover-" + get_menu_hover_id).attr('style', "color: #EDD77E !important;");
-            $('.first').css('height','503px');
-        }
-    });
-    
-    var timeout_top_menu_var;
-	function set_delay_top_menu(li_id)
-	{
-		$('.sub_menu_link_image').hide();
-		if(li_id != "")
-		{
-			li_id = "li_" + li_id;
-			$('#' + li_id).show();
-			$('#' + li_id).css('padding', 0);
-		}
-	}
-	$(".all_sub_menu_link").mouseenter(function(){
-		var li_id = $(this).attr("id");
-		timeout_top_menu_var =setTimeout(function(){set_delay_top_menu(li_id)},500);
-	});
-	$(".all_sub_menu_link").mouseleave(function(){
-		clearTimeout(timeout_top_menu_var);
-	});
-    
-    $(".dc-mega-li").mouseenter(function(){
-    
-        var id = $(this).attr("id");
-        var top_sub_menu_cnt = $('#hd_top_sub_menu_cnt').val();
-        var top_sel_sub_menu = $('#hd_top_sub_menu_sel_id').val();
-        var anchor_tag = 'sub-' + id;
-        anchor_tag = anchor_tag.replace("mega","menu");
+    }
+    $(document).ready(function() {
+        $('.mega').css('width','975px');
+        var get_menu_hover_id = $('#hd_get_menu_id').val();
+        var get_sub_menu_hover_id = $('#hd_get_sub_menu_id').val();
 
-        if(top_sub_menu_cnt)
+        if(get_menu_hover_id != "" && get_menu_hover_id != 8)
         {
-             var cur_id = id.replace("mega-hover-","");
+            if(get_sub_menu_hover_id == "")
+                get_sub_menu_hover_id = get_menu_hover_id;
+            $('#top_menu_div').removeClass().addClass("grey");
+            $('.mega-menu').attr("id",'mega-menu-10');
+            static_submenu(get_sub_menu_hover_id,get_menu_hover_id);
+        }
+        $(".sub_menu_link").mouseenter(function(){
+    
+            $('.sub_menu_link_image').hide();
+            var li_id = $(this).attr("id");
+			
+            if(li_id != "")
+            {
+                li_id = "li_" + li_id;
+                $('#' + li_id).show();
+                $('.history-part-img').css('padding', '-10px');
+				if(li_id=='li_sub-menu-hover-6'){
+					load_catalogs_page();
+				}
+            }
+            var get_parent_class_name = li_id.replace("li_sub-","");
+            var get_menu_parent_id = get_parent_class_name;
+            get_parent_class_name = get_parent_class_name.replace("menu","mega");
+            get_parent_class_name = $('#' + get_parent_class_name).attr('class');
             if(get_menu_hover_id != "")
                 $('#selectedul').attr('style', "display: block;");
-            if(top_sel_sub_menu == cur_id && get_menu_hover_id != 8)
+            if(get_menu_hover_id != "" && get_parent_class_name != "dc-mega-li" && get_menu_hover_id != 8)
             {
                 $('#top_menu_div').removeClass().addClass("grey");
                 $('.mega-menu').attr("id",'mega-menu-10');
-                if($("#" + anchor_tag))
-                    $("#" + anchor_tag).attr('style', "color: #EDD77E !important;");
+                $(".dc-mega").attr('style', "");
+                $("#sub-menu-hover-" + get_menu_hover_id).attr('style', "color: #EDD77E !important;");
                 $('.first').css('height','');
-                if(get_menu_hover_id != "")
-                {
-                    $("#mega-hover-"+get_menu_hover_id).removeClass().addClass("dc-mega-li mega-hover");
-                    $('#selectedul').attr('style', "display: block;");
-                }
             }
             else
             {
+                get_menu_parent_id = get_menu_parent_id.replace("menu","mega");
                 $('.mega-menu').attr("id",'mega-menu-9');
                 $('#top_menu_div').removeClass().addClass("white");
-                if($("#" + anchor_tag))
-                    $("#" + anchor_tag).attr('style', "height:40px;color: #EDD77E !important;");
-                $('.first').css('height','503px');
                 $('#selectedul').attr('style', "display: none;");
-                $("#mega-hover-"+id).removeClass().addClass("dc-mega-li sub-mega-hover");
+                $("#mega-hover-"+get_menu_parent_id).removeClass().addClass("dc-mega-li sub-mega-hover");
+                $(".dc-mega").attr('style', "height:40px;");
+                if(get_menu_hover_id != "")
+                    $("#sub-menu-hover-" + get_menu_hover_id).attr('style', "color: #EDD77E !important;");
+                $('.first').css('height','503px');
+            }
+        });
+    
+        var timeout_top_menu_var;
+        function set_delay_top_menu(li_id)
+        {
+            $('.sub_menu_link_image').hide();
+            if(li_id != "")
+            {
+                li_id = "li_" + li_id;
+                $('#' + li_id).show();
+                $('#' + li_id).css('padding', 0);
             }
         }
+        $(".all_sub_menu_link").mouseenter(function(){
+            var li_id = $(this).attr("id");
+            timeout_top_menu_var =setTimeout(function(){set_delay_top_menu(li_id)},500);
+        });
+        $(".all_sub_menu_link").mouseleave(function(){
+            clearTimeout(timeout_top_menu_var);
+        });
+    
+        $(".dc-mega-li").mouseenter(function(){
+    
+            var id = $(this).attr("id");
+            var top_sub_menu_cnt = $('#hd_top_sub_menu_cnt').val();
+            var top_sel_sub_menu = $('#hd_top_sub_menu_sel_id').val();
+            var anchor_tag = 'sub-' + id;
+            anchor_tag = anchor_tag.replace("mega","menu");
+
+            if(top_sub_menu_cnt)
+            {
+                var cur_id = id.replace("mega-hover-","");
+                if(get_menu_hover_id != "")
+                    $('#selectedul').attr('style', "display: block;");
+                if(top_sel_sub_menu == cur_id && get_menu_hover_id != 8)
+                {
+                    $('#top_menu_div').removeClass().addClass("grey");
+                    $('.mega-menu').attr("id",'mega-menu-10');
+                    if($("#" + anchor_tag))
+                        $("#" + anchor_tag).attr('style', "color: #EDD77E !important;");
+                    $('.first').css('height','');
+                    if(get_menu_hover_id != "")
+                    {
+                        $("#mega-hover-"+get_menu_hover_id).removeClass().addClass("dc-mega-li mega-hover");
+                        $('#selectedul').attr('style', "display: block;");
+                    }
+                }
+                else
+                {
+                    $('.mega-menu').attr("id",'mega-menu-9');
+                    $('#top_menu_div').removeClass().addClass("white");
+                    if($("#" + anchor_tag))
+                        $("#" + anchor_tag).attr('style', "height:40px;color: #EDD77E !important;");
+                    $('.first').css('height','503px');
+                    $('#selectedul').attr('style', "display: none;");
+                    $("#mega-hover-"+id).removeClass().addClass("dc-mega-li sub-mega-hover");
+                }
+            }
         
-    })
+        })
     
-    $("#top_menu_div").mouseleave(function(){
-        $(".dc-mega").attr('style', "");
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        $("#top_menu_div").mouseleave(function(){
+            $(".dc-mega").attr('style', "");
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
+    
+        $(".media-part").mouseleave(function(){
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
+    
+        $(".detail-part").mouseleave(function(){
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
+    
+        $(".box").mouseenter(function(){
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
+    
+        $(".cont-bottom").mouseenter(function(){
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
+    
+        $(".history-part-img").mouseenter(function(){
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
+    
+        $(".right-part-detail-pro").mouseenter(function(){
+            common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
+        });
     });
-    
-    $(".media-part").mouseleave(function(){
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
-    });
-    
-    $(".detail-part").mouseleave(function(){
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
-    });
-    
-    $(".box").mouseenter(function(){
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
-    });
-    
-    $(".cont-bottom").mouseenter(function(){
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
-    });
-    
-    $(".history-part-img").mouseenter(function(){
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
-    });
-    
-    $(".right-part-detail-pro").mouseenter(function(){
-        common_func_for_menu(get_sub_menu_hover_id,get_menu_hover_id);
-    });
-    
-    
-});
+	function load_catalogs_page(){
+				$.post('http://www.rothco.com/catalogs_gallery',{},function(result){
+			$('#catalogs_data').html(result);
+		});
+			}
 </script>                        </div>
 <div class="history-part-img">
 <img src="http://www.rothco.com//upload/cms/990x406_Banner-shutterstock_597099971.jpg" alt="Privacy Policy" title="Privacy Policy"></div>
 <div class="history-part">
   <h2>
       </h2>
-  <h1>Privacy Policy</h1>
-  <input type="hidden" name="hd_cms_title" id="hd_cms_title" value="Privacy Policy">
-  <input type="hidden" name="hd_cms_description" id="hd_cms_description" value="<p>PRIVACY POLICY FOR ROTHCO.COM</p>
+  
+        <div class="apply-box">
+  <h4>Want to become a Rothco Dealer?</h4>
+  <input type="button" value="Apply Now" onclick="location.href='http://www.rothco.com/cms/become-a-dealer'">
+</div>
+      <!-- <div class="clear"></div> -->
+
+  <div style="">
+    <h1>Privacy Policy</h1>
+    <input type="hidden" name="hd_cms_title" id="hd_cms_title" value="Privacy Policy">
+    <input type="hidden" name="hd_cms_description" id="hd_cms_description" value="<p>PRIVACY POLICY FOR ROTHCO.COM</p>
 <p>WHO WE ARE</p>
 <p>Rothco is the World\'s Foremost Supplier of Military and Outdoor Clothing and Accessories.&nbsp;</p>
 <p>&nbsp;</p>
@@ -1212,7 +1289,7 @@ $(document).ready(function() {
 <p>&nbsp;</p>
 <p>DISCLOSURE IN BUSINESS TRANSFERS</p>
 <p>&nbsp;</p>
-<p>At any time Rothco may become involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Rothco may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Rothco has no liability for the acquiring organization\'s use and disclosure of your personal information. If at any time you do not wish Rothco to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to <a href=\mailto:info@Rothco.com?subject=%20Privacy%20Policy\>info@Rothco.com</a>.</p>
+<p>At any time, Rothco may become involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Rothco may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Rothco has no liability for the acquiring organization\'s use and disclosure of your personal information. If at any time you do not wish Rothco to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to <a href=\mailto:info@Rothco.com?subject=%20Privacy%20Policy\>info@Rothco.com</a>.</p>
 <p>&nbsp;</p>
 <p>LAW ENFORCEMENT AND LEGAL DISCLOSURE</p>
 <p>&nbsp;</p>
@@ -1245,7 +1322,7 @@ $(document).ready(function() {
 <p>If you have any comments or questions about this Policy or your personal information, please send your comments by e-mail to <a title=\Rothco\ href=\mailto:info@rothco.com?subject=PrivacyPolicy\ target=\_self\>info@Rothco.com</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>">
-  <p>PRIVACY POLICY FOR ROTHCO.COM</p>
+    <p>PRIVACY POLICY FOR ROTHCO.COM</p>
 <p>WHO WE ARE</p>
 <p>Rothco is the World's Foremost Supplier of Military and Outdoor Clothing and Accessories.&nbsp;</p>
 <p>&nbsp;</p>
@@ -1284,7 +1361,7 @@ $(document).ready(function() {
 <p>&nbsp;</p>
 <p>DISCLOSURE IN BUSINESS TRANSFERS</p>
 <p>&nbsp;</p>
-<p>At any time Rothco may become involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Rothco may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Rothco has no liability for the acquiring organization's use and disclosure of your personal information. If at any time you do not wish Rothco to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to <a href="mailto:info@Rothco.com?subject=%20Privacy%20Policy">info@Rothco.com</a>.</p>
+<p>At any time, Rothco may become involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Rothco may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Rothco has no liability for the acquiring organization's use and disclosure of your personal information. If at any time you do not wish Rothco to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to <a href="mailto:info@Rothco.com?subject=%20Privacy%20Policy">info@Rothco.com</a>.</p>
 <p>&nbsp;</p>
 <p>LAW ENFORCEMENT AND LEGAL DISCLOSURE</p>
 <p>&nbsp;</p>
@@ -1316,14 +1393,9 @@ $(document).ready(function() {
 <p>&nbsp;</p>
 <p>If you have any comments or questions about this Policy or your personal information, please send your comments by e-mail to <a title="Rothco" href="mailto:info@rothco.com?subject=PrivacyPolicy" target="_self">info@Rothco.com</a>.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>  <div class="clear"></div>
-  <div class="cont-bottom">
-        		<div class="apply-box">
-  <h4>Want to become a Rothco Dealer?</h4>
-  <input type="button" value="Apply Now" onclick="location.href='http://www.rothco.com/cms/become-a-dealer'">
-</div>
-        <div class="clear"></div>
-        <style type="text/css">
+<p>&nbsp;</p>    <div class="clear"></div>
+    <div class="cont-bottom" style="height: 119px;">
+            <style type="text/css">
 	.history-part .share a.s-pint{
 		*margin-top: -19px !important;
 	}
@@ -1335,7 +1407,7 @@ var fbk_app_id = "507607932607872";
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <div class="share" style="width:40% !important;">
   <label style="float:left; margin:0 6px 0 2px">Share:&nbsp;</label>
-  <a style="float:left" href="mailto:?subject=Rothco: Privacy Policy&amp;body=Privacy Policy%0D%0A%0D%0APRIVACY POLICY FOR ROTHCO.COM&#10;WHO WE ARE&#10;Rothco is the World's Foremost Supplier of Military and Outdoor Clothing and Accessories. &#10; &#10;WHAT INFORMATION DO WE COLLECT?&#10;The information we learn from customers helps us personalize and continually improve your shopping experience at Rothco.com. Any personal information you provide to us is maintained on secure servers and our internal systems. It is always your choice whether or not to provide personal information. Any information you provide will be treated with care, and subject to this Policy will not be used or disclosed in ways to which you have not consented.&#10; &#10;INFORMATION YOU PROVIDE&#10;During your use of Rothco.com, such as registering for a Authorized Dealer Account or Consumer Profile and signing into your account, you may be asked to voluntarily provide personal information (such as your name, e-mail address, postal address, telephone number, etc.) for the purpose of facilitating communications with you or facilitating your use of Rothco.com, including placing an order, signing up to receive the latest product releases, etc. If you choose not to provide certain requested personal information, you may not be able to register an Authorized Dealer Account or a Consumer Profile and may not be able to use certain features of the website.&#10; &#10;E-MAIL FROM ROTHCO&#10; &#10;To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mails from Rothco.com if your computer supports such capabilities. If you do not wish to receive additional e-mail from Rothco, please simply click the Unsubscribe button in your e-mail newsletter.&#10; &#10;HOW WE USE YOUR INFORMATION&#10; &#10;We use the information that we collect about you to:&#10;&#10;Process and fulfill your orders&#10;Manage your Account&#10;Administer the Website&#10;Monitor customer online traffic patterns and site usage to help us develop and improve the design and usability of the site&#10;Protect the security or integrity of our website and our business&#10;Notify you about enhancement to our services, such as recent updates to the Website, new services and special offers that may be of interest&#10;&#10; &#10;WHAT ABOUT COOKIES?&#10;Rothco.com uses " cookies",="" a="" technology="" that="" stores="" small="" amount="" of="" information="" on="" website="" user's="" computer="" to="" permit="" the="" recognize="" future="" visits="" using="" computer.="" cookies="" enhance="" convenience="" and="" use="" rothco.com.="" for="" example,="" provided="" through="" is="" used="" you="" as="" previous="" user="" (so="" do="" not="" have="" enter="" your="" personal="" every="" time),="" offer="" personalized="" web="" page="" content="" otherwise="" facilitate="" experience.="" cookie="" data="" may="" be="" purposes="" including="" delivering="" banner="" advertisements="" other="" advertising="" tailored="" interests="" when="" visit="" certain="" websites="" selecting="" offers="" products="" display="" our="" website.="" also="" wish="" decline="" generally="" if="" browser="" permits,="" but="" doing="" so="" affect="" &nbsp;="" we="" share="" receive?="" take="" privacy="" very="" seriously="" sell="" or="" rent="" marketers.="" customer="" only="" described="" below.="" disclosure="" authorizing="" persons="" behalf="" another="" person="" organization="" (such="" employer),="" rothco="" provide="" organization.="" has="" no="" control="" over="" by="" organization,="" subject="" this="" policy.="" disclosed="" whose="" website,="" should="" in="" business="" transfers="" at="" any="" time="" become="" involved="" sale="" transfer="" some="" all="" its="" business.="" part="" transfer,="" disclose="" acquiring="" will="" require="" agree="" protect="" manner="" consistent="" with="" liability="" organization's="" information.="" business,="" please="" send="" request="" e-mail="" info@rothco.com.="" law="" enforcement="" legal="" government="" institution="" asserted="" lawful="" authority="" obtain="" where="" reasonable="" grounds="" believe="" could="" useful="" investigation="" unlawful="" activity,="" comply="" subpoena="" warrant="" an="" order="" made="" court,="" person,="" body="" jurisdiction="" compel="" production="" information,="" court="" rules="" regarding="" records="" counsel.="" over,="" for,="" those="" persons'="" policy.&nbsp;="" consent="" than="" set="" out="" above,="" receive="" notice="" about="" might="" go="" third="" parties,="" opportunity="" choose="" how="" secure="" my="" information?="" work="" security="" during="" transmission="" sockets="" layer="" (ssl)="" software,="" which="" encrypts="" input="" online.="" accessed="" server,="" first="" characters="" address="" line="" change="" from="" "http"="" "https".="" can="" help="" us="" taking="" precautions="" are="" internet.="" it="" important="" against="" unauthorized="" access="" password="" sure="" sign="" off="" finished="" shared="" what="" options="" i="" have?="" discussed="" always="" even="" though="" needed="" make="" purchase="" advantage="" such="" rothco.com="" features="" account,="" placing="" orders,="" suggested="" products.="" add="" update="" pages,="" referenced="" account="" section,="" simply="" logging="" password.="" want="" mail="" us,="" click="" unsubscribe="" button="" newsletter.="" children's="" policy="" concerned="" safety="" children="" they="" never="" knowingly="" personally="" identifiable="" online="" anyone="" under="" age="" 13="" without="" prior="" verifiable="" parental="" consent.="" discover="" visitor="" registered="" consent,="" delete="" his="" her="" registration="" files="" soon="" possible.="" keep="" regular="" review="" place="" updates="" webpage.="" was="" last="" updated="" 19th,="" march="" 2013.="" feedback="" comments="" questions="" &nbsp;%0d%0a%0d%0alink:="" http:="" www.rothco.com="" cms="" rothco-privacy-policy"="" class="s-email"></a>
+  <a style="float:left" href="mailto:?subject=Rothco: Privacy Policy&amp;body=Privacy Policy%0D%0A%0D%0APRIVACY POLICY FOR ROTHCO.COM&#10;WHO WE ARE&#10;Rothco is the World's Foremost Supplier of Military and Outdoor Clothing and Accessories. &#10; &#10;WHAT INFORMATION DO WE COLLECT?&#10;The information we learn from customers helps us personalize and continually improve your shopping experience at Rothco.com. Any personal information you provide to us is maintained on secure servers and our internal systems. It is always your choice whether or not to provide personal information. Any information you provide will be treated with care, and subject to this Policy will not be used or disclosed in ways to which you have not consented.&#10; &#10;INFORMATION YOU PROVIDE&#10;During your use of Rothco.com, such as registering for a Authorized Dealer Account or Consumer Profile and signing into your account, you may be asked to voluntarily provide personal information (such as your name, e-mail address, postal address, telephone number, etc.) for the purpose of facilitating communications with you or facilitating your use of Rothco.com, including placing an order, signing up to receive the latest product releases, etc. If you choose not to provide certain requested personal information, you may not be able to register an Authorized Dealer Account or a Consumer Profile and may not be able to use certain features of the website.&#10; &#10;E-MAIL FROM ROTHCO&#10; &#10;To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mails from Rothco.com if your computer supports such capabilities. If you do not wish to receive additional e-mail from Rothco, please simply click the Unsubscribe button in your e-mail newsletter.&#10; &#10;HOW WE USE YOUR INFORMATION&#10; &#10;We use the information that we collect about you to:&#10;&#10;Process and fulfill your orders&#10;Manage your Account&#10;Administer the Website&#10;Monitor customer online traffic patterns and site usage to help us develop and improve the design and usability of the site&#10;Protect the security or integrity of our website and our business&#10;Notify you about enhancement to our services, such as recent updates to the Website, new services and special offers that may be of interest&#10;&#10; &#10;WHAT ABOUT COOKIES?&#10;Rothco.com uses " cookies",="" a="" technology="" that="" stores="" small="" amount="" of="" information="" on="" website="" user's="" computer="" to="" permit="" the="" recognize="" future="" visits="" using="" computer.="" cookies="" enhance="" convenience="" and="" use="" rothco.com.="" for="" example,="" provided="" through="" is="" used="" you="" as="" previous="" user="" (so="" do="" not="" have="" enter="" your="" personal="" every="" time),="" offer="" personalized="" web="" page="" content="" otherwise="" facilitate="" experience.="" cookie="" data="" may="" be="" purposes="" including="" delivering="" banner="" advertisements="" other="" advertising="" tailored="" interests="" when="" visit="" certain="" websites="" selecting="" offers="" products="" display="" our="" website.="" also="" wish="" decline="" generally="" if="" browser="" permits,="" but="" doing="" so="" affect="" &nbsp;="" we="" share="" receive?="" take="" privacy="" very="" seriously="" sell="" or="" rent="" marketers.="" customer="" only="" described="" below.="" disclosure="" authorizing="" persons="" behalf="" another="" person="" organization="" (such="" employer),="" rothco="" provide="" organization.="" has="" no="" control="" over="" by="" organization,="" subject="" this="" policy.="" disclosed="" whose="" website,="" should="" in="" business="" transfers="" at="" any="" time,="" become="" involved="" sale="" transfer="" some="" all="" its="" business.="" part="" transfer,="" disclose="" acquiring="" will="" require="" agree="" protect="" manner="" consistent="" with="" liability="" organization's="" information.="" time="" business,="" please="" send="" request="" e-mail="" info@rothco.com.="" law="" enforcement="" legal="" government="" institution="" asserted="" lawful="" authority="" obtain="" where="" reasonable="" grounds="" believe="" could="" useful="" investigation="" unlawful="" activity,="" comply="" subpoena="" warrant="" an="" order="" made="" court,="" person,="" body="" jurisdiction="" compel="" production="" information,="" court="" rules="" regarding="" records="" counsel.="" over,="" for,="" those="" persons'="" policy.&nbsp;="" consent="" than="" set="" out="" above,="" receive="" notice="" about="" might="" go="" third="" parties,="" opportunity="" choose="" how="" secure="" my="" information?="" work="" security="" during="" transmission="" sockets="" layer="" (ssl)="" software,="" which="" encrypts="" input="" online.="" accessed="" server,="" first="" characters="" address="" line="" change="" from="" "http"="" "https".="" can="" help="" us="" taking="" precautions="" are="" internet.="" it="" important="" against="" unauthorized="" access="" password="" sure="" sign="" off="" finished="" shared="" what="" options="" i="" have?="" discussed="" always="" even="" though="" needed="" make="" purchase="" advantage="" such="" rothco.com="" features="" account,="" placing="" orders,="" suggested="" products.="" add="" update="" pages,="" referenced="" account="" section,="" simply="" logging="" password.="" want="" mail="" us,="" click="" unsubscribe="" button="" newsletter.="" children's="" policy="" concerned="" safety="" children="" they="" never="" knowingly="" personally="" identifiable="" online="" anyone="" under="" age="" 13="" without="" prior="" verifiable="" parental="" consent.="" discover="" visitor="" registered="" consent,="" delete="" his="" her="" registration="" files="" soon="" possible.="" keep="" regular="" review="" place="" updates="" webpage.="" was="" last="" updated="" 19th,="" march="" 2013.="" feedback="" comments="" questions="" &nbsp;%0d%0a%0d%0alink:="" http:="" www.rothco.com="" cms="" rothco-privacy-policy"="" class="s-email"></a>
   <span style="float: left !important;"><a href="https://twitter.com/share" class="s-twt twitter-share-button" data-lang="en" style="float:left;position:relative;"></a></span>
   <!--<div class="fb-like fb-addon" data-href="http://www.rothco.com/cms/rothco-privacy-policy"  style="margin-top: 5px;" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" ></div>-->
   <img src="http://www.rothco.com/theme/images/facebook_share.png" id="share_button" style="cursor: pointer; width: auto; margin-top: -2px; " alt="Share on Facebook" title="Share on Facebook">
@@ -1384,13 +1456,15 @@ message: ''
 });
 });
 });
-</script>  </div>
+</script>    </div>
+  </div>
+
+
 </div>
 <div class="clear"></div>
 <div class="clear"></div>
 <br>
-      <a id="get_help" href="javascript:get_help()" target="_blank"><img src="http://www.rothco.com//upload/banners/Learn_More_About_Bo70B28141.jpg" alt="Learn More About Rothco" title="Learn More About Rothco"></a>
-  <br>
+<br>
 <br>
 <div class="clear"></div>
 </section>
@@ -1453,121 +1527,38 @@ message: ''
 </div>    <ul>
                         <li class="col1">
             	<h3>Categories</h3>
-                                							<a href="http://www.rothco.com/category/featured-items">Featured Items</a><br><a href="http://www.rothco.com/category/rothco-clothing">Clothing</a><br><a href="http://www.rothco.com/category/rothco-outerwear">Outerwear</a><br><a href="http://www.rothco.com/category/rothco-bags-and-packs">Bags &amp; Packs</a><br><a href="http://www.rothco.com/category/headwear">Headwear</a><br><a href="http://www.rothco.com/category/rothco-footwear">Footwear</a><br><a href="http://www.rothco.com/category/rothco-military-and-tactical-gear">Military &amp; Tactical Gear</a><br><a href="http://www.rothco.com/category/rothco-camo">Camo</a><br><a href="http://www.rothco.com/category/rothoc-military-branches">Military Branches</a><br><a href="http://www.rothco.com/category/rothco-womens-clothing">Women's Clothing</a><br><a href="http://www.rothco.com/category/rothco-kids-clothing-accessories">Kid's Clothing &amp; Accessories</a><br><a href="http://www.rothco.com/category/rothco-accessories">Personal Accessories &amp; Novelties</a><br><a href="http://www.rothco.com/category/rothco-Paracord">Paracord</a><br>                                                </li>
+                
+                                 							<a href="http://www.rothco.com/category/featured-items">Featured Items</a><br><a href="http://www.rothco.com/category/rothco-clothing">Clothing</a><br><a href="http://www.rothco.com/category/rothco-military-and-tactical-gear">Military &amp; Tactical Gear</a><br><a href="http://www.rothco.com/category/rothco-outerwear">Outerwear</a><br><a href="http://www.rothco.com/category/rothco-bags-and-packs">Bags &amp; Packs</a><br><a href="http://www.rothco.com/category/rothco-footwear">Footwear</a><br><a href="http://www.rothco.com/category/headwear">Headwear</a><br><a href="http://www.rothco.com/category/rothco-camo">Camo</a><br><a href="http://www.rothco.com/category/rothco-military-branches">Military Branches</a><br><a href="http://www.rothco.com/category/rothco-womens-clothing">Women's Clothing</a><br><a href="http://www.rothco.com/category/rothco-kids-clothing-accessories">Kid's Clothing &amp; Accessories</a><br><a href="http://www.rothco.com/category/rothco-accessories">Personal Accessories &amp; Novelties</a><br><a href="http://www.rothco.com/category/rothco-paracord">Paracord</a><br>                                                </li>
                   <li class="col2">
             	<h3>Markets</h3>
-                                							<a href="http://www.rothco.com/market/rothco-army-navy-military-tactical-wholesale-market">Army, Navy, Military &amp; Tactical</a><br><a href="http://www.rothco.com/market/Survival-Preparedness-preppers-survivalist">Survival &amp; Preparedness</a><br><a href="http://www.rothco.com/market/rothco-police-public-safety-security-law-enforment">Police &amp; Public Safety</a><br><a href="http://www.rothco.com/market/rothco-airsoft-Paintball">Airsoft &amp; PaintBall</a><br><a href="http://www.rothco.com/market/apparel">Apparel &amp; Fashion</a><br><a href="http://www.rothco.com/market/government-gsa-Procurement-">Government Procurement</a><br><a href="http://www.rothco.com/market/rothco-gift-hobby">Gift &amp; Hobby</a><br><a href="http://www.rothco.com/market/Rothco-ScreenPrinting-Embroidery">Screen Printing &amp; Embroidery</a><br><a href="http://www.rothco.com/market/rothco-promotional-advertising-asi">Promotional &amp; Advertising Products</a><br><a href="http://www.rothco.com/market/rothco-uniform-workwear">Uniform &amp; Workwear</a><br><a href="http://www.rothco.com/market/hunting-firearms-outdoor-camping-">Hunting, Firearms, Outdoor &amp; Camping</a><br>                                                </li>
+                
+                                 							<a href="http://www.rothco.com/market/rothco-army-navy-military-tactical-wholesale-market">Army Navy, Military &amp; Tactical</a><br><a href="http://www.rothco.com/market/Survival-Preparedness-preppers-survivalist">Survival &amp; Preparedness</a><br><a href="http://www.rothco.com/market/rothco-police-public-safety-security-law-enforment">Police &amp; Public Safety</a><br><a href="http://www.rothco.com/market/rothco-airsoft-Paintball">Airsoft &amp; PaintBall</a><br><a href="http://www.rothco.com/market/apparel">Apparel &amp; Fashion</a><br><a href="http://www.rothco.com/market/government-gsa-procurement">Government Procurement</a><br><a href="http://www.rothco.com/market/rothco-gift-hobby">Gift &amp; Hobby</a><br><a href="http://www.rothco.com/market/Rothco-ScreenPrinting-Embroidery">Screen Printing &amp; Embroidery</a><br><a href="http://www.rothco.com/market/rothco-promotional-advertising-asi">Promotional &amp; Advertising Products</a><br><a href="http://www.rothco.com/market/hunting-firearms-outdoor-camping">Hunting, Firearms, Outdoor &amp; Camping</a><br><a href="http://www.rothco.com/market/rothco-uniform-workwear">Uniform &amp; Workwear</a><br>                                                </li>
                   <li class="col3">
             	<h3>Help</h3>
-                                	<a href="http://www.rothco.com/cms/rothco-faq-Authorized-Wholesale-Dealer">Dealers</a><br>
-                                	<a href="http://www.rothco.com/cms/ups-shipping-calculator">Shipping Information</a><br>
-                                	<a href="http://www.rothco.com/cms/rothco-faq-public-information">Consumers</a><br>
-                            </li>
+                
+                                     <a href="http://www.rothco.com/cms/rothco-image-request">Image Request</a><br>
+                                                     <a href="http://www.rothco.com/cms/rothco-size-chart">Rothco Size Charts</a><br>
+                                             </li>
                   <li class="col4">
             	<h3>Corporate Info</h3>
-                                	<a href="http://www.rothco.com/cms/rothco-faq-Authorized-Wholesale-Dealer">FAQs for Authorized Dealers</a><br>
-                                	<a href="http://www.rothco.com/cms/rothco-faq-public-information">FAQ's for General Public</a><br>
-                                	<a href="http://www.rothco.com/cms/rothco-career-opportunities">Careers</a><br>
-                                	<a href="http://www.rothco.com/cms/become-a-dealer">Become a Rothco Dealer</a><br>
-                                	<a href="http://www.rothco.com/cms/rothco-privacy-policy">Online Sales Policy</a><br>
-                					<a href="http://www.rothco.com/blog">Blog</a><br>
-				            </li>
+                
+                                     <a href="http://www.rothco.com/cms/rothco-career-opportunities">Careers</a><br>
+                                                     <a href="http://www.rothco.com/cms/become-a-dealer">Become a Rothco Dealer</a><br>
+                                                     <a href="http://www.rothco.com/cms/rothco-counterfeit-policy">Rothco Counterfeit Policy</a><br>
+                                 					<a href="http://www.rothco.com/blog">Blog</a><br>
+                            </li>
                   <li class="col5">
             	<h3>Rothco.com</h3>
-                                	<a href="http://www.rothco.com/cms/rothco-terms-conditions">Terms and Conditions</a><br>
-                                	<a href="http://www.rothco.com/cms/rothco-privacy-policy">Privacy Policy</a><br>
-                                	<a href="http://www.rothco.com/cms/rothco-size-chart">Rothco Size Chart</a><br>
-                            </li>
-            <li class="col6"> <a href="#newsletterdiv" rel="facebox" class="join-list">Join Our Mailing List</a> </li>
+                
+                                     <a href="http://www.rothco.com/cms/rothco-terms-conditions">Terms and Conditions</a><br>
+                                                     <a href="http://www.rothco.com/cms/rothco-privacy-policy">Privacy Policy</a><br>
+                                 					<a href="http://www.rothco.com/faq/authorized-dealers">FAQs for Authorized Dealers</a><br>
+                    <a href="http://www.rothco.com/faq/public">FAQ for General Public</a><br>
+				            </li>
+       
+            
     </ul>
-    <div id="newsletterdiv" style="display:none">
-      <script type="text/javascript">
-function validate_form()
-{
-    $(document).ready(function(){
-        $("#facebox #mailing_list_form").validate();
-        if($("#facebox #mailing_list_form").valid())
-            newsletter_ajax_request();
-  });   
-}
-      
-</script>
-<script type="text/javascript">
-function newsletter_ajax_request()
-{
-    var path_uri = base_url;
-    var fname = $('#facebox #first_name').val();
-    var lname = $('#facebox #last_name').val();
-    var email = $('#facebox #email_address').val();
-    var val = [];
-	val[0] = $('#facebox #lists_id').val();
-    var flag = true;
-	/*
-    $('#facebox :checkbox:checked').each(function(i){
-      val[i] = $(this).val();
-      flag = true;
-    });
-	*/
-    if(flag)
-    {
-        var json_string = JSON.stringify(val);
-        $.ajax({
-            type: "POST",
-            url: path_uri + "third_party/constant_contact/add_contact.php?email="+encodeURIComponent(email)+"&fname="+encodeURIComponent(fname)+"&lname="+encodeURIComponent(lname)+"&list="+json_string,
-    		async: false,
-            error: function() {
-                alert("Something went wrong");	
-                return false;			
-            },
-            success: function(msg) {
-                $('#facebox #first_name').val("");
-                $('#facebox #last_name').val("");
-                $('#facebox #email_address').val("");
-				$('#facebox #msg-green').show();
-                return false;    
-            }
     
-        });
-    }
-    else
-    {
-        alert("Please select at lest one interest");
-        return false;
-    }
-}
-</script>
-
-<div class="mailing-list" style="height: 455px;margin: 0px;">
-  
-  <h1>Join our mailing list</h1>
-    <br>
-    Get insider information on all things Rothco by signing up for our newsletter.<br>
-     <p></p>
-  <div id="msg-green" style="display: none;"><h2><font color="#EDD77E">Contact Added Successfully....!!!</font></h2></div>
-  <h3>Contact Information</h3>
-  <form action="#" enctype="multipart/form-data" method="post" accept-charset="utf-8" name="mailing_list_form" id="mailing_list_form">
-    <div class="left-part-form">
-      <label>* First Name :</label>
-      <input type="text" id="first_name" name="first_name" title="Please enter First Name" class="required">
-      <label>* Last Name :</label>
-      <input type="text" id="last_name" name="last_name" value="" title="Please enter Last Name" class="required">
-      <label>* Email Address :</label>
-      <input type="text" id="email_address" name="email_address" value="" title="Please enter valid Email address" class="required email">
-      <input type="hidden" name="lists[]" value="http://api.constantcontact.com/ws/customers/rothco53/lists/176" id="lists_id">
-      <div class="submit-but-part" style="margin: 20px 50px 0 80px !important;">
-	      <input id="submit" type="button" value="Submit" class="submit-but" onclick="validate_form();">
-      </div>
-    </div>
-    <!--<div class="right-part-form" style="margin: 0px 47px 0px 0px;">
-      <fieldset style="border: 1px solid #ffffff;">
-      <legend>&nbsp;<span style="color: #FFFFFF;font-family: 'HelveticaNeueLTPro75Bold';font-size: 18px;padding: 0px;text-shadow: 1px 1px 1px #231D15;">Interest&nbsp;</span></legend>-->
-            <!--</fieldset>-->
-      <!--<div class="submit-but-part" style="margin: 0px;padding-top: 20px;float: right;">
-        <input id="submit" type="button" value="Submit" class="submit-but" onclick="validate_form();" />
-      </div>
-    </div>-->
-  </form>
-</div>    </div>
     <div class="copy-rights" style="float:left; width:100%;">All images and descriptions @ Copyright Rothco 2014</div>
 	<div class="clear"></div>	
   </section>
@@ -1592,9 +1583,6 @@ function newsletter_ajax_request()
 			type: "POST",
 			url: site_url + "product_cart/auto_update_cart",
 			async: false,
-			/*error:function(xhr, status, errorThrown) {
-				console.log(errorThrown+'\n'+status+'\n'+xhr.statusText);
-			},*/
 			beforeSend: function() {
                 $("#span_cart_items").hide();
 				$("#span_cart_text").show();
@@ -1613,7 +1601,6 @@ function newsletter_ajax_request()
     }
     $(document).ready(function() {
 
-                
     	$('a[rel*=facebox]').facebox();
 		
 		$(document).on("click", "#google_translate_element", function () {
@@ -1653,40 +1640,12 @@ function newsletter_ajax_request()
 	}
 </script>
 
-
-
-
-
  <script type="text/javascript">
     function googleTranslateElementInit() {
           new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element');
     }
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<!--script type="text/javascript">
-    var fby = fby || [];
 
-    fby.push(['showTab', {id: '5423', position: 'right', color: '#FF1F3A'}]);
-
-    (function () {
-
-        var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
-
-        f.src = '//cdn.feedbackify.com/f.js';
-
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
-
-    })();
-</script-->
-
-
-
-<!--script type="text/javascript">
-	$.ajax({
-		type: "POST",
-		url:  site_url + "ajax/fetch_feeds",
-		success: function(html) {
-			$('#feeds').html(html);
-		}
-	});
-</script--></body></html>
+      
+</body></html>
