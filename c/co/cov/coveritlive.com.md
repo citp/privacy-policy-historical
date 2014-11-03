@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629093717id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103173228id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
 
 # COVERITLIVE.COM - Privacy Policy
 
-Last Revised: March 3, 2011 
+Last Revised: July 24, 2014 
 
 **BINDING CONTRACT**
 
-CoveritLive is a service provided by Demand Media, Inc. This Privacy Policy incorporates theTerms of Service ("TOS") and, unless otherwise noted, incorporate the defined terms used in the TOS. If you are not comfortable with this Privacy Policy or our TOS, please do not register or use the Site, or provide us with any personally identifiable information ("PII") or any other information or content. 
+CoveritLive is a service provided by Scribble Technologies, Inc. This Privacy Policy incorporates theTerms of Service ("TOS") and, unless otherwise noted, incorporate the defined terms used in the TOS. If you are not comfortable with this Privacy Policy or our TOS, please do not register or use the Site, or provide us with any personally identifiable information ("PII") or any other information or content. 
 
 **1\. What information may be collected by CoveritLive, and how is it collected?**
 
@@ -63,7 +63,7 @@ We share information with third parties, but only as described in this Section 3
   * Business Transfer. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII may be subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
   
 
-  * Affiliates. We may share PII, non-PII and other information with our corporate affiliates. Some of our most significant affiliates are identified on the website of our parent company, Demand Media, Inc. http://www.demandmedia.com. Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control.
+  * Affiliates. We may share PII, non-PII and other information with our corporate affiliates. Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates or from your visits to other websites that we or our corporate affiliates control.
   
 
   * Compliance and Safety. We may release user information when we believe release is appropriate to: 
@@ -98,21 +98,20 @@ We reserve the right to change our Policy at any time. Non-material changes and 
 
 **7\. What If I Have Other Questions Or Concerns About Privacy Or This Policy?**
 
-**Privacy Concerns.** Your use of the Site and any dispute over privacy is subject to the Terms. If you have any concern about privacy at the Site, please send us a thorough description to [legal@demandmedia.com](mailto:legal@demandmedia.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address below. 
+**Privacy Concerns.** Your use of the Site and any dispute over privacy is subject to the Terms. If you have any concern about privacy at the Site, please send us a thorough description to [support@coveritlive.com](mailto:support@coveritlive.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address below. 
 
 **Identity Theft.** If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address below and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses. 
 
 **Notice Required by Law.** In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with us at all times. 
 
-**Legal Notices.** For customer service matters (including questions relating to this Policy), you may email us at [legal@demandmedia.com.](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: CoveritLive, Legal Department, 5808 Lake Washington Blvd. Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you. 
+**Legal Notices.** For customer service matters (including questions relating to this Policy), you may email us at [support@coveritlive.com.](mailto:support@coveritlive.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: CoveritLive, Legal Department, 200 - 488 Wellington St. West, Toronto, Ontario, Canada, M5V 1E3. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you. 
 
 You can contact us at: 
 
 CoveritLive  
 Legal Department  
-5808 Lake Washington Blvd. Suite 300,   
-Kirkland, WA 98033
+200 - 488 Wellington St. West, Toronto, Ontario, Canada, M5V 1E3 
 
-Demand Media and CoveritLive are registered trademarks of Demand Media, Inc. in the United States and other countries. 
+ScribbleLive and CoveritLive are registered trademarks of Scribble Technologies, Inc.. 
 
-Copyright ©2014. Demand Media, Inc. 
+Copyright ©2014. Scribble Technologies, Inc. 
