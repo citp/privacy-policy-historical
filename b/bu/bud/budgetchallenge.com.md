@@ -1,47 +1,103 @@
-> *The following text is extracted and transformed from the budgetchallenge.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812112942id_/http%3A//www.budgetchallenge.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetchallenge.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103074716id_/http%3A//www.budgetchallenge.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Budget Challenge > Home
 
-Budget Challenge is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Budget Challenge Web site and governs data collection and usage. By using the Budget Challenge website, you consent to the data practices described in this statement.
+**Privacy Policy**
 
-Collection of your Personal Information
+This Privacy Policy (“Policy”), effective 9/5/2014, tells you about ProperLiving’s privacy practices governing personal information we may collect when you visit our budgetchallenge.com website (including any subdomains), and how we may use and share that information.  Your prior activities on the site may have been governed by an earlier version of this Policy.
 
-Budget Challenge collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Budget Challenge also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+From time to time, and only as permitted by law, we may use your information for new, unanticipated uses not previously disclosed in our Policy.  If our information practices do change materially, we will post the changes to our website and revise our Policy accordingly.  In addition, if we have collected personally-identifying information from you, we will notify you via email and secure your consent before using your personal information in new ways.
 
-There is also information about your computer hardware and software that is automatically collected by Budget Challenge. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Budget Challenge for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Budget Challenge Web site.
+**Special Note to Teachers, Students and Parents:** Programs, games, contests, and services offered through budgetchallenge.com and any related subdomains are not marketed to children under the age of 13, nor do we knowingly collect information from children under the age of 13.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Budget Challenge public message boards, this information may be collected and used by others. Note: Budget Challenge does not read any of your private online communications.
+**_What Information Do We Collect?_**
 
-Budget Challenge encourages you to review the privacy statements of Web sites you choose to link to from Budget Challenge so that you can understand how those Web sites collect, use and share your information. Budget Challenge is not responsible for the privacy statements or other content on Web sites outside of the Budget Challenge and Budget Challenge family of Web sites.
+Personal Information:
 
-Use of your Personal Information
+We collect personal and contact information you choose to provide to us in connection with your activities on the site.  What we collect depends on whether you are a teacher, student, or parent.
 
-Budget Challenge collects and uses your personal information to operate the Budget Challenge Web site and deliver the services you have requested. Budget Challenge also uses your personally identifiable information to inform you of other products or services available from Budget Challenge and its affiliates. Budget Challenge may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+TEACHERS:
 
-Budget Challenge does not sell, rent or lease its customer lists to third parties. Budget Challenge may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Budget Challenge may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Budget Challenge, and they are required to maintain the confidentiality of your information.
+To register for Budget Challenge, you will be asked for your first and last name, school name and school address, and email address.  You will also set up a user name and password.  You will also be asked to provide a class team name for identification of the class on publically visible webpages.  You have full discretion on whether to choose a name that may reveal identifiable information (such as school name, city, mascot, state, teacher, etc.) or not. 
 
-Budget Challenge does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+STUDENTS:
 
-Budget Challenge keeps track of the Web sites and pages our customers visit within Budget Challenge, in order to determine what Budget Challenge services are the most popular. This data is used to deliver customized content and advertising within Budget Challenge to customers whose behavior indicates that they are interested in a particular subject area.
+To register for Budget Challenge, you will be asked for your first and last name and your email address.  We will match that up with your school’s name and address which has already been provided to us when your teacher registered the class.  You will also set up a user name and password.  In addition, if you submit questions to the site during the simulation, we collect any information you provide in asking your question.
 
-Budget Challenge Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Budget Challenge or the site; (b) protect and defend the rights or property of Budget Challenge; and, (c) act under exigent circumstances to protect the personal safety of users of Budget Challenge, or the public.
+PARENTS:
 
-Use of Cookies
+If your student invites you to register to view his or her account, you will be asked for your first and last name and your email address.  You will also set up a user name and password.
 
-The Budget Challenge Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Other user information we collect:
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Budget Challenge pages, or register with Budget Challenge site or services, a cookie helps Budget Challenge to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Budget Challenge Web site, the information you previously provided can be retrieved, so you can easily use the Budget Challenge features that you customized.
+In addition, for each visitor to our site, we automatically gather certain other potentially identifying information and store it in log files.  This information includes (as applicable) internet protocol (IP) addresses, geolocation information and last login date and time.  We collect and store this information on an individual basis and in aggregate, or combined, form.  We use proprietary algorithms to calculate behavior, knowledge, and skill statistics using individual simulation activity for each student.  We also collect both user-specific and aggregate information on what pages visitors access or visit.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Budget Challenge services or Web sites you visit.
+“Do Not Track” Signals.  We do not currently have the capability to recognize browser “Do Not Track” signals.  We adhere to the standards set forth in this privacy policy.
 
-Security of your Personal Information
+Cookies – A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.  If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.  We use session cookies to make it easier for you to navigate our site.  We use session cookies to record session information, such as which web pages a user has visited, and to track user activity on the site.  We also use session cookies to store any passwords used on the site (such as a password associated with a user account), so you don’t have to enter it more than once per session.  Session cookies are set with long expiration times to enhance the usability of our mobile app and simplify the login process of our website.
 
-Budget Challenge secures your personal information from unauthorized access, use or disclosure. Budget Challenge secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Analytics – _  _To determine how many users visit our site, how often they visit this site, and to better understand the areas of greatest interest to our visitors, we use tools called “Google Analytics” and “New Relic” to compile this information for us.  As a result of your visit to our site, these companies may collect information such as your domain type, your IP address, your location and clickstream information.  We do not combine the information collected through the use of analytics tools with personally identifiable information.  For more information about the analytics companies’ ability to use and share information about your visits to this site, see [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/)
 
-Changes to this Statement
+[http://newrelic.com/privacy](http://newrelic.com/privacy). 
 
-Budget Challenge will occasionally update this Statement of Privacy to reflect company and customer feedback. Budget Challenge encourages you to periodically review this Statement to be informed of how Budget Challenge is protecting your information.
+Ad Networks – We do not use ad networks on our site, and we do not host ads for others. 
 
-Contact Information
+**_How Do We Use and Share the Information We Collect?_**
 
-Budget Challenge welcomes your comments regarding this Statement of Privacy. If you believe that Budget Challenge has not adhered to this Statement, please contact Budget Challenge at [dave@budgetchallenge.com](mailto:dave@budgetchallenge.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+We store and process your Personal Information to facilitate your participation in, and/or observation of, the Budget Challenge simulations.
+
+We use information we collect to analyze trends, to administer the site, and to track users’ movements around the site.  We also use this information to improve the simulations and to make our site more useful to visitors.
+
+The following Personal Information you provide to us through the site is displayed to others as follows:
+
+TEACHERS:  Your name, school, school state, and class averages will be added to our list of winning teachers if your class wins a simulation by achieving the highest class average score.  All class team names, class score average, and class engagement average are visible to the public on a leaderboard per simulation. 
+
+STUDENTS:  Your class and your teacher will be able to see your name, ranking, scores, survey points, and account activity.  Your teacher will also be able to see your email address, user name, password, quiz activity, and any questions you submit to us during the simulation, along with our responses.  If you invite your parents to view your account, they will be able to see your name, rank, and quiz activity, but will not see any other students’ names.
+
+            PARENTS:  None of your information is displayed to others on the site.
+
+We do not share Personal Information we collect with any third parties, except as follows:
+
+·         If you are participating through [www.hrblock.budgetchallenge.com](http://www.hrblock.budgetchallenge.com/), we may share with H&R Block information necessary for H&R Block to administer the program, including your name and ranking.  H&R Block does not use this information to market to you.
+
+·         We share information to the extent reasonably necessary to comply with law enforcement requests and judicial proceedings, and to ensure the safety and security of the site.
+
+·         We may engage in research with academic institutions.  However, if we do so, we will use only non-personally-identifiable data sets.
+
+It is possible that, at some time in the future, our company may be sold along with its assets, or may engage in business transactions in which customer information is one of the assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer. 
+
+**_How Long Do We Keep the Information We Collect?_**
+
+We will retain your Personal Information in accordance with our continuing business need to service this relationship and/or to improve the Budget Challenge simulations. 
+
+**_How to Correct Information_**
+
+You may request updates or corrections to your Personal Information that we maintain.  Send your request to the postal address or email address provided below.  To help us process your request, please provide sufficient information to allow us to identify you in our records.
+
+We reserve the right to ask for information verifying your identity prior to updating or correcting any information to you, or deleting your information.  Should we ask for verification, the information you provide to verify your identity will be used only for that purpose, and all copies of this information in our possession will be destroyed when the process is complete. 
+
+**_Security_**
+
+The security of your Personal Information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, and to guard that information against loss, misuse, or alteration.   
+
+Please note, however, that no method of transmission over the internet, or method of electronic storage, is 100% secure.  Therefore, while we use commercially-reasonable means to protect your personal information, we cannot guarantee its absolute security. 
+
+**_Links to Third Party Sites_**
+
+This Policy applies only to information collected by this website.  From time to time, this website may link you to other sites (“Linked Sites”) that are not owned by us.  We do not control the collection or use of any information, including Personal Information, that occurs during your visit to the Linked Sites.  Further, we make no representations about the privacy policies or practices of the Linked Sites, and we are not responsible for their privacy practices. 
+
+Be careful of disclosing any of your personally identifiable information when leaving our site.  We encourage you to be aware when you leave our site and to read the privacy statements of every website that collects personally identifiable information. 
+
+**_Questions About Our Privacy Policy and Practices_**
+
+If you have any questions about the Policy or our privacy practices, you may contact: 
+
+ProperLiving, LLC
+
+3874 Paxton Ave., #9115
+
+Cincinnati, Ohio 45209
+
+513-335-0619
+
+[support@bcsim.com](mailto:support@bcsim.com)
