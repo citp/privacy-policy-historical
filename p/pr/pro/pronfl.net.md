@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pronfl.net privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615043322id_/http%3A//www.pronfl.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronfl.net privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103022328id_/http%3A//www.pronfl.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Terms & Conditions
 
-**Social Share!**
-
-This Privacy Policy governs the manner in which ProNFL.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pronfl.net/](https://web.archive.org/web/20140615043322id_/http://www.pronfl.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by ProNFL.net.
+This Privacy Policy governs the manner in which ProNFL.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pronfl.net/](https://web.archive.org/web/20141103022328id_/http://www.pronfl.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by ProNFL.net.
 
  **Personal identification information**
 
@@ -68,11 +66,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[ProNFL.net](https://web.archive.org/web/20140615043322id_/http://www.pronfl.net/)  
-[http://www.pronfl.net/](https://web.archive.org/web/20140615043322id_/http://www.pronfl.net/)  
+[ProNFL.net](https://web.archive.org/web/20141103022328id_/http://www.pronfl.net/)  
+[http://www.pronfl.net/](https://web.archive.org/web/20141103022328id_/http://www.pronfl.net/)  
 New York, USA  
 pronflnet@gmail.com
 
 This document was last updated on June 10, 2013
-
-**Social Share!**
