@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331105010id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103203648id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
 
 # Privacy-and-Security
 
@@ -32,6 +32,10 @@ A Cookie is a small data file stored by your Web browser on your computer's hard
 Tracking Pixels are small images that are used by the website to identify pages that are being viewed by customers. No personal data is collected when these images are viewed. Aggregate data from Tracking Pixels is used to improve the customer experience. Cookies and Tracking Pixels may be disabled in your browser. If disabled, however, certain portions of The Vermont Country Store website may not function.
 
 The Vermont Country Store may contract with third parties who may also use Cookies and Tracking Pixels to collect data on our behalf, or to provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited from sharing that information with anyone other than The Vermont Country Store or our partners.
+
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
+
+<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>. 
 
 ## Account Registration
 
