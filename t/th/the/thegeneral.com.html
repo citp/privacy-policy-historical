@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegeneral.com privacy policy that was archived on 2014-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140311072236id_/http%3A//www.thegeneral.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegeneral.com privacy policy that was archived on 2014-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103034306id_/http%3A//www.thegeneral.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Privacy Policy | The General Auto Insurance</title>
@@ -18,7 +18,7 @@
 
 		<link href="/favicon.ico" type="image/x-icon" title="favicon" rel="shortcut icon">
 		<link href="/css/core.css?r=2" type="text/css" title="default" rel="stylesheet" media="screen, projection">
-		<link href="/css/design-6.2.css?r=1" type="text/css" title="default" rel="stylesheet" media="screen, projection">
+		<link href="/css/design.css?r=8" type="text/css" title="default" rel="stylesheet" media="screen, projection">
 
 		<!--[if IE 8]>
 			<link href="/css/iepatch8.css?r=1" type="text/css" rel="stylesheet" media="screen, projection">
@@ -46,7 +46,7 @@
 				<div id="navigation">
 					<ul id="global-menu" class="float-clear">
 	<li><a href="/mypolicy/" title="Manage Your Policy" rel="ext"><strong>Manage My Policy</strong></a>&nbsp;·&nbsp;</li>
-	<li><a href="/news/" title="News">News</a>&nbsp;·&nbsp;</li>
+	<li><a href="/news/" title="Blog">Blog</a>&nbsp;·&nbsp;</li>
 	<li><a href="/car-insurance/basics/claims/" title="Claims">Claims</a>&nbsp;·&nbsp;</li>
 	<li><a href="/car-insurance/faq/" title="View Our FAQs">FAQs</a>&nbsp;·&nbsp;</li>
 	<li><a href="/search/" title="Search Our Site">Search</a></li>
@@ -93,13 +93,51 @@
 		<fieldset>
 			<legend></legend>
 			<input type="text" name="zipCode" value="Enter ZIP Code" autocomplete="off">
-                        <input type="hidden" name="campaign" value="none">
 		</fieldset>
 		<fieldset class="btn last">
 			<legend></legend>
 			<input type="submit" value="">
 		</fieldset>
 	</div><!-- /.float-clear -->
+
+                 <input type="hidden" name="campaign" value="none">
+                 <input type="hidden" name="ecampaign" value="none">
+<script language="JavaScript">
+function getUrlVars() {
+	var vars = {};
+	var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+		vars[key] = value;
+	});
+	return vars;
+}
+function evalCampaign() {
+     var campaign = getUrlVars()["campaign"];
+     if (campaign != null) {
+          document.forms['free-quote'].campaign.value = campaign ;
+     }
+	 var ecampaign = getUrlVars()["c"];
+     if (ecampaign != null) {
+          document.forms['free-quote'].ecampaign.value = ecampaign ;
+     }
+}
+evalCampaign();				
+
+function evalZip() {
+     var zip = getUrlVars()["zip"];
+     if (zip != null) {
+          document.forms['free-quote'].zipCode.value = zip ;
+     }
+	 var zipcode= getUrlVars()["zipcode"];
+     if (zipcode!= null) {
+          document.forms['free-quote'].zipCode.value = zipcode;
+     }
+}
+evalZip();				
+</script>
+
+
+
+
 </form>
 			<ul id="subnav">
 							<li><a href="/legal/terms-and-conditions/" title="Terms &amp; Conditions">Terms and Conditions</a></li>
@@ -164,6 +202,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 							<li><a href="/about/locations/" title="Our Locations">Locations</a></li>
 							<li><a href="/about/contact/" title="Contact Us">Contact Us</a></li>
 							<li><a href="/locator/" title="Find a Local Agent" rel="ext" target="_blank">Find a Local Agent</a></li>
+							<li id="pgac_logo_li"><img id="pgac_logo_img" src="/content/img/PGAC_clear_logo2R.gif"><p id="pgac_logo_text">PGAC<sup>©</sup> and companies have provided insurance for over 50 years...</p></li>
 						</ul>
 					</div>
 				
@@ -212,11 +251,14 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 </li>
 
 <li id="ssl_seal">
-<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.thegeneral.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
-</tr>
-</tbody></table>
+<!-- Begin DigiCert site seal HTML and JavaScript -->
+<div id="DigiCertClickID_JR-0g-cd" data-language="en_US" style="padding-top: 5px">
+	<a href="http://www.digicert.com/ssl-certificate.htm"></a>
+</div>
+<script type="text/javascript">
+var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_JR-0g-cd", "13", "s", "black", "JR-0g-cd"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+</script><script async="" src="//seal.digicert.com/seals/cascade/seal.min.js"></script>
+<!-- End DigiCert site seal HTML and JavaScript -->
 </li>
 
 					</ul>
@@ -235,7 +277,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
 		<script src="/js/plugin.js?v=2" type="text/javascript"></script>
-		<script src="/js/ready.6.js?v=2" type="text/javascript"></script>
+		<script src="/js/ready.8.js?v=2" type="text/javascript"></script>
 		<!--[if IE 6]>
 			<script src="/js/ddpng.js"></script>
 			<script>
@@ -258,7 +300,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <script type="text/javascript"> 
 var cache_buster = parseInt(Math.random()*99999999); 
 document.write("<img src='https://p.rfihub.com/ca.gif?rb=1821&ca=20484369&ra="+cache_buster+"&pc=POSF' height=0 width=0 style='display:none' alt='Rocket Fuel'/>");
-</script><img src="https://p.rfihub.com/ca.gif?rb=1821&amp;ca=20484369&amp;ra=66436583&amp;pc=POSF" height="0" width="0" style="display:none" alt="Rocket Fuel">
+</script><img src="https://p.rfihub.com/ca.gif?rb=1821&amp;ca=20484369&amp;ra=72174003&amp;pc=POSF" height="0" width="0" style="display:none" alt="Rocket Fuel">
 <!-- End Rocket Fuel Conversion Action Tracking Code Version7 -->
 
 <script type="text/javascript" language="JavaScript">
