@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the delawareonline.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325122246id_/http%3A//static.delawareonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delawareonline.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103113135id_/http%3A//static.delawareonline.com/privacy) for the most accurate reproduction.*
 
-# delawareonline Privacy Policy | Delaware Online
-
-Last Updated: January 3, 2013
+# Privacy Policy | Delaware Online
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
@@ -16,7 +14,6 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 Mark Faris  
 Online Privacy Coordinator  
-[ delawareonline.com](http://www.delawareonline.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
@@ -101,7 +98,6 @@ If you have any questions about this Privacy Notice, our privacy practices, or y
 
 Mark Faris  
 Online Privacy Coordinator  
-[ delawareonline.com](http://www.delawareonline.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
