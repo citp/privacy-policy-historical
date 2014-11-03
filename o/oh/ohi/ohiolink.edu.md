@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohiolink.edu privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301204236id_/http%3A//oh-tech.org/node/1188) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohiolink.edu privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103065300id_/http%3A//oh-tech.org/node/1188) for the most accurate reproduction.*
 
 # Privacy Notice | OH-TECH.org
 
