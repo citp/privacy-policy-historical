@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigenet.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101934id_/http%3A//gigenet.com/support/service-level-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigenet.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103025429id_/http%3A//www.gigenet.com/support/service-level-agreements/privacy-policy) for the most accurate reproduction.*
 
 # Information We Collect and How We Use It | GigeNET's Privacy Policy
 
