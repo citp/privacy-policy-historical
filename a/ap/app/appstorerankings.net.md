@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appstorerankings.net privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419080158id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstorerankings.net privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103233350id_/https%3A//sensortower.com/privacy) for the most accurate reproduction.*
 
 # Sensor Tower - App Marketing and Mobile SEO Keyword Optimization for iPhone and iPad Privacy
 
