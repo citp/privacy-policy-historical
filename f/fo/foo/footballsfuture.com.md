@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballsfuture.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070940id_/http%3A//footballsfuture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballsfuture.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103213716id_/http%3A//www.footballsfuture.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
