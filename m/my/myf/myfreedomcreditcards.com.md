@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreedomcreditcards.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025124211id_/http%3A//myfreedomcreditcards.com/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreedomcreditcards.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103225230id_/http%3A//myfreedomcreditcards.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ We automatically collect and/or track the following:
 
 **Section 2.** Use of Data Collected 
 
-We use your personal, demographic and profile data to enhance your experience at our site, enabling us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for marketing and promotional purposes, for statistical analysis, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. 
+We use your personal, demographic and profile data to enhance your experience at our site, enabling us to present content we think you might be interested in. We use your contact information to send you information about our company and only relevant offers from us and our trusted marketing partners. We may also use your personal, demographic and profile data to improve our site, for marketing and promotional purposes, for statistical analysis, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. 
 
 **Section 3.** Disclosure of Data to Third Parties 
 
@@ -56,4 +56,5 @@ P.O. Box #463
 114 N. Egan Avenue  
 Madison, SD 57042 
 
-Effective as of November 28, 2007
+Effective as of November 28, 2007   
+Updated on February 8, 2012 
