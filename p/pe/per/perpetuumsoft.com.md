@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529222903id_/http%3A//www.perpetuumsoft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103185610id_/http%3A//www.perpetuumsoft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Perpetuum Software LLC - We are Committed to protect your Privacy & Ensuring You a Positive Experience
 
@@ -9,6 +9,40 @@ We encourage you to read this privacy policy to ensure you understand Perpetuum 
 **Collection of your personal information**
 
 When Perpetuum Software collects any personal information on our corporate website, we will express our need for the personal data at the point of collection. Some of the reasons why we collect your personal information include: 
+
+  * participation in discussion forums
+  * collaboration efforts 
+  * registration in the users database for downloading products’ evaluation versions as well as full versions of the purchased software 
+  * newsletter subscriptions 
+  * provide registered users a more personalized and meaningful experience on the Perpetuum Software website. 
+
+
+
+**Uses of your personal information**
+
+We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent. Some of the ways we may use your personal information include: 
+
+  * To provide the ability to create personal profile areas and view protected content.
+  
+
+  * To provide customer feedback and support. 
+  
+
+  * To provide contests, sweepstakes or other marketing promotional activities on the perpetuumsoft.com or affiliate websites. Personal information may be collected to administer those programs 
+  
+
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary. 
+  
+
+  * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest. 
+  
+
+  * To allow you to forward information to another individual such as a friend or co-worker. Perpetuum Software does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address. 
+  
+
+  * To meet contract obligations.
+
+
 
 **Accessing and updating your personal information**
 
@@ -28,30 +62,4 @@ We do not sell or rent your personal information to third-parties for marketing 
 
 We may share your personal information within Perpetuum Software for purposes of data processing or storage. 
 
-We may also share your personal information with authorized third-party agents or contractors in order to provide a requested service or transaction. 
-
-We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims. 
-
-We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Perpetuum Software's terms of use, or as otherwise required by law. 
-
-We will ask you for your opt-in consent to share your personal information with a third party for any other reason. 
-
-**Security of your personal information**
-
-Perpetuum Software is committed to protecting the personal information you share with us. 
-
-While we strive to protect your personal information, we cannot ensure the security of the information you transmit. 
-
-We recommend you to take every precaution in protecting your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser. 
-
-**Data retention**
-
-Perpetuum Software will not retain your personal information longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. 
-
-**Linked websites**
-
-Our websites may provide links to other third-party websites which are outside our control and not covered by this policy. We encourage you to review the privacy policies posted on these (and all) sites. 
-
-**Forums**
-
-Perpetuum Software forums are public. Please consider this before posting material to them.
+We may also share your personal information with authorized third-party agents or contractors in order to provide a 
