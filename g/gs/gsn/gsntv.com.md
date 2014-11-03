@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the gsntv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115422id_/https%3A//gsntv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsntv.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103153030id_/http%3A//www.gsntv.com/privacy) for the most accurate reproduction.*
 
-# Privacy | GSNTV.COM
+# GSNTV | Privacy
 
-GSN.COM PRIVACY POLICY  
+## GSN.COM PRIVACY POLICY
+
 PLEASE READ THIS PRIVACY POLICY AND THE GSN TERMS OF SERVICE BEFORE USING THIS WEBSITE OR ANY GSN FORUM  
 This Privacy Policy Statement (“Privacy Policy”) is applicable to the Game Show Network (“GSN”) Website located at http://www.gsn.com/ (the “Website”), and all services provided thereon (“Services”), including all GSN Forums ( as defined in the Terms of Service ) . This Privacy Policy does not cover any interaction you may have with GSN by telephone, postal mail, or other offline communications.
 
