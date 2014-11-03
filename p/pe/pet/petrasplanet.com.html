@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the petrasplanet.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630195326id_/http%3A//www.petrasplanet.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petrasplanet.com privacy policy that was archived on 2014-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103110410id_/http%3A//www.petrasplanet.com/site/privacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"391d7dd4a1","applicationID":"1981564","transactionName":"clYMREENWggAS01FDEVcTUBcEUIXShENQg1US0s=","queueTime":0,"applicationTime":4,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMOUF5aGwIJXFBXAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"391d7dd4a1","applicationID":"1981564","transactionName":"clYMREENWggAS01FDEVcTUBcEUIXShENQg1US0s=","queueTime":0,"applicationTime":7,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMOUF5aGwIJXFBXAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     <meta name="description" content="Petra’s Planet is a virtual world for kids
     ages 6-11. Children can explore amazing places, play fun online games, chat
     with friends, dress up in cool clothes, and care for a virtual pet. Join the
@@ -27,19 +27,9 @@
     <!-- Disabled responsive meta tag -->
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <title>Discover Petra’s Planet and enjoy the benefits of Membership!  | Petra’s Planet</title>
-    <link href="/stylesheets/bootstrap/bootstrap.min.css?1403910257" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/site/fonts/font.css?1403910257" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/site/site.css?1403910257" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/site/bootstrap-checkbox.css?1403910257" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/site/form.css?1403910257" media="screen" rel="stylesheet" type="text/css">
-    <script src="/javascripts/jquery.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/rails.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/jquery.velocity.min.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/jquery.waitforimages.min.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/bootstrap.min.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/bootstrap-checkbox.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/bootstrap-select.min.js?1403910257" type="text/javascript"></script>
-    <script src="/javascripts/site.js?1403910257" type="text/javascript"></script>
+
+    <link href="/site-assets/site.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="/site-assets/site.js" type="text/javascript"></script>
 
     
 
@@ -119,46 +109,181 @@
                         
                             <div class="intro">
                                 <div class="content">
-                                    <div class="rich-text"><p>This privacy statement describes how Dramaforum Oy (“Dramaforum”) collects and uses the personal information you provide on our Web site: www.petrasplanet.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p><p>If you have questions or complaints regarding our privacy policy or practices, please contact us at admin@dramaforum.fi.&nbsp;</p></div>
-                                </div>
-                            </div>
-                        
-                            <div class="privo-links">
-                                <a class="privo-seal" target="_blank" href="http://privo.com/privo-site-validation/?company=381">Privo Privacy Certified</a>
-                                <a class="privo-verify" target-"_blank"="" href="http://privo.com/privo-site-validation/?company=381">Privo Privacy Certified</a>
-                            </div>
+                                    <div class="rich-text">
 
-                        
-                            <div class="body">
-                                <div class="content">
-                                    <div class="rich-text"><h2>1. PRIVO®’s Privacy Assurance Program&nbsp;</h2><p></p><p>Dramaforum Transmedia is a licensee of the PRIVO® Privacy Assurance&nbsp;</p><p>Program (“the Program”).As a participating member in the Program, Dramaforum Transmedia adheres to the strict information collection, use and disclosure requirements. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The certification seal posted on this page indicates that Dramaforum Transmedia has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at +358 40 534 8157 or privacy@dramaforum.com. If you have further concerns after you have contacted us, you can contact PRIVO directly at privacy@privo.com.</p><p></p><h2>2. Name of Controller</h2><p></p><p>Dramaforum Transmedia<br>2300-1066 West Hastings<br>Vancouver, Canada<br>V6E 3X2</p><p>Dramaforum Oy<br>Metsänneidonkuja 6<br>FI-02130 Espoo<br>Finland</p><p></p><h2>3. NAME OF THE DATA FILE</h2><p>Petra’s Planet (the “Service”) End User Database<br></p><h2>4. COLLECTED INFORMATION</h2><p></p><p>Petra’s Planet’s End User Database contains the following information:<br>User Data<br>Player’s Login Name and Password<br>Parent’s Email Address<br>Player’s Avatar Name (Login Name and Avatar Name are the same, &nbsp;the Avatar Name cannot be seen publicly without parental consent.)<br>Billing Information such as credit card</p><p></p><h2>5. Purpose of Collection</h2>
-The personal information is collected for purposes of maintaining the client relationship&nbsp;and for developing the Service. The personal information may also be used for communication&nbsp;purposes with clients and for sending you newsletters and marketing communications. If you wish to subscribe to our newsletter(s), we will use email address to send the newsletter to you. An option to subscribe is available on the Parents section from Petra’s Planet Web site.&nbsp; Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us atadmin@dramaforum.fi.<p>Payment information is not stored.</p><p></p><h2>6. Source of the Information</h2>
-The personal information is obtained directly from the user of the Service and his or her&nbsp;legal guardian in the following situations:<ul>
-<li>1 when the user registers at the Service;</li>
-<li>2 when the user accesses and uses the Service; and</li>
-<li>3 when the user makes purchases in or via the Service.</li>
-</ul><p>Certain information is also collected automatically by means of cookies. Please<br>
-see Section 9 for more information.</p><p></p><h2>7. Erroneous, Incomplete or Obsolete Information; Right of Inspection</h2>
-Dramaforum does not verify the correctness of the personal information. A user who has&nbsp;logged into the Service may view, correct or delete his user information and purchase&nbsp;history stored in the data file by emailing our Customer Support at&nbsp;admin@dramaforum.fi.<p>If you would like to request an update or deletion of your child’s information or refuse further collection, use or contact by the site please contact us atadmin@dramaforum.fi</p><p>A child's participation in or ability to access an activity will not be conditioned on them providing more personal information than is reasonably necessary for that activity.</p><p>Parents have the right to consent to our collection and use of personal information from their kids without also consenting to our disclosure of such information to third parties.</p><p>In addition, in accordance with Section 26 of the Personal Data Act, the user&nbsp;has the right to inspect all information regarding him stored in the Petra’s&nbsp;Planet End User Database. The right of inspection may be used by contacting&nbsp;Dramaforum. If the user of the Service is a minor, his or her legal guardian may&nbsp;use the right of inspection on his or her behalf. However, Dramaforum reserves&nbsp;the right not to disclose personal information from the database to a person claiming&nbsp;to be the legal guardian of a user if the person demanding the disclosure of personal&nbsp;information does not provide such evidence as may be required by Dramaforum&nbsp;to establish his or her identity and/or relationship to the respective user. In&nbsp;addition, Dramaforum reserves the right not to disclose personal information&nbsp;to legal guardian of a user if the user is at least 15 years old and objects the<br>
-disclosure.</p><p></p><h2>8. Disclosures</h2>
-Generally Dramaforum does not disclose personal information to any third parties.&nbsp;However, Dramaforum may disclose personal information to such a third party who&nbsp;Dramaforum uses to provide the Service where such disclosure is necessary&nbsp;for the provision of the Service. These companies are authorized to use your personal information&nbsp;<i>only as necessary to provide&nbsp;</i>these services to us.<ul>
-<li>Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.</li>
-<li>&nbsp;In addition, Dramaforum may disclose information to the police in connection with criminal investigation and to officials<br>
-where required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. The information shall not be disclosed to countries<br>
-outside the EEA.</li>
-<li>If Dramaforum is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li>
-<li>To any other third party with your prior consent to do so.</li>
-</ul><p></p><h2>9. Deletion of Information</h2>
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at&nbsp;admin@dramaforum.fi. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.&nbsp;<p><span>Notwithstanding the foregoing, payment data is retained for such period of time as is required for&nbsp;accounting purposes or as may be required for the fulfillment of other statutorily&nbsp;obligations.</span></p><p></p><h2>10. Cookies</h2>
-In order to monitor and enable the use of the Service, cookies may be stored&nbsp;from time to time to the user’s computer. The cookies are used to collect&nbsp;information specified in this Privacy Policy for the purposes set out in this&nbsp;Privacy Policy. In addition, cookies are used by Dramaforum and/or its partners&nbsp;to monitor the number of visitors at the Service. When used for these purposes,&nbsp;the cookies are not used to collect personal information or other such information&nbsp;that could be connected or a single user.&nbsp;<p></p><p><span>If you do not wish to permit the storage of cookies on your computer, you may&nbsp;disable cookies from the settings of your Internet browser. Due to the nature of&nbsp;the Service it is impossible to use the Service without enabling cookies and thus&nbsp;</span><span>if you do not wish to enable cookies, you cannot use the Service.&nbsp;The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy policy.&nbsp; We do not have access or control over these cookies.&nbsp; Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.</span></p><p>Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.</p><p></p><h2>11. Data Security</h2>
-Access to user’s personal information is limited to such persons who need to&nbsp;have such access for the purposes of their work obligations. Such persons consist&nbsp;of user care and technical maintenance personnel of Dramaforum.<p>The security of your personal information is important to us.&nbsp; We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.&nbsp; No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, we cannot guarantee its absolute security.</p><h2>12. Links to 3<sup>rd</sup>&nbsp;Party Sites</h2><p>Our Site includes links to other Web sites whose privacy practices may differ from those of Dramaforum Oy. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.</p><h2>13. Third Parties</h2><p>We work with Google Analytics to better understand your use of our site and improve your experience. This third party is prohibited from sharing your data. For more information, please visit: http://www.google.com/analytics&nbsp;</p><p>Petra’s Planet works with third party PaymentWall to process your payments. We do not store payment information. PaymentWall is prohibited from sharing your data. For more information, please visit: www.paymentwall.com&nbsp;</p><h2>14. Social Media Widgets</h2><p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p><h2>15. Blog/Forum</h2><p>Our Web site offers publicly accessible blogs or community forums that allows you to post a comment. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.&nbsp;<i>To request removal of your personal information from our blog or community forum, contact us at&nbsp;</i><i>admin@dramaforum.fi</i>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p><h2>16. Chat</h2><p>Children can chat using our monitored chat feature which has filters to block out any profanity or inappropriate language. To change your child’s chat status you can email us at&nbsp;admin@dramaforum.fi</p><h2>17. Changes to this Policy</h2><p>Dramaforum may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children's Personal Information, we will notify you via email or by posting an announcement on the Website prior to the change becoming effective. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.</p><p><b>Company information</b></p><p>If you want to know more about Dramaforum check our homepage:<br>
-www.dramaforum.fi/en&nbsp;or if you have questions about this privacy policy, you can send us a mail at the address below.</p><p>Dramaforum Oy Ltd<br>
-Metsänneidonkuja 6<br>
-FI-02130 Espoo<br>
-Finland</p><p>+358 40 534 8157</p><p></p></div>
+<p><strong>May 1st&nbsp;2014</strong></p>
+<p>This privacy statement describes how Dramaforum Oy (“Dramaforum”) collects and uses the personal information you provide on our Web site: www.petrasplanet.com. 
+It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+</p><p>If you have questions or complaints regarding our privacy policy or practices, please contact us through&nbsp;our <a href="/contact-us">contact page</a> </p>
+
+<h2>1. PRIVO®'s Privacy Assurance Program&nbsp; </h2>
+<p>Dramaforum Transmedia is a licensee of the PRIVO® Privacy Assurance&nbsp; Program (“the Program”).As a participating member 
+in the Program, Dramaforum Transmedia adheres to the strict information collection, use and disclosure requirements. PRIVO 
+is an independent, third-party organization committed to safeguarding children's personal information collected online. 
+PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. 
+The certification seal posted on this page indicates that Dramaforum Transmedia has established COPPA compliant privacy 
+practices and has agreed to submit to PRIVO's oversight and consumer dispute resolution process. If you have questions or 
+concerns about our privacy practices, please contact us at +358 40 534 8157 or <a href="/contact-us">our contact page</a>. If you have further 
+concerns after you have contacted us, you can contact PRIVO directly at privacy@privo.com </p>
+
+<div class="privo-links">
+    <a class="privo-seal" target="_blank" href="http://privo.com/privo-site-validation/?company=381">Privo Privacy Certified</a>
+    <a class="privo-verify" target-"_blank"="" href="http://privo.com/privo-site-validation/?company=381">Privo Privacy Certified</a>
+</div>
+
+<h2>2. Name of Controller</h2>
+<p>Dramaforum Transmedia <br>2300-1066 West Hastings <br>Vancouver, Canada <br>V6E 3X2</p>
+<p>Dramaforum Oy <br>Metsänneidonkuja<br>6 FI-02130 Espoo <br>Finland</p>
+
+<h2>3. Name of the Data File </h2>
+<p>Petra's Planet (the "Service") End User Database</p>
+
+<h2>4. Collected Information </h2>
+<p>Petra's Planet's End User Database contains the following information: User Data Player's Login Name and Password Parent's 
+Email Address Player's Avatar Name (Login Name and Avatar Name are the same,&nbsp; the Avatar Name cannot be seen publicly without 
+parental consent.) Billing Information such as credit card</p>
+
+<h2>5. Purpose of Collection </h2>
+<p>The personal information is collected for purposes of maintaining the client relationship and for developing the Service. 
+The personal information may also be used for communication purposes with clients and for sending you newsletters and 
+marketing communications. If you wish to subscribe to our newsletter(s), we will use email address to send the newsletter 
+to you. An option to subscribe is available on the Parents section from Petra's Planet Web site.&nbsp; Out of respect for your 
+privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions 
+included in these emails, accessing the email preferences in your account settings page or you can contact us through our
+<a href="http://petrasplanet.com/contact-us">contact page</a></p>
+<p>Parent email collection when registering to play Petra's Planet, will be used to confirm the registration and will also be </p>
+required for account administration.
+<p>Payment information is not stored.</p>
+
+<h2>6. Source of the Information </h2>
+<p>The personal information is obtained directly from the user of the Service and his or her legal guardian in the following 
+situations:</p>
+<ol>
+  <li>when the user registers at the Service;</li>
+  <li>when the user accesses and uses the Service; and</li>
+  <li>when the user makes purchases in or via the Service.</li>
+</ol>
+<p>Certain information is also collected automatically by means of cookies. Please see Section 9 for more information.</p>
+
+<h2>7. Erroneous, Incomplete or Obsolete Information; Right of Inspection </h2>
+<p>Dramaforum does not verify the correctness of the personal information. A user who has logged into the Service may view, 
+correct or delete his user information and purchase history stored in the data file by emailing our Customer Support through&nbsp;
+<a href="http://petrasplanet.com/contact-us">our contact page</a></p>
+<p>If you would like to request an update or deletion of your child's information or refuse further collection, use or 
+contact by the site please contact us through http://petrasplanet.com/contact-us </p>
+<p>A child's participation in or ability to access an activity will not be conditioned on them providing more personal 
+information than is reasonably necessary for that activity.</p>
+<p>Parents have the right to consent to our collection and use of personal information from their kids without also 
+consenting to our disclosure of such information to third parties.</p>
+<p>In addition, in accordance with Section 26 of the Personal Data Act, the user has the right to inspect all information 
+regarding him stored in the Petra's  Planet End User Database. The right of inspection may be used by contacting Dramaforum. 
+If the user of the Service is a minor, his or her legal guardian may use the right of inspection on his or her behalf. 
+However, Dramaforum reserves the right not to disclose personal information from the database to a person claiming to be the 
+legal guardian of a user if the person demanding the disclosure of personal information does not provide such evidence as may 
+be required by Dramaforum to establish his or her identity and/or relationship to the respective user. In addition, Dramaforum 
+reserves the right not to disclose personal information to legal guardian of a user if the user is at least 15 years old and 
+objects the disclosure.</p>
+
+<h2>8. Disclosures </h2>
+<p>Generally Dramaforum does not disclose personal information to any third parties. However, Dramaforum may disclose personal 
+information to such a third party who Dramaforum uses to provide the Service where such disclosure is necessary for the 
+provision of the Service. These companies are authorized to use your personal information&nbsp;only as necessary to provide&nbsp;these 
+services to us.</p>
+  <ul>
+  <li>Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing 
+  information directly from you for the purpose of processing your order. This company does not use this information for any 
+  other purpose.</li>
+  <li>In addition, Dramaforum may disclose information to the police in connection with criminal investigation and to officials  
+  where required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure 
+  is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government 
+  request. The information shall not be disclosed to countries outside the EEA.</li>
+  <li>If Dramaforum is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email 
+  and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any 
+  choices you may have regarding your personal information.</li>
+  <li>To any other third party with your prior consent to do so.</li>
+  </ul>
+
+<h2>9. Deletion of Information </h2>
+<p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel 
+your account or request that we no longer use your information to provide you services contact us through&nbsp;our 
+<a href="/contact-us">contact page</a>. We will retain and use your information as necessary to comply with our legal obligations, 
+resolve disputes, and enforce our agreements.
+Notwithstanding the foregoing, payment data is retained for such period of time as is required for accounting purposes or as may be 
+required for the fulfillment of other statutorily obligations.</p>
+
+<h2>10. Cookies </h2>
+<p>In order to monitor and enable the use of the Service, cookies may be stored from time to time to the user's computer. The cookies 
+are used to collect information specified in this Privacy Policy for the purposes set out in this Privacy Policy. In addition, cookies 
+are used by Dramaforum and/or its partners to monitor the number of visitors at the Service. When used for these purposes, the cookies 
+are not used to collect personal information or other such information that could be connected or a single user.</p>
+<p>If you do not wish to permit the storage of cookies on your computer, you may disable cookies from the settings of your Internet 
+browser. Due to the nature of the Service it is impossible to use the Service without enabling cookies and thus if you do not wish 
+to enable cookies, you cannot use the Service.</p>
+<p>The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy 
+policy.&nbsp; We do not have access or control over these cookies.&nbsp; Our partners, affiliates, tracking utility company, service providers 
+use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.</p>
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to 
+compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and 
+links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.<p></p>
+
+<h2>11. Data Security </h2>
+<p>Access to user's personal information is limited to such persons who need to have such access for the purposes of their work 
+obligations. Such persons consist of user care and technical maintenance personnel of Dramaforum.</p>
+<p>The security of your personal information is important to us.&nbsp; We follow generally accepted standards to protect the personal 
+information submitted to us, both during transmission and once we receive it.&nbsp; No method of transmission over the Internet, or 
+method of electronic storage, is 100% secure, however.&nbsp; Therefore, we cannot guarantee its absolute security.</p>
+
+<h2>12. Links to 3<sup>rd</sup>&nbsp;Party Sites</h2>
+<p>Our Site includes links to other Web sites whose privacy practices may differ from those of Dramaforum Oy. If you submit personal 
+information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the 
+privacy policy of any Web site you visit.</p>
+
+<h2>13. Third Parties</h2>
+<p>We work with Google Analytics to better understand your use of our site and improve your experience. This third party is prohibited 
+from sharing your data. For more information, 
+please visit: 
+<a href="http://www.google.com/analytics" data-confirm="You are about to leave petrasplanet.com, would you like to continue?">www.google.com/analytics</a></p>
+<p>Petra's Planet works with third party PaymentWall to process your payments. We do not store payment information. PaymentWall is 
+prohibited from sharing your data. For more 
+information, please visit: 
+<a href="http://www.paymentwall.com" data-confirm="You are about to leave petrasplanet.com, would you like to continue?">www.paymentwall.com</a></p>
+
+<h2>14. Social Media Widgets</h2>
+<p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive 
+mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a 
+cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted 
+directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+
+<h2>15. Blog/Forum</h2>
+<p>Our Web site offers publicly accessible blogs or community forums that allows you to post a comment. You should be aware that any 
+information you provide in these areas may be read, collected, and used by others who access them.&nbsp;To request removal of your personal 
+information from our blog or community forum, contact us through&nbsp;http://petrasplanet.com/contact-us. In some cases, we may not be able 
+to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+
+<h2>16. Changes to this Policy</h2>
+<p>Dramaforum may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the 
+Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children's 
+Personal Information, we will notify you via email or by posting an announcement on the Website prior to the change becoming effective. 
+Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.</p>
+
+<p><strong>Company information</strong>
+<br>
+If you want to know more about Dramaforum check our homepage:  <br>
+<a href="http://www.dramaforum.fi/en" data-confirm="You are about to leave petrasplanet.com, would you like to continue?">www.dramaforum.fi/en</a>&nbsp;
+or if you have questions about this privacy policy, you can send us a mail at the address below.</p>
+
+<p>
+Dramaforum Oy Ltd <br>
+Metsänneidonkuja <br>
+6 FI-02130 Espoo<br> 
+Finland<br>
++358 40 534 8157
+</p>
+
+
+                                    </div>
                                 </div>
-                            </div>
-                        
+                            </div>                        
 
                         </div>
                     </div>
@@ -200,7 +325,6 @@ Finland</p><p>+358 40 534 8157</p><p></p></div>
 </section>   
 
 <div id="trackings">
-    <img alt="" width="1" height="1" src="http://server.cpmstar.com/action.aspx?advertiserid=3822&amp;gif=1">
 </div>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
