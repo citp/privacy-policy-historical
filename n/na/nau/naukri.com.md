@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021005422id_/http%3A//jobsearch.naukri.com/mynaukri/mn_privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103202259id_/http%3A//jobsearch.naukri.com/mynaukri/mn_privacypolicy.php) for the most accurate reproduction.*
 
 # My Naukri
 
@@ -55,7 +55,6 @@ By using this Web site, you consent to the terms of our Online Privacy Policy an
   * 'Info Edge India Limited' displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
     * 'Info Edge India Limited' does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
     * 'Info Edge India Limited' advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
-  * 'Info Edge India Limited' works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
 
 
 
