@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620233533id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamblingcommission.gov.uk privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103180003id_/http%3A//www.gamblingcommission.gov.uk/gf-terms_and_conditions/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Gambling Commission - Privacy statement
 
@@ -10,6 +10,117 @@ This website is operated by the Gambling Commission (the Commission) whose prin
 
 
 We respect the privacy of every individual who visits our website. Our website does not automatically store or capture personal information, but merely logs the user's  IP address which is automatically recognised by the web server.
+
+## **Privacy Statement**
+
+The Gambling Commission (the Commission) is legally required, under the Data Protection Act 1998 (the DPA) to make sure you know what we intend to do with your information and who it will be shared with.
+
+In order to carry out our regulatory functions and meet our legal responsibilities, we need to use personal data that we collect.
+
+Sometimes we may need to ask other agencies or organisations for relevant information about you in order to carry those functions, for example, when considering the suitability of an applicant, the Commission may seek evidence or opinions from other sources where that is appropriate or where its initial review has highlighted areas of concern.
+
+We have a duty to, amongst other things:
+
+  * keep sufficient information to provide services and fulfil our legal responsibilities
+  * keep your records secure and accurate
+  * only keep your information as long as is required.
+
+
+
+Things you can do to help us:
+
+  * help us make sure we have identified you correctly by letting us know when you change address or name
+  * tell us if any of your information we hold is wrong
+  * allow us to share as much information about you as we need to.
+
+
+
+## What is personal data?
+
+Under the DPA, personal data is defined as data that identifies a living person and includes any expression of opinion about that person. Personal data includes basic details such as name, address, telephone number, and date of birth, or notes and comments made about a person.
+
+## Sensitive personal data
+
+Certain information is classified as sensitive personal data, for example, information as to:
+
+  * racial or ethnic origin
+  * religious beliefs
+  * physical or mental health or condition
+  * sexual orientation
+  * criminal offences, including alleged offences
+
+
+
+Consent must usually be provided for us to sensitive personal data. Where we are asking you for sensitive personal data, we will always try and tell you why and how the information will be used.  There may be exceptions to this, for example when criminal investigations are on-going and could be jeopardised.
+
+## What personal information do we hold?
+
+In order to operate efficiently and carry out our statutory functions the Commission has to collect and use information relating to individuals. This personal information includes information about the people that we licence or provide services to, people that we are investigating, people we work with and employees past and present.
+
+## How long do we keep your information?
+
+In some instances the law sets the length of time information has to be kept. Where this is not the case; we will use our discretion to make sure that we do not keep records for longer than we need to.
+
+We will always try and keep your personal information secure, whether it is held on paper or electronically.
+
+## How we use your personal information
+
+We may use the information you provide for the following purposes:
+
+  * dealing with enquiries and complaints
+  * regulatory, licensing and enforcement functions
+  * processing fee payments
+
+
+
+## Sharing personal data
+
+Your data may also be shared with third parties who fulfil a service on behalf of, and under the express instructions of, the Gambling Commission (the Commission).  It may also be shared with other bodies where it is necessary to do so and where we are legally required or permitted to do so. This may include relevant public authorities, overseas regulators and law enforcement agencies. 
+
+Sharing data is primarily for the purpose of performing our regulatory functions such as assessing individuals’ suitability to be licensed but it may be also be necessary to share information for other reasons, such as the prevention and detection of crime or for the collection of tax and gaming duty.   
+
+## Your Rights
+
+Any person about whom the Commission holds information has rights under the Data Protection Act. You may:
+
+  * be informed if the Commission is holding personal data relating to you
+  * receive a description of the personal data, why the Commission holds it and to whom your personal data may be disclosed
+  * have that information communicated to you
+  * have any inaccurate data corrected, or removed in certain circumstances
+  * stop processing likely to cause substantial damage or substantial distress
+  * receive compensation if you suffer damage as a consequence of wrongdoing by us
+  * appeal to the ICO where you believe the Commission has not complied with the Data Protection Act
+
+
+
+## Accessing your personal data
+
+If a person wishes to view their personal information held by the Commission they must make a subject access request. This must be in writing. You can submit your request by post to our address (below) or by email to [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk "info@gamblingcommission.gov.uk")
+
+The request must include:
+
+  * your name;
+  * your address;
+  * description of the information you wish to obtain.
+
+
+
+To ensure confidentiality, we will need evidence which confirms your identity. A copy of photo identification, and proof of your address such as, driving licence or passport and an energy bill would be acceptable.
+
+If you are making a request on behalf of someone else, please include proof of permission for you to make this request.  
+
+## **Complaints**
+
+To make a complaint about how the Gambling Commission has treated your personal data, please write to:
+
+Information Manager  
+Gambling Commission  
+4th floor  
+Victoria Square House  
+Victoria Square  
+Birmingham  
+B2 4BP   
+Or email [info@gamblingcommission.gov.uk](mailto:info@gamblingcommission.gov.uk "info@gamblingcommission.gov.uk")
 
 ## What are cookies?
 
