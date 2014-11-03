@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indymusic.tv privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613004006id_/http%3A//www.indymusic.tv/page/load/indymusic_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indymusic.tv privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103163619id_/http%3A//www.indymusic.tv/page/load/indymusic_privacy-policy) for the most accurate reproduction.*
 
 # 
 
