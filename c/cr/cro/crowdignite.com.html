@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crowdignite.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065200id_/http%3A//crowdignite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdignite.com privacy policy that was archived on 2014-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103182805id_/http%3A//crowdignite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<script type="text/javascript">
@@ -34,8 +34,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=480, initial-scale=1.0">
 
-<link rel="stylesheet" type="text/css" href="http://cdn.crowdignite.com/ccss/3caee1fa752423bc383772f54a162a0d_1403654124.css">
-	<script type="text/javascript" src="http://cdn.crowdignite.com/cjs/ddf6e023dca3ab72eb00de21741078a9_1403654125.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.crowdignite.com/ccss/3caee1fa752423bc383772f54a162a0d_1414692670.css">
+	<script type="text/javascript" src="http://cdn.crowdignite.com/cjs/ddf6e023dca3ab72eb00de21741078a9_1414692670.js"></script>
 	
 <script>
 	function init_function() {
@@ -54,14 +54,20 @@
 <script type="text/javascript" src="/js/jquery.jeditable.mini.js"></script>
 -->
 
+<script type="text/javascript" src="http://cdn.crowdignite.com/js/ci/analytics.js"></script>
 <script type="text/javascript">
 function recordOutboundLink(link, category, action) {
   try {
+    var oAnalytic = new ci.Analytics();
+    oAnalytic.saveOutbooundLink(action);
+    oAnalytic.saveOutgoingDomain(link.getAttribute('data-publisher'));
+  }catch(err){
+    setTimeout(function(){
+        recordOutboundLink(link, category, action);
+    }, 10000);
+  }
 
-    var myTracker=_gat._getTracker("UA-20708699-1");
-    myTracker._trackEvent(category, action);
     return true;
-  }catch(err){}
 }
 </script>
 </head>
@@ -89,103 +95,148 @@ function recordOutboundLink(link, category, action) {
 		<br>	  	</div>					
 </div>
 <div class="row main">
-<div id="content" class="column grid_12">
+    <div id="content" class="column grid_12">
+        <h3 class="topContent">Privacy</h3>
+        <div class="row" id="content_area">
+            <div class="column grid_12">
+                <div style="margin-left:30px;margin-top:18px;padding:12px;font-size:12px;">
 
-  <h3 class="topContent">Privacy</h3>
-	
-		
-<div class="row" id="content_area">
-  <div class="column grid_12">
-	  	  
-	 <div style="margin-left:30px;margin-top:18px;padding:12px;font-size:12px;">
+                    <h2>Privacy Policy</h2>
+                        <p>This privacy policy was last modified on September 18, 2014.</p>
+                        <p>Crowd Ignite, LLC (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website <a href="/" target="_blank">www.crowdignite.com</a> (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com</a>.</p>
+                        <br>
+                        <ol class="list-with-style-decimal list-with-style">
+                            <li><a href="#scope">Scope</a></li>
+                            <li><a href="#what_inforation_the_site_collects">What information the Site collects</a></li>
+                            <li><a href="#how_we_use_the_information_that_we_collect">How we use the information that we collect</a></li>
+                            <li><a href="#information_sharing">Information sharing</a></li>
+                            <li><a href="#your_choices">Your choices</a></li>
+                            <li><a href="#access">Access</a></li>
+                            <li><a href="#confidentiality_and_security">Confidentiality and security</a></li>
+                            <li><a href="#visitors_from_outside_of_the_united_states">Visitors from outside of the United States</a></li>
+                            <li><a href="#children_under_13">Children under 13</a></li>
+                            <li><a href="#changes_to_the_privacy_policy">Changes to the privacy policy</a></li>
+                            <li><a href="#questions_and_suggestions">Questions and suggestions</a></li>
+                        </ol>
+                        <br>
 
-	 <h2>CrowdIgnite.com (the “Site”)</h2>
-		<h2> Privacy Policy</h2>
-<br>
-This privacy policy was last modified on January 14, 2011.<br><br>
-Gorilla Nation Media, LLC, the owner and operator of CrowdIgnite.com (“Company,” “we,” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy. 
-<br><br>
+                        <ol class="list-with-style-decimal list-with-style">
+                            <li><a name="scope" id="scope"></a><h2>Scope</h2>
+                            <p>This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Company does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.</p></li>
+                            <br>
+                            <li><a name="what_inforation_the_site_collects" id="what_inforation_the_site_collects"></a><h2>What information the Site collects</h2>
+                            <h4>Information you provide directly to us:</h4>
+                            You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
+                            <ul class="list-with-style-disc list-with-style">
+                                <li>contact information, such as name and email address;</li>
+                                <li>username and password;</li>
+                                <li>information posted in community discussions and other interactive online features;</li>
+                                <li>search queries conducted on the Site; and</li>
+                                <li>correspondence you send to us.</li>
+                            </ul>
+                            <br>
+                            <h4>Information automatically collected when you visit and interact with the Site:</h4>
+                            When you visit and interact with the Site, certain information may be collected automatically, including:
+                            <ul class="list-with-style-disc list-with-style">
+                                <li>your computer's Internet Protocol (IP) address;</li>
+                                <li>your browser type and operating system;</li>
+                                <li>the web pages you were visiting immediately before and after you came to the Site;</li>
+                                <li>activities within community discussions;</li>
+                                <li>web pages and advertisements that you view, and links that you click on, within the Site;
+                                your bandwidth speed and information about the software programs that are installed on your computer;</li>
+                                <li>aggregated data about email click-through rates and user video viewing;</li>
+                                <li>standard server log information; and</li>
+                                <li>information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of <a href="/cookies" target="_blank">cookies and other tracking technologies</a>.</li>
+                            </ul>
+                            <br>
+                            <h4>Information we collect from other sources:</h4>
+                            We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including:
+                            <ul class="list-with-style-disc list-with-style">
+                                <li>if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;</li>
+                                <li>demographic data, such as age range, gender, and interests;</li>
+                                <li>advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and</li>
+                                <li>unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.</li>
+                            </ul>
+                            Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
+                            <br>
+                            <br>
+                            </li><li><a name="how_we_use_the_information_that_we_collect" id="how_we_use_the_information_that_we_collect"></a><h2>How we use the information that we collect</h2>
+                            <h4>Email Communications:</h4>
+                            We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners' products and services, and our email newsletters.
+                            <h4>Advertising:</h4>
+                            In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of <a href="/cookies" target="_blank">cookies and other tracking technologies</a>.<br>
+                            Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on <a href="/thirdparty" target="_blank">third-party online advertising</a>. Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
+                            <h4>User Accounts:</h4>
+                            To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums.  For more information on this process, please see the Site’s community rules, forum rules or comment policies about comment moderation guidelines.
+                            <h4>Request Fulfillment:</h4>
+                            We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
+                            Statistical Analysis:
+                            In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs.
+                            <h4>Enforcement:</h4>
+                            We may use the information that we collect to prevent illegal activities, to enforce the Site's <a href="/terms" target="_blank">Terms and Conditions</a>, and to otherwise protect our rights and the rights of our users.
+                            By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy.  In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.</li>
+                            <br>
+                            <li><a name="information_sharing" id="information_sharing"></a><h2>Information sharing</h2>
+                            <p>
+                            The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:</p>
+                            <ul class="list-with-style-disc list-with-style">
+                                <li>We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.</li>
+                                <li>We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.</li>
+                                <li>If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.</li>
+                                <li>We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.</li>
+                                <li>We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's <a href="/terms" target="_blank">Terms and Conditions</a>, or as otherwise required by law.</li>
+                                <li>We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.</li>
+                                <li>In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.</li>
+                            </ul>
+                            Once we share your information with another party, the information received by that party becomes subject to the other party’s privacy policies.  Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on <a href="/cookies" target="_blank">cookies and other tracking technologies</a> and <a href="/thirdparty" target="_blank">third-party online advertising</a>.</li>
+                            <br>
+                            <li><a name="your_choices" id="your_choices"></a><h2>Your choices</h2>
+                            <h4>Deactivating your account</h4>
+                            If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our <a href="/terms" target="_blank">Terms and Conditions</a>.
+                            <h4><a id="cookies_and_other_tracking_technologies" name="cookies_and_other_tracking_technologies"></a>Cookies and other tracking technologies</h4>
+                            As discussed in the sections on <a href="/cookies" target="_blank">cookies and other tracking technologies</a> and <a href="/thirdparty" target="_blank">third-party online advertising</a>, some information is collected about you automatically through <a href="/cookies" target="_blank">cookies and other tracking technologies</a>.
+                                <ul class="list-with-style-disc list-with-style">
+                                <li>Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a> if you are located in the United States, <a href="http://www.youronlinechoices.com" target="_blank">www.youronlinechoices.com</a> if you are located in Europe, youradchoices.ca/choices if you are located in Canada, or <a href="http://www.youronlinechoices.com.au" target="_blank">www.youronlinechoices.com.au</a> if you are located in Australia . </li>
+                                <li>Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank">here</a>. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the <a href="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/" target="_blank">BetterPrivacy add-on</a> to automatically delete your Flash cookies every time you close your browser.</li>
+                            </ul>
+                            If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on <a href="/thirdparty" target="_blank">third-party online advertising</a> and visit the <a href="http://www.networkadvertising.org/choices/" target="_blank">NAI’s website</a>.
+                            <h4>Do Not Track</h4>
+                            We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.  To learn about Do Not Track, please click <a target="_blank" href="http://www.allaboutdnt.com/">here</a>.
+                            <h4>California Residents</h4>
+                            If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com</a>.</li>
+                            <br>
+                            <li><a name="access" id="access"></a><h2>Access</h2>
+                            <p>If you choose to share personal information with us, you may update or amend this information by contacting us at <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com</a>. Please include in your email the name of the Site to which you provided the information you wish to amend.</p></li>
+                            <br>
+                            <li><a name="confidentiality_and_security" id="confidentiality_and_security"></a><h2>Confidentiality and security</h2>
+                            <p>We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
+                            Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.</p></li>
+                            <br>
+                            <li><a name="visitors_from_outside_of_the_united_states" id="visitors_from_outside_of_the_united_states"></a><h2>Visitors from outside the United States</h2>
+                            <p>The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.</p></li>
+                            <br>
+                            <li><a name="children_under_13" id="children_under_13"></a><h2>Children under 13</h2>
+                            <p>Protecting the privacy of young children is especially important.&nbsp; The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian.  If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. &nbsp;
+                            The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+                            If you believe that we might have any information from or about a child under 13, please contact us at <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com</a>.</p></li>
+                            <br>
+                            <li><a name="changes_to_the_privacy_policy" id="changes_to_the_privacy_policy"></a><h2>Changes to the privacy policy</h2>
+                            <p>We reserve the right to change this policy at any time.&nbsp; Please check this page periodically for changes.&nbsp; Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes.&nbsp; Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.</p></li>
+                            <br>
+                            <li><a name="questions_and_suggestions" id="questions_and_suggestions"></a><h2>Questions and suggestions</h2>
+                            <p>If you have questions about this privacy policy, please contact our legal team at <a href="mailto:legal@evolvemediallc.com">legal@evolvemediallc.com</a>, or send mail to:</p><br>
+                            Evolve Media, LLC<br>
+ 5140 W. Goldleaf Circle,<br>
+                            Third Floor Los Angeles, CA &nbsp; 90056<br>
+ Attn:&nbsp; General Counsel
+                        </li>
+                    </ol>
+	           </div>
+            </div>
+        </div>
+    <h3 class="bottomContent"></h3>
 
-<h2>Information We Collect</h2><br>
-<b>User-Provided Information:</b>  You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. <br><br>
-<b>Cookies Information:</b>  When you visit the Site or use the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the Site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.<br><br>
-<b>Log File Information:</b>  Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
-Clear Gifs Information:  When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.<br><br>
-<h2>How We Use Your Information</h2>
-<br>
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.  
-Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
-<br><br>
-By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to legal[at]GorillaNation.com with the word “No email” in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  
-<br><br>
-Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.  
-<br><br>
-Company reserves the right, but has no obligation, to monitor the User Content you post on the Site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party.
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
-<br><br>
-<h2>How We Share Your Information</h2>
-<br>
-<b>Personally Identifiable Information:</b> Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
-<br><br>
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.  
-<br><br>
-Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
-<br><br>
-<b>Non-Personally Identifiable Information:</b>  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
-<br><br>
-<h2>Third Party Advertisements and Technologies</h2>
-We use our own technology as well as the technology and services of third-party advertising companies to serve the technology widget of the Service as well as advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  The third-party advertising technology that we use on this Site or on/within our technology widget uses information derived from your visits to this Site to target advertising within this Site or on/within our technology widget.  These third-party ad servers or ad networks automatically receive your IP address when this happens.  In addition, we or our advertisers may use other third-party advertising technology to target advertising on this Site and other websites or on/within our technology widget (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.  You may “opt-out” of certain third party programs by following the instructions located at http://www.doubleclick.com/privacy/index.aspx. We do not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks us to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
-<br><br>
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
-<br><br>
-<h2>How We Protect Your Information</h2>
-<br>
-Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  
-<br><br>
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
-<br><br>
-<h2>Compromise of Personal Information</h2>
-<br>
-In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
-<br><br>
-<h2>Your Choices About Your Information</h2>
-<br>
-You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.  
-<br><br>
-<h2>Children’s Privacy</h2>
-<br>
-Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal[at]GorillaNation.com.
-<br><br>
-<h2>Links to Other Web Sites</h2>
-<br>
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
-<br><br>
-<h2>Notification Procedures</h2>
-<br>
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
-<br><br>
-<h2>Changes to Our Privacy Policy</h2>
-<br>
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.   
-<br><br>
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at legal[at]GorillaNation.com, or send mail to:
-<br><br>
-<center>
-Gorilla Nation Media, LLC<br>
-5140 W. Goldleaf Circle, 3rd Floor<br>
-Los Angeles, CA  90056<br>
-Attn:  General Counsel
-</center>	 
-	 </div>
-	 
-  </div> 
-</div>
-	
-
-  <h3 class="bottomContent"></h3>
-
-</div> <!--  end of content column -->
-
+    </div> <!--  end of content column -->
 </div> <!--  end of content row -->
 
 	<center>
@@ -196,7 +247,7 @@ Attn:  General Counsel
 		Copyright © 2014 Crowd Ignite. All rights reserved. Crowd Ignite is an Evolve Media, LLC company.<br>
 	</div>
 	</center>
-<!-- Linux app3v-ci.ci.prd.lax.gnmedia.net 2.6.32-358.18.1.el6.x86_64 #1 SMP Wed Aug 28 17:19:38 UTC 2013 x86_64 --><script type="text/javascript" src="http://cdn.crowdignite.com/js/social_networks.js" async="true"></script>        <script type="text/javascript">
+<!-- Linux app2v-ci.ci.prd.lax.gnmedia.net 2.6.32-431.20.3.el6.x86_64 #1 SMP Thu Jun 19 21:14:45 UTC 2014 x86_64 --><script type="text/javascript" src="http://cdn.crowdignite.com/js/social_networks.js" async="true"></script>        <script type="text/javascript">
             var ci = ci || {};
             ci.clickheat = {
                 site : 'crowdignite_main',
@@ -206,4 +257,4 @@ Attn:  General Counsel
         </script>
 
 
-<img src="http://cdn.crowdignite.com/img/l.gif?t=1580447192734&amp;h=web.archive.org&amp;r=446061" style="width:0px;height:0px;display:none;position:absolute"></body></html>
+<img src="http://cdn.crowdignite.com/img/l.gif?t=1580447184762&amp;h=web.archive.org&amp;r=832299" style="width:0px;height:0px;display:none;position:absolute"></body></html>
