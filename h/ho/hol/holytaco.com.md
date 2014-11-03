@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holytaco.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405072716id_/http%3A//www.holytaco.com/contact/holy-taco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holytaco.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103143317id_/http%3A//www.holytaco.com/contact/holy-taco-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Holytaco
 
