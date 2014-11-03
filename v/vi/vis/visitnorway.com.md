@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515032412id_/http%3A//www.visitnorway.com/en/about-visitnorwaycom-/visitnorway-privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103022308id_/http%3A//www.visitnorway.com/en/about-visitnorwaycom/visitnorway-privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and security policy - Official Travel Guide to Norway - visitnorway.com
 
@@ -11,11 +11,11 @@ Collection, storage and processing of your personal information include the foll
 (PII) Personally Identifiable Information (PII) is information that identifies you as an individual.
 
  **Customer reviews**  
-Trip Advisor comments and reviews  
-Visitnorway may collect and display reviews and comments from what users have published on relevant products on Trip Advisor.  
+TripAdvisor comments and reviews  
+Visitnorway may collect and display reviews and comments from what users have published on relevant products on TripAdvisor.  
 
 Your disclaim any proprietary rights you may have in such Customer Reviews, and your review(s) may be freely used, copied, distributed and made available in any medium and in any form by Visitnorway or its affiliates without your permission.  
-Visitnorway does not edit Customer Reviews submitted on Tripadvisor and imported to Visitnorway, and to the fullest extent permitted by law will not be in any way responsible or liable for such Reviews or their subsequent posting, use or distribution. 
+Visitnorway does not edit Customer Reviews submitted on TripAdvisor and imported to Visitnorway, and to the fullest extent permitted by law will not be in any way responsible or liable for such Reviews or their subsequent posting, use or distribution. 
 
 In addition, Visitnorway does not verify, endorse or approve the views or comments expressed in any Reviews which are the personal views of the individuals submitting them. Any decisions made on the basis of reviews or comments appearing on the service are taken at your own risk.
 
