@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestupidstation.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123045id_/http%3A//www.thestupidstation.com/home/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestupidstation.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103024725id_/http%3A//www.thestupidstation.com/home/about) for the most accurate reproduction.*
 
 # The Stupid Station - Stupidity must Live!
 
