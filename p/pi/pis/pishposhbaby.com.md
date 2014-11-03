@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pishposhbaby.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209105115id_/http%3A//www.pishposhbaby.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pishposhbaby.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103015158id_/http%3A//www.pishposhbaby.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacypolicy
+# Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
