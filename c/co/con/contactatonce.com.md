@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004939id_/http%3A//www.contactatonce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103033019id_/http%3A//www.contactatonce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Contact At Once!
 
@@ -36,11 +36,11 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. We do/do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-\- Web Beacons / Gifs
+– Web Beacons / Gifs
 
 Our third-party web analytics partners employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. The information gathered by clear gifs is not tied to our customers’ personally identifiable information.
 
-\- Flash LSOs
+– Flash LSOs
 
 We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or other video player settings. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, click here:
 
