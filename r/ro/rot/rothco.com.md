@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227094858id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103230327id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
-
-[ ](http://www.facebook.com/Rothco1953)
-
-###  February 26, 2014   
-11:10 pm 
-
-Find out more about our latest Spring Supplement. http://bit.ly/1cMLhQp [See Post](http://www.facebook.com/photo.php?fbid=10151967178703575&set=a.201789988574.131055.194312043574&type=1)
-
-[ ](https://twitter.com/Rothco_Gear)
-
-###  February 26, 2014   
-10:30 pm 
-
-What's your favorite #[camouflage](http://search.twitter.com/search?q=%23camouflage) pattern?[See Tweet](https://twitter.com/Rothco_Gear)
 
 PRIVACY POLICY FOR ROTHCO.COM
 
@@ -64,7 +47,7 @@ If you use the website on behalf of another person or organization (such as your
 
 DISCLOSURE IN BUSINESS TRANSFERS
 
-At any time Rothco may become involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Rothco may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Rothco has no liability for the acquiring organization's use and disclosure of your personal information. If at any time you do not wish Rothco to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to [info@Rothco.com](mailto:info@Rothco.com?subject=%20Privacy%20Policy).
+At any time, Rothco may become involved in the sale or transfer of some or all of its business. As part of that sale or transfer, Rothco may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy. Rothco has no liability for the acquiring organization's use and disclosure of your personal information. If at any time you do not wish Rothco to disclose your personal information as part of the sale or transfer of some or all of its business, please send your request by e-mail to [info@Rothco.com](mailto:info@Rothco.com?subject=%20Privacy%20Policy).
 
 LAW ENFORCEMENT AND LEGAL DISCLOSURE
 
@@ -95,8 +78,3 @@ We keep our Privacy Policy under regular review and we will place any updates in
 YOUR FEEDBACK
 
 If you have any comments or questions about this Policy or your personal information, please send your comments by e-mail to [info@Rothco.com](mailto:info@rothco.com?subject=PrivacyPolicy "Rothco").
-
-#### Want to become a Rothco Dealer?
-
-  
-
