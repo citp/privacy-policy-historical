@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626191327id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103123754id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Guide to Online Schools
+# Privacy Policy
 
 [GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.guidetoonlineschools.com.
 
