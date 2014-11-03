@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043057id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103175849id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.keysurvey.co.uk&sealid=102 "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/WorldAPP,-Inc/validation?rid=64f135c7-a7fa-49f6-892d-8c89211e0ff2 "Validate TRUSTe privacy certification")
 
 Effective Date: 03/01/2014
 
@@ -107,7 +107,13 @@ lpv28642
 pardot  
 visitor_id28642  
 yabs_sid  
-yandexuid |   | These cookies are used to better understand how you use the website by telling us which pages you went to. We use this information to make our website easier to use. These cookies would also tell us if you came to our website by clicking on one of our Ads. |   | Session  
+yandexuid  
+_eventqueue  
+_first_pageview  
+_jsuid  
+_referrer_og  
+_ym_visorc_16083442  
+heatmaps_g2g_100760189 |   | These cookies are used to better understand how you use the website by telling us which pages you went to. We use this information to make our website easier to use. These cookies would also tell us if you came to our website by clicking on one of our Ads. |   | Session  
 BigipServerKSMkt, BigipServerksMain | These cookies are used to improve server and web page speeds by allowing the server to recognize you and send your traffic to the fastest sub-server. Without these cookies a user always talks to the same servers, and new users will talk to the less burdened servers. This functionality also helps to prevent data corruption in the case that a load balanced server stops working and another server starts handling those users. | 1 day  
 SecureToken | If the user chooses "remember me" option when logging into the application, this cookie will be created and will store an encrypted version of the username and password so the server can actually remember the users login credentials. | 1 week  
 s_cc  
