@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kvraudio.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630204119id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kvraudio.com privacy policy that was archived on 2014-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103184549id_/http%3A//www.kvraudio.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,22 +9,22 @@
 <meta name="keywords" content="Virtual Instruments, Virtual Effects, VST, VSTi, VSTPlugins, AAX, DX, DirectX, Audio Units, AU, RTAS, Plugins, LADSPA, Universal Binary, x64, DSSI, iOS, LV2, x86_64, Android, Re, Rack Extensions">
 <meta property="og:title" content="">
 <meta property="og:description" content="KVR Audio News and info about Audio Plugins (virtual instruments and virtual effects) - VST, VSTi, Audio Units (AU), AAX, RTAS, UAD, iOS Apps (iPhone, iPad, iPod), Android Audio Apps, Soundware and Pro Audio Hardware">
-<meta property="og:image" content="http://static.kvraudio.com/i/news/kvr_grey_100.png">
-<meta property="og:image" content="http://static.kvraudio.com/i/kvr72.png">
+<meta property="og:image" content="http://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png">
+<meta property="og:image" content="http://static.kvraudio.com/i/b/kvraudio-300x300-blue.png">
 <meta name="msapplication-TileColor" content="#333333">
 <meta name="msapplication-TileImage" content="http://static.kvraudio.com/i/kvr-logo-144x144.png">
 <link type="image/png" rel="icon" href="/favicon.png">
 <link rel="apple-touch-icon" href="http://static.kvraudio.com/i/kvr72.png">
-<link type="text/css" rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.min.css">
-<link type="text/css" rel="stylesheet" href="http://static.kvraudio.com/inc/k53.css">
+<link type="text/css" rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.min.css">
+<link type="text/css" rel="stylesheet" href="http://static.kvraudio.com/inc/k58.css">
 <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script>$.uiBackCompat = false;</script>
-<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
 <!--[if lt IE 8]>
 <script src="http://static.kvraudio.com/inc/json2.js"></script>
 <![endif]-->
-<script src="http://static.kvraudio.com/inc/jquery-pae-28.js"></script>
+<script src="http://static.kvraudio.com/inc/jquery-pae-33.js"></script>
 <script>
 <!--
 mykvr = {"logged":"out"};
@@ -38,7 +38,8 @@ $(function(){
 
   $(document).on("mousedown","a",function(e){
     if(e.which == 1 || e.which == 2){
-      $("#kvrgo").attr("src",'/static/go/?from='+encodeURIComponent(window.location)+'&to='+encodeURIComponent(this.href));
+      $("#kvrgo").attr("src",'/static/go/?from='+kvr_base64_encode(window.location)+'&to='+kvr_base64_encode(this.href));
+      //$("#kvrgo").attr("src",'/static/go/?from='+encodeURIComponent(window.location)+'&to='+encodeURIComponent(this.href));
     }
   });
 });
@@ -65,13 +66,10 @@ var mappingTop90 = googletag.sizeMapping().addSize([400, 100], [90, 90]).build()
 googletag.defineSlot('/3804147/90x90',[1, 1], 'kvrheader90').defineSizeMapping(mappingTop90).addService(googletag.pubads());
 var mappingSide300 = googletag.sizeMapping().addSize([980, 400], [300, 250]).addSize([600, 400], [200, 200]).build();
 googletag.defineSlot('/3804147/300x250',[1, 1], 'div-gpt-ad-1319706183506-2').defineSizeMapping(mappingSide300).addService(googletag.pubads());
-var mappingSide120 = googletag.sizeMapping().addSize([600, 400], [120, 600]).build();
-googletag.defineSlot('/3804147/120x600',[1, 1], 'div-gpt-ad-1319706183506-0').defineSizeMapping(mappingSide120).addService(googletag.pubads());
-var mappingSide160 = googletag.sizeMapping().addSize([980, 400], [160, 600]).build();
-googletag.defineSlot('/3804147/160x600',[1, 1], 'div-gpt-ad-1319706183506-1').defineSizeMapping(mappingSide160).addService(googletag.pubads());
+googletag.defineSlot('/3804147/300x600', [300, 600], 'div-gpt-ad-1406729622787-0').addService(googletag.pubads());
 var mappingBotC = googletag.sizeMapping().addSize([980, 400], [728, 90]).addSize([468, 200], [468, 60]).addSize([0, 0], [320, 50]).build();
 googletag.defineSlot('/3804147/728x90-Footer',[728, 90], 'div-gpt-ad-1319706183506-3').defineSizeMapping(mappingBotC).addService(googletag.pubads());
-//googletag.pubads().enableSingleRequest(); // breaks safari
+//googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 
@@ -85,6 +83,9 @@ ga('send', 'pageview');
 </script>
 <style type="text/css">
 blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
+
+.kvrdealblock {background-color: #305060; border-top: 1px solid #777;}
+.kvrdealblock:nth-of-type(even) {background-color: #334455;}
 </style>
 </head>
 <body>
@@ -108,6 +109,7 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
     <div id="header">
       <a href="/" id="kvrheaderlogo" title="KVR Audio - Audio Plug-ins, Hosts and Mobile Apps"></a>
       <div id="header320to728" class="kvr320to728"><script>googletag.cmd.push(function(){googletag.display('header320to728')});</script></div>
+      <div id="kvrheaderflex" class="kvrhidesmall"><a title="Five Chances to Win AIR Music Technology's The Riser" href="http://www.kvraudio.com/kvrdeals-and-giveaways.php" style="display: block; width: 100%; height: 100%; background: url(http://static.kvraudio.com/i/b/riser-giveaway-a.jpg) 50% 50% no-repeat;"></a></div>
       <div id="kvrheader90"><script>googletag.cmd.push(function(){googletag.display('kvrheader90');});</script></div>
     </div>
     <div id="wnakvr"></div>
@@ -142,7 +144,7 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
                   <a href="/mykvr" style="height: 200px !important; padding: 10px !important; text-align: center !important;"><img src="http://static.kvraudio.com/i/mykvr100.png" alt="My KVR" style="width: 100px; height: 100px; margin-bottom: 10px;">My KVR<br>Your Personal Plug-in, App &amp; Soundware Universe</a>
                 </div>
               </div>
-              <div class="kvrtblc kvrhidesmall" style="padding-left: 10px; width: 400px;"><div class="posrelit kvrgrad1 roundit" style="width: 400px; color: #fff; height: 220px;"><a href="/more/516" style="height: 200px !important; padding: 10px !important; overflow: hidden;" title="DUNE 2 by Synapse Audio"><span style="display: block; padding: 5px; margin-bottom: 5px; background-color: #444; text-align: center;">Featured Product</span><span style="display: block; float: right; max-width: 200px; max-height: 168px; overflow: hidden; margin-left: 10px;"><img src="http://static.kvraudio.com/i/s/d2screen.jpg" alt="" style="max-width: 200px;"></span><p>DUNE 2</p><span style="font-weight: normal;">DUNE 2 is a powerful polyphonic synthesizer that combines VA/subtractive, Wavetable and FM synthesis with an extensive modulation system, named the Differential Unison Engine (DUNE). A unique feature ...</span><span style="position: absolute; right: 10px; bottom: 10px; padding: 3px; background-color: #202020;">Read More...</span></a></div></div>
+              <div class="kvrtblc kvrhidesmall" style="padding-left: 10px; width: 400px;"><div class="posrelit kvrgrad1 roundit" style="width: 400px; color: #fff; height: 220px;"><a href="/more/618" style="height: 200px !important; padding: 10px !important; overflow: hidden;" title="SampleTank 3 by IK Multimedia"><span style="display: block; padding: 5px; margin-bottom: 5px; background-color: #444; text-align: center;">Featured Product</span><span style="display: block; float: right; max-width: 200px; max-height: 168px; overflow: hidden; margin-left: 10px;"><img src="http://static.kvraudio.com/i/s/st3_gui_mix_main.png" alt="" style="max-width: 200px;"></span><p>SampleTank 3</p><span style="font-weight: normal;">SampleTank 3 has been rebuilt from the ground up: it has a completely new sound set, fully redesigned easy-to-use interface, new sounds with true-to-life "round robin" and multiple articulations, a ne...</span><span style="position: absolute; right: 10px; bottom: 10px; padding: 3px; background-color: #202020;">Read More...</span></a></div></div>
             </div>
           </div>
         <div style="border-top: 1px solid #666; margin: 10px; padding-top: 10px; clear: both;"><a href="/allpluginsononepage.php"><span style="display: block; margin: 0 auto; max-width: 524px;">All Plug-ins, Hosts, Apps &amp; Soundware in the KVR Product Database on One Page</span></a></div>
@@ -241,14 +243,14 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
     <a href="#" id="searchkvr" class="searchkvr kvrgrad5hov">Search <span class="spit spsrch">&nbsp;</span></a>
     <div id="kvrmemberbox">
       <div id="kvrmembar" class="kvrgrad7 hovthisblue">
-        <div id="kvrmemextra"><a href="/lt.php" title="Latest Posts in the forum"><span class="spit spfrm">&nbsp;</span><span class="kvrhidesmall"> Latest Posts</span></a></div>
+        <div id="kvrmemextra"><a href="/forum/latest-posts/index.php" title="Latest Posts in the forum"><span class="spit spfrm">&nbsp;</span><span class="kvrhidesmall"> Latest Posts</span></a></div>
         <a href="/forum/ucp.php?mode=login" id="shloginreg">Login / Register <span style="margin-bottom: 2px;" class="spit spdarc"></span></a>      </div>
       <div id="kvrmenu" class="kvrmenugen shaditdrk"></div>
       <div id="shmenu" class="hovthisblue shaditpopup kvrgrad2">
     <div style="padding: 10px;">
     <form action="/forum/ucp.php?mode=login" method="post">
-	  <input type="hidden" name="redirect" value="http://www.kvraudio.com//privacy.php">
-	  <input type="hidden" value="a2690df24f559e2d343c07d32810b5e6" name="sid">
+	  <input type="hidden" name="redirect" value="http://www.kvraudio.com/privacy.php">
+	  <input type="hidden" value="1be009032cbf0918afdfc4f68cc5f26c" name="sid">
     Username:<br>
     <input type="text" name="username" size="12" maxlength="40" value="" id="kvruserpop" style="width: 180px;"><br>
     Password:<br>
@@ -275,7 +277,7 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
   <div id="column1">
     <div id="main" class="kvr_sm_inline">
     <!-- KVR Main Content-->
-<div id="pollotdholder" class="hovthisblue"><a href="/inc/a.php?w=poll" id="pollotd"><strong>» Tablet: Own One? Want One? Blah? «</strong></a></div><div id="kvrnavline"><a href="/">KVR Audio</a> » <a href="/privacy.php" class="activenav">Privacy Policy</a></div>
+<div id="kvrnavline"><a href="/">KVR Audio</a> » <a href="/privacy.php" class="activenav">Privacy Policy</a></div>
 <div class="kvrheaddiv">
 <h1>Privacy Policy for KVR Audio, Inc.</h1>
 </div>
@@ -303,112 +305,103 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
     <div id="subcol">
 <div id="gaffertape"></div>
           <div class="featuredsidebar kvrgrad7">
-            <a href="/more/516" title="DUNE 2" style="padding-bottom: 43px;">
-              <span class="productimg"><img src="http://static.kvraudio.com/i/s/d2screen.jpg" alt=""></span>
-              <strong>DUNE 2</strong><br>
-              by Synapse Audio
-              <span style="display: block; margin: 5px 0; color: #ddd">Synth (Analogue / Subtractive)</span>
-              <span class="kvrgrad9a nowrap" style="bottom: 0; display: block; left: 0; overflow: hidden; padding: 10px; position: absolute; right: 0;"><span data-id="8737" class="mykvr pid8737 inrelblock kvrgrad5"><span class="spit mykvrp spstarg" data-id="8737" data-a="1" title="My KVR Favourite Product"><span>&nbsp;</span></span>My KVR<span class="spit spdarr"></span></span>
-              <span class="pricetag">$169</span> <span class="roundit kvrgrad9a" style="display: inline-block; padding: 3px; vertical-align: top;"><span title="Windows" class="spit sp1s">&nbsp;</span><span title="Mac OS X" class="spit sp3s">&nbsp;</span></span>
+            <a href="/more/618" title="SampleTank 3" style="padding-bottom: 43px;">
+              <span class="productimg"><img src="http://static.kvraudio.com/i/s/st3_gui_mix_main.png" alt=""></span>
+              <strong>SampleTank 3</strong><br>
+              by IK Multimedia
+              <span style="display: block; margin: 5px 0; color: #ddd">Rompler</span>
+              <span class="kvrgrad9a nowrap" style="bottom: 0; display: block; left: 0; overflow: hidden; padding: 10px; position: absolute; right: 0;"><span data-id="9146" class="mykvr pid9146 inrelblock kvrgrad5"><span class="spit mykvrp spstarg" data-id="9146" data-a="1" title="My KVR Favourite Product"><span>&nbsp;</span></span>My KVR<span class="spit spdarr"></span></span>
+              <span class="pricetag">$249.99 / €199.99</span> <span class="roundit kvrgrad9a" style="display: inline-block; padding: 3px; vertical-align: top;"><span title="Windows" class="spit sp1s">&nbsp;</span><span title="Mac OS X" class="spit sp3s">&nbsp;</span></span>
               </span>
               <span class="featuredtitle">Featured Product</span>
             </a>
             <div class="clearit"></div>
           </div>
       <div id="div-gpt-ad-1319706183506-2" class="bl0k300250"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-2');});</script></div>
-<div class="featuredsidebar kvrgrad8">
-            <a class="roundit" title="Liquid Rhythm v1.4 Update" href="/video/liquid-rhythm-v1-4-update-2251/1/508">
-              <span class="videoimg" style="background-image: url(http://i1.ytimg.com/vi/kGJ-x---MI8/default.jpg);"><span class="spit spplv25" style="margin-top: 27px;">&nbsp;</span></span>
-              <span class="videodesc"><strong>Liquid Rhythm v1.4 Update</strong></span>
-              <span class="featuredtitle" style="left: 10px; right: auto; top: 10px; background-color: #222; padding-bottom: 1px;">Featured Video</span>
-              <span class="clearit"></span>
-            </a>
-            </div>      <div id="wnaside">
+<div class="posrelit hovthisblue featuredsidebar"><a href="/video/fabfilter-pro-mb---downward-compression-2944/1/617" style="display: block; padding: 30px; background: url(http://i.ytimg.com/vi/O1Qz_libwBk/hqdefault.jpg) 50% 50%;" title="FabFilter Pro MB - Downward compression"><span class="fpfeattitle" style="background-color: #555; bottom: 10px; left: auto; opacity: 0.8; right: 30px; top: auto;">Featured Video</span><span class="posrelit" style="display: block; padding: 15px; text-align: center;"><strong style="position: relative; z-index: 1;"><span style="float: left; margin: 5px;" class="spit spplv25">&nbsp;</span>FabFilter Pro MB - Downward compression</strong><span style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; opacity: 0.8;"></span></span></a></div>      <div id="wnaside">
       <div id="sidecolx">
         <div class="kvrgrad7">
         <div id="scxtitle"><strong>What's New @ KVR Audio</strong></div>
         <div id="scxtabs" class="hovthisblue">
           <ul>
-<li><a href="/inc/sidebar.php?s=1"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">News</span></a></li><li><a href="/inc/sidebar.php?s=2"><span class="kvr6to9show"><span class="spit spbox">&nbsp;</span></span><span class="kvr6to9hide">Products</span></a></li><li><a href="/inc/sidebar.php?s=3"><span class="kvr6to9show"><span class="spit sprevpad">&nbsp;</span></span><span class="kvr6to9hide">Reviews</span></a></li><li><a href="/inc/sidebar.php?s=4"><span class="kvr6to9show"><span class="spit spfrm">&nbsp;</span></span><span class="kvr6to9hide">Posts</span></a></li><li><a href="/inc/sidebar.php?s=5"><span class="spit spplm16o">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=6" class="active"><span class="spit sptv">&nbsp;</span></a></li>          </ul>
+<li><a href="/inc/sidebar.php?s=1"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">News</span></a></li><li><a href="/inc/sidebar.php?s=7"><span class="kvr6to9show"><span class="spit spnews">&nbsp;</span></span><span class="kvr6to9hide">Deals</span></a></li><li><a href="/inc/sidebar.php?s=2"><span class="kvr6to9show"><span class="spit spbox">&nbsp;</span></span><span class="kvr6to9hide">Products</span></a></li><li><a href="/inc/sidebar.php?s=3"><span class="kvr6to9show"><span class="spit sprevpad">&nbsp;</span></span><span class="kvr6to9hide">Reviews</span></a></li><li><a href="/inc/sidebar.php?s=4"><span class="spit spfrm" title="Latest Forum Posts">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=5"><span class="spit spplm16o" title="Latest Music">&nbsp;</span></a></li><li><a href="/inc/sidebar.php?s=6" class="active"><span class="spit sptv" title="Latest Videos">&nbsp;</span></a></li>          </ul>
         </div>
         </div>
         <div id="scxcon">
           <div id="scxbox" class="scxp">
-    <a class="kvrtbl" title="VSDSX VST SIMMONS SDS-V DRUM SYNTH - Pad Triggering test - 80s Style" href="/video/vsdsx-vst-simmons-sds-v-drum-synth---pad-triggering-test---80s-style-2327" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="FabFilter Pro MB - Downward compression" href="/video/fabfilter-pro-mb---downward-compression-2944" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/JsgeQnAjNEk/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">VSDSX VST SIMMONS SDS-V DRUM SYNTH - Pad Triggering test - 80s Style</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/O1Qz_libwBk/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">FabFilter Pro MB - Downward compression</span>
       </span>
     </a>
-    <a class="kvrtbl" title="VSDSX VST SIMMONS SDS-V Extended Drum Synthesizer Emulation" href="/video/vsdsx-vst-simmons-sds-v-extended-drum-synthesizer-emulation-2326" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="J74 Progressive - A toolset for Chord Progression and Harmonic Editing (Tutorial 7)" href="/video/j74-progressive---a-toolset-for-chord-progression-and-harmonic-editing-tutorial-7-2943" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/4GpASLcMz3U/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">VSDSX VST SIMMONS SDS-V Extended Drum Synthesizer Emulation</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/FH0M0F2_yX4/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">J74 Progressive - A toolset for Chord Progression and Harmonic Editing (Tutorial 7)</span>
       </span>
     </a>
-    <a class="kvrtbl" title="VSDSX VST SIMMONS SDS-V Drum Synth Extended -- UI Overview" href="/video/vsdsx-vst-simmons-sds-v-drum-synth-extended----ui-overview-2325" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="Uinku Distortion plug-in - tweaking Uinku on bass and conga sounds" href="/video/uinku-distortion-plug-in---tweaking-uinku-on-bass-and-conga-sounds-2942" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/BqPTHPr0ydU/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">VSDSX VST SIMMONS SDS-V Drum Synth Extended -- UI Overview</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/0e_ZBfV5iVc/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Uinku Distortion plug-in - tweaking Uinku on bass and conga sounds</span>
       </span>
     </a>
-    <a class="kvrtbl" title="VSDSX VST SIMMONS DRUM SYNTH -- KICK/BASS CARD TEST only" href="/video/vsdsx-vst-simmons-drum-synth----kick-bass-card-test-only-2324" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="EVP Patrol Squad - Episode 3 - MYSTORYS HISTORIES" href="/video/evp-patrol-squad---episode-3---mystorys-histories-2941" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/mmiDpJoEIEo/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">VSDSX VST SIMMONS DRUM SYNTH -- KICK/BASS CARD TEST only</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/ppZUH40IpwM/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">EVP Patrol Squad - Episode 3 - MYSTORYS HISTORIES</span>
       </span>
     </a>
-    <a class="kvrtbl" title="Azathoth - Dubstep Samples Mix Pack" href="/video/azathoth---dubstep-samples-mix-pack-2323" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="ANDI VAX REVIEWS 012 ENG - TSE AUDIO X50 (Halloween Review)" href="/video/andi-vax-reviews-012-eng---tse-audio-x50-halloween-review-2940" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/ZfqRIovgga8/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Azathoth - Dubstep Samples Mix Pack</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/Ywb4UjAog9A/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">ANDI VAX REVIEWS 012 ENG - TSE AUDIO X50 (Halloween Review)</span>
       </span>
     </a>
-    <a class="kvrtbl" title="Oxidize - Pop Loops Mix Pack" href="/video/oxidize---pop-loops-mix-pack-2322" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="? Massive Evolutions II v2.0 - Create Custom Presets [compact instructions]" href="/video/massive-evolutions-ii-v2-0---create-custom-presets-compact-instructions-2939" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/LhW5tAXYF8I/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Oxidize - Pop Loops Mix Pack</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/MWO6wc4e6G0/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">? Massive Evolutions II v2.0 - Create Custom Presets [compact instructions]</span>
       </span>
     </a>
-    <a class="kvrtbl" title="Journey - Hip Hop Samples Mix Pack" href="/video/journey---hip-hop-samples-mix-pack-2321" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="? MEII - (Free) EDM, Dubstep Synth :: LFO, Arpeggiator, Pitch Speed Mod &amp; Grain Factor" href="/video/meii---free-edm-dubstep-synth-lfo-arpeggiator-pitch-speed-mod-and-grain-factor-2938" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/XcYKoCNIJbE/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Journey - Hip Hop Samples Mix Pack</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/mio1lyp6ddw/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">? MEII - (Free) EDM, Dubstep Synth :: LFO, Arpeggiator, Pitch Speed Mod &amp; Grain Factor</span>
       </span>
     </a>
-    <a class="kvrtbl" title="Wessup - Hip Hop Samples Mix Pack" href="/video/wessup---hip-hop-samples-mix-pack-2320" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="Fingerstyle Folk Acoustic Guitar - In Session Audio" href="/video/fingerstyle-folk-acoustic-guitar---in-session-audio-2937" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/Oser-X1e2CU/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Wessup - Hip Hop Samples Mix Pack</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/urK5hFhs82M/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Fingerstyle Folk Acoustic Guitar - In Session Audio</span>
       </span>
     </a>
-    <a class="kvrtbl" title="Clav Attack - Hip Hop Samples Mix Pack" href="/video/clav-attack---hip-hop-samples-mix-pack-2319" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="Big Table Morpher Sonic Tabulator for Serum" href="/video/big-table-morpher-sonic-tabulator-for-serum-2936" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/pG3QKHVxmok/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Clav Attack - Hip Hop Samples Mix Pack</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/Wq2eLoFpdHY/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Big Table Morpher Sonic Tabulator for Serum</span>
       </span>
     </a>
-    <a class="kvrtbl" title="Bright Lights - Hip Hop Samples Mix Pack" href="/video/bright-lights---hip-hop-samples-mix-pack-2318" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
+    <a class="kvrtbl" title="Dune 2 - New Wavetable Expansion and Presets" href="/video/dune-2---new-wavetable-expansion-and-presets-2935" style="padding: 0; height: 70px; overflow: hidden; font-size: 90%;">
       <span class="kvrtblr" style="text-align: center;">
-        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i1.ytimg.com/vi/GdPinmT5iNE/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
-        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Bright Lights - Hip Hop Samples Mix Pack</span>
+        <span class="kvrtblc" style="width: 100px; vertical-align: middle; background: url(http://i.ytimg.com/vi/zbHuX8LKxdE/default.jpg) 0 50% no-repeat; height: 70px;"><img src="http://static.kvraudio.com/i/video-play-25.png" width="25" alt=""></span>
+        <span class="kvrtblc" style="width: 190px; padding: 5px; vertical-align: middle; overflow: hidden;">Dune 2 - New Wavetable Expansion and Presets</span>
       </span>
-    </a></div>
+    </a><a href="/video/" class="cleanlnk">Watch More Videos</a></div>
         </div>
       </div>
       </div>
-      <div class="bl0k160600" id="div-gpt-ad-1319706183506-1"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-1');});</script></div>
-      <div class="bl0k120600" id="div-gpt-ad-1319706183506-0"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1319706183506-0');});</script></div>
+<div class="kvrgrad7" style="padding: 5px; text-align: center; color: #eee;">Advertisements</div>      <div class="bl0k300600" style="width: 300px; height: 600px;" id="div-gpt-ad-1406729622787-0"><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1406729622787-0');});</script></div>
       
     <div id="kvrifbox" class="hovthisblue">
       <div class="kvrgrad7 kvrhidesmall pad10"><b>KVR <a href="/focus">Industry Focus</a> &amp; <a href="/interviews/">Interviews</a></b></div>
-      <div id="kvrifbox1"><a href="/focus/lets-post-more-product-reviews-on-kvr-26325" title="Let's Post More Product Reviews on KVR"><img src="http://static.kvraudio.com/i/x/review-something-today-1.png" alt="Let's Post More Product Reviews on KVR"></a><a href="/focus/in-search-of-reason---an-interview-with-propellerheads-ernst-nathorst-b-s-25935" title="In Search of Reason - An Interview with Propellerhead's Ernst Nathorst-Böös" class="kvrhidesmall"><img src="http://static.kvraudio.com/i/x/ernst-190.jpg" alt="In Search of Reason - An Interview with Propellerhead's Ernst Nathorst-Böös"></a></div>
-      <div id="kvrifbox2" class="kvrhidesmall"><a href="/focus/the-accidental-business---an-interview-with-larry-fishman-25235" title="The Accidental Business - An interview with Larry Fishman"><img src="http://static.kvraudio.com/i/x/larry-fishman-190.jpg" alt="The Accidental Business - An interview with Larry Fishman"></a><a href="/focus/namm-2014-report---optimism-in-anaheim-24817" title="NAMM 2014 Report - Optimism in Anaheim"><img src="http://static.kvraudio.com/i/x/namm-2014-optimism.png" alt="NAMM 2014 Report - Optimism in Anaheim"></a><a href="/focus/hero-worship---an-interview-with-john-mclaughlin-23941" title="Hero Worship - An Interview with John McLaughlin"><img src="http://static.kvraudio.com/i/x/john-mclaughlin-190.jpg" alt="Hero Worship - An Interview with John McLaughlin"></a>
+      <div id="kvrifbox1"><a href="/focus/chuck-surack-part-2-sweetwater-builds-their-own-computer-27542" title="Chuck Surack Part 2: Sweetwater Builds Their Own Computer"><img src="http://static.kvraudio.com/i/x/chuck-190-p2.jpg" alt="Chuck Surack Part 2: Sweetwater Builds Their Own Computer"></a><a href="/focus/an-interview-with-sweetwater-founder-chuck-surack-part-1-27436" title="An Interview with Sweetwater Founder, Chuck Surack, Part: 1" class="kvrhidesmall"><img src="http://static.kvraudio.com/i/x/chuck-190-p1.jpg" alt="An Interview with Sweetwater Founder, Chuck Surack, Part: 1"></a></div>
+      <div id="kvrifbox2" class="kvrhidesmall"><a href="/focus/differentiating-from-the-crowd-an-interview-with-joe-trupiano-from-sample-logic-27252" title="Differentiating from the crowd: An Interview with Joe Trupiano from Sample Logic"><img src="http://static.kvraudio.com/i/x/jt-sl-190.jpg" alt="Differentiating from the crowd: An Interview with Joe Trupiano from Sample Logic"></a><a href="/focus/small-room-acoustics-on-a-budget-27160" title="Small Room Acoustics On A Budget"><img src="http://static.kvraudio.com/i/x/small-room.jpg" alt="Small Room Acoustics On A Budget"></a><a href="/focus/kvr-interview-with-izotope-and-bt-artists-making-products-products-making-art-26827" title="KVR Interview with iZotope and BT: Artists Making Products/ Products Making Art"><img src="http://static.kvraudio.com/i/x/izotope-bt-190a.jpg" alt="KVR Interview with iZotope and BT: Artists Making Products/ Products Making Art"></a>
       <a id="kvrifmore" href="/focus" class="kvrgrad1 kvrhidesmall" title="More"><b>Read More...</b></a>
       </div>
       <div class="clearit"></div>
-    </div>      <a href="/kvr-developer-challenge/2014/" title="KVR Developer Challenge 2014"><img src="http://static.kvraudio.com/i/b/kvrdc14-300x250.png" alt="KVR Developer Challenge 2014" width="300" height="250" style="width: 100%; max-width: 300px; height: auto;"></a>
-    </div>
+    </div>    </div>
     <div class="clearit"></div>
   </div>
 
@@ -419,6 +412,17 @@ blockquote {margin: 0 35px 10px 35px;} /*here to prevent clash on forum*/
   </div>
 </div>
 <script src="http://s.skimresources.com/js/25446X847199.skimlinks.js"></script>
+<script>
+$(function(){
+  setTimeout(function(){
+  if($("div[id^=google_ads_iframe]").length < 1)
+  {
+    $("#kvrgo").attr("src",'/static/no/');
+  }
+  }, 2000);
+});
+</script>
+<noscript><img src="/static/noscript/" alt=""></noscript>
 
 
 </body></html>
