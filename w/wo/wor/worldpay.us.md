@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074344id_/http%3A//www.worldpay.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103170409id_/http%3A//www.worldpay.com//content/privacy-policy-us-0) for the most accurate reproduction.*
 
-# Privacy Statement | WorldPay
+# Privacy Policy US | Worldpay
 
 ### Online Privacy Statement
 
-We respect and value your privacy. Our Online Privacy Statement (“Privacy Statement”) describes and applies to the information we collect from you when you visit this website (“Website”). The terms “we,” “our,” and “us” in this Privacy Statement refer to WorldPay US, Inc. Our Privacy Statement generally describes how we collect, share, use, and protect your information.
+We respect and value your privacy. Our Online Privacy Statement (“Privacy Statement”) describes and applies to the information we collect from you when you visit this website (“Website”). The terms “we,” “our,” and “us” in this Privacy Statement refer to Worldpay US, Inc. Our Privacy Statement generally describes how we collect, share, use, and protect your information.
 
 ### 1\. Information That We Collect
 
@@ -38,7 +38,7 @@ When you send an e-mail to us, you are communicating with us electronically and 
 
 ### 4\. Personal Information on Children
 
-We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy).
+We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [_www.ftc.gov/kidzprivacy_](http://www.ftc.gov/kidzprivacy).
 
 ### 5\. Third Party Websites
 
@@ -63,7 +63,7 @@ We maintain security standards that are designed to protect your information as 
 
 ### 8\. How to Protect Your Personally Identifiable Information
 
-You have a role in helping us by safeguarding your information from others. You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. The Federal Trade Commission’s websites ([www.ftc.gov](http://www.ftc.gov/), [www.ftc.gov/idtheft](http://www.ftc.gov/idtheft), and [www.onguardonline.gov](http://www.onguardonline.gov/)) offer useful information about how to protect your personally identifiable information.
+You have a role in helping us by safeguarding your information from others. You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. The Federal Trade Commission’s websites ([ _www.ftc.gov_](http://www.ftc.gov/), [_www.ftc.gov/idtheft_](http://www.ftc.gov/idtheft), and [_www.onguardonline.gov_](http://www.onguardonline.gov/)) offer useful information about how to protect your personally identifiable information.
 
 ### 9\. Suspicious E-Mail
 
@@ -79,7 +79,7 @@ Please note that we will periodically make changes to our Privacy Statement. It 
 
 ### 12\. Questions or Comments
 
-If you have any questions or comments concerning our Privacy Statement please let us know by emailing [privacy@worldpay.us](mailto:privacy@worldpay.us).
+If you have any questions or comments concerning our Privacy Statement please let us know by emailing [_privacy@worldpay.us_](mailto:privacy@worldpay.us).
 
 ### PRINTING INSTRUCTIONS
 
