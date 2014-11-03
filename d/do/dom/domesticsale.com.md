@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209121707id_/http%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103165411id_/http%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
 ## Privacy policy
 
-DomesticSale has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: [http://www.DomesticSale.com/help-privacy.html](http://www.domesticsale.com/help-privacy.html)
+DomesticSale has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: [$RootURL/help-privacy.html](https://web.archive.org/web/20141103165411id_/http%3A//www.domesticsale.com/$RootURL/help-privacy.html)
 
  **PRIVACY PROTECTION**
 
@@ -38,14 +38,15 @@ Member area
 
 Testimonials
 
-I was having a difficult time selling my pups...then I added them to Domesticsale.com. **Within 2 weeks they were sold**. I had over 300 hits! I'll come here first next time! Thanks so much!  
-_Mineral Wells, WV_
+**Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!  
+Rebecca  
+_Gainesville, Florida_
 
-**This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
-Perry Pono  
-_Rhode Island_
-
-My ad was on less than a week and I had a couple take both of my Beagles to their forever homes. Thanks for having **such a great place to sell stuff** You get 10 stars **********  
-_Dublin, GA_
+This is a very nice site, I **sold my car** in few days!!!  
+Thank You. Steve. 
 
 This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!! 
+
+**Dear Domestic Sale** , I just want to thank you for the opportunity to place a free ad. My Doberman puppies **sold within hours** of publication. Excellent site!!!  
+Thanks again, Maryann Ward.  
+_Kemptville, Ontario_
