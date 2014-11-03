@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ianker.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630200321id_/http%3A//www.ianker.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ianker.com privacy policy that was archived on 2014-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103234337id_/http%3A//www.ianker.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="Generator" content="ANKER v2.7.3">
@@ -15,406 +15,387 @@
 <link rel="shortcut icon" href="http://www.ianker.com/favicon.ico">
 <link type="text/css" href="http://www.ianker.com/themes/anker/css/ui-lightness/jquery-ui-1.9.2.custom.css" rel="stylesheet">
 <link href="http://www.ianker.com/themes/anker/css/inner.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.ianker.com/themes/anker/js/jquery.js"></script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.ianker.com/themes/anker/js/jquery.js"></script>
 <script type="text/javascript" src="http://www.ianker.com/themes/anker/js/jquery-ui-1.9.2.custom.min.js"></script>
 <script type="text/javascript" src="http://www.ianker.com/themes/anker/js/js.js"></script>
 <script type="text/javascript">
 var process_request = "Please waiting...";
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-23867950-1']);
-_gaq.push(['_setDomainName', 'ianker.com']);
-_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
- ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
 </script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-23867950-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="index about">
+<link href="http://www.ianker.com/assets/css/nav.css" rel="stylesheet" type="text/css">
+<link href="http://www.ianker.com/assets/icomoon/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.ianker.com/assets/js/main.js"></script>
+
 <script type="text/javascript">
 var check_search = function()
 {
-	var search_keywords = $("#keywords").val();
-	
-	if(search_keywords.length > 35)
-	{
-		alert('Please make your keyword shorter!');
-		return false;
-	}
-		return true;
+  var search_keywords = $("#keywords").val();
+  if(search_keywords.length > 35) {
+    alert('Please make your keyword shorter!');
+    return false;
+  }
+  return true;
 }
+
 //get message's count
 var get_messages_count = function()
 {
-	if(0)
-	{
-	$.get("http://www.ianker.com/user.php?act=get_messages_count", function(data){
-  		var msg_count = parseInt(data);
-  		if(msg_count)
-  		{
-  			$(".member_notification").each(function(){
-  				$(this).html('<em class="member_notification_num">'+msg_count+'</em>');
-  			});
-  			$("#notification").html("("+msg_count+")");
-  		}
-  		else
-  		{
-  			$(".member_notification").each(function(){
-  				$(this).html('');
-  			});
-  			$("#notification").html('');
-  		}
-	});
-	}
+  if(0) {
+    $.get("http://www.ianker.com/user.php?act=get_messages_count", function(data){
+      var msg_count = parseInt(data);
+      if(msg_count)
+      {
+        $(".member_notification").each(function(){
+          $(this).html('<em class="member_notification_num">'+msg_count+'</em>');
+        });
+        $("#notification").html("("+msg_count+")");
+      } else {
+        $(".member_notification").each(function(){
+                $(this).html('');
+        });
+        $("#notification").html('');
+      }
+    });
+  }
 }
+
+
+/*
 $(function(){
-	//setInterval(get_messages_count, 10000);
-});
+  //setInterval(get_messages_count, 10000);
+
+  $("#sb_subscribe").click(function(){
+     var email = $("#subscribe_email").val();
+     if($.trim(email) == ''){
+         alert('The Email address does not appear to be valid.');
+         $("#subscribe_email").focus();
+         return false;
+      }
+      
+      if(!Utils.isEmail(email)){
+         alert('The Email address does not appear to be valid.');
+         $("#subscribe_email").focus();
+         return false;
+      }
+  
+      $("#subscribe_email").val('');
+      
+      $.get("http://www.ianker.com/index.php",{is_ajax:'1',act:'subscribe',email:email},function(res){
+         if (res.error == 0) {
+            if(res.add_bucks) {
+              $.MessageShow("Thank you for your subscription. +"+res.bucks+" Anker Bucks");
+            } else {
+              alert("Thank you for your subscription.");
+            }
+         } else if (res.error == 2) {
+            alert("You have already subscribed.");
+         } else {   
+            alert("data error!"+res.err_msg);
+         }
+      },'JSON');
+  });
+});*/
 </script>
-<!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: View Through Visits
--->
+
+
 <script type="text/javascript" charset="utf-8">
-       var axel = Math.random() + "";
-            var a = axel * 2300000000;
-             $('body').append('<iframe src="http://4311532.fls.doubleclick.net/activityi;src=4311532;type=gener495;cat=viewt273;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-            </script>
+  var axel = Math.random() + "";
+  var a = axel * 2300000000;
+  $('body').append('<iframe src="http://4311532.fls.doubleclick.net/activityi;src=4311532;type=gener495;cat=viewt273;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
 
-<div class="header box_shadow clearfix">
-<div class="wrap">
-  <div class="block">
- 	<a class="logo" title="anker" href="http://www.ianker.com/"><img src="http://www.ianker.com/themes/anker/images/logo.png"></a>
-   <div class="header_right">
-      <div class="login"> <a rel="nofollow" href="http://www.ianker.com/login.html">Sign in</a> | <a rel="nofollow" href="http://www.ianker.com/register.html">Create Your Account</a> </div>
-   
-      
-   
-   <div class="clearfix"></div>
-   <div class="search">
-   <form action="http://www.ianker.com/search.php" method="get" name="advancedSearchForm" id="advancedSearchForm" onsubmit="return check_search();">
-			          <input type="text" class="s-txt txt" id="keywords" value="" maxlength="35" name="keywords">
-			          <input type="submit" class="s-btn search_btn" value="">
-			   </form>
-   </div>
-   
-   <div class="clearfix"></div>
-  </div>
-  
-    <div class="globle_nav clearfix">
-    <ul>
-      <li><span><em class="nav_slider_ico"></em>Products</span>
-      	<div class="globle_nav_list tab_box">
-   				<div class="globle_nav_list_selector">            	
-                	<p class="hover">Browse by <strong>product</strong></p> 
-                    <p>Browse by <strong>device</strong></p>
-            </div>
-            <div class="globle_nav_list_box">
-        		<div class="globle_nav_box globle_nav_box_hover">  
-           	            	 <dl class="Power_dl">
-            	<dt><em class="Power_ico"></em>Power</dt>
-            	            	<dd><a href="http://www.ianker.com/External-Batteries/category-c1-s1">• External Batteries</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Chargers/category-c7-s1">• Chargers</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Cell-Phone-Batteries/category-c5-s3">• Cell Phone Batteries</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Laptop-Batteries/category-c4-s3">• Laptop Batteries</a></dd>
-            	             </dl>
-                        	 <dl class="Connectivity_dl">
-            	<dt><em class="Connectivity_ico"></em>Connectivity</dt>
-            	            	<dd><a href="http://www.ianker.com/USB-3.0-Hubs/category-c11-s1">• USB 3.0 Hubs</a></dd>
-            	            	<dd><a href="http://www.ianker.com/USB-3.0-Card-Readers/category-c12-s1">• USB 3.0 Card Readers</a></dd>
-            	            	<dd><a href="http://www.ianker.com/USB-3.0-SATA-Devices/category-c14-s1">• USB 3.0 SATA Devices</a></dd>
-            	            	<dd><a href="http://www.ianker.com/USB-3.0-PCI-E-Cards/category-c13-s1">• USB 3.0 PCI-E Cards</a></dd>
-            	            	<dd><a href="http://www.ianker.com/USB-Accessories/category-c15-s1">• USB Accessories</a></dd>
-            	             </dl>
-                        	 <dl class="Interface_dl">
-            	<dt><em class="Interface_ico"></em>Interface</dt>
-            	            	<dd><a href="http://www.ianker.com/Keyboards/category-c22-s1">• Keyboards</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Mice/category-c23-s1">• Mice</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Keyboard---Mouse-Combos/category-c70-s1">• Keyboard   Mouse Combos</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Bluetooth-Products/category-c56-s1">• Bluetooth Products</a></dd>
-            	             </dl>
-                        	 <dl class="Protection_dl">
-            	<dt><em class="Protection_ico"></em>Protection</dt>
-            	            	<dd><a href="http://www.ianker.com/Cases/category-c25-s1">• Cases</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Screen-Protectors/category-c26-s1">• Screen Protectors</a></dd>
-            	            	<dd><a href="http://www.ianker.com/Stands/category-c66-s1">• Stands</a></dd>
-            	             </dl>
-                         </div>
-            
-            	<div class="globle_nav_box">
-           	            	 <dl class="Phone_dl">
-            	<dt><em class="Phone_ico"></em>Phone</dt>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid1-di2">
-            	            	• iPhone 5s            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid1-di183">
-            	            	• iPhone 5c            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid1-di1">
-            	            	• iPhone 5            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid1-di107">
-            	            	• iPhone 4s            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid1-di108">
-            	            	• iPhone 4            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid3-di43">
-            	            	• Galaxy S4/Ⅳ            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid3-di56">
-            	            	• Galaxy S3/Ⅲ            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid3-di58">
-            	            	• Galaxy Note 3/Ⅲ            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid3-di57">
-            	            	• Galaxy Note 2/Ⅱ            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c62-s2-model-bid3-di73">
-            	            	• Galaxy  S5/Ⅴ            	            	</a></dd>
-            	            	<dd><a class="more" href="http://www.ianker.com/category-c62-s2-model">more</a></dd>
-            </dl>
-                       	 <dl class="Tablet_dl">
-            	<dt><em class="Tablet_ico"></em>Tablet</dt>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid1-di4973">
-            	            	• iPad Air            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid1-di4940">
-            	            	• iPad 4            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid1-di4939">
-            	            	• iPad 3            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid1-di4942">
-            	            	• iPad Mini 2            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid1-di4941">
-            	            	• iPad Mini            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid11-di4946">
-            	            	• Nexus 7            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid21-di4935">
-            	            	• Kindle Fire            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c64-s2-model-bid3-di4952">
-            	            	• Galaxy Tab 3 8'            	            	</a></dd>
-            	            	<dd><a class="more" href="http://www.ianker.com/category-c64-s2-model">more</a></dd>
-            </dl>
-                       	 <dl class="Laptop_dl">
-            	<dt><em class="Laptop_ico"></em>Laptop</dt>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid1-di6">
-            	            	• MacBook Pro 15-Inch            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid1-di8">
-            	            	• MacBook Pro 13-Inch            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid1-di13">
-            	            	• MacBook Pro 15.4-Inch            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid17-di29">
-            	            	• Pavilion            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid14-di15">
-            	            	• Inspiron            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid18-di31">
-            	            	• ThinkPad            	            	</a></dd>
-            	            	<dd>
-            	<a href="http://www.ianker.com/category-c63-s2-line-bid12-di2">
-            	            	• Aspire            	            	</a></dd>
-            	            	<dd><a class="more" href="http://www.ianker.com/category-c63-s2-line">more</a></dd>
-            </dl>
-                        </div>
-            
-			</div>
-              
-        </div>
-        
-      </li>
-      <li><a href="http://www.ianker.com/support/" class="tab_btn"><em class="nav_slider_ico"></em>Support</a></li>
-      <!--
-      <li><a href="http://www.ianker.com/forum.html" class="tab_btn"><em class="nav_slider_ico"></em>Forum</a></li>   
-      -->
-    </ul>
-  </div>
-   
-  </div>
-  
-  </div>
-  </div>
 
-<div id="follow_header" class="follow_header clearfix">
-<div class="follow_header_wrapper">
-<div class="wrap">
-<div class="block">
-<a rel="nofollow" class="follow_logo" href="http://www.ianker.com/"></a>
-<div class="globle_nav clearfix">
-    <ul>
-     <li><span><em class="nav_slider_ico"></em>Products</span>
-      	<div class="globle_nav_list tab_box">
-        	<div class="globle_nav_list_selector">
-                	<p class="hover">Browse by <strong>product</strong></p>
-                    <p>Browse by <strong>device</strong></p>
-            </div>
-			<div class="globle_nav_list_box">
-        		<div class="globle_nav_box globle_nav_box_hover">
-           	            	 <dl class="Power_dl">
-            	<dt><em class="Power_ico"></em>Power</dt>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/External-Batteries/category-c1-s1">• External Batteries</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Chargers/category-c7-s1">• Chargers</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Cell-Phone-Batteries/category-c5-s3">• Cell Phone Batteries</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Laptop-Batteries/category-c4-s3">• Laptop Batteries</a></dd>
-            	             </dl>
-                        	 <dl class="Connectivity_dl">
-            	<dt><em class="Connectivity_ico"></em>Connectivity</dt>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/USB-3.0-Hubs/category-c11-s1">• USB 3.0 Hubs</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/USB-3.0-Card-Readers/category-c12-s1">• USB 3.0 Card Readers</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/USB-3.0-SATA-Devices/category-c14-s1">• USB 3.0 SATA Devices</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/USB-3.0-PCI-E-Cards/category-c13-s1">• USB 3.0 PCI-E Cards</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/USB-Accessories/category-c15-s1">• USB Accessories</a></dd>
-            	             </dl>
-                        	 <dl class="Interface_dl">
-            	<dt><em class="Interface_ico"></em>Interface</dt>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Keyboards/category-c22-s1">• Keyboards</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Mice/category-c23-s1">• Mice</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Keyboard---Mouse-Combos/category-c70-s1">• Keyboard   Mouse Combos</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Bluetooth-Products/category-c56-s1">• Bluetooth Products</a></dd>
-            	             </dl>
-                        	 <dl class="Protection_dl">
-            	<dt><em class="Protection_ico"></em>Protection</dt>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Cases/category-c25-s1">• Cases</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Screen-Protectors/category-c26-s1">• Screen Protectors</a></dd>
-            	            	<dd><a rel="nofollow" href="http://www.ianker.com/Stands/category-c66-s1">• Stands</a></dd>
-            	             </dl>
-                         </div>
+
+<style>
+    #navMain .nolink:hover{text-decoration: none;}
+    .navHidden{
+        display: none !important;
+    }
+</style>
+
+<div id="nav">
+    <div id="navWrap">
+        <a id="navLogo" href="http://www.ianker.com/"><img src="http://asset.ianker.com/img/logo.png"></a>
+        <div id="navRight" class="pr">
             
-            	<div class="globle_nav_box">
-                        	 <dl class="Phone_dl">
-            	<dt><em class="Phone_ico"></em>Phone</dt>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid1-di2">
-            	            	• iPhone 5s            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid1-di183">
-            	            	• iPhone 5c            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid1-di1">
-            	            	• iPhone 5            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid1-di107">
-            	            	• iPhone 4s            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid1-di108">
-            	            	• iPhone 4            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid3-di43">
-            	            	• Galaxy S4/Ⅳ            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid3-di56">
-            	            	• Galaxy S3/Ⅲ            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid3-di58">
-            	            	• Galaxy Note 3/Ⅲ            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid3-di57">
-            	            	• Galaxy Note 2/Ⅱ            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c62-s2-model-bid3-di73">
-            	            	• Galaxy  S5/Ⅴ            	            	</a></dd>
-            	            	<dd><a rel="nofollow" class="more" href="http://www.ianker.com/category-c62-s2-model">more</a></dd>
-            </dl>
-                       	 <dl class="Tablet_dl">
-            	<dt><em class="Tablet_ico"></em>Tablet</dt>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid1-di4973">
-            	            	• iPad Air            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid1-di4940">
-            	            	• iPad 4            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid1-di4939">
-            	            	• iPad 3            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid1-di4942">
-            	            	• iPad Mini 2            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid1-di4941">
-            	            	• iPad Mini            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid11-di4946">
-            	            	• Nexus 7            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid21-di4935">
-            	            	• Kindle Fire            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c64-s2-model-bid3-di4952">
-            	            	• Galaxy Tab 3 8'            	            	</a></dd>
-            	            	<dd><a rel="nofollow" class="more" href="http://www.ianker.com/category-c64-s2-model">more</a></dd>
-            </dl>
-                       	 <dl class="Laptop_dl">
-            	<dt><em class="Laptop_ico"></em>Laptop</dt>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid1-di6">
-            	            	• MacBook Pro 15-Inch            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid1-di8">
-            	            	• MacBook Pro 13-Inch            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid1-di13">
-            	            	• MacBook Pro 15.4-Inch            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid17-di29">
-            	            	• Pavilion            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid14-di15">
-            	            	• Inspiron            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid18-di31">
-            	            	• ThinkPad            	            	</a></dd>
-            	            	<dd>
-            	<a rel="nofollow" href="http://www.ianker.com/category-c63-s2-line-bid12-di2">
-            	            	• Aspire            	            	</a></dd>
-            	            	<dd><a rel="nofollow" class="more" href="http://www.ianker.com/category-c63-s2-line">more</a></dd>
-            </dl>
-                        </div>
             
-            </div>
-            
+            <!-- 老导航用户登录状态 -->
+            <span id="navNotLogin" class="t-muted">
+                                    <a href="/login.html">SIGN IN</a><span> / </span>
+                    <a href="/register.html">REGISTER</a>
+                            </span>
+
+            <span id="nav-control" class="ml30"><i class="icon-align-justify"></i></span>
+
         </div>
-        
-      </li>
-      <li><a rel="nofollow" href="http://www.ianker.com/support/" class="tab_btn"><em class="nav_slider_ico"></em>Support</a></li>     
-      <!--
-      <li><a rel="nofollow" href="http://www.ianker.com/forum.php" class="tab_btn"><em class="nav_slider_ico"></em>Forum</a></li>
-      -->
-    </ul>
-    
-  </div>
- <div class="toggle_search">
-  <span class="toggle_search_ico"></span>
- <div class="search toggle_search_bar">
-  <form action="http://www.ianker.com/search.php" method="get" name="advancedSearchForm" id="advancedSearchForm" onsubmit="return check_search();">
-			          <input type="text" class="s-txt txt" id="keywords" value="" maxlength="35" name="keywords">
-			          <input type="submit" class="s-btn search_btn" value="">
-			   </form>
-   </div>
-   
-   </div>
-   
-         <div class="login"> <a href="http://www.ianker.com/login.html">Sign in</a> | <a href="http://www.ianker.com/register.html">Create Your Account</a> </div>
-   
-      
-  </div>
-  
- </div>
+        <ul id="navMain">
+            <li class="has-more">
+                <a href="javascript:;" class="nolink">POWER </a>
+                <div class="nav-sub1-cover">
+                </div>
+                <ul class="nav-sub1">
+                    <li class="active">
+                        <a href="javascript:;" class="nolink">Portable Chargers</a>
+                        <div class="nav-sub2-cover">
+                            <div class="nav-power">
+                                <a href="http://www.ianker.com/poweriq"><img src="http://asset.ianker.com/img/navPowerIQ.png"></a>
+                            </div>
+                        </div>
+                        <ul class="nav-sub2">
+                            <li>
+                                <a href="http://www.ianker.com/External-Batteries/category-c1-s1"><img src="http://asset.ianker.com/img/nav/external_batteries.jpg">
+                                    <p>
+                                        External Batteries
+                                    </p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.ianker.com/Battery-Cases/category-c77-s1"><img src="http://asset.ianker.com/img/nav/battery_cases.jpg">
+                                    <p>
+                                        Battery Cases
+                                    </p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.ianker.com/Solar-Chargers/category-c53-s1"><img src="http://asset.ianker.com/img/nav/solar_chargers.jpg">
+                                    <p>
+                                        Solar Chargers
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Home and Office Chargers</a>
+                        <div class="nav-sub2-cover">
+                            <div class="nav-power">
+                                <a href="http://www.ianker.com/poweriq"><img src="http://asset.ianker.com/img/navPowerIQ.png"></a>
+                            </div>
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Home-and-Office-Chargers/category-c78-s1"><img src="http://asset.ianker.com/img/nav/home_and_office_chargers.jpg">
+                                    <p>
+                                        Home and Office Chargers
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Car Chargers</a>
+                        <div class="nav-sub2-cover">
+                            <div class="nav-power">
+                                <a href="http://www.ianker.com/poweriq"><img src="http://asset.ianker.com/img/navPowerIQ.png"></a>
+                            </div>
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Car-Chargers/category-c82-s1"><img src="http://asset.ianker.com/img/nav/car_chargers.jpg">
+                                    <p>
+                                        Car Chargers
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Charging Cables</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Charging-Cables/category-c15-s1"><img src="http://asset.ianker.com/img/nav/charging_cables.jpg">
+                                    <p>
+                                        Charging Cables
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Replacement Batteries</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Laptop-Batteries/category-c4-s3"><img src="http://asset.ianker.com/img/nav/laptop.jpg">
+                                    <p>
+                                        Laptop
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Phone-Batteries/category-c5-s3"><img src="http://asset.ianker.com/img/nav/phone.jpg">
+                                    <p>
+                                        Phone
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="has-more">
+                <a href="javascript:;" class="nolink">ACCESSORIES</a>
+                <div class="nav-sub1-cover">
+                </div>
+                <ul class="nav-sub1">
+                    <li class="active">
+                        <a href="javascript:;" class="nolink">Interface</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2 active">
+                            <li><a href="http://www.ianker.com/Keyboards/category-c85-s1"><img src="http://asset.ianker.com/img/nav/keyboards.jpg">
+                                    <p>
+                                        Keyboards
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Mice/category-c23-s1"><img src="http://asset.ianker.com/img/nav/mice.jpg">
+                                    <p>
+                                        Mice
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Audio/category-c56-s1"><img src="http://asset.ianker.com/img/nav/audio.jpg">
+                                    <p>
+                                        Audio
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Protection</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/Cases/category-c25-s1"><img src="http://asset.ianker.com/img/nav/cases.jpg">
+                                    <p>
+                                        Cases
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Screen-Protectors/category-c26-s1"><img src="http://asset.ianker.com/img/nav/screen_protectors.jpg">
+                                    <p>
+                                        Screen Protectors
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/Stands/category-c66-s1"><img src="http://asset.ianker.com/img/nav/stands.jpg">
+                                    <p>
+                                        Stands
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">Connectivity</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/USB-Data-Hubs/category-c11-s1"><img src="http://asset.ianker.com/img/nav/usb_data_hubs.jpg">
+                                    <p>
+                                        USB Data Hubs
+                                    </p>
+                                </a></li>
+                            <li><a href="http://www.ianker.com/USB-Adapters/category-c80-s1"><img src="http://asset.ianker.com/img/nav/usb_adapters.jpg">
+                                    <p>
+                                        USB Adapters
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="nolink">AnkerCam</a>
+                        <div class="nav-sub2-cover">
+                        </div>
+                        <ul class="nav-sub2">
+                            <li><a href="http://www.ianker.com/ankercam.php"><img src="http://asset.ianker.com/img/nav/ip_camera.jpg">
+                                    <p>
+                                        IP Camera
+                                    </p>
+                                </a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><a href="http://www.ianker.com/Collections/category-c86-s1" class="nolink">COLLECTIONS </a></li>
+            <li id="navDeviceWrap" class="has-more pr"><a href="javascript:;" class="nolink">MY DEVICE</a>
+                <div id="navDevice" class="nav-sub1">
+
+                                        <ul class="device-item">
+                        <li class="tc mt30 lh200 w70"><span class="icon-uniE64C"></span>
+                            <p class="f12">
+                                Phone                            </p>
+                        </li>
+                        
+                        <li class="w200">
+                            <ul>
+                                                                                                <li><a href="/category-c62-s2-model-bid1-di70">iPhone 6</a></li>
+                                                                                                <li><a href="/category-c62-s2-model-bid1-di5029">iPhone 6 Plus</a></li>
+                                                                                                <li><a href="/category-c62-s2-model-bid1-di2">iPhone 5s</a></li>
+                                                                                                <li><a href="/category-c62-s2-model-bid1-di183">iPhone 5c</a></li>
+                                                                                                    </ul></li><li class="w200"><ul>
+                                                                <li><a href="/category-c62-s2-model-bid1-di1">iPhone 5</a></li>
+                                                                                                <li><a href="/category-c62-s2-model-bid3-di5028">Galaxy Note 4</a></li>
+                                                                                                <li><a href="/category-c62-s2-model-bid3-di58">Galaxy Note 3</a></li>
+                                                                                                <li><a href="/category-c62-s2-model-bid3-di73">Galaxy  S5</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="/category-c62-s2-model" class="btn btn-primery">More </a></li>
+                    </ul>
+                                        <ul class="device-item">
+                        <li class="tc mt30 lh200 w70"><span class="icon-uniE64B"></span>
+                            <p class="f12">
+                                Tablet                            </p>
+                        </li>
+                        
+                        <li class="w200">
+                            <ul>
+                                                                                                <li><a href="/category-c64-s2-model-bid1-di5032">iPad Air 2</a></li>
+                                                                                                <li><a href="/category-c64-s2-model-bid1-di4973">iPad Air</a></li>
+                                                                                                <li><a href="/category-c64-s2-model-bid1-di4940">iPad 4</a></li>
+                                                                                                <li><a href="/category-c64-s2-model-bid1-di4939">iPad 3</a></li>
+                                                                                                    </ul></li><li class="w200"><ul>
+                                                                <li><a href="/category-c64-s2-model-bid1-di5033">iPad Mini 3</a></li>
+                                                                                                <li><a href="/category-c64-s2-model-bid1-di4942">iPad Mini 2</a></li>
+                                                                                                <li><a href="/category-c64-s2-model-bid1-di4941">iPad Mini</a></li>
+                                                                                                <li><a href="/category-c64-s2-model-bid11-di4946">Nexus 7</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="/category-c64-s2-model" class="btn btn-primery">More </a></li>
+                    </ul>
+                                        <ul class="device-item">
+                        <li class="tc mt30 lh200 w70"><span class="icon-uniE64A"></span>
+                            <p class="f12">
+                                Laptop                            </p>
+                        </li>
+                        
+                        <li class="w200">
+                            <ul>
+                                                                                                <li><a href="/category-c63-s2-line-bid1-di6">MacBook Pro 15-Inch</a></li>
+                                                                                                <li><a href="/category-c63-s2-line-bid1-di8">MacBook Pro 13-Inch</a></li>
+                                                                                                <li><a href="/category-c63-s2-line-bid1-di13">MacBook Pro 15.4-Inch</a></li>
+                                                                                                <li><a href="/category-c63-s2-line-bid17-di29">Pavilion</a></li>
+                                                                                                    </ul></li><li class="w200"><ul>
+                                                                <li><a href="/category-c63-s2-line-bid14-di15">Inspiron</a></li>
+                                                                                                <li><a href="/category-c63-s2-line-bid18-di31">ThinkPad</a></li>
+                                                                                                <li><a href="/category-c63-s2-line-bid12-di2">Aspire</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="/category-c63-s2-line" class="btn btn-primery">More </a></li>
+                    </ul>
+                                        
+                </div>
+            </li>
+            <li><a href="/support" class="nolink">SUPPORT </a></li>
+        </ul>
+    </div>
 </div>
-</div>
+<div id="navGap" class="cb"></div>
+
+
+
+
+
 
 <div class="wrap">
 <div class="block clearfix">
@@ -543,76 +524,132 @@ This policy was last modified on 9/5/2013
  
 </div>
 
-<div class="footer_top clearfix">
-	<div class="block">
-1-800-988-7973 (US)  Mon-Fri 9am-5pm (PST) 	<a href="mailto:support@ianker.com">support@ianker.com</a> 
-	</div>
-</div>
-<div class="footer clearfix">
-<div class="wrap">
-	<div class="block clearfix">
-    <div class="footer_link clearfix">    	
-        <dl>
-           <dt>Best Sellers</dt>
-            <dd><a href="http://www.ianker.com/product/79ANS1052-BA">Astro 3E</a></dd>
-            <dd><a href="http://www.ianker.com/product/79AN13K-BA">Astro E4</a></dd>
-            <dd><a href="http://www.ianker.com/product/71AN1852C-WA">Car Charger</a></dd>
-            <dd><a href="http://www.ianker.com/product/98ANDS2368-BA">Gaming Mouse</a></dd>
-        </dl>
-        <dl>
-        <dt>About Us</dt>
-            <dd><a rel="nofollow" href="http://www.ianker.com/about_us.html">Our Company</a></dd>
-            <dd><a rel="nofollow" href="http://www.ianker.com/media_coverage.html">Press Center</a></dd>
-            <dd><a rel="nofollow" href="http://www.ianker.com/contact.html">Contact Anker</a></dd>
-            <dd><a rel="nofollow" href="http://www.ianker.com/business.html">Wholesale</a></dd>
-            <!--<dd><a rel="nofollow" href="http://www.ianker.com/sitemap.xml">XML Sitemap</a></dd>-->
-        </dl>
-        <dl>
-        <dt>Support</dt>        
-            <dd><a rel="nofollow" href="http://www.ianker.com/support/">Drivers &amp; Downloads</a></dd>                
-            <dd><a rel="nofollow" href="http://www.ianker.com/Warranty.html">Customer Service</a></dd>        
-            <dd><a rel="nofollow" href="http://www.ianker.com/policy.html">Privacy Policy</a></dd>
-            <dd><a rel="nofollow" href="http://www.ianker.com/terms_of_service.html">Terms of Service</a></dd>             
-        </dl>
-    </div>
-    
-    <div class="footer_info">
-	<div class="show_language">
-    	<p>Please select a language</p>
-        <div class="language"> 
-                                   		English                                      <ul>
-          		            <li><a href="http://jp.ianker.com">日本語</a></li>            	                        	            <li><a href="http://de.ianker.com">Deutsch</a></li>                      </ul>
+<style>
+    iframe{position: absolute; bottom: 0; z-index: -1;}
+    #videoCover iframe{bottom: auto;z-index: 0;}
+</style>
+
+<div id="footer">
+    <p id="footerTop" class="tc">
+        1-800-988-7973 (US) Mon-Fri 9am-5pm (PST) support@ianker.com
+    </p>
+    <div class="wrap">
+        <div id="footerLeft">
+            <ul class="inline">
+                <li>
+                    <p>
+                        Best Sellers
+                    </p>
+                    <a href="http://www.ianker.com/product/79AN7917-BA">Astro 3E</a>
+                    <a href="http://www.ianker.com/product/79AN7904S-BA">2nd Gen Astro3</a>
+                    <a href="http://www.ianker.com/product/99ANSP9901-BSA">Bluetooth Speaker</a>
+                    <a href="http://www.ianker.com/product/71AN7111-W5A">25W Wall Charger</a>
+                </li>
+                <li>
+                    <p>
+                        About Us
+                    </p>
+                    <a rel="nofollow" href="http://www.ianker.com/about_us.html">Our Company</a>
+                    <a rel="nofollow" href="http://www.ianker.com/media_coverage.html">Press Center</a>
+                    <a rel="nofollow" href="http://www.ianker.com/contact.html">Contact Anker</a>
+                    <a rel="nofollow" href="http://www.ianker.com/business.html">Wholesale</a>
+                </li>
+                <li>
+                    <p>
+                        Support
+                    </p>
+                    <a rel="nofollow" href="http://www.ianker.com/support/">Drivers &amp; Downloads</a>
+                    <a rel="nofollow" href="http://www.ianker.com/Warranty.html">Customer Service</a>
+                    <a rel="nofollow" href="http://www.ianker.com/policy.html">Privacy Policy</a>
+                    <a rel="nofollow" href="http://www.ianker.com/terms_of_service.html">Terms of Service</a>
+                </li>
+            </ul>
+        </div>
+        <div id="footerRight">
+            <p>
+                Please select a language
+            </p>
+                        <select name="lang" id="select_lang">
+                                <option value="http://www.ianker.com" selected="">English</option>
+                                <option value="http://jp.ianker.com">日本語</option>
+                                <option value="http://de.ianker.com">Deutsch</option>
+                            </select>
+            
+            <div id="footerLinks">
+                <a href="http://www.facebook.com/Anker.fans" target="_blank"><span class="icon-facebook-square"></span></a>
+                <a href="https://twitter.com/Ankerofficial" target="_blank"><span class="icon-twitter-square"></span></a>
+                <a href="https://plus.google.com/114663344536204280808" target="_blank"><span class="icon-google-plus-square"></span></a>
+                <a href="http://www.youtube.com/user/AnkerOceanwing" target="_blank"><span class="icon-youtube-square"></span></a>
+            </div>
         </div>
     </div>
-    
-    <div class="follow_us">
-        <p><a rel="nofollow" target="_blank" href="http://www.facebook.com/Anker.fans" class="fb"></a><a rel="nofollow" target="_blank" href="https://twitter.com/Ankerofficial" class="tw"></a><a rel="nofollow" target="_blank" href="http://www.youtube.com/user/AnkerOceanwing" class="yb"></a></p>
-    </div>
-    
-    </div>
-      
-    </div>
 </div>
-</div>
+<script type="text/javascript">
+    $("#select_lang").change(function(){
+        location.href = $(this).val();
+    });
+</script>
+
 
 
 <script type="text/javascript">
-adroll_adv_id = "GDUGA27L55AUDBA7ICRHW4";
-adroll_pix_id = "YPYSBWCBQRCPXOQ7J4MR5H";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+    adroll_adv_id = "GDUGA27L55AUDBA7ICRHW4";
+    adroll_pix_id = "YPYSBWCBQRCPXOQ7J4MR5H";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function () {
+            __adroll_loaded = true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if (oldonload) {
+                oldonload()
+            }
+        };
+    }());
 </script>
+
+
+
+<script>(function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '1505233346356112']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1505233346356112&amp;ev=NoScript" /></noscript>
+
+
+<img src="http://s.amazon-adsystem.com/iui3?d=3p-hbg&amp;ex-src=ianker.com&amp;ex-hargs=v%3D1.0%3Bc%3D1760794208504%3Bp%3Da8d851c2-fcac-140d-b1f3-12e8ee2778e8" width="1" height="1" border="0">
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961408788;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961408788/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
  <script type="text/javascript" src="http://www.ianker.com/js/fantasia/jquery.json-2.3.js"></script>
 <script type="text/javascript" src="http://www.ianker.com/js/common.js"></script>
 <script type="text/javascript" src="http://www.ianker.com/js/utils.js"></script>
@@ -685,8 +722,13 @@ window.onload = function(){
 			
 			
 		}
+    var sub_box_close = function() {
+        $("#subscribebox").dialog("close");
+    }
 	function subscribe_submit(){
 			var email = document.getElementsByName('subscribe_email')[0];
+			var country = document.getElementsByName('country')[0];
+			var name = document.getElementsByName('name')[0];
 			
 			if(email.value.Trim() == '' || email.value == 'Enter your email address'){
 				sb_show_error("subscribe_email","email");
@@ -704,7 +746,7 @@ window.onload = function(){
 		   {
 		      if (res.error == 0)
 		      {
-		      		alert("Thank you for your subscription!");
+		      		$("#inner_subscribebox").html('<div style="padding:70px 0;color:green;text-align: center;"><p>Thank you for your subscription.</p><div class="obtn_row" style="overflow: hidden; width: 100%; padding: 10px 0px;"><input type="button" value="OK" class="obtn btn sb_btn" onclick="sub_box_close()" style="float: none;"></div></div>');
 		    		if(res.add_bucks)
 		    		{
 		    			$.MessageShow("+"+res.bucks+" Anker Bucks");
@@ -712,15 +754,17 @@ window.onload = function(){
 		      }
 		      else if (res.error == 2)
 		      {
-		      		alert("You had subscribed yet!");
+		          $("#inner_subscribebox").html('<div style="padding: 70px 0px; color: green; text-align: center;"><p>You have already subscribed.</p><div class="obtn_row" style="overflow: hidden; width: 100%; padding: 10px 0px;"><input type="button" value="OK" class="obtn btn sb_btn" onclick="sub_box_close()" style="float: none;"></div></div>');
+		      		//alert("You have already subscribed.");
 		      }
 		      else
-		      {
-		    	    alert("data error!"+res.err_msg);
+		      {   
+		          $("#inner_subscribebox").html('<div style="padding:70px 0;color:red;text-align: center;"><p>data error!'+res.err_msg+'</p><div class="obtn_row" style="overflow: hidden; width: 100%; padding: 10px 0px;"><input type="button" value="OK" class="obtn btn sb_btn" onclick="sub_box_close()" style="float: none;"></div></div>');
+		    	    //alert("data error!"+res.err_msg);
 		      }
-		      $("#subscribebox").dialog("close");
+		      //$("#subscribebox").dialog("close");
 		   }
-		  Ajax.call('http://www.ianker.com/index.php?is_ajax=1&act=subscribe', 'email='+email.value, callback, "GET", "JSON");
+		  Ajax.call('http://www.ianker.com/index.php?is_ajax=1&act=subscribe', 'email='+email.value+'&country='+country.value+'&name='+name.value, callback, "GET", "JSON");
 		}
 function sb_show_error(id,type){
 	sb_clear_error();
@@ -773,13 +817,10 @@ function check_input(obj)
 	}
 }
 </script>
-<div class="follow_bar">
-	<a class="follow_ico subscribe" id="subscribe" title="subscribe"></a>
-    <a class="follow_ico feedback" id="feedback" title="Contact Us"></a>
-</div>
 
 <a id="ScrollTopBtn" class="ui-scrolltop" title="Back To Top">Back To Top</a>
 <div id="subscribebox" title="Subscribe">
+<div id="inner_subscribebox" style="min-height:230px">
   <p><br>
 Submit your email address here to subscribe the latest information regularly about our promotion activities and new products.<br>
 <br>
@@ -787,15 +828,227 @@ Submit your email address here to subscribe the latest information regularly abo
  <div class="m-form">
 <form name="subscribe_form" class="form" id="subscribe_form">
    <p>
-   <input type="text" class="txt" name="subscribe_email"></p>
-   <p><font name="subscribe_email_error" class="red"></font></p>
+   <label>Name:</label><br>
+   <input type="text" class="txt" name="name">
+   </p>
+   <p>
+   <label>Email Address:</label><br>
+   <input type="text" class="txt" name="subscribe_email"><br>
+<font name="subscribe_email_error" class="red"></font></p>
+   <p><label>Location:</label><br>
+            <select class="txt" name="country">
+             		<option label="Afghanistan" value="AF">Afghanistan</option>
+<option label="Anguilla" value="AI">Anguilla</option>
+<option label="Argentina" value="AR">Argentina</option>
+<option label="Armenia" value="AM">Armenia</option>
+<option label="Aruba" value="AW">Aruba</option>
+<option label="Australia" value="AU">Australia</option>
+<option label="Austria" value="AT">Austria</option>
+<option label="Azerbaijan" value="AZ">Azerbaijan</option>
+<option label="Bahamas" value="BS">Bahamas</option>
+<option label="Bahrain" value="BH">Bahrain</option>
+<option label="Bangladesh" value="BD">Bangladesh</option>
+<option label="Barbados" value="BB">Barbados</option>
+<option label="Belarus" value="BY">Belarus</option>
+<option label="Belgium" value="BE">Belgium</option>
+<option label="Belize" value="BZ">Belize</option>
+<option label="Benin" value="BJ">Benin</option>
+<option label="Bermuda" value="BM">Bermuda</option>
+<option label="Bhutan" value="BT">Bhutan</option>
+<option label="Bolivia" value="BO">Bolivia</option>
+<option label="Bouvet Islands" value="BV">Bouvet Islands</option>
+<option label="Brazil" value="BR">Brazil</option>
+<option label="British Indian Ocean Territory" value="IO">British Indian Ocean Territory</option>
+<option label="British Virgin Islands" value="VI">British Virgin Islands</option>
+<option label="Brunei" value="BN">Brunei</option>
+<option label="Bulgaria" value="BG">Bulgaria</option>
+<option label="Burkina Faso" value="BF">Burkina Faso</option>
+<option label="Burundi" value="BI">Burundi</option>
+<option label="Cambodia" value="KH">Cambodia</option>
+<option label="Cameroon" value="CM">Cameroon</option>
+<option label="Canada" value="CA">Canada</option>
+<option label="Cape Verde" value="CV">Cape Verde</option>
+<option label="Cayman Islands" value="KY">Cayman Islands</option>
+<option label="Central African Republic" value="CF">Central African Republic</option>
+<option label="Chad" value="TD">Chad</option>
+<option label="Chile" value="CL">Chile</option>
+<option label="China" value="CN">China</option>
+<option label="Colombia" value="CO">Colombia</option>
+<option label="Comoros" value="KM">Comoros</option>
+<option label="Congo" value="CG">Congo</option>
+<option label="Costa Rica" value="CR">Costa Rica</option>
+<option label="Cote D'Ivorie" value="CI">Cote D'Ivorie</option>
+<option label="Croatia" value="HR">Croatia</option>
+<option label="Cyprus" value="CY">Cyprus</option>
+<option label="Czech Republic" value="CZ">Czech Republic</option>
+<option label="Denmark" value="DK">Denmark</option>
+<option label="Djibouti" value="DJ">Djibouti</option>
+<option label="Dominica" value="DM">Dominica</option>
+<option label="Dominican Republic" value="DO">Dominican Republic</option>
+<option label="Egypt" value="EG">Egypt</option>
+<option label="El Salvador" value="SV">El Salvador</option>
+<option label="Equador" value="EC">Equador</option>
+<option label="Equatorial Guinea" value="GQ">Equatorial Guinea</option>
+<option label="Eritrea" value="ER">Eritrea</option>
+<option label="Estonia" value="EE">Estonia</option>
+<option label="Ethiopia" value="ET">Ethiopia</option>
+<option label="Falkland Islands" value="FK">Falkland Islands</option>
+<option label="Faroe Islands" value="FO">Faroe Islands</option>
+<option label="Federated States of Micronesia" value="FM">Federated States of mironesia</option>
+<option label="Fiji" value="FJ">Fiji</option>
+<option label="Finland" value="FI">Finland</option>
+<option label="France" value="FR">France</option>
+<option label="French Guiana" value="GF">French Guiana</option>
+<option label="French Polynesia" value="PF">French Polynesia</option>
+<option label="Gabon" value="GA">Gabon</option>
+<option label="Gambia" value="GM">Gambia</option>
+<option label="Georgia" value="GE">Georgia</option>
+<option label="Germany" value="DE">Germany</option>
+<option label="Ghana" value="GH">Ghana</option>
+<option label="Gibraltar" value="GI">Gibraltar</option>
+<option label="Greece" value="GR">Greece</option>
+<option label="Greenland" value="GL">Greenland</option>
+<option label="Grenada" value="GD">Grenada</option>
+<option label="Guadeloupe" value="GP">Guadeloupe</option>
+<option label="Guam" value="GU">Guam</option>
+<option label="Guatemala" value="GT">Guatemala</option>
+<option label="Guinea" value="GN">Guinea</option>
+<option label="Guinea-Bissau" value="GW">Guinea-Bissau</option>
+<option label="Guyana" value="GY">Guyana</option>
+<option label="Haiti" value="HT">Haiti</option>
+<option label="Honduras" value="HN">Honduras</option>
+<option label="Hong Kong" value="HK">Hong Kong</option>
+<option label="Hungary" value="HU">Hungary</option>
+<option label="Iceland" value="IS">Iceland</option>
+<option label="India" value="IN">India</option>
+<option label="Indonesia" value="ID">Indonesia</option>
+<option label="Ireland, Republic of" value="IE">Republic of Ireland</option>
+<option label="Israel" value="IL">Israel</option>
+<option label="Italy" value="IT">Italy</option>
+<option label="Jamaica" value="JM">Jamaica</option>
+<option label="Japan" value="JP">Japan</option>
+<option label="Jordan" value="JO">Jordan</option>
+<option label="Kazakhstan" value="KZ">Kazakhstan</option>
+<option label="Kenya" value="KE">Kenya</option>
+<option label="Kiribati" value="KI">Kiribati</option>
+<option label="Kuwait" value="KW">Kuwait</option>
+<option label="Kyrgyzstan" value="KG">Kyrgyzstan</option>
+<option label="Laos" value="LA">Laos</option>
+<option label="Latvia" value="LV">Latvia</option>
+<option label="Lebanon" value="LB">Lebanon</option>
+<option label="Lesotho" value="LS">Lesotho</option>
+<option label="Liberia" value="LR">Liberia</option>
+<option label="Liechtenstein" value="LI">Liechtenstein</option>
+<option label="Lithuania" value="LT">Lithuania</option>
+<option label="Luxembourg" value="LU">Luxembourg</option>
+<option label="Macau" value="MO">Macau</option>
+<option label="Madagascar" value="MG">Madagascar</option>
+<option label="Malawi" value="MW">Malawi</option>
+<option label="Malaysia" value="MY">Malaysia</option>
+<option label="Maldives" value="MV">Maldives</option>
+<option label="Mali" value="ML">Mali</option>
+<option label="Malta" value="MT">Malta</option>
+<option label="Marshall Islands" value="MH">Marshall Islands</option>
+<option label="Martinique" value="MQ">Martinique</option>
+<option label="Mauritania" value="MR">Mauritania</option>
+<option label="Mayotte" value="YT">Mayotte</option>
+<option label="Metropolitan France" value="FX">Metropolitan France</option>
+<option label="Mexico" value="MX">Mexico</option>
+<option label="Moldova" value="MD">Moldova</option>
+<option label="Mongolia" value="MN">Mongolia</option>
+<option label="Morocco" value="MA">Morocco</option>
+<option label="Mozambique" value="MZ">Mozambique</option>
+<option label="Namibia" value="NA">Namibia</option>
+<option label="Nauru" value="NR">Nauru</option>
+<option label="Nepal" value="NP">Nepal</option>
+<option label="Neterlands Antilles" value="AN">Neterlands Antilles</option>
+<option label="Netherlands" value="NL">Netherlands</option>
+<option label="New Caledonia" value="NC">New Caledonia</option>
+<option label="New Zealand" value="NZ">New Zealand</option>
+<option label="Nicaragua" value="NI">Nicaragua</option>
+<option label="Niger" value="NE">Niger</option>
+<option label="Nigeria" value="NG">Nigeria</option>
+<option label="Northern Mariana Islands" value="MP">Northern Mariana Islands</option>
+<option label="Norway" value="NO">Norway</option>
+<option label="Oman" value="OM">Oman</option>
+<option label="Pakistan" value="PK">Pakistan</option>
+<option label="Palau" value="PW">Palau</option>
+<option label="Panama" value="PA">Panama</option>
+<option label="Papua New Guinea" value="PG">Papua New Guinea</option>
+<option label="Paraguay" value="PY">Paraguay</option>
+<option label="Peru" value="PE">Peru</option>
+<option label="Philippines" value="PH">Philippines</option>
+<option label="Pitcairn" value="PN">Pitcairn</option>
+<option label="Poland" value="PL">Poland</option>
+<option label="Portugal" value="PT">Portugal</option>
+<option label="Puerto Rico" value="PR">Puerto Rico</option>
+<option label="Qatar" value="QA">Qatar</option>
+<option label="Republic of Korea" value="KR">Republic of Korea</option>
+<option label="Republic of Macedonia" value="MK">Republic of Macedonia</option>
+<option label="Reunion" value="RE">Reunion</option>
+<option label="Romania" value="RO">Romania</option>
+<option label="Russia" value="RU">Russia</option>
+<option label="Sao Tome and Principe" value="ST">Sao Tome and Principe</option>
+<option label="Saudi Arabia" value="SA">Saudi Arabia</option>
+<option label="Senegal" value="SN">Senegal</option>
+<option label="Seychelles" value="SC">Seychelles</option>
+<option label="Singapore" value="SG">Singapore</option>
+<option label="Slovakia" value="SK">Slovakia</option>
+<option label="Slovenia" value="SI">Slovenia</option>
+<option label="Solomon Islands" value="SB">Solomon Islands</option>
+<option label="Somalia" value="SO">Somalia</option>
+<option label="South Africa" value="ZA">South Africa</option>
+<option label="Spain" value="ES">Spain</option>
+<option label="Sri Lanka" value="LK">Sri Lanka</option>
+<option label="St. Helena" value="SH">St. Helena</option>
+<option label="St. Kitts and Nevis" value="KN">St. Kitts and Nevis</option>
+<option label="St. Lucia" value="LC">St. Lucia</option>
+<option label="St. Vincent and the Grenadines" value="VC">St. Vincent and the Grenadines</option>
+<option label="Sudan" value="SD">Sudan</option>
+<option label="Suriname" value="SR">Suriname</option>
+<option label="Svalbard and Jan Mayen Islands" value="SJ">Svalbard and Jan Mayen Islands</option>
+<option label="Swaziland" value="SZ">Swaziland</option>
+<option label="Sweden" value="SE">Sweden</option>
+<option label="Switzerland" value="CH">Switzerland</option>
+<option label="Syria" value="SY">Syria</option>
+<option label="Taiwan" value="TW">Taiwan</option>
+<option label="Tajikistan" value="TJ">Tajikistan</option>
+<option label="Tanzania" value="TZ">Tanzania</option>
+<option label="Thailand" value="TH">Thailand</option>
+<option label="Togo" value="TG">Togo</option>
+<option label="Tonga" value="TO">Tonga</option>
+<option label="Trinidad and Tobago" value="TT">Trinidad and Tobago</option>
+<option label="Turkey" value="TR">Turkey</option>
+<option label="Turkmenistan" value="TM">Turkmenistan</option>
+<option label="Turks and Caicos Islands" value="TC">Turks and Caicos Islands</option>
+<option label="Tuvalu" value="TV">Tuvalu</option>
+<option label="Uganda" value="UG">Uganda</option>
+<option label="Ukraine" value="UA">Ukraine</option>
+<option label="United Arab Emirates" value="AE">United Arab Emirates</option>
+<option label="United Kingdom" value="UK">United Kingdom</option>
+<option label="United States" value="US" selected="selected">United States</option>
+<option label="Uruguay" value="UY">Uruguay</option>
+<option label="Uzbekistan" value="UZ">Uzbekistan</option>
+<option label="Vanuatu" value="VU">Vanuatu</option>
+<option label="Vatican City" value="VA">Vatican City</option>
+<option label="Venezuela" value="VE">Venezuela</option>
+<option label="Vietnam" value="VN">Vietnam</option>
+<option label="Western Sahara" value="EH">Western Sahara</option>
+<option label="Yemen" value="YE">Yemen</option>
+<option label="Yugoslavia" value="YU">Yugoslavia</option>
+<option label="Zaire" value="ZR">Zaire</option>
+<option label="Zambia" value="ZM">Zambia</option>
+<option label="Zimbabwe" value="ZW">Zimbabwe</option>
+              </select>
+            </p>
    <p><input type="button" value="Subscribe" onclick="subscribe_submit()" class="btn sb_btn">
    </p>
 </form>
 </div>
 </div>
+</div>
 
-<div id="feedbackbox" title="Contact Us">
+<div id="feedbackbox" title="Feedback">
 <p>
 Thanks for taking the time to visit our site. If you have general questions and suggestions, we’d love to hear from you through the form below.<br>For more specific inquiries relating to customer service, wholesale, or media requests, feel free to visit our <a rel="nofollow" href="http://www.ianker.com/contact.html">contact us</a> page. <br>
 <br>
@@ -866,7 +1119,6 @@ ADGEAR.tags.data.embed({"id": "246", "chip_key": "3bbee4302ed50131d9c20024e87a30
 Start of DoubleClick Floodlight Tag: Please do not remove
 Activity name of this tag: View Through Visits
 --> 
-<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=jyi5ornp5e25wlvomun6lnvffy"></script>
  
 <script type="text/javascript">
 var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
