@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botb.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609004532id_/http%3A//www.botb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botb.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103190608id_/http%3A//www.botb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # botb.com - privacy policy
 
@@ -8,7 +8,7 @@
 
 When you place orders or access account information, we use a secure server. The secure server software (EV SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of your information, to prevent unauthorised access.If you have any further questions about our credit card security policies, please contact us.
 
-Note: If you still have questions about entering our competitions online, please call our Customer Services Department on **0207 371 8866** (International +44 (0)207 371 8866) or send an email to [info@ **botb.com**](mailto:info@%3Cb%3Ebotb.com%3C/b%3E).
+Note: If you still have questions about entering our competitions online, please call our Customer Services Department on **0207 371 8866** (International +44 (0)20 7371 8866) or send an email to [info@ **botb.com**](mailto:info@%3Cb%3Ebotb.com%3C/b%3E).
 
 ### What information do we gather and what do we do with it?
 
