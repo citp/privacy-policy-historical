@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marianos.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503141845id_/http%3A//www.marianos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marianos.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104051557id_/http%3A//www.marianos.com/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
 **Roundy's Supermarkets, Inc. Online Privacy Statement   **
 
-Roundy's Supermarkets, Inc. (â€œRoundy'sâ€) respects your concern for online privacy and has adopted the following Online Privacy Statement. This Statement explains the online data collection and disclosure policies and practices of Roundy's websites including: PicknSave.com, Copps.com, RainbowFoods.com, MetroMarket.net, Marianos.com, and Roundys.com (collectively, the â€œRoundy's Sitesâ€). Your use of any of the Roundy's Sites indicates your acceptance of this Statement. If you do not consent to this Statement, please immediately cease using any of the Roundy's Sites. We reserve the right, at any time, to modify this Privacy Statement.
+Roundy's Supermarkets, Inc. (â€œRoundy'sâ€) respects your concern for online privacy and has adopted the following Online Privacy Statement. This Statement explains the online data collection and disclosure policies and practices of Roundy's websites including: PicknSave.com, Copps.com, MetroMarket.net, Marianos.com, and Roundys.com (collectively, the â€œRoundy's Sitesâ€). Your use of any of the Roundy's Sites indicates your acceptance of this Statement. If you do not consent to this Statement, please immediately cease using any of the Roundy's Sites. We reserve the right, at any time, to modify this Privacy Statement.
 
  **Visitor and Session Tracking  
 ** Roundy's tracks the total number of visitors to our Sites allowing for proper administration and improvements. Cookies (pieces of data stored in your hardware) are used to track information including browser type, operating system, IP address, and domain names, as well as logged in status, store selection, and other non-personally identifiable selections, in order to provide a customized experience. Some functionality within the Sites will not work properly if your browser does not accept cookies.
@@ -61,7 +61,7 @@ If you wish to receive a Wireless Marketing Service, you must expressly consent 
 
  **Roundy's Supermarkets, Inc. Online Terms of Use**
 
-The following websites: PicknSave.com, Copps.com, RainbowFoods.com, MetroMarket.net, Marianos.com, and Roundys.com (collectively, the â€œRoundy's Sitesâ€) are made available to you by Roundyâ€™s Supermarkets, Inc. (â€œRoundyâ€™sâ€) for the purposes of finding store locations, planning shopping trips, and learning about the practices and operations of Roundyâ€™s stores. By using the Roundyâ€™s Sites, you are entering a binding agreement between you and Roundyâ€™s. Roundyâ€™s reserves the right, at any time, to modify these Terms of Use.
+The following websites: PicknSave.com, Copps.com, MetroMarket.net, Marianos.com, and Roundys.com (collectively, the â€œRoundy's Sitesâ€) are made available to you by Roundyâ€™s Supermarkets, Inc. (â€œRoundyâ€™sâ€) for the purposes of finding store locations, planning shopping trips, and learning about the practices and operations of Roundyâ€™s stores. By using the Roundyâ€™s Sites, you are entering a binding agreement between you and Roundyâ€™s. Roundyâ€™s reserves the right, at any time, to modify these Terms of Use.
 
  **Privacy  
 ** Please review our Privacy Statement, which also governs your visit to the Roundyâ€™s Sites.
