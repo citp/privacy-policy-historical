@@ -1,81 +1,108 @@
-> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227060941id_/http%3A//www.kmart.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104104246id_/http%3A//www.kmart.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Below is a privacy statement that applies to Kmart.
+### Your Privacy is important
 
-#### Introduction
+Kmart Australia Limited (Kmart) is committed to protecting the privacy of your personal information. This Privacy Policy (Policy) explains how we collect, use and disclose information about our customers, suppliers (and their employees) and people who apply for employment with us. It also explains how to contact us if you have any questions about the management of your personal information or would like to access the personal information we hold about you.
 
-At Kmart, we are committed to protecting the privacy of everyone who shops or interacts with us.
+"We", "us", "our" and "Kmart" means Kmart Australia Limited ABN 73 004 700 485 (trading as Kmart and Kmart Tyre & Auto Service) and its Australian and offshore subsidiaries, Coles Group Asia Pty Ltd (including Hong Kong Branch Office, Dongguan Participating Office, Shanghai Representative Office), Coles Group New Zealand Holdings Limited, Tyre and Auto Pty Ltd, Tyremaster (Wholesale) Pty Ltd, Kmart Australia Limited Bangladesh Liaison Office, Coles Group Asia Pty Ltd, Coles Direct Sourcing Private Limited (India).
 
-This privacy policy applies to Kmart Ltd and its related companies, and covers all personal information we collect about customers and other individuals outside the Kmart group. When we talk about "personal information", we use the definition provided by the Federal Privacy Act -
+This Policy describes how we comply with our obligations under the Australian Privacy Act 1988 (Cth) and the privacy or data protection laws of other jurisdictions where we operate.
 
-_"Personal information" means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion._
+We may amend this Policy at any time by posting the updated version on our website.
 
-We require all of our employees, contractors, suppliers, business partners and service providers to comply with privacy laws and continually look for ways to meet and exceed our customers' expectations.
+Kmart is not responsible for the privacy practices of sites that are linked to this website via hyperlinks, banner advertising or otherwise.
 
-#### Collecting Information
+### What information do we collect?
 
-We only collect information that is necessary for one or more of our functions or activities, and we only keep it for as long as we may require it for a legitimate business purpose.
+Generally, the information we collect about customers includes your name, home or work address, delivery address, phone number, payment, credit and billing information, and e-mail addresses. We also collect demographic information, which is not unique to you, such as your postcode, age, gender and shopping preferences, interests and favourites. When you visit our websites, we may also collect information about your computer, including your IP address.
 
-When we collect personal information from an individual, we ensure that we do so in a fair manner. We also let the individual know:
+We also collect information about your use of our website using cookies. You can choose to decline cookies, but if you do so, you may not be able to fully experience our online interactive features.
 
-  * the purposes for which the information is being collected
-  * the organisations, or types of organisations, to whom we may disclose the information
-  * the main consequences (if any) for the individual if all or part of the information is not provided, except to the extent that this is obvious
-  * the fact that the individual can access the information that we hold
-  * how to contact that company about information being collected
-  * any law that requires us to collect the information.
+We may also collect additional information about customers, including purchase history, location and preferences, either directly, or through our business partners (including FlyBuys, other companies in the Wesfarmers Group and GE Capital Finance, who administer our store cards). Kmart Tyre & Auto Service may also collect specific information about your vehicle (including VIN (engine) number and registration number).
 
+We also collect information about:
 
-
-Privacy notices enable our businesses to communicate these matters clearly and consistently wherever we collect personal information.
-
-We will collect personal information directly from the individual concerned whenever practical. However, if we do collect an individual's personal information from a third party, we take reasonable steps to ensure that the individual has been advised of the matters listed above as they apply to both the third party and our own handling of the information.
-
-We treat certain kinds of sensitive information, such as health information, with higher standards of security and confidentiality. We will only use this sensitive information with the individual's consent unless the law specifies otherwise.
-
-#### Disclosing Information
-
-We will only disclose personal information:
-
-  * for the purposes for which we have advised that we are collecting it, and for related purposes that could reasonably be expected in the circumstances,
-  * with the individual's consent,
-  * as part of the asset sale of Kmart or part of Kmart,
-  * as specified by law.
+  * suppliers and their employees (including business name and address, contact details, and employee names, birthdates, addresses and working conditions (including hours and salaries); and
+  * potential employees (including names, addresses, contact details, employment and academic histories and the names of their referees).
 
 
 
-In the course of our business activities, we may need to disclose personal information to our agents, service providers, business partners, government authorities and others, but will always do so in accordance with the above principles. Except where data is transferred as part of the sale of a business or part of a business, we will not sell personal information under any circumstances or share it with anyone for marketing purposes unless we have advised of this on collection or otherwise obtained the individual's consent.
+Ordinarily, customers can purchase goods from us without disclosing personal information, but in this situation we may not be able to provide you with the full range of services available.
 
-#### Unauthorised Disclosure or Use
+### How we collect and hold information
 
-Unauthorised disclosure or use of personal information by our employees, contractors or agents is a serious breach of this policy. Merely accessing information without proper authority is a form of unauthorised use and will not be tolerated. In the event of a breach, we will take appropriate action, which may include disciplinary or legal action.
+Where it is reasonable and practicable to do so, we collect your personal information from you directly when you purchase products or services from us, or enter into arrangements with us, provide feedback/complaints to us or register your details with us or one of our business partners (for example, in connection with FlyBuys). Depending on the product or service we provide to you, we may collect your personal information from third parties. Information about suppliers' employees is usually collected from the supplier. Information about potential employees is usually collected during the recruitment process.
 
-#### Opt-Out
+If you are an agent who has, or is entering into, an arrangement to provide products and services on our behalf, of if you have purchased goods or services from us on layby, we may also collect your personal information from credit reporting agencies. By providing your personal information to us, you confirm that you have reviewed this Policy and consent to the collection and use of your personal information as specified.
 
-We will ensure that each direct marketing offer is checked against our opt-out register and provides a clear opt-out opportunity. We will always provide a nil-cost way of contacting us to opt out of receiving further marketing offers.
+We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure. Your personal information is stored on password protected servers located in access controlled secure locations.
 
-#### Access to Personal Information
+### Why we collect and how we use information 
 
-Individuals will be able to access their personal information upon request. However, we may occasionally need to deny access to information where the law expressly allows it (for example, when someone is under investigation for fraud).
+We collect and use your information to:
 
-We will not provide access to spouses, family members or other third parties unless we are required or permitted by law to do so or have the clear, written authority of the individual concerned.
+  * sell, hire, deliver, administer, improve and personalise our products and services;
+  * source products for sale, transport products and ensure our suppliers are compliant with our ethical sourcing policy and applicable labour laws and standards;
+  * process payments and credit checks, to provide layby (layaway) services and to deal with your feedback or complaints and provide refunds and discounts;
+  * better understand our customers' requirements and preferences, conduct product and market research, personalise and improve our service and to provide offers that are of greater interest or benefit to you;
+  * to communicate with you and to operate the customer service centre;
+  * undertake and administer promotions, competitions, in-store events, marketing activities, direct marketing, database compilation, analysis of trends and demographics and other marketing or promotional activities;
+  * manage our stores, supply arrangements and inventory and administer our websites;
+  * protect against fraud and theft;
+  * complete other transactions with you or on your behalf;
+  * recruit and assess future employees; and
+  * maintain and update our records.
 
-#### Security
 
-Our priority is to protect the personal information that we collect. Personal information will be managed confidentially and securely, and will be destroyed when no longer required.
 
-We secure personal information in the same way as we safeguard our own sensitive information. We also strive to constantly improve our business processes and the technology we use to protect data.
+From time to time, we may also use your personal information to send you targeted news, offers and promotions of our products and services. If you do not wish to receive these communications you can opt-out by contacting us at the address listed below.
 
-#### Data Quality
+### How we disclose your information
 
-We will take all reasonable steps to ensure that personal data we hold is accurate, complete and up to date, and has been obtained directly from the individual or a reputable third party.
+We will only disclose information about you to third parties if required by law or legal process, to our advisers or to companies who are responsible for parts of our service delivery - including to other companies in the Wesfarmers Group including FlyBuys (Loyalty Pacific Pty Ltd), to delivery companies, external call centres, suppliers and manufacturers, mail houses, recruitment firms and third party fulfilment centres.
 
-#### Availability and Review of Policy & Privacy Statements
+We may occasionally transfer your personal information, credit information (and credit eligibility information) to organisations located overseas, for example where:
 
-We will make our privacy policy available on request and will provide a link to this policy from the Kmart website.
+  * we use service providers based overseas;
+  * you have requested a product or service that involves an international element;
+  * we need to comply with foreign legal or regulatory requirements; or
+  * an international payment has been made.
 
-Privacy statements are issued by Kmart, loyalty programs and some specific business functions. These refer to our privacy policy but give more specific information regarding our data handling practices. They are available through our websites, stores, customer service departments and other points of contact with the public.
 
-This policy will be reviewed from time to time and any amendments will be incorporated in the updated policy and in privacy statements across Kmart where applicable.
+
+We require overseas recipients to use personal information only for the purpose provided and to implement strict confidentiality and data protection arrangements. Your information may also be stored on computer servers located outside of Australia. Any offshore disclosures will be to entities located in the United States of America and the Asia Pacific region (including but not limited to China, India, Bangladesh, Singapore, Vietnam and Hong Kong).
+
+In special circumstances - for example, if we were to sell our business or part of our business - your information may be transferred to potential purchasers and their advisers as part of that sale. From time to time, we may provide aggregated and de-identified information to other business partners for various purposes.
+
+### Accessing and correcting your information and questions
+
+You can request access to your information or that your information be corrected by contacting us at the address below.
+
+If you have a question about this Policy or wish to make a complaint about the way we have collected, used, held or disclosed your personal information, please contact us at the address below. We may need to contact you for further details.
+
+If you wish to make a formal complaint, please make your complaint in writing to our Privacy Officer. We will consider your complaint promptly and contact you to seek to resolve the matter. If we have not responded to you within a reasonable time, you are entitled under the Privacy Act 1988 (Cth) to make a complaint to the Office of the Australian Information Commissioner.
+
+#### Contact
+
+_Kmart_  
+Privacy Officer  
+Kmart Customer Service  
+690 Springvale Road, Mulgrave 3170 VIC  
+Email (to complain or access or correct information): [privacy@kmart.com.au](mailto:privacy@kmart.com.au)  
+Email (to unsubscribe): [onlineshop@kmart.com.au](mailto:onlineshop@kmart.com.au)  
+Phone: (+61) 1800 124 125
+
+_Kmart Tyre & Auto Service_  
+Privacy Officer  
+Kmart Tyre & Auto Service  
+PO Box 1375, Castle Hill, NSW, 1765  
+Email (to complain or access or correct information): [privacy@kmart.com.au](mailto:privacy@kmart.com.au)  
+Email (to unsubscribe): [ktascustomerservice@kmart.com.au](mailto:ktascustomerservice@kmart.com.au)  
+Phone: (+61) 1800 065 010
+
+_Office of the Australian Information Commissioner_  
+Website: [www.oaic.gov.au](http://www.oaic.gov.au/)  
+Phone: 1300 363 992  
+Last updated: February 2014
