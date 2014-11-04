@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the letsventure.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213024028id_/https%3A//letsventure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsventure.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104073656id_/https%3A//letsventure.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Let'sVenture
+# Privacy Policy | LetsVenture
 
-This website http://www.letsventure.com **(Website)** owned and operated by IndiePitch Solutions Private Limited ( **We** , **Us** , **IndiePitch** or **Our** , which expression shall mean and include its affiliates, successors and assigns). We are committed to protecting and respecting Your privacy.
+This website http://www.letsventure.com **(Website)** owned and operated by LetsVenture Online Pte. Ltd.‏ ( **We** , **Us** , **LetsVenture** or **Our** , which expression shall mean and include its affiliates, successors and assigns). We are committed to protecting and respecting Your privacy.
 
-This Policy constitutes a legal agreement between You, as the user of the Website, and IndiePitch, as the owner of the Website. This Policy does not apply to third-party websites that are connected via links to the Website.
+This Policy constitutes a legal agreement between You, as the user of the Website, and LetsVenture, as the owner of the Website. This Policy does not apply to third-party websites that are connected via links to the Website.
 
-This Policy has been drafted in compliance with the applicable data protection rules and regulations of India.
+This Policy has been drafted in compliance with the applicable data protection rules and regulations of Singapore.
 
 **
 
@@ -20,13 +20,13 @@ This privacy policy (Policy) describes Our policies and procedures on the collec
 
 Your use of the Website will be governed by this Policy in addition to the Terms of Use as applicable to You. The Policy together with the Terms of Use are referred to as the Website Documents.
 
-During the course of Your association with IndiePitch, You may be required to execute certain other commercial agreements (Commercial Agreements) and such Commercial Agreements shall govern Your business relationship with IndiePitch.
+During the course of Your association with LetsVenture, You may be required to execute certain other commercial agreements (Commercial Agreements) and such Commercial Agreements shall govern Your business relationship with LetsVenture.
 
 However, in the event of a conflict between the terms contained in the Website Documents and the terms contained in the Commercial Agreements, as applicable to You, the terms of the Commercial Agreements shall prevail.
 
 **2.Collection of Information**
 
-IndiePitch will use the information provided by You only in accordance with the purposes described in the Policy. 
+LetsVenture will use the information provided by You only in accordance with the purposes described in the Policy. 
 
 During Your use of Our Website, We may collect and process such information from You, including but not limited to the below mentioned:
 
@@ -53,7 +53,7 @@ You may refuse to accept Cookies by activating the setting on Your browser which
 
 The use of Cookies by Our partners, affiliates, advertisers or service providers is not covered by the Policy. 
 
-IndiePitch may use the services of certain third parties, for the purpose of operating and administering the Website. Such third party service providers may collect the information sent by Your browser as part of a web page request, including Cookies and your IP address and such information will be governed by the privacy policies of the third party service providers.
+LetsVenture may use the services of certain third parties, for the purpose of operating and administering the Website. Such third party service providers may collect the information sent by Your browser as part of a web page request, including Cookies and your IP address and such information will be governed by the privacy policies of the third party service providers.
 
 **4.Use of the Information**
 
@@ -89,7 +89,7 @@ We may use the information provided by You in the following ways, viz:
 
 We will share Your information with third parties only such manner as described below: 
 
-**(a)**   IndiePitch may share Your information with third parties with Your prior consent and in such an event, the third parties' use of Your information will be bound by the Policy. We may store information in locations outside the direct control of IndiePitch control of IndiePitch (for instance, on servers or databases co-located with hosting providers). 
+**(a)**   LetsVenture may share Your information with third parties with Your prior consent and in such an event, the third parties' use of Your information will be bound by the Policy. We may store information in locations outside the direct control of LetsVenture control of LetsVenture (for instance, on servers or databases co-located with hosting providers). 
 
 **(b)**   We may disclose Your information, with Your prior consent, to any member of Our related or group companies including Our subsidiaries, Our ultimate holding company and its subsidiaries, as the case may be. 
 
@@ -117,11 +117,11 @@ Our Website may, from time to time, contain links to and from the websites of Ou
 
 As a registered user with an account and a password, You are responsible for keeping Your password confidential. 
 
-All information You provide to Us is stored on Our secure servers whether outside or within India. 
+All information You provide to Us is stored on Our secure servers whether outside or within Singapore. 
 
-IndiePitch uses commercially reasonable safeguards to preserve the integrity and security of Your information against loss, theft, unauthorised access, disclosure, reproduction, use or amendment.
+LetsVenture uses commercially reasonable safeguards to preserve the integrity and security of Your information against loss, theft, unauthorised access, disclosure, reproduction, use or amendment.
 
-The information that We collect from You may be transferred to, and stored at, a destination inside or outside India. By submitting Your information on Our Website, You agree to this transfer, storing and/ or processing. We will take such steps as we consider reasonably necessary to ensure that Your information is treated securely and in accordance with the Policy.
+The information that We collect from You may be transferred to, and stored at, a destination inside or outside Singapore. By submitting Your information on Our Website, You agree to this transfer, storing and/ or processing. We will take such steps as we consider reasonably necessary to ensure that Your information is treated securely and in accordance with the Policy.
 
 In using the Website, You accept the inherent security implications of data transmission over the internet and the world wide web cannot always be guaranteed as completely secure. Therefore, Your use of the Website will be at Your own risk.
 
@@ -131,7 +131,7 @@ In the event We become aware of any breach of the security of Your information, 
 
 **9.Exclusion**
 
-This Policy does not apply to any Information other than such Information collected by IndiePitch through the Website. This Policy shall not apply to any unsolicited information You provide Us through this Website or through any other means. This includes, but is not limited to, information posted to any public areas of the Website. All such unsolicited information shall be deemed to be non-confidential and IndiePitch shall be free to use, disclose such unsolicited information without limitation.
+This Policy does not apply to any Information other than such Information collected by LetsVenture through the Website. This Policy shall not apply to any unsolicited information You provide Us through this Website or through any other means. This includes, but is not limited to, information posted to any public areas of the Website. All such unsolicited information shall be deemed to be non-confidential and LetsVenture shall be free to use, disclose such unsolicited information without limitation.
 
 **10.Severability**
 
@@ -143,17 +143,17 @@ The rights and remedies of available under this Policy may be exercised as often
 
 **12.Governing Law and Dispute Resolution**
 
-This Policy shall be governed by and construed in accordance with the laws of the Republic of India and subject to the provisions of arbitration set out herein, the courts at Bangalore shall have exclusive jurisdiction in relation to any disputes arising out of or in connection with this Policy. 
+This Policy shall be governed by and construed in accordance with the laws of the Republic of Singapore and subject to the provisions of arbitration set out herein, the courts at Singapore shall have exclusive jurisdiction in relation to any disputes arising out of or in connection with this Policy. 
 
-If any dispute arises between IndiePitch and You in connection with or arising out of the validity, interpretation, implementation or alleged breach of any provision of the Policy, such dispute shall be referred to and finally resolved by arbitration in accordance with the Indian Arbitration and Conciliation Act, 1996 for the time being in force, which rules are deemed to be incorporated by reference in this clause. 
+If any dispute arises between LetsVenture and You in connection with or arising out of the validity, interpretation, implementation or alleged breach of any provision of the Policy, such dispute shall be referred to and finally resolved by arbitration under the laws of The Republic of Singapore for the time being in force, which rules are deemed to be incorporated by reference in this clause. 
 
-There shall be one (1) arbitrator and the venue of arbitration shall be Bangalore, India. 
+There shall be one (1) arbitrator and the venue of arbitration shall be Singapore. 
 
 The language of the arbitration proceedings and of all written decisions and correspondence relating to the arbitration shall be English. 
 
 **13.Foreign Jurisdiction**
 
-IndiePitch makes no representation that the content contained on the Website is appropriate or to be used or accessed outside of the Republic of India. If You use or access the Website from outside the Republic of India, You do so at Your own risk and are responsible for compliance with the laws of such jurisdiction.
+LetsVenture makes no representation that the content contained on the Website is appropriate or to be used or accessed outside of the Republic of Singapore. If You use or access the Website from outside the Republic of Singapore, You do so at Your own risk and are responsible for compliance with the laws of such jurisdiction.
 
 **14.Changes to the Policy**
 
