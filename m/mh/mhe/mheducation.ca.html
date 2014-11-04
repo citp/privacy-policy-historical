@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mheducation.ca privacy policy that was archived on 2014-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140506130646id_/http%3A//www.mheducation.ca/privacy/index.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mheducation.ca privacy policy that was archived on 2014-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104193158id_/http%3A//www.mheducation.ca/privacy/index.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -27,6 +27,8 @@
 <link href="/web_styles/print.css" rel="stylesheet" type="text/css" media="print">
 <link type="text/css" href="/web_scripts/mhr_cart/widget.css" rel="stylesheet">
 
+	<script type="text/javascript" src="//munchkin.marketo.net/munchkin.js"></script>
+    <script>Munchkin.init('128-SJW-347');</script>    
 
 
 
@@ -84,6 +86,11 @@ padding:5px;
   ga('create', 'UA-8832594-22', 'mheducation.ca');
   ga('send', 'pageview');
 </script>
+
+<script>
+var shop_status = "r";
+</script>
+
 <noscript>
     <div style = "text-align:center;padding: 10px;margin-bottom:10px;background-color:#FFC;border:3px solid #cc0000;width:960px;margin-left:300px;">
         <p>Thank you for visiting www.mheducation.ca.<br /><br />In order to view www.mheducation.ca and its affiliate sites, you will need to use a javascript enabled browser such as Firefox, Chrome and Internet Explorer.  Please check your settings if you are already using one of thse.</p>                 
@@ -222,7 +229,11 @@ $j(document).ready(function() {
 	$j('body').on('click', '.product_buy_now', function (e) {
 		e.preventDefault();
 
-		//Show the loading wheel
+		if (shop_status == "m") {
+			alert("Service is not available at this moment.  Please try again later.");
+		} else {
+
+			//Show the loading wheel
 		$j(".shp_item.loading").toggle();
 		
 		clickedItem = $j(this).attr("id").split("_");
@@ -254,6 +265,7 @@ $j(document).ready(function() {
 			}
 		});
 		
+		}
 	});
 
 	/*
@@ -387,14 +399,14 @@ $j(function() {
         <div id="couponlist"></div>
       		<a href="https://estore.mheducation.ca/cart"><div class="shp_checkout">checkout</div></a>
         <form id="checkoutForm" method="post" action="https://estore.mheducation.ca/cart" title="Go to the cart page to prepare for checkout.">
-        	<input type="hidden" name="shp_session" value="4da9682b7bc8b02e843b55870499f68f">
+        	<input type="hidden" name="shp_session" value="146c5a848da65a3e1ae3f068d96e939e">
         </form>
   	</div>
 
 	<div class="shp_close">close X</div>
     
 </div>    
-<div id="sid" style="display:none;">YSLJq6eLvidvdN9n_ThhS4bWFpZWGgmMz4K7oJPCmQc</div>
+<div id="sid" style="display:none;">Q_VURi2Ej7gNGrNWtd3XpeQkjXg_1vHMF50FI4H25nk</div>
 
             </div>
             <div id="header_logo"><a href="/"><img src="/web_images/mhe_logos/MHE-RYERSON-red-rgb_bolded_185.png" alt="McGraw-Hill Ryerson" width="185" height="52" border="0"></a></div>
@@ -417,7 +429,7 @@ $j(function() {
 				<div id="nav_division_title">Corporate</div>
 <div id="CORP_nav_items">
 <ul>
-<li><a href="/about-us/" title="about us">ABOUT US</a></li><li><a href="/investors/" title="investors">INVESTORS</a></li><li><a href="/careers/" title="careers">CAREERS</a></li><li><a href="/customer-care/" title="customer care">CUSTOMER CARE</a></li></ul>
+<li><a href="/about-us/" title="about us">ABOUT US</a></li><li><a href="/careers/" title="careers">CAREERS</a></li><li><a href="/customer-care/" title="customer care">CUSTOMER CARE</a></li></ul>
 </div>
 </div>
                                 <div id="body_content_wrapper">
@@ -438,17 +450,17 @@ $j(function() {
 <p><strong>WHY DOES McGRAW-HILL RYERSON COLLECT PII?</strong></p>
 <ul>
 <li>To process your transactions, maintain your account and respond to your inquiries.</li>
-<li>To provide you with information about services and products that we believe may be of interest to you offered by McGraw-Hill Ryerson and other parts of our parent company, McGraw-Hill Education. (“McGraw-Hill”).</li>
+<li>To provide you with information about services and products that we believe may be of interest to you offered by McGraw-Hill Ryerson and other parts of our parent company, McGraw-Hill Education.</li>
 </ul>
 <p><strong>HOW DOES McGRAW-HILL RYERSON SHARE YOUR PII?</strong></p>
 <ul>
 <li>With our vendors to perform services on our behalf.</li>
 <li>Potentially in conjunction with a sale or similar transfer of a business.</li>
 <li>When legally compelled or for other legal purposes.</li>
-<li>With other parts of McGraw-Hill whose services and products might be of interest to you. </li>
+<li>With other parts of McGraw-Hill Education whose services and products might be of interest to you. </li>
 </ul>
 <p><strong>IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:</strong><br>
-Write to us at: <a href="mailto:mhrprivacy@mcgrawhill.ca">mhrprivacy@mcgrawhill.ca</a> with the following instructions:</p>
+Write to us at: <a href="mailto:privacy@mheducation.ca">privacy@mheducation.ca</a> with the following instructions:</p>
 <p>I do not want to be contacted by McGraw-Hill Ryerson via these methods for marketing purposes:</p>
 <table>
 <tbody><tr>
@@ -470,9 +482,9 @@ Write to us at: <a href="mailto:mhrprivacy@mcgrawhill.ca">mhrprivacy@mcgrawhill.
 </tbody></table>
 <p><br style=""><br>
 ______I do not want to be contacted by McGraw-Hill Ryerson through any method for marketing purposes.<br>
-______I do not want to be contacted by other parts of McGraw-Hill through any method for marketing purposes.</p>
+______I do not want to be contacted by other parts of McGraw-Hill Education through any method for marketing purposes.</p>
 <p>We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in Canada and access is limited to authorized persons.   </p>
-<p>To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: <a href="mailto:mhrprivacy@mcgraw-hill.ca">mhrprivacy@mcgraw-hill.ca</a> or Privacy Official, McGraw-Hill Ryerson, 300 Water Street, Whitby ON, L1N 9B6 or Call Toll-Free at 1-800-565-5758.</p>
+<p>To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: <a href="mailto:privacy@mheducation.ca">privacy@mheducation.ca</a> or Privacy Official, McGraw-Hill Ryerson, 300 Water Street, Whitby ON, L1N 9B6 or Call Toll-Free at 1-800-565-5758.</p>
 <p><strong>COOKIE USAGE</strong></p>
 <p>Please note that by using this site, you consent to the use of the cookies described below.</p>
 <p>McGraw-Hill Ryerson or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally-identifiable information) when you visit our Web site. A “cookie” is a small text file placed on your computer or device, which helps our Web site function better.  We may use the following types of cookies on this Web site:</p>
@@ -484,7 +496,7 @@ ______I do not want to be contacted by other parts of McGraw-Hill through any me
 <p>“Performance” or “Analytics” cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements.  Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.</p>
 <p>“Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites.   </p>
 <p>You can change your Web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:</p>
-<p><a href="http://support.microsoft.com/kb/196955">Internet Explorer</a><br>
+<p><a href="http://windows.microsoft.com/en-us/internet-explorer/ie-security-privacy-settings#ie=ie-11">Internet Explorer</a><br>
 <a href="http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&amp;redirectslug=Enabling+and+disabling+cookies">Firefox</a><br>
 <a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647">Chrome</a><br>
 <a href="http://support.apple.com/kb/PH5042">Safari</a><br>
@@ -513,7 +525,7 @@ ______I do not want to be contacted by other parts of McGraw-Hill through any me
 <!--div class="footer_size">Text size <span class="size_level_1"><a href="javascript:void(0);" title="Normal" class="normal-font">A</a></span> <span class="size_level_2"><a href="javascript:void(0);" title="Large" class="large-font">A</a></span> <span class="size_level_3"><a href="javascript:void(0);" title="Extra large" class="extra-large-font">A</a></span></div-->
 
 
-<div class="footer_copy"> <a href="/customer-care/accessibility/" title="Accessibility">Accessibility</a>  |  <a href="http://www.mheducation.com/" title="McGraw-Hill Education" target="_blank">McGraw-Hill Education</a> | <a href="http://www.mheducation.ca" title="McGraw-Hill Ryerson" target="_blank">McGraw-Hill Ryerson</a> | <a href="http://www.mheducation.com/terms-use" title="Terms of Use" target="_blank">Terms of Use</a> | <a href="http://www.mheducation.ca/privacy/index.php" title="Privacy and Cookie Notice" target="_blank">Privacy and Cookie Notice</a>  |  <a href="https://adobeformscentral.com/?f=0nn3qavRoMk8YPDQFyk6Ig" target="_blank">Report Piracy</a><br>
+<div class="footer_copy"> <a href="/customer-care/accessibility/" title="Accessibility">Accessibility</a>  |  <a href="http://www.mheducation.com/" title="McGraw-Hill Education" target="_blank">McGraw-Hill Education</a> | <a href="http://www.mheducation.ca" title="McGraw-Hill Ryerson" target="_blank">McGraw-Hill Ryerson</a> | <a href="http://www.mheducation.com/terms-use" title="Terms of Use" target="_blank">Terms of Use</a> | <a href="http://www.mheducation.ca/privacy/index.php" title="Privacy and Cookie Notice" target="_blank">Privacy and Cookie Notice</a>  |  <a href="https://adobeformscentral.com/?f=mRuWctcLn0NNXb7F3TS4pg" target="_blank">Report Piracy</a><br>
 <br>
 <span class="footer_copyright">Copyright © 2014 McGraw-Hill Ryerson Ltd. All rights reserved.</span>
 </div>
