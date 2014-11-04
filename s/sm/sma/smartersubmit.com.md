@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartersubmit.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502114031id_/http%3A//www.smartersubmit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartersubmit.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104141544id_/http%3A//www.smartersubmit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,11 +34,15 @@ We use cookies to help us remember and process the items in your shopping cart.
 
  **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
- **Refund Policy**
+**What is our Opt-out Policy for Subscribers?**
 
-We have a 30 days refund policy if we do not deliver the backlinks report as promised.
+Once you subscribe we will send you special offers, deals and tips. You may opt-out and unsubscribe at any time. To opt-out you will see an Unsubscribe Me link at the end of every email you receive. Simply click that link and confirm that you want to opt-out and you will stop receiving mails from us. 
+
+**Refund Policy**
+
+Unfortunately due to the nature of work our services are non-refundable, all sales are full and final. Due to spikes and workload some projects may be delayed from time to time, for this you will receive an updates from our project manager.
 
  **Your Consent**
 
