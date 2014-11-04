@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountmags.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061532id_/http%3A//www.discountmags.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmags.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104140947id_/http%3A//www.discountmags.com/page/privacy.html) for the most accurate reproduction.*
 
 # DiscountMags.com > Privacy Policy
 
@@ -18,7 +18,9 @@ Demographic Information
 We may also collect other information relevant to fulfilling any gift orders.
 
 **How We Use Information**  
-We use the information you provide us to complete your order. In order to complete your order, we must share your name and address with the publisher, distributor, and/or fulfillment center.  We use your billing information to process the transaction. After a transaction is processed, we do not store or keep your full credit card information except with your _explicit_ permission. **  
+We use the information you provide us to complete your order. In order to complete your order, we must share your name and address with the publisher, distributor, and/or fulfillment center.  We use your billing information to process the transaction. After a transaction is processed, we do not store or keep your full credit card information except with your _explicit_ permission. 
+
+Your information may also be used as a part of our product review program, should you elect to provide a product review. Additional terms regarding our product review program may be found [here](http://www.powerreviews.com/privacy-policy/) **  
 **  
 **Cookies**  
 We use browser cookies for website optimization purposes. We may also use cookies to identify you if you are returning to our website.
