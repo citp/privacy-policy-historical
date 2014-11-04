@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327132330id_/http%3A//idateasia.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104180055id_/http%3A//www.idateasia.com/help/privacy.php) for the most accurate reproduction.*
 
-# iDateAsia Club -- Thai girls and Vietnamese women seeking single foreign men for dating, romance, marriage , long-term relationship!
+# iDateAsia Club -- Thai girls and Vietnamese women seeking single men for dating, romance, marriage , long-term relationship!
 
-  | The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia.com. The following describes our privacy practices that are specific to iDateAsia.com.
+The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia.com. The following describes our privacy practices that are specific to iDateAsia.com.
 
 Welcome to iDateAsia.com ("iDateAsia" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by iDateAsia, including any services owned, operated or offered by or on behalf of iDateAsia, and by third-party service providers if applicable.
 
-We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. We have developed this Policy to ensure that your privacy is protected while using iDateAsia. We reserve the right to change it at any time, and all changes are effective upon posting with notice to you.
+We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. We have developed this Policy to ensure that your privacy is protected while using iDateAsia. We reserve the right to change it at any time, and all changes are effective upon posting without notice to you.
 
 Owing to the global nature of iDateAsia's business conducted over the internet, it is practically impossible for us to comply with all applicable laws / rules / regulations (and the like) as may be prescribed by individual country / region / city. We endeavor to adopt internationally recommended “Best Practices” whilst adhering to the Personal Data (Privacy) Ordinance, laws of Hong Kong which you must agree to as the applicable law in case of dispute arising herefrom.
 
@@ -61,7 +61,7 @@ If you want to update or correct inaccuracies in your information, you can login
 
   8. **Deleting Your Account**
 
-Gentleman members can reqire account deletion through submitting email request to our customer service team, specifying whether account deletion of iDateAsia or account deletion of the Qpid Network is needed. When iDateAsia account is deleted, members will not be able to log into iDateAsia and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
+Gentleman members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of iDateAsia or account deletion of the Qpid Network is needed. When iDateAsia account is deleted, members will not be able to log into iDateAsia and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
 
   9. **Technical and/or Operational Security**
 
@@ -82,4 +82,4 @@ iDateAsia may provide links to third-party websites. Since we do not control thi
 By using iDateAsia Services, you understand that this Policy applies solely to information collected by iDateAsia, and you agree to the collection, processing, retention and disposal of your information by iDateAsia as outlined herein.
 
 
-|  
+
