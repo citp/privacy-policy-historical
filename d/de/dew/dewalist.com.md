@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dewalist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095539id_/http%3A//www.dewalist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalist.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104193151id_/http%3A//www.dewalist.com/privacy.php) for the most accurate reproduction.*
 
-# South America, Americas - World Free Classified Ads Online | Community Classifieds | Dewalist
+# World Free Classified Ads Online | Community Classifieds | Dewalist
 
 **Privacy Policy**
 
