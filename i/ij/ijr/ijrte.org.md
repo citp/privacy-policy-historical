@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijrte.org privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027133029id_/http%3A//www.ijrte.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijrte.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104022016id_/http%3A//www.ijrte.org/privacy.php) for the most accurate reproduction.*
 
 # International Journal of Recent Technology and Engineering(TM) - Privacy Policy
 
@@ -32,13 +32,16 @@ Indexing:**
 International Journal of Recent Technology and EngineeringTM (IJRTE) is indexed by more than 31 International body like DOAJ, Google Scholar, Open J Gate, Yahoo, New Jour, get CITED, Digg, UK Index, i Submit, and many more. **Paper Suspension:**  
 Authors have to submit original, scientific, and result oriented paper to the journal. It is please noted that if any plagarism is found before or after publication the respective paper will suspend within any prior information. **Official Contact Details:  
 **Editor in Chief  
-22, ShivLokme Phase-IV, Khajuri Kalan, Piplani-BHEL, Bhopal(M.P.)-462021, India  
+22, First Floor, ShivLoke Phase-IV,   
+Khajuri Kalan, Piplani-BHEL,   
+Bhopal(M.P.)-462022, India  
 Phone: +91-9669981618  
+whatsapp: +919669981618  
 Email: [submit@ijrte.org](mailto:submit@ijrte.org)  
 Website: [www.ijrte.org](http://www.ijrte.org/)[  
 ](http://www.ijeat.org/)
 
-**[](http://www.google.com/landing/chrome/beta/)**
+  **[](http://www.google.com/landing/chrome/beta/)**
 
 **Open Website at Google Chrome for Best Resolution**
 
