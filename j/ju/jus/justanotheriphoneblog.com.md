@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justanotheriphoneblog.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602023119id_/http%3A//isource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanotheriphoneblog.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104115121id_/http%3A//isource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iSource
 
