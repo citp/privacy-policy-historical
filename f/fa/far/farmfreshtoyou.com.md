@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmfreshtoyou.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628231543id_/http%3A//www.farmfreshtoyou.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmfreshtoyou.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104052431id_/http%3A//www.farmfreshtoyou.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy is incorporated into and is subject to the Company [Service 
 
 If you sign up or inquire about service, the Company collects a variety of information, such as your name and address, email address, payment information, account preferences and other information that is personal in nature.
 
-The Company does not use your email address or other personally identifiable information to send commercial or marketing messages, except as part of a specific program or feature for which you will have the ability to opt in or opt out. You may opt out of receiving any, or all, of these communications by emailing us as at [policies@farmfreshtoyou.com](mailto:policiescontactus@farmfreshtoyou.com) or by clicking on the “unsubscribe” link in email sent by the Company or by replying to any email sent by the Company and entering the word UNSUBSCRIBE in the subject line. The Company may, however use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes).
+The Company does not use your email address or other personally identifiable information to send commercial or marketing messages, except as part of a specific program or feature for which you will have the ability to opt in or opt out. You may opt out of receiving any, or all, of these communications by emailing us as at [policies@farmfreshtoyou.com](mailto:policies@farmfreshtoyou.com) or by clicking on the “unsubscribe” link in email sent by the Company or by replying to any email sent by the Company and entering the word UNSUBSCRIBE in the subject line. The Company may, however use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes).
 
 If you submit personally identifiable information to the Company through the Website, the Company may use your personal information to operate, maintain and provide to you the features and functionality of the Website.
 
@@ -30,7 +30,7 @@ The Company does share non-personally identifiable information (such as anonymou
 
 The Company may release personally identifiable information and/or non-personally identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena or search warrant. 
 
-The Company also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that the Company believes, in good faith, is appropriate or necessary to enforce our [Service Policy,](https://web.archive.org/web/20140628231543id_/http%3A//www.farmfreshtoyou.com/service_policy) take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of its Website and to protect the rights, property or personal safety of the Company, our users or others.
+The Company also reserves the right to disclose personally identifiable information and/or non-personally identifiable information that the Company believes, in good faith, is appropriate or necessary to enforce our [Service Policy,](https://web.archive.org/web/20141104052431id_/http%3A//www.farmfreshtoyou.com/view_service_policy) take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of its Website and to protect the rights, property or personal safety of the Company, our users or others.
 
 #### Your Choices
 
