@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesforecast.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051153id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesforecast.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104225820id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: American Diabetes Association®
 
@@ -87,13 +87,13 @@ ATTN: Customer Service Center
 Phone: (703) 549-1500  
 Email: [privacy@diabetes.org](mailto:privacy@diabetes.org)
 
-### 7\. Email Guidelines
+### 7\. Notification Guidelines
 
 
 
 
-The Association does not send unsolicited commercial email to individuals with whom they do not have consent/permission or a pre-existing or current business relationship.  
-The Association provides all email recipients with a clear, easy and effective method to unsubscribe to any and all online communications.
+The Association does not send unsolicited commercial communications to individuals with whom they do not have consent/permission or a pre-existing or current business relationship.  
+The Association provides all notified recipients with a clear, easy and effective method to unsubscribe to any and all online communications.
 
 ### 8\. How to Correct or Update Information
 
@@ -121,7 +121,7 @@ American Diabetes Association
 Alexandria, VA 22311  
 ATTN: Digital Marketing
 
-  * Last Reviewed: October 15, 2013
-  * Last Edited: December 30, 2013
+  * Last Reviewed: September 30, 2014
+  * Last Edited: September 30, 2014
 
 
