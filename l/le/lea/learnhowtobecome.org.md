@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnhowtobecome.org privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505092802id_/http%3A//www.learnhowtobecome.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhowtobecome.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104120701id_/http%3A//www.learnhowtobecome.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - How to Become
+# Privacy Policy | LearnHowToBecome.org
 
 ## **Our Privacy Policy**
 
