@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reston-connection.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617093655id_/http%3A//www.reston-connection.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reston-connection.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104040537id_/http%3A//reston-connection.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
