@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407081637id_/http%3A//www.playerspalacecasino.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104045040id_/http%3A//www.playerspalacecasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Players Palace Casino Privacy Policy
 
