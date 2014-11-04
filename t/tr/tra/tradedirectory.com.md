@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradedirectory.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080549id_/http%3A//www.tradedirectory.com/bottom/26/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradedirectory.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104124350id_/http%3A//www.tradedirectory.com/bottom/26/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Trade Directory - B2B, Manufacturers, Exporters, Importers, International Suppliers, UK Wholesalers, Traders and Trade Shows
 
