@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zmenu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113535id_/http%3A//zmenu.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmenu.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104200726id_/http%3A//zmenu.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Zmenu, The Most Comprehensive Menu With Photos
+# The most comprehensive restaurant menus & dish reviews site - Zmenu.com
 
 Privacy Policy
 
