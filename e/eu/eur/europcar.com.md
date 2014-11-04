@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the europcar.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627134759id_/http%3A//www.europcar.com/EBE/module/render/Security-and-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europcar.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104162141id_/http%3A//www.europcar.com/EBE/module/render/Security-and-Privacy-Policy) for the most accurate reproduction.*
 
-# Security and privacy policy
+# Security and privacy policy - Europcar
 
 ### Privacy Policy
 
 ### I. Who are the data controller and the data recipients of the personal information we collect about you?
 
-**Europcar International S.A.S.U, a ‘Société par Actions Simplifiée Unipersonnelle' whose registered office is located at Immeuble Le Mirabeau, 5-6 Place des Frères Montgolfier, 78280 Guyancourt, France and registered with the Registry of Commerce and Companies of Versailles under number: B 542 065  305 (hereinafter referred to as "We") is the data controller of the Personal information We collect about you on this website (the Website).**
+**Europcar International S.A.S.U, a ‘Société par Actions Simplifiée Unipersonnelle' whose registered office is located at EUROPCAR INTERNATIONAL SASU, Bat OP - 2, rue René Caudron, 78960 Voisins-le-Bretonneux, France and registered with the Registry of Commerce and Companies of Versailles under number: B 542 065  305 (hereinafter referred to as "We") is the data controller of the Personal information We collect about you on this website (the Website).**
 
 **Such personal information is dedicated to Europcar Group companies, their franchisees, sub-contractors and partners and will be collected, processed and stored in accordance with French Data Protection Law.**
 
@@ -104,24 +104,24 @@ Data Integrity: this checks the data being transferred to ensure it has not been
 
 ### VI. How to access, update, correct or delete your Personal Information
 
-We make reasonable efforts to ensure that the personal data we have about you is as accurate, current and complete as necessary for the purposes for which we use that data. 
+We make reasonable efforts to ensure that the personal data we have about you is as accurate, current and complete as necessary for the purposes for which we use that data.
 
-Under the French Data Protection Act, you have at any time a right to access, and oppose for legitimate reasons, the processing of your personal data as well as the right to update, correct or delete personal data collected by us that would be incomplete, inaccurate, outdated data, or those forbidden by law, by logging into your "My Europcar" profile or by contacting our main office in your country of residence. 
+Under the French Data Protection Act, you have at any time a right to access, and oppose for legitimate reasons, the processing of your personal data as well as the right to update, correct or delete personal data collected by us that would be incomplete, inaccurate, outdated data, or those forbidden by law, by logging into your "My Europcar" profile or by contacting our main office in your country of residence.
 
-You will find the address of our headquarters in the "[CORPORATE INFORMATION](http://www.europcar.com/EBE/module/render/Our-headquarters)" section on our website. As an alternative, you may obtain the information by writing to us at: 
+You will find the address of our headquarters in the "[CORPORATE INFORMATION](http://www.europcar.com/EBE/module/render/Our-headquarters)" section on our website. As an alternative, you may obtain the information by writing to us at:
 
   
-Europcar International - Data Centre 
+Europcar International - Data Centre
 
-3 avenue du Centre 
+Bat OP - 2, rue René Caudron
 
-782801 Guyancourt 
+78960 Voisins-le-Bretonneux
 
-France 
+France
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
-You will also be able to change your password and secret question at any time by logging into your "My Europcar" profile. 
+You will also be able to change your password and secret question at any time by logging into your "My Europcar" profile.
 
 ### VII. How can I opt-in to receive promotional emails? - Our Opt-in Policy
 
