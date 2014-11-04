@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the juvlon.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627224517id_/http%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juvlon.com privacy policy that was archived on 2014-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104142027id_/http%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
@@ -22,12 +22,12 @@
 	<link rel="alternate" type="application/rss+xml" title="www.juvlon.com &raquo; Feed" href="http://www.juvlon.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="www.juvlon.com &raquo; Comments Feed" href="http://www.juvlon.com/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="www.juvlon.com &raquo; Privacy Policy Comments Feed" href="http://www.juvlon.com/legal-info/privacy-policy/feed/" />
-<script type='text/javascript' src='http://www.juvlon.com/wp-includes/js/comment-reply.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='http://www.juvlon.com/wp-includes/js/comment-reply.min.js?ver=3.7.4'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.juvlon.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.juvlon.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Terms &amp; Conditions" href="http://www.juvlon.com/legal-info/terms-of-use/">
 <link rel="next" title="Anti-Spam Policy" href="http://www.juvlon.com/legal-info/anti-spam-policy/">
-<meta name="generator" content="WordPress 3.7.3">
+<meta name="generator" content="WordPress 3.7.4">
 <link rel="shortlink" href="http://www.juvlon.com/?p=204">
 
 <!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[759,804] -->
@@ -174,11 +174,11 @@
 <li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://www.juvlon.com/features/">Features</a></li>
 <li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162"><a href="http://www.juvlon.com/pricing/">Pricing</a></li>
 <li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="http://www.juvlon.com/help/free-html-templates/">Templates</a></li>
-<li id="menu-item-168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168"><a href="https://app3.juvlon.com/login.php">Login</a></li>
-<li id="menu-item-1962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1962"><a href="http://support.juvlon.com/">SUPPORT</a></li>
-<li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="https://app3.juvlon.com/register.php">Free Trial</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168"><a href="https://app3.juvlon.com/secure/login.php">Login</a></li>
+<li id="menu-item-1962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1962"><a href="http://support.juvlon.com">SUPPORT</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="https://app3.juvlon.com/secure/register.php">Free Trial</a></li>
 <li id="menu-item-1963" class="menu-item-170 menu-item menu-item-type-custom menu-item-object-custom menu-item-1963"><a href="http://www.juvlon.com/about-us/contact-us/">CONTACT US</a></li>
-<li id="menu-item-2227" class="freetrial menu-item menu-item-type-custom menu-item-object-custom menu-item-2227"><a href="https://app3.juvlon.com/request_demo.php">Demo Request</a></li>
+<li id="menu-item-2227" class="freetrial menu-item menu-item-type-custom menu-item-object-custom menu-item-2227"><a href="https://app3.juvlon.com/secure/request_demo.php">Demo Request</a></li>
 </ul>	
 
 
@@ -227,275 +227,560 @@
 	
 </div>
 	<!--footer start -->
+
 <script language="javascript">
 
+
+
 function echeck(str) {
+
 	var at="@"
+
 	var dot="."
+
 	var lat=str.indexOf(at)
+
 	var lstr=str.length
+
 	var ldot=str.indexOf(dot)
+
 	if (str.indexOf(at)==-1)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}			
+
 	if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}			
+
 	if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}	
+
 	if (str.indexOf(at,(lat+1))!=-1)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}			
+
 	if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}			
+
 	if (str.indexOf(dot,(lat+2))==-1)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}			
+
 	if (str.indexOf(" ")!=-1)
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}			
+
 	return true
+
 }
+
+
+
 
 
 function remove_XS_whitespace(val)
+
 {
+
   var tmp = "";
+
   var item_length = val.length;
+
   var item_length_minus_1 = val.length - 1;
+
   for (index = 0; index < item_length; index++)
+
   {
+
     if (val.charAt(index) != ' ')
+
     {
+
 		tmp += val.charAt(index);
+
     }
+
     else {
+
 		document.getElementById('errMsg').innerHTML="Invalid E-mail ID"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
     }
+
 }
+
   val = tmp;
+
 }
+
+
 
 function validateEmail()
+
 {
+
 	remove_XS_whitespace(document.getElementById('subEmail').value);
+
 	if(document.getElementById('subEmail').value=="")
+
 	{
+
 		document.getElementById('errMsg').innerHTML="Please enter email id"
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 }			
+
 	if (!echeck(document.getElementById('subEmail').value))
+
 	{
+
 		document.getElementById('subEmail').focus();
+
 		return false;
+
 	}
+
 	document.getElementById('errMsg').innerHTML="";
+
 	show1();
+
 }
+
+
 
 function show1()
+
 {
+
 	document.getElementById('o1').style.display="block";
+
 	document.getElementById('o2').style.display="block";
+
 	api_add_contact(document.getElementById('subEmail').value);
+
 	//send_subscribe_mail(document.getElementById('subEmail').value);
+
 }
+
+
 
 function api_add_contact(val)
+
 {
+
 	
+
 var apikey = 'MjAyOSMjIzIwMTQtMDItMjYgMTI6MDM6NTU=';	
+
 	// Declare a variable
+
 var contact_details = {
+
       mailerid		: '40',
+
       listname		: 'Websubscribe',
+
       email			: val,
+
       prefix		: '',
+
       firstname		: '',
+
       middlename	: '',
+
       lastname		: '',
+
       telephone		: '',
+
       address		: '',
+
       city			: '',
+
       state			: '',
+
       pincode		: '',
+
       country		: '',
+
       mobile		: '',
+
       designation	: '',
+
       company		: '',
+
       companyphone	: '',
+
       birthdate		: '',
+
       anniversary	: '',
+
       extra1		: '',
+
       extra2		: ''
+
 }
+
+
 
 call_juvlon_api(apikey, 'addNSend', contact_details, function(response) 
+
 {   
+
 	//alert(response);
+
 	document.getElementById('showmsg').innerHTML="You have been subscribed to the <font color='#D77706'><b>juvlon</b></font> newsletter.";
+
 	sendToZoho();
+
 }); 
 
+
+
 }
 
+
+
 function hide1()
+
 {
+
 	document.getElementById('o1').style.display="none";
+
 	document.getElementById('o2').style.display="none";
+
 }
+
+
+
 
 
 function send_subscribe_mail(val)
+
 {
+
 	var xmlHttp;
+
 	try
+
 	{
+
 		// Firefox, Opera 8.0+, Safari
+
 		xmlHttp=new XMLHttpRequest();
+
 	}
+
 	catch (e)
+
 	{
+
 		// Internet Explorer
+
 		try	{
+
 			xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+
 		}
+
 		catch (e)
+
 		{
+
 			try {
+
 				xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+
 			}
+
 			catch (e)
+
 			{
+
 				alert("Your browser does not support AJAX!");
+
 				return false;
+
  			}
+
 		}
+
 	}
+
 	xmlHttp.onreadystatechange=function()
+
 	{
+
 		if(xmlHttp.readyState==4)
+
 		{
+
 			//alert(xmlHttp.responseText);
+
 			var response	=	"";
+
 			//if(xmlHttp.responseText == "1")
+
 			//{
+
 				document.getElementById('showmsg').innerHTML="You have been subscribed to the <font color='#D77706'><b>juvlon</b></font> newsletter.";
+
 				sendToZoho();
+
 				document.getElementById('subEmail').value = "";
+
 			//}
+
 		}
+
 	}
+
 	//xmlHttp.open("GET","http://www.juvlon.com/wp-content/themes/juvlon/sendsubscribernewsletter.php?email="+val+"&rand="+Math.random(),true);
+
 	xmlHttp.open("GET","http://www.juvlon.com/newsletterSubAJAX.php?email="+val+"&rand="+Math.random(),true);
+
 	xmlHttp.send(null);
+
 }
+
+
+
 
 
 function getXmlHttp()
+
 {
+
 	var xmlHttp;
+
 	try{
+
 		// Firefox, Opera 8.0+, Safari
+
 		xmlHttp=new XMLHttpRequest();
+
 	}catch (e){
+
 		// Internet Explorer
+
 		try{
+
 			xmlHttp=new ActiveXObject("Msxml2.XMLHTTP.6.0");
+
 		}catch (e){
+
 			try{
+
 				xmlHttp=new ActiveXObject("Msxml2.XMLHTTP.3.0");
+
 			}catch (e){
+
 				try{
+
 					xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+
 				}catch (e){
+
 					try{
+
 						xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+
 					}catch (e){
+
 						alert("Your browser does not support AJAX!");
+
 						return false;
+
 					}
+
 				}
+
 			}
+
 		}
+
 	}
+
 	return xmlHttp;
+
 }
 
+
+
 function sendToZoho()
+
 {
+
 	var ename = document.getElementById('subEmail').value;
+
 	document.getElementById('subEmail').value = "";
+
 	var str="xnQsjsdp=oGSWrw0o754$&xmIwtLD=DkNu2SYztlDu8upV3GPmNXBogz4VdScW&actionType=TGVhZHM=&Email="+ename+"&Last Name=JuvlonUser&Lead Source=juvlon_newsletter&save=Save&reset=Reset"
+
 	var url = "https://crm.zoho.com/crm/WebToLeadForm";
+
 	var params = str;
+
 	var objAjax = getXmlHttp();
+
 	var outVar = false;
+
 	if(objAjax){
+
 		objAjax.open("POST",url,false);
+
 		objAjax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
 		objAjax.setRequestHeader("Content-length", params.length);
+
 		objAjax.setRequestHeader("Connection", "close");
+
 		//var divMsg = document.getElementById('divMsg');
+
 		objAjax.onreadystatechange=function()
+
 		{
+
 			if(objAjax.readyState==4 && objAjax.status==200){
+
 				outVar = objAjax.responseText;
+
 			}else{}
+
 		}
+
 		objAjax.send(params);
+
 	}else{}
+
 	outVar = objAjax.responseText;
+
 }
+
 </script>
+
+
+
 
 
 <div class="container" style="background-color:#cccccc; width:100%; height:1200px; position:absolute; left:0px; top:0px; margin:0; display:none; z-index:100;opacity:0.5;" id="o1"></div>
 
+
+
 <div id="o2" style="margin: 0pt; width: 335px; height: 200px; position: absolute; display: none; left: 450px; top: 750px; z-index: 101;" class="container2">
+
 <table border="0" width="430" cellspacing="0" cellpadding="0">
+
     <tbody><tr>
+
         <td align="left" valign="top" class="npop_lft_curve">&nbsp;</td>
+
         <td align="left" valign="top" class="npop_top_hr">
+
         	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
 						<tbody><tr>
+
             	<td width="346" align="left" style="padding-left:0px;" class="npop_tle pop_jpg_icon_img"><strong>Thank you</strong></td>
+
       				<td width="44" align="right" style="padding-top:20px;"><a href="javascript:void(0);" onclick="hide_export_report();"><img src="http://www.juvlon.com/wp-content/themes/juvlon/images/pop_icon_close.jpg" alt="close" width="15" height="15" border="0"></a></td>
+
 						</tr>
+
 					</tbody></table>
+
        </td>
+
         <td align="left" valign="top" class="npop_right_curve">&nbsp;</td>
+
 	</tr>
+
   <tr>
+
 		<td align="left" valign="top" class="npop_lft_vr">&nbsp;</td>
+
         <td bgcolor="#FFFFFF">
+
         	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -527,7 +812,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 	<td>&nbsp;</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -559,7 +876,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -591,6 +940,22 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                	</tr>
 
 
@@ -607,7 +972,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -639,6 +1036,22 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               	</tr>
 
 
@@ -655,7 +1068,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -687,6 +1132,22 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               	</tr>
 
 
@@ -703,7 +1164,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -735,7 +1228,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     	<table border="0" cellspacing="0" cellpadding="0" style="cursor:pointer;" onclick="hide_export_report();">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -767,7 +1292,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                 <td width="14" class="norg_lft_cur_btn">&nbsp;</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -799,7 +1356,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                 <td width="31" class="norg_rgt_cur_btn">&nbsp;</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -831,7 +1420,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                         </tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -863,7 +1484,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -895,7 +1548,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -927,7 +1612,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -959,7 +1676,39 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <td align="left" valign="top" class="npop_down_lft_curve">&nbsp;</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -991,6 +1740,22 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <td align="left" valign="top" class="npop_down_right_curve">&nbsp;</td>
 
 
@@ -1007,7 +1772,55 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   	</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1071,7 +1884,71 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1135,7 +2012,71 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="footermain">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1171,7 +2112,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div class="footerfirstdiv">
+
+
+
+
 
 
 
@@ -1179,7 +2128,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <br><div class="footerlink">
+
+
+
+
 
 
 
@@ -1187,7 +2144,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a href="http://www.juvlon.com/about-us/our-team/" class="footerlink">Our Team</a><br>
+
+
+
+
 
 
 
@@ -1195,7 +2160,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a href="http://www.juvlon.com/about-us/our-clients/" class="footerlink">Our Clients</a><br>
+
+
+
+
 
 
 
@@ -1203,19 +2176,41 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a href="http://www.juvlon.com/about-us/contact-us/" class="footerlink">Contact Us</a><br>
 
 
 
+
+
+
+
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
 <!--first end-->
+
+
+
+
+
+
 
 
 
@@ -1227,7 +2222,17 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
 <!--second div start -->
+
+
+
+
 
 
 
@@ -1235,7 +2240,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div>Get the Newsletter</div>
+
+
+
+
 
 
 
@@ -1243,7 +2256,15 @@ function sendToZoho()
 
 
 
-<a class="footerlink" href="http://www.juvlon.com/news/juvlon-with-api-integration" target="_blank">Get tips to improve your online marketing.View the latest newsletter.</a>
+
+
+
+
+<a class="footerlink" href="http://www.juvlon.com/newsletters" target="_blank">Get tips to improve your online marketing.View the latest newsletter.</a>
+
+
+
+
 
 
 
@@ -1251,7 +2272,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div id="errMsg" style="color:#FF0000"></div>
+
+
+
+
 
 
 
@@ -1259,7 +2288,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div class="btndiv">
+
+
+
+
 
 
 
@@ -1267,19 +2304,43 @@ function sendToZoho()
 
 
 
-</div>
 
-
-
-</div>
 
 
 
 </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
 
 
 
 <!--second end-->
+
+
+
+
+
+
+
+
 
 
 
@@ -1295,7 +2356,19 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
 <!--third div start -->
+
+
+
+
 
 
 
@@ -1303,7 +2376,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div>Legal Info</div>
+
+
+
+
 
 
 
@@ -1311,7 +2392,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a href="http://www.juvlon.com/legal-info/terms-of-use/" class="footerlink">Terms of use</a><br>
+
+
+
+
 
 
 
@@ -1319,19 +2408,43 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a href="http://www.juvlon.com/legal-info/anti-spam-policy/" class="footerlink">Anti-Spam policy</a><br>
 
 
 
+
+
+
+
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
 <!--third end-->
+
+
+
+
+
+
+
+
 
 
 
@@ -1347,7 +2460,19 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
 <!--fourth div start -->
+
+
+
+
 
 
 
@@ -1355,7 +2480,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div>Get news &amp; views</div>
+
+
+
+
 
 
 
@@ -1363,11 +2496,23 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a target="_blank" onclick="_gaq.push(['_trackPageview', '/virtual/outbound/twitter.htm']);" href="http://twitter.com/juvlon"><img src="http://www.juvlon.com/wp-content/themes/juvlon/images/twitter.jpg" width="95" height="27" border="0" alt="Twitter"></a>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -1375,7 +2520,23 @@ function sendToZoho()
 
 
 
-<a target="_blank" onclick="_gaq.push(['_trackPageview', '/virtual/outbound/fb.htm']);" href="http://www.facebook.com/juvlon"><img src="http://www.juvlon.com/wp-content/themes/juvlon/images/facebook.jpg" width="95" height="27" border="0" alt="Facebook"></a></div>
+
+
+
+
+<a target="_blank" onclick="_gaq.push(['_trackPageview', '/virtual/outbound/fb.htm']);" href="https://www.facebook.com/pages/Juvlon-Email-Marketing/767844016591974"><img src="http://www.juvlon.com/wp-content/themes/juvlon/images/facebook.jpg" width="95" height="27" border="0" alt="Facebook"></a></div>
+
+<div>
+
+
+
+
+
+
+
+<a onclick="_gaq.push(['_trackPageview', '/virtual/outbound/linkdin.htm']);" href="https://www.linkedin.com/groups/Juvlon-Email-Marketing-Group-6729954"><img src="http://www.juvlon.com/wp-content/themes/juvlon/images/linkdin.gif" width="95" height="27" border="0" alt="Linkdin"></a></div>
+
+
 
 
 
@@ -1383,7 +2544,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a target="_blank" onclick="_gaq.push(['_trackPageview', '/virtual/outbound/youtube.htm']);" href="http://www.youtube.com/user/juvlon"><img src="http://www.juvlon.com/wp-content/themes/juvlon/images/youtube.jpg" width="95" height="27" border="0" alt="youtube"></a> 
+
+
+
+
 
 
 
@@ -1391,25 +2560,49 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div class="footerimggoog"><!-- Place this tag where you want the +1 button to render -->
+
+
 
 <g:plusone></g:plusone>
 
 
 
+
+
+
+
 <!-- Place this render call where appropriate -->
+
+
 
 <script type="text/javascript">
 
+
+
   (function() {
+
+
 
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
 
+
+
     po.src = 'https://apis.google.com/js/plusone.js';
+
+
 
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 
+
+
   })();
+
+
 
 </script></div>
 
@@ -1417,11 +2610,29 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
 </div>
 
 
 
+
+
+
+
 <!--fourth div end-->
+
+
+
+
+
+
+
+
 
 
 
@@ -1437,7 +2648,19 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
 <!--fifth div start -->
+
+
+
+
 
 
 
@@ -1445,7 +2668,15 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div>Secure Shopping</div>
+
+
+
+
 
 
 
@@ -1453,11 +2684,23 @@ function sendToZoho()
 
 
 
+
+
+
+
 <a href="http://www.juvlon.com/secure-shopping/what-is-thawte/" class="footerlink">What is thawte?</a>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -1465,11 +2708,23 @@ function sendToZoho()
 
 
 
+
+
+
+
 <div class="float">
+
+
 
 <img src="http://www.juvlon.com/wp-content/themes/juvlon/images/thawte_logo.jpg" width="85" height="80">
 
+
+
 <!--<div id="thawteseal" style="text-align:center;" title="Click to Verify - This site chose Thawte SSL for secure e-commerce and confidential communications.">
+
+
+
+
 
 
 
@@ -1477,15 +2732,31 @@ function sendToZoho()
 
 
 
+
+
+
+
 </div>-->
 
 
 
+
+
+
+
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -1493,15 +2764,31 @@ function sendToZoho()
 
 
 
+
+
+
+
 <img src="http://www.juvlon.com/wp-content/themes/juvlon/images/visaimg.jpg">
 
 
 
+
+
+
+
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -1513,11 +2800,31 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -1533,8 +2840,33 @@ function sendToZoho()
 
 
 
+
+
+
+
+
+
+
+
 <br>
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1552,40 +2884,100 @@ function sendToZoho()
 
 <!-- <script type="text/javascript" src="http://www.juvlon.com/wp-content/themes/juvlon/ga_code.js" language="javascript"></script> -->
 
+
+
 <!-- Google Code for Remarketing Tag -->
+
 <script type="text/javascript">
+
 /* <![CDATA[ */
+
 var google_conversion_id = 1000781625;
+
 var google_custom_params = window.google_tag_params;
+
 var google_remarketing_only = true;
+
 /* ]]> */
+
 </script>
+
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
 </script>
+
 <noscript>
+
 <div style="display:inline;">
+
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000781625/?value=0&amp;guid=ON&amp;script=0"/>
+
 </div>
+
 </noscript>
+
 <!-- Google Code for Remarketing Tag -->
+
+
+
+
 
 
 
 <script type="text/javascript" language="javascript">
+
 var _gaq = _gaq || [];
+
   _gaq.push(['_setAccount', 'UA-19770784-1']);
+
   _gaq.push(['_setDomainName', 'juvlon.com']);
+
   _gaq.push(['_trackPageview']);
+
   _gaq.push(['_setAllowHash', false]);
+
   _gaq.push(['_setAllowLinker', true]);
+
   _gaq.push(['_trackPageLoadTime']);
 
+
+
   (function() {
+
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
   })();
+
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
