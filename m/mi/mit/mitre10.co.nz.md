@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505081058id_/http%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104013001id_/http%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy - Mitre 10
 
@@ -41,6 +41,6 @@ If you have any questions or comments about this Privacy Statement, or if you wo
 
 Your information will be held by us at 46 View Road, Wairau Valley, Auckland 0627.
 
-For more information on our privacy practices, see our full [Privacy Statement](http://www.mitre10.co.nz/Image/pdfs/2013%2012%20M10%20Privacy%20Statement%20v9%20Full.pdf).
+For more information on our privacy practices, see our full [Privacy Statement](https://web.archive.org/Image/pdfs/2013%2012%20M10%20Privacy%20Statement%20v9%20Full.pdf).
 
 Last updated: This privacy statement was last updated on 13th December 2013.
