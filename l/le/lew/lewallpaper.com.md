@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lewallpaper.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505192620id_/http%3A//www.lewallpaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewallpaper.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104205947id_/http%3A//www.lewallpaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Policy - leWallpaper.com
 
