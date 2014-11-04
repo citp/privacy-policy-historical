@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222202029id_/http%3A//www.ncl.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104220417id_/http%3A//www.ncl.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,8 @@ Norwegian Cruise Line
 Internet Development Department  
 7665 Corporate Center Drive  
 Miami, Florida 33126  
-(305) 436-4000
+(305) 436-4000  
+
 
 Please allow up to 2 weeks to be unsubscribed from all NCL emails.
 
