@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the favethemes.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507040546id_/http%3A//favethemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favethemes.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104050723id_/http%3A//support.favethemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Favethemes - Premium WordPress Themes
+# Privacy Policy – Customer Support Forum
 
 At Favethemes, we collect and manage user data according to the following Privacy Policy. This document is part of Favethemes Terms of Use, and by using Favethemes.com (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Use. Please read the Terms of Use in their entirety, and refer to those for definitions and contacts.
 
@@ -101,5 +101,3 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 Should you have any question or concern, you can contact us by email.
 
 _Last updated: 07 Feb 2014_
-
-© 2014 Favethemes – Premium WordPress Themes
