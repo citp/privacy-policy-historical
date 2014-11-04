@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the templates-royal.de privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103012341id_/http%3A//www.templates-royal.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates-royal.de privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104204142id_/http%3A//www.gamer-templates.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CMS Templates - templates-Royal.com
+# Privacy Policy - Gamer Templates Directory
 
-Privacy Policy  
 Google Analytics  
 This site use Google Analytics.
 
@@ -87,5 +86,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 * * *
 
 Contacting Us  
-If there are any questions regarding this privacy policy you may [contact us](http://www.templates-royal.com/imprint.html "contact us").  
+If there are any questions regarding this privacy policy you may [contact us](http://www.gamer-templates.com/contact.html "contact us").  
 
