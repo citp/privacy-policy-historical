@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the intofilm.org privacy policy that was archived on 2014-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140504194744id_/http%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intofilm.org privacy policy that was archived on 2014-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104192852id_/http%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js "><!--<![endif]--><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta charset="utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwADU19SGwAHU1JWDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     
     <title>Privacy policy - Into Film</title><meta name="keywords" content="Into Film, Film club, FILMCLUB, First Light, Filmmaking, Film, Free Films, Resources, Teacher Training, CPD, Film Industry, Watching Films, Children, Young People, Education, Curriculum, Film Education, Teaching Film, Learning Film,">
 <meta name="description" content="Privacy policy">    <meta name="author" content="Aerian Studios">
@@ -14,7 +14,9 @@
     <meta name="geo.region" content="gb">
         
     <link rel="shortcut icon" href="/img/f/favicon.ico"> 
-    <link href="/v1.6.10/css/screen.css" media="screen, print" rel="stylesheet" type="text/css">        <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <link href="/v1.11.24/css/screen2.css" media="screen, print" rel="stylesheet" type="text/css">
+<link href="/v1.11.24/css/screen.css" media="screen, print" rel="stylesheet" type="text/css">
+<!--[if IE]> <link href="/v1.11.24/css/ie.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->        <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
             { (i[r].q=i[r].q||[]).push(arguments)}
             ,i[r].l=1*new Date();a=s.createElement(o),
@@ -27,62 +29,29 @@
     <![endif]-->
     
 </head>
-    <body class="intofilm ">
+    <body class="intofilm default">
 
         <header class="header page-header" id="page-header">
-    <div class="header-bar container">
-        <a class="company-logo" href="/" tabindex="1"><img src="/img/f/logo-large.png" height="123" width="214" alt="intofilm homepage"></a>
-        <div class="social">
-            <div class="subscription">
-                <form action="/newsletter" accept-charset="utf-8" method="post" enctype="multipart/form-data" class="form">
-                    <fieldset>
-                        <legend class="title">Subscribe &amp; manage newsletters</legend>
-                        <div class="form-element-wrapper">
-                            <div class="form-element">
-                                <label for="emailaddress" class="label">Subscribe &amp; manage newsletters</label>
-                                <input type="text" class="input-text" id="emailaddress" name="email" placeholder="email address">
-                            </div>
-                        </div>
-                        <div class="form-element-wrapper element-Submit form-element-wrapper-submit">
-                            <div class="form-element">
-                                <input type="submit" class="input-submit btn" value="SUBSCRIBE" id="Send" name="Submit">
-                            </div>
-                        </div>
-                    </fieldset>
-                </form>
-            </div>
-            <ul class="social-icons">
-                <li class="icon twitter">
-                    <a href="https://twitter.com/getintofilm" title="Into Film on Twitter"><i class="fa fa-twitter fa-2x"><span>Twitter</span></i></a>
-                </li>
-                <li class="icon facebook">
-                    <a href="http://www.facebook.com/getintofilm" title="Into Film on Facebook"><i class="fa fa-facebook fa-2x"><span>Facebook</span></i></a>
-                </li>
-                <li class="icon youtube">
-                    <a href="http://www.youtube.com/user/filmclubuk" title="Into Film on YouTube"><i class="fa fa-youtube fa-2x"><span>YouTube</span></i></a>
-                </li>
-            </ul>
-        </div>
-    </div>
     
 <a class="accessible" href="#main">[Skip to Content]</a>
 
 <a name="main"> </a>
 
 <div class="navbar-wrapper">
-    <nav class="navbar navbar-default container" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <i class="fa fa-bars"></i>
-            </button>
-            <a class="logo" title="home" href="/" tabindex="1"><img src="/img/f/logo-small.png" height="42" width="73" alt="intofilm-logo"></a>
-        </div>
+    <nav class="navbar navbar-default" role="navigation" id="slide-nav">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-target="navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <i class="fa fa-bars fa-2x"></i>
+                </button>
+                <a class="logo" title="home" href="/" tabindex="1"><img src="/img/f/logo-small.png" height="42" width="73" alt="intofilm-logo"></a>
+            </div>
 
-                <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-                <li class="first dropdown"><a class="dropdown-toggle disabled" href="/schools-and-colleges" title="Into Film offers schools and colleges the opportunity to use film as a powerful tool for learning in the classroom. Educators can set up their own film club, giving students the opportunity to watch, discuss and review a huge range of films, as well as all the guidance to introduce filmmaking into school projects." tabindex="2" data-toggle="dropdown">Schools and Colleges <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu"><div class="container"><div class="page-intro"><h3>Schools and Colleges</h3><p>Into Film offers schools and colleges the opportunity to use film as a powerful tool for learning in the classroom. Educators can set up their own film club, giving students the opportunity to watch, discuss and review a huge range of films, as well as all the guidance to introduce filmmaking into school projects. </p><a class="btn" href="/schools-and-colleges">Find out more</a></div><ul class="subpages"><li><a href="/schools-film-clubs" title="Film clubs">
+                        <div id="slidemenu">
+                <ul class="nav navbar-nav">
+                    <li class="first dropdown"><a class="dropdown-toggle disabled" href="/schools-and-colleges" title="Into Film offers schools and colleges the opportunity to use film as a powerful tool for learning in the classroom. Educators can set up their own film club, giving students the opportunity to watch, discuss and review a huge range of films, as well as all the guidance to introduce filmmaking into school projects." tabindex="2" data-toggle="dropdown">Schools and Colleges <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu"><div class="container"><div class="page-intro"><h3>Schools and Colleges</h3><p>Into Film offers schools and colleges the opportunity to use film as a powerful tool for learning in the classroom. Educators can set up their own film club, giving students the opportunity to watch, discuss and review a huge range of films, as well as all the guidance to introduce filmmaking into school projects. </p><a class="btn" href="/schools-and-colleges">Find out more</a></div><ul class="subpages"><li><a href="/schools-film-clubs" title="Film clubs">
     <figure class="image"><img src="/images/17/scaledcropped/104x66/resources/17/england-large-2.jpg" alt="Film clubs">    </figure>
     <span class="title">Film clubs</span>
     <span>Start a film club to enjoy access to thousands of films.</span>
@@ -114,10 +83,6 @@
     <figure class="image"><img src="/images/101/scaledcropped/104x66/resources/101/teachertraining-large-4.jpg" alt="Training and development">    </figure>
     <span class="title">Training and development</span>
     <span>Teacher training and CPD.</span>
-</a></li><li><a href="/festival" title="Into Film Festival ">
-    <figure class="image"><img src="/images/62/scaledcropped/104x66/resources/62/nyff-large-3.jpg" alt="Into Film Festival ">    </figure>
-    <span class="title">Into Film Festival </span>
-    <span>Register your interest in the upcoming Into Film Festival. </span>
 </a></li></ul></div></div></li><li class="dropdown"><a class="dropdown-toggle disabled" href="/out-of-school" title="The Into Film programme can be harnessed in out of school settings such as youth clubs, community groups and libraries. Group leaders can contribute to the cultural, creative and personal development of their members by sharing filmmaking skills and setting up their very own film club to watch a huge range of films." tabindex="4" data-toggle="dropdown">Out of School <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu"><div class="container"><div class="page-intro"><h3>Out of School</h3><p>The Into Film programme can be harnessed in out of school settings such as youth clubs, community groups and libraries. Group leaders can contribute to the cultural, creative and personal development of their members by sharing filmmaking skills and setting up their very own film club to watch a huge range of films.</p><a class="btn" href="/out-of-school">Find out more</a></div><ul class="subpages"><li><a href="/out-of-school-film-clubs" title="Film clubs">
     <figure class="image"><img src="/images/18/scaledcropped/104x66/resources/18/england-large-3.jpg" alt="Film clubs">    </figure>
     <span class="title">Film clubs</span>
@@ -150,10 +115,6 @@
     <figure class="image"><img src="/images/104/scaledcropped/104x66/resources/104/teachertraining-large-7.jpg" alt="Training and development">    </figure>
     <span class="title">Training and development</span>
     <span>Training and CPD.</span>
-</a></li><li><a href="/festival" title="Into Film Festival ">
-    <figure class="image"><img src="/images/62/scaledcropped/104x66/resources/62/nyff-large-3.jpg" alt="Into Film Festival ">    </figure>
-    <span class="title">Into Film Festival </span>
-    <span>Register your interest in the upcoming Into Film Festival. </span>
 </a></li></ul></div></div></li><li class="dropdown"><a class="dropdown-toggle disabled" href="/children-and-young-people" title="If you're a film fan aged 5—19 and you live in the UK, we have great opportunities for you to continue your journey into the world of film." tabindex="6" data-toggle="dropdown">Children and Young People <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu"><div class="container"><div class="page-intro"><h3>Children and Young People</h3><p>If you're a film fan aged 5—19 and you live in the UK, we have great opportunities for you to continue your journey into the world of film.</p><a class="btn" href="/children-and-young-people">Find out more</a></div><ul class="subpages"><li><a href="/what-is-on-offer" title="What is on offer?">
     <figure class="image"><img src="/images/67/scaledcropped/104x66/resources/67/nyff-large-8.jpg" alt="What is on offer?">    </figure>
     <span class="title">What is on offer?</span>
@@ -162,6 +123,10 @@
     <figure class="image"><img src="/images/139/scaledcropped/104x66/resources/139/filmmaking-jake-large.jpg" alt="Talent Development">    </figure>
     <span class="title">Talent Development</span>
     <span>Receive film industry training and careers advice.</span>
+</a></li><li><a href="/intofilmshow" title="Into Film Show">
+    <figure class="image"><img src="/images/518/scaledcropped/104x66/resources/518/ifshowaugust3-main.jpg" alt="Into Film Show">    </figure>
+    <span class="title">Into Film Show</span>
+    <span>The Into FIlm show is a monthly online programme for youn...</span>
 </a></li><li><a href="/young-people-youth-advisory-council" title="Youth Advisory Council">
     <figure class="image"><img src="/images/114/scaledcropped/104x66/resources/114/yac-large-7-fctshirt-photoshopped.jpg" alt="Youth Advisory Council">    </figure>
     <span class="title">Youth Advisory Council</span>
@@ -199,7 +164,7 @@
     <figure class="image"><img src="/images/110/scaledcropped/104x66/resources/110/yac-large-3.jpg" alt="Youth Advisory Council">    </figure>
     <span class="title">Youth Advisory Council</span>
     <span>Find out how children and young people guide our work.</span>
-</a></li><li><a href="/faq" title="FAQs">
+</a></li><li><a href="/faqs" title="FAQs">
     <figure class="image"><img src="/images/108/scaledcropped/104x66/resources/108/yac-large-1.jpg" alt="FAQs">    </figure>
     <span class="title">FAQs</span>
     <span>Got a question? We might just have the answer.</span>
@@ -207,22 +172,57 @@
     <figure class="image"><img src="/images/99/scaledcropped/104x66/resources/99/teachertraining-large-2.jpg" alt="Work for us">    </figure>
     <span class="title">Work for us</span>
     <span>Find out what job opportunities are on offer at Into Film.</span>
-</a></li></ul></div></div></li><li class="last"><a href="/news" title="News" tabindex="12">News</a></li>            </ul>
+</a></li></ul></div></div></li><li><a href="/news" title="News" tabindex="12">News</a></li><li class="last"><a href="/festival" title="Bookings are now open for the Into Film Festival, 4-21 November. Explore the programme." tabindex="13">Festival</a></li>                </ul>
+            </div>
         </div>
     </nav>
 </div>
     
+    <div class="header-bar container">
+        <a class="company-logo" href="/" tabindex="1"><img src="/img/f/logo-large.png" height="123" width="214" alt="intofilm homepage"></a>
+        <div class="social">
+            <div class="subscription">
+                <form action="/newsletter" accept-charset="utf-8" method="post" enctype="multipart/form-data" class="form">
+                    <fieldset>
+                        <legend class="title">Subscribe &amp; manage newsletters</legend>
+                        <div class="form-element-wrapper">
+                            <div class="form-element">
+                                <label for="emailaddress" class="label">Subscribe &amp; manage newsletters</label>
+                                <input type="text" class="input-text" id="emailaddress" name="email" placeholder="email address">
+                            </div>
+                        </div>
+                        <div class="form-element-wrapper element-Submit form-element-wrapper-submit">
+                            <div class="form-element">
+                                <input type="submit" class="input-submit btn" value="SUBSCRIBE" id="Send" name="Submit">
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+            <ul class="social-icons">
+                <li class="icon twitter">
+                    <a href="https://twitter.com/getintofilm" title="Into Film on Twitter"><i class="fa fa-twitter fa-2x"><span>Twitter</span></i></a>
+                </li>
+                <li class="icon facebook">
+                    <a href="http://www.facebook.com/getintofilm" title="Into Film on Facebook"><i class="fa fa-facebook fa-2x"><span>Facebook</span></i></a>
+                </li>
+                <li class="icon youtube">
+                    <a href="http://www.youtube.com/user/filmclubuk" title="Into Film on YouTube"><i class="fa fa-youtube fa-2x"><span>YouTube</span></i></a>
+                </li>
+            </ul>
+        </div>
+    </div>
 </header>
         <div id="wrapper" class="container">
-            <a name="main"> </a>
+            <a name="main"></a>
             <div>
     <div class="row">
         <section class="block-container block-section col-md-12 primary-container" id="primary"><div class="block block-text">
-    <h1>Privacy Policy</h1><h2>Introduction and General Terms</h2><p>Into Film is committed to protecting you and your family's personal information when you are using our services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through the Into Film website.</p><p>In order to provide you with the full range of Into Film services, we are sometimes required to collect information about you.</p><p>We are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998</p><h2>The Data Protection Act</h2><p>Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.</p><h2>What information do we collect?</h2><p>We collect three kinds of information from visitors to the Into Film site:</p><p>1) Data you give to us when you sign up to the newsletter or contact us directly</p><p>2) Anonymous site usage information using Google Analytics</p><p>3) On occasion, Into Film will conduct competitions and surveys via an authorised data capture provider.</p><p>Any information collected via such service will be shared only with Into Film and used only for the purposes of the competition or survey. Into Film will only collect the participant’s age, name, phone number or email address and will not share this information with any other third party.</p></div></section>
+    <h1>Privacy Policy</h1><h2>Introduction and General Terms</h2><p>Into Film is committed to protecting you and your family's personal information when you are using our services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through the Into Film website.</p><p>In order to provide you with the full range of Into Film services, we are sometimes required to collect information about you.</p><p>We are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998</p><h2>The Data Protection Act</h2><p>Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.</p><h2>What information do we collect?</h2><p>We collect three kinds of information from visitors to the Into Film site:</p><p>1) Data you give to us when you sign up to the newsletter or contact us directly</p><p>2) Data you give to us during the register, login process and feedback (through visitors emailing us) and anonymous site usage information using Google Analytics.</p><p>3) On occasion, Into Film will conduct competitions and surveys via an authorised data capture provider.</p><p>Any information collected via such service will be shared only with Into Film and used only for the purposes of the competition or survey.&nbsp;</p><p>Into Film will only collect the participant's age, name, phone number or email address and will not share this information with any other third party. The exception to this is the Into Film Festival. If the cinema needs to call you in an emergency (regarding your attendance at an Into &nbsp;Festival event they are hosting), they may contact you. They will not contact you for any other purpose.</p><h3>Why do you need my date of birth when I set up an Into Film account?</h3><p>Some of the content on the Into Film sites is only appropriate for certain age groups (e.g. booking tickets for the Into Film Festival is restricted to adults only) so we need your date of birth to verify your age. We do not use this information for any other purpose.</p><h3>Why do you need my mobile number when I set up an Into Film account?</h3><p>We may need to contact you on your mobile if any notable problems arise with an Into Film event or service you have signed up to. (e.g. an Into Film Festival event you have booked or a Film Club you have set-up).</p><h2>Cookies</h2><p>Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookies directory of your computer. They are stored in the form of a very small text file. You can find out more about cookies on the About Cookies website.</p><p>Cookies are created when you visit intofilm.org, and we use three types of cookies:</p><p>1) Session cookie  this allows us to identify logged in users, giving them access to more of the site. This is essential for the website to operate.</p><p>2) Google Analytics cookie  this allows us to generate anonymous statistics about how many people use our site, and which pages they visit.</p><p>3) 'Accept' cookie  this tells us that a user has accepted that their anonymous information can be used as part of our analytics and statistics (as above).</p><p>In accordance with new legislation, from 26th May 2012 will allow you to actively opt-in to these cookies being stored on your computer.</p><p>You can change settings and preferences on your browser to manage and delete cookies across all websites. If you do not know how to do this, simply contact us, giving details on the type of browser you are using, and we will do our best to help.</p><p>Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.</p><h2>When will Into Film contact me?</h2><p>Into Film may contact you:</p><ul><li>In relation to the functioning of any service you have signed up for in order to ensure that the Into Film can deliver the services to you;</li><li>Where you have opted to receive further correspondence;</li><li>In relation to any contribution you have made to Into Film or to the<p>Into Film forum</p></li><li>To invite you to participate in surveys about the Into Film services (participation is always voluntary)</li><li>If you are the winner of am Into Film competition or prize</li></ul><h2>Offensive or inappropriate content </h2><p>We will delete any offensive or inappropriate content submitted to our website.</p><h2>Can I find out what personal information Into Film holds about me?</h2><p>Under the Data Protection Act you have the right to request a copy of the personal information the Into Film holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.</p><p>Please address requests and questions about this or any other question about this Privacy Policy to:</p><p>Into Film 31 Islington Green London N1 8DU</p><h2>Changes to this privacy policy</h2><p>If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.</p>        
+</div></section>
     </div>
 </div>        </div>        
-        
-        <footer id="page-footer" class="footer page-footer">
+                <footer id="page-footer" class="footer page-footer">
     <div class="container footer-content">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
@@ -266,10 +266,10 @@
                             <legend class="title">Subscribe &amp; manage newsletters</legend>
                             <div class="form-element-wrapper">
                                 <div class="form-element-label" id="email-label">
-                                    <label for="email-address">Subscribe &amp; manage newsletters</label>
+                                    <label for="footer-email-address">Subscribe &amp; manage newsletters</label>
                                 </div>
                                 <div class="form-element">
-                                    <input type="text" class="input-text" id="email-address" name="email" placeholder="email address">
+                                    <input type="text" class="input-text" id="footer-email-address" name="email" placeholder="email address">
                                 </div>
                             </div>
                             <div class="form-element-wrapper element-Submit form-element-wrapper-submit">
@@ -319,7 +319,7 @@
         </div>
     </div>
 </footer>         
-        <script src="/v1.6.10/js/main.min.js"></script>    
+        <script src="/v1.11.24/js/main.min.js"></script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"4171e32a74","applicationID":"3773482","transactionName":"ZlRRY0YEVkMEW0VZXl8eclRADFdeSlxUVlBEXUcYRARfVUpbXl5FVF9HGkQEX1U=","queueTime":0,"applicationTime":330,"ttGuid":"","agentToken":"","atts":"ShNSFQ4eRU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
     
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
