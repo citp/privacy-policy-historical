@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drgrab.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052214id_/http%3A//www.drgrab.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgrab.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104151322id_/http%3A//www.drgrab.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrGrab
 
 #### 1\. Protecting You
 
-The DrGrab website www.DrGrab.com is owned and operated by DrGrab Pty Limited. DrGrab Pty Limited ("DrGrab", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully. 
+The DrGrab website www.drgrab.com is owned and operated by DrGrab Pty Limited. DrGrab Pty Limited ("DrGrab", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully. 
 
 Please note that use of the Website by you is subject to this privacy policy (the "Policy") and the Website’s terms and conditions of use("Terms and Conditions"). Where this Policy uses a word starting with a capital letter, that term will be defined in the Terms and Conditions or elsewhere in this Policy.
 
@@ -78,8 +78,14 @@ If there is a sale, merger, consolidation, change in control, transfer of substa
 
 #### 8\. Customer Service
 
-If you have any questions or concerns, or if you wish to request access to your personal information held by DrGrab, please feel free to contact us at support@DrGrab.com.
+If you have any questions or concerns, or if you wish to request access to your personal information held by DrGrab, please feel free to contact us at support@drgrab.com.
 
-#### 9\. Changes to this Policy
+#### 9.DISCLAIMER:
+
+When purchasing products from this Website, the Customer acknowledges and accept the payment of the products will be transferred to third-party operated payment systems. The Customer’s basic financial information may be disclosed to the third-party operated payment systems and its operating/controlling entity. 
+
+All information received by the third-party operated payments systems and its operating/controlling entity shall be managed in accordance with its Privacy Statement and Terms and Conditions found HERE. The Customer waive all rights to bring legal proceedings against the third-party operated payment systems and its operating/controlling entity in regards to the entity’s capacity to receive payments for the operation of the Website in relation to products supplied by the Website operator as a result of payment from the Website.
+
+#### 10\. Changes to this Policy
 
 Please note that this Policy forms part of the Terms & Conditions for use of this Website and forms part of the Agreement between you and us. We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website. Depending on the nature of the change, we may announce the change: (a) on the home page of the Website, or (b) by email, if we have your email address. However, in any event, by continuing to use the Website following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your use of the Website.
