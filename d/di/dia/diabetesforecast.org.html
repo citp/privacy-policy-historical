@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the diabetesforecast.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626051153id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diabetesforecast.org privacy policy that was archived on 2014-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141104225820id_/http%3A//www.diabetes.org/about-us/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head>
 
 
 
 
 
 <meta name="generator" content="Convio CMS"> 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/2445.js?439001" async="" type="text/javascript"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/2445.js?439001" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,12 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1098:0';
-CONVIO.pageSessionID = '545238C8169E570D8DBA4925F7E82C32.app244b';
+CONVIO.pageSessionID = 'B83190CE64E261444CD7BF047C253F34.app212b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1403688553509"></script><script type="text/javascript" src="http://main.diabetes.org/site/AnonymousLogin?SSO=e1fc3c56e4ab98285038e543dbc620dfece878bf&amp;NEXTURL=http%3A%2F%2Fwww.diabetes.org%2Fsystem%2Fauth%2Fsession-status.jsp%3Fnocache%3D1403688553509&amp;timestamp=2014-06-26T07:24:01.094Z&amp;format=JSON&amp;callback=CONVIO.checkAuthStatus"></script>
-
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1415323686042"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -49,11 +48,22 @@ deleteCookie("CONVIO.referrer");
 <meta name="description" content="Your privacy is important to us. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.">
 <link rel="canonical" href="http://www.diabetes.org/about-us/policies/privacy-policy.html">
 
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Privacy Policy">
+<meta itemprop="description" content="Your privacy is important to us. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.">
+<meta itemprop="image" content="http://main.diabetes.org/dorg/images/stopd-icon.png">
+
+
+
+<!-- Open Graph data-->
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:site_name" content="American Diabetes Association">
 <meta property="og:url" content="http://www.diabetes.org/about-us/policies/privacy-policy.html">
 <meta property="og:description" content="Your privacy is important to us. To protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.">
 <meta property="og:image" content="http://main.diabetes.org/dorg/images/stopd-icon.png">
+<meta property="fb:admins" content="4804487,581907315">
+
+<meta property="twitter:account_id" content="23794763">
 
 
 
@@ -76,6 +86,7 @@ deleteCookie("CONVIO.referrer");
 <script src="http://main.diabetes.org/dorg/js/2013-template/touchswipe.min.js"></script>
 <script src="http://main.diabetes.org/dorg/js/2013-template/responsive.js"></script>
 <script src="http://main.diabetes.org/dorg/js/2013-template/script.js"></script>
+
 
 <!-- removed assets/js/jquery-ui-touch-punch-min.js -->
 
@@ -292,6 +303,115 @@ jQuery(document).ready(function() {
 
 
 
+<!-- RED UA ANALYTICS APPEND 07102014 -->
+<!-- Start: Fundraising Acct -  Universal Analytics / RED -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2200333-66', 'diabetes.org');
+
+ var url = document.location.href;
+ url = url.toLowerCase();
+
+
+//Filter URLs
+ if ((
+(url.indexOf("/site/donation2")  >=0) 
+|| (url.indexOf("donations.diabetes.org/site/spageserver?") >=0)
+|| (url.indexOf("www.diabetes.org") >=0) 
+|| (url.indexOf("/goh/")  >=0) 
+)
+&&  (!(url.indexOf("fr_id=")>=0 )) 
+&&  (!(url.indexOf("NEXTURL=")>=0 ))
+)
+{
+//First clean up and break the main URL 
+    var trackingURL;
+    var baseURL=[];
+    if (url.indexOf(";jsessionid") >= 0) //take out the session id
+	{ 
+	       url = url.substring(0,url.indexOf(";jsessionid")) + url.substring(url.indexOf("?"));
+		
+	} 
+
+    if (url.indexOf("#sthash") >= 0) //take out the sthash
+	{ 
+	       url = url.substring(0,url.indexOf("#sthash"));
+		
+	} 	 
+
+
+	if (url.indexOf("?") >= 0)
+		{ 
+ 
+        	baseURL = url.split("?");
+		} 
+	else 
+		{	
+            baseURL[0] = url;		
+		}
+
+
+		if (url.indexOf("www.diabetes.org") >=0) 
+		{
+			trackingURL= baseURL[0];
+		}
+		else 
+		{
+			//Start the formatting process 
+			trackingURL= baseURL[0]+"?"; 
+			
+	
+		var paramsURL =  baseURL[1].split("&");	
+		//this is only for dForms -- move inside IF
+		for (var i=0;i<paramsURL.length;i++)
+		{ 
+			if  (paramsURL[i].indexOf("df_id")!=-1){
+			trackingURL = trackingURL  +  paramsURL[i]+"&";
+                break;
+			}
+		}
+    
+		for (var i=0;i<paramsURL.length;i++)
+		{ 
+			if  (paramsURL[i].indexOf(".donation=")!=-1) { 
+			trackingURL = trackingURL  +  paramsURL[i];
+                break;
+			}
+		}	
+
+		for (var i=0;i<paramsURL.length;i++)
+		{ 
+			if (paramsURL[i].indexOf("pagename")!=-1) {
+			trackingURL = trackingURL  +  paramsURL[i];
+                break;
+			}
+		}	
+	
+		} //End of formatting process for dForms
+
+		if (trackingURL.indexOf("https") >= 0) {
+			trackingURL = trackingURL.replace(/^https?:\/\//,'');
+		} else { 
+			trackingURL = trackingURL.replace(/^http?:\/\//,'');
+		}
+		
+	//end else if there is URL parameter
+
+//Track the reformatted URL as a pageview 
+ ga('send','pageview', trackingURL);
+
+
+ 
+} //End Tracking condition.
+</script>
+
+<!-- End: Fundraising Acct - Universal Tracking/RED -->
+
+
+
 
 
 <!-- End GA Code -->
@@ -319,7 +439,7 @@ jQuery(document).ready(function() {
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="http://4351911.fls.doubleclick.net/activityi;src=4351911;type=RT;cat=RT-NS;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class=""><iframe src="http://4351911.fls.doubleclick.net/activityi;src=4351911;type=RT;cat=RT-NS;ord=9128233378667.695?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class=""><iframe src="http://4351911.fls.doubleclick.net/activityi;src=4351911;type=RT;cat=RT-NS;ord=471959127303.0699?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	<iframe src="http://4351911.fls.doubleclick.net/activityi;src=4351911;type=RT;cat=RT-NS;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
@@ -440,28 +560,26 @@ document.write('<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p align="center"><strong>
-<a href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header" target="_blank">Donate Today!</a>
+<a href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header">Donate Today!</a>
 <br>
 <a href="https://www.pubservice.com/ADA/DF/subnew1page.aspx?PC=DF&PK=M41003&loc=header">Become a Member</a></strong>
 <br><br>
 This site is best viewed in Internet Explorer 8 or later.</p>
-
 <![endif]-->
-
-
-<h1 id="site-logo"><a href="/?loc=logo"><img src="http://main.diabetes.org/dorg/images/2013-template/ada-logo.png" alt="American Diabetes Association"></a></h1>
+<h1 id="site-logo"><a href="http://www.diabetes.org?loc=logo"><img src="http://main.diabetes.org/dorg/images/2013-template/ada-logo.png" alt="American Diabetes Association"></a></h1>
 <p>
-<a id="btn-donate" href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header" target="_blank"><span>Donate Today!</span></a>
+<a id="btn-donate" href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header"><span>Donate Today!</span></a>
 <a id="btn-member" href="http://www.diabetes.org/in-my-community/become-a-member/?loc=header"><span>Become a Member</span></a></p>
-
 <div id="btn-donate-2014">
 <strong><a href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=donate-now">Donate Now!</a></strong>
-<a class="first" href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=one-time" target="_blank">One Time</a>
-<a href="http://main.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=monthly" target="_blank">Monthly</a>
-<a href="http://main.diabetes.org/site/Donation2?df_id=7680&amp;7680.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=in-memorial" target="_blank">In Memory</a>
-<a href="http://main.diabetes.org/site/Donation2?df_id=7640&amp;7640.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=in-honor" target="_blank">In Honor</a>
-</div> <!-- end #btn-donate-new -->
-<a id="btn-member-2014" href="http://www.diabetes.org/in-my-community/become-a-member/?loc=header&amp;s_src=dorg&amp;s_subsrc=member"><span>Become a Member</span></a>
+<a class="first" href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=one-time">One Time</a>
+<a href="http://main.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=monthly">Monthly</a>
+<a href="http://main.diabetes.org/site/Donation2?df_id=7680&amp;7680.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=in-memorial">In Memory</a>
+<a href="http://main.diabetes.org/site/Donation2?df_id=7640&amp;7640.donation=form1&amp;loc=header&amp;s_src=dorg&amp;s_subsrc=in-honor">In Honor</a>
+</div>
+<!-- end #btn-donate-new -->
+<p>
+<a id="btn-member-2014" href="http://www.diabetes.org/in-my-community/become-a-member/?loc=header&amp;s_src=dorg&amp;s_subsrc=member"><span>Become a Member</span></a></p>
   
 
 <nav class="nav-utility">
@@ -480,21 +598,20 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 </nav>
 
 <form id="site-search" action="http://google.diabetes.org/search" method="get">
-	<label for="keyword">Search:</label><input id="keyword" name="q" type="search"> <button class="search">Search</button>
-
-		<input type="hidden" name="site" value="Diabetes">
-	<input type="hidden" name="client" value="diabetes">  
-	<input type="hidden" name="sort" value="date:D:L:d1">
-	<input type="hidden" name="entqr" value="0">
-	<input type="hidden" name="oe" value="UTF-8">
-	<input type="hidden" name="ie" value="UTF-8">
-	<input type="hidden" name="ud" value="1">
-	<input type="hidden" name="proxystylesheet" value="diabetes">
-	<input type="hidden" name="output" value="xml_no_dtd">
-		</form>
-		<span id="btn-banner-bar"><span>More Sites</span></span>
-		<span id="btn-search">Search</span>
-		<span id="btn-nav">≡</span>
+    <input type="hidden" name="site" value="Diabetes">
+    <input type="hidden" name="client" value="diabetes">
+    <input type="hidden" name="entqr" value="3">
+    <input type="hidden" name="oe" value="ISO-8859-1">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="hidden" name="ud" value="1">
+    <input type="hidden" name="proxystylesheet" value="diabetes">
+    <input type="hidden" name="output" value="xml_no_dtd">
+    <input type="hidden" name="proxyreload" value="1">
+    <label for="keyword">Search:</label><input id="keyword" name="q" type="search"> <button class="search">Search</button>
+</form>
+<span id="btn-banner-bar"><span>More Sites</span></span>
+<span id="btn-search">Search</span>
+<span id="btn-nav">≡</span>
 
 
  
@@ -644,6 +761,7 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 			</li>
 			<li><a href="http://www.diabetes.org/diabetes-basics/genetics-of-diabetes.html?loc=db-slabnav">Genetics of Diabetes</a></li>
 			<li><a href="http://www.diabetes.org/diabetes-basics/myths/?loc=db-slabnav">Diabetes Myths</a></li>
+			<li><a href="http://www.diabetes.org/diabetes-basics/a-day-in-the-life-of-diabetes/?loc=db-slabnav">A Day in the Life of Diabetes</a></li>
 			<li><a href="http://www.diabetes.org/diabetes-basics/famous-people-working-to-stop-diabetes.html?loc=db-slabnav">Famous People Working to Stop Diabetes</a></li>
 			<li><a href="http://www.diabetes.org/diabetes-basics/common-terms/?loc=db-slabnav">Common Terms</a></li>
 			<li><a href="http://www.diabetes.org/diabetes-basics/statistics/?loc=db-slabnav">Diabetes Statistics</a>
@@ -674,11 +792,11 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 					<li><a href="https://donations.diabetes.org/site/SPageServer/?pagename=LWT2D_English&amp;loc=lwd-slabnav">Enroll in the Living WIth Type 2 Diabetes Program</a></li> 
 				</ul>
 			</li>
-			<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/?loc=lwd-slabnav">Know Your Rights</a>
+			<li><a href="http://www.diabetes.org/living-with-diabetes/we-can-help/?loc=lwd-slabnav">We Can Help</a>
 				<ul>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/employment-discrimination/?loc=lwd-slabnav">Employment Discrimination</a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/school-discrimination.html?loc=lwd-slabnav">School Discrimination</a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/?loc=lwd-slabnav">For Lawyers</a></li>
+					<li><a href="http://www.diabetes.org/about-us/contact-us/center-for-information-and.html">Center for Information and Community Support</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/we-can-help/legal-assistance.html?loc=lwd-slabnav">Legal Assistance</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/we-can-help/success-stories.html?loc=lwd-slabnav">Success Stories</a></li>
 				</ul>
 			</li>
 			<li><a href="http://www.diabetes.org/living-with-diabetes/complications/?loc=lwd-slabnav">Complications</a>
@@ -705,6 +823,7 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/treatment-and-care/blood-glucose-control/a1c/?loc=lwd-slabnav">A1C</a></li>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/treatment-and-care/medication/insulin/?loc=lwd-slabnav">Insulin</a></li>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/complications/pregnancy/?loc=lwd-slabnav">Pregnancy</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/recently-diagnosed/8-tips-for-caregivers.html?loc=lwd-slabnav">8 Tips for Caregivers</a></li> 
 				</ul>
 			</li>
 			<li><a href="http://www.diabetes.org/living-with-diabetes/health-insurance/?loc=lwd-slabnav">Health Insurance</a>
@@ -715,26 +834,27 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/health-insurance/options-for-individuals-and-families.html?loc=lwd-slabnav">Options for the Uninsured</a></li>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/health-insurance/medicare.html?loc=lwd-slabnav">Medicare</a></li>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/health-insurance/medicaid.html?loc=lwd-slabnav">Medicaid &amp; CHIP</a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/health-insurance/health-insurance-options-for-veterans.html?loc=lwd-slabnav">Health Insurance Options for Military</a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/health-insurance/health-insurance-in-your-state.html?loc=lwd-slabnav">Health Insurance in Your State</a></li>
+
 			</ul>
 			</li>
 			<li><a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/?loc=lwd-slabnav">For Parents &amp; Kids</a>
 				<ul>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/diabetes-care-at-school/?loc=lwd-slabnav">Safe at School</a></li>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/everyday-life/?loc=lwd-slabnav">Everyday Life </a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/family-communication/?loc=lwd-slabnav">Family Communication </a></li>
 					<li><a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/children-and-type-2/?loc=lwd-slabnav">Children and Type 2 Diabetes </a></li>
 				</ul>
 			</li>
-			<li><a href="http://www.diabetes.org/living-with-diabetes/we-can-help/?loc=lwd-slabnav">We Can Help</a>
+			<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/?loc=lwd-slabnav">Know Your Rights</a>
 				<ul>
-					<li><a href="http://www.diabetes.org/about-us/contact-us/center-for-information-and.html">Center for Information and Community Support</a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/we-can-help/legal-assistance.html?loc=lwd-slabnav">Legal Assistance</a></li>
-					<li><a href="http://www.diabetes.org/living-with-diabetes/we-can-help/success-stories.html?loc=lwd-slabnav">Success Stories</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/employment-discrimination/?loc=lwd-slabnav">Employment Discrimination</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/health-care-professionals-legal-advocacy-network/?loc=lwd-slabnav">Health Care Professionals</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/law-enforcement/?loc=lwd-slabnav">Law Enforcement</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/drivers-licenses/?loc=lwd-slabnav">Driver's License</a></li>
+					<li><a href="http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/?loc=lwd-slabnav">For Lawyers</a></li>
 				</ul>
 			</li>
 </ul>
+
 
 
       <!-- FOOD AND FITNESS -->
@@ -849,6 +969,7 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 					<li><a href="http://www.diabetes.org/in-my-community/awareness-programs/american-indian-programs/?loc=imc-slabnav">American Indian/Alaska Native Programs</a></li>
 					<li><a href="http://www.diabetes.org/in-my-community/awareness-programs/older-adults/?loc=imc-slabnav">Older Adults</a></li> 
 					<li><a href="http://www.diabetes.org/in-my-community/awareness-programs/stop-diabetes-at-work/?loc=imc-slabnav">Stop Diabetes at Work</a></li> 
+					<li><a href="http://www.diabetes.org/in-my-community/awareness-programs/family-link.html?loc=imc-slabnav">Family Link</a></li> 
 				</ul>
 			</li>
 
@@ -966,13 +1087,13 @@ This site is best viewed in Internet Explorer 8 or later.</p>
 
 <ul class="seven">
 			<li><a href="http://www.diabetes.org/research-and-practice/?loc=rp-slabnav">Research &amp; Practice Home</a></li>
-			<li><a href="http://professional.diabetes.org/?loc=rp-slabnav" target="_blank">Diabetes Pro:<br>
-Professional Resources Online</a></li>
+
 
 			<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/?loc=rp-slabnav">We Are Research Leaders</a>
 				<ul>
 					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/worlds-largest-diabetes-meeting.html?loc=rp-slabnav">World's Largest Diabetes Meeting</a></li> 
 					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/recent-advances/?loc=rp-slabnav">Recent Advances</a></li>
+					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/type-1-research-highlights/?loc=rp-slabnav">Type 1 Research Highlights</a></li>
 					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/research-excellence-honorees.html?loc=rp-slabnav">Research Excellence Honorees</a></li> 
 					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/how-grant-money-is-divided.html?loc=rp-slabnav">How Grant Money is Divided</a></li> 
 					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/seeking-100-brilliant-researchers.html?loc=rp-slabnav">Seeking 100 Brilliant Researchers</a></li>
@@ -980,10 +1101,13 @@ Professional Resources Online</a></li>
 					<li><a href="http://www.diabetes.org/research-and-practice/we-are-research-leaders/our-research-foundation/?loc=rp-slabnav">Our Research Foundation</a></li> 
 				</ul>
 			</li>
+			<li><a href="http://professional.diabetes.org/?loc=rp-slabnav" target="_blank">Diabetes Pro:<br>
+Professional Resources Online</a></li>
 
 			<li><a href="http://www.diabetes.org/research-and-practice/we-support-your-doctor/?loc=rp-slabnav">We Support Your Doctor</a>
 				<ul>
 					<li><a href="http://www.diabetes.org/research-and-practice/we-support-your-doctor/clinical-practice-recommendations.html?loc=rp-slabnav">Clinical Practice Guidelines</a></li> 
+					<li><a href="http://www.diabetes.org/research-and-practice/we-support-your-doctor/patient-education-materials.html?loc=rp-slabnav">Patient Education Materials</a></li> 
 					<li><a href="http://www.diabetes.org/research-and-practice/we-support-your-doctor/scientific-sessions.html?loc=rp-slabnav">Scientific Sessions</a></li> 
 					<li><a href="http://www.diabetes.org/research-and-practice/we-support-your-doctor/journals-for-professionals.html?loc=rp-slabnav">Journals for Professionals</a></li> 
 					<li><a href="http://www.diabetes.org/research-and-practice/we-support-your-doctor/professional-books.html?loc=rp-slabnav">Professional Books</a></li> 
@@ -1061,13 +1185,13 @@ Professional Resources Online</a></li>
 			<li><a href="http://www.diabetes.org/donate/?loc=wtg-slabnav">Ways to Give Home</a></li>
 
 
-<li><a href="https://donations.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=one-time"><strong>Give a One-Time Donation</strong></a></li>
+<li><a href="https://donations.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=one-timewtgslabnav"><strong>Give a One-Time Donation</strong></a></li>
 
-<li><a href="https://donations.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=monthly">Give a Monthly Donation</a></li>
+<li><a href="https://donations.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=monthlywtgslabnav">Give a Monthly Donation</a></li>
 
-<li><a href="https://donations.diabetes.org/site/Donation2?df_id=7680&amp;7680.donation=form1&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=memorial"><strong>Give a Memorial Donation</strong></a></li>
+<li><a href="https://donations.diabetes.org/site/Donation2?df_id=7680&amp;7680.donation=form1&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=memorialwtgslabnav"><strong>Give a Memorial Donation</strong></a></li>
 
-<li><a href="https://donations.diabetes.org/site/Donation2?df_id=7640&amp;7640.donation=form1&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=honor"><strong>Give an Honor Donation</strong></a></li>
+<li><a href="https://donations.diabetes.org/site/Donation2?df_id=7640&amp;7640.donation=form1&amp;loc=wtg-slabnav&amp;s_src=dorg&amp;s_subsrc=honorwtgslabnav"><strong>Give an Honor Donation</strong></a></li>
 
 <li>&nbsp;</li>
 
@@ -1084,7 +1208,7 @@ Professional Resources Online</a></li>
 <li><a href="https://www.diabetesarchive.net/secure/donation/Donate.do?action=Wedding&amp;loc=wtg-slabnav">Wedding Favors</a></li>
 <li><a href="http://www.diabetes.org/donate/other-ways-to-give/workplace-giving/?loc=wtg-slabnav">Workplace Giving</a></li>
 <li><a href="http://www.diabetes.org/donate/other-ways-to-give/vehicle-donation.html?loc=wtg-slabnav">Vehicle Donation</a></li>
-<li><a href="https://www.diabetesarchive.net/secure/donation/Donate.do?action=Occasion?loc=wtg-slabnav">Special Occasion Donation</a></li>
+<li><a href="https://www.diabetesarchive.net/secure/donation/Donate.do?action=Occasion&amp;loc=wtg-slabnav">Special Occasion Donation</a></li>
 <li><a href="http://www.diabetes.org/donate/other-ways-to-give/giving-societies/?loc=wtg-slabnav">Giving Societies</a></li>
 <li><a href="http://www.diabetes.org/donate/planned-giving/?loc=wtg-slabnav">Planned Giving Options</a></li>
 <li><a href="http://www.diabetes.org/donate/other-ways-to-give/donate-stocks-and-mutual-fund-shares.html?loc=wtg-slabnav">Donate Stocks</a></li>
@@ -1331,9 +1455,9 @@ Professional Resources Online</a></li>
 <p>Parents and legal guardians are encouraged to contact the American Diabetes. Association at any time regarding privacy questions or concern. Parents and legal guardians may also contact us at any time to request that we delete a child’s PlanetD-ID and/or CampDiabetes Message Board registration information and/or refuse to permit further access to the PlanetD and CampDiabetes Message Boards . We will take steps to ensure that any person contacting us for a child's information is that child's parent or guardian.</p>
 <p>American Diabetes Association<br>1701 N, Beauregard Street<br>Alexandria, VA 22311<br>ATTN: Customer Service Center</p>
 <p>Phone: (703) 549-1500<br>Email: <a href="mailto:privacy@diabetes.org">privacy@diabetes.org</a></p>
-<h3>7. Email Guidelines</h3>
+<h3>7. Notification Guidelines</h3>
 <ol></ol>
-<p>The Association does not send unsolicited commercial email to individuals with whom they do not have consent/permission or a pre-existing or current business relationship.<br>The Association provides all email recipients with a clear, easy and effective method to unsubscribe to any and all online communications.</p>
+<p>The Association does not send unsolicited commercial communications to individuals with whom they do not have consent/permission or a pre-existing or current business relationship.<br>The Association provides all notified recipients with a clear, easy and effective method to unsubscribe to any and all online communications.</p>
 <h3>8. How to Correct or Update Information</h3>
 <ol></ol>
 <p>Here are the options for changing and modifying information previously provided.</p>
@@ -1349,12 +1473,32 @@ Professional Resources Online</a></li>
                         <ul class="rs_skip">
                             
                             
-                               <li>Last Reviewed: October&nbsp;15,&nbsp;2013</li>
-                               <li>Last Edited: December&nbsp;30,&nbsp;2013</li>
+                               <li>Last Reviewed: September&nbsp;30,&nbsp;2014</li>
+                               <li>Last Edited: September&nbsp;30,&nbsp;2014</li>
                             
                         </ul>
                     
                 </div>
+                
+                
+                
+                    <!-- ntent ads -->
+                    
+                    
+
+
+
+
+
+  
+
+<!--Content Type: Embedded Page. Template: Displays Body Only. Title of this embed: ntent Ad - Subpages. Location of this embed: http://www.diabetes.org/assets/embeds/ads/ntent-ad-2.html-->
+
+
+
+ 
+    <iframe src="http://main.diabetes.org/dorg/ads/ntent-02.html" scrolling="no" height="270" width="100%" frameborder="0" style="padding-top:1em; margin-top:1em; border-top:1px solid #d2d2d2;"></iframe>
+
 
                 
 
@@ -1600,21 +1744,21 @@ Professional Resources Online</a></li>
         
     
         <div class="donate promo-alt Donation ">
-            <span class="true_title" style="display: none">donate en -- Make a monthly gift. - 2014-feb-monthly-donation-tote.html</span>
+            <span class="true_title" style="display: none">donate en -- Be TWICE as AWESOME! - 2014-nov-matching-gift.html</span>
             
     
             
             
             
                 
-                    <a href="https://donations.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=donate-eng_monthly-donation_jun2014&amp;s_src=donate-eng&amp;s_subsrc=jun2014" target="_blank">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-feb-monthly-donation-footer.jpg" alt="Make a monthly gift.">
+                    <a href="http://bit.do/FMGED" target="_blank">
+                    <img src="http://www.diabetes.org/assets/img/promo/donation/2014-nov-matching-gift.jpg" alt="Be Twice as Awesome!">
                     </a>
                 
-                <strong><a href="https://donations.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=donate-eng_monthly-donation_jun2014&amp;s_src=donate-eng&amp;s_subsrc=jun2014" target="_blank">Make a monthly gift.</a></strong>
-                <p>Donate as little as $9 a month and receive a FREE STOP DIABETES® tote.</p>
+                <strong><a href="http://bit.do/FMGED" target="_blank">Be TWICE as AWESOME!</a></strong>
+                <p>Your donation can be DOUBLED during our Matching Gift Challenge.</p>
                 
-                <a href="https://donations.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=donate-eng_monthly-donation_jun2014&amp;s_src=donate-eng&amp;s_subsrc=jun2014" target="_blank" class="button">DONATE NOW</a>
+                <a href="http://bit.do/FMGED" target="_blank" class="button">Give Now</a>
                 
             
         </div>
@@ -1664,9 +1808,22 @@ Professional Resources Online</a></li>
 
 		
 
-			<div class="widget" id="chat"><a href="javascript:void(0)" target="_blank" onclick="chatWindow = window.open('http://chat.diabetesarchive.net/Code/webchatLogin.php', 'WebChat', 'width=430, height=400, resizable=0');"><span class="button">Chat Online</span></a></div>
+			<div class="widget" id="chat">
+    <a id="liveagent_button_online_573E00000000Ic1" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573E00000000Ic1')"><span class="button">Chat Online</span></a><div id="liveagent_button_offline_573E00000000Ic1" style="display: none;"><span class="button">Chat Closed</span></div>
+    <script type="text/javascript">
+		if (!window._laq) { window._laq = []; }
+		window._laq.push(function(){
+			liveagent.showWhenOnline('573E00000000Ic1', document.getElementById('liveagent_button_online_573E00000000Ic1'));
+			liveagent.showWhenOffline('573E00000000Ic1', document.getElementById('liveagent_button_offline_573E00000000Ic1'));
+			liveagent.setChatWindowWidth(550);
+		});
+    </script>
+    <script type="text/javascript" src="https://c.la1c1.salesforceliveagent.com/content/g/js/31.0/deployment.js"></script>
+    <script type="text/javascript">
+		liveagent.init('https://d.la1c1.salesforceliveagent.com/chat', '572E00000000GFy', '00DE0000000Zt7m');
+    </script>
+</div>
 <!-- end #chat .widget -->
-
 		
 
 
@@ -1719,9 +1876,6 @@ Professional Resources Online</a></li>
     
     	
         
-    
-    	
-        
         	
                 
                 
@@ -1729,22 +1883,25 @@ Professional Resources Online</a></li>
             
             
             <div class="promo engagement Engagement ">
-            <span class="true_title" style="display: none">engagement en -- Who will you ride for? - 2014-june-tour-engagement.html</span>
+            <span class="true_title" style="display: none">engagement en -- Tasty Holiday Recipes - 2014-nov-rfhl-engagement.html</span>
                 
                 
                 
                 
                 
                 	
-                        <a href="http://tour.diabetes.org/site/PageServer?pagename=TC_homepage&amp;loc=rr-eng_tour_jun2014&amp;s_src=rr-eng&amp;s_subsrc=jun2014" target="_blank">
-                        <img src="http://www.diabetes.org/assets/img/promo/engagement/2014-may-tour-engagement.jpg" alt="Take the Ride of your Life!">
+                        <a href="http://www.diabetes.org/mfa-recipes/log-in/recipes-for-healthy-living.html?loc=rr-eng_rfhl_nov2014&amp;s_src=rr-eng&amp;s_subsrc=nov2014">
+                        <img src="http://www.diabetes.org/assets/img/promo/engagement/2014-nov-rfhl-280x145.jpg" alt="Tasty Holiday Recipes">
                         </a>
                     
-                    <h3><a href="http://tour.diabetes.org/site/PageServer?pagename=TC_homepage&amp;loc=rr-eng_tour_jun2014&amp;s_src=rr-eng&amp;s_subsrc=jun2014" target="_blank">Who will you ride for?</a></h3>
-                    <p>Tour de Cure registration is underway. Take the ride of your life to help Stop Diabetes!</p>
+                    <h3><a href="http://www.diabetes.org/mfa-recipes/log-in/recipes-for-healthy-living.html?loc=rr-eng_rfhl_nov2014&amp;s_src=rr-eng&amp;s_subsrc=nov2014">Tasty Holiday Recipes</a></h3>
+                    <p>Balance your holiday favorites with healthy choices that are also packed with flavor!</p>
                     
                 
             </div>
+        
+    
+    	
         
     
 
@@ -1788,14 +1945,14 @@ Professional Resources Online</a></li>
         
     
         <div class="promo-sticky Sticky ">
-            <span class="true_title" style="display: none">sticky en -- 2014 June Smoke Sizzle Combo - 2014-june-smoke-sizzle-combo.html</span>
+            <span class="true_title" style="display: none">sticky en -- 2014 Nov Shop Holiday Sticky - 2014-nov-shop-holiday-sticky.html</span>
     
             
     
             
                 
-                    <a href="http://shopdiabetes.org/1607-SET-Perfect-Picnic-Set-Low-Fat-Grilling-And-Precise-Plating.aspx?loc=rr-shop_store-smoke-sizzle-  combo_jun2014&amp;source=rr-shop_store-smoke-sizzle-combo_jun2014" target="_blank">
-                    <img src="http://www.diabetes.org/assets/img/promo/shop/2014-june-smoke-sizzle.jpg" alt="2014 June Smoke &amp; Sizzle Combo">
+                    <a href="http://www.shopdiabetes.org/Categories/171-Books-and-Gift-Sets.aspx?loc=rr-shop_holiday-bundles_nov2014&amp;source=rr-shop_holiday-bundle_nov2014" target="_blank">
+                    <img src="http://www.diabetes.org/assets/img/promo/shop/2014-nov-shop-holiday-280x264.jpg" alt="2014 Nov Shop Holiday 280x264">
                     </a>
                 
             
@@ -1849,92 +2006,92 @@ Professional Resources Online</a></li>
 	
     	
         	<li class="Footer Promos ">
-            	<span class="true_title" style="display: none">Shopdiabetes.org: Associations Team Up Once Again for Health - 2014-june-shop-diabetes-heart-book.html</span>
+            	<span class="true_title" style="display: none">Learn More: Ryan Reed Doesn’t Let Diabetes Stop Him - 2014-sept-drive-to-stop-footer.html</span>
+                <h4>Learn More</h4>
+                
+                    <a href="http://drivetostopdiabetes.org/?loc=foot1_drive-to-stop-diabetes_nov2014" target="_blank">
+                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-sept-drive-to-stop.jpg" alt="Ryan Reed Doesn’t Let Diabetes Stop Him">
+                    </a>
+                
+                <h5><a href="http://drivetostopdiabetes.org/?loc=foot1_drive-to-stop-diabetes_nov2014" target="_blank">
+                Ryan Reed Doesn’t Let Diabetes Stop Him
+                </a></h5>  
+                <p>This NASCAR Driver is Tackling Diabetes on and off the Track.</p>
+                
+        	</li>
+    	
+        	<li class="Footer Promos ">
+            	<span class="true_title" style="display: none">Ways to Give: Shop Walgreens this November! - 2014-nov-walgreens-pin-pad.html</span>
+                <h4>Ways to Give</h4>
+                
+                    <a href="http://www.diabetes.org/donate/promotions-that-give-back/?loc=foot2_walgreens-pin-pad_nov2014&amp;s_src=foot2&amp;s_subsrc=nov2014">
+                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-nov-walgreens-pin-pad.jpg" alt="Shop Walgreens this November!">
+                    </a>
+                
+                <h5><a href="http://www.diabetes.org/donate/promotions-that-give-back/?loc=foot2_walgreens-pin-pad_nov2014&amp;s_src=foot2&amp;s_subsrc=nov2014">
+                Shop Walgreens this November!
+                </a></h5>  
+                <p>Help Stop Diabetes at Check Out with Limited Time Promotion!</p>
+                
+        	</li>
+    	
+        	<li class="Footer Promos ">
+            	<span class="true_title" style="display: none">Living W/ Diabetes: Attention Youth With Type 2! - 20140-nov-be-healthy-today.html</span>
+                <h4>Living W/ Diabetes</h4>
+                
+                    <a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/children-and-type-2/?loc=foot3_be-healthy-today-youth_nov2014&amp;s_src=foot3&amp;s_subsrc=nov2014">
+                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-feb-be-healthy-today.jpg" alt="Attention Youth With Type 2!">
+                    </a>
+                
+                <h5><a href="http://www.diabetes.org/living-with-diabetes/parents-and-kids/children-and-type-2/?loc=foot3_be-healthy-today-youth_nov2014&amp;s_src=foot3&amp;s_subsrc=nov2014">
+                Attention Youth With Type 2!
+                </a></h5>  
+                <p>Check out these tips to help manage your diabetes.</p>
+                
+        	</li>
+    	
+        	<li class="Footer Promos ">
+            	<span class="true_title" style="display: none">Shopdiabetes.org: Help Light the Pathway to Stop Diabetes! - 2014-nov-nano-light.html</span>
                 <h4>Shopdiabetes.org</h4>
                 
-                    <a href="http://www.shopdiabetes.org/1565-Diabetes-And-Heart-Healthy-Cookbook-2nd-Edition.aspx?loc=foot1_store-diabetes-heart-  healthy_jun2014&amp;s_src=foot1&amp;s_subsrc=jun2014" target="_blank">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-june-diabetes-heart-book.jpg" alt="Associations Team Once Again for Health">
+                    <a href="http://shopdiabetes.org/1580-Stop-Diabetes-Nano-Light.aspx?loc=foot4_shop-nano-light_nov2014&amp;source=foot4-nov2014" target="_blank">
+                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-nov-nano-light-310x220.jpg" alt="Help Light the Pathway to Stop Diabetes!">
                     </a>
                 
-                <h5><a href="http://www.shopdiabetes.org/1565-Diabetes-And-Heart-Healthy-Cookbook-2nd-Edition.aspx?loc=foot1_store-diabetes-heart-  healthy_jun2014&amp;s_src=foot1&amp;s_subsrc=jun2014" target="_blank">
-                Associations Team Up Once Again for Health
+                <h5><a href="http://shopdiabetes.org/1580-Stop-Diabetes-Nano-Light.aspx?loc=foot4_shop-nano-light_nov2014&amp;source=foot4-nov2014" target="_blank">
+                Help Light the Pathway to Stop Diabetes!
                 </a></h5>  
-                <p>Enjoy new taste-tested recipes, classics, and meal plans.</p>
+                <p>Make a difference in the lives of those affected by diabetes.</p>
                 
         	</li>
     	
         	<li class="Footer Promos ">
-            	<span class="true_title" style="display: none">Learn More: Make a Healthy Change to Stop Diabetes! - 2014-may-bee-well-for-life.html</span>
+            	<span class="true_title" style="display: none">In My Community: Celebrate I Decide to Stop Diabetes! - 2014-nov-id-day.html</span>
+                <h4>In My Community</h4>
+                
+                    <a href="http://www.diabetes.org/in-my-community/awareness-programs/i-decide/?loc=foot5_id-day_nov2014&amp;s_src=foot5&amp;s_subsrc=nov2014">
+                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-nov-id-day-310x220.jpg" alt="Celebrate I Decide to Stop Diabetes">
+                    </a>
+                
+                <h5><a href="http://www.diabetes.org/in-my-community/awareness-programs/i-decide/?loc=foot5_id-day_nov2014&amp;s_src=foot5&amp;s_subsrc=nov2014">
+                Celebrate I Decide to Stop Diabetes!
+                </a></h5>  
+                <p>Challenge your community and church to take action.</p>
+                
+        	</li>
+    	
+        	<li class="Footer Promos ">
+            	<span class="true_title" style="display: none">Learn More: Take Surveys and help Stop Diabetes. - 2014-nov-survey-monkey.html</span>
                 <h4>Learn More</h4>
                 
-                    <a href="http://www.beewellforlife.com/charitable-causes/american-diabetes-association/?loc=foot3_bwfl_jun2014" target="_blank">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2015-may-bee-well-for-life.jpg" alt="Make a Healthy Change to Stop Diabetes.">
+                    <a href="https://contribute.surveymonkey.com/charity/american-diabetes-association?utm_medium=sma&amp;cmpid=ada_website_november&amp;?loc=foot6_survey-monky_nov2014&amp;s_src=foot6&amp;s_subsrc=nov2014">
+                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-survey-monkey-310x220.jpg" alt="Have an opinion?">
                     </a>
                 
-                <h5><a href="http://www.beewellforlife.com/charitable-causes/american-diabetes-association/?loc=foot3_bwfl_jun2014" target="_blank">
-                Make a Healthy Change to Stop Diabetes!
+                <h5><a href="https://contribute.surveymonkey.com/charity/american-diabetes-association?utm_medium=sma&amp;cmpid=ada_website_november&amp;?loc=foot6_survey-monky_nov2014&amp;s_src=foot6&amp;s_subsrc=nov2014">
+                Take Surveys and help Stop Diabetes.
                 </a></h5>  
-                <p>Track your fitness to earn a donation with BeeWell for Life!</p>
-                
-        	</li>
-    	
-        	<li class="Footer Promos ">
-            	<span class="true_title" style="display: none">Food &amp; Fitness: Need Some Healthy Food Ideas? - 2014-june-diabetes-superfood.html</span>
-                <h4>Food &amp; Fitness</h4>
-                
-                    <a href="http://www.diabetes.org/food-and-fitness/food/what-can-i-eat/making-healthy-food-choices/diabetes-superfoods.html?  loc=foot3_superfoods_jun2014&amp;s_src=foot3&amp;s_subsrc=jun2014">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-june-superfoods-310x220.jpg" alt="Need some healthy food ideas?">
-                    </a>
-                
-                <h5><a href="http://www.diabetes.org/food-and-fitness/food/what-can-i-eat/making-healthy-food-choices/diabetes-superfoods.html?  loc=foot3_superfoods_jun2014&amp;s_src=foot3&amp;s_subsrc=jun2014">
-                Need Some Healthy Food Ideas?
-                </a></h5>  
-                <p>Check out our list of top 10 diabetes superfoods!</p>
-                
-        	</li>
-    	
-        	<li class="Footer Promos ">
-            	<span class="true_title" style="display: none">Diabetes Basics: Looking for Type 1 Information? - 2014-june-type-1.html</span>
-                <h4>Diabetes Basics</h4>
-                
-                    <a href="http://www.diabetes.org/diabetes-basics/type-1/?loc=foot4_type-1-diabetes_jun2014&amp;s_src=foot4&amp;s_subsrc=jun2014">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-june-type-1-diabetes.jpg" alt="Looking for type 1 information?">
-                    </a>
-                
-                <h5><a href="http://www.diabetes.org/diabetes-basics/type-1/?loc=foot4_type-1-diabetes_jun2014&amp;s_src=foot4&amp;s_subsrc=jun2014">
-                Looking for Type 1 Information?
-                </a></h5>  
-                <p>We have resources for those affected by type 1 diabetes.</p>
-                
-        	</li>
-    	
-        	<li class="Footer Promos ">
-            	<span class="true_title" style="display: none">Advocacy: Discrimination Due to Diabetes? We Can Help - 2014-june-advocacy-diabetes-docket.html</span>
-                <h4>Advocacy</h4>
-                
-                    <a href="http://main.diabetes.org/site/MessageViewer?dlv_id=553406&amp;em_id=576752.0&amp;loc=foot5_advocacy-diabetes-  docket_jun2014&amp;s_src=foot5&amp;s_subsrc=jun2014" target="_blank">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-apr-advocacy-diabetes-docket.jpg" alt="Diabetes Discrimination? We Can Help.">
-                    </a>
-                
-                <h5><a href="http://main.diabetes.org/site/MessageViewer?dlv_id=553406&amp;em_id=576752.0&amp;loc=foot5_advocacy-diabetes-  docket_jun2014&amp;s_src=foot5&amp;s_subsrc=jun2014" target="_blank">
-                Discrimination Due to Diabetes? We Can Help
-                </a></h5>  
-                <p>Read the new issue of Diabetes Docket: Legal Advocacy eNews.</p>
-                
-        	</li>
-    	
-        	<li class="Footer Promos ">
-            	<span class="true_title" style="display: none">Learn More: Drive to Stop Diabetes - 2014-june-drive-to-stop-diabetes.html</span>
-                <h4>Learn More</h4>
-                
-                    <a href="http://drivetostopdiabetes.org/?loc=foot6_drive-to-stop-diabetes_june2014" target="_blank">
-                    <img src="http://www.diabetes.org/assets/img/promo/footer/2014-june-drive-to-stop.jpg" alt="Drive to Stop Diabetes">
-                    </a>
-                
-                <h5><a href="http://drivetostopdiabetes.org/?loc=foot6_drive-to-stop-diabetes_june2014" target="_blank">
-                Drive to Stop Diabetes
-                </a></h5>  
-                <p>Learn more about NASCAR driver Ryan Reed and his mission!</p>
+                <p>Each survey earns a $0.50 donation for the Association.</p>
                 
         	</li>
     	
@@ -2143,7 +2300,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="youtube"><a href="http://www.youtube.com/user/AmericanDiabetesAssn?loc=superfooter" target="blank">Youtube</a></li>
 <li class="instagram"><a href="http://instagram.com/AmDiabetesAssn?loc=superfooter" target="blank">Instagram</a></li>
 <li class="diabetes-stops-here"><a href="http://diabetesstopshere.org/?loc=superfooter" target="blank">Diabetes Stops Here Blog</a></li>
-<!-- <li class="online-community"><a href="http://community.diabetes.org/?loc=superfooter" target="blank">Online Community</a></li> -->
+<li class="online-community"><a href="http://community.diabetes.org/?loc=superfooter" target="blank">Online Community</a></li>
 </ul>
 </section>
 
@@ -2244,11 +2401,11 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li><a href="http://www.diabetes.org/donate/?loc=superfooter">Ways to Give</a>
 					
 <ul>
-<li><a href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=superfooter">General Donation</a></li>
-<li><a href="http://main.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=superfooter">Monthly Donation</a></li>
-<li><a href="http://main.diabetes.org/site/Donation2?df_id=7680&amp;7680.donation=form1&amp;loc=superfooter">Memorial Donation</a></li>
-<li><a href="http://main.diabetes.org/site/Donation2?df_id=7640&amp;7640.donation=form1&amp;loc=superfooter">Honor Donation</a></li>
-<li><a href="http://www.diabetes.org/donate/plannedgiving.html?loc=superfooter">Planned Giving</a></li>
+<li><a href="http://main.diabetes.org/site/Donation2?df_id=2540&amp;2540.donation=form1&amp;loc=superfooter&amp;s_src=dorg&amp;s_subsrc=general">General Donation</a></li>
+<li><a href="http://main.diabetes.org/site/Donation2?15000.donation=form1&amp;df_id=15000&amp;loc=superfooter&amp;s_src=dorg&amp;s_subsrc=monthly">Monthly Donation</a></li>
+<li><a href="http://main.diabetes.org/site/Donation2?df_id=7680&amp;7680.donation=form1&amp;loc=superfooter&amp;s_src=dorg&amp;s_subsrc=memorial">Memorial Donation</a></li>
+<li><a href="http://main.diabetes.org/site/Donation2?df_id=7640&amp;7640.donation=form1&amp;loc=superfooter&amp;s_src=dorg&amp;s_subsrc=honor">Honor Donation</a></li>
+<li><a href="http://www.diabetes.org/donate/planned-giving/?loc=superfooter">Planned Giving</a></li>
 <li><a href="http://www.diabetes.org/donate/other-ways-to-give/?loc=superfooter">Other Ways to Give</a></li>
 <li><a href="http://www.diabetes.org/donate/do-it-yourself-fundraising/?loc=superfooter">Do-It-Yourself Fundraising &amp; Local Events</a></li>
 <li><a href="http://www.diabetes.org/donate/promotions-that-give-back/?loc=superfooter">Promotions that Give Back</a></li>
@@ -2295,38 +2452,36 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </nav>
 
 <!--Footer Copyright S51:reus_d_org_footer_copyright-->
-<address class="vcard"> <!-- http://microformats.org/wiki/hcard -->
-			<a class="fn org url" href="?loc=footer/"><strong>American Diabetes Association</strong></a>
-			<span class="adr">
-				<span class="street-address">1701 North Beauregard Street</span><br>
-				<span class="locality">Alexandria</span>, <span class="country-name"><abbr title="Massachusetts">VA</abbr></span> <span class="postal-code">22311</span>
-			</span> <!-- end .adr -->
-			<!--<a href="mailto:" _mce_href="mailto:" class="email"></a>-->
-			<abbr class="tel">1-800-DIABETES (800-342-2383)</abbr>
-		</address>
-
-
-
+<address class="vcard">
+    <span itemscope="" itemtype="http://schema.org/NGO">
+        <a itemprop="url" href="http://www.diabetes.org"><strong><span class="org" itemprop="name"><span class="fn">American Diabetes Association</span></span></strong></a><br>
+        <span class="adr">
+            <span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                <span class="street-address" itemprop="streetAddress">1701 North Beauregard Street</span><br>
+                <span class="locality" itemprop="addressLocality">Alexandria</span>, 
+                <span class="country-name" itemprop="addressRegion"><abbr title="Virginia">VA</abbr></span> 
+                <span class="postal-code" itemprop="postalCode">22311</span>
+            </span>
+        </span> <!-- end adr -->
+        <abbr class="tel"><span itemprop="telephone">1-800-DIABETES (800-342-2383)</span></abbr>
+    </span>
+</address>
 <p class="copyright">
-
 <!-- LOGOS ADDED 12-18-13 BY RLG -->
-
     <!-- VeriSign LOGO added 4-5-11 -->
-    <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=donations.diabetes.org&amp;lang=en"><img src="http://main.diabetes.org/dorg/images/Wrapper/verisign-115x61.gif" border="0"></a>
+    <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=donations.diabetes.org&amp;lang=en"><img src="http://main.diabetes.org/dorg/images/Wrapper/verisign-115x61.gif" border="0" alt=""></a>
     &nbsp;&nbsp;&nbsp;
     <!-- BBB LOGO added 4-5-11 -->
-    <a href="http://charityreports.bbb.org/public/seal.aspx?ID=4611302003"><img src="https://donations.diabetes.org/images/bbb_ac.jpg" border="0"></a>
+    <a href="http://charityreports.bbb.org/public/seal.aspx?ID=4611302003"><img src="http://main.diabetes.org/images/bbb_ac.jpg" border="0" alt=""></a>
     &nbsp;&nbsp;&nbsp;
     <!-- PCI COMPLIANCE LOGO added 4-5-11 -->
-    <script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6ox8fZ9ZNOha6RsmK2dadOFFoIL5E&amp;style=invert&amp;size=105x54&amp;language=en"></script><noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6ox8fZ9ZNOha6RsmK2dadOFFoIL5E&style=invert&size=105x54&language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6ox8fZ9ZNOha6RsmK2dadOFFoIL5E&style=invert&size=105x54&language=en" border="0" alt="Trusted Commerce"/></a></noscript>
+<script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6ox8fZ9ZNOha6RsmK2dadOFFoIL5E&amp;style=invert&amp;size=105x54&amp;language=en"></script>
+<noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6ox8fZ9ZNOha6RsmK2dadOFFoIL5E&style=invert&size=105x54&language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6ox8fZ9ZNOha6RsmK2dadOFFoIL5E&style=invert&size=105x54&language=en" border="0" alt="Trusted Commerce"/></a></noscript>
     &nbsp;&nbsp;&nbsp;
     <!-- National health Council LOGO added 9-22-11 -->
-    <a href="http://www.nationalhealthcouncil.org/"><img src="http://main.diabetes.org/dorg/images/Wrapper/NHC_SOECP_60x62.gif" border="0"></a>
+    <a href="http://www.nationalhealthcouncil.org/"><img src="http://main.diabetes.org/dorg/images/Wrapper/NHC_SOECP_60x62.gif" border="0" alt=""></a>
 <br><br>
-
 <!-- END LOGOS -->
-
-
 
 Copyright 1995-2014. American Diabetes Association. All rights reserved. Use of this website constitutes acceptance of our <a href="http://www.diabetes.org/about-us/policies/terms-of-use.html">Terms of Use</a> and <a href="http://www.diabetes.org/about-us/policies/privacy-policy.html">Privacy Policy</a></p>
 
@@ -2422,6 +2577,6 @@ jQuery(".st_facebook_large").attr("st_url",location.href);
 </div></div>
 
 
-<!-- 10.12.0.42:8900 -->
+<!-- 10.12.0.40:8900 -->
 
 </body></html>
