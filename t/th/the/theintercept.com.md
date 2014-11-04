@@ -1,153 +1,88 @@
-> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theintercept.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104174229id_/https%3A//firstlook.org/theintercept/privacy-policy) for the most accurate reproduction.*
 
-# Service Agreement | Network Solutions
+# Privacy Policy - The Intercept
 
-Updated September 30, 2004
+_Effective Date: May 7, 2014_
 
-Version 2.4
+Welcome to _The Intercept_ , a service of First Look Productions, Inc. This Privacy Policy describes the types of information that we collect through our website and the related mobile and tablet applications (the “Services”) and what we do with that information.
 
-#### Privacy Topics
+Our Services are designed to permit you to access our content without registering or providing personally identifying information. However, as described in more detail below, if you wish to post comments to any of our Services, you’ll need to provide your username and email address.
 
-  * Why A Privacy Policy?
-  * Getting to Know our Customers
-  * Third Party Advertising and Cookies
-  * Information Corrections or Changes
-  * How We Put Information to Good Use
-  * With Whom We May Share Information
-  * How Do I Get My Name Removed from Bulk Access
-  * Our Accountability to You
-  * Employee Accountability
-  * The Accountability of Network Solutions' Agents and Business Partners
-  * Notification of Changes
+This Privacy Policy applies only to information collected online through _The Intercept_ website and the related mobile and tablet applications and does not apply to any information that you may provide to us, or that we may collect, offline or through other means (for example, via telephone or through the mail).
 
+If you have any questions about this Privacy Policy, please [contact us](mailto:privacy@firstlook.org).
 
+_**PROTECTING THE PRIVACY OF CHILDREN**_
 
-#### Why A Privacy Policy?
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Our Services are not directed at children under the age of 13 and we won’t knowingly allow anyone under the age of 13 to provide us any personally identifying information. If you’re under 13, please don’t attempt to post comments on our Services or provide any information about yourself.
 
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+_**TYPES OF INFORMATION WE COLLECT**_
 
-#### This Privacy Policy protects your privacy by:
+The information we gather falls into two categories: (1) information voluntarily supplied by visitors to the Services, for example, when they post comments, sign up to receive our email newsletters, or contact one of the journalists whose work appears on our Services; and (2) tracking information gathered as visitors navigate through our Services, review our email newsletters and other email messages and “like” our content through Facebook or share our content through Facebook, Twitter, LinkedIn, or Google+ (“Social Media Services”). This information may be collected directly by us or it may be collected by third-party service providers on our behalf. Third parties whose sites or services are linked to from our Services or from the Social Media Services may be gathering information as well, through processes we don’t control.
 
-#### Informing you about:
+_Information You Voluntarily Supply_
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+We may collect and store information that you voluntarily supply to us while on our Services. This may include personally identifying information if you choose to provide it. In accessing and using our Services, you may have the opportunity to voluntarily submit some or all of the following types of information: 
 
+  * Contact information, such as your username and email address;
+  * Information you include in correspondence you send to First Look or one of the journalists whose work appears on our Services; and
+  * Information you include in comments you post on any of our Services.
 
 
-#### Empowering you to choose:
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+You are not required to provide information about yourself to access our site. However, if you wish to post comments on our site, you will have to provide your username and email address. (Keep in mind that any information you choose to include in comments posted to any of our Services can be seen, collected and used by anyone who has access to that Service.)
 
+If you wish to receive our email newsletter, you must provide us your email address. Once we start sending out email newsletters, we’ll use your email address to send you the email newsletters you have requested.
 
+_Information That Is Automatically Collected_
 
-#### Assuring you that Network Solutions:
+You may interact with content on our Service through social media sharing tools provided by Facebook, Twitter, Google, and LinkedIn. We do not control the information that these Social Media Services collect when you use their sharing tools, nor do we control how these companies use any information they collect. We encourage you to review their privacy policies before sharing our content using these social media sharing tools. Facebook’s privacy policy can be found [here](http://www.facebook.com/about/privacy/); Twitter’s privacy policy can be found [here](https://twitter.com/privacy); LinkedIn’s privacy policy can be found [here](http://www.linkedin.com/legal/privacy-policy); Google’s privacy policy can be found [here](https://www.google.com/intl/en/policies/privacy/). If you’d prefer that these Social Media Services not collect information about the content you share, we’d suggest that you not use their social media sharing tools.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
+We use a service called Bitly to provide shortened uniform resource locators (URLs: the “addresses” of individual web pages) so our content can be shared more easily, particularly through social media services. Bitly collects information as our shortened URLs are shared and clicked on and makes some of that information available to us. 
 
+The information Bitly collects may include, among other things: (i) the IP address and geographic location of each device accessing our shortened URLs; (ii) the websites or services where our shortened URLs are shared; (iii) the time and date of each click on a shortened URL; and (iv) information about how and, in some cases, by whom a shortened URL is shared on social media services, such as Facebook, Twitter, Google+, and LinkedIn. Bitly uses this information to provide statistics that help us understand how our audience reads and shares our content. Bitly may collect additional information, particularly from users with Bitly accounts who access our shortened URLs while logged into their Bitly accounts, and it may use that information and share it with third parties, including the social media services through which our shortened URLs are shared, processes that we don’t control. We encourage you to review Bitly’s privacy policy before you share our content. Bitly’s privacy policy can be found [here](https://bitly.com/pages/privacy). If you’d prefer that Bitly not collect information about the shortened URLs you share, you can copy the full URL of the story you want to share from the location bar in your browser and share the story by pasting the URL into an email.
 
+We also may collect and store, and our service providers may collect and store, information that doesn’t identify you personally that is generated automatically as you navigate through our Services. For example, we and our service providers may collect limited information about the devices you use to access our Services, including the type of device you’re using (computer, mobile phone, tablet, etc.), the operating system running on that device, the type and version of browser software you’re using, the resolution of your computer monitor or other device display, the screen colors available on your device, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers and other devices connected to the Internet to identify your device so that data such as the web pages you want to view can be transmitted to you.) We use this information to make our Services as useful and visually appealing as we can for as many users as possible. We may also use IP address information for systems administration and troubleshooting purposes, to help us manage the comments our users post, and to derive a rough estimate of your geographic location by country, city or town, and perhaps ZIP code.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
+We may use “cookies,” a standard feature found in browser software, to enhance your experience on our Services. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. We also may use web beacons (sometimes referred to as “clear GIFs” or “pixel tags”) to collect non-personally identifying information about how our visitors use our site and how they interact with our email newsletters and with our stories that appear on other websites. By showing how and when visitors use our Services and review our news stories, cookies and web beacons help us deliver more relevant content to users, identify how many unique users visit our site, various pages within our site, and track user interests, trends and patterns. For example, we may use these technologies to collect information about the time visitors spend on each page of our Services, the number of visits made to each page or section of our Services, whether they open the email newsletters we send them, and whether they click on particular links contained in these emails. 
 
-#### Getting to Know Our Customers
+We, and providers of web analytics services, such as Mixpanel and Google Analytics, may use cookies and web beacons to gather this sort of information on our behalf. To learn more about Mixpanel, click [here](https://mixpanel.com/). You may opt out of the Mixpanel cookie [here](https://mixpanel.com/optout/). (If you select the Mixpanel opt-out cookie, data that is ordinarily recorded by Mixpanel will not be based on the Mixpanel cookie for analytics. When you get a new computer, install a new browser, or erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), you may also clear the cookies in your browser, including the Mixpanel opt-out cookie.) To learn more about Google Analytics, click [here](http://www.google.com/analytics/). To install a browser add-on (available for most standard browsers) that communicates with Google Analytics to indicate that information about your website visit should not be sent to Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout). In addition to these third parties, we also run our own web analytics software called Piwik. [Click here](https://firstlook.org/theintercept/piwik-opt-out/) to opt-out of the Piwik cookie.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+You may also ask Bitly not to place cookies on your web browser when you are logged in to your Bitly account. To opt out, go to Bitly’s privacy policy and click on the opt-out link under the heading “Information Collected Using Cookies.”
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We also may use cookies to determine that a visitor to our site has previously posted comments on the site and to record the type of device that a visitor has used to access to the site. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don’t accept cookies, you won’t receive the benefits that cookies provide to other users of our site. For example, when you post a comment on one of our Services, we use cookies to save your username and email address to make it easier for you to post comments on return visits.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+_**HOW WE USE COLLECTED INFORMATION**_
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+_Generally_
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
+We use the information we collect from visitors to our Services to communicate with our users, to better understand and serve our audience, and to heighten user engagement with our Services. For example, we use the information we gather to send you email newsletters and other communications, to deliver our content to our users, to recognize users who have previously posted comments on our Services, to measure site traffic, to measure user interests and traffic patterns, and to improve our Services and the services and features we offer. 
 
-#### Third Party Advertising and Cookies
+In addition, we may use your personal information to contact you via email for customer service purposes, to inform you of important changes or additions to our Services, and to tell you about other products and services offered by First Look Productions or its affiliates, and products and services of selected others that we think may be of interest to you.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
+_Email Addresses_
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/").
+If you provide us your email address, we may email you with information about our website or other products or services offered by First Look Productions or its affiliates, and products and services of selected others that we think may be of interest to you. 
 
-#### Information Corrections or Changes
+We also may use your email address to contact you from time to time for customer service purposes, or to send you administrative notices or other information about our Services.  
+In addition, if you provide us your email address to subscribe to our newsletter, we’ll use your email address to send you the newsletter you requested. 
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
+_**DISCLOSURE TO THIRD PARTIES**_
 
-#### How We Put Information to Good Use
+To help us understand how users are using our Services and to help us improve our Services, we may deploy our own analytics engine in addition to engaging third-party analytics providers, such as Mixpanel and Google Analytics, to collect aggregate information on our audience and how our audience uses our Services (for example, information on traffic to various pages within our Services). This information does not identify individual users. Mixpanel and Google Analytics may use cookies and web beacons to collect non-personally identifying tracking data from our site on our behalf, and then use that data to provide us with statistical reports on website activity.
 
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+When we send you email newsletters and other communications, the content of those communications comes from First Look, but we may use a service provider to send the emails on our behalf. Our service provider uses your name and email address to send these emails, but is contractually prohibited from using this information for any purpose other than sending these emails on our behalf.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+We also may occasionally release information about our visitors if required to do so by law or if, in our judgment, such disclosure is reasonably necessary to comply with legal process, to enforce our [Terms of Use](https://web.archive.org/theintercept/terms-use), or to protect the rights, property, or personal safety of visitors to our Services, our employees, or others. If we receive a request to disclose information that identifies you personally, and if we believe that the circumstances of the request permit us to do so (and that we would otherwise be required to comply with that request), we will attempt to notify you of the request at the email address associated in our records with the comment that is the subject of the request. You may then challenge the request if you wish to do so. If you do not promptly challenge the disclosure request and notify us that you have done so, if your challenge to the disclosure request is rejected, or if, in our judgment, circumstances warrant, we may comply with the request. In addition, if we believe it appropriate to do so under the circumstances, we will independently object to requests for access to information about users of our site. In the unlikely event that we sell some or all of our assets, or one or more of our Services is acquired by another company, information about our visitors may be among the transferred assets.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+_**USING OUR SECUREDROP SERVERS**_
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+_The Intercept_ is serious about protecting our sources. Messages and files you send us using our SecureDrop servers will be encrypted. To learn more about using SecureDrop, [click here](https://web.archive.org/theintercept/securedrop).
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+_**TRANSFER AND STORAGE OF INFORMATION**_
 
-#### With Whom We May Share Information
+The information that we collect through these Services is stored within databases that we control (or databases hosted on our behalf) on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us or our third-party service providers over the Internet. Our databases are located within the United States. If you access our site from outside the United States, by providing data to us, you consent to transfer of that data to and storage of that data in the United States.
 
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+_**CHANGES TO THIS PRIVACY POLICY**_
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent.
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-  5. Click “SAVE.”
-
-
-
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-#### How Do I Get My Name Removed from Bulk Access
-
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-  5. Click “SAVE.”
-
-
-
-#### Our Accountability to You
-
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
-
-#### Employee Accountability
-
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
-
-#### The Accountability of Network Solutions' Agents and Business Partners
-
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-#### Notification of Changes
-
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+The Internet remains an evolving medium. If we need to change this Privacy Policy in the future, we will post the revised Privacy Policy on our Services and update the “Effective Date,” above, to reflect the date of the changes. By continuing to use our Services after we post such changes, you agree to the terms of this Privacy Policy, as modified.
