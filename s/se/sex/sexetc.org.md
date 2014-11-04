@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030049id_/http%3A//sexetc.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexetc.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104193304id_/http%3A//sexetc.org/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Sex, Etc.
+# Privacy Statement - Sex, Etc.
 
 It is our goal to respect your online privacy. Your visits to the  _Sex, Etc._ Web site remain private and confidential.
 
