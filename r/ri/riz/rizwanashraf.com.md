@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rizwanashraf.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429081227id_/http%3A//www.rizwanashraf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rizwanashraf.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104141351id_/http%3A//www.rizwanashraf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RizwanAshraf.com
 
