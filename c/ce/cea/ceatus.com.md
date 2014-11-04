@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceatus.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503142538id_/http%3A//www.ceatus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceatus.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104234757id_/http%3A//www.ceatus.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – Ceatus Media Group LLC
 
