@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerresultsacademy.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505080703id_/http%3A//powerresultsacademy.com/%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerresultsacademy.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104152750id_/http%3A//powerresultsacademy.com/%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Power Results Academy
 
