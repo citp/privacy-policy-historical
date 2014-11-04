@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gbtv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214919id_/http%3A//www.video.theblaze.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbtv.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104213116id_/http%3A//www.video.theblaze.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
 
 # TheBlaze.com: Legal: Privacy Policy
 
