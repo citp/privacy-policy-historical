@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mheducation.ca privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506130646id_/http%3A//www.mheducation.ca/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheducation.ca privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104193158id_/http%3A//www.mheducation.ca/privacy/index.php) for the most accurate reproduction.*
 
 # McGraw-Hill Ryerson > McGraw-Hill Ryerson > Privacy and Cookie Notice for McGraw-Hill Ryerson
 
@@ -13,7 +13,7 @@
 **WHY DOES McGRAW-HILL RYERSON COLLECT PII?**
 
   * To process your transactions, maintain your account and respond to your inquiries.
-  * To provide you with information about services and products that we believe may be of interest to you offered by McGraw-Hill Ryerson and other parts of our parent company, McGraw-Hill Education. (“McGraw-Hill”).
+  * To provide you with information about services and products that we believe may be of interest to you offered by McGraw-Hill Ryerson and other parts of our parent company, McGraw-Hill Education.
 
 
 
@@ -22,12 +22,12 @@
   * With our vendors to perform services on our behalf.
   * Potentially in conjunction with a sale or similar transfer of a business.
   * When legally compelled or for other legal purposes.
-  * With other parts of McGraw-Hill whose services and products might be of interest to you. 
+  * With other parts of McGraw-Hill Education whose services and products might be of interest to you. 
 
 
 
 **IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**  
-Write to us at: [mhrprivacy@mcgrawhill.ca](mailto:mhrprivacy@mcgrawhill.ca) with the following instructions:
+Write to us at: [privacy@mheducation.ca](mailto:privacy@mheducation.ca) with the following instructions:
 
 I do not want to be contacted by McGraw-Hill Ryerson via these methods for marketing purposes:
 
@@ -38,11 +38,11 @@ Fax | ____________
 E-mail | ____________  
   
 ______I do not want to be contacted by McGraw-Hill Ryerson through any method for marketing purposes.  
-______I do not want to be contacted by other parts of McGraw-Hill through any method for marketing purposes.
+______I do not want to be contacted by other parts of McGraw-Hill Education through any method for marketing purposes.
 
 We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in Canada and access is limited to authorized persons. 
 
-To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [mhrprivacy@mcgraw-hill.ca](mailto:mhrprivacy@mcgraw-hill.ca) or Privacy Official, McGraw-Hill Ryerson, 300 Water Street, Whitby ON, L1N 9B6 or Call Toll-Free at 1-800-565-5758.
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [privacy@mheducation.ca](mailto:privacy@mheducation.ca) or Privacy Official, McGraw-Hill Ryerson, 300 Water Street, Whitby ON, L1N 9B6 or Call Toll-Free at 1-800-565-5758.
 
 **COOKIE USAGE**
 
@@ -62,7 +62,7 @@ McGraw-Hill Ryerson or our third-party service providers may use cookies (or oth
 
 You can change your Web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
 
-[Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/ie-security-privacy-settings#ie=ie-11)  
 [Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)  
 [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
 [Safari](http://support.apple.com/kb/PH5042)  
