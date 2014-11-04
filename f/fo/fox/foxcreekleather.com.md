@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412164651id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104092857id_/http%3A//www.foxcreekleather.com/help/%23privacy) for the most accurate reproduction.*
 
-# Fox Creek Leather
+# Contact Us – Fox Creek Leather | Fox Creek Leather
 
-If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/web/20140412164651id_/http%3A//www.foxcreekleather.com/help/faq) which you may want to consult before calling
+If you have any questions or comments, please contact us. However, many questions are answered in our [FAQ](https://web.archive.org/help/#faq) which you may want to consult before calling
 
 E-mail: [customerservice@foxcreekleather.com](mailto:customerservice@foxcreekleather.com)  
 
@@ -103,10 +103,10 @@ Back to the top
     1. Do you have an affiliate program?
     2. Do you have a catalog you can send me?
     3. Do you have a layaway program?
-    4. Do you have a wholesale program?
-    5. Do you offer military discounts?
-    6. How do I pay with PayPal?
-    7. Can I change my shipping address on a package that's in transit?
+    4. Do you offer military discounts?
+    5. How do I pay with PayPal?
+    6. Can I change my shipping address on a package that's in transit?
+    7. Are the Easy Brackets covered under warranty?
   8. Do you have a store?
     1. What are your hours and location?
     2. Are there hotels or camping nearby?
@@ -134,7 +134,7 @@ To ensure that you get the best possible fit on the first try. We have found tha
 
     5. Are the chaps lined? 
 
-Yes, our Men's and Women's [Lined Motorcycle Chaps](https://web.archive.org/63-mens-motorcycle-chaps/710-lined-motorcycle-chaps) and [Deluxe Lined Leather Chaps](https://web.archive.org/63-mens-motorcycle-chaps/1070-deluxe-lined-leather-chaps) have a quilted lining that runs from the belt down to the first snap on the legs. Our standard [motorcycle chaps](https://web.archive.org/63-mens-motorcycle-chaps/111-leather-motorcycle-chaps) come unlined. 
+Yes, our Men's and Women's [Lined Motorcycle Chaps](https://web.archive.org/products/710-lined-motorcycle-chaps) and [Deluxe Lined Leather Chaps](https://web.archive.org/products/1070-deluxe-lined-leather-chaps) have a quilted lining that runs from the belt down to the first snap on the legs. Our standard [motorcycle chaps](https://web.archive.org/products/111-leather-motorcycle-chaps) come unlined. 
 
     6. Which are better, overpants or chaps? 
 
@@ -159,7 +159,7 @@ If a jacket is described as having a "full sleeve" liner, it does in fact extend
 
     2. Do your jackets have armor? 
 
-Most of our men's jackets have provisional pockets that give you the option of using armor. We sell Forcefield [elbow, shoulder and back armor](http://www.foxcreekleather.com/mens_mensjackets_motorcyclejacketarmor) inserts.
+Most of our men's jackets have provisional pockets that give you the option of using armor. We sell Forcefield [elbow, shoulder and back armor](https://web.archive.org/mens_mensjackets_motorcyclejacketarmor) inserts.
 
     3. How do I know I have the best fit possible? 
 
@@ -222,7 +222,7 @@ Because over time we have found that this is the best method for ensuring that y
 
     5. How much does it cost? 
 
-The price varies and depends on what you want done. It will always be based on the regular price of the item as sale prices do not apply to custom orders. Please see our [Custom Order](http://www.foxcreekleather.com/help/#customOrders) page for more information.
+The price varies and depends on what you want done. It will always be based on the regular price of the item as sale prices do not apply to custom orders. Please see our [Custom Order](https://web.archive.org/help/#customOrders) page for more information.
 
     6. Who do you recommend for custom work that you can't do? 
 
@@ -235,7 +235,7 @@ Yes, you will be responsible for return shipping.
 
     2. Do I need a return authorization number? 
 
-No. Just fill out the [returns & exchanges form](https://web.archive.org/returns/new) found on our website. 
+No. Just fill out the [returns & exchanges form](https://web.archive.org/help/#returnsExchanges) found on our website. 
 
     3. What if I refuse my package? 
 
@@ -254,23 +254,23 @@ No, our Web site is our catalog. If you want to see a larger image or have any q
 
 We do have a layaway program. For more information, [click here](https://web.archive.org/help/layawayProgram).
 
-    4. Do you have a wholesale program? 
-
-We do have a wholesale program. For more information, please [contact us](https://web.archive.org/help/).
-
-    5. Do you offer military discounts? 
+    4. Do you offer military discounts? 
 
 Not only do we offer free shipping to military addresses, we offer a discount on regularly priced items for members of our military. We offer $25 off the regular price of a jacket and $10 off the regular price of a vest or chaps. Only one discount/promotion per order. 
 
-    6. How do I pay with PayPal? 
+    5. How do I pay with PayPal? 
 
 You will be redirected to login to your PayPal account to verify the payment before submitting your order. When you submit your order, we will receive a payment confirmation automatically and all stock items should ship within 1-2 business days.
 
 Please note that PayPal Express Checkout is not available if your order total is $0.
 
-    7. Can I change my shipping address on a package that's in transit? 
+    6. Can I change my shipping address on a package that's in transit? 
 
 If the package was shipped via USPS then we have no way of changing the shipping address once the package is shipped. However, we can change the address while the package is still in transit with UPS. If we have to call UPS the charge is $14. If we're able to complete the request online the charge is only $11.
+
+    7. Are the Easy Brackets covered under warranty? 
+
+[Click here](http://www.greatbikegear.com/index.php/limited-warranty/) to read the manufacture warranty.
 
   8. Come visit us at our store! 
     1. What are your hours and location? 
@@ -342,7 +342,7 @@ Our lifetime guarantee covers the workmanship and materials on all of our Americ
 
 Our guarantee does not cover the liner or any hardware attached to the liner. Our lifetime guarantee does not cover any reflective piping. Any garments that have been abused (accidents, knife fights, failure to properly maintain the garment) will not be covered. Gloves, saddlebags, windshield bags, toolbags, travelbags, boots and items in our accessories section are not covered.
 
-Please note, items sent back within our 30 day return policy that have had pins or patches installed can be repaired but not replaced. Items sent back outside of the 30 day return policy will be repaired and not replaced.
+Please note, items sent back within our 30 day return policy that have had pins or patches installed can be repaired but not replaced. Items sent back outside of the 30 day return policy will be repaired and not replaced. Items which cannot be repaired will be replaced with an item of the same size and style. No refunds.
 
 Back to the top
 
@@ -356,23 +356,23 @@ There is no restocking fee for stock items returned in new condition within 30 d
 
 If you are returning an item you bought on sale for a special order you will be charged the difference between the sale price and regular price plus any applicable alteration fees.
 
-_Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial shipment on orders of $99 or more only. This is to keep from raising prices._
+_Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial shipment only. This is to keep from raising prices._
 
-Fox Creek Leather will pay ground shipping for the initial order shipped to the customer (within the contiguous US states) on items valued $99 or more. Customer must pay return shipping on all items sent to us. Customers will be charged standard shipping fees on all exchanges sent. This fee will vary depending on what item is exchanged. Please note, expedited shipping is available at additional cost. 
+Fox Creek Leather will pay ground shipping for the initial order shipped to the customer (USA addresses only). Customer must pay return shipping on all items sent to us. Customers will be charged standard shipping fees on all exchanges sent. This fee will vary depending on what item is exchanged. Exchange shipping for small items is $5, $10 on chaps and vests, and $15 on jackets. Please note, expedited shipping is available at additional cost.
 
 Fox Creek Leather does not accept refused packages. Packages that are returned to us as refused will incur a service charge.
 
-We do not accept custom made items as exchanges or refunds.
+We do not accept custom made items for exchange or refund.
 
 There will be no refund or exchange on any damaged or abused item. Do not put pins, patches or embroidery on your garment until you are sure you want to keep the item. We will not accept any items that have been altered from their original form. For example, we will not accept chaps that have had the length trimmed.
 
 Returns will not be accepted on socks or thermal under clothing.
 
-If you receive gloves that are too small, _DO NOT_ force the fit. Please return them for the proper size. Gloves that have seams busted out because of improper fit will not be exchanged or refunded. 
+If you receive gloves that are too small, _DO NOT_ force the fit. Please return them for the proper size. Gloves with split seams due to improper fit will not be exchanged or refunded. 
 
 **If you receive boots that you need to return, the original box and all tags must be returned with the boots. All boots need to be returned to the address below, even if they were shipped from a different address.**
 
-Please use the box you received or one of equal size; this will ensure that there will be no damage to the merchandise. 
+Please use the box you received or one of equal size; this will ensure that there will be no damage to the merchandise. Merchandise that is damaged due to improper return packaging may be refused/returned to the customer or incur a restocking fee. 
 
 **Note:** Our returns & exchanges form requires [Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html), a free program. If you do not have Adobe Reader or wish to upgrade to a newer version, you may do so by following the below link.  
 [](http://www.adobe.com/products/acrobat/readstep2.html)
@@ -395,7 +395,7 @@ Using the available free options, shipping times all vary between 1-6 business d
 
 Orders to APO or FPO addresses are shipped free of charge via USPS First Class or Priority Mail. 
 
-All international shipping fees are the responsibility of the customer. We ship internationally via USPS, UPS, or DHL. Please note, Fox Creek Leather is not responsible for any brokerage, duties, clearance fees, added value taxes, and/or other fees incurred due to your location or chosen shipping method.
+All international shipping fees are the responsibility of the customer. We ship internationally via USPS, UPS, or DHL. Please note, Fox Creek Leather is not responsible for any brokerage, duties, clearance fees, added value taxes, and/or other fees incurred due to your location or chosen shipping method. If you are shipping wildlife products including deerskin, buffalo, and elkskin for delivery outside the USA there will be a $15 handling charge and a delay of shipping by about 1 business week. This is because those items have to be inspected by the US Dept of Wildlife. 
 
 If your order is placed before 9:30am Eastern Time we will ship all in-stock items that day. Orders placed after 9:30am will be shipped the following day.
 
@@ -512,25 +512,25 @@ The basic idea behind leather conditioning is to replace the natural oils that t
 
 How often you treat your leathers depends on how hard and how often you ride. We normally recommend treating your leathers every 3-4 months of active riding. However, if conditions are harsh you may find it necessary to do so more often. For example, if you are caught in a hard downpour on a bike that offers little protection from the elements you may wish to condition your leathers after they dry to replace oils that were lost to the rain. If you ever notice that your leathers feel dry or stiff, it is a sign that they need to be conditioned. It is best to avoid letting them reach that state. Over time you will fall into a schedule for caring for your leathers that is appropriate for your riding habits.
 
-First, clean your leathers before you condition them. Never condition dirty or wet leathers, the conditioning oils will trap the water and dirt in the leather causing it to degrade faster. If your leathers are not noticeably soiled, wipe them down with a slightly damp cloth and let them dry at room temperature overnight. If your leathers need a more thorough cleaning we recommend using a cleaner such as [Montana Pitch Blend Leather Cleaner](https://web.archive.org/134.html). Regardless, allow your leathers to air dry completely at room temperature before you condition them.
+First, clean your leathers before you condition them. Never condition dirty or wet leathers, the conditioning oils will trap the water and dirt in the leather causing it to degrade faster. If your leathers are not noticeably soiled, wipe them down with a slightly damp cloth and let them dry at room temperature overnight. If your leathers need a more thorough cleaning we recommend using a cleaner such as [Montana Pitch Blend Leather Cleaner](https://web.archive.org/products/134-mpb-leather-soap). Regardless, allow your leathers to air dry completely at room temperature before you condition them.
 
-Next, choose a conditioner based on your riding needs. For most people we recommend [Montana Pitch Blend Leather Oil](https://web.archive.org/108.html). It contains only pure mink oil and pine pitch. The pine pitch helps to preserve your leathers by acting as an antimicrobial agent. It also has a slight pleasing natural pine scent. [Montana Pitch Blend Leather Oil](https://web.archive.org/108.html) provides good waterproofing.
+Next, choose a conditioner based on your riding needs. For most people we recommend [Montana Pitch Blend Leather Oil](https://web.archive.org/products/108-mpb-leather-oil). It contains only pure mink oil and pine pitch. The pine pitch helps to preserve your leathers by acting as an antimicrobial agent. It also has a slight pleasing natural pine scent. [Montana Pitch Blend Leather Oil](https://web.archive.org/products/108-mpb-leather-oil) provides good waterproofing.
 
-In the case that you need exceptional waterproofing, we recommend [Montana Pitch Blend Leather Dressing](https://web.archive.org/107.html), a mink oil and beeswax blend. Beeswax and silicone both waterproof by blocking the pores of your leathers, which can also trap dirt and moisture. Please take extra care in cleaning and drying your leathers before using either of these products.
+In the case that you need exceptional waterproofing, we recommend [Montana Pitch Blend Leather Dressing](https://web.archive.org/products/107-mpb-leather-dressing), a mink oil and beeswax blend. Beeswax and silicone both waterproof by blocking the pores of your leathers, which can also trap dirt and moisture. Please take extra care in cleaning and drying your leathers before using either of these products.
 
 To treat your garment spread a small amount of your conditioner of choice on a soft cloth and gently work it into the leather. Once you have conditioned the entire garment allow it to sit for half an hour and fully absorb the conditioner. At this point you can give your leathers a second application of conditioner if necessary. If not, wipe off any excess conditioner with a clean dry cloth.
 
-Any of the above conditioners can be used together. One popular combination is to apply a first coat of [Montana Pitch Blend Leather Oil](https://web.archive.org/108.html) and a second coat of [Montana Pitch Blend Leather Dressing](https://web.archive.org/107.html). This thoroughly conditions your garment and adds a little extra waterproofing.
+Any of the above conditioners can be used together. One popular combination is to apply a first coat of [Montana Pitch Blend Leather Oil](https://web.archive.org/products/108-mpb-leather-oil) and a second coat of [Montana Pitch Blend Leather Dressing](https://web.archive.org/products/107-mpb-leather-dressing). This thoroughly conditions your garment and adds a little extra waterproofing.
 
 ###  The Original Doc Bailey's Leather Black 
 
-[The Original Doc Bailey's Leather Black](https://web.archive.org/761.html) actually contains a dye pigment that restores lost colour. It also cleans, nourishes and waterproofs. [Doc Bailey's Leather Black](https://web.archive.org/761.html) gently cleans leather with specially formulated detergents which actually lift dirt out, opening the pores of the leather allowing the lanolin oil to flow into the leather nourishing and softening it. [Doc Bailey's Leather Black](https://web.archive.org/761.html) actually penetrates deep into the leather to restores lost colour. As a finishing touch, special waxes lock the colour in which protects and waterproofs your leather.
+[The Original Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually contains a dye pigment that restores lost color. It also cleans, nourishes and waterproofs. [Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) gently cleans leather with specially formulated detergents which actually lift dirt out, opening the pores of the leather allowing the lanolin oil to flow into the leather nourishing and softening it. [Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually penetrates deep into the leather to restores lost color. As a finishing touch, special waxes lock the color in which protects and waterproofs your leather.
 
-Apply a small amount of [Doc Bailey's Leather Black ](https://web.archive.org/761.html) to a clean, dry sponge and wipe even over the surface to be treated. Rinse sponge after use. Allow to cure for 12 hours before exposing to moisture. Buff for higher shine if desired. Do not use on Buckskin or Suede. Product will darken all leather, always test in a discrete area. Reapply every 6 months or as needed.
+Apply a small amount of [Doc Bailey's Leather Black ](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) to a clean, dry sponge and wipe even over the surface to be treated. Rinse sponge after use. Allow to cure for 12 hours before exposing to moisture. Buff for higher shine if desired. Do not use on Buckskin or Suede. Product will darken all leather, always test in a discrete area. Reapply every 6 months or as needed.
 
 ### Leather Therapy
 
-Why not restore that antique leather saddlebag, full-leather racing suit, or car sitting in the garage? It's easy with [Leather Therapy](https://web.archive.org/286-leather-care/1049-leather-therapy-reg-wash). Leather lasts longer with regained suppleness and strength. Dries with a soft sheen. Enhances original color and feel of leather. Restores older stiff, dried-out leather. Non-greasy or sticky. Leather Therapy is Made in USA. 
+Why not restore that antique leather saddlebag, full-leather racing suit, or car sitting in the garage? It's easy with [Leather Therapy](https://web.archive.org/products/1049-leather-therapy-reg-wash). Leather lasts longer with regained suppleness and strength. Dries with a soft sheen. Enhances original color and feel of leather. Restores older stiff, dried-out leather. Non-greasy or sticky. Leather Therapy is Made in USA. 
 
 Fox Creek Leather Staff
 
