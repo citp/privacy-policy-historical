@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derbytelegraph.co.uk privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503060844id_/http%3A//www.derbytelegraph.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derbytelegraph.co.uk privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104133802id_/http%3A//www.derbytelegraph.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Derby Telegraph | Privacy Policy
 
