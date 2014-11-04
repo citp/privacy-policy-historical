@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sesameworkshop.org privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313005429id_/http%3A//www.sesameworkshop.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesameworkshop.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104225516id_/http%3A//www.sesameworkshop.org/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | Sesame Workshop
+# privacy policy - Sesame Workshop
 
 Thank you for visiting a Site owned and operated by Sesame Workshop or an App published by Sesame Workshop (from which you have linked to this Privacy Policy). “Sites” refers to Internet web sites and “Apps” refers to apps for use on mobile communication devices such as smartphones and tablets. “Platforms” refers to Sites and Apps collectively. Through the Platforms, Sesame Workshop aims to extend our mission to use educational media to help children reach their highest potential.
 
