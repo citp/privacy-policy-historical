@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504215330id_/http%3A//www.colormerad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colormerad.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105202557id_/http%3A//www.colormerad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Color Me Rad - The run that's been ruining all other 5Ks since 2012
 
@@ -11,6 +11,10 @@ To better protect your privacy we provide this notice explaining our online info
 ###  What information do we collect?
 
 We collect information when you fill out your race registration, including your name, email, address, phone number, date of birth and payment details.
+
+We also use various Google Analytics features in order to improve the customer experience on our website and to improve its efficacy. These features include demographics and interests, Adwords linking, and remarketing.
+
+You can choose to opt-out of the Google Analytics Advertising Features we use through Google Ad Settings, Ad Settings for mobile apps, or any other available means (such as the National Advertising Initiative's (NAI) consumer opt-out).
 
 ###  What do we use your information for?
 
@@ -36,7 +40,7 @@ By submitting, posting or displaying any content, pictures and other materials o
 
 Any changes made to this privacy policy will be noted on this page.
 
-This policy was last modified on 08/12/2013.
+This policy was last modified on 06/02/2014.
 
 ###  Contact
 
