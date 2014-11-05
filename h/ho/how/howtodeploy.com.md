@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the howtodeploy.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307061317id_/http%3A//www.howtodeploy.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtodeploy.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105213602id_/http%3A//www.howtodeploy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | How-To Deploy
+# Privacy Policy | How To Deploy
 
-If you have any questions or you want to get any information about our privacy policy, please do not hesitate to contact us by sending us enquiry at  **admin@howtodeploy.com**.
+If you have any questions or you want to get any information about our privacy policy, please do not hesitate to contact us by sending us inquiry at **editor@howtodeploy.com**.
 
-At www.geekycrunch.com ; the privacy of every visitor is severely important to us and this privacy policy document describe the types of personal information is received and collected by  **www.howtodeploy.com**  and how it is used.
+At **www.howtodeploy.com** ; the privacy of every visitor is severely important to us and this privacy policy document describe the types of personal information is received and collected by  **www.howtodeploy.com**  and how it is used.
 
 ##### Log Files
 
