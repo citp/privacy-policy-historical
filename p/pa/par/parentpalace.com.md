@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentpalace.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225023036id_/http%3A//parentpalace.com/pr-advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentpalace.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105222304id_/http%3A//parentpalace.com/pr-advertising/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The privacy of our visitors to parentpalace.com is important to us. At parentpalace.com, we recognize that privacy of your personal information is i
+# Privacy Policy - Parent Palace
 
 **0** Flares **0** Flares ×
 
