@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626185347id_/http%3A//www.bookmasters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105184636id_/http%3A//www.bookmasters.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service and Privacy Policy
 
@@ -30,7 +30,7 @@ Privacy at Bookmasters
 30 Amberwood Parkway  
 PO Box 388  
 Ashland, OH 44805, USA  
-or e-mail us at [info@bookmasters.com](https://web.archive.org/web/20140626185347id_/http%3A//www.bookmasters.com/info@bookmasters.com).
+or e-mail us at [info@bookmasters.com](https://web.archive.org/web/20141105184636id_/http://www.bookmasters.com/privacy/info@bookmasters.com).
 
   
 
