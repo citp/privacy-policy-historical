@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the shortcoursesportal.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortcoursesportal.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105173916id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# StudyPortals: Taking you further
 
-**Go Daddy Respects Your Privacy**
+_We respect the privacy of visitors to the websites owned by StudyPortals B.V. (hereafter "the Website") and take care that the personal data which you provide us is handled in a confidential manner. The processing of the personal data happens in a manner in accordance with the demands of the Dutch Data Protection Act._
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ **Goals of the data processing**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Your personal data will be processed for the entering into agreements and the performance thereof to the point of commercial services and the managing of the business relations which emerge from them, including the performance of activities aimed at the expansion of our client database. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+If you fill out a contact or registration form on the Website, or send us an e-mail, the data provided by you will be stored for as long as the nature of the form or the contents of your e-mail demand with regards to the handling and answering thereof. 
 
-**Information Collection and Use**
+**Click-behaviour and Visit Data**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+General visitor data is registered on the website. This can notably include the IP-address of your computer, the possible username, the moment of retrieval and data sent by the browser of the visitor. This data is registered and used for statistical analyses of visit data and click-behaviour on the Website. Additionally this data is used for optimization of the Website.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We try to keep this data as anonymous as we can.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+ **Google Analytics**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We make use of Google Analytics to keep track of how visitors use the Website and how effective our AdWords-advertisements are on Google´s search results. The acquired data is, including the address of your computer (IP-address), transferred to and by Google to be stored in servers in the United States. Please read Google´s privacy policy for more data in addition to Google Analytics specific privacy policy. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Google uses this data to keep track of how the Website is used, to report on the use of the Website to us and to be able to inform its advertisers about the effectiveness of their campaigns. Google can share this data with third parties when they are required to do so by Law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices. We have not granted permission to Google to use the acquired data for any other services provided by Google.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+ **Social media**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Incorporated in the Website are buttons to promote or share web-pages on the social networks Facebook and Twitter, as well as the AddThis toolbar to promote or share web-pages on other social networks, blogs and through email. These buttons are realized by code supplied by AddThis, Facebook and Twitter and not by StudyPortals B.V.. This code places a cookie.
 
-**Security**
+Please read the privacy statements of AddThis, Facebook and Twitter (which are changed on a regular basis) to see what they do with the personal data which is acquired and processed by this code.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+ **User account**
 
-**Updating Your Information**
+You can create an account in order to customize their experience. As registered user you can for instance save your favourite programmes or search queries, and more easily contact the universities of your interest. We save information about your interest in order to present relevant content. This includes your former search queries and click behaviour. We send occasional personal notifications and service messages about the status of your account; this can include a request to update your account details.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ **Inquiries**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+You can reach out to education institutes through our Website, by means of an electronic form. The details in your inquiry will then be shared with the particular institute you are trying to contact, and only with that institute. By sending in inquiry you also create your own user account, enabling you to view the inquiries you sent. We will never share your contact details or other information which can be used to personally identify you with any institute or third party without your express consent. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**E-mail services**
 
-      iii.      You may call us at: (480) 505-8800
+We offer newsletters with which we want to inform interested persons about news and developments in the area of higher education, our services, and related events. Your e-mail address will only be added to our list of newsletter subscribers with your express permission. We also offer update mailings which contain information we believe will be of interest to you, based on your profile information and indicated interests. The frequency of these update mailings will be set to a default frequency upon the creation of your user account. Every newsletter and update mailing contains a link with which you can adjust the frequency or remove yourself from our mailing list. The data of subscribers is not shared with any third parties.
 
-       iv.      You may fax us at: (480) 505-8844
+ **Use of cookies**
 
-**Sending Emails**
+We make use of cookies in the offering and performance of our electronic services. A cookie is a simple small file which is sent along with the web-pages of the Website and is saved on your hard-drive by your browser. We use cookies to save your options and preferences. You can disable these cookies through your browser, see for examples and more data on cookies [http://www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Cookies from the American company Google are placed through the Website as part of the "Analytics"-service. We use this service to keep track of and acquire data on how visitors use the Website. Google can share data when required to do so by law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Insight, correction and removal**
 
-**Compliance with Laws and Law Enforcement**
+When you have a relation with StudyPortals B.V., you have after written request the option to view your personal data. In case the data provided by us contains errors, you can make a written request to have the data corrected or to have it removed. In addition you can inform us in writing that you do not desire to be approached with data on our products and services by reporting this to the following address:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+StudyPortals B.V.
 
-**Third Party Service Providers**
+Torenallee 45 4.02
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+5617 BA Eindhoven
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Netherlands
 
-**Supplementation of Information**
+ **Change to the privacy statement**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We retain the right to alter or otherwise make changes to this privacy statement. Changes will be announced on the Website.
