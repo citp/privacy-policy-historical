@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momondo.co.uk privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310180224id_/http%3A//www.momondo.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momondo.co.uk privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105054236id_/http%3A//www.momondo.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Momondo.com
 
@@ -55,7 +55,7 @@ We limit access to personal information about you to employees who we believe ha
 
 If you choose to include personally identifiable information in your comments, open text fields, or other areas of the web site intended for public viewing, other users will be able to view and use this information. We recommend against posting your email address and other personally identifiable information in this manner unless you are comfortable with the possibility of receiving unwanted contact.
 
-When you save your trip in momondo.com's system, other users will be able to view your shared travel itinerary, unless you choose specifically not to share your travel plans (Private vs. Public trip). To ensure your privacy, momondo.com does not display your email address or contact information to users, unless you explicitly request us to do so. Please note that you
+When you save your trip in momondo.com's system, other users will be able to view your shared travel itinerary, unless you choose specifically not to share your travel plans (Private vs. Public trip). To ensure your privacy, momondo.com does not display your email address or contact information to users, unless you explicitly request us to do so.
 
 ### Accessing, Reviewing and Changing Your Personal Information
 
@@ -65,15 +65,4 @@ We will offer you the ability to access, review and change certain information v
 
 momondo.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your momondo.com account or by placing a notice on our site.
 
-### Contact
-
-If you have questions, please contact us:
-
-_momondo A/S_   
-Amagertorv 19   
-DK-1160 Copenhagen   
-Denmark
-
-The momondo Team
-
-Last updated 29th February 2008.
+momondo, February 2008.
