@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyteenblowjobs.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607174327id_/http%3A//tour01.onlyteenblowjobs.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyteenblowjobs.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105090011id_/http%3A//tour02.onlyteenblowjobs.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ This notice applies to all information collected or submitted on **ONLY TEEN BLO
 The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. The subscriber may opt-out of a mailing list by clicking on the remove link located at the bottom of the email promotions, or by visiting the site <http://www.td3x.com/>
 
 **The Way We Use Information**  
-The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom **ONLY TEEN BLOW JOBS** purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications.
+The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom **ONLY TEEN BLOW JOBS** purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible as they are not the same as **ONLY TEEN BLOW JOBS** 's policy.
 
 As soon as the subscriber uses the website, the subscriber agrees that **ONLY TEEN BLOW JOBS** may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties.
 
