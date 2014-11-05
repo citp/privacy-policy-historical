@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsmailing.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505190016id_/http%3A//adsmailing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsmailing.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105150320id_/http%3A//www.adsmailing.com/privacy.php) for the most accurate reproduction.*
 
 # AdsMailing Privacy Policy
 
