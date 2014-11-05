@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030359id_/http%3A//www.fresnobee.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105213327id_/http%3A//www.fresnobee.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # FresnoBee.com Fresno, CA
 
