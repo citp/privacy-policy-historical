@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepaymania.co.uk privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616102456id_/http%3A//www.prepaymania.co.uk/res/145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaymania.co.uk privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105165738id_/http%3A//www.prepaymania.co.uk/res/145) for the most accurate reproduction.*
 
 # Mobile Phones, Mobile Phone Deals, Buy Mobile Phones, Cheap Mobile Phones at Prepaymania.co.uk
 
