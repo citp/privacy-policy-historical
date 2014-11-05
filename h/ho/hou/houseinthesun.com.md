@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseinthesun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044642id_/http%3A//www.houseinthesun.com/page-privacy-statement-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseinthesun.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105205621id_/http%3A//www.houseinthesun.com/page-privacy-statement-4.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
