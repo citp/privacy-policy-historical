@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016024626id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105161727id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
 
 # Local Sales Network - Privacy Policy - Go LSN!
 
