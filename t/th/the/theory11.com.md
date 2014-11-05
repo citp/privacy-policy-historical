@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theory11.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622100636id_/http%3A//www.theory11.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theory11.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105120125id_/http%3A//www.theory11.com/privacy.php) for the most accurate reproduction.*
 
 # theory11 privacy policy - theory11.com
 
