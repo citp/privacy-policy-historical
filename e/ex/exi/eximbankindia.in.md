@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321201931id_/http%3A//www.eximbankindia.in%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105012638id_/http%3A//www.eximbankindia.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eximbank
+# Exim Bank Privacy Policy
 
 This section outlines our policy relating to any personal information you might wish to provide us when you visit www.eximbanindia.in (" the Site") . We reserve the right to change the Privacy Policy in effect from time to time at our discretion, and you shall be deemed to have accepted the revised terms after they are posted on the Site.
 
