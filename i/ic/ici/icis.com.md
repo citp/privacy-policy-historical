@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507091245id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105195724id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy and cookies use for ICIS web sites and services
 
@@ -125,4 +125,6 @@ You may choose to decline these cookies by visiting the following sites:
   
 ### Further information
 
-To contact us about the use of Cookies on any ICIS web sites please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk).
+To contact us about the use of Cookies on any ICIS web sites, please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk).
+
+To contact us about your Singapore data privacy concerns, please email [sgprivacy@rbi.co.uk](mailto:sgprivacy@rbi.co.uk).
