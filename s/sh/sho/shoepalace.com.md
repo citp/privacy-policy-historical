@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoepalace.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035725id_/http%3A//www.shoepalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoepalace.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105193752id_/http%3A//www.shoepalace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Shoe Palace
 
 At www.shoepalace.com, the privacy of our visitors is of extreme importance to us. This privacy policy document explains the manner, in which “Shoe Palace” collects, uses, maintains and discloses information collected from users of the “www.shoepalace.com” website. This privacy policy applies to the “Shoe Palace” Site and all products and services offered by “Shoe palace”.
 
