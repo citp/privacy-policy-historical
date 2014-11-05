@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505081715id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105052543id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
-  * [Iarnród Éireann Irish Rail Cookie Policy](http://www.irishrail.ie/legal/privacy-statement#cookiepolicy)
-  * [Iarnród Éireann Irish Rail Official Apps](http://www.irishrail.ie/#Iarnr%C3%B3d%20%C3%89ireann%20Irish%20Rail%20Official%20Apps)
+  * [Iarnród Éireann Irish Rail Website Policy](http://www.irishrail.ie/legal/privacy-statement#cookiepolicy)
+  * [Iarnród Éireann Irish Rail App Policy](http://www.irishrail.ie/legal/privacy-statement#Iarnr%C3%B3d%20%C3%89ireann%20Irish%20Rail%20Official%20Apps)
 
 
 
@@ -164,4 +164,4 @@ At all times if you no longer wish for the app to use any of the features below,
 
  **Your personal information -** This permission allows the app to read and write data to the device's calendar. The user can save trips to his calendar, so we need to be able to store the events. We use the reading permission to get a list of all calendars available as there may be more than one, so the user can choose which calendar the trip will be saved in. We do not read or manipulate any existing calendar entries.
 
-This permission allows the user to place shortcuts on the device's home screen so the they have quick access to certain queries. This saves the user having to re-enter an origin and destination for every journey. 
+This permission allows the user to place shortcuts on the device's home screen so the they have quick access to certain queries. This saves the user having to re-enter an origin and destination for every journey.
