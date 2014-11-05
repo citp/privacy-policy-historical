@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getitmalls.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010151301id_/http%3A//www.getitmalls.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitmalls.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105235530id_/http%3A//www.getitmalls.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Getit Malls :- Privacy
 
