@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sti.edu privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209202554id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sti.edu privacy policy that was archived on 2014-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141105074735id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta charset="utf-8"> 
@@ -163,6 +163,48 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 
 <!-- BANNER START -->
+<script>
+function change_image(img, address)
+{
+	document.getElementById("banner").src = img;
+	var x;
+	x = document.getElementById("lnk");
+	x.setAttribute('href', address);
+	//x.onclick = _gaq.push(['_trackEvent', 'Banner', 'Leader Board', address ]);
+	//document.getElementById("l").innerHTML =	"link: " + x;
+}
+var banner_state;
+var count = 0;
+function increment() 
+{
+   //document.getElementById("cnt").innerHTML = count++;
+   count++;
+
+   if (count == 5)
+   {
+	   change_image("gif/banner/2ndsem_enrollmentongoing.jpg", 'http://www.sti.edu/campuses.asp');
+	   banner_state = "2nd Semester Enrollment";
+   }
+   else if (count == 10)
+   {
+	   //count = 0;
+	   change_image("gif/banner/betheheroapp-graphic.jpg", 'https://play.google.com/store/apps/details?id=com.STI.BeTheHero');
+	   banner_state = "STI Anniversary Website";
+   }
+   else if (count <  5)
+   {
+	   //change_image("gif/banner31st_webbanner6.jpg", 'http://www.anniversary.sti.edu');
+		banner_state = "2nd Semester Enrollment";   
+   }
+
+}
+
+setInterval(increment, 1000); 
+function tracking()
+{
+	trackingcode('Banner','Leader Board',banner_state)	;
+}
+</script>
 <div id="stiedu_header_wrapper">
 	<div id="stiedu_header_logo"><p>&nbsp;</p></div>
 	<div id="stiedu_header_banner">
@@ -171,15 +213,12 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
       
       
       
-		<div id="flashContent">
-		  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="540" height="80">
-		    <param name="movie" value="flash/2013_yolanda_nyc_quill.swf">
-		    <param name="quality" value="high">
-		    <param name="wmode" value="opaque">
-		    <embed src="flash/2013_yolanda_nyc_quill.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="540" height="80">
-	      </object>
-		</div>   
-      
+<div id="flashContent">
+<!--<a href="#" id="lnk" onclick="tracking()"><img src="gif/banner/welcome_to_sti.jpg"  id="banner"  /></a>-->
+<a href="https://play.google.com/store/apps/details?id=com.STI.BeTheHero" target="_blank" id="lnk" onclick="tracking()"><img src="gif/banner/betheheroapp-graphic.jpg" id="banner"></a>
+</div>   
+
+<!-- NOMINATION GRAPHIC  gif/banner/alumni_nomination_2014.jpg -->      
       
       
       
@@ -203,7 +242,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="campuses.asp?id=63">Bacolod EC</option>
   <option value="campuses.asp?id=21">Baguio</option>
   <option value="campuses.asp?id=22">Balagtas</option>
-  <option value="campuses.asp?id=23">Balanga</option>
+<!--  <option value="campuses.asp?id=23">Balanga</option>-->
   <option value="campuses.asp?id=42">Balayan</option>
   <option value="campuses.asp?id=18">Baliuag</option>
   <option value="campuses.asp?id=43">Batangas</option>
@@ -258,17 +297,17 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="campuses.asp?id=13">Quezon Avenue</option>
   <option value="campuses.asp?id=14">Recto</option>
   <option value="campuses.asp?id=50">Rosario</option>
+  <option value="campuses.asp?id=54">Santa Rosa</option>
   <option value="campuses.asp?id=38">San Carlos</option>
   <option value="campuses.asp?id=39">San Jose, Nueva Ecija</option>
   <option value="campuses.asp?id=30">San Fernando</option>
-  <!--<option value="campuses.asp?id=92">San Francisco</option>-->
+  <option value="campuses.asp?id=92">San Francisco</option>
   <option value="campuses.asp?id=51">San Pablo</option>
   <option value="campuses.asp?id=31">Santiago</option>
   <option value="campuses.asp?id=4">Shaw</option>
   <option value="campuses.asp?id=52">Southwoods</option>
   <option value="campuses.asp?id=53">Sta. Cruz</option>
   <option value="campuses.asp?id=32">Sta. Maria</option>
-  <option value="campuses.asp?id=54">Sta. Rosa</option>
   <option value="campuses.asp?id=81">Surigao</option>
   <option value="campuses.asp?id=93">Tacurong</option>
   <option value="campuses.asp?id=15">Taft</option>
@@ -301,10 +340,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="programs_tourism_hospitality_details.asp?local_procode=18">BS Travel Management</option>
   <option value="programs_tourism_hospitality_details.asp?local_procode=17">BS Tourism Management</option>
   <option value="programs_business_details.asp?local_procode=12">BS Office Administration</option>
-  <option value="programs_healthcare_details.asp?local_procode=15">BS Nursing</option> 
+<!--  <option value="programs_healthcare_details.asp?local_procode=15">BS Nursing</option> -->
   <option value="programs_engineering_details.asp?local_procode=7">BS Computer Engineering</option>
   <option value="programs_tourism_hospitality_details.asp?local_procode=28">BS Culinary Management</option>
-  <option value="programs_arts_sciences_details.asp?local_procode=26">AB Communication Arts</option>
+  <option value="programs_arts_sciences_details.asp?local_procode=26">AB Communication</option>
+  <option value="programs_tourism_hospitality_details.asp?local_procode=32">BS Real Estate Management</option>
   <option value="programs_tourism_hospitality_details.asp?local_procode=22">3-yr. Hotel &amp; Restaurant Administration</option>
   <option value="programs_ict_details.asp?local_procode=4">2-yr. Associate in Computer Technology</option>
   <option value="programs_ict_details.asp?local_procode=5">2-yr. Information Technology</option>
@@ -312,8 +352,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="programs_tourism_hospitality_details.asp?local_procode=23">2-yr. Hospitality &amp; Restaurant Services</option>
   <option value="programs_engineering_details.asp?local_procode=9">2-yr. Computer &amp; Consumer Electronics</option>
   <option value="programs_tourism_hospitality_details.asp?local_procode=24">2-yr. Tourism and Events Management</option>
-  <option value="programs_tourism_hospitality_details.asp?local_procode=19">2-yr. Practical Nursing Program</option>  
-  <option value="centerofarts.asp">Center of Arts</option>
     </select>           
 
  
@@ -327,7 +365,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     </p>
     </div>
 </div>
-<!-- BANNER END --><!--MENU START -->
+<!-- BANNER END --><div style="position:relative; z-index:3">
+
+<!--MENU START -->
 <div id="stiedu_menu_wrapper">
 
 <div id="FWTableContainer1736046856">
@@ -353,56 +393,155 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
   <tr>
    <td><img name="stimenu_r1_c1_s1" src="images/stimenu_r1_c1_s1.gif" width="26" height="36" border="0" id="stimenu_r1_c1_s1" alt=""></td>
-   <td><a href="default.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('stimenu_r1_c2_s1','','images/stimenu_r1_c2_s2.gif',1);"><img name="stimenu_r1_c2_s1" src="images/stimenu_r1_c2_s1.gif" width="62" height="36" border="0" id="stimenu_r1_c2_s1" alt=""></a></td>
+   <td><a href="default.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('stimenu_r1_c2_s1','','images/stimenu_r1_c2_s2.gif',1);" onlick="trackingcode('Button','Main Menu','Home');"><img name="stimenu_r1_c2_s1" src="images/stimenu_r1_c2_s1.gif" width="62" height="36" border="0" id="stimenu_r1_c2_s1" alt=""></a></td>
    <td><a href="javascript:;" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0005165931_0', 'MMMenu0005165931_0',0,36,'stimenu_r1_c3_s1');MM_nbGroup('over','stimenu_r1_c3_s1','images/stimenu_r1_c3_s2.gif','images/stimenu_r1_c3_s4.gif',1);" onclick="MM_nbGroup('down','navbar1','stimenu_r1_c3_s1','images/stimenu_r1_c3_s3.gif',1);"><img name="stimenu_r1_c3_s1" src="images/stimenu_r1_c3_s1.gif" width="91" height="36" border="0" id="stimenu_r1_c3_s1" alt=""></a></td>
    <td><a href="javascript:;" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009135039_1', 'MMMenu0009135039_1',0,36,'stimenu_r1_c4_s1');MM_nbGroup('over','stimenu_r1_c4_s1','images/stimenu_r1_c4_s2.gif','images/stimenu_r1_c4_s4.gif',1);" onclick="MM_nbGroup('down','navbar1','stimenu_r1_c4_s1','images/stimenu_r1_c4_s3.gif',1);"><img name="stimenu_r1_c4_s1" src="images/stimenu_r1_c4_s1.gif" width="100" height="36" border="0" id="stimenu_r1_c4_s1" alt=""></a></td>
-   <td><a href="programs.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009135744_2', 'MMMenu0009135744_2',0,36,'stimenu_r1_c5_s1');MM_nbGroup('over','stimenu_r1_c5_s1','images/stimenu_r1_c5_s2.gif','images/stimenu_r1_c5_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','stimenu_r1_c5_s1','images/stimenu_r1_c5_s3.gif',1);"><img name="stimenu_r1_c5_s1" src="images/stimenu_r1_c5_s1.gif" width="99" height="36" border="0" id="stimenu_r1_c5_s1" alt=""></a></td>
-   <td><a href="campuses.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','stimenu_r1_c6_s1','images/stimenu_r1_c6_s2.gif','images/stimenu_r1_c6_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','stimenu_r1_c6_s1','images/stimenu_r1_c6_s3.gif',1);"><img name="stimenu_r1_c6_s1" src="images/stimenu_r1_c6_s1.gif" width="96" height="36" border="0" id="stimenu_r1_c6_s1" alt=""></a></td>
-   <td><a href="faculty.asp" onmouseout="MM_swapImgRestore();MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009140901_4', 'MMMenu0009140901_4',0,36,'stimenu_r1_c7_s1');MM_swapImage('stimenu_r1_c7_s1','','images/stimenu_r1_c7_s2.gif',1);"><img name="stimenu_r1_c7_s1" src="images/stimenu_r1_c7_s1.gif" width="83" height="36" border="0" id="stimenu_r1_c7_s1" alt=""></a></td>
-   <td><a href="students.asp" onmouseout="MM_swapImgRestore();MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009140929_5', 'MMMenu0009140929_5',0,36,'stimenu_r1_c8_s1');MM_swapImage('stimenu_r1_c8_s1','','images/stimenu_r1_c8_s2.gif',1);"><img name="stimenu_r1_c8_s1" src="images/stimenu_r1_c8_s1.gif" width="95" height="36" border="0" id="stimenu_r1_c8_s1" alt=""></a></td>
+   <td><a href="programs.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009135744_2', 'MMMenu0009135744_2',0,36,'stimenu_r1_c5_s1');MM_nbGroup('over','stimenu_r1_c5_s1','images/stimenu_r1_c5_s2.gif','images/stimenu_r1_c5_s3.gif',1);" onlick="trackingcode('Button','Main Menu','Programs');"><img name="stimenu_r1_c5_s1" src="images/stimenu_r1_c5_s1.gif" width="99" height="36" border="0" id="stimenu_r1_c5_s1" alt=""></a></td>
+   <td><a href="campuses.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','stimenu_r1_c6_s1','images/stimenu_r1_c6_s2.gif','images/stimenu_r1_c6_s3.gif',1);" onlick="trackingcode('Button','Main Menu','Campuses');"><img name="stimenu_r1_c6_s1" src="images/stimenu_r1_c6_s1.gif" width="96" height="36" border="0" id="stimenu_r1_c6_s1" alt=""></a></td>
+   <td><a href="faculty.asp" onmouseout="MM_swapImgRestore();MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009140901_4', 'MMMenu0009140901_4',0,36,'stimenu_r1_c7_s1');MM_swapImage('stimenu_r1_c7_s1','','images/stimenu_r1_c7_s2.gif',1);" onlick="trackingcode('Button','Main Menu','Faculty');"><img name="stimenu_r1_c7_s1" src="images/stimenu_r1_c7_s1.gif" width="83" height="36" border="0" id="stimenu_r1_c7_s1" alt=""></a></td>
+   <td><a href="students.asp" onmouseout="MM_swapImgRestore();MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009140929_5', 'MMMenu0009140929_5',0,36,'stimenu_r1_c8_s1');MM_swapImage('stimenu_r1_c8_s1','','images/stimenu_r1_c8_s2.gif',1);" onlick="trackingcode('Button','Main Menu','Students');"><img name="stimenu_r1_c8_s1" src="images/stimenu_r1_c8_s1.gif" width="95" height="36" border="0" id="stimenu_r1_c8_s1" alt=""></a></td>
    <td><a href="javascript:;" onmouseout="MM_swapImgRestore();MM_menuStartTimeout(1000);" onmouseover="MM_menuShowMenu('MMMenuContainer0009140943_6', 'MMMenu0009140943_6',0,36,'stimenu_r1_c9_s1');MM_swapImage('stimenu_r1_c9_s1','','images/stimenu_r1_c9_s2.gif',1);"><img name="stimenu_r1_c9_s1" src="images/stimenu_r1_c9_s1.gif" width="64" height="36" border="0" id="stimenu_r1_c9_s1" alt=""></a></td>
-   <td><a href="careers.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('stimenu_r1_c10_s1','','images/stimenu_r1_c10_s2.gif',1);"><img name="stimenu_r1_c10_s1" src="images/stimenu_r1_c10_s1.gif" width="87" height="36" border="0" id="stimenu_r1_c10_s1" alt=""></a></td>
+   <td><a href="careers.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('stimenu_r1_c10_s1','','images/stimenu_r1_c10_s2.gif',1);" onlick="trackingcode('Button','Main Menu','Careers');"><img name="stimenu_r1_c10_s1" src="images/stimenu_r1_c10_s1.gif" width="87" height="36" border="0" id="stimenu_r1_c10_s1" alt=""></a></td>
    <td><img name="stimenu_r1_c11_s1" src="images/stimenu_r1_c11_s1.gif" width="112" height="36" border="0" id="stimenu_r1_c11_s1" alt=""></td>
-   <td><a href="calendar.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','stimenu_r1_c12_s1','images/stimenu_r1_c12_s2.gif','images/stimenu_r1_c12_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','stimenu_r1_c12_s1','images/stimenu_r1_c12_s3.gif',1);"><img name="stimenu_r1_c12_s1" src="images/stimenu_r1_c12_s1.gif" width="33" height="36" border="0" id="stimenu_r1_c12_s1" alt=""></a></td>
-   <td><a href="contact.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','stimenu_r1_c13_s1','images/stimenu_r1_c13_s2.gif','images/stimenu_r1_c13_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','stimenu_r1_c13_s1','images/stimenu_r1_c13_s3.gif',1);"><img name="stimenu_r1_c13_s1" src="images/stimenu_r1_c13_s1.gif" width="44" height="36" border="0" id="stimenu_r1_c13_s1" alt=""></a></td>
+   <td><a href="calendar.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','stimenu_r1_c12_s1','images/stimenu_r1_c12_s2.gif','images/stimenu_r1_c12_s3.gif',1);" onlick="trackingcode('Button','Main Menu','Calendar');"><img name="stimenu_r1_c12_s1" src="images/stimenu_r1_c12_s1.gif" width="33" height="36" border="0" id="stimenu_r1_c12_s1" alt=""></a></td>
+   <td><a href="contact.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','stimenu_r1_c13_s1','images/stimenu_r1_c13_s2.gif','images/stimenu_r1_c13_s3.gif',1);" onlick="trackingcode('Button','Main Menu','Contact');"><img name="stimenu_r1_c13_s1" src="images/stimenu_r1_c13_s1.gif" width="44" height="36" border="0" id="stimenu_r1_c13_s1" alt=""></a></td>
    <td><img name="stimenu_r1_c14_s1" src="images/stimenu_r1_c14_s1.gif" width="16" height="36" border="0" id="stimenu_r1_c14_s1" alt=""></td>
    <td><img src="images/spacer.gif" width="1" height="36" border="0" alt=""></td>
   </tr>
 </tbody></table>
 <div id="MMMenuContainer0005165931_0">
-	<div id="MMMenu0005165931_0" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();">
-		<iframe src="menu_about_sti.html" width="162px" height="142px" scrolling="No" frameborder="0"></iframe>
+	<div id="MMMenu0005165931_0" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();" style="background:#0167c2; width:162px; height:142px; padding-left:5px; position:absolute; z-index:999999;">
+		<!--<iframe src="menu_about_sti.asp" width="162px" height="142px" scrolling="No" frameborder="0"></iframe>-->
+        <a href="about_sti.asp#mission_vision" target="_parent" style="margin-top:5px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'Vision and Mission');">
+			Vision and Mission
+		</a>
+        <a href="about_sti.asp#history" target="_parent" style="margin-top:5px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'History');">
+			History
+		</a>
+		<a href="about_sti_e2e.asp" target="_parent" style="margin-top:25px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'E2E System');">
+			E2E System
+		</a>
+		<a href="sti_news.asp" target="_parent" style="margin-top:45px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'STI in the News');">
+			STI in the News
+		</a>
+		<a href="about_sti_foundation.asp" target="_parent" style="margin-top:65px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'STI Foundation);">
+			STI Foundation
+		</a>
+		<a href="about_sti_alma_mater.asp" target="_parent" style="margin-top:85px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'Alma Mater Hymn');">
+			Alma Mater Hymn
+		</a>
+		<a href="about_sti_alma_mater.asp#themesong" target="_parent" style="margin-top:105px; width:140px;" onclick="trackingcode('Button', 'Main Menu', 'STI Theme Song');">
+			STI Theme Song
+		</a>
+        
 	</div>
 </div>
 <div id="MMMenuContainer0009135039_1">
-	<div id="MMMenu0009135039_1" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();">
-        <iframe src="menu_admissions.html" width="182px" height="102px" scrolling="No" frameborder="0"></iframe>
+	<div id="MMMenu0009135039_1" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();" style="background:#0167c2; width:182px; height:102px; padding-left:5px;">
+        <!--<iframe src="menu_admissions.html" width="182px" height="102px" scrolling="No" frameborder="0" ></iframe>-->
+        <a href="admissions.asp#procedures" target="_parent" style="margin-top:5px; width:160px;" onclick="trackingcode('Button', 'Main Menu', 'Admission Procedures');">
+			Admission Procedures
+		</a>
+		<a href="admissions_requirements.asp" target="_parent" style="margin-top:25px; width:160px;" onclick="trackingcode('Button', 'Main Menu', 'Admission Requirements');">
+			Admission Requirements
+		</a>
+		<a href="admissions_registration.asp" target="_parent" style="margin-top:45px; width:160px;" onclick="trackingcode('Button', 'Main Menu', 'Online Registration');">
+			Online Registration
+		</a>
+		<a href="admissions_followup.asp" target="_parent" style="margin-top:65px; width:160px;" onclick="trackingcode('Button', 'Main Menu', 'Follow-up Registration');">
+			Follow-up Registration
+		</a>
 	</div>
 </div>
 <div id="MMMenuContainer0009135744_2">
-	<div id="MMMenu0009135744_2" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();">
-        <iframe src="menu_programs.html" width="234px" height="166px" scrolling="No" frameborder="0"></iframe>
+	<div id="MMMenu0009135744_2" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();" style="background:#0167c2; width:234px; height:146px; padding-left:5px;">
+       <!-- <iframe src="menu_programs.html" width="234px" height="146px" scrolling="No" frameborder="0" ></iframe>-->
+       	<a href="programs_ict.asp" target="_parent" style="margin-top:5px; width:210px;" onclick="trackingcode('Button', 'Main Menu', 'ICT');">
+			ICT
+		</a>
+		<a href="programs_business.asp" target="_parent" style="margin-top:25px; width:210px;" onclick="trackingcode('Button', 'Main Menu', 'Business &amp; Management');">
+			Business &amp; Management
+		</a>
+		<a href="programs_hotel_restaurant_management.asp" target="_parent" style="margin-top:45px; width:210px;" onclick="trackingcode('Button', 'Main Menu', 'Hotel &amp; Restaurant Management');">
+			Hotel &amp; Restaurant Management
+		</a>
+		<a href="programs_tourism_management.asp" target="_parent" style="margin-top:65px; width:210px;" onclick="trackingcode('Button', 'Main Menu', 'Tourism Management');">
+			Tourism Management
+		</a>
+		<a href="programs_engineering.asp" target="_parent" style="margin-top:85px; width:210px;" onclick="trackingcode('Button', 'Main Menu', 'Engineering');">
+			Engineering
+		</a>
+		<a href="programs_arts_sciences.asp" target="_parent" style="margin-top:105px; width:210px;" onclick="trackingcode('Button', 'Main Menu', 'Arts &amp; Sciences');">
+			Arts &amp; Sciences
+		</a>
 	</div>
 </div>
 <div id="MMMenuContainer0009140901_4">
-	<div id="MMMenu0009140901_4" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();">
-        <iframe src="menu_faculty.html" width="182px" height="80px" scrolling="No" frameborder="0"></iframe>
+	<div id="MMMenu0009140901_4" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();" style="background:#0167c2; width:182px; height:80px; padding-left:5px;">
+        <!--<iframe src="menu_faculty.html" width="182px" height="80px" scrolling="No" frameborder="0" ></iframe>-->
+        <a href="faculty_stimuli.asp" target="_parent" style="margin-top:5px; width:160px;" onclick="trackingcode('Button', 'Main Menu', 'Faculty STIMULI');">
+			Faculty STIMULI
+		</a>
+			<a href="faculty.asp#adp" target="_parent" style="margin-top:25px; width:160px;" onclick="trackingcode('Button', 'Main Menu', 'Academic Development Programs');">
+			Academic Development Programs
+		</a>		
 	</div>
 </div>
 <div id="MMMenuContainer0009140929_5">
-	<div id="MMMenu0009140929_5" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();">
-         <iframe src="menu_students.html" width="176px" height="184px" scrolling="No" frameborder="0"></iframe>
+	<div id="MMMenu0009140929_5" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();" style="background:#0167c2; width:176px; height:184px; padding-left:5px;">
+         <!--<iframe src="menu_students.html" width="176px" height="184px" scrolling="No" frameborder="0" ></iframe>-->
+        <a href="students_sports.asp" target="_parent" style="margin-top:5px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'STI Sports');">
+			STI Sports
+		</a>
+		<a href="students_stimuli.asp" target="_parent" style="margin-top:25px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'STIMULI Publication');">
+			STIMULI&nbsp;Publication
+		</a>
+		<a href="students_recognitions.asp" target="_parent" style="margin-top:45px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'Student Recognitions');">
+			Student Recognitions
+		</a>
+		<a href="students_alumni_archive.asp" target="_parent" style="margin-top:65px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'Featured Alumni');">
+			Alumni Feature
+		</a>
+		<a href="students_website.asp" target="_parent" style="margin-top:85px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'Featured Website');">
+			Featured Website
+		</a>
+
+		<a href="students_literary.asp" target="_parent" style="margin-top:105px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'Literary Section');">
+			Literary Section
+		</a>
+		<a href="students_videos.asp" target="_parent" style="margin-top:125px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'Video Gallery');">
+			Video Gallery
+		</a>
+		<a href="students_gallery.asp" target="_parent" style="margin-top:145px; width:154px;" onclick="trackingcode('Button', 'Main Menu', 'Photo Gallery');">
+			Photo Gallery
+		</a>
 	</div>
 </div>
 <div id="MMMenuContainer0009140943_6">
-	<div id="MMMenu0009140943_6" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();">
-         <iframe src="menu_links.html" width="186px" height="126px" scrolling="No" frameborder="0"></iframe>
+	<div id="MMMenu0009140943_6" onmouseout="MM_menuStartTimeout(1000);" onmouseover="MM_menuResetTimeout();" style="background:#0167c2; width:186px; height:126px; padding-left:5px;">
+        <!-- <iframe src="menu_links.html" width="186px" height="126px" scrolling="No" frameborder="0" ></iframe>-->
+        <a href="http://www.alumni.sti.edu" target="_blank" style="margin-top:5px; width:164px;" onclick="trackingcode('Button', 'Main Menu', 'STI Alumni Association');">
+			STI Alumni Association
+		</a>		
+		<a href="http://www.i-cares.com" target="_blank" style="margin-top:25px; width:164px;" onclick="trackingcode('Button', 'Main Menu', 'i-CARES');">
+			i-CARES
+		</a>		
+		<a href="http://www.anniversary.sti.edu" target="_blank" style="margin-top:45px; width:164px;" onclick="trackingcode('Button', 'Main Menu', 'STI Anniversary Website');">
+			STI Anniversary Website
+		</a>        
+		<a href="http://www.nyc.sti.edu" target="_blank" style="margin-top:65px; width:164px;" onclick="trackingcode('Button', 'Main Menu', 'National Youth Convention');">
+			National Youth Convention
+		</a>
+		<a href="http://voty.sti.edu" target="_blank" style="margin-top:85px; width:164px;" onclick="trackingcode('Button', 'Main Menu', 'Voice of the Youth');">
+			Voice of the Youth
+		</a>
 	</div>
 </div>
 </div>
 
 </div>
 <!-- END MENU -->
+</div>
 
 
 
@@ -412,9 +551,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <!-- LEFT CONTENT START -->
 <div id="stiedu_left_about">
-
-<div id="stiedu_left_about_header"><a href="default.asp">Home</a> &gt; <a href="about.asp">About STI</a> &gt; <a href="privacy_policy.asp">Privacy Policy</a></div>
-<div id="stiedu_left_about_image"><p>&nbsp;</p></div>
+  <div id="stiedu_left_about_image"><p>&nbsp;</p></div>
 <div id="stiedu_left_about_content">
   <p class="title_3">Privacy Policy</p>
 
@@ -432,7 +569,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
           <tr valign="top">
             <td height="35"><p>Address : </p></td>
-            <td><p>STI Academic Center, University Parkway Drive, Fort Bonifacio Global City, Taguig, Philippines</p></td>
+            <td><p>STI Academic Center Ortigas-Cainta, Ortigas Avenue Extension, Cainta, 1900 Rizal </p></td>
           </tr>
           <tr valign="top">
             <td height="20"><p>Website URL:</p> </td>
@@ -482,9 +619,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <div id="stiedu_content_right">
 
 <!-- SOCIAL START-->
-	<div id="stiedu_right_social"> <a href=" http://www.youtube.com/stidotedu" target="_blank"><img src="images/youtube.png" width="52" height="24" border="0" align="left"></a><a href="http://www.facebook.com/sti.edu" target="_blank"><img src="images/facebook.png" width="24" height="24" border="0" align="left" style="margin-right:0px;padding:0px;"></a><div id="likeus">Like Us</div>
-    	<a href="https://twitter.com/sticollege" target="_blank"><img src="images/sti_twitter.png" width="24" height="24" style="margin-left:0px; padding:0px;"></a>
-    </div>
+	<div id="stiedu_right_social">
+	  <div id="likeus"><a href="http://www.facebook.com/sti.edu" target="_blank"><img src="images/social/social_facebook.jpg" width="28" height="28" border="0"></a>&nbsp;&nbsp; <a href="http://www.youtube.com/stidotedu" target="_blank"><img src="images/social/social_youtube.jpg" width="28" height="28" border="0"></a>&nbsp;&nbsp; <a href=""><img src="images/social/social_twitter.jpg" width="28" height="28" border="0"></a></div>
+    	
+</div>
 <!-- SOCIAL END -->	<div id="stiedu_right_video">
 	<div id="stiedu_right_video_title">
 	  <p class="panel_title">FEATURED VIDEOS</p></div>
@@ -529,28 +667,32 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     <div id="stiedu_video2_pic">&nbsp;</div>
     <div id="stiedu_video2_text2"><a href="students_videos.asp">View more videos</a></div>
 	</div>	<div id="stiedu_right_onlinereg">
-  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="90">
-    <param name="movie" value="flash/2011_online_registration.swf">
-    <param name="quality" value="high">
-    <param name="wmode" value="opaque">
-    <embed src="flash/2011_online_registration.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="90">
-  </object>
+    <a href="http://www.sti.edu/admissions_registration.asp" onclick="_gaq.push(['_trackEvent', 'Banner', 'Register Online', 'Right Side Bar']);"><img src="gif/online_reg/online_reg.jpg" width="300" height="90" alt="online registration"></a>
+ <!-- <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="90">
+    <param name="movie" value="flash/2011_online_registration.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="opaque" />
+    <embed src="flash/2011_online_registration.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="90"></embed>
+  </object>-->
 </div>
+<!--
 	<div id="stiedu_right_centerofarts">
 	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="90">
-	    <param name="movie" value="flash/2011_centerofarts.swf">
-	    <param name="quality" value="high">
-	    <param name="wmode" value="opaque">
-	    <embed src="flash/2011_centerofarts.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="90">
+	    <param name="movie" value="flash/2011_centerofarts.swf" />
+	    <param name="quality" value="high" />
+	    <param name="wmode" value="opaque" />
+	    <embed src="flash/2011_centerofarts.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="90"></embed>
       </object>
 </div>
+-->
     <div id="stiedu_right_scope">
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="180">
-        <param name="movie" value="flash/scope_2013_300px.swf">
-        <param name="quality" value="high">
-        <param name="wmode" value="opaque">
-        <embed src="flash/scope_2013_300px.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="180">
-      </object>
+     <a href="http://www.sti.edu/scopelite.asp" onclick="_gaq.push(['_trackEvent', 'Banner', 'Scope', 'Right Side Bar']);"><img src="gif/scope2014/scopelite.gif" width="300" height="180" alt="scope"></a>
+     <!-- <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="180">
+        <param name="movie" value="flash/scope_2014.swf" />
+        <param name="quality" value="high" />
+        <param name="wmode" value="opaque" />
+        <embed src="flash/scope_2014.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="180"></embed>
+      </object>-->
     </div>
     
     <p>&nbsp;</p>
@@ -567,15 +709,15 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <div id="stiedu_footer_wrapper">
 
 <ul id="stiedu_footer_menu">
-<li><a href="default.asp">Home</a></li>
-<li><a href="about_sti.asp">About STI</a></li>
-<li><a href="admissions.asp">Admissions</a></li>
-<li><a href="programs.asp">Programs</a></li>
-<li><a href="campuses.asp">Campuses</a></li>
-<li><a href="faculty.asp">Faculty</a></li>
-<li><a href="students.asp">Students</a></li>
-<li><a href="careers.asp">Careers</a></li>
-<li><a href="contact.asp">Contact Us</a></li>
+<li><a href="default.asp" onclick="trackingcode('Button', 'Footer Menu', 'Home');">Home</a></li>
+<li><a href="about_sti.asp" onclick="trackingcode('Button', 'Footer Menu', 'About STI');">About STI</a></li>
+<li><a href="admissions.asp" onclick="trackingcode('Button', 'Footer Menu', 'Admissions');">Admissions</a></li>
+<li><a href="programs.asp" onclick="trackingcode('Button', 'Footer Menu', 'Programs');">Programs</a></li>
+<li><a href="campuses.asp" onclick="trackingcode('Button', 'Footer Menu', 'Campuses');">Campuses</a></li>
+<li><a href="faculty.asp" onclick="trackingcode('Button', 'Footer Menu', 'Faculty');">Faculty</a></li>
+<li><a href="students.asp" onclick="trackingcode('Button', 'Footer Menu', 'Students');">Students</a></li>
+<li><a href="careers.asp" onclick="trackingcode('Button', 'Footer Menu', 'Careers');">Careers</a></li>
+<li><a href="contact.asp" onclick="trackingcode('Button', 'Footer Menu', 'Contact Us');">Contact Us</a></li>
 </ul>
 </div>
 <!-- FOOTER END --><div id="stiedu_bottom_wrapper">
@@ -583,9 +725,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <div id="stiedu_bottom_col1">
 <p class="stiedu_bottom_title">Contact Us</p>
 <p>&nbsp;</p>
-<p class="stiedu_bottom_text">STI HQ Address: 
+<p class="stiedu_bottom_text">STI Head Office: 
   STI Academic Center Ortigas-Cainta, 
   Ortigas Avenue Extension, Cainta, 1900 Rizal
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Tel. (632) 812-1STI (784).</p>
 <p>&nbsp;</p>
 
@@ -597,12 +740,13 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	<p class="stiedu_bottom_title">Quick Links</p>
 	<p>&nbsp;</p>
     <div id="stiedu_bottom_list">
-  				<ul><li><a href="admissions_requirements.asp">Admission Requirements</a></li>
-    				<li><a href="admissions_registration.asp">Online Registration</a></li>
-    				<li><a href="students_stimuli.asp">STIMULI Publication</a></li>
-    				<li><a href="programs_ict.asp">ICT</a></li>
-    				<li><a href="programs_healthcare.asp">Healthcare</a></li>
-    				<li><a href="programs_business.asp">Business &amp; Management</a></li> 
+  				<ul><li><a href="admissions_requirements.asp" onclick="trackingcode('Button', 'Quick Links', 'Admission Requirements');">Admission Requirements</a></li>
+    				<li><a href="admissions_registration.asp" onclick="trackingcode('Button', 'Quick Links', 'Online Registration');">Online Registration</a></li>
+    				<li><a href="students_stimuli.asp" onclick="trackingcode('Button', 'Quick Links', 'STIMULI Publication');">STIMULI Publication</a></li>
+    				<li><a href="programs_ict.asp" onclick="trackingcode('Button', 'Quick Links', 'Information &amp; Communications Technology');">ICT</a></li>
+<!--    				<li><a href="programs_healthcare.asp">Healthcare</a></li>-->
+    				<li><a href="programs_business.asp" onclick="trackingcode('Button', 'Quick Links', 'Business &amp; Management');">Business &amp; Management</a></li> 
+                    <li><a href="programs_hotel_restaurant_management.asp" onclick="trackingcode('Button', 'Quick Links', 'Hotel &amp; Restaurant Management');">Hotel &amp; Restaurant Management</a></li>
   			   </ul>
 	</div>	
 </div>
@@ -611,12 +755,13 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	    <div id="stiedu_bottom_list">
-  				<ul><li><a href="programs_tourism_hospitality.asp">Tourism &amp; Hospitality Management</a></li>
-    				<li><a href="programs_engineering.asp">Engineering</a></li>
-    				<li><a href="programs_arts_sciences.asp">Arts &amp; Sciences</a></li>
-    				<li><a href="programs_centerofarts.asp">Center of Arts</a></li>
-    				<li><a href="http://www.i-cares.com" target="_blank">I-Cares</a></li>
-    				<li><a href="http://www.anniversary.sti.edu" target="_blank">Anniversary Website</a></li> 
+  				<ul>
+                	<li><a href="programs_tourism_management.asp" onclick="trackingcode('Button', 'Quick Links', 'Tourism Management');">Tourism Management</a></li>
+    				<li><a href="programs_engineering.asp" onclick="trackingcode('Button', 'Quick Links', 'Engineering');">Engineering</a></li>
+    				<li><a href="programs_arts_sciences.asp" onclick="trackingcode('Button', 'Quick Links', 'Arts &amp; Sciences');">Arts &amp; Sciences</a></li>
+<!--    				<li><a href="programs_centerofarts.asp">Center of Arts</a></li>-->
+    				<li><a href="http://www.i-cares.com" target="_blank" onclick="trackingcode('Button', 'Quick Links', 'I-Cares');">I-Cares</a></li>
+    				<li><a href="http://www.anniversary.sti.edu" target="_blank" onclick="trackingcode('Button', 'Quick Links', 'Anniversary Website');">Anniversary Website</a></li> 
   			   </ul>
 		</div>	
 </div>
@@ -631,7 +776,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	<div id="stiedu_bottom_logo_wrapper">
     	<div id="stiedu_bottom_logo_pic"><a href="http://www.sti.edu"><img src="images/stilogo2.png" width="60" height="37" border="0"></a></div>
         <div id="stiedu_bottom_logo_content">
-              	<p class="stiedu_bottom_text">© 2012 STI Education Services Group.
+              	<p class="stiedu_bottom_text">© 2014 STI Education Services Group.
 All Rights Reserved.           	</p>
               	<p class="stiedu_bottom_text"><a href="privacy_policy.asp">Privacy Policy</a> | <a href="terms_of_use.asp">Terms of Use</a></p>
               	<p>&nbsp; </p>
