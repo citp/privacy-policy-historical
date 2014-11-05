@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnsure.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055950id_/http%3A//www.mnsure.org/resources/terms-conditions.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnsure.org privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105155936id_/http%3A//www.mnsure.org/resources/terms-conditions.jsp) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -46,8 +46,6 @@ We use “cookies” to customize your browsing experience with the MNsure publi
 
 This website contains links to other sites, and when you link to another site, you are no longer on the MNsure website and subject to this Privacy Policy. The State of Minnesota, MNsure or any agents, officers, or employees do not warrant the accuracy or reliability of the linked site nor endorse any content, products or services from the linked site. Any person or entity that relies on any information obtained from a linked site does so at his or her own risk.
 
-* * *
-
 ## Privacy Warnings
 
-Our [Privacy Warnings](https://web.archive.org/resources/privacy-warnings.jsp) are designed to provide you with information about how your private data may be used and shared in proximity to when that data is being collected.
+[Privacy Warnings](https://web.archive.org/resources/privacy-warnings.jsp) are designed to provide you with information about how your private data may be used and shared in proximity to when that data is being collected.
