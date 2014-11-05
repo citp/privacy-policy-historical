@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2014-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140320051740id_/https%3A//realvnc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105205658id_/http%3A//www.realvnc.com/privacy.html) for the most accurate reproduction.*
 
-# RealVNC - Privacy statement
+# Privacy statement - RealVNC™
 
 ### Privacy
 
-RealVNC is committed to protecting the privacy of our users. We will use our best efforts to ensure that the information you give us remains private and is only used for the purposes set out in this policy.
+RealVNC™ is committed to protecting the privacy of our users. We will use our best efforts to ensure that the information you give us remains private and is only used for the purposes set out in this policy.
 
 ### Use of cookies
 
 A cookie is a small text file which is automatically stored on your computer or device when you visit our website. 
 
 We use cookies to improve our quality of service. For example, we use Google Analytics, a popular web analytics service provided by Google, to help us analyze how you navigate and use the site. For more information about Google Analytics and privacy, visit [their website](http://www.google.com/analytics/learn/privacy.html).
+
+Our LiveChat and support system use temporary session cookies in order to function but we do not store information contained within these cookies persistently.
 
 We do not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies set by us, or by any other website, you can do this through your browser’s settings. Consult the Help in your browser for more information about how to do this.
 
