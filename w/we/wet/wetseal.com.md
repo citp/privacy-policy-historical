@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wetseal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064207id_/http%3A//www.wetseal.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetseal.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105193918id_/http%3A//www.wetseal.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**WET SEAL**
+## CUSTOMER CARE
 
 Privacy is important to Wet Seal.  Making sure that you know how we collect, use, share, and secure information on this website is also important to us.  
 
