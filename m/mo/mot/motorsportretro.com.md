@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorsportretro.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505064747id_/http%3A//www.motorsportretro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportretro.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105093855id_/http%3A//www.motorsportretro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Motorsport Retro
+# Privacy Policy - Motorsport Retro
 
 [Home](http://www.motorsportretro.com/) » Privacy Policy
 
