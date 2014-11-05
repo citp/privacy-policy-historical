@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the insomniagamingfestival.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181950id_/http%3A//www.multiplay.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insomniagamingfestival.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105201020id_/http%3A//multiplay.com/privacy) for the most accurate reproduction.*
 
-# Multiplay - Privacy Policy
-
-## Multiplay Privacy Policy
+# Privacy Policy - Multiplay : Multiplay
 
 ### 1\. Introduction
 
-This Privacy Statement is provided by Multiplay (UK) Limited (referred to as "Multiplay", "us", "our" or "we" in these terms) for the information of visitors to and users of (referred to as "you" or "your" in these terms) our website.  
+This Privacy Statement is provided by Multiplay (UK) Limited (referred to as “Multiplay”, “us”, “our” or “we” in these terms) for the information of visitors to and users of (referred to as “you” or “your” in these terms) our website.  
 We are committed to your rights of privacy. This is why we have set out the privacy guidelines below. 
 
 ### 2\. Law
@@ -23,7 +21,7 @@ If you have any questions about this privacy statement, how we run the website o
 
 ### 4\. Data Protection Act
 
-We have notified the Data Protection Commissioner under the terms of the Data Protection Act 1998 ("the Act") that we may obtain information about data subjects.
+We have notified the Data Protection Commissioner under the terms of the Data Protection Act 1998 (“the Act”) that we may obtain information about data subjects.
 
 ### 5\. Information Gathered by Us
 
@@ -32,23 +30,23 @@ We have notified the Data Protection Commissioner under the terms of the Data Pr
   3. 5.3 The information you provide will enable us to provide information about our company and services to you and to contact you. We will only provide this information where you indicate that you wish to receive further information from us on a regular basis.
   4. 5.4 We also collect demographic and profile data on our website. This information may be combined with other forms of information to permit us to bring together, in aggregate form, information about the people who use our site. Such information will enable us to understand, in general terms, user preferences in relation to the content of the website and the effectiveness of advertising ( for example, advertisers may find it useful if you can inform them that 500 men aged under 30 have clicked on their advertisement on any given day)
 
-  
 
 
 ### 6\. IP Address & Cookies
 
-  1. 6.1 When you enter our website, we use your internet protocol ("IP") address to help diagnose problems with our server, to administer our website and to help identify you. We also have the ability to know what type of operating system and browser software you use and to identify the geographical location of your browser. Your IP address is also used by us to gather broad demographic information and other purposes, such as monitoring visitor frequency and to assess which of our pages are the most popular.
-  2. 6.2 You may be aware that there is a technology called "cookies". This is a file that is transferred from the website to the hard drive of your computer. We use cookies access logging and tracking to track your activities on and to enhance our website. Cookies hold you login information for Multiplay user accounts or Multiplay forum accounts and allow the website to recognise your identity whenever you visit us. A cookie will not allow a website operator to obtain information of a personal nature that will identify yourself to us, such as your name and address. We will only be aware of such information if you provide the information to us or you have set the preferences in your browser to provide this information automatically.
+  1. 6.1 When you enter our website, we use your internet protocol (“IP”) address to help diagnose problems with our server, to administer our website and to help identify you. We also have the ability to know what type of operating system and browser software you use and to identify the geographical location of your browser. Your IP address is also used by us to gather broad demographic information and other purposes, such as monitoring visitor frequency and to assess which of our pages are the most popular.
+  2. 6.2 You may be aware that there is a technology called “cookies”. This is a file that is transferred from the website to the hard drive of your computer. We use cookies access logging and tracking to track your activities on and to enhance our website. Cookies hold you login information for Multiplay user accounts or Multiplay forum accounts and allow the website to recognise your identity whenever you visit us. A cookie will not allow a website operator to obtain information of a personal nature that will identify yourself to us, such as your name and address. We will only be aware of such information if you provide the information to us or you have set the preferences in your browser to provide this information automatically.
 
-  
 
 
 ### 7\. Secure Storage of Your Personal Data
 
-  1. 7.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  1. 7.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
   2. 7.2 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
 7.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do out best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; and transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
-  
+
+
 
 
 ### 8\. Uses Made of & Sharing Information
@@ -63,7 +61,6 @@ We have notified the Data Protection Commissioner under the terms of the Data Pr
   3. 8.3 We share the information we gather with advertisers and other partners. The information we share comprises information in aggregate form only. We do not share personal information about anybody unless we have your specific permission to do so. 
   4. 8.4 You have the option on the relevant website page to indicate whether you wish to receive promotional e-mail about the services that we and our advertisers offer. We will not send you any such promotional e-mail if you do not indicate your agreement to receive such information.
 
-  
 
 
 ### 9\. Disclosure of Your Information
@@ -74,7 +71,6 @@ We have notified the Data Protection Commissioner under the terms of the Data Pr
     2. 9.2.2 Multiplay or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
     3. 9.2.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or safety of Multiplay, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-  
 
 
 ### 10\. Registration, Order Forms, Surveys & Contests
@@ -82,7 +78,6 @@ We have notified the Data Protection Commissioner under the terms of the Data Pr
   1. 10.1 Our registration forms, surveys and competitions ask you to provide us with your contact details, such as name, postal and e-mail addresses. In addition, we need financial information, such as details of your bank account or credit card number when you order from us.
   2. 10.2 The information you provide will enable us to provide information about our company to you and to contact you. We will only provide this information where you indicate that you wish to receive further information from us on a regular basis.
 
-  
 
 
 ### 11\. Telling You What Information We Hold About You
@@ -91,10 +86,8 @@ We have notified the Data Protection Commissioner under the terms of the Data Pr
   2. 11.2 If you request us to remove your personal information from our database or you wish us to amend or change the information we hold about you on our database, we will remove or amend any such information on your request.
   3. 11.3 You may change and modify the information you have previously provided to us by sending an e-mail or writing to us at the address given in paragraph 3.
 
-  
 
 
 ### 12\. Changes to Our Privacy Policy
 
-Any changes we make to our Privacy Policy in future will be posted on this page and, where appropriate, notified to you by email.  
-
+Any changes we make to our Privacy Policy in future will be posted on this page and, where appropriate, notified to you by email.
