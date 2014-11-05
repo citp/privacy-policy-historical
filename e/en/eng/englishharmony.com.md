@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishharmony.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082002id_/http%3A//englishharmony.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishharmony.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105194913id_/http%3A//englishharmony.com/privacy-statement) for the most accurate reproduction.*
 
 # English Harmony Privacy Policy | English Harmony
 
