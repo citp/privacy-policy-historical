@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobiloans.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518144947id_/https%3A//www.mobiloans.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloans.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105103058id_/http%3A//www.mobiloans.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective November 2013
+Effective July 2014
 
 FACTS  |  WHAT DOES MOBILOANS, LLC DO WITH YOUR PERSONAL INFORMATION?   
 ---|---  
@@ -27,8 +27,8 @@ share?  |  Can you limit this sharing?
 To limit our sharing  | 
 
   * Call 877-836-1518 – our menu will prompt you through your choice(s);
-  * Log in to your account at [www.mobiloans.com](http://www.mobiloans.com/)  
-and click on the “change account preferences” link; or
+  * Log in to your account at [www.mobiloans.com](http://www.mobiloans.com/) and click on the   
+“Manage Profile” tab and select “Contact Preferences”; or
   * Contact us via email: [support@mobiloans.com](mailto:support@mobiloans.com).
 
   
@@ -81,9 +81,9 @@ Joint Marketing  |  A formal agreement between non-affiliated financial companie
   
 Other Important Information  
 ---  
-As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership. We also may collect and consider information about you from non-credit reporting agency data providers and publicly available information about you.
+As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership. We also may collect and consider information about you from non-credit reporting agency data providers, including, for example, information about your location and the location of your mobile devices and publicly available information about you.
 
-**Updating your information:** If you need to update the personal information you have given us, log in to your account at www.mobiloans.com and click on the “Update my information” link or call (877) 836-1518 to speak to an account representative.
+**Updating your information:** If you need to update the personal information you have given us, log in to your account at [www.mobiloans.com](http://www.mobiloans.com/) and click on the “Manage Profile” tab and select “Edit Your Application” or call (877) 836-1518 to speak to an account representative.
 
 **“Do not track”:** When someone visits the MobiLoans website, a cookie is placed on the visitor’s computer (if the visitor accepts cookies). The cookie we place on your computer does not contain any of your personally identifiable information. MobiLoans advertises its products and services on websites that you may visit, and MobiLoans uses service providers to place such advertisements. Those service providers (such as Google, Microsoft or Yahoo) may use cookies placed on your computer to show you advertisements for MobiLoans services on other websites. You can opt-out from service providers’ and/or marketers’ use of cookies in this manner by visiting each service provider’s advertising opt-out page or by utilizing “do not track” functionality in your web browser. If you choose to not have your browser accept cookies from the MobiLoans website, you will not be able to subscribe to the service offerings on the MobiLoans website.
 
