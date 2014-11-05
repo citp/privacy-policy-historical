@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiabet.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224041751id_/http%3A//www.indiabet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabet.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105225513id_/http%3A//www.indiabet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - India Bet
 
-**PRIVACY POLICY for indiabet.com  
+**PRIVACY POLICY for India Bet  
 **
 
 We, at Sports Gaming Ltd treat the privacy of all our visitors with the utmost importance. The following policy details the measures we take to preserve and safely guard your privacy when you visit or communicate with our site or personnel. 
