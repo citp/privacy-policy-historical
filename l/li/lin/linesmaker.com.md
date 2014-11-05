@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415093451id_/http%3A//betlm.eu/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105060818id_/http%3A//betlm.ag/support/kb/privacy) for the most accurate reproduction.*
 
-# Linesmaker.com: Protecting your privacy
+# Linesmaker Privacy Policy
 
-Linesmaker is 100% committed to protecting your privacy. The following discloses the information we gather and why. Equally important, we disclose what we will NOT do with information gathered.
+Linesmaker is 100% committed to protecting your privacy. The following discloses the information we gather and why. Equally important, we disclose what we will not do with information gathered.
 
 We never disclose information to any agencies, nor do we sell the information that we may obtain from you. Please read on for more specific details of our privacy policy.
 
-### Our Commitment to You
+**Our Commitment to You**
 
-Protecting your privacy is a top priority. We use the information we collect on the site only to facilitate the exchange of wagering funds, and to enhance your overall gaming experience. 
+Protecting your privacy is a top priority. We use the information we collect on the site only to facilitate the exchange of wagering funds, and to enhance your overall gaming experience.
 
-_We do not sell, trade, or rent your personal information to others_. We are duly licensed gaming establishment. We are _not required to disclose_ any player of financial information to any government agency.
+We do not sell, trade, or rent your personal information to others. We are duly licensed gaming establishment. We are not required to disclose any player of financial information to any government agency.
 
 **What information do we collect and why?**
 
@@ -28,7 +28,8 @@ We may use your IP address to help diagnose problems with our server, and to adm
 
 Never. We do not sell, trade, or rent your personal information to others. However, we do use aggregate statistics about our players, sales, Internet traffic, and related site information to better deliver our services. We are not required to disclose player or financial information to government agencies nor will we do so.
 
-**Public Forums**
+**  
+Public Forums**
 
 We may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
@@ -40,10 +41,8 @@ When you access your account information, it is protected by our highly secure e
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. Email: [Customer Service](http://betlm.eu/support/contact.html?d=general&subject=%27Linesmaker%20Inquiry%27 "Customer Service").
-  2. Call the following toll free number: 1-866-66-BET LM
-
-
+Email: Customer Service.  
+Call the following toll free number: 1-866-66-BET LM
 
 **Your Consent**
 
@@ -51,17 +50,15 @@ If we decide to change our privacy policy, we will post those changes here so th
 
 **Conclusion**
 
-Protecting your privacy is very important to us. We use the information we collect on the site to facilitate the exchange of  funds and enhance the quality of our product. We do not sell, trade, rent or otherwise disclose your personal information to others.
+Protecting your privacy is very important to us. We use the information we collect on the site to facilitate the exchange of funds and enhance the quality of our product. We do not sell, trade, rent or otherwise disclose your personal information to others.
 
 **Choice/Opt-Out of Sportsbook**
 
 This function only provides members/visitors the opportunity to opt-out of receiving communications from us.
 
-  1. You can visit the following URL: <http://betlm.eu/list/> and enter the e-mail address you want to remove from our list.
+You can visit the following URL: http://betlm.ag/list/ and enter the e-mail address you want to remove from our list.
 
-
-
-You may request the closure of your wagering account at any time as long as there is no balance and no pending wagers. 
+You may request the closure of your wagering account at any time as long as there is no balance and no pending wagers.
 
 **Correcting or Updating Personal Information**
 
@@ -69,4 +66,4 @@ Linesmaker provides members with the secure ‘My Account’ area for changing a
 
 **Contacting Linesmaker.com**
 
-If you have any questions about this privacy statement, our practices or your dealings with us, contact: [Customer Service](http://betlm.eu/support/contact.html?d=general&subject=%27Linesmaker%20Inquiry%27 "Customer Service").
+If you have any questions about this privacy statement, our practices or your dealings with us, contact: Customer Service.
