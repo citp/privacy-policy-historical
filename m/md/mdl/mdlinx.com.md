@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424021527id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105012329id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
 
 # M3 USA - Privacy Policy
 
 The privacy of our users on the Internet is of the utmost importance to us. Since M3 USA Corporation ("M3"), its related network of sites and services, including the MDLinx.com site, its specialty sites, thesmartestoncologist.com site and any similar M3 sites (all such sites collectively the "Sites"), do gather certain types of information about our users, we feel that you should completely understand the conditions and terms surrounding the gathering and use of information about those using our Sites and services. This Privacy Policy Statement divulges what information we gather, how we use it, and how to correct or change it. The services made available through M3 may be provided in a variety of media and devices now known or hereinafter developed including mobile applications, and include without limitation news, reference tools, and applications, sponsored programming, personalized content, continuing medical education, communication tools and discussion boards (collectively, the "Services"). In the policy, the pronouns "you" and "your" are used to refer to the end user, while "we," "us" and "our" are used to refer to M3. 
 
-By visiting one of the Sites, or by using the Services, you are accepting the practices described in this Privacy Policy Statement. We may amend this Statement at any time; if we make changes to this Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. This Statement was last revised on December 2, 2011. Any questions regarding our Privacy Policy Statement should be directed to M3 ([support@usa.m3.com](mailto:support@usa.m3.com)) for clarification and further elaboration. 
+By visiting one of the Sites, or by using the Services, you are accepting the practices described in this Privacy Policy Statement. We may amend this Statement at any time; if we make changes to this Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. This Statement was last revised on May 16, 2014. Any questions regarding our Privacy Policy Statement should be directed to M3 ([support@usa.m3.com](mailto:support@usa.m3.com)) for clarification and further elaboration. 
 
 ### 1\. Collecting Information
 
@@ -40,9 +40,21 @@ Your email address will not be sold to a third party if you sign up for one of o
 
 #### Usage Tracking and Cookies
 
+M3 collects information about your activity on the Sites and through our advertisements using technologies such as cookies, including third-party cookies, web beacons and server log files. 
+
 Usage Tracking: M3 uses traffic analysis software on our servers to track user traffic patterns throughout the Services. M3 uses this data to break down overall usage statistics according to IP address, domain name, browser type, and MIME type by reading this information from the data automatically sent by the browser whenever a web page is requested. Additionally, solely in connection with your voluntary participation in a market research study, your computer may be tracked by digital fingerprinting or watermarking to help ensure unique responders to a survey. 
 
-Cookies: : A cookie is a small text file that resides only on your own computer and that can be accessed only by the server that originally created the cookie. A cookie cannot store or send back any information to us that you have not specifically and voluntarily provided while on a Site, or that is not among the information mentioned above that is contained in every user's browser (e.g.., domain name, browser type). M3 uses cookies to monitor and manage Service development and deliver, and potentially to permit greater personalization of the Service to your preferences and specifications. We may assign cookies to devices that access our Services to help us dynamically generate advertising and content to users of the Services. Most browser software can be set to reject all cookies. If your browser is set to reject cookies, websites that are cookie-enabled will not recognize you when you return to the website, and some website functionality may be lost. The Help section of your browser will tell you about your options for managing your cookies. 
+Cookies & Web Beacon: : A cookie is a small text file placed in your computer's browser to store your preferences. A cookie can be accessed only by the server that originally created the cookie. A cookie cannot store or send back any information to us that you have not specifically and voluntarily provided while on a Site, or that is not among the information mentioned above that is contained in every user's browser (e.g.., domain name, browser type). Cookies do not contain personally identifiable information; however, once you choose to furnish a Site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+
+M3 uses cookies to monitor and manage Service development and delivery, and potentially to permit greater personalization of the Service based on your preferences and specifications. We may assign cookies to devices that access our Services to help us dynamically generate advertising and content to users of the Services. 
+
+Our Sites may also contain third-party cookies from advertising partners who help serve ads for M3 and other third parties on the Sites and elsewhere on the web. 
+
+M3 and our third party business partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. 
+
+We and our third party business partners use the information automatically generated by cookies and web beacons, as well as other information that we or they have, to provide you with an optimal website experience. This includes measuring the effectiveness of our ads and your interactions them, and tailoring offers and advertisements to you for products or services you may find helpful on the Sites and third-party sites. 
+
+At this time, the Sites do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. If your browser is set to block cookies, websites that are cookie-enabled will not recognize you when you return to the website, and some website functionality may be lost. The Help section of your browser will tell you about your options for managing your cookies. 
 
 ### 2\. Information Sharing and Disclosures
 
@@ -69,6 +81,40 @@ In addition to aggregate information, we may share some kinds of personally iden
 Members who participate agree that their name, specialty, profession, the Messages they read, and the answers they provide can be shared with the industry sponsor. When you choose to engage in a Sponsored Program, you may be asked to provide personally identifiable information which may be used to supplement information about you that we have already received during member registration. In addition, we may collect information in connection with a transaction that you have requested (e.g. requests for information, sales rep visit, etc.) or responses to Sponsored Program questions, which, along with your identity, will be provided to the program's sponsor. Even if you do not provide us with personally identifiable information, we collect non-personally identifiable information about your use of Sponsored Programs through cookies, as described in the "Usage Tracking and Cookies" section of the Privacy Policy. 
 
 The personally identifiable information that you provide when you engage in a Sponsored Program will be used to provide the services you have requested or authorized, respond to your questions, provide you the specific services you select and to send you emails about new programs and selected information from our sponsors as it relates to your specialty or area of clinical practice. You may also receive invitations to engage in other Sponsored Programs from the same sponsor or other sponsor. If you engage in a Sponsored Program, we may identify you by name to the sponsor of the Sponsored Program and/or its agent(s) on the sponsor's behalf. We may also provide the sponsor with your specialty and country where you reside, based on your registration profile. You should read the privacy policy of the applicable sponsor and familiarize yourself with how such sponsor will treat your information. We are not responsible for how the sponsor and its agents use your information and manage your privacy. Further, we may use non-personally identifiable information for research purposes, and we may provide this information in aggregate to third parties. For example, we might inform third parties regarding the number of users of a Sponsored Program and the activities they conduct while engaged in the Program. 
+
+**Career Center:** By electing to use the Career Center, you are able to search for jobs in your area, register to receive emails about future job postings, and/or to permit employers and recruiters to contact you directly regarding job offerings. You may search job postings without being a registered user, but in order to apply for a job, receive email communications, participate in the interactive areas to be found at the Career Center or be contacted by an employer or recruiter interested in you for employment, you must be a registered member. 
+
+If you elect to use the "Post My CV" service [and/or the "M3 Career Consult" service], we will collect the following personally identifiable information: 
+
+Email address  
+Password  
+Name  
+Address  
+City  
+State  
+ZIP code  
+Phone number  
+Profession  
+Specialty(ies)  
+Board Status  
+Years in Practice  
+Citizenship Status  
+Licensure information  
+Education  
+Job preferences  
+Work experience
+
+Your personally identifiable information allows us to share your job preferences and work experiences with prospective employers and recruiters, and communicate with you about potential employment opportunities. 
+
+Posting your CV on the Sites exposes you to thousands of potential employers and recruiters each day. We know that job seekers have varying levels of comfort when it comes to publishing their CV online. To accommodate the needs of all users, we offer two levels of CV privacy from which you can choose. Please note that these privacy settings only apply to whether or not your CV can be viewed by third parties. M3 will still collect, use or disclose anonymous, aggregated information about you and your visits to our website in the manner described elsewhere in this Privacy Policy. 
+
+> **Standard Posting**  
+>  This option gives you the most visibility to the broadest employer and recruiter audience possible by making your CV searchable in our CV database. If you select this option, any registered employer or recruiter who purchases access to the database can view your CV and contact details (to the extent you include them in your CV). 
+> 
+> **Private Posting For Apply Online Only**  
+>  This option allows you to post your CV on the Sites without having it searchable by or viewable to employers and recruiters. The benefit is that you can quickly and easily apply for jobs without retyping your information, and you provide your CV only to those employers you are specifically interested in. 
+
+We attempt to limit access to our searchable CV database to legitimate users such as paying employers, recruiters, hiring managers, headhunters and human resource professionals, but cannot guarantee that other parties will not gain access to this database. We cannot control the use of CVs by third parties who access such CVs while they are in our searchable database. You may remove your CV from our searchable database at any time. However, employers, recruiters and others who have paid for access to that database, as well as parties who have otherwise gained access to the database may have retained a copy of your CV in their own files or databases. We cannot control the retention, use or privacy of CVs or profiles that have been downloaded by third parties. Accordingly, you should not put information you would not want made public in your CV. 
 
 **Companies Who Work with Us:** From time to time, we contract with third parties to help us provide or improve our services. For example, we may hire consultants who help us prevent fraud and violation of our terms of service, analyze data, provide marketing assistance, or provide customer service or fulfillment services. In order to provide these services, these third parties may have limited access to some of the personally identifiable information we maintain about users of our Services. We require all such parties to comply with the terms of this Privacy Policy, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us. 
 
