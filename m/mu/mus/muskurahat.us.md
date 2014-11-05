@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muskurahat.us privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605000726id_/http%3A//www.muskurahat.us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muskurahat.us privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105065320id_/http%3A//www.muskurahat.us/privacy-policy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Muskurahat.com
 
