@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the calstrs.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325034158id_/http%3A//www.calstrs.com/footer-link/privacy-0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calstrs.com privacy policy that was archived on 2014-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141105172727id_/http%3A//www.calstrs.com/footer-link/privacy-0) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy - CalSTRS.com</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMFV1NVGwAAUFVTBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">// Add way back to mobile.
+<script type="text/javascript">// Add way back to mobile.
 var ddMobileGetBackToMobile = false;
 
 /**
@@ -16,6 +16,12 @@ var ddMobileGetBackToMobile = false;
   // TODO: Somehow move this logic into dd_webwrap, it doesn't belong here.
   // Never engage mobile on WebWrapped pages.
   if (typeof ddWebWrap != 'undefined' && ddWebWrap.enabled) {
+    return;
+  }
+
+  // Never engage when #skipmobile is appended, useful when you want to force
+  // the desktop site without changing the cookies.
+  if (window.location.hash === '#skipmobile') {
     return;
   }
 
@@ -60,12 +66,15 @@ var ddMobileGetBackToMobile = false;
     if (window.location.pathname != '/') {
       uri += '#' + window.location.pathname;
     }
+    if (window.location.search) {
+      uri += window.location.search;
+    }
     // Switch user to mobile site at this uri.
     window.location = uri;
   }
 })();
 </script>
-<link rel="shortcut icon" href="http://ddcache2.net/calstrs.SE314/sites/main/files/dtheme_favicon_3.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/sites/main/files/dtheme_favicon_3.ico" type="image/x-icon">
 <meta name="og:site_name" content="CalSTRS.com">
 <meta name="og:title" content="Privacy - CalSTRS.com">
 <meta name="og:description" content="CalSTRS Internet Privacy Principles
@@ -73,33 +82,34 @@ Electronic privacy is crucial for the ongoing success of the Internet as a conve
 <meta name="og:type" content="article">
 <meta name="og:image" content="http://www.calstrs.com/sites/main/files/dtheme_favicon_3.ico">
 <meta name="og:url" content="http://www.calstrs.com/footer-link/privacy-0">
-<link rel="canonical" href="http://www.calstrs.com/footer-link/privacy-0">  <link type="text/css" rel="stylesheet" media="all" href="http://ddcache2.net/calstrs.SE314/sites/main/files/advagg_css/css_47e2663789b67e92f0ff524d77aeed55_0.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://ddcache2.net/calstrs.SE314/sites/main/files/advagg_css/css_cbab193ae603649952e779e7ae6cb9a4_17.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://ddcache2.net/calstrs.SE314/sites/main/files/advagg_css/css_e7606bd8d48a172200ec62863cb30264_0.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://ddcache2.net/calstrs.SE314/sites/main/files/advagg_css/css_bee2c1522bf47b8d4e76f1f719ab7eea_0.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://ddcache2.net/calstrs.SE314/sites/default/themes/dtheme/dtheme-direct.css?U">
+<link rel="canonical" href="http://www.calstrs.com/footer-link/privacy-0">  <link type="text/css" rel="stylesheet" media="all" href="/sites/main/files/advagg_css/css_47e2663789b67e92f0ff524d77aeed55_0.css">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/main/files/advagg_css/css_cbab193ae603649952e779e7ae6cb9a4_23.css">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/main/files/advagg_css/css_e7606bd8d48a172200ec62863cb30264_0.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/main/files/advagg_css/css_bee2c1522bf47b8d4e76f1f719ab7eea_0.css">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/dtheme-direct.css?P">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/ie.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/ie.css?P" />
 <![endif]-->
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/dmodel-ie8.css?U" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie8.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/dmodel-ie8.css?P" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie8.css?P" />
 <![endif]-->
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/dmodel-ie7.css?U" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie7.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/dmodel/dmodel-ie7.css?P" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie7.css?P" />
 <![endif]-->
 <!--[if lte IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/dtheme/ie.css?P" />
 <![endif]-->
-  <script type="text/javascript" src="http://ddcache2.net/calstrs.SE314/sites/main/files/advagg_js/js_6c38f267b6305cc6ee0f0ac92abf6104_3.js"></script>
+  <script type="text/javascript" src="/sites/main/files/advagg_js/js_6c38f267b6305cc6ee0f0ac92abf6104_15.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/main\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":800,"iframe_height":481,"iframe_border":0,"enable_video":0},"ddCaptcha":1971,"ddMobile":{"path":"m","enabled":1},"ddPoll":{"resultsURI":"\/sites\/all\/modules\/_dd\/dd_poll\/dd_poll_results.php"},"ddTwitterFeed":{"getTweetsURI":"\/dd_twitter_feed\/get_tweets"},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"forms\\.calstrs\\.com|\\.pdf$","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"cssInit":{"node.css":true,"defaults.css":true,"system.css":true,"system-menus.css":true,"user.css":true,"content-module.css":true,"ctools.css":true,"date.css":true,"datepicker.css":true,"jquery.timeentry.css":true,"filefield.css":true,"lightbox_alt.css":true,"logintoboggan.css":true,"nice_menus.css":true,"disabled":true,"dd_captcha.css":true,"dd_classes.experimental.css":true,"dd_classes.do_timeout.css":true,"dd_classes.gallery.css":true,"dd_create.css":true,"compiled-classes.css":true,"dd_embed.css":true,"dd_login.css":true,"dd_mobile.view_mobile.css":true,"dd_poll.css":true,"dd_sharethis.css":true,"dd_twitter_feed.css":true,"dd_user_roles.css":true,"farbtastic.css":true,"calendar.css":true,"extlink.css":true,"fieldgroup.css":true,"views.css":true,"printlinks.css":true,"dd_social.css":true,"dtheme-direct.css":true,"html-elements.css":true,"tabs.css":true,"messages.css":true,"block-editing.css":true,"wireframes.css":true,"zen.css":true,"nice_menus_default.css":true,"dmodel-layout.css":true,"dmodel.css":true,"dtheme.css":true},"jsInit":{"misc\/jquery.js":true,"misc\/drupal.js":true,"sites\/all\/modules\/google_analytics\/googleanalytics.js":true,"sites\/all\/modules\/_dd\/dd_captcha\/dd_captcha.js":true,"sites\/all\/modules\/_dd\/dd_classes\/dd_classes.js":true,"sites\/all\/modules\/_dd\/dd_classes\/plugins\/do_timeout\/dd_classes.do_timeout.js":true,"sites\/all\/modules\/_dd\/dd_classes\/plugins\/gallery\/dd_classes.gallery.js":true,"sites\/all\/modules\/_dd\/dd_create\/dd_create.js":true,"sites\/all\/modules\/_dd\/dd_embed\/dd_embed.js":true,"sites\/all\/modules\/_dd\/dd_login\/dd_login.js":true,"sites\/all\/modules\/_dd\/dd_mobile\/js\/dd_mobile.js":true,"sites\/all\/modules\/_dd\/dd_poll\/dd_poll.js":true,"sites\/all\/modules\/_dd\/dd_sharethis\/dd_sharethis.js":true,"sites\/all\/modules\/_dd\/dd_twitter_feed\/dd_twitter_feed.js":true,"sites\/all\/modules\/_dd\/dd_webwrap\/dd_webwrap.js":true,"sites\/all\/modules\/extlink\/extlink.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/modernizr.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/browser-detect.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/dd-search.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.monkey-patch.js":true,"sites\/all\/modules\/ctools\/js\/jump-menu.js":true,"sites\/all\/modules\/_dd\/dd_social\/dd_social.js":true,"sites\/all\/themes\/dmodel\/dmodel.js":true,"sites\/default\/themes\/dtheme\/dtheme.js":true}});
 //--><!]]>
 </script>
   <link type="text/css" rel="stylesheet" href="//fast.fonts.com/cssapi/7ad73e57-9fc2-4dd9-bddb-c50e896f872c.css">
-<meta name="p:domain_verify" content="6016920148b3c46d4eabaa77d5ca9582">  </head>
+<meta name="p:domain_verify" content="6016920148b3c46d4eabaa77d5ca9582">
+<meta name="google-site-verification" content="qcxOMrZpJ88GBE5L2fM6aTBdNC3BaKp7jUHdhcQLyU0">  </head>
 <body class="node-1684 pt-show-social-block no-event-date t56 wt56 wt0 access-normal pt56 has--nt not-front not-logged-in node-type-post two-sidebars page-footer-link-privacy-0 section-footer-link dd-cache user-not-admin live launched pn1684 n section-node role-anonymous-user role-not-admin">
         <div class="accessibility-utility-links"><a id="navigation-top"></a>
           </div>
@@ -118,10 +128,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-    <div id="node-2859-teaser" class="node node-teaser node-type-post node-2859 pt-show-social-block no-event-date t401 wt401 wt0 access-normal has-image no-more pt401 has--nt">
+    <div id="node-3571-teaser" class="node node-teaser node-type-post node-3571 pt-hide-contact-info pt-show-social-block no-event-date t401 wt401 wt0 access-normal has-image no-more pt401 has--nt">
   <div class="node-inner">  
-            <div class="node-upper-image node-item"><span class="field-image field-not-video field-image-preset-bg not-croppable  c1  c-1"><a href="/retirement-planning" rel=""><img src="http://www.calstrs.com/sites/main/files/imagecache/bg/main-images/bg14.jpg" alt="Image of How Will You Spend| Your Future?" title="" width="1880" height="1504"></a></span></div>
-        <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Backgrounds">Background</span> <span class="last meta-item post-date">January 29, 2013</span>    </div></div>
+            <div class="node-upper-image node-item"><span class="field-image field-not-video field-image-preset-bg not-croppable  c1  c-1"><a href="/retirement-planning" rel=""><img src="http://www.calstrs.com/sites/main/files/imagecache/bg/main-images/152941817_final.jpg" alt="Image of How Will You Spend| Your Future?" title="" width="1880" height="1193"></a></span></div>
+        <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Backgrounds">Background</span> <span class="last meta-item post-date">June 30, 2014</span>    </div></div>
           
       <h2 class="node-header node-item">
       <a href="/retirement-planning" title="How Will You Spend  Your Future?"><span class="title">How Will You Spend<br> Your Future?</span>
@@ -160,7 +170,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
         <div id="page" class="region-page two-sidebars  col4 dd"><div id="page-inner">
     <div id="header"><div id="header-inner" class="clear-block">
               <div id="theme-logo">
-                      <div class="logo"><a href="/" title="Home" rel="home"><img src="http://ddcache2.net/calstrs.SE314/sites/default/themes/dtheme/logo.png" alt="Home"></a></div>
+                      <div class="logo"><a href="/" title="Home" rel="home"><img src="/sites/default/themes/dtheme/logo.png" alt="Home"></a></div>
                                               <h1 class="site-name">
                 <a href="/" title="Home" rel="home">
                 CalSTRS.com                </a>
@@ -193,7 +203,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-    <div id="node-2815-teaser" class=" nhlh-c1 two-col-wide two-col-n simple-pods  dd node node-teaser node-type-post node-2815 pt-show-social-block has-video no-event-date t439 wt439 wt0 access-normal has-image has-images no-more pt439 has--nt">
+    <div id="node-2815-teaser" class=" nhlh-c1 two-col-wide two-col-n simple-pods  dd node node-teaser node-type-post node-2815 pt-hide-contact-info pt-show-social-block has-video no-event-date t439 wt439 wt0 access-normal has-image has-images no-more pt439 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Emphasis Posts">Emphasis Post</span> <span class="last meta-item post-date">January 17, 2013</span>    </div></div>
           
@@ -245,17 +255,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
       <div class="view-content">
       <form action="/footer-link/privacy-0" accept-charset="UTF-8" method="post" id="ctools-jump-menu">
 <div><div class="container-inline"><div class=" form-item type-select" id="edit-jump-wrapper">
- <select name="jump" class="form-select ctools-jump-menu-select ctools-jump-menu-change" id="edit-jump"><option value="" selected="selected">I would like to ...</option><option value="/general-information/reading-your-form-1099-r">  
-  
-                Learn more about my Form 1099-R
-  
-</option><option value="/pod/pension-abuse-reporting-hotline">  
+ <select name="jump" class="form-select ctools-jump-menu-select ctools-jump-menu-change" id="edit-jump"><option value="" selected="selected">I would like to ...</option><option value="/pod/pension-abuse-reporting-hotline">  
   
                 Report suspected pension abuse
   
 </option><option value="/post/calstrs-pay-dates">  
   
-                View 2013-14 pay dates
+                View 2014 pay dates
   
 </option><option value="/quick-link/log-mycalstrs">  
   
@@ -285,10 +291,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
                 Sign up for direct deposit
   
+</option><option value="/general-information/tax-information">  
+  
+                Learn about tax withholding
+  
 </option></select>
 </div>
 <input type="submit" name="op" id="edit-go" value="Go" class="form-submit ctools-jump-menu-button ctools-jump-menu-hide">
-</div><input type="hidden" name="form_build_id" id="form-wbpGXoJR5xquUCCLGHVyfSjUNYyzO9D9_C5qed5jLLU" value="form-wbpGXoJR5xquUCCLGHVyfSjUNYyzO9D9_C5qed5jLLU">
+</div><input type="hidden" name="form_build_id" id="form-GNm6VzYpz6QpI7XVAKKLfEvdUc9m6n3pdkfFj3MQwIs" value="form-GNm6VzYpz6QpI7XVAKKLfEvdUc9m6n3pdkfFj3MQwIs">
 <input type="hidden" name="form_id" id="edit-ctools-jump-menu" value="ctools_jump_menu">
 
 </div></form>
@@ -302,7 +312,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div>   </div>
 
 </div></div> <!-- /block-inner, /block -->
-<div id="block-digitaldcore-search" class="block block-digitaldcore region-even odd region-count-4 count-5"><div class="block-inner">
+<div id="block-digitaldcore-search" class="block block-digitaldcore region-even odd region-count-4 count-5  search-keywords  "><div class="block-inner">
 
     
    
@@ -319,7 +329,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <input type="hidden" name="facet-id" id="edit-facet-id" value="">
 <input type="hidden" name="facet-sort" id="edit-facet-sort" value="">
 <div class="dd-search-submit"><button class="dd-search-submit-button" type="submit"></button><div class="legacy-button"><input type="submit" name="op" id="edit-submit" value="" class="form-submit">
-</div></div><div class="dd-search-more"><a href="/find/" class="faceted-search-more">More options</a></div><input type="hidden" name="form_build_id" id="form-DfJJI7f7o5Pv2EtSXeu_IXfY0BYUNmg1X2ibRyUq1qs" value="form-DfJJI7f7o5Pv2EtSXeu_IXfY0BYUNmg1X2ibRyUq1qs">
+</div></div><div class="dd-search-more"><a href="/find/" class="faceted-search-more">More options</a></div><input type="hidden" name="form_build_id" id="form-PxPTImrCOu4gqzmmcAnAb8gnHCEAFx1di0Z7oNLR9yc" value="form-PxPTImrCOu4gqzmmcAnAb8gnHCEAFx1di0Z7oNLR9yc">
 <input type="hidden" name="form_id" id="edit-faceted-search-ui-form-1" value="faceted_search_ui_form_1">
 <input type="hidden" name="box_text" id="edit-box-text" value="Search">
 
@@ -337,8 +347,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   <div class="block-content content">
     <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-4131 menuparent mt-51  first  odd  depth-1"><ul class="depth-2"><li class="menu-6015 mt-79  first  odd  depth-2"></li>
 <li class="menu-9964 mt-340  even  depth-2"></li>
-<li class="menu-18026 menuparent mt-460  odd  last  depth-2"><ul class="depth-3"><li class="menu-18492 mt-461  first  odd  depth-3"></li>
-<li class="menu-18493 mt-462  even  last  depth-3"></li>
+<li class="menu-18026 menuparent mt-460  odd  last  depth-2"><ul class="depth-3"><li class="menu-18493 mt-462  first  odd  depth-3"></li>
+<li class="menu-22641 mt-491  even  depth-3"></li>
+<li class="menu-11453 mt-436  odd  depth-3"></li>
+<li class="menu-18492 mt-461  even  last  depth-3"></li>
 </ul>
 </li>
 </ul>
@@ -354,8 +366,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <li class="menu-9142 mt-258  even  depth-3"><a href="/educational-videos" title="Educational Videos" class=" menu-link depth-3 tid-258"><span class="menu-title">Educational Videos</span></a></li>
 <li class="menu-9137 mt-253  odd  depth-3"><a href="/calstrs-workshops" title="CalSTRS Workshops" class=" menu-link depth-3 tid-253"><span class="menu-title">CalSTRS Workshops</span></a></li>
 <li class="menu-9138 mt-254  even  depth-3"><a href="/benefits-counseling" title="Benefits Counseling" class=" menu-link depth-3 tid-254"><span class="menu-title">Benefits Counseling</span></a></li>
-<li class="menu-9139 mt-255  odd  depth-3"><a href="/calstrs-campus" title="CalSTRS on Campus" class=" menu-link depth-3 tid-255"><span class="menu-title">CalSTRS on Campus</span></a></li>
-<li class="menu-9140 mt-256  even  last  depth-3"><a href="/forms-drop" title="Forms Drop-Off" class=" menu-link depth-3 tid-256"><span class="menu-title">Forms Drop-Off</span></a></li>
+<li class="menu-9140 mt-256  odd  last  depth-3"><a href="/forms-drop" title="Forms Drop-Off" class=" menu-link depth-3 tid-256"><span class="menu-title">Forms Drop-Off</span></a></li>
 </ul>
 </li>
 <li class="menu-8189 menuparent mt-118  odd  depth-2"><a href="/member-publications" title="Member Publications" class=" menu-link depth-2 tid-118"><span class="menu-title">Member Publications</span></a><ul class="depth-3"><li class="menu-8406 mt-152  first  odd  depth-3"><a href="/member-benefit-information" title="Member Benefit Information" class=" menu-link depth-3 tid-152"><span class="menu-title">Member Benefit Information</span></a></li>
@@ -448,13 +459,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </li>
 <li class="menu-8415 mt-166  odd  depth-2"><a href="/media-contacts" title="Media Contacts" class=" menu-link depth-2 tid-166"><span class="menu-title">Media Contacts</span></a></li>
 <li class="menu-11454 mt-437  even  depth-2"><a href="/multimedia-0" title="Multimedia" class=" menu-link depth-2 tid-437"><span class="menu-title">Multimedia</span></a></li>
-<li class="menu-8417 mt-168  odd  depth-2"><a href="/calstrs-news" title="CalSTRS in the News" class=" menu-link depth-2 tid-168"><span class="menu-title">CalSTRS in the News</span></a></li>
+<li class="menu-8417 menuparent mt-168  odd  depth-2"><a href="/calstrs-news" title="CalSTRS in the News" class=" menu-link depth-2 tid-168"><span class="menu-title">CalSTRS in the News</span></a><ul class="depth-3"><li class="menu-22644 mt-493  first  odd  last  depth-3"><a href="/calstrs-news-archive" title="CalSTRS News Archive" class=" menu-link depth-3 tid-493"><span class="menu-title">CalSTRS News Archive</span></a></li>
+</ul>
+</li>
 <li class="menu-17090 mt-454  even  depth-2"><a href="/resources-0" title="Resources" class=" menu-link depth-2 tid-454"><span class="menu-title">Resources</span></a></li>
 <li class="menu-17091 mt-455  odd  last  depth-2"><a href="/investment-portfolio-summary" title="Investment Portfolio Summary" class=" menu-link depth-2 tid-455"><span class="menu-title">Investment Portfolio Summary</span></a></li>
 </ul>
 </li>
-<li class="menu-10411 menuparent mt-417  odd  depth-1"><a href="/plan-funding" title="Plan Funding" class=" menu-link depth-1 tid-417"><span class="menu-title">Plan Funding</span></a><ul class="depth-2"><li class="menu-11167 mt-429  first  odd  depth-2"><a href="/funding-future" title="Funding the Future" class=" menu-link depth-2 tid-429"><span class="menu-title">Funding the Future</span></a></li>
-<li class="menu-11453 mt-436  even  depth-2"><a href="/cost-waiting" title="Cost of Waiting" class=" menu-link depth-2 tid-436"><span class="menu-title">Cost of Waiting</span></a></li>
+<li class="menu-10411 menuparent mt-417  odd  depth-1"><a href="/plan-funding" title="Plan Funding" class=" menu-link depth-1 tid-417"><span class="menu-title">Plan Funding</span></a><ul class="depth-2"><li class="menu-11167 mt-429  first  odd  depth-2"><a href="/calstrs-2014-funding-plan" title="CalSTRS 2014 Funding Plan" class=" menu-link depth-2 tid-429"><span class="menu-title">CalSTRS 2014 Funding Plan</span></a></li>
+<li class="menu-22639 mt-490  even  depth-2"><a href="/history-action" title="History of Action" class=" menu-link depth-2 tid-490"><span class="menu-title">History of Action</span></a></li>
 <li class="menu-10414 mt-420  odd  depth-2"><a href="/fact-center" title="Fact Center" class=" menu-link depth-2 tid-420"><span class="menu-title">Fact Center</span></a></li>
 <li class="menu-10412 mt-418  even  depth-2"><a href="/ask-jack" title="Ask Jack" class=" menu-link depth-2 tid-418"><span class="menu-title">Ask Jack</span></a></li>
 <li class="menu-10413 mt-419  odd  depth-2"><a href="/blog-plan-perspective" title="Blog: Plan Perspective" class=" menu-link depth-2 tid-419"><span class="menu-title">Blog: Plan Perspective</span></a></li>
@@ -465,7 +478,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <li class="menu-5922 menuparent mt-76  even  depth-1"><a href="/about-us" title="About Us" class=" menu-link depth-1 tid-76"><span class="menu-title">About Us</span></a><ul class="depth-2"><li class="menu-6048 menuparent mt-91  first  odd  depth-2"><a href="/multimedia" title="Multimedia" class=" menu-link depth-2 tid-91"><span class="menu-title">Multimedia</span></a><ul class="depth-3"><li class="menu-9160 mt-278  first  odd  depth-3"><a href="/member-benefit-educational-videos" title="Member Benefit Educational Videos" class=" menu-link depth-3 tid-278"><span class="menu-title">Member Benefit Educational Videos</span></a></li>
 <li class="menu-20551 mt-470  even  depth-3"><a href="/inside-calstrs-investments" title="Inside CalSTRS Investments" class=" menu-link depth-3 tid-470"><span class="menu-title">Inside CalSTRS Investments</span></a></li>
 <li class="menu-9162 mt-280  odd  depth-3"><a href="/videos-about-calstrs" title="Videos About CalSTRS" class=" menu-link depth-3 tid-280"><span class="menu-title">Videos About CalSTRS</span></a></li>
-<li class="menu-9161 mt-279  even  last  depth-3"><a href="/webinars-and-audio-town-hall-meetings" title="Webinars and Audio Town Hall Meetings" class=" menu-link depth-3 tid-279"><span class="menu-title">Webinars and Audio Town Hall Meetings</span></a></li>
+<li class="menu-22638 mt-489  even  depth-3"><a href="/california-educators" title="California Educators" class=" menu-link depth-3 tid-489"><span class="menu-title">California Educators</span></a></li>
+<li class="menu-9161 mt-279  odd  last  depth-3"><a href="/webinars-and-audio-town-hall-meetings" title="Webinars and Audio Town Hall Meetings" class=" menu-link depth-3 tid-279"><span class="menu-title">Webinars and Audio Town Hall Meetings</span></a></li>
 </ul>
 </li>
 <li class="menu-6312 menuparent mt-99  even  depth-2"><a href="/people-calstrs" title="The People at CalSTRS" class=" menu-link depth-2 tid-99"><span class="menu-title">The People at CalSTRS</span></a><ul class="depth-3"><li class="menu-8394 mt-140  first  odd  depth-3"><a href="/teachers-retirement-board" title="Teachers' Retirement Board" class=" menu-link depth-3 tid-140"><span class="menu-title">Teachers' Retirement Board</span></a></li>
@@ -493,7 +507,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <li class="menu-8414 mt-165  odd  last  depth-3"><a href="/approved-regulations" title="Approved Regulations" class=" menu-link depth-3 tid-165"><span class="menu-title">Approved Regulations</span></a></li>
 </ul>
 </li>
-<li class="menu-9123 menuparent mt-238  odd  depth-2"><a href="/faq" title="FAQ" class=" menu-link depth-2 tid-238"><span class="menu-title">FAQ</span></a><ul class="depth-3"><li class="menu-9126 mt-241  first  odd  depth-3"><a href="/additional-benefit-programs" title="Additional Benefit Programs  " class=" menu-link depth-3 tid-241"><span class="menu-title">Additional Benefit Programs</span></a></li>
+<li class="menu-22631 mt-486  odd  depth-2"><a href="/precedential-decisions" title="Precedential Decisions" class=" menu-link depth-2 tid-486"><span class="menu-title">Precedential Decisions</span></a></li>
+<li class="menu-9123 menuparent mt-238  even  depth-2"><a href="/faq" title="FAQ" class=" menu-link depth-2 tid-238"><span class="menu-title">FAQ</span></a><ul class="depth-3"><li class="menu-9126 mt-241  first  odd  depth-3"><a href="/additional-benefit-programs" title="Additional Benefit Programs  " class=" menu-link depth-3 tid-241"><span class="menu-title">Additional Benefit Programs</span></a></li>
 <li class="menu-12774 mt-442  even  depth-3"><a href="/general-information" title="General Information" class=" menu-link depth-3 tid-442"><span class="menu-title">General Information</span></a></li>
 <li class="menu-12772 mt-440  odd  depth-3"><a href="/appeals-process" title="Appeals Process" class=" menu-link depth-3 tid-440"><span class="menu-title">Appeals Process</span></a></li>
 <li class="menu-10417 mt-424  even  depth-3"><a href="/plan-funding-0" title="Plan Funding" class=" menu-link depth-3 tid-424"><span class="menu-title">Plan Funding</span></a></li>
@@ -504,16 +519,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 <li class="menu-9125 mt-240  odd  last  depth-3"><a href="/tax-information" title="Tax Information  " class=" menu-link depth-3 tid-240"><span class="menu-title">Tax Information</span></a></li>
 </ul>
 </li>
-<li class="menu-9148 menuparent mt-266  even  depth-2"><a href="/whats-new" title="What's New" class=" menu-link depth-2 tid-266"><span class="menu-title">What's New</span></a><ul class="depth-3"><li class="menu-10252 mt-349  first  odd  last  depth-3"><a href="/whats-new-archive" title="What's New Archive" class=" menu-link depth-3 tid-349"><span class="menu-title">Archive</span><span class="menu-description"><br class="accessible-break"></span></a></li>
+<li class="menu-9148 menuparent mt-266  odd  depth-2"><a href="/whats-new" title="What's New" class=" menu-link depth-2 tid-266"><span class="menu-title">What's New</span></a><ul class="depth-3"><li class="menu-10252 mt-349  first  odd  last  depth-3"><a href="/whats-new-archive" title="What's New Archive" class=" menu-link depth-3 tid-349"><span class="menu-title">Archive</span><span class="menu-description"><br class="accessible-break"></span></a></li>
 </ul>
 </li>
-<li class="menu-10153 mt-343  odd  depth-2"><a href="/preventing-pension-spiking" title="Preventing Pension Spiking" class=" menu-link depth-2 tid-343"><span class="menu-title">Preventing Pension Spiking</span></a></li>
-<li class="menu-16526 mt-448  even  depth-2"><a href="/charter-schools" title="Charter Schools" class=" menu-link depth-2 tid-448"><span class="menu-title">Charter Schools</span></a></li>
-<li class="menu-10248 mt-345  odd  depth-2"><a href="/business-strategic-plans" title="Business &amp; Strategic Plans" class=" menu-link depth-2 tid-345"><span class="menu-title">Business &amp; Strategic Plans</span></a></li>
-<li class="menu-10396 mt-402  even  depth-2"><a href="/anniversary" title="100-year Anniversary" class=" menu-link depth-2 tid-402"><span class="menu-title">100-year Anniversary</span></a></li>
-<li class="menu-9291 mt-320  odd  depth-2"><a href="/glossary" title="Glossary" class=" menu-link depth-2 tid-320"><span class="menu-title">Glossary</span></a></li>
-<li class="menu-10251 mt-348  even  depth-2"><a href="/related-sites" title="Related Sites" class=" menu-link depth-2 tid-348"><span class="menu-title">Related Sites</span></a></li>
-<li class="menu-8422 mt-173  odd  last  depth-2"><a href="/glance" title="At a Glance" class=" menu-link depth-2 tid-173"><span class="menu-title">At a Glance</span></a></li>
+<li class="menu-10153 mt-343  even  depth-2"><a href="/preventing-pension-spiking" title="Preventing Pension Spiking" class=" menu-link depth-2 tid-343"><span class="menu-title">Preventing Pension Spiking</span></a></li>
+<li class="menu-16526 mt-448  odd  depth-2"><a href="/charter-schools" title="Charter Schools" class=" menu-link depth-2 tid-448"><span class="menu-title">Charter Schools</span></a></li>
+<li class="menu-10248 mt-345  even  depth-2"><a href="/business-strategic-plans" title="Business &amp; Strategic Plans" class=" menu-link depth-2 tid-345"><span class="menu-title">Business &amp; Strategic Plans</span></a></li>
+<li class="menu-10396 mt-402  odd  depth-2"><a href="/anniversary" title="100-year Anniversary" class=" menu-link depth-2 tid-402"><span class="menu-title">100-year Anniversary</span></a></li>
+<li class="menu-9291 mt-320  even  depth-2"><a href="/glossary" title="Glossary" class=" menu-link depth-2 tid-320"><span class="menu-title">Glossary</span></a></li>
+<li class="menu-10251 mt-348  odd  depth-2"><a href="/related-sites" title="Related Sites" class=" menu-link depth-2 tid-348"><span class="menu-title">Related Sites</span></a></li>
+<li class="menu-8422 mt-173  even  last  depth-2"><a href="/glance" title="At a Glance" class=" menu-link depth-2 tid-173"><span class="menu-title">At a Glance</span></a></li>
 </ul>
 </li>
 <li class="menu-9390 menuparent mt-324  odd  last  depth-1"><a href="/quick-links" title="Quick Links" class=" menu-link depth-1 tid-324"><span class="menu-title">Quick Links</span></a><ul class="depth-2"><li class="menu-9391 mt-325  first  odd  depth-2"><a href="/mycalstrs-0" title="myCalSTRS" class=" menu-link depth-2 tid-325"><span class="menu-title">myCalSTRS</span></a></li>
@@ -543,13 +558,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-    <div id="node-3331-teaser" class="node node-teaser node-type-post node-3331 pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
+    <div id="node-2954-teaser" class="node node-teaser node-type-post node-2954 pt-hide-contact-info pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">December 11, 2013</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">April 4, 2013</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/ask-jack/can-i-return-teaching-after-retirement-if-so-what-actions-can-i-take-make-happen-0" title="Members Ask: Can I return to teaching after retirement? If so, what actions can I take to make this happen?"><span class="title">Members Ask: Can I return to teaching after retirement? If so, what actions can I take to make this happen?</span>
-      <br class="accessible-break"><span class="subtitle">CEO Jack Ehnes answers</span></a>
+      <a href="http://resources.calstrs.com/publicdocs/Page/CalSTRSComWrapper.aspx?PageName=PublicBoardAgenda" title="Teachers’ Retirement Board Meeting, November 5-7, 2014"><span class="title">Teachers’ Retirement Board Meeting, November 5-7, 2014</span>
+      <br class="accessible-break"><span class="subtitle">CalSTRS Headquarters, West Sacramento</span></a>
     </h2>
         <div class="node-image node-item"></div>
         <div class="node-meta meta node-item">
@@ -561,7 +576,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/ask-jack/can-i-return-teaching-after-retirement-if-so-what-actions-can-i-take-make-happen-0"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="http://resources.calstrs.com/publicdocs/Page/CalSTRSComWrapper.aspx?PageName=PublicBoardAgenda"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -571,12 +586,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-2 views-row-even">
-    <div id="node-2983-teaser" class="node node-teaser node-type-post node-2983 pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
+    <div id="node-3696-teaser" class="node node-teaser node-type-post node-3696 pt-hide-contact-info pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">July 18, 2013</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">October 23, 2014</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/blog-entry/recent-developments-suggest-funding-plan-within-reach" title="CEO Blog: Recent Developments Suggest a Funding Plan is Within Reach"><span class="title">CEO Blog: Recent Developments Suggest a Funding Plan is Within Reach</span>
+      <a href="/news-release/calstrs-and-thirty-percent-coalition-expand-campaign-more-women-corporate-boards" title="CalSTRS and The Thirty Percent Coalition Expand Campaign  For More Women on Corporate Boards"><span class="title">CalSTRS and The Thirty Percent Coalition Expand Campaign  For More Women on Corporate Boards</span>
       </a>
     </h2>
         <div class="node-image node-item"></div>
@@ -589,7 +604,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/blog-entry/recent-developments-suggest-funding-plan-within-reach"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-and-thirty-percent-coalition-expand-campaign-more-women-corporate-boards"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -599,13 +614,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-3 views-row-odd">
-    <div id="node-3392-teaser" class="node node-teaser node-type-post node-3392 pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
+    <div id="node-3697-teaser" class="node node-mine node-teaser node-type-post node-3697 pt-hide-contact-info pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt is-current">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">January 23, 2014</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">October 23, 2014</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/general-information/reading-your-form-1099-r" title="Reading Your Form 1099-R"><span class="title">Reading Your Form 1099-R</span>
-      <br class="accessible-break"><span class="subtitle">Interpret the layout of this important tax document</span></a>
+      <a href="/news-release/us-insurance-companies-response-climate-change-impacts-investment-risks" title="U.S. Insurance Companies’ Response to Climate Change Impacts Investment Risks"><span class="title">U.S. Insurance Companies’ Response to Climate Change Impacts Investment Risks</span>
+      </a>
     </h2>
         <div class="node-image node-item"></div>
         <div class="node-meta meta node-item">
@@ -617,7 +632,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/general-information/reading-your-form-1099-r"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/us-insurance-companies-response-climate-change-impacts-investment-risks"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -626,14 +641,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-4 views-row-even views-row-last">
-    <div id="node-3064-teaser" class="node node-teaser node-type-post node-3064 pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
+  <div class="views-row views-row-4 views-row-even">
+    <div id="node-3498-teaser" class="node node-teaser node-type-post node-3498 pt-hide-contact-info pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">May 10, 2013</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">May 13, 2014</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/menu-pod/which-following-consequence-refunding-your-calstrs-contributions" title="CalSTRS Poll"><span class="title">CalSTRS Poll</span>
-      <br class="accessible-break"><span class="subtitle">Which of the following is a consequence of refunding your CalSTRS contributions?</span></a>
+      <a href="/ask-jack/pre-2013-calstrs-member-who-still-teaching-what-happens-if-i-leave-teaching-5-years-and" title="Members Ask: As a pre-2013 CalSTRS member who is still teaching, what happens if I leave teaching for 5 years and then return?"><span class="title">Members Ask: As a pre-2013 CalSTRS member who is still teaching, what happens if I leave teaching for 5 years and then return?</span>
+      <br class="accessible-break"><span class="subtitle">CEO Jack Ehnes answers</span></a>
     </h2>
         <div class="node-image node-item"></div>
         <div class="node-meta meta node-item">
@@ -645,7 +660,63 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/menu-pod/which-following-consequence-refunding-your-calstrs-contributions"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/ask-jack/pre-2013-calstrs-member-who-still-teaching-what-happens-if-i-leave-teaching-5-years-and"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div id="node-2983-teaser" class="node node-teaser node-type-post node-2983 pt-hide-contact-info pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">July 18, 2013</span>    </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/blog-entry/road-full-funding-plan" title="CEO Blog: The Road to a Full Funding Plan"><span class="title">CEO Blog: The Road to a Full Funding Plan</span>
+      </a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+               </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/blog-entry/road-full-funding-plan"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+    <div id="node-3064-teaser" class="node node-teaser node-type-post node-3064 pt-hide-contact-info pt-show-social-block no-event-date t2 wt2 wt0 t340 wt340 wt51 wt0 access-normal no-more pt2 has-1-nt is-current">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Posts">Post</span> <span class="last meta-item post-date">May 10, 2013</span>    </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/poll/which-following-outcome-calstrs-2014-funding-plan" title="CalSTRS Poll: Which of the following is an outcome of CalSTRS 2014 Funding Plan?"><span class="title">CalSTRS Poll: Which of the following is an outcome of CalSTRS 2014 Funding Plan?</span>
+      </a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+               </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/poll/which-following-outcome-calstrs-2014-funding-plan"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -669,7 +740,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     <div id="main" class=""><div id="main-inner" class="region-main clear-block">
       <div id="content"><div id="content-inner" class="region-content">
                         <div id="content-area">
-                    <div id="node-full" class="  nhlc-c1 i260w title-margin-top te-t-f1 te-sub-79 te-st-f1 te-show-related-profiles-plain no-2col-lists te-hide-readmore tabs-3d tbh-c1 h3accordion accordion-collapsed accordion-multi h-toc  dd node node-type-post node-full node-1684 pt-show-social-block no-event-date t56 wt56 wt0 access-normal pn pt56 has--nt">
+                    <div id="node-full" class="  nhlc-c1 i260w title-margin-top te-t-f1 te-sub-79 te-st-f1 te-show-related-profiles-plain no-2col-lists te-hide-readmore tabs-3d tbh-c1 h3accordion accordion-collapsed accordion-multi h-toc  dd node node-type-post node-full node-1684 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal pn pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">September 28, 2012</span>    </div></div>
           
@@ -683,265 +754,87 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
                </div>
     </div>
         <div class="node-content content node-item">
-            <h3>
-  CalSTRS Internet Privacy Principles
-</h3>
-<p>
-  Electronic privacy is crucial for the ongoing success of the
-  Internet as a convenient means to provide customer service. Your
-  personal information will be used only to conduct CalSTRS-related
-  business.
-</p>
-<p>
-  To complete your CalSTRS business, we may need to coordinate our
-  efforts with other parties, such as the <a href="http://sco.ca.gov/index.html">State Controller’s Office</a> or
-  your employer or health plan.
-</p>
-<h3>
-  Protect Your CalSTRS Information
-</h3>
-<p>
-  CalSTRS will never ask for your personal information in an
-  unsolicited email or other type of electronic communication. If
-  you receive such a request:
-</p>
-<ul>
-  <li>The party soliciting the information is not affiliated with
-  CalSTRS.
-  </li>
-  <li>You may not want to respond or use any hyperlinks within the
-  request.
-  </li>
-  <li>You should:
-    <ul>
-      <li>Determine the source of the email.
-      </li>
-      <li>Determine the purposes for which your personal
-      information will be used.
-      </li>
-    </ul>
-  </li>
+            <h3>CalSTRS Internet Privacy Principles</h3>
+<p>Electronic privacy is crucial for the ongoing success of the Internet as a convenient means to provide customer service. Your personal information will be used only to conduct CalSTRS-related business.</p>
+
+<p>To complete your CalSTRS business, we may need to coordinate our efforts with other parties, such as the <a href="http://sco.ca.gov/index.html">State Controller’s Office</a> or your employer or health plan.</p>
+<h3>Protect Your CalSTRS Information</h3>
+<p>CalSTRS will never ask for your personal information in an unsolicited email or other type of electronic communication. If you receive such a request:</p>
+<ul><li>The party soliciting the information is not affiliated with CalSTRS.</li>
+	<li>You may not want to respond or use any hyperlinks within the request.</li>
+	<li>You should:
+		<ul><li>Determine the source of the email.</li>
+			<li>Determine the purposes for which your personal information will be used.</li>
+		</ul></li>
 </ul>
-<p>
-  It is possible that an unsolicited email could be an attempt to
-  obtain your personal information for fraudulent activity.
-</p>
-<h3>
-  CalSTRS Internet Privacy Policy
-</h3>
-<p>
-  CalSTRS is committed to responsible information handling
-  practices. When you access or use the CalSTRS website, you agree
-  to the terms and conditions outlined below.
-</p>
-<p>
-  If you do not agree to these terms, do not use this website.
-  CalSTRS may change this Internet Privacy Policy from time to
-  time. Your use of this website will be subject to the most
-  current version of the policy. Check this page periodically for
-  any policy changes.
-</p>
-<p>
-  This policy has been developed and is maintained in accordance
-  with the Information Practices Act of 1977 (Title 1.8 [commencing
-  with Section 1798] of Part 4 of Division 3 of the Civil Code),
-  and Sections 11015.5 and 11019.9 of the Government Code.
-</p>
-<h4 class="pageheader2">
-  Policy Terms and Conditions
-</h4>
-<p>
-  CalSTRS has a responsibility to protect its computing resources.
-  If it believes an attempt is being made through the Internet to
-  break into or otherwise abuse the computer systems or business
-  information, the information in the computer logs, and other
-  means available, will be used to determine those responsible. As
-  part of these legal efforts, the information gathered may be
-  shared with law enforcement agencies or other authorized
-  entities.
-</p>
-<h4 class="pageheader2">
-  Policy Disclaimer
-</h4>
-<p>
-  Information on this website is provided for convenient access by
-  members and other interested parties. CalSTRS makes every attempt
-  to ensure the information provided is reliable; however, human or
-  technological errors remain a possibility. CalSTRS does not
-  guarantee and will not be held responsible for any errors or
-  omissions, or for the use of, or results obtained from the use of
-  the information including, but not limited to:
-</p>
-<ul>
-  <li>Accuracy
-  </li>
-  <li>Completeness
-  </li>
-  <li>Timeliness
-  </li>
-  <li>Correct sequencing of information
-  </li>
-  <li>Sites hyperlinked to and from the CalSTRS website
-  </li>
+
+<p>It is possible that an unsolicited email could be an attempt to obtain your personal information for fraudulent activity.</p>
+<h3>CalSTRS Internet Privacy Policy</h3>
+<p>CalSTRS is committed to responsible information handling practices. When you access or use the CalSTRS website, you agree to the terms and conditions outlined below.</p>
+<p>If you do not agree to these terms, do not use this website. CalSTRS may change this Internet Privacy Policy from time to time. Your use of this website will be subject to the most current version of the policy. Check this page periodically for any policy changes.</p>
+<p>This policy has been developed and is maintained in accordance with the Information Practices Act of 1977 (Title 1.8 [commencing with Section 1798] of Part 4 of Division 3 of the Civil Code), and Sections 11015.5 and 11019.9 of the Government Code.</p>
+<h4 class="pageheader2">Policy Terms and Conditions</h4>
+<p>CalSTRS has a responsibility to protect its computing resources. If it believes an attempt is being made through the Internet to break into or otherwise abuse the computer systems or business information, the information in the computer logs, and other means available, will be used to determine those responsible. As part of these legal efforts, the information gathered may be shared with law enforcement agencies or other authorized entities.</p>
+<h4 class="pageheader2">Policy Disclaimer</h4>
+<p>Information on this website is provided for convenient access by members and other interested parties. CalSTRS makes every attempt to ensure the information provided is reliable; however, human or technological errors remain a possibility. CalSTRS does not guarantee and will not be held responsible for any errors or omissions, or for the use of, or results obtained from the use of the information including, but not limited to:</p>
+<ul><li>Accuracy</li>
+	<li>Completeness</li>
+	<li>Timeliness</li>
+	<li>Correct sequencing of information</li>
+	<li>Sites hyperlinked to and from the CalSTRS website</li>
 </ul>
-<p>
-  The privacy policies or statements of other websites linked to
-  this website may differ. CalSTRS is not responsible for the
-  privacy practices of those websites.
-</p>
-<p>
-  This website uses “cookies” to collect and/or store information
-  about users. “User” means an individual who communicates with a
-  state agency or with an agency employee or official
-  electronically. Information from cookies assists in the
-  improvement of this website and customer service. Website traffic
-  patterns or the collection of aggregate data about website use is
-  monitored.
-</p>
-<p>
-  The following information may be collected from the computer
-  you’re using, through cookies:
-</p>
-<ul>
-  <li>Date and time you accessed&nbsp;this&nbsp;website.
-  </li>
-  <li>Name of browser software.
-  </li>
-  <li>Type of computer being used.
-  </li>
-  <li>Name of operating system.
-  </li>
-  <li>Name of website used to link to this website, if applicable.
-  </li>
-  <li>Internet Protocol Address (IPA) and domain name.
-    <ul>
-      <li>IPA is a numerical identifier assigned either to your
-      Internet service provider or directly to your computer.
-      </li>
-    </ul>
-  </li>
-  <li>Web pages or services you accessed at&nbsp;this&nbsp;website.
-  </li>
-  <li>Web address you visited prior to coming
-  to&nbsp;this&nbsp;website.
-  </li>
-  <li>Web address you visit as you leave this&nbsp;website.
-  </li>
-  <li>Name of any form you downloaded, if applicable.
-  </li>
+
+<p>The privacy policies or statements of other websites linked to this website may differ. CalSTRS is not responsible for the privacy practices of those websites.</p>
+<p>This website uses “cookies” to collect and/or store information about users. “User” means an individual who communicates with a state agency or with an agency employee or official electronically. Information from cookies assists in the improvement of this website and customer service. Website traffic patterns or the collection of aggregate data about website use is monitored.</p>
+<p>The following information may be collected from the computer you’re using, through cookies:</p>
+<ul><li>Date and time you accessed&nbsp;this&nbsp;website.</li>
+	<li>Name of browser software.</li>
+	<li>Type of computer being used.</li>
+	<li>Name of operating system.</li>
+	<li>Name of website used to link to this website, if applicable.</li>
+	<li>Internet Protocol Address (IPA) and domain name.
+		<ul><li>IPA is a numerical identifier assigned either to your Internet service provider or directly to your computer.</li>
+		</ul></li>
+	<li>Web pages or services you accessed at&nbsp;this&nbsp;website.</li>
+	<li>Web address you visited prior to coming to&nbsp;this&nbsp;website.</li>
+	<li>Web address you visit as you leave this&nbsp;website.</li>
+	<li>Name of any form you downloaded, if applicable.</li>
 </ul>
-<p>
-  Personal information may be collected if you contact CalSTRS
-  through this website. This information is used to improve this
-  website and CalSTRS customer service, and includes:
-</p>
-<ul>
-  <li>Type of inquiry
-  </li>
-  <li>Relationship to CalSTRS
-  </li>
-  <li>Social Security number
-  </li>
-  <li>Date of birth
-  </li>
-  <li>First and last name
-  </li>
-  <li>Telephone numbers
-  </li>
-  <li>Email address
-  </li>
-  <li>Physical address
-  </li>
-  <li>Best times to contact you
-  </li>
+
+<p>Personal information may be collected if you contact CalSTRS through this website. This information is used to improve this website and CalSTRS customer service, and includes:</p>
+<ul><li>Type of inquiry</li>
+	<li>Relationship to CalSTRS</li>
+	<li>Social Security number</li>
+	<li>Date of birth</li>
+	<li>First and last name</li>
+	<li>Telephone numbers</li>
+	<li>Email address</li>
+	<li>Physical address</li>
+	<li>Best times to contact you</li>
 </ul>
-<h4 class="pageheader2">
-  CalSTRS Website Security
-</h4>
-<p>
-  This website and computer systems are for legal and authorized
-  use only. Unauthorized access, attempted access, or use of this
-  or any related State of California system is a violation of
-  <a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=pen&amp;group=00001-01000&amp;file=484-502.9">
-  Section 502 of the California Penal Code</a> and/or applicable
-  federal law. Violations may be subject to prosecution.
-  Individuals using this system are subject to having their
-  activities on the website monitored and recorded.
-</p>
-<p>
-  If you choose to submit information while using the <a href="https://my.calstrs.com/MyCalSTRSWebUI/Page/CommonPage.aspx?PageName=Login">
-  myCalSTRS</a> website, the information will be transmitted to
-  CalSTRS using industry-standard encryption. CalSTRS may use the
-  email address you provide to supplement communications with you
-  about CalSTRS business.
-</p>
-<p>
-  <a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=gov&amp;group=10001-11000&amp;file=11000-11019.10">
-  Government Code 11015.5.(a)(6)</a> prohibits all state agencies
-  from distributing or selling any “electronically collected
-  personal information”, as defined below, about users to any third
-  party without the permission of the user. CalSTRS does not sell
-  any electronically collected personal information. Any use of
-  electronically collected personal information will be solely for
-  the purpose of CalSTRS business.
-</p>
-<p>
-  “Electronically collected personal information” means any
-  information maintained by CalSTRS that identifies or describes an
-  individual user, including, but not limited to:
-</p>
-<ul>
-  <li>Your name
-  </li>
-  <li>Social Security number
-  </li>
-  <li>Physical description
-  </li>
-  <li>Home address
-  </li>
-  <li>Home telephone number
-  </li>
-  <li>Education
-  </li>
-  <li>Financial matters
-  </li>
-  <li>Medical or employment history
-  </li>
-  <li>Password
-  </li>
-  <li>Email address
-  </li>
-  <li>Information that reveals any network location or identity
-  </li>
+
+<h4 class="pageheader2">CalSTRS Website Security</h4>
+<p>This website and computer systems are for legal and authorized use only. Unauthorized access, attempted access, or use of this or any related State of California system is a violation of <a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=pen&amp;group=00001-01000&amp;file=484-502.9">Section 502 of the California Penal Code</a> and/or applicable federal law. Violations may be subject to prosecution. Individuals using this system are subject to having their activities on the website monitored and recorded.</p>
+<p>If you choose to submit information while using the <a href="https://my.calstrs.com/MyCalSTRSWebUI/Page/CommonPage.aspx?PageName=Login">myCalSTRS</a> website, the information will be transmitted to CalSTRS using industry-standard encryption. CalSTRS may use the email address you provide to supplement communications with you about CalSTRS business.</p>
+<p><a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=gov&amp;group=10001-11000&amp;file=11000-11019.10">Government Code 11015.5.(a)(6)</a> prohibits all state agencies from distributing or selling any “electronically collected personal information”, as defined below, about users to any third party without the permission of the user. CalSTRS does not sell any electronically collected personal information. Any use of electronically collected personal information will be solely for the purpose of CalSTRS business.</p>
+<p>“Electronically collected personal information” means any information maintained by CalSTRS that identifies or describes an individual user, including, but not limited to:</p>
+<ul><li>Your name</li>
+	<li>Social Security number</li>
+	<li>Physical description</li>
+	<li>Home address</li>
+	<li>Home telephone number</li>
+	<li>Education</li>
+	<li>Financial matters</li>
+	<li>Medical or employment history</li>
+	<li>Password</li>
+	<li>Email address</li>
+	<li>Information that reveals any network location or identity</li>
 </ul>
-<p>
-  “Electronically collected personal information” excludes any
-  information manually submitted to a state agency by a user,
-  whether electronically or in written form, and information on or
-  relating to individuals who are users in a business capacity,
-  including, but not limited to, business owners, officers, or
-  principals of that business.
-</p>
-<p>
-  Any information acquired by CalSTRS is subject to the limitations
-  set forth in the Information Practices Act of 1977 (Title 1.8
-  [commencing with Section 1798] of Part 4 of Division 3 of the
-  Civil Code). Some of the information you access or submit may
-  become public records under the <a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=gov&amp;group=06001-07000&amp;file=6250-6270">
-  California Public Records Act (Chapter 3.5 [commencing with
-  Section 6250] of Division 7 of Title 1 of the Government
-  Code)</a>. However, electronically collected personal information
-  is exempt from requests made pursuant to the California Public
-  Records Act.
-</p>
-<p>
-  CalSTRS shall discard, without reuse or distribution, any
-  electronically collected personal information upon request by the
-  user.
-</p>
-<p>
-  <br>
-</p>    </div>
+
+<p>“Electronically collected personal information” excludes any information manually submitted to a state agency by a user, whether electronically or in written form, and information on or relating to individuals who are users in a business capacity, including, but not limited to, business owners, officers, or principals of that business.</p>
+<p>Any information acquired by CalSTRS is subject to the limitations set forth in the Information Practices Act of 1977 (Title 1.8 [commencing with Section 1798] of Part 4 of Division 3 of the Civil Code). Some of the information you access or submit may become public records under the <a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=gov&amp;group=06001-07000&amp;file=6250-6270">California Public Records Act (Chapter 3.5 [commencing with Section 6250] of Division 7 of Title 1 of the Government Code)</a>. However, electronically collected personal information is exempt from requests made pursuant to the California Public Records Act.</p>
+<p>CalSTRS shall discard, without reuse or distribution, any electronically collected personal information upon request by the user.</p><p>
+<br></p>    </div>
     
   
   
@@ -956,7 +849,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
                   </div>
                           <div id="content-bottom" class="region region-content-bottom">
-            <div id="block-digitaldcore-node_referring" class="block block-digitaldcore region-odd odd region-count-1 count-11  channel  "><div class="block-inner">
+            <div id="block-digitaldcore-node_referring" class="block block-digitaldcore region-odd even region-count-1 count-12  channel referring-posts tagged-posts posts  "><div class="block-inner">
 
     
    
@@ -981,7 +874,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
               </div></div> <!-- /#content-inner, /#content -->
       <a id="navigation"></a>
                     <div id="sidebar-left"><div id="sidebar-left-inner" class="region region-left">
-          <div id="block-digitaldcore-node_nav_terms" class="block block-digitaldcore region-odd even region-count-1 count-8"><div class="block-inner">
+          <div id="block-digitaldcore-node_nav_terms" class="block block-digitaldcore region-odd even region-count-1 count-8  left-nav appearing-nav  "><div class="block-inner">
 
     
    
@@ -1019,9 +912,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </ul></div>  </div>
 
 </div></div> <!-- /block-inner, /block -->
-        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
-                    <div id="sidebar-right"><div id="sidebar-right-inner" class="region region-right">
-          <div id="block-digitaldcore-node_fields" class="block block-digitaldcore region-odd even region-count-1 count-10"><div class="block-inner">
+<div id="block-digitaldcore-utility_links" class="block block-digitaldcore region-odd even region-count-3 count-10"><div class="block-inner">
 
     
    
@@ -1029,7 +920,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
       <h2 class="block-title"><span class="block-title-text"></span></h2>
   
   <div class="block-content content">
-    <div id="node-sidebar" class=" te-hide-attachments  dd node node-type-post node-sidebar node-1684 pt-show-social-block no-event-date t56 wt56 wt0 access-normal pn pt56 has--nt">
+    <div class="print-html"><a href="javascript:window.print();">Print-friendly</a></div>  </div>
+
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
+                    <div id="sidebar-right"><div id="sidebar-right-inner" class="region region-right">
+          <div id="block-digitaldcore-node_fields" class="block block-digitaldcore region-odd odd region-count-1 count-11  node-fields  "><div class="block-inner">
+
+    
+   
+  
+      <h2 class="block-title"><span class="block-title-text"></span></h2>
+  
+  <div class="block-content content">
+    <div id="node-sidebar" class=" te-hide-attachments  dd node node-type-post node-sidebar node-1684 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal pn pt56 has--nt">
   <div class="node-inner">  
     <div class="sidebar-message-container"></div>          <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">September 28, 2012</span>    </div></div>
           
@@ -1053,7 +957,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
         </div></div> <!-- /#sidebar-right-inner, /#sidebar-right -->
           </div></div> <!-- /#main-inner, /#main -->
           <div id="footer"><div id="footer-inner" class="region region-footer">
-                <div id="block-views_blocks-term-block_1-6" class=" te-bpad-0 te-bm-0 icp-social pod-mode te-hide-title te-title-100 te-t-f4 te-hide-subtitle  dd block block-views_blocks region-odd even region-count-1 count-12 social-links views-block channel context-global "><div class="block-inner">
+                <div id="block-views_blocks-term-block_1-6" class=" te-bpad-0 te-bm-0 icp-social pod-mode te-hide-title te-title-100 te-t-f4 te-hide-subtitle  dd block block-views_blocks region-odd odd region-count-1 count-13 social-links views-block channel context-global "><div class="block-inner">
 
     
    
@@ -1067,7 +971,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-    <div id="node-2400-teaser" class="node node-teaser node-type-post node-2400 pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
+    <div id="node-2400-teaser" class="node node-teaser node-type-post node-2400 pt-hide-contact-info pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Social Links">Social Link</span> <span class="last meta-item post-date">October 25, 2012</span>    </div></div>
           
@@ -1095,7 +999,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-2 views-row-even">
-    <div id="node-2402-teaser" class="node node-teaser node-type-post node-2402 pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
+    <div id="node-2402-teaser" class="node node-teaser node-type-post node-2402 pt-hide-contact-info pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Social Links">Social Link</span> <span class="last meta-item post-date">October 25, 2012</span>    </div></div>
           
@@ -1123,7 +1027,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-3 views-row-odd">
-    <div id="node-2214-teaser" class="node node-teaser node-type-post node-2214 pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
+    <div id="node-2214-teaser" class="node node-teaser node-type-post node-2214 pt-hide-contact-info pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Social Links">Social Link</span> <span class="last meta-item post-date">October 16, 2012</span>    </div></div>
           
@@ -1151,7 +1055,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-4 views-row-even">
-    <div id="node-2215-teaser" class="node node-teaser node-type-post node-2215 pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
+    <div id="node-2215-teaser" class="node node-teaser node-type-post node-2215 pt-hide-contact-info pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Social Links">Social Link</span> <span class="last meta-item post-date">October 16, 2012</span>    </div></div>
           
@@ -1179,7 +1083,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-5 views-row-odd">
-    <div id="node-2211-teaser" class="node node-teaser node-type-post node-2211 pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
+    <div id="node-2211-teaser" class="node node-teaser node-type-post node-2211 pt-hide-contact-info pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Social Links">Social Link</span> <span class="last meta-item post-date">October 16, 2012</span>    </div></div>
           
@@ -1207,7 +1111,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-6 views-row-even views-row-last">
-    <div id="node-2213-teaser" class="node node-teaser node-type-post node-2213 pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
+    <div id="node-2213-teaser" class="node node-teaser node-type-post node-2213 pt-hide-contact-info pt-show-social-block no-event-date t317 wt317 wt56 wt0 access-normal has-image no-more pt317 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Social Links">Social Link</span> <span class="last meta-item post-date">October 16, 2012</span>    </div></div>
           
@@ -1244,7 +1148,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div>   </div>
 
 </div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-9" class=" nhlc-c2 nhlh-c1 full-width auto-col-n te-bpad-0 te-bm-0 pod-mode te-light-title te-title-89 te-t-f4  dd block block-views_blocks region-even odd region-count-2 count-13 footer-links views-block channel context-global "><div class="block-inner">
+<div id="block-views_blocks-term-block_1-9" class=" nhlc-c2 nhlh-c1 full-width auto-col-n te-bpad-0 te-bm-0 pod-mode te-light-title te-title-89 te-t-f4  dd block block-views_blocks region-even even region-count-2 count-14 footer-links views-block channel context-global "><div class="block-inner">
 
     
    
@@ -1258,7 +1162,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-    <div id="node-2188-teaser" class=" nhlc-c2 nhlh-c2 disable-links  dd node node-teaser node-type-post node-2188 pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
+    <div id="node-2188-teaser" class=" nhlc-c2 nhlh-c2 disable-links  dd node node-teaser node-type-post node-2188 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">October 16, 2012</span>    </div></div>
           
@@ -1286,7 +1190,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-2 views-row-even">
-    <div id="node-2189-teaser" class=" disable-links  dd node node-teaser node-type-post node-2189 pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
+    <div id="node-2189-teaser" class=" disable-links  dd node node-teaser node-type-post node-2189 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">October 16, 2012</span>    </div></div>
           
@@ -1314,7 +1218,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-3 views-row-odd">
-    <div id="node-2398-teaser" class="node node-teaser node-type-post node-2398 pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
+    <div id="node-2398-teaser" class="node node-teaser node-type-post node-2398 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">October 25, 2012</span>    </div></div>
           
@@ -1342,7 +1246,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-4 views-row-even">
-    <div id="node-2401-teaser" class="node node-teaser node-type-post node-2401 pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
+    <div id="node-2401-teaser" class="node node-teaser node-type-post node-2401 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">October 25, 2012</span>    </div></div>
           
@@ -1370,7 +1274,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-5 views-row-odd">
-    <div id="node-1684-teaser" class="node node-teaser node-type-post node-1684 pt-show-social-block no-event-date t56 wt56 wt0 access-normal has-more pt56 has--nt">
+    <div id="node-1684-teaser" class="node node-teaser node-type-post node-1684 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal has-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">September 28, 2012</span>    </div></div>
           
@@ -1384,15 +1288,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
                </div>
     </div>
         <div class="node-content content node-item">
-            <h3>
-  CalSTRS Internet Privacy Principles
-</h3>
-<p>
-  Electronic privacy is crucial for the ongoing success of the
-  Internet as a convenient means to provide customer service. Your
-  personal information will be used only to conduct CalSTRS-related
-  business.
-</p>    </div>
+            <h3>CalSTRS Internet Privacy Principles</h3>
+<p>Electronic privacy is crucial for the ongoing success of the Internet as a convenient means to provide customer service. Your personal information will be used only to conduct CalSTRS-related business.</p>
+    </div>
     
   
   
@@ -1406,7 +1304,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-6 views-row-even">
-    <div id="node-3424-teaser" class="node node-teaser node-type-post node-3424 pt-show-social-block no-event-date t56 wt56 wt0 access-normal status-new no-more pt56 has--nt">
+    <div id="node-3424-teaser" class="node node-teaser node-type-post node-3424 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">March 4, 2014</span>    </div></div>
           
@@ -1420,9 +1318,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
                </div>
     </div>
         <div class="node-content content node-item">
-            <p>
-  Accessibility information for CalSTRS.com coming soon.
-</p>    </div>
+            <p>Accessibility information for CalSTRS.com coming soon.</p>    </div>
     
   
   
@@ -1435,8 +1331,36 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd views-row-last">
-    <div id="node-2473-teaser" class="node node-teaser node-type-post node-2473 pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
+  <div class="views-row views-row-7 views-row-odd">
+    <div id="node-3579-teaser" class="node node-teaser node-type-post node-3579 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">July 10, 2014</span>    </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/career-opportunities" title="Careers"><span class="title">Careers</span>
+      </a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+               </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/career-opportunities"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+    <div id="node-2473-teaser" class="node node-teaser node-type-post node-2473 pt-hide-contact-info pt-show-social-block no-event-date t56 wt56 wt0 access-normal no-more pt56 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Footer links">Footer link</span> <span class="last meta-item post-date">November 8, 2012</span>    </div></div>
           
@@ -1475,7 +1399,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /block-inner, /block -->
       </div></div> <!-- /#footer-inner, /#footer -->
       </div></div> <!-- /#page-inner, /#page -->
-      <div id="closure-blocks"><div class="region region-closure"><div id="block-digitaldcore-command_menu" class="block block-digitaldcore region-odd even region-count-1 count-14"><div class="block-inner">
+      <div id="closure-blocks"><div class="region region-closure"><div id="block-digitaldcore-command_menu" class="block block-digitaldcore region-odd odd region-count-1 count-15"><div class="block-inner">
 
     
    
@@ -1490,7 +1414,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   </div>
 
 </div></div> <!-- /block-inner, /block -->
-<div id="block-dd_login-login" class="block block-dd_login region-even odd region-count-2 count-15"><div class="block-inner">
+<div id="block-dd_login-login" class="block block-dd_login region-even even region-count-2 count-16"><div class="block-inner">
 
     
    
@@ -1512,14 +1436,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div>
 <input type="submit" name="op" id="edit-submit-1" value="Log in" tabindex="4" class="form-submit">
 <div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul></div><input type="hidden" name="form_build_id" id="form-_q_d1--aexvS82V4tMV0xgRog3f4IP7lUrHDY-Gtgwg" value="form-_q_d1--aexvS82V4tMV0xgRog3f4IP7lUrHDY-Gtgwg">
+</ul></div><input type="hidden" name="form_build_id" id="form-8haTqwtnAy1lscKi-E8ZgJMzT5tkfD5MtloNPxPHbAI" value="form-8haTqwtnAy1lscKi-E8ZgJMzT5tkfD5MtloNPxPHbAI">
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
 
 </div></form>
   </div>
 
 </div></div> <!-- /block-inner, /block -->
-<div id="block-views_blocks-term-block_1-7" class=" nc-c8 nhlc-c8 nstlc-c8 te-pad-20 te-unpad-img icp-menu_pods ip-above icp-menu_pod  dd block block-views_blocks region-odd even region-count-3 count-16 menu-pods views-block channel context-global "><div class="block-inner">
+<div id="block-views_blocks-term-block_1-7" class=" nc-c8 nhlc-c8 nstlc-c8 te-pad-20 te-unpad-img icp-menu_pods ip-above icp-menu_pod  dd block block-views_blocks region-odd odd region-count-3 count-17 menu-pods views-block channel context-global "><div class="block-inner">
 
     
    
@@ -1533,7 +1457,65 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-    <div id="node-3363-teaser" class="node node-teaser node-type-post node-3363 pt-show-social-block no-event-date t400 wt400 wt0 t76 wt76 wt0 access-normal has-image no-more pt400 has-1-nt">
+    <div id="node-3659-teaser" class="node node-teaser node-type-post node-3659 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t112 wt112 wt0 access-normal no-more pt400 has-1-nt">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">September 24, 2014</span>    </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/media-contacts" title="Contact the Newsroom"><span class="title">Contact the Newsroom</span>
+      </a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+               </div>
+    </div>
+        <div class="node-content content node-item">
+            <p>916-414-1440</p>
+
+<p><a href="mailto:Newsroom@CalSTRS.com">Newsroom@CalSTRS.com</a></p>    </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/media-contacts"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-3582-teaser" class="node node-teaser node-type-post node-3582 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t113 wt113 wt0 access-normal no-more pt400 has-1-nt">
+  <div class="node-inner">  
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">July 17, 2014</span>    </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/news-release/calstrs-reports-second-year-healthy-investment-returns-2013-14" title="CalSTRS Reports Second Year of Healthy Investment Returns in 2013-14"><span class="title">CalSTRS Reports Second Year of Healthy Investment Returns in 2013-14</span>
+      <br class="accessible-break"><span class="subtitle">Equities fueled second year of double-digit returns</span></a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+               </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-reports-second-year-healthy-investment-returns-2013-14"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-3363-teaser" class="node node-teaser node-type-post node-3363 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t76 wt76 wt0 access-normal has-image no-more pt400 has-1-nt">
   <div class="node-inner">  
             <div class="node-upper-image node-item"><span class="field-image field-not-video field-image-preset-menu_pods croppable  c1  c-1"><a href="/calstrs-offices" rel=""><img src="http://www.calstrs.com/sites/main/files/imagecache/menu_pods/main-images/glendale_lobby.jpg" alt="Image of CalSTRS Offices" title="" width="240" height="160"></a></span></div>
         <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 30, 2013</span>    </div></div>
@@ -1561,70 +1543,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-2 views-row-even">
-    <div id="node-3362-teaser" class="node node-teaser node-type-post node-3362 pt-show-social-block no-event-date t400 wt400 wt0 t113 wt113 wt0 access-normal no-more pt400 has-1-nt">
-  <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 26, 2013</span>    </div></div>
-          
-      <h2 class="node-header node-item">
-      <a href="/news-release/calstrs-among-best-places-work-money-management-pensions-investments-magazine-says" title="CalSTRS Among Best Places to Work in Money Management, P&amp;I Magazine Says"><span class="title">CalSTRS Among Best Places to Work in Money Management, P&amp;I Magazine Says</span>
-      <br class="accessible-break"><span class="subtitle">CalSTRS is first pension fund to make the Pensions &amp; Investments list</span></a>
-    </h2>
-        <div class="node-image node-item"></div>
-        <div class="node-meta meta node-item">
-      <div class="meta-inner submitted">
-               </div>
-    </div>
-        <div class="node-content content node-item">
-                </div>
-    
-  
-  
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-among-best-places-work-money-management-pensions-investments-magazine-says"><span class="read-more-text">Read more</span></a></span></li>
-</ul></div>
-  
-    
-  
-
-
-</div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-3 views-row-odd">
-    <div id="node-3361-teaser" class="node node-teaser node-type-post node-3361 pt-show-social-block no-event-date t400 wt400 wt0 t114 wt114 wt0 access-normal no-more pt400 has-1-nt">
-  <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 26, 2013</span>    </div></div>
-          
-      <h2 class="node-header node-item">
-      <a href="/news-release/calstrs-green-team-releases-2013-annual-report" title="CalSTRS ‘Green Team’ Releases 2013 Annual Report"><span class="title">CalSTRS ‘Green Team’ Releases 2013 Annual Report</span>
-      <br class="accessible-break"><span class="subtitle">Fixed Income Green Program 900 basis points higher than reported in 2012</span></a>
-    </h2>
-        <div class="node-image node-item"></div>
-        <div class="node-meta meta node-item">
-      <div class="meta-inner submitted">
-               </div>
-    </div>
-        <div class="node-content content node-item">
-                </div>
-    
-  
-  
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-green-team-releases-2013-annual-report"><span class="read-more-text">Read more</span></a></span></li>
-</ul></div>
-  
-    
-  
-
-
-</div></div> <!-- /node-inner, /node -->
-  </div>
   <div class="views-row views-row-4 views-row-even">
-    <div id="node-3255-teaser" class="node node-teaser node-type-post node-3255 pt-show-social-block no-event-date t400 wt400 wt0 access-normal has-more pt400 has--nt">
+    <div id="node-3362-teaser" class="node node-teaser node-type-post node-3362 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">September 26, 2013</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 26, 2013</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/news-release/new-state-law-allows-online-only-calstrs-annual-member-statements-january-2014?page=" title="New State Law Allows Online-Only CalSTRS Annual Member Statements As of January 2014"><span class="title">New State Law Allows Online-Only CalSTRS Annual Member Statements As of January 2014</span>
-      <br class="accessible-break"><span class="subtitle">Retirement Progress Reports go paperless</span></a>
+      <a href="/news-release/calstrs-triple-feted-institutional-investor-awards-event" title="CalSTRS Triple-Feted at Institutional Investor Awards Event"><span class="title">CalSTRS Triple-Feted at Institutional Investor Awards Event</span>
+      <br class="accessible-break"><span class="subtitle">Investor Intelligence Awards recognized the CalSTRS equities team, Christopher J. Ailman as CIO of the Year, and Josh Diedesch with a Rising Star award</span></a>
     </h2>
         <div class="node-image node-item"></div>
         <div class="node-meta meta node-item">
@@ -1632,18 +1558,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
                </div>
     </div>
         <div class="node-content content node-item">
-            <p>
-  WEST SACRAMENTO, CA – The California State Teachers’ Retirement
-  System (CalSTRS) today announced that, effective January 1, 2014,
-  CalSTRS <a href="http://www.calstrs.com/publication/retirement-progress-report">Retirement Progress
-  Reports</a> (RPR) will be available exclusively online, unless a
-  paper version is requested. The change is enacted under <a href="http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB989&amp;search_keywords=">
-  Assembly Bill 989</a>.
-</p>    </div>
+                </div>
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/new-state-law-allows-online-only-calstrs-annual-member-statements-january-2014%3Fpage%3D"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-triple-feted-institutional-investor-awards-event"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -1653,9 +1572,37 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-5 views-row-odd">
-    <div id="node-2654-teaser" class=" te-show-embed-1  dd node node-teaser node-type-post node-2654 pt-show-social-block no-event-date t400 wt400 wt0 t100 wt100 wt0 access-normal has-image no-more pt400 has-1-nt">
+    <div id="node-3361-teaser" class="node node-teaser node-type-post node-3361 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t114 wt114 wt0 access-normal no-more pt400 has-1-nt">
   <div class="node-inner">  
-            <div class="node-upper-image node-item"><span class="field-image field-not-video field-image-preset-menu_pods croppable  c1  c-1"><a href="https://my.calstrs.com/" rel=""><img src="http://ddcache1.net/calstrs.SE314/sites/main/files/imagecache/menu_pods/main-images/mycalstrs2.png" alt="Image of myCalSTRS" title="" width="137" height="30"></a></span></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 26, 2013</span>    </div></div>
+          
+      <h2 class="node-header node-item">
+      <a href="/news-release/calstrs-aeisha-mastagni-elected-icgn-board" title="CalSTRS Aeisha Mastagni Elected to ICGN Board"><span class="title">CalSTRS Aeisha Mastagni Elected to ICGN Board</span>
+      <br class="accessible-break"><span class="subtitle">Mastagni to serve one-year term with International Corporate Governance Network</span></a>
+    </h2>
+        <div class="node-image node-item"></div>
+        <div class="node-meta meta node-item">
+      <div class="meta-inner submitted">
+               </div>
+    </div>
+        <div class="node-content content node-item">
+                </div>
+    
+  
+  
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-aeisha-mastagni-elected-icgn-board"><span class="read-more-text">Read more</span></a></span></li>
+</ul></div>
+  
+    
+  
+
+
+</div></div> <!-- /node-inner, /node -->
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div id="node-2654-teaser" class=" te-show-embed-1  dd node node-teaser node-type-post node-2654 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t100 wt100 wt0 access-normal has-image no-more pt400 has-1-nt">
+  <div class="node-inner">  
+            <div class="node-upper-image node-item"><span class="field-image field-not-video field-image-preset-menu_pods croppable  c1  c-1"><a href="https://my.calstrs.com/" rel=""><img src="http://www.calstrs.com/sites/main/files/imagecache/menu_pods/main-images/mycalstrs2.png" alt="Image of myCalSTRS" title="" width="137" height="30"></a></span></div>
         <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 4, 2012</span>    </div></div>
           
       <h2 class="node-header node-item">
@@ -1697,13 +1644,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-6 views-row-even">
-    <div id="node-3395-teaser" class="node node-teaser node-type-post node-3395 pt-show-social-block no-event-date t400 wt400 wt0 t100 wt100 wt0 access-normal has-more pt400 has-1-nt">
+  <div class="views-row views-row-7 views-row-odd">
+    <div id="node-3661-teaser" class="node node-teaser node-type-post node-3661 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t100 wt100 wt0 access-normal has-more pt400 has-1-nt">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">January 24, 2014</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">September 26, 2014</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/menu-pod/which-following-consequence-refunding-your-calstrs-contributions" title="Which of the following is a consequence of refunding your CalSTRS contributions?"><span class="title">Which of the following is a consequence of refunding your CalSTRS contributions?</span>
+      <a href="/poll/which-following-outcome-calstrs-2014-funding-plan" title="Which of the following is an outcome of CalSTRS 2014 Funding Plan?"><span class="title">Which of the following is an outcome of CalSTRS 2014 Funding Plan?</span>
       </a>
     </h2>
         <div class="node-image node-item"></div>
@@ -1716,49 +1663,23 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/menu-pod/which-following-consequence-refunding-your-calstrs-contributions"><span class="read-more-text">Learn more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/poll/which-following-outcome-calstrs-2014-funding-plan"><span class="read-more-text">Take the poll</span></a></span></li>
 </ul></div>
   
-      <div class="node-poll node-item"><div class="dd-poll-node">
-    <div class="message message-notice">Unfortunately, you cannot participate in this poll, because your browser is not enabled for Javascript and/or cookies.</div>
-    <div class="vote"><form action="/menu-pod/which-following-consequence-refunding-your-calstrs-contributions" accept-charset="UTF-8" method="post" id="dd-poll-node-vote-form-3395">
-<div><input type="hidden" name="nid" id="edit-nid" value="3395">
-<div class="form-radios"><div class=" form-item type-radio" id="edit-aid-64-wrapper">
- <label class="option" for="edit-aid-64"><input type="radio" id="edit-aid-64" name="aid" value="64" class="form-radio"> Loss of CalSTRS membership.</label>
-</div>
-<div class=" form-item type-radio" id="edit-aid-65-wrapper">
- <label class="option" for="edit-aid-65"><input type="radio" id="edit-aid-65" name="aid" value="65" class="form-radio"> Your refund may be taxed as income.</label>
-</div>
-<div class=" form-item type-radio" id="edit-aid-66-wrapper">
- <label class="option" for="edit-aid-66"><input type="radio" id="edit-aid-66" name="aid" value="66" class="form-radio"> Loss of service credit earned in CalSTRS-covered employment.</label>
-</div>
-<div class=" form-item type-radio" id="edit-aid-67-wrapper">
- <label class="option" for="edit-aid-67"><input type="radio" id="edit-aid-67" name="aid" value="67" class="form-radio"> All of the above.</label>
-</div>
-</div><input type="hidden" name="vid" id="edit-vid" value="">
-<input type="submit" name="op" id="edit-vote" value="Vote" disabled="disabled" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-7w3ikp0NXL1O-PVH7ZhgTomMVjaKitnUXqaVMoTJp44" value="form-7w3ikp0NXL1O-PVH7ZhgTomMVjaKitnUXqaVMoTJp44">
-<input type="hidden" name="form_id" id="edit-dd-poll-node-vote-form-3395" value="dd_poll_node_vote_form_3395">
-
-</div></form>
-</div>
-  <div class="results"></div>
-</div>
-</div>
     
   
 
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-7 views-row-odd">
-    <div id="node-3298-teaser" class="node node-teaser node-type-post node-3298 pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
+  <div class="views-row views-row-8 views-row-even">
+    <div id="node-2741-teaser" class="node node-teaser node-type-post node-2741 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t417 wt417 wt0 access-normal no-more pt400 has-1-nt">
   <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">October 31, 2013</span>    </div></div>
+              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 6, 2012</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/news-release/calstrs-christopher-ailman-named-3-top-power-100-cios-globally" title="CalSTRS Christopher Ailman Named #3 of Top Power 100 CIOs, Globally"><span class="title">CalSTRS Christopher Ailman Named #3 of Top Power 100 CIOs, Globally</span>
-      <br class="accessible-break"><span class="subtitle">The accolade reflects on his leadership of world-class investment staff.</span></a>
+      <a href="/ask-jack" title="Ask Jack"><span class="title">Ask Jack</span>
+      <br class="accessible-break"><span class="subtitle">CEO Jack Ehnes answers questions about the funding and administration of the CalSTRS Defined Benefit Program</span></a>
     </h2>
         <div class="node-image node-item"></div>
         <div class="node-meta meta node-item">
@@ -1770,7 +1691,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-christopher-ailman-named-3-top-power-100-cios-globally"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/ask-jack"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -1779,8 +1700,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-8 views-row-even">
-    <div id="node-3160-teaser" class="node node-teaser node-type-post node-3160 pt-show-social-block has-video no-event-date t400 wt400 wt0 access-normal has-more pt400 has--nt">
+  <div class="views-row views-row-9 views-row-odd">
+    <div id="node-3160-teaser" class="node node-teaser node-type-post node-3160 pt-hide-contact-info pt-show-social-block has-video no-event-date t400 wt400 wt0 access-normal has-more pt400 has--nt">
   <div class="node-inner">  
             <div class="node-upper-image node-item"><span class="field-image field-video field-image-preset-menu_pods  c1  c-1"><a href="https://www.youtube.com/embed/s7Q-i1SA40U?autoplay=1&amp;rel=0" class="video-lightframe provider-youtube" rel="lightframe"><span class="video-play"></span><img src="http://www.calstrs.com/sites/main/files/imagecache/menu_pods/inside_calstrs_investments_thumb_1.png" alt="Inside CalSTRS Investments" title="" class="imagecache imagecache-menu_pods"></a></span></div>
         <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">July 25, 2013</span>    </div></div>
@@ -1808,42 +1729,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-9 views-row-odd">
-    <div id="node-3120-teaser" class="node node-teaser node-type-post node-3120 pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
-  <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">June 24, 2013</span>    </div></div>
-          
-      <h2 class="node-header node-item">
-      <a href="/news-release/investors-ask-fossil-fuel-companies-assess-how-business-plans-fare-low-carbon-future" title="Investors Ask Fossil Fuel Companies to Assess How Business Plans Fare in Low-Carbon Future"><span class="title">Investors Ask Fossil Fuel Companies to Assess How Business Plans Fare in Low-Carbon Future</span>
-      <br class="accessible-break"><span class="subtitle">Coalition of 70 investors worth $3 trillion call on world’s largest oil &amp; gas, coal and electric power companies to assess risks under climate action and ‘business as usual’ scenarios.</span></a>
-    </h2>
-        <div class="node-image node-item"></div>
-        <div class="node-meta meta node-item">
-      <div class="meta-inner submitted">
-               </div>
-    </div>
-        <div class="node-content content node-item">
-                </div>
-    
-  
-  
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/investors-ask-fossil-fuel-companies-assess-how-business-plans-fare-low-carbon-future"><span class="read-more-text">Read more</span></a></span></li>
-</ul></div>
-  
-    
-  
-
-
-</div></div> <!-- /node-inner, /node -->
-  </div>
   <div class="views-row views-row-10 views-row-even">
-    <div id="node-3119-teaser" class="node node-teaser node-type-post node-3119 pt-show-social-block no-event-date t400 wt400 wt0 t112 wt112 wt0 access-normal no-more pt400 has-1-nt">
+    <div id="node-3119-teaser" class="node node-teaser node-type-post node-3119 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">June 24, 2013</span>    </div></div>
           
       <h2 class="node-header node-item">
-      <a href="/statement/calstrs-welcomes-swift-legislative-action-bridge-71-billion-funding-gap" title="CalSTRS Welcomes Swift Legislative Action to Bridge $71 Billion Funding Gap"><span class="title">CalSTRS Welcomes Swift Legislative Action to Bridge $71 Billion Funding Gap</span>
-      <br class="accessible-break"><span class="subtitle">Legislature signals constructive recognition of the need to stabilize CalSTRS funding</span></a>
+      <a href="/news-release/new-legislation-stabilizes-calstrs-funding" title="New Legislation Stabilizes CalSTRS Funding"><span class="title">New Legislation Stabilizes CalSTRS Funding</span>
+      <br class="accessible-break"><span class="subtitle">AB 1469 bridges CalSTRS funding gap through gradual contribution increases</span></a>
     </h2>
         <div class="node-image node-item"></div>
         <div class="node-meta meta node-item">
@@ -1855,7 +1748,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
     
   
   
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/statement/calstrs-welcomes-swift-legislative-action-bridge-71-billion-funding-gap"><span class="read-more-text">Read more</span></a></span></li>
+      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/new-legislation-stabilizes-calstrs-funding"><span class="read-more-text">Read more</span></a></span></li>
 </ul></div>
   
     
@@ -1865,35 +1758,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 </div></div> <!-- /node-inner, /node -->
   </div>
   <div class="views-row views-row-11 views-row-odd">
-    <div id="node-2882-teaser" class="node node-teaser node-type-post node-2882 pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
-  <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">February 15, 2013</span>    </div></div>
-          
-      <h2 class="node-header node-item">
-      <a href="/news-release/calstrs-vote-against-disneys-combined-chairceo-executive-pay" title="CalSTRS to Vote Against Disney’s Combined Chair/CEO, Executive Pay"><span class="title">CalSTRS to Vote Against Disney’s Combined Chair/CEO, Executive Pay</span>
-      <br class="accessible-break"><span class="subtitle">Combined roles create conflicts and compensation plan works against shareholders’ interest.</span></a>
-    </h2>
-        <div class="node-image node-item"></div>
-        <div class="node-meta meta node-item">
-      <div class="meta-inner submitted">
-               </div>
-    </div>
-        <div class="node-content content node-item">
-                </div>
-    
-  
-  
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/news-release/calstrs-vote-against-disneys-combined-chairceo-executive-pay"><span class="read-more-text">Read more</span></a></span></li>
-</ul></div>
-  
-    
-  
-
-
-</div></div> <!-- /node-inner, /node -->
-  </div>
-  <div class="views-row views-row-12 views-row-even">
-    <div id="node-2746-teaser" class="node node-teaser node-type-post node-2746 pt-show-social-block no-event-date t400 wt400 wt0 t110 wt110 wt0 access-normal no-more pt400 has-1-nt">
+    <div id="node-2746-teaser" class="node node-teaser node-type-post node-2746 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 t110 wt110 wt0 access-normal no-more pt400 has-1-nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 6, 2012</span>    </div></div>
           
@@ -1920,8 +1785,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-13 views-row-odd">
-    <div id="node-2744-teaser" class="node node-teaser node-type-post node-2744 pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
+  <div class="views-row views-row-12 views-row-even views-row-last">
+    <div id="node-2744-teaser" class="node node-teaser node-type-post node-2744 pt-hide-contact-info pt-show-social-block no-event-date t400 wt400 wt0 access-normal no-more pt400 has--nt">
   <div class="node-inner">  
               <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 6, 2012</span>    </div></div>
           
@@ -1948,34 +1813,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /node-inner, /node -->
   </div>
-  <div class="views-row views-row-14 views-row-even views-row-last">
-    <div id="node-2741-teaser" class="node node-teaser node-type-post node-2741 pt-show-social-block no-event-date t400 wt400 wt0 t417 wt417 wt0 access-normal no-more pt400 has-1-nt">
-  <div class="node-inner">  
-              <div class="node-upper-meta meta node-item"><div class="meta-inner"><span class="meta-item post-type" data-plural="Menu Pods">Menu Pod</span> <span class="last meta-item post-date">December 6, 2012</span>    </div></div>
-          
-      <h2 class="node-header node-item">
-      <a href="/ask-jack" title="Ask Jack"><span class="title">Ask Jack</span>
-      <br class="accessible-break"><span class="subtitle">CEO Jack Ehnes answers questions about the funding and administration of the CalSTRS Defined Benefit Program</span></a>
-    </h2>
-        <div class="node-image node-item"></div>
-        <div class="node-meta meta node-item">
-      <div class="meta-inner submitted">
-               </div>
-    </div>
-        <div class="node-content content node-item">
-                </div>
-    
-  
-  
-      <div class="node-links node-item"><ul class="links inline"><li class="link link-read-more first last"><span><a href="/ask-jack"><span class="read-more-text">Read more</span></a></span></li>
-</ul></div>
-  
-    
-  
-
-
-</div></div> <!-- /node-inner, /node -->
-  </div>
     </div>
   
   
@@ -1987,13 +1824,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 </div></div> <!-- /block-inner, /block -->
 </div></div>
-    <script type="text/javascript" src="http://ddcache2.net/calstrs.SE314/sites/main/files/advagg_js/js_19ecf24c5368f0cb90e1e64dcac885b4_17.js"></script>
+    <script type="text/javascript" src="/sites/main/files/advagg_js/js_19ecf24c5368f0cb90e1e64dcac885b4_22.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-20538890-2"]);_gaq.push(["_setDomainName",".calstrs.com"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s)})()
 //--><!]]>
 </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"51e9ee0927","applicationID":"3044101","transactionName":"bwBRZUoEC0NXUEEKXlZKclJMDApeGWxHBkdRFlpeVgwLV2lFXAZG","queueTime":0,"applicationTime":565,"ttGuid":"","agentToken":"","atts":"Q0dGEwIeR0VFVkcwRVkRRkIaX0dRWFxbGlxXEEATFEcWUVhXVwxJcQERCxoGBFxFR0cQbkgXXFVNBhFZWV0XHh0aBBELQxgY","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-
-<!-- Page cached by Boost @ 2014-03-24 14:50:20, expires @ 2014-03-26 14:50:20 -->
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
