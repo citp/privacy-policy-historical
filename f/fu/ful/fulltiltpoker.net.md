@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fulltiltpoker.net privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827095315id_/http%3A//www.fulltiltpoker.net/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.net privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105154030id_/http%3A//www.fulltiltpoker.net/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
 
-# Online Poker at Full Tilt Poker.net - Legal Information: Privacy
+# Online Poker at Full Tilt - Legal Information: Privacy
 
 Your privacy is very important to Rational FT Poker School Limited (referred to herein as " **Full Tilt Poker.net** ", " **we** " or **us** "), the owner and operator of the website located at www.fulltiltpoker.net (the " **Site** "). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at the Site, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures. We will comply with the terms of the Isle of Man's Data Protection Act 2002 when processing your personal information.
 
