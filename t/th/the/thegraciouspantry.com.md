@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191953id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraciouspantry.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105112642id_/http%3A//www.thegraciouspantry.com/privacy-statment) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy Statement - Clean Eating Recipes
 
 This is the web site of The Gracious Pantry®.
 
@@ -34,6 +34,9 @@ Please provide  your exact name and phone number.Your number will be either upd
 **With respect to Ad Servers:**  
 To try and bring you offers that are of interest to you, The Gracious Pantry® has relationships with third parties (including but not limited to Blogher, Google Adsense and Commission Junction) that may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website. As a result of your visit to this site, ad server companies may collect information such as your domain type, your IP address and clickstream information. To stop this information from being collected, follow the steps found in this article: <http://www.ehow.com/how_5872073_stop-cookies-coming-computer.html>
 
+**Additional Statement on Ad Servers**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+
 The Gracious Pantry allows third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit<http://www.aboutads.info/choices>.
 
 From time to time, The Gracious Pantry® may use customer information for new, unanticipated uses not previously disclosed in this privacy notice. If these information practices change at some time in the future they will be posted in this privacy statement to notify you of these changes and will be used for these new purposes only, and will include data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back with this privacy statement periodically.
@@ -55,4 +58,4 @@ If you feel that this site is not following its stated information policy, you m
 **Amazon Affiliate Links:**  
 Tiffany McCauley is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-[](http://www.printfriendly.com/print?url=http://www.thegraciouspantry.com/privacy-statment/)
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.thegraciouspantry.com%2Fprivacy-statment%2F)
