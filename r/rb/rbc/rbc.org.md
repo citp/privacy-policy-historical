@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbc.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133024id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbc.org privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105195356id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RBC Ministries
 
@@ -40,3 +40,9 @@ Information collected on this site will be used according to the following guide
 > > RBC Ministries  
 >  3000 Kraft Ave. SE  
 >  Grand Rapids, MI 49512
+
+### Subscribe
+
+### Around the World
+
+RBC Ministries operates in conjunction with [affiliated ministries](https://web.archive.org/locations/) in 34 countries, plus partners throughout the world who distribute RBC Ministries’ materials. Our signature publication, the daily devotional called [Our Daily Bread](http://odb.org/ "Our Daily Bread"), is translated into more than 55 languages.
