@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seasiainfotech.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627004624id_/http%3A//www.seasiainfotech.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seasiainfotech.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105182511id_/http%3A//www.seasiainfotech.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Seasia Infotech Company
 
 **Seasia Infotech**  
 Access to and use of the Seasia Infotech Web Site is expressly conditioned upon agreement to the following policies and conditions:
@@ -49,6 +49,8 @@ Other Important Notes Regarding Our Privacy Practices
 a. **Security**. We have security measures and tools in place to help protect against the loss, misuse, and alteration of the information under our control. Any time you provide us with your credit card number, that credit card number is transmitted to us by your browser in an encrypted format using industry-standard, SSL (secure socket layer) encryption. No method of transmitting or storing data is completely secure. As a result, although we strive to protect your Personal Information, we cannot guarantee the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with "Contact Us," .
 
 b. **Assignment**. We reserve the right to transfer any and all information that we collect from users of the Site to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Seasia assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+
+**Remaketing** : We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the **[DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)** or the **[Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp)**
 
 **Changes to This Policy**  
 Seasia Infotech reserves the right to change this Policy, and any of our policies or procedures concerning the treatment of information collected through the Site, without prior notice. Any changes to our Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Policy.
