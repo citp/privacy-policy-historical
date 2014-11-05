@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606032146id_/http%3A//www.uhc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106000737id_/http%3A//www.uhc.com/privacy.htm) for the most accurate reproduction.*
 
 # UnitedHealthcare Privacy Policy
 
