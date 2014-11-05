@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydepotusa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083910id_/http%3A//www.mydepotusa.com/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydepotusa.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105084253id_/http%3A//mydepotusa.com/privacy-policy-en) for the most accurate reproduction.*
 
-# MyDepotUSA - Privacy Policy
+# Privacy Policy
 
 ### **Privacy Policy**
 
@@ -70,7 +70,7 @@ User can review the personal information User has provided us with and make any 
 
 ##### **7\. Contacting Us**
 
-If User has any questions about this privacy statement, MyDepotUSA's information practices, or User's dealings with MyDepotUSA, User can contact us by writing to us at Attn: Legal Dept. MyDepotUSA (STTech LLC), 1510 Randolph St. Ste. 305 Carrollton, TX 75006 U.S.A. or send us an email at [biz@MyDepotUSA.com](mailto:biz@MyDepotUSA.com)
+If User has any questions about this privacy statement, MyDepotUSA's information practices, or User's dealings with MyDepotUSA, User can contact us by writing to us at Attn: Legal Dept. MyDepotUSA, send us an email at [biz@MyDepotUSA.com](mailto:biz@MyDepotUSA.com)
 
 ##### **IMPORTANT NOTICE**
 
