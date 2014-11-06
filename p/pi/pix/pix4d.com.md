@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pix4d.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020806id_/http%3A//pix4d.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pix4d.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106105006id_/http%3A//pix4d.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Pix4D
+# Privacy policy - Pix4D
 
 **Pix4D Privacy Policy**
 
