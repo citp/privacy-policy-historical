@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komodoide.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063416id_/http%3A//komodoide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komodoide.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100655id_/http%3A//komodoide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Komodo IDE
 
@@ -104,7 +104,7 @@ Our users are given the opportunity to “opt-in” to having their information 
 
 ## Opting Out
 
-Periodically, ActiveState notifies our users of new products, announcements, upgrades, and updates. To unsubscribe from ActiveState email updates, click opt out at the bottom of the next email you receive from us. Please be aware that you may not opt out of receiving information regarding the initial use, evaluation, or expiration of our products or services.
+Periodically, ActiveState notifies our users of new products, announcements, upgrades, and updates. To unsubscribe from ActiveState email updates, click “unsubscribe” at the bottom of the next email you receive from us. Please be aware that you may not opt out of receiving information regarding the initial use, evaluation, or expiration of our products or services.
 
 ## Notification of Changes
 
