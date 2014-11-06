@@ -1,100 +1,333 @@
-> *The following text is extracted and transformed from the cashgenerator.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152745id_/http%3A//www.cashgenerator.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashgenerator.co.uk privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106175233id_/http%3A//www.cashgenerator.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# None
+# Privacy and cookies
 
-**Cash Generator Limited** ("We") are committed to protecting and respecting your privacy.  
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Cash Generator Limited of CG House, Express Trading Estate, Stonehill Road, Bolton, Lancashire BL4 9TP ("Head Office").
+**Privacy Policy**
 
-## INFORMATION WE MAY COLLECT FROM YOU
+We are committed to preserving the highest standards of data protection and privacy for our customers. This Privacy Policy explains how we use and protect the information you provide to us. 
 
-We may collect and process the following data about you:
+**Who are we?**
 
-  * Information that you provide by filling in forms on our site www.cashgenerator.co.uk (our site). This includes information provided at the time of registering to use our site, subscribing to our services or requesting further services. We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site and the resources that you access. 
+We are Cash Generator Limited trading as Cash Generator, a limited company incorporated and registered in England under registration number 2258951. Our registered office and contact details are set out at the end of this policy. We are a member of the Axcess Financial Europe Limited group of companies (the "Axcess Group"). 
 
+We are a "data controller" which means that we are responsible for the use of your information and we decide how and why this information will be used. We are registered as a data controller with the Information Commissioner's Office under reference Z6071547. 
 
+**What information do we collect?**
 
-## IP ADDRESSES AND COOKIES
+When you apply for a loan from us, or when you use any of our services, we may collect, keep and use the following information about you:
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+-name;
 
-The Cash Generator website uses 5 cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users on the website helping us to provide you with a good experience when you browse and transact on the Cash Generator website. They also allow us to improve our website based on visitor activity.
+-address and sometimes previous addresses;
 
-We use a first party session cookie which allows essential functions such as remembering what you have put in your shopping basket as you browse around the site and allowing you to register and login. It also speed up your site searches and allows a secure connection to be provided when you are performing secure transactions. This cookie is not linked to any information we might hold against you as a customer. It expires when your session ends.
+-date of birth;
 
-We also use 4 performance cookies which allow us to anonymously track site usage and user behaviour allowing us to improve the performance of the website and the user experience on the site. These cookies are third party persistent cookies. The Cash Generator website uses Google Analytics, Google Display Advertising via DoubleClick, Adobe SiteCatalyst and Optimizely cookies. 
+-gender;
 
-Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate user behaviour on the website. In addition to this the DoubleClick cookie allows Google Analytics to collect data about traffic to the website in addition to data collected through the standard Google Analytics implementation. We use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. These cookies inform, optimize, and serve ads based on a consumers previous visits to our website.
+-telephone or fax number(s);
 
-Adobe SiteCatalyst (2o7.net) uses cookies, log file data and embedded code to gather data on behalf of Cash Generator.
+-email address;
 
-Optimizely sets a cookie in order to evaluate user behaviour on the website. Google Analytics, Adobe SiteCatalyst and Optimizely track site usage and audience and help Cash Generator to improve the experience it provides to users on the website.
+-bank details and debit card details;
 
-If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. You can also opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by clicking [here](https://www.google.com/settings/ads).
+-other financial details including your expenses;
 
-You can choose whether to opt out of certain cookies that are set when you use the Cash Generator website, on the [Manage cookies page](https://web.archive.org/ManageCookies.aspx).
+-name and address of employer, amount of your pay or salary and how often you get paid;
 
-## WHERE WE STORE YOUR PERSONAL DATA
+-a record of transactions and correspondence between you and us; 
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+-copies of identity documents such as passport, driving licence, bank statements or utility bills; and
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+-details of your visits to our websites and the resources that you access. 
 
-## USES MADE OF THE INFORMATION
+**How and why do we use this information?**
 
-We use information held about you in the following ways:
+We will record this information electronically and we may also keep hard copies of your application form, agreements, copies of identity documents and any further documents necessary. We will use your information:
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To facilitate the entering into of any contracts between you and our Affiliates (referred to below).
-  * To allow you to participate in interactive features of our services, when you choose to do so.
-  * To notify you about changes to our services.
+-to process your application and to verify your identity;
 
+-to verify your credit standing and credit history (including performing credit searches) and decide whether you are eligible to receive the loan you have applied for – please see the section below entitled "Credit Checks" for more information on how your information is used by us and by credit reference agencies for credit check purposes;
 
+-to confirm your employment details, including by contacting your employer;
 
-When you purchase goods for sale on our site, some of the sellers are our franchisees who trade as Cash Generator and sell goods to you on cash generator.co.uk (Affiliates). You will be able to tell when you are buying goods from our Affiliates as their details will be displayed before you complete your purchases from them.
+-to manage your account and to provide you with our products and services;
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. 
+-to monitor your loan instalments and repayments;
 
-If you are an existing customer or have registered on our site, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. Where we permit selected third parties to use your data, they will contact you by electronic means only if you have consented to this.
+-to carry out our obligations and exercise our rights arising from any contracts that we enter into with you;
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant boxes situated on the form on which we collect your data (the registration form).
+-to contact you regarding your application or your loan;
 
-## DISCLOSURE OF YOUR INFORMATION
+-to provide customer services to you, including informing you about important changes to our products and services;
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985 and also to our Affiliates.
+-to improve your visits to our website;
 
-We may disclose your personal information to third parties:
+-for internal review and business planning purposes to improve our products and our service to customers;
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Cash Generator Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use]() or [terms and conditions of supply]() and other agreements; or to protect the rights, property, or safety of Cash Generator Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+-to detect, prevent and investigate actual and potential fraud;
 
+-for statistical analysis about credit (your information may also be used for this purpose by credit reference agencies); and
 
+-for marketing purposes where you have agreed that we may use information in this way. 
 
-## TRANSFERS OF INFORMATION OVERSEAS
+**Cookies**
 
-Some of Cash Generator’s servers are located at CNG Holdings, Inc. in the United States. This means that certain personal data is received in the United States about EU Residents. To properly protect this personal data on EU Residents, we adhere to the US-EU Safe Harbor Privacy Principles set forth by the U.S. Department of Commerce with respect to the collection, use, processing, and retention of such data in the United States. CNG Holdings, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CNG Holdings, Inc.’s certification, please visit http://www.export.gov/safeharbor/ or contact us at in writing at our Head Office, Cash Generator Limited of CG House, Express Trading Estate, Stonehill Road, Bolton, Lancashire BL4 9TP.
+We use cookies on our website to allow us to distinguish you from other users on the website helping us to provide you with a good experience when you browse and transact on the Cash Generator website. For more information please see our Cookies Policy.
 
-By providing us with your personal information on our Website or in the course of using our services, you consent to the transfer of your Personal Data to companies outside the EU, including Cash Generator and its affiliates, and authorised third parties, in accordance with this Privacy Policy.
+ **Who do we share this information with?**
 
-## YOUR RIGHTS
+We may share your information within the Axcess Group and and with our franchisees for any of the purposes described above. We will only share your information with the Axcess Group and our franchisees for marketing purposes if you have consented to us doing so. 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by writing to us at our Head Office.
+We may share your information with third parties where we are legally required to do so, for example for crime prevention or in order to protect our rights or the rights of our group companies, employees or customers. 
 
-Our site may, from time to time, contain links to and from the websites of advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+If we buy or sell any business or assets we may share your information with the prospective seller or buyer of the business or assets. If we go through a corporate merger, consolidation, sale of assets or other corporate change, we may also pass your information on to the buyer or our successors in business to ensure they can continue to operate the business effectively or make full use of the assets sold. 
 
-## ACCESS TO INFORMATION
+**Transfer of information overseas**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+Some or all of your information may be transferred to, stored or processed by a service provider of ours located in a country outside the European Economic Area where data protection laws may not be as strict as they are in the UK. Where we send your information outside of Europe we will always ensure that adequate measures are taken to protect your information.
 
-## CHANGES TO OUR PRIVACY POLICY
+ **Security**
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+We have in place strict organisational and technical security measures to protect against unauthorised or unlawful use of your information and against loss of, or damage to, your information. We require our service providers to have similar measures in place. However we cannot guarantee absolute security. 
 
-## CONTACT
+**For how long do we keep your information?**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to us by writing to us at our Head Office. 
+We will keep your information for as long as necessary to fulfil the purposes for which it was collected, to resolve any disputes or complaints that may arise and to comply with our legal obligations. If you have consented to receive marketing communications from us and you have not withdrawn this consent, we will keep your contact information for as long as we are entitled to provide you with marketing communications. 
+
+**How and why will we contact you?**
+
+We may contact you by letter, telephone, text, email or other electronic means for any purpose related to your application, your loan or any other products and services you have requested from us. 
+
+We will only contact you for marketing purposes where you have given your consent to be contacted for those purposes.
+
+ **Credit checks**
+
+If you apply for a loan from us, in order to process your application, we will need to perform something called a "credit search". This helps us to decide whether or not you are eligible to receive a loan from us. To help us to make this decision, we may need to obtain information from Credit Reference Agencies ("CRAs") and/or Fraud Prevention Agencies ("FPAs"). We may also have to pass on some of your information to the CRAs and/or FPAs that we use. This section of the Privacy Policy sets out in detail what we, CRAs and FPAs do with your information for credit check purposes and why. 
+
+By signing and submitting a loan application form, you will be agreeing to us, CRAs and FPAs sharing your information as described in this Privacy Policy. It is therefore important that you read this document carefully and make sure that you understand it. 
+
+**1** **FAQs**
+
+1.1What is a credit reference agency? 
+
+Credit reference agencies collect and maintain information on consumers’ and businesses’ credit behaviour, on behalf of organisations in the UK.
+
+1.2What is a fraud prevention agency? 
+
+Fraud Prevention Agencies collect, maintain and share information on known and suspected fraudulent activity. Some CRAs also act as FPAs. 
+
+1.3Why do we use CRAs and FPAs? 
+
+Although you have applied to us and we will check our own records, we will also contact CRAs to get information on your credit behaviour with other organisations. This will help us make the best possible assessment of your overall situation before we make a decision. 
+
+1.4Where do CRAs and FPAs get the information? 
+
+1.4.1Some of the information CRAs and FPAs obtain is publicly available, such as information from:
+
+(a)the Electoral Register (obtained from Local Authorities)
+
+(b)County Court Judgments (obtained from Registry Trust)
+
+(c)Bankruptcy and similar Orders (obtained from the Insolvency Service)
+
+1.4.2Fraud information may also come from fraud prevention agencies. 
+
+1.4.3Credit information comes from information on applications to banks, building societies, credit card companies etc and also from the conduct of those accounts. 
+
+1.5How will you know if your information is to be sent to a CRA or FPA? 
+
+You will be told when you apply for a loan if your application data is to be supplied to a CRA or FPA. The next section of this Privacy Policy explains how, when and why we will search at CRAs and FPAs and what we will do with the information we obtain from them. The next section of this Privacy Policy also explains that we send payment history information, information on you or your business, if you have one, to CRAs. You can ask us at any time for the name of CRAs and FPAs that we use. 
+
+1.6Why is your information used in this way? 
+
+We and other organisations want to make the best possible decisions we can, in order to make sure that your loan amount is affordable for you. Some organisations may also use the information to check your identity. In this way we can ensure that we all make responsible decisions. At the same time we also want to make decisions quickly and easily and, by using up to date information, provided electronically, we are able to make the most reliable and fair decisions possible. 
+
+1.7Who controls what we, CRAs and FPAs are allowed to do with your data? 
+
+All organisations that collect and process personal data are regulated by the Data Protection Act 1998, overseen by the Information Commissioner’s Office. All CRAs are in regular dialogue with the Commissioner. Use of the Electoral Register is controlled under the Representation of the People Act 2000. 
+
+1.8Can just anyone look at your information held at CRAs? 
+
+No, access to your information is very strictly controlled and only those that are entitled to do so may see it. Usually that will only be with your agreement or (very occasionally) if there is a legal requirement. 
+
+**2** **What do we do with your information?**
+
+2.1When you apply to us for a loan, we will: 
+
+2.1.1Check our own records for information on: 
+
+(a)your previous borrowing with us and any ongoing borrowing with us; 
+
+(b)if you have one, your financial associate's personal accounts (a financial associate means someone you are living with in a personal relationship); 
+
+. 
+
+2.1.2Search at CRAs for information on: 
+
+(a)your personal accounts;
+
+(b)if you are making a joint application now or have ever done any of the following we will check your financial associates’ personal accounts as well:
+
+(i)if you have previously made joint applications; 
+
+(ii)if you have joint account(s); 
+
+(iii)if you are financially linked (CRAs may link your records with those of another individual, for example if you are married, have previously made joint applications or have a joint account); 
+
+2.1.3Search at FPAs for information on you and any addresses at which you have lived and on your business (if you have one).
+
+2.2When you apply to us, you provide us with certain information. We will use this information for the following purposes: 
+
+2.2.1Information that is supplied to us will be sent to the CRAs. 
+
+2.2.2If you are making a joint application or tell us that you have a spouse or financial associate, we will: 
+
+(a)search, link and/or record information at credit reference agencies about you both;
+
+(b)link any individual identified as your financial associate, in our own records;
+
+(c)take both your and their information into account in future applications by either or both of you;
+
+(d)continue this linking until the account closes, or is changed to a sole account **and** one of you notifies us that you are no longer linked. 
+
+It is therefore important that you obtain your spouse or financial associate's agreement to disclose information about them. 
+
+If you give us false or inaccurate information and we suspect or identify fraud we will record this and may also pass this information to FPAs and other organisations involved in crime and fraud prevention. 
+
+2.3With the information that we obtain from CRAs and/or FPAs, we will:
+
+2.3.1assess your application for credit; 
+
+2.3.2check details on applications for credit and credit related or other facilities;
+
+2.3.3verify your identity and the identity of your spouse, partner or other directors/partners;
+
+2.3.4undertake checks for the prevention and detection of crime, fraud and/or money laundering; 
+
+2.3.5we may use scoring methods to assess this application and to verify your identity;
+
+2.3.6manage your borrowing with us; and/or
+
+2.3.7undertake periodic statistical analysis or testing to ensure the accuracy of existing and future products and services. 
+
+Any or all of these processes may be automated. 
+
+2.4What we do when you have an account with us:
+
+2.4.1Where you borrow or may borrow from us, we will give details of your personal and/or business account (if you have one), including names and parties to the account and how you manage it/them to CRAs.
+
+2.4.2If you borrow and do not repay in full and on time, we will tell CRAs. 
+
+2.4.3We may make periodic searches of our own group records and at CRAs to manage your account with us, including whether to make credit available or to continue or extend existing credit. We may also check at FPAs to prevent or detect fraud. 
+
+2.4.4If you have borrowed from us and do not make payments that you owe us, we will trace your whereabouts and recover debts.
+
+ **3** **What do CRAs and FPAs do with your information?**
+
+3.1When CRAs receive a search from us they will: 
+
+3.1.1place a search “footprint” on your credit file whether or not your application proceeds. If the search was for a credit application the record of that search (but not the name of the organisation that carried it out) may be seen by other organisations when you apply for credit in the future;
+
+3.1.2link together the records of you and anyone that you have advised is your financial associate including previous and subsequent names of parties to the account. Links between financial associates will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs. 
+
+3.2CRAs will supply to us: - 
+
+3.2.1credit information such as previous applications and the conduct of the accounts in your name and of your financial associate(s) (if there is a link between you – see 3.1.2 above) and/or your business accounts (if you have one);
+
+3.2.2public information such as County/Sheriff Court Judgments (CCJs) and bankruptcies;
+
+3.2.3Electoral Register information; and
+
+3.2.4fraud prevention information. 
+
+3.3When we supply information to CRAs about your account(s):
+
+3.3.1CRAs will record the details that are supplied on your personal and/or business account (if you have one) including any previous and subsequent names that have been used by the accountholders and how you/they manage it/them;
+
+3.3.2if you borrow and do not repay in full and on time, CRAs will record the outstanding debt;
+
+3.3.3records shared with credit reference agencies remain on file for 6 years after they are closed, whether settled by you or defaulted _._
+
+3.4CRAs will **not** use your information for the following purposes: 
+
+3.4.1to create a blacklist; or 
+
+3.4.2to make a decision. 
+
+3.5CRAs **will** use your information for the following purposes: 
+
+3.5.1The information which we and other organisations provide to the credit reference agencies about you, your financial associates and your business (if you have one) may be supplied by credit reference agencies to other organisations and used by them to:
+
+(a)prevent crime, fraud and money laundering by, for example checking details provided on applications for credit and credit related or other facilities;
+
+(b)check the operation of credit and credit-related accounts;
+
+(c)verify your identity if you or your financial associate applies for other facilities; 
+
+(d)make decisions on credit and credit related services about you, your partner, other members of your household or your business;
+
+(e)manage your personal, your partner’s and/or business (if you have one) credit or credit related account or other facilities;
+
+(f)trace your whereabouts and recover debts that you owe; and
+
+(g)undertake statistical analysis and system testing. 
+
+3.6FPAs **may** use your information for the following purposes: 
+
+3.6.1The information which we provide to the FPAs about you, your financial associates and your business (if you have one) may be supplied by FPAs to other organisations and used by them and us to : 
+
+(a)prevent crime, fraud and money laundering by, for example:
+
+(i)checking details provided on applications for credit and credit related or other facilities;
+
+(ii)managing credit and credit related accounts or facilities;
+
+(iii)cross-checking details provided on proposals and claims for all types of insurance;
+
+(iv)checking details on applications for jobs or when checked as part of employment.
+
+(b)verify your identity if you or your financial associate applies for other facilities including all types of insurance proposals and claims;
+
+(c)trace your whereabouts and recover debts that you owe;
+
+(d)conduct other checks to prevent or detect fraud;
+
+(e)we and other organisations may access and use from other countries the information recorded by fraud prevention agencies;
+
+(f)undertake statistical analysis and system testing. 
+
+**4** **How to find out more**
+
+4.1You can contact the CRAs currently operating in the UK. We use Experian, which can be contacted at:
+
+Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to _www.experian.co.uk_. 
+
+4.2Please contact us using the details shown at the end of this Privacy Policy if you want to receive details of the relevant FPAs or if you have any questions about anything in this section. 
+
+**Your rights**
+
+You have a right to access the personal information that we hold about you. If you would like to make a request to access your information, please email or write to us at the addresses below. We may ask you for identification and we may charge a small fee (up to £10) before we give you access. 
+
+You have a right to correct any inaccurate or out-of-date information at no extra charge. Please write to us at the address below as soon as you become aware that the information we hold about you is inaccurate or out-of-date. 
+
+You have a right to ask us not to use your information for marketing purposes and to ask us to stop sending you marketing communications. We will only send you such communications if you consent to receiving them on your application form. 
+
+If you wish to stop receiving marketing communications at any time, please email us or write to us at the addresses below and we will stop sending you marketing communications as soon as we can. 
+
+You can also ask to receive a hard copy of this Privacy Policy at any time by writing to us at the address below or requesting a copy in any of our stores.
+
+ **Changes to this Privacy Policy**
+
+From time to time the way in which we use your information may change. If this happens, we will update this Privacy Policy. Where the changes are likely to affect you we will notify you of the changes. This document was last updated on 3rd August 2014. 
+
+**How to contact us**
+
+If you have any questions about this Privacy Policy or any information we hold about you, or if you wish to exercise any of your rights described above, please contact us:
+
+By email: [riskhelp@axcesseurope.com](mailto:riskhelp@axcesseurope.com)
+
+By post: The Data Protection Officer, Cash Generator Limited, Ratho Park, Station Road, Newbridge, Edinburgh EH28 8QQ
+
+By telephone: 0131 442 7000
+
+At your nearest Cash Generator store: [link to store locator]
