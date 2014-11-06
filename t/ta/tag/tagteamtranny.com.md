@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagteamtranny.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209052024id_/http%3A//www.tagteamtranny.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagteamtranny.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106075629id_/http%3A//tagteamtranny.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
