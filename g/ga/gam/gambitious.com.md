@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gambitious.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215093056id_/https%3A//gambitious.com/pages/gambitious_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gambitious.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106091706id_/https%3A//gambitious.com/pages/gambitious_privacy_policy) for the most accurate reproduction.*
 
 # Gambitious Privacy Policy - Gambitious
 
