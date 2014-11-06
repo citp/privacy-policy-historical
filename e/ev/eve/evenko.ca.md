@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evenko.ca privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602085408id_/http%3A//www.evenko.ca/en/show/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evenko.ca privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106220354id_/http%3A//www.evenko.ca/en/show/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | evenko
 
@@ -100,7 +100,7 @@ Finally, evenko may transfer your email address to Facebook, but only for the pu
 
 **Removal from Mailing List and Deletion of Personal Information**
 
-You may unsubscribe from evenko’s mailing list at any time, by following the link at the bottom of all evenko emails. Note that unsubscribing from the mailing list in this manner may not necessarily delete all your Personal Information from evenko databases. If you wish to ensure that all Personal Information is removed from our databases, please [contact us](http://www.evenko.ca/en/show/contact_us). 
+You may unsubscribe from evenko’s mailing list at any time, by following the link at the bottom of all evenko emails or by visiting our **[Unsubscribe Page](http://evenko.us3.list-manage.com/unsubscribe?u=bc6b4b00ca21a02c0dd9820a0&id=380cc078f5)**. Note that unsubscribing from the mailing list in this manner may not necessarily delete all your Personal Information from evenko databases. If you wish to ensure that all Personal Information is removed from our databases, please [contact us](http://www.evenko.ca/en/show/contact_us). 
 
   
 
