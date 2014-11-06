@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulbrightonline.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213133647id_/http%3A//www.iie.org/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulbrightonline.org privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106224948id_/http%3A//www.iie.org/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Institute of International Education
 
