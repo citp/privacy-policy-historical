@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325105514id_/http%3A//spanning.com/data-protection-security/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106152754id_/http%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Spanning
+# Privacy Statement | Spanning Cloud Apps, Inc.
 
 Spanning Cloud Apps, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@spanning.com](mailto:privacy@spanning.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
@@ -90,9 +90,13 @@ As per our Master Subscription Agreements, if you delete Spanning Backup from yo
 
 Upon the effective date of termination, We shall have no obligation to maintain or provide any of Your Data and shall thereafter, unless legally prohibited, delete all of Your Data in Our systems or otherwise in Our possession or under Our control.
 
-[View Spanning Backup for Google Apps Master Subscription Agreement >](http://spanning_static.s3.amazonaws.com/master-subscription-agreement.pdf)
+[View Spanning Backup for Google Apps Master Subscription Agreement (MSA) >](http://spanning_static.s3.amazonaws.com/master-subscription-agreement.pdf)
 
-[View Spanning Backup for Salesforce Master Subscription Agreement >](http://spanning_static.s3.amazonaws.com/Spanning-Backup-for-Salesforce-MSA.pdf) 
+[​](https://s3.amazonaws.com/spanning_static/website/PDFs/SpanningBackupforSalesforceSLA.pdf)[View Spanning Backup for Google Apps Service Level Agreement (SLA) >](https://s3.amazonaws.com/spanning_static/website/PDFs/SpanningBackupforGoogleAppsSLA.pdf)
+
+[View Spanning Backup for Salesforce Master Subscription Agreement (MSA) >](http://spanning_static.s3.amazonaws.com/Spanning-Backup-for-Salesforce-MSA.pdf)[ ](https://s3.amazonaws.com/spanning_static/website/PDFs/SpanningBackupforSalesforceSLA.pdf)
+
+[​View Spanning Backup for Salesforce Service Level Agreement (SLA) >](https://s3.amazonaws.com/spanning_static/website/PDFs/SpanningBackupforSalesforceSLA.pdf)
 
 If you have any questions about this policy, please contact us at [support@spanning.com](mailto:support@spanning.com).
 
