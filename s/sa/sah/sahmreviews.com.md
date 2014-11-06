@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sahmreviews.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518101044id_/http%3A//www.sahmreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sahmreviews.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106220058id_/http%3A//www.sahmreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SahmReviews.com
+# Privacy Policy - SahmReviews.com
 
 ## What information do we collect?
 
