@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065031id_/http%3A//www.foreffectivegov.org/node/397) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106175235id_/http%3A//www.foreffectivegov.org/node/397) for the most accurate reproduction.*
 
 # Privacy Statement | Center for Effective Government
 
@@ -8,7 +8,7 @@ We respect your right to privacy! Any and all personally identifiable informatio
 
 The Center for Effective Government does not knowingly allow other organizations or services to track individual visitors to our Web site. Our site captures limited information about visits to our site, but we use this information only to analyze general traffic patterns (e.g. what pages are most/least popular) and to perform routine system maintenance. We may choose to have a voluntary registration system, including a guest book or other approaches to voluntarily providing personally identifiable information. If you choose to provide personally identifiable information, we will only use the information for purposes consistent with the mission of this organization. Information, including e-mail addresses, submitted through our web contact and feedback forms is handled by secure servers. [Online contributions to the Center for Effective Government](https://secure3.convio.net/ombw/site/Donation2?1340.donation=form1&df_id=1340) are transmitted using SSL encryption.
 
-The Center for Effective Governmentmaintains several e-mail lists, and individuals may always choose whether they want to be on a list or not. We do not sell, rent, or otherwise disclose the addresses on our lists without prior notification if for purposes not consistent with the mission of this organization. In addition, we configure our list server software to refuse to divulge the e-mail addresses of our list subscribers to anyone but authorized staff and list administrators.
+The Center for Effective Government maintains several e-mail lists, and individuals may always choose whether they want to be on a list or not. We do not sell, rent, or otherwise disclose the addresses on our lists. In addition, we configure our list server software to refuse to divulge the e-mail addresses of our list subscribers to anyone but authorized staff and list administrators.
 
 To protect your e-mail privacy, we configure our mail servers to refuse relays and use various anti-junk-mail services to block spammers from our lists.
 
