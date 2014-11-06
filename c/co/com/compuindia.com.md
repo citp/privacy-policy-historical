@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuindia.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508002001id_/http%3A//www.compuindia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuindia.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106104248id_/http%3A//www.compuindia.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ We use your personal information to:
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-  * When you click on “Click to pay”, you acknowledge that you have read and agree to be bound by Compuindia.com's Terms and Conditions and consent to sharing your personal information with its Affiliates and Partners in order to fulfill your order.
+  * When you click on “Click to pay”, you acknowledge that you have read and agree to be bound by Compuindia.com's Terms and Conditions and consent to sharing your personal information with its Partners, Partner’s preferred partners and third parties in order to fulfill your order.
 
 
 
@@ -73,7 +73,7 @@ We use your personal information to:
 
 We will not use your financial information for any purpose other than to complete a transaction with you.
 
-We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
+We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to Partners, Partner’s preferred partners and third  parties unless:
 
   * we have your permission
   * to provide products or services you've requested
