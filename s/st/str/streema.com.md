@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011109id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106104811id_/http%3A//streema.com/users/policy) for the most accurate reproduction.*
 
-# Privacy Policy - Streema - Free Online Radio Stations
+# Streema Radio - Privacy Policy
 
 Radio station streams and logos are the copyright of each respective radio station.
 
@@ -24,4 +24,4 @@ Except as noted below, Streema does not share your Personally Identifiable Infor
 
 We may update this Privacy Policy from time to time as our services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your account or by posting a notice of such changes on the Streema Site. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site
 
-If you have questions about this Statement or our policies, please contact us at [info@streema.com](mailto:%20info@streema.com)
+If you have questions about this Statement or our policies, please contact us at [info@streema.com](mailto:%20info@streema.com) or write to us at our US address for receiving written communications and notifications: Streema, Inc., 2255 Glades Road, Suite 324A, Boca Raton, FL 33431, Attention: Support. 
