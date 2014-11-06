@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allchic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070419id_/http%3A//allchic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allchic.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107003245id_/http%3A//allchic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllChic.comAllChic.com
+# Privacy Policy - All ChicAll Chic
 
 ### Privacy policy
 
