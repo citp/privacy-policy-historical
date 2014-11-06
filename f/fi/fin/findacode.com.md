@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507102050id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106104200id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
