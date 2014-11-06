@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617134629id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy/a_id/16378) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106061455id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy/a_id/16378) for the most accurate reproduction.*
 
-# NIKE, Inc. - Nike Digital Privacy Policy
+# NIKE, Inc. - Nike Privacy Policy
 
 _Effective January 1, 2014_
 
@@ -168,7 +168,7 @@ We may use your information to do the following:
 >   
 > 
 > 
-> ### COMMUNICATION/UNSUBSCRIBE/OPT-OUT
+> ### COMMUNICATION / UNSUBSCRIBE / OPT-OUT
 > 
 > Regardless of the settings you select, Nike may send you service-related communications. To unsubscribe and stop receiving messages, please change your settings or follow the instructions in the email, text message, notification or other message type. If you have unsubscribed from any Nike communications, due to production schedules, you may receive communications already in production.
 > 
