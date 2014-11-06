@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobinpk.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508031412id_/http%3A//www.jobinpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinpk.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100853id_/http%3A//www.jobinpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newspaper Job ads, Jobs in Pakistan, Bank Jobs, Sindh Punjab Jobs Karachi
 
