@@ -1,43 +1,57 @@
-> *The following text is extracted and transformed from the cityweekly.net privacy policy that was archived on 2009-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090124143009id_/http%3A//cityweekly.net/index.cfm%3Fdo%3Dhome.legal%26nav%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityweekly.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100832id_/http%3A//www.cityweekly.net/utah/PrivacyPolicyTermsofUse/Page) for the most accurate reproduction.*
 
-# Salt Lake City Weekly - Salt Lake City's Independent Guide To News, Arts & Entertainment
+# Privacy Policy / Terms of Use | Salt Lake City Weekly
 
-## Copyrights
+**Privacy Statement:**
 
-_Salt Lake City Weekly_ , [www.slweekly.com](http://www.slweekly.com/) and [www.avenews.com](http://www.avenews.com/) © 1996-2002 Copperfield Publishing, Inc., all rights reserved. 
+The purpose of this policy is to document the rights and confidentiality afforded to all the visitors to the City Weekly web site (www.cityweekly.net). City Weekly follows the procedures set forth below to safeguard your privacy on-line. Please read the following policy to understand how we handle your personal information. This policy may change from time to time, so please check back periodically.
 
-## Refund Policy: Classified Ads
+**Receipt of E-Newsletter**
 
-City Weekly reserves the right to categorize, edit and refuse classified ads. Errors in clasified ads must be reported to City Weekly Classifed Department by Monday, 5:00 p.m. of the week prior to publicaton. City Weekly does not issue refunds for classified advertising and we will not be responsible for errors or failure to run an ad except to the extent of the cost of the first insertion of the ad. 
+As a registered user of the City Weekly web site, you will receive CW E-Newsletter. CW E-Newsletter is a weekly newsletter from City Weekly highlighting new weekly content. If you prefer to not receive this weekly update, just click [unsubscibeLink] to opt out at any time and you will not receive this update again.
 
-## Privacy Policy: Personally Identifiable Information 
+**When do we ask for personal information?**
 
-We do track how our visitors use this site so that we can see what people like and don’t like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Copperfield Publishing, Inc. unless we have your consent, we are under a legal order to do so, or there is an emergency involving personal danger. This means that we will not provide our advertisers or anyone else outside Copperfield Publishing, Inc. with any information specific to you unless we have your consent. The only Copperfield Publishing, Inc. employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
+An anonymous visitor to our site remains anonymous. We do not attempt to identify visitors if they do not voluntarily register on our site.
 
-## Privacy Policy: Cookies 
+**How personal information is collected and distributed**
 
-Cookies are small text files that allow Web sites to store and retrieve information about you from your computer system. Copperfield Publishing, Inc. does serve cookies to track individual site usage for later aggregation, and also to manage browser compatibility. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Copperfield Publishing, Inc. cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their web site. 
+For some areas of our website, we may collect personal information from you. In these cases, we intend to inform you in advance and grant you the option not to continue. The City Weekly web site collects no personally identifiable information unless provided explicitly by the user. If you choose not to provide the requested information, you still can access most of the City Weekly website; however, you may be unable to access certain options, such as use of the message board, comments, classifieds, Best of Utah voting, etc.
 
-## Your Letters to the Editor Contributions 
+City Weekly manages and catalogs all its information gathered off the website with care. All information collected at this site is kept strictly confidential and is not intended to be shared, commercially sold, rented, loaned, or otherwise disclosed to persons other than City Weekly representatives.
 
-Letters to the Editor should be sent to [comments@slweekly.com](mailto:comments@slweekly.com). As with our print editions, we insist that you supply your real name and a daytime telephone number or e-mail address when writing a letter for publication. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. 
+**Use of Cookies:**
 
-## Privacy Policy: Children 
+Some of our web pages incorporate the use of cookies. A cookie is a small amount of data that travels to your browser from a web server and is stored on your computer's hard drive.
 
-Copperfield Publishing, Inc. does not orient this site toward children or target them as an audience, nor does it screen them from using the site. Some of the material on this site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. Copperfield Publishing, Inc. does not collect or distribute information indicating whether a user is a child. 
+City Weekly uses cookies for storing user IDs for specific web pages. We provide a cookie for your convenience to enable an enhanced experience on our site. If you choose to disable cookies in your browser, you still have access to all of our web pages; however, you may be forced to re-register every time you visit certain areas of our site that require such an action. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-## Privacy Policy: Links to Other Sites 
+**Privacy of our email lists**
 
-This site provides links and pointers to Web sites maintained by other organizations. Copperfield Publishing, Inc. provides these links as a convenience to users, but it does not operate, control or endorse such sites. Copperfield Publishing, Inc. also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. Copperfield Publishing, Inc. does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. 
+For various reasons, we may ask that you supply us with an email address in order to participate in certain features on our web site. City Weekly does not sell, rent, loan, trade, or lease any of the addresses on our list to anyone outside of City Weekly. 
 
-## Privacy Policy: Policy Changes 
+City **Weekly Classifieds and Message Board Guidelines:**
 
-This privacy policy is effective as of January 1, 2001. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will post any changes to this policy as soon as they go into effect. 
+City Weekly reserves the right to remove any classified ad or message board listing without notice, warning or refund. 
 
-## Privacy Policy: More Questions? 
+City Weekly does not control the content of the classifieds ads or message board listing, nor does it guarantee the accuracy or quality of the content. Users of this system understand that by browsing City Weekly Classifieds, that you will be reading content that could be objectionable to you. Under no circumstances will City Weekly be liable in any way for any classified ad or message board listing, including, but not limited to: any errors or omissions in any ad, any loss or damage of any kind incurred as a result of the use of any content posted in the City Weekly Classifieds.
 
-If you have any questions about this privacy policy, e-mail them to [privacy_policy@slweekly.com](mailto:privacy_policy@slweekly.com), and be sure to indicate the specific site you’re visiting and the nature of your question or concern. 
+**Use of this site indicates that you agree to the following:**
 
-## Site Design and Programming 
+• To never sell anything illegal. 
 
-The Avenews publishing system, _Salt Lake City Weekly_ , [slweekly.com](http://www.slweekly.com/www.slweekly.com), avenews.com and all contents, code, and rights are the exclusive property of Copperfield Publshing, Inc. and of Avenews LLC. 
+• Fully and accurately describe your service or sale item. 
+
+• You are entirely responsible and liable for any content you post or any content that is posted through your account. 
+
+• You will follow these terms and guidelines. 
+
+• City Weekly reserves the right to modify or discontinue any and all parts of the site, all without notice even though such changes may change the way you use the site. You agree that the City Weekly shall not be liable to you or to any third party for any modification, suspension or discontinuance of the classified listing and display system. 
+
+**Responses to legal process**
+
+Notwithstanding the foregoing, if City Weekly receives due legal process, City Weekly may disclose information provided to us through our web site. 
+
+**Questions:**
+
+City Weekly welcomes comments and questions on this policy. We are dedicated to protecting your personal information. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. If you have any comments or questions regarding our privacy policy, please contact us at [webmaster@cityweekly.net](mailto:webmaster@cityweekly.net). 
