@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-ringtones.cc privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906071929id_/http%3A//www.free-ringtones.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ringtones.cc privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106201359id_/http%3A//free-ringtones.cc/privacy.php) for the most accurate reproduction.*
 
 # Free iPhone Ringtones
 
@@ -6,7 +6,7 @@
 
 Welcome to free-ringtones.cc  
 BY USING OR ACCESSING THE SITE OR ANY OF THE SERVICES, YOU ARE ACCEPTING THIS PRIVACY POLICY. IF ANYTHING HERE OFFENDS YOU OR YOU DO NOT WISH TO BE BOUND BY IT, PLEASE DO NOT ACCESS OR USE THE SITE OR ANY OF ITS SERVICES.  
-This Privacy Policy should be read together and in conjunction with our binding [Terms of Use ](https://web.archive.org/web/20130906071929id_/http%3A//www.free-ringtones.cc/terms.php)("Terms").   
+This Privacy Policy should be read together and in conjunction with our binding [Terms of Use ](https://web.archive.org/web/20141106201359id_/http%3A//free-ringtones.cc/terms.php)("Terms").   
 Any term defined in the Terms shall have the same meaning under this Policy.
 
 First and foremost you should know that anything and everything you post, upload, send to anyone or publish within the Site and its services is never private, can and will be accessible for others for a long period of time and also may be posted by the Site, anywhere on the Site. Therefore, please DO NOT POST ANYTHING YOU WISH TO REMAIN CONFIDENTIAL OR IN BREACH OF ANYONE'S RIGHT. 
@@ -81,6 +81,6 @@ It is your responsibility to review this Policy for changes and make sure you ag
 
 #### Contacting Us:
 
-If you have questions or concerns regarding this Privacy Policy, you are invited to contact us by using the "[Contact Us](https://web.archive.org/web/20130906071929id_/http%3A//www.free-ringtones.cc/contactus.php)" links or by emailing us to 
+If you have questions or concerns regarding this Privacy Policy, you are invited to contact us by using the "[Contact Us](https://web.archive.org/web/20141106201359id_/http%3A//free-ringtones.cc/contactus.php)" links or by emailing us to 
 
 _[freeringtonescc@gmail.com](mailto:freeringtonescc@gmail.com)_
