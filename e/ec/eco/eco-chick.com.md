@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eco-chick.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625042653id_/http%3A//eco-chick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eco-chick.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106195155id_/http%3A//eco-chick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Eco-Chick
+# Privacy Policy - Eco-Chick
 
 This privacy notice discloses the privacy practices for eco-chick.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
