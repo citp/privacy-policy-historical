@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the magnetporn.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605071341id_/http%3A//www.magnetporn.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetporn.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106104653id_/http%3A//www.magnetporn.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.magnetporn.com](http://www.magnetporn.com/)  
-Effective Date: June 05, 2014  
+Effective Date: November 06, 2014  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.magnetporn.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
