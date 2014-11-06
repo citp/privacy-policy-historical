@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombstonetactical.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429162049id_/http%3A//www.tombstonetactical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombstonetactical.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106015100id_/http%3A//www.tombstonetactical.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
