@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filepurpose.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100404id_/http%3A//filepurpose.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepurpose.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106174852id_/http%3A//filepurpose.com/privacy.html) for the most accurate reproduction.*
 
 # FilePurpose - Free file hosting & cloud storage - fast & secure, userfriendly & reliable.
 
@@ -49,4 +49,4 @@ If any part of the FilePurpose.com website links you to other websites, those we
 
 #### Contact information
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20140625100404id_/http%3A//filepurpose.com/contact.html).
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20141106174852id_/http%3A//filepurpose.com/contact.html).
