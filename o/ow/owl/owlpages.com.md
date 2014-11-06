@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506020818id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106104123id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
