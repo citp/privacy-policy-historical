@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021021id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-library.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106082820id_/http%3A//www.resume-library.com/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Privacy Policy | Resume-Library.com
 
@@ -28,7 +28,7 @@ Resume-Library will also use the aggregate data to identify employment trends ac
 
 ### Information collection and use
 
-Like many websites, we routinely capture your IP address information to determine your location. This helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the specific country your are wishing to work in, should you wish to apply for a job on Resume-Library. Resume-Library automatically receives and records information on our web server logs from your browser including your IP address. Resume-Library records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
+Like many websites, we routinely capture your IP address information to determine your location. This helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the specific country you are wishing to work in, should you wish to apply for a job on Resume-Library. Resume-Library automatically receives and records information on our web server logs from your browser including your IP address. Resume-Library records IP addresses for anonymous statistical purposes, administration of our website and servers, and to improve our services.
 
 An IP address, or 'internet protocol address', is a unique identifying number given to every device connected to the internet. Like a car license plate, an IP address is a special serial number used for identification.
 
