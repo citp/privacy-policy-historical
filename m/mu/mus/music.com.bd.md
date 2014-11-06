@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the music.com.bd privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175238id_/http%3A//www.music.com.bd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music.com.bd privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106225711id_/http%3A//www.music.com.bd/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# » Privacy Policy
 
 **What information do we collect?**
 
