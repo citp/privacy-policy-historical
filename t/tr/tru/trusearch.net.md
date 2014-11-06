@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusearch.net privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125194950id_/http%3A//trusearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusearch.net privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106140306id_/http%3A//trusearch.com/privacy.htm) for the most accurate reproduction.*
 
 # TruSearch - GEO Targeted Advertising
 
