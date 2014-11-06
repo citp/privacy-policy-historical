@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluestone.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622075727id_/http%3A//www.bluestone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluestone.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106220527id_/http%3A//www.bluestone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BlueStone.com
 
