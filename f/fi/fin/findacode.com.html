@@ -1,18 +1,27 @@
-<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2014-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140507102050id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2014-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141106104200id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
 
-<!--<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4BVVZSGwACU1BbAwc="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>-->
-<meta name="description" content="Privacy Policy for FindACode.com - Internet Database Development."><meta name="keywords" content="website privacy policy, bizinfosys.com"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />-->
+<meta name="description" content="Privacy Policy for FindACode.com - Internet Database Development."><meta name="keywords" content="website privacy policy, bizinfosys.com"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4BVVZSGwACU1BbAwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta http-equiv="rating" content="general">
 <meta http-equiv="robots" content="Index, All, Follow">
 <meta name="Distribution" content="Global">
-<meta property="og:image" content="http://www.findacode.com/fac-profile-logo.jpg">
-<meta property="og:title" content="Privacy Policy"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+
+<meta property="og:image" content="http://www.findacode.com/fac-logo-icon.png">
+<meta property="og:image:secure_url" content="https://www.findacode.com/fac-logo-icon.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="892">
+<meta property="og:image:height" content="862">
+
+<meta property="og:title" content="Privacy Policy"><meta property="og:description" content="Privacy Policy for FindACode.com - Internet Database Development.">
+<meta name="p:domain_verify" content="bf4066f05787e72a934be82868cab854">
+
+<script type="text/javascript">
 var iframed = parent.frames.length >= 1;
 if (iframed != false) {
   document.cookie='iframed='+iframed+';';
@@ -23,37 +32,34 @@ if (iframed != false) {
 <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
 
 <!-- Our styles and javascript -->
-<link type="text/css" href="/static/v1a/css/global.css" rel="stylesheet">
-<link type="text/css" href="/static/v1a/css/global-new2.css" rel="stylesheet">
+<link type="text/css" href="/static/v1a/css/global.css?20140905.02" rel="stylesheet">
+<link type="text/css" href="/static/v1a/css/global-new2.css?20140905" rel="stylesheet">
 <script type="text/javascript" src="/static/js/get_page.js"></script>
 <script type="text/javascript" src="/static/js/cookie_func.js"></script>
 <link type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:600,400,300" rel="stylesheet">
 
 <!-- jQuery -->
 <link type="text/css" href="/static/v1a/jquery/jquery-ui-1.10.4.custom.min.css" rel="stylesheet">	
-<script type="text/javascript" src="/static/v1a/jquery/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/static/v1a/jquery/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/static/v1a/jquery/jquery-ui-1.9.2.custom.min.js"></script>
-<!-- updated 1/1/2014 script type="text/javascript" src="/static/v1a/jquery/jquery-1.4.2.min.js"></script -->
-<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script> -->
-<!-- Test if jqueryui issue for ie6? <script type="text/javascript" src="/static/v1a/jquery/jquery-ui-1.8.5.custom.min.js"></script> -->
 <script type="text/javascript" src="/static/v1a/jquery/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script> 
 <script type="text/javascript" src="/static/jquery/jquery-ui-findacode-autocomplete.js"></script>
 
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body><a name="top"></a>
 
+
 <div class="header">
   <div class="header_body">
-  
     <div class="header_body_left">
       <a href="/" title="Medical Billing Codes"><img src="/static/v1a/images/Find-A-Code-Logo-2014-white-40.png" style="margin:10px 5px 0px 10px;height:40px;width:291px;border:0px;border:none;" alt="Medical Billing and Coding"></a>
           <div style="margin-left:10px;">
         <ul class="menu">
           <li class="mega" style="width:70px;text-align:center;">
             <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="ICD 10 Codes, CPT Codes, HCPCS Codes, ICD-9 Codes">Home</a>
-            <div class="menu_pop" style="width:200px;background: white url('/static/v1a/images/white-gradient.jpg') repeat-x !important;text-align:left;">
+            <div class="menu_pop" style="width:200px;text-align:left;">
               <a href="/" title="ICD 10 Codes, CPT Codes, HCPCS Codes, ICD-9 Codes">Home</a>
               <a href="/aboutus/faq.html" title="Find-A-Code FAQs">Frequently Asked Questions</a>
               <a href="/news/index.html">News</a>
@@ -63,7 +69,7 @@ if (iframed != false) {
           </li>
           <li class="mega" style="width:70px;text-align:center;">
             <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="Medical Billing Code Sets">Codes</a>
-            <div class="menu_pop" style="text-align:left;width:275px;background: #eeeeee url('/static/v1a/images/white-gradient.jpg') repeat-x !important;">
+            <div class="menu_pop" style="text-align:left;width:275px;">
     <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-stethescope22"></span>&nbsp;Diagnosis (Dx)&nbsp;
 </div>
@@ -71,7 +77,7 @@ if (iframed != false) {
   ICD-9-CM <small>- Volumes 1 &amp; 2</small>
 </a>
 <a href="/icd-10-cm/icd-10-cm-diagnosis-codes-set.html" class="page_box_link" title="ICD-10-CM Diagnosis Codes">
-  ICD-10-CM <small>- 2014 Code Set</small> <span class="new_item">NEW!</span>
+  ICD-10-CM <small>- 2015 Code Set</small>
 </a>
 <a href="/drg/drg-diagnosis-related-group-codes.html" class="page_box_link" title="DRG - Diagnosis Related Groups">
   DRG <small>- Diagnosis Related Groups</small>
@@ -93,7 +99,7 @@ if (iframed != false) {
   CDT<small><sup>®</sup></small> Codes <small>- Dental "D" Codes</small>
 </a>
 <a href="/icd-10-pcs/icd-10-pcs-procedure-codes-set.html" class="page_box_link" title="ICD-10-PCS Procedure Codes">
-  ICD-10-PCS <small>- 2014 Code Set</small> <span class="new_item">NEW!</span>
+  ICD-10-PCS <small>- 2015 Code Set</small>
 </a>
 <a href="/apc/apc-ambulatory-payment-classification-codes.html" class="page_box_link" title="APC - Ambulatory Patient Classifications">
   APC <small>- Ambulatory Payment Classifications</small>
@@ -119,7 +125,7 @@ if (iframed != false) {
 <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="page_box_link" title="UB04/CMS1450 Claim Form">
   UB04/CMS1450 - <small>Form, Codes, &amp; Info</small>
 </a>
-<a href="http://www.instacode.com/hipaa-compliance3?category_id=56" class="page_box_link" target="_blank" title="HIPAA Forms">HIPAA Forms - <small>45 New Forms!</small>
+<a href="https://instacode.com/store/complete-easy-hipaa-compliance" class="page_box_link" target="_blank" title="HIPAA Forms">HIPAA Forms - <small>45 New Forms!</small>
 </a>
 <a href="/medicare/forms/abn.html" class="page_box_link" title="Medicare Advance Beneficiary Notification of Noncoverage Form">
   ABN - <small>Advance Beneficiary Notification</small>
@@ -133,7 +139,7 @@ if (iframed != false) {
           </li>
           <li class="mega" style="width:70px;text-align:center;">
             <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="Medical Billing Coding Information">Info</a>
-            <div class="menu_pop" style="text-align:left;width:275px;background: #eeeeee url('/static/v1a/images/white-gradient.jpg') repeat-x !important;">
+            <div class="menu_pop" style="text-align:left;width:275px;">
     <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-khelpcenter"></span>&nbsp; Helps &amp; Guides&nbsp;
 </div>
@@ -213,7 +219,7 @@ if (iframed != false) {
           </li>
           <li class="mega" style="width:70px;text-align:center;">
             <a href="#" onclick="$(this).parent().addClass('hovering');return false;" title="Medical Billing Coding Tools">Tools</a>
-            <div class="menu_pop" style="text-align:left;width:285px;background: #eeeeee url('/static/v1a/images/white-gradient.jpg') repeat-x !important;">
+            <div class="menu_pop" style="text-align:left;width:285px;">
     
 <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-viewmag"></span>&nbsp;Search&nbsp;
@@ -264,7 +270,7 @@ if (iframed != false) {
   Code-A-Note™ <small>- Suggestion Engine</small> <span class="new_item">NEW!</span>
 </a>
 <a href="/tools/drg-grouper/" class="page_box_link" title="MS-DRG Grouper">
-  DRG-Grouper <small>- Suggestion Engine</small> <span class="new_item">NEW!</span>
+  DRG-Grouper <small>- Fast &amp; Easy</small>
 </a>
 <a href="/scrubber/scrubber.php" class="page_box_link" title="Scrub-A-Claim™ Professional Grade Claim Scrubber">
   Scrub-A-Claim™ <small>- Claim Scrubber</small>
@@ -303,7 +309,7 @@ if (iframed != false) {
                 <!-- BEGIN PHP Live! code, (c) OSI Codes Inc. --><span id="phplive_btn_1393003614" onclick="phplive_launch_chat_1(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"><script type="text/javascript" async="" src="//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?v=1|1393003614|0|"></script></span><script type="text/javascript">(function() {var phplive_e_1393003614 = document.createElement("script") ;phplive_e_1393003614.type = "text/javascript" ;phplive_e_1393003614.async = true ;phplive_e_1393003614.src = "//t1.phplivesupport.com/facchat/js/phplive_v2.js.php?v=1|1393003614|0|" ;document.getElementById("phplive_btn_1393003614").appendChild( phplive_e_1393003614 ) ;})() ;
 </script><!-- END PHP Live! code, (c) OSI Codes Inc. -->
             </div>
-      <div style="text-align:right;width:530px;">
+      <div style="text-align:right;width:500px;">
         <form action="/search/search.php" method="post" name="search2" id="search2">
           <table align="right" style="border:none;">
             <tbody><tr>
@@ -313,7 +319,7 @@ if (iframed != false) {
 -->
               </td>
               <td>
-                <input name="str" type="text" id="str" class="autocomplete" value="" maxlength="255" style="width:220px;height:18px;font-size:10pt;background-color:white;border:0px solid #777;padding:1px 5px;margin-left:3px;border-radius:3px;" title="Enter a word or phrase.">
+                <input name="str" type="text" id="str" class="autocomplete" value="" maxlength="255" style="width:220px;height:18px;font-size:10pt;background-color:white;border:0px solid #777;padding:1px 5px;margin-left:3px;border-radius:3px;" title="Enter a word or phrase!">
               </td>
               <td>
                 <input type="submit" id="pagesearch" value="Search" class="purple_button" style="height:20px;font-size:10px;margin-right:15px;">
@@ -381,8 +387,9 @@ if (iframed != false) {
     </div>
 
  
-    <div id="header_signin" style="display:none;clear:both;text-align:center;height:155px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/white-gradient.jpg') !important; background-repeat: repeat-x;">
-      <div style="float:left;width:450px;border: 0px solid yellow;">
+    <div style="clear:both;"></div>
+    <div id="header_signin" style="display:none;clear:both;text-align:center;height:155px;padding-top:15px;padding-bottom:5px;width:900px;border:1px;border-radius:10px;background-color:white;margin:10px auto;">
+      <div style="float:left;width:410px;">
       <h2>Sign in to Find-A-Code</h2>
       <form action="https://www.findacode.com/aboutus/privacy-policy.html" method="post" style="margin:0px 0px 5px 0px;">
         <input type="hidden" name="signin" value="true">
@@ -392,18 +399,19 @@ if (iframed != false) {
           <tr><td class="tdr" style="vertical-align:middle;">Password:</td><td><input type="password" name="password" style="width:200px;">
 <span class="ui-widget-button ui-corner-all" onclick="$('#password_dialog').dialog('open');" style="vertical-align:text-bottom;"><span class="ui-icon ui-icon-help" title="Password help"></span></span>
 </td></tr>
-          <tr><td></td><td><input type="submit" value="Sign In" style="width:108px;font-size:15px;font-weight:bold;">&nbsp;&nbsp;<a style="display:inline;" href="/lost-password.html">Lost Password?</a></td></tr>
+          <tr><td></td><td><input type="submit" class="css_button" value="Sign In" style="width:108px;font-size:15px;font-weight:bold;">&nbsp;&nbsp;<a style="display:inline;" href="/lost-password.html">Lost Password?</a></td></tr>
         </tbody></table>
 	
       </form>
       </div>
-      <div style="float:right;margin:1px 3px 0px 0px;">
-        <a href="javascript:void(0);" onclick="signin_popclose();return false;">[ X ]</a>
+      <div style="float:right;margin:-15px 10px 0px 0px;">
+        <a href="javascript:void(0);" onclick="signin_popclose();return false;" style="font-weight:bold;font-size:24px;">×</a>
       </div>
-      <div style="float:right;width:350px;border:0px solid blue;margin-right:50px;">
+      <div style="float:right;width:400px;margin-right:50px;">
         <h2>Or</h2>
-        <button type="button" onclick="window.location='/account/subscribe.php';" style="margin-bottom:5px;font-size:15px;font-weight:bold;padding:3px 10px;"> Subscribe </button><br>
-        Subscribe to Find-A-Code starting from $4.95 per month.&nbsp; Purchase a year at a time or select an affordable monthly payment.
+        <button type="button" class="css_button" onclick="window.location='/account/subscribe.php';" style="font-size:15px;font-weight:bold;"> Subscribe </button>
+        <p style="text-align:center;">
+        Subscribe to Find-A-Code starting from $4.95 per month.<br>Purchase a year at a time or select an affordable monthly payment.</p>
       </div>
       <div style="clear:both;"></div>
     </div>
@@ -421,7 +429,7 @@ if (iframed != false) {
 &gt; <a href="/">Home</a> &gt; <a href="/aboutus/aboutus.html">About Us</a>       </div>
       
       <div id="body_date_picker">
-Viewing:&nbsp; May 7, 2014      
+Viewing:&nbsp; Nov 6, 2014      
       </div>
       
       <div id="body_code_lists" class="body_code_lists">
@@ -435,6 +443,7 @@ Viewing:&nbsp; May 7, 2014
   To use FindACode.com, you will need to either change your Javascript settings or use a different web browser.
   <p>
 </noscript> 
+
 
 
 <h1>FindACode.com Privacy Policy</h1>
@@ -516,10 +525,10 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
 <br><br>
 
 
-<div style="border:1px solid #653F90;border-radius:6px;background-color:#eee;padding:25px;text-align:center;margin-top:50px;margin-bottom:40px;vertical-align:middle;">
-  <a href="/account/trial-setup.php" class="footer_button" style="margin-right:30px;">FREE TRIAL</a>
-  <a href="/account/subscribe.php" class="footer_button" style="margin-right:30px;">SUBSCRIBE</a>
-  <a href="/signin.html" class="footer_button">SIGN IN</a>
+<div style="border:0px solid #653F90;border-radius:6px;background-color:white;padding:25px;text-align:center;margin-top:50px;margin-bottom:40px;vertical-align:middle;">
+  <a href="/account/trial-setup.php" class="footer_button" style="margin-right:55px;">Free 28 Day Trial<br><div style="margin-top:3px;font-size:14px;">No Credit Card Required</div></a>
+  <a href="/account/subscribe.php" class="footer_button" style="margin-right:55px;">Pricing<br><div style="margin-top:3px;font-size:14px;">Starting at $<big><b>4.</b></big><small>95</small>/month</div></a>
+  <a href="/signin.html" class="footer_button">Sign In<br><div style="margin-top:3px;font-size:14px;">Welcome back!</div></a>
 </div>
 
 
@@ -555,21 +564,29 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
     </div>
 
     </td><td>
-    
     <div id="footer_sitelinks">
-      <a href="/icd-10-cm/icd-10-cm-diagnosis-codes.html" title="ICD-10-CM Diagnosis Codes">ICD 10 Codes</a><br>
+      <a href="/icd-10-cm/icd-10-cm-diagnosis-codes-set.html" title="ICD-10-CM Diagnosis Codes">ICD-10-CM Codes</a><br>
       <a href="/medical-code-sets/icd-9-to-icd-10-crosswalk.html" title="ICD-9 to ICD-10 Crosswalks">ICD-9 to ICD-10 Crosswalk</a><br>
-      <a href="/cpt/cpt-code-set.html" title="CPT Codes Set">CPT Codes</a><br>
+      <a href="/cpt/cpt-procedure-codes.html" title="CPT Codes Set">CPT Codes</a><br>
       <a href="/cpt/cpt-code-modifiers.html" title="CPT Code Modifiers">CPT Code Modifiers</a><br>
-      <a href="/hcpcs/hcpcs-supply-codes.html" title="HCPCS Medical Supply Codes">HCPCS Codes</a><br>
+      <a href="/hcpcs/hcpcs-supply-dme-codes.html" title="HCPCS Medical Supply Codes">HCPCS Codes</a><br>
       <a href="/hcpcs/hcpcs-code-modifiers.html" title="HCPCS Medical Supply Code Modifiers">HCPCS Level II Code Modifiers</a><br>
-      <a href="/icd-10-pcs/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a><br>
-      <a href="/ndc/ndc-national-drug-codes.html" title="NDC National Drug Codes">NDC National Drug Codes</a><br>
-      <a href="/icd-9/icd9-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD 9 Codes - Vol. I</a><br>
-      <a href="/icd-9/icd-9-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a><br>
-      <a href="/abc/abc-code-set.html" title="ABC Code Set">ABC Codes Code Set</a><br>
+      <a href="/icd-10-pcs/icd-10-pcs-procedure-codes-set.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a><br>
+      <a href="/ndc/ndc-national-drug-codes.html" title="NDC National Drug Codes">NDC National Drug Codes</a><br>      
+      <a href="/icd-9/icd-9-cm-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD 9 Codes - Vol. I</a><br>
+      <a href="/icd-9/icd-9-v3-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a><br>
+      <a href="/abc/abc-codes.html" title="ABC Code Set">ABC Codes Code Set</a><br>
       <a href="/pqri" title="Physicians Quality Reporting System PQRS">PQRS Physicians Quality Reporting System</a><br>
       <a href="/medicare/medicare-info.html">Medicare Guidelines</a><br>
+<noscript>
+<!-- old page links -->
+      <a href="/icd-10-cm/icd-10-cm-diagnosis-codes.html" title="ICD-10-CM Diagnosis Codes">ICD 10 Codes</a><br />
+      <a href="/hcpcs/hcpcs-supply-codes.html" title="HCPCS Medical Supply Codes">HCPCS Codes</a><br />
+      <a href="/icd-10-pcs/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a><br />
+      <a href="/icd-9/icd9-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD 9 Codes - Vol. I</a><br />
+      <a href="/icd-9/icd-9-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a><br />
+      <a href="/abc/abc-code-set.html" title="ABC Code Set">ABC Codes Code Set</a><br />
+</noscript>
     </div>
 
     </td><td>
@@ -622,13 +639,24 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
     </td></tr>
 
     <tr><td colspan="3">
-      <div style="margin:0px 0px 0px 10px;">
+
+      <div>
+        <a href="https://www.facebook.com/pages/Find-A-Code/124360824247208" style="margin-right:5px;" target="_blank"><img src="/images/facebook.jpg"></a>
+        <a href="https://plus.google.com/116647763694742587002" rel="publisher" style="margin-right:5px;" target="_blank"><img src="/images/google.png"></a>
+        <a href="https://twitter.com/findacode" style="margin-right:5px;" target="_blank"><img src="/images/twitter.jpg"></a>
+        <a href="https://www.youtube.com/user/FindACode/" style="margin-right:5px;" target="_blank"><img src="/images/youtube.jpg"></a>
+        <a href="https://www.linkedin.com/company/find-a-code" style="margin-right:5px;" target="_blank"><img src="/images/linkedin.jpg"></a>
+        <a href="http://www.pinterest.com/Find_A_Code/" style="margin-right:5px;" target="_blank"><img src="/images/pinterest.png"></a>
+      </div>
+
+      <div style="margin:0px 0px 0px 10px;max-width:800px;">
         <p><b onclick="document.getElementById('footer_text').style.display='block';" style="cursor:pointer;">Privacy Policy</b></p>
         <div id="footer_text">
   <p><i><small>Summary:</small></i>&nbsp;&nbsp;Privacy Policy for FindACode.com - Internet Database Development.</p><p><i><small>Keywords:</small></i>&nbsp;&nbsp;website privacy policy, bizinfosys.com</p>        </div>
       </div>
-
+      
       <div style="margin:-4px 0px 10px 10px;">
+
         <div style="margin-bottom:3px;">Find A Code, LLC - 62 East 300 North, Spanish Fork, UT 84660 - Phone 801-770-4203 (9-5 Mountain) - Fax (801) 770-4428</div>
         <a href="/aboutus/copyright.html">Copyright</a> © 2000-2014 Find A Code, LLC - All Rights Reserved - CPT<sup><small>®</small></sup> copyright 2013 American Medical Association - All Rights Reserved
       </div>
@@ -796,7 +824,7 @@ $(document).ready(function() {
   }
 
   //Date setter (quarter picker)
-  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2014-06-30'});
+  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2014-12-31'});
   $('#quarter_date_picker').dialog({
     autoOpen:false,
     modal:true,
@@ -825,15 +853,14 @@ $(document).ready(function() {
     return false;
   });
   
-  
-  $('a:contains(Sign In)').click(function(){return signin_popopen();});
-  $('a:contains(SIGN IN)').click(function(){return signin_popopen();});
-  
+  $('body').on('click', 'a:contains(Sign In)', function(){return signin_popopen();});  
+  $('body').on('click', 'a:contains(SIGN IN)', function(){return signin_popopen();});  
+    
   $('#password_dialog').dialog({'modal':true,'autoOpen':false});
 });
 
 function signin_popopen(no_animate) {
-    header_height = '225px'; body_top_padding = '225px';
+    header_height = '280px'; body_top_padding = '280px';
   $('#header_signin').show();
   $('#main_signin').focus();
   if (no_animate) {
@@ -867,7 +894,28 @@ function signin_popclose(){
   })();
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"177dd90b32","applicationID":"3271946","transactionName":"NFMDZEBSChZRB01fWg0ZNEJbHAUHXxFNQ0ZMRhNZRFIHHB0UVlpcAE9PWEZeCA==","queueTime":0,"applicationTime":43,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+
+<script type="text/javascript">
+
+//ADROLL 
+adroll_adv_id = "CQJDWEV345EJ7P3MLKOZX3";
+adroll_pix_id = "ZFX3A7FMXJARPKT2GZ64XZ";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"177dd90b32","applicationID":"3271946","transactionName":"NFMDZEBSChZRB01fWg0ZNEJbHAUHXxFNQ0ZMRhNZRFIHHB0UVlpcAE9PWEZeCA==","queueTime":0,"applicationTime":28,"ttGuid":"","agentToken":"","atts":"GBQAEghIGRg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 <div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-dialog-buttons" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Contact Us</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="suggestions_dialog" style="" class="ui-dialog-content ui-widget-content">
     <div style="margin-top:7px;margin-bottom:5px;">
@@ -879,7 +927,7 @@ function signin_popclose(){
       <input type="hidden" name="FirstName" value="">
       <input type="hidden" name="LastName" value="Guest">
       <input type="hidden" name="Email" value="guest@findacode.com">
-      <input type="hidden" name="Date" value="Wednesday 7th of May 2014 04:22:03 AM">
+      <input type="hidden" name="Date" value="Thursday 6th of November 2014 03:38:55 AM">
       <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
       <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
       <input type="hidden" name="Cur_Uid" value="0">
@@ -890,4 +938,4 @@ function signin_popclose(){
   </div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Close</span></button><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Submit</span></button></div></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-2" style="display: none; outline: 0px; z-index: 1000; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">Password Help</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="password_dialog" style="" class="ui-dialog-content ui-widget-content">
           <p>Enter the email address and password you used when creating your account to sign in.</p>
           <p>Don't remember your password? <a href="/lost-password.html" style="white-space:nowrap;font-weight:bold;">Click here to reset it.</a></p>
-        </div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div></body></html>
+        </div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
