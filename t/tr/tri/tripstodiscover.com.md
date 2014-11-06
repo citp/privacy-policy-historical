@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tripstodiscover.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125015846id_/http%3A//tripstodiscover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripstodiscover.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100444id_/http%3A//www.tripstodiscover.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TripsToDiscover.com
+# Privacy Policy | Trips to Discover
+
+[Home](http://www.tripstodiscover.com/) Privacy Policy
 
 The privacy of our visitors to TripsToDiscover.com is important to us.
 
