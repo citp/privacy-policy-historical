@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewondrous.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052801id_/http%3A//thewondrous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewondrous.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106112009id_/http%3A//thewondrous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
