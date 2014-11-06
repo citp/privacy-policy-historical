@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiringboss.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071422id_/http%3A//hrboss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiringboss.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106115248id_/http%3A//hiringboss.hrboss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HRBoss
+# Privacy Policy | HiringBoss
 
 This notice sets forth our Privacy Policy. By agreeing to the Terms of Service required to use HRBoss Sites and Software Services, you are accepting the practices described in this Privacy Policy (the “Privacy Policy”). Capitalized terms used but not defined in the Privacy Policy have the meanings ascribed to them in the Terms of Service.
 
@@ -26,7 +26,7 @@ When you use our Services, we may automatically collect and store certain inform
 
 
 **Use of Information Collected**  
-We use the information we collect from all of our Services to provide, maintain, protect and improve them, to develop new ones, and to protect HRBoss, our Clients and our Users. Individuals we employ directly, or as Contractors or Agents at our direction, use Active Information for purposes of administering our business activities, providing Subscriber and Candidates Services such as support, and making available other products or services we think may be of interest to our users and to job candidates. We may use the Active Information or Passive Information the subscribers and candidates provide to us to contact you about changes to our Site and Service, new services, features or products we offer, or other information we think you might find valuable, as well as to provide or enhance features of our Site and Service. If at any time you do not wish to receive such information from us, please **[contact us](http://contact-us/)**.
+We use the information we collect from all of our Services to provide, maintain, protect and improve them, to develop new ones, and to protect HRBoss, our Clients and our Users. Individuals we employ directly, or as Contractors or Agents at our direction, use Active Information for purposes of administering our business activities, providing Subscriber and Candidates Services such as support, and making available other products or services we think may be of interest to our users and to job candidates. We may use the Active Information or Passive Information the subscribers and candidates provide to us to contact you about changes to our Site and Service, new services, features or products we offer, or other information we think you might find valuable, as well as to provide or enhance features of our Site and Service. If at any time you do not wish to receive such information from us, please  **[contact us](http://contact-us/)**.
 
 We also use Passive Information to gather information about our users and customers candidates to enhance and design our Site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our Site, when they visit and how they use our service. We do not connect any of this information to your or candidates personal information or email address.
 
@@ -46,12 +46,10 @@ We secure your Subscriber and Candidates Information by using commercially reaso
 You and Candidates may be able to access other websites through our Site and/or Service. When you or candidates do so you are thereby subject to those other sites policies regarding privacy and data collection and you should read those sites’ privacy policies to make sure you agree to them before using such sites. When you choose to visit such sites, you should read their privacy policies and terms of service to make sure you agree with them.
 
 **Opting Out/Correcting or Deleting Personal Information**  
-If you desire not to receive information about products or services we think may be of interest to you or if you or any of your candidates wish to delete or correct your information, please **[contact us](http://contact-us/)**.
+If you desire not to receive information about products or services we think may be of interest to you or if you or any of your candidates wish to delete or correct your information, please  **[contact us](http://contact-us/)**.
 
 **Enforcement**  
 We regularly review our compliance with our Privacy Policy. We also adhere to several self regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
 **Changes to Our Privacy Policy**  
 Our Privacy Policy and Terms of Service may change from time to time. HRBoss reserves the right, at its discretion, to modify this Privacy Policy at any time and you will be responsible for reviewing and becoming familiar with any such modifications. Your use of the Site and/or the Service following such modification constitutes Subscriber's acceptance of the terms and conditions of this Agreement as modified. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you candidates and your account. We stand behind the promises we make, and will never materially change our policies and practices to make them less protective of Subscriber and candidate information collected in the past without the consent of affected Subscribers and candidates.
-
-  HRBoss Pte Ltd _©_ _2013_
