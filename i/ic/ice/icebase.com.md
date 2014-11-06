@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icebase.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120127id_/http%3A//cooleremail.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebase.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106111150id_/http%3A//cooleremail.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Cooler Email Privacy Policy | Email Marketing Solutions
 
