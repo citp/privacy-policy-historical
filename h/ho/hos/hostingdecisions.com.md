@@ -1,100 +1,76 @@
-> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106100905id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - HostingDecisions
 
-**Go Daddy Respects Your Privacy**
+You are here: [Home](http://hostingdecisions.com/) ⇒ Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Wherein the privacy of data shared by the clients is of valuable concern in the Internet world, we hold a great significance for the privacy of our readers and visitors. The way the visitor’s data is used and managed by **[HostingDecisions](http://hostingdecisions.com/) **is mentioned in this document and these statements are applied to all the services associated with our site.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+ **Below here, we include:**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * Information asked to the visitors to provide
+  * Reason to gather information
+  * Use of provided information
+  * Data Security
+  * Choices provided for users
+  * Third Party Connections
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## What Kind of Data are Visitors Asked for?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We ask our clients for their information so that we can improve and enhance our quality of product and services.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Personal Data
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The readers are supposed to enter their personal information, like email address, while signing up into social network accounts or subscribing to our weekly email alerts and notifications. Note that this is optional; we don’t make it mandatory for each visitor to provide us their personal information. Some of our services require the link to your social network accounts such as Google+, Facebook, Twitter, etc. In that case, you will have to log in to your respective account and our access to those details will depend on your account’s privacy settings. However, we have complete access to the direct information that you enter.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Other Technical Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Some of the technical details are automatically collected when the visitors respond to the interactive activities on our site. We find it of great use to keep records about which services our customers use and what kind of choices they make on our activities. We may use cookies, which get stored on your hard drive through your web browser, when you visit our site. This is particularly done to record your browser information and keep track of your movement and selections on our site. Through server logs, we may store the details of your search queries, IP (Internet Protocol) Address, Operating System, type of browser used to access, etc. If you visit our site through your mobile, the technical details of the device will be collected. Our advertising networks may use cookie or beacon to gather and verify aggregated information about our readers.
 
-**Security**
+## Why We Collect Information?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The basic reason behind gathering visitor’s data is to overall enhance the site’s performance in every single aspect.
 
-**Updating Your Information**
+ **We use your information:**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  *  **To build up and provide new services:** When you move through different sections and categories of site, we record the information of your areas of interest. Based on that we get brief idea as to what maximum of our readers are keen to learn and what kind of more knowledge do they expect from our site. Hence, we can develop new services and opportunities for our visitors so that they can best be benefited with the conceptual details, offerings and suggestions we provide.
+  *  **To help you solve your queries:** When you contact us for any query or feedback, we keep the record of the communication. We wish to answer your questions and help you out with any doubt regarding our content. We need your email address to respond you, to make you aware about our upcoming events, to send you newsletter emails if you apply, etc and that’s why we collect your personal data.
+  *  **To maintain the quality of our products and services:** By interacting with our readers we get to know the current progress status of our website. Attending to your feedbacks will help us in improving our tutorials and reviews content.
+  *  **To support our advertising needs:** We gather the information of our readers and this aggregated data is used to support our advertising requirements. We use your information to give you more appropriate search results and ads. Thus, free services can be offered once the ads needs are fulfilled.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+## When do We Share the Information?
 
-       iv.      You may fax us at: (480) 505-8844
+The personal information collected about our readers is safe with us. We protect the data and don’t disclose it to any third party without your consent. However, there are some conditions when this information needs to be shared with other companies.
 
-**Sending Emails**
+On strict Governmental request for detection or investigation we are supposed to disclose our visitors’ personal information according to the laws and orders. The personal information may be shared with our analysts to carry out external process of our services. In case we collaborate or even hand over our site entirely to other organization we need to open up all our clients’ data, both personal and technical. Note that, before doing this, all our connected users will be notified about the transfer.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Safety and Security of Data
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We try our best possible to secure all the information associated to our assets. The maintenance of our site holds the prime responsibility of protection of our readers’ information. However, complete assurance can’t be given, thus the users should protect their account information as their own dominion. We may use cookies to get known to your preferences and selections. Note that the comment area is a public section and is visible and accessible to all the visitors.
 
-**Compliance with Laws and Law Enforcement**
+## Some Choices Given To Visitors
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * Our users are free to update their submitted details if they later realize that it’s wrong or mistyped.
+  * In case of change in information, they can provide their new details which the old one will get replaced with.
+  * If you don’t feel to connect with our site anymore, then you can unsubscribe the **HostingDecisions** Email Newsletter.
+  * You may even block all the cookies related to our site services but this may disable proper working of any of our web pages.
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+## Third Party Issues
 
-**Supplementation of Information**
+This Privacy Policy document is applicable only to **HostingDecisions** website. It does not include any term that can be applied for the products and services displayed or advertised on our site by any other company. For example, neither the privacy settings of any Social Network site can be controlled nor that on any advertisements.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Alterations in Privacy Policy
 
-**Contests/Surveys**
+Few privacy terms may keep on changing in this rapidly growing Web World. Consequently, we may update our privacy policy anytime. We expect the readers to visit this page periodically so that they get aware about the changes made. If some major terms get modified, we may inform our customers through email.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+## Contact Us
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+You can visit our [Contact Us page](http://hostingdecisions.com/contact-us/) for any query regarding our privacy policy terms.
 
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Privacy Policy page was last updated on 1st July, 2014.
