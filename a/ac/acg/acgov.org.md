@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acgov.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121437id_/http%3A//www.acgov.org/government/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acgov.org privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106194610id_/http%3A//www.acgov.org/government/legal.htm) for the most accurate reproduction.*
 
 # Legal / Disclaimers - Government - ACGOV.org - Alameda County's Official Website
 
