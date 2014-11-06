@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princesspinkygirl.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627122459id_/http%3A//princesspinkygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princesspinkygirl.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106091827id_/http%3A//princesspinkygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Princess Pinky Girl
 
