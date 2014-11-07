@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeanza.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509023841id_/http%3A//www.jeanza.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeanza.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107013607id_/http%3A//www.jeanza.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Jeanza Free Classifieds : Privacy Policy
 
