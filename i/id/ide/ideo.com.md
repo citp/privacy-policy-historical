@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideo.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326100856id_/http%3A//www.ideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideo.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107044855id_/http%3A//www.ideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IDEO
 
@@ -19,4 +19,6 @@ This Privacy Policy applies to this Website only. We do not exercise control ove
 
 ## Changes to this policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date. If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at IDEO LP, 100 Forest Avenue, Palo Alto, California, 94301, USA.
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date. If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at IDEO LP, 715 Alma Street, Palo Alto, California, 94301, USA.
+
+[India Privacy Practices](https://web.archive.org/privacy/india/)
