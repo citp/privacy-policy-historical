@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624063225id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107150638id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Personal Information Confidentiality - Privacy - Allianz Australia
 
@@ -24,6 +24,8 @@ The personal information collected and maintained by Allianz generally includes 
 For some policies, we also collect and maintain your sensitive information. This includes information about your health, genetics, membership of any trade unions or professional associations and any criminal convictions you may have.
 
 For employment applications, we collect your name, address, contact details, current and past employment information, educational qualifications and professional associations. We also collect information about and proof of your residency status, the name and contact details of your referees and other information required for recruitment purposes. Where we seek your consent to conduct a background check, we also collect details of your proof of identity from you.
+
+In the recruitment process, we may ask you to answer optional questions about your personal attributes such as age, gender, ethnic background and language spoken. This personal (including sensitive) information is collected only for the purpose of understanding the diversity profile of applicants and employees and for internal reporting purposes within Allianz Australia and the Allianz Group.
 
 ## How do we collect your personal information?
 
