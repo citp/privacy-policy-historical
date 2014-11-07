@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipwatchdog.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213194602id_/http%3A//www.ipwatchdog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipwatchdog.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107030823id_/http%3A//www.ipwatchdog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IPWatchdog.com | Patents & Patent Law
 
