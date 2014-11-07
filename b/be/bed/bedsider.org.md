@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedsider.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084242id_/http%3A//bedsider.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedsider.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107105058id_/http%3A//bedsider.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy: Bedsider
 
@@ -91,5 +91,5 @@ The National Campaign to Prevent Teen and Unplanned Pregnancy 1776 Massachusetts
 
 This privacy policy is effective as of November 1, 2009.
 
-All rights reserved. Copyright © 2013. The National Campaign to Prevent Teen and Unplanned Pregnancy.  
+All rights reserved. Copyright © 2014. The National Campaign to Prevent Teen and Unplanned Pregnancy.  
 
