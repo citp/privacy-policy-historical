@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the livestrong.org privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623045039id_/http%3A//www.livestrong.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestrong.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107190751id_/http%3A//www.livestrong.org/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Use | LIVESTRONG.org
-
-## Privacy Policy
+# Privacy Policy | Who We Are | LIVESTRONG.org
 
 The LIVE **STRONG** Foundation ("Foundation") has created this privacy policy ("Privacy Policy") to demonstrate our commitment to privacy. The following statement explains our information-gathering and dissemination practices for our web sites at [www.LIVE **STRONG**.org](http://www.livestrong.org/), [www.LIVE **STRONG** espanol.org](http://www.livestrongespanol.org/), [www.LIVE **STRONG** blog.org](http://www.livestrongblog.org/), [www.LIVE **STRONG** action.org](http://www.livestrongaction.org/), [www.LIVE **STRONG** challenge.org](http://www.livestrongchallenge.org/), [http://vote.LIVE **STRONG**.org](http://vote.livestrong.org/), [www.cancerhacks.org](http://www.cancerhacks.org/) and [http://store.livestrong.org](http://store.livestrong.org/) (the "Sites"). This Privacy Policy may change from time to time, so please check back periodically.
 
