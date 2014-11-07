@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622231551id_/http%3A//www.goodlookingloser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107061202id_/http%3A//www.goodlookingloser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,7 @@ The Site contains links to other websites. If you choose to visit other websites
 
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following: 
 
-**[MichaelCollinsLaw@Live.com](mailto:MichaelCollinsLaw@Live.com)**
+**[matthew@taylorlawoffices.com](mailto:matthew@taylorlawoffices.com)**
 
 **5952 Digital Productions LLC (Your email will automatically be forwarded to the legal representation of whom it may concern)**
 
