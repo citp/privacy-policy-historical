@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goviral.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301120341id_/http%3A//beon.aolnetworks.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goviral.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107225629id_/http%3A//beon.aolplatforms.com/en/privacy) for the most accurate reproduction.*
 
 # Be On - Privacy and Cookies
 
