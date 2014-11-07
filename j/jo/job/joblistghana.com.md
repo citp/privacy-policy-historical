@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblistghana.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084939id_/http%3A//joblistghana.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblistghana.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107204129id_/http%3A//joblistghana.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Joblistghana.com - Jobs in Ghana
 
@@ -23,7 +23,7 @@ We do not sell our users’ personal information to anyone for any reason what s
 
 .:: Google, as a third party vendor, uses cookies to serve ads on joblistghana.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to joblistghana.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on joblistghana.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see in order to serve you better.
 
