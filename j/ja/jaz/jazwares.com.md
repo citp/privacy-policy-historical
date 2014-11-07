@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jazwares.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423011333id_/http%3A//jazwares.com/index.php/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazwares.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107021554id_/http%3A//jazwares.com/privacy-policy) for the most accurate reproduction.*
 
-# Jazwares :: Private Policy
+# Privacy Policy - Jazwares
 
 **What Information is Collected on Our Website?**
 
@@ -18,11 +18,11 @@ In the event of a merger, acquisition, reorganization, bankruptcy or similar eve
 
 **Registration**
 
-JAZWARES may allow you to register a product online through the submission of product information and your contact information. JAZWARES also may ask you to provide demographic information such as where you purchased the item and the types of products that you own or that interest you. JAZWARES will only collect this information from people 13 years of age or older and if you consent during registration, JAZWARES may use the information you provide to periodically contact you with special offers and announcements. 
+JAZWARES may allow you to register a product online through the submission of product information and your contact information. JAZWARES also may ask you to provide demographic information such as where you purchased the item and the types of products that you own or that interest you. JAZWARES will only collect this information from people 13 years of age or older and if you consent during registration, JAZWARES may use the information you provide to periodically contact you with special offers and announcements.
 
 **Customer Support**
 
-JAZWARES may allow you to contact customer support through the website to request information and/or report a product problem. JAZWARES may ask you to provide contact information, product information, and specific information regarding your inquiry. The information collected will be for the limited purpose of improving JAZWARES’ products and customer satisfaction. In no way will the information collected act as a solicitation tool for marketing information. JAZWARES will only collect information necessary to fully investigate the problem. 
+JAZWARES may allow you to contact customer support through the website to request information and/or report a product problem. JAZWARES may ask you to provide contact information, product information, and specific information regarding your inquiry. The information collected will be for the limited purpose of improving JAZWARES’ products and customer satisfaction. In no way will the information collected act as a solicitation tool for marketing information. JAZWARES will only collect information necessary to fully investigate the problem.
 
 **E-mail**
 
@@ -54,7 +54,7 @@ To participate in some of our promotions, you may be asked to provide an e-mail 
 
 **NOTE TO PARENTS**
 
-JAZWARES has developed its website to be an enjoyable experience for everyone. JAZWARES realizes that some younger children may not understand some of the information contained on the website or how this site operates, which is the purpose of this Privacy Policy. Please discuss this policy with your children so that they will better understand JAZWARES website and the information they may be asked to provide. JAZWARES strongly believes that the best way to help protect your privacy on this site is to provide you with adequate and accurate information about the website and the information that is collected. 
+JAZWARES has developed its website to be an enjoyable experience for everyone. JAZWARES realizes that some younger children may not understand some of the information contained on the website or how this site operates, which is the purpose of this Privacy Policy. Please discuss this policy with your children so that they will better understand JAZWARES website and the information they may be asked to provide. JAZWARES strongly believes that the best way to help protect your privacy on this site is to provide you with adequate and accurate information about the website and the information that is collected.
 
 **Children Under 13: Collection and Use of Children’s Personal Information**
 
