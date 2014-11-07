@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblock-us.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628173116id_/http%3A//www.unblock-us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblock-us.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107143752id_/http%3A//www.unblock-us.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Unblock-Us - smarter faster VPN
 
