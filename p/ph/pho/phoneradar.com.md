@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phoneradar.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509014401id_/http%3A//phoneradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneradar.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010758id_/http%3A//phoneradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Phone Radar
+# Privacy Policy » PhoneRadar
 
-[](http://phoneradar.com/wp-content/uploads/2014/05/Phoneradar-Privacy-Policy.png "Phoneradar Privacy Policy")PhoneRadar takes the privacy issues seriously, and the privacy of our visitors is very important to us. PhoneRadar is backed by Digital World Solutions, a company that owns a network of websites. We (PhoneRadar) do not use personal information of the users for any purpose, other than for the newsletters that we send, only if the user chooses to receive them.
+[](http://i2.wp.com/phoneradar.com/wp-content/uploads/2014/05/Phoneradar-Privacy-Policy.png)PhoneRadar takes the privacy issues seriously, and the privacy of our visitors is very important to us. PhoneRadar is backed by Digital World Solutions, a company that owns a network of websites. We (PhoneRadar) do not use personal information of the users for any purpose, other than for the newsletters that we send, only if the user chooses to receive them.
 
 Giving your information on our website while subscribing to newsletter, commenting on our pages is needed and if you choose to provide us your details, we do not use this information. It is though, obligatory to provide your email address while commenting on the website so as to verify that you are a human.
 
