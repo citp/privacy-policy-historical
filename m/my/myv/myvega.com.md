@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvega.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111917id_/http%3A//myvega.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvega.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107142502id_/http%3A//myvega.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vega
 
