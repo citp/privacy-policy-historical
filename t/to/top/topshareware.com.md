@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topshareware.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152302id_/http%3A//www.topshareware.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topshareware.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107063345id_/http%3A//www.topshareware.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - TopShareware.com
 
