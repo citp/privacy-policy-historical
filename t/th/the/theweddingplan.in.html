@@ -1,0 +1,443 @@
+<!--The following is the downloaded HTML source of the theweddingplan.in privacy policy that was archived on 2014-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107191245id_/http%3A//www.theweddingplan.in/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+ <link rel="shortcut icon" type="image/x-icon" href="http://www.theweddingplan.in/../images/favicon.ico">
+ <title>Privacy Policy  theweddingplan.in</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="description" content="Privacy Policy">
+ <meta name="keywords" content="">
+  <link rel="canonical" href="http://www.theweddingplan.in/privacy-policy"> 
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-1.9.1.js"></script>
+ <script type="text/javascript" src="http://www.theweddingplan.in/js/jquery.min.js"></script>
+ <script type="text/javascript" src="http://www.theweddingplan.in/js/file_uploads.js"></script>
+ <script type="text/javascript" src="http://www.theweddingplan.in/js/vpb_script.js"></script> <link href="http://www.theweddingplan.in/css/bootstrap-theme.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/bootstrap-theme.min.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/customstyle.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/tabs/tabs.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/bootstrap.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/main.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/style.css" rel="stylesheet">
+ <link href="http://www.theweddingplan.in/css/dashboard.css" rel="stylesheet">
+  <script src="http://www.theweddingplan.in/js/bootstrap.min.js"></script>
+ <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+ <script src="http://www.theweddingplan.in/js/jquery.wallform.js"></script>
+ <script src="http://www.theweddingplan.in/js/jquery.leanModal.min.js"></script>
+ <script src="http://www.theweddingplan.in/js/css3-mediaqueries.js"></script>
+ <script src="http://www.theweddingplan.in/js/modernizr.min.js"></script>
+  <script src="http://www.theweddingplan.in/js/jquery-1.10.2.min.js"></script>  <script src="http://www.theweddingplan.in/css/tabs/jquery.idTabs.min.js"></script>
+ <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+ <link href="http://www.theweddingplan.in/css/pagination.css" rel="stylesheet">
+
+<script src="http://www.theweddingplan.in/js/bootstrap.min.js"></script>
+<script src="http://www.theweddingplan.in/js/jquery.leanModal.min.js"></script>
+<script src="http://www.theweddingplan.in/js/css3-mediaqueries.js"></script>
+<script src="http://www.theweddingplan.in/js/modernizr.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").load("index.php #icc10n",function(data){
+    $("#div3").fadeOut(7000);
+  });
+});
+</script>
+
+<style>
+#login-nav input { margin-bottom: 15px; }
+</style>
+<script type="text/javascript" language="javascript">
+function checkIfEmailExist(str){
+
+ if (str=="")
+  {
+  document.getElementById("txtHint").innerHTML="";
+  return;
+  } 
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	    //alert(xmlhttp.responseText);
+		var msg   = xmlhttp.responseText;
+		//alert(msg);
+		if(msg == 'Email Exist ! Please enter other email id.'){
+		  document.getElementById("ShowEmailExistMSG").innerHTML=xmlhttp.responseText;
+		 // document.getElementById("exampleInputEmail2").value='';
+		 return false;
+		} else {
+			
+			document.getElementById("ShowEmailExistMSG").innerHTML='';
+		
+		}
+    }
+  }
+	xmlhttp.open("GET","checkEmailExist.php?q="+str,true);
+	xmlhttp.send();
+}
+
+
+
+function checkPassword(){
+	var emailExist 	= document.getElementById('ShowEmailExistMSG').innerHTML;
+	if(emailExist !=''){
+		alert("Email already Exist ! Please enter another email id.");
+		document.getElementById('exampleInputEmail2').focus();
+		return false;
+	}
+	
+	
+	var pass 		= document.getElementById('exampleInputPassword2').value;
+	var cpass 		= document.getElementById('confirmexampleInputPassword').value;
+	
+	if(pass != cpass){
+		
+		alert("Password and confirm password not matched");
+		document.getElementById('exampleInputPassword2').focus();
+		return false;
+	}
+}
+</script>
+<script>
+
+$( document ).ready(function() {
+    $("[rel='tooltip']").tooltip();    
+ 
+    $('.thumbnail2').hover(
+        function(){
+            $(this).find('.caption').slideDown(250); //.fadeIn(250)
+        },
+        function(){
+            $(this).find('.caption').slideUp(250); //.fadeOut(205)
+        }
+    ); 
+});
+</script>
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+    //Handles menu drop down
+    $('.dropdown-menu').find('form').click(function (e) {
+        e.stopPropagation();
+    });
+});	
+
+
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53157966-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+<body>
+	<div class="market_place_bg" style="height:auto;">
+		<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="col-lg-2" style="padding-top:1%;">
+							<a href="http://www.theweddingplan.in/index.php">
+							<img src="http://www.theweddingplan.in/images/shubh_vivah_logo.png">
+							</a>
+							
+						</div>
+						<div class="col-lg-10 padd_0">
+							
+							<div class="col-lg-12 padd_0">
+								<ul class="nav nav-pills">
+								  <li class="active right_bg"><a href="http://www.theweddingplan.in/index.php" style="color:#474747;">Home</a></li>
+								  <li class="right_bg"><a href="http://www.theweddingplan.in/about-us">About Us</a></li>
+								  <li class="right_bg"><a href="http://www.theweddingplan.in/wedding-plan">Plan Your Wedding</a></li>
+								  <li class="right_bg"><a href="http://www.theweddingplan.in/market-place">Market Place</a></li>
+								  <li class="right_bg"><a href="http://www.theweddingplan.in/rewards">Rewards</a></li>
+								  <li class="right_bg"><a href="http://www.theweddingplan.in/blogs">Blogs</a></li>
+								   <li class="right_bg"><a href="http://www.theweddingplan.in/tour">Tour</a></li>
+								 								  
+								 								 
+								 
+								  								    
+								  
+								   								  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Sign In <b class="caret"></b></a>  									<ul class="dropdown-menu" style="padding: 35px; min-width: 350px;  left:-280px;">
+										<li>
+											
+										   <div class="row">
+											  <div class="col-md-12">
+												<form method="post" action="http://www.theweddingplan.in/login.php">	
+													<div class="form-group">
+													   <input type="radio" name="radio" value="radio1" id="client"> Customer &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  
+													   <input type="radio" name="radio" value="radio2" id="vendor"> Vendor
+													</div>
+													<div class="form-group">
+													   <span class="sr-only" for="exampleInputEmail2">Email address</span>
+													   <input type="email" class="form-control" name="email" id="email" placeholder="Email address" required="">							
+													</div>
+													<div id="ShowEmailExistMSG" style="color:red;"></div>
+													<div class="form-group">
+													   <span class="sr-only" for="exampleInputPassword2">Password</span>
+													   <input type="password" class="form-control" name="password" id="password" placeholder="Password" required="">
+														<input type="hidden" id="customerType" name="typeVendorLogin">	
+													   </div>
+													
+													<div class="form-group">
+														<input type="submit" class="btn btn-success btn-block" name="Login" value="Login" onclick="return validateHeader();"> 
+													</div>
+													<div class="form-group" onclick="return forgotPassword();">
+														<a href="#">Forgot Password?</a>
+													</div>
+												 </form>
+											  </div>
+										   </div>
+										</li>
+										<li class="divider"></li>
+										
+										<li>
+										  <div class="col-md-12"> New Customer/Vendor <a href="http://www.theweddingplan.in/registration.php"> Sign Up</a> </div>
+										   
+										</li>
+										<!--<li>&nbsp;</li>
+										<li>
+										   <input class="btn btn-primary btn-block" type="button" id="sign-in-google" value="Log In with FaceBook">
+										   
+										</li>-->
+									</ul>
+								  </li>
+								  								 
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div><!--Menu Ended -->
+				
+			</div>
+		</header><!--End Header-->
+<script type="text/javascript" language="javascript"> 		
+function validateHeader(){
+	
+	var email 		= document.getElementById('email').value;
+	var password 	= document.getElementById('password').value;
+
+	var client 	= document.getElementById('client').checked;
+	var vendor 	= document.getElementById('vendor').checked;	
+	
+	
+	
+	
+	if((client == false) && (vendor == false)){
+		
+		alert("Please select your type");	
+		document.getElementById('client').focus();
+		return false;
+	}
+	
+	
+	
+	if(client == true){
+		
+		document.getElementById("customerType").value='Client';
+	}
+	if(vendor == true){
+		document.getElementById("customerType").value='Vendor';
+	}
+	
+
+
+
+	if(email == ''){
+	  
+            alert('Please enter email');
+			document.getElementById('email').focus();
+            return false;
+    }
+	if(email != ''){
+		var isValidEmail = document.getElementById('email');
+		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	
+		if (!filter.test(isValidEmail.value)) {
+		 alert('Please provide a valid email address');
+		 isValidEmail.focus();
+		 return false;
+		}
+	}
+	if(password == ''){
+	  
+            alert('Please enter youe password');
+			document.getElementById('password').focus();
+            return false;
+    }
+}
+
+
+function forgotPassword(){
+	
+	var email = document.getElementById("email").value;
+	if(email != ''){
+		var isValidEmail = document.getElementById('email');
+		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+	
+		if (!filter.test(isValidEmail.value)) {
+		 alert('Please provide a valid email address');
+		 isValidEmail.focus();
+		 return false;
+		}
+	} else {
+		alert("Please enter youe email id");
+		document.getElementById('email').focus();
+        return false;
+	}
+	
+	var client 	= document.getElementById('client').checked;
+	var vendor 	= document.getElementById('vendor').checked;	
+	
+	
+	
+	
+	if((client == false) && (vendor == false)){
+		
+		alert("Please select your type");	
+		document.getElementById('client').focus();
+		return false;
+	}
+	
+	
+	
+	if(client == true){
+		
+		document.getElementById("customerType").value='Client';
+	}
+	if(vendor == true){
+		document.getElementById("customerType").value='Vendor';
+	}
+	
+	
+	
+	
+	
+	window.location = "forgetPassword.php?email="+email+'&Type='+document.getElementById("customerType").value;
+	
+}
+
+
+</script>
+
+
+
+
+
+
+	<div class="container" style="position:relative; z-index:1;">
+			<div class="col-lg-12 hdr_mp" style="margin-top:30px;">
+				<p style="color:white;"><a href="index.php" style="color:white;">Home</a> » privacy-policy</p>
+			</div>
+			
+			<div class="col-lg-12 inner_pattern">
+				<div class="col-lg-12" style="text-align:center;">
+					<p class="hdr_p">Privacy Policy</p> 
+				</div>
+				
+				
+				
+				
+				
+				<div class="col-lg-12 padd_0 mp_tbl_marg">
+					<div class="col-lg-12" style="text-align:justify;">
+				<div><span style="line-height: 1.428571429;">This Privacy Policy governs the manner in which theweddingplan.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.theweddingplan.in website ("Site"). This privacy policy applies to the Site and all products and services offered by theweddingplan.</span><br></div><div><br></div><div><b>Personal identification information</b></div><div><br></div><div>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</div><div><br></div><div><b>Non-personal identification information</b></div><div><br></div><div>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</div><div><br></div><div><b>Web browser cookies</b></div><div><br></div><div>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</div><div><br></div><div><b>How we use collected information</b></div><div><br></div><div>theweddingplan.in may collect and use Users personal information for the following purposes:</div><div><br></div><div><ul><li><span style="line-height: 1.428571429;">&nbsp; &nbsp; - To improve customer service</span><span style="line-height: 1.428571429;">&nbsp; &nbsp;Information you provide helps us respond to your customer service requests and support needs more efficiently.</span></li><li><span style="line-height: 1.428571429;">&nbsp; &nbsp; - To personalize user experience</span><span style="line-height: 1.428571429;">&nbsp; &nbsp; We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</span></li><li><span style="line-height: 1.428571429;">&nbsp; &nbsp; - To send periodic emails</span><span style="line-height: 1.428571429;">&nbsp; &nbsp; We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.</span></li></ul></div><div><br></div><div><b>How we protect your information</b></div><div><br></div><div>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</div><div><br></div><div><b>Sharing your personal information</b></div><div><br></div><div>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</div><div><br></div><div><b>Changes to this privacy policy</b></div><div><br></div><div>theweddingplan.in has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</div><div><br></div><div><b>Your acceptance of these terms</b></div><div><br></div><div>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</div><div><br></div><div><b>Contacting us</b></div><div><br></div><div>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</div><div><br></div><div><b>Divi5Media</b></div><div>http://www.theweddingplan.in</div><div>48-49 Forth Floor, Ansal Plaza, Viashali, Ghaziabad, UP</div><div>+91-9718915322</div><div>info@digi5media.com</div><div><br></div>	
+						
+					
+					</div>
+					<div class="col-lg-3">
+						
+						
+					</div>
+				</div>
+				
+				<div class="col-lg-12">&nbsp;</div>
+				<div class="col-lg-12">&nbsp;</div>
+			</div>
+		</div>
+		
+		<div>
+		
+
+<div style="position:relative;">
+		<footer class="footer"> 
+				<div class="container">
+					<div class="col-lg-12 marg_top_btm">
+						<div class="col-lg-2 padd_0 ftr_li">
+							<p class="ftr_head">TheWeddingPlan</p>
+							<ul>
+								<li><a href="http://www.theweddingplan.in/wedding-testimonials">Testimonials</a></li>
+								<li><a href="http://www.theweddingplan.in/decliamer">Disclaimer</a></li>
+								<li><a href="http://www.theweddingplan.in/privacy-policy">Privacy Policy</a></li>
+								<li><a href="http://www.theweddingplan.in/contact-us">Contact US</a></li>
+							</ul>
+						</div>
+						<div class="col-lg-1" style="text-align:center;"><img src="http://www.theweddingplan.in/images/footer-divider.png"></div>
+						<div class="col-lg-2 padd_0 ftr_li">
+							<p class="ftr_head">Wedding Suppliers</p>
+							<ul>
+								<li><a href="http://www.theweddingplan.in/signin.php">Log in</a></li>
+								<li><a href="http://www.theweddingplan.in/registration.php">Join Us</a></li>
+								<!--<li><a href="#">Benefits</a></li>-->
+							</ul>
+						</div>
+						<div class="col-lg-1" style="text-align:center;"><img src="http://www.theweddingplan.in/images/footer-divider.png"></div>
+						<div class="col-lg-2 padd_0 ftr_li">
+							<p class="ftr_head">Getting Married</p>
+							<ul>
+								<li><a href="http://www.theweddingplan.in/signin.php">Log in</a></li>
+								<li><a href="#">Wedding Ideas</a></li>
+								<li><a href="http://www.theweddingplan.in/wedding-story">Your Story</a></li>
+								<li><a href="http://www.theweddingplan.in/registration.php">Get a Quote</a></li>
+							</ul>
+						</div>
+						<div class="col-lg-1" style="text-align:center;"><img src="http://www.theweddingplan.in/images/footer-divider.png"></div>
+						<div class="col-lg-3 padd_0 ftr_social">
+							<p class="ftr_head">Connect with us</p>
+							<ul>
+								<li><a target="_blank" rel="nofollow"><img src="http://www.theweddingplan.in/images/f.png"></a></li>
+								<li><a href="https://plus.google.com/106624561073973694153/posts" target="_blank" rel="nofollow"><img src="http://www.theweddingplan.in/images/g.png"></a></li>
+								<li><a href="https://twitter.com/theweddingp" target="_blank" rel="nofollow"><img src="http://www.theweddingplan.in/images/t.png"></a></li>
+								<li><a href="https://www.youtube.com/user/TheWeddingPlanIndia" target="_blank" rel="nofollow"><img src="http://www.theweddingplan.in/images/y.png"></a></li>
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+				<div class="container1">
+					<div class="col-lg-12 padd_0" style="text-align:center;">
+						<img src="http://www.theweddingplan.in/images/copy-right-divider.png">
+					</div>
+				</div>
+				<div class="container">
+					<div class="col-lg-12 padd_0 ftr_cpright">
+						<p>© 2014. TheWeddingPlan.in</p>
+					</div>
+				</div>
+			</footer>
+		</div>
+		</div>
+	</div>
+	
+
+
+
+
+</body></html>
