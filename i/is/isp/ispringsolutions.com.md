@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213051035id_/http%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107222212id_/http%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
 
 # iSpring Privacy Policy
 
@@ -59,8 +59,8 @@ If there are updates to the terms of iSpring Solutions's Privacy Policy, we will
 iSpring Solutions welcomes your comments regarding this privacy policy, please contact us at: 
 
 iSpring Solutions, Inc.  
-901 N. Pitt Street, Suite 325  
+815 N. Royal St. Suite 202  
 Alexandria, VA 22314  
 E-mail: [info@ispringsolutions.com](mailto:info@ispringsolutions.com). 
 
-Last updated on November 2011
+Last updated on June 2014
