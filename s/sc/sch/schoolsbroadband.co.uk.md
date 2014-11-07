@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolsbroadband.co.uk privacy policy that was archived on 2014-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140114120918id_/http%3A//www.schoolsbroadband.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsbroadband.co.uk privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107175654id_/http%3A//www.schoolsbroadband.co.uk/privacy) for the most accurate reproduction.*
 
 # Schools Broadband | Privacy Policy
 
@@ -15,8 +15,8 @@ If you give us information about another person, in doing so you confirm that th
 
 The Talk Straight and Schools Broadband websites may contain links to other websites. However, Talk Straight is not responsible for the privacy, practices or content of these other sites.
 
-## [Cookies](https://web.archive.org/web/20140114120918id_/http%3A//www.schoolsbroadband.co.uk/cookies)
+## [Cookies](https://web.archive.org/web/20141107175654id_/http%3A//www.schoolsbroadband.co.uk/cookies)
 
 We make it a policy to always have the best quality tea and coffee in our office kitchen.  And now we have a top quality cookie policy too.  Sadly for our staff, this is not a policy that...
 
-[Read More](https://web.archive.org/web/20140114120918id_/http%3A//www.schoolsbroadband.co.uk/cookies)
+[Read More](https://web.archive.org/web/20141107175654id_/http%3A//www.schoolsbroadband.co.uk/cookies)
