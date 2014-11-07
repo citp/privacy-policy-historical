@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the hrmantra.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625114854id_/http%3A//hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hrmantra.com privacy policy that was archived on 2014-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107052058id_/http%3A//www.hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width">
 
-<title>HR Software Solutions India, SaaS Service Provider India.</title>
+    <title>HR Software Solutions India, SaaS Service Provider India.</title>
     <meta name="description" content="HRMantra Software - Specialized in making HR Payroll Software India and HR Software Solutions India. Find more informations about our HR Software Solutions in India and HR Payroll Software India from www.hrmantra.com.">
     <meta name="keywords" content="Pay per use Software, Pay per use Software Solutions, ESS Employee Self Service, HRIS Software, SaaS Software Solutions in India, HR Payroll Software India, HRMS Software, HR Payroll Outsourcing, Mobile HR software, On Demand Software, HR Software Outsource India, SaaS Service Provider India, Mobile HR Software., privacy policy">
     <meta name="Software" content="HRMS Software, ESS Employee Self Service, Pay per use Software, HR Software Solutions India, HR Payroll Outsourcing, HRIS Software, Pay per use Software Solutions, SaaS Service Provider India, Mobile HR Software, SaaS Software Solutions in India, On Demand Software, HR Payroll software india, HR Software Outsource India.">
@@ -16,10 +16,9 @@
     <meta name="city" content="Mumbai">
     <meta name="state" content="Maharashtra">
     <meta name="robots" content="All">
-    
+
     <style type="text/css">
-        a:hover
-        {
+        a:hover {
             color: Red;
         }
     </style>
@@ -48,64 +47,64 @@
             return true;
         }
 
-        function Reset(event) {
-            var lblerror = document.getElementById('ctl00_lblResetPassError');
-            var userName = document.getElementById('ctl00_txtUser');
-            var userID = document.getElementById('ctl00_HdUserID');
-            var NewPass = document.getElementById('ctl00_txtNewPass');
-            var ConfirmPass = document.getElementById('ctl00_txtConfirmPass');
+        //function Reset(event) {
+        //    var lblerror = document.getElementById('ctl00_lblResetPassError');
+        //    var userName = document.getElementById('ctl00_txtUser');
+        //    var userID = document.getElementById('ctl00_HdUserID');
+        //    var NewPass = document.getElementById('ctl00_txtNewPass');
+        //    var ConfirmPass = document.getElementById('ctl00_txtConfirmPass');
 
-            var hdmin = document.getElementById('ctl00_HddMinPwdLength');
-            var hdmax = document.getElementById('ctl00_HddMaxPwdLength');
+        //    var hdmin = document.getElementById('ctl00_HddMinPwdLength');
+        //    var hdmax = document.getElementById('ctl00_HddMaxPwdLength');
 
-            if (Trim(NewPass.value) == '') {
-                lblerror.innerHTML = "Please enter new Password.";
-                return ExitFunction(event);
-            }
-            if (Trim(ConfirmPass.value) == '') {
-                lblerror.innerHTML = "Please enter confirm Password.";
-                return ExitFunction(event);
-            }
+        //    if (Trim(NewPass.value) == '') {
+        //        lblerror.innerHTML = "Please enter new Password.";
+        //        return ExitFunction(event);
+        //    }
+        //    if (Trim(ConfirmPass.value) == '') {
+        //        lblerror.innerHTML = "Please enter confirm Password.";
+        //        return ExitFunction(event);
+        //    }
 
-            if (Trim(NewPass.value) != Trim(ConfirmPass.value)) {
-                lblerror.innerHTML = "New password and confirm password should be same.";
-                return ExitFunction(event);
-            }
+        //    if (Trim(NewPass.value) != Trim(ConfirmPass.value)) {
+        //        lblerror.innerHTML = "New password and confirm password should be same.";
+        //        return ExitFunction(event);
+        //    }
 
-            if (hdmin.value != '') {
-                if (NewPass.value.length < hdmin.value) {
-                    ConfirmPass.focus();
-                    lblerror.innerHTML = "Password length should be greater than " + hdmin.value;
-                    return ExitFunction(event);
-                }
-            }
+        //    if (hdmin.value != '') {
+        //        if (NewPass.value.length < hdmin.value) {
+        //            ConfirmPass.focus();
+        //            lblerror.innerHTML = "Password length should be greater than " + hdmin.value;
+        //            return ExitFunction(event);
+        //        }
+        //    }
 
-            if (hdmax.value != '') {
-                if (NewPass.value.length > hdmax.value) {
-                    ConfirmPass.focus();
-                    lblerror.innerHTML = "Password length should be less than " + hdmax.value;
-                    return ExitFunction(event);
-                }
-            }
+        //    if (hdmax.value != '') {
+        //        if (NewPass.value.length > hdmax.value) {
+        //            ConfirmPass.focus();
+        //            lblerror.innerHTML = "Password length should be less than " + hdmax.value;
+        //            return ExitFunction(event);
+        //        }
+        //    }
 
-            Website2012.HRMWebService.ResetPassword(Trim(userName.value), userID.value, Trim(NewPass.value), Trim(ConfirmPass.value), CallbackResetPass);
+        //    Website_CS.HRMWebService.ResetPassword(Trim(userName.value), userID.value, Trim(NewPass.value), Trim(ConfirmPass.value), CallbackResetPass);
 
-            function CallbackResetPass(methodResult) {
-                lblerror.innerHTML = methodResult;
-            }
-            return true;
-        }
+        //    function CallbackResetPass(methodResult) {
+        //        lblerror.innerHTML = methodResult;
+        //    }
+        //    return true;
+        //}
 
-        function ClearReset(event) {
-            var lblerror = document.getElementById('ctl00_lblResetPassError');
-            var NewPass = document.getElementById('ctl00_txtNewPass');
-            var ConfirmPass = document.getElementById('ctl00_txtConfirmPass');
+        //function ClearReset(event) {
+        //    var lblerror = document.getElementById('ctl00_lblResetPassError');
+        //    var NewPass = document.getElementById('ctl00_txtNewPass');
+        //    var ConfirmPass = document.getElementById('ctl00_txtConfirmPass');
 
-            NewPass.value = '';
-            ConfirmPass.value = '';
-            lblerror.innerHTML = '';
-            return true;
-        }
+        //    NewPass.value = '';
+        //    ConfirmPass.value = '';
+        //    lblerror.innerHTML = '';
+        //    return true;
+        //}
 
         function CheckUserDetail(event) {
             var Username = document.getElementById('ctl00_txtuserName');
@@ -131,59 +130,196 @@
             filter: alpha(opacity=70);
             opacity: 0.7;
         }
-    </style>
 
+        .fullwidth {
+            max-width: 1000px;
+            min-width: 990px;
+            margin: 0 auto;
+        }
 
-    <style type="text/css">
+        .header-nav-container {
+            float: right;
+            margin: 0;
+            padding: 0;
+        }
+
+        h4.contact {
+            font-size: 1.2em;
+            margin: 0.29em 1.2em 0.29em 0;
+        }
+
+        .logo_HR {
+            color: #dd381a;
+            text-align: left;
+            font-family: Verdana;
+            font-size: 20pt;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .logo_Mantra {
+            color: #22149d;
+            text-align: left;
+            font-family: Verdana;
+            font-size: 20pt;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .logo_LetsLead {
+            color: #22149d;
+            text-align: right;
+            font-family: Verdana;
+            font-size: 10pt;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
         .wrapper .text {
             font-family: Arial, Helvetica, sans-serif;
             padding-top: 50px;
         }
+
+        .fixheader {
+            background-color: #F7F7F9;
+            width: 100%;
+        }
     </style>
 
-    
 
-    <link href="Styles/Slider/mbExtruder.css" rel="stylesheet"><link id="ctl00_layoutStyleSheet" rel="stylesheet">
-
+    <link href="Styles/Slider/Common.css" rel="stylesheet">
     <script src="Scripts/Slider/jquery.js"></script>
-    <script src="Scripts/Slider/jquery.hoverIntent.min.js"></script>
-    <script src="Scripts/Slider/jquery.mb.flipText.js"></script>
-    <script src="Scripts/Slider/mbExtruder.js"></script>
 
+    <!--Code put for SEO -->
     <script type="text/javascript">
-
-        $(function () {
-
-            $("#extruderRight").buildMbExtruder({
-                position: "right",
-                width: 350,
-                extruderOpacity: .8,
-                textOrientation: "tb",
-                onExtOpen: function () { },
-                onExtContentLoad: function () { },
-                onExtClose: function () { }
-            });
-
-            $.fn.changeLabel = function (text) {
-                $(this).find(".flapLabel").html(text);
-                $(this).find(".flapLabel").mbFlipText();
-            };
-
-        });
-
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-11562006-1");
+            pageTracker._trackPageview();
+        } catch (err) { }
+        function _gaLt(event) {
+            var el = event.srcElement || event.target;
+            /* Loop up the tree through parent elements if clicked element is not a link (eg: an image in a link) */
+            while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href))
+                el = el.parentNode;
+            if (el && el.href) {
+                if (el.href.indexOf(location.host) == -1) { /* external link */
+                    ga('send', 'event', 'Outgoing Links', el.href, document.location.pathname + document.location.search, { 'nonInteraction': 1 });
+                    /* if target not set delay opening of window by 0.5s to allow tracking */
+                    if (!el.target || el.target.match(/^_(self|parent|top)$/i)) {
+                        setTimeout(function () {
+                            document.location.href = el.href;
+                        }.bind(el), 500);
+                        /* Prevent standard click */
+                        event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+                    }
+                }
+            }
+        }
+        /* Attach the event to all clicks in the document */
+        var d = document;
+        d.addEventListener ? d.addEventListener("click", _gaLt, !1) : d.attachEvent && d.attachEvent("onclick", _gaLt);
     </script>
+    <!--Code put for SEO -->
 
 <title>
 
 </title></head>
-<body bgcolor="#231F20" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin-left: auto" onload="MM_preloadImages('Images/index_11.jpg','Images/index_12.jpg','Images/index_13.jpg','Images/index_14.jpg','Images/index_15.jpg','Images/index_16.jpg','Images/index_17.jpg','Images/index_18.jpg','Images/index_19.jpg','Images/index_20.jpg')">
+<body bgcolor="#F7F9FD" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><table align="center" class="fixheader banner--clone">
+                            <tbody><tr>
+                                <td align="center">
+                                    <table class="fullwidth" align="center">
+                                        <tbody><tr>
+                                            <td>
+                                                <a style="text-decoration: none" href="../" target="_blank">
+                                                    <table cellspacing="0" cellpadding="0" border="0">
+                                                        <tbody><tr>
+                                                            <td class="logo_HR">HR</td>
+                                                            <td class="logo_Mantra">Mantra</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="logo_LetsLead" colspan="2">Lets Lead
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </a>
+                                            </td>
+                                            <td id="ctl00_tdContacts" class="Label" valign="top" align="right">
+                                                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                    <tbody><tr>
+                                                        <td valign="middle" align="center">Call +91 9167747781 / 9167747782 
+                                                        </td>
+
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top">&nbsp;&nbsp;</td>
+
+                                                    </tr>
+                                                    <tr align="center">
+                                                        <td valign="bottom" style="font-family: ProximaNovaLight,Arial,sans-serif; font-size: 14pt; font-weight: bold; vertical-align: middle; color: #ED2135">World's Most Powerful HR &amp; Payroll Software </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+
+                                            <td valign="middle" align="right" style="width: 170px">
+                                                <a href="Demo.aspx" id="ctl00_lnkDemo" class="lnkDemo">Book Demo</a>
+                                            </td>
+
+                                            <td valign="middle" align="right">
+                                                <a id="ctl00_lnklogin" class="lnkLogin" href="login.aspx" align="right">Login </a>
+                                                
+                                            </td>
+                                        </tr>
+
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table align="center" class="menuTable" border="0">
+                                        <tbody><tr>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlHome" href="../">Home</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlFeature" href="Features.aspx">Features</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlWhyHr" href="WhyHr.aspx">Why HRMantra</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlCustomers" href="Customers.aspx">Customers</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlPricing" href="Pricing.aspx">Pricing</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlPartner" href="Partner.aspx">Partner</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlResources" href="Resources.aspx">Resources</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlContact" href="ContactUs.aspx">Contact</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlAboutUs" href="AboutUs.aspx">About Us</a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+
+                        </tbody></table>
     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
 <input type="hidden" name="ctl00_ToolkitScriptManager1_HiddenField" id="ctl00_ToolkitScriptManager1_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWDAIDDxYCHgdWaXNpYmxlaGQCBQ8WAh8AaGQCBw8WAh8AaGQCCQ8PFgIfAGhkZAILDxYCHwBoZAINDxYCHglpbm5lcmh0bWwFkA88dGFibGUgc3R5bGU9IndpZHRoOiA5MjJweDsiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjEiIGNlbGxzcGFjaW5nPSIyIj4NCjx0cj48dGQ+PGEgaHJlZj0iRGVmYXVsdC5hc3B4IiAgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0MicsJycsJ0ltYWdlcy9Ib21lX1NlbGVjdGVkXzExLmpwZycsMSkiPiANCjxpbWcgc3JjPSJJbWFnZXMvSG9tZV8xMS5qcGciIG5hbWU9IkltYWdlNDIiIGJvcmRlcj0iMCI+PC9hPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iUHJvZHVjdC5hc3B4IiBvbm1vdXNlb3V0PSJNTV9zd2FwSW1nUmVzdG9yZSgpIiBvbm1vdXNlb3Zlcj0iTU1fc3dhcEltYWdlKCdJbWFnZTQzJywnJywnSW1hZ2VzL1Byb2R1Y3RfU2VsZWN0ZWRfMTIuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL1Byb2R1Y3RfMTIuanBnIiBuYW1lPSJJbWFnZTQzIiBib3JkZXI9IjAiPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iV2h5SHIuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0NCcsJycsJ0ltYWdlcy9XaHlIcl9TZWxlY3RlZF8xMy5qcGcnLDEpIj4gDQo8aW1nIHNyYz0iSW1hZ2VzL1doeUhyXzEzLmpwZyIgbmFtZT0iSW1hZ2U0NCIgYm9yZGVyPSIwIj48L2E+PC90ZD4NCjx0ZD48YSBocmVmPSJDdXN0b21lcnMuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0NScsJycsJ0ltYWdlcy9DdXN0b21lcnNfU2VsZWN0ZWRfMTQuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0N1c3RvbWVyc18xNC5qcGciIG5hbWU9IkltYWdlNDUiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJXaHlTYWFzLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDcnLCcnLCdJbWFnZXMvV2h5U2Fhc19TZWxlY3RlZF8xNi5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvV2h5U2Fhc18xNi5qcGciIG5hbWU9IkltYWdlNDciIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJQYXJ0bmVyLmFzcHgiIG9ubW91c2VvdXQ9Ik1NX3N3YXBJbWdSZXN0b3JlKCkiIG9ubW91c2VvdmVyPSJNTV9zd2FwSW1hZ2UoJ0ltYWdlNDgnLCcnLCdJbWFnZXMvUGFydG5lcl9TZWxlY3RlZF8xNy5qcGcnLDEpIj4NCjxpbWcgc3JjPSJJbWFnZXMvUGFydG5lcl8xNy5qcGciIG5hbWU9IkltYWdlNDgiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJDYXJlZXIuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U0OScsJycsJ0ltYWdlcy9DYXJlZXJfU2VsZWN0ZWRfMTguanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0NhcmVlcl8xOC5qcGciIG5hbWU9IkltYWdlNDkiIGJvcmRlcj0iMCI+PC90ZD4NCjx0ZD48YSBocmVmPSJDb250YWN0VXMuYXNweCIgb25tb3VzZW91dD0iTU1fc3dhcEltZ1Jlc3RvcmUoKSIgb25tb3VzZW92ZXI9Ik1NX3N3YXBJbWFnZSgnSW1hZ2U1MCcsJycsJ0ltYWdlcy9Db250YWN0VXNfU2VsZWN0ZWRfMTkuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0NvbnRhY3RVc18xOS5qcGciIG5hbWU9IkltYWdlNTAiIGJvcmRlcj0iMCIgPjwvdGQ+DQo8dGQ+PGEgaHJlZj0iQWJvdXRVcy5hc3B4IiBvbm1vdXNlb3V0PSJNTV9zd2FwSW1nUmVzdG9yZSgpIiBvbm1vdXNlb3Zlcj0iTU1fc3dhcEltYWdlKCdJbWFnZTUxJywnJywnSW1hZ2VzL0Fib3V0VXNfU2VsZWN0ZWRfMjAuanBnJywxKSI+DQo8aW1nIHNyYz0iSW1hZ2VzL0Fib3V0VXNfMjAuanBnIiBuYW1lPSJJbWFnZTUxIiBib3JkZXI9IjAiPjwvdGQ+DQo8L3RyPjwvdGFibGU+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUSY3RsMDAkSW1nQnRuU3VibWl0BRJjdGwwMCRJbWdCdG5DYW5jZWx06HDHQvsYEQXH/TtroNNy9zW1vA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWBgIHDw8WAh4HVmlzaWJsZWhkZAIhD2QWAmYPZBYCAgEPZBYCAgEPZBYCAgEPZBYCAgMPDxYEHghDc3NDbGFzc2UeBF8hU0ICAmRkAicPZBYGAgEPFgIfAGhkAgMPFgIfAGhkAgUPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRFjdGwwMCRpbWdDbG9zZUNFT3Jq+j9lUf+Fw5SJr2IHzTREivGn">
 </div>
 
 <script type="text/javascript">
@@ -203,271 +339,217 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=FXqF0ElTkTZMfok80DII6PIoeNRqgRvMydyiw8oYdTk0e7mll_HI1SCz2SCEtB2it-USyj9mPqvGdJVh804H1eyzrQo1&amp;t=635295292417495136" type="text/javascript"></script>
+<script src="/WebResource.axd?d=phmJsMDo7kgchbal1A9ptX9ej88HfD1edoBG4AUlNZR0zCbnBotHhVB4Ip7XwwMxtqMZXTeq3A2mxbM_iLBq2syTPz01&amp;t=635295292417495136" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=kldrg76-ssXfQ9l72YC7_s9SzDRmBskdsstHpaTmEhJHxcqbolyiVl0Y7lw8AG3GssnNQrhdomw20dgrrbQ4EZQEzYzukDNsgIne8WIui6Nb_2rR1gaB9wXRYd4jeQ_9Q28aZA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/WebResource.axd?d=iuQs-TLuxUQdlR_GTBvtsCC3WGywfMxkb-uexw0xb-kh7-2FajHGoGECREPhb6_BuhTWefziA9WO68SR0D0Czbfi_yiKsF-n2Cde9f3ohdBaaBI0F3vXQtWbOHBNIHAOEptf5CCLcvkO2o1Q420N2e__CeQ1&amp;t=633990908160000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_N7_Btw5gJMdhpTm-QwYpZ2dBGNkn-eYGnytqZIzrW3-aNAdCPqWME209ylGsyqq-eXyPzRW8gbp8ycCgbqVOMkIH-I0CLo5fwy1gPaRdhT7aSpB_ob8wbzGgxRQR_1JMOxc9A2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=y88y3cS67XDQwBdJudM_0A_MKpE3Dz0yDO3UqsCX4u3nt3rOZcz6XTK6zV1qyHntoABGf5KNUw03UnfeFqOjoMRZ3uLSOo8CfSMJk_zf43haft7yqFCc6-yjJajaDlkycHYz4g2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=_gEKLTCx177oF4NIqTEsYrGi7JUKWghGTmcukCndcw8DCKewRhbQ9sB4zs25G6mRLVBOUovJ90-VrWT4gETPcrQeA6uSZJJ1VP0sfOL_6bJN24lvd65_SUicZkihfcZ4-e_gOg2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Ln90bMJrMIijd1ToO3wH_j4odnN6EWOSxLCtU9FepIkRzfOUr5jNQETo4-IvEish2bhlfk4abgvuAVZezJmDgTUhr_ZV1WGIk8hDU3Xbxpsn3gOb_xDzFAP1-LQbgbfqtOoP4g2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=FK98q0Ap8htubM7S1G0xnoipYtEXpzX3CvxGQm05iaRy-Xiho5H0NM-eJ80y0j89tPkcNKVdYQFU_J1z5BYOtEmcQy6-Cngu8TH_YqWUBu3cgYSGhnc8V_xXZaXgkzuzRc1z8uSzKmiF_lRSTguZUK8ezMw1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=dwAXjDBHoZcDja_z8cKQ-DM_qLe-kzDCbd5SxdiDZMOJnHVWpyePlXuwWYvl6mfwy8YpdacsWeUj7EsQ4l40s-z3FmaRK6CGpaT0XIA_G5pFemih33PdwLX1-XCJ8DZ57TO4hw2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=gqQQEBInZ8WQ87-TFsqMUuXBOs74inbrCnD1l3iI1Rfuv4iPhwu6sl-t36QKvt3w98nqKy96EiL0AMVOU6l-KEiSNvg4yAtcR9Kbz_4OJWNuvbqzbpeREycqgiDoetl1-OWktOzmmjrhrv4VWx_M47qqQcc1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=LgmrZlYubRcviw8UXAzOkf4YGXy7uKEdEUeBPqubdDIvuJfiLBkCvn45IiDrias1nYbYHuYWeGQq1JApeof038nc8qfN7n9NyryHADf4aknZwA3FdQdS75H40kkjst_Qf0Y1DmqkVD4FZ_38upOami98C6Q1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=-AaABymdwp004cKYbx0iRb1uazeTJtrDnhA2VXSVwKYbetTrxikRfDJBRloJxOR5BzoZbmaG5ziXQklId3D9SVAkKAMpQu4Ymdkf7PfMbhjp6vflC9l36qVdgb_kMwYHr-kIPAJayJ4fautJTdIQ35vI5uY1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=7Fi3QwMvVU30EbdftaGB_tGForyWUtxayYdV28J8SVo-6fcbLo9nuRJDTDQWUql0cuOZvNCweuhVr5vr2oDE4H0cBiH9c3Cuto9nBGYF5YULRxhFjqy79H9j9fSWgpTUCzCtkr7FSUGOQYr6KcmmQzUyR_c1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=QPuYIDRMLV0q4MkjkdI679zPyChhd0N0QCNN8WeZgwX7YtU3TPBurUubJtRKYloNJhbdUPk9rR1vDjgAew6j_M6DuwcrdWYo0i3R1ALlfBn2kmpsBOxkq2D3fw4Yee3CFpTlmRKSS8DuAB9GA2GNL2MBrYM1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=hIcPbpt4JY_FUWEOkcSz-B030eJeDyOSM2mATbAhAAD-nVHuC2ZakDFBOhFpbVdlAofNel1WIbw5Y6KWX-gqlQ5ubL8TPgdVi8B2nolxxCcpMd6AtNalSLtx3-WsiGf84WyViA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=M3mMxyhJGfhoiWAOuUCamMZeCAtmllG06pHVTMQQLlzDj5b0CtJs-IoZhmSQqXPtu45UtctoYR_Fcs2Re9cG5m_7J3_fflWz6-Xb02maCa_sB96QUtThRqX8GIfY10aFyNHvmw2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tP0Sym6IzQcXDfX16UgPgwM257Pg9jI1PEDhola09zgdtzdEY4PLAnBq6l9x6_ljQPSA7fwNVld_v5h47o5NQ1N3M25QNeRDmUNiWITwn0G3cSdoZxjinJiy8qF-GTn7pYZNDQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Xsxx34e3yCTeE3yda53HX-9Dgys8uaivm0zow2-E3ZXnnkPNADhpcF9nqQ6BhiDQugAwsBerH0qOhFKM700xPex3G1SYslV_hE8QV-wTrD0GP2BZI9RI-CAvtP5xy5CiBVNcy3l29U995-ooQwcwy0VEZx41&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YD_57xqL5eZTTgaxy2Qa5F27Vp7Z26hEbTyxDcyggNb4YLpsO9zKzETYpBWh0PlleCLZxExpc7_djfwgR72O5qf1eC44RFT5Bex53x4HAlH4XiUF-wJmDyStLnaoc8fGARUSwg2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fer_qDdfqx2sRMTnjNjFbl_8lKh5QseNhBNmFNab5DbszsZccdyR9vNr_QXlIyzemwI9Q3z5VXeYk0yIlwu39YAl_w8dM2aMntxsmF96KWE1GfrrWjF9Z5SPEpP-Nmp6DIjyJmCe2fP0S7WId3FRha-yqw41&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Q_Qob4djrfoxBgO61pD_UNO20K3ZskKycmKc6tbd5ADFH88Oq2auGGOcBvpvFcE5KnugP06l0qtu7xC3pzbfF85DPIs7iKHHTw9EXDHfRb4n7rEzHMcrTJo5rZcoRNED7Cm2Y14nuqEcpYrBZrjXI8DUUNE1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=roWKpay7V0QpXelmhO5Pt8ITuEf-je3U0s11u6Lsok3pdgaH4HLxNfyOpaI5Kn2c-qT28YVyvpj5oc4Rw46zKH5pQ2Qx6TSdWdmqodnZY2uFeNA6xwIvM_4e6_zd4Aj82LPDqI8bZLUHDHXJw5pw1Rv9M3I1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HWzVvLjJqmfjSDScwoGrgsahC9OBlwXZoN7j4cNz2DCJ-V_viBWDzSSiTZX6V2Xof-TurzWq555sry2_HIPkRhjIvTmO6fGP232a2BlBLtagolZPMuHf_Et-SBkXYKMG51vm0aifrkYsIPUeQcaffgeSXuk1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5QPyFqIgi4qa3slGYlzuaAhQznTtLzjLiw9ju0D6EF16Kb22i0PVhAROADhSeOB_HmYuLfhbfjdtu7jNOpfzOIkvpOOXJHhd4PkznW0e6nVGOgwtweQeolqns73a6ey5b7i2CsVZmaYVvqaqxognVcIcr0A1&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
 <script src="WebServices/HRMWebService.asmx/jsdebug" type="text/javascript"></script>
-<script src="/WebResource.axd?d=AKQnSPmjXq0gA5X1jbpq4ExntT7LsZ0MehvtOENvqFppF5zqUujZVKUx6FqCxh-1UxPGuEeB20p7YrIKgzLznEKfbVo1&amp;t=635295292417495136" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKzhcb5DwL02/OtAgKB7cu1BQKu49GlCAKysMm1DAKO8aPRDwLevKzxCAK//bfaDgL3w9CqCALoxqLACgLN0p6kBAKQxtPhCQLU2572DZk6F1CSpUj5//pCVvs/IH1+XOq2">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKl9vrfCAKU3+PNCwK74LuRCwLD3ZHfDEDiv2aisiyeGEwnFXLOcUkyMxIO">
 </div>
         <div id="maincontainer" align="center">
-            <table align="center" style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
+            <table align="center" style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                    <td align="center">
-                        <table style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
+                    <td>
+
+                        <table align="center" class="fixheader">
                             <tbody><tr>
                                 <td align="center">
-                                    <table style="width: 950px;" border="0" cellpadding="1" cellspacing="2">
+                                    <table class="fullwidth" align="center">
                                         <tbody><tr>
-                                            <td align="right" style="width: 250px;">
-                                                <img src="Images/index_01.png" alt="">
+                                            <td>
+                                                <a style="text-decoration: none" href="../" target="_blank">
+                                                    <table cellspacing="0" cellpadding="0" border="0">
+                                                        <tbody><tr>
+                                                            <td class="logo_HR">HR</td>
+                                                            <td class="logo_Mantra">Mantra</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="logo_LetsLead" colspan="2">Lets Lead
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </a>
                                             </td>
-                                            <td align="left" style="width: 715px;">
-                                                <table style="width: 700px;" border="0" cellpadding="1" cellspacing="2">
+                                            <td id="ctl00_tdContacts" class="Label" valign="top" align="right">
+                                                <table cellspacing="0" cellpadding="0" border="0" width="100%">
                                                     <tbody><tr>
-                                                        <td colspan="2" align="right" style="font-family: Calibri; font-size: x-large; color: #FF9900; height: 20px;">
-                                                            <table border="0" cellpadding="1" cellspacing="2">
-                                                                <tbody><tr>
-
-                                                                    <td id="ctl00_tdLogin">
-                                                                        
-                                                                        <table border="0" cellpadding="1" cellspacing="2">
-                                                                            <tbody><tr>
-                                                                                <td align="right" class="white1" style="font-size: 8pt;">User
-                                                                                </td>
-                                                                                <td align="left">
-                                                                                    <input name="ctl00$txtuserName" type="text" id="ctl00_txtuserName" class="InputControl" style="border: none; width: 100px; height: 15px;">
-                                                                                </td>
-
-                                                                                <td align="right" class="white1" style="font-size: 8pt;">Password
-                                                                                </td>
-                                                                                <td align="left">
-                                                                                    <input name="ctl00$txtPassword" type="password" id="ctl00_txtPassword" class="InputControl" style="border: none; width: 100px; height: 15px;">
-                                                                                </td>
-                                                                                <td align="left">
-                                                                                    <input type="image" name="ctl00$ImgBtnSubmit" id="ctl00_ImgBtnSubmit" src="Images/Go.png" onclick="return CheckUserDetail();" style="border-width:0px;vertical-align: middle; margin-right: 1px; height: 20px; width: 25px;">
-                                                                                </td>
-                                                                                <td align="left" class="white1">&nbsp;&nbsp;<a onclick="return CheckUserDetail();" id="ctl00_LnkForgetPass" href="javascript:__doPostBack('ctl00$LnkForgetPass','')" style="font-size: 8pt; color: yellow">Forgot password?</a>
-                                                                                </td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td align="left" colspan="6">
-                                                                                    <span id="ctl00_lblError" style="font-size: 9pt; color: red"></span>
-                                                                                </td>
-                                                                            </tr>
-                                                                        </tbody></table>
-                                                                    </td>
-
-                                                                    <td>
-                                                                        
-                                                                    </td>
-                                                                    <td>
-                                                                        
-                                                                    </td>
-                                                                    <td>
-                                                                        
-                                                                    </td>
-                                                                    <td>
-                                                                        
-                                                                    </td>
-                                                                    <td>
-                                                                        
-                                                                    </td>
-                                                                </tr>
-                                                            </tbody></table>
+                                                        <td valign="middle" align="center">Call +91 9167747781 / 9167747782 
                                                         </td>
+
                                                     </tr>
                                                     <tr>
-                                                        <td align="left" style="height: 41px; width: 549px; font-family: verdana; font-size: 14pt; vertical-align: bottom; color: #FF9900">World's Most Powerful HR &amp; Payroll Software
-                                                        </td>
-                                                        <td align="right" valign="bottom">
-                                                            <font color="#888888">
-                                                                <a target="_blank" href="http://www.facebook.com/pages/HRMantra-Software-Pvt-Ltd/232498260130961?sk=app_129982580378550" style="color: #1155cc">
-                                                                    <img src="http://dl.dropbox.com/u/3722777/icon/facebook_16.png"></a>&nbsp;&nbsp;
-                                                        <a class="playable" target="_blank" href="http://www.youtube.com/watch?v=5lKPI5VNYdk" style="color: #1155cc">
-                                                            <img src="http://dl.dropbox.com/u/3722777/icon/youtube_16.png"></a>&nbsp;&nbsp;
-                                                        <a target="_blank" href="http://in.linkedin.com/in/hrmantra" style="color: #1155cc">
-                                                            <img src="http://dl.dropbox.com/u/3722777/icon/linkedin_16.png"></a>&nbsp;&nbsp;
-                                                        <a target="_blank" href="https://twitter.com/#%21/HRMantracom" style="color: #1155cc; margin-right: 15px;">
-                                                            <img src="http://dl.dropbox.com/u/3722777/icon/twitter_16.png"></a></font>
-                                                        </td>
+                                                        <td valign="top">&nbsp;&nbsp;</td>
+
+                                                    </tr>
+                                                    <tr align="center">
+                                                        <td valign="bottom" style="font-family: ProximaNovaLight,Arial,sans-serif; font-size: 14pt; font-weight: bold; vertical-align: middle; color: #ED2135">World's Most Powerful HR &amp; Payroll Software </td>
                                                     </tr>
                                                 </tbody></table>
+                                            </td>
+
+                                            <td valign="middle" align="right" style="width: 170px">
+                                                <a href="Demo.aspx" id="ctl00_lnkDemo" class="lnkDemo">Book Demo</a>
+                                            </td>
+
+                                            <td valign="middle" align="right">
+                                                <a id="ctl00_lnklogin" class="lnkLogin" href="login.aspx" align="right">Login </a>
+                                                
+                                            </td>
+                                        </tr>
+
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table align="center" class="menuTable" border="0">
+                                        <tbody><tr>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlHome" href="../">Home</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlFeature" href="Features.aspx">Features</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlWhyHr" href="WhyHr.aspx">Why HRMantra</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlCustomers" href="Customers.aspx">Customers</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlPricing" href="Pricing.aspx">Pricing</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlPartner" href="Partner.aspx">Partner</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlResources" href="Resources.aspx">Resources</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlContact" href="ContactUs.aspx">Contact</a>
+                                            </td>
+                                            <td class="menuItem">
+                                                <a id="ctl00_hlAboutUs" href="AboutUs.aspx">About Us</a>
                                             </td>
                                         </tr>
                                     </tbody></table>
                                 </td>
                             </tr>
-                            <tr>
-                                <td id="ctl00_TDHeader" align="center"><table style="width: 922px;" border="0" cellpadding="1" cellspacing="2">
-<tbody><tr><td><a href="Default.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image42','','Images/Home_Selected_11.jpg',1)"> 
-<img src="Images/Home_11.jpg" name="Image42" border="0"></a></td>
-<td><a href="Product.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image43','','Images/Product_Selected_12.jpg',1)">
-<img src="Images/Product_12.jpg" name="Image43" border="0"></a></td>
-<td><a href="WhyHr.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image44','','Images/WhyHr_Selected_13.jpg',1)"> 
-<img src="Images/WhyHr_13.jpg" name="Image44" border="0"></a></td>
-<td><a href="Customers.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image45','','Images/Customers_Selected_14.jpg',1)">
-<img src="Images/Customers_14.jpg" name="Image45" border="0"></a></td>
-<td><a href="WhySaas.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image47','','Images/WhySaas_Selected_16.jpg',1)">
-<img src="Images/WhySaas_16.jpg" name="Image47" border="0"></a></td>
-<td><a href="Partner.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image48','','Images/Partner_Selected_17.jpg',1)">
-<img src="Images/Partner_17.jpg" name="Image48" border="0"></a></td>
-<td><a href="Career.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image49','','Images/Career_Selected_18.jpg',1)">
-<img src="Images/Career_18.jpg" name="Image49" border="0"></a></td>
-<td><a href="ContactUs.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image50','','Images/ContactUs_Selected_19.jpg',1)">
-<img src="Images/ContactUs_19.jpg" name="Image50" border="0"></a></td>
-<td><a href="AboutUs.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image51','','Images/AboutUs_Selected_20.jpg',1)">
-<img src="Images/AboutUs_20.jpg" name="Image51" border="0"></a></td>
-</tr></tbody></table></td>
 
-                            </tr>
                         </tbody></table>
                     </td>
                 </tr>
+
+                <tr>
+                    <td id="ctl00_TDHeader" class="page-menu-wrapper" align="center"></td>
+
+                </tr>
+
                 <tr>
                     <td align="center">
                         <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ctl00$ToolkitScriptManager1', document.getElementById('aspnetForm'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepanel2'], [], [], 90);
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepanel3'], [], [], 90);
 //]]>
 </script>
 
 
-
                         
-                        <div id="ctl00_Updatepanel2">
+                        <!-- CEO SPEAK -->
+                        
+                        <div id="ctl00_Updatepanel3">
 	
-                                <div id="ctl00_panel3" class="modalPopup" style="background-image:url(Images/ChangePass.png);background-color: Transparent; border: none; display: none; height: 215px; width: 330px;">
+                                <div id="ctl00_panel5" class="modalPopup" style="background-color: Transparent; border: none; display: none; height: 550px; width: 870px;">
 		
-                                    <table width="100%">
-                                        <tbody><tr>
-                                            <td style="height: 5px"></td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" colspan="2">
-                                                <div id="ctl00_Panel4" style="cursor: move; border: none; color: Black; height: 15px; width: 315px">
+                                    <div id="ctl00_div1" style="height: 550px; width: 870px; -moz-border-radious: 20px; -webkit-border-radious: 20px; -khtml-border-radios: 20px; border-radius: 20px; background-color: White;">
+                                        <table>
+                                            <tbody><tr>
+                                                <td style="height: 5px"></td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center">
+                                                    <div id="ctl00_Panel6" style="cursor: move; border: none; background-color: White; color: Black; height: 25px; width: 860px">
 			
-                                                    <table>
-                                                        <tbody><tr>
-                                                            <td align="right" style="width: 220px">
-                                                                <div style="margin-left: 10px">
-                                                                    <font color="#993300" size="3px" style="font-weight: bold">Change Password</font>
-                                                                </div>
-                                                            </td>
-                                                            <td align="right" style="width: 50px" valign="top">
-                                                                <div style="margin-left: 40px">
-                                                                    <input type="image" name="ctl00$ImgBtnCancel" id="ctl00_ImgBtnCancel" src="Images/Cancel.png" onclick="ClearReset(event);" style="border-width:0px;cursor: pointer;">
-                                                                </div>
-                                                            </td>
-                                                        </tr>
-                                                    </tbody></table>
-                                                
+                                                        <table width="100%">
+                                                            <tbody><tr>
+                                                                <td style="padding-left: 15px;" align="left" class="PageTitle">CEO Speak
+                                                                </td>
+                                                                <td align="right" style="width: 110px" valign="top">
+                                                                    <div>
+                                                                        <input type="image" name="ctl00$imgCloseCEO" id="ctl00_imgCloseCEO" src="Images/Btn_Cancel.png" style="height:30px;width:30px;border-width:0px;cursor: pointer;">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan="2" style="padding: 15px;" align="center">
+                                                                    <div align="center">
+                                                                        <div id="ctl00_FlashVideo1">
+				<input id="ctl00_FlashVideo1_FlashVideo1objectHasPlayer" name="ctl00$FlashVideo1$FlashVideo1objectHasPlayer" type="hidden" value="false"><script type="text/javascript">
+	/* <![CDATA[ */ activex_direct_inject('ŷŻǂƸƠƏƐƓŽŬƛŶſŮźƁƝŽŬżſŬƹƻƨƺƹƷǁŧǀǁǂǀǁǂǀǁǂǀǁǂǀǁŬſůǂŷŽǂƣǁƻŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƃƚŵƁŭŹƌŷŽŽűưųžŷŽŽŭƚſŮƒŴƀũŻůƻƥǁǂǀǁǂǀǁǂǀǁǂǀǁŹźǁƺżŲſūŴŽŲŭƴŹżŮƛŵŽųżŴŬƟũƗŽǂƺƻǂżŲſūŴŽŲŭƴŹżŮƛŵŽųżŴŬƟũƗŽƺŷŽƹƷǁǂǀǁǂǀǁǂǀǁǂǀǁŧǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁžűžŭųżŴŬƳŻŻŭƝŴżŵŻųŮƞŨƙżƹŹżƸƴŪƀŶūżǂƣǁƻŬůŭŻƺƧǀǁǂǀǁǂǀǁǂǀǁǂǀŤơŽŭŹŪżƊƁƝŹŮżſŬƂƝųſŽżƹƻŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƻƴƿØñĤėĜėĕģ×ĠĘñÛĔĥĝææĕùğĔģĘĎĞęĚġãđĕģĘħĜÛÑĨĚĚĪĞðÚëààßÕĝĚěęĚģôÞèéäØÑĥįĦěðÚĔĠĠĤĞĘĖĦěġĝæįáħĜĠĔĜĭėĬĘàęĜđīĝÜÕĖēĦĐôÞĜĨĨġëàåĞĨĠĔġĤĢęãĘĤğáĉĔęĉęħģĦģĔěäėīėòĔíĢåċîĈĠĔđíįõāĘċĂèā÷ĎëĭğĊĪêëìĔþğćçćĤþċĎěøèéĚ÷Ĝçęěôåùêèõù÷ĥĪíĠăĜĪåĠìïĞČĔĢöĚĦâéĀċĬĨèĪïāìèħõąĨëėěèìæğÿåĬéýėåÜĉĜĕûāâÞçĜĀþçûôóăüëçĤúēĜĔĝêėąĦÞĘĪć÷ďĕġąéěĀąĖĄçěğóČįĉåÚĒĞġñĪóéææééèîåíãèâßççäääØÑïÖòĦĔĥĔĝÐĦĖĢĚïÙğĞĭĠęÛÔħĒĝīěóÚěħĤĠòääĝĤğēĝīĩĕâėĠĞàčěĘąĘĦğĥĪĘĚãēĪĖîěôĞäĊêćğĘĘìīôĀĔĊĉìĀöĊêĬěđıæêëĐýĞċîĆĠýĊĊĚÿìèęóěæĕĢûáøéäôøûĬĩéğĂĘĩìĤëîĚċēĞýġĢáèüĊīĬïĩëĀëäĦüĉħêēĚçèíĦûäīåüĖéãĈĘĔúýáåëěÿúæúðúĊøêæĠùĒĠěĜæĖĄĢÝğĮĆöċĔĠāðĢüĄĕĀæĚģúċīĈäÖđĥĥðĩïèåâððäíäéâçæææãããà×ØäóÕîĢēġĘĤÔĢĕĞĖîÝĜĢĔĦěĦđĪĨÜÕĨēĞĤĜôÛĕħġğĖĪĜĢĔĦěďēħģĩħġĞûóôĚĨĠäáĐ÷ĢėĩěĉĜĔĕħæÛĖğĢíðģģģīúĦĝĝĉęĨĘĘġíĤĪĪĚÛēğĢêøĬĨģĄĝĒĪóĪĨĨĘÙđĝĨð÷ĪĘĘėġċĠġęñæ×ĒģĦñüĠĔėĕčćāòØēğğòĊėĕĠĖþĠĚěóĦħĥĕĤěĝĩĤĘěĦÕĘĤĤïćęĠĨùĥĤħĥĢĜĀęģĚġïĦĤĤĜÝĕġĤìĄĜğĤċąÿðÕâĞČĚėĄėĥĞĬĩėęâĒĩĕÛéĜėØæĔãăğėğĊâĜĖøěīĘèôòćěĆĈĦàĀõĜĉĪĬĜûßĈęøĮćĞÿĕĄéĦěçĀöùñĪĩċĝęúĤ÷ħĭį÷ħéĆĜėĂèĪôäöĒäęøĥČīĖğåěĖČĞăùùæĉèħöëğćæěýāöùôþĝěăĥĨèêĖęčĐčåäÿěğıöĮăåãČĤğčĥČĈĉãäćĠĦćīìóÝĲďğëĢĄãøĚĬĉĊĀĦĥýĆæĮāãěöĜĢĆĊĠĢßĨßÜéêĨÙäĕçééïìãìàèéëååâââßçÝĕġĤìćĚĚěĥĈąÿíĘĬĩĥÚåē×áĝÜæĚĜģĞĒĤĪĨĔáĖğĝÝçěāěĔĤĐĩİÙæĚôöĀĉĦěĔĞáĖĜĮÛĖĢĢíĈĞģĬġęñâááÜėģģîÚÐßöÕñĥēĤēĜ×ĥĕġęîØĢīėĢĜħĬ×ÐĮĖġĪėïÙėĠĞĜÛÔàïÑòĦėĥĔĠÐĞęĢĚòÙĥĕĐģĜÛÔĪĒĝĦěóÝġĢĦēđĤĚÜÕáðÒëħĘĦĕġÑğĒģěóÚĔğĜğįĨĘħěĢĦĐĚĚęħħØÑħėĢīĘðÚđĜįĖĮĨÙÒáí×óĤĕĦĒĞÑĤėģĘðÚħĝħęĚÜÒĨēěĬĜñÛīĚğĕĥĭÝÓâñìĠęħĖĢÒĠēĜĜôÛġęğĦØÖĬėğĨĘí×ĬħĪĚÙÒáíóħĕĦĕĞÑğėģěðÚĔĜĜħĬûĪĞĞąĒĩĜęĢÛÑħĒĢīěðÚħĢĥĝÜÕäðîáĞęġęėĨïƿƹƥŭŰŧŦūŷųžűŪƴŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƃźŵƁŭŹǂƣǁơƍƑƔŻŭƜŴƀůŸƳƜŷųžƚŵƁŭŹƕűūŹŻƹƻŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƻƷƦǂƟƎƒƒżŮƓżžŷƀƴƚŵƁŭŹƌŷŽŽűƒƀŶżſŬŮƇƹžŮŴƱƲƁƛŶſŮźƊŸžŻŲƱƹƄǂƣǁŴŻŪǂƟƎƒƒżŮƓżžŷƀƴƚŵƁŭŹƌŷŽŽűƑŰűŭųƸƺſŬŵƲưƂƜŴƀůŸƋŹżżųƯƺƹƥǁŹźǁƺƿƠƏƐƓŽŬƛŶſŮźƁƝŽŬżſŬƹƻƧƺƹƷǁŧǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀƠƏƐƓŽŬƛŶſŮźƲƛŹŲŽƜŴƀůŸƔųŪŸŽƸƺſŬŵƲưƂƜŴƀůŸƋŹżżųƯƺƹƲŽƁŬƀƥƹƲƋŻſƐŻŮųūůſŻƳƁŨŽƣżƤƛƗƗƑƑƋŵŸƑŵƩŧƚƘƉƛżƇŬŸŮưưſƋƇƐƜƍƓƀűƠƊƗŵƛƩƋƙŸƖƕŷƌůƛƕƚŴŲƁƐƜƋƑƏƐƔƫƐūƩƖŬŶŶƨŨƔƧƝŭŵƕƮŲƓŭƭŵƪŻƩųƖƝŻſƯơƬŪűŲźźſŬƯƊŰƁŴƘŬƌƚůűŹƉƔƝƙƨŨƀŹƔƕƏŮƲŵŴƃŪūŰƘųƈƑƬƜƫƐƃƉžŬŮƂƈƧƘƩųƂƁŬƑżƋưƼŬƤƬƭƮƩƧƱƩưƩƱƪƱƲưƱƲưƱƻƥǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁơƍƑƔŻŭƜŴƀůŸƳƜŷųžƚŵƁŭŹƕűūŹŻƹƻŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƻƷƳſŸŸŶżƓųżżůƅưƅƲƀŮŬůŹžŬŮŻŮƇưƄƴŪƀŶūżƥƹƲƋŻſƐŻŮųūůſŻƳƁŨŽƣżƤƛƗƗƑƑƋŵŸƑŵƩŧƚƘƉƛżƇŬŸŮưưſƋƇƐƜƍƓƀűƠƊƗŵƛƩƋƙŸƖƕŷƌůƛƕƚŴŲƁƐƜƋƑƏƐƔƫƐūƩƖŬŶŶƨŨƔƧƝŭŵƕƮŲƓŭƭŵƪŻƩųƖƝŻſƯơƬŪűŲźźſŬƯƊŰƁŴƘŬƌƚůűŹƉƔƝƙƨŨƀŹƔƕƏŮƲŵŴƃŪūŰƘųƈƑƬƜƫƐƃƉžŬŮƂƈƧƘƩųƂƁŬƑżƋưƼŬƤƬƭƮƩƧƱƩưƩƱƪƱƲưƱƲưƱƻƥǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁžűžŭųżŴŬƳŻŻŭƝŴżŵŻųŮƞŨƙżƹƻŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƻƷƳŹŲųŽŮƙƎƓƕǂƣǁžűžŭųżŴŬƳŻŻŭƝŴżŵŻųŮƞŨƙżƹƻŽŭŶưƱƃƚŵƁŭŹƌŷŽŽűưƻƷƳŹŲųŽŮƙƎƓƕƧǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀŤťŽƀŮŽŹƺŻƸŧţŤŽŴŮŽǀŦǂǀǁǂǀǁǂǀǁǂǀǁǂǀūƁŮǁŹżǁƥǀƺſŬŵƲưƂƜŴƀůŸƋŹżżųƯƂƜŴƀůŸƋŹżżųƯŲƀŶżſŬƙƁŭƑŶſŨŽŮƺƧǀǁǂǀǁǂǀǁǂǀǁǂǀŸżǀƹžűžŭųżŴŬƳŻŻŭƝŴżŵŻųŮƞŨƙżǁƼƺǁžűžŭųżŴŬƳŻŻŭƝŴżŵŻųŮƞŨƙżƹŹżƸƹǀǁǂǀǁǂǀǁǂǀǁǂǀŦǂǀǁǂǀǁǂǀǁǂǀǁǂǀǁǂǀŽųŽŬŵŻųŮƲźŽŬƜŶŻŴŽŲŭƠŧƘžƸŸžƷƳŬſŵŭŻǁƥǀƺżſŵůŻƺƧǀǁǂǀǁǂǀǁǂǀǁǂǀŤǂţ');///*ĢĕġĖîØěĤėĕğĕġĖîØĭğĤėĢĪĜĕī();]]>*/ 
+</script>
+			</div>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    
 		</div>
-                                                <br>
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td style="width: 140px" align="right">
-                                                <span id="ctl00_lblUsername" style="color:Black;font-size:8pt;font-weight:bold;">User Name:</span>
-                                            </td>
-                                            <td align="left">
-                                                <input name="ctl00$txtUser" type="text" readonly="readonly" id="ctl00_txtUser" style="width:150px;">
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="width: 140px" align="right">
-                                                <span id="ctl00_lblNewPass" style="color:Black;font-size:8pt;font-weight:bold;">New Password:</span>
-                                            </td>
-                                            <td align="left">
-                                                <input name="ctl00$txtNewPass" type="password" id="ctl00_txtNewPass" style="width:150px;">
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="width: 140px" align="right">
-                                                <span id="ctl00_lblConfirmPass" style="color:Black;font-size:8pt;font-weight:bold;">Confirm Password:</span>
-                                            </td>
-                                            <td align="left">
-                                                <input name="ctl00$txtConfirmPass" type="password" id="ctl00_txtConfirmPass" style="width:150px;">
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td></td>
-                                            <td align="left">
-                                                <input type="submit" name="ctl00$btnResetPass" value="Save" onclick="Reset();" id="ctl00_btnResetPass" style="width:50px;vertical-align: middle;">
-                                                <br>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" colspan="2">
-                                                <span id="ctl00_lblResetPassError" style="color:Red;"></span>
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                    <br>
-                                    <br>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </div>
                                     <br>
                                 
 	</div>
                             
 </div>
-                        <input type="hidden" name="ctl00$HddMaxPwdLength" id="ctl00_HddMaxPwdLength">
-                        <input type="hidden" name="ctl00$HddMinPwdLength" id="ctl00_HddMinPwdLength">
-                        <input type="hidden" name="ctl00$HdUserID" id="ctl00_HdUserID">
 
                         
-    <table id="TabPrivacyPolicy" width="950px" border="0" cellpadding="0" cellspacing="0">
+    <table class="mainContainer" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
-            <td background="Images/white-space_01.jpg" width="950px" style="height: 36px">
+            <td align="center" class="PageTitle">HRMantra Privacy Policy
             </td>
         </tr>
         <tr>
-            <td align="center" background="Images/white-space_02.jpg" width="950px">
-                <table width="850px" border="0" cellpadding="0" cellspacing="0">
+            <td class="ContentFontStyle">
+                <table width="850px" border="0" cellpadding="0" cellspacing="0" align="center">
                     <tbody><tr>
-                        <td align="center" class="HeaderFontStyle">
-                            HRMantra Privacy Policy
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="ContentFontStyle">
-                            <table width="850px" border="0" cellpadding="0" cellspacing="0">
-                                <tbody><tr>
-                                    <td>
-                                        <p align="justify">
-                                            HRMantra respects the confidentiality of anyone who uses this HRMantra Web site
+                        <td>
+                            <p align="justify">
+                                HRMantra respects the confidentiality of anyone who uses this HRMantra Web site
                                             <a href="Default.aspx">www.HRMantra.com</a> and HRMantra online applications.
                                             <br>
-                                            <br>
-                                            HRMantra provides its service to you subject to the HRMantra software and services
+                                <br>
+                                HRMantra provides its service to you subject to the HRMantra software and services
                                             terms of service and this Privacy Policy, which shall be considered a&nbsp;part
                                             of the Terms of Service. We reserve the right to change this Privacy Policy anytime.&nbsp;We
                                             gather&nbsp; important information from our customers and visitors. We publish this
                                             Privacy Policy to communicate how we gather and use information about our customers
                                             &amp; visitors, how we protect it, and how you can participate in its protection.
                                             <br>
-                                            <br>
-                                            We require those people who register to use a HRMantra online applications (the
+                                <br>
+                                We require those people who register to use a HRMantra online applications (the
                                             "Services") to give us contact information. Depending on the services chosen, we
                                             ask for contact and account information, such as name, company name, address, phone
                                             number, e-mail address, password and the number of users in the organization who
@@ -481,8 +563,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                                             time by logging into the Website and editing their Personal Information within Setup.
                                             Customers can view their updated profile to confirm their edits have been made.
                                             <br>
-                                            <br>
-                                            HRMantra does not scatter or share customer e-mail addresses, except as noted in
+                                <br>
+                                HRMantra does not scatter or share customer e-mail addresses, except as noted in
                                             its Terms of Service, or as may be required by law. We collect this information
                                             to set up the Services for individuals and their organizations. We may also use
                                             the information to contact customers and prospects to further discuss their interest
@@ -491,8 +573,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                                             or partners. We may also e-mail a customer newsletter and updates about the Services
                                             or the company.&nbsp;
                                             <br>
-                                            <br>
-                                            All financial and billing information that we collect through the Site is used only
+                                <br>
+                                All financial and billing information that we collect through the Site is used only
                                             to check the qualifications of prospective customers and to bill for the Service.
                                             This billing information is not used by us for marketing or promotional purposes.
                                             We uses a third-party intermediary to manage the credit card processing. This intermediary
@@ -505,8 +587,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                                             address. HRMantra.com will automatically send the friend a one-time email inviting
                                             them to visit the site. HRMantra.com does not store this information.
                                             <br>
-                                            <br>
-                                            HRMantra customers use HRMantra online applications to host data and information.
+                                <br>
+                                HRMantra customers use HRMantra online applications to host data and information.
                                             HRMantra will not review, share, distribute, print, or reference any such data except
                                             as provided in the HRMantra Terms of Service, or as may be required by law. We will
                                             view or access individual records only with your permission (for example, to resolve
@@ -517,13 +599,14 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                                             to help diagnose technical problems and to administer the HRMantra Web site and
                                             Services in order to constantly improve quality. We may also track and analyze non-identifying
                                             and aggregate usage and volume statistical information from visitors and customers
-                                            and provide such information to third parties.</p>
-                                        <p align="justify">
-                                            <strong>Cookies Services.
+                                            and provide such information to third parties.
+                            </p>
+                            <p align="justify">
+                                <strong>Cookies Services.
                                                 <br>
-                                            </strong>
-                                            <br>
-                                            When any customers and visitors interact with our Website we try to make that experience
+                                </strong>
+                                <br>
+                                When any customers and visitors interact with our Website we try to make that experience
                                             easy and meaningful. When you come to our Web site, our Web server sends a cookie
                                             to your computer. Cookies are Session files that Web browsers place on a computer's
                                             hard drive. They help us to authenticate clients and provide timesaving shortcuts
@@ -536,20 +619,20 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                                             information for the duration of a specific session. If you reject this cookie, access
                                             to and usage of the Services will be denied.
                                             <br>
-                                            <br>
-                                            <strong>Third Party Sites</strong>
-                                            <br>
-                                            The HRMantra Web site and online applications contain links to other Web sites.
+                                <br>
+                                <strong>Third Party Sites</strong>
+                                <br>
+                                The HRMantra Web site and online applications contain links to other Web sites.
                                             HRMantra is not responsible for the privacy practices or the content of these other
                                             Web sites. Customers and visitors must check the policy statement of these others
                                             Web sites to understand their policies. Customers and visitors who access a linked
                                             site may be disclosing their private information. It is your responsibility to keep
                                             such information private and confidential.
-                                        </p>
-                                        <p>
-                                            <strong>Security</strong>
-                                            <br>
-                                            HRMantra has security measures in place for the Services to help protect against
+                            </p>
+                            <p>
+                                <strong>Security</strong>
+                                <br>
+                                HRMantra has security measures in place for the Services to help protect against
                                             the loss, misuse and alteration of the data under HRMantra's control. When the Services
                                             are accessed using&nbsp;Microsoft Internet Explorer versions 5.5 or higher, Secure
                                             Socket Layer (SSL) technology protects information using both server authentication
@@ -560,62 +643,53 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                                             outside intruders. Finally, HRMantra requires unique user names and passwords that
                                             must be entered each time a customer logs on. These safeguards help prevent unauthorized
                                             access, maintain data accuracy and ensure the appropriate use of data.
-                                        </p>
-                                        <p>
-                                            <strong>Opt-Out Policy</strong>
-                                            <br>
-                                            HRMantra offers you a means to choose how we may use information you provided. If,
+                            </p>
+                            <p>
+                                <strong>Opt-Out Policy</strong>
+                                <br>
+                                HRMantra offers you a means to choose how we may use information you provided. If,
                                             at any time after registering for information or ordering the Services, you change
                                             your mind about receiving information from us or about sharing information with
                                             third parties, send us a request specifying your new choice. Send your request to
                                             <a href="mailto:info@HRMantra.com">info@HRMantra.com</a>.
-                                        </p>
-                                        <p>
-                                            <strong>Correcting and Updating
+                            </p>
+                            <p>
+                                <strong>Correcting and Updating
                                                 <br>
-                                            </strong>Your Information To update or change registration information, to update
+                                </strong>Your Information To update or change registration information, to update
                                             billing information, or to discontinue the Services, log on to the Services at a
                                             HRMantra Web site, click the Setup tab, and click links to these tasks. You can
                                             also correct and update information by e-mailing info@HRMantra.com or by calling
                                             us.
-                                        </p>
-                                        <p>
-                                            <strong>Additional Information</strong>
-                                            <br>
-                                            Any Questions regarding this Privacy Policy or the security practices of the Services
+                            </p>
+                            <p>
+                                <strong>Additional Information</strong>
+                                <br>
+                                Any Questions regarding this Privacy Policy or the security practices of the Services
                                             should be directed to HRMantra's Security Administrator by e-mailing <span class="redtext">
                                                 <a href="mailto:info@HRMantra.com">info@HRMantra.com</a></span>.
-                                        </p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a href="TermsAndConditions_SaaS.aspx"><strong><u>SaaS - Terms And Conditions</u></strong></a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        &nbsp;
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <a href="TermsAndConditions_Installed.aspx"><strong><u>Installed - Terms And Conditions</u></strong></a>
-                                    </td>
-                                </tr>
-                            </tbody></table>
+                            </p>
                         </td>
                     </tr>
                     <tr>
                         <td>
-                            &nbsp;
+                            <a href="TermsAndConditions_SaaS.aspx"><strong><u>SaaS - Terms And Conditions</u></strong></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="TermsAndConditions_Installed.aspx"><strong><u>Installed - Terms And Conditions</u></strong></a>
                         </td>
                     </tr>
                 </tbody></table>
             </td>
         </tr>
         <tr>
-            <td background="Images/white-space_03.jpg" width="950px" style="height: 39px">
+            <td>&nbsp;
             </td>
         </tr>
     </tbody></table>
@@ -623,31 +697,69 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
                     </td>
                 </tr>
                 <tr>
-                    <td>
-                        <table class="Footer" style="width: 100%;" border="0" cellpadding="1" cellspacing="2">
+                    <td style="height: 20px;"></td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <table align="center" width="1000px" cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
-                                <td align="left">Best viewed in resolution 1024 x 768
-                                </td>
-                                <td align="center">
-                                    <table class="Footer" border="0" cellpadding="1" cellspacing="2">
-                                        <tbody><tr>
-                                            <td>
-                                                <a class="Footer" target="_blank" href="sitemap.htm">Sitemap</a>&nbsp;|&nbsp;
-                                            </td>
-                                            <td>
-                                                <a class="Footer" target="_blank" href="Library/brochure.pdf">Brochure</a>&nbsp;|&nbsp;
-                                            </td>
-                                            <td align="center">
-                                                <a class="Footer" href="PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;|&nbsp;
-                                            </td>
-                                            <td>
-                                                <a class="Footer" href="FAQs.aspx">FAQs</a>
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
+                                <td align="right">
+                                    <a id="ctl00_lnkCEOSpeak" class="CEOSpeakButton" href="default.aspx">CEO Speak</a>
                                 </td>
 
-                                <td align="right">Copyright © HRMantra Software Pvt. Ltd.
+                                <td style="font-family: ProximaNovaLight,Arial,sans-serif; font-size: 14pt; font-weight: bold; text-align: center; color: #ED2135">HRMantra saves 30 min per emp per day giving over 10 times ROI </td>
+                                <td align="left">
+                                    <a class="ROIButton" href="calculateROI.aspx">Calculate ROI</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="height: 20px;"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <table class="Footer" border="0" cellpadding="4" cellspacing="0">
+                            <tbody><tr>
+                                
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="2">
+                                    <a class="footerLinks" href="..">Home</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="Features.aspx">Features</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="WhyHr.aspx">Why HRMantra</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="Customers.aspx">Customers</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="Pricing.aspx">Pricing</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="WhySaas.aspx">Why SaaS</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="Partner.aspx">Partner</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="Resources.aspx">Resources</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="Career.aspx">Career</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="ContactUs.aspx">Contact Us</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="AboutUs.aspx">About Us</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top" align="center" colspan="2">
+                                    <a class="footerLinks" target="_blank" href="sitemap.htm">Sitemap</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" target="_blank" href="Library/brochure.pdf">Brochure</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;|&nbsp;
+                                    <a class="footerLinks" href="FAQs.aspx">FAQs</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-style: italic;">Copyright © HRMantra Software Pvt. Ltd.
+                                </td>
+                                <td valign="top" align="right">
+                                    <a target="_blank" href="http://www.facebook.com/pages/HRMantra-Software-Pvt-Ltd/232498260130961?sk=app_129982580378550" style="color: #1155cc">
+                                        <img alt="facebook" src="~/Images/facebook_16.png"></a>&nbsp;&nbsp;
+                                                        <a class="playable" target="_blank" href="http://www.youtube.com/watch?v=5lKPI5VNYdk" style="color: #1155cc">
+                                                            <img alt="youtube" src="~/Images/youtube_16.png"></a>&nbsp;&nbsp;
+                                                        <a target="_blank" href="http://in.linkedin.com/in/hrmantra" style="color: #1155cc">
+                                                            <img alt="linkedin" src="~/Images/linkedin_16.png"></a>&nbsp;&nbsp;
+                                                        <a target="_blank" href="https://twitter.com/#%21/HRMantracom" style="color: #1155cc; margin-right: 15px;">
+                                                            <img alt="twitter" src="~/Images/twitter_16.png"></a>
+
                                 </td>
                             </tr>
                         </tbody></table>
@@ -656,15 +768,15 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$Updatepan
             </tbody></table>
         </div>
         
-        <div id="extruderRight" class="a {title:'Book a Demo', url:'parts/extruderLeft.html'} extruder right" exttitle="Book a Demo" exturl="parts/extruderLeft.html" style="z-index: 100; position: fixed; top: 0px; right: 0px; width: 1px; opacity: 0.8;"><div class="ext_wrapper" style="position: absolute; width: 1px;"><div class="extruder-content" style="overflow: hidden; width: 1px; height: 550px;"><div class="container" style="width: 350px;">
-            <iframe id="ifDemo" src="Demo_New.aspx" height="607" width="360" allowtransparency="True" frameborder="0"></iframe>
-        </div></div><div class="footer"></div><div class="flap" style="top: 163px;"><span class="flapLabel" style="white-space: nowrap; position: relative; width: 26px;"><object class="flip_label" style="height:100px; width:26px;" type="image/svg+xml" data="data:image/svg+xml; charset=utf-8 ,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;26px&quot; height=&quot;100px&quot; fill=&quot;rgb(255, 255, 255)&quot; stroke=&quot;none&quot;&gt;&lt;/rect&gt;&lt;text  x=&quot;-0&quot; y=&quot;0&quot; font-family=&quot;Times New Roman&quot;  fill=&quot;rgb(0, 0, 0)&quot; font-size=&quot;18&quot;  style=&quot;text-anchor: start; dominant-baseline: hanging&quot; transform=&quot;rotate(90, 13, 13)&quot; text-rendering=&quot;optimizeSpeed&quot;&gt;Book a Demo&lt;/text&gt;&lt;/svg&gt;"></object></span><div style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: transparent;"></div></div></div></div>
-
+        
     
 
 <script type="text/javascript">
 //<![CDATA[
-WebForm_AutoFocus('ctl00_txtuserName');Sys.Application.initialize();
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgCloseCEO","PopupControlID":"ctl00_panel5","PopupDragHandleControlID":"ctl00_Panel6","X":100,"Y":30,"cacheDynamicResults":true,"dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupExtender3"}, null, null, $get("ctl00_lnkCEOSpeak"));
+});
 //]]>
 </script>
 </form>
@@ -693,6 +805,29 @@ WebForm_AutoFocus('ctl00_txtuserName');Sys.Application.initialize();
     ga('send', 'pageview');
 
 </script>
+
+<script src="Scripts/FixHeader/headhesive.js"></script>
+
+<script>
+
+    // Set options
+    var options = {
+        offset: '#showHere',
+        classes: {
+            clone: 'banner--clone',
+            stick: 'banner--stick',
+            unstick: 'banner--unstick'
+        }
+    };
+
+    // Initialise with options
+    var banner = new Headhesive('.fixheader', options);
+
+    // Headhesive destroy
+    // banner.destroy();
+</script>
+
+
 
 
 </body></html>
