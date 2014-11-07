@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationstrust.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509171414id_/http%3A//www.nationstrust.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstrust.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107134711id_/http%3A//www.nationstrust.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Nations Trust Bank, Sri Lanka - Personal Banking, Corporate Banking, American Express, SME Banking
 
