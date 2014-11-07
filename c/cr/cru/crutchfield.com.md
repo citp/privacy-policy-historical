@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606182030id_/http%3A//www.crutchfield.com/ISEO-ralscspd/app/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107032151id_/http%3A//www.crutchfield.com/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
@@ -14,7 +14,7 @@ By visiting Crutchfield.com you agree to accept the practices described in this 
 
 ###  Changes to this Privacy Notice, Conditions of Use and Notices
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on 1/21/2014. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on 6/19/2014. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including the application of the laws of the Commonwealth of Virginia.
 
 ###  Personal Information Collected By Crutchfield
 
@@ -42,7 +42,7 @@ Third party service providers: Some of the products which we sell require us to 
 
 Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1.888.955.6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s). 
 
-Crutchfield has contracted with TurnTo Networks to provide Social Question and Answer functionality on Crutchfield.com, which enables shoppers to ask questions of customers who actually bought the items they are considering. When you place an order, we will send TurnTo the purchaser’s first and last name, email address, zip code and information about the items ordered. As a purchaser, you may receive emails asking you to answer questions about the products you purchased. You may opt out of Social Q&A emails by unsubscribing from all Crutchfield email at this [link](https://www.crutchfield.com/scgi-bin/Subscriptions.asp) or by calling 1.800.319.8264 toll-free. 
+Crutchfield has contracted with TurnTo Networks to provide Social Question and Answer functionality on Crutchfield.com, which enables shoppers to ask questions of customers who actually bought the items they are considering. When you place an order, we will send TurnTo the purchaser’s first and last name, email address, zip code and information about the items ordered. As a purchaser, you may receive emails asking you to answer questions about the products you purchased. You may opt out of Social Q&A emails by unsubscribing from all Crutchfield email at this [link](https://www.crutchfield.com/ISEO-ralscspd/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free. 
 
 Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually. 
 
@@ -80,9 +80,9 @@ We support several options for limiting the amount and type of information you s
 
   * You can choose to browse our Web site without accepting cookies. Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our website, but will not be able to take advantage of certain website features. We do not currently monitor or honor any "Do Not Track" browser settings.
   * You may opt out of Omniture information collection by clicking [here](http://www.omniture.com/privacy/2o7#optout).
-  * You may opt out of select third party action-based advertising by visiting the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20140606182030id_/http%3A//www.crutchfield.com/ISEO-ralscspd/app/www.networkadvertising.org/managing/opt_out.asp)
-  * You may opt out of Social Q&A powered by TurnTo by unsubscribing from all Crutchfield emails [here](https://www.crutchfield.com/scgi-bin/Subscriptions.asp) or by calling 1.800.319.8264 toll-free.
-  * You may opt out of email marketing communications by clicking [here](https://www.crutchfield.com/scgi-bin/Subscriptions.asp) or by calling 1.800.319.8264 toll-free.
+  * You may opt out of select third party action-based advertising by visiting the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20141107032151id_/http%3A//www.crutchfield.com/www.networkadvertising.org/managing/opt_out.asp)
+  * You may opt out of Social Q&A powered by TurnTo by unsubscribing from all Crutchfield emails [here](https://www.crutchfield.com/ISEO-ralscspd/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free.
+  * You may opt out of email marketing communications by clicking [here](https://www.crutchfield.com/ISEO-ralscspd/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free.
 
 
 
