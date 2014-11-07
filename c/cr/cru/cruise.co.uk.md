@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519004443id_/http%3A//www.cruise.co.uk/cruise-guides/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.co.uk privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107233200id_/http%3A//www.cruise.co.uk/cruise-guides/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | www.CRUISE.co.uk | www.CRUISE.co.uk
+# Privacy Policy | www.CRUISE.co.uk
 
   **Privacy & Cookie Policy:**
 
@@ -95,3 +95,53 @@ Calls may be recorded for training & quality purposes.
 **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [marketing@cruise.co.uk](mailto:marketing@cruise.co.uk)
+
+## 
+
+We can tailor make a cruise to your specific needs
+
+Talk to our consultants
+
+Talk to the team for friendly advice or to book your cruise 
+
+0800 408 6228
+
+  * **Opening Hours:**
+  * Monday-Friday 8.00am - 10.00pm
+  * Saturday 8.00am - 10.00pm
+  * Sunday 9.00am - 10.00pm
+  * **Open Everyday Except:**
+  * Christmas Day, Boxing Day New Years Day
+
+
+
+For more content and advice discover our
+
+Cruise Community
+
+## 
+
+Not found the Cruise Line infomation you need?
+
+Cruise Line Homepages
+
+  * [](https://web.archive.org/lines/celebrity-cruises/)
+  * [](https://web.archive.org/lines/fred-olsen-cruises/)
+  * [](https://web.archive.org/lines/holland-america-line/)
+  * [](https://web.archive.org/lines/msc-cruises/)
+  * [](https://web.archive.org/lines/ncl-cruises/)
+  * [](https://web.archive.org/lines/pando-cruises/)
+  * [](https://web.archive.org/lines/princess-cruises/)
+  * [](https://web.archive.org/lines/royal-caribbean-cruises/)
+  * [](https://web.archive.org/lines/cunard-cruises/)
+  * [](https://web.archive.org/lines/disney-cruises/)
+  * [](https://web.archive.org/lines/carnival-cruises/)
+  * [](https://web.archive.org/lines/oceania-cruises/)
+
+
+
+## 
+
+Not found the destination you're looking for?
+
+Cruise Destinations
