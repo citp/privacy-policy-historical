@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506233902id_/http%3A//lj.libraryjournal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107021219id_/http%3A//lj.libraryjournal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,5 +64,5 @@ This Site contains content, services, advertising and other materials that link 
 This Site is operated by:  
 websupport@mediasourceinc.com  
 Library Journals LLC  
-160 Varick St, 11th Fl.  
-New York, NY 10013
+123 William St., Suite 802  
+New York, NY 10038
