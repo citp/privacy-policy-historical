@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508212641id_/http%3A//www.bdm.vic.gov.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107212935id_/http%3A//www.bdm.vic.gov.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy - Births, Deaths & Marriages Victoria
 
 ## You are here:
 
-This page contains BDM's Website privacy statement. You can also read BDM's [Privacy policy](https://web.archive.org/wps/wcm/connect).  
+This page contains BDM's Website privacy statement. You can also read BDM's [Privacy policy](https://web.archive.org/utility/about+us/legislation+and+policies/privacy+policy/privacy+policy).  
  
 
 * * *
@@ -26,7 +26,7 @@ Personal information may be collected via the website including, but not limited
 
 
   
-The Registry also collects information through WebTrends designed to track the number of unique visitors to the website. The information collected by WebTrends does not identify a user.
+The Registry also collects information through Google Analytics designed to track the number of unique visitors to the website. The information collected by Google Analytics does not identify a user.
 
 ## **How and why personal information is collected on this website**
 
@@ -52,7 +52,7 @@ Once any personal information is received by the Registry, all reasonable steps 
 
 If you have any concerns about conveying sensitive material over the Internet, you can [contact the Registry](https://web.archive.org/utility/contact+us/).
 
-In addition to data collected by WebTrends, the Registry's website also uses cookies for some parts of this website.
+In addition to data collected by Google Analytics, the Registry's website also uses cookies for some parts of this website.
 
 Most browsers will allow some or all cookies by default. However, you can take steps to erase cookies, block cookies or receive a warning before a cookie is stored, by altering your own browser's cookies settings (usually through the Tools options).
 
