@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rx2.eu privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507091020id_/http%3A//www.rx2.eu/%3Fp%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rx2.eu privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107142349id_/http%3A//www.rx2.eu/%3Fp%3D13) for the most accurate reproduction.*
 
 # Privacy Policy | RX2.eu - the bot factory
 
