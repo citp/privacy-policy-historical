@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knicket.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114239id_/http%3A//en.knicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knicket.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107065409id_/http%3A//en.knicket.com/privacy) for the most accurate reproduction.*
 
 # KNICKET - Privacy Policy
 
