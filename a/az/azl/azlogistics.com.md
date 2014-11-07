@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azlogistics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053701id_/http%3A//azlogistics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlogistics.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107130021id_/http%3A//azlogistics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | azlogistics.com
 
