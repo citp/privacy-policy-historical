@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045710id_/http%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010805id_/http%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # 80sTees.com Privacy Policy
 
@@ -34,7 +34,7 @@ You can opt out from Google Serving ads based on your actions on 80sTees.com and
 
 Opting Out 
 
-If you would like to opt out of our exchange of your information with other marketers, please let us know by sending us an email at displaycontact(contacts[0], "inliner", "text", ""), including your full name, email address, mailing address, and specifically what information you do not want to receive, and we will use commercially reasonable efforts to implement your request as promptly as possible. You may opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page.
+If you would like to opt out of our exchange of your information with other marketers, please let us know by sending us an email at , including your full name, email address, mailing address, and specifically what information you do not want to receive, and we will use commercially reasonable efforts to implement your request as promptly as possible. You may opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page.
 
 California Shine the Light Law 
 
