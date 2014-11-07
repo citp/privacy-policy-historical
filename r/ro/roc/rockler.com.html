@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the rockler.com privacy policy that was archived on 2014-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140516053326id_/http%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockler.com privacy policy that was archived on 2014-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107011759id_/http%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3DPT"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQAVFBWGwEHUVBbAQc="};window.NREUM||(NREUM={}),__nr_require=function t(e,n,r){function o(i){if(!n[i]){var a=n[i]={exports:{}};e[i][0].call(a.exports,function(t){var n=e[i][1][t];return o(n?n:t)},a,a.exports,t,e,n,r)}return n[i].exports}for(var i=0;i<r.length;i++)o(r[i]);return o}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=i[t],o=r&&r.length||0,s=n[a]||(n[a]={}),d=0;o>d;d++)r[d].apply(s,e);return s}function r(t,e){var n=i[t]||(i[t]=[]);n.push(e)}function o(t){return delete t[a]}var i={},a="nr@context";e.exports={on:r,emit:n,clear:o}},{}],2:[function(t){function e(t,e,o,a,d){return s?s-=1:n("err",[d||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){n.inPlace(this,i,"fn-")}var n=t(1),r=t(2),o=window.XMLHttpRequest,i=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(t){var i=new o(t);return r.emit("new-xhr",[],i),n.inPlace(i,["addEventListener","removeEventListener"],"-",function(t,e){return e}),i.addEventListener("readystatechange",e,!1),i},window.XMLHttpRequest.prototype=o.prototype},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;p>o;o++)t.removeEventListener(u[o],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,s="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(s);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,i("xhr",[n,r])}}}function r(t,e){var n=a(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function o(t,e){return e}t("loader").features.push("xhr");var i=t("handle"),a=t(1),s=t(5),d=t(6),u=["load","error","abort","timeout"],p=u.length,f=t(2);t(3),t(4),d.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),s.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),d.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),d.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var a=e(o);a&&(r.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){}};for(var s=0;p>s;s++)n.addEventListener(u[s],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:15,6:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=d.createElement("script");e.src=c.proto+t.agent,d.body.appendChild(e)}}function r(){"complete"===d.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,d=s.document,u="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};d[u]?(d[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(d[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,s=i(arguments),d=this,u=n&&n(s,d)||{};o.emit(e+"start",[s,d,r],u)}catch(p){}try{return a=t.apply(d,s)}catch(f){try{o.emit(e+"err",[s,d,f],u)}catch(p){}throw f}finally{try{o.emit(e+"end",[s,d,a],u)}catch(p){}}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,d="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,d?a+r:r,o,a,t))}var o=t(1),i=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-3DPT"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQAVFBWGwEHUVBbAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>Privacy Policy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> <meta name="description" content="Shop for Woodworking Tools, Plans, Finishing and Hardware online at Rockler Woodworking and Hardware.  Find thousands of woodworking supplies like drawer slides, hardwoods, cabinet hinges, and knobs and pulls.  Plus, Rockler has great tools like router tables, clamps, roller ball stands, and more for your workshop.">
 <meta name="keywords" content="woodworking, hardware, hardware store, home improvement store, hand tools,  power tools, woodworking plans, woodcraft supplies, wood finishing supplies, adhesives, wood glue, cabinet hardware, custom cabinet doors, locks, hinges, drawer slides, kitchen hardware, lumber, hardwood, woodturning tools, woodworking articles">
@@ -24,32 +24,32 @@
 </script>
 <![endif]-->
 
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/e3cfdad18408299ec15145ba2e613376_1395663064.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/aeb816be7746ff05cc5e44e6381b4551_1395663064.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/6717e73da3567a1139ef8d4c45da3ec1_1411043081.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/aeb816be7746ff05cc5e44e6381b4551_1395663064.css" media="print">
 <!--[if lt IE 7]>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/302dbb0eb7c0ba09025ecb16204cdefc_1398860209.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/302dbb0eb7c0ba09025ecb16204cdefc_1412856569.css" media="all">
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/172f50941d34d38f30525479dca7ea64_1395663064.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/172f50941d34d38f30525479dca7ea64_1395663064.css" media="all" />
 <![endif]-->
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/9d28fbd01424c7601adc415169396199_1395663064.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/9d28fbd01424c7601adc415169396199_1395663064.css" media="all" />
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/63032af4e1ec67118af9642bffe43830_1398860209.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/63032af4e1ec67118af9642bffe43830_1398860209.css" media="all" />
 <![endif]-->
 <!--[if IE 9]>
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/4375928c58bc9010e7e487057c78b5f3_1395663064.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/4375928c58bc9010e7e487057c78b5f3_1395663064.css" media="all" />
 <![endif]-->
 <!--[if lte IE 8]>
 <![endif]-->
 <!--[if lte IE 9]>
-<link rel="stylesheet" type="text/css" href="http://assets.rockler.com/media/css/6a60fc36891801ff7182943c9b5d42fd_1395663064.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.rockler.com/media/css/6a60fc36891801ff7182943c9b5d42fd_1395663064.css" media="all" />
 <![endif]-->
 <script type="text/javascript" src="http://www.rockler.com/js/dist/core.min.js"></script>
-<script type="text/javascript" src="http://assets.rockler.com/media/js/8c8064735f4dc6016af7314e8c8b9bc9_1398860209.js"></script>
+<script type="text/javascript" src="http://www.rockler.com/media/js/8c8064735f4dc6016af7314e8c8b9bc9_1411043081.js"></script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://assets.rockler.com/media/js/b99c363289a4c63f2457bfc9f18824bf_1395663063.js"></script>
+<script type="text/javascript" src="http://www.rockler.com/media/js/b99c363289a4c63f2457bfc9f18824bf_1395663063.js"></script>
 <![endif]-->
 <!--[if IE]>
 <![endif]-->
@@ -60,7 +60,7 @@
 <!--[if IE 9]>
 <![endif]-->
 <!--[if lte IE 8]>
-<script type="text/javascript" src="http://assets.rockler.com/media/js/18398d071bc4a9af35e05c59cd661b1c_1395663064.js"></script>
+<script type="text/javascript" src="http://www.rockler.com/media/js/18398d071bc4a9af35e05c59cd661b1c_1395663064.js"></script>
 <![endif]-->
 <!--[if lte IE 9]>
 <![endif]-->
@@ -92,10 +92,7 @@ var slibaseurl = 'www.rockler.com';
 
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
-<script type="text/javascript">/*<![CDATA[*/(function(e,f){function h(a){if(a.mode){var b=g("mobify-mode");b&&a[b]||(b=a.mode(c.ua));return a[b]}return a}function m(){function a(a){e.addEventListener(a,function(){c[a]=+new Date},!1)}e.addEventListener&&(a("DOMContentLoaded"),a("load"))}function n(){var a=new Date;a.setTime(a.getTime()+3E5);f.cookie="mobify-path=; expires="+a.toGMTString()+"; path=/";e.location.reload()}function p(){k({src:"https://preview.mobify.com/v7/"})}function g(a){if(a=f.cookie.match(RegExp("(^|; )"+a+"((=([^;]*))|(; |$))")))return a[4]||""}function l(a){f.write('<plaintext style="display:none">');setTimeout(function(){d.capturing=!0;a()},0)}function k(a,b){var e=f.getElementsByTagName("script")[0],c=f.createElement("script"),d;for(d in a)c[d]=a[d];b&&c.setAttribute("class",b);e.parentNode.insertBefore(c,e)}var d=e.Mobify={},c=d.Tag={};d.points=[+new Date];d.tagVersion=[7,0];c.ua=e.navigator.userAgent;c.getOptions=h;c.init=function(a){c.options=a;if(""!==g("mobify-path"))if(m(),a.skipPreview||"true"!=g("mobify-path")&&!/mobify-path=true/.test(e.location.hash)){var b=h(a);if(b){var d=function(){b.post&&b.post()};a=function(){b.pre&&b.pre();k({id:"mobify-js",src:b.url,onerror:n,onload:d},"mobify")};!1===b.capture?a():l(a)}}else l(p)}})(window,document);Mobify.Tag.init({url:'//cdn.mobify.com/swift/rockler/production/mobify.js',capture:!1});/*]]>*/</script>
-<!-- END MOBIFY -->
-<script src="//secure.rockler.com/gascript.js" language="JavaScript" type="text/JavaScript"></script>
+        //]]></script><script src="//secure.rockler.com/gascript.js" language="JavaScript" type="text/JavaScript"></script>
 </head>
 <body class=" cms-page-view cms-privacy-policy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
@@ -278,8 +275,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <span>Fasteners</span>
             </a>
           </li>
-          <li class="level2 parent">
-            <a href="http://www.rockler.com/home-automation/">
+          <li class="level2">
+            <a href="http://www.rockler.com/hardware/home-automation/">
               <span>Home Automation</span>
             </a>
           </li>
@@ -424,58 +421,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <div>
                               <div>
     <ul>
-      <li><a href="/power-tools">Power Tools</a></li>
-      <li><a href="/power-tools/cnc-machines">CNC Machines</a></li>
-      <li><a href="/power-tools/power-saws">Saws</a></li>
-      <li><a href="/power-tools/routers">Routers</a></li>
-      <li><a href="/power-tools/lathes">Lathes</a></li>
-      <li><a href="/power-tools/planers">Planers</a></li>
-      <li><a href="/power-tools/joiners">Joiners</a></li>
-      <li><a href="/power-tools/drill-presses">Drill Presses</a></li>
-      <li><a href="/power-tools/sanders">Sanders</a></li>
-      <li><a href="/power-tools/multi-tool">Multi-Tools</a></li>
-      <li><a href="/power-tools/handheld-drills">Handheld Drills</a></li>
+      <li><a href="http://www.rockler.com/power-tools">Power Tools</a></li>
+      <li><a href="http://www.rockler.com/power-tools/cnc-machines">CNC Machines</a></li>
+      <li><a href="http://www.rockler.com/power-tools/power-saws">Saws</a></li>
+      <li><a href="http://www.rockler.com/power-tools/routers">Routers</a></li>
+      <li><a href="http://www.rockler.com/power-tools/lathes">Lathes</a></li>
+      <li><a href="http://www.rockler.com/power-tools/planers">Planers</a></li>
+      <li><a href="http://www.rockler.com/power-tools/joiners">Joiners</a></li>
+      <li><a href="http://www.rockler.com/power-tools/drill-presses">Drill Presses</a></li>
+      <li><a href="http://www.rockler.com/power-tools/sanders">Sanders</a></li>
+      <li><a href="http://www.rockler.com/power-tools/multi-tool">Multi-Tools</a></li>
+      <li><a href="http://www.rockler.com/power-tools/handheld-drills">Handheld Drills</a></li>
     </ul>
     <ul>
-      <li><a href="/dust-collection">Dust Collection</a></li>
-    </ul>
-  </div>
-  <div>
-    <ul>
-      <li><a href="/power-tool-accessories">Power Tool Accessories</a></li>
-      <li><a href="/power-tool-accessories/router-tables">Router Tables</a></li>
-      <li><a href="/power-tool-accessories/router-bits">Router Bits</a></li>
-      <li><a href="/power-tool-accessories/router-accessories">Router Accessories</a></li>
-      <li><a href="/power-tool-accessories/saw-blades">Saw Blades</a></li>
-      <li><a href="/power-tool-accessories/saw-accessories">Saw Accessories</a></li>
-      <li><a href="/power-tool-accessories/drilling-accessories">Drilling Accessories</a></li>
-      <li><a href="/power-tool-accessories/mobile-bases">Mobile Bases</a></li>
-      <li><a href="/wood-turning">Turning Accessories</a></li>
-    </ul>
-    <ul>
-      <li><a href="/woodworking-jigs">Woodworking Jigs</a></li>
-      <li><a href="/woodworking-jigs/router-jigs">Router Jigs</a></li>
-      <li><a href="/woodworking-jigs/joinery-jigs">Joinery Jigs</a></li>
-      <li><a href="/woodworking-jigs/table-saw-jigs">Table Saw Jigs</a></li>
+      <li><a href="http://www.rockler.com/dust-collection">Dust Collection</a></li>
     </ul>
   </div>
   <div>
     <ul>
-      <li><a href="/clamps">Clamps</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories">Power Tool Accessories</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/router-tables">Router Tables</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/router-bits">Router Bits</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/router-accessories">Router Accessories</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/saw-blades">Saw Blades</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/saw-accessories">Saw Accessories</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/drilling-accessories">Drilling Accessories</a></li>
+      <li><a href="http://www.rockler.com/power-tool-accessories/mobile-bases">Mobile Bases</a></li>
+      <li><a href="http://www.rockler.com/wood-turning">Turning Accessories</a></li>
     </ul>
     <ul>
-      <li><a href="/hand-tools">Hand Tools</a></li>
+      <li><a href="http://www.rockler.com/woodworking-jigs">Woodworking Jigs</a></li>
+      <li><a href="http://www.rockler.com/woodworking-jigs/router-jigs">Router Jigs</a></li>
+      <li><a href="http://www.rockler.com/woodworking-jigs/joinery-jigs">Joinery Jigs</a></li>
+      <li><a href="http://www.rockler.com/woodworking-jigs/table-saw-jigs">Table Saw Jigs</a></li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li><a href="http://www.rockler.com/clamps">Clamps</a></li>
     </ul>
     <ul>
-      <li><a href="/wood-turning">Turning Tools</a></li>
+      <li><a href="http://www.rockler.com/hand-tools">Hand Tools</a></li>
     </ul>
     <ul>
-      <li><a href="/workshop-accessories">Workshop Accessories</a></li>
-      <li><a href="/workshop-accessories/workbenches-and-tops">Workbenches and Tops</a></li>
-      <li><a href="/workshop-accessories/woodworking-vises">Woodworking Vises</a></li>
-      <li><a href="/workshop-accessories/workshop-stands-legs-and-parts">Workshop Stands, Legs and Parts</a></li>
-      <li><a href="/workshop-accessories/roller-and-ball-bearing-stands">Roller and Ball Bearing Stands</a></li>
-      <li><a href="/workshop-accessories/workshop-safety">Workshop Safety</a></li>
+      <li><a href="http://www.rockler.com/wood-turning">Turning Tools</a></li>
+    </ul>
+    <ul>
+      <li><a href="http://www.rockler.com/workshop-accessories">Workshop Accessories</a></li>
+      <li><a href="http://www.rockler.com/workshop-accessories/workbenches-and-tops">Workbenches and Tops</a></li>
+      <li><a href="http://www.rockler.com/workshop-accessories/woodworking-vises">Woodworking Vises</a></li>
+      <li><a href="http://www.rockler.com/workshop-accessories/workshop-stands-legs-and-parts">Workshop Stands, Legs and Parts</a></li>
+      <li><a href="http://www.rockler.com/workshop-accessories/roller-and-ball-bearing-stands">Roller and Ball Bearing Stands</a></li>
+      <li><a href="http://www.rockler.com/workshop-accessories/workshop-safety">Workshop Safety</a></li>
     </ul>
   </div>                        </div>
                         <div style="clear: both"></div>
@@ -486,37 +483,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <div class="nav-content ">
                         <div>
                               <div>
-    <ul><li><a href="/hardware/drawer-slides">Drawer Slides</a></li></ul>
-    <ul><li><a href="/hardware/hinges">Hinges</a></li></ul>
-    <ul><li><a href="/hardware/knobs-and-pulls">Knobs and Pulls</a></li></ul>
-    <ul><li><a href="/hardware/fasteners">Fasteners</a></li></ul>
-    <ul><li><a href="/hardware/lighting">Lighting</a></li></ul>
-    <ul><li><a href="/hardware/home-automation">Home Automation</a></li></ul>
+    <ul><li><a href="http://www.rockler.com/hardware/drawer-slides">Drawer Slides</a></li></ul>
+    <ul><li><a href="http://www.rockler.com/hardware/hinges">Hinges</a></li></ul>
+    <ul><li><a href="http://www.rockler.com/hardware/knobs-and-pulls">Knobs and Pulls</a></li></ul>
+    <ul><li><a href="http://www.rockler.com/hardware/fasteners">Fasteners</a></li></ul>
+    <ul><li><a href="http://www.rockler.com/hardware/lighting">Lighting</a></li></ul>
+    <ul><li><a href="http://www.rockler.com/hardware/home-automation">Home Automation</a></li></ul>
   </div>
   <div>
     <ul>
-    <li><a href="/hardware/project-hardware">Project Hardware</a></li>
-    <li><a href="/hardware/project-hardware/bed-hardware">Bed Hardware</a></li>
-    <li><a href="/hardware/project-hardware/box-hardware">Box Hardware</a></li>
-    <li><a href="/hardware/project-hardware/cabinet-locks-and-latches">Cabinet Locks and Latches</a></li>
-    <li><a href="/hardware/project-hardware/casters-and-glides">Casters and Glides</a></li>
-    <li><a href="/hardware/project-hardware/chair-hardware">Chair Hardware</a></li>
-    <li><a href="/hardware/project-hardware/entertainment-center-hardware">Entertainment Center Hardware</a></li>
-    <li><a href="/hardware/project-hardware/table-hardware">Table Hardware</a></li>
-    <li><a href="/hardware/project-hardware/decorative-grille">Decorative Grille</a></li>
-    <li><a href="/hardware/project-hardware/decorative-glass">Decorative Glass</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware">Project Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/bed-hardware">Bed Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/box-hardware">Box Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/rolling-door-hardware">Rolling Door Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/cabinet-locks-and-latches">Cabinet Locks and Latches</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/casters-and-glides">Casters and Glides</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/chair-hardware">Chair Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/entertainment-center-hardware">Entertainment Center Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/table-hardware">Table Hardware</a></li>
+    <li><a href="http://www.rockler.com/hardware/project-hardware/decorative-grille">Decorative Grille</a></li>
     </ul>
       </div>
       <div>
     <ul>
-    <li><a href="/hardware/storage-and-organization">Storage &amp; Organization</a></li>
-    <li><a href="/hardware/storage-and-organization/shelving">Shelving</a></li>
-    <li><a href="/hardware/storage-and-organization/media-and-cord-management">Media and Cord Management</a></li>
-    <li><a href="/hardware/storage-and-organization/kitchen-organization">Kitchen Organization</a></li>
-    <li><a href="/hardware/storage-and-organization/bath-organization">Bath Organization</a></li>
-    <li><a href="/hardware/storage-and-organization/office-organization">Office Organization</a></li>
-    <li><a href="/hardware/storage-and-organization/closet-organization">Closet Organization</a></li>
-    <li><a href="/hardware/storage-and-organization/workshop-organization">Workshop Organization</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization">Storage &amp; Organization</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/shelving">Shelving</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/media-and-cord-management">Media and Cord Management</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/kitchen-organization">Kitchen Organization</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/bath-organization">Bath Organization</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/office-organization">Office Organization</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/closet-organization">Closet Organization</a></li>
+    <li><a href="http://www.rockler.com/hardware/storage-and-organization/workshop-organization">Workshop Organization</a></li>
     </ul>
   </div>                        </div>
                         <div style="clear: both"></div>
@@ -527,65 +524,128 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <div class="nav-content ">
                         <div>
                               <div>
-    <ul><li><a href="/abrasives">Abrasives</a></li>
+    <ul><li><a href="http://www.rockler.com/abrasives">Abrasives</a></li>
     </ul>
-    <ul><li><a href="/adhesives">Adhesives</a></li>
+    <ul><li><a href="http://www.rockler.com/adhesives">Adhesives</a></li>
     </ul>
-    <ul><li><a href="/finishing">Finishing</a></li>
+    <ul><li><a href="http://www.rockler.com/finishing">Finishing</a></li>
     </ul>
-    <ul><li><a href="/wood-turning">Wood Turning</a></li>
-     <li><a href="/wood-turning/pen-blanks">Pen Blanks</a></li>
-     <li><a href="/wood-turning/turning-blanks">Turning Blanks</a></li>
-     <li><a href="/wood-turning/pen-turning-kits">Pen Turning Kits</a></li>
-     <li><a href="/wood-turning/small-turning-project-kits">Small Turning Project Kits</a></li>
-     <li><a href="/wood-turning/specialty-wood-turning">Specialty Wood Turning</a></li>
-    </ul>
-  </div>
-  <div>
-    <ul><li><a href="/wood">Wood</a></li>
-     <li><a href="/wood/domestic-lumber">Domestic Lumber</a></li>
-     <li><a href="/wood/exotic-lumber">Exotic Lumber</a></li>
-     <li><a href="/wood/plywood">Plywood</a></li>
-     <li><a href="/wood/veneer">Veneer</a></li>
-     <li><a href="/wood/edge-banding">Edge Banding</a></li>
-     <li><a href="/wood/molding">Molding</a></li>
-     <li><a href="/wood/inlays">Inlays</a></li>
-     <li><a href="/wood/furniture">Furniture</a></li>
-     <li><a href="/wood/spindles-and-pegs">Spindles and Pegs</a></li>
+    <ul><li><a href="http://www.rockler.com/wood-turning">Wood Turning</a></li>
+     <li><a href="http://www.rockler.com/wood-turning/pen-blanks">Pen Blanks</a></li>
+     <li><a href="http://www.rockler.com/wood-turning/turning-blanks">Turning Blanks</a></li>
+     <li><a href="http://www.rockler.com/wood-turning/pen-turning-kits">Pen Turning Kits</a></li>
+     <li><a href="http://www.rockler.com/wood-turning/small-turning-project-kits">Small Turning Project Kits</a></li>
+     <li><a href="http://www.rockler.com/wood-turning/specialty-wood-turning">Specialty Wood Turning</a></li>
     </ul>
   </div>
   <div>
-    <ul><li><a href="/project-supplies">Project Supplies</a></li>
-     <li><a href="/project-supplies/custom-doors-and-drawers">Custom Doors and Drawers</a></li>
-     <li><a href="/project-supplies/ladders">Ladders</a></li>
-     <li><a href="/project-supplies/shutters">Shutters</a></li>
-     <li><a href="/project-supplies/wood-branding-irons">Wood Branding Irons</a></li>
-     <li><a href="/project-supplies/wood-burning-tools">Wood Burning Tools</a></li>
+    <ul><li><a href="http://www.rockler.com/wood">Wood</a></li>
+     <li><a href="http://www.rockler.com/wood/domestic-lumber">Domestic Lumber</a></li>
+     <li><a href="http://www.rockler.com/wood/exotic-lumber">Exotic Lumber</a></li>
+     <li><a href="http://www.rockler.com/wood/one-of-a-kind">One of a Kind Slabs</a></li>
+     <li><a href="http://www.rockler.com/wood/plywood">Plywood</a></li>
+     <li><a href="http://www.rockler.com/wood/veneer">Veneer</a></li>
+     <li><a href="http://www.rockler.com/wood/edge-banding">Edge Banding</a></li>
+     <li><a href="http://www.rockler.com/wood/molding">Molding</a></li>
+     <li><a href="http://www.rockler.com/wood/inlays">Inlays</a></li>
+     <li><a href="http://www.rockler.com/wood/furniture">Furniture</a></li>
+     <li><a href="http://www.rockler.com/wood/spindles-and-pegs">Spindles and Pegs</a></li>
     </ul>
-    <ul><li><a href="/woodworking-media">Media</a></li>
-     <li><a href="/woodworking-media/woodworking-books">Woodworking Books</a></li>
-     <li><a href="/woodworking-media/woodworking-plans">Woodworking Plans</a></li>
-     <li><a href="/woodworking-media/woodworking-software">Woodworking Software</a></li>
-     <li><a href="/woodworking-media/woodworking-videos">Woodworking Videos</a></li>
+  </div>
+  <div>
+    <ul><li><a href="http://www.rockler.com/project-supplies">Project Supplies</a></li>
+     <li><a href="http://www.rockler.com/project-supplies/custom-doors-and-drawers">Custom Doors and Drawers</a></li>
+     <li><a href="http://www.rockler.com/project-supplies/ladders">Ladders</a></li>
+     <li><a href="http://www.rockler.com/project-supplies/shutters">Shutters</a></li>
+     <li><a href="http://www.rockler.com/project-supplies/wood-branding-irons">Wood Branding Irons</a></li>
+     <li><a href="http://www.rockler.com/project-supplies/wood-burning-tools">Wood Burning Tools</a></li>
+    </ul>
+    <ul><li><a href="http://www.rockler.com/woodworking-media">Media</a></li>
+     <li><a href="http://www.rockler.com/woodworking-media/woodworking-books">Woodworking Books</a></li>
+     <li><a href="http://www.rockler.com/woodworking-media/woodworking-plans">Woodworking Plans</a></li>
+     <li><a href="http://www.rockler.com/woodworking-media/woodworking-software">Woodworking Software</a></li>
+     <li><a href="http://www.rockler.com/woodworking-media/woodworking-videos">Woodworking Videos</a></li>
     </ul>
   </div>                        </div>
                         <div style="clear: both"></div>
                     </div>
                             </li>
                             <li class="level0 level-top  ">
-                <a href="/nav/new/new/0">New</a>
+                <a href="http://www.rockler.com/nav/new/new/0">New</a>
                             </li>
                             <li class="level0 level-top   last">
-                <a href="/nav/sale/onsale/0">Outlet</a>
+                <a href="http://www.rockler.com/nav/sale/onsale/0">Outlet</a>
                             </li>
             </ul>
-    </div>
+</div>
+<!--
+  Handle Tablet Main Navigation Behavior
+-->
+<script type="text/javascript">
+    var eventTouchStart = 'touchstart';
+    var eventTouchMove = 'touchmove';
+    var eventTouchEnd = 'touchend';
+    if(window.PointerEvent) {
+        eventTouchStart = 'pointerdown';
+        eventTouchMove = 'pointermove';
+        eventTouchEnd = 'pointerup';
+    } else if (window.MSPointerEvent) {
+        eventTouchStart = 'MSPointerDown';
+        eventTouchMove = 'MSPointerMove';
+        eventTouchEnd = 'MSPointerUp';
+    }
 
-            <div id="header_quick_order_link" class="hide-below-768"><a href="" onclick="toggleQuickOrder(); return false;">Quick Order<span></span></a></div>
+    var blockClick = false;
+    var touchScreen = false;
+
+    document.observe('dom:loaded', function() {
+        var topMenus = $("nav").childElements();
+
+        topMenus.each(function(elm,idx) {
+            if (elm.childElements().length > 1) {
+                $(elm).on(eventTouchStart, function() {
+                    touchScreen = true;
+                });
+                $(elm).on('mouseover', function() {
+                    blockClick = true;
+                });
+                $(elm).on('mouseout', function() {
+                    blockClick = false;
+                });
+                $(elm).on('click', function(e) {
+                    if (touchScreen) {
+                        e.stopPropagation();
+                        if (!blockClick) {
+                            this.childElements()[1].toggleClassName('shown-sub');
+                            this.down('a').toggleClassName('over');
+                            this.toggleClassName('over');
+                        }
+                        blockClick = false;
+                    }
+                });
+            }
+        });
+
+        $$('*').each(function(elm, idx) {
+            elm.on('click', function (e) {
+                if (typeof(elm.up('ul#nav')) != 'undefined') {
+                    return false;
+                }
+                if (!touchScreen) {
+                    return false;
+                }
+
+                e.stopPropagation();
+
+                return true;
+            });
+        });
+    })
+</script>            <div id="header_quick_order_link" class="hide-below-768"><a href="" onclick="toggleQuickOrder(); return false;">Quick Order<span></span></a></div>
 <div id="header_quick_order" class="header_quick_order hide-below-768" style="display: none">
     <div class="block-content">
         <form action="http://www.rockler.com/checkout/cart/advancedAdd/" method="post" class="background">
-            <input name="form_key" type="hidden" value="M4Mio1T4xwPjhDB0">
+            <input name="form_key" type="hidden" value="vLSlIoeBkoPtcSuJ">
             <div class="quick-order-table">
                 <div class="header">
                     <div>
@@ -669,12 +729,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- end: header-container -->            <div class="main-container col1-layout">
                 <div class="main container">
                     <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->                                        <div class="preface grid-full in-col1">
-                        <div class="widget widget-static-block"></div>
-<!--{WIDGET_ENTERPRISE_BANNER_8087a57846d594ea0041762f59418c49}--><div class="widget widget-banner">
+                        <!--{WIDGET_ENTERPRISE_BANNER_ddee188a84b35976bf789b28b91ae271}--><div class="widget widget-banner">
         <ul>
         </ul>
 </div>
-<!--/{WIDGET_ENTERPRISE_BANNER_8087a57846d594ea0041762f59418c49}-->                    </div>
+<!--/{WIDGET_ENTERPRISE_BANNER_ddee188a84b35976bf789b28b91ae271}-->                    </div>
                                         <div class="breadcrumbs tan-fabric in-col1">
     <ul>
                     <li class="home">
@@ -691,46 +750,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h1>We Value Our Customers' Privacy</h1>
     </div>
 <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><p><span>Rockler Companies wants to assure you that we are very careful about how we run our sites and about the vendors we choose to use. We have been in business since 1954 and we care very much about our customers' satisfaction and privacy. Our web servers are kept behind locked doors in a facility that is staffed and guarded 24 hours a day year-round. When it is necessary for you to supply sensitive information such as credit card numbers, those communications travel from your browser all the way to our server protected by a Secure Socket Layer (SSL) and are fully encrypted.</span></p>
-<ul>
 <li><a href="#Our Web Sites">Our Web Site</a></li>
 <li><a href="#Your Name and Address">Your Name and Address</a></li>
 <li><a href="#Your E-Mail Address">Your E-Mail Address</a></li>
 <li><a href="#Your Phone and Fax Numbers">Your Phone and Fax Numbers</a></li>
 <li><a href="#Cookies">Third-Party Cookies, Images, and Scripts</a></li>
 <li><a href="http://www.rockler.com/contact.cfm">How to Reach Us</a></li>
-</ul>
-<br><h2><a name="Our Web Sites"></a>Our Web Site</h2>
+<br><h5 class="title blue"><a name="Our Web Sites"></a>Our Web Site</h5>
 <p>This web site is owned by Rockler Companies, Inc.&nbsp; We currently do business as Rockler Woodworking and Hardware. You can access our web site at the following address:</p>
 <ul>
 <li><a href="http://www.rockler.com/">www.rockler.com</a></li>
 </ul>
 <p>We have created our web sites to provide additional services to our customers and potential customers online.&nbsp; On our web sites you can:</p>
-<ul>
 <li>Shop our products securely online</li>
 <li>Request our free catalog</li>
 <li>Sign up for our free e-mail newsletter</li>
 <li>Give us feedback and ask us questions about our company, products and web site</li>
 <li>Read more about our company and products</li>
-</ul>
-<br><h2><a name="Your Name and Address"></a>Your Name and Address</h2>
+<p align="center"><a href="#top">(back to top...)</a></p>
+<br><h5 class="title blue"><a name="Your Name and Address"></a>Your Name and Address</h5>
 <p>If you supply us with your postal address online, you may occasionally receive catalogs and mailings from us with information about products, promotions or services.&nbsp; If you do not wish to receive these mailings, please send us a note, along with a copy of your mailing label to the address below:</p>
 <p>Rockler Companies, Inc.<br>Customer Service<br>4365 Willow Drive &nbsp;<br>Medina, MN 55340&nbsp;</p>
 <p>Or, e-mail us your name and mailing address to&nbsp;<a href="mailto:orders@rockler.com">orders@rockler.com</a></p>
 <p>Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers.&nbsp; If you do not wish to receive these mailings, please send us a note saying so, along with a copy of your mailing label to the address above - or send us the information in an e-mail to&nbsp;<a href="mailto:orders@rockler.com">orders@rockler.com</a></p>
 <p align="center"><a href="#top">(back to top...)</a></p>
-<br><h2><a name="Your E-Mail Address"></a>Your E-Mail Address</h2>
+<br><h5 class="title blue"><a name="Your E-Mail Address"></a>Your E-Mail Address</h5>
 <p>If you supply us with your e-mail address in an online form, we may send you a periodic newsletter with information about our web site and other promotions.&nbsp; In this newsletter are directions for removing your name and address from this list.&nbsp; To be added to this list, please fill out our&nbsp;<a href="http://www.rockler.com/log_on.cfm">subscriber form</a>. We will not share your e-mail address with third parties.</p>
 <p align="center"><a href="#top">(back to top...)</a></p>
-<br><h2><a name="Your Phone and Fax Numbers"></a>Your Phone and Fax Numbers</h2>
+<br><h5 class="title blue"><a name="Your Phone and Fax Numbers"></a>Your Phone and Fax Numbers</h5>
 <p>If you supply us with your phone or fax number online, we may use them to contact you regarding an order you sent, or a question you asked.&nbsp; We do not share these numbers with other organizations.</p>
 <p align="center"><a href="#top">(back to top...)</a></p>
 <p>&nbsp;</p>
-<br><h2><a name="Cookies"></a>Cookies and Other Technologies</h2>
+<br><h5 class="title blue"><a name="Cookies"></a>Cookies and Other Technologies</h5>
 <p><span>The paragraphs below outline some of the common practices used by a majority of ecommerce sites. A couple of terms you will need to know:</span></p>
-<ul>
 <li><strong>Cookies</strong>&nbsp;– These are small text files that are stored directly on your computer. They make it easier for the server to recognize your computer as you click from page to page (to keep track of your shopping cart as you browse our site, for example). The cookies do not actually contain any personal data.</li>
 <li><strong>Pixel Tags</strong>&nbsp;– these are very tiny images (smaller than the periods in this paragraph). They are there to inform our web server or e-mail server that you have opened an e-mail, for example, and to communicate other actions.</li>
-</ul>
 <p>&nbsp;</p>
 <p>Rockler's website, online services, interactive applications, e-mail messages, and advertisements may use 'cookies' and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of our communications and web searches. We treat information collected by cookies and other technologies as non-personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</p>
 <p>Rockler and our partners also use cookies and other technologies to 'remember' how you use our website, online services, and applications. Our goal in these cases is to make your experience with Rockler more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit Rockler's websites. Knowing someone using your computer or device has shopped for a certain product helps us make our e-mail communications and product suggestions more relevant to your interests. You may set your web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our sites, you will limit the functionality we can provide when you visit our sites.</p>
@@ -789,8 +843,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <dd><a href="http://www.rockler.com/persistent/index/unsetCookie/">Log Out</a></dd>
 <br>
 <dt>Product Info</dt>
-<dd><a href="http://www.rockler.com/brands/">Top Brands</a></dd>
-<dd><a href="http://www.rockler.com/search/">Popular Searches</a></dd>
+<dd><a href="http://www.rockler.com/promo-codes/">Promotions</a></dd>
+<dd><a href="http://www.rockler.com/top-brands/">Top Brands</a></dd>
 <dd><a href="http://www.rockler.com/suggestions/">Suggest New Product</a></dd>
 <dd><a title="Search MSDS" href='javascript:window.open("http://go.rockler.com/MSDS.cfm", "_blank", "width=500,height=600,menubar=no,toolbar=no"), undefined;'>Search MSDS</a></dd>
                             <dt class="clear"></dt>
@@ -846,10 +900,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p><a href='javascript:window.open("http://go.rockler.com/catalog.cfm", "_blank", "width=550,height=600,menubar=no,toolbar=no,scrollbars=yes"), undefined;'>Sign up &amp; get our FREE woodworking &amp; hardware catalog</a></p>
         
                         <div class="security-signs">
-                            
-<img src="http://www.rockler.com/skin/frontend/responsive/rockler/images/norton.png" alt="Norton SECURED, powered by VeriSign">
-<img src="http://www.rockler.com/skin/frontend/responsive/rockler/images/security.png" alt="We Care About Your Security">
-                                </div>
+                            <p><a class="stella-seal"></a><script defer="" src="//seal.stellaservice.com/public/js/seal.js"></script><a href="/customer-service/faq-ordering/#security"><img src="http://www.rockler.com/skin/frontend/responsive/rockler/images/norton.png" alt="Norton SECURED, powered by VeriSign"></a><a href="/customer-service/faq-ordering/#security"><img src="http://www.rockler.com/skin/frontend/responsive/rockler/images/security.png" alt="We Care About Your Security"></a></p>                        </div>
                     </li>
                 </ul>
             </div>
@@ -1134,6 +1185,30 @@ document.write(d.getFullYear())
             });
 })(jQuery);
 //]]>
+</script>    <div id="popup-modal-bg" style="display: none;">
+    <div id="popup-modal" style="display: none;">
+        <div id="popup-modal-title">
+            <span>Loading...</span>
+            <a id="popup-modal-close"></a>
+        </div>
+        <div id="popup-modal-content">
+             <div id="popup-modal-loader"></div>
+             <p class="clearer"></p>
+             <div id="popup-modal-bottom"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    	jQuery( document ).ready( function() {
+                jQuery( '#popup-modal-close' ).click( function() {
+    		     jQuery('body').removeClass('modal-open');
+    		     jQuery('#popup-modal-title span').html('Loading...');
+                 jQuery('#popup-modal-content').html('<div id="popup-modal-loader"><p class="clearer"></p></div><div id="popup-modal-bottom"></div>');
+    		     jQuery('#popup-modal-bg').toggle();
+    		     jQuery('#popup-modal').toggle();
+                });
+    	});
 </script>    <!-- SLI footer ends -->
 
             
@@ -1288,6 +1363,6 @@ var fby = fby || [];
     };
 
 	})();
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e956b7682b","applicationID":"2751966","transactionName":"NV1SbUFWXEQCVUVeCgwXcVpHXl1ZTFVcREoSWVdcHEFbUhQ=","queueTime":0,"applicationTime":961,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-378.min.js"}</script>
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e956b7682b","applicationID":"2751966","transactionName":"NV1SbUFWXEQCVUVeCgwXcVpHXl1ZTFVcREoSWVdcHEFbUhQ=","queueTime":0,"applicationTime":905,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-378.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
