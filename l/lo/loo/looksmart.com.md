@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505072154id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107043251id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
 
-# LookSmart - Search Advertising
+# LookSmart - Web Search
 
-**Last revised December 27th 2013**
+**Last revised August 13th 2014**
 
 LookSmart.com, a service of LookSmart, Ltd., has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [www.LookSmart.com](http://www.looksmart.com/) site.
 
@@ -62,6 +62,11 @@ We may disclose certain non-personally identifiable information about you to adv
 As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content.
 
 To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.
+
+We use the Captify, Chango and Magnetic platforms for search and display advertising.  For more information regarding opt-out for data collection and ad targeting for search and display, please visit the relevant pages for each platform.  
+Captify: <http://www.captify.co.uk/privacy.php>  
+Chango: <http://www.chango.com/privacy/opt-out/>  
+Magnetic: <http://www.magnetic.com/privacy/corporate-privacy-policy/>
 
 We use the DataXu platform for our display and video advertising.  For more information regarding opt-out for data collection and ad targeting for display and video, please visit:  
 <http://www.networkadvertising.org/managing/opt_out.asp>
