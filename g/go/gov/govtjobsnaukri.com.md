@@ -1,28 +1,43 @@
-> *The following text is extracted and transformed from the govtjobsnaukri.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902051056id_/http%3A//govtjobsnaukri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsnaukri.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107114239id_/http%3A//www.govtjobsnaukri.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Government Jobs and Naukri
+# Privacy Policy - Latest Government Jobs | Sarkari Naukri in India
 
-## [Privacy Policy](http://govtjobsnaukri.com/privacy-policy/ "Permanent Link to Privacy Policy")
+Privacy Policyadmin  
+We collect but do not link personal and activity data.
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+Our systems are not designed to associate personal information with your activities (such as pages you view or things you click on or search for).
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Sarkari Naukri Jobs has no access or control over these cookies that may be used by third party advertisers. 
+We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.
 
-**Collection of Personal Information**  
-When visiting Sarkari Naukri Jobs, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+We may collect but do not share your location history.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+To customize our service for you, we may collect and store your precise geographic location as part of your user profile. This data generally is not shared with others. We may ask for your consent on your first use of the service.
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+We may keep data indefinitely.
 
-If you have any questions regarding the privacy policy of Sarkari Naukri Jobs then you may contact us at yourfitnesscentr@gmail.com 
+We may keep data indefinitely.
 
-troing on February 25th 2011 
+We don’t share your personal data with other companies.  
+We generally do not share personally identifiable information (such as name, address, email or phone) with other companies.
+
+Ad companies collect anonymous data. You can opt out.
+
+Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity.
+
+You can ask privacy questions.
+
+If you have any questions or concerns about our privacy policies, please contact us: govtjobsnaukri @ gmail.com
+
+We take steps to protect personal information
+
+We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business.
+
+   
+`  
+[AdChoices](https://quantcast.com/adchoices-pub?pub=8sW_aAGGtNL9iA4g0vXXvw)  
+  
+ `
