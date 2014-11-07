@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtaxi.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306075728id_/http%3A//www.imgtaxi.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtaxi.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010732id_/http%3A//www.imgtaxi.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy - imgtaxi.com | Share Images
 
