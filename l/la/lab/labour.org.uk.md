@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201140605id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107151742id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | The Labour Party
 
@@ -42,7 +42,7 @@ You may remove or change your details at any time. You have right of access to y
 **If you need to correct the information you provided us with when you subscribed to our e-mail list, you can do so through your personal form provided on-line. If you need to change your e-mail address, you can unsubscribe from our mailing lists and sign up again using your new information. Or if you have registered with a username and password you may change your details at any time via the login page without needing to re-register.
 
 **Contacting us about privacy  
-**If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, please contact us by [clicking here](http://www.labour.org.uk/contact) or telephone our call centre on 0845 092 2299.
+**If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, please contact us by [clicking here](http://archive.labour.org.uk/contact) or telephone our call centre on 0845 092 2299.
 
 Our Data Protection Officer can be contacted at the following address: 
 
