@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rezscore.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617064800id_/http%3A//rezscore.com/images/RezScore%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezscore.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010308id_/http%3A//rezscore.com/images/RezScore%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # RezScore
 
