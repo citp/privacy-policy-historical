@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213024714id_/http%3A//www.virginia.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107140248id_/http%3A//www.virginia.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Virginia Is For Lovers
 
-If you feel that this company is not abiding by its posted privacy policy, contact Dave Neudeck, Electronic Marketing Director by phone at (804) 545-5554 or email [dneudeck@virginia.org.](mailto:dneudeck@virginia.org) 
+  * If you feel that this company is not abiding by its posted privacy policy, contact Dave Neudeck, Electronic Marketing Director by phone at (804) 545-5554 or email [dneudeck@virginia.org.](mailto:dneudeck@virginia.org) 
 
 **Information Collection and Use**  
 
@@ -53,3 +53,6 @@ Users who no longer wish to receive our newsletter or promotional materials from
 If we decide to change our privacy policy, we will post those changes on our privacy page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 [ **Freedom of Information Act (FOIA) Policy** ](http://www.vatc.org/about/FOIA/ "Freedom of Information Act \(FOIA\) Policy") 
+
+
+
