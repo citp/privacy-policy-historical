@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the tvshowsondvd.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101248id_/http%3A//www.tvguide.com/services/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvshowsondvd.com privacy policy that was archived on 2014-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107224620id_/http%3A//www.tvguide.com/services/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://1a1d70f8e97771f9fab1-662669ee3e2497ef5de1fff529ecac92.ssl.cf2.rackcdn.com/ba3zi27t2tcg.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"3f9fb3df7c","applicationID":"2111385","transactionName":"ZVdSMkFQCkUCVEwLDVwdcTVjHhdTEUFRAQdBHUAUWkcFVRoZWRESSg==","queueTime":0,"applicationTime":52,"ttGuid":"22EA7D7AC95C2A4B","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQcAUFNACgIBVVJaAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://1a1d70f8e97771f9fab1-662669ee3e2497ef5de1fff529ecac92.ssl.cf2.rackcdn.com/ba3zi27t2tcg.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"3f9fb3df7c","applicationID":"2111385","transactionName":"ZVdSMkFQCkUCVEwLDVwdcTVjHhdTEUFRAQdBHUAUWkcFVRoZWRESSg==","queueTime":0,"applicationTime":24,"ttGuid":"90B34CC16AB8AC34","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQcAUFNACgIBVVJaAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     
     
     
@@ -32,7 +32,7 @@
 <!-- global css  -->
 
 <script type="text/javascript" charset="utf-8">
-	loadCSS.push('http://www.tvguide.com/HandlerCache/css_global.ashx?v=20140625');
+	loadCSS.push('http://www.tvguide.com/HandlerCache/css_global.ashx?v=20141107');
 </script>
 
 
@@ -90,7 +90,7 @@
 <![endif]-->
 
 
-<script src="http://static.tvgcdn.net/extimg/scripts/tvg-bundle.min.js?v=20140625" type="text/javascript" charset="utf-8"></script>
+<script src="http://static.tvgcdn.net/extimg/scripts/tvg-bundle.min.js?v=20141107" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" charset="utf-8">
 	if(window.LazyLoad) {
 		LazyLoad.css(loadCSS);
@@ -117,7 +117,7 @@
 
 <!-- global -->
 
-<script src="http://www.tvguide.com/HandlerCache/js_global.ashx?v=20140625" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.tvguide.com/HandlerCache/js_global.ashx?v=20141107" type="text/javascript" charset="utf-8"></script>
 
 
 <!-- listings -->
@@ -180,6 +180,7 @@ node.parentNode.insertBefore(gads, node);
 <script type="text/javascript">
 function getAdsUUID() { var d = new Date().getTime(), r, cbsitmpguid; cbsitmpguid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function( c ) { r = ( d + Math.random()*16 )%16 | 0; d = Math.floor( d/16 ); return ( c == 'x' ? r : ( r&0x7|0x8 ) ).toString( 16 ); }); return cbsitmpguid; }
 var cbsiftag, ftagmatch, ftagregex = /[\^\s\W]ftag\=([^\?\&\/]+)/i; if (ftagmatch = ftagregex.exec(document.location)) { cbsiftag = ftagmatch[1]; }
+var cbsivndid, vndidmatch, vndidregex = /[\^\s\W]vndid\=([^\?\&\/]+)/i; if (vndidmatch = vndidregex.exec(document.location)) { cbsivndid = vndidmatch[1]; }
 var cbsivguid = getAdsUUID();
 var adslots = {};
 googletag.cmd.push(function() {
@@ -189,9 +190,11 @@ googletag.cmd.push(function() {
   adslots['leader_plus_top'] = googletag.defineSlot('/8264/aw-tvguide/other',[[728,90],[728,91],[970,66],[970,150],[970,250],[980,66],[980,150],[980,250]],'GPT003_Banner').addService(googletag.pubads()).setTargeting('pos','top');
   adslots['leader_bottom'] = googletag.defineSlot('/8264/aw-tvguide/other',[[728,90],[728,92],[970,66]],'GPT004_728x90_bottom').addService(googletag.pubads()).setTargeting('pos','bottom');
   adslots['intromercial'] = googletag.defineOutOfPageSlot('/8264/aw-tvguide/other','GPT005_Intromercial').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+  googletag.pubads().setTargeting('ptype', 'services');
   googletag.pubads().setTargeting('vguid', cbsivguid);
   if(cbsiftag){googletag.pubads().setTargeting('ftag', cbsiftag);}
-  googletag.pubads().setTargeting('provider', $.cookie('Provider'));
+  if(cbsivndid){googletag.pubads().setTargeting('vndid', cbsivndid);}
+  googletag.pubads().setTargeting('provider', $.cookie('Provider').replace('AT&T','ATT'));
   googletag.pubads().enableSingleRequest();
   googletag.pubads().enableAsyncRendering();
   googletag.enableServices();
@@ -267,7 +270,7 @@ googletag.cmd.push(function() {
 				<ul class="header-level-2-submenu-items">
 			</ul></span></li>
 		<li class="header-level-2-item">
-		<a href="http://www.tvguide.com/Listings/" class="header-link">What's on TV</a>
+		<a href="http://www.tvguide.com/Listings/" class="header-link">What's On</a>
 		
 			<span class="header-level-2-submenu header-level-2-submenu-dual">
 			<span class="header-level-2-submenu-separator"></span>
@@ -275,21 +278,29 @@ googletag.cmd.push(function() {
 				<ul class="header-level-2-submenu-items">
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/Listings/" class="header-link">TV Listings</a></li>
 				
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/social" class="header-link">Trending Tonight</a></li>
+				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/new-tonight" class="header-link">New Tonight</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/winter-preview/winter-schedule.aspx" class="header-link">Day-by-Day Winter TV Schedule</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://video.tvguide.com//episodes.aspx" class="header-link">Full Episodes</a></li>
+				
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/fall-preview/fall-schedule.aspx" class="header-link">Day-by-Day Fall TV Schedule</a></li>
 				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/watch-live" class="header-link">Today's Live Sports</a></li>
 				
+				</ul>
+				<ul class="header-level-2-submenu-items">
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/listings" class="header-link">Sports Listings</a></li>
 				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/nfl" class="header-link">NFL Schedule</a></li>
 				
-				</ul>
-				<ul class="header-level-2-submenu-items">
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/nhl" class="header-link">NHL Schedule</a></li>
 				
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/baseball" class="header-link">MLB Schedule</a></li>
+				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/nba" class="header-link">NBA Schedule</a></li>
+				
+				<li class="header-level-2-submenu-item"><a href="http://movies.tvguide.com/movies-tv" class="header-link">Movies Listings</a></li>
 				
 				<li class="header-level-2-submenu-item"><a href="http://movies.tvguide.com/movies-on-demand" class="header-link">Movies on Demand</a></li>
 				
@@ -308,105 +319,40 @@ googletag.cmd.push(function() {
 				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/watchlist/news/" class="header-link">News</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/watchlist/friends-favorites/" class="header-link">Friends' Facebook Favorites</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/watchlist/tweets/" class="header-link">Latest Tweets</a></li>
-				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/watchlist/watchlist-video.aspx" class="header-link">What is a Watchlist?</a></li>
 				</ul></span></li>
 		<li class="header-level-2-item">
-		<a href="http://www.tvguide.com/news" class="header-link">News</a>
-		
-				<span class="header-level-2-submenu">
-				<span class="header-level-2-submenu-separator"></span>
-				<ul class="header-level-2-submenu-items">
-			
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/news" class="header-link">Today's News</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/summer-tv/" class="header-link">Summer Preview</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/News/Fall-TV-Schedule-1005618.aspx" class="header-link">Fall TV Scorecard</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/video/player.aspx" class="header-link">TV Guide Video Exclusives</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/episode-recaps" class="header-link">TV Show Recaps</a></li>
-				</ul></span></li>
-		<li class="header-level-2-item">
-		<a href="http://www.tvguide.com/sports/watch-live" class="header-link">Sports</a>
+		<a href="http://www.tvguide.com/news" class="header-link">News &amp; Features</a>
 		
 			<span class="header-level-2-submenu header-level-2-submenu-dual">
 			<span class="header-level-2-submenu-separator"></span>
 		
 				<ul class="header-level-2-submenu-items">
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/watch-live" class="header-link">Today's Live Sports</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/news" class="header-link">News</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/listings" class="header-link">Sports Listings</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/on-set/" class="header-link">On The Set</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/nfl" class="header-link">NFL</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/video/player.aspx" class="header-link">TV Guide Original Videos</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/college-football" class="header-link">NCAA Football</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://video.tvguide.com" class="header-link">Video Channels</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/college-basketball" class="header-link">NCAA Basketball</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/PhotoGallery/" class="header-link">Photo Galleries</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/baseball" class="header-link">MLB</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/fall-preview/" class="header-link">Fall Preview</a></li>
 				
 				</ul>
 				<ul class="header-level-2-submenu-items">
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/nba" class="header-link">NBA</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/News/Fall-TV-Schedule-1005618.aspx" class="header-link">Fall TV Scorecard</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/mls" class="header-link">MLS</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/emmys/" class="header-link">2014 Emmy Awards</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/wnba" class="header-link">WNBA</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/sports/nhl" class="header-link">NHL</a></li>
-				</ul></span></li>
-		<li class="header-level-2-item">
-		<a href="http://video.tvguide.com/episodes.aspx" class="header-link">Full Episodes</a>
-		
-				<span class="header-level-2-submenu">
-				<span class="header-level-2-submenu-separator"></span>
-				<ul class="header-level-2-submenu-items">
-			
-				<li class="header-level-2-submenu-item"><a href="http://video.tvguide.com/" class="header-link">Online Video Guide</a></li>
-				</ul></span></li>
-		<li class="header-level-2-item">
-		<a href="http://www.tvguide.com/PhotoGallery/" class="header-link">Photos</a>
-		
-				<span class="header-level-2-submenu">
-				<span class="header-level-2-submenu-separator"></span>
-				<ul class="header-level-2-submenu-items">
-			
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/oscars/" class="header-link">2014 Academy Awards</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/golden-globes/" class="header-link">2014 Golden Globe Awards</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/golden-globes/" class="header-link">2014 Golden Globes</a></li>
 				
 				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/grammys/" class="header-link">2014 Grammy Awards</a></li>
 				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/redcarpet/" class="header-link">Red Carpet</a></li>
-				</ul></span></li>
-		<li class="header-level-2-item">
-		<a href="http://www.tvguide.com/special/finale-preview/" class="header-link">Spotlight</a>
-		
-				<span class="header-level-2-submenu">
-				<span class="header-level-2-submenu-separator"></span>
-				<ul class="header-level-2-submenu-items">
-			
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/summer-tv/" class="header-link">Summer Preview</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/special/fall-preview/new-shows.aspx" class="header-link">New Fall Shows</a></li>
-				</ul></span></li>
-		<li class="header-level-2-item">
-		<a href="http://www.tvguide.com/keywords/movie-scoop" class="header-link">Movies</a>
-		
-				<span class="header-level-2-submenu">
-				<span class="header-level-2-submenu-separator"></span>
-				<ul class="header-level-2-submenu-items">
-			
-				<li class="header-level-2-submenu-item"><a href="http://movies.tvguide.com/movies-tv" class="header-link">Movies on TV</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://movies.tvguide.com/movies-on-demand" class="header-link">Movies On Demand</a></li>
-				
-				<li class="header-level-2-submenu-item"><a href="http://movies.tvguide.com/movies-trailers" class="header-link">Trailers</a></li>
+				<li class="header-level-2-submenu-item"><a href="http://www.tvguide.com/episode-recaps" class="header-link">TV Show Recaps</a></li>
 				</ul></span></li>
 		<li class="header-level-2-item">
 		<a href="http://www.tvguide.com/Special/TVGN/" class="header-link">TVGN</a>
@@ -619,15 +565,15 @@ For any questions, suggestions, or concerns related to this Privacy Policy, plea
             <h4 class="mostpop-subheader"><i class="fa-video-camera fa fa-lg"></i> <a class="mostpop-subheader-link" href="http://www.tvguide.com/top-tv-shows">TV Shows</a></h4>
             <ol class="mostpop-list">
                 
-                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://www.tvguide.com/tvshows/the-good-wife/297522">The Good Wife</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://www.tvguide.com/tvshows/ncis/100320">NCIS</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://www.tvguide.com/tvshows/game-of-thrones/305628">Game of Thrones</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://www.tvguide.com/tvshows/the-blacklist/555487">The Blacklist</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://www.tvguide.com/tvshows/scandal/324837">Scandal</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://www.tvguide.com/tvshows/sons-of-anarchy/295134">Sons of Anarchy</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://www.tvguide.com/tvshows/dancing-with-the-stars/191470">Dancing with the Stars</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://www.tvguide.com/tvshows/scandal/324837">Scandal</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://www.tvguide.com/tvshows/american-idol/100036">American Idol</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://www.tvguide.com/tvshows/chicago-fire/375373">Chicago Fire</a></li>
                     
             </ol>
         </li>
@@ -636,15 +582,15 @@ For any questions, suggestions, or concerns related to this Privacy Policy, plea
             <h4 class="mostpop-subheader"><i class="fa-users fa fa-lg"></i> <a class="mostpop-subheader-link" href="http://www.tvguide.com/top-celebrities">Celebrities</a></h4>
             <ol class="mostpop-list">
                 
-                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://www.tvguide.com/celebrities/kate-middleton/285554">Kate Middleton</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://www.tvguide.com/celebrities/janel-parrish/288534">Janel Parrish</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://www.tvguide.com/celebrities/prince-william/263997">Prince William</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://www.tvguide.com/celebrities/todd-chrisley/625256">Todd Chrisley</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://www.tvguide.com/tvshows/kim-kardashian/456709">Kim Kardashian</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://www.tvguide.com/celebrities/cheryl-burke/216506">Cheryl Burke</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://www.tvguide.com/celebrities/jennifer-lawrence/288670">Jennifer Lawrence</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://www.tvguide.com/celebrities/sadie-robertson/382135">Sadie Robertson</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://www.tvguide.com/celebrities/beyoncé-knowles/141903">Beyoncé</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://www.tvguide.com/celebrities/jonathan-bennett/247210">Jonathan Bennett</a></li>
                     
             </ol>
         </li>
@@ -653,15 +599,15 @@ For any questions, suggestions, or concerns related to this Privacy Policy, plea
             <h4 class="mostpop-subheader"><i class="fa-film fa fa-lg"></i> <a class="mostpop-subheader-link" href="http://www.tvguide.com/top-movies">Movies</a></h4>
             <ol class="mostpop-list">
                 
-                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://movies.tvguide.com/think-like-a-man-too/668891">Think Like A Man Too</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://movies.tvguide.com/annabelle/698984">Annabelle</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://movies.tvguide.com/22-jump-street/660609">22 Jump Street</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://movies.tvguide.com/gone-girl/698985">Gone Girl</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://movies.tvguide.com/how-to-train-your-dragon-2/660610">How To Train Your Dragon 2</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://movies.tvguide.com/the-equalizer/696101">The Equalizer</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://movies.tvguide.com/maleficent/660605">Maleficent</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://movies.tvguide.com/the-boxtrolls/696102">The Boxtrolls</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://movies.tvguide.com/jersey-boys/668890">Jersey Boys</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://movies.tvguide.com/the-maze-runner/691762">The Maze Runner</a></li>
                     
             </ol>
         </li>
@@ -670,15 +616,15 @@ For any questions, suggestions, or concerns related to this Privacy Policy, plea
             <h4 class="mostpop-subheader"><i class="fa-desktop fa fa-lg"></i> <a class="mostpop-subheader-link" href="http://www.tvguide.com/social/videos">Top Videos</a></h4>
             <ol class="mostpop-list">
                 
-                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://video.tvguide.com/The+Good+Wife/The+Good+Wife++The+Last+Call/21801762/tvo-297522-season-5-episode-16?autoplay=1&amp;partnerid=TVGuide">The Good Wife</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">1</i> <a href="http://video.tvguide.com/Law++Order+Special+Victims+Unit/Above+Suspicion/21889262/tvo-100257-season-14-episode-2?autoplay=1&amp;partnerid=TVGuide">Law &amp; Order: Special Victims U...</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://video.tvguide.com/Elementary/Elementary++Corpse+de+Ballet/21539213/tvo-375404-season-2-episode-15?autoplay=1&amp;partnerid=TVGuide">Elementary</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">2</i> <a href="http://video.tvguide.com/Scandal/An+Innocent+Man/22904580/tvo-324837-season-4-episode-6?autoplay=1&amp;partnerid=TVGuide">Scandal</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://video.tvguide.com/The+Mentalist/The+Mentalist++White+As+The+Driven+Snow/21754956/tvo-293789-season-6-episode-15?autoplay=1&amp;partnerid=TVGuide">The Mentalist</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">3</i> <a href="http://video.tvguide.com/The+Young+and+the+Restless/The+Young+and+the+Restless++1152014/22925937/tvo-194483-season-42-episode-10534?autoplay=1&amp;partnerid=TVGuide">The Young and the Restless</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://video.tvguide.com/Undercover+Boss/Undercover+Boss++Menchies/20999698/tvo-299760-season-5-episode-5?autoplay=1&amp;partnerid=TVGuide">Undercover Boss</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">4</i> <a href="http://video.tvguide.com/Scandal/Scandal+Randy+Red+Superfreak+and+Julia++How+to+Get+Away+With+Murder+Pilot/22744552/tvo-324837-season-4-episode-1?autoplay=1&amp;partnerid=TVGuide">Scandal</a></li>
                     
-                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://video.tvguide.com/The+Millers/The+Millers++Bahama+Mama/21661339/tvo-556347-season-1-episode-16?autoplay=1&amp;partnerid=TVGuide">The Millers</a></li>
+                        <li class="mostpop-list-item"><i class="item-index">5</i> <a href="http://video.tvguide.com/General+Hospital/General+Hospital+11514/22927086/tvo-195503-season-2014-episode-153?autoplay=1&amp;partnerid=TVGuide">General Hospital</a></li>
                     
             </ol>
         </li>
@@ -765,7 +711,7 @@ var masterPageId = "tvguidebare";
 	$(function() {
 		
 		
-		window.checkSlots = [
+		checkSlots = [
 			{
 				name: 'leader_plus_top',
 				runCount: 0,
@@ -783,57 +729,69 @@ var masterPageId = "tvguidebare";
 			}
 		];
 		
-		for (var key in checkSlots) {
-			(function(key) {
-				checkSlots[key].run = setInterval(function() {
-					try {
-						if(checkSlots[key].runCount > 20) {
-							clearInterval(checkSlots[key].run);
-							return;
-						}
-		
-						checkSlots[key].runCount++;
-				
-						var adUnit;
-				
-						if(typeof(adslots[checkSlots[key].name]) != 'undefined') {
-							adUnit = adslots[checkSlots[key].name];
-						} else {
-							clearInterval(checkSlots[key].run);
-							return;
-						}
-				
-						// Bail out if it hasn't been initialized yet
-						if(typeof(adUnit.getSlotId) != 'function') {
-							return;
-						}
-			
-						var div = $('#' + adUnit.getSlotId().getDomId());
-		
-						if(div.length <= 0) {
-							clearInterval(checkSlots[key].run);
-							return;
-						}
-		
-						var width = div.find('iframe').first().width();
-		
-						if(width > 0) {
-							if(width == 980) {
-								div.parent('div').removeClass().addClass('ad-980-width-top');
-								clearInterval(checkSlots[key].run);
-								return;
-							} else if(width == 970) {
-								div.parent('div').removeClass().addClass('ad-970-width-top');
+		googletag.cmd.push(function() {
+			for (var key in checkSlots) {
+				(function(key) {
+					checkSlots[key].run = setInterval(function() {
+						try {
+							if(checkSlots[key].runCount > 200) {
 								clearInterval(checkSlots[key].run);
 								return;
 							}
+		
+							checkSlots[key].runCount++;
+				
+							var adUnit;
+				
+							if(typeof(adslots[checkSlots[key].name]) != 'undefined') {
+								adUnit = adslots[checkSlots[key].name];
+							} else {
+								clearInterval(checkSlots[key].run);
+								return;
+							}
+				
+							// Bail out if it hasn't been initialized yet
+							if(typeof(adUnit.getSlotId) != 'function') {
+								return;
+							}
+			
+							var div = $('#' + adUnit.getSlotId().getDomId());
+		
+							if(div.length <= 0) {
+								clearInterval(checkSlots[key].run);
+								return;
+							}
+		
+							var width = div.find('iframe').first().width();
+							
+							if(width <= 0) {
+								width = div.find('iframe').first().attr('width');
+							}
+							
+							if(width <= 0) {
+								width = div.find('div div').first().width();
+							}
+		
+							if(width > 0) {
+								if(width == 980) {
+									div.parent('div').removeClass().addClass('ad-980-width-top');
+									clearInterval(checkSlots[key].run);
+									return;
+								} else if(width == 970) {
+									div.parent('div').removeClass().addClass('ad-970-width-top');
+									clearInterval(checkSlots[key].run);
+									return;
+								}
+							} else {
+								console.log('Could not find width of actual ad unit.', div);
+							}
+						} catch(err) {
+							console.error(err);
 						}
-					} catch(err) {
-						console.error(err);
-					}
-				}, 500);
-			})(key);
-		}
+					}, 500);
+				})(key);
+			}
+		});
 	});
 </script>
 
@@ -848,23 +806,27 @@ var masterPageId = "tvguidebare";
 
 
 
+ 
+
+<script type="text/javascript" src="/refresh/js/tvgol.master.tealium.min.js"></script>
+
 <!-- New CBSi Tracking Codes + APEX -->
-<script type="text/javascript" charset="utf-8">
-LazyLoad.js(['http://dw.cbsimg.net/js/cbsi/ds.js','http://cn.cbsimg.net/cnwk.1d/Aud/javascript/tvguide/apex.js'], function() {
-    if(typeof(DW) == 'object') {
-	    DW.pageParams = {
-	        siteid: '432'
-	    };
-	    DW.tagComscore = false;
-	    DW.tagNielsen = false;
-	    DW.clear();
+
+
+    
+	    
+	        
+	    
+	    
+	    
+	    
 		
-		if(window.cbsiRunApexTargets) {
-			cbsiRunApexTargets(DW.pageParams);
-		}
-    }
-});
-</script>
+		
+			
+		
+    
+
+
 
 <!--
 Adobe Marketing Cloud Tag Loader Code
@@ -878,100 +840,102 @@ More info available at http://www.adobe.com/solutions/digital-marketing.html
 
 
 
-<script type="text/javascript">//<![CDATA[
-    var amc = amc || {}; if (!amc.on) { amc.on = amc.call = function () { } };
-    document.write("<scr" + "ipt type=\"text/javascript\" src=\"/refresh/js/tvgol.master.omniture.min.js\"></sc" + "ript>");
-    document.write("<scr" + "ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC0xMjQx/amc.js\"></sc" + "ript>");
-//]]></script><script type="text/javascript" src="/refresh/js/tvgol.master.omniture.min.js"></script><script type="text/javascript" src="//www.adobetag.com/d2/v2/ZDItY2JzaW50ZXJhY3RpdmUtNDgxNC0xMjQx/amc.js"></script>
+
+    
+    
+    
+
 <!-- CBSI Omniture Tracking Codes ends -->
 
 <!-- Begin BlueKai Tag begins -->
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)" style="position: absolute; top: -50px; left: -50px;"></iframe>
-<script type="text/javascript" src="/refresh/js/tvgol.master.bluekai.min.js"></script>
+
+
 <!-- Begin BlueKai Tag ends -->
 
 
 <!-- REVENUE SCIENCE PIXELLING CODE killed by Todd, 11/28/2012 -->
 
 <!-- Begin comScore Tag -->
-<script type="text/javascript">
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: window.OvgBaseUrl ===  window.location.hostname ? 1 : 2, c2: "3005567", c3: "3005567", c4: window.location.href, c5: "", c6: "", c15: "C67BD3C1"});
 
-    (function() {
-        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-        el.parentNode.insertBefore(s, el);
-    })();
-</script>
-<noscript>
-       <img src="http://b.scorecardresearch.com/b?c1=2&c2=3005567&c3=3005567&c4=www.tvguide.com&c5=&c6=&c15=C67BD3C1&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
-</noscript>
+    
+    
+
+    
+        
+        
+        
+    
+
+
+       
+
 <!-- End comScore Tag -->
 
 <!-- BEGIN GOOGLE ANALYTICS -->
-<script type="text/javascript">
-_uacct = "UA-547331-1";
-_udn = "tvguide.com";
-if((document.location.port=="80")||(document.location.port=="")) {
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', _uacct]);
-    _gaq.push(['_trackPageview']);
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-}
-</script>
-<script type="text/javascript">
-    function countAnalytics() {
 
-        /* Revenue Science - Removed by DAN 12-12-12 */
-        // if ((document.location.port == "80") || (document.location.port == "")) { DM_tag(); }
 
-        /* Comscore */
-        COMSCORE.beacon({
-            c1: 2,
-            c2: "3005567",
-            c3: "3005567",
-            c4: window.location.href,
-            c5: "",
-            c6: "",
-            c15: "C67BD3C1"
-        });
 
-        /* Google */
-        if ((document.location.port == "80") || (document.location.port == "")) {
-                var _gaq = _gaq || [];
-                _gaq.push(['_setAccount', _uacct]);
-                _gaq.push(['_trackPageview']);
-                (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-        }
 
-    }
-</script>
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+        
+        
+
+        
+        
+            
+            
+            
+            
+            
+            
+            
+        
+
+        
+        
+                
+                
+                
+                
+                    
+                    
+                    
+                
+        
+
+    
+
 <!-- END GOOGLE ANALYTICS -->
+
+
 <!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2010 Nielsen Online -->
-<script type="text/javascript">
-    (function() {
-        var d = new Image(1, 1);
-        d.onerror = d.onload = function() {
-            d.onerror = d.onload = null;
-        };
-        d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203529h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
-    })();
-</script>
-<noscript>
-  <div>
-    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203529h&amp;cg=0&amp;cc=1&amp;ts=noscript"
-    width="1" height="1" alt="" />
-  </div>
-</noscript>
+
+    
+        
+        
+            
+        
+        
+    
+
+
+  
+    
+    
+  
+
 <!-- END Nielsen Online SiteCensus V6.0 -->
 <!-- WebTrends SmartSource Data Collector (c)1996-2004 NetIQ Corporation.  All rights reserved.  -->
 <!-- $DateTime: 2004/05/03 13:43:43 $ -->
@@ -1003,7 +967,6 @@ catch (err) { }
 <!-- END OF Data Collection Server TAG -->
 
 
-
 <div id="intromercial"><div id="GPT005_Intromercial"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('GPT005_Intromercial');});</script></div></div>
 
 
@@ -1013,10 +976,10 @@ catch (err) { }
 
 
 
-<!-- Page Built: 6/25/2014 10:12:48 AM GMT -->
+<!-- Page Built: 11/7/2014 10:46:21 PM GMT -->
 <!-- Image Server: http://static.tvgcdn.net -->
 <!-- TvgWebPage: /services/privacy.aspx -->
-<!-- Web Server: WS237 -->
+<!-- Web Server: WS194 -->
 <!-- Request: /services/privacy.aspx -->
 <!-- Ad Unit: /8264/aw-tvguide/other -->
-<!-- DLL Build: 6/6/2014 4:44:03 PM --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<!-- DLL Build: 8/26/2014 2:53:53 PM --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
