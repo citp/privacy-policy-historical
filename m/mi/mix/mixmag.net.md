@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044033id_/http%3A//www.mixmag.net/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107010609id_/http%3A//www.mixmag.net/cookies) for the most accurate reproduction.*
 
 # Mixmag | MIXMAG COOKIE POLICY
 
