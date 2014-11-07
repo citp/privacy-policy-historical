@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180229id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108003826id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Howpk.com-Privacy Policy | HowPk
 
@@ -22,16 +22,16 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 howpk.com collects and uses Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
-\- To improve customer service  
+– To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.
 
-\- To administer a content, promotion, survey or other Site feature  
+– To administer a content, promotion, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
-\- To send periodic emails  
+– To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
 
 **How we protect your information**
