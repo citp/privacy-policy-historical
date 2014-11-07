@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the idigitaltimes.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321024217id_/http%3A//www.idigitaltimes.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idigitaltimes.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107055920id_/http%3A//www.idigitaltimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Digital Technology News, Latest Technology News
+# Privacy Policy
 
-### Privacy Policy
+_This policy was last updated on July 16, 2014_
 
-_This policy was last updated on March 3, 2014_
-
-**INTRODUCTION:**   
+**Introduction**  
 This Privacy Policy describes how IBT Media Inc. and its affiliated United States subsidiaries (collectively, "Company," "us" or "we") may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on its Web sites and other applications.
 
-This Policy applies to PII and Related Data (collectively, your "information") received by us from consumers when you visit, register or subscribe to the online editions of IBT Media Inc (idigitaltimes.com) and related services or sites that link to this Privacy Policy.
+This Policy applies to PII and Related Data (collectively, your "information") received by us from consumers when you visit, register or subscribe to the online editions of IBT Media Inc ([idigitaltimes.com](http://idigitaltimes.com/)) and related services or sites that link to this Privacy Policy.
 
 From time to time Company may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. Notice of a significant or material change in the way we use your personal information will be made to registered users via e-mail.
 
-**INFORMATION THAT WE COLLECT:**
-
+**Information That We Collect**  
 **Generally:** When you subscribe to our products or services, we collect PII and Related Information from you. We also may collect PII and Related Information from you when you contact us about your subscriptions or participate in activities like: our resume database; job searches; forums; message boards; chats; submitting a letter to the editor; forwarding an article to a friend; creating a community profile; rating, tagging and commenting on articles; or surveys, sweepstakes, contests, or games. When you visit our web sites, we automatically collect non PII such as IP addresses and web site usage information from you.
 
 In compliance with COPPA, we do not, however, knowingly collect or store PII from children under the age of thirteen.
@@ -35,18 +32,15 @@ We may use cookies and similar tools to relate your use of our web sites to PII 
 
 **Third Party Ad Servers:** Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit <http://www.networkadvertising.org/choices/>
 
-**NOTICE:**
-
+**Notice**  
 **Third Party Web Sites:** Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with Company or feature the Company logo, even though they are not operated or maintained by us. For example, the Business & Hire section of International Business Times online offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links.
 
 We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
 Our web sites may also be linked to sites operated by companies affiliated with us (i.e., that are part of the News America Group ("Affiliated Companies"). Although all Affiliated Companies adhere to our privacy principles, visitors to those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
-**USE: HERE'S HOW WE USE PII OR RELATED DATA:**
-
-**Generally:** We may use information in the following ways:
-
+ **Use: Here’s How We Use PII or Related Data:**  
+**Generally:** We may use information in the following ways:  
 • For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests  
 • To send you information about your relationship or transactions with us  
 • To notify you about our products, services, and special offers  
@@ -76,45 +70,41 @@ When an individual chooses to post information that will be publicly disclosed, 
 
 **Non PII:** Anonymous click stream, number of page views calculated by pixel tags, and aggregated or de-identified demographic information may also be shared with our advertisers and business partners.
 
-**CHOICE: WE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
-
+**Choice: We Will Provide You With Choices About The Use Of Your PII**  
 To opt out of receiving marketing from the Company or its Third Party Promotional partners, or to otherwise update your preferences, you must do so for each of our publications separately, as indicated below:
 
-**International Business Times Online and any other IBT Media properties:**   
+**International Business Times Online and any other IBT Media properties:**  
 To opt out of receiving marketing from International Business Times Online, if you are a subscriber visit our Member Center. Others may notify us by contacting Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com)
 
 If you are a current subscriber of any of our publications, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line.
 
 We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.
 
-**ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII**   
+**Access: How To Access, Correct Or Update Your PII**  
 You may review and update the PII that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Most subscribers also can update their information online by signing on to their accounts and visiting the appropriate account management sections. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately.
 
-**International Business Times Online and any other IBT Media properties:**   
-Subscribers may contact Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com) Most subscribers to International Business Times Online may also update their information by going to Member Center.
+**International Business Times Online and any other IBT Media properties:**  
+Subscribers may contact Customer Service at [info@ibtimes.com](mailto:info@ibtimes.com). Most subscribers to International Business Times Online may also update their information by going to Member Center.
 
-**SECURITY: WE PROTECT THE SECURITY OF PII**   
+**Security: We Protect The Security Of PII**  
 We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and Related Data in our possession against loss, theft and unauthorized use, disclosure or modification. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
-**DATA RETENTION**   
+**Data Retention**  
 We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
 
-**TRANSFER TO US OR OTHER COUNTRIES**   
+**Transfer To Us Or Other Countries**  
 Your information may be stored and processed in the United States, in Slovakia or in any country where Company has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country, except in the case of data transfers from the European Economic Area or Switzerland, which are covered under the EU and Swiss Safe Harbor Frameworks.
 
-**REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS**   
-If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our CONTACT US page for IBT Media.
+**Remedies And Compliance: How To Contact Us About Privacy Concerns**  
+If you have any questions, comments or concerns about our Privacy Policy or the Principles, please visit our contact us page for IBT Media.
 
-**Your California Privacy Rights**
+**Your California Privacy Rights**  
+Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [support@newsweek.com](mailto:support@newsweek.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
-Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [newsweek@emailcustomerservice.com](mailto:newsweek@emailcustomerservice.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+**Safe Harbor Privacy Principles**  
+The Company adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and Switzerland to the United States of America. Accordingly, we follow the Safe Harbor Privacy Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. This privacy policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice you have regarding our use of and your ability to correct that information. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at http://export.gov/safeharbor/.
 
-**SAFE HARBOR PRIVACY PRINCIPLES**
-
-The Company adheres to the Safe Harbor Frameworks concerning the transfer of personal data from the European Union and Switzerland to the United States of America. Accordingly, we follow the Safe Harbor Privacy Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. This privacy policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice you have regarding our use of and your ability to correct that information. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor/>.
-
-**Safe Harbor Enforcement and Dispute Resolution**
-
+**Safe Harbor Enforcement and Dispute Resolution**  
 In compliance with the US-EU Safe Harbor and U.S. Swiss Safe Harbor Privacy Principles, the Company is committed to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact the Company at:
 
 General Counsel  
