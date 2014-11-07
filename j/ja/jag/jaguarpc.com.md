@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111934id_/http%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarpc.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107012010id_/http%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Jaguar PC
 
