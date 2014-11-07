@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automated-paydays.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213120218id_/http%3A//www.automated-paydays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automated-paydays.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107230323id_/http%3A//www.automated-paydays.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Getting Started - Automated Paydays
+# Privacy Policy - Automated Paydays
 
 This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting this website. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
@@ -68,6 +68,6 @@ This policy may change from time to time. Please visit this page for changes.
 
 #### CONTACT
 
-If you have questions about our privacy policy or any other questions about our website or services then please contact us via email at [support@automatedpaydays.com](mailto:support@automatedpaydays.com).
+If you have questions about our privacy policy or any other questions about our website or services then please contact us via email at [support@automatedpaydays.co](mailto:support@automatedpaydays.co).
 
 We have a fantastic Customer Care team, who will be glad to help you with any queries you have, whether large or small.
