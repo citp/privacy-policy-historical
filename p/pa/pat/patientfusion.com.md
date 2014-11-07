@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the patientfusion.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214091358id_/http%3A//www.patientfusion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientfusion.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108005626id_/https%3A//www.patientfusion.com/legal/privacy) for the most accurate reproduction.*
 
 # Patient Fusion - Privacy Policy
 
-**Last Updated:** April 9, 2013
+**Last Updated:** May 19, 2014
 
 ## Introduction
 
@@ -47,7 +47,7 @@ Therefore, even if you do not register with us or submit any personal informatio
 
 Engagement Data often includes elements such as the date and time a "request" is made, the model of the Device making the "request," the type and version of operating system running on a Device (e.g., Mac OS or Microsoft Windows), the browser making the request (e.g., Internet Explorer, Chrome or Firefox), routing information, IP address, the Device's geographic location, search terms a user enters, what URL a Device most recently visited, and, if a mobile application is used, an anonymous unique number. Engagement Data generally does not personally identify a Device's user. However, it can be combined with personal information. If so, we treat such combined information the same way we treat personal information. Additionally, in the event that our Engagement Tools collect data elements that contain personal information, we treat those data elements as personal information. 
 
-You have the ability to control how certain [Engagement Tools](https://web.archive.org/legal/engagementtools) operate by modifying the settings on your Device or its software. Most browsers, for example, allow you to refuse accepting cookies, and many mobile Devices allow you to disable the sending of location information. In some cases, doing these things could diminish the performance of our Services or render them inoperable. To learn more about [Engagement Tools](https://web.archive.org/legal/engagementtools) and how we use Engagement Data please see our [Engagement Tools](https://web.archive.org/legal/engagementtools) page and the section below entitled "How Information is Used." 
+You have the ability to control how certain [Engagement Tools](https://web.archive.org/legal/engagementtools) operate by modifying the settings on your Device or its software. Most browsers, for example, allow you to refuse accepting cookies, and many mobile Devices allow you to disable the sending of location information. In some cases, doing these things could diminish the performance of our Services or render them inoperable. We do not respond to browser-based "do not track" signals. To learn more about [Engagement Tools](https://web.archive.org/legal/engagementtools) and how we use Engagement Data please see our [Engagement Tools](https://web.archive.org/legal/engagementtools) page and the section below entitled "How Information is Used." 
 
 Third Party Tools: We work with certain third parties who deploy their own engagement tools on our Services. In some instances they do so exclusively on our behalf. In other instances, they may retain and use the data they collect pursuant to publicly available privacy policies. These [Third Party Tools](https://web.archive.org/legal/thirdpartytools) are frequently deployed by companies providing online advertising services or analytics, but they may be deployed in other contexts as well, such as social media plug-ins. We treat personal and non-personal information that we receive from these [Third Party Tools](https://web.archive.org/legal/thirdpartytools) the same way we treat personal and non-personal information that we directly collect from our Services. We, however, do not control how these third parties manage the information they gather. Please see our [Third Party Tools](https://web.archive.org/legal/thirdpartytools) for more information. 
 
@@ -203,5 +203,5 @@ You may contact us at:
 
 Practice Fusion, Inc.  
 Attention: Privacy  
-420 Taylor Street  
-San Francisco, CA 94102 
+650 Townsend Street, Suite 500  
+San Francisco, CA 94103 
