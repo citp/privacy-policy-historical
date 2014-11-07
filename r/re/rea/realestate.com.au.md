@@ -1,147 +1,238 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103195439id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107090947id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
 
 # Real Estate, Property, Land and Homes for Sale, lease and rent - realestate.com.au
 
+## (including Credit Reporting Policy)
+
+_March 2014_
+
 ## Introduction
 
-realestate.com.au Pty Ltd (“REA” or "we", "our" and "us" in this Privacy Policy) operates the websites (including any subdomains) located at realestate.com.au, realcommercial.com.au, realbusinesses.com.au and property.com.au. realestate.com.au and realcommercial.com.au are also displayed as mobile sites and through mobile and tablet applications. All these websites, mobile sites and apps are called the “Websites” in this Privacy Policy. 
+realestate.com.au Pty Ltd (realestate.com.au) operates the following websites across desktop, mobile, tablet and apps (including any subdomains): 
 
-REA is a subsidiary of REA Group Ltd. Click here to view our [contact details](http://www.realestate.com.au/cgi-bin/rsearch?a=v&t=res&id=65 "Contact Us"). 
-
-This Privacy Policy sets out the manner in which we manage personal information collected via the Websites and associated interfaces. By using the Websites, or entering into an agreement with us in relation to the Websites you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy. 
-
-We reserve the right, at our discretion, to modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. We welcome your comments and [feedback](http://www.realestate.com.au/cgi-bin/rsearch?a=feedback&to=info&t=res). 
-
-**Respecting information privacy**
-
-We recognise the importance of protecting personal information. We do not collect sensitive information as defined under the Privacy Act such as racial or ethnicity information, political opinions or associations, criminal records or health information. 
-
-In collecting and handling personal information, we are bound by the _Privacy Act_ 1988 (Cth), including the National Privacy Principles, and applicable privacy regulations. 
-
-**Problems or Questions**
-
-If we become aware of any ongoing concerns or problems with the Websites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact our Privacy Officer at [privacyofficer@rea-group.com](mailto:privacyofficer@rea-group.com)
-
-For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](https://web.archive.org/web/20131030112156id_/http://www.rs.realestate.com.au/cgi-bin/=http://www.privacy.gov.au/) website. 
-
-**Collection of Personal Information**
-
-We may collect the following personal information: 
-
-  * Information, such as your name, email, other contact details, addresses, gender, industry, occupation and personal interests and any other information that you provide us or our service providers by using or subscribing to our products or services including: 
-    * registering to use the Websites or parts of them through Myrealestate or MyCommercial;
-    * logging in to use our Websites via your social networking site (“SNS”) account and any information provided by that SNS to enable you to register or log into our website and use the requested service from time to time; 
-    * filling in forms on the Websites or websites of our service providers e.g. the 1Form online rental application;
-    * contacting us or our service providers for any reason including reporting a problem with the Websites, requesting further services or completing our surveys; 
-    * posting or contributing material on our Websites; or
-    * applying for credit.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through the Websites including any competitions or promotions.
-  * Details of your visits to and behaviour on the Websites including, but not limited to your IP address, Cookie information, traffic data, location data, weblogs and other communication data and the resources that you access.
-  * Information about you that we obtain from service providers or third parties.
-  * If you are a real estate agent, your contact details and a profile picture.
+  * realestate.com.au;
+  * realcommercial.com.au;
+  * 1form.com.au; and
+  * property.com.au,
 
 
 
-**Use of Personal Information**
+collectively known as the “ **Websites** ” in this Privacy Policy. 
 
-We may use your personal information to:
+REA Group Ltd (" **REA Group** ") operates the website located at rea-group.com (" **REA Group Website** "). realestate.com.au is a subsidiary of REA Group. 
 
-  * ensure that content from the Websites are presented in the most effective manner for you and for your computer;
-  * provide a better service or product to you, for instance by automatically populating forms on our Websites by which you make enquiries of selected estate agents;
-  * combine your personal information with information that we have collected from our service providers, third parties, cookies or web beacons in order to provide you with a better or more personalised experience and to improve the quality of our services;
-  * personalise and customise your services, experience, advertising and content that you view and engage with on our Websites or the websites of our service providers and business partners. This may include displaying targeted advertisements based on your personal information;
-  * respond to or provide you with service, products, information and assistance that you request from us;
-  * contact you to conduct surveys, research and feedback about our products, services or our Websites;
-  * verify your identity when you register or log into our Websites via your SNS account;
-  * allow you to participate in interactive features of our service, when you choose to do so;
-  * notify you about changes to our service and remind you of your password and username;
-  * share your information with our service providers and other third parties so that they can provide you with products or services on our behalf or help us to provide you with the requested products or services including contacting you in relation to the products or services;
+realestate.com.au and REA Group are together known as "REA" or "we", "our" and "us" in this Privacy Policy (unless the context requires), except in relation to the Credit Reporting Policy where "REA" or "we", "our" and "us" refer only to realestate.com.au.
 
+This Privacy Policy sets out the manner in which we collect, use, disclose and manage personal information. By using the Websites and the REA Group Website, subscribing to our services or entering into an agreement with us in relation to the Websites, you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy. 
 
+We may modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. We welcome your comments and [feedback](http://www.realestate.com.au/cgi-bin/rsearch?a=feedback&to=info&t=res). 
 
-We may also use your personal information to:
+## Respecting information privacy
 
-  * provide you with information about offers, promotions, goods or services, which we believe may be of interest to you; and
-  * share your information with our service providers and other third parties so that they can contact you directly about their offers, promotions, goods or services,
+We recognise the importance of protecting personal information. We do not collect sensitive information as defined under the Privacy Act 1988 (Cth) (" **Privacy Act** "), such as racial or ethnicity information, political opinions or associations, criminal records or health information. 
 
+In collecting and handling personal information, we are bound by the Privacy Act, including the Australian Privacy Principles (" **APPs** "), and applicable privacy regulations. 
 
+## The Personal Information we collect about you
 
-provided that if we do use your personal information in these ways, we will always give you the opportunity to request that your information not be used for further direct marketing in the future.
+realestate.com.au may collect personal information about you including, but not limited to your name, address, phone number, email, gender, occupation, personal interests and any other information provided. For some services and products, realestate.com.au may also collect your personal information to enable verification of your identity, including information from your passport, driver's licence, and health care and concession cards.
 
-**Disclosure of your Personal information**
+If you are a shareholder of REA Group Ltd, REA Group (or its services providers) may collect information about your shareholdings, banking details and tax file numbers for payment of dividends and other amounts. If you subscribe to alert services on the REA Group Website, we may collect your name and email address. 
 
-We may disclose your personal information to: 
+If you submit personal information to us in relation to an employment opportunity, we may also collect information about your employment and academic history.
 
-  * Estate agents or agencies, property developers, builders, retirement community operators that have listings or advertising on our Websites and which you have requested information from by submitting an enquiry. If you request information from these organisations through our Website, you will need to check their privacy policy to find out how that organisation handles your personal information. We are not responsible for the way these organisations collect, use, disclose or handle personal information.
-  * Third party suppliers: 
-    * who we have engaged to provide you with goods or services on our behalf, for the purposes of helping us provide you with the requested goods or services or so that they can contact you in relation to the goods or services; or
-    * so that they can contact you directly about their offers, promotions, goods or services. If we do disclose your personal information for this purpose, we will always give you the opportunity to request that your information not be disclosed for this purpose in future.
-Where we have disclosed your personal information to third party suppliers for the above purposes, we have used reasonable endeavours through contractual arrangements to ensure compliance by the third party supplier with the _Privacy Act 1988_ (Cth). 
-  * Relevant public authorities, our legal representatives or other concerned parties, in special situations where, either: 
-    * we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with our rights or property, users or anyone else who could be harmed by such activities; or
-    * we believe, in good faith, that the law requires disclosure.
+We may also collect non-personal information about you including, but not limited to, data relating to your activities on the Websites and REA Group Website (including IP addresses) via tracking technologies such as cookies, web beacons and measurement software or data relating to survey responses. 
 
+You acknowledge that the personal information you provide us and which we collect from you, is your own information or information which you have been authorised to provide to us.
 
+## How we collect your personal information
 
-**Storage, Security and Processing**
+realestate.com.au may collect personal information about you from a variety of sources including, but not limited to:
 
-We strive to ensure the security, integrity and privacy of personal information submitted to our Websites, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure. However, we will endeavour to take reasonable steps to protect the personal information you may transmit to us from our online products and services or otherwise collected by us. Once we do receive your transmission, we will also use reasonable endeavours to ensure its security on our systems.   
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we are not responsible for events arising from unauthorised access to your personal information.   
+  1. registering to use the Websites or parts of them through a MyRealestate or MyCommercial account;
+  2. logging in to use our Websites via your social networking site (" **SNS** ") account;
+  3. subscribing to receive Alerts/e-brochures and filling in forms, applications (e.g. the 1Form online rental application), surveys or research, participating in promotions and competitions on the Websites or websites of our service providers;
+  4. contacting us or our service providers for any reason including, but not limited to, reporting a problem with the Websites, requesting further services or seeking our assistance;
+  5. posting or contributing material on our Websites;
+  6. using our services and any credit provided by us in connection with those services (see our Credit Reporting Policy below for more detail); and
+  7. applying for an employment opportunity with us directly, via an SNS site (eg. LinkedIn) or through your nominated referees.
 
 
-**Transfer of Personal Information outside Australia**
 
-Personal information submitted by REA’s customers and visitors to our Websites may be held on servers located in Australia or in the data centres of REA’s outsourced data processors with data centres in Australia, the United States of America, Europe and Asia. The purposes of transfer of data outside of Australia are the secure storage, back-up and retrieval of data. REA has implemented policies and procedures to safeguard the secure storage and processing of data intra-group, has verified the security arrangements of its outsourced data processors and has implemented contractual arrangements intra-group and with its outsourced data processors in accordance with _Privacy Act 1988_ (Cth). When you provide us with your personal information you give us your consent to the transfer of personal information outside of Australia for the purposes described above. 
+REA Group may collect personal information about you if you:
 
-**Correction and access**
+  1. are a shareholder of REA Group Ltd, then REA Group may collect personal information about you from third parties (including, for example, collection of information from its share or share plan registrar); and
+  2. subscribe to receive email alerts, ASX announcements, media releases and other news relating to REA Group through the REA Group Website.
 
-We will endeavour to take all reasonable steps to keep accurate and up to date any information which we hold about you. If, at any time, you discover that information held about you is incorrect, you can [contact us](http://www.realestate.com.au/cgi-bin/rsearch?a=v&t=res&id=65 "Contact Us") to have the information corrected.   
+
+
+We may also collect your personal information through our related bodies corporate, our service providers and third parties so that we may provide a better or more relevant service or product to you.
+
+If you apply to us for credit, we may also obtain personal information about you from credit reporting bodies (see our Credit Reporting Policy below for more details), other credit providers, existing or previous suppliers of goods or services, your bank and certain other businesses for the purposes of assessing your application.
+
+## How we use your personal information
+
+We use the personal information we have collected largely for the purpose of providing you with products and services that you have requested, responding to your inquiries, creating and maintaining your account and ensuring you comply and adhere to our website terms of use. 
+
+More specifically, realestate.com.au may use personal information which it has collected to: 
+
+  1. ensure that content from the Websites is presented in the most effective manner for you and for your computer;
+  2. provide a better or more relevant service or product to you, for instance by automatically populating forms on the Websites when you make enquiries of selected estate agents;
+  3. combine your personal information with information that realestate.com,au has collected from its service providers, third parties, cookies or web beacons in order to provide you with a better or more relevant and personalised experience and to improve the quality of its services;
+  4. personalise and customise your services, experience, advertising and content that you view and engage with on the Websites or the websites of realestate.com,au service providers and business partners
+  5. respond to or provide you with service, products, information and assistance that you request from realestate.com.au;
+  6. contact you to conduct surveys, research and feedback about our products, services or the Websites;
+  7. verify your identity when you register or log into our Websites via your SNS account and remind you of your password and username;
+  8. allow you to participate in interactive features of our service, when you choose to do so;
+  9. help carry out our obligations arising from any contracts entered into between you and us;
+  10. to assess your application for credit as a business in connection with our services;
+  11. by disclosing the information to debt collection agencies to recover any amounts you owe us; and
+  12. notify you about changes to our products and services.
+
+
+
+If all or part of this information is not provided, we may not be able to provide these services. 
+
+If you are a shareholder of REA Group Ltd, REA Group may also use your personal information to:
+
+  1. communicate with, and comply with REA Group’s legal obligations to, its shareholders, and to process payments to them; and
+  2. enable its service providers to provide it with services relating to REA Group’s share register and group employee share plan.
+
+
+
+If you submit personal information to us in relation to an employment opportunity with us, we may also use your personal information to:
+
+  1. consider you for the position for which you have submitted your personal information to us or any other positions that are or become available in the future;
+  2. respond to you in relation to any future application you make for an employment opportunity with us; and
+  3. contact your referees in order to collect the information you have consented to us collecting about you in order to consider you for employment opportunities with us.
+
+
+
+## Using and disclosing your personal information for marketing purposes
+
+We may: 
+
+  1. use your personal information to provide you with information about offers, promotions, goods or services, which we believe may be of interest to you; and
+  2. share your information with our service providers and other third parties so that they can provide you with products or services on our behalf or help us to provide you with the requested products or services including contacting you in relation to the products or services.
+
+
+
+If we do contact you by using your personal information in accordance with either of the above, we will give you the opportunity to request that your information not be used for further direct marketing in the future. 
+
+We may also, if you request us to by opting-in through your realestate.com.au Connect or 1Form online rental application, share your information with third parties so they may contact you directly about their offers, promotions, goods or services. 
+
+## How we disclose your personal information
+
+We may disclose personal information to our related bodies corporate, service providers or business partners. 
+
+We may also disclose your personal information: 
+
+  1. to real estate agents or agencies, property developers, builders, retirement community operators and landlords that have listings or advertising on our Websites and which you have requested information from by submitting an enquiry;
+  2. to our service providers, so that they can provide you with products or services on our behalf or help us to provide you with our products or services (including if you are a shareholder, to share registrar and share plan management service providers);
+  3. to third parties where you have requested information, services or products from them (eg through using realestate.com.au Connect or a 1form online rental application);
+  4. if you have submitted a 1form online rental application, to the property portal from which you accessed the 1form service and property information businesses;
+  5. in conjunction with a sale or similar transfer of a business;
+  6. if you apply to us for credit, to: 
+    1. credit reporting bodies (for the purpose of obtaining credit reporting information about you and other permitted purposes – see our Credit Reporting Policy below for more details); and
+    2. other credit providers, existing or previous suppliers of goods or services, your bank and certain other businesses for the purposes of assessing your application;
+  7. relevant public, government or regulatory authorities, our legal representatives or other concerned parties, in special situations where we have reason to believe that disclosing your personal information is necessary to help identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with our rights or property, users or anyone else who could be harmed by such activities; and
+  8. where we are otherwise authorised or required by law to do so.
+
+
+
+If you request information from any organisation through our Websites, you will need to check their privacy policy to find out how they handle your personal information. We are not responsible for the way these organisations collect, use, disclose or handle personal information you provide to them through our Websites. 
+
+## Disclosure and storage of personal information outside Australia
+
+Personal information submitted by REA's customers and visitors to our Websites and the REA Group Website may be held on servers located in Australia or in the data centres of REA's outsourced data processors with data centres in Australia, the United States of America, Europe and Asia. We transfer data outside of Australia to our service providers in order to obtain secure storage, back-up and data retrieval services. REA has implemented policies and procedures to safeguard the secure storage and processing of data with its related companies and has verified the security arrangements of its outsourced data processors. When you provide us with your personal information you give us your consent to store your personal information outside of Australia for the purposes described above. 
+
+## Security
+
+We strive to ensure the security, integrity and privacy of personal information we collect. We have established safeguards and use reasonable security measures to protect your personal information from unauthorised access, modification and disclosure. Our employees, contractors, agents and service providers who provide services related to our information systems, are obliged to respect the confidentiality of any personal information held by us. We review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure. 
+
+## Correction and access
+
+We will endeavour to take all reasonable steps to keep accurate and up to date, any information which we hold about you. If, at any time, you discover that information held about you is incorrect or you would like to review and confirm the accuracy of your personal information, you can [contact us](http://www.realestate.com.au/cgi-bin/rsearch?a=v&t=res&id=65 "Contact Us"). 
+
 You can also gain access to the personal information we hold about you, subject to certain exceptions provided for by law. To request access to your personal information, please [contact us](http://www.realestate.com.au/cgi-bin/rsearch?a=v&t=res&id=65 "Contact Us"). 
 
-**Cookies and Web Beacons**
+## Complaints resolution
 
-By using our Websites, you consent to the use of Cookies, Web Beacons and measurement software in accordance with this Privacy Policy. 
+REA is committed to providing its customers with a fair and responsible system for the handling of complaints. 
 
-‘Cookies’ are text files containing small amounts of information which are downloaded to your computer when you visit a website. Cookies are then sent back to the originating web domain on your subsequent visits to that website. 
+If at any time you have any concerns, complaints or questions in relation to your privacy or the operation of REA, please contact our Privacy Officer at [privacyofficer@rea-group.com](mailto:privacyofficer@rea-group.com) so that we may resolve your concerns. 
 
-Cookies are industry standard and are used by most websites, including our Websites and are useful because they allow:
+Our Privacy Officer will consider your query and endeavour to respond to you promptly. 
 
-  * a website to recognise a user’s device to enable more efficient navigation of the website, remember preferences and generally improve a user’s experience;
-  * customisation and personalisation of advertising presented to you based on your interests which are determined by your actions such as the pages you view, the links you click, the search terms you enter using search engines, the products and services you use on our Websites including registrations with Myrealestate and MyCommercial; and
-  * compilation of analytical data to improve site performance and monitor traffic, measure the effectiveness of products, services, website usage and auditing.
+For more information about privacy issues in Australia and protecting your privacy, visit the [Office of the Australian Information Commissioner's](http://www.privacy.gov.au/ "Office of the Australian Information Commissioner") website. 
+
+## Cookies and Web Beacons
+
+We use cookies, web beacons and measurement software and tools on the Websites and REA Group Website and so do our services providers and third parties such as our analytics, advertising or ad serving partners. We use and disclose the information collected through the use of cookies, web beacons and measurement software and tools in accordance with this Privacy Policy. This includes using the information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. We may allow other third parties to use their own cookies and web beacons to collect information about your visits to the Websites and REA Group Website. 
+
+We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons) to provide better or more relevant services and advertising to you on the Websites. and REA Group Website. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit. 
+
+## Cookie Choices
+
+I f you do not want information collected through the use of cookies, web beacons or measurement software and tools, you may be able to delete or reject Cookies or some of the measurement software features through your browser or the settings section of your mobile or tablet device. Disabling these features may cause some of the functions on the Websites and REA Group Website, or products and services not to work properly. 
+
+## Applications, widgets or links to other websites
+
+We provide links to websites outside of the Websites and REA Group Website, as well as to third party websites. We also allow some third parties to display widgets and applications on our Websites that allow you to interact and share content including social media buttons such as Facebook share and like, Twitter, Pinterest and Google+. These linked sites, applications and widgets are not under our control, and we cannot accept responsibility for the conduct of companies linked to the Websites and REA Group Website, or their collection of information through these third party applications or widgets. Before disclosing your personal information on any other website, or using these applications or widgets we advise you to examine the terms and conditions of using that website and the relevant third party's data collection practices and controls in their privacy policy. 
+
+**Credit applications by businesses for our services**
+
+REA provides ‘commercial credit’ for the purposes of the Privacy Act to businesses (such as real estate agents, developers and business brokers) who apply for credit in relation to our services. **** We do not provide any consumer credit. 
+
+References to "you" and "your" in this credit reporting policy are references to individuals in relation to whom we hold credit information or credit eligibility information for the purposes of the Privacy Act in connection with such credit. This policy provides details about our management of such information. 
+
+**How we collect and hold ‘credit information’ and ‘credit eligibility information’ about you**
+
+**"Credit information"** relates mainly to your credit-related dealings with us and comprises various types of information that can be collected by credit reporting bodies (" **CRBs** ") that report on consumer credit worthiness. We may collect or generate various categories of ‘credit information’ about you. 
+
+We may also collect " **credit eligibility information** " about you, which is mostly information **** provided by **** CRBs relating to your dealings with other credit providers (for example, financial institutions that provide you with loans or other businesses that provide you with credit in connection with their products or services). 
+
+"Credit information" and "credit eligibility information" may include: 
+
+  * identification information: such as your name, address, date of birth or employer; 
+  * consumer credit liability information: being information about consumer credit accounts you hold with other credit providers; 
+  * details about information requests made to CRBs: such as the fact that we or another credit provider have requested credit reporting information about you from a CRB to assess a credit application and various details about the credit you have applied for; 
+  * default information: being information about overdue payments owed by you in connection with consumer credit which have been disclosed to a CRB by other credit providers; 
+  * payment information: being information that an overdue payment has been repaid; 
+  * information about consumer credit-related serious credit infringements; 
+  * new arrangement information: being information about certain credit-related arrangements you may have entered with another credit provider in connection with a consumer credit default or serious credit infringement; 
+  * court proceedings information: being information about certain credit-related judgments; 
+  * personal insolvency information: being information recorded in the National Personal Insolvency Index about bankruptcy or various other insolvency-related matters; 
+  * publicly available information about activities relating to credit worthiness. 
 
 
 
-‘Web Beacons’ are small pieces of code that are contained in emails and webpages and allow a website to transfer or collect information such as whether an email is opened or links are clicked upon. We may use Web Beacons to determine which emails and web pages are interesting to you and for the same reasons we use Cookies on our Websites.
+Credit eligibility also includes credit worthiness information that we may derive from data we receive from a CRB, such as a credit risk score. ****
 
-When you use our products, services or visit our Websites, we may, or we may allow service providers or third parties such as our analytics partners including Nielsen, Adobe and Hockey App, or our advertising and adserving partners, to place one or more ‘Cookies’ on your computer or collect information about your browsing activities through Web Beacons. If your access to our products, services or Websites is through a mobile or tablet device, we may, or we may allow these service providers or third parties to use mobile or tablet measurement software to obtain similar information that we do through Cookies and Web Beacons. We allow these third parties to use Cookies, use Web Beacons and measurement software on our Websites to assist us to provide or improve the provision of our products and services to you, display personalised advertising and to assist us to audit, measure and analyse usage across our Websites. We may combine our Cookies (or information collected through our Cookies and Web Beacons) with third party Cookies to provide more relevant services and advertising to you on our Websites or third party websites. 
+We may collect credit information about you in any of the circumstances described above under the heading "How we collect your personal information" above. We collect credit eligibility information from CRBs but may collect it from other third parties where permitted by the Privacy Act (such as from other credit providers with your consent). 
 
-**Cookie Choices**
+We store and safeguard your credit information and credit eligibility information in the manner described under the headings "Disclosure and storage of personal information outside Australia" and "Security" above. 
 
-If you do not want information collected through the use of Cookies or mobile measurement software, there is a simple procedure in most browsers or the settings section of mobile and table devices that allows you to deny or accept the cookie or mobile measurement software feature. However, you should note that disabling these features may cause some of the functions on our Websites not to work properly. 
+**How we use and when we disclose your credit information and credit eligibility information**
 
-**Applications, widgets or links to other websites**
+We may disclose your credit information to CRBs. Those CRBs may then include that information in credit reporting information that they provide to other credit providers to assist them to assess your credit worthiness. For example, we may disclose to a CRB the type of commercial credit, and the amount of credit, sought in your application for credit with us. We may also use and disclose your credit information for other purposes and in other circumstances as described under the headings “"How we use your personal information”" and “"How we disclose your personal information”" above when permitted to do so by the Privacy Act. 
 
-We provide links to web sites outside of our Websites, as well as to third party websites. We also allow some third parties to display widgets and applications on our Websites that allow you to interact and share content including social media buttons such as Facebook share and like, Twitter, Pinterest and Google+. These linked sites, applications and widgets are not under our control, and we cannot accept responsibility for the conduct of companies linked to our Websites or collecting information through these third party applications or widgets. Before disclosing your personal information on any other website, or using these applications or widgets we advise you to examine the terms and conditions of using that website and the relevant third party’s data collection practices and controls in their privacy policy. 
+Our use and disclosure of credit eligibility information is regulated by provisions of Part IIIA of the Privacy Act and the Credit Reporting Privacy Code. We will only use or disclose such information for purposes permitted by these provisions, such as: 
 
-**Credit applications by real estate agents**
-
-If you apply to us for credit, we will ask you to authorise us to obtain personal information about you from credit reporting agencies, other credit providers, existing or previous suppliers of goods or services, your bank and certain other businesses for the purposes of assessing your application.   
-
-
-We will also require you to authorise us to disclose your personal information to:
-
-  * credit reporting agencies (for the purpose of obtaining a credit report); and
-  * other credit providers, existing or previous suppliers of goods or services, your bank and certain other businesses (for the purposes of assessing your application).
+  * to process an application for credit with us in relation to our services; 
+  * to manage the commercial credit we provide and collect overdue payments; or 
+  * where a disclosure is required or authorised under an Australian law or a court/tribunal order. 
 
 
 
-In addition to the ways in which we may use personal information set out above, if you are a customer of one of our Websites, we may also use your personal information:
+In some cases, the people to whom we may disclose your credit information or credit eligibility information may be based outside Australia – see the heading “Disclosure and storage of personal information outside Australia” above for more details. 
 
-  * to help carry out our obligations arising from any contracts entered into between you and us;
-  * to assess your application, where you have applied to us for credit; and
-  * by disclosing the information to debt collection agencies to recover any amounts you owe us.
+**Correction of and access to credit information and credit eligibility information**
 
+To request correction of, or access to, your credit eligibility information please see the heading “Correction and access” above 
 
+**Complaints regarding our compliance with credit reporting requirements**
+
+If at any time you would like to make a complaint about whether we have complied with Part IIIA of the Privacy Act or with the Credit Reporting Privacy Code please contact our Privacy Officer at [privacyofficer@rea-group.com](mailto:privacyofficer@rea-group.com) so that we may resolve your concerns. 
+
+If you make such a complaint, we will write to you with 7 days acknowledging that we have received your complaint and setting out how we will deal with it. We will aim to investigate and resolve your complaint within 30 days. We may need to consult with a CRB or another credit provider to do so. If we need more than 30 days to resolve your complaint, we will advise you of the reasons for the delay and ask for your consent to extend this day period. 
