@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403035837id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107145500id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Andhrawishesh.com
 
@@ -76,7 +76,7 @@ We make every effort including periodic reviews to ensure that personal informat
 **WISHESH DIGITAL MEDIA Pvt. Ltd** ,  
 Plot No:26, Nagarjuna Hills  
 Panjagutta   
-Hyderabad, A.P.   
+Hyderabad, Telangana.   
 India - 500 082  
 Ph: 040 - 23352804  
 Fax: 91.40. 233.555.35 
