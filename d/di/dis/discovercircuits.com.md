@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094526id_/http%3A//discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108150325id_/http%3A//discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for www.discovercircuits.com (updated 04/04/09)
+# Privacy Policy for www.discovercircuits.com (updated 10/24/14)
 
-**Privacy Policy for[www.discovercircuits.com](http://www.discovercircuits.com/) \- updated April 8, 2009**
+**Privacy Policy for[www.discovercircuits.com](http://www.discovercircuits.com/) \- updated October 24, 2014**
 
-The privacy of our visitors to www.discovercircuits.com is important to us. 
+The privacy of our visitors to [www.discovercircuits.com](http://www.discovercircuits.com/) is important to us. 
 
-We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.discovercircuits.com, and how we safeguard your information.  We never sell your personal information to third parties.
+We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this site and how we safeguard your information.
 
 **Log Files**
 
@@ -24,8 +24,36 @@ We recognize that privacy of your personal information is important. Here is inf
 > 
 > The [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
-We also use third party advertisements on www.discovercircuits.com to support our site.  Some of these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on [www.discovercircuits.com](http://www.discovercircuits.com/) to support our site.  Some of these companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Based on AdSense Privacy Policy Provided by [http://www.JenSense.com](http://www.jensense.com/)
+
+**Privacy Policy for http://www.discovercircuits.com**
+
+At http://www.discovercircuits.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.discovercircuits.com and how it is used.  We never sell your personal information to third parties.
+
+**Log Files**  
+Like many other Web sites, http://www.discovercircuits.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+**Cookies and Web Beacons** :  http://www.discovercircuits.com does not use cookies. 
+
+**DoubleClick DART Cookie**
+
+>   * Google, as a third party vendor, uses cookies to serve ads on [ http://www.discovercircuits.com](http://www.discovercircuits.com/).
+>   * Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.discovercircuits.com and other sites on the Internet. 
+>   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
+>   * Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....Google Adsense
+> 
+
+> 
+> These third-party ad servers or ad networks use technology to the advertisements and links that appear on [ http://www.discovercircuits.com](http://www.discovercircuits.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+> 
+> [ http://www.discovercircuits.com](http://www.discovercircuits.com/) has no access to or control over these cookies that are used by third-party advertisers. 
+> 
+> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [ http://www.discovercircuits.com's](http://www.discovercircuits.com%27s/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+> 
+> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+Content of this page provided by [ http://www.serprank.com/privacy-policy-generator/](http://www.serprank.com/privacy-policy-generator/)
