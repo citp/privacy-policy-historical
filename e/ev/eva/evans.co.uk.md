@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evans.co.uk privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510215752id_/http%3A//www.evans.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33054%26storeId%3D12553%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D529991%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evans.co.uk privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108143920id_/http%3A//www.evans.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33054%26storeId%3D12553%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D529991%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy & Cookies - Evans
 
