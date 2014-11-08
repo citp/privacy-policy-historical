@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012942id_/https%3A//www.sixflags.com/national/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixflags.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108121518id_/https%3A//www.sixflags.com/national/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Six Flags
 
