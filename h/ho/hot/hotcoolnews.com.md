@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcoolnews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070130id_/http%3A//hotcoolnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcoolnews.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108205214id_/http%3A//hotcoolnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Notice | HotCoolNews.com
 
