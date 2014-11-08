@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213101952id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108103856id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # retailsitesprivacypolicy | Destination Maternity
 
@@ -16,7 +16,7 @@ By providing us your information in-store or by using any of our web sites, you 
 
 **This Privacy Policy applies only to our retail stores and our retail and e-commerce web sites, online services, applications and social networking platforms operated by Destination Maternity Corporation and its affiliates, which include, without limitation:[www.apeainthepod.com](http://www.apeainthepod.com/); [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhood.com/nursinghome.asp); [www.destinationmaternity.com](http://www.destinationmaternity.com/); [m.destinationmaternity.com](http://www.destinationmaternity.com/mobile); and [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites").**
 
-**For the Privacy Policy that applies to our corporate informational web site please go to[www.destinationmaternitycorporation.com](https://web.archive.org/web/20140213101952id_/http%3A//www.destinationmaternity.com/%22http://www.destinationmaternitycorporation.com%22).**
+**For the Privacy Policy that applies to our corporate informational web site please go to[www.destinationmaternitycorporation.com](https://web.archive.org/web/20141108103856id_/http%3A//www.destinationmaternity.com/%22http://www.destinationmaternitycorporation.com%22).**
 
 **Access to and use of the Retail Web Sites is also governed by our[Terms and Conditions of Use](http://www.destinationmaternity.com/TermsandConditions.asp) which are also linked to our Retail Web Sites.**
 
@@ -75,6 +75,10 @@ We aim to keep your personally identifiable information as accurate as possible.
 ## Links; Online Discussions
 
 The Retail Web Sites may contain links to other sites. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every web site that collects personally identifiable information. Users should be particularly aware that certain links from our sites may be "framed" by a banner from one of the Retail Web Sites at the top of the third-party site's web pages. This privacy statement applies solely to information collected by the Retail Web Sites, and none of the Retail Web Sites bears any responsibility for any actions or policies of such third-party web sites including all framed sites.
+
+## Do Not Track Browser Settings
+
+Web sites operated by Destination Maternity Corporation currently do not block the sharing of information when a session on a site we operate has activated the “Do Not Track” option in the browser settings. Please review our privacy policy to learn more about the data we collect and the choices customers have on our sites. We utilize cookie data to provide more relevant content in some of our online advertisements. All “retargeted” ads that include content that references cookie data, offers a clear opt-out option that is managed by the individual advertising network.
 
 ## Changes to our Privacy Policy
 
