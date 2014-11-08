@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noliesplace.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508211723id_/http%3A//www.noliesplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noliesplace.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108205043id_/http%3A//www.noliesplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,9 +19,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 **How we use collected information**
 
 Nolie’s Place collects and uses Users personal information for the following purposes:  
-\- To administer a content, promotion, survey or other Site feature  
+– To administer a content, promotion, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
 How we protect your information
 
