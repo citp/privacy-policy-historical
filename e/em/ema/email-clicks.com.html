@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the email-clicks.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625062909id_/http%3A//email-clicks.com/en/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the email-clicks.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108032026id_/http%3A//www.email-clicks.com/en/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta id="metaKeyWords" name="KeyWords" content="Privacy Policy, opt in email advertising, opt in email marketing, opt in email, targeted opt in, mail direct marketing, opt in email list marketing, opt in emails, business mailing lists, business mailing list, email mailing lists, mailing lists, FEEDGEE keywords"><meta id="metaDescription" name="Description" content="Privacy Policy At FEEDGEE we respect and protect the privacy of our customers and those who use our website. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to, FEEDGEE description"><meta id="metaClassification" name="Classification" content="email, marketing, opt in lists software, email marketing, webmaster tools, pr, promo, ad, FEEDGEE classification"><title>
 	Privacy Policy | FEEDGEE email marketing tools
@@ -12,131 +12,109 @@
     <script type="text/javascript" src="/js/feechee.js"></script>
     <script language="javascript" type="text/javascript">
     <!--
-        var ticketId = '';
-        var username = '';
-        var name = '';
-        var selectedText = '';
+    var userId = '';
+    var ticketId = '';
+    var username = '';
+    var name = '';
+    var selectedText = '';
+    var locale = '';
 
-        GetSelection = function () { if (window.getSelection) { return window.getSelection(); } else if (document.getSelection) { return document.getSelection(); } else if (document.selection) { return document.selection.createRange().text; } else { return ''; } };
-        SubmitSpellingSupportTicket = function () { $("#divSupport").jqmShow(); txtMessage.value = GetSelection(); txtEmail.value = GetSelection(); };
+    GetSelection = function () { if (window.getSelection) { return window.getSelection(); } else if (document.getSelection) { return document.getSelection(); } else if (document.selection) { return document.selection.createRange().text; } else { return ''; } };
+    SubmitSpellingSupportTicket = function () { $("#divSupport").jqmShow(); txtMessage.value = GetSelection(); txtEmail.value = GetSelection(); };
 
-        $(document).ready(function () {
-            txtName = document.getElementById('txtName');
-            txtMessage = document.getElementById('txtMessage');
-            txtEmail = document.getElementById('txtEmail');
-            supportClose = function (hash) { $(txtMessage).css({ 'background-color': '#FFFFFF' }); $(txtEmail).css({ 'background-color': '#FFFFFF' }); txtMessage.value = ''; txtEmail.value = ''; hash.w.fadeOut('2000', function () { if (hash.o) hash.o.remove(); }); $("#divSupportErrorMessage").css("display", "none"); };
-            supportOpen = function (hash) { $(".btnSubmitSupportTicket").removeAttr("disabled"); hash.w.css('opacity', 0.95).fadeIn('2000'); setTimeout(((txtName.value.length > 0) ? "txtMessage" : "txtName") + ".focus()", 100); };
-            SubmitSpellingSupportTicket = function () { txtMessage.value = GetSelection(); txtEmail.value = GetSelection(); $("#divSupport").jqmShow(); }
-            $("#divSupport").jqm({ overlay: 0, onHide: supportClose, onShow: supportOpen }).jqmAddTrigger('#spanSupport').jqmAddClose('#supportClose');
+    $(document).ready(function () {
+        txtName = document.getElementById('txtName');
+        txtMessage = document.getElementById('txtMessage');
+        txtEmail = document.getElementById('txtEmail');
+        supportClose = function (hash) { $(txtMessage).css({ 'background-color': '#FFFFFF' }); $(txtEmail).css({ 'background-color': '#FFFFFF' }); txtMessage.value = ''; txtEmail.value = ''; hash.w.fadeOut('2000', function () { if (hash.o) hash.o.remove(); }); $("#divSupportErrorMessage").css("display", "none"); };
+        supportOpen = function (hash) { $(".btnSubmitSupportTicket").removeAttr("disabled"); hash.w.css('opacity', 0.95).fadeIn('2000'); setTimeout(((txtName.value.length > 0) ? "txtMessage" : "txtName") + ".focus()", 100); };
+        SubmitSpellingSupportTicket = function () { txtMessage.value = GetSelection(); txtEmail.value = GetSelection(); $("#divSupport").jqmShow(); }
+        $("#divSupport").jqm({ overlay: 0, onHide: supportClose, onShow: supportOpen }).jqmAddTrigger('#spanSupport').jqmAddClose('#supportClose');
 
 
-            $("#txtEmail").keyup(function () {
+        $("#txtEmail").keyup(function () {
+            reg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+            if (txtEmail.value.search(reg) == -1) {
+                $(txtEmail).css({ 'background-color': '#FF9999' });
+                setTimeout("txtEmail.focus()", 120);
+            }
+            else {
+                $(txtEmail).css({ 'background-color': '#FFFFFF' });
+            }
+
+        });
+
+        $("#txtMessage").keyup(function () {
+            if (txtMessage.value.length == 0) {
+                $(txtMessage).css({ 'background-color': '#FF9999' });
+                setTimeout("txtMessage.focus()", 100);
+            }
+            else {
+                $(txtMessage).css({ 'background-color': '#FFFFFF' });
+            }
+
+        });
+
+        $(".btnSubmitSupportTicket").click(function () {
+
+            var valid = false;
+            if (txtMessage.value.length == 0) {
+                $(txtMessage).css({ 'background-color': '#FF9999' });
+                setTimeout("txtMessage.focus()", 100);
+                valid = true;
+            }
+            else {
+                $(txtMessage).css({ 'background-color': '#FFFFFF' });
+            }
+            if (txtEmail.value.length == 0) {
+                $(txtEmail).css({ 'background-color': '#FF9999' });
+                setTimeout("txtEmail.focus()", 120);
+                valid = true;
+            }
+            else {
                 reg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
                 if (txtEmail.value.search(reg) == -1) {
                     $(txtEmail).css({ 'background-color': '#FF9999' });
                     setTimeout("txtEmail.focus()", 120);
-                }
-                else {
-                    $(txtEmail).css({ 'background-color': '#FFFFFF' });
-                }
-
-            });
-
-            $("#txtMessage").keyup(function () {
-                if (txtMessage.value.length == 0) {
-                    $(txtMessage).css({ 'background-color': '#FF9999' });
-                    setTimeout("txtMessage.focus()", 100);
-                }
-                else {
-                    $(txtMessage).css({ 'background-color': '#FFFFFF' });
-                }
-
-            });
-
-            $(".btnSubmitSupportTicket").click(function () {
-
-                var valid = false;
-                if (txtMessage.value.length == 0) {
-                    $(txtMessage).css({ 'background-color': '#FF9999' });
-                    setTimeout("txtMessage.focus()", 100);
                     valid = true;
                 }
-                else {
-                    $(txtMessage).css({ 'background-color': '#FFFFFF' });
-                }
-                if (txtEmail.value.length == 0) {
-                    $(txtEmail).css({ 'background-color': '#FF9999' });
-                    setTimeout("txtEmail.focus()", 120);
-                    valid = true;
-                }
-                else {
-                    reg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
-                    if (txtEmail.value.search(reg) == -1) {
-                        $(txtEmail).css({ 'background-color': '#FF9999' });
-                        setTimeout("txtEmail.focus()", 120);
-                        valid = true;
-                    }
-                }
-                if (valid == true)
-                    return;
-                $(".btnSubmitSupportTicket").attr("disabled", "disabled");
-                $.ajax({
-                    type: "POST",
-                    url: "/FEEDGEEservice/feedgeeservice.aspx/SubmitSupportTicket",
-                    data: "{'ticketId':'" + ticketId + "', 'username':'" + username + "', 'locale':'en', 'page':'" + window.location + "', 'name':'" + txtName.value + "', 'message':'" + txtEmail.value + " " + txtMessage.value + "'}",
-                    contentType: "application/json; charset=utf-8",
-                    dataType: "json",
-                    success: function (msg) {
-                        $(".btnSubmitSupportTicket").removeAttr("disabled");
+            }
+            if (valid == true)
+                return;
+            $(".btnSubmitSupportTicket").attr("disabled", "disabled");
+            $.ajax({
+                type: "POST",
+                url: "/FEEDGEEservice/feedgeeservice.aspx/SubmitSupportTicket",
+                data: "{'userId':'" + userId + "','ticketId':'" + ticketId + "', 'username':'" + username + "', 'locale':'" + locale + "', 'page':'" + window.location + "', 'name':'" + txtName.value + "', 'message':'" + txtEmail.value + " " + txtMessage.value + "'}",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (msg) {
+                    $(".btnSubmitSupportTicket").removeAttr("disabled");
+                    $("#divSupport").jqmHide();
+
+                },
+                error: function () {
+                    $("#divSupportErrorMessage").css("display", "");
+                    $("#aMailSupport").click(function () {
                         $("#divSupport").jqmHide();
-
-                    },
-                    error: function () {
-                        $("#divSupportErrorMessage").css("display", "");
-                        $("#aMailSupport").click(function () {
-                            $("#divSupport").jqmHide();
-                            $("#divSupportErrorMessage").css("display", "none");
-                        });
-                    }
-                });
+                        $("#divSupportErrorMessage").css("display", "none");
+                    });
+                }
             });
-            txtName.value = name;
         });
+        txtName.value = name;
+    });
     -->
     </script>
     <style type="text/css">
         html, form { height:100% }
     </style>
-<link href="/WebResource.axd?d=RMjqau-BaHrFjOUT0vpH9ctavjDADNxUbA91QZLHbkXBEqGziMosLijr3Jlx0gU1ReryibKyFVmxnkDc757BSADHGGyLnDVT5oVljTbpztptNcbhkUoPZp3APSRFF2EjH6-2SiTAqtQp2KYVzz2D4Q2&amp;t=635371362900000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=mJd_YOCG3k_5TTw_T8ONWtgnEY4UtyV_AaHyYvLNErDnb0Bj5jqxFXOKwq0u6EMzKp8zTO2PKPdTTdbU5faNJSKK_0dEVea5TdWqcQRcasJhMUooCp-8hStC1pmSUP90IkbdPio9vzWU84avZtNfU-8N-oFaUjd4VgXTkHrTXUc1&amp;t=635371362900000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
+<link href="/WebResource.axd?d=RMjqau-BaHrFjOUT0vpH9ctavjDADNxUbA91QZLHbkXBEqGziMosLijr3Jlx0gU1ReryibKyFVmxnkDc757BSADHGGyLnDVT5oVljTbpztptNcbhkUoPZp3APSRFF2EjH6-2SiTAqtQp2KYVzz2D4Q2&amp;t=635509771480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=mJd_YOCG3k_5TTw_T8ONWtgnEY4UtyV_AaHyYvLNErDnb0Bj5jqxFXOKwq0u6EMzKp8zTO2PKPdTTdbU5faNJSKK_0dEVea5TdWqcQRcasJhMUooCp-8hStC1pmSUP90IkbdPio9vzWU84avZtNfU-8N-oFaUjd4VgXTkHrTXUc1&amp;t=635509771480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
 <body onload="PageOnLoad();">
-    <form method="post" action="" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+    <form method="post" action="" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0NTQzNzQ5Ng9kFgJmD2QWBAIBD2QWBgIBDxYCHgdjb250ZW50BYcCUHJpdmFjeSBQb2xpY3ksIG9wdCBpbiBlbWFpbCBhZHZlcnRpc2luZywgb3B0IGluIGVtYWlsIG1hcmtldGluZywgb3B0IGluIGVtYWlsLCB0YXJnZXRlZCBvcHQgaW4sIG1haWwgZGlyZWN0IG1hcmtldGluZywgb3B0IGluIGVtYWlsIGxpc3QgbWFya2V0aW5nLCBvcHQgaW4gZW1haWxzLCBidXNpbmVzcyBtYWlsaW5nIGxpc3RzLCBidXNpbmVzcyBtYWlsaW5nIGxpc3QsIGVtYWlsIG1haWxpbmcgbGlzdHMsIG1haWxpbmcgbGlzdHMsIEZFRURHRUUga2V5d29yZHNkAgIPFgIfAAWPAlByaXZhY3kgUG9saWN5IEF0IEZFRURHRUUgd2UgcmVzcGVjdCBhbmQgcHJvdGVjdCB0aGUgcHJpdmFjeSBvZiBvdXIgY3VzdG9tZXJzIGFuZCB0aG9zZSB3aG8gdXNlIG91ciB3ZWJzaXRlLiBUaGUgZm9sbG93aW5nIFByaXZhY3kgU3RhdGVtZW50IHByb3ZpZGVzIGRldGFpbHMgYWJvdXQgaG93IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGFuZCB1c2VkLiBUaGlzIHByaXZhY3kgc3RhdGVtZW50IGFwcGxpZXMgdG8sIEZFRURHRUUgZGVzY3JpcHRpb25kAgMPFgIfAAVwZW1haWwsIG1hcmtldGluZywgb3B0IGluIGxpc3RzIHNvZnR3YXJlLCBlbWFpbCBtYXJrZXRpbmcsIHdlYm1hc3RlciB0b29scywgcHIsIHByb21vLCBhZCwgRkVFREdFRSBjbGFzc2lmaWNhdGlvbmQCAw9kFhICAQ9kFgICAw8PFgIeDlJhZENvbnRyb2xzRGlyBQ5+L1JhZENvbnRyb2xzL2RkAgMPDxYCHgtOYXZpZ2F0ZVVybAUEL2VuL2RkAgQPDxYCHwIFCi9lbi9QcmljZS9kZAIFDw8WBB8CBQovZW4vVG9vbHMvHgdWaXNpYmxlZ2RkAgYPDxYCHwIFDy9lbi9IZWxwQ2VudGVyL2RkAgcPDxYCHwNoZGQCCA8UKwACDxYGHhNjYWNoZWRTZWxlY3RlZFZhbHVlZB4EVGV4dAUHRW5nbGlzaB4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZBAWA2YCAQICFgMUKwACDxYCHghTZWxlY3RlZGdkZBQrAAIPFgIfB2hkZBQrAAIPFgIfB2hkZA8WA2ZmZhYBBXdUZWxlcmlrLldlYi5VSS5SYWRDb21ib0JveEl0ZW0sIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTEuMS41MTkuMzUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNBYGAgIPDxYCHwdnZGQCAw8PFgIfB2hkZAIEDw8WAh8HaGRkAgkPZBYCZg9kFgICEw8PFgIfAgUVL2VuL3Bhc3N3b3JkUmVjb3ZlcnkvZGQCCg9kFgQCAQ8WAh8FBQ5Qcml2YWN5IFBvbGljeWQCAw8WAh8FBZctPHN0cm9uZz5GRUVER0VFIFBSSVZBQ1kgR1VBUkFOVEVFPC9zdHJvbmc+PC9zcGFuPjxiciAvPgogIEF0ICAgRkVFREdFRSB3ZSByZXNwZWN0IGFuZCBwcm90ZWN0IHRoZSBwcml2YWN5IG9mIG91ciBjdXN0b21lcnMgYW5kIHRob3NlICAgd2hvIHVzZSBvdXIgd2Vic2l0ZS4gVGhlIGZvbGxvd2luZyBQcml2YWN5IFN0YXRlbWVudCBwcm92aWRlcyBkZXRhaWxzICAgYWJvdXQgaG93IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGFuZCB1c2VkLiBUaGlzIHByaXZhY3kgICBzdGF0ZW1lbnQgYXBwbGllcyB0byB0aGUgRkVFREdFRSB3ZWJzaXRlLCBwcm9kdWN0cyBhbmQgc2VydmljZXMgdGhhdCBhcmUgICBsb2NhdGVkIGluIGFuZCBsaW1pdGVkIHRvIHRoZSBmZWVkZ2VlLmNvbSBkb21haW4uPGJyIC8+CiAgPGJyIC8+CiAgPHN0cm9uZz5JbmZvcm1hdGlvbiBDb2xsZWN0aW9uIGFuZCBVc2U8L3N0cm9uZz48YnIgLz4KICBGRUVER0VFaXMgICB0aGUgc29sZSBvd25lciBvZiBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gdGhpcyBzaXRlLiBXZSB3aWxsIG5vdCBzZWxsLCAgIHNoYXJlLCBvciByZW50IHRoaXMgaW5mb3JtYXRpb24gdG8gb3RoZXJzIGluIHdheXMgZGlmZmVyZW50IGZyb20gd2hhdCAgIGlzIGRpc2Nsb3NlZCBpbiB0aGlzIHN0YXRlbWVudC4gRkVFREdFRSBjb2xsZWN0cyBpbmZvcm1hdGlvbiBmcm9tIG91ciAgIHVzZXJzIGF0IHNldmVyYWwgZGlmZmVyZW50IHBvaW50cyBvbiBvdXIgd2Vic2l0ZS48YnIgLz4KICA8YnIgLz4KICBPdXIgICB3ZWJzaXRlIG9mZmVycyBvcHBvcnR1bml0eSBmb3IgdmlzaXRvcnMgdG8gcmVnaXN0ZXIgZm9yIHByb21vdGlvbmFsIGFuZCAgIGluZm9ybWF0aW9uYWwgbWFpbGluZ3MsIG9ubGluZSB3ZWJpbmFycyBhbmQgcmVzb3VyY2VzLCBhbmQgZm9yICAgYXNzaXN0YW5jZSBpbiBldmFsdWF0aW5nIG91ciBzb2Z0d2FyZSBhbmQgc2VydmljZXMuIFRoaXMgcmVnaXN0cmF0aW9uICAgZm9ybSBpcyBsaW5rZWQgdG8gRkVFREdFRSdzIG1haWxpbmcgbGlzdHMgYW5kIHJlcXVpcmVzIHVzZXJzIHRvIGdpdmUgICBjb250YWN0IGluZm9ybWF0aW9uIChzdWNoIGFzIG5hbWUgYW5kIGVtYWlsIGFkZHJlc3MpLiBXZSB1c2UgdGhpcyAgIGNvbnRhY3QgaW5mb3JtYXRpb24gdG8gc2VuZCB1c2VycyBpbmZvcm1hdGlvbiBhYm91dCBGRUVER0VFIHByb2plY3QgYW5kICAgaXRzIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBpZiByZXF1ZXN0ZWQgb3IgbmVjZXNzYXJ5LiBVc2VycyBtYXkgb3B0LW91dCAgIG9mIHJlY2VpdmluZyBmdXR1cmUgbWFpbGluZ3MgYXQgYW55IHRpbWUgKHNlZSB0aGUgY2hvaWNlL29wdC1vdXQgc2VjdGlvbiAgIGJlbG93KS4gUHJvdmlkaW5nIGFjY3VyYXRlIHBlcnNvbmFsLCBwdWJsaWMsIGFuZCBjb250YWN0IGluZm9ybWF0aW9uICAgYW5kIGFncmVlaW5nIHdpdGggdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgRkVFREdFRSBzaXRlcyAod2Vic2l0ZSkgYXJlICAgcmVxdWlyZWQuPGJyIC8+CiAgPGJyIC8+CiAgUmVnaXN0ZXJpbmcgICBvbiB0aGUgd2Vic2l0ZSB5b3UgY29uZmlybSB5b3VyIG11dHVhbCBjb25zZW50IHRvIGNyZWF0ZSB5b3VyIGFjY291bnQgICBvbiB0aGUgd2Vic2l0ZSBhbmQgc3Vic2NyaWJlIHlvdXIgZW1haWwgYWRkcmVzcyB1c2VkIGZvciByZWdpc3RyYXRpb24gICBmb3IgdGhlIHdlYnNpdGUgbmV3c2xldHRlciBhbmQgeW91ciBhY2NvdW50IHN0YXR1cyBhbGVydHMuPGJyIC8+CiAgPGJyIC8+CiAgV2hlbiAgIGNvbXBsZXRpbmcgeW91ciBhY2NvdW50IGRldGFpbHMgeW91IHByb3ZpZGUgYWNjdXJhdGUgaW5mb3JtYXRpb24gZS5nLiAgIGNvbXBhbnkgb3IgcHJvamVjdCBuYW1lLCBjb250YWN0IGluZm9ybWF0aW9uIChjb3VudHJ5LCBhZGRyZXNzLCAgIHRlbGVwaG9uZSBudW1iZXIpLjxiciAvPgogIDxiciAvPgogIDxzdHJvbmc+UHVibGljIGFjY291bnQgaW5mb3JtYXRpb24gPC9zdHJvbmc+PGJyIC8+CiAgU29tZSAgIGluZm9ybWF0aW9uIHNhdmVkIGluIGFjY291bnQgZGV0YWlscyAtIHRoZSBjb21wYW55IC8gb3JnYW5pemF0aW9uIC8gICBwcm9qZWN0IG5hbWUgKGlmIG5vdCwgdGhlIG5hbWUgYW5kIGZhbWlseSBuYW1lKSwgYSB3ZWIgc2l0ZSwgY291bnRyeSwgICBhZGRyZXNzIGFuZCBzdWJzY3JpYmVycyBzdXBwb3J0IHBob25lIGlzIGNvbnNpZGVyZWQgYXMgcHVibGljIGFjY291bnQgICBpbmZvcm1hdGlvbiwgZnJlZSBhY2Nlc3MgdG8gd2hpY2ggc2hvdWxkIGJlIHByb3ZpZGVkIHRvIG93bmVycyBvZiAgIGVtYWlsLWFkZHJlc3NlcyBhbmQgLyBvciBvdGhlciBwYXJ0aWVzIHdob3NlIHBlcnNvbmFsIGRhdGEgaXMgc3RvcmVkIGluICAgeW91ciBhY2NvdW50LjxiciAvPgogIDxiciAvPgogIDxzdHJvbmc+U2hhcmluZyBhbmQgVXNhZ2U8L3N0cm9uZz48YnIgLz4KICBXZSAgIHdpbGwgbmV2ZXIgc2hhcmUsIHNlbGwsIG9yIHJlbnQgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB3aXRoIHRoaXJkICAgcGFydGllcyBmb3IgdGhlaXIgcHJvbW90aW9uYWwgdXNlLiBPY2Nhc2lvbmFsbHksIHdlIGVudGVyIGludG8gY29udHJhY3RzICAgd2l0aCB0aGlyZCBwYXJ0aWVzIHNvIHRoYXQgdGhleSBjYW4gYXNzaXN0IHVzIGluIHNlcnZpY2luZyB5b3UgKGZvciAgIGV4YW1wbGUsIHByb3ZpZGluZyBjdXN0b21lciBzZXJ2aWNlKS4gVGhlIGNvbnRyYWN0cyBwcm9oaWJpdCB0aGVtIGZyb20gICB1c2luZyBhbnkgb2YgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBmb3IgdGhlaXIgb3duIHB1cnBvc2VzLCBhbmQgdGhleSAgIGFyZSByZXF1aXJlZCB0byBtYWludGFpbiB0aGUgY29uZmlkZW50aWFsaXR5IG9mIHRoZSBpbmZvcm1hdGlvbiB3ZSAgIHByb3ZpZGUgdG8gdGhlbS4gTGFzdGx5LCB3ZSBtYXkgZGlzY2xvc2Ugb3IgcmVwb3J0IHBlcnNvbmFsIGluZm9ybWF0aW9uICAgaW4gbGltaXRlZCBjaXJjdW1zdGFuY2VzIHdoZXJlIHdlIGJlbGlldmUgaW4gZ29vZCBmYWl0aCB0aGF0IGRpc2Nsb3N1cmUgICBpcyByZXF1aXJlZCB1bmRlciB0aGUgbGF3LiBGb3IgZXhhbXBsZSwgd2UgbWF5IGJlIHJlcXVpcmVkIHRvIGRpc2Nsb3NlICAgcGVyc29uYWwgYW5kIHB1YmxpYyBpbmZvcm1hdGlvbiB0byBjb29wZXJhdGUgd2l0aCByZWd1bGF0b3JzIG9yIGxhdyAgIGVuZm9yY2VtZW50IGF1dGhvcml0aWVzLCB0byBjb21wbHkgd2l0aCBhIGxlZ2FsIHByb2Nlc3Mgc3VjaCBhcyBjb3VydCAgIG9yZGVyLCBzdWJwb2VuYSwgc2VhcmNoIHdhcnJhbnQsIGxhdyBlbmZvcmNlbWVudCByZXF1ZXN0IG9yIHRvIGRpc2Nsb3NlICAgcHVibGljIGluZm9ybWF0aW9uIHRvIHRoZSBvd25lcnMgb2YgZW1haWwgYWRkcmVzc2VzIGFuZCB0aGUgb3duZXJzIG9mICAgcGVyc29uYWwgZGF0YSBzdG9yZWQgaW4geW91ciBhY2NvdW50IGRpc2Nsb3N1cmUgcmVxdWVzdHMsIHRvIHJlcXVlc3RzIG9mICAgaW5kaXZpZHVhbHMsIG9yZ2FuaXphdGlvbnMgYW5kIHNlcnZpY2VzIHdob3NlIHdvcmssIHBvbGljeSBvciBydWxlcyBtYXkgICBiZSB2aW9sYXRlZCBieSBvcGVyYXRpb25zIG1hZGUgaW4geW91ciBhY2NvdW50IG9uIHRoZSB3ZWJzaXRlLjxiciAvPgogIDxiciAvPgogIDxzdHJvbmc+TGlua3M8L3N0cm9uZz48YnIgLz4KICBTaXRlICAgcHJvdmlkZXMgbGlua3MgdG8gdGhpcmQtcGFydHkgd2Vic2l0ZXMsIHN1Y2ggYXMgdGhvc2Ugb2Ygb3VyIGJ1c2luZXNzICAgcGFydG5lcnMgYW5kIGFkdmVydGlzZXJzLiBXaGlsZSBvbiB0aGVzZSBzaXRlcywgRkVFREdFRSBvciBpdHMgcGFydG5lcnMgICBtYXkgY29sbGVjdCBpbmZvcm1hdGlvbiBhYm91dCB5b3UuIEJlY2F1c2UgRkVFREdFRSBkb2VzIG5vdCBjb250cm9sIHRoZSAgIGluZm9ybWF0aW9uIHBvbGljaWVzIG9yIHByYWN0aWNlcyBvZiB0aGVzZSB0aGlyZCBwYXJ0aWVzLCB5b3Ugc2hvdWxkICAgcmV2aWV3IHRoZWlyIHByaXZhY3kgcG9saWNpZXMgdG8gbGVhcm4gbW9yZSBhYm91dCBob3cgdGhleSBjb2xsZWN0IGFuZCAgIHVzZSBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbi48YnIgLz4KICA8YnIgLz4KICA8c3Ryb25nPlNlY3VyaXR5PC9zdHJvbmc+PGJyIC8+CiAgV2UgICB0YWtlIGV2ZXJ5IHByZWNhdXRpb24gdG8gcHJvdGVjdCB0aGUgY29uZmlkZW50aWFsaXR5IGFuZCBzZWN1cml0eSBvZiAgIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gYnkgdXNpbmcgaW5kdXN0cnktcmVjb2duaXplZCBzZWN1cml0eSAgIHNhZmVndWFyZHMgc3VjaCBhcyBmaXJld2FsbHMsIGNvdXBsZWQgd2l0aCBjYXJlZnVsbHkgZGV2ZWxvcGVkIHNlY3VyaXR5ICAgcHJvY2VkdXJlcyB0byBwcm90ZWN0IHlvdXIgaW5mb3JtYXRpb24gZnJvbSBsb3NzLCBtaXN1c2Ugb3IgdW5hdXRob3JpemVkICAgYWx0ZXJhdGlvbi48YnIgLz4KICA8YnIgLz4KICBGRUVER0VFICAgdGFrZXMgY2FyZSB0byByZWluZm9yY2UgdGhlIGltcG9ydGFuY2Ugb2Ygb3VyIHdlYnNpdGUgdmlzaXRvcnMnICAgc2VjdXJpdHkgYW5kIHByaXZhY3kgYW1vbmcgb3VyIGVtcGxveWVlcy4gT3VyIGVtcGxveWVlcyBhcmUgdHJhaW5lZCBhbmQgICByZXF1aXJlZCB0byBzYWZlZ3VhcmQgeW91ciBpbmZvcm1hdGlvbiBhbmQsIHVzaW5nIHBoeXNpY2FsLCBlbGVjdHJvbmljICAgYW5kIHByb2NlZHVyYWwgc2FmZWd1YXJkcywgd2UgcmVzdHJpY3QgYWNjZXNzIHRvIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvICAgdGhvc2UgZW1wbG95ZWVzIGFuZCBhZ2VudHMgZm9yIGJ1c2luZXNzIHB1cnBvc2VzIG9ubHkuIEFkZGl0aW9uYWxseSwgd2UgICB1c2UgaW50ZXJuYWwgYW5kIGV4dGVybmFsIHJlc291cmNlcyB0byByZXZpZXcgdGhlIGFkZXF1YWN5IG9mIG91ciAgIHNlY3VyaXR5IHByb2NlZHVyZXMuPGJyIC8+CiAgPGJyIC8+CiAgPHN0cm9uZz5DaG9pY2UvT3B0LW91dDwvc3Ryb25nPjxiciAvPgpGRUVER0VFICAgcHJvdmlkZXMgdXNlcnMgdGhlIG9wcG9ydHVuaXR5IHRvIG9wdC1pbiwgb3B0LW91dCB2aWEgYSBsaW5rIGluIHRoZSAgIGZvb3RlciBvZiBtb3N0IGVtYWlsIG1lc3NhZ2VzLiBUaGVzZSBvcHRpb25zIGFyZSBtYWRlIGF2YWlsYWJsZSB3aGVuIHlvdSAgIHNpZ24tdXAgZm9yIG91ciBlbWFpbCBsaXN0cyBhbmQgaW4gZW1haWwgbWVzc2FnZXMgZGVsaXZlcmVkIGZyb20gdXMuICAgQWx0ZXJuYXRpdmVseSwgeW91IG1heSBlbWFpbCB1cyBhdCBzdXBwb3J0QGZlZWRnZWUuY29tLjwvcD4KPHA+CiAgU29tZSAgIGNvbW11bmljYXRpb25zIChlLmcuIGltcG9ydGFudCBhY2NvdW50IG5vdGlmaWNhdGlvbnMpIGFyZSBuZWNlc3NhcnkgZm9yICAgYWxsIEZFRURHRUUgY3VzdG9tZXJzLiBZb3UgbXVzdCBjYW5jZWwgeW91ciBGRUVER0VFIGFjY291bnQgdG8gICB1bnN1YnNjcmliZSBmcm9tIHRoZXNlIGNvbW11bmljYXRpb25zLiBUbyBjYW5jZWwgeW91ciBGRUVER0VFIGFjY291bnQsICAgcGxlYXNlIGVtYWlsIHVzIGF0IHN1cHBvcnRAZmVlZGdlZS5jb20uPGJyIC8+CiAgPGJyIC8+CiAgPHN0cm9uZz5Ob3RpZmljYXRpb24gb2YgQ2hhbmdlczwvc3Ryb25nPjxiciAvPgogIElmICAgd2UgZGVjaWRlIHRvIGNoYW5nZSBvdXIgcHJpdmFjeSBwb2xpY3ksIHdlIHdpbGwgcG9zdCB0aG9zZSBjaGFuZ2VzIG9uICAgdGhlIEZFRURHRUUgV2Vic2l0ZS4gU28gb3VyIHVzZXJzIGFyZSBhbHdheXMgYXdhcmUgb2Ygd2hhdCBpbmZvcm1hdGlvbiAgIHdlIGNvbGxlY3QsIGhvdyB3ZSB1c2UgaXQsIGFuZCB1bmRlciB3aGF0IGNpcmN1bXN0YW5jZXMsIGlmIGFueSwgd2UgICBkaXNjbG9zZSBpdC5kGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRBjdGwwMCRyY2JMb2NhbGVzBRBjdGwwMCRyY2JMb2NhbGVzDxQrAAIFB0VuZ2xpc2gFAmVuZA==">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
 
 
-<script src="/WebResource.axd?d=jTvbOuiQ5sFmtCVWI1XnBZ4UeIjDGA37Yjn5UuK7SDWIK4FawW8EnoV5AvNzC7YCnx0mSyUJaCT34cPBomRphUtMalkZ7kzWlHmVeynRXYA1&amp;t=635116929316159565" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=4lIHYKumma2M-eSHA-vLytNja6x1yfNhiDMgTvq7XV03byqVpxczqXDKlrip54mPUrT1erQm83mdTrS1SnH4RINP4VgcfvhAEjmD8K9pnf-f26PmVDmYSYGkx_9rKklYSHS7kj0Lg4BcXGOgYsLsHjPaMJ_rIZ1b1GzoxYo3L381&amp;t=34516c38" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=J-nF_L9TgMuHM41ueM_RQqPz58I2PZU0mxshqTe29op9BRWWHFstm3tWUnpXy9IsEqrH06evwkolj8u-aa6xV4roJvyfH_PBG72BnjMHrIE6rmQoNRAw8u0fpRPiqE-wq2aQmKVaV8sPqEYBH7R7vlA5r67ywjSazmnsBl5qpnn0hTBAxyZdpHBgyQyCDxlH0&amp;t=26dfbc01" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -144,34 +122,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=goZFxMiO2cUOpmEfTdLB7mRtrK4F8JkjYgSCXdV4v-ae2Tim3loMfYhvm6GJjDjpuSBwBnrxcvltzb3_xWsd8r2ok7i949TzPmo-0APXQjJWFNBiDNcb0l-D1qGBZub41j-_VYGUZQYrTDHPRV7HBT0QhVKYO--7Hl9FJDmHof_3rUCMuRNFhSM96C0CCgMo0&amp;t=26dfbc01" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=rfuk-ny6mfgS-j8B7Zd90TRq2zVE5i4jozHJqqS9rQOqLrcKe6WBouyRKbfGzJFtz0cGUThL1TOon-jp31lyv_43ishoqMcopm0a9vcT0DPjFSLkL0Gkk0ugKH9CdoexYC3ZTb4-3xVAt8mX_WHg2A2&amp;t=ffffffffd6b33b45" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=aOnqiHk3Xl8TxU11dSaiXrIA2zDc1MntwKena3cmkNlMWYkY73zWdNVDd63Qqot9N04n8k_t0ltP2I1kpcMJpaNyxfUzljCEPs-OjHfGdlQaNCdv5T4C2tbVujk4AKNkuulXP9DDXQ9jraj_4GleXg2&amp;t=ffffffffd6b33b45" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=WKncAITjrvtGf64QzzaLCGddx6diw5XPVTmNjVyUPGS0qp0ChA3CJD1MPbAvcqLhBHGjSAtzrc36COC5AlY71elrAmbqkiKTJlqMJkxFm4GBaM9aegJ9DfDwHCsdHqprT-Fn8mjxC0PZGB5GLWP3mw2&amp;t=ffffffffd6b33b45" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=qQREafJr2Df1CpGmE2w64VVGcwQd8bW_MN2V1O-vXgirH0CBCrQVuMQl1zs97qSHh46yk5qIB9I-XLIzCNlsGIbzXhRg9efABIwDRZVUN4jW6ekpkz_f9Y_gKQ9P8UTvEtmu92sdBWZqu3d_l6_ass40hsAOxlaZlh6eGgSckNI1&amp;t=ffffffffd6b33b45" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=NIFpXsNC76OozM63yVedEInoKSBWFCLF-0X6KSlWJobo0c61NjtMpHttdXKRmK8hmkn63ZBalEro0BR2Hce9itETN0OkJluJPlp0zqIma7vEVzvNV3L2HzQlixGlPYtWeI5875X3KWWvlx8js8nZ9VYL_G2-0CMqrWTyVMbKnOs1&amp;t=ffffffffd6b33b45" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=aDrtYDIyj82BG1lbmnyIN_FoxqSmZya5FSMBdYUCiABccPmTCVQaxgcI8iAApx_V9Of75rXCgy89j5g_Y4BqjJFBnQ7B7Rxyhw6UVq2JJVBejR9D-oaZ6iKQhuM2iIwH3o_DihfPZb092A-Dhdc4G2M8WIwfJraoC2AoEsD0zZs1&amp;t=ffffffffd6b33b45" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
-return true;
-}
-//]]>
-</script>
-
-    <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 90, 'ctl00');
-//]]>
-</script>
-
+    
     <div id="alpLoading" style="display:none;position: absolute;
         top: 0; left: 0; background-color: Lime; color: Black; font-weight: bold; font-size: 8pt;
         padding: 2px;">
 	
         Loading...
-    <script type="text/javascript" src="/WebResource.axd?d=MSCizLCH1sm1jY2hasgvnfKHEk6T-tkz8EmYY3rNd7ej3OUnc3X4J7BJfvrTN1LGrJILXqu7oL9FKQfkUxTBZsw01DokFW1fxOC52IomzLY7ziNwRT7i-UYtEDct4QIQpTNS1z3hreEOn77Qip-Dab-vv7cOaOQGnVVPlN0kJFfUSm08x9dAlORrJR0s846_0&amp;t=635371362860000000"></script><script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'alpLoading', IsSticky : true, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 0 } );</script>
+    <script type="text/javascript" src="/WebResource.axd?d=MSCizLCH1sm1jY2hasgvnfKHEk6T-tkz8EmYY3rNd7ej3OUnc3X4J7BJfvrTN1LGrJILXqu7oL9FKQfkUxTBZsw01DokFW1fxOC52IomzLY7ziNwRT7i-UYtEDct4QIQpTNS1z3hreEOn77Qip-Dab-vv7cOaOQGnVVPlN0kJFfUSm08x9dAlORrJR0s846_0&amp;t=635509771460000000"></script><script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'alpLoading', IsSticky : true, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 0 } );</script>
 </div>
     <table width="80%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: #f7630b;">
         <tbody><tr>
@@ -183,8 +146,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 
                                 <img src="/i/logo.gif" width="291" height="96" alt="" border="0"></a>
                         </td>
                         <script type="text/javascript">
-    var currentLoadingPanel = null;
-    function PageOnLoad(){}
+                            var currentLoadingPanel = null;
+                            function PageOnLoad(){}
                         </script>
                         <td width="70%" align="right" valign="top" class="white_link" style="padding-top: 10px;
                             white-space: nowrap;">
@@ -195,7 +158,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 
                             <a id="hlSignUp" href="/en/Tools/">Tools</a>
                             <a id="hlHelp" href="/en/HelpCenter/">Help</a>
                             
-                            <div id="rcbLocales" class="RadComboBox RadComboBox_Default" style="width:100px;">
+                            <div id="rcbLocales" class="RadComboBox RadComboBox_Default">
 	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
 		<tbody><tr class="rcbReadOnly">
 			<td style="width:100%;" class="rcbInputCell rcbInputCellLeft"><input name="ctl00$rcbLocales" type="text" class="rcbInput" id="rcbLocales_Input" value="English" readonly="readonly"></td>
@@ -205,7 +168,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 
 	<!-- 2011.1.519.35 --><div class="rcbSlide" style="z-index:6000;"><div id="rcbLocales_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Default " style="display:none;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem ">English</li><li class="rcbItem ">Русский</li><li class="rcbItem ">Українська</li></ul></div></div></div><input id="rcbLocales_ClientState" name="rcbLocales_ClientState" type="hidden">
 </div>
                             <div style="padding-top: 5px;">
-                                <table id="loginLogin" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+                                <table id="loginLogin" cellspacing="0" cellpadding="0" style="">
 	<tbody><tr>
 		<td>
                                         <table border="0" cellpadding="1" cellspacing="0" style="border-collapse: collapse;">
@@ -222,14 +185,14 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                <input name="ctl00$loginLogin$UserName" type="text" id="loginLogin_UserName" style="width:180px;">
-                                                                <span id="loginLogin_UserNameRequired" title="User Name is required." style="color:DarkGreen;font-size:80%;visibility:hidden;">*</span>
+                                                                <input name="ctl00$loginLogin$UserName" type="text" id="loginLogin_UserName">
+                                                                &nbsp;
                                                                      
                                                                         
                                                             </td>
                                                             <td>
-                                                                <input name="ctl00$loginLogin$Password" type="password" id="loginLogin_Password" style="width:110px;">
-                                                                <span id="loginLogin_PasswordRequired" title="Password is required." style="color:DarkGreen;font-size:80%;visibility:hidden;">*</span>
+                                                                <input name="ctl00$loginLogin$Password" type="password" id="loginLogin_Password">
+                                                                &nbsp;
                                                             </td>
                                                             <td align="right">
                                                                 <input type="submit" name="ctl00$loginLogin$LoginButton" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$loginLogin$LoginButton&quot;, &quot;&quot;, true, &quot;ctl00$loginLogin&quot;, &quot;&quot;, false, false))" id="loginLogin_LoginButton">
@@ -247,7 +210,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl06', 'form1', [], [], [], 
                                                                 <table width="100%">
                                                                     <tbody><tr>
                                                                         <td align="left">
-                                                                            <a id="loginLogin_PasswordRecoveryLink" href="/en/passwordRecovery/" style="font-size:75%;">Forgot password?</a>
+                                                                            <a id="loginLogin_PasswordRecoveryLink" href="/en/passwordRecovery/">Forgot password?</a>
                                                                         </td>
                                                                         <td align="right">
                                                                             <span id="spanSupport" style="color: #FFFFFF; border-bottom: dashed 1px #FFFFFF;
@@ -405,58 +368,12 @@ FEEDGEE   provides users the opportunity to opt-in, opt-out via a link in the   
         <img src="/i/close.gif" alt="close" class="supportClose" id="supportClose">
     </div>
     
-<script type="text/javascript">
-//<![CDATA[
-var Page_Validators =  new Array(document.getElementById("loginLogin_UserNameRequired"), document.getElementById("loginLogin_PasswordRequired"));
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-var loginLogin_UserNameRequired = document.all ? document.all["loginLogin_UserNameRequired"] : document.getElementById("loginLogin_UserNameRequired");
-loginLogin_UserNameRequired.controltovalidate = "loginLogin_UserName";
-loginLogin_UserNameRequired.errormessage = "User Name is required.";
-loginLogin_UserNameRequired.validationGroup = "ctl00$loginLogin";
-loginLogin_UserNameRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-loginLogin_UserNameRequired.initialvalue = "";
-var loginLogin_PasswordRequired = document.all ? document.all["loginLogin_PasswordRequired"] : document.getElementById("loginLogin_PasswordRequired");
-loginLogin_PasswordRequired.controltovalidate = "loginLogin_Password";
-loginLogin_PasswordRequired.errormessage = "Password is required.";
-loginLogin_PasswordRequired.validationGroup = "ctl00$loginLogin";
-loginLogin_PasswordRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-loginLogin_PasswordRequired.initialvalue = "";
-//]]>
-</script>
-
 <script type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-
-var Page_ValidationActive = false;
-if (typeof(ValidatorOnLoad) == "function") {
-    ValidatorOnLoad();
-}
-
-function ValidatorOnSubmit() {
-    if (Page_ValidationActive) {
-        return ValidatorCommonOnSubmit();
-    }
-    else {
-        return true;
-    }
-}
-        
-WebForm_InitCallback();Sys.Application.add_init(function() {
+Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":0,"_height":0,"_postBackReference":"__doPostBack(\u0027ctl00$rcbLocales\u0027,\u0027arguments\u0027)","_skin":"Default","_text":"English","_uniqueId":"ctl00$rcbLocales","_value":"en","clientStateFieldID":"rcbLocales_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"value":"en","selected":true},{"value":"ru"},{"value":"ua"}],"selectedIndex":0}, null, null, $get("rcbLocales"));
 });
-
-document.getElementById('loginLogin_UserNameRequired').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('loginLogin_UserNameRequired'));
-}
-
-document.getElementById('loginLogin_PasswordRequired').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('loginLogin_PasswordRequired'));
-}
 //]]>
 </script>
 </form>
