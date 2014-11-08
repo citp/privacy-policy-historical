@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511013544id_/http%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108205005id_/http%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,9 +6,9 @@
 
 ## 1 Our philosophy and approach
 
-In this policy, "us", "we" or "our" means Spiritual Science Research Foundation INC (“SSRF”) a non‐profit organisation registered in Australia with the Australian Securities & Investments Commission (ASIC) ABN 49 119 742 291 and in the United States of America in the State of New Jersey No: 0400176958 and Spiritual Science Research Foundation, registered in Serbia with the Serbian Business Register, No: 28825595 (hereinafter jointly referred to as SSRF).
+In this policy, “us”, “we” or “our” means Spiritual Science Research Foundation INC (“SSRF”) a non‐profit organisation registered in Australia with the Australian Securities & Investments Commission (ASIC) ABN 49 119 742 291 and in the United States of America in the State of New Jersey No: 0400176958 and Spiritual Science Research Foundation, registered in Serbia with the Serbian Business Register, No: 28825595 (hereinafter jointly referred to as SSRF).
 
-The SSRF and its website (ssrf.org and SpiritualResearchFoundation.org) also referred to in this document as ‘the Site’ is committed to safeguarding the privacy of its on-line users' personal information.
+The SSRF and its website (ssrf.org and SpiritualResearchFoundation.org) also referred to in this document as ‘the Site’ is committed to safeguarding the privacy of its on-line users’ personal information.
 
 To better protect your privacy and the security of your information, we provide this Privacy Policy to explain our information practices and the choices you can make about the way your information is collected and used on the Site. By using our website you consent to the terms of this Policy. This Policy applies to all users of the Site.
 
@@ -52,7 +52,7 @@ We may state a more specific purpose at the point we collect your information. I
 
 ## 4 How SSRF uses your personal information
 
- **Amongst other reasons for:**
+**Amongst other reasons for:**
 
   * Sending you our email alerts about SSRF and our affiliate’s events, new articles, newsletter if you have subscribed (opted-in) to them. The introduction/reminder of some new functionality or products and services with regards to the Site. SSRF requires you to opt-in to any mailing list, i.e. you have to tick which mailing list you would like to subscribe to. We do not pre-tick your subscription to any mailing list and therefore we do not ask you to opt-out if you do not want to contact you in that regard.
 
@@ -71,30 +71,28 @@ We may state a more specific purpose at the point we collect your information. I
 
 
 
- **How long do we hold the information?**
+**How long do we hold the information?**
 
   * We will keep your information in our systems till we deem it necessary to purge it from our systems.
 
 
 
- **Use of cookies**
+**Use of cookies**
 
-  *  **What is a cookie?:** A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive.
-
-
-
-
-Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. Cookies record information about your online preferences and allow us to tailor the Site to your interests.
-
-  *  **Control over a cookie:** Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last option means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the Site’s features. Each Internet browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. During the course of any visit to SSRF, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+  * **What is a cookie?:** A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive.
 
 
 
-  *  **How does the SSRF use your cookies:** Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. In our effort to provide you with services customised to your interests, we use "cookies" to assist in the collection of information. When you register, we use a cookie to store a unique, random user ID.
+
+Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. Cookies record information about your online preferences and allow us to tailor the Site to your interests.
+
+  * **Control over a cookie:** Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last option means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of the Site’s features. Each Internet browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. During the course of any visit to SSRF, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+
+
+
+  * **How does the SSRF use your cookies:** Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. In our effort to provide you with services customised to your interests, we use “cookies” to assist in the collection of information. When you register, we use a cookie to store a unique, random user ID. 
     * We and other third party providers that we commission, use this ID to identify you anonymously in our database and to track the pages you visit on our site. Tracking information such as cookies is also used to create aggregate reports on user demographics and Site traffic patterns. Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors.
-
     * We use cookies to access your account information (stored on our computers) in order to deliver better and more personalized services; identify which areas of the Site you have visited; all as part of our efforts to streamline your experience on the Site.
-
 
 
 
@@ -137,7 +135,7 @@ We shall have no liability under this Privacy Policy for our failure to accompli
 
 ## 7 How Do We Keep Your Information Secure?
 
-Other than in relation to Non-Confidential Information, we will endeavour at a physical, electronic and managerial level to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access and secure servers.  
+Other than in relation to Non-Confidential Information, we will endeavour at a physical, electronic and managerial level to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, password access and secure servers.
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online.
 
@@ -158,16 +156,16 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 ### 7.2 With regards to managerial processes
 
-  *  **No storage of credit card details:** We have made it a policy not to store any credit card details. We use an online payment gateway system and any of your financial information that you provide during a credit card transaction is only privy to them.
+  * **No storage of credit card details:** We have made it a policy not to store any credit card details. We use an online payment gateway system and any of your financial information that you provide during a credit card transaction is only privy to them.
 
-  *  **Accessibility to your data:** Our organisations values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy. SSRF limits access to your personal information to those persons that are required to fulfil the requests for information, services or products. Your personal information is password protected with access only to those selected to perform these tasks and authorized persons.
+  * **Accessibility to your data:** Our organisations values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy. SSRF limits access to your personal information to those persons that are required to fulfil the requests for information, services or products. Your personal information is password protected with access only to those selected to perform these tasks and authorized persons.
 
-  *  **Regular review:** Periodically, our operations and organisation’s practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information. This policy may be updated from time to time so please check this statement periodically as it is your responsibility to make sure you are aware of our latest policies.
-
-
+  * **Regular review:** Periodically, our operations and organisation’s practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information. This policy may be updated from time to time so please check this statement periodically as it is your responsibility to make sure you are aware of our latest policies.
 
 
- **Please note the following:**
+
+
+**Please note the following:**
 
   * You acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
 
