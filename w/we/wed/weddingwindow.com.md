@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingwindow.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108144056id_/http%3A//www.weddingwindow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingwindow.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203902id_/http%3A//www.weddingwindow.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Wedding Window - Privacy Policy
 
 Your privacy is important to Wedding Window, Inc. ("Wedding Window"). This Privacy Policy describes the information practices for the Wedding Window websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. As described below, this statement applies to your interactions with Wedding Window sites as well as other interactions with Wedding Window, such as when you enter into Terms of Use for a Wedding Window offering, or provide information to Wedding Window including at a trade show or other event. 
 
@@ -58,7 +58,7 @@ We may access and/or disclose your personal information if we believe such actio
 
 **Your Choices:** Wedding Window provides a number of ways for you to 'opt-out' of receiving additional information from us, or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information.
 
-If you do not wish to continue receiving certain marketing materials (e.g., e-mail messages), you can opt-out of receiving these materials by following the unsubscribe instructions provided in the materials. This option does not apply to communications primarily for the purpose of administering orders, contracts, support, product safety warnings, software updates, or other administrative and transactional notices. 
+If you do not wish to continue receiving certain marketing materials (e.g., e-mail messages), you can opt-out of receiving these materials by following the unsubscribe instructions provided in the materials. This option does not apply to communications primarily for the purpose of administering orders, contracts, support, product safety warnings, software updates, or other administrative and transactional notices.
 
 **How to Update Your Information:** Here are some ways you can modify the contact information that you have provided to us:
 
