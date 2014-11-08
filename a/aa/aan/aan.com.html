@@ -1,160 +1,175 @@
-<!--The following is the downloaded HTML source of the aan.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331074150id_/https%3A//www.aan.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aan.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108070007id_/https%3A//www.aan.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html id="mobile" class=" js flexbox placeholder"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" id="inspsync" src="https://www.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://oasc17.247realmedia.com/om/1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"b3d5f43c0d","applicationID":"1770496","transactionName":"MQFRYUVQW0FVW0VRDghLd1pDf1BGd1dfTBMJCF9QRR5lU1NdHnEPAgFL","queueTime":15,"applicationTime":435,"ttGuid":"C917DDFB109ABEC7","agent":"js-agent.newrelic.com/nr-361.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQAUFZWGwIHU1FWDgc="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
-    <meta name="viewport" content="width=device-width">
-    <meta name="alexaVerifyID" content="Y34Hl7T-PYCipfxB3A599AMsmMc">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b3d5f43c0d","applicationID":"1770496","transactionName":"MQFRYUVQW0FVW0VRDghLd1pDf1BGd1dfTBMJCF9QRR5lU1NdHnEPAgFL","queueTime":0,"applicationTime":489,"ttGuid":"507332207AF759D2","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQAUFZWGwIHU1FWDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     <title>American Academy of Neurology®</title>
     
-    <!--[if lt IE 9]>
-            <script src="/js/vendor/html5shiv.js"></script>
-        <![endif]-->
-    <link href="//assets.aan.com/css/main.css" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="//assets.aan.com/webimages/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=yes">
+    <!--Needs to be scalable yes for previous versions of android and select-->
 
-    
-    
-    <script type="text/javascript">    			  var _gaq = _gaq || [];
-				  _gaq.push(['_setAccount', 'UA-7110394-1']);
-				  _gaq.push(['_trackPageview']);
-				  _gaq.push(['_trackPageLoadTime']);
-				
-				  (function() {
-				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				  })();
-			</script>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="AAN.com">
+    <link rel="icon" href="//tools.aan.com/favicon.ico?v=1.1">
+    <link rel="shortcut icon" href="//tools.aan.com/favicon.ico?v=1.1">
+    <link rel="apple-touch-icon" href="//tools.aan.com/favicon.png?v=1.1">
 
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="//assets.aan.com/js/mmenu-4.0.3/jquery.mmenu.all.css">
+    <link type="text/css" rel="stylesheet" href="//assets.aan.com/css/mobile-master.css?v=11">
+    <link type="text/css" rel="stylesheet" href="//assets.aan.com/css/mmenu.supplemental.css">
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     
-    <!-- Begin Inspectlet Embed Code -->
-    <script type="text/javascript" id="inspectletjs">
-        window.__insp = window.__insp || [];
-        __insp.push(['wid', 90302832]);
-        (function () {
-            function __ldinsp() { var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://www.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
-            if (window.attachEvent) {
-                window.attachEvent('onload', __ldinsp);
-            } else {
-                window.addEventListener('load', __ldinsp, false);
-            }
-        })();
+
+
+    <script src="//assets.aan.com/js/mmenu-4.0.3/jquery.mmenu.min.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="//assets.aan.com/js/add2home/add2home.css">
+    
+    <script type="text/javascript">
+        var addToHomeConfig = {
+            expire: 525600
+        };
     </script>
-        <!-- End Inspectlet Embed Code -->
+    <script type="application/javascript" src="//assets.aan.com/js/add2home/add2home.js"></script>
 
-
+    
+    
 
 </head>
 <body>
+    <div id="navbar" class="mm-fixed-top">
+        <a id="menuBtn" href="#menu"></a>
+        <a id="home" href="/"></a>
+        <a id="quickLinks" href="#ql"></a>
+    </div>
+    <nav id="menu">
+	<ul>
+			<li>
+				<a href="/" target="_self">Home</a>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="//assets.aan.com/js/vendor/jquery-1.9.0.min.js"><\/script>')</script><script src="//assets.aan.com/js/vendor/jquery-1.9.0.min.js"></script>
-    <script src="//assets.aan.com/js/jquery-cookie.js"></script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50f5ae4a27a2245a"></script>
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50f5ae4a27a2245a"></script>
+			</li>
+			<li>
+				<a href="/Guidelines/" target="_self">GUIDELINES</a>
 
-        
+			</li>
+			<li>
+				<a href="/practice/" target="_self">PRACTICE</a>
+
+			</li>
+			<li>
+				<a href="/cme-and-moc/" target="_self">CME &amp; MOC</a>
+
+			</li>
+			<li>
+				<a href="/research-and-awards/" target="_self">RESEARCH &amp; AWARDS</a>
+
+			</li>
+			<li>
+				<a href="/public-policy/" target="_self">PUBLIC POLICY</a>
+
+			</li>
+			<li>
+				<a href="/conferences/" target="_self">CONFERENCES</a>
+
+			</li>
+			<li>
+				<a href="/membership/" target="_self">MEMBERSHIP</a>
+
+			</li>
+			<li>
+				<a href="/careers/" target="_self">CAREERS</a>
+
+			</li>
+			<li>
+				<a href="/residents-and-fellows/" target="_self">RESIDENTS &amp; FELLOWS</a>
+
+			</li>
+		<li><a href="/aanstore">The AAN Store</a></li>
+		<li>
+			<a class="sub">Publications</a>
+			<ul>
+				<li><a href="http://www.neurology.org">Neurology</a></li>
+			    <li><a href="http://cp.neurology.org">Clinical Practice</a></li>
+                <li><a href="http://nn.neurology.org/">Neuroimmunology &amp; Neuroinflammation</a></li>
+				<li><a href="http://journals.lww.com/continuum/pages/default.aspx/">Continuum</a></li>
+				<li><a href="http://www.neurotodayonline.com/">Neurology Today</a></li>
+				<li><a href="http://www.neurologynow.com/">Neurology Now</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+
+
+    <nav id="ql">
+
+
+
+
+
+<div id="signin">
+
+<form action="https://www.aan.com/Account.aspx/LogOn?currentURL=%2fprivacy-policy%2f&amp;returnUrl=" method="post">        <h3 class="title">MEMBER LOG IN</h3>
+        <div class="box LoginArea">
+
+            <input class="textbox" id="EMail" name="EMail" placeholder="Email or 6-digit Member ID" type="text" value="">
+
+            <input class="textbox" id="PassWord" name="PassWord" placeholder="Password" type="password" value="">
+
+            <div id="rememberme">
+                <label class="switch-light switch-candy" onclick="">
+                    <input id="rememberme-button" name="Rememberme" type="checkbox" value="true"><input name="Rememberme" type="hidden" value="false">
+                    <span>
+                        <i style="line-height: 1; font-size: 10px!important; font-style: normal; margin-top: 10px; line-height: 1.4; display: block;">Remember me:</i>
+                        <span>Off</span>
+                        <span>On</span>
+                    </span>
+
+                    <a></a>
+                </label>
+            </div>
+
+            <input type="submit" class="submit button" value="LOG IN">
+            <p class="signup"><a href="/Account.aspx/RecoverPassword?currentUrl=%252fprivacy-policy%252f">Forgot password?</a></p>
+            <p class="signup">Not a member? <a href="/membership/join-the-aan/"><strong>Join now!</strong></a></p>
+                <p>
+                    ** AAN.com may not be available during required system maintenance scheduled periodically on 11/8/14. Thank you for your patience.**
+                </p>
+
+        </div>
+</form>
+
+
+
+
+</div>
+
+    </nav>
+
+    <div id="navbarSearch">
+        <form action="/search/index" method="get">
+            <input type="text" name="q" id="navbarSearchText" size="20" maxlength="100" value="" placeholder="What are you looking for?">
+            <input type="image" name="search" id="navbarSearchButton" src="/webimages/mobile/search@2x.png" width="23" height="23" title="search">
+        </form>
+    </div>
+
     
 
+    <div id="main">
+        <div class="content">
 
-    <nav class="BranchMenu">
-            <ul css="level1">
+            <div id="breadcrumbs">
+            </div>
 
-            <li class="item1"><a class="active" href="" target="_self">AAN.COM</a></li>
-            <li class="item2 ">
-                <a href="" target="_self">NEUROLOGY JOURNALS</a>
-                    <ul css="level2">
-
-            <li class="item1"><a href="http://www.neurology.org/" target="_parent">NEUROLOGY</a></li>
-            <li class="item2"><a href="http://cp.neurology.org/" target="_parent">CLINICAL PRACTICE</a></li>
-
-    </ul>
-
-            </li>
-            <li class="item3"><a href="http://journals.lww.com/continuum/pages/default.aspx/" target="_parent">CONTINUUM</a></li>
-            <li class="item4"><a href="http://www.neurotodayonline.com/" target="_parent">NEUROLOGY TODAY</a></li>
-            <li class="item5"><a href="http://www.neurologynow.com/" target="_parent">NEUROLOGY NOW</a></li>
-            <li class="item6"><a href="http://curebraindisease.org/" target="_blank">AMERICAN BRAIN FOUNDATION</a></li>
-
-    </ul>
-
-    </nav>
-
-    <div class="Page">
-        <div class="bg">
-            <div class="inner-bg">
-                
-    <nav class="PrimaryMenu">
-            <ul css="level1">
-
-            <li class="item1"><a href="/" target="_self">Home</a></li>
-            <li class="item2 ">
-                <a href="/Guidelines/" target="_self">GUIDELINES</a>
-                
-            </li>
-            <li class="item3 ">
-                <a href="/practice/" target="_self">PRACTICE</a>
-                
-            </li>
-            <li class="item4 ">
-                <a href="/cme-and-moc/" target="_self">CME &amp; MOC</a>
-                
-            </li>
-            <li class="item5 ">
-                <a href="/research-and-awards/" target="_self">RESEARCH &amp; AWARDS</a>
-                
-            </li>
-            <li class="item6 ">
-                <a href="/public-policy/" target="_self">PUBLIC POLICY</a>
-                
-            </li>
-            <li class="item7 ">
-                <a href="/conferences/" target="_self">CONFERENCES</a>
-                
-            </li>
-            <li class="item8 ">
-                <a href="/membership/" target="_self">MEMBERSHIP</a>
-                
-            </li>
-            <li class="item9 ">
-                <a href="/careers/" target="_self">CAREERS</a>
-                
-            </li>
-            <li class="item10 ">
-                <a href="/residents-and-fellows/" target="_self">RESIDENTS &amp; FELLOWS</a>
-                
-            </li>
-
-    </ul>
-
-    </nav>
-
-                <div class="Wrap">
-                    
-                    <div class="MainCol">
-                        
+            
 
 
-                        <div class="addthis_toolbox ShareThis">
-    <div class="custom_images">SHARE:&nbsp;&nbsp;
-        <a class="addthis_button_facebook">
-            <img src="/webimages/share-facebook.png" alt="Share to Facebook" height="20" width="20">
-        </a>
-        <a class="addthis_button_twitter">
-            <img src="/webimages/share-twitter.png" alt="Share to Twitter" height="20" width="20">
-        </a>
-        <a class="addthis_button_linkedin">
-            <img src="/webimages/share-linkedin.png" alt="Share to Linked In" height="20" width="20">
-        </a>
-        <a class="addthis_button_mailto">
-            <img src="/webimages/share-email.png" alt="Share via Email" height="20" width="20">
-        </a>&nbsp;</div>
-</div>
-<script type="text/javascript"></script>
-                        
-                        
+
+
+            
 
 
 
@@ -167,179 +182,63 @@
 </div>
 
 
-                    </div>
-                    <div class="SideCol">
-                        
 
-<div>
-    <h1 class="Logo"><a title="American Academy of Neurology®" href="/">
-        <img src="/uploadedImages/Website_Library_Assets/Images/AAN-logo.png?n=3080" alt=""></a></h1>
-    <!-- <form name="SearchForm" method="GET" action="http://search.aan.com/search">
-         <input type="hidden" name="entqr" value="0" />
-         <input type="hidden" name="sort" value="date:D:L:d1" />
-         <input type="hidden" name="output" value="xml_no_dtd" />
-         <input type="hidden" name="client" value="patient_frontend" />
-         <input type="hidden" name="ud" value="1" />
-         <input type="hidden" name="oe" value="UTF-8" />
-         <input type="hidden" name="ie" value="UTF-8" />
-         <input type="hidden" name="site" value="aan-com" />
-         <input type="hidden" name="proxystylesheet" value="my_frontend" /> -->
-    <form name="SearchForm" method="GET" action="https://search.aan.com/search">
-        <input type="hidden" name="entqr" value="0">
-        <input type="hidden" name="sort" value="date:D:L:d1">
-        <input type="hidden" name="output" value="xml_no_dtd">
-        <input type="hidden" name="client" value="production_frontend">
-        <input type="hidden" name="ud" value="1">
-        <input type="hidden" name="oe" value="UTF-8">
-        <input type="hidden" name="ie" value="UTF-8">
-        <input type="hidden" name="site" value="AAN">
-        <input type="hidden" name="proxystylesheet" value="production_frontend">
-        <input type="hidden" name="filter" value="0">
-        <p class="SearchBox">
-            <input name="q" type="search" placeholder="What are you looking for?" class="textbox" tabindex="1">
-            <a class="submit ir" href="javascript:document.SearchForm.submit();" tabindex="2">Search</a>
-        </p>
-    </form>
-
-</div>
-
-
-                            <div class="DarkBox CalloutBox">
-                                
-
-<div>
-<form action="https://www.aan.com/Account.aspx/LogOn?currentURL=%2fprivacy-policy%2f&amp;returnUrl=" method="post">        <h3 class="title">MEMBER LOG IN</h3>
-        <div class="box LoginArea">
-            <p class="input">
-                <input class="textbox" id="EMail" name="EMail" placeholder="Email or 6-digit Member ID" type="text" value="">
-            </p>
-            <p class="input">
-                <input class="textbox" id="PassWord" name="PassWord" placeholder="Password" type="password" value="">
-            </p>
-            <p class="editor-label"><input id="Rememberme" name="Rememberme" type="checkbox" value="true"><input name="Rememberme" type="hidden" value="false"> <label for="Remember_me">Remember me</label></p>
-
-            <p class="forgot"><a href="/Account.aspx/RecoverPassword?currentUrl=%252fprivacy-policy%252f">Forgot password?</a></p>
-            <p class="submit">
-                <input type="submit" value="LOG IN">
-            </p>
-            <p class="signup">Not a member yet? <a href="/membership/join-the-aan/"><strong>Join us now!</strong></a></p>
-
-            <span style="text-align: left;"></span>
-        </div>
-</form></div>
-
-                            </div>
-                        <div>
-                  <div class="adDeclare">Advertisement</div>
-                  <div class="Callout">
-                      <div id="oas_Right2"></div>
-                  </div>                           
-
-</div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
-    
 
-
-<footer class="Footer Wrap">
-    <p class="logo">
-        <a title="American Academy of Neurology®" href="/Home"><img src="/uploadedImages/Website_Library_Assets/Images/AAN-logo-footer.png" alt=""></a>
-    </p>
-    <div class="text">
-		<p class="FollowUs"> 
-            Follow the AAN:
-                <a target="_blank" href="https://www.facebook.com/AmericanAcademyofNeurology?ref=sgm"><img src="/uploadedImages/Website_Library_Assets/Images/follow-facebook.png?n=4699"></a>
-                <a target="_blank" href="http://twitter.com/AANMember"><img src="/uploadedImages/Website_Library_Assets/Images/follow-twitter.png?n=7366"></a>
-                <a target="_blank" href="http://www.linkedin.com/groups?gid=2386034&amp;trk=myg_ugrp_ovr"><img src="/uploadedImages/Website_Library_Assets/Images/follow-linkedin.png?n=1879"></a>
-                <a target="_blank" href="https://plus.google.com/101103447235831293532/posts"><img src="/uploadedImages/Website_Library_Assets/Images/follow-googleplus.png?n=7748"></a>
-                <a target="_blank" href="http://pinterest.com/AANneurology/"><img src="/uploadedImages/Website_Library_Assets/Images/follow-pinterest.png?n=1860"></a>
-                <a target="_blank" href="http://www.youtube.com/AANChannel"><img src="/uploadedImages/Website_Library_Assets/Images/follow-youtube.png?n=8442"></a>
-		</p>
-        <p>©2014 American Academy of Neurology - All Rights Reserved</p>
-	</div>
-    <nav class="menu">
-            <ul>
-            <li><a href="/contact-aan/" target="_self">Contact AAN</a></li>
-            <li><a href="http://tools.aan.com/storefront/" target="_self">The AAN Store</a></li>
-            <li><a href="http://tools.aan.com/about/employment/" target="_self">Work at the AAN</a></li>
-        
-        
-    </ul>
-    <ul>
-            <li><a href="/pressroom/" target="_self">Press Room</a></li>
-            <li><a href="/code-of-conduct/" target="_self">Code of Conduct</a></li>
-            <li><a href="/terms-of-use/" target="_self">Terms of Use</a></li>
-        
-        
-    </ul>
-    <ul>
-            <li><a href="/privacy-policy/" target="_self">Privacy</a></li>
-            <li><a href="/advertise/" target="_self">Advertise</a></li>
-        
-        
+    <div id="footer">
+        <div id="social">
+            <p>Follow the AAN:</p>
+            <a href="https://www.facebook.com/AmericanAcademyofNeurology?ref=sgm" id="facebook"></a>
+            <a href="http://twitter.com/AANMember" id="twitter"></a>
+            <a href="http://www.linkedin.com/groups?gid=2386034&amp;trk=myg_ugrp_ovr" id="linkedin"></a>
+            <a href="https://plus.google.com/101103447235831293532/posts" id="googleplus"></a>
+            <a href="http://pinterest.com/AANneurology/" id="pinterest"></a>
+            <a href="http://www.youtube.com/AANChannel" id="youtube"></a>
+        </div>
+        <ul>
             <li>
-                <a href="/ViewSwitcher.aspx/SwitchView?mobile=True&amp;returnUrl=/privacy-policy/" rel="external">Mobile Site</a>
-            </li>
-    </ul>
 
-    </nav>
-</footer>
-    <div class="BottomAd">
-       <div id="oas_Bottom"></div>
+                <a href="/ViewSwitcher.aspx/SwitchView?mobile=False&amp;returnUrl=%2Fprivacy-policy%2F" rel="external">Full Site</a>
+
+            </li>
+            <li><a href="/contact-aan/">Contact AAN</a></li>
+            <li><a href="/pressroom">Press Room</a></li>
+            <li><a href="/Code-of-Conduct/">Code of Conduct</a></li>
+            <li><a href="/terms-of-use/">Terms of Use</a></li>
+            <li><a href="/privacy-policy/">Privacy</a></li>
+        </ul>
+
+        <div id="copyright">©2014 American Academy of Neurology - All rights reserved.</div>
     </div>
 
 
 
-    <script src="//assets.aan.com/js/main.js"></script>
-    
 
-    
     <script type="text/javascript">
-        var oas_tag = {};
-        oas_tag.url = 'oasc17.247realmedia.com';
-        oas_tag.sizes = function () {
-            if ($('#oas_Bottom').length > 0) { oas_tag.definePos("Bottom", [728, 90]); }
-            if ($('#oas_Right').length > 0) { oas_tag.definePos("Right", [300, 250]); }
-            if ($('#oas_Right2').length > 0) { oas_tag.definePos("Right2", [300, 250]); }
-        };
+        $(function () {
 
-        var sitePage = document.location.pathname;
-        if (sitePage != undefined && sitePage != null)
-        { oas_tag.site_page = 'aan/' + sitePage.substring(1).toLowerCase(); } else { oas_tag.site_page = 'aan'; }
+            $('nav#menu').mmenu({
+                slidingSubmenus: false
+            });
+            $('nav#ql').mmenu({
+                position: "right"
+            });
 
-        oas_tag.query = '';
-        oas_tag.analytics = true;
-        oas_tag.taxonomy = '';
+        });
 
-        (function () {
-            oas_tag.version = '1';
-            var oas = document.createElement("script"),
-                protocol = "https:" == document.location.protocol ? "https://" : "http://",
-                node = document.getElementsByTagName("script")[0];
-            oas.type = "text/javascript"; oas.async = true;
-            oas.src = protocol + oas_tag.url + "/om/" + oas_tag.version + ".js";
-            node.parentNode.insertBefore(oas, node);
-        })();
 
-        //Specify the ad update interval.  This must be set to 0
-        var bannerUpdateInterval = '0';
-
-        if (bannerUpdateInterval > 0) {
-            window.setInterval(function () {
-                oas_tag.reloadAds();
-            }, bannerUpdateInterval);
-        }
     </script>
 
+    
 
 
 
-<!--
-10.10.30.197
-Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)
--->
+    <!--
+    10.10.30.201
+    -->
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+    <script src="/js/mobile_main.js"></script>
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
