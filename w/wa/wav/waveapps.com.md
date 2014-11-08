@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waveapps.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215163654id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveapps.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108135813id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
 
 # Wave • Privacy Policy
 
@@ -162,6 +162,8 @@ With your consent we may post your testimonial along with your name. If you want
 You can log in to our site using single sign-on (SSO) services such as Google and Yahoo. These services will allow the third party to authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
 
 The blog portion of the Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+Some of the functionality of the Services and the Wave Apps interoperate with, and are highly dependent upon, application programming interfaces (APIs) from third parties, such as Google and Yahoo!. We may collect Personal Information from these third party APIs to the extent you authorize us to do so, and our collection, use and disclosure of that Personal Information will be governed by this privacy policy. In addition, if you authorize us to do so, we may grant third parties access to some or all (depending on the permission you give) of your Personal Information to third parties through our own API for use in connection with their services. You have the ability to control what Personal Information you share with these third parties through our API, but please note that any Personal Information you share with third parties through our API will be governed by their privacy policies and we do not assume any responsibility for such third party’s use of your Personal Information once shared through our API. 
 
 ### Cookies and Other Tracking Technologies
 
