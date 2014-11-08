@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcaptain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093347id_/http%3A//gcaptain.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcaptain.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108173613id_/http%3A//gcaptain.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gCaptain Maritime & Offshore News
 
