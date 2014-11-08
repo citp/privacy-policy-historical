@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hibu.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225543id_/http%3A//business.hibu.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibu.co.uk privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108062435id_/https%3A//business.yell.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | hibu
+# Privacy
+
+Print [Download](https://web.archive.org/~/media/files/shared/footer/hibu_globalprivacypolicy.pdf "download")
 
 This global privacy policy (the **"Privacy Policy"** ) describes our practices in connection with the personal data that you provide to any company in our Group (a **"Group Company"** ) or allow a Group Company to access through: (i) a website which is operated (as indicated in its conditions of use) by a Group Company (the **"Website"** ); and/or (ii) any other means, such as during a telephone call or by email - which includes whilst contracting with us for, or using, our goods and/or services, etc (the **"Personal Data"** ). An updated list of our Group Companies is available [here](http://corporate.hibu.com/en/about-us/trading-entities).
 
@@ -95,10 +97,6 @@ Washington, DC 20580 
 [consumerline@ftc.gov](mailto:consumerline@ftc.gov)  
 [www.ftc.gov](http://www.ftc.gov/)
 
-
-
-  * Print
-  * [Download](https://web.archive.org/~/media/files/shared/footer/hibu_globalprivacypolicy.pdf "download")
 
 
 
