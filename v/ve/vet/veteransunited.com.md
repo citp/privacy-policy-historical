@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510084642id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108153806id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Veterans United Home Loans
 
-[](http://www.veteransunited.com/start/)
-
-**Veterans United Home Loans is NOT affiliated with any government agencies, including the VA.**
+**Veterans United Home Loans is not endorsed or sponsored by the Department of Veterans Affairs or any government agency.**
 
 ## We Respect Your Privacy
 
 Your privacy matters to us and we recognize the importance of keeping your information secure. Below, you will find details about our privacy policies and how you can choose how your information is shared.
 
-Our privacy policy applies to all consumers, and we encourage you to review this policy to better understand how information we collect will be used to provide you with exceptional service.
+Our privacy policy applies to all consumers, and we encourage you to review this policy to better understand how information we collect will be used to provide you with exceptional service. [Learn more about how we use your personal information.](https://web.archive.org/personal-information)
 
   1. ### Our Secure System Protects You
 
     1. We begin by safeguarding the security and integrity of customer information. We are committed to protecting the security and integrity of customer information, which is why our site is verified daily by the [McAfee Secure](https://www.mcafeesecure.com/RatingVerify?ref=72.32.169.189) service and any information you submit is encrypted and secured by a Geotrust certificate. You may view our Geotrust certificate and security verification information on our loan form. We use procedures and technology designed to provide the highest levels of security. Any information submitted on our site is protected with 128-bit SSL encryption. Veterans United Home Loans also uses firewalls to help protect your information. Firewalls are used at several different levels of our website, including between your computer and the webserver, database servers, and other internal production networks. These firewalls, along with Geotrust and McAfee Secure, are designed to protect our customers' information from potential hackers or others who may wish to inappropriately access your personal information. Only authorized employees have the ability to access your personal information, and they may only do so when helping serve your needs as our customer. We understand that online customers must be assured that their information will be kept secure, but understand that no system is completely secure and we cannot guarantee that your information will remain safe. You, as a consumer, should always safeguard your information and protect yourself from potential identity fraud. Rest assured that Veterans United Home Loans does everything in its power to protect your privacy.
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=72.32.169.189)
 
   2. ### We Use Information You Provide to Help You with the Loan Process
 
@@ -44,9 +40,9 @@ Our privacy policy applies to all consumers, and we encourage you to review this
 
         * If you submit personal information, we may combine it with information available from other publicly available sources collected online. We may use this information to personalize our services and the marketing communications we send to you both online and offline.
 
-  3. How We Use Your Submitted Information 
+  3. ###  How We Use Your Submitted Information 
 
-    1. As a result of submitting your telephone number and your request to receive more information on a loan, you will receive a call from a VA loan specialist. We may contact you directly by phone and/or email as a result of your request, even if the number you supplied is on the National Do Not Call registry. If, however, after you have submitted your information to us and you no longer wish that we contact you at the phone numbers provided, you may instruct us to place you on our internal "do not call" list by calling us a 800-814-1103. 
+    1. As a result of submitting your telephone number and your request to receive more information on a loan, you will receive a call from a Home Loan Specialist. We may contact you directly by phone and/or email as a result of your request, even if the number you supplied is on the National Do Not Call registry. If, however, after you have submitted your information to us and you no longer wish that we contact you at the phone numbers provided, you may instruct us to place you on our internal "do not call" list by calling us at 1-800-884-5560. 
 
     2. You may choose what information to provide us. You may choose to withhold certain information, but this may affect your ability to use certain features of our website. We encourage consumers to disclose all pertinent information so we can provide a high level of customer service and offer the best products for you. 
 
@@ -56,13 +52,13 @@ Our privacy policy applies to all consumers, and we encourage you to review this
 
     5. This site is intended for individuals age 18 and older. Children under the age of 13 should not use this site, and are expressly prohibited from using our services. 
 
-  4. How We Share your Information 
+  4. ###  How We Share your Information 
 
     1. We share information with lenders and real estate professionals. After they receive your information, they may contact you directly via phone or email. You may be contacted by one of our affiliates, including but not limited to our affiliated business, Veterans United Reality. All of our affiliates follow federal and/or state laws and regulations. Our lenders and real estate professionals may keep and use your information whether or not you qualify for a transaction with them. 
 
     2. We may be required to disclose certain personal information resulting from a properly served request from a federal or state law enforcement or other governmental agency as a result of a subpoena, court order, in order to exercise our legal rights, to protect our company or employees from threats or fraud, to protect us from legal claims, or as otherwise required by law. We may raise or waive any legal rights available to us. This information may also be disclosed in the event of a merger or sale of the company, an asset sale, or the unlikely event of bankruptcy. 
 
-  5. Opt-Out Provisions 
+  5. ###  Opt-Out Provisions 
 
     1. Once you submit your information to Veterans United Home Loans it may not be retracted. You will be contacted by a representative after you submit a request through our site or an affiliate site. 
 
@@ -78,7 +74,7 @@ Our privacy policy applies to all consumers, and we encourage you to review this
 
     6. We restrict access to your stored non-public personal identifiable information to those employees that need to know this information in order to provide our services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations in order to guard your information against unauthorized access. 
 
-    7. To opt out, you should contact a Veterans United Home Loans customer service representative by calling 800-814-1103 or by mailing a written request to our mailing address listed below. Please include in your request an indication of which information (either specific or all-inclusive) that you do not wish to be shared with any non-affiliated third party entities. 
+    7. To opt out, you should contact a Veterans United Home Loans customer service representative by calling 1-800-884-5560 or by mailing a written request to our mailing address listed below. Please include in your request an indication of which information (either specific or all-inclusive) that you do not wish to be shared with any non-affiliated third party entities. 
 
 **Please write to us at:**  
 Customer Service  
@@ -86,7 +82,7 @@ Veterans United Home Loans
 1400 Veterans United Drive  
 Columbia, MO 65203 
 
-  6. General Policy Provisions 
+  6. ###  General Policy Provisions 
 
     1. The policies and practices described in this disclosure are subject to change, but we will communicate any such changes to you as required by law. We encourage you to periodically review our privacy policy for any changes. 
 
@@ -102,16 +98,13 @@ Columbia, MO 65203
 
 
 
-Call 800-814-1103 to speak with a VA specialist.
+Call 1-800-884-5560 to speak with a Home Loan Specialist.
 
 **Veterans United Home Loans (Last Updated: December 30, 2013)**
 
-Questions?
+Speak with a Home Loan Specialist today 
 
-**The VA Home Loan Destination for Millions ***
+Available 24/7 to Better Serve Troops Overseas 
 
-Call us now to speak to a VA Loan Specialist.
-
-_[800-884-5560](tel:+18008845560)_
-
-Veterans United Home Loans is not affiliated with any government agencies, including the VA.
+A VA approved lender; Not endorsed or sponsored by the Dept. of Veterans Affairs or any government agency.   
+Not available in New York. 
