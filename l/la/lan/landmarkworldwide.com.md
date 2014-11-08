@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkworldwide.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219123608id_/http%3A//www.landmarkworldwide.com/ec/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkworldwide.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108201239id_/http%3A//www.landmarkworldwide.com/ec/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -69,7 +69,7 @@ Our primary goal in collecting your information, including your personally ident
 Marketing  
 We will use your personally identifiable information for marketing purposes. Among other purposes, we may send you communications via email, including promotional communications about products and services that we believe would be of interest to you.
 
-You may opt-out of the receipt of marketing communications from us by following the link contained in the email. Alternatively, if you have registered and paid for a course or have created an account on this Site, you may update your preferences on the [Update Records/Account page](http://www.landmarkworldwide.com/my_account.aspx). Please note that it may take up to 10 days to process your request.
+You may opt-out of the receipt of marketing communications from us by following the link contained in the email. Alternatively, if you have registered and paid for a course or have created an account on this Site, you may update your preferences on the [Update Records/Account page](https://www.landmarkworldwide.com/ec/Updateaccount). Please note that it may take up to 10 days to process your request.
 
 If you opt out of receiving marketing communications from us, we will continue to send administrative notices and communications relevant to your use of the Site to you via email. You will also receive email confirmations if you register for a course online, subscribe to services, join a service as an Authorized User, or update records information.
 
@@ -107,7 +107,7 @@ Your Use of User Information
 Certain features of our Site enable you to have access to other users of our Site. For example, you may interact with other users through seminars and various forums. You are prohibited from disclosing personally identifiable information about another user, including Authorized Users, that you learn through these or other portions of our Site or otherwise, to any third party without our consent and the informed consent of such other user. Our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add any user to your mail list (email or physical mail) without their express written informed consent.
 
 Accessing and Changing Your Personally Identifiable Information  
-After setting up an account (creating a username and password) you can review and change specific information you submitted during the process of setting up the account or registering for a course, including your password, email address, occupation, marital status, name, address, city, state, zip code, country, and phone number by visiting the [Update Records/Account page](http://www.landmarkworldwide.com/my-account).
+After setting up an account (creating a username and password) you can review and change specific information you submitted during the process of setting up the account or registering for a course, including your password, email address, occupation, marital status, name, address, city, state, zip code, country, and phone number by visiting the [Update Records/Account page](https://www.landmarkworldwide.com/ec/Updateaccount).
 
 If you would like to request a change to other information regarding your account or your participation in Landmark programs, you may contact us at [grad.records@landmarkworldwide.com](mailto:grad.records@landmarkworldwide.com).
 
