@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091417id_/http%3A//www.homestayin.com/privacy/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203818id_/http%3A//www.homestayin.com/homestayin-privacy-policy) for the most accurate reproduction.*
 
 # Homestay Booking Services - Homestayin's Privacy Policy
 
-####  1\. Collection of Personal Information
+##  1\. Collection of Personal Information
 
 ##### A. Boundary of personal information collection
 
@@ -36,7 +36,7 @@ Third, some credit card information can be collected automatically during your u
 
 Homestayin.com collects personal information through member registration and modification process at the website.
 
-####  2\. Purpose of Collection and use of personal information
+##  2\. Purpose of Collection and use of personal information
 
 ##### A. Fulfillment of Service Contract & Billing of Service Fee
 
@@ -50,7 +50,7 @@ Verifying user identity, Preventing fake members and unauthorized use, Checking 
 
 Developing new services, Offering matching services, Promoting based on demographic characters, Checking the effectiveness of services, Providing events and promotion information and offering chances of customer participations, Identifying log-in frequency, and Building statistics for members’ use of services
 
-####  3\. Sharing & Offering Personal Information
+##  3\. Sharing & Offering Personal Information
 
 Homestayin.com uses personal information only within the boundary stated in Article 2. Purpose of collection and use of personal information, and does not share or utilize any personal information beyond the boundary without consent from users unless one of the following circumstances applies:
 
@@ -59,11 +59,11 @@ Homestayin.com uses personal information only within the boundary stated in Arti
 
 
 
-####  4\. Consignment of Personal Information
+##  4\. Consignment of Personal Information
 
 Homestayin.com does not consign personal information of users to any third party.
 
-####  5\. Storing and Using Period of Your Personal Information
+##  5\. Storing and Using Period of Your Personal Information
 
 In principle, Homestayin.com destroys personal information when the purpose of collection and use them are achieved. However, information stated below will be stored for designated time periods.
 
@@ -97,7 +97,7 @@ When related laws and government regulations such as Commercial Law and Consumer
 
 
 
-####  6\. Process and Method of Personal Information Destruction
+##  6\. Process and Method of Personal Information Destruction
 
 In principle, Homestayin.com destroys personal information when the purpose of collection and use them are achieved. The process and method of Homestayin.com’s personal information destruction are as follow: 
 
@@ -115,7 +115,7 @@ In principle, Homestayin.com destroys personal information when the purpose of c
 
 
 
-####  7\. Rights of Users and Legal Representatives
+##  7\. Rights of Users and Legal Representatives
 
   * - Users can always check or change their personal information. Users can also refuse to agree or even withdraw membership if they do not agree on the privacy policy of Homestayin.com. In that case, please be kindly reminded that users may have difficulty in using some or entire services offered by Homestayin.com.
   * - Users click on ‘Modify’ button for searching and changing personal information, or click on ‘Withdraw’ to terminate membership.
@@ -125,7 +125,7 @@ In principle, Homestayin.com destroys personal information when the purpose of c
 
 
 
-####  8\. Installation/Operation of Automatic Personal Information Collecting Tool
+##  8\. Installation/Operation of Automatic Personal Information Collecting Tool
 
 ##### A. What is cookie?
 
@@ -154,7 +154,7 @@ In principle, Homestayin.com destroys personal information when the purpose of c
 
 
 
-####  9\. Technical/Managerial Protection of Personal Information
+##  9\. Technical/Managerial Protection of Personal Information
 
 Homestayin.com works hard to prevent unauthorized access to or unauthorized alteration, disclosure or destruction of your personal information as follows:
 
@@ -171,7 +171,7 @@ Homestayin.com strives to prevent personal information from disclosure or damage
 Homestayin.com restricts access to personal information to selected employees only. For management of personal information, Homestayin.com sets and renews special password. Also Homestayin.com conducts regular training for those selected employees to emphasize the importance of personal information security.  
 We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations. 
 
-####  10\. Personal Information Manager & Contact Point
+##  10\. Personal Information Manager & Contact Point
 
 You can send all the enquiries regarding personal information used in Homestayin.com website to Personal Information Manager’s e-mail. The manager will be contacting you with necessary information and authority to deal with your concerns.
 
@@ -184,7 +184,7 @@ For notification or consultation of other privacy violations, please contact org
 
 
 
-####  11\. Duty of Declaration
+##  11\. Duty of Declaration
 
 Homestayin.com will declare and notify its users when there are changes in this privacy policy at least 7 days prior to modification at ‘Notice’ menu in the website. However, if changes in privacy policy involve critical elements such as Collection & Use of Personal Information or Provision of Information to the Third Party, Homestayin.com will declare and notify its users at least 30 days prior to modification.
 
