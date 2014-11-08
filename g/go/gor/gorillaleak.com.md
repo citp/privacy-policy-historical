@@ -1,64 +1,78 @@
-> *The following text is extracted and transformed from the gorillaleak.com privacy policy that was archived on 2013-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130727024226id_/http%3A//www.digimogul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillaleak.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108154559id_/http%3A//www.gorillaleak.com/privacy-policy) for the most accurate reproduction.*
 
-# Digimogul :: Privacy Policy
+# Gorilla Leak - Headquarters for Hip Hop Artist & Dj's
 
-This privacy policy sets out Directors Live, LLC uses and protects any information that you give DigiMogul when you use their websites.
+**Our Commitment to Privacy**  
+Our Privacy Policy was thoughtfully developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. Please read the following statements carefully.
 
-DigiMogul is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**What Information Do We Collect?**  
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you browse our Web site.
 
-DigiMogul may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from its last updated date December 28, 2011.
+1\. **Personal Information You Choose to Provide**  
+Credit Card Information. If you choose to purchase products or services from us or our partners, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+Name  
+Billing address  
+E-mail address  
+Credit card number  
+Home and business phone number  
+E-mail Information
 
-What we collect
+In addition to providing the foregoing information to our partner, Stripe, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-We may collect the following information:
+2\. **Web Site Use Information**  
+Similar to many Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, What Are Cookies?) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
-• name and job title  
-• contact information including email address  
-• demographic information such as postcode, preferences and interests  
-• other information relevant to customer surveys and/or offers
+**How Do We Use the Information That You Provide to Us?**  
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional standards designed to safeguard the security and privacy of our customers' personal information. As a customer, you will be always be given the opportunity to contact us and request not to be notified of these offers and updates.
 
-What we do with the information we gather
+**What Are Cookies?**  
+Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. They are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**How Do We Use Information We Collect from Cookies?**  
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.
 
-• Internal record keeping.  
-• We may use the information to improve our products and services.  
-• We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying information.
 
-Security
+**Sharing Information with Affiliates**  
+From time to time you may notice offers from outside companies advertised on our Web site. We take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+**Sharing Information with Strategic Partners**  
+We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information, and we will not share information regarding your social security number or other personal financial data that we may have.
 
-How we use cookies
+**Notice of New Services and Changes**  
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer, updating your mailing preferences in your account, or by sending us an e-mail request from our contacting us.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+**How Do We Secure Information Transmissions?**  
+When you send confidential personal credit card information to our processor Stripe from our Web site, a secure server software which they have licensed encrypts all information you input before it is sent to them. The information is scrambled en route and decoded once it reaches their Web site.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Other e-mail that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as Social Security or account numbers to us through an unsecured e-mail.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+**How Do We Protect Your Information?**  
+Information Security. We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+**Evaluation of Information Protection Practices.**  
+Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
 
-Links to other websites
+**Employee Access, Training and Expectations.**  
+Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**How Can You Access and Correct Your Information?**  
+You may request access to all your personally identifiable information that we collect online and maintain in our database contacting us.
 
-Controlling your personal information
+**Do We Disclose Information to Outside Parties?**  
+We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**What About Legally Compelled Disclosure of Information?**  
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@digimogul.com
+**What About Other Web Sites Linked to Our Web Site?**  
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link to our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to info@digimogul.com.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-Children’s Privacy
-
+**Children’s Privacy**  
 Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. If you are under 13, you may not submit any information to this website.
+
+**Your Consent**  
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
