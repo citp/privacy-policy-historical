@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075112id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108065736id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Branders.com Brand BuildersBrand Builders
+# Privacy Policy - Brand Builders
+
+## Privacy Policy
+
+Jan 28, 2011 _in_ [Support Pages](http://www.branders.com/content/pages "View all posts in Support Pages")
 
 Branders.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.By visiting Branders.com, you are accepting the practices described in this Privacy Notice.
 
 **What Personal Information About Customers Does Branders.com Gather?**  
 The information we learn from customers helps us personalize and continually improve your shopping experience at Branders.com. Here are the types of information we gather.
 
-  * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. Branders.com is in the practice of collecting the following information: phone, email, company name, quotes, projects, and order information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide exclusively for the purpose of responding to your requests and communicating with you.
-  * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Branders.com. The automatic information we receive and store is: user login and password. Although we will not be able to provide you with a personalized experience at Branders.com if we cannot recognize you, we want you to be aware that these tools exist.
-  * E-mail Communications: Your email address is used by Branders.com exclusively to communicate new products and services and [special offers](http://www.branders.com/best-buys/) that are available to you, to communicate to you regarding your order or potential order, and/or to notify you of material changes to Branders.com privacy policy. If you do not want to receive e-mail or other mail from us, please adjust your My Accounts Page.
+You might also like : [promotional advertising items](http://www.branders.com/category/advertising-giveaways/), [customised sweatpant](http://www.branders.com/category/custom-sweatpants/), [wholesale sunglass](http://www.branders.com/category/custom-sunglasses/)
+
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Branders.com is in the practice of collecting the following information: phone, email, company name, quotes, projects, and order information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide exclusively for the purpose of responding to your requests and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Branders.com. The automatic information we receive and store is: user login and password. Although we will not be able to provide you with a personalized experience at Branders.com if we cannot recognize you, we want you to be aware that these tools exist.
+  * **E-mail Communications:** Your email address is used by Branders.com exclusively to communicate new products and services and special offers that are available to you, to communicate to you regarding your order or potential order, and/or to notify you of material changes to Branders.com privacy policy. If you do not want to receive e-mail or other mail from us, please adjust your My Accounts Page.
 
 
 
@@ -50,6 +56,10 @@ Branders.com gives you access to all personal and/or company information about y
 **Conditions of Use, Notices, and Revisions**  
 If you choose to visit Branders.com, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy at Branders.com, please contact us with a thorough description, and we will try to resolve it.
 
+Other products we also recommend : [business logo on sunglasses](http://www.branders.com/category/custom-sunglasses/), [marketing toys](http://www.branders.com/category/logo-toys-and-games/)
+
 Our business changes constantly and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.
 
 _This Privacy Policy has been in effect since January 1, 2001_
+
+Share this page 
