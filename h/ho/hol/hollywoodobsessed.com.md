@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodobsessed.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429073125id_/http%3A//www.hollywoodobsessed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodobsessed.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203535id_/http%3A//www.hollywoodobsessed.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HollywoodObsessed.com
 
