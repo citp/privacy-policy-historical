@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fantasyfootballstarters.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827024930id_/http%3A//privacy-policy.truste.com/verified-policy/www.fantasyfootballstarters.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballstarters.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108035950id_/http%3A//privacy-policy.truste.com/verified-policy/www.fantasyfootballstarters.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.fantasyfootballstarters.com
 
 Effective on July 16, 2010 
 
-This privacy statement describes how Fantasy Football Starters collects and uses the personal information you provide on our Web site: [www.fantasyfootballstarters.com ](http://www.fantasyfootballstarters.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Fantasy Football Starters collects and uses the personal information you provide on our Web site: [www.fantasyfootballstarters.com ](https://www.fantasyfootballstarters.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
@@ -82,6 +82,8 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@fantasyfootballstarters.com](mailto:info@fantasyfootballstarters.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 If you have any questions about security on our Web site, you can contact us at [info@fantasyfootballstarters.com ](mailto:info@fantasyfootballstarters.com)
 
