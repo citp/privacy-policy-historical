@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621065722id_/http%3A//www.dk.co.uk/static/cs/uk/11/copyright/privacy_adults.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108100723id_/http%3A//www.dk.co.uk/static/cs/uk/11/copyright/privacy_adults.html) for the most accurate reproduction.*
 
 # Privacy Policy Adults - Help & Advice - DK Books
 
