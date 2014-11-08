@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsletterdirectory.co privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328105359id_/http%3A//www.newsletterdirectory.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsletterdirectory.co privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108015536id_/http%3A//www.newsletterdirectory.co/privacy) for the most accurate reproduction.*
 
 # NewsletterDirectory.co | Privacy Policy
 
-This Terms of Service is effective February 1, 2012. | Last modified: February 27, 2012 
+This Terms of Service is effective February 1, 2012. | Last modified: September 13, 2014 
 
 Welcome to the NewsletterDirectory.co web site (the "Website"). The Website is an internet property of LaunchBit, Inc. ("LaunchBit", "we" or "us"). This Privacy Policy describes how we treat the information we collect when you visit our Website. Please read this notice carefully.
 
@@ -13,6 +13,8 @@ When you visit our Website and you provide us with your personal information suc
 Please note that we do not consider aggregated information, from which personally identifiable information has been removed, to be personal information. We may share the aggregated information about our users for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
 In addition, when you visit our Website, our web server may automatically recognize your domain name. We collect the domain name and monitor general site use and traffic patterns to improve our Website and the products and services we offer. We also may use web server logs to collect data for metric purposes. Examples of the types of data collected on the logs are IP addresses, referral pages, date and time of Site access, and Site visited. We may use collected data to customize the content and/or layout of our pages for each individual visitor.
+
+In the event of a sale, merger, liquidation, dissolution or transfer of part of the business, trade or assets of LaunchBit and/or any of its individual affiliates, all personal information collected about you via this Website may be sold, assigned, or transferred to the party acquiring all or substantially all of the equity or assets or business of LaunchBit and/or our affiliates. Subject to your election to opt out as described below, by using this Website, you consent to the sale and transfer of your information as described in this paragraph.
 
 #### II. CHOICE/OPT-OUT
 
