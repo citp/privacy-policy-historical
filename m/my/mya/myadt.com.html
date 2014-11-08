@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the myadt.com privacy policy that was archived on 2014-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140503142739id_/http%3A//www.adt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myadt.com privacy policy that was archived on 2014-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108150017id_/http%3A//www.adt.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat js no-touch svg inlinesvg svgclippaths no-ie8compat js no-touch svg inlinesvg svgclippaths no-ie8compat js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head>
     
 
 
@@ -24,10 +24,13 @@
 <title>ADT Security Privacy Policy - ADT Security Services</title>    	
 <meta name="description" content="ADT online privacy policy (Web Privacy Policy). This Web Privacy Policy applies only to activities  on the Site and does not apply to activities that are offline.">
   	
-<meta http-equiv="keywords" content="ADT Privacy Policy">
+<meta http-equiv="keywords" content="">
 
 <link rel="canonical" href="http://www.adt.com/about-adt/legal/privacy-policy">    
 
+
+	<!-- testing site control --> 
+	<meta name="ROBOTS" content="NOINDEX, NOFOLLOW"> 
 
 
 <!-- Mobile viewport optimized: h5bp.com/viewport -->  	
@@ -88,7 +91,7 @@
 	
 
  <!-- Begin DTM Endpoint -->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5919.js?439590" async="" type="text/javascript"></script><script src="https://web.archive.org/web/20141113052924/http://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5919.js?439590" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RRXZ"></script><script src="//s3.amazonaws.com/searchdiscovery-satellite-production/217112fcdde6503d942d83695f8179489d91d014/satelliteLib-651f0a94460a6754319e5974f88c443a7844955e.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5919.js?439590" async="" type="text/javascript"></script><script src="https://web.archive.org/web/20141113052924/http://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5919.js?439590" async="" type="text/javascript"></script><script src="https://web.archive.org/web/20141113052929/http://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5919.js?439590" async="" type="text/javascript"></script><script src="https://web.archive.org/web/20141113052924/http://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/5919.js?439590" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RRXZ"></script><script src="//s3.amazonaws.com/searchdiscovery-satellite-production/217112fcdde6503d942d83695f8179489d91d014/satelliteLib-651f0a94460a6754319e5974f88c443a7844955e.js"></script>
 
 
 <!-- include optimizely -->   	
@@ -374,6 +377,8 @@
 		
 	
 	
+		
+	
 	
 
 
@@ -442,8 +447,8 @@
 		<span class="bar"></span> <span class="bar"></span> <span class="bar"></span>
 	</div>
 	<div class="container-out">
-		<h2 class="logo">
-			<a href="/">ADT</a>
+		<h2 class="logo" title="ADT Security Systems">
+			<a alt="ADT Security Systems" href="/">ADT</a>
 		</h2>
 		<ul class="nav">
 			<li class="section activesection">
@@ -1105,7 +1110,7 @@
 
 
 
-
+ 
 
 
 	<section class="promobar">
@@ -1307,7 +1312,7 @@ $( document ).ready(function() {
                 <strong class="ui-text-blue">
                     The ADT Difference
                 </strong> 
-               	Protecting America for over 135 years, we lead the industry in experience and guarantees.			
+               	Protecting America for over 140 years, we lead the industry in experience and guarantees.			
             </h3>  				
         <a href="/our-difference" class="ui-button clean">  					
            	Learn more				
@@ -1659,6 +1664,18 @@ $( document ).ready(function() {
 			
 		
 	
+	     
+		
+		
+			
+		
+	
+
+       
+		
+		
+			
+		
 	
 	
 		
@@ -1667,7 +1684,9 @@ $( document ).ready(function() {
 			'tfnDesktop' : '888.323.0473',
 			'tfnMobile' : '888.323.3128',
 			'dnisDesktop' : '0000000952',
-			'dnisMobile' : '0000000953'
+			'dnisMobile' : '0000000953',
+			'dnisCustomer':  '0000000666',
+            'dnisMobileCustomer':  '0000000666'
 		};
 		var dataLayerObj = {
 			'siteSection' : 'About-ADT',
@@ -1678,14 +1697,42 @@ $( document ).ready(function() {
 			'pageType' : ADT.analytics.getPageType(),
 			'formType' : ADT.analytics.getFormType()
 		};
-		if (ADT.analytics.getAccountVariable() === 'Mobile') {
+		if (ADT.analytics.getAccountVariable() == 'Mobile') {
 			dataLayerObj.tfnSales = '888.323.3128';
 			dataLayerObj.tfnSupport = '800.238.2727';
 			dataLayerObj.dnis = '0000000953';
+			 dataLayerObj.dnisCustomer = '0000000666';
 		} else {
-			dataLayerObj.tfnSales = '888.323.0473';
-			dataLayerObj.tfnSupport = '800.238.2727';
-			dataLayerObj.dnis = '0000000952';
+            if ('HOME' == 'About-ADT' && document.domain == 'www.adt.com') {
+				var dataLayerObj = {
+	                                 'siteSection' : 'HOME',
+	                                 'responsiveExperience' : ADT.analytics.getExperience(),
+	                                 'visitorSegment' : 'Resi',
+	                                 'accountVariable' : ADT.analytics.getAccountVariable(),
+	                                 'viewportSize' : $(window).width() + 'x' + $(window).height(),
+	                                 'pageType' : ADT.analytics.getPageType(),
+	                                 'formType' : ADT.analytics.getFormType(),
+                                     'dnisChat' : 'WEB0000845'
+	                                };
+
+			} else if ('HOME' == 'About-ADT' && document.domain == 'beta.adt.com') {
+				var dataLayerObj = {
+                                    'siteSection' : 'HOME',
+                                    'responsiveExperience' : ADT.analytics.getExperience(),
+                                    'visitorSegment' : 'Resi',
+                                    'accountVariable' : ADT.analytics.getAccountVariable(),
+                                    'viewportSize' : $(window).width() + 'x' + $(window).height(),
+                                    'pageType' : ADT.analytics.getPageType(),
+                                    'formType' : ADT.analytics.getFormType(),
+                                    'dnisChat' : 'WEB0000813'
+									};
+
+			} else {
+				dataLayerObj.tfnSales = '888.323.0473';
+				dataLayerObj.tfnSupport = '800.238.2727';
+				dataLayerObj.dnis = '0000000952';
+				dataLayerObj.dnisMobileCustomer = '0000000666';
+			}
 		}
 		dataLayer = [ dataLayerObj ];
 	</script>
@@ -1713,7 +1760,9 @@ $( document ).ready(function() {
 	<!-- End Google Tag Manager -->
 	
 	<!-- DO NOT REMOVE -->
-	<script type="text/javascript" src="/etc/designs/adt/clientlibs/footer.min.js"></script>
+	<script type="text/javascript" src="/etc/designs/microsite/traditional/clientlibs/footer.min.js"></script>
+<script type="text/javascript" src="/etc/designs/microsite/compact/clientlibs/footer.min.js"></script>
+<script type="text/javascript" src="/etc/designs/adt/clientlibs/footer.min.js"></script>
  
 	
 	
@@ -1732,6 +1781,11 @@ $( document ).ready(function() {
 		function track_conversion() 
 		{lbReload('my_adt_button','','','');}
     </script>
+    
+    
+    <!-- custom page tracking v1.0 -->
+	
+	
     
     <!-- DTM -->
     <script type="text/javascript">_satellite.pageBottom();</script>
