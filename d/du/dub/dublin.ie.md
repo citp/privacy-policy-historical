@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214051412id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108234303id_/http%3A//www.dublin.ie/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Dublin.ie
 
-## Revision 2 – Effective date: Monday 21 June 2010
-
-## Introduction
+## Revision 2 Effective date: 02/04/2014  
+Introduction
 
 Your privacy is important to us and this privacy statement sets out how Dublin City Council. collects, uses and protects any information you give us when you use Dublin.ie.
 
 You can access our site and use many of our services without providing any information at all. However if you do choose to register with us or if you give us any information by which you can be identified when using Dublin.ie then you can be assured that we will use it only in accordance with this privacy statement.
 
-We may change this privacy statement from time to time. When we do we will notify you of this change by an announcement on the [Latest Updates page](http://www.dublin.ie/latest-updates.htm). Your continued use of Dublin.ie will constitute your binding acceptance of the change.
+We may change this privacy statement from time to time. When we do we will notify you of this change by an announcement on the [dublin.ie blog](http://www.dublin.ie/blog). Your continued use of Dublin.ie will constitute your binding acceptance of the change.
 
 ## Children under the age of 13
 
@@ -27,8 +26,8 @@ We collect the following information:
   * Information which you supply on registration or as part of your profile;
   * Information which you provide in relation to any payment;
   * Information which you post on Dublin.ie;
-  * Information which you otherwise provide to us (for example by email or private message); and
-  * Information relating to your use of Dublin.ie generally. This may include, for example login and logout times and polls you've voted on.
+  * Information which you otherwise provide to us (for example by email); and
+  * Information relating to your use of Dublin.ie generally. This may include, for example login and logout times.
 
 
 
