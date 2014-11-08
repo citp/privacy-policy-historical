@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bosscapital.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520032755id_/http%3A//www.bosscapital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bosscapital.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108073930id_/http%3A//www.bosscapital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BossCapital
 
@@ -10,7 +10,7 @@ Boss Capital views its customer’s security as the utmost importance in our sit
 
 **Personal Information** \- Boss Capital promises that all its trader’s personal details and activities will never be used or sold by our staff or to outside vendors. All activity and trading will remain private and secure at all times.
 
-**Encrypted Information** \- All the data shared between Boss Capital and its trader’s personal computers has been encrypted using a ‘128 bit ssl encryption certificate’. Secure information, such as passwords, are maintained in an encrypted format.  Boss Capital’s technical staff oversees all internal activities, including the overseeing of systematic checks to ensure that the site’s security integrity is maintained.
+**Encrypted Information** \- All the data shared between Boss Capital and its trader’s personal computers has been encrypted using a ‘128 bit SSL encryption certificate’. Secure information, such as passwords, are maintained in an encrypted format.  Boss Capital’s technical staff oversees all internal activities, including the overseeing of systematic checks to ensure that the site’s security integrity is maintained.
 
 **Privacy Terms:**
 
