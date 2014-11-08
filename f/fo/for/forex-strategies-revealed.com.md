@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forex-strategies-revealed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045515id_/http%3A//forex-strategies-revealed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-strategies-revealed.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108035651id_/http%3A//forex-strategies-revealed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Strategies & Systems Revealed
 
-  
+[](http://www.gomarketsaus.com/#a_aid=forexadvertising)   
 
 
 **Personal data**  
