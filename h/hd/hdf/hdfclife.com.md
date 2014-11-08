@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdfclife.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209073936id_/http%3A//hdfclife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfclife.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109001242id_/http%3A//www.hdfclife.com/privacy-policy) for the most accurate reproduction.*
 
 # HDFC Life - Privacy Policy
 
 ### I. Introduction
 
-This Privacy Policy is applicable to all Users of [www.hdfclife.com](https://web.archive.org/web/20140209073936id_/http%3A//hdfclife.com/www.hdfclife.com) website and Services made available under it by HDFC Life
+This Privacy Policy is applicable to all Users of [www.hdfclife.com](https://web.archive.org/) website and Services made available under it by HDFC Life
 
 This statement and the policy outlined herein are not intended to and do not create any contractual or financial or any other legal rights in favor of any User or viewer or any other party.
 
@@ -33,7 +33,7 @@ This Privacy Policy deals with the following: 
 *   b.   **“Policy” or ”Insurance Policy”-** refers to life insurance contract issued/ that may be issued by HDFC Life.
 *   c.   **“Privacy Policy”-** refers to this policy.
 *   d.   **“You” or “Your” or “User(s)”-** refers to the person accessing the Website in any capacity.
-*   e.   **“Website”-** refers to [www.hdfclife.com](https://web.archive.org/web/20140209073936id_/http%3A//hdfclife.com/www.hdfclife.com).
+*   e.   **“Website”-** refers to [www.hdfclife.com](https://web.archive.org/).
 *   f.   **“Services”  -** all services made available by HDFC Life through its Website.
 
 ### 2\. Information Collection
