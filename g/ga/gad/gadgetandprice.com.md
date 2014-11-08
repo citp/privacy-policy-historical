@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetandprice.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629211249id_/http%3A//www.gadgetandprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetandprice.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108203223id_/http%3A//www.gadgetandprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gadget Price
 
@@ -55,6 +55,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Gadget And Price](http://www.gadgetandprice.com/)  
 [http://www.gadgetandprice.com](http://www.gadgetandprice.com/)  
 Sunder Nagar Distt. Mandi Himachal Pradesh Pin – 175019  
-gadgetandprice@gmil.com
+support@gadgetandprice.com
 
 **This document was last updated on March 03, 2014**
