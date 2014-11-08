@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaclassroom.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508055357id_/http%3A//www.vaclassroom.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaclassroom.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108204431id_/http%3A//www.vaclassroom.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Niche Virtual Assistant Training Center
 
