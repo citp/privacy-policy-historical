@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbin.in privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510215925id_/http%3A//www.bbin.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbin.in privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108154745id_/http%3A//bbin.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BBin - India 's Best BlackBerry Community
+# Privacy Policy - BBin
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -17,6 +17,8 @@ We do not rent, sell, or share personal information about you with other people 
 Many downloadable software applications that we sell require the software developers to provide the customer with a registration code to convert trial versions into full versions. In these cases, we must provide the software developers with relevant customer information in order for them to generate a registration code and e-mail it to the customer. Although we strongly encourage software developers to follow strict privacy policies, we cannot be responsible for the privacy practices that each of the software companies follow. If you are concerned about the privacy policy of a certain developer or software company, you may contact them directly or visit their individual web sites.
 
 Shopping at BBin Shop requires visitors personal information, which is not shared with other people or company.
+
+For more information on this, visit <http://bbin.in/contact-us/bbin-store-privacy/>
 
 ## BBin.in Remote Help
 
